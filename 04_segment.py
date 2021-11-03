@@ -18,7 +18,7 @@ import glob
 
 
 out_file = "data/parsed_data.csv"
-debug = True
+#debug = True
 
 # load some prepared data of the folketing members and some titles
 # and build a regular expression to match speakers
