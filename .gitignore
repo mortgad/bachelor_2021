@@ -1,0 +1,9 @@
+# Mac / OSX
+.DS_Store
+
+# Distributions
+.Python
+
+# Other
+.idea/
+.ipynb_checkpoints
