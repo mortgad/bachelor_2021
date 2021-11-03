@@ -67,3 +67,4 @@ console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
 JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=20181&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
