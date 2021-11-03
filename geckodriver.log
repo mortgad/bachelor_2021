@@ -1,0 +1,69 @@
+1635765847173	geckodriver	INFO	Listening on 127.0.0.1:51873
+1635765848096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/12/p6lk9bw505bddl2kkmjdp52m0000gn/T/rust_mozprofile1A93Yv"
+*** You are running in headless mode.
+*** You are running in headless mode.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1635766093604	geckodriver	INFO	Listening on 127.0.0.1:51991
+1635766094623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/12/p6lk9bw505bddl2kkmjdp52m0000gn/T/rust_mozprofileplZcQZ"
+*** You are running in headless mode.
+1635766095177	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/12/p6lk9bw505bddl2kkmjdp52m0000gn/T/rust_mozprofileplZcQZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1635766096363	Marionette	INFO	Listening on port 52002
+1635766096500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19531&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766110702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19532&pageSize=1000&pageNumber=1 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766137159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766146456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635766187470	geckodriver	INFO	Listening on 127.0.0.1:52145
+1635766187490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/12/p6lk9bw505bddl2kkmjdp52m0000gn/T/rust_mozprofileye2hJJ"
+*** You are running in headless mode.
+1635766187959	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/12/p6lk9bw505bddl2kkmjdp52m0000gn/T/rust_mozprofileye2hJJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1635766189216	Marionette	INFO	Listening on port 52154
+1635766189244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19531&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: TypeError: Sys.WebForms is undefined
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19532&pageSize=1000&pageNumber=1 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766201312	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766205886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19582&pageSize=1000&pageNumber=1 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766220337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766227051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766244841	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19632&pageSize=1000&pageNumber=1 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766286195	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19681&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19701&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19741&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766446371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766464971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766511215	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766516446	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=19911&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
+1635766554848	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766579625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635766640757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.folketingstidende.dk/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OJ_Gk6keBca4TeUQhXN6PGmBROHQQIZeY_XDQ3wq5XzAedoc2KyOLYoG0s4HTCu0ep-1AYsecS9jFQmcjLcGkFfvwHvqbgZfKzl_VX-XMLH0_Mbo2ETtHuurYPopz-FwgL3AEjcksMzzpC_U7TRF4sg1&t=2fe674eb, line 5: ReferenceError: Type is not defined
+JavaScript error: https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?session=20181&pageSize=1000&pageNumber=2 line 1 > injectedScript, line 3: ReferenceError: Sys is not defined
