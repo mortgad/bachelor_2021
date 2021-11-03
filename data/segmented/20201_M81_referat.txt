@@ -7,10 +7,9 @@ Det første punkt på dagsordenen er:
 1) Spørgetime med statsministeren.";
 115;Time;81. møde;Kl. 13:00
 162;title_name;":
-Jeg giver hermed ordet til statsministeren for en indledende redegø‐
-relse. Værsgo til statsministeren.";Karen Ellemann
-305;Time;Dagsorden;kl. 13.00
-326;Time;"1) Spørgetime med statsministeren.
+Jeg giver hermed ordet til statsministeren for en indledende redegørelse. Værsgo til statsministeren.";Karen Ellemann
+303;Time;Dagsorden;kl. 13.00
+324;Time;"1) Spørgetime med statsministeren.
 2) Eventuelt: 2. behandling af lovforslag nr. L 186:
 Forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats
 og lov om aktiv socialpolitik. (Ret til uddannelse for personer, der
@@ -19,27 +18,24 @@ har arbejdet i minkerhvervet eller følgeerhverv, inden for en pulje i
 Af beskæftigelsesministeren (Peter Hummelgaard).
 (Fremsættelse 05.03.2021. 1. behandling 09.03.2021. Betænkning
 15.03.2021).";Kl. 13:00
-765;Time;Meddelelser fra formanden;Kl. 13:00
-828;title_name;":
+763;Time;Meddelelser fra formanden;Kl. 13:00
+826;title_name;":
 Mødet er åbnet.
 I dag er der følgende anmeldelse:
 Preben Bang Henriksen (V) og Karsten Lauritzen (V):
 Beslutningsforslag nr. B 281 (Forslag til folketingsbeslutning om at
-ændre løsladelsespraksis ved forbrydelser med alvorlige konsekven‐
-ser for det danske samfund).
+ændre løsladelsespraksis ved forbrydelser med alvorlige konsekvenser for det danske samfund).
 Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
 (jf. ovenfor).";Karen Ellemann
-1187;Time;Samtykke til behandling;Kl. 13:00
-1248;title_name;":
+1183;Time;Samtykke til behandling;Kl. 13:00
+1244;title_name;":
 Det punkt, som er opført som nr. 2 på dagsordenen, kan kun med
-Tingets samtykke behandles i dette møde. Og hvis ingen gør indsi‐
-gelse, betragter jeg samtykket som givet.
+Tingets samtykke behandles i dette møde. Og hvis ingen gør indsigelse, betragter jeg samtykket som givet.
 Det er givet.";Karen Ellemann
-1471;title_name;":
+1465;title_name;":
 Tak for det, formand. I går tog vi endnu et skridt i genåbningen af
 Danmark. I fase 1 var det de små børn, i fase 2 kom butikkerne,
-udendørs kultur og idræt, regionale genåbninger, og nu er afgangse‐
-lever i det meste af landet i skole igen, efterskoler og højskoler er
+udendørs kultur og idræt, regionale genåbninger, og nu er afgangselever i det meste af landet i skole igen, efterskoler og højskoler er
 åbnet, 5.-8. klasserne mødes fysisk for første gang i flere måneder
 en dag om ugen udendørs. Er det nok? Nej, men det er bedre end
 ingenting. Og hvor er vores børn og unge glade for at være kommet i
@@ -57,16 +53,14 @@ vil gerne i dag benytte lejligheden til at takke for det konstruktive
 samarbejde og de drøftelser, der allerede nu pågår om en samlet
 genåbningsplan. Viljen til at tage ansvar er stor fra alle partiers side,
 og jeg synes, det tegner rigtig godt.
-Samtidig med at vi nu lægger en plan for de kommende må‐
-neders genåbning, skal vi allerede nu også se længere frem. Vi
+Samtidig med at vi nu lægger en plan for de kommende måneders genåbning, skal vi allerede nu også se længere frem. Vi
 skal styrke den danske samfundsmodel, et trygt velfærdssamfund, et
 grønnere Danmark og et erhvervsliv, der skal have gode vilkår for at
 skabe både eksport og nye og flere danske arbejdspladser.
 Når det danske samfund og den danske økonomi er kommet så
 godt igennem krisen, som vi heldigvis er, er en vigtig årsag, at vi
 er et af de mest digitale lande i verden. Danske virksomheder er
-langt fremme på forskellige områder, når det handler om digitalise‐
-ring: Mere end 1 million danskere har kunnet passe deres arbejde
+langt fremme på forskellige områder, når det handler om digitalisering: Mere end 1 million danskere har kunnet passe deres arbejde
 hjemmefra, fordi det digitale i Danmark allerede var en integreret
 del af arbejdslivet. Borgere kan booke tid til både test og vaccine
 digitalt, Danmarks digitale førerposition har med andre ord hjulpet
@@ -74,8 +68,7 @@ os igennem den her krise.
 Den position skal vi kæmpe for ikke bare at fastholde, men at
 udvikle, og derfor tager vi nu i dag et nyt skridt, der skal gøre
 Danmark stærkere. Det drejer sig om et nyt offentligt og privat
-digitalt partnerskab, hvor vi inviterer topledere og eksperter fra er‐
-hvervslivet, fra forskningsverdenen og civilsamfundet til at deltage.
+digitalt partnerskab, hvor vi inviterer topledere og eksperter fra erhvervslivet, fra forskningsverdenen og civilsamfundet til at deltage.
 For pandemien har nu igennem mere end et år også vist os, hvad vi
 kan i Danmark, når vi forener den offentlige og den private sektor.
 Det nye partnerskab får til opgave at udarbejde den første samlede
@@ -98,8 +91,8 @@ set skal gribe digitaliseringens muligheder. Vi skal selvfølgelig være
 til sikkerheden til techgiganterne, og Europa må ikke under nogen
 omstændigheder overlade fremtidens digitale scene til hverken USA
 eller Asien.";Mette Frederiksen
-5078;Time;;Kl. 13:04
-5115;title_name;":
+5064;Time;;Kl. 13:04
+5101;title_name;":
 Tak til statsministeren for den indledende redegørelse. Vi går nu
 videre med spørgsmål fra partilederne, og det er sådan, at spørgeren
 og statsministeren hver har op til 2 minutters taletid. Herefter følger
@@ -107,7 +100,7 @@ to opfølgende spørgsmål, hvor spørger og statsminister hver har 1
 minuts taletid.
 Den første partileder er hr. Jakob Ellemann-Jensen, Venstre.
 Værsgo";Karen Ellemann
-5483;Time;"Spm. nr. US 39
+5469;Time;"Spm. nr. US 39
 
 skole. Selvfølgelig skal børn og unge tilbage i skole, og mange er jo
 i skole i dag allerede.
@@ -119,8 +112,7 @@ jeg hører egentlig, at alle partier siger det samme, nemlig at der et
 udbredt ønske om, at børnene kommer tilbage, lige så snart der er
 plads. Så jeg vil egentlig appellere til, at vi samarbejder om en god
 genåbning af Danmark i stedet for det modsatte.
-Så bliver jeg altså også nødt til at sige, at selv om vi ser proble‐
-mer med mistrivsel – og det er jeg enig i, og det er jo sådan set et
+Så bliver jeg altså også nødt til at sige, at selv om vi ser problemer med mistrivsel – og det er jeg enig i, og det er jo sådan set et
 godt tegn, forstået på den måde at børn og unge trives bedre i et
 normalt samfund end i et nedlukket samfund, selvfølgelig – og selv
 om der er børn og unge, der oplever problemer med ensomhed, så vil
@@ -135,8 +127,8 @@ er glade for, at de med den indsats, de har ydet, kan være med til
 at sikre, at Danmark kommer godt igennem krisen. Så der er mange
 nuancer i det her, men børn og unge er alle Folketingets partier enige
 om er den næste vigtige indsats, når det kommer til genåbningen.";Kl. 13:05
-7143;Time;;Kl. 13:08
-7170;name_party;":
+7127;Time;;Kl. 13:08
+7154;name_party;":
 Tak for det, formand. Jeg vil starte samme sted som sidst, vi stod
 her, for selv om statsministeren jo siger, at der er sket lidt, så er der
 ikke sket nok. Landets børnelæger konstaterer, at de ser flere børn
@@ -161,20 +153,20 @@ gøre det andre steder.
 Nu har vi så indledt forhandlingerne om genåbning, og det er jo
 godt. Men jeg vil egentlig gerne spørge statsministeren: Hvorfor kan
 børnene ikke komme tilbage i skole nu?";Jakob Ellemann-Jensen
-8624;Time;;Kl. 13:06
-8661;title_name;":
+8608;Time;;Kl. 13:06
+8645;title_name;":
 Statsministeren.";Karen Ellemann
-8689;Time;;Kl. 13:06
-8726;title_name;":
+8673;Time;;Kl. 13:06
+8710;title_name;":
 Skal vi egentlig have en politisk konflikt om det her, al den stund at
 alle partier i Folketinget har sagt det samme? Alle partier ønsker et
 særligt fokus på børn og unge, og alle partier har også tilkendegivet,
 at fokus i den næste etape af genåbningen af Danmark skal være på
 børn og unge. Vi er jo enige om, at børn eller unge skal tilbage i";Mette Frederiksen
-9109;title_name;":
+9093;title_name;":
 Hr. Jakob Ellemann-Jensen.";Karen Ellemann
-9147;Time;;Kl. 13:08
-9174;name_party;":
+9131;Time;;Kl. 13:08
+9158;name_party;":
 Jeg forstår godt, at børnene er stolte. Det synes jeg også at vi skal
 belønne dem for, for de har gjort en kolossal indsats. De har lidt og
 de lider et kolossalt afsavn. Der er jo ikke nogen herinde, der siger,
@@ -190,11 +182,11 @@ at vi er uenige, og at jeg mener, at børnene skal tilbage nu. Og ja,
 vi er alle sammen enige om, at de skal tilbage på et tidspunkt. Jeres
 tidspunkt er så engang efter påske, om en måned, eller hvornår det
 nu bliver. Mit tidspunkt er nu. Hvorfor ikke?";Jakob Ellemann-Jensen
-10155;Time;;Kl. 13:09
-10192;title_name;":
+10139;Time;;Kl. 13:09
+10176;title_name;":
 Statsministeren.";Karen Ellemann
-10220;Time;;Kl. 13:09
-10257;title_name;":
+10204;Time;;Kl. 13:09
+10241;title_name;":
 Jeg mener bestemt ikke, at man skal negligere nogen problemer,
 og slet ikke, når det handler om manglende trivsel. Jeg appellerer i
 virkeligheden til, at vi får alle nuancerne med. Jeg bliver kontaktet
@@ -217,11 +209,11 @@ potentielt sætter det over styr, vi har opnået, og går ind i en tredje
 bølge, vil det stadig væk være klogere at gå fremad i trin, så vi
 ikke risikerer den tredje bølge, som kan risikere at medføre en ny
 nedlukning af Danmark. Det mener jeg vi skal undgå.";Mette Frederiksen
-11535;Time;;Kl. 13:10
-11572;title_name;":
-Hr. Jacob Ellemann-Jensen.";Karen Ellemann
-11610;Time;;Kl. 13:11
-11637;name_party;":
+11519;Time;;Kl. 13:10
+11556;title_name;":
+Hr. Jakob Ellemann-Jensen.";Karen Ellemann
+11594;Time;;Kl. 13:11
+11621;name_party;":
 Så hvor man tidligere har argumenteret med, at et smitteudbrud i
 Ishøj gjorde, at børnene ikke kunne komme i skole på Samsø, så
 argumenterer man nu med, at smitteudbrud i Tjekkiet gør, at børnene
@@ -235,23 +227,21 @@ arbejdspladser. Og i partilederdebatten i torsdags spurgte jeg igen
 statsministeren, om statsministeren vil garantere, at der ikke kommer
 yderligere skattestigninger i resten af regeringsperioden eller rettere
 valgperioden – jeg håber, de er samfaldende – og statsministeren
-svarede efter at have trådt vande lidt tid noget i retning af, at der så‐
-dan set også har været nogle skattelettelser. Og hvis man regner dem
+svarede efter at have trådt vande lidt tid noget i retning af, at der sådan set også har været nogle skattelettelser. Og hvis man regner dem
 med, er det rigtigt, at der vil være skattestigninger for 12 mia. kr.
 frem mod 2025. Så jeg vil bare helt enkelt bede statsministeren om
 en garanti for, at skatter og afgifter ikke vil blive hævet yderligere i
 resten af denne valgperiode.";Jakob Ellemann-Jensen
-12852;Time;;Kl. 13:12
-12889;title_name;":
+12834;Time;;Kl. 13:12
+12871;title_name;":
 Statsministeren.";Karen Ellemann
-12917;Time;;Kl. 13:12
-12954;title_name;":
+12899;Time;;Kl. 13:12
+12936;title_name;":
 Jeg må være ærlig og sige, at jeg ikke forstår den polemiske tilgang
 til sundhedsmyndighederne i det her land. De sundhedsmyndigheder,
 der rådgiver Folketinget og regeringen, gør det så godt, de kan. Og
 det, myndighederne siger til os, når vi sidder i lokalet sammen, er, at
-der er en risiko ved en for hurtig genåbning. Det er det, beregninger‐
-ne viser. Det er sådan set også det, virkeligheden viser. Norge står
+der er en risiko ved en for hurtig genåbning. Det er det, beregningerne viser. Det er sådan set også det, virkeligheden viser. Norge står
 lige nu i den værste situation på noget tidspunkt i epidemien, i hvert
 fald hvad angår Oslo: Finland er lukket ned: Tyskland meldte i går,
 at de måske nu i Tyskland står lige dér, hvor den tredje bølge sætter i
@@ -268,21 +258,19 @@ men også det erhvervsliv, som Venstres formand her taler om, endnu
 hårdere.
 
 3";Mette Frederiksen
-14275;Time;;Kl. 13:13
-14312;title_name;":
+14255;Time;;Kl. 13:13
+14292;title_name;":
 Tak til hr. Jakob Ellemann-Jensen.
 Den næste partileder til at stille spørgsmål til statsministeren er
 hr. Kristian Thulesen Dahl fra Dansk Folkeparti.";Karen Ellemann
-14475;Time;Spm. nr. US 40;Kl. 13:13
-14519;name_party;":
+14455;Time;Spm. nr. US 40;Kl. 13:13
+14499;name_party;":
 Tak, og tak til statsministeren for de indledende ord. I torsdags var
-det jo 1-årsdagen for nedlukningen, og derfor er det jo ikke mærke‐
-ligt, at vi prøver at kigge lidt tilbage for at se, hvad der egentlig har
+det jo 1-årsdagen for nedlukningen, og derfor er det jo ikke mærkeligt, at vi prøver at kigge lidt tilbage for at se, hvad der egentlig har
 været gældende. Og en af de ting, vi vel kan lære fra det sidste års
 tid og også fra de seneste måneder, er vel, at vi er blevet positivt
 overrasket over danskernes måde at håndtere det her på, sådan helt
-generelt. Altså, vi taler meget om de lommer og specielt indvandrer‐
-miljøer, hvor tingene skrider, men helt generelt har danskerne jo
+generelt. Altså, vi taler meget om de lommer og specielt indvandrermiljøer, hvor tingene skrider, men helt generelt har danskerne jo
 været eksemplariske i forhold til at bekæmpe den her pandemi. Der
 er blevet afsprittet, der er blevet holdt afstand, man har mødtes med
 ganske få i et omfang, der gør, at vi jo får at vide, at de prognoser,
@@ -295,8 +283,7 @@ glæde over danskernes måde at håndtere det på, at vi faktisk burde
 skride hurtigere frem? Er det ikke den tillid, vi kan vise danskerne:
 at man faktisk godt kan være sammen og tage hensyn, så vi også
 kan åbne mere op? Til det der, som statsministeren lige sagde, om, at
-skolen nu er åbnet for skolebørnene i 5. til 8. klasse: Arh, altså, man‐
-ge steder må de komme og i går var det 1 dag, og så må de komme 1
+skolen nu er åbnet for skolebørnene i 5. til 8. klasse: Arh, altså, mange steder må de komme og i går var det 1 dag, og så må de komme 1
 dag i næste uge, og så er det påske, og så om 3 uger taler vi om, om
 de måske må få lov til at møde lidt oftere, ikke? De liberale erhverv,
 der er lukket ned: Vi tør åbenbart ikke, statsministeren tør ikke, at
@@ -309,11 +296,11 @@ så forsigtig og ikke anerkende danskernes måde at have ageret på, at
 man faktisk holder mere lukket, end man behøver, når vi taler om, at
 man måske næste gang kan få lov til at åbne noget mere op om først
 3 uger?";Kristian Thulesen Dahl
-16771;Time;;Kl. 13:15
-16808;title_name;":
+16745;Time;;Kl. 13:15
+16782;title_name;":
 Statsministeren.";Karen Ellemann
-16836;Time;;Kl. 13:15
-16873;title_name;":
+16810;Time;;Kl. 13:15
+16847;title_name;":
 Se, hele indledningen: Jeg er med hele vejen, og hvor var det dejligt
 at høre en partileder, der står her og siger: Det går godt i Danmark.
 Og der er grund til at være stolt over det, vi har opnået, fordi der
@@ -344,18 +331,16 @@ overhovedet havde turdet håbe på, nøjagtig som sidste forår. Så ja, et
 tilsagn om, at sådan tror jeg faktisk også det kommer til at gå. Hvor
 er det dejligt også at opleve noget glæde over alt det, der lykkes i det
 her land. Det fortjener danskerne.";Mette Frederiksen
-18533;Time;;Kl. 13:17
-18570;title_name;":
+18507;Time;;Kl. 13:17
+18544;title_name;":
 Hr. Kristian Thulesen Dahl.";Karen Ellemann
-18609;Time;;Kl. 13:17
-18638;name_party;":
+18583;Time;;Kl. 13:17
+18612;name_party;":
 Det skal vi nemlig huske, og så skal vi også komme danskerne i
-møde, når de viser det. Altså, nedlukningen er jo som et forstørrel‐
-sesglas, og det vil sige, at de problemer, der er, bliver forstørret, og
+møde, når de viser det. Altså, nedlukningen er jo som et forstørrelsesglas, og det vil sige, at de problemer, der er, bliver forstørret, og
 der må statsministeren bare forstå, at hver eneste dag jo koster. Det
 koster på økonomien for de liberale erhverv, der har lukket ned f.eks.
-Det koster på trivslen i forhold til vores unge, i forhold til vores æld‐
-re, altså vores ældre, der ikke har haft en normal aktivitetsuge, som
+Det koster på trivslen i forhold til vores unge, i forhold til vores ældre, altså vores ældre, der ikke har haft en normal aktivitetsuge, som
 de var vant til, der gør, at de i virkeligheden skrumper ind, når de
 sidder der i deres egen lejlighed og kigger ind i væggen i stedet for
 at komme til sangaften eller komme til spise sammen-arrangement
@@ -365,16 +350,16 @@ inde på, og ser på de mennesker, der arbejder med de her sårbare,
 de her udsatte, og det er, uanset om det er børn og unge eller det
 er vores seniorer og vores ældre, er det jo altså citat på citat på
 citat efterhånden om de problemer, der er. Der må jeg bare sige til";Kristian Thulesen Dahl
-19756;title_name;"Hver eneste dag koster, og problemerne bliver større
+19726;title_name;"Hver eneste dag koster, og problemerne bliver større
 og større for de her mennesker, og det, man skal samle op bagefter,
 bliver jo mere og mere. Og det er derfor jeg beder statsministeren
 om ikke bare at vente til om 3 uger, men om nu at se på, hvorfor der
 ikke er plads nu til at give flere danskere normaliteten tilbage.";statsministeren
-20088;Time;;Kl. 13:18
-20125;title_name;":
+20058;Time;;Kl. 13:18
+20095;title_name;":
 Statsministeren.";Karen Ellemann
-20153;Time;;Kl. 13:18
-20190;title_name;":
+20123;Time;;Kl. 13:18
+20160;title_name;":
 Det er rigtigt, at nedlukningen koster, det gør pandemien også for
 de mennesker, der har mistet livet, de familier, der har mistet deres
 kære, de medarbejdere i f.eks. sundhedsvæsenet, der har arbejdet
@@ -399,11 +384,11 @@ en situation, hvor vi kan åbne hurtigere, bredere og mere op, end jeg
 havde troet for bare ganske få uger siden. Det er et tilsagn om, at det
 er den vej ind, vi fortsætter forhandlingerne, og det lyder, som om vi
 godt kan lave en aftale om det her.";Mette Frederiksen
-21699;Time;;Kl. 13:19
-21736;title_name;":
+21669;Time;;Kl. 13:19
+21706;title_name;":
 Hr. Kristian Thulesen Dahl.";Karen Ellemann
-21775;Time;;Kl. 13:19
-21804;name_party;":
+21745;Time;;Kl. 13:19
+21774;name_party;":
 Ja, det håber jeg da bestemt vi kan. Men statsministeren vil gerne
 lave en aftale om en uge, der så primært træder i kraft om 3 uger
 og derefter. Der taler jeg så om de omkostninger, vi kan se i forhold
@@ -428,11 +413,11 @@ at tage med sig, når vi så vurderer, om vi behøver at vente til om 3
 uger med at åbne op, eller om man i virkeligheden burde sige, at der
 var noget, der i løbet af de kommende 3 uger faktisk kunne få lov til
 at åbne, så flere danskere kunne få en normal tilværelse igen.";Kristian Thulesen Dahl
-23407;Time;;Kl. 13:21
-23444;title_name;":
+23377;Time;;Kl. 13:21
+23414;title_name;":
 Statsministeren.";Karen Ellemann
-23472;Time;;Kl. 13:21
-23509;title_name;":
+23442;Time;;Kl. 13:21
+23479;title_name;":
 Det, der er vigtigt at sige, er, at hvis ikke vi havde haft restriktioner
 her i anden bølge, tror jeg ikke på, at vi ville have haft de smittetal,
 vi har i dag. Tingene hænger selvfølgelig sammen. Men det er gået
@@ -454,14 +439,14 @@ andre lande, som lige nu er i gang med at lukke ned. Derfor kan det
 godt være, at vi også kan rykke frem, hvornår vi kan åbne mere.
 
 Tirsdag den 16. marts 2021 (US 41)";Mette Frederiksen
-24810;Time;;Kl. 13:22
-24847;title_name;":
+24780;Time;;Kl. 13:22
+24817;title_name;":
 Tak til statsministeren, og tak til hr. Kristian Thulesen Dahl.
 Den næste partileder, som er ved at gøre sig klar, er Socialistisk
 Folkepartis partileder, fru Pia Olsen Dyhr. Der holdes nøje øje med,
 at der er korrekt afsprittet. Det er der. Velkommen.";Karen Ellemann
-25111;Time;Spm. nr. US 41;Kl. 13:22
-25147;name_party;":
+25081;Time;Spm. nr. US 41;Kl. 13:22
+25117;name_party;":
 Tak. Jeg synes faktisk, at den her debat er enormt konstruktiv og
 god. Jeg tror faktisk, vi kan nå hinanden, og at vi måske også – med
 statsministerens egne ord – kan gøre lidt mere lidt hurtigere. Det tror
@@ -498,11 +483,11 @@ vi give et løfte til de mange unge, som bliver udsat for en hadsk
 tone på nettet, om, at vi lytter? Og vil statsministeren være med til at
 definere digital vold og sikre, at ofrene, når de henvender sig, faktisk
 bliver hørt?";Pia Olsen Dyhr
-27479;Time;;Kl. 13:24
-27516;title_name;":
+27449;Time;;Kl. 13:24
+27486;title_name;":
 Statsministeren.";Karen Ellemann
-27544;Time;;Kl. 13:24
-27581;title_name;":
+27514;Time;;Kl. 13:24
+27551;title_name;":
 Det er en ualmindelig vigtig diskussion, og jeg sad også i fredags
 og så med på i hvert fald dele af »X Factor« og så, kan man sige,
 både den diskussion, der har været omkring programmet, men også
@@ -511,8 +496,7 @@ har taget overhånd. Jeg mener, at det er kammet over med den måde,
 vi diskuterer med hinanden på de sociale medier i Danmark, og det
 er taget til og vokset gevaldigt frem her i den seneste tid, og det
 rammer rigtig mange mennesker. Det rammer jo sundhedspersonale,
-som bliver udsat for spe og spot, fordi de forsøger at hjælpe sam‐
-fundet igennem coronakrisen, og her har vi at gøre med helt unge
+som bliver udsat for spe og spot, fordi de forsøger at hjælpe samfundet igennem coronakrisen, og her har vi at gøre med helt unge
 
 5
 
@@ -541,13 +525,12 @@ hvad vi konkret skal gøre, men vi bliver nødt til at få taget fat om
 det, der i hvert fald er en del af kernen i det her, nemlig at der i dag
 er mange muligheder for at ytre sig, uden at der er nogen, der siger,
 at det dér er over stregen, og at det er forkert.";Mette Frederiksen
-29839;Time;;Kl. 13:26
-29876;title_name;":
+29807;Time;;Kl. 13:26
+29844;title_name;":
 Fru Pia Olsen Dyhr.";Karen Ellemann
-29907;Time;;Kl. 13:26
-29928;name_party;":
-Det er jeg glad for at høre, og jeg er også glad for at høre, at statsmi‐
-nisteren har samme bekymringer, fordi det jo er reelle bekymringer,
+29875;Time;;Kl. 13:26
+29896;name_party;":
+Det er jeg glad for at høre, og jeg er også glad for at høre, at statsministeren har samme bekymringer, fordi det jo er reelle bekymringer,
 som er med til i virkeligheden at erodere vores demokrati. Det er jo
 enormt farligt, når vi ikke kan have en samtale på faktuelle vilkår.
 Vi har set det i USA, hvor det gik helt galt. Vi ser det også andre
@@ -566,11 +549,11 @@ ret i. Forældrene har meldt sig ind i en dødskult, der holdt slaver.
 Det har kvinderne også, så jeg kan sagtens se dilemmaerne, men skal
 børnene betale prisen? Det mener jeg ikke. Jeg synes, vi har en stolt
 tradition for ikke at lade børnene betale for forældrenes handlinger.";Pia Olsen Dyhr
-31293;Time;;Kl. 13:28
-31330;title_name;":
+31259;Time;;Kl. 13:28
+31296;title_name;":
 Statsministeren.";Karen Ellemann
-31358;Time;;Kl. 13:28
-31395;title_name;":
+31324;Time;;Kl. 13:28
+31361;title_name;":
 Jeg mener ikke, at der er børn, der skal betale prisen, og her har
 vi jo at gøre med nogle forældre, som har truffet et meget aktivt
 valg og rejst fra Danmark imod Danmarks ønske og tilsluttet sig
@@ -588,19 +571,17 @@ Som fru Pia Olesen Dyhr ved, har vi sagt, at der kan være nogle
 humanitære forhold, der gør, at vi ønsker at hjælpe et barn, men vi
 ønsker altså ikke at hjælpe krigere af Islamisk Stat. Vi ønsker ikke
 at hjælpe mennesker, der potentielt har begået terrorisme i Islamisk
-Stats navn. Jeg vil gerne i situationer, hvor det er nødvendigt at hjæl‐
-pe børnene, men jeg kan simpelt ikke se det rigtige i, at mennesker,
+Stats navn. Jeg vil gerne i situationer, hvor det er nødvendigt at hjælpe børnene, men jeg kan simpelt ikke se det rigtige i, at mennesker,
 der er så meget imod Danmark, og som har forladt Danmark, skal
 tilbage hertil.";Mette Frederiksen
-32435;Time;;Kl. 13:29
-32472;title_name;":
+32399;Time;;Kl. 13:29
+32436;title_name;":
 Fru Pia Olsen Dyhr.";Karen Ellemann
-32503;Time;;Kl. 13:29
-32524;name_party;":
+32467;Time;;Kl. 13:29
+32488;name_party;":
 Jeg synes jo ikke, at børn skal holdes ansvarlige for forældrenes
 handlinger, og derfor synes jeg, at vi bør tage dem hjem. Men hvis
-man så kigger på den anden side af det, som statsministeren også ta‐
-ler om, altså det her med sikkerhed og terror, så siger PET's seneste
+man så kigger på den anden side af det, som statsministeren også taler om, altså det her med sikkerhed og terror, så siger PET's seneste
 vurdering, at den fremtidige terrortrussel mod Danmark er forøget
 ved at lade de her børn vokse op under vanrøgt og radikalisering
 – og det samme mener Center for Terroranalyse. I lørdags kunne
@@ -609,13 +590,12 @@ rekruttere børn fra de syriske lejre.
 Så hvis vi ikke nødvendigvis snakker om børnene, skal vi så
 ikke være enige om at sætte Danmarks sikkerhed først og derfor få
 børnene hjem?";Pia Olsen Dyhr
-33248;Time;;Kl. 13:29
-33285;title_name;":
+33210;Time;;Kl. 13:29
+33247;title_name;":
 Statsministeren.";Karen Ellemann
-33313;Time;;Kl. 13:29
-33350;title_name;":
-Vi har jo diskuteret den her gruppe af Islamisk Stat-støtter og -krige‐
-re og deres børn mange gange. Men bliver vi ikke nødt til at have
+33275;Time;;Kl. 13:29
+33312;title_name;":
+Vi har jo diskuteret den her gruppe af Islamisk Stat-støtter og -krigere og deres børn mange gange. Men bliver vi ikke nødt til at have
 med i diskussionen – hvis det er det, SF foreslår – at alle forældrene
 også skal med hjem? For man kan jo godt, når man bare lytter til
 debatten, få det indtryk, at der er nogle politiske partier, der siger,
@@ -625,8 +605,8 @@ ikke rigtigt, at det, der i virkeligheden ligger i SF's forslag, er, at
 hvis forudsætningen for at kunne gøre det er, at deres forældre skal
 med, så er man også villig til det? Det synes jeg måske hører med til
 diskussionen.";Mette Frederiksen
-34066;Time;;Kl. 13:30
-34103;title_name;":
+34026;Time;;Kl. 13:30
+34063;title_name;":
 Tak til fru Pia Olsen Dyhr. Den næste partileder er Radikale Venstres
 partileder, og det er fru Sofie Carsten Nielsen. Velkommen.
 
@@ -636,26 +616,23 @@ Derfor håber jeg egentlig, at vi på tværs af vores uenigheder og
 partifarver i hvert fald kan blive enige om, for det første, at børn
 er børn, at de er uskyldige uanset deres forældres gerninger, og at
 danske børn er Danmarks ansvar. Lader vi børnene blive, som det
-også blev sagt, er der en reel risiko for, at de ender som morgenda‐
-gens terrorister. Det vurderer vores egen efterretningstjeneste. Og
+også blev sagt, er der en reel risiko for, at de ender som morgendagens terrorister. Det vurderer vores egen efterretningstjeneste. Og
 jeg håber, at vi for det andet kan blive enige om, at terrorisme og
 forræderi mod vores land skal for en domstol, og at det er farligere,
 at vi har terrorister i usikre lejre, hvor de kan rekrutteres til ny vold.
 De skal straffes. Det handler om vores alle sammens sikkerhed.
 Der er jo også en ny udvikling, for fra hele Europa lyder det nu:
-Stå ved jeres ansvar. Der er en række andre lande, der ser virkelighe‐
-den i øjnene og henter deres børn hjem og retsforfølger forældrene
-netop for landsforræderi. Det gør den norske centrum-højre-rege‐
-ring, og hvis de kan, kan en dansk regering også, ikke mindst nu,
+Stå ved jeres ansvar. Der er en række andre lande, der ser virkeligheden i øjnene og henter deres børn hjem og retsforfølger forældrene
+netop for landsforræderi. Det gør den norske centrum-højre-regering, og hvis de kan, kan en dansk regering også, ikke mindst nu,
 hvor det netop bliver berettet, at PET i september advarede fire
 ministerier om, at børnene i de kurdiske lejre bliver kidnappet af IS.
 Derfor er mit spørgsmål: Har statsministeren viden om, at danske
 børn er i risiko for at blive kidnappet af Islamisk Stat?";Karen Ellemann
-35594;Time;;Kl. 13:33
-35631;title_name;":
+35548;Time;;Kl. 13:33
+35585;title_name;":
 Statsministeren.";Karen Ellemann
-35659;Time;;Kl. 13:33
-35696;title_name;":
+35613;Time;;Kl. 13:33
+35650;title_name;":
 Hvad der måtte være af eventuelt klassificeret materiale på det her
 område, kan jeg selvfølgelig ikke udtale mig om, og jeg udtaler mig
 heller ikke om enkeltsager i det hele taget. Jeg er sådan set enig i
@@ -679,9 +656,9 @@ om, at de børn skal være i de lejre, men jeg kan simpelt hen ikke se,
 hvorfor de mennesker skal til Danmark igen. Jeg mener ikke, de har
 noget at gøre her. Jeg mener slet ikke, vi skal lade dem sætte deres
 fødder på dansk jord, hvis vi overhovedet kan undgå det.";Mette Frederiksen
-37219;Time;;Kl. 13:34
-37230;Time;Spm. nr. US 42;Kl. 13:30
-37273;name_party;":
+37173;Time;;Kl. 13:34
+37184;Time;Spm. nr. US 42;Kl. 13:30
+37227;name_party;":
 Tak, formand. Jeg vil gerne følge op der, hvor fru Pia Olsen Dyhr
 slap, for lige nu sidder der danske børn i en lejr, der jo, tror jeg vi
 alle sammen mener, minder mest om helvedes forgård. De sidder
@@ -690,22 +667,20 @@ Det er mennesker, som har forrådt Danmark og er draget i krig for
 islamister. Og jeg er helt uforstående over for, hvordan man som
 forældre kan udsætte sine børn for den slags. Det gør mig i det hele
 taget grundvred, at der findes mennesker, som kun vil vores land det";Sofie Carsten Nielsen
-37844;title_name;":
+37798;title_name;":
 Fru Sofie Carsten Nielsen.";Karen Ellemann
-37882;Time;;Kl. 13:34
-37910;name_party;":
-Nu går jeg jo ikke og putter med det. Jeg har sådan set givet inter‐
-view om, at forældrene skal retsforfølges. Det er jo mødrene, der
-skal hjem her. Jeg bruger det til gengæld ikke til at stille modspørgs‐
-mål i stedet for at svare. Så jeg spørger igen: Kan statsministeren
+37836;Time;;Kl. 13:34
+37864;name_party;":
+Nu går jeg jo ikke og putter med det. Jeg har sådan set givet interview om, at forældrene skal retsforfølges. Det er jo mødrene, der
+skal hjem her. Jeg bruger det til gengæld ikke til at stille modspørgsmål i stedet for at svare. Så jeg spørger igen: Kan statsministeren
 leve med, at danske børn bliver kidnappet af IS?
 
 Tirsdag den 16. marts 2021 (US 43)";Sofie Carsten Nielsen
-38283;Time;;Kl. 13:34
-38320;title_name;":
+38233;Time;;Kl. 13:34
+38270;title_name;":
 Statsministeren.";Karen Ellemann
-38348;Time;;Kl. 13:34
-38385;title_name;":
+38298;Time;;Kl. 13:34
+38335;title_name;":
 Nej, det har jeg da ikke noget som helst ønske om at der er nogen
 børn der skal. Jeg kan ikke gå yderligere ind i en diskussion om,
 hvad der eventuelt måtte være af klassificeret materiale på det her
@@ -725,13 +700,12 @@ regeringens side sagt, at der kan være humanitære forhold, der gør,
 at vi hjælper nogle børn. Men man kan sige, at modsat Det Radikale
 Venstre har vi ikke et ønske om, at der er familier, der skal kunne
 komme tilbage via deres børn, hvis vi overhovedet kan undgå det.";Mette Frederiksen
-39643;Time;;Kl. 13:35
-39680;title_name;":
+39593;Time;;Kl. 13:35
+39630;title_name;":
 Fru Sofie Carsten Nielsen.";Karen Ellemann
-39718;Time;;Kl. 13:35
-39746;name_party;":
-Men det er jo der, at man så er nødt til at stå til ansvar for det dilem‐
-ma. Den norske borgerlige statsminister, Erna Solberg, har taget et
+39668;Time;;Kl. 13:35
+39696;name_party;":
+Men det er jo der, at man så er nødt til at stå til ansvar for det dilemma. Den norske borgerlige statsminister, Erna Solberg, har taget et
 barn og en mor hjem og har – helt som statsministeren – sagt, at hun
 ønsker ingen af de mennesker hjem, men også udtalt, at hun ikke
 moralsk kan have det siddende på sig, hvis der skete noget med de
@@ -739,19 +713,19 @@ norske børn i Syrien, og derfor har hun taget en mor og et barn hjem.
 Og moren bliver jo retsforfulgt nu i Norge. Derfor er mit spørgsmål
 til statsministeren igen: Kan statsministeren leve med det, hvis der
 sker noget med et dansk barn?";Sofie Carsten Nielsen
-40335;Time;"7
+40283;Time;"7
 
 her i Folketinget, det er ikke Danmarks befolkning, der har bedt
 de her kvinder og mænd om at vende Danmark ryggen. Det har de
 selv gjort, og de lader deres børn betale en pris for det. Det er helt
 uforståeligt for mig.";Kl. 13:36
-40569;Time;;Kl. 13:37
-40606;title_name;":
+40517;Time;;Kl. 13:37
+40554;title_name;":
 Tak til statsministeren, og tak til fru Sofie Carsten Nielsen, også for
 at gøre talerpulten klar til den næste spørger.
 Det er Enhedslistens partileder, fru Mai Villadsen. Velkommen.";Karen Ellemann
-40800;Time;Spm. nr. US 43;Kl. 13:38
-40835;name_party;":
+40748;Time;Spm. nr. US 43;Kl. 13:38
+40783;name_party;":
 De ansatte inden for vores velfærd og vores sundhedsvæsen har slidt
 og slæbt under coronakrisen. Det har fået flere partier til at tale om,
 hvor dejligt det er, at de ansatte er så ultrafleksible, og at det skal vi
@@ -766,8 +740,7 @@ sat til opgaver, som de ikke føler at de kan eller ikke føler sig trygge
 i, og at der har været underbemanding rigtig, rigtig mange steder. Og
 i stedet for måske noget mere i lønningsposen som tak har nogle af
 dem fået honninghjerter.
-Frontpersonalet inden for vores velfærd var allerede før coro‐
-nakrisen, mener jeg, strakt rigtig langt ud og mange steder tyndslidt.
+Frontpersonalet inden for vores velfærd var allerede før coronakrisen, mener jeg, strakt rigtig langt ud og mange steder tyndslidt.
 Det kommer til udtryk i, at vi har rigtig svært ved at rekruttere
 sygeplejersker, sosu'er, jordemødre og mange andre faggrupper, og
 det er et problem for os alle sammen. Vi bliver nødt til at få skabt
@@ -780,11 +753,11 @@ give sygeplejersker, sosu'er og andre dygtige ansatte inden for vores
 velfærd bedre arbejdsvilkår og ordentlig anerkendelse, så vi ikke
 risikerer, ja, at stå uden ordentlige ansatte inden for vores velfærd i
 fremtiden, og så vi kan få flere til at arbejde der.";Mai Villadsen
-42698;Time;;Kl. 13:40
-42735;title_name;":
+42644;Time;;Kl. 13:40
+42681;title_name;":
 Statsministeren.";Karen Ellemann
-42763;Time;;Kl. 13:36
-42800;title_name;":
+42709;Time;;Kl. 13:36
+42746;title_name;":
 Det er et lidt specielt spørgsmål at få, for vi kan alle sammen være
 i en situation, hvor der er et barn, der på en eller anden måde har
 tilknytning til Danmark, som bliver udsat for noget, vi ikke ønsker.
@@ -801,19 +774,17 @@ det er uproblematisk, at de børn er i de lejre, men det gælder jo
 så også for alle de andre børn, der er der. Det skulle forældrene jo
 altså også have tænkt over, inden de drog i krig for Islamisk Stat
 og vendte Danmark ryggen. Det er ikke mig, det er ikke nogen";Mette Frederiksen
-43894;title_name;":
+43840;title_name;":
 Statsministeren.";Karen Ellemann
-43922;Time;;Kl. 13:40
-43959;title_name;":
+43868;Time;;Kl. 13:40
+43905;title_name;":
 Jeg har måske indledningsvis lyst til at sige, at der er rigtig mange
-danskere, der igennem det seneste år har knoklet for at få os igen‐
-nem det her. Det har de privatansatte i butikkerne også, det har de
+danskere, der igennem det seneste år har knoklet for at få os igennem det her. Det har de privatansatte i butikkerne også, det har de
 privatansatte chauffører også. Vi er mange, der skal have æren for,
 at vi er kommet godt igennem den her krise – det gælder både i den
 offentlige og i den private sektor.
 Det, jeg egentlig først og fremmest oplever, når jeg taler med
-sundhedspersonale – jeg havde lejlighed til at være på Herlev syge‐
-hus i sidste uge – er stolthed før noget som helst andet: en enorm
+sundhedspersonale – jeg havde lejlighed til at være på Herlev sygehus i sidste uge – er stolthed før noget som helst andet: en enorm
 faglig stolthed over, at man har fået Danmark igennem den her krise,
 også selv om man har arbejdet over og fik inddraget sin juleferie
 og har nedbrudt faggrænser og har arbejdet alt for meget i perioder
@@ -830,8 +801,7 @@ af hinanden. Man havde ikke tid til at træffe de beslutninger, som
 man plejer at gøre, for tingene skulle bare rulle. Den fleksibilitet, det
 er udtryk for, tror jeg egentlig også mange i sundhedspersonalet er
 meget, meget stolte over.
-Så er der spørgsmålet om, hvordan vi anerkender det på den rig‐
-tige måde. Løn er i Danmark et overenskomstanliggende, og sådan
+Så er der spørgsmålet om, hvordan vi anerkender det på den rigtige måde. Løn er i Danmark et overenskomstanliggende, og sådan
 har det været i rigtig mange år – det synes jeg der er grund til at
 holde fast i. Og det ønsker vi at gøre, i hvert fald fra regeringens
 side. Jeg tror, at det, vi kunne gøre i fællesskab, og det vil jeg meget,
@@ -844,20 +814,17 @@ elever, når vi taler folkeskole, i stedet for bureaukrati, papirarbejde
 og alt for tunge processer, som jeg synes hæmmer den offentlige
 sektor i at bruge den faglighed, som medarbejderne repræsenterer.
 Men jeg ønsker ikke at stå og forhandle løn i Folketingssalen, og
-jeg har meget, meget stor respekt for den danske arbejdsmarkedsmo‐
-del og ønsker, at den skal stå, også efter krisen.";Mette Frederiksen
-46358;Time;;Kl. 13:42
-46395;title_name;":
+jeg har meget, meget stor respekt for den danske arbejdsmarkedsmodel og ønsker, at den skal stå, også efter krisen.";Mette Frederiksen
+46296;Time;;Kl. 13:42
+46333;title_name;":
 Fru Mai Villadsen.";Karen Ellemann
-46425;Time;;Kl. 13:42
-46445;name_party;":
-Jeg kunne alligevel faktisk godt tænke mig at holde lidt fast i spørgs‐
-målet om løn, selv om statsministeren ikke synes, at det er noget,
+46363;Time;;Kl. 13:42
+46383;name_party;":
+Jeg kunne alligevel faktisk godt tænke mig at holde lidt fast i spørgsmålet om løn, selv om statsministeren ikke synes, at det er noget,
 vi skal snakke om politisk. For der er jo rigtig mange ansatte i de
 såkaldte kvindefag i velfærden, som har et hårdt arbejde under et
 stort ansvar, men med en relativt lav løn. Den er jo lavere end i
-en række stillinger, der kan sammenlignes, hvad angår uddannelses‐
-længde, ansvar, måske også på kompetence. Det skyldes jo bl.a., at
+en række stillinger, der kan sammenlignes, hvad angår uddannelseslængde, ansvar, måske også på kompetence. Det skyldes jo bl.a., at
 man tilbage i 1969 lavede den såkaldte tjenestemandsreform, som
 indplacerede de traditionelle kvindefag med en løn, der var lavere
 end de traditionelle mandefag. Med andre ord er det politisk bestemt,
@@ -868,11 +835,11 @@ de her fag, men i dag er der et borgerforslag, som har fået 50.000
 underskrifter: et borgerforslag, som netop handler om at ophæve den
 her tjenestemandsreform. Vi i Enhedslisten bakker det varmt op. Vi
 kommer til at stemme for. Hvad gør regeringen?";Mai Villadsen
-47581;Time;;Kl. 13:43
-47618;title_name;":
+47515;Time;;Kl. 13:43
+47552;title_name;":
 Statsministeren.";Karen Ellemann
-47646;Time;;Kl. 13:43
-47683;title_name;":
+47580;Time;;Kl. 13:43
+47617;title_name;":
 Jeg har ikke haft lejlighed til at se det forslag, så det kan jeg ikke
 udtale mig om på stående fod. Den her diskussion synes jeg er
 interessant, altså hvad de historiske forklaringer er på, at nogle fag
@@ -887,24 +854,20 @@ i den branche. Det er bare for at sige, at jeg sådan set synes, der er
 mange, hvis arbejdsindsats vi burde anerkende mere, få mere frem i
 lyset og sige tak for den indsats, der bliver gjort.
 
-Jeg vil helt generelt advare imod, at vi forhandler andre men‐
-neskers løn, når vi står i Folketingssalen. Der er en grund til, at
+Jeg vil helt generelt advare imod, at vi forhandler andre menneskers løn, når vi står i Folketingssalen. Der er en grund til, at
 Danmark er et stærkt, rigt samfund, og jeg mener, at en af grundene
-dertil er vores arbejdsmarkedsmodel, hvor overenskomster forhand‐
-les mellem arbejdsmarkedets parter. Men jeg vil gerne fortsætte en
+dertil er vores arbejdsmarkedsmodel, hvor overenskomster forhandles mellem arbejdsmarkedets parter. Men jeg vil gerne fortsætte en
 diskussion, og hvordan vi nu skal tilrettelægge det, i spørgsmålet
-om, hvad de historiske forklaringer er på, at fag anerkendes forskel‐
-ligt. Det synes jeg er meget, meget relevant.";Mette Frederiksen
-49071;Time;;Kl. 13:44
-49108;title_name;":
+om, hvad de historiske forklaringer er på, at fag anerkendes forskelligt. Det synes jeg er meget, meget relevant.";Mette Frederiksen
+48999;Time;;Kl. 13:44
+49036;title_name;":
 Fru Mai Villadsen.";Karen Ellemann
-49138;Time;;Kl. 13:44
-49158;name_party;":
+49066;Time;;Kl. 13:44
+49086;name_party;":
 Det er relevant, og nu kommer vi jo til at have diskussionen her i
 Folketingssalen. Jeg håber, at regeringen gør sin stilling op og synes,
 at den tjenestemandsreform skal væk.
-Til sidst vil jeg gerne spørge om noget andet. Som statsministe‐
-ren jo udmærket ved, sidder der 19 danske børn nede i fangelejre
+Til sidst vil jeg gerne spørge om noget andet. Som statsministeren jo udmærket ved, sidder der 19 danske børn nede i fangelejre
 i Syrien og lever under kummerlige forhold. Det ene er en bare
 4-årig pige, som nu har fået konstateret ptsd. Regeringen siger jo
 igen og igen – det kan vi også høre her i Folketingssalen – at det er
@@ -918,11 +881,11 @@ bliver ved i Enhedslisten med at spørge og presse på, for de her børn
 skal hjem. Så derfor vil jeg gerne høre: Når statsministren jo kalder
 sig selv for børnenes statsminister, hvorfor handler statsministeren så
 ikke og får de her børn hjem i stedet for at vende dem ryggen?";Mai Villadsen
-50360;Time;;Kl. 13:45
-50397;title_name;":
+50286;Time;;Kl. 13:45
+50323;title_name;":
 Statsministeren.";Karen Ellemann
-50425;Time;;Kl. 13:45
-50462;title_name;":
+50351;Time;;Kl. 13:45
+50388;title_name;":
 Jeg vil ikke have siddende på mig, at jeg vender dem ryggen. Jeg
 vil i det hele taget ikke have alle de påstande, der er i den politiske
 diskussion, siddende på mig. Det er ikke regeringen, det er ikke
@@ -948,13 +911,13 @@ Danmark at gøre længere. Og det er det, der er dilemmaet. Ikke
 vores lyst til at hjælpe de børn, for de børn skal have hjælp.
 
 Tirsdag den 16. marts 2021 (US 44)";Mette Frederiksen
-51955;Time;;Kl. 13:47
-51992;title_name;":
+51881;Time;;Kl. 13:47
+51918;title_name;":
 Tak til statsministeren og tak til fru Mai Villadsen – også for at
 gøre talerpulten klar til den næste partileder, som har spørgsmål til
 statsministeren. Det er De Konservatives partileder, hr. Søren Pape
 Poulsen.";Karen Ellemann
-52217;Time;"Spm. nr. US 44
+52143;Time;"Spm. nr. US 44
 
 9
 
@@ -967,8 +930,8 @@ med at have en sikker hånd, også når vi åbner meget mere op end
 det, der er tilfældet i dag. Og så skal man måske bare huske, at der er
 meget i Danmark, der er åbnet op, og det tror jeg egentlig danskerne
 er ret glade for.";Kl. 13:47
-52797;Time;;Kl. 13:51
-52822;name_party;":
+52723;Time;;Kl. 13:51
+52748;name_party;":
 Så er den gal igen: Kort og terræn passer ikke sammen. Vi sad med
 minerne lagt i alvorlige folder, alle partilederne, og hørte om, at
 den åbning, der var i gang, kunne betyde 870 indlagte – worst case,
@@ -984,20 +947,19 @@ Der er 21 dage til 6. april, som er det næste fokuspunkt, som er
 her. 21 dage, hvor man jo kunne gøre meget, hvis man ville, især
 set i lyset af, at virkeligheden ser ud som en ting, men det politiske
 flertal ser nogle andre ting.
-Så jeg vil gerne høre statsministeren, om regeringen og støttepar‐
-tierne, som hun jo plejer at have ret godt styr på, ikke kunne rykke
+Så jeg vil gerne høre statsministeren, om regeringen og støttepartierne, som hun jo plejer at have ret godt styr på, ikke kunne rykke
 sig og sige: Vi må indrømme, at virkeligheden ser ud til at blive en
 anden, så lad os justere lidt på den plan, vi har lavet, inden vi tager
 det næste skridt den 6. april. Det her er jo ikke teori for alle: det er
 jo virkelighed for mange. Så kunne man ikke overveje at tage det
 skridt?";Søren Pape Poulsen
-54220;Time;;Kl. 13:49
-54257;title_name;":
+54144;Time;;Kl. 13:49
+54181;title_name;":
 Statsministeren.";Karen Ellemann
-54312;title_name;":
+54236;title_name;":
 Hr. Søren Pape Poulsen.";Karen Ellemann
-54347;Time;;Kl. 13:51
-54372;name_party;":
+54271;Time;;Kl. 13:51
+54296;name_party;":
 Det tror jeg også de er, og jeg er fuld af optimisme og positivitet og
 glæde over alt det, der er åbnet – det skal der ikke være tvivl om –
 og jeg håber da også, at vi bliver enige.
@@ -1018,11 +980,10 @@ centrene er lukkede. Det rammer dem jo helt vildt, og nu sker der
 en udbetaling af feriepengene lige her op til påske, og det er der så
 nogle forretninger, der måske ikke får meget gavn af, så der kunne
 man jo tage fat. Det var da en lille ting måske lige at gøre.";Søren Pape Poulsen
-55700;Time;;Kl. 13:52
-55711;Time;;Kl. 13:49
-55748;title_name;":
-Nu kan jeg jo af gode grunde ikke redegøre for, hvad de andre parti‐
-er mener om den her sag. Men jeg vil da tro, at partierne går til det
+55624;Time;;Kl. 13:52
+55635;Time;;Kl. 13:49
+55672;title_name;":
+Nu kan jeg jo af gode grunde ikke redegøre for, hvad de andre partier mener om den her sag. Men jeg vil da tro, at partierne går til det
 her arbejde på samme måde, som partierne har gået til arbejdet hele
 tiden, nemlig at hvis der er en bedre mulighed for at åbne yderligere
 op, så vil der også være et politisk ønske og en vilje til det. Og det
@@ -1045,10 +1006,10 @@ måde, så vi ikke risikerer den tredje bølge.
 Om det så betyder, at tingene ligger fuldstændig fast, som de
 ligger nu, altså, det behøver de jo ikke nødvendigvis at gøre. Og der
 er jo grund til at være glad over, at det igen går bedre i Danmark,";Mette Frederiksen
-57385;title_name;":
+57307;title_name;":
 Statsministeren.";Karen Ellemann
-57413;Time;;Kl. 13:52
-57450;title_name;":
+57335;Time;;Kl. 13:52
+57372;title_name;":
 Tak for at henvise til den gode aftale, vi – i øvrigt i fællesskab – har
 lavet om feriepengene. Det er jo endnu et produkt af en bred politisk
 aftale, hvor vi gerne vil have sat gang i de dele af dansk økonomi,
@@ -1062,19 +1023,18 @@ er der i øvrigt noget der tyder på allerede er ved at ske, for da vi
 se nogle positive tendenser i beskæftigelsesstatistikken. Så jeg vil
 også gerne have, at der er så meget som overhovedet muligt, der er
 åbent, når danskerne får deres feriepenge udbetalt.
-Der er en politisk aftale, der kører frem til den 6. april, og selv‐
-følgelig vurderer de partier, der står bag den aftale, om der eventuelt
+Der er en politisk aftale, der kører frem til den 6. april, og selvfølgelig vurderer de partier, der står bag den aftale, om der eventuelt
 er noget, der kan åbnes op på et tidligere tidspunkt. Og hvis vi kan
 det, vil det jo selvfølgelig være naturligt at forholde sig til.";Mette Frederiksen
-58609;Time;;Kl. 13:53
-58646;title_name;":
+58529;Time;;Kl. 13:53
+58566;title_name;":
 Hr. Søren Pape Poulsen.
 
 10
 
 Tirsdag den 16. marts 2021 (US 45)";Karen Ellemann
-58723;Time;;Kl. 13:53
-58748;name_party;":
+58643;Time;;Kl. 13:53
+58668;name_party;":
 Så vil jeg da gerne komme med en appel, ikke på egne vegne, men
 på vegne af de mennesker, som er ved at gå til i desperation over,
 at deres butik bløder, og at de går konkurs lige om lidt. Det kan
@@ -1093,41 +1053,37 @@ noget. Og jeg håber, at statsministeren virkelig vil overveje det og
 tage en diskussion om det med forligspartierne, sådan at vi hjælper
 de mennesker. Os, der sidder herinde, har vores på det tørre, men der
 er nogle mennesker, der er dybt presset på deres liv og indtjening.";Søren Pape Poulsen
-59972;Time;;Kl. 13:54
-60009;title_name;":
+59892;Time;;Kl. 13:54
+59929;title_name;":
 Statsministeren.";Karen Ellemann
-60037;Time;;Kl. 13:54
-60074;title_name;":
+59957;Time;;Kl. 13:54
+59994;title_name;":
 Jeg tror egentlig ikke, der er nogen herinde, der tænker, at 3 uger
 ligegyldigt, når man er en lille erhvervsdrivende eller for den sags
 skyld, når man er et skolebarn. Vi ved godt, at det her har kæmpestor
 betydning for de mennesker, der er involveret. Heldigvis er det jo
-lykkedes os i fællesskab at holde hånden under ganske mange gen‐
-nem den her krise med de store hjælpepakker, der er lavet, men ja,
+lykkedes os i fællesskab at holde hånden under ganske mange gennem den her krise med de store hjælpepakker, der er lavet, men ja,
 folk er presset rundtomkring.
 Vi bliver også nødt til at forholde os til, hvad der kan ske, hvis
 vi bliver for utålmodige for hurtigt. Nu lyder det, som om at hvis
 bare man kan åbne en lille smule, er alle partier i Folketinget glade,
 men altså, der har været mange ønsker om at åbne rigtig meget op
-på et meget tidligt tidspunkt. Hvad vil det betyde for dansk erhvervs‐
-liv, hvis der kommer en tredje bølge, og vi bliver nødsaget til at
+på et meget tidligt tidspunkt. Hvad vil det betyde for dansk erhvervsliv, hvis der kommer en tredje bølge, og vi bliver nødsaget til at
 lukke helt ned igen? Kan det i virkeligheden være værre for dansk
 erhvervsliv end det, vi kigger ind i nu, nemlig en gradvis udfasning
 af restriktionerne med den hjælp, som virksomhederne så samtidig
 har behov for?
-Så jeg appellerer til, at der er en balance i det, og jeg håber jo ik‐
-ke, at den her spørgetime har gjort, at vi har talt os væk fra hinanden,
+Så jeg appellerer til, at der er en balance i det, og jeg håber jo ikke, at den her spørgetime har gjort, at vi har talt os væk fra hinanden,
 for vi sidder jo og forhandler om en langsigtet genåbningsplan, og
 den bliver også efterlyst af mange, f.eks. i erhvervslivet.";Mette Frederiksen
-61415;Time;;Kl. 13:55
-61452;title_name;":
+61329;Time;;Kl. 13:55
+61366;title_name;":
 Tak til hr. Søren Pape Poulsen, også for at gøre klar til den næste
 partileder, og det er Nye Borgerliges partileder. Velkommen til fru
 Pernille Vermund.";Karen Ellemann
-61617;Time;Spm. nr. US 45;Kl. 13:56
-61655;name_party;":
-Den somaliske terrorist, der får 11 år siden brød ind i Kurt Wester‐
-gaards hjem og angreb ham med en økse, blev dengang idømt en
+61531;Time;Spm. nr. US 45;Kl. 13:56
+61569;name_party;":
+Den somaliske terrorist, der får 11 år siden brød ind i Kurt Westergaards hjem og angreb ham med en økse, blev dengang idømt en
 fængselsstraf på 10 år og udvisning af Danmark. Han har afsonet sin
 straf, men udvisningen har fortsat ikke fundet sted. Han befinder sig
 stadig i Danmark, og det gør han, fordi danske myndigheder mener,
@@ -1136,12 +1092,10 @@ det er for farligt for ham at rejse til Somalia. Det er jo simpelt hen
 helt absurd. Antallet af udvisningsdømte, som fortsat er i Danmark,
 hober sig op. Siden 1. januar 2019 er antallet af udvisningsdømte
 kriminelle udlændinge, som fortsat er i Danmark, steget med 33 pct.
-Jeg vil gerne spørge, om statsministeren mener, at det er accep‐
-tabelt, og hvad regeringen konkret har tænkt sig at gøre ved det.
+Jeg vil gerne spørge, om statsministeren mener, at det er acceptabelt, og hvad regeringen konkret har tænkt sig at gøre ved det.
 Fakta er jo, at hvis regeringen ikke gør noget, hvis ikke man løser
 problemet, bryder regeringen med helt grundlæggende demokratiske
-principper. I Danmark er det jo Folketinget og regeringen, der ved‐
-tager lovene, og domstolene dømmer ifølge lovens bestemmelser.
+principper. I Danmark er det jo Folketinget og regeringen, der vedtager lovene, og domstolene dømmer ifølge lovens bestemmelser.
 Derefter er det altså regeringens helt fundamentale pligt at sikre, at
 domstolens ord bliver ført ud i livet. Hvis en forbryder idømmes
 en fængselsstraf, er det regeringens ansvar at sikre, at den forbryder
@@ -1158,17 +1112,15 @@ mennesker ud af landet, men det er bare ikke godt nok. Jeg bliver
 nødt til at vide, hvad regeringen konkret har tænkt sig at gøre, og
 hvornår danskerne kan forvente, at kriminelle udlændinge, som er
 udvisningsdømte, ikke længere går frit rundt i Danmark.";Pernille Vermund
-63723;Time;;Kl. 13:58
-63760;title_name;":
+63631;Time;;Kl. 13:58
+63668;title_name;":
 Statsministeren.";Karen Ellemann
-63788;Time;;Kl. 13:58
-63825;title_name;":
+63696;Time;;Kl. 13:58
+63733;title_name;":
 Der skal ikke herske nogen som helst tvivl om, at jeg og regeringen
-er tilhængere af så stramme udvisningsregler som overhovedet mu‐
-ligt, og hvis man bruger et ophold i Danmark, og det er uagtet,
+er tilhængere af så stramme udvisningsregler som overhovedet muligt, og hvis man bruger et ophold i Danmark, og det er uagtet,
 hvorfor man måtte være her, til at begå alvorlig kriminalitet af den
-ene eller anden slags – her er der tale om særdeles alvorlig kriminali‐
-tet – ja, så skal man i mine øjne forlade Danmark, for så har man
+ene eller anden slags – her er der tale om særdeles alvorlig kriminalitet – ja, så skal man i mine øjne forlade Danmark, for så har man
 opsagt den kontrakt, man har indgået med det danske samfund, og
 jeg mener ikke, man har noget at gøre her længere. Det er det, der
 ligger til grund for vores politik, og det håber jeg også kommende
@@ -1178,23 +1130,21 @@ Det er inden for rammen af vores internationale forpligtelser,
 og det er jo der, uenigheden består. Jeg tror sådan set ikke, vi har
 en politisk uenighed om, hvorvidt udlændinge, der begår alvorlig
 kriminalitet, skal forlade Danmark, for det bør de, og det skal de.
-Men den her regering har i lighed med alle andre regeringer i dan‐
-markshistorien, og jeg mener også, det er det rigtige for Danmark,
+Men den her regering har i lighed med alle andre regeringer i danmarkshistorien, og jeg mener også, det er det rigtige for Danmark,
 valgt, at vi ikke opsiger de internationale forpligtelser, også i de
 tilfælde, hvor de går os imod, hvilket de gør fra tid til anden.
 Det har så nogle udfordringer, i forhold til at der er mennesker,
 der ikke kan udsendes herfra, og så må man jo komme på tålt ophold
-med de restriktioner, der så er der. Og den tidligere borgerlige rege‐
-ring kæmpede på det her område, og det vil den her regering også
+med de restriktioner, der så er der. Og den tidligere borgerlige regering kæmpede på det her område, og det vil den her regering også
 gøre, og vi vil gøre alt, hvad vi overhovedet kan, inden for de regler,
 der nu engang er.";Mette Frederiksen
-65458;Time;;Kl. 13:59
-65495;title_name;":
+65358;Time;;Kl. 13:59
+65395;title_name;":
 Fru Pernille Vermund.
 
 Tirsdag den 16. marts 2021 (US 46)";Karen Ellemann
-65566;Time;;Kl. 13:59
-65589;name_party;":
+65466;Time;;Kl. 13:59
+65489;name_party;":
 Tak for svaret, men det her er jo en terrordømt somalisk mand. Det
 er jo helt, helt absurd. Jeg er med på, at regeringen som tidligere
 regeringer fuldstændig har underkastet sig en aktivistisk domstol i
@@ -1210,15 +1160,14 @@ trods alt kan leve frit uden at have de her mennesker gående iblandt
 sig: en løsning, der sikrer, at de her mennesker opholder sig et sted,
 indtil de kan rejse ud, ikke i et fængsel, men i et udrejsecenter, hvor
 der kun er én dør ud, og det er døren ud af landet.";Pernille Vermund
-66589;Time;;Kl. 14:00
-66626;title_name;":
+66489;Time;;Kl. 14:00
+66526;title_name;":
 Statsministeren.";Karen Ellemann
-66654;Time;;Kl. 14:00
-66691;title_name;":
+66554;Time;;Kl. 14:00
+66591;title_name;":
 Jeg bliver nødt til at gentage, hvad jeg sagde før: at den her regering
 i lighed med alle andre regeringer, der har været i Danmark mig
-bekendt, har valgt ikke alene at tilslutte sig de internationale spille‐
-regler, der er, men også at respektere dem, også i de tilfælde, hvor de
+bekendt, har valgt ikke alene at tilslutte sig de internationale spilleregler, der er, men også at respektere dem, også i de tilfælde, hvor de
 går os imod. Det efterlader os med nogle problemer, for jeg mener
 ikke, at der er noget, der i virkeligheden berettiger, at et menneske,
 der er dømt for en så alvorlig forbrydelse, overhovedet skulle kunne
@@ -1233,14 +1182,13 @@ et udrejsecenter, som der jo allerede er. Men hvis det, fru Pernille
 Vermund spørger til, er, om vi kan frihedsberøve et menneske, der
 ikke, kan man sige, kan frihedsberøves ved de danske domstole, så
 er svaret jo nej. Det kan vi ikke.";Mette Frederiksen
-67883;Time;;Kl. 14:02
-67920;title_name;":
+67781;Time;;Kl. 14:02
+67818;title_name;":
 Fru Pernille Vermund.";Karen Ellemann
-67953;Time;;Kl. 14:02
-67976;name_party;":
+67851;Time;;Kl. 14:02
+67874;name_party;":
 Jeg har tidligere fortalt om Cecilie. Cecilie blev tævet, ydmyget og
-voldtaget af en 17-årig somalisk statsborger, da hun en sen forårsaf‐
-ten var på vej hjem. Han blev dømt, men han blev ikke udvist, fordi
+voldtaget af en 17-årig somalisk statsborger, da hun en sen forårsaften var på vej hjem. Han blev dømt, men han blev ikke udvist, fordi
 det ville være i strid med vores internationale forpligtelser. Derfor
 fik han sin fjerde advarsel.
 Statsministeren sagde dengang, og jeg citerer:
@@ -1248,8 +1196,7 @@ Statsministeren sagde dengang, og jeg citerer:
 med voldtægt, med bandekriminalitet eller med narkosalg. Så vi vil
 også gerne udvise flere.«
 Det fik mig til at sende spørgsmålet videre til udlændinge- og
-integrationsministeren, altså om, hvordan det så skulle ske. Og ud‐
-lændinge- og integrationsministeren svarede mig, at det sådan set
+integrationsministeren, altså om, hvordan det så skulle ske. Og udlændinge- og integrationsministeren svarede mig, at det sådan set
 godt kan lade sig gøre at udvise sådan en voldtægtsmand og at tage
 de forbehold i dansk lov for menneskerettighedskonventionen, som
 skal til. Men det vil regeringen ikke, skrev ministeren.
@@ -1259,18 +1206,17 @@ skal til. Men det vil regeringen ikke, skrev ministeren.
 Så hvad er det næste skridt? Hvordan får vi flere udvist, som
 statsministeren sagde man ville? For jeg må formode, at vi kan tage
 statsministerens ord for pålydende.";Pernille Vermund
-69056;Time;;Kl. 14:03
-69093;title_name;":
+68950;Time;;Kl. 14:03
+68987;title_name;":
 Statsministeren.";Karen Ellemann
-69121;Time;;Kl. 14:03
-69158;title_name;":
+69015;Time;;Kl. 14:03
+69052;title_name;":
 Altså, jeg har ikke mulighed for at vurdere den konkrete sag og den
 ordveksling, der har været, eller det svar, der er givet, og derfor må
 man jo rette det spørgsmål til den ansvarlige minister. Jeg kan ikke
 forholde mig til den konkrete sag, men det er jo en illustration af,
 at vi oplever, at de internationale spilleregler nogle gange beskytter
-gerningsmanden og ikke offeret. Og det er jo ikke alene dilemma‐
-fyldt: det er forkert, når de internationale spilleregler gør det.
+gerningsmanden og ikke offeret. Og det er jo ikke alene dilemmafyldt: det er forkert, når de internationale spilleregler gør det.
 Jeg tror, at Nye Borgerlige står ret alene med sit ønske om at
 opsige de internationale konventioner med alle de konsekvenser, det
 har, så det gør vi selvfølgelig heller ikke fra dansk side. Men det,
@@ -1279,21 +1225,19 @@ kan lade sig gøre, med hensyn til at få udvist så mange mennesker
 som overhovedet muligt, hvis der begås den her form for kriminalitet
 eller andre kriminalitetsformer, der også er af alvorlig karakter. Og
 det vil den her regering også gøre.";Mette Frederiksen
-70157;Time;;Kl. 14:04
-70194;title_name;":
+70049;Time;;Kl. 14:04
+70086;title_name;":
 Tak til statsministeren, og tak til fru Pernille Vermund. Jeg vil bede
 fru Pernille Vermund om at gøre klar til den næste, for der kommer
 nemlig en partileder mere, og det er Alternativets partileder, hr.
 Torsten Gejl, som er sidste partileder, der får mulighed for at stille
 spørgsmål til statsministeren i denne spørgetime. Velkommen til hr.
 Torsten Gejl.";Karen Ellemann
-70563;Time;Spm. nr. US 46;Kl. 14:04
-70598;name_party;":
-Tak, formand. Vi har hver gang et spørgsmål fra et af vores medlem‐
-mer, og det starter jeg med i dag. Det er af Kim Hjerrild, der er
+70455;Time;Spm. nr. US 46;Kl. 14:04
+70490;name_party;":
+Tak, formand. Vi har hver gang et spørgsmål fra et af vores medlemmer, og det starter jeg med i dag. Det er af Kim Hjerrild, der er
 medlem af Borgerrepræsentationen i København. Han refererer til,
-at jeg i sidste spørgetime spurgte statsministeren om de klimamæs‐
-sige og miljømæssige udfordringer, der er ved det store projekt i
+at jeg i sidste spørgetime spurgte statsministeren om de klimamæssige og miljømæssige udfordringer, der er ved det store projekt i
 København, som vi kalder Lynetteholmen. Det fik jeg ikke svar
 på, men jeg kunne forstå, at statsministeren er ovenud begejstret
 for Lynetteholmprojektet. Projektet handler om anlæggelse af øen
@@ -1303,8 +1247,7 @@ samlet løber op i 50-72 mia. kr. Det er således det største projekt, der
 nogen sinde er lavet i Danmark, kun overgået af den enorme energiø,
 som vi anlægger i Nordsøen, og som er færdig i 2033, tror jeg. Så
 det er jo rigtig, rigtig mange penge at bruge bare på København.
-Projektet blev fremlagt af Lars Løkke Rasmussen og Frank Jen‐
-sen i oktober 2018. Her sagde man, at det nogenlunde ville løbe
+Projektet blev fremlagt af Lars Løkke Rasmussen og Frank Jensen i oktober 2018. Her sagde man, at det nogenlunde ville løbe
 rundt. Nu er projektet blevet 50 pct. større i udgifter, og ud fra
 de tal, som vi indtil nu har fået fremlagt om udgifter og indtægter
 vedrørende det samlede projekt, kan vi se, at der let kommer til at
@@ -1321,48 +1264,46 @@ Tirsdag den 16. marts 2021 (FM )
 
 klima- og miljømæssig belastning – en stor økonomisk skandale,
 som fremtidige generationer skal betale af på resten af deres liv?";Torsten Gejl
-72445;Time;;Kl. 14:06
-72482;title_name;":
+72331;Time;;Kl. 14:06
+72368;title_name;":
 Statsministeren.";Karen Ellemann
-72511;Time;;Kl. 14:08
-72548;title_name;":
+72397;Time;;Kl. 14:08
+72434;title_name;":
 Statsministeren.";Karen Ellemann
-72576;Time;;Kl. 14:08
-72587;Time;;Kl. 14:06
-72624;title_name;":
+72462;Time;;Kl. 14:08
+72473;Time;;Kl. 14:06
+72510;title_name;":
 Jeg har alene udtalt mig om det helt overordnede og det i mine øjne
 visionære ved Lynetteholmen. Jeg har ingen forudsætninger for at
 gå ind i en detaljeret diskussion om det anlægsprojekt. Der må jeg
 henvise til de ansvarlige ministre.";Mette Frederiksen
-72871;Time;;Kl. 14:06
-72908;title_name;":
+72757;Time;;Kl. 14:06
+72794;title_name;":
 Hr. Torsten Gejl.";Karen Ellemann
-72937;Time;;Kl. 14:06
-72957;name_party;":
+72823;Time;;Kl. 14:06
+72843;name_party;":
 Men nu er regeringen jo ved at lave en stor infrastrukturplan – den er
 på vej. Må man spørge, om det er sådan, at Lynetteholmprojektet er
 en del af den, og hvis nu det er det og regeringen matcher den prislap
-på 112 mia. kr., som den borgerlige regering satte på infrastruktur‐
-planen, så vil København jo let komme til at æde en tredjedel af den
+på 112 mia. kr., som den borgerlige regering satte på infrastrukturplanen, så vil København jo let komme til at æde en tredjedel af den
 samlede plan. Altså, det er jo interessant for hele landet, det er jo
 en national politik. Kan statsministeren bekræfte, om det er en del af
 den kommende infrastrukturplan?";Torsten Gejl
-73488;Time;;Kl. 14:07
-73525;title_name;":
+73372;Time;;Kl. 14:07
+73409;title_name;":
 Statsministeren.";Karen Ellemann
-73553;Time;;Kl. 14:07
-73590;title_name;":
+73437;Time;;Kl. 14:07
+73474;title_name;":
 Det er helt rigtigt, at vi i det her forår skal diskutere infrastruktur.
 Det er en langsigtet og stor plan, og sådan er det, når vi laver
 flerårige infrastrukturplaner i Danmark. Og når vi er klar til at
 offentliggøre, hvad der er vores overvejelser, inden vi påbegynder
 diskussionen med Folketingets partier, så fremlægger vi det, der er
 vores udspil, og det er altså ikke endnu.";Mette Frederiksen
-73982;Time;;Kl. 14:07
-74019;title_name;":
+73866;Time;;Kl. 14:07
+73903;title_name;":
 Først og fremmest tusind tak for at bringe den diskussion ind i
-Folketingssalen. Det her kunne jo blive næste kapitel i den nødven‐
-dige ligestillingsdiskussion, vi har i vores samfund. Jeg tror egentlig,
+Folketingssalen. Det her kunne jo blive næste kapitel i den nødvendige ligestillingsdiskussion, vi har i vores samfund. Jeg tror egentlig,
 at mange blev overraskede over, da metoo-bølgen rullede ud over
 samfundet, hvad det er, der egentlig har gemt sig på Christiansborg,
 men også mange andre steder i vores samfund. Det kan godt være, at
@@ -1386,19 +1327,18 @@ gadebelysning, at politiet er til stede, og for min skyld også gerne
 yderligere overvågning de steder, hvor overvågning kan hjælpe os.
 Så jeg tror, at der skal flere forskellige ting til, men det er også et
 kulturspørgsmål – det er jeg enig i.";Mette Frederiksen
-75676;Time;;Kl. 14:10
-75713;title_name;":
-Tak til statsministeren, og tak til hr. Torsten Gejl. Herefter er spørge‐
-timen slut.
+75558;Time;;Kl. 14:10
+75595;title_name;":
+Tak til statsministeren, og tak til hr. Torsten Gejl. Herefter er spørgetimen slut.
 Jeg vil nu udsætte mødet i 15 minutter til kl. 14.25, for det vil
 give mulighed for, at pladserne lige kan blive rengjort. Derfor vil jeg
 bede alle partiledere om at forlade salen i god ro og orden.
 Mødet genoptages kl. 14.25.
 Mødet er udsat. (Kl. 14:10).";Karen Ellemann
-76093;title_name;":
+75973;title_name;":
 Hr. Torsten Gejl.";Karen Ellemann
-76122;Time;;Kl. 14:07
-76142;name_party;":
+76002;Time;;Kl. 14:07
+76022;name_party;":
 Det blev jeg ikke så meget klogere af. Så vil jeg prøve noget helt
 andet. Et helt andet spørgsmål i en helt anden boldgade: Drabet på
 en 33-årig kvinde i London, der gik alene hjem, har sat gang i et
@@ -1407,9 +1347,7 @@ Storbritannien – og i det hele taget i hele verden.
 Kvinder i hele verden taler om, hvor nervøse de er for at færdes
 i nattelivet, og hvad de gør for at beskytte sig selv, under hashtagget
 #textmewhenyougethome. Også her i Danmark flyder det over med
-historier om kvinder, der føler sig utrygge i nattelivet. I Storbritanni‐
-en tales der lige nu meget om, at der skal gøres mere for at gøre nat‐
-telivet trygt, herunder mere gadebelysning og flere nærpolitibetjente
+historier om kvinder, der føler sig utrygge i nattelivet. I Storbritannien tales der lige nu meget om, at der skal gøres mere for at gøre nattelivet trygt, herunder mere gadebelysning og flere nærpolitibetjente
 osv. Men ikke mindst fylder diskussionen om, om det her er de unge
 mænds ansvar, altså om vi måske har brug for en kolossal indsats for
 at opdrage en gruppe unge mænd til at have en langt større respekt
@@ -1417,14 +1355,13 @@ for kvinders liv og levned.
 Hvad vil regeringen tage af tiltag for at sikre et tryggere natteliv
 i byerne og måske prøve at ændre det holdningssæt blandt de unge
 mænd?";Torsten Gejl
-77256;Time;;Kl. 14:25
-77293;title_name;":
+77132;Time;;Kl. 14:25
+77169;title_name;":
 Mødet er genoptaget.
 
 Det sidste punkt på dagsordenen er:
 2) 2. behandling af lovforslag nr. L 186:
-Forslag til lov om ændring af lov om en aktiv beskæftigelsesind‐
-sats og lov om aktiv socialpolitik. (Ret til uddannelse for person‐
+Forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats og lov om aktiv socialpolitik. (Ret til uddannelse for person-
 
 Tirsdag den 16. marts 2021 (FM )
 
@@ -1433,8 +1370,8 @@ en pulje i 2021).
 Af beskæftigelsesministeren (Peter Hummelgaard).
 (Fremsættelse 05.03.2021. 1. behandling 09.03.2021. Betænkning
 15.03.2021).";Karen Ellemann
-77783;Time;Forhandling;Kl. 14:25
-77832;title_name;":
+77657;Time;Forhandling;Kl. 14:25
+77706;title_name;":
 Der er ikke stillet ændringsforslag.
 Ønsker nogen at udtale sig?
 Da det ikke er tilfældet, er forhandlingen sluttet.
@@ -1442,11 +1379,10 @@ Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
 fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
 dette som vedtaget.
 Det er vedtaget.";Karen Ellemann
-78135;Time;Meddelelser fra formanden;Kl. 14:25
-78198;title_name;":
+78009;Time;Meddelelser fra formanden;Kl. 14:25
+78072;title_name;":
 Der er ikke mere at foretage i dette møde.
-Folketingets næste møde afholdes i dag kl. 14.40. Det er om 15 mi‐
-nutter, og i de 15 minutter skal jeg bede medlemmerne om at forlade
+Folketingets næste møde afholdes i dag kl. 14.40. Det er om 15 minutter, og i de 15 minutter skal jeg bede medlemmerne om at forlade
 salen. Der vil blive kaldt til afstemning 15 minutter før mødets start.
 Mødet er hævet. (Kl. 14:25).
 
