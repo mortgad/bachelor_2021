@@ -39,7 +39,7 @@ allnames.update(extranames)
 # Creating regular expressions that can match all the names in the list
 members = "(?:" + '|'.join([re.escape(i) for i in allnames]) + ")"
 parties = "(?:" + '|'.join([re.escape(str(i)) for i in set(ft.iloc[:, 1])]) + ")"
-with open("folketing_titler.txt") as f:
+with open("data/metadata_for_scraping/folketing_titler.txt") as f:
     titler = [l for l in f.read().split("\n") if l]
     titler = "(?:" + "|".join([re.escape(i) for i in titler] +\
                       [re.escape(i + "en") for i in titler])  + ")"
