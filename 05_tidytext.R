@@ -93,7 +93,7 @@ data = data %>%
 
 ###################
 # handle titles like "Anden næstformand"
-read_csv2("./data/folketing_leaders.csv") %>%
+read_csv2("./data/metadata_for_scraping/folketing_leaders.csv") %>%
     mutate(from = dmy(fra),
            to = dmy(til),
            Title = "Formand") %>%
@@ -102,7 +102,7 @@ read_csv2("./data/folketing_leaders.csv") %>%
     titles_tmp
 
 
-read_tsv("./ministerposter.tsv") %>%
+read_tsv("./data/metadata_for_scraping/ministerposter.tsv") %>%
     mutate(from = dmy(Start),
            to = dmy(Slut)) %>%
     select(-Start, -Slut) %>%
@@ -150,7 +150,7 @@ data2 = left_join(data, title_subset, by = c("Name" = "Title", "Dato")) %>%
 #################
 # load in data on who's in which party
 cat("[ ] Combining with party data\n")
-ft_members = read_delim("./data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
+ft_members = read_delim("./data/metadata_for_scraping/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
 names(ft_members) = c("Name", "Parti", "Year")
 
 ft_members_copy = ft_members
@@ -189,7 +189,6 @@ weird_names = filter(data3, is.na(Parti)) %>%
     distinct(Name, Year) %>%
     arrange(Name, Year)
 
-## test_ft = filter(ft_members_copy, str_detect(Name, "Christensen"))
 
 less_weird_names = fuzzy_join(weird_names, test_ft,
            by = c("Year", "Name"),
@@ -199,10 +198,10 @@ less_weird_names = fuzzy_join(weird_names, test_ft,
                function(x, y) {
                    str_detect(y, x)})) %>%
     rename(realname = Name.y, Year = Year.y, Name = Name.x) %>%
-    select(-Year.x) %>% 
-    mutate(
-        Parti = str_replace(Parti, "x - ", "")
-    )
+    select(-Year.x) #%>% 
+    # mutate(
+    #     Parti = str_replace(Parti, "x - ", "")
+    # )
 
 data3 = left_join(data3, less_weird_names, by = c("Year", "Name")) %>%
     mutate(Parti = ifelse(is.na(Parti.x), Parti.y, Parti.x),
@@ -225,22 +224,22 @@ hardcoded_names <- hardcoded_names %>%
     filter(Name %in% hard$Name) %>% 
     left_join(hard, by = "Name")
 
+# List of parties to remove
+list_of_parties_to_remove <- c("Slesvigsk Parti", "Inuit Ataqatigiit", "Tjóðveldi", "Atássut", "Fólkaflokkurin", 
+                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin")
+
+# Joining with the hardcoded names and removing the foreign parties
 data3 = left_join(data3, hardcoded_names, by = c("Year", "Name")) %>%
     mutate(Parti = ifelse(is.na(Parti.x), Parti.y, Parti.x)) %>%
     select(-Parti.x, -Parti.y) %>%
     distinct() %>%
     # Removing the last NAs
-    drop_na(Parti)
-
-
-##            match_fun = list(`==`, match_fun))
-
-       
-
+    drop_na(Parti) %>% 
+    filter(!Parti %in% list_of_parties_to_remove)
 
 ## bit of memory management
-## rm(data)
-## rm(data2)
+rm(data)
+rm(data2)
 
 cat("[ ] Combining with election period data\n")
 
@@ -289,22 +288,6 @@ data3 = data3 %>%
            Period = ifelse(Parti == "ALT", "2015-2017", Period))
 
 
-## cat("[ ] Combining with minister data\n")
-
-## lookup_minister = function(name, date) {
-##     res = filter(minister,
-##            Navn == !!name,
-##            date %within% Period) %>%
-##         pluck("Ministerpost")
-
-##     return(ifelse(is.null(res), NA, res))
-##     }
-
-
-## data3 = data3 %>%
-##     mutate(Ministerpost = map2_chr(Name, Date, lookup_minister))
-
-
 #################
 cat("[ ] pre-preprocessing text\n")
 data3$text = data3$text %>%
@@ -313,63 +296,17 @@ data3$text = data3$text %>%
     str_replace_all(str_c("[–_/()\\s'»$&+", '"', "]+"), " ")
 
 data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>% 
-        mutate(text = str_replace(text, "^: ", "")) 
-    
+        mutate(text = str_replace(text, "^: ", ""),
+               # Remowing all texts beneath 50 words
+               n_words = sapply(strsplit(text, " "), length)) %>% 
+        filter(n_words > 50)
 
-
-## data3 %>%
-##     sample_n(10) %>%
-##     select(text) %>% pluck(1) %>%
-##     write_lines("models/for_udpipe")
-
-
-## data3 %>%
-##     select(-text, -speaker_id) %>%
-##     write_csv("data/tidy_text.csv")
-
-
-#################
-cat("[ ] Udpipe\n")
-# ud = udpipe_load_model(file = list.files(pattern = "danish-ud.*udpipe"))
-
-# d = sample_n(data3, 5000)
-# d = data3
-
-# parallel processing
-## cluster <- create_cluster(4) %>%
-##     cluster_library("tidyverse") %>%
-##     cluster_library("udpipe")
-
-lemma = data3 #%>%
-    #arrange(doc_id) %>%
-    #groupdata2::group(100) 
-    
-
-
-
-lemma %>%
+################# Exporting the csv files. 
+# Writing the meta data
+data3 %>%
     select(-text, -speaker_id) %>%
     write_csv("./data/tidy_metadata.csv")
 
-write_csv(lemma, "./data/folketinget_2019_2021_raw.csv")
+# Writing the final csv
+write_csv(data3, file = paste0("./data/folketinget_", min(data3$Year),"_", max(data3$Year), "_raw.csv"))
 
- ############ MAYBE USE THIS ???? ########
-# lemma %>%
-#     split(.$.groups) %>%
-#     walk(~(write_lines(.$text, str_c("Folketinget-Scraping/data/to_udpipe/", unique(.$.groups)))))
-# # it works!
-
-
-# TESTING THE TEXT FOR FURTHER PREPROCESSING
-# wup <- hep %>%
-#     sample_n(size = 1)
-# 
-# for (i in nrow(wup):1){
-#     this <- hep$text[i]
-#     print(this)
-#     print(" ---------------------------------------------------")
-# }
-
-##############
-
-unique(lemma$Name[is.na(lemma$Parti) == TRUE])
