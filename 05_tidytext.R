@@ -310,3 +310,4 @@ data3 %>%
 # Writing the final csv
 write_csv(data3, file = paste0("./data/folketinget_", min(data3$Year),"_", max(data3$Year), "_raw.csv"))
 
+hep = read_csv("./data/folketinget_2019_2021_raw.csv")
