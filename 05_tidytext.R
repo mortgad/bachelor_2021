@@ -226,7 +226,7 @@ hardcoded_names <- hardcoded_names %>%
 
 # List of parties to remove
 list_of_parties_to_remove <- c("Slesvigsk Parti", "Inuit Ataqatigiit", "Tjóðveldi", "Atássut", "Fólkaflokkurin", 
-                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin")
+                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin", "Uden for partierne")
 
 # Joining with the hardcoded names and removing the foreign parties
 data3 = left_join(data3, hardcoded_names, by = c("Year", "Name")) %>%
