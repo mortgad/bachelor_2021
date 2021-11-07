@@ -1,2 +1,0 @@
-data/folketinget_2009_2021_raw.csv filter=lfs diff=lfs merge=lfs -text
-folketinget_2009_2021_raw.csv filter=lfs diff=lfs merge=lfs -text
