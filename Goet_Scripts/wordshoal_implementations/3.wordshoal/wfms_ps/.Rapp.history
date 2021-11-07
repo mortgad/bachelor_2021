@@ -1,0 +1,133 @@
+#############################
+#Create WFMs for implementation#
+#############################
+# Author: Niels Goet#
+# First version: 13th May 2018#
+# This version: 8th June 2018#
+#
+#######################
+#1810-2015#
+#######################
+#
+#load packages#
+#install.packages("tm")#
+library(tm)#
+#
+#devtools::install_github("conjugateprior/austin")#
+library(austin)#
+#
+#install.packages("reshape")#
+library(reshape) #
+#
+library(reshape2)#
+#
+#install.packages("proxy")#
+require(proxy)#
+#
+#install.packages("Hmisc")#
+library(Hmisc)#
+#
+library(methods)#
+#
+library(quanteda)#
+#
+library(stringr)#
+#
+setwd("/Volumes/Back-ups/UKHCPOL_replication_material/raw_data")#
+#
+#gc() #monitor usage#
+#
+custom_list <- c("a","an","and","are","as","at","be","by","for","from",#
+                 "has","he","in","is","it","its","of","on","that","the",#
+                 "to","was","were","will","with")#
+#
+library(data.table)#
+system.time(dataset <- fread("ukhcdeb_ppr.csv",header=T))#
+#
+dataset <- dataset[dataset$session_ref > 16.5,]#
+#
+mask <- c('independent','unknown',"INDEPENDENT","UNKNOWN","IND")#
+#
+dataset <- dataset[!(dataset$party %in% mask),]#
+#
+mask <- c('speaker','m speaker','t speaker',"deputyspeaker","d speaker","madam deputy speaker")#
+#
+dataset <- dataset[!(dataset$matched_name %in% mask),]#
+dataset <- dataset[!(dataset$speaker %in% mask),]#
+#
+dataset$date_ind <- as.numeric(as.factor(dataset$date))#
+datasets <- split(dataset,dataset$session_indicator)#
+#
+rm(list=c("dataset"))#
+#
+for (i in 1:length(datasets)){#
+  sessionDat <- datasets[[i]]#
+  #gc() #monitor usage#
+  sessionDat <- subset(sessionDat,select=c(year,date,debate_topic,matched_name,party,session_indicator,session_ref,speech_content))#
+  ###############
+  colnames(sessionDat) <- c("year","date","title","speaker","party","session_indicator","session_ref","speech")#
+  sessionDat <- transform(sessionDat,unique_id=as.numeric(interaction(as.factor(date),as.factor(title),drop=FALSE)))#
+  sessionDat <- unique(sessionDat)#
+  sessionDat <- sessionDat[order(sessionDat$unique_id),]#
+  sessionDat <- sessionDat[nchar(sessionDat$speaker)>0,]#
+  sessionDat <- sessionDat[nchar(sessionDat$speaker)<25,]#
+  sessionDat$speaker <- word(sessionDat$speaker,-1)#
+  #enter session-level data#
+  library(tm)#
+  sessionDat <- aggregate(as.character(sessionDat$speech),by =list(sessionDat$year,sessionDat$date,sessionDat$title,sessionDat$speaker,sessionDat$party,sessionDat$session_indicator,sessionDat$session_ref,sessionDat$unique_id),paste,collapse=",")#
+  colnames(sessionDat) <- c("year","date","title","speaker","party","session_indicator","session_ref","unique_id","speech")#
+  #add unique speaker id#
+  sessionDat$speakerID <- as.numeric(as.factor(sessionDat$speaker))#
+  #now create a document split on debates on the basis of the new unique id level#
+  debate_documents_per_session <- split(sessionDat, sessionDat$unique_id)#
+  rm(list=c("sessionDat"))#
+  #start list for each session#
+  speakerWFM.byDebate <- list()#
+  debateSpeakerData_list <- list()#
+  speakerData_list <- list()#
+  for (i2 in 1:length(debate_documents_per_session)) {#
+    tfl <- debate_documents_per_session[[i2]]#
+    if (nrow(tfl) >= 5){#
+      speech_text <- tfl$speech#
+      labels <- data.frame(tfl$year,tfl$title,tfl$speaker,tfl$party,tfl$unique_id,tfl$speakerID,tfl$session_ref)#
+      colnames(labels) <- c("year","title","speaker","party","debateID","speakerID","session_ref")#
+      #print(unique(labels$session_ref))#
+      text.corpus <- Corpus(VectorSource(speech_text))#
+      text.corpus	<- tm_map(text.corpus, removeWords,custom_list)#
+      text.corpus <- tm_map(text.corpus, stripWhitespace)#
+      text.corpus <- tm_map(text.corpus, removePunctuation)#
+      documents 	<- TermDocumentMatrix(text.corpus, control = list(removePunctuation=T,removeNumbers=T,tolower=T,weighting = function(x) weightTfIdf(x, normalize = FALSE)))#
+      docs_f			<- removeSparseTerms(documents, 0.80)#
+      wcdata			<- wfm(as.matrix(docs_f))#
+      total_words <- dim(wcdata)[1]#
+      speakers <- dim(wcdata)[2]#
+      if (speakers > 4 & total_words > 19){#
+        wcdata <- t(wcdata)#
+        #attributes(wcdata)$year <- labels$year#
+        rownames(wcdata) <- as.factor(labels$speakerID)#
+        speakerWFM.byDebate[[i2]] <- wcdata#
+        #debateData_file <- labels[,c(1:5)]#
+        debateData_file <- data.frame(year=labels$year,#
+                                      session_ref=labels$session_ref,title=labels$title,speaker=labels$speaker,party = labels$party,speakersN=rep(speakers,nrow(labels)),speakerID=as.numeric(labels$speakerID),debateID=labels$debateID)#
+        debateSpeakerData_list[[i2]] <- debateData_file#
+        speakerData_file <- data.frame(speaker=labels$speaker,party=labels$party,speakerID = as.numeric(labels$speakerID),speaker.name=labels$speaker)	#
+        speakerData_list[[i2]] <- speakerData_file#
+      }#
+    }#
+  }#
+  debateSpeakerData <- do.call(rbind.data.frame, debateSpeakerData_list)#
+  speakerData_temp <- do.call(rbind.data.frame, speakerData_list)#
+  speakerData <- speakerData_temp#
+  speakerData <- unique(speakerData)#
+  #colnames(speakerData) <- c("title","speaker","party")#
+  debateData <- unique(data.frame(debateID=debateSpeakerData$debateID,speakersN=debateSpeakerData$speakersN,session_ref=debateSpeakerData$session_ref,title=debateSpeakerData$title,year=debateSpeakerData$year,session_ref= debateSpeakerData$session_ref))#
+  debateSpeakerData$speaker.name <- as.character(debateSpeakerData$speaker)#
+  speakerData$speaker <- as.character(speakerData$speaker)#
+  speakerData$speaker.name <- as.character(speakerData$speaker)#
+  speakerData$party <- as.character(speakerData$party)#
+  speakerWFM.byDebate <- speakerWFM.byDebate[!sapply(speakerWFM.byDebate,is.null)]#
+  setwd("/Volumes/Back-ups/UKHCPOL_replication_material/poisson_model_implementations/3.wordshoal/wfms_ps2")#
+  save(speakerWFM.byDebate, debateSpeakerData, speakerData,debateData,file = paste("uk_debates","session",debateSpeakerData$session_ref[1],".RData",sep="_"))#
+  print(paste("uk_debates","session",debateSpeakerData$session_ref[1],sep="_"))#
+  rm(list=setdiff(ls(), c("i","dataPath","datasets","custom_list")))#
+}
