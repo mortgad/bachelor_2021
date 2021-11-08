@@ -1,0 +1,110 @@
+---
+title: "wordshoal"
+author: "Gustav Helms"
+date: "11/8/2021"
+output: html_document
+---
+
+```{r}
+# loading packages
+pacman::p_load(tidyverse, corpus)
+
+# Installing the latest version of quanteda and wordshoal
+devtools::install_github("https://github.com/quanteda/quanteda")
+remotes::install_github("kbenoit/wordshoal")
+
+# Loading the packages
+library(quanteda)
+library(wordshoal)
+library(quanteda.textmodels)
+```
+
+
+```{r}
+# Importing data
+df <- read_csv("/Users/gustavhelms/Documents/Cognitive Science/5_semester/Bachelor/political_polarization/Folketinget-Scraping/data/folketinget_2019_2021_raw.csv")
+
+
+# Subsetting to only five documents
+subset <- df %>% filter(id == c("20201_M108_referat", "20201_M114_referat", 
+                                "20201_M110_referat", "20201_M117_referat", "20201_M126_referat"))
+
+```
+
+# --------------------------------------------------------------------------------------------------------------
+# Implementing the wordshoal function on our own data
+
+```{r}
+# Making the df into a corpus
+corpus <- corpus(subset)
+
+
+# Create a data frame matrix (dfm)
+dfm <- dfm(tokens(corpus), remove_punct = TRUE)
+
+# Fitting the model
+wordshoalfit <- 
+    textmodel_wordshoal(dfm, #dir = c(7,1), # I cannot figure out what the 'dir' argument does
+                        groups = docvars(corpus, "id"), 
+                        authors = docvars(corpus, "Name"))
+
+# Inspecting the output
+summary(wordshoalfit) 
+
+```
+
+
+```{r}
+# Aggregating to get the positions of the mean positon of the parties
+author_positions <- summary(wordshoalfit)$estimated.author.positions
+author_positions$row_names <- rownames(author_positions)
+
+fitdf <- merge(author_positions,
+               docvars(corpus), 
+               by.x = "row_names", by.y = "Name")
+fitdf <- subset(fitdf, !duplicated(row_names))
+
+
+aggregate(theta ~ Parti, data = fitdf, mean)
+```
+
+
+### The above example does not work. THe model only returns 0 values for the 'theta' (estimated position). There might be a problem with the conversion of the data frame into the dfm object. Cannot figure it out though.
+
+# --------------------------------------------------------------------------------------------------------------
+
+# The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
+
+```{r}
+# Inspecting the data
+summary(data_corpus_irish30)
+
+```
+
+```{r}
+texts(corpus)[5]
+```
+
+```{r}
+iedfm <- dfm(data_corpus_irish30, remove_punct = TRUE) 
+
+wordshoalfit <- 
+    textmodel_wordshoal(iedfm, dir = c(7,1),
+                        groups = docvars(data_corpus_irish30, "debateID"), 
+                        authors = docvars(data_corpus_irish30, "member.name"))
+
+summary(wordshoalfit)                    
+
+author_positions <- summary(wordshoalfit)$estimated.author.positions
+author_positions$row_names <- rownames(author_positions)
+fitdf <- merge(author_positions,
+               docvars(data_corpus_irish30), 
+               by.x = "row_names", by.y = "member.name")
+fitdf <- subset(fitdf, !duplicated(memberID))
+aggregate(theta ~ party.name, data = fitdf, mean)
+```
+
+
+
+
+
