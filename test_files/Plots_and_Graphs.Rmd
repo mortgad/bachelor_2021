@@ -172,7 +172,7 @@ head(results)
 ```{r}
 #################### INSPECTING THE RESULTS ###########################
 # Import the results
-results <- read_csv("../data/cv_results.csv")
+results <- read_csv("../data/cv_results_subset.csv")
 ```
 
 ```{r}
@@ -187,5 +187,8 @@ results %>%
   geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
   ylim(0, 1)+
   labs(y = "Kappa score", title = "Level of polarization in Folketinget")
+```
+```{r}
+results %>% group_by(alpha) %>% count()
 ```
 
