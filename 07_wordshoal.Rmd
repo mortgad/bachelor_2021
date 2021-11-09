@@ -29,7 +29,6 @@ df <- df %>% mutate(
   month_year_id = paste0(Year,"_", month(Date))
 ) %>% select(-c(Title))
 
-
 ```
 
 # --------------------------------------------------------------------------------------------------------------
@@ -102,12 +101,20 @@ map(pdf, wordshoaler)
 
 ```{r}
 ############## corpus per month ###################
-pdf = unique(df$month_year_id)[52:53]  # input list
+dfny <- df %>% group_by(month_year_id) %>% slice(1:100) %>% ungroup() %>% group_by(id) %>% filter(n() > 10) # subset data (only keeping pdf-groups with n > 10). 
 
-i = 1
+#dfny %>% group_by(id) %>% summarise(n()) # to see number of rows per pdf
+
+years_2019_2020 <- dfny %>% filter(Year %in% c(2019,2020))
+months = unique(years_2019_2020$month_year_id)  # input list
+
+#months %>% sort()
+#hep <- years_2019_2020 %>% filter(month_year_id == "2019_11") # see if wordshoal finds amount of documents per month
+#unique(hep$id)
+
 wordshoaler <- function(doc) {
   cat(paste0("[ ] Shoaling ", doc, "\n"))
-  shoal_df = df %>% filter(month_year_id == paste0(doc))
+  shoal_df = years_2019_2020 %>% filter(month_year_id == paste0(doc))
   corpuseret = quanteda::corpus(shoal_df)
   dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE) # matrix making
   wordshoalfit <- wordshoal::textmodel_wordshoal(dfmmm, groups = docvars(corpuseret, "id"), 
@@ -124,7 +131,7 @@ wordshoaler <- function(doc) {
 }
 
 thetascores <- data.frame()
-map(pdf, wordshoaler)
+map(months, wordshoaler)
 ```
 
 # The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
