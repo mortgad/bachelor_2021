@@ -23,11 +23,31 @@ library(quanteda.textmodels)
 ```{r}
 # Importing data
 df <- read_csv("./data/folketinget_2009_2021_raw.csv")
+```
 
-# Making a month and year unique variable
-df <- df %>% mutate(
-  month_year_id = paste0(Year,"_", month(Date))
-) %>% select(-c(Title))
+# --------------------------------------------------------------------------------------------------------------
+# Preprocessing
+
+```{r}
+# Checking party labels
+df %>% group_by(Parti) %>% count() %>% arrange(-n)
+```
+
+
+```{r}
+# Filtering out parties 
+parties_to_remove <- c("Uden for partierne", "Venstresocialisterne")
+df <- df %>% 
+  filter(!Parti %in% parties_to_remove) %>% 
+  # Changing konservative folkeparti
+  mutate(
+  Parti = ifelse(Parti == "Konservative Folkeparti","Det Konservative Folkeparti", Parti),
+  month_year_id = paste0(Year,"_", month(Date)) # Making a month and year unique variable
+) %>% 
+  #removing documents with less than 10 speaches
+  group_by(id) %>% 
+  filter(n() > 10) %>% ungroup(10) %>% 
+  select(-c(Title))
 
 ```
 
@@ -101,20 +121,15 @@ map(pdf, wordshoaler)
 
 ```{r}
 ############## corpus per month ###################
-dfny <- df %>% group_by(month_year_id) %>% slice(1:100) %>% ungroup() %>% group_by(id) %>% filter(n() > 10) # subset data (only keeping pdf-groups with n > 10). 
+years = seq(2021,2021) # Years to loop through
 
-#dfny %>% group_by(id) %>% summarise(n()) # to see number of rows per pdf
+df_subset <- df %>% filter(Year %in% years) 
+months = unique(df_subset$month_year_id) # input list
 
-years_2019_2020 <- dfny %>% filter(Year %in% c(2019,2020))
-months = unique(years_2019_2020$month_year_id)  # input list
-
-#months %>% sort()
-#hep <- years_2019_2020 %>% filter(month_year_id == "2019_11") # see if wordshoal finds amount of documents per month
-#unique(hep$id)
-
-wordshoaler <- function(doc) {
-  cat(paste0("[ ] Shoaling ", doc, "\n"))
-  shoal_df = years_2019_2020 %>% filter(month_year_id == paste0(doc))
+i=1
+wordshoaler <- function(month) {
+  cat(paste0("[ ] Shoaling Month", month, "Month: ", i, " out of ", length(months), "\n"))
+  shoal_df = df_subset %>% filter(month_year_id == paste0(month))
   corpuseret = quanteda::corpus(shoal_df)
   dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE) # matrix making
   wordshoalfit <- wordshoal::textmodel_wordshoal(dfmmm, groups = docvars(corpuseret, "id"), 
@@ -127,11 +142,22 @@ wordshoaler <- function(doc) {
                by.x = "row_names", by.y = "Name")
   fitdf <- subset(fitdf, !duplicated(row_names))
   thetascores <<- rbind(thetascores, fitdf)
-
+  i <<- i + 1
 }
 
 thetascores <- data.frame()
 map(months, wordshoaler)
+
+# writing the estimates
+filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
+write_csv(thetascores, filename)
+```
+```{r}
+i =1
+for (i in seq(1:10)){
+  i <<- i+1
+  print(i)
+}
 ```
 
 # The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
