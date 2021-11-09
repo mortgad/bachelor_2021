@@ -121,7 +121,7 @@ map(pdf, wordshoaler)
 
 ```{r}
 ############## corpus per month ###################
-years = seq(2021,2021) # Years to loop through
+years = seq(2016,2021) # Years to loop through
 
 df_subset <- df %>% filter(Year %in% years) 
 months = unique(df_subset$month_year_id) # input list
@@ -152,13 +152,7 @@ map(months, wordshoaler)
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
 ```
-```{r}
-i =1
-for (i in seq(1:10)){
-  i <<- i+1
-  print(i)
-}
-```
+
 
 # The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
 
