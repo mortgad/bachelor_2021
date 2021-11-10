@@ -7,7 +7,7 @@ output: html_document
 
 ```{r}
 # loading packages
-pacman::p_load(tidyverse, corpus, devtools, lubridate, flux)
+pacman::p_load(tidyverse, corpus, devtools, lubridate, flux, stopwords)
 
 # Installing the latest version of quanteda and wordshoal
 #devtools::install_github("https://github.com/quanteda/quanteda")
@@ -19,6 +19,9 @@ library(wordshoal)
 library(quanteda.textmodels)
 ```
 
+```{r}
+stopwords("danish")
+```
 
 ```{r}
 # Importing data
@@ -49,7 +52,6 @@ df <- df %>%
   #removing documents with less than 10 speaches
   group_by(id) %>% 
   filter(n() > 10) %>% ungroup() %>% 
-  select(-c(Title)) %>% 
   # Removing all formand because of procedural and lots of mistakes. 
   filter(!Title %in% c("Formanden","Formand")) %>% 
   # filtering out all duplicates
@@ -128,7 +130,7 @@ map(pdf, wordshoaler)
 
 ```{r}
 ############## corpus per month ###################
-years = seq(2016,2021) # Years to loop through
+years = seq(2011,2011) # Years to loop through
 
 df_subset <- df %>% filter(Year %in% years) 
 months = unique(df_subset$month_year_id) # input list
@@ -138,7 +140,7 @@ wordshoaler <- function(month) {
   cat(paste0("[ ] Shoaling Month ", month, ". Month: ", i, " out of ", length(months), "\n"))
   shoal_df = df_subset %>% filter(month_year_id == paste0(month))
   corpuseret = quanteda::corpus(shoal_df)
-  dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE) # matrix making
+  dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE, ignoredFeatures = stopwords("danish")) # matrix making
   wordshoalfit <- wordshoal::textmodel_wordshoal(dfmmm, groups = docvars(corpuseret, "id"), 
                                                  authors = docvars(corpuseret, "Name"))
   author_positions <- summary(wordshoalfit)$estimated.author.positions
@@ -159,7 +161,6 @@ map(months, wordshoaler)
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
 ```
-
 
 
 # The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
