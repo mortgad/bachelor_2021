@@ -37,6 +37,8 @@ df %>% group_by(Parti) %>% count() %>% arrange(-n)
 ```{r}
 # Filtering out parties 
 parties_to_remove <- c("Uden for partierne", "Venstresocialisterne")
+
+
 df <- df %>% 
   filter(!Parti %in% parties_to_remove) %>% 
   # Changing konservative folkeparti
@@ -46,10 +48,15 @@ df <- df %>%
 ) %>% 
   #removing documents with less than 10 speaches
   group_by(id) %>% 
-  filter(n() > 10) %>% ungroup(10) %>% 
-  select(-c(Title))
+  filter(n() > 10) %>% ungroup() %>% 
+  select(-c(Title)) %>% 
+  # Removing all formand because of procedural and lots of mistakes. 
+  filter(!Title %in% c("Formanden","Formand")) %>% 
+  # filtering out all duplicates
+  group_by(doc_id) %>% filter(n() < 2) %>% ungroup()
 
 ```
+
 
 # --------------------------------------------------------------------------------------------------------------
 # Implementing the wordshoal function on our own data
@@ -128,7 +135,7 @@ months = unique(df_subset$month_year_id) # input list
 
 i=1
 wordshoaler <- function(month) {
-  cat(paste0("[ ] Shoaling Month", month, "Month: ", i, " out of ", length(months), "\n"))
+  cat(paste0("[ ] Shoaling Month ", month, ". Month: ", i, " out of ", length(months), "\n"))
   shoal_df = df_subset %>% filter(month_year_id == paste0(month))
   corpuseret = quanteda::corpus(shoal_df)
   dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE) # matrix making
@@ -152,6 +159,7 @@ map(months, wordshoaler)
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
 ```
+
 
 
 # The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
