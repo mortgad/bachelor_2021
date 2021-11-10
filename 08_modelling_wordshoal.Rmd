@@ -19,8 +19,16 @@ agg <- df %>% group_by(Parti, time) %>% summarise(mean = mean(theta), sd = sd(th
 # 
 
 agg %>% 
-ggplot()+
-  aes()
+  ggplot() +
+  aes(x = time, y = mean, color = Parti) +
+  geom_point()+
+  geom_line()+
+  scale_color_manual(values = wesanderson::wes_palette("FantasticFox1", 10, type = "continuous"))+
+  facet_wrap(~Parti)
+  
+  
+  
+  
 
   
 
