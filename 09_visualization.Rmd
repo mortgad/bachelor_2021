@@ -172,7 +172,7 @@ head(results)
 ```{r}
 #################### INSPECTING THE RESULTS ###########################
 # Import the results
-results <- read_csv("../data/cv_results_subset.csv")
+results <- read_csv("./data/cv_results_subset.csv")
 ```
 
 ```{r}
@@ -185,10 +185,9 @@ results %>%
   aes(x = Year, y = kappa)+
   geom_point()+
   geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
   ylim(0, 1)+
-  labs(y = "Kappa score", title = "Level of polarization in Folketinget")
+  labs(y = "Cohen Kappa score", title = "Level of polarization in Folketinget")
 ```
-```{r}
-results %>% group_by(alpha) %>% count()
-```
+
 

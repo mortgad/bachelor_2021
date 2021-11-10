@@ -7,16 +7,18 @@ output: html_document
 
 ```{r}
 # loading packages
-pacman::p_load(tidyverse, corpus, devtools, lubridate, flux, stopwords)
+pacman::p_load(tidyverse, corpus, devtools, lubridate, flux, stopwords, seededlda)
 
 # Installing the latest version of quanteda and wordshoal
 #devtools::install_github("https://github.com/quanteda/quanteda")
 #remotes::install_github("kbenoit/wordshoal")
+#devtools::install_github("quanteda/quanteda.corpora")
 
 # Loading the packages
 library(quanteda)
 library(wordshoal)
 library(quanteda.textmodels)
+library(quanteda.corpora)
 ```
 
 
@@ -158,6 +160,22 @@ map(months, wordshoaler)
 # writing the estimates
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
+```
+# LDA 
+```{r}
+corpuseret = quanteda::corpus(df %>% filter(Year == 2011)) 
+dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE, ignoredFeatures = stopwords("danish")) %>%
+              dfm_trim(min_termfreq = 0.8, termfreq_type = "quantile",
+                       max_docfreq = 0.1, docfreq_type = "prop") # matrix making
+
+
+tmod_lda <- textmodel_lda(dfmmm, k = 10)
+
+
+```
+
+```{r}
+terms(tmod_lda, 20)
 ```
 
 

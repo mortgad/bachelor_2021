@@ -16,28 +16,39 @@ df$time <- as.Date(paste(year(df$Date), month(df$Date), "01", sep = "-"))
 
 agg <- df %>% group_by(Parti, time) %>% summarise(mean = mean(theta), sd = sd(theta)) %>% drop_na(sd)
 
-# 
 
-agg %>% 
-  ggplot() +
-  aes(x = time, y = mean, color = Parti) +
+  
+df %>% group_by(row_names) %>% summarise(Parti = Parti, mean_theta = mean(theta)) %>% filter(!duplicated(mean_theta)) %>% filter(!row_names %in% c("Thor Pedersen", "Anders Fogh Rasmussen", "Søren Gade")) %>% 
+  ggplot()+
+  aes(x = mean_theta, y = Parti, color = Parti)+
+  geom_point()+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", 10, type = "continuous"))+
+  labs(title = "Wordshoal - Mean estimated position of each member divided by party", x = "Estimated position", y ="")+
+  theme(legend.position = "none")
+  
+```
+
+
+```{r}
+# Aggregated pr year
+agg %>% filter(!Parti %in% c("Radikale Venstre", "Det Radikale Venstre", "Ny Alliance")) %>%  
+  mutate(Year = year(time)) %>% group_by(Year, Parti) %>% summarise(mean = mean(mean)) %>% 
+  ggplot()+
+  aes(x = Year, y = mean, color = Parti)+
   geom_point()+
   geom_line()+
-  scale_color_manual(values = wesanderson::wes_palette("FantasticFox1", 10, type = "continuous"))+
-  facet_wrap(~Parti)
-  
-  
-  
-  
-
-  
-
-
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", 10, type = "continuous"))+
+  labs(title = "Wordshoal - Estimated positions for parties per year", y = "Estimated position")
 ```
 
 InclusionSD_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
 
 Overlapping_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
+
+```{r}
+# 
+
+```
 
 
 ```{r}
