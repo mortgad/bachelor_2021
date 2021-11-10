@@ -1,0 +1,207 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+# loading packages
+pacman::p_load(tidyverse,stringdist, ggplot2, lubridate)
+```
+
+```{r}
+# Importing data
+csv_files = list.files(pattern="*.csv", path = "data/wordshoal_results/", full.names = T) 
+df = map_df(csv_files, read_csv)
+df$time <- as.Date(paste(year(df$Date), month(df$Date), "01", sep = "-"))
+
+agg <- df %>% group_by(Parti, time) %>% summarise(mean = mean(theta), sd = sd(theta)) %>% drop_na(sd)
+
+# 
+
+agg %>% 
+ggplot()+
+  aes()
+
+  
+
+
+```
+
+InclusionSD_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
+
+Overlapping_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
+
+
+```{r}
+##### Inspecting the distribution of speeches for each party
+
+# Inspecting the data
+df %>% count(Parti) %>%
+  ggplot()+
+  aes(x = reorder(Parti, -n), y = n, fill = Parti, label = n)+
+  geom_col(width=0.5, position='dodge') +
+  geom_text(position=position_dodge(0.5), vjust=-.50) + 
+  scale_fill_manual(values = pal)+
+  labs(y="Count", x="Parti", title = "Number of speeches from each party") +
+  ylim(0, 13000)+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+```
+```{r}
+#### Accumulated number of characters for each party
+df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>% 
+  summarize(sum = sum(string_length)) %>%  
+  ggplot()+
+  aes(x = reorder(Parti, -sum), y = sum, fill = Parti)+
+  geom_col(width=0.5, position='dodge') +
+  scale_fill_manual(values = pal)+
+  labs(y="Accumulated characters in speeches", x="Parti", title = "Total length of speeches for each party") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+
+```
+```{r}
+##################################### NUMBER OF SPEECHES PR. MEMBER PR. YEAR ##########################################
+# Wrangling  
+df %>% group_by(Year, Name, Parti) %>% count() %>% 
+  ungroup() %>% group_by(Year) %>% 
+  summarise(mean = mean(n),
+            median = median(n),
+            fifth = quantile(n, probs = 0.05),
+            nintyfifth = quantile(n, probs = 0.95)
+            ) %>% pivot_longer(!Year) %>% 
+  
+  # Plotting
+  ggplot()+
+  aes(x = Year, y = value, color = name, linetype = name)+
+  geom_line()+
+  guides(linetype = FALSE)+
+  scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(x = "Year", 
+       y = "Number of Speeches", 
+       title = "Number of Speeches pr. year pr. person")+
+  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+  
+  
+
+
+```
+```{r}
+############################# LENGTH OF SPEECHES #######################################
+# Wrangling  
+df %>% mutate(text_length = str_length(text)) %>% 
+  group_by(Year) %>% 
+  summarise(mean = mean(text_length),
+            median = median(text_length),
+            fifth = quantile(text_length, probs = 0.05),
+            nintyfifth = quantile(text_length, probs = 0.95)
+            ) %>% pivot_longer(!Year) %>% 
+  
+  # Plotting
+  ggplot()+
+  aes(x = Year, y = value, color = name, linetype = name)+
+  geom_line()+
+  guides(linetype = FALSE)+
+  scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(x = "Year", 
+       y = "Speech length", 
+       title = "Speech legnth pr. year")+
+  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+  
+```
+
+
+
+```{r}
+####################################### CHECKING WHETHER THERE ARE ANY SIMILAR NAMES #############################
+# list of all names in the dataset
+names = unique(df$Name)
+
+# Creating a matrix with scores of how similar the names are
+hep <- as.data.frame(stringdistmatrix(names, names, method = "jw"))
+
+# Adding colnames to the matrix
+colnames(hep) <- names
+
+# Pivoting and filtering out similar records
+hep %>% 
+  mutate(
+    name = names
+    ) %>% 
+  pivot_longer(!name, names_to = "name2", values_to = "similarity_scores") %>% 
+  filter(similarity_scores <= 0.2 & similarity_scores !=0)
+
+```
+
+
+
+
+```{r}
+################################### REMOVE SHORT SENTENCES #######################################
+
+# Getting the length of all the strings
+hep <- df %>% mutate(
+  n_words = sapply(strsplit(text, " "), length)
+)
+
+# Threshold for how many words a speech should contatin 
+limit = 50
+
+# Summarizing the data
+hep %>% 
+  count(n_words) %>% 
+  mutate(threshold = ifelse(n_words >= limit, paste("Below", limit, "words"), paste("Above", limit, "words"))) %>% 
+  group_by(threshold) %>% 
+  summarise("n_speeches" = sum(n)) %>% 
+  mutate(percentage = n_speeches/sum(n_speeches))
+  
+
+```
+
+```{r}
+# Inspecting the data
+hep %>% 
+  filter(n_words > 50) %>%
+  count(Parti) %>%
+  ggplot()+
+  aes(x = reorder(Parti, -n), y = n, fill = Parti, label = n)+
+  geom_col(width=0.5, position='dodge') +
+  geom_text(position=position_dodge(0.5), vjust=-.50) + 
+  scale_fill_manual(values = pal)+
+  labs(y="Count", x="Parti", title = "Number of speeches from each party") +
+  ylim(0, 13000)+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+  
+```
+
+```{r}
+head(results)
+```
+
+# Inspecting the results
+```{r}
+#################### INSPECTING THE RESULTS ###########################
+# Import the results
+results <- read_csv("../data/cv_results_subset.csv")
+```
+
+```{r}
+# Plotting the results
+
+results %>% 
+  group_by(Year) %>% 
+  summarise(kappa = mean(kappa_test)) %>% 
+  ggplot()+
+  aes(x = Year, y = kappa)+
+  geom_point()+
+  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  ylim(0, 1)+
+  labs(y = "Kappa score", title = "Level of polarization in Folketinget")
+```
+```{r}
+results %>% group_by(alpha) %>% count()
+```
+
