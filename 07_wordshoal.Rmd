@@ -19,9 +19,6 @@ library(wordshoal)
 library(quanteda.textmodels)
 ```
 
-```{r}
-stopwords("danish")
-```
 
 ```{r}
 # Importing data
@@ -47,6 +44,7 @@ df <- df %>%
   # Changing konservative folkeparti
   mutate(
   Parti = ifelse(Parti == "Konservative Folkeparti","Det Konservative Folkeparti", Parti),
+  Parti = ifelse(Parti == "Det Radikale Venstre","Radikale Venstre", Parti),
   month_year_id = paste0(Year,"_", month(Date)) # Making a month and year unique variable
 ) %>% 
   #removing documents with less than 10 speaches
@@ -130,7 +128,7 @@ map(pdf, wordshoaler)
 
 ```{r}
 ############## corpus per month ###################
-years = seq(2011,2011) # Years to loop through
+years = seq(2014,2014) # Years to loop through
 
 df_subset <- df %>% filter(Year %in% years) 
 months = unique(df_subset$month_year_id) # input list
