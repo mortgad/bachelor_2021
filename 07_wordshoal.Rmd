@@ -57,7 +57,7 @@ df <- df %>%
   # filtering out all duplicates
   group_by(doc_id) %>% filter(n() < 2) %>% ungroup()
 
-# Adding column for whether party is in coalition
+# Adding column for whether party is in coalition or opposition
 
 S <- c("Socialdemokratiet")
 SR <- c("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti")
@@ -101,7 +101,7 @@ get_theta <- function(data){
 
 testfunc <- function(data, year_list, party_list){
   
-  # subsetting data frame based on arguments
+  # subsetting df based on arguments
   if(missing(data)){
     cat("Missing data-argument")
   } else if(hasArg(year_list) & hasArg(party_list)){
@@ -125,17 +125,7 @@ testfunc <- function(data, year_list, party_list){
 # getting theta estimates for each speaker per month for Venstre & Socialdemokratiet
 hep <- testfunc(data = df, year_list = c("2019"), party_list = c("Socialdemokratiet", "Venstre"))
 
-# writing csv file manually
-filename = paste0("./data/wordshoal_results/wordshoal_estimates_hep.csv")
-write_csv(theta_df, filename)
-
 ```
-
-
-
-
-
-
 
 ```{r}
 ############## corpus per month ###################

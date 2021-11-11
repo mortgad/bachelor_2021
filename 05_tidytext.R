@@ -16,7 +16,8 @@ name_re = "[\\w\\s-\\.]+"
 # load in metadata
 meta = read_delim("./data/metadata_for_scraping/metadata.csv", ";", col_types = cols()) %>%
     mutate(id = tools::file_path_sans_ext(basename(PDF))) %>%
-    select(-PDF, -X6)
+    # select(-PDF, -X6) this was Malthes, but column X6 does not exist???
+    select(-PDF, -...6) # idk why column name has changed
 
 tidy_text <- function(filename) {
     cat(paste0("[ ] Tidying ", filename, "\n"))
@@ -183,8 +184,6 @@ test_ft = ft_members_copy %>%
     mutate(Year = map(Year, ~ .x:(.x+3))) %>%
     unnest()
 
-
-
 weird_names = filter(data3, is.na(Parti)) %>%
     distinct(Name, Year) %>%
     arrange(Name, Year)
@@ -270,6 +269,7 @@ periods = tribble(~Period,     ~StartDate,
                   "2019-"    , "05-06-2019") %>%
     mutate(StartDate = dmy(StartDate))
 
+nrow(periods):1
 find_period <- function(date) {
     if (is.na(date)) {return(NA)}
     for (i in nrow(periods):1) {
