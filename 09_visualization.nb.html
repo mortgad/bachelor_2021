@@ -2213,17 +2213,33 @@ agg &lt;- results %&gt;% group_by(Parti, Date) %&gt;% arrange(-overlap_score, .b
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBNb2RlbGxpbmcgd2l0aCBsbWVyISEhXG5wYWNtYW46OnBfbG9hZChsbWU0KVxuXG4jICBtMTogSW5jbHVzaW9uU0RfdDIgfiAxICsgSW5jbHVzaW9uU0RfdDEgKyBPdmVybGFwcGluZ190MSArICgxICsgSW5jbHVzaW9uU0RfdDEgKyBPdmVybGFwcGluZ190MSB8IFBhcnR5KVxubTEgPC0gbG0oc2RfdGhldGEgfiAxICsgbGFnX3NkX3RoZXRhICsgbGFnX2RpZmZlcmVuY2Vfc2NvcmUsIGRhdGEgPSBhZ2cpXG5zdW1tYXJ5KG0xKVxuXG5tMiA8LSBsbWVyKHNkX3RoZXRhIH4gMSArIGxhZ19zZF90aGV0YSArIGxhZ19kaWZmZXJlbmNlX3Njb3JlICsgKDEgKyBsYWdfc2RfdGhldGEgKyBsYWdfZGlmZmVyZW5jZV9zY29yZSB8IFBhcnRpKSwgZGF0YSA9IGFnZylcbnN1bW1hcnkobTIpXG5gYGAifQ== -->
-<pre class="r"><code># Modelling with lmer!!!
-pacman::p_load(lme4)
-
-#  m1: InclusionSD_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
-m1 &lt;- lm(sd_theta ~ 1 + lag_sd_theta + lag_difference_score, data = agg)
-summary(m1)
-
-m2 &lt;- lmer(sd_theta ~ 1 + lag_sd_theta + lag_difference_score + (1 + lag_sd_theta + lag_difference_score | Parti), data = agg)
-summary(m2)</code></pre>
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuc3VtbWFyeShtMSlcblxuYGBgIn0= -->
+<pre class="r"><code>summary(m1)
+</code></pre>
 <!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiXG5DYWxsOlxubG0oZm9ybXVsYSA9IHNkX3RoZXRhIH4gMSArIGxhZ19zZF90aGV0YSArIGxhZ19kaWZmZXJlbmNlX3Njb3JlLCBcbiAgICBkYXRhID0gYWdnKVxuXG5SZXNpZHVhbHM6XG4gICAgTWluICAgICAgMVEgIE1lZGlhbiAgICAgIDNRICAgICBNYXggXG4tMC40OTk5IC0wLjE1OTQgLTAuMDI5NCAgMC4xMTU3ICAxLjA4MzEgXG5cbkNvZWZmaWNpZW50czpcbiAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlIFN0ZC4gRXJyb3IgdCB2YWx1ZSBQcig+fHR8KSAgICBcbihJbnRlcmNlcHQpICAgICAgICAgICAwLjU1NzI0ICAgIDAuMDQ0OTUgIDEyLjM5NiAgPCAyZS0xNiAqKipcbmxhZ19zZF90aGV0YSAgICAgICAgICAwLjAxOTY2ICAgIDAuMDQ5NDQgICAwLjM5OCAgMC42OTExMiAgICBcbmxhZ19kaWZmZXJlbmNlX3Njb3JlIC0wLjI2ODU5ICAgIDAuMDgxOTEgIC0zLjI3OSAgMC4wMDExMyAqKiBcbi0tLVxuU2lnbmlmLiBjb2RlczogIDAg4oCYKioq4oCZIDAuMDAxIOKAmCoq4oCZIDAuMDEg4oCYKuKAmSAwLjA1IOKAmC7igJkgMC4xIOKAmCDigJkgMVxuXG5SZXNpZHVhbCBzdGFuZGFyZCBlcnJvcjogMC4yNTEyIG9uIDQyNiBkZWdyZWVzIG9mIGZyZWVkb21cbiAgKDEgb2JzZXJ2YXRpb24gZGVsZXRlZCBkdWUgdG8gbWlzc2luZ25lc3MpXG5NdWx0aXBsZSBSLXNxdWFyZWQ6ICAwLjAyODQzLFx0QWRqdXN0ZWQgUi1zcXVhcmVkOiAgMC4wMjM4NyBcbkYtc3RhdGlzdGljOiA2LjIzMyBvbiAyIGFuZCA0MjYgREYsICBwLXZhbHVlOiAwLjAwMjE0N1xuIn0= -->
+<pre><code>
+Call:
+lm(formula = sd_theta ~ 1 + lag_sd_theta + lag_difference_score, 
+    data = agg)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.4999 -0.1594 -0.0294  0.1157  1.0831 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(&gt;|t|)    
+(Intercept)           0.55724    0.04495  12.396  &lt; 2e-16 ***
+lag_sd_theta          0.01966    0.04944   0.398  0.69112    
+lag_difference_score -0.26859    0.08191  -3.279  0.00113 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.2512 on 426 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.02843,   Adjusted R-squared:  0.02387 
+F-statistic: 6.233 on 2 and 426 DF,  p-value: 0.002147</code></pre>
+<!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
