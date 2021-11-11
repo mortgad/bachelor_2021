@@ -5,7 +5,7 @@ output: html_notebook
 
 ```{r}
 # loading packages
-pacman::p_load(tidyverse,stringdist)
+pacman::p_load(tidyverse,stringdist, overlapping, lubridate)
 ```
 
 ```{r}
@@ -18,6 +18,8 @@ pal <- wesanderson::wes_palette("Darjeeling1", 14, type = "continuous")
 # Setting up the theme
 theme_set(theme_minimal())
 ```
+
+
 
 ```{r}
 ##### Inspecting the distribution of speeches for each party
@@ -172,13 +174,13 @@ head(results)
 ```{r}
 #################### INSPECTING THE RESULTS ###########################
 # Import the results
-results <- read_csv("./data/cv_results_subset.csv")
+ML_results <- read_csv("./data/cv_results_subset.csv")
 ```
 
 ```{r}
 # Plotting the results
 
-results %>% 
+ML_results %>% 
   group_by(Year) %>% 
   summarise(kappa = mean(kappa_test)) %>% 
   ggplot()+
@@ -187,7 +189,147 @@ results %>%
   geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
   geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
   ylim(0, 1)+
-  labs(y = "Cohen Kappa score", title = "Level of polarization in Folketinget")
+  labs(y = "Cohen Kappa score", title = "ML - Level of polarization in Folketinget")
 ```
+
+# ------------------------ Plotting results of overlap ----------------------------------------
+```{r}
+# Load results dataframe
+results <- read_csv("./data/agg_results_2009_2014.csv") %>% 
+  # Creating date variable
+  mutate(
+  Date = str_replace(month_year_id, "_", "-"),
+  Date = as.Date(paste0(Date, "-01"))
+)
+
+```
+
+```{r}
+results %>%  group_by(Parti, Date) %>% summarise(mean = mean(difference_score)) %>% ungroup() %>% group_by(Date) %>% summarise(mean = mean(mean)) %>% ungroup() %>% 
+  ggplot()+
+  aes(x = Date, y = mean)+
+  geom_point()+
+  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
+  ylim(0, 1)+
+  labs(x = "Time",y = "Mean difference score", title = "Wordshoal - Level of polarization in Folketinget")
+  
+```
+
+```{r}
+results %>%  group_by(Parti, Date) %>% summarise(mean = mean(difference_score)) %>% ungroup() %>% 
+  ggplot()+
+  aes(x = Date, y = mean)+
+  geom_point()+
+  geom_line(aes(color = Parti))+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
+  ylim(0, 1)+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", 10, type = "continuous")[2:10])+
+  facet_wrap(~Parti)+
+  labs(x = "Time",y = "Mean difference score", title = "Wordshoal - Level of polarization in Folketinget per party")+
+  theme(legend.position = "none")
+  
+```
+
+
+# ------------------------ Creating overlap variable ----------------------------------------
+
+
+```{r}
+# Loading the results
+csv_files = list.files(pattern="*.csv", path = "data/wordshoal_results/", full.names = T) 
+df = map_df(csv_files, read_csv)
+df$time <- as.Date(paste(year(df$Date), month(df$Date), "01", sep = "-"))
+
+
+df <- df %>% mutate(
+  Parti = ifelse(Parti == "Det Radikale Venstre","Radikale Venstre", Parti)
+)
+```
+
+
+
+```{r}
+# FUNCTION
+overlapper <- function(period){
+  # Printing status
+  print(paste0("[ ] Calculating overlaps for month: ", period, ". Number: ", i, " out of ", as.character(length(unique(df$month_year_id)))))
+  
+  # Subsetting the period and filtering out parties that only has 1 speech in a month
+  subset <- df %>% filter(month_year_id == period) %>% group_by(Parti) %>% filter(n() > 1) %>% ungroup()
+  
+  # Making a list of parties
+  parties <- unique(subset$Parti)
+  
+  # Converting into wide format
+  wide <- subset %>% pivot_wider(names_from = Parti, values_from = theta) 
+  
+  # Creating an empty list
+  list <- list()
+  # Adding the parties to the list
+  for(party in parties){
+    list <- append(list,na.omit(select(wide, party)))
+  }
+  
+  # Calculating the overlaps
+  overlaps <- overlap(list)
+  
+  # Wringling the data
+  results <- data.frame(overlaps$OV) %>% rownames_to_column("Parties") %>% 
+    separate(Parties, c("From","To"), "-")
+  
+  # Making an empty data frame to append to
+  end_results = data_frame()
+  
+  # Wrangling the result data frame
+  for(party in parties){
+    hep <- results %>% filter(From == party | To == party) %>% mutate(
+      copy_from = From,
+      From = ifelse(From == party, From, To),
+      To = ifelse(To == party, copy_from, To)
+    ) %>% select(-copy_from)
+    
+    end_results <- rbind(end_results, hep)
+}
+
+  # Adding month_year_id variable
+  end_results$month_year_id <- period
+  
+  i <<- i + 1
+  return(end_results)
+}
+
+```
+
+```{r}
+# Looping over the function
+i = 1
+heppe <- map_df(unique(df$month_year_id), overlapper)
+```
+
+
+```{r}
+# Adding the aggregated columns to the results and exporting the data
+agg <- df %>% group_by(month_year_id, Parti) %>% summarise(mean_theta = mean(theta), 
+                                                           sd_theta = sd(theta))
+
+
+jep <- left_join(heppe, tjep, by = c("From" = "Parti", "month_year_id" = "month_year_id")) %>% 
+  rename(
+    Parti = From,
+    overlap_with = To,
+    overlap_score = overlaps.OV
+  ) %>% mutate(
+    difference_score = 1-overlap_score
+  )
+  select(month_year_id, Parti, overlap_with, overlap_score, mean_theta, sd_theta)
+
+write_csv(results, "./data/agg_results_2009_2014.csv")
+```
+
+
+
+
+
 
 
