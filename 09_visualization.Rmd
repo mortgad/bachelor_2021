@@ -314,7 +314,7 @@ agg <- df %>% group_by(month_year_id, Parti) %>% summarise(mean_theta = mean(the
                                                            sd_theta = sd(theta))
 
 
-jep <- left_join(heppe, tjep, by = c("From" = "Parti", "month_year_id" = "month_year_id")) %>% 
+jep <- left_join(heppe, tjep, by = c("From" = "Parti", Date = Date)) %>% 
   rename(
     Parti = From,
     overlap_with = To,
@@ -328,8 +328,52 @@ write_csv(results, "./data/agg_results_2009_2014.csv")
 ```
 
 
+# ----------------------------------- MODELLING ---------------------------------------
+
+```{r}
+# Load results dataframe
+results <- read_csv("./data/agg_results_2009_2014.csv") %>% 
+  # Creating date variable
+  mutate(
+  Date = str_replace(month_year_id, "_", "-"),
+  Date = as.Date(paste0(Date, "-01"))
+)
+
+######## Preprocessing #########3
+# Agregating results into a single data frame - VERY MESSY i know
+agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>%
+  summarise(overlap_score = mean(overlap_score),
+            difference_score = mean(difference_score)) 
+
+agg <- left_join(x = agg, y = results %>% select(c(Parti, Date, mean_theta, sd_theta)), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
+
+# Adding a lag column for the predictors - difference_score and sd_theta
+agg <- agg %>% mutate(
+  lag_difference_score = lag(difference_score ),
+  lag_sd_theta = lag(sd_theta)
+)
+```
+
+```{r}
+# Modelling with lmer!!!
+pacman::p_load(lme4)
+
+#  m1: InclusionSD_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
+m1 <- lm(sd_theta ~ 1 + lag_sd_theta + lag_difference_score, data = agg)
+summary(m1)
+
+m2 <- lmer(sd_theta ~ 1 + lag_sd_theta + lag_difference_score + (1 + lag_sd_theta + lag_difference_score | Parti), data = agg)
+summary(m2)
+```
 
 
+```{r}
+# m3: Overlapping_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
+m3 <- lm(difference_score ~ 1 + lag_difference_score + lag_sd_theta, data = agg)
+summary(m3)
 
+m4 <- lmer(difference_score ~ 1 + lag_difference_score + lag_sd_theta + (1 + lag_difference_score + lag_sd_theta | Parti), data = agg)
+summary(m4)
+```
 
 
