@@ -6,6 +6,7 @@
 .Python
 
 # Other
+.Rdata
 .idea/
 .ipynb_checkpoints
 .Rproj.user

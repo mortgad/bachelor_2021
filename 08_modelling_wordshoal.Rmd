@@ -6,6 +6,9 @@ output: html_notebook
 ```{r}
 # loading packages
 pacman::p_load(tidyverse,stringdist, ggplot2, lubridate)
+
+# Color pallette
+pal <- wesanderson::wes_palette("Darjeeling1", 14, type = "continuous")
 ```
 
 ```{r}

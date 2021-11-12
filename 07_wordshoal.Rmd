@@ -7,7 +7,7 @@ output: html_document
 
 ```{r}
 # loading packages
-pacman::p_load(tidyverse, corpus, devtools, lubridate, flux, stopwords, seededlda)
+pacman::p_load(tidyverse, corpus, devtools, lubridate, flux, stopwords, seededlda, maps)
 
 # Installing the latest version of quanteda and wordshoal
 #devtools::install_github("https://github.com/quanteda/quanteda")
@@ -57,74 +57,73 @@ df <- df %>%
   # filtering out all duplicates
   group_by(doc_id) %>% filter(n() < 2) %>% ungroup()
 
+# Adding column for whether party is in coalition or opposition
+
+S <- c("Socialdemokratiet")
+SR <- c("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti")
+SRSF <- c("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti")
+V <- c("Venstre")
+VK <- c("Venstre", "Det Konservative Folkeparti")
+VLAK <- c("Venstre", "Liberal Alliance", "Det Konservative Folkeparti")
+
+df <- df %>% mutate(coalition = case_when(
+  as.Date("2001-11-27") < Date & Date < as.Date("2011-11-03") ~ ifelse(Parti %in% VK, "Yes", "No"),
+  as.Date("2011-11-03") < Date & Date < as.Date("2014-02-03") ~ ifelse(Parti %in% SRSF, "Yes", "No"),
+  as.Date("2014-02-03") < Date & Date < as.Date("2015-06-28") ~ ifelse(Parti %in% SR, "Yes", "No"),
+  as.Date("2015-06-28") < Date & Date < as.Date("2016-11-28") ~ ifelse(Parti %in% V, "Yes", "No"),
+  as.Date("2016-11-28") < Date & Date < as.Date("2019-06-27") ~ ifelse(Parti %in% VLAK, "Yes", "No"),
+  as.Date("2019-06-27") < Date ~ ifelse(Parti %in% S, "Yes", "No")))
+
 ```
 
 
 # --------------------------------------------------------------------------------------------------------------
 # Implementing the wordshoal function on our own data
 
-```{r}
-# Making the df into a corpus
-corpus <- corpus(dfny)
-
-# Create a data frame matrix (dfm)
-dfm <- dfm(tokens(corpus), remove_punct = TRUE)
-
-# Fitting the model
-wordshoalfit <- 
-    textmodel_wordshoal(dfm, #dir = c(7,1), # I cannot figure out what the 'dir' argument does
-                        groups = docvars(corpus, "id"), 
-                        authors = docvars(corpus, "Name"))
-
-# Inspecting the output
-summary(wordshoalfit) 
-
-```
-
 
 ```{r}
-# Aggregating to get the positions of the mean positon of the parties
-author_positions <- summary(wordshoalfit)$estimated.author.positions
-author_positions$row_names <- rownames(author_positions)
+##############  TESTING NEW FUNCTION ############## 
 
-fitdf <- merge(author_positions,
-               docvars(corpus), 
-               by.x = "row_names", by.y = "Name")
-fitdf <- subset(fitdf, !duplicated(row_names))
-
-
-aggregate(theta ~ Parti, data = fitdf, mean)
-```
-
-# Loop through unique id's in csv and wordshoal each "pdf"
-
-
-```{r}
-######### Corpus per pdf #######
-dfny <- df %>% filter(id %in% c("20201_M108_referat", "20201_M114_referat")) %>% group_by(id) %>% slice(1:100) %>% ungroup() # subset data
-pdf = unique(dfny$id) # input list
-   
-i = 1
-wordshoaler <- function(doc) {
-  cat(paste0("[ ] Shoaling ", doc, "\n"))
-  shoal_df = dfny %>% filter(id == paste0(doc))
-  corpuseret = quanteda::corpus(shoal_df)
-  dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE) # matrix making
-  wordshoalfit <- wordshoal::textmodel_wordshoal(dfmmm, groups = docvars(corpuseret, "id"), 
-                                                 authors = docvars(corpuseret, "Name"))
+get_theta <- function(data){
+  corpus = quanteda::corpus(data)
+  dfm <- dfm(tokens(corpus), remove_punct = TRUE, ignoredFeatures = stopwords("danish")) # matrix making
+  wordshoalfit <- wordshoal::textmodel_wordshoal(dfm, groups = docvars(corpus, "id"), 
+                                                 authors = docvars(corpus, "Name"))
   author_positions <- summary(wordshoalfit)$estimated.author.positions
   author_positions$row_names <- rownames(author_positions)
 
   fitdf <- merge(author_positions,
-               docvars(corpuseret), 
+               docvars(corpus), 
                by.x = "row_names", by.y = "Name")
   fitdf <- subset(fitdf, !duplicated(row_names))
-  thetascores <<- rbind(thetascores, fitdf)
-
+  theta_df <<- rbind(theta_df, fitdf)
 }
-#column_names = c("row_names", "theta", "se", "Title", "id", "Samling", "Nr", "Titel", "Dato", "speaker_id", "Date", "Year", "Parti", "Period", "n_words")
-thetascores <- data.frame()
-map(pdf, wordshoaler)
+
+testfunc <- function(data, year_list, party_list){
+  
+  # subsetting df based on arguments
+  if(missing(data)){
+    cat("Missing data-argument")
+  } else if(hasArg(year_list) & hasArg(party_list)){
+    data = data %>% filter(Year %in% year_list & Parti %in% party_list)
+  } else if(hasArg(party_list)){
+    data = data %>% filter(Parti %in% party_list)
+  } else if(hasArg(year_list)){
+    data = data %>% filter(Year %in% year_list)
+  }
+  
+  # creating empty df to append to
+  theta_df <<- data.frame()
+  
+  # create nested list of dataframes to which the shoal-function is applied
+  nested = data %>% split(.$month_year_id)
+  lapply(names(nested), function(x) get_theta(nested[[x]]))
+  filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(year_list), "_", max(year_list), ".csv")
+  write_csv(theta_df, filename)
+}
+
+# getting theta estimates for each speaker per month for Venstre & Socialdemokratiet
+hep <- testfunc(data = df, year_list = c("2019"), party_list = c("Socialdemokratiet", "Venstre"))
 
 ```
 
@@ -161,6 +160,21 @@ map(months, wordshoaler)
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
 ```
+
+```{r}
+# Aggregating to get the positions of the mean positon of the parties
+author_positions <- summary(wordshoalfit)$estimated.author.positions
+author_positions$row_names <- rownames(author_positions)
+
+fitdf <- merge(author_positions,
+               docvars(corpus), 
+               by.x = "row_names", by.y = "Name")
+fitdf <- subset(fitdf, !duplicated(row_names))
+
+
+aggregate(theta ~ Parti, data = fitdf, mean)
+```
+
 # LDA 
 ```{r}
 corpuseret = quanteda::corpus(df %>% filter(Year == 2011)) 
@@ -178,34 +192,20 @@ tmod_lda <- textmodel_lda(dfmmm, k = 10)
 terms(tmod_lda, 20)
 ```
 
-
-# The following example is the one provided in the documentation for the function. This one works. Maybe the answer is here somehow. 
-
 ```{r}
-# Inspecting the data
-summary(data_corpus_irish30)
+# Making the df into a corpus
+corpus <- corpus(dfny)
 
-```
+# Create a data frame matrix (dfm)
+dfm <- dfm(tokens(corpus), remove_punct = TRUE)
 
-```{r}
-texts(corpus)[5]
-```
-
-```{r}
-iedfm <- dfm(data_corpus_irish30, remove_punct = TRUE) 
-
+# Fitting the model
 wordshoalfit <- 
-    textmodel_wordshoal(iedfm, dir = c(7,1),
-                        groups = docvars(data_corpus_irish30, "debateID"), 
-                        authors = docvars(data_corpus_irish30, "member.name"))
+    textmodel_wordshoal(dfm, #dir = c(7,1), # I cannot figure out what the 'dir' argument does
+                        groups = docvars(corpus, "id"), 
+                        authors = docvars(corpus, "Name"))
 
-summary(wordshoalfit)                    
+# Inspecting the output
+summary(wordshoalfit) 
 
-author_positions <- summary(wordshoalfit)$estimated.author.positions
-author_positions$row_names <- rownames(author_positions)
-fitdf <- merge(author_positions,
-               docvars(data_corpus_irish30), 
-               by.x = "row_names", by.y = "member.name")
-fitdf <- subset(fitdf, !duplicated(memberID))
-aggregate(theta ~ party.name, data = fitdf, mean)
 ```

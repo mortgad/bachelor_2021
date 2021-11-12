@@ -20,7 +20,6 @@ theme_set(theme_minimal())
 ```
 
 
-
 ```{r}
 ##### Inspecting the distribution of speeches for each party
 
@@ -49,6 +48,7 @@ df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>%
         legend.position = "none")
 
 ```
+
 ```{r}
 ##################################### NUMBER OF SPEECHES PR. MEMBER PR. YEAR ##########################################
 # Wrangling  
@@ -247,6 +247,21 @@ df <- df %>% mutate(
 )
 ```
 
+```{r}
+subset <- df %>% filter(month_year_id == "2011_5") %>% group_by(Parti) %>% filter(n() > 1) %>% ungroup()
+parties <- unique(subset$Parti)
+wide <- subset %>% pivot_wider(names_from = Parti, values_from = theta) 
+
+list <- list()
+# Adding the parties to the list
+for(party in parties){
+    list <- append(list, na.omit(select(wide, party)))
+}
+
+overlaps <- overlap(list)
+
+```
+
 
 
 ```{r}
@@ -363,6 +378,7 @@ m1 <- lm(sd_theta ~ 1 + lag_sd_theta + lag_difference_score, data = agg)
 summary(m1)
 
 m2 <- lmer(sd_theta ~ 1 + lag_sd_theta + lag_difference_score + (1 + lag_sd_theta + lag_difference_score | Parti), data = agg)
+
 summary(m2)
 ```
 
