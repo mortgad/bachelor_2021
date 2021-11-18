@@ -30,7 +30,7 @@ agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group =
   summarise(overlap_score = mean(overlap_score),
             difference_score = mean(difference_score)) 
 
-agg <- left_join(x = agg, y = results %>% select(c(Parti, Date, mean_theta, sd_theta)), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
+agg <- left_join(x = agg, y = results %>% dplyr::select(c(Parti, Date, mean_theta, sd_theta)), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
 
 # Adding a lag column for the predictors - difference_score and sd_theta
 agg <- agg  %>%  mutate(
@@ -44,34 +44,48 @@ agg <- agg  %>%  mutate(
 ```
 
 ```{r}
-df <- agg %>% filter(Parti == "Dansk Folkeparti") %>% select(Date, Inclusion, Differentiation)
+df <- agg %>% filter(Parti == "Dansk Folkeparti") %>% dplyr::select(Date, Inclusion, Differentiation)
 ```
 
 ```{r}
 #checking out the outome variable
-ggplot(df, aes(x = Inclusion)) + 
+ggplot(agg, aes(x = Inclusion)) + 
   geom_density()+
   labs(title = "Before Transformation")
 
-ggplot(x, aes(x = Inclusion)) + 
+ggplot(agg, aes(x = log(Inclusion))) + 
   geom_density()+
   labs(title = "After Transformation")
 
-ggplot(df, aes(x = Differentiation)) + 
+ggplot(agg, aes(x = Differentiation)) + 
   geom_density()+
   labs(title = "Before Transformation")
 
-ggplot(x, aes(x = Differentiation)) + 
+ggplot(agg, aes(x = log(Differentiation))) + 
   geom_density()+
   labs(title = "After Transformation")
 ```
 ```{r}
+hep <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
+ 
+# Inclusion mean =  -0.8766658 & sd = 0.5761837
+mean(log(hep$Inclusion))
+sd(log(hep$Inclusion))
+
+# Differentiation -1.074466 & sd = 0.3637625
+mean(log(hep$Differentiation))
+sd(log(hep$Differentiation))
+```
+
+
+```{r}
 # Plotting the raw data
-df %>% group_by(Date) %>% pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
+agg %>% group_by(Date) %>% pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
   ggplot()+
   aes(x = Date, y = value, color = Need)+
-  geom_line()+
-  geom_point()
+  #geom_line()+
+  geom_point()+
+  geom_smooth(method = "lm")
 
 # Plotting the transformed data
 x %>% mutate(Date = df$Date[1:55]) %>% group_by(Date) %>% pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
@@ -84,7 +98,7 @@ x %>% mutate(Date = df$Date[1:55]) %>% group_by(Date) %>% pivot_longer(cols = c(
 ```{r}
 # Transforming the data by first difference
 x <- df %>% select(Inclusion, Differentiation)
-x <- fred_transform(x, codes = c(4,4))
+x <- fred_transform(x, codes = c(3,3))
 
 
 ```
@@ -110,6 +124,18 @@ mh <- bv_metropolis(scale_hess = c(0.05, 0.0001, 0.0001),
 # Running the model
 run <- bvar(x, lags = 2, n_draw = 15000, n_burn = 5000, n_thin = 1,
             priors = priors, mh = mh, verbose = TRUE)
+
+```
+```{r}
+pacman::p_load(fitdistrplus)
+
+# Hep 
+descdist(df$Inclusion, discrete = FALSE)
+```
+```{r}
+plot(fitdist(df$Inclusion, "norm"))
+```
+```{r}
 
 ```
 

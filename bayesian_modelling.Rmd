@@ -31,7 +31,7 @@ agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group =
   summarise(overlap_score = mean(overlap_score),
             difference_score = mean(difference_score)) 
 
-agg <- left_join(x = agg, y = results %>% select(c(Parti, Date, mean_theta, sd_theta)), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
+agg <- left_join(x = agg, y = results %>% dplyr::select(Parti, Date, mean_theta, sd_theta), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
 
 # Adding a lag column for the predictors - difference_score and sd_theta
 agg <- agg  %>%  mutate(
@@ -42,6 +42,8 @@ agg <- agg  %>%  mutate(
   Lag_differentiation = lag(Differentiation)
 )
 
+# Removing NA and 0 values
+agg <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
 ```
 
 
@@ -65,7 +67,7 @@ agg %>% group_by(Date) %>% summarise(Inclusion = mean(sd_theta),
 ```{r}
 ###################### DEFINING MODEL AND MAKING PRIOR-PREDICTIVE CHECKS ######################
 
-f1 <- bf(Inclusion ~ 1 + Lag_inclusion + Lag_differentiation + Lag_inclusion:Lag_differentiation + (1|Parti))
+f1 <- bf(Inclusion ~ 1 + Lag_inclusion + Lag_differentiation + Lag_inclusion:Lag_differentiation + (1|Parti), family = lognormal())
 
 get_prior(f1, data = agg)
 
@@ -76,23 +78,23 @@ means <- agg %>% group_by(Parti, Date) %>% summarise(mean = mean(sd_theta),
 
 
 mean(means$mean_of_mean)
-# Mean of 0.4486
+# Mean of 0.4606071
 
 mean(means$sd_of_mean)
-# sd of 0.2428
+# sd of 0.2353983
 
 prior_m1 <- c(
-  prior(normal(0.4, 0.2), class = Intercept),
+  prior(normal(-0.8766658, 0.2), class = Intercept),
   prior(normal(0, 0.2), class = b),
   prior(normal(0.4486, 0.2428), class = sd),
-  prior(exponential(5), class = sigma)
+  prior(normal(0.5761837, 0.2), class = sigma)
 )
 
 # Running the model
 m1_prior <- brm(
   formula = f1,
   data = na.omit(agg),
-  family = gaussian(),
+  family = lognormal(),
   prior = prior_m1, 
   sample_prior = "only",
   chains = 1,
@@ -261,7 +263,72 @@ hypothesis(m1, "Lag_inclusion:Lag_differentiation < 0")
 plot(hypothesis(m1, "Lag_inclusion:Lag_differentiation < 0"))
 ```
 
+# ----------------------------- MODEL WITH DIFFERENTIATION -------------------------
 ```{r}
+###################### DEFINING MODEL AND MAKING PRIOR-PREDICTIVE CHECKS ######################
 
+f2 <- bf(Differentiation ~ 1 + Lag_differentiation +  Lag_inclusion + Lag_differentiation:Lag_inclusion + (1|Parti), family = lognormal())
+
+get_prior(f2, data = agg)
+
+# Finding prior for random intercept
+means <- agg %>% group_by(Parti, Date) %>% summarise(mean = mean(sd_theta),
+                                      sd = sd(sd_theta)) %>% summarise(mean_of_mean = mean(mean),
+                                                                       sd_of_mean = sd(mean))
+
+
+mean(means$mean_of_mean)
+# Mean of 0.4606071
+
+mean(means$sd_of_mean)
+# sd of 0.2353983
+
+prior_m2 <- c(
+  prior(normal(-1.074466, 0.2), class = Intercept),
+  prior(normal(0, 0.2), class = b),
+  prior(normal(0.4486, 0.2428), class = sd),
+  prior(normal(0.3637625, 0.2), class = sigma)
+)
+
+# Running the model
+m2_prior <- brm(
+  formula = f2,
+  data = na.omit(agg),
+  family = lognormal(),
+  prior = prior_m2, 
+  sample_prior = "only",
+  chains = 1,
+  cores = 1,
+  backend = "cmdstanr"
+  #file = here("models", "m2_prior")
+  )
+
+
+# Prior predictive check
+pp_check(m2_prior, nsamples = 100)
 ```
 
+
+```{r}
+############################ RUNNING THE MODEL WITH DATA  #####################################
+# Running the model
+m2 <- brm(
+  formula = f2,
+  data = na.omit(agg),
+  family = gaussian(),
+  prior = prior_m2, 
+  sample_prior = T,
+  chains = 1,
+  cores = 1,
+  backend = "cmdstanr"#,
+  #file = here("models", "m1")
+  )
+
+
+# Posterior predictive check
+pp_check(m2, nsamples = 100)
+
+```
+```{r}
+summary(m2)
+```
