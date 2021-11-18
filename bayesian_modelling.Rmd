@@ -261,3 +261,7 @@ hypothesis(m1, "Lag_inclusion:Lag_differentiation < 0")
 plot(hypothesis(m1, "Lag_inclusion:Lag_differentiation < 0"))
 ```
 
+```{r}
+
+```
+

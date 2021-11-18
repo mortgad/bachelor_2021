@@ -27,12 +27,16 @@ library(quanteda.corpora)
 df <- read_csv("./data/folketinget_2009_2021_raw.csv")
 ```
 
+
+
 # --------------------------------------------------------------------------------------------------------------
 # Preprocessing
 
 ```{r}
 # Checking party labels
 df %>% group_by(Parti) %>% count() %>% arrange(-n)
+
+summary(df$Date)
 ```
 
 
@@ -47,7 +51,8 @@ df <- df %>%
   mutate(
   Parti = ifelse(Parti == "Konservative Folkeparti","Det Konservative Folkeparti", Parti),
   Parti = ifelse(Parti == "Det Radikale Venstre","Radikale Venstre", Parti),
-  month_year_id = paste0(Year,"_", month(Date)) # Making a month and year unique variable
+  month_year_id = paste0(Year,"-", month(Date)), # Making a month and year unique variable
+  Month = floor_date(Date, "month")
 ) %>% 
   #removing documents with less than 10 speaches
   group_by(id) %>% 
@@ -129,7 +134,7 @@ hep <- testfunc(data = df, year_list = c("2019"), party_list = c("Socialdemokrat
 
 ```{r}
 ############## corpus per month ###################
-years = seq(2014,2014) # Years to loop through
+years = seq(2009,2021) # Years to loop through
 
 df_subset <- df %>% filter(Year %in% years) 
 months = unique(df_subset$month_year_id) # input list
@@ -154,7 +159,7 @@ wordshoaler <- function(month) {
 }
 
 thetascores <- data.frame()
-map(months, wordshoaler)
+purrr::map(months, wordshoaler)
 
 # writing the estimates
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")

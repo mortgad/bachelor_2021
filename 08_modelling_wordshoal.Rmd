@@ -69,6 +69,8 @@ df %>% count(Parti) %>%
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none")
 ```
+
+
 ```{r}
 #### Accumulated number of characters for each party
 df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>% 
@@ -82,6 +84,8 @@ df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>%
         legend.position = "none")
 
 ```
+
+
 ```{r}
 ##################################### NUMBER OF SPEECHES PR. MEMBER PR. YEAR ##########################################
 # Wrangling  
@@ -109,6 +113,8 @@ df %>% group_by(Year, Name, Parti) %>% count() %>%
 
 
 ```
+
+
 ```{r}
 ############################# LENGTH OF SPEECHES #######################################
 # Wrangling  

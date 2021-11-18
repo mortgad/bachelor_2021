@@ -309,6 +309,7 @@ overlapper <- function(period){
 # Looping over the function
 i = 1
 heppe <- map_df(unique(df$month_year_id), overlapper)
+
 ```
 
 ```{r}
@@ -345,7 +346,7 @@ jep <- left_join(heppe, agg, by = c("From" = "Parti", "month_year_id" = "month_y
   ) %>% 
   select(month_year_id, Parti, overlap_with, overlap_score, difference_score, mean_theta, sd_theta)
 
-write_csv(results, "./data/agg_results_2009_2021.csv")
+write_csv(jep, "./data/agg_results_2009_2021.csv")
 ```
 
 

@@ -1,0 +1,115 @@
+---
+title: "Untitled"
+author: "Gustav Helms"
+date: "11/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Loading packages
+pacman::p_load(tidyverse, brms, here, BVAR)
+```
+
+
+```{r}
+# Load results dataframe
+results <- read_csv("./data/agg_results_2009_2021.csv") %>% 
+  # Creating date variable
+  mutate(
+  Date = str_replace(month_year_id, "_", "-"),
+  Date = as.Date(paste0(Date, "-01"))
+)
+
+######## Preprocessing #########3
+# Agregating results into a single data frame - VERY MESSY i know
+agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>%
+  summarise(overlap_score = mean(overlap_score),
+            difference_score = mean(difference_score)) 
+
+agg <- left_join(x = agg, y = results %>% select(c(Parti, Date, mean_theta, sd_theta)), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
+
+# Adding a lag column for the predictors - difference_score and sd_theta
+agg <- agg  %>%  mutate(
+  Inclusion = sd_theta,
+  Differentiation = difference_score
+) %>% group_by(Parti) %>% mutate(
+  Lag_inclusion = lag(Inclusion),
+  Lag_differentiation = lag(Differentiation)
+) %>% ungroup
+
+```
+
+```{r}
+df <- agg %>% filter(Parti == "Dansk Folkeparti") %>% select(Date, Inclusion, Differentiation)
+```
+
+```{r}
+#checking out the outome variable
+ggplot(df, aes(x = Inclusion)) + 
+  geom_density()+
+  labs(title = "Before Transformation")
+
+ggplot(x, aes(x = Inclusion)) + 
+  geom_density()+
+  labs(title = "After Transformation")
+
+ggplot(df, aes(x = Differentiation)) + 
+  geom_density()+
+  labs(title = "Before Transformation")
+
+ggplot(x, aes(x = Differentiation)) + 
+  geom_density()+
+  labs(title = "After Transformation")
+```
+```{r}
+# Plotting the raw data
+df %>% group_by(Date) %>% pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
+  ggplot()+
+  aes(x = Date, y = value, color = Need)+
+  geom_line()+
+  geom_point()
+
+# Plotting the transformed data
+x %>% mutate(Date = df$Date[1:55]) %>% group_by(Date) %>% pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
+  ggplot()+
+  aes(x = Date, y = value, color = Need)+
+  geom_line()+
+  geom_point()
+```
+
+```{r}
+# Transforming the data by first difference
+x <- df %>% select(Inclusion, Differentiation)
+x <- fred_transform(x, codes = c(4,4))
+
+
+```
+
+```{r}
+# Defining the priors
+mn <- bv_minnesota(
+  lambda = bv_lambda(mode = 0.2, sd = 0.4, min = 0.0001, max = 5),
+  alpha = bv_alpha(mode = 2), var = 1e07)
+
+# Sum of coefficient and single unit root priors - Don't know what they mean
+soc <- bv_soc(mode = 1, sd = 1, min = 1e-04, max = 50)
+sur <- bv_sur(mode = 1, sd = 1, min = 1e-04, max = 50)
+
+priors <- bv_priors(hyper = "auto", mn = mn, soc = soc, sur = sur)
+
+# Hyperparameters for the MCMC
+mh <- bv_metropolis(scale_hess = c(0.05, 0.0001, 0.0001),
+  adjust_acc = TRUE, psi = bv_psi(mode = c(-0.8, -1.2), acc_lower = 0.25, acc_upper = 0.45)
+```
+
+```{r}
+# Running the model
+run <- bvar(x, lags = 2, n_draw = 15000, n_burn = 5000, n_thin = 1,
+            priors = priors, mh = mh, verbose = TRUE)
+
+```
+
