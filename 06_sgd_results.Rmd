@@ -1,0 +1,34 @@
+---
+title: "06_sgd_results"
+author: "Morten Gade"
+date: "11/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Markdown for sgd results, might be superfluous but at least it is more structured this way
+
+# Inspecting the results
+```{r}
+#################### INSPECTING THE RESULTS ###########################
+# Import the results
+ML_results <- read_csv("./data/cv_results_subset.csv")
+```
+
+```{r}
+# Plotting the results
+
+ML_results %>% 
+  group_by(Year) %>% 
+  summarise(kappa = mean(kappa_test)) %>% 
+  ggplot()+
+  aes(x = Year, y = kappa)+
+  geom_point()+
+  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
+  ylim(0, 1)+
+  labs(y = "Cohen Kappa score", title = "ML - Level of polarization in Folketinget")
+```

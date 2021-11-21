@@ -24,67 +24,23 @@ library(quanteda.corpora)
 
 ```{r}
 # Importing data
-df <- read_csv("./data/folketinget_2009_2021_raw.csv")
+df <- read_csv("./data/test_data3.csv")
 ```
 
 
 
 # --------------------------------------------------------------------------------------------------------------
-# Preprocessing
+# Inspecting the data frame
 
 ```{r}
 # Checking party labels
-df %>% group_by(Parti) %>% count() %>% arrange(-n)
+df %>% group_by(Parti) %>% count() %>% arrange(n) # sanity check
 
 summary(df$Date)
 ```
 
-
-```{r}
-# Filtering out parties 
-parties_to_remove <- c("Uden for partierne", "Venstresocialisterne")
-
-
-df <- df %>% 
-  filter(!Parti %in% parties_to_remove) %>% 
-  # Changing konservative folkeparti
-  mutate(
-  Parti = ifelse(Parti == "Konservative Folkeparti","Det Konservative Folkeparti", Parti),
-  Parti = ifelse(Parti == "Det Radikale Venstre","Radikale Venstre", Parti),
-  month_year_id = paste0(Year,"-", month(Date)), # Making a month and year unique variable
-  Month = floor_date(Date, "month")
-) %>% 
-  #removing documents with less than 10 speaches
-  group_by(id) %>% 
-  filter(n() > 10) %>% ungroup() %>% 
-  # Removing all formand because of procedural and lots of mistakes. 
-  filter(!Title %in% c("Formanden","Formand")) %>% 
-  # filtering out all duplicates
-  group_by(doc_id) %>% filter(n() < 2) %>% ungroup()
-
-# Adding column for whether party is in coalition or opposition
-
-S <- c("Socialdemokratiet")
-SR <- c("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti")
-SRSF <- c("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti")
-V <- c("Venstre")
-VK <- c("Venstre", "Det Konservative Folkeparti")
-VLAK <- c("Venstre", "Liberal Alliance", "Det Konservative Folkeparti")
-
-df <- df %>% mutate(coalition = case_when(
-  as.Date("2001-11-27") < Date & Date < as.Date("2011-11-03") ~ ifelse(Parti %in% VK, "Yes", "No"),
-  as.Date("2011-11-03") < Date & Date < as.Date("2014-02-03") ~ ifelse(Parti %in% SRSF, "Yes", "No"),
-  as.Date("2014-02-03") < Date & Date < as.Date("2015-06-28") ~ ifelse(Parti %in% SR, "Yes", "No"),
-  as.Date("2015-06-28") < Date & Date < as.Date("2016-11-28") ~ ifelse(Parti %in% V, "Yes", "No"),
-  as.Date("2016-11-28") < Date & Date < as.Date("2019-06-27") ~ ifelse(Parti %in% VLAK, "Yes", "No"),
-  as.Date("2019-06-27") < Date ~ ifelse(Parti %in% S, "Yes", "No")))
-
-```
-
-
 # --------------------------------------------------------------------------------------------------------------
 # Implementing the wordshoal function on our own data
-
 
 ```{r}
 ##############  TESTING NEW FUNCTION ############## 
@@ -108,7 +64,7 @@ testfunc <- function(data, year_list, party_list){
   
   # subsetting df based on arguments
   if(missing(data)){
-    cat("Missing data-argument")
+    cat("No data argument")
   } else if(hasArg(year_list) & hasArg(party_list)){
     data = data %>% filter(Year %in% year_list & Parti %in% party_list)
   } else if(hasArg(party_list)){
@@ -132,6 +88,7 @@ hep <- testfunc(data = df, year_list = c("2019"), party_list = c("Socialdemokrat
 
 ```
 
+# --------------------------------- OLD METHOD -------------------------------------
 ```{r}
 ############## corpus per month ###################
 years = seq(2009,2021) # Years to loop through
@@ -190,27 +147,6 @@ dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE, ignoredFeatures = stopword
 
 tmod_lda <- textmodel_lda(dfmmm, k = 10)
 
-
-```
-
-```{r}
 terms(tmod_lda, 20)
-```
-
-```{r}
-# Making the df into a corpus
-corpus <- corpus(dfny)
-
-# Create a data frame matrix (dfm)
-dfm <- dfm(tokens(corpus), remove_punct = TRUE)
-
-# Fitting the model
-wordshoalfit <- 
-    textmodel_wordshoal(dfm, #dir = c(7,1), # I cannot figure out what the 'dir' argument does
-                        groups = docvars(corpus, "id"), 
-                        authors = docvars(corpus, "Name"))
-
-# Inspecting the output
-summary(wordshoalfit) 
 
 ```
