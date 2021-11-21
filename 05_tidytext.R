@@ -91,6 +91,8 @@ data = data %>%
                str_replace("Deli fg. formand", "Den fg. formand") %>%
                trimws())
 
+unique(data$Name)
+
 
 ###################
 # handle titles like "Anden næstformand"
@@ -135,6 +137,10 @@ find_name_from_title = function(name, date) {
     return(data.frame(Title = t, Name = n, Parti = p, stringsAsFactors = FALSE))    
 }
 
+hep <- data %>%
+    distinct(Name, Dato) %>% 
+    mutate(Dato2 = dmy(Dato)) %>% 
+    mutate(Name = map2(Name, Dato2, find_name_from_title))
 
 title_subset = data %>%
     #sample_n(10) %>% 
@@ -154,6 +160,8 @@ cat("[ ] Combining with party data\n")
 ft_members = read_delim("./data/metadata_for_scraping/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
 names(ft_members) = c("Name", "Parti", "Year")
 
+unique(ft_members$Parti)
+
 ft_members_copy = ft_members
 
 ft_members = ft_members %>%
@@ -162,8 +170,8 @@ ft_members = ft_members %>%
     summarise(Year = min(Year)) %>% ungroup()
 
 ft_members = ft_members %>%
-    tidyr::expand(Name, Year = min(Year):max(Year)) %>%
-    left_join(ft_members, by = c("Name", "Year")) %>%
+    tidyr::expand(Name, Year = min(Year):max(Year)) %>% # all the stuff below until hardcoding can be spared
+    left_join(ft_members, by = c("Name", "Year")) %>% # if the max(Year) here is changed to "2020" or just "2021"
     arrange(Name, Year) %>%
     fill(Parti) %>%
     filter(complete.cases(Parti))
@@ -187,7 +195,6 @@ test_ft = ft_members_copy %>%
 weird_names = filter(data3, is.na(Parti)) %>%
     distinct(Name, Year) %>%
     arrange(Name, Year)
-
 
 less_weird_names = fuzzy_join(weird_names, test_ft,
            by = c("Year", "Name"),
@@ -214,7 +221,7 @@ hardcoded_names <- data3 %>%
     distinct(Name, Year) %>%
     arrange(Name, Year)
 
-# HARDCODED - Needs to updated if scrape are scaled to more years
+# HARDCODED - Needs to updated if scrape is scaled to more years
 names_to_keep <- c("Søren Egge Rasmussen", "Jeppe Kofod", "Hans Kristian Skibby", "Bruno Jerup", "Lars Christian Lilleholt", "Hans Christian Schmidt", "Christian Mejdahl", "Egge Rasmussen" )
 parties <- c("Enhedslisten", "Socialdemokratiet", "Dansk Folkeparti", "Enhedslisten", "Venstre", "Venstre", "Venstre", "Enhedslisten")
 hard <- data.frame(Name = names_to_keep, Parti = parties)
@@ -225,7 +232,7 @@ hardcoded_names <- hardcoded_names %>%
 
 # List of parties to remove
 list_of_parties_to_remove <- c("Slesvigsk Parti", "Inuit Ataqatigiit", "Tjóðveldi", "Atássut", "Fólkaflokkurin", 
-                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin", "Uden for partierne")
+                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin", "Uden for partierne", "Venstresocialisterne")
 
 # Joining with the hardcoded names and removing the foreign parties
 data3 = left_join(data3, hardcoded_names, by = c("Year", "Name")) %>%
@@ -300,6 +307,47 @@ data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>%
                # Remowing all texts beneath 50 words
                n_words = sapply(strsplit(text, " "), length)) %>% 
         filter(n_words > 50)
+
+##################
+cat("[ ] final preprocessing, removing small parties and docid's with few speakers\n")
+
+# making a month and year unique variable
+
+data3 <- data3 %>% mutate(
+    
+    month_year_id = paste0(Year,"-", month(Date)),
+    Month = floor_date(Date, "month")) %>% 
+
+    #removing documents with less than 10 speaches
+    group_by(id) %>% filter(n() > 10) %>% ungroup() %>% 
+    
+    # Removing all formand because of procedural and lots of mistakes. 
+    filter(!Title %in% c("Formanden","Formand")) %>% 
+    
+    # filtering out all duplicates
+    group_by(doc_id) %>% filter(n() < 2) %>% ungroup()
+
+# Adding column for whether party is in coalition or opposition
+
+coalitions <- list(
+    list("Venstre", "Det Konservative Folkeparti"),
+    list("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti"),
+    list("Socialdemokratiet", "Radikale Venstre"),
+    list("Venstre"),
+    list("Venstre", "Liberal Alliance", "Det Konservative Folkeparti"),
+    list("Socialdemokratiet")
+)
+
+data3 <- data3 %>% mutate(coalition = case_when(
+    #Date %within% interval(as.Date("2001-11-27"), as.Date("2011-11-03")) ~ ifelse(Parti %in% coalitions[[1]], "Yes", "No")
+    as.Date("2001-11-27") < Date & Date < as.Date("2011-11-03") ~ ifelse(Parti %in% coalitions[[1]], "Yes", "No"),
+    as.Date("2011-11-03") < Date & Date < as.Date("2014-02-03") ~ ifelse(Parti %in% coalitions[[2]], "Yes", "No"),
+    as.Date("2014-02-03") < Date & Date < as.Date("2015-06-28") ~ ifelse(Parti %in% coalitions[[3]], "Yes", "No"),
+    as.Date("2015-06-28") < Date & Date < as.Date("2016-11-28") ~ ifelse(Parti %in% coalitions[[4]], "Yes", "No"),
+    as.Date("2016-11-28") < Date & Date < as.Date("2019-06-27") ~ ifelse(Parti %in% coalitions[[5]], "Yes", "No"),
+    as.Date("2019-06-27") < Date ~ ifelse(Parti %in% coalitions[[6]], "Yes", "No")))
+
+# could be done by mapping a function to the column on a mutate-line but might not be worth the time to set up
 
 ################# Exporting the csv files. 
 # Writing the meta data
