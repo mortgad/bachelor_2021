@@ -91,9 +91,6 @@ data = data %>%
                str_replace("Deli fg. formand", "Den fg. formand") %>%
                trimws())
 
-unique(data$Name)
-
-
 ###################
 # handle titles like "Anden næstformand"
 read_csv2("./data/metadata_for_scraping/folketing_leaders.csv") %>%
@@ -136,11 +133,6 @@ find_name_from_title = function(name, date) {
     
     return(data.frame(Title = t, Name = n, Parti = p, stringsAsFactors = FALSE))    
 }
-
-hep <- data %>%
-    distinct(Name, Dato) %>% 
-    mutate(Dato2 = dmy(Dato)) %>% 
-    mutate(Name = map2(Name, Dato2, find_name_from_title))
 
 title_subset = data %>%
     #sample_n(10) %>% 
@@ -309,13 +301,11 @@ data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>%
         filter(n_words > 50)
 
 ##################
-cat("[ ] final preprocessing, removing small parties and docid's with few speakers\n")
-
-# making a month and year unique variable
+cat("[ ] removing small parties and docid's with few speakers and Formand-speeches as they're assigned incorrectly\n")
 
 data3 <- data3 %>% mutate(
     
-    month_year_id = paste0(Year,"-", month(Date)),
+    # making a month and year unique variable
     Month = floor_date(Date, "month")) %>% 
 
     #removing documents with less than 10 speaches
@@ -349,6 +339,9 @@ data3 <- data3 %>% mutate(coalition = case_when(
 
 # could be done by mapping a function to the column on a mutate-line but might not be worth the time to set up
 
+data3 %>% count(id) %>% arrange(n) #
+unique(data3$Parti)
+
 ################# Exporting the csv files. 
 # Writing the meta data
 data3 %>%
@@ -356,6 +349,7 @@ data3 %>%
     write_csv("./data/tidy_metadata.csv")
 
 # Writing the final csv
+write_csv(data3, file = "./data/test_data3.csv")
 write_csv(data3, file = paste0("./data/folketinget_", min(data3$Year),"_", max(data3$Year), "_raw.csv"))
 
 hep = read_csv("./data/folketinget_2019_2021_raw.csv")

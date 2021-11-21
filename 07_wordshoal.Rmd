@@ -24,7 +24,7 @@ library(quanteda.corpora)
 
 ```{r}
 # Importing data
-df <- read_csv("./data/folketinget_2009_2021_raw.csv")
+df <- read_csv("./data/test_data3.csv")
 ```
 
 
@@ -34,7 +34,7 @@ df <- read_csv("./data/folketinget_2009_2021_raw.csv")
 
 ```{r}
 # Checking party labels
-df %>% group_by(Parti) %>% count() %>% arrange(-n) # sanity check
+df %>% group_by(Parti) %>% count() %>% arrange(n) # sanity check
 
 summary(df$Date)
 ```

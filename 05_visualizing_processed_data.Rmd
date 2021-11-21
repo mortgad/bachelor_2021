@@ -1,0 +1,136 @@
+---
+title: "05_visualizing_processed_df"
+author: "Morten Gade"
+date: "11/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Load data
+raw_df <- read.csv("./data/folketinget_2009_2021_raw.csv")
+```
+
+```{r}
+##################################### NO. OF SPEECHES PER PARTY #######################################
+raw_df %>% 
+  count(Parti) %>%
+  ggplot()+
+  aes(x = reorder(Parti, -n), y = n, fill = Parti, label = n)+
+  geom_col(width=0.5, position='dodge') +
+  geom_text(position=position_dodge(0.5), vjust=-.50) + 
+  labs(y="Count", x="Parti", title = "Number of speeches from each party") +
+  ylim(0, 60000)+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+```
+
+```{r}
+##################################### NUMBER OF SPEECHES PR. MEMBER PR. YEAR ##########################################
+# Wrangling  
+raw_df %>% group_by(Year, Name, Parti) %>% count() %>% 
+  ungroup() %>% group_by(Year) %>% 
+  summarise(mean = mean(n),
+            median = median(n),
+            fifth = quantile(n, probs = 0.05),
+            nintyfifth = quantile(n, probs = 0.95)
+            ) %>% pivot_longer(!Year) %>% 
+  
+  # Plotting
+  ggplot()+
+  aes(x = Year, y = value, color = name, linetype = name)+
+  geom_line()+
+  guides(linetype = FALSE)+
+  scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(x = "Year", 
+       y = "Number of Speeches", 
+       title = "Number of Speeches pr. year pr. person")+
+  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+
+```
+
+```{r}
+############################# LENGTH OF SPEECHES #######################################
+# Wrangling  
+raw_df %>% mutate(text_length = str_length(text)) %>% 
+  group_by(Year) %>% 
+  summarise(mean = mean(text_length),
+            median = median(text_length),
+            fifth = quantile(text_length, probs = 0.05),
+            nintyfifth = quantile(text_length, probs = 0.95)
+            ) %>% pivot_longer(!Year) %>% 
+  
+  # Plotting
+  ggplot()+
+  aes(x = Year, y = value, color = name, linetype = name)+
+  geom_line()+
+  guides(linetype = FALSE)+
+  scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(x = "Year", 
+       y = "Speech length", 
+       title = "Speech legnth pr. year")+
+  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+  
+```
+
+```{r}
+############################ ACCUMULATED NO. OF CHARACTERS FOR EACH PARTY ###################################
+raw_df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>% 
+  summarize(sum = sum(string_length)) %>%  
+  ggplot()+
+  aes(x = reorder(Parti, -sum), y = sum, fill = Parti)+
+  geom_col(width=0.5, position='dodge') +
+  scale_fill_manual(values = pal)+
+  labs(y="Accumulated characters in speeches", x="Parti", title = "Total length of speeches for each party") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+
+```
+
+```{r}
+####################################### CHECKING WHETHER THERE ARE ANY SIMILAR NAMES #############################
+# list of all names in the dataset
+names = unique(raw_df$Name)
+
+# Creating a matrix with scores of how similar the names are
+name_matrix <- as.data.frame(stringdistmatrix(names, names, method = "jw"))
+
+# Adding colnames to the matrix
+colnames(name_matrix) <- names
+
+# Pivoting and filtering out similar records
+name_matrix %>% 
+  mutate(
+    name = names
+    ) %>% 
+  pivot_longer(!name, names_to = "name2", values_to = "similarity_scores") %>% 
+  filter(similarity_scores <= 0.2 & similarity_scores !=0)
+
+```
+
+# To be removed - as this is done in 05_tidytext
+```{r}
+################################### REMOVE SHORT SENTENCES #######################################
+
+# Getting the length of all the strings
+hep <- df %>% mutate(
+  n_words = sapply(strsplit(text, " "), length)
+)
+
+# Threshold for how many words a speech should contatin 
+limit = 50
+
+# Summarizing the data
+hep %>% 
+  count(n_words) %>% 
+  mutate(threshold = ifelse(n_words >= limit, paste("Below", limit, "words"), paste("Above", limit, "words"))) %>% 
+  group_by(threshold) %>% 
+  summarise("n_speeches" = sum(n)) %>% 
+  mutate(percentage = n_speeches/sum(n_speeches))
+  
+```
