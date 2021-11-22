@@ -10,17 +10,34 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
+# Pacman:: 
+pacman::p_load(tidyverse)
+```
+
+
+```{r}
 # Load data
-raw_df <- read.csv("./data/folketinget_2009_2021_raw.csv")
+raw_df <- read_csv("./data/folketinget_2009_2021_raw.csv")
+
+# Setting the theme
+theme_set(theme_minimal())
+
+# Function for setting color theme
+Darjeeling1 <- function(no_of_colors){
+  colors = wesanderson::wes_palette("Darjeeling1", no_of_colors, type = "continuous")
+  return(colors)
+}
 ```
 
 ```{r}
 ##################################### NO. OF SPEECHES PER PARTY #######################################
+
 raw_df %>% 
   count(Parti) %>%
   ggplot()+
   aes(x = reorder(Parti, -n), y = n, fill = Parti, label = n)+
   geom_col(width=0.5, position='dodge') +
+  scale_fill_manual(values = Darjeeling1(16))+
   geom_text(position=position_dodge(0.5), vjust=-.50) + 
   labs(y="Count", x="Parti", title = "Number of speeches from each party") +
   ylim(0, 60000)+
@@ -67,10 +84,10 @@ raw_df %>% mutate(text_length = str_length(text)) %>%
   # Plotting
   ggplot()+
   aes(x = Year, y = value, color = name, linetype = name)+
-  geom_line()+
+  geom_line(size = 1)+
   guides(linetype = FALSE)+
   scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
-                     values = wesanderson::wes_palette("Darjeeling1"))+
+                     values = Darjeeling1(4))+
   labs(x = "Year", 
        y = "Speech length", 
        title = "Speech legnth pr. year")+
@@ -85,7 +102,7 @@ raw_df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>%
   ggplot()+
   aes(x = reorder(Parti, -sum), y = sum, fill = Parti)+
   geom_col(width=0.5, position='dodge') +
-  scale_fill_manual(values = pal)+
+  scale_fill_manual(values = Darjeeling1(16) )+
   labs(y="Accumulated characters in speeches", x="Parti", title = "Total length of speeches for each party") +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none")
