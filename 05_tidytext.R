@@ -294,7 +294,7 @@ data3$text = data3$text %>%
     str_to_lower(locale = "da") %>%
     str_replace_all(str_c("[–_/()\\s'»$&+", '"', "]+"), " ")
 
-data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>% 
+data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>% # maybe exclude this, as we filter based on n_words
         mutate(text = str_replace(text, "^: ", ""),
                # Remowing all texts beneath 50 words
                n_words = sapply(strsplit(text, " "), length)) %>% 

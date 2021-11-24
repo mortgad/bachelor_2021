@@ -12,6 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 # Load data
 raw_df <- read.csv("./data/folketinget_2009_2021_raw.csv")
+
+library(tidyverse)
+
+theme_set(theme_minimal())
 ```
 
 ```{r}
@@ -22,10 +26,12 @@ raw_df %>%
   aes(x = reorder(Parti, -n), y = n, fill = Parti, label = n)+
   geom_col(width=0.5, position='dodge') +
   geom_text(position=position_dodge(0.5), vjust=-.50) + 
-  labs(y="Count", x="Parti", title = "Number of speeches from each party") +
+  scale_fill_manual(values = wesanderson::wes_palette(name = "Darjeeling1", n = 16, type = "continuous")) +
+  labs(x="Party", title = "No. of speeches per party") +
   ylim(0, 60000)+
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
-        legend.position = "none")
+        legend.position = "none",
+        axis.title.y = element_blank())
 ```
 
 ```{r}
@@ -45,11 +51,13 @@ raw_df %>% group_by(Year, Name, Parti) %>% count() %>%
   geom_line()+
   guides(linetype = FALSE)+
   scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
-                     values = wesanderson::wes_palette("Darjeeling1"))+
+                     values = wesanderson::wes_palette("Darjeeling1", n = 4))+
   labs(x = "Year", 
-       y = "Number of Speeches", 
-       title = "Number of Speeches pr. year pr. person")+
-  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+       y = "No. of Speeches", 
+       title = "No. of speeches per person")+
+  theme(legend.title = element_blank(), 
+        legend.key = element_rect(color = alpha("black", 0.2)),
+        axis.title.y = element_blank())
 
 ```
 
@@ -73,8 +81,10 @@ raw_df %>% mutate(text_length = str_length(text)) %>%
                      values = wesanderson::wes_palette("Darjeeling1"))+
   labs(x = "Year", 
        y = "Speech length", 
-       title = "Speech legnth pr. year")+
-  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+       title = "Speech length (no. of characters)")+
+  theme(legend.title = element_blank(), 
+        legend.key = element_rect(color = alpha("black", 0.2)),
+        axis.title.y = element_blank())
   
 ```
 
@@ -134,3 +144,13 @@ hep %>%
   mutate(percentage = n_speeches/sum(n_speeches))
   
 ```
+
+
+```{r}
+################################### ERRORS IN SPEECH ASSIGNMENT #######################################
+
+time <- c(rep(1990:2021))
+errors <- round(rnorm(n = 32, mean = 10, sd = 3), digits = 0)
+
+```
+
