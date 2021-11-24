@@ -137,7 +137,7 @@ write_csv(joined, "./data/agg_results_2009_2021.csv")
 # ------------------------ Plotting results of overlap ----------------------------------------
 ```{r}
 # Load results dataframe
-results <- read_csv("./data/agg_results_2009_2014.csv")
+results <- read_csv("./data/agg_results_2009_2021.csv")
 ```
 
 ```{r}
@@ -211,3 +211,60 @@ summary(m3)
 m4 <- lmer(difference_score ~ 1 + lag_difference_score + lag_sd_theta + (1 + lag_difference_score + lag_sd_theta | Parti), data = agg)
 summary(m4)
 ```
+
+
+# ------------------------------------- Plotting wordshoal results --------------------------------------------
+
+```{r}
+# Loading data
+files <- list.files("./data/wordshoal_results/", pattern = "*.csv", full.names = T)
+results <- map_df(files, read_csv)
+```
+
+```{r}
+results %>% group_by(month_year_id) %>% count() %>% arrange(-n)
+
+results %>% filter(month_year_id == "2019_10") %>% count(Parti)
+```
+
+```{r}
+results %>% filter(month_year_id == "2019_10") %>% mutate(y_value = 1) %>% group_by(Parti) %>% 
+  ggplot()+
+  aes(x = theta, color = Parti) +
+  stat_function(fun = dnorm)+
+  xlim(-5,5)+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", n = 10, type = "continuous"))+
+  theme(axis.title.y = element_blank(),
+        axis.text.y = element_blank(),
+        legend.position = "none")
+
+ggplot(data.frame(x = c(-4, 4)), aes(x)) + 
+  mapply(function(mean, sd, col) {
+    stat_function(fun = dnorm, aes(x = ), col = col)
+  }, 
+  # enter means, standard deviations and colors here
+  mean = c(0, 1, .5), 
+  sd = c(1, .5, 2), 
+  col = c('red', 'blue', 'green')
+)
+
+normal_curve <- function(mean, sd, col){
+  stat_function(fun = dnorm, args = list(mean = mean, sd = sd), col = col)
+}
+
+means <- results %>% filter(month_year_id == "2019_10") %>% mutate(y_value = 1) %>% group_by(Parti) %>% 
+  summarise(mean = mean(theta), sd = sd(theta)) %>% ungroup() %>% 
+  mutate(col = wesanderson::wes_palette("Darjeeling1", n = 10, type = "continuous"))
+
+ggplot(results) + 
+  mapply(function(mean, sd, col) {
+    stat_function(fun = dnorm, args = list(mean = mean, sd = sd), col = col)
+  }, 
+  # enter means, standard deviations and colors here
+  mean = means$mean,
+  sd = means$sd, 
+  col = means$col 
+)+
+  xlim(-1,1)
+```
+
