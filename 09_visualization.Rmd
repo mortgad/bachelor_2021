@@ -219,13 +219,41 @@ summary(m4)
 # Loading data
 files <- list.files("./data/wordshoal_results/", pattern = "*.csv", full.names = T)
 results <- map_df(files, read_csv)
+
+
 ```
 
 ```{r}
 results %>% group_by(month_year_id) %>% count() %>% arrange(-n)
 
-results %>% filter(month_year_id == "2019_10") %>% count(Parti)
+results %>% filter(month_year_id == "2017_10") %>% count(Parti)
 ```
+```{r}
+# Remove from visualization
+to_keep <- c("Dansk Folkeparti", "Socialdemokratiet")
+
+results %>% filter(month_year_id == "2017_10") %>% mutate(y_value = 0) %>%
+  ggplot()+
+  geom_density(aes(x = theta, fill = Parti), alpha =0.4)+
+  geom_point(aes(x = theta, y = y_value, color = Parti), size = 0.5)+
+  scale_fill_manual(values = wesanderson::wes_palette("Darjeeling1", n = 11, type = "continuous"))+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", n = 11, type = "continuous"))+
+  xlim(-1.5, 1.5)+
+  facet_wrap(~Parti)
+
+
+results %>% filter(month_year_id == "2015_8" & !Parti %in% remove) %>% mutate(y_value = 0) %>%
+  ggplot()+
+  geom_density(aes(x = theta, fill = Parti), alpha = 0.4)+
+  geom_point(aes(x = theta, y = y_value, color = Parti))+
+  scale_fill_manual(values = wesanderson::wes_palette("Darjeeling1", n = 5, type = "continuous"))+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", n = 5, type = "continuous"))+
+  xlim(-1.5, 1.5)
+# Ud med 
+
+```
+
+
 
 ```{r}
 results %>% filter(month_year_id == "2019_10") %>% mutate(y_value = 1) %>% group_by(Parti) %>% 
@@ -258,13 +286,13 @@ means <- results %>% filter(month_year_id == "2019_10") %>% mutate(y_value = 1) 
 
 ggplot(results) + 
   mapply(function(mean, sd, col) {
-    stat_function(fun = dnorm, args = list(mean = mean, sd = sd), col = col)
+    stat_function(fun = dnorm, args = list(mean = mean, sd = sd), col = col, fill = col)
   }, 
   # enter means, standard deviations and colors here
   mean = means$mean,
   sd = means$sd, 
   col = means$col 
 )+
-  xlim(-1,1)
+  xlim(-1.5,1.5)
 ```
 
