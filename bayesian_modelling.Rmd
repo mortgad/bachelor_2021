@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 # Loading packages
-pacman::p_load(tidyverse, brms, here)
+pacman::p_load(tidyverse, brms, here, patchwork)
 ```
 
 
@@ -49,9 +49,29 @@ agg <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
 
 ```{r}
 #checking out the outome variable
-summary(agg$Inclusion)
-ggplot(agg, aes(x = Inclusion)) + 
-  geom_density()
+p1 <- ggplot(agg, aes(x = Inclusion)) + 
+  geom_density()+
+  geom_vline(xintercept = mean(agg$Inclusion), size=0.5, color="red", linetype = "dashed")+
+  geom_text(aes(x=mean(agg$Inclusion)+0.4, label=paste0("Mean ",round(mean(Inclusion), digits = 2)), y=1.5), size = 3)
+
+p2 <- ggplot(agg, aes(x = log(Inclusion))) + 
+  geom_density()+
+  geom_vline(xintercept = mean(log(agg$Inclusion)), size=0.5, color="red", linetype = "dashed")+
+  geom_text(aes(x=mean(log(agg$Inclusion))+0.8, label=paste0("Mean ",round(mean(log(Inclusion)), digits = 2)), y=0.75), size = 3)
+
+
+
+p3 <- ggplot(agg, aes(x = Differentiation)) + 
+  geom_density()+
+  geom_vline(xintercept = mean(agg$Differentiation), size=0.5, color="red", linetype = "dashed")+
+  geom_text(aes(x=mean(agg$Differentiation)+0.12, label=paste0("Mean ",round(mean(Differentiation), digits = 2)), y=3), size = 3)
+
+p4 <- ggplot(agg, aes(x = log(Differentiation))) + 
+  geom_density()+
+  geom_vline(xintercept = mean(log(agg$Differentiation)), size=0.5, color="red", linetype = "dashed")+
+  geom_text(aes(x=mean(log(agg$Differentiation))+0.3, label=paste0("Mean ",round(mean(log(Differentiation)), digits = 2)), y=0.9), size = 3)
+
+(p1 + p2) / (p3 + p4) + plot_annotation(title = "Density plot of variables with and without transformation")
 ```
 
 ```{r, fig.width= 15, fig.height= 5}
