@@ -1,0 +1,36 @@
+---
+title: "05_data_assessment"
+author: "Morten Gade"
+date: "11/29/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+# packages
+pacman::p_load_gh("trinker/wakefield")
+library(tidyverse, dplyr, tidyr, ggplot2)
+
+# load data
+data <- read_csv("./data/folketinget_2009_2021_raw.csv")
+
+# sample ~200 values across different years
+set.seed(123)
+samples <- data %>% group_by(Year) %>% sample_n(round(200/length(unique(data[["Year"]])))) %>% ungroup() %>% select(id, text)
+
+n <- nrow(samples) # sample size
+samples$correct <- sample(c(0,1), replace=TRUE, size=n)
+
+sum(samples$correct)/nrow(samples)
+
+```
+

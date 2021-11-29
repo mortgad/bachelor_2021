@@ -12,7 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 # Loading packages
-pacman::p_load(tidyverse, brms, here, patchwork)
+pacman::p_load(tidyverse, brms, here, patchwork, cmdstanr)
+
 ```
 
 
@@ -92,9 +93,26 @@ f1 <- bf(Inclusion ~ 1 + Lag_inclusion + Lag_differentiation + Lag_inclusion:Lag
 get_prior(f1, data = agg)
 
 # Finding prior for random intercept
-means <- agg %>% group_by(Parti, Date) %>% summarise(mean = mean(sd_theta),
-                                      sd = sd(sd_theta)) %>% summarise(mean_of_mean = mean(mean),
-                                                                       sd_of_mean = sd(mean))
+
+agg <- agg %>% na.omit() %>% filter(mean_theta != 0 & sd_theta != 0)
+
+means <- agg %>% group_by(Parti) %>% summarise(mean = mean(sd_theta), 
+                                               sd = sd(sd_theta)) %>% summarise(mean_of_mean = mean(mean),
+                                                                                mean_of_sd = mean(sd))
+
+mean(log(agg$Inclusion))
+# mean of -0.8766658
+
+sd(log(agg$Inclusion))
+# sd of 0.5761837
+
+logmeans <- agg %>% 
+  mutate(log_inclusion = log(Inclusion)) %>% 
+  group_by(Parti) %>% 
+  summarise(mean = mean(log_inclusion),
+            sd = sd(log_inclusion)) %>% 
+  summarise(mean_of_means = mean(mean),
+            mean_of_sd = mean(sd))
 
 
 mean(means$mean_of_mean)
@@ -106,7 +124,7 @@ mean(means$sd_of_mean)
 prior_m1 <- c(
   prior(normal(-0.8766658, 0.2), class = Intercept),
   prior(normal(0, 0.2), class = b),
-  prior(normal(0.4486, 0.2428), class = sd),
+  prior(normal(0.4486, 0.2428), class = sd), # i still can't figure this out
   prior(normal(0.5761837, 0.2), class = sigma)
 )
 
@@ -122,7 +140,6 @@ m1_prior <- brm(
   backend = "cmdstanr"
   #file = here("models", "m1_prior")
   )
-
 
 # Prior predictive check
 pp_check(m1_prior, nsamples = 100)
