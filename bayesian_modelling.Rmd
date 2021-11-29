@@ -114,7 +114,6 @@ logmeans <- agg %>%
   summarise(mean_of_means = mean(mean),
             mean_of_sd = mean(sd))
 
-
 mean(means$mean_of_mean)
 # Mean of 0.4606071
 
