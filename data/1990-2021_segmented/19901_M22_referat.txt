@@ -1,0 +1,58 @@
+split;reason;text;value
+0;;"2331
+
+27/11 90: Dagsorden
+
+22. møde";
+75;Time;"Dagsorden:
+Meddelelser fra formanden.
+Meddelelser fra formanden:";kl. 13.00
+152;title_name;"Fra statsministeren har jeg modtaget følgende skrivelse:
+»Statsministeriet, den 22. november 1990.
+Hermed skal jeg meddele, at Hendes Majestæt Dronningen ved Åbent Brev af 22. november 1990 har bestemt, at valg til Folketinget udskrives til afholdelse onsdag den 12. december
+1990.
+Jeg vedlægger det originale åbne brev.
+sign. Poul Schlüter«
+Det Kongelige Åbne Brev har følgende ordlyd:
+»Vi Margrethe den Anden, af Guds nåde Danmarks Dronning,
+Gør vitterligt:
+Da det af hensyn til lovgivningsarbejdet i
+Folketinget må anses for ønskeligt, at der afholdes nyvalg til Folketinget, bestemmer Vi herved, at nyvalg til Folketinget afholdes onsdag
+den 12. december 1990.
+For så vidt angår valget på Færøerne og i
+Grønland er det overladt til henholdsvis rigsombudsmanden på Færøerne og rigsombudsmanden i Grønland at bestemme dagen for valgets afholdelse.
+Givet på Fredensborg Slot den 22. november
+1990.
+UNDER VOR KONGELIGE HÅND OG
+SEQL
+sign. Margrethe R.
+/ Poul Schlüter«
+
+2332
+
+Finansministeren (Henning Dyremose) har
+meddelt mig, at han ønsker skriftligt at fremsætte :
+Forslag til midlertidig bevillingslov for finansåret 1991.
+(Lovforslag nr. L 91).
+Skriftlig fremsættelse afforslag:";Formanden
+1371;title_name;":
+Idet jeg henviser til lovforslagets bemærkninger, skal jeg herved i henhold til grundlovens § 45, stk. 2, fremsætte:
+Forslag til midlertidig bevillingslov for finansåret 1991.
+(Lovforslag nr. L 91).
+Den midlertidige bevillingslov må forudsættes kun at skulle være gældende for en kort periode af 1991. Forudsætningen må være, at den
+snarest muligt erstattes af en sædvanlig 12 måneders finanslov, der tillige indeholder bevilling til de udgifter og indtægter, der er afholdt
+eller oppebåret under den midlertidige bevillingslov, således at den midlertidige bevillingslov bortfalder i forbindelse med vedtagelse af
+den endelige finanslov for 1991. Det må på
+samme måde forudsættes, at der for 1991 kun
+aflægges ét statsregnskab, omfattende hele
+året.
+Jeg skal yderligere bemærke, at den foreliggende situation, hvor der ikke straks fra det nye
+finansårs begyndelse foreligger en sædvanlig
+finanslov, tilsiger, at der i den løbende administration udvises tilbageholdenhed med at foretage særlige dispositioner.
+Med disse bemærkninger skal jeg anmode
+om Tingets hurtige og velvillige behandling.
+Meddelelser fra formanden:";Henning Dyremose
+2504;title_name;"Der er ikke mere på dagsordenen.
+Folketingets næste møde afholdes i dag, tirsdag den 27. november 1990, kl. 13.05 med følgende dagsorden: (Se indledningen til næste
+møde).
+Mødet hævet kl. 13.04";Formanden

@@ -1,0 +1,98 @@
+split;reason;text;value
+0;;"Tirsdag den 13. august 2019 (D)
+
+1
+
+at ressortansvaret for it-drift og opgaver for en række institutioner
+under Justitsministeriet overføres fra justitsministeren til finansministeren, og
+
+5. møde
+
+at ansvaret for lov om andelsboligforeninger og andre boligfællesskaber og lov om ejerlejligheder overføres fra Erhvervsministeriet til
+Transport-og Boligministeriet.";
+403;Time;"Dagsorden
+
+Meddelelserne vil fremgå af www.folketingstidende.dk (jf. nedenfor).
+
+1) Meddelelser fra formanden
+
+[»Folketingets formand";kl. 13.00
+547;Time;;Kl. 13:00
+582;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden";Henrik Dam Kristensen
+675;Time;;Kl. 13:00
+710;title_name;":
+I dag er der følgende anmeldelse:
+Social- og indenrigsministeren (Astrid Krag):
+Lovforslag nr. L 1 (Forslag til lov om ændring af lov om valg til Folketinget og lov om valg af danske medlemmer til Europa-Parlamentet. (Sanktioner for retsstridig indsamling af vælgererklæringer)).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+Medlem af Folketinget Kristian Pihl Lorentzen (V) har anmodet om
+at blive fritaget for hvervet som første næstformand for Folketinget.
+Hvis ingen gør indsigelse, betragter jeg Tingets samtykke som givet.
+Det er givet.
+Til at indtræde i hvervet som første næstformand i stedet for Kristian
+Pihl Lorentzen har vedkommende gruppe udpeget Karen Ellemann
+(V), der herefter er valgt.
+Fra statsministeren har jeg modtaget breve om,
+at det efter statsministerens indstilling ved kongelige resolutioner
+den 20. juli 2019 blev bestemt,
+
+Efter min indstilling er det ved kongelig resolution af 20. juli 2019
+bestemt,
+at ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk
+og brugeradministration, informationssikkerhedsopgaver vedrørende
+foranstående samt kontrakter og leverandørstyringsopgaver vedrørende outsourcet it-drift, der vedrører FGU Øresund, FGU Himmerland, FGU HLSS, FGU Hovedstaden, FGU Lolland-Falster, FGU
+Midt- og Østsjælland, FGU Midtjylland, FGU Midt-Vest, FGU
+Nord, FGU Nordsjælland, FGU Nordvestsjælland, FGU Skolen Øst,
+FGU Syd- og Midtfyn, FGU Syd- og Vestsjælland, FGU Sydøstjylland, FGU Sønderjylland, FGU Trekanten, FGU Vendsyssel, FGU
+Vest, FGU Vestegnen, FGU Østjylland, FGU Aalborg og FGU Kolding Vejen, i henhold til nærmere aftale mellem børne- og undervisningsministeren og finansministeren henlægges til finansministeren
+pr. 1. august 2019, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regnskab, herunder kreditor- og debitoradministration, udarbejdelse af
+dokumentation til brug for perioderegnskab, afstemning af likviditetskonti, anlægsadministration, regnskabsmæssig registrering af tilskud i Navision Stat, vedligeholdelse af registreringsramme i regnskabssystemet, bogføring af rejseafregning, fakturafordeling, kontrol
+af rejse- og udgiftsafregning samt rejsebestilling, ressortansvaret for
+alle opgaver vedrørende lønadministration, herunder lønudbetalinger
+og korrektioner, opgaver forbundet med ferie og fravær, administration af løn- og uddannelsesrelaterede refusioner samt lønsupport, og
+ressortansvaret for alle opgaver vedrørende support på standard Navision Stat, der vedrører FGU Lolland-Falster, FGU Midtjylland,
+FGU Nord, FGU Skolen Øst, FGU Trekanten, FGU Vendsyssel,
+FGU Vest, FGU Vestegnen og FGU Kolding Vejen, i henhold til
+nærmere aftale mellem børne- og undervisningsministeren og finansministeren henlægges til finansministeren pr. 1. august 2019.
+Jeg beder formanden underrette Folketinget herom.
+
+at ressortansvaret for it-drift og opgaver vedrørende bogholderi og
+regnskab m.v. vedrørende en række uddannelsesinstitutioner for forberedende grunduddannelser (FGU) overføres fra børne- og undervisningsministeren til finansministeren,
+
+Sign.: Mette Frederiksen
+/Carsten Madsen«.
+
+2
+
+Tirsdag den 13. august 2019 (FM )
+
+»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 20. juli 2019
+bestemt,
+at ressortansvaret for alle opgaver, kontrakter og serviceaftaler vedrørende basal it-drift af interne datacentre, netværk, servere og storage, drift af operativsystemer, standard it-arbejdsplads, servicedesk
+og brugeradministration samt informationssikkerhedsopgaver vedrørende foranstående, der vedrører Datatilsynet, Rigsadvokaten, Statsadvokaten i København, Statsadvokaten i Viborg, Justitsministeriets
+Retspsykiatriske Klinik, Tibetkommissionen og Tilsynet med Efterretningstjenesterne, i henhold til nærmere aftale mellem justitsministeren og finansministeren overføres fra justitsministeren til finansministeren pr. 1. september 2019.
+Jeg beder formanden underrette Folketinget herom.
+Sign.: Mette Frederiksen
+/Carsten Madsen«.
+»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 20. juli 2019
+bestemt,
+at ansvaret for lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 1231 af 11. oktober 2018 med tilhørende bekendtgørelser m.v., samt ansvaret for lov om ejerlejligheder,
+jf. lovbekendtgørelse nr. 1713 af 16. december 2010 med senere ændringer og tilhørende bekendtgørelser m.v. overføres fra Erhvervsministeriet til Transport- og Boligministeriet.
+Jeg beder formanden underrette Folketinget herom.
+Sign.: Mette Frederiksen
+/Carsten Madsen«.]";Henrik Dam Kristensen
+5438;Time;;Kl. 13:01
+5473;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes onsdag den 28. august 2019, kl.
+13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 13:02).";Henrik Dam Kristensen

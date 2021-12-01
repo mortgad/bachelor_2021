@@ -1,0 +1,3578 @@
+split;reason;text;value
+0;;"1580
+
+Fredag den 28. november 2008 (D) .
+
+26. m ø d e";
+92;Time;"Dagsorden
+1) Spørgsmål om fremme af forespørgsel nr.
+F 14:
+Forespørgsel til beskæftigelsesministeren og
+statsministeren om tolkning af udstationeringsdirektivet m.v.
+Af Karsten Hønge (SF) og Ole Sohn (SF).
+(Anmeldelse 25.11.2008).
+2) Spørgsmål om fremme af forespørgsel nr.
+F 15:
+Forespørgsel til udenrigsministeren om unionsborgerskabet.
+Af Morten Messerschmidt (DF) m.fl.
+(Anmeldelse 26.11.2008).
+3) 1. behandling af lovforslag nr. L 58:
+Forslag til lov om ændring af lov om folkekirkens økonomi. (Etablering af permanente stiftsråd).
+Af kirkeministeren (Birthe Rønn Hornbech).
+(Fremsættelse 13.11.2008).
+4) 1. behandling af lovforslag nr. L 65:
+Forslag til lov om ændring af lov om brug m.v.
+af radioaktive stoffer og udleveringsloven.
+(Gennemførelse af ændringskonvention af 8. juli
+2005 til Det Internationale Atomenergiagenturs
+konvention om fysisk beskyttelse af nukleare
+materialer).
+Af ministeren for sundhed og forebyggelse (Jakob Axel Nielsen).
+(Fremsættelse 14.11.2008).
+5) 1. behandling af lovforslag nr. L 66:
+Forslag til lov om ændring af apotekerloven,
+sundhedsloven og lov for Grønland om forsyning, trafik, postbesørgelse m.v. (Ophævelse af
+aldersgrænse på 70 år for bortfald af apotekerbevilling, honorering af apoteksindretning, styrkelse af ordinationstilsyn m.v.).
+Af ministeren for sundhed og forebyggelse (Jakob Axel Nielsen).
+(Fremsættelse 14.11.2008).
+
+6) 1. behandling af lovforslag nr. L 71:
+Forslag til lov om ændring af lov om indskud på
+etableringskonto og forskellige andre love. (Mulighed for fuld fradragsret for indskud på iværksætterkonto).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 19.11.2008).
+7) 1. behandling af lovforslag nr. L 72:
+Forslag til lov om ændring af skattekontrolloven, momsloven, opkrævningsloven, lov om aktiv socialpolitik, integrationsloven og forskellige
+andre love. (Indsats mod skatte- og afgiftsunddragelse - Fairplay III og fradrag for børnebidragsrestancer i kontanthjælp, starthjælp og introduktionsydelse).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 19.11.2008).";kl. 10.00
+2152;Time;Meddelelser fra formanden;Kl. 10:00
+2190;title_name;"Mødet er åbnet.
+Medlemmer af Folketinget Ida Auken (SF) m.fl.
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om bedre miljøzoner.
+(Beslutningsforslag nr. B 54).
+Medlemmer af Folketinget Jørgen Poulsen (RV)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om dobbelt
+statsborgerskab.
+(Beslutningsforslag nr. B 55).
+Medlemmer af Folketinget Naser Khader (LA)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om nedsættelse
+af en kommission til undersøgelse af konse-
+
+Fredag den 28. november 2008 (Fremme F 14 og F 15)
+kvenserne ved en ændring af reglerne om dobbelt statsborgerskab.
+(Beslutningsforslag nr. B 56). : .
+Medlemmer af Folketinget Pia Olsen Dyhr (SF)
+m.fl. har meddelt mig, at de ønsker at stille følgende forespørgsel til transportministeren:
+»Finder transportministeren, at organiseringen
+af den kollektive trafik i hovedstadsområdet
+med mange forskellige trafikselskaber og en
+endnu mere opsplittet finansiering fungerer til- '
+fredsstillende?«
+(Forespørgsel nr. F 17).
+
+Det første punkt på dagsordenen er: 홢:
+1) Spørgsmål om fremme af forespørgsel nr.
+F 14: '
+Forespørgsel til beskæftigelsesministeren og
+statsministeren om tolkning af udstationeringsdirektivet m.v.
+Af Karsten Hønge (SF) og Ole Sohn (SF).
+(Anmeldelse 25.11.2008).
+Sammen med dette punkt foretages:
+2) Spørgsmål om fremme af forespørgsel nr.
+F 15:
+Forespørgsel til udenrigsministeren om unionsborgerskabet.
+Af Morten Messerschmidt (DF) m.fl.
+(Anmeldelse 26.11.2008).";Formanden
+3780;Time;;Kl. 10:01
+3792;title_name;"Hvis ingen gør indsigelse mod fremme af disse
+forespørgsler, betragter jeg Tingets samtykke '.
+som givet.
+Det er givet.
+
+1581
+
+Det næste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 58:
+Forslag til lov om ændring af lov om folkekirkens økonomi. (Etablering af permanente
+stiftsråd).
+Af kirkeministeren (Birthe Rønn Hornbech).
+(Fremsættelse 13.11.2008).
+Forhandling";Formanden
+4185;title_name;"Forhandlingen er åbnet.
+Den første ordfører er hr. Per Bisgaard.";Formanden
+4260;Time;;Kl. 10:02
+4271;Time;(Ordfører);Kl. 10:02
+4299;name_party;":
+Lovforslaget handler i sin enkelhed om at permanentgøre de forsøg om stiftsråd, som blev
+indledt i 2002. Motivationen kommer primært
+fra biskopperne, som har udtrykt ønske om at
+demokratisere de lovfæstede stiftsudvalg vedrørende økonomi og tillige give dem indflydelse
+på en række nye områder, som kunne have interesse for det kirkelige liv.
+Et styregruppearbejde fra 2007 førte jo til betænkning 1495, som gav en række anvisninger
+og anbefalinger til det fremsatte forslag. Lovforslaget blev sendt i høring, og på grundlag af høringssvarene blev der bl.a. ændret i rådets sammensætning, således at formanden nu vælges
+blandt de læge medlemmer, og provsterne får to
+repræsentanter i rådet, men der vil fortsat være
+en overvægt af læge medlemmer.
+Stiftsrådet får mulighed for som hidtil at udskrive et bidrag på op til l pet. af den lokale ligning i de enkelte ligningsområder, og stiftsrådet
+kan anvende de her midler til at stimulere følgende tre områder: for det første kommunikation mellem stiftet, menighedsråd og præster,
+for det andet formidling af kristendom og endelig for det tredje udviklingsprojekter inden for
+undervisning, diakoni, it, medier, kirkemusik og
+lignende.
+Som det fremgår af bemærkningerne til forslaget, kræver væsentlige ændringer i den folkekirkelige struktur grundige overvejelser, og de
+skal funderes i et udbredt ønske. Min kollega fra
+Dansk Folkeparti, hr. Jesper Langballe, skrev i
+en artikel i Kristeligt Dagblad i forgårs, at projektmagerne nu overtager styringen i folkekirken. Jeg har måske ikke helt den samme frygt
+for, at de etablerede menighedsråd bliver tromlet ned af stiftsrådene, men jeg er enig i, at man
+
+1582
+
+Fredag den 28. november 2008 (L 58)
+
+skal være opmærksom på, at der ikke sker for
+stor knopskydning, for så vidt angår nedsættelse af øvrige stiftsudvalg.
+Af lovforslaget fremgår det, at stiftsudvalget
+vedrørende økonomi nu er nedlagt, og det vil
+være det samlede stiftsråd, som har ansvaret for
+kirkernes og præsteembedernes kapitaler og i
+øvrigt også for gravstedskapitalerne. På samme
+vis har stiftsrådet også mulighed for at beslutte,
+at det mellemkirkelige arbejde varetages af det
+samlede stiftsråd og ikke udskilles i et særskilt
+udvalg.
+Jeg vælger at se forslaget som et tiltag, der
+kan være med til at forny den dynamik, som
+nødvendigvis må være op og ned i den kirkelige
+organisation. De læge medlemmer kan som hidtil tage gode ideer med på arbejde i menighedsrådet, men de har også mulighed for at nyde
+godt af inspirationen fra fællesskabet i stiftsrådet og eventuelt få understøttet projekter i sognene, som det ellers kunne have været svært at
+få gennemført.
+Jeg vil gerne fremhæve, at rådet ikke skal fratage sognene deres position som den væsentligste ramme for det kirkelige liv, men derimod virke som supplement dertil og skabe mulighed
+for, at de sogne, der ønsker det, kan samarbejde
+på relevante områder og hjælpe hinanden.
+Det er min umiddelbare vurdering, at lovforslaget imødekommer flere af de ønsker, som betænkning 1495 fremhævede som værende væsentlige, og i Venstre ser vi frem til et konstruktivt udvalgsarbejde.";Per Bisgaard
+7413;Time;;Kl. 10:05
+7425;title_name;"Tak til hr. Per Bisgaard. Der er ikke ønsker om
+korte bemærkninger. Næste ordfører er fru Karen Klint.";Formanden
+7537;Time;"(Ordfører)
+.
+Karen J. Klint (S):
+Det er jo rigtigt, som den foregående ordfører
+sagde, at det handler om en permanentgørelse
+af nogle stiftsråd, som man har arbejdet med på
+forsøgsbasis, og jeg har noteret mig, at der er
+rigtig mange, der har udtalt sig positivt om forslaget, men modsat synes jeg måske også, at der
+er endnu flere, der slet ikke har haft en mening.
+Der er i hvert fald kun 25 menighedsråd ud af
+de knap 2.200, vi har, der har indsendt et høringssvar, og jeg ved ikke, om man kan sige, at
+det er et stort antal læge folk, som blander sig i
+debatten, når det er så lille et antal svar, der er :
+kommet fra dem: det tyder jo ikke på den store
+
+involvering. Og jeg synes faktisk, at der er nogle
+problemområder i den kirkelige struktur, som
+alt andet lige burde vække til større interesse.
+Jeg tror, at vi selv bidrager til den manglende interesse eller den manglende mulighed for at få
+en større debat, for når man ikke svarer så godt
+fra menighedsrådene, er det måske, fordi man
+ikke ser nogen sammenhæng i det.
+Der står faktisk i hvert fald noget klogt i det
+her lovforslag: der står, at menighedsrådsfolkene skal være i flertal for at kunne komme godt
+nok til orde, og det har de jo netop ikke været i
+de udvalg og i de strukturer, som står bag indstillingen om, at der skal være et forslag, for
+hver eneste gang regeringen nedsætter nogle
+udvalg, er der to biskopper, to gejstlige, to præster, og så to lægfolk, og der er de jo i hvert fald
+klart i mindretal, og når der så står her, at man
+skal være i flertal for at præge beslutningerne, så
+kunne det jo være, at vi netop i den måde, vi arbejder på, har indbygget noget, som gør, at lægfolket står af.
+Men retfærdigvis vil jeg sige, at lovforslaget
+her er en indrømmelse af, at der skal ske noget.
+Der står også, at »sognemenigheden er folkekirkens fundament«, og der skal »ikke etableres
+nye organer eller strukturer, medmindre de giver et bedre grundlag for sognemenighedernes
+arbejde.« Det synes jeg er to meget klare beskeder, der står i forslaget her. Spørgsmålet er så bare, om netop forslaget om en permanentgørelse
+af stiftsrådene er det, der løser den udfordring.
+Målet er jo en bedre dialog mellem menighed og
+stift, og det kan man vel godt gøre på en anden
+måde.
+Når vi ikke er så ovenud begejstrede for lovforslaget om at permanentgøre for nuværende,
+er det også, fordi der er så mange andre ting, der
+er i grøde inden for folkekirkens område. Der er
+nedsat et bloktilskudsudvalg, hvor de læge igen
+er i klart mindretal: der er kun én repræsentant
+for menighedsrådene i det bloktilskudsudvalg.
+Vi har jo grundlæggende ikke en statskirke,
+men jeg synes faktisk, at vi får flere og flere regler fra statens side ind .over folkekirken. Vi har jo
+efterlyst en større debat omkring folkekirkens
+struktur, virke og kompetencer. Vi ser noget, der
+ligner en kompetenceglidning oppefra og ned,
+men spørgsmålet er, om det reelt er en decentralisering, vi ser, eller om det er en centralisering,
+vi ser. Jeg synes i hvert fald, at det er lidt underligt, at vi jo har en liberal regering, men når jeg
+f.eks. læser interviewet med ministeren i Kristeligt Dagblad i dag, må jeg sige, at vi jo bliver fan-
+
+Fredag den 28. november 2008 (L 58)
+get lidt i, at der er lavet så mange betænkninger i
+en forgængers tid, at vi nu lovgiver meget mere,
+end vi nogen sinde har gjort i nyere tid omkring
+folkekirken.
+Så jeg synes faktisk, at det, vi trænger til frem
+for at permanentgøre stiftsrådene uden en større
+og sammenhængende debat om alle de andre
+forslag, som kommer de næste par år på området, er, at vi skal i gang med en bredere debat, vi
+skal have fremmet, at menighederne i kirken
+forholder sig til den kirkelige debat. Det kan vi
+sagtens gøre, også selv om vi lever videre med
+nogle biskoppelige stiftsråd, som vi gør for nuværende, uden at de bliver permanentgjort.
+Vi vil gerne have, at det her ses i sammenhæng med forslagene omkring bloktilskud. Vi
+vil meget gerne som parti love hele Folketinget
+ro om folkekirken de næste par år, hvis vi netop
+får sat en større sammenhængende debat i gang.
+Vi har tidligere selv foreslået det nogle gange, og
+vi synes egentlig, at det er unødvendigt at permanentgøre det. Vi vil gerne være med i en drøftelse af: Hvordan kan vi så klare det, hvis vi ikke
+permanehtgør det lige nu? Og hvordan får vi så
+en struktur på den lokale debat? For den er vi jo
+enige om er vigtig. Men vi ser gerne, at der bliver en debat nu her under udvalgsarbejdet, som
+lukker op for en mere sammenhængende debat
+om de mange udfordringer og de forskellige
+hjørner, der trænger sig på.
+Så har jeg noteret mig, at ministeren skriver i
+Kristeligt Dagblad, at bloktilskudsordningen
+ikke påvirker andet end økonomien. Nej, men
+det er jo også økonomistrømmene, der i høj grad
+påvirker, hvor drift, ledelse, ansvar og beslutninger ligger. Ellers var der i hvert fald heller ingen grund til at påtvinge kirken, at den også
+skal have resultatledelse og resultatmål ligesom
+alle andre, der får et tilskud. Så jeg synes, vi står
+over for en række udfordringer, som jeg gerne
+vil appellere til at få en samlet debat om.
+En konkret ting, som jeg synes vi under alle
+omstændigheder skal forholde os til, uanset om
+vi er enige eller ej - jeg har set, at .den røde lampe lyser - er, at her står igen ordet præst, og vi
+har jo fundet ud af, at når der står præst, så står
+der kun tjenestemandsansat, så det skal vi i
+hvert fald som minimum have afdækket.
+. : .";Kl. 10:05
+12982;Time;;Kl. 10:11
+12994;title_name;"Tak til fru Karen Klint. Og så er det hr. Jesper ,
+Langballe som ordfører.
+
+1583";Formanden
+13086;Time;(Ordfører);Kl. 110:11
+13119;name_party;":
+Stordrift og management, analysegrupper og
+projektudvikling er gloser, der hører til tidens
+trend i erhvervslivet og i styringen af offentlige
+institutioner. Ifølge det foreliggende lovforslag
+skal folkekirken nu ógså rammes af denne hærgende farsot. Selv om kirkeministeren har neddæmpet hensigten, synes grundtanken med forslaget at være, at sognene er for små og menighedsrådene for dumme til at varetage det kirkelige projektmageri/som forslaget lægger op til.
+Men folkekirken er ikke et projekt, og den ernærer sig ikke véd projekter. Folkekirken er en 1
+kristelig og folkelig virkelighed, som-eksisterer
+på forhånd og har en opgave med at forkynde
+evangeliet sogn for sogn. Tanken om et repræsentativt råd i hvert stift, der bestyrer stiftsmidlerne - det som siden reformationen har været
+folkekirkens kapital - er udmærket. Det var det,
+vi fik i 1984, og som er tillagt yderligere, udvidede beføjelser i 2006, hvor udvalget skulle tage
+sig af hele administrationen, stiftsudvalgene
+vedrørende økonomi, som de hed.
+At et sådant råd samtidig: som det er foreslået i det nye lovforslag, kan rådgive biskoppen
+med hensyn til pastoralstilliriger og oprettelse af
+nye sogne og præstestillinger, forekommer også
+velbetænkt. Men når vi så kommer til den
+egentlige opgavebeskrivelse for det permanente
+stiftsråd, som den findes i lovforslaget, og som
+den allerede var kommet ind i formålet med
+stiftsudyalgene vedrørende økonomi, så er det,
+at managementånden slippes ud af flasken.
+Det er for det første kommunikation mellem
+stift og menighedsråd og præster, som om biskoppen er ude af stand til selv at kommunikere
+med sine præster og menighedsrådet. For det
+andet er det formidling af kristendom. Jamen er
+det egentlig ikke, hvad der hele tiden har været
+kirkens opgave? Alt det er tydeligvis tom snak.
+Men så kommer det tredje og egentlige formål,
+nemlig udviklingsprojekter inden for underyisning, diakoni, medier, kirkemusik og lignende,
+herunder analyser til forberedelse af sådan nogle projekter.
+De stakkels menighedsråd vil dårligt kunne
+slippe for projekterne og analyserne, i hvert fald
+ikke for at betale, når stiftsbidragene på op til 1
+pet. af den kirkelige ligning er bindende.
+Som en nyskabelse får stiftsrådene så oven i
+købet generel beføjelse til uden begrænsning at
+nedsætte underudvalg, som hr. Per Bisgaard
+
+1584
+
+Fredag den 28. november 2008 (L 58)
+
+også nævnte med, som jeg kunne høre det, en
+vis betænkelighed, hvor man offentligt finansieret kan indsætte venner og meningsfæller til at
+tage sig af sine mærkesager og yndlingsprojekter. Det gælder f.eks. det mellemkirkelige, det vil
+sige samarbejdet med alverdens kirkesamfund.
+Så ifølge lovforslaget får kirken ikke bare ét
+udenrigsministerium, den får et i hvert stift og
+med et ubegrænset antal fuldmægtige, der udnævner hinanden.
+Det hele skal bl.a. tjene det, man kalder stiftets kirkelige liv, men det begreb er en konstruktion. Der findes ikke noget stiftets kirkelige liv.
+Et stift er en administrativ enhed, som har en
+domkirke, en biskop, der fører tilsyn med præster og menighedsråd, og så måske en landemodegudsljeneste og et stiftskur sus hist og her det kirkelige liv findes i sognene. Og jeg skal hilse og sige, at sognene godt selv kan finde ud af
+at leve deres kirkelige liv uden støttepædagogik
+fra et stiftsråd.
+Dansk Folkeparti kan ikke støtte lovforslaget,
+som det her foreligger.
+Kl..10:16";Jesper Langballe
+16520;title_name;"Tak til hr. Jesper Langballe, der er ikke ønske om
+korte bemærkninger. Næste ordfører er fru Pernille Vigsø Bagge.";Formanden
+16644;Time;(Ordfører);Kl. 10:16
+16681;name_party;":
+SF støtter det her forslag om permanentgørelse
+af stiftsrådene, det samme gør jo mange kirkelige interessenter. Vi ved godt, at den her permanentgørelse af stiftsrådene ikke løser alle udfordringer, som kirken står over for, og det er også
+derfor, vi påtænker at lave et større udredningsarbejde, som fru Karen J. Klint også var inde på
+kunne være nyttigt.
+Den Danske Præsteforening har anvist en metode til, hvordan man kunne få en mere ligelig
+fordeling af antallet af præster i stiftsrådene, og
+det håber vi i SF at vi kan kigge på under udvalgsbehandlingen.
+Men SF støtter forslaget.";Pernille Vigsø Bagge
+17280;Time;;Kl. 10:16
+17292;title_name;"Tak for det. Næste ordfører er fru Charlotte Dyremose.
+,Kl. 10:17
+(Ordfører)";Formanden
+17392;name_party;":
+I Det Konservative Folkeparti støtter vi varmt
+det her lovforslag. Vi synes, det er et rigtig godt
+
+lovforslag. Vi har også i årevis arbejdet hen
+imod den her dag, hvor et sådant lovforslag
+kunne fremsættes selvfølgelig i tæt dialog og
+kommunikation med netop også de mange høringsparter, som jo også - som den tidligere ordfører fra SF netop var inde på - varmt støtter forslaget.
+Det er lige inden, jeg er nødt til at nævne min
+forgænger, Knud Erik Kierkegaard, som i den
+her sammenhæng jo også pressede varmt på, for
+at vi kunne få forsøgene med stiftsrådene, så vi i
+dag kan stå i en situation, hvor vi kan behandle
+et forslag til, hvordan et sådant stiftsråd så kan
+se ud i en permanent form i fremtiden.
+For sagen er jo den, at det er fuldstændig rigtigt, som hr. Jesper Langballe sagde: Udgangspunktet for folkekirken er sognet og det liv, der
+er i sognet. Og vi skal også i folkekirken fastholde vores traditioner og den kultur, der er i folkekirken, men man kan godt, samtidig med at
+man fastholder værdierne - fastholder udgangspunktet i sognet - tænke nyt og gøre andre ting.
+Det, at man kan kommunikere via et stiftsrådsorgan på tværs af stiftet, det, at man også på et
+lidt højere plan formidler kristendommen, og
+det, at man kan udvikle nye ting til gavn for alle
+provstier og alle sogne, ødelægger på ingen
+måde det lokale liv i sognekirken. Det kan
+tværtimod være med til at gøre nyttige ting for
+det lokale liv.
+Det var jo af samme grund, vi fra konservativ
+side pressede på for at få en udviklingsfond. Det
+var jo ikke, fordi al kirkelig udvikling skal ligge i
+en udviklingsfond på tværs af hele landet. Det
+var, fordi det er til stor gavn for den enkelte sognemenighed, når der udvikles nye ting, som kan
+være til glæde og gavn, ikke bare i et sogn, men i
+mange sogne på tværs af landet. Man skal selvfølgelig gøre tingene i det enkelte sogn, som det
+passer bedst til sognet, men det er da en fordel,
+at man også taler med nogle andre og hører om
+deres erfaringer.
+Stiftsrådene kan være med til at fastholde traditionen og kulturen i folkekirken, samtidig
+med at den udvikles. Dialogen mellem sognene
+er jo ikke til skade for nogen, og vi synes også, at
+sammensætningen, som den foreligger nu, i udgangspunktet er udmærket. Vi er naturligvis
+indstillet på også at drøfte den i udvalgsbehandlingen, som fru Pernille Vigsø Bagge var inde
+på, men vi mener faktisk, at der her - også på
+baggrund af de høringssvar, der er kommet ligger en ganske fornuftig og afvejet model. Vi
+synes, det er fornuftigt, at man i valget af for-
+
+(199)
+Fredag den 28. november 2008 (L 58)
+mand forsøger at tilstræbe en parallelitet til det,
+man jo gør i menighedsrådet og provstiudvalg,
+hvor de nemlig vælger formanden af deres midte. Og vi er så helt indforstået med at lave den
+her model, hvor det er lægfolk, der kan være
+formænd - naturligvis af den grund, at der ikke
+skal skabes en forvirrende ledelsesstruktur, hvor
+en præst f.eks. kunne være formand for sin biskop.
+Vi er også rigtig tilfredse med, at der er kommet endnu en provst ind, da vi mener, at der er
+saglige grunde til, at der både er domprovsten,
+som jo kan være biskoppens stedfortræder og
+derfor naturligvis skal være til stede, og at der jo
+også er en såkaldt helt almindelig provst, der ,
+kender til de almindelige økonomiforhold i
+provstierne i det enkelte stift. i . :
+Repræsentationen er jo netop klar: Der er biskoppen, der er provsterne, der er præsterne, og
+så er der lægfolk fra alle dele af stiftet, så man
+netop sikrer sig, at også hvad der foregår i stiftsrådet udspringer af det enkelte sogn, udspringer
+af den lokale folkekirke, som jo er grundstammen i vores nationale folkekirke.
+Så vi Konservative kan altså varmt støtte forslaget. Vi har også bemærket, at der er en klar og
+tydelig støtte til det i de høringssvar, der er
+kommet, og vi glæder os rigtig meget til et konstruktivt udvalgsarbejde. Og så håber vi meget,
+at vi får permanente stiftsråd til glæde og gavn
+for den danske folkekirke og for det liv, der er ,
+både på tværs af sogne og i de enkelte sogne.";Charlotte Dyremose
+21452;Time;;Kl. 10:22
+21464;title_name;"Ja tak. Der er ønsker om en kort bemærkning,
+først fra fru Karen Klint.
+' Kl. 10:22
+Karen J. Klint (S):
+Jeg vil bare stille et ganske enkelt spørgsmål: Er
+der noget i det her lovforslag, som ikke kan ske i
+dag? Fremmer det en dialog, som ikke kan ske i
+dag? Fremmer det et samarbejde, som der er noget, der forhindrer i dag?
+Hvad er det, der har den største nyhedsværdi:
+ud over en permanentgørelse af stiftsrådene?";Formanden
+21889;Time;;Kl. 10:22
+21901;title_name;"Ordføreren. - - ' 홢
+:
+홢:홢홢
+\
+: Kl. 10:22";Formanden
+21965;name_party;":
+Jamen det er jo en permanentgørelse af noget,
+som syv af stifterne har i dag. Så det er klart, at
+for de syv stifter, der har stiftsfåd, vil det her
+blot ændre en lille smule på nogle af strukturer-
+
+1585
+
+ne, fordi et stiftsråd nu kommer til at have den
+samme struktur i alle stifterne: Det er jo rigtigt
+nok, at en permanentgørelse bare er en permanentgørelse, men det, som vi synes er væsentligt, og grunden til, at vi gerne ville have forsøgene med stiftsrådene, er jo netop, at vi ville
+give mulighed for, at også lægfolkene havde en
+formel adgang til rådgivningsfunktionen over
+for biskoppen, og også at man på den måde formaliserede de her muligheder for kommunikation på tværs og det, at en repræsentant for de
+lokale fik en direkte adgang til en tæt dialog
+med biskoppen til gavn for kirkelivet både i det
+enkelte sogn og på tværs af sognene.
+1
+:";Charlotte Dyremose
+22832;Time;;Kl. 10:23
+22844;title_name;Fru Karen J. Klint.;Formanden
+22873;Time;"Karen J. Klint (S):
+Nu står der jo i lovforslaget, at det ikke er menighedsrådsvalgte, men at det er repræsentanter
+for menigheden, så der behøver jo i princippet
+slet ikke være sammenfald mellem, at man både
+sidder i et menighedsråd og kommer til at sidde
+i et kommende stiftsråd. Det er der, jeg ser nogle
+af problemerne med, at vi simpelt hen opbygger
+en række æsker, som der ikke riødvendigvis er
+en sammenhæng imellem.
+Så mit næste spørgsmål til fru Charlotte Dyremose vil være: Var det ikke en idé at vente
+med det her og køre videre med nogle udviklingsprojekter, nogle forsøgsordninger, og så
+vente, til vi kan se, hvad bloktilskuddet eller andre kommende initiativer vil betyde for kirkens
+økonomi og kirkens ledelse, så vi får en mere
+sammenhængende debat om strukturen? For vi
+er jo enige om, at der skal være en demokratisk .
+og åben dialog. Spørgsmålet er bare, hvornår vi
+skal komme med de forskellige lovforslag.";Kl. 10:23
+23811;Time;;Kl. 10:24
+23823;title_name;"Ordføreren.
+...
+홢, Kl. 10:24";Formanden
+23875;name_party;":
+Jeg synes, det er ret vigtigt at huske, at dem, der
+vælger de læge medlemmer af stiftsrådene, jo
+netop er menighedsrådene. Der vil det formentlig for langt de fleste være naturligt at vælge en
+fra deres midte, altså et menighedsrådsmedlem.
+Men grunden til, at vi synes, at det er meget vigtigt, at alle, der er valgbare til stiftsrådene, er
+dem, der er valgbare til menighedsrådene, er, at
+man f.eks. kunhe have en tidligere menighedsrådsformand, som ikke længere er i menigheds-
+
+1586
+
+Fredag den 28. november 2008 (L 58)
+
+rådet, men som er ganske egnet til at sidde i
+stiftsrådet. Der synes vi, det er ærgerligt at begrænse, hvem man i de enkelte menighedsråd
+kan vælge. Men det er jo menighedsrådene, der
+vælger dem, og derfor er man også repræsentant for menighedsrådene.
+Lige til det sidste vil jeg ganske hurtigt sige,
+at jeg ikke ser nogen grund til at stoppe udviklingen. Jeg håber også meget, at vi kan få forlænget bevillingen til udviklingsfonden, når nu den
+udløber efter næste år. Det ser jeg ingen grund
+til at stoppe, men jeg mener faktisk, at der har
+været så mange gode erfaringer med med de her
+stiftsråd, at der ikke er nogen grund til, at man
+sidder med den her usikkerhed om, hvorvidt
+det nu bliver sådan, man fortsætter, eller at det
+ikke gør det. Jeg synes, der er så mange positive
+erfaringer, der tyder på, at det her er en rigtig
+god idé, og derfor synes jeg lige så godt, at vi
+kan få dem permanentgjort.";Charlotte Dyremose
+25319;Time;;Kl. 10:25
+25331;title_name;Så er der en kort bemærkning fra hr. Søren Krarup.;Formanden
+25391;Time;;Kl. 10:25
+25409;name_party;":
+Jeg har lyttet til den konservative ordfører med
+stor sympati og forstår jo også, at hun har den
+ganske hæderlige hensigt, at hun vil hjælpe folkekirken, bl.a. - som hun sagde - med at formidle kristendom på et højere plan. Men jeg får
+lyst til, via en kirkehistorisk parallel for så vidt,
+måske at sprede en lille smule tvivl i fru Charlotte Dyremoses sind vedrørende begrebet hjælp til
+folkekirken.
+I sidste halvdel af 1800-tallet blev København
+industrialiseret, og det betød jo, at broerne
+sprængtes. Der kom så mange mennesker, at det
+kirkelige liv for så vidt var gået fuldstændig i stå
+på den måde, at sognene var så store, at de ikke
+kunne fungere. Da trådte så Det københavnske
+Kirkefond til og ville bygge kirker for at hjælpe
+folkekirken. Det gjorde det også, men nissen
+flytter jo altid med. Hjælpen bestod i, at når de
+havde bygget kirkerne, krævede de ret til også
+at bestemme, hvem der skulle vælge præsten, og
+hvordan menighedslivet skulle organiseres. Sådan går det jo altid, der er intet farligere for fol-:
+kekirken end hjælpsomhed.
+Det førte til, at København blev domineret af
+Indre Mission, og det betød - og jeg taler af erfaring, jeg er vokset op i et sådant sogn - at den almindelige københavner følte sig fremmed over
+
+for den kirke, som kom og skulle hjælpe, og som,
+han ikke selv var en del af.
+Derfor vil jeg altså spørge fru Charlotte Dyremose: Kunne hun ikke få en fornemmelse af, at
+den her interesse i at hjælpe sognene med at formidle kristendom på et højere plan kunne være
+ganske farlig for folkekirkens eksistens som sognenes kirke?";Søren Krarup
+26990;Time;;Kl. 10:27
+27002;title_name;Ordføreren.;Formanden
+27023;Time;;Kl. 10:27
+27047;name_party;":
+Hr. Søren Krarup tillægger mig, at jeg skulle
+hjælpe nogen med noget her, og det kan være, at
+jeg gør det i min lokale sognekirke, hvor jeg deltager aktivt i kirkelivet, det er én ting.
+Men sagen er jo den, at det her handler om
+nogle stiftsråd, som får mulighed for med den
+interesse, der måtte komme fra de enkelte menighedsrådsrepræsentanter, at sætte sig sammen og beslutte, at inan gerne vil gøre nogle
+ting, som også foregår på tværs af de enkelte
+sogne. Så det vil jo altså være folkekirken selv,
+der tager initiativer, hvis og når der tages initiativer. Det er jo ikke et spørgsmål om, at jeg som
+politiker har nogen som helst intentioner om at
+begynde at blande mig i, hvad det er for nogle
+projekter. Det er jo netop derfor, at vi laver stiftsråd. Det er, for at de og ikke vi politikere kan
+have den her opgave - for det er jeg ganske enig
+i: det ville ikke være en god tendens.";Charlotte Dyremose
+27948;Time;;Kl. 10:28
+27960;title_name;Hr. Søren Krarup.;Formanden
+27987;Time;;Kl. 10:28
+28005;name_party;":
+Jeg er slet, slet ikke i tvivl om, at hensigten er
+den allerbedste. Jeg vil kun advare imod hele
+denne tro på, at man skal hjælpe folkekirken,
+dels, som det hedder i § 1, nr. 2, at man vil formidle kristendom, dels, som det hedder i Kirkeministeriets bemærkninger, at stiftsråd skal koncentrere sig om at understøtte projekter til gavn
+for stiftets sogne.
+Jeg må sige, at efter fyrretyve år som sognepræst i den danske folkekirke kender jeg intet
+farligere end den kirkelige hjælpsomhed, der
+netop vil hjælpe de lidt tilbagestående folk ude i
+sognene, for det er og bliver ensbetydende med,
+at de almindelige folk bliver umyndiggjort. Alle
+disse aktive kirkelige organisationer og råd og
+hensigter sætter den almindelige danske folkekirkemand og -kvinde til at være det, der på ka-
+
+Fredag den 28. november 2008 (L 58)
+tolsk hedder lægfolk, dvs. de umyndiggjorte, i
+forhold til den bevidstgjorte kirkelighed. Det er
+altså den fare, jeg ser i det her, og der er det, at
+jeg virkelig også synes, at et så hæderligt parti i
+den sammenhæng som De Konservative skulle
+være lidt mere forsigtige og ikke tro alt for godt
+om alle dem, der her vil skabe liv, for det bliver
+på bekostning af den levende folkekirke.";Søren Krarup
+29223;Time;;Kl. 10:29
+29235;title_name;Ordføreren. !;Formanden
+29258;Time;;Kl. 10:29
+29282;name_party;":
+Jeg synes, at det væsentligste i det, hr. Søren
+Krarup læste op, netop var det med at understøtte projekter. Der står ingenting om at pådutte projekter. Sagen er den, at man understøtter
+det, som foregår i det lokale sognéliv, og der må
+jeg nok sige, at hr. Søren Krarups partifælle jo
+netop sagde, at der var ganske vide rammer for,
+at man selv kunne nedsætte underudvalg. Jeg
+synes netop, det er væsentligt, at vi gudskelov
+ikke herinde beslutter, om man må nedsætte underudvalg, men at det naturligvis er op til de
+kirkelige organer fuldstændig selv at vurdere
+nødvendigheden af og behovet for det. Det skal
+vi absolut ikke blande os i herindefra, for indholdet skal folkekirken nemlig selv skabe.";Charlotte Dyremose
+29994;Time;;Kl. 10:30
+30006;title_name;"..
+Så er det hr. Jesper Langballe for en kort bemærkning. :
+.<홢홢 Kl. 10:30";Formanden
+30102;name_party;":
+Jeg vil fortsætte i det samme spor, fordi jeg synes, at det var ganske tydeligt, at fru Charlotte
+Dyremose misforstod hr. Søren Krarup. Hvis det
+her lovforslag bliver til virkelighed, er der ikke
+fremover tale om, at det så er politikerne, der
+skal ud og kvæle med deres hjælpsomhed. Nej,
+det, politikerne gør, er at sætte nogle stiftsråd i
+gang, som skal understøtte det kirkelige liv i
+sognene: det står ordret i lovforslagets tekst. Og
+det er det, der er farligt. Det er ikke politikerne,
+der er farlige, det er stiftsrådene.
+Nu sagde fru Charlotte Dyremose så, at der
+ikke står noget om at pådutte, der står understøtte. Det var faktisk det, hr. Søren Krarup talte
+om, nemlig denne hjælpsomhed, hvor man vil
+understøtte nogen, og dét vil sige, at man giver
+dem et par krykker, så de fratages muligheden
+for at gå selv.
+Må jeg gøre opmærksom på, at det mest rædselsfulde afsnit i Eva Gredals bistandslov, som 홢
+
+.
+
+1587
+
+førte til en række splittede'familier og dramaer
+med tvangsfjernede børn uden begrundelse, hed
+»Hjælpeforanstaltninger uden samtykke«. Hjælpeforanstaltninger uden samtykke skal man altid vogte sig for, vil jeg sige til fru Charlotte Dyremose.
+. Kl. 10:32";Jesper Langballe
+31294;title_name;"Ordføreren.
+. Kl. 10:32";Formanden
+31341;name_party;":
+Det er gudskelov heller ikke det, det her er udtryk for. Vi har netop i den grad været opmærksomme på, at det, som stiftsrådene gør, netop er
+også at udvide den formelle ramme om demokratiet på stiftsplan, altså at det netop er repræsentanter, der er valgt af menighedsrådene, som
+kan komme med inspiration fra deres eget menighedsråd og på den måde øge dialogen med
+andre.
+'
+Der er jo ikke nogen som helst tvivl om - og
+det tror jeg ikke at der er hos nogle af dem, der
+vil komme til at sidde i stiftsrådene - at udgangspunktet for folkekirken er sognet. Og det
+mener jeg som konservativ også at det er og at
+det skal være. Det er også derfor, at vi i forskellige andre sammenhænge har gjort en del for at
+sikre, at den lovgivning, man laver, netop fortsat
+tager udgangspunkt i det enkelte sogn og ikke
+bare gør kirken til en servicekirke, men til en
+sognekirke.
+Men det, vi også bare skal huske, er, at der
+også sker en udvikling i samfundet. Det er utrolig vigtigt, at kirken ud over at være sognekirke
+også er kirke i menneskers faktiske liv. Der er
+bare andre strukturer i dag, end der var for 200
+år siden i det danske samfund, og det må kirken
+også forholde sig til. Vi kan se, at der er rigtig
+mange høringsparter, der synes, at det her i
+hvert fald er en god udvikling at få i år 2008.
+홢홢홢
+. .";Charlotte Dyremose
+32655;Time;;Kl. 10:33
+32667;title_name;"Der er en praksis for, at man ikke må påkalde sig
+Vorherre her fra talerstolen. Men i den her sag
+vil jeg gerne sige, at når ordføreren siger Gud ske
+lov, må det anses for at være ret passende under
+behandlingen af dette lovforslag.
+Men nu er det hr. Jesper Langballe for en sidste kort bemærkning.";Formanden
+32975;Time;;Kl. 10:34
+32997;name_party;":
+I dag har domprovst Bartholin fra Århus en temmelig banal kronik i Jyllands-Posten om, hvor
+vidunderligt det er med alle de fornyelsestiltag,
+
+1588
+
+Fredag den 28. november 2008 (L 58)
+
+der sker i folkekirken for tiden. Bl.a. nævner han
+det her. Og det er så pudsigt, fordi domprovsten
+kommer med et meget smukt citat af I. C. Christensen om, at hvis almindelige mennesker skulle holde af deres kirke, måtte de selv være en del
+af den. Og så indførte I. C. Christensen menighedsrådene.
+Det er jo egentlig pudsigt, at man så siger: Vi
+skal bare lige have føjet noget til. Vi skal bare
+lige have føjet noget til, for menighedsrådene
+skal hjælpes med at være menighedsråd, siger
+man - og så tager man myndigheden og kompetencen fra dem. Det er klart, at det sker, når folk
+skal hjælpes. Hvis der kommer en, der vil hjælpe mig med at være folketingsmedlem på den
+rigtige måde, vil det da være det samme som at
+fratage mig myndigheden i mit mandat. Sådan
+er det altid. Hvis man vil hjælpe folk med at
+være folkevalgte, er de umyndiggjorte. Det er
+underligt, at fru Charlotte Dyremose ikke kan se
+det, nemlig at hjælpen bliver det, som på latin
+hedder contradictio in adjecto, og som på dansk
+betyder en modsigelse i tilføjelsen.";Jesper Langballe
+34233;Time;;Kl. 10:35
+34245;title_name;Ordføreren.;Formanden
+34266;Time;;Kl. 10:35
+34290;name_party;":
+Nu er det mit indtryk, at det jo gudskelov kun er
+hr. Jesper Langballe og hr. Søren Krarup, der betragter det her sådan. Altså, ingen steder i det
+her lovforslag og ingen steder i den debat, jeg
+har haft med folk om de her ting, har jeg set det
+I betragtet som en hjælp til det at være sognekirke
+eller det at være menighedsråd. Det her er et
+ekstra bidrag til også at kunne andet i folkekirken end at være sognekirke, nemlig også at kunne tænke på tværs.
+Det, man skal huske er så vigtigt, er, at vi jo
+stadig væk har menighedsrådene. Det er stadig
+væk menighedsrådet og den enkelte præst, der
+vurderer, hvordan det enkelte sogns kirkeliv
+skal være. Når man laver nye projekter i Aalborg, er der jo ingen, der siger, at man i Snekkersten skal benytte sig af de her ting. Men det er
+da dejligt, at man har mulighed for at vide, hvad
+de måtte lave af gode ting ét sted i landet, hvis
+man i det enkelte sogn føler, at lige præcis det
+faktisk passer til ens egen sognemenighed.";Charlotte Dyremose
+35276;Time;;Kl. 10:36
+35288;title_name;"Tak til fru Charlotte Dyremose. Der er ikke flere
+ønsker om korte bemærkninger. Den næste ordfører er fru Bente Dahl.
+II";Formanden
+35419;Time;(Ordfører);Kl. 10:37
+35446;name_party;":
+Siden 2002 har der i store dele af landet været
+gennemført en række forsøg med stiftsråd. Forsøgene er blevet evalueret og efterbehandlet af
+et udvalg, en styregruppe, som har samlet erfaringerne i en betænkning. Det er det, vi behandler i dag som lovforslag nr. L 58. Det vil sige, at
+lovforslaget er baseret på praktiske erfaringer,
+og det er jo ikke det værste, man kan have som
+grundlag for en lov.
+Overordnet finder vi det positivt, at styregruppen understreger, at stiftsrådets primære
+opgave ikke er at virke som et forvaltningsorgan, men derimod består stiftsrådets primære
+opgave i at understøtte det lokale folkelige liv i
+stiftet. Det Radikale Venstre mener, at folkekirkens folkelige liv skal have de bedste betingelser
+for at kunne udfolde sig.
+Kirkeministerens forslag til sammensætning,
+og jeg hørte også den konservative ordfører støtte op om præcis det punkt, er vi ikke enige i. Vi
+mener ikke, at det er en god idé, at en domprovst skal være født medlem. Vi mener, at det
+er rimeligt, at én provst ér medlem. Principielt
+mener vi, at det folkelige formål bliver svækket,
+når både en biskop og en domprovst er fødte
+medlemmer. Derudover har vi jo også to præster, og så har vi menighedsrådsrepræsentanterne fra hvert provsti.
+Jeg vil gerne have, at menighedsmedlemmer
+får størst mulig indflydelse, altid bistået af gejstlige medlemmer, men det er det folkelige element, vi gerne vil styrke, og det siger lovforslaget jo også at det er fremsat for at styrke. Derfor
+vil vi arbejde på, at menigheden får den indflydelse, ved at diskutere i udvalgsarbejdet, om vi
+kan få ændret på den medfødte domprovst. Vi
+synes, at det er rigtig fint, at det bliver en ikkegejstlig formand, som stiftsrådet får, og at biskoppen er forretningsfører. Det er en rigtig fin
+opgavefordeling.
+Jeg vil gerne give domprovsten lidt flere ord
+med på vejen, fordi argumentet er, at hvis biskoppen er forhindret i at møde op til et møde,
+kan domprovsten træde til med det samme, fordi vedkommende har samme viden. Men hvis
+alle udvalg skulle sammensættes i den kontekst,
+ville det jo være meget bureaukratiske udvalg.
+Jeg mener, at hvis biskoppen ikke kan møde op,
+må en anden i stiftsrådet meget hurtigt kunne
+sætte sig ind i den viden, som er nødvendig for
+det pågældende møde.
+
+Fredag den 28. november 2008 (L 58)
+Den indbyggede evaluering 2012-13 har vi
+det rigtig godt med. Det er fint at tage en lov, der
+handler om så værdiladede temaer, op med mellemrum. I den bedste af alle verdener skulle enhver lov jo have en udløbsdato.
+Vi mangler stadig den brede folkelige debat
+om folkekirken, og vi mangler en sammenhængende grundig analyse af forholdet mellem stat
+og kirke. De to ting har høj prioritet hos os, men
+L 58 er et skridt på vejen - et skridt i den rigtige
+retning.
+Vi er henholdende positive. Der er mange fornuftige ting i lovforslaget, og vi vil i udvalgsbehandlingen specielt arbejde på at få ændre stiftsrådets sammensætning, hvilket nok ikke kan
+overraske efter at have hørt min ordførértale.
+<
+홢
+: :";Bente Dahl
+38467;Time;;Kl. 10:40
+38479;title_name;Tak til fru Bente Dahl. Der er ingen korte bemærkninger. Den næste ordfører er hr. Per Clausen.;Formanden
+38584;Time;(Ordfører);Kl. 10:40
+38612;name_party;":
+Som et af de få medlemmer af Enhedslisten, der
+også er medlem af folkekirken, synes jeg altid,
+det er spændende at lytte til de debatter, der er
+her i Folketinget om folkekirkens anliggender.
+Særlig spændende synes jeg det er, fordi de fleste politiske partier her i Danmark jo gør meget
+ud af, hvor vigtigt det er at adskille religion og
+politik, og at man derfor ikke skal føre teologiske debatter fra Folketingets talerstol. Det er der
+mange, der siger.
+Men det eneste, man har diskuteret i dag, det
+eneste, der er uenighed om, er jo i virkeligheden
+en teologisk opfattelse af, hvad der er folkekirkens rolle: hvordan forholdet mellem Gud og
+mennesker skal reguleres.
+Jeg vil gerne sige, at det kunne jeg godt overveje at deltage i en debat om der, hvor det hører
+hjemme, nemlig i det kirkesamfund, som så folkekirken er udtryk for. Men jeg mener grundlæggende, at det er en uskik, at vi i Folketinget
+bruger tiden på at føre den slags debatter. Jeg
+mener ikke, at der kommer noget godt ud af det.
+Det er muligt, at man ved at føre de her debatter
+i Folketinget kan bilde sig selv ind, at man får en
+folkelig debat om folkekirkens forhold. Enhver
+kan jo ved menighedsrådsvalgene og på de resultater, der er der, se, at der ingen folkelig debat
+om folkekirkens forhold kommer, før folkekirken bliver overladt til sig selv og bliver fritaget
+for den politiske indblanding.
+
+1589
+
+Det gode ved folkekirken er i øvrigt, at det jo
+er en dejlig udogmatisk kirke, som man sådan
+set kan være medlem af uden at vide, om der
+findes en gud, og uden at synes, at det spørgsmål er særlig vigtigt. Jeg vil personligt sige, at
+det er en god begrundelse for at være medlem af
+folkekirken. Og alt den her politiske regulering
+og indblanding ødelægger i virkeligheden kun
+det afslappede og rolige forhold, man kan have
+til det religiøse selskab. Kl. 10:42";Per Clausen
+40466;title_name;"Der er et ønske om en kort bemærkning fra hr.
+Søren Krarup.
+.. Kl. 10:42";Formanden
+40556;name_party;":
+Jeg har - det er han heller ikke i tvivl om - stor
+respekt for hr. Per Clausens både intellekt og lødighed. Derfor ærgrer det mig, at hans forståelse
+af denne debat er så, jeg er lige ved at sige, umoden. :
+Hvad er forholdet i vores grundlov? Det er, at
+den vigtigste paragraf er § 4, der siger, at den
+evangelisk-lutherske kirke 'er den danske folkekirke og understøttes som sådan af staten. Det
+betyder nemlig, at dermed er staten sat på plads
+som kun verdsligt område, verdsligt regimente,
+i modsætning til de ugudelige lande, der ikke
+sondrer mellem Guds og kejserens rige, og hvor
+politik dermed bliver en salighedssag.
+Det skuffer mig, at et så velbegavet menneske
+som hr. Per Clausen ikke har forståelse af den
+grundlæggende distinktion, som igen er forudsætningen for det folkestyre, vi har, hvor der
+ikke er nogen hellig lov, der bestemmer, hvad
+der skal gælde i landet. Tidligere var det kongen, men efter 1849 blev det folkets flertal, der
+bestemte, hvad loven skal sige. Har hr. Per Clausen ingen sans for, at den forståelse, som jeg kan
+sige kristendommens forkyndelse sætter for staten, er helt afgørende for statens selvforståelse?";Søren Krarup
+41714;Time;;Kl. 10:43
+41726;title_name;Ordføreren.;Formanden
+41747;Time;;Kl. 10:43
+41764;name_party;":
+Se, nu har jeg det lidt ligesom hr. Søren Krarup,
+for jeg ved jo også, at hr. Søren Krarup er en meget begavet mand. Derfor undrer jeg mig over
+alle de absurde synspunkter, hr. Søren Krarup er
+i stand til at indtage på trods af denne begavelse.
+Jeg vil bare sige, at det problem, som hr. Søren Krarup rejser her, kunne løses meget enkelt,
+ved at man i den danske grundlov skrev, at sta-
+
+1590
+
+Fredag den 28. november 2008 (L 58)
+
+ten selvfølgelig ikke blandede sig i religiøse forhold, for det var en sag mellem mennesket og
+Gud.
+. .";Per Clausen
+42311;Time;;Kl. 10:44
+42323;title_name;Hr. Søren Krarup.;Formanden
+42350;Time;;Kl. 10:44
+42368;name_party;":
+Jamen jeg er helt rørt over, som vi overvælder
+hinanden med komplimenter. Men jeg vil jo sige, at hvis ikke evangeliet sætter staten på plads,
+så bliver staten selvherlig, så bliver staten totalitær.
+Hr. Per Clausen siger, at man bare kan dele de
+to. Forholdet er, at hvis der ikke lyder et ord, der
+sætter staten på plads, så vokser staten op til at
+få en guddommelig status, hvilket betyder, at vi
+netop har det totalitære, det religiøse, det hellige
+samfund.
+Efter et århundrede med den ene totalitære
+størrelse efter den anden burde også Enhedslisten da begynde at overveje, hvad der er årsagen til, at man i den vestlige verden, i kristenheden, har haft en sans for, åt man netop ikke skulle begynde at lave Stalins Sovjet eller Hitlers
+Tyskland, men at der var en verdslighed, som
+betød, at det ikke skulle være en hellig lov, men
+det skulle være et parlamentarisk, et verdsligt
+demokrati, der bestemte.
+,";Søren Krarup
+43291;Time;;Kl. 10:45
+43303;title_name;Ordføreren.;Formanden
+43324;Time;;Kl. 10:45
+43341;name_party;":
+Af en eller anden grund er det aldrig lykkedes
+hr. Søren Krarup at overbevise mig om, at netop
+de synspunkter, han står for, er et udtryk for, at
+kristendommen fører til et demokratisk sindelag. Det er sådan set primært hr. Søren Krarup
+og nogle af hans venner, der har gjort, at jeg er
+kommet i tvivl om det - sammen med den katolske kirke og andre af vennerne.
+Men det, jeg bare vil sige, er, at der jo er to opfattelser her. Min opfattelse er, at demokratiet
+sikres af menneskene og menneskenes aktivitet,
+af menneskenes handling. Hr. Søren Krarup er
+enig med muslimske fundamentalister om, at
+det, der sætter rammen for samfundet, er religiøsiteten. Denne fatale fejltagelse må hr. Søren
+Krarup gøre op med, selv om jeg ved, at det kan
+være svært at gøre op med fejltagelser, når man
+er kommet op i årene, ligesom jeg selv er.";Per Clausen
+44184;Time;;Kl. 10:46
+44196;title_name;Der er ikke flere, der har bedt om en kort bemærkning. Tak til hr. Per Clausen. Næste ordfører er hr. Villum Christensen.;Formanden
+44327;Time;(Ordfører);Kl. 10:46
+44362;name_party;":
+Tak for det. Som vi opfatter det demokratiske
+perspektiv ved dannelsen af disse stiftsråd, ser
+vi her en strukturering af kirkeledelsen, som
+svarer til det, vi kender lokalt, nemlig et samspil
+mellem menighed og kirke. Svarende til menighedsråd får vi stiftsråd, hvor lægfolk nu på
+stiftsplan kan inddrages i de generelle kirkelige
+overvejelser om kirkelivets udvikling og dialog i
+det hele taget. Det er blevet diskuteret, om der
+her er tale om centralisering eller decentralisering. Vi mener, at det er udtryk for en demokratisering, og vil meget gerne støtte forslaget.";Villum Christensen
+44946;Time;;Kl. 10:47
+44958;title_name;Ja tak. Der er ikke ønske om korte bemærkninger. Tak til hr. Villum Christensen. Så er det kirkeministeren.;Formanden
+45075;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Ja, så kort kunne det jo siges, som Liberal Alliance gav udtryk for, for det er præcis det, der er
+meningen: en demokratisering på stiftsplan.
+Jeg havde ellers tænkt på at gå ind i en længere forelæsning over for hr. Per Clausen, men dels
+skal man jo overveje sine kampe, og om de hjælper, dels tror jeg, jeg må sige, at hr. Per Clausen
+er uden for pædagogisk rækkevidde. Det kunne
+man jo høre på, at den pædagogiske fremstilling
+fra hr. Søren Krarup overhovedet ikke bed på, så
+jeg skal ikke gentage det, der er sagt. Men det er
+da en total misforståelse at sige, at lovforslaget
+på nogen måde regulerer forholdet mellem Gud
+og mennesker. Altså, jeg vil nøjes med at sige, at
+det er fuldstændig håbløst at høre på.
+Jeg vil prøve lige at knytte nogle kommentarer til de forskellige ordførerindlæg. Tak til hr.
+Bisgaard for tilslutningen til lovforslaget. Det er
+jo, fuldstændig som hr. Bisgaard gav udtryk for,
+også med hensyn til baggrunden for forslaget
+noget, der har været undervejs i lang tid, og som
+jeg i hvert fald opfatter som et ønske fra brede
+kredse i den danske folkekirke, og derfor er jeg
+også noget forbløffet over fru Karen Klints udlægning af høringssvarene, som jeg nærmest
+hørte, som om hun opfattede dem som noget ne-
+
+I
+
+11
+
+Fredag den 28. november 2008 (L 58)
+
+gativt, men det kan vi prøve at gennemgå samm
+e
+n
+.
+.
+.
+Fru Karen Klint lægger meget vægt på, at
+lægfolkene skal have flertal. Jamen det er helt
+klart forudsætningen for disse udvalg. Jeg har
+rent ud sagt været tilbage og se på, hvad der
+skete, da vi fik politiklagenævnene i min ungdom, hvor konstruktionen netop er den, samme,
+nemlig at det er det læge element, der er i flertal.
+Det fastholder vi, uanset om vi måtte nå frem til
+en anden sammensætning, og det hører jeg også
+at der er enighed om.
+Jeg kan ikke helt høre, hvori fru Karen Klints
+modstand ligger/andet end at hun mener, at det
+skal kobles sammen med bloktilskuddet. Dertil
+viljeg sige, at hvad angår bloktilskuddene, er
+der jo nu en diskussion i et embedsmandsudvalg, hvor vi så har Landsforeningen og et par
+kirkelige interessenter med, men det er jo først
+og fremmest et udvalg, som består af Finansministeriet, Kirkeministeriet og Justitsministeriet.
+Jeg syntes, jeg hørte, at fru Karen Klint citerede mig forkert fra-Kristeligt Dagblad. Jeg vil
+godt sige, at det, jeg har sagt til Kristeligt Dagblad og vist også er citeret for, er, at bloktilskud
+netop har med andet end økonomi at gøre. Derfor har vi fra Kirkeministeriets side bedt om at få
+Justitsministeriet med, fordi vi vil se det i en
+sammenhæng med grundlovens § 4, bare lige
+for at få det på plads. Men jeg har ikke nogen
+tanker om, når vi får en rapport fra bloktilskudsudvalget, hvis vi kan kalde det sådan, at kæde
+det sammen med stiftsudvalgene.
+Jeg ved ikke, hvor lang tid det tager med det
+bloktilskudsudvalg, men det, jeg ved, er jo, at de
+dispensationer, som der i øjeblikket gives for
+stiftsrådene, er ved at udløbe, og. derfor kan man
+jo sige, at der må tages stilling til, om stiftsrådene skal fortsætte efter afgørelse fra Kirkeministeriet eller fra Folketinget. Jeg har som sagt forstået det kirkelige landskab sådan, at man meget
+gerne vil have lovgivet om det her. Det er jo ikke
+strengt nødvendigt, og jeg vil sige til fru Karen
+Klint, at man kan fortsætte med at lade den udøvende magt bestemme det, men vi synes efter
+det store forarbejde, der er gjort, og de ønsker,
+som vi hører i regeringen og regeringspartierne,
+at det er rigtigt nu at få lovgivet om det her, der
+har været talt om i så mange år.
+Jeg skal understrege over for Dansk Folkeparti, at hvis det havde værét sådan, som Dansk
+Folkepartis ordfører siger, så ved Dansk Folkeparti jo også godt, at jeg ikke havde stået bag det
+lovforslag. Det er jo selvfølgelig ikke udtryk for,
+
+l .
+
+1591 '
+
+at vi skal have riianagementkirke, eller at vi skal
+have noget, der er særlig smart. Det, det er udtryk for, er, at der nu igennem en række år har
+været et udbredt ønske, som jo også freingår af,
+at stifterne de fleste steder har fået dispensation
+til at nedsætte stiftsråd og stiftsudvalg, og der
+nu er et bredt ønske, som jeg hører det, om at
+gøre det permanent.
+Jeg er fuldstændig enig med Dansk Folkeparti om, at det kirkelige liv først og fremmest leves
+i sognet, og det er jo ikke bare understreget i lovforslaget, men det passer også med det virkelige
+liv. Men der er altså i brede kredse et ønske om,
+at man også forenes i et forum i stiftet, hvor man
+kan samtale om de emner, som er fælles. Jeg tror,
+at hr. Jesper Langballe må give mig ret i, at der
+er områder i dag med hensyn til undervisning,
+som folkekirken må tage sig af, men som det
+ikke var nødvendigt, at kirken tog sig af tidligere. Og der vil man få større styrke ved at kunne
+gå sammen i stifterne.
+:";Kl. 10:47
+49887;Time;"Så der er altså hverken tale om, at man skal
+begynde at oprette en synode - det er jeg jo en
+arg modstander af ligesom Dansk Folkeparti eller på nogen måde oprette nogen politiske organer. Så jeg synes, at jeg vil sige til Dansk Folkeparti, at man ikke behøver være så urolig, som
+man giver udtryk for i dag.
+SF holdt ligesom Liberal Alliance en meget
+kort og klar tale om, hvad det går ud på, og jeg
+siger tak for støtten. Jeg er naturligvis meget
+åben over for at debattere det her både i Kirkeudvalget og med partierne ovre i Kirkeministeriet.
+홢:
+:>
+At den konservative ordfører siger, at hun
+støtter det varmt, er jo ikke nogen hemmelighed. De Konservative har ønsket stiftsrådene i
+mange år, og det er jo også derfor, at det naturligvis har været forhandlet grundigt undervejs
+med netop den konservative ordfører, og jeg siger tak for tilslutningen.
+Jeg forstår også De Radikale sådan, at man er
+med 'på forslaget. Jeg synes, at den radikale ordfører også fik sat forslaget i det rette perspektiv, i
+forhold til hvad det er, som også SF, Konservative og Venstre har gjort det.
+Det er ikke et eller andet vigtigt nyt forvaltningsretligt eller politisk organ, vi opretter her,
+og det skal altså også afløse organer, der allerede
+findes på det frivillige plan i de fleste stifter i
+forvejen.
+Så jeg vil sige, at jeg synes, der har været nogle spændende indlæg: det har været en spæn-
+
+1592
+
+Fredag den 28. november 2008 (L 58)
+
+dende debat. Jeg tager selvfølgelig de faldne bemærkninger til efterretning. Jeg tror, det vil være
+klogt, at vi - de, som er positive over for forslaget - diskuterer tingene. Jeg hører heller ikke, at
+vi skal opgive Socialdemokraterne og fru Karen
+Klint. Jeg vil også invitere fru Karen Klint til at
+deltage i de videre drøftelser om den sag her.";Kl. 10:52
+51676;Time;;Kl. 10:54
+51688;title_name;"Tak. Der er ønsker om korte bemærkninger, først
+fra hr. Jesper Langballe.";Formanden
+51771;Time;;Kl. 10:54
+51793;name_party;":
+Jeg har en meget kort kort bemærkning, som jeg
+på forhånd vil understrege er venligt ment, og
+jeg håber, at den bliver hørt sådan. Jeg vil ganske enkelt spørge kirkeministeren: Har kirkeministeren sit hjerte med i det her lovforslag? Vi
+ved jo godt, at det er arvegods fra kirkeministerens forgænger, og at det er fra regeringsgrundlaget fra 2005. Så helt sikkert var det jo ikke, men
+spørgsmålet lyder ganske enkelt: Har ministeren
+sit hjerte med i det her?";Jesper Langballe
+52263;Time;;Kl. 10:55
+52275;title_name;"Ministeren.
+. Kl. 10:55
+Kirkeministeren (Birthe Rønn Hornbech):
+For mig er det - som det også er blevet sagt af
+nogle af ordførerne - et strukturforslag. Og hjertesager er jo, som Grundtvig sagde, af en helt
+anden karakter. Det er et strukturforslag, og jeg
+kan stå inde for forslaget, som det er.
+Som jeg også hørte hr. Jesper Langballe sige,
+er det måske neddæmpet i forhold til nogles ønsker ude i det kirkelige landskab. Så det kan jeg
+helt stå bag med min hjerne, men strukturen bliver jo netop aldrig en hjertesag, og der må jeg sige, at hr. Jesper Langballe jo virkelig gik glip af
+noget her i denne uge, der var en hjertesag for
+mig, nemlig en konference, hvor der blev diskuteret teologi, og hvor hr. Jesper Langballe desværre ikke havde tid. Det er der, mine hjertesager er, og det er jo noget af det, vi netop diskuterer uden for Folketinget. Det er jo hjertesagerne,,
+for hjertesagen og troen - der må jeg give hr. Per
+Clausen ret - bliver der jo ikke talt om her fra
+Folketingets talerstol, andet end når det er en
+forudsætning for demokratiet, som hr. Søren
+Krarup så glimrende har givet udtryk fot.";Formanden
+53398;Time;;Kl. 10:56
+53410;title_name;Hr. Martin Henriksen for en kort bemærkning.;Formanden
+53465;Time;;Kl. 10:56
+53487;name_party;":
+Tak. Nu begiver jeg mig godt nok ind på et felt,
+som ikke ligefrem at der, hvor jeg plejer at brillere mest, men jeg vil ikke desto mindre gøre forsøget. Og så vil jeg, som en bemærkning til det
+svar, ministeren gav hr. Jesper Langballe, sige, at
+nogle gange skal hjernen og hjertet vel også følges ad, og de strukturer, som man laver, er der jo
+nogle der ville mene godt kunne føre til noget,
+som kunne berøre det, som for nogle er en hjertesag, nemlig sammenhængen mellem kirke og
+stat.
+Men jeg vil godt læse noget op fra Kristeligt
+Dagblad fra i dag, og jeg vil citere fra artiklen og
+så bede ministeren om at forholde sig til det. Der
+står, og jeg citerer:
+»Et andet lovforslag, der førstebehandles i
+Folketinget i dag, vil gøre demokratisk valgte
+stiftsråd til en permanent ordning. Det har også
+fået tilhængerne af et løsere forhold mellem stat
+og kirke til at vejre morgenluft. Et demokratisk
+valgt råd i stiftet - ligesom i sognenes menighedsråd - antyder igen mere selvstændighed.«
+Det står refereret andre steder i artiklen, at
+der også er andre tiltag fra regeringens side, som
+antyder mere selvstændighed for kirken, altså et
+løsere forhold og på sigt - hvem ved? - løsrivelse, og at det er den vej, det går. Så hvordan har
+ministeren det med, at folk, der egentlig arbejder for det, vejrer morgenluft?";Martin Henriksen
+54813;Time;;Kl. 10:58
+54825;title_name;Ministeren.;Formanden
+54846;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Jeg mener, at begreberne blandes lidt sammen,
+for den omstændighed, at man fra Folketingets
+side på begæring af Kirkeministeriet gennemfører et lovforslag, der i højere grad decentraliserer noget af administrationen ud i leddene i den
+danske folkekirke, har efter min mening overhovedet ikke noget som helst at gøre med, at man
+ændrer på forholdet mellem stat og kirke. Stat er
+ikke det samme som centralisering, så der er jeg
+uenig med hr. Martin Henriksen. Og de, der
+måtte vejre morgenluft, må jo sådan set selv om
+det: det er ikke noget, som jeg overhovedet vil
+støtte dem i.
+Men når man nu er meget bekymret for mit
+hjerte, vil jeg sige, at vi jo altså er i den situation
+- og derfor er det også lidt svært at svare på - at
+hvis det skulle vise sig, at Folketinget slet ikke
+vil have det her lovforslag, vil man jo se en kir-
+
+(200)
+Fredag den 28. november 2008 (L 58)
+keminister, der fortsat giver stifterne mulighed
+for at køre videre med det, de kører. Det her er jo
+sådan set bare et spørgsmål om, hvor balancen
+skal ligge mellem den udøvende og den lovgivende magt. Og jeg ved, at Dansk Folkeparti har
+fuld tillid til, at hvis der kommer mere under
+den udøvende magt, så længe jeg er kirkeminister, så vil vi være enige om, hvordan tingene
+forvaltes. Det er helt op til Folketinget.";Kl. 10:58
+56190;Time;;Kl. 10:59
+56202;title_name;Hr. Martin Henriksen.;Formanden
+56233;Time;;Kl. 10:59
+56255;name_party;":
+I forlængelse af det, som ministeren sagde til fru
+Karen Klint, hvor fru Karen Klint argumenterede med, at det her lovforslag skulle udskydes,
+indtil bloktilskudsudvalget var færdigt, påpegede ministeren jo faktisk selv, at det her med
+bloktilskuddet jo ikke bare var noget rent økonomisk, administrativt, men at det også kunne
+have indflydelse på andre ting. Sådan forstod
+jeg i hvert fald det, ministeren sagde. Derfor vil
+jeg spørge, om ministeren ikke kan anerkende,
+at selv om man her diskuterer noget struktur og
+også i andre sammenhænge diskuterer struktur,
+så kan de, der vejrer morgenluft, måske godt
+gøre det velbegrundet, og derfor kan det gå hen
+og berøre noget. Selv om det ikke er hensigten,
+kan det gå hen og berøre noget, som for mange
+vel er en hjertesag, og det er forholdet mellem
+stat og kirke jo dybest set. Har ministeren forståelse for, at der er noget der, der kan virke en
+anelse problematisk for nogle, der har forholdet
+mellem stat og kirke som en hjertesag?
+... Kl. 11:00";Martin Henriksen
+57268;title_name;Kirkeministeren.;Formanden
+57294;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Nu håber jeg ikke, at jeg lægger mig ud med nogen som helst, der har adgang til det danske Folketing, ved at sige, at jeg elsker diskussion. Det
+ved man godt, ikke? At vi skal kunne diskutere
+tingene, og vi skal diskutere dem, anser jeg da
+ikke for problematisk overhovedet.
+I den danske folkekirke har forholdet mellem
+stat og kirke jo en meget fin balance, som er meget vanskelig at beskrive, fordi der er så mange
+elementer i den, og hvor højt man elsker folkekirken, har jo i høj grad noget med hjertet at gøre. Og der har jeg virkelig hjerte for den folkekirkelige ordning. Derfor skal det selvfølgelig dis-
+
+1593
+
+kuteres hver gang, om det forrykker balancen,
+og for mit vedkommende skal jeg sørge for, at
+der netop ikke sker en forrykkelse, og vi har
+nøje gjort rede for i bemærkningerne til forslaget, at det mener vi ikke det gør. Når det drejer
+sig om bloktilskudsudvalget, som kunne se ud
+til at være af ren økonomisk karakter, har jeg jo
+sørget for, at vi tager Justitsministeriet og grundloven med i diskussionen, netop for at kunne
+gøre rede for, hvad et økonomisk forslag måtte
+betyde for balancen mellem stat og kirke.
+, Kl. 11:01";Kl. 11:00
+58493;title_name;Det er fru Bente Dahl for en kort bemærkning.;Formanden
+58548;Time;;Kl. 11:01
+58564;name_party;":
+Tak. Styregruppen fremkommer i betænkningen
+1495 med en lang række anbefalinger, som den
+her lov, L 58, i vid udstrækning kommer i møde.
+Men styregruppen finder ikke grundlag for, at.
+domprovsten skal være født medlem af stiftsrådet. Derfor vil jeg gerne spørge, hvilke overvejelser ministeren har gjort sig for ikke at følge
+den anbefaling, præcis den ud af alle.";Bente Dahl
+58940;Time;;Kl. 11:02
+58952;title_name;Ministeren.;Formanden
+58973;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Jeg har jo gjort mig de overvejelser, som jeg ikke
+har lagt skjul på, nemlig at jeg egentlig synes, at
+det rigtige havde været, at biskoppen var formand, og at domprovsten som den, der er stedfortræder for biskoppen, var til stede. Det er ledelsen i stiftet.
+Jeg synes egentlig, at det forplumrer ledelsesforholdet. Nu taler man så meget om ledelse og
+arbejdsmiljø, og jeg synes, at det kunne være
+med til at forplumre forholdene, hvis biskoppen
+ikke var formand.
+Jeg har jo så måttet lytte til indvendinger,
+hvor jeg nærmest følte, at jeg stod helt alene
+med det forslag, så det var der jo ingen grund til
+at fremføre, for det ville jeg aldrig kunne få flertal for. Jeg har så valgt den anden løsning, nemlig at sige, at det så ikke skal være nogen fra den
+gejstlige side, der skal være formand. Det ville
+også forplumre det, hvis en af de, underordnede
+pludselig skulle være formand i udvalget. Derfor har jeg nu lagt mig fast på, at dét skal være
+en læg, der skal være formand, og det hører jeg
+også at der ér en bred tilslutning til.
+
+1594
+
+Fredag den 28. november 2008 (L 58)";Kl. 11:02
+60105;Time;;Kl. 11:03
+60118;title_name;"Fru Bente Dahl.
+
+,";Formanden
+60146;Time;;Kl. 11:03
+60162;name_party;":
+Som jeg også sagde i min ordførertale, kan jeg
+meget fint tilslutte mig det synspunkt, at det er
+en lægperson, der skal være formand for stiftsrådet.
+Men mit spørgsmål gik helt præcis på dette:
+Styregruppen har udtalt, at den ikke finder
+grundlag for, at domprovsten skal være født
+medlem af stiftsrådet. Og her i det lovforslag nr.
+L 58, som ministeren har fremsat, skal domprovsten være født medlem af stiftsrådet. Og der vil
+jeg gerne høre, hvorfor lige præcis den ene anbefaling ikke er blevet fulgt.";Bente Dahl
+60678;Time;;Kl. 11:04
+60690;title_name;Ministeren.;Formanden
+60711;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Det er, som jeg sagde, fordi domprovsten er en
+del af stiftets ledelse. Det, vi nu kommer med
+forslag om, er at gøre nogle stiftsråd permanente, og jeg mener, at det vil være helt forkert, hvis
+stiftets ledelse ikke sidder i stiftsudvalget. Derfor har jeg fremsat forslag om, at biskop og domprovst naturligvis skal være medlem af udvalget. Nu er det jo ikke sådan, at en minister er forpligtet til at følge de råd, hun får - og det er jo
+altså udtryk for en selvstændig tænkning. Jeg
+mener, at det er helt åbenbart, at både biskop og
+domprovst bør være med i et stiftsudvalg.";Kl. 11:04
+61338;Time;;Kl. 11:04
+61350;title_name;"Så er det fru Karen Klint for en kort bemærkning.
+' . Kl. 11:04
+Karen J. Klint (S):
+Tak for det. Det, der får mig til at stille spørgsmål til ministeren, er, at ministeren understreger,
+at det her er et strukturelt forslag. Der står i lovforslaget, at stiftsrådet først og fremmest skal
+varetage forvaltningen af stiftsmidlerne og udskrivningen af det bindende stiftsbidrag.
+Det startede jo med at være meget økonomisk, og det er sådan set også derfor, jeg tillader
+mig at knytte an til den fremtid, hvor man går
+fra løntilskud til bloktilskud. Når vi nu får et
+råd, som økonomisk er på stiftsplan, så var det
+måske også nærliggende at have fantasi til at
+overveje - hvis bloktilskuddet også skal uddeles
+på stiftsplan - om det så er det råd, de penge
+
+skal lande i, og om det råd så har den rigtige
+sammensætning. Var det ikke det, vi skulle tage
+en bredere debat om, eller skal vi til den tid have
+endnu en lovændring?
+Så hvad mener ministeren, når ministeren siger, at det her er rent strukturelt?
+.홢";Formanden
+62363;Time;;Kl. 11:05
+62375;title_name;Ministeren.;Formanden
+62396;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Jamen jeg mener, det er et strukturelt forslag. Et
+par af ordførerne har udtrykt det meget kort ved
+at sige, at det er en demokratisering, også på
+stiftsplan. Det er sådan noget, der er kendt i forvejen, og nu gør vi det så ens i alle stifterne.
+Man skal jo her huske, at der i forvejen er et
+økonomiudvalg, hvis opgaver nu også er her, så
+et eller andet er man jo nødt til at have på stiftsplan. Men jeg anser det her for - som flere ordførere har sagt - en demokratisering.
+Men altså, at vente på bloktilskudsudvalget
+er ikke min tanke. Hvis man hver gang, man
+skulle fremsætte noget, skulle sige: Jamen nu er
+der noget andet i gang, der skal vente - så fik
+man jo aldrig gennemført noget. Jeg kan kun opfatte høringssvarene og betænkningen som udtryk for 'et bredt ønske i folkekirken om at få det
+her, så man netop ikke er afhængig af skiftende
+kirkeministre.";Kl. 11:05
+63310;Time;;Kl. 11:06
+63322;title_name;Fru Karen Klint.;Formanden
+63348;Time;"Karen J. Klint (S):
+Jeg har heller ikke noget imod en demokratisering af folkekirkens samarbejdsvilkår, men det,
+jeg kan frygte, er, at vi efterhånden får bygget så
+mange formelle kasser op, at det næsten kan blive uoverskueligt for de fritidsfolk, som indgår i
+menighedsrådene. Vi har menighedsråd, som
+også har nogle pligtige møder: vi har samarbejde på tværs af sogne: vi har distriktsforeninger:
+vi har repræsentantskaber for noget forskelligt:
+vi har provstiudvalg, og vi har stiftsudvalg, og
+det skal så formaliseres i stiftsråd.
+Det, jeg mangler, er faktisk en forenkling,
+hvor det også bliver let og inspirerende og også
+gør det overkommeligt at være menighedsrådsmedlem eller blande sig i det. Men det får så være, det må vi jo drøfte på udvalgsniveau.
+Jeg har lyst til lige at gentage mit spørgsmål
+om ordet præst: Når der nu her i lovforslaget
+står præst, hvordan skal vi så læse det? Er det
+
+Fredag den 28. november 2008 (L 58)
+kun tjenestemandsansatte, eller er det også alle
+andre slags præster?";Kl. 11:06
+64369;Time;;Kl. 11:07
+64381;title_name;"Ministeren.
+, Kl. 11:07
+Kirkeministeren (Birthe Rønn Hornbech):
+For lige at svare på det sidste vil jeg sige, at der
+ikke er nogen tvivl om, hvem der er præst. Det
+er den, der er ordineret som præst og har et embede.
+홢홢홢
+홢""
+Med hensyn til det andet må jeg bare igen understrege, at når nu fru Karen J. Klint nævner alt
+det, som kirkefolket er aktiv i, så må jeg konstatere, at selv om man er medlem af alle de ting, så
+har man jo overskud til hundrede sytten andre
+ting. Det kendetegner jo kirkefolk, at de er meget aktive. Derfor har de også rundtomkring oprettet de her stiftsråd af sig selv. Men det, der jo
+også understreges i forslaget, er jo netop, at de
+så i øvrigt kan organisere sig i stiftet med alle de
+andre udvalg, de har, fuldstændig som de vil der er de frit stillede. Alle stifter har jo fuldstændig på egen hånd af lyst og fornøjelse, til gavn
+og glæde for stiftet oprettet udvalg.";Formanden
+65289;Time;;Kl. 11:08
+65301;title_name;Så er det hr. Per Clausen for en kort bemærkning.;Formanden
+65360;Time;;Kl. 11:08
+65377;name_party;":
+Som jeg tidligere sagde, er det jo en meget spændende debat, og jeg vil da bare sige, at selv om
+man er uden for både kirkeministeren og hr. Søren Krarups pædagogiske rækkevidde, behøver
+det jo ikke at sige noget om ens fatteevne, men
+måske om de to nævnte parters pædagogiske
+evner eller det budskab, de forsøger at sælge.
+Men det, jeg bare vil spørge kirkeministeren
+om, er, om jeg hørte rigtigt, da jeg hørte, at kirkeministeren var enig med hr. Søren Krarup i, at
+forudsætningen for demokrati er kristendom.
+-.";Per Clausen
+65903;Time;;Kl. 11:09
+65915;title_name;"Ministeren..
+! ,";Formanden
+65941;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Nuhar jeg jo kun meget kort tid at sv are i For at
+sige det meget kort: Selvfølgelig kan man have
+demokrati uden kristendom, men det hjælper.
+Jeg kan henvise til de bøger, jeg har skrevet om
+det.
+'
+홢
+홢
+Det er klart, at den folkekirkeordning, vi har i
+Danmark, i høj grad har vores styreform som sin
+
+1595
+
+forudsætning. Den er udsprunget af hele vores
+lands historie, og det kirkelige demokrati har
+udviklet sig parallelt med det pplitiske demokrati. Der er ikke nogen som helst tvivl om, at
+kristendommen og den lutherske opfattelse set
+igennem Grundtvigs filter, hele frihedsopfattelsen, er en meget vigtig forudsætning for den
+måde, vi har demokrati på i Danmark. Men det
+er jo ikke det samme, som at kristendom fører til
+en bestemt styreform. Jeg ved ikke, hvordan jeg
+skal forklare hr. Per Clausen det her, men det
+handler om frihed. Hvor der er ånd, er der frihed. Det siger Grundtvig og Paulus.";Kl. 11:09
+66893;Time;;Kl. 11:10
+66905;title_name;Hr. Per Clausen. 홢:;Formanden
+66934;Time;;Kl. 11:10
+66951;name_party;":
+Jamen nu læser jeg også mange bøger, og jeg er
+måske en af de få danskere, der har læst de fleste
+af også hr. Søren Krarups bøger. Det, der står tilbage, ér jo det banale sludder, som ministeren
+sagde i første omgang, nemlig at man forsøger
+at skabe et indtryk af, at den lutherske kristendom er forudsætningen for demokrati.
+Det er klart, at når kirkeministeren så oven i
+købet inden for 1 minut skal svare på det, bliver
+hun nødt til at erkende, at det ikke forholder sig
+sådan. Ville det så ikke være klogere at sige, at
+hr. Søren Krarup har uret, og at kristendom ikke
+er forudsætningen for demokrati? Forudsætningen for demokrati er, at mennesker vælger demokrati, uanset hvilken religiøs eller kulturel opfattelse de har?";Per Clausen
+67690;Time;;Kl. 11:10
+67702;title_name;Kirkeministeren.;Formanden
+67728;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Jo, men det viser sig jo bare, at mennesker har
+meget svært ved at vælge demokrati, hvis ikke
+de har den bundethed og frihed, der er i kristendommen. Jeg siger jo ikke, at det er den eneste
+forestilling: jeg siger bare, at i vores lande er det
+en vigtig forudsætning.
+Jeg tror ikke, at det er tilfældigt, at verdens
+frieste lande er de protestantiske lande, og at de
+nordiske kirkeordninger er dem, der har skabt
+de allerfrieste lande i verden. Det er ikke tilfældigt.";Kl. 11:10
+68247;Time;;Kl. 11:11
+68259;title_name;"Det er hr. Søren Krarup for en kort bemærkning.
+
+1596
+
+Fredag den 28. november 2008 (L 65)";Formanden
+68361;Time;;Kl. 11:11
+68379;name_party;":
+Jeg vil blot lige spørge kirkeministeren, om hun
+ikke vil give mig ret i, at hvis vi ser tingene i et
+lidt historisk perspektiv, så har vi et meget klart
+eksempel på, at man ville lave demokrati i bevidst modsætning til kristendommen: Det var
+den franske revolution, og det blev som bekendt
+noget, der i løbet af 4 år endte med, at man byggede guillotiner og huggede hovedet af alle
+dem, der var forkerte. Og det er det, man ser
+gentaget oppe i det 20. århundrede med henholdsvis kommunisme og nazisme.
+Så man skal være meget, meget blind og døv
+for virkelighedens tale, hvis man ikke kan se
+sammenhængen imellem den kristendom, der
+sætter enhver styrer af landet på plads som en
+stakkels synder, der ikke skal bilde sig noget
+ind, og så de vanvittige politikere, der tror, at de
+til syvende og sidst står i Vorherres sted og skal
+skabe lykken og herligheden for deres folk.
+. Kl. 11:12";Søren Krarup
+69279;title_name;Kirkeministeren.;Formanden
+69305;Time;"Kirkeministeren (Birthe Rønn Hornbech):
+Jo, det er jo en historisk kendsgerning, at der,
+hvor franskmændene ville indføre demokrati og
+udrydde kirken, blev det i stedet ren statsterrorisme.";Kl. 11:12
+69505;Time;;Kl. 11:12
+69517;title_name;"Ja tak. Her sluttede så den kirkelige historiske
+debat, der også omfattede behandlingen af lovforslag nr. L 58.
+Der er ikke flere, der har bedt om ordet, og
+forhandlingen er sluttet. Tak til ministeren.
+Jeg foreslår, at lovforslaget henvises til Kirkeudvalget, og hvis ingen gør indsigelse, betragter
+jeg dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+4) 1. behandling af lovforslag nr. L 65:
+Forslag til lov om ændring af lov om brug m.v.
+af radioaktive stoffer og udleveringsloven.
+(Gennemførelse af ændringskonvention af 8.
+juli 2005 til Det Internationale Atomenergiagenturs konvention om fysisk beskyttelse af
+nukleare materialer).
+Af ministeren for sundhed og forebyggelse (Jakob Axel Nielsen).
+(Fremsættelse 14.11.2008).";Formanden
+70280;Time;Forhandling;Kl. 11:13
+70304;title_name;"Forhandlingen er åbnet, og den første ordfører,
+der får ordet, er hr. Preben Rudiengaard.";Formanden
+70403;Time;(Ordfører);Kl. 11:13
+70437;name_party;":
+Ja tak. Det er således, at den gældende lov om
+radioaktive stoffer og udleveringsloven nu skal
+opdateres. Og jeg, synes også, det er vigtigt, at
+den bliver moderniseret som led i ændringskonventionen om fysisk beskyttelse af nukleare materialer. Før i tiden drejede det sig jo i vid udstrækning - i den konvention, som gælder nu om international transport af nukleart materiale:
+nu vil det også med det forslag, der ligger, komme til at dreje sig om brug af, oplagring af og
+transport af nukleare materialer i hjemlandet og
+beskyttelse af materialer og anlæg mod sabotage. Samtidig får vi også, og det synes jeg er fornemt, en beskyttelse af miljøet med ind i det her.
+De enkelte stater får så et ansvar for beskyttelse
+af fortrolige oplysninger og for beskyttelse mod
+tyveri, smugleri og sabotage. Så det bliver altså
+virkelig lidt sværere sådan at lave fup og fidus
+med nukleare materialer, hvilket vi alle sammen
+kan være enige om er positivt. Det er også således, at den enkelte nationalstat, der tiltræder
+konventionen, så selv kan sætte sine rammer for,
+hvor meget - hvis man fanger nogen, der laver
+nogle numre - disse skal straffes, hvis de foretager kriminelle handlinger med nukleare stoffer.
+I en verden, der - som vi oplever det i Mumbai - er præget af galninge, fundamentalister og
+terrorister og alt muligt mærkeligt afskum, synes jeg, at det er vigtigt, at vi får en tiltrædelse af
+ændringnskonventionen. Der vil jeg bakke ministeren op, så jeg skal hilse og sige, at Venstre kan
+tiltræde forslaget.
+
+Fredag den 28. november 2008 (L 65)";Preben Rudiengaard
+72001;Time;;Kl. 11:15
+72013;title_name;Tak til hr. Preben Rudiengaard. Og næste ordfører er hr. Flemming Møller Mortensen.;Formanden
+72106;Time;(Ordfører);Kl. 11:15
+72147;name_party;":
+Vi er forpligtet af internationale aftaler til at beskytte miljøet, samfundet og borgerne mod
+ulykker og terrorisme forårsaget af atomare materialer. Vi skal sikre, at udslip og ulovlig brug af
+radioaktive materialer ikke finder sted, og at nukleare materialer er sikret forsvarligt. Med dette
+forslag vil ministeren gennemføre en ændringskonvention til IAEA's bestemmelser om selve
+den fysiske beskyttelse af alle typer nukleare
+materialer.
+Forudsætningen for ændringen af konventionen handler mest om beskyttelse ved transport
+af disse materialer, mens der i ændringen nu er
+taget sigte på brug, oplagring og beskyttelse
+mod terror. Det forekommer naturligt, at vi skal
+gennemføre de bedste forebyggende skridt for
+at hindre atomterrorisme, hvor selv meget begrænsede aktioner kan få alvorlige følger.
+Hensynet til miljøet er altoverskyggende, og
+vi er derfor også meget tilfredse med, at ændringskonventionen tager dette hensyn og udvider det felt, der omfatter brug, med lagring og
+transport i de enkelte hjemlande. Og vi må sige,
+at for Danmarks vedkommende er det et overskueligt problem. Jeg er sikker på, at vi vil kunne leve op til ændringskonventionens sigte. Det
+letter sagen, at vi kun har atomforsøgscenteret
+Forsøgscenter Risø, der i forvejen er underlagt
+offentligt tilsyn, og hertil kommer så andre
+mængder af radioaktivt materiale fra sundhedssektoren, industrien og forskningen.
+Formålet med ændringerne er at fastslå, at
+forsøg på at overtræde loven om radioaktive
+stoffer også er en lovovertrædelse og er strafbart. Med denne og en følgende ændring vil
+dansk lovgivning således blive tilpasset de aftaler, vi allerede har tilsluttet os i atomenergiagenturet.
+Ulovlig handel med radioaktive og nukleare
+materialer er et af de mere end 30 alvorlige kriminelle forhold, som kan udløse en personudlevering mellem EU-landene, så det er alvorlige
+forbrydelser, der her er tale om. Lovændringen
+medfører også, at overtrædelse og forsøg på
+
+1597
+
+overtrædelse bliver strafbart i alle deltagende
+lande.
+Vi har ingen indvendinger mod, at vi herhjemme og internationalt kan gennemføre en
+højere sikring mod de risici, som nukleart materiale indebærer, herunder at det også kan resultere i en udlevering af personer, som har begået
+overtrædelser af lovgivningen. Vi kan derfor tilslutte os forslaget og ser frem til at få eventuelle
+uklarheder taget op i forbindelse med det fortsatte u d v a l g s a r b e j d e .
+홢 홢
+홢Kl. 11:18";Flemming Møller Mortensen
+74598;title_name;Tak til hr. Flemming Møller Mortensen. Og næste ordfører er fru Liselott Blixt.;Formanden
+74687;Time;(Ordfører);Kl. 11:18
+74718;name_party;":
+Lovforslaget her tager sigte på i dansk ret at
+gennemføre ændringerne af konventionen af
+den 26. oktober 1979 om fysisk beskyttelse af nukleare materialer og nukleare anlæg. Med en
+vedtagelse af lovforslaget vil Folketinget samtidig give samtykke til, at Danmark kan ratificere
+ændringerne af konventionen ifølge grundlo- .
+vens § 19.1 ændringskonventionen lægges der
+større vægt på de enkelte staters ansvar for fysisk beskyttelse og beskyttelse af fortrolige oplysninger.
+Konventionen indeholder en række grundlæggende principper for fysisk beskyttelse af
+nukleare materialer og nukleare anlæg. Derudover forpligtes deltagerstaterne til at sørge for
+beskyttelse mod tyveri, smugleri og sabotage i
+forhold til nukleart materiale og nukleare anlæg.
+En anden vigtig ændring er en forpligtigelse
+om, at forsætlig udførelse af forskellige handlinger, herunder trusler og forsøg, skal kriminaliseres i de deltagende stater. Derfor lægges der i
+lovforslaget op til at kriminalisere forsøg på
+overtrædelse af lov om brug af radioaktive stoffer.
+Opfyldelse af konventionen forudsætter tillige ændringer af udleveringsloven med henblik
+på at udvide undtagelserne til forbuddet mod
+udlevering, for politiske lovovertrædelser.
+Dansk Folkeparti kan tilslutte sig forslaget.";Liselott Blixt
+75992;Time;;Kl. 11:19
+76004;title_name;"Tak til fru Liselott Blixt. Næste ordfører er hr. Jonas Dahl.,
+: . ,
+
+1598
+
+Fredag den 28. november 2008 (L 66)";Formanden
+76127;Time;(Ordfører);Kl. 11:19
+76154;name_party;":
+Jeg har lovet Det Radikale Venstre at fremføre
+Det Radikale Venstres og SF's synspunkter sammen.
+Jeg vil ikke gennemgå hele lovforslaget, det
+er stort set allerede gjort. Jeg vil blot sige, at vi
+fra SF's og Det Radikale Venstres side kan tilslutte Os det, man lægger op til at ratificere - ratificeringen af konventionen til det, som Det Internationale Atomenergiagentur har fremlagt her. Det
+er for os at se udmærkede tiltag, man sætter i
+gang, og derfor har vi ikke yderligere kommentarer.";Jonas Dahl
+76658;Time;;Kl. 11:20
+76670;title_name;Tak for det. Og næste ordfører er fru Vivi Kier.;Formanden
+76728;Time;(Ordfører);Kl. 11:20
+76754;name_party;":
+Som tidligere ordførere har været inde på, vil
+Danmark med det her lovforslag nu fuldt ud
+leve op til Det Internationale Atomenergiagenturs konvention om fysisk beskyttelse af nukleare materialer.
+Fra konservativ side kan vi også støtte lovforslaget.";Vivi Kier
+77016;Time;;Kl. 11:20
+77028;title_name;Tak for det. Næste ordfører er så hr. Per Clausen.;Formanden
+77088;Time;(Ordfører);Kl. 11:21
+77116;name_party;":
+Enhedslisten er i udgangspunktet positive over
+for, at vi lever op til også denne internationale
+forpligtelse, og har ingen indvendinger imod, at
+forsøg på at begå kriminalitet inden for det her
+område også kan straffes.
+Jeg må dog sige, at jeg godt vil have en forklaring på, hvordan det kan være, at en forseelse,
+som i Danmark kun kan straffes med bøde, skulle kunne være et argument for, at man skulle
+kunne udlevere folk uden at henvise til, at det
+var en politisk forbrydelse. Altså, det jeg har lidt
+svært ved at forstå: Hvis det eneste, man gør, er
+noget, som straffes med bøde i Danmark, hvad
+er så argumentet for, at der skal være en særbestemmelse om udlevering af folk i forhold til
+den forbrydelse?
+Det synes jeg er lidt uigennemskueligt, og det
+vil vi gerne have, at vi får en eller anden forklaring på i udvalgsarbejdet.";Per Clausen
+77964;Time;;Kl. 11:21
+77976;title_name;Tak til hr. Per Clausen. Næste ordfører er hr. Villum Christensen.;Formanden
+78052;Time;(Ordfører);Kl. 11:21
+78087;name_party;":
+Liberal Alliance kan støtte denne modernisering
+af loven, som i højere grad flugter med de sikkerhedskrav, man må stille i et usikkert samfund, hvis man kan sige det sådan. Vi synes, det
+ser fornuftigt ud, og vil støtte forslaget.";Villum Christensen
+78329;Time;;Kl. 11:22
+78341;title_name;"Tak for det. Og så er det ministeren for sundhed
+og forebyggelse.";Formanden
+78416;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det er dejligt med brede flertal. Jeg vil gerne takke for den overordentlig positive modtagelse af
+forslaget, og jeg ser frem til, at vi kan fortsætte
+den samme positive drøftelse af forslaget i udvalget. Jeg og ininisteriet forsøger naturligvis at
+få svaret på de stillede spørgsmål så hurtigt som
+muligt, herunder også det af hr. Per Clausen fra
+Enhedslisten stillede spørgsmål.";Kl. 11:22
+78868;Time;;Kl. 11:22
+78880;title_name;"Tak til ministeren.
+Da der ikke flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Sundhedsudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget. ,
+
+Det næste punkt på dagsordenen er:
+5) 1. behandling af lovforslag nr. L 66:
+Forslag til lov om ændring af apotekerloven,
+sundhedsloven og lov for Grønland om forsyning, trafik, postbesørgelse m.v. (Ophævelse af
+aldersgrænse på 70 år for bortfald af apotekerbevilling, honorering af apoteksindretning,
+styrkelse af ordinationstilsyn m.v.).
+Af ministeren for sundhed og forebyggelse (Jakob Axel Nielsen).
+(Fremsættelse 14.11.2008).
+
+Fredag den 28. november 2008,(1, 66)
+. v.";Formanden
+79592;Time;".
+
+1599
+
+også her mulighed for at levere til apotekerne,
+og det kan vi også tilslutte os.
+Så er der en præcisering af erstatningsansvaFormanden:
+:
+홢 ret. Det er jo således, at hvis LægemiddelstyrelForhandlingen er åbnet, og den første ordfører
+sen mener, at et apotek skal flytte, er det klart, at
+er hr. Preben Rudiengaard.
+man som apoteker så kan komme i klemme rent
+.:::
+: 'Kl. 11:23 økonomisk, og der er altså lagt op til en ny for(Ordfører)
+tolkning af det her. Tidligere var det på bagPreben Rudiengaard (V):
+grund af ejendomsvurderingen, men nu er det
+Tak. Det her er en modernisering af tre love, og
+Lægemiddelstyrelsen, der sammen med SKAT
+det er jo lidt af et digert værk, så jeg har kogt det skal finde ud af her ting.
+lidt ned til hovedessensen..
+Så har vi Den Personlige Elektroniske MediApotekerne forpligtes nu til kun at modtage
+cinprofil, som kan gøre det, at lægerne har et
+medicinrester fra forbrugerne, men så er der jo
+overblik over, hvad patienterne får af medicin.
+det der problem med, om de nu efterlader, hvad
+Og der er det jo således, at det har de praktisede ellers tidligere har modtaget. Men der er det
+rende læger mulighed for at gå ind i. Det er jo
+jo entydigt et kommunalt miljøansvar at sørge
+vigtigt, at man hele tiden har et indtryk af, hvad
+for de der ting, og kommunerne kan så indgå en
+det er: patienterne bruger af medicin, når man
+aftale med apotekerne. Så der kommer ikke til at sidder og ordinerer ude i frontlinjen, og derfor
+være nogen miljørisici forbundet med den her
+er der lagt op til, at de praktiserende speciallæændring.
+ger nu også skal komme med. Men for folk, der
+Så er der en opstramning ved indsamling af
+er i tvivl om det her, vil jeg sige, at det ikke er
+data angående lægers ordination af antipsykoti- Sundhedsstyrelsen, der kan sidde og pille ved
+ka, dvs. medicin, man bruger mod sindssygdet, det er lægerne, og det er de praktiserende
+domme eller lettere psykiske lidelser, og der er
+speciallæger, som har mulighed for de her ting.
+det således, at de data ryger til SundhedsstyrelSå jeg skal ganske kort sige, at det her er en
+sen, og så kan embedslægerne bruge det i det til- fornyelse, som Venstre kan tiltræde. Tak for orsyn, de har med lægerne. Der har jo været en
+det.
+- .. ! '
+. . . . . . Kl. 11:26
+stor debat i det her land om, hvorvidt lægerne
+brugte for mange af de her midler - også til dem Formanden:
+under 18 år osv. - og der må jeg sige, at her har
+Tak til hr. Preben Rudiengaard: Og den næste
+vi nu en metode til, at vi kan sikre kvaliteten og
+ordfører er hr. Flemming Møller Mortensen.";Kl. 11:23
+82165;Time;"komme efter de læger, som ikke lever op til almindelig god klinisk standard.
+(Ordfører)
+홢
+Et tredje hovedpunkt er aldersgrænsen for";Kl. 11:27
+82327;name_party;":
+apotekere på 70 år. Det er jo således, at de skulle Med mellemrum er det nødvendigt at lave en regå, når de blev 70 år, men i dag er en 70-årig jo et videring af loven om apoteksvirksomhed. Apokvikt, aktivt levende menneske, så derfor må jeg teket skal fortsat være en del af det primære
+da sige, at det er fuldstændig vanvittigt, at man
+sundhedsvæsen, hvor borgerne kan komme for
+holder en fast grænse på 70 år.
+at købe såvel deres ikkereceptpligtige produkter
+Så er det også således, at en tiltrædende aposom den receptpligtige medicin samt få gode
+teker nu har ret og pligt til at honorere den aporåd og vejledning om medicin.
+teksindretning, som er lavet igennem én årrækDet er Socialdemokraternes holdning, at den
+ke. Jeg har da selv i min tid som embedslæge op- eksisterende ordning er så væsentlig for opretlevet, at der kommer en ny dynamisk apoteker,
+holdelsen af en høj sundhedsstandard, at der
+som så investerer, og vi har et flot apotek, men
+ikke bør ændres grundlæggende ved det.
+han vil jo ikke investere et par år eller tre, før
+Grundlaget for apotekssystemet i Danmark er
+han. går af, og så kommer det til at ligne sådan
+bevillingssystemet, som giver størst mulig been mølædt hule, hvor ingen kunder vil ind. Så
+skyttelse af forbrugerne og garanti for service,
+den mulighed har vi nu for at få det korrigeret.
+faglig kompetence og korrekt objektiv farmaceliSå får sygehusapotekerne en mulighed for at
+tisk rådgivning på allerhøjeste niveau.
+levere i krisetilfælde. Vi har jo det, der hedder
+I lovforslaget her er der mange elementer, og
+avian flue, eller fugleinfluenza, og der har de så
+tre punkter kræver min kommentar. For det første er vi, når det gælder videregivelse af oplysForhandling
+
+1600
+
+Fredag den 28. november 2008 (L 66)
+
+ninger om ordinering af psykofarmaka, skeptiske. Såvel Dansk Psykiatrisk Selskab som Det
+Etiske Råd udtrykker i høringssvarene stor
+skepsis og frygt for flere uhensigtsmæssige konsekvenser. Jeg sender, ligesom også Det Etiske
+Råd har sendt, en opfordring til ministeren om
+at revurdere punktet ud fra problemets omfang
+og nytten af ændringen.
+Skal praktiserende læger slet ikke varetage
+ordineringen af antipsykotika, som Sundhedsstyrelsen rent faktisk har udtrykt i en vejledning,
+må kontrollen kunne ske hos lægen og ikke på
+apoteket.
+For det andet skal jeg kommentere, at ophævelsen af 70-års-grænsen for indehaveren af en
+apoteksbevilling er passende, da den tilsvarende grænse for tjenestemænd er ophævet.
+For det tredje: Af hvilken grund ministeren
+ikke agter at indføre et nedsat opsigelsesvarsel
+på 6 måneder for såvel gamle som nye apotekere, vil jeg meget gerne have ministeren til at redegøre for på en eller anden måde, for jeg ser
+ikke nogen begrundelse for det.
+Når det er sagt, må jeg også slå fast, at forslaget ikke bærer særlig meget præg af de tanker,
+som Venstre i løbet af sommeren lancerede om
+en total liberalisering af apoteksvæsenet. Det
+gratulerer jeg ministeren med, og når begge regeririgspartier således står bag forslaget her, må
+det betyde, at Venstres plan om en maksimal liberalisering af apotekerne nu er skrottet endeligt, og dertil vil jeg sige, at kan man slå to fluer
+med et smæk, er det ikke så ringe.
+Overordnet set kan formålet med det samlede
+lovforslag siges at være, at apotekssystemet skal
+justeres, men fortsat yde den bedst mulige service. Socialdemokraterne er derfor positive over
+for forslaget, men vi stiller os som sagt i forhold
+til enkelte af punkterne skeptiske, og derfor vil
+vi naturligvis gerne være med til at præge de
+punkter i forbindelse med det fortsatte udvalgsarbejde. Tak.";Flemming Møller Mortensen
+85931;Time;;Kl. 11:30
+85943;title_name;"Tak til hr. Flemming Møller Mortensen. Så er det
+fru Liselott Blixt som ordfører.";Formanden
+86034;Time;(Ordfører);Kl. 11:30
+86065;name_party;":
+Formålet med lovforslaget her er at lave nogle
+præciseringer og ændringer i forhold til eksisterende lov. Vi ved, at der er mangel på apotekere,
+og derfor har man med dette lovforslag imødegået problemet ved at lave forskellige ændringer
+
+i loven vedrørende alder, opsigelse, dispensation af uddannelseskrav samt mulighed for udlændinge med tilsvarende eksamen til at kunne
+søge apotekerbevillingen. Alle disse tiltag er
+hensigtsmæssige og fornuftige, og dem kan vi
+godt tilslutte os.
+Forslaget, der handler om apotekernes modtagelse af medicinrester med henblik på destruktion, mener vi i Dansk Folkeparti er et godt
+og miljørigtigt forslag, blot vil vi sikre, at aftaler
+med kommunen er bindende, samt at der foreligger retningslinjer for, hvordan klinisk risikoaffald og farligt affald skal emballeres, samt at
+apotekerne kan sige nej til at modtage affald, der
+ikke er indpakket efter reglerne.
+Vedrørende punktet, der omhandler videregivelse af oplysninger om ordination af antipsykotika, mener vi, det bør undersøges nøje, om det
+ikke er et indgreb i den personlige frihed, at man
+kan videregive cpr-numre for borgere, der får
+antipsykotiske midler. Allerede nu kan apotekerne mærke forskel på ordinationer grundet
+lægernes ændrede udskrivelsesmønstre for antipsykotiske midler. Samtidig kan vi se, at vi den
+1. januar får yderligere stramninger på området,
+så vi burde måske undersøge det lidt nærmere,
+før vi begynder at lave ændringer i praksis.
+Vi vil gerne have vendt det i Sundhedsudvalget sammen med et andet punkt i loven om
+overbliksbilleder i medicinprofilen. Det er vigtigt for Dansk Folkeparti, at vi med denne medicinprofil får det gjort muligt, at man, hvis en patient bliver indlagt på sygehus, hurtigt bør kunne se patientens medicinprofil for at kunne imødegå de komplikationer, der er ved visse præparater. Derfor har vi et spørgsmål til ministeren
+om, hvorvidt det er muligt med denne medicinprofil at kunne se, hvad patienten har fået af
+eventuelle vaccinationer på det pågældende
+tidspunkt. Det mener vi kan være en vigtig oplysning. 홢
+Punktet vedrørende sygehusapotekets fremstilling af lægemidler i forsyningsmæssige nødsituationer, overførsel af hjemmel vedrørende
+sygehusleverancer til Grønland og ændret beskikkelse for forfremmelseskonsulenter, samt erstatning for tab ved salg af fast ejendom kan vi
+uden yderligere kommentarer tilslutte os. Det
+var vist alt, tak.";Liselott Blixt
+88475;Time;;Kl. 11:32
+88514;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken. Så er det SF's ordfører, og det er hr. Jonas
+Dahl.
+
+(201)
+Fredag den 28. november 2008 (L 66)
+..
+,";Helge Adam Møller
+88677;Time;(Ordfører);Kl. 11:33
+88704;name_party;":
+Jeg skal indledningsvis sige, at jeg igen taler på
+både Det Radikale Venstres og SF's vegne, når
+jeg siger, at vi som udgangspunkt godt kan støtte forslaget. Men som SF's ordfører har jeg da
+også et par spørgsmål til lovforslaget.
+Hvad angår 70-års-reglen bed jeg mærke i, at
+bl.a. Apotekerforeningen heller ikke kan anbefale en afskaffelse af aldersgrænsen på 70 år. Jeg er
+udmærket vidende om, at man har lavet nogle
+andre lovændringer, bl.a. på tjenestemandsområdet, men fra SF's side er det i hvert fald også
+vigtigt at få belyst og få sikret, at Apotekerforeningen rent faktisk også bliver hørt i den her
+sag. Apotekerforeningen har nogle argumenter
+for, at man holder fast i 70-års-reglen, netop på
+det her område, og det vil jeg gerne have ministeren til at belyse.
+홢
+Som den anden pind vil jeg gerne have mini-,
+steren til at belyse hele oplysningspligten omkring ordinationen af antipsykotika. Som også
+hr. Flemming Møller Mortensen fra Socialdemokratiet redegjorde for, har der været en række
+indsigelser i høringssvarene, som netop gør opmærksom på, at dette er videre problematisk.
+Som den tredje ting vil jeg gøre opmærksom
+på reduktionen af opsigelsesvarslet fra I år til 6
+måneder for apotekere. Her lægger man i.lovforslaget op 'til, at dette kun er fremadrettet, således
+at det ikke gælder for allerede eksisterende aftaler, og der gør Apotkerforeningen igen opmærksom på, at de ikke finder det hensigtsmæssigt.
+Hvorfor laver man ikke en lovændring/som sådan set er gældende for dags dato, således at
+den også gælder for allerede eksisterende aftaler? Jeg går ud fra, at ministeren enten har en
+forklaring på det, eller også går jeg ud fra, at ministeren kan give den i det videre udvalgsarbejde.
+Som den fjerde og sidste ting vil jeg blot ,be-,
+mærke, at det i forhold til den eksisterende pligt
+til at indsamle medicinrester for SF er meget vigtigt, at vi sikrer, at de medicinrester, som i tidligere blev afleveret på apotekerne fra virksomheder, fra bl.a. dyrlæger, bliver indsamlet på forsvarlig vis, når nu apotekerne alene bliver forpligtet til at modtage medicinrester fra forbrugerne. Det går jeg også ud fra at ministeren kan
+redegøre for i den videre udvalgsbehandling.
+Men som udgangspunkt kan jeg på vegne af
+Det Radikale Venstre og SF sige, at vi støtter forslaget.
+
+1601";Jonas Dahl
+91019;Time;"Fj erde næstformand (Helge Adam Møller):
+Tak til ordføreren. Vi går videre i ordførerræk- ,
+ken. Så er det den konsetvative ordfører, fru Vivi
+Kiet.
+홢";Kl. 11:35
+91180;Time;"(Ordfører)
+,";Kl. 11:35
+91208;name_party;":
+Som det tidligere er sagt, er der i det her lovforslag rigtig mange små delelementer 12 - der
+skal være med til at modernisere hele vores apoteksvæsen. Fra konservativ side finder vi alle
+elementer spændende og vigtige, og det er nogle
+tiltag, vi kan støtte.
+Da jeg kan høre, at der er nogle fra de andre
+partier, der gerne vil have, at vi drøfter nogle
+ting nærmere under udvalgsarbejdet, vil jeg
+samtidig tilkendegive, at vi som altid fra konservativ side selvfølgelig er indstillet på at indgå i
+et samarbejde i en positiv dialog, men at vi som
+udgangspunkt kan støtte det her lovforslag.
+홢홢 홢
+:";Vivi Kier
+91818;Time;"Fjerde næstformand (Helge Adain Møller):
+Tak til ordføreren., Så er det i Enhedslistens ordfører, hr. Per Clausen.
+홢- 홢";Kl. 11:36
+91948;Time;(Ordfører);Kl. 11:36
+91976;name_party;":
+Jeg skal tilslutte mig de sådan i al væsentlighed
+positive bemærkninger, der er kommet fra de
+øvrige ordførere, og sige, at jeg i lighed med den
+socialdemokratiske ordfører jo ikke mindst er .
+glad for de ting, der ikke står om apotekerlovgivningen/hemlig at der skulle gennemføres radikale forandringer. Jeg synes, det er fornuftigt, at
+man i hovedsagen opretholder et system som
+det, vi kender i dag.
+Der er to punkter i lovforslaget, som jeg hæfter mig særlig ved.
+Det første, jeg vil sige, er, at jeg faktisk vil
+starte med at rose sundhedsministeren og lovforslaget. Jeg synes, at lovforslaget udtrykker en
+vilje til seriøst at arbejde med det problem, der
+handler om ordination afiantipsykotika, altså en
+problemstilling, som jo har været rejst en række
+gange. Der har også været rejst megen kritik af
+den måde, man ordinerer på, fordi man ordinerer i lodret modstrid med de anbefalinger, man
+får fra Sundhedsstyrelsen. Jeg synes faktisk, at
+det er en vigtig sag at få styr på, og er derfor i
+udgangspunktet positiv over for, at man tager
+nogle initiativer på det område.
+Det er klart, at vi i processen med det her lovforslag selvfølgelig så skal undersøge, om den
+
+1602
+
+-1- Fredag den 28. november 2008 (L 66)
+
+kontrol med lægerne på det her område, som jeg
+mener er helt nødvendig, kan indrettes på en
+måde, så den er mindre indgribende over for patienterne. Men jeg må indrømme, at når Dansk
+Psykiatrisk Selskab i deres høringssvar bagatelliserer problemet og ligesom lægger op til, at der
+ikke er noget problem, og at man af den grund
+ikke skal gøre noget, så er det ikke et høringssvar, der gør et stort indtryk på mig.
+Det er klart, at man på den anden side må sige, at når både Det Etiske Råd og Datatilsynet
+kommer med spørgsmål på en række konkrete
+områder, må man selvfølgelig sikre sig, at de
+svar, der bliver givet, er fyldestgørende, og at
+der ikke er mulighed for at opnå det resultat,
+som man ønsker at opnå, på anden vis og på en
+måde, som er mindre indgribende over for patienterne. Men der ligger ikke fra Enhedslistens
+side nogen som helst opfattelse af, at det lovforslag, der ligger her, er for indgribende i hvert
+fald i forhold til lægerne. Så det må vi prøve at
+snakke om. Jeg synes, at det meget nødig skulle
+ende med, at vi ikke også bruger det her redskab
+til at opnå nogle resultater med.
+Afslutningsvis vil jeg så sige, at der jo også er
+hele problemstillingen om patienternes ret til at
+eje de informationer, der er om dem i systemet,
+og også have kontrol med, hvem det er, der går
+ind og søger på de informationer. Det var jo en
+af de ting, som Enhedslisten sidste gang, vi behandlede sundhedsloven, forsøgte at få præciseret uden held. Og jeg vil bare sige, at det altså
+ikke er noget rigtig sådan fyldestgørende svar,
+når ministeren skriver, at borgeren har direkte
+elektronisk adgang til de oplysninger, der er registreret i borgerens Medicinprofil samt til logningen af alle anvendelser af borgerens Medicinprofil. Og så står der, at det følger af en bekendtgørelse. Pointen er jo bare, at det - i hvert
+fald den sidste del - ikke fungerer i virkeligheden, og det, Forbrugerrådet sådan set skriver, er,
+at man vil gerne have det til at fungere i virkeligheden.
+Jeg synes, at hvis vi kunne arbejde på at få
+løst nogle af de problemer, der er omkring patienternes ret til at få informationer på det her
+område, sådan at det ikke bare er en principiel
+ret, men også en konkret ret, der kan udmøntes i
+virkeligheden, og kombinere det med det, synes
+jeg, meget udmærkede forslag om sikre et bedre
+tilsyn og en mere effektiv indgriben over for læger, som ordinerer medicin til psykiske sygdomme på et efter min opfattelse forkert grundlag,
+ville det faktisk være en god udgang på det.
+
+Men pointen i det her er jo, at Enhedslisten sådan set måske er lige ved at være regeringsbærende parti i den her sag, fordi vi sådan set er
+meget positive over for forslaget.";Per Clausen
+95887;Time;;Kl. 11:39
+95926;title_name;":
+Tak til ordføreren. Så er det Liberal Alliance, og
+det er hr. Villum Christensen.";Helge Adam Møller
+96019;Time;(Ordfører);Kl. 11:39
+96054;name_party;":
+Når man læser de 12 ændringer i lovforslaget
+igennem og de mange pudsigheder, som dukker
+op, kan det vist kun forstås og give mening, fordi vi har et tudsegammelt system, som i den
+grad blander stat og marked. Vi har eneretsbestemmelser og bevillingsbestemmelser, som forvaltes i private virksomheder.
+I bemærkningerne til lovforslaget, del syv,
+fremgår det, at tiltrædende apotekere har ret og
+pligt til at sikre en ordentlig og kundevenlig indretning, rationelle arbejdsgange og sandelig
+også vedligeholdelse. Det kan man jo tænke lidt
+over. Når vi nu er ved det, pålægges apotekeren
+også i højere grad end hidtil at betale den afgående apotekers vedligeholdelse af apoteket. Se,
+det er noget, vi lovgiver om her i det høje Ting.
+I punkt 11 kan man læse, at apotekerne kan få
+erstatning, hvis myndighederne nedlægger eller
+flytter en apoteksenhed, og at erstatningen ikke
+knytter sig til ejendomsvurderingen. Der er
+mange pudsigheder, og se, så ved man det.
+For os at se er det tydeligt, at vi her har at
+gøre med et område, der hviler på nogle strukturer, der er mere end 450 år gamle, og som i den
+grad kunne have brug for lidt nytænkning. Vi
+har jo nok i for mange år accepteret den her arbejdsdeling, hvor staten giver monopol til apotekervæsenet, mod at apotekeren stort set kan
+bestemme, hvad der står i apotekerloven. Apotekeren får tryghed, og staten får et system, der
+er til at styre - kunne man måske sige.
+Jeg argumenterer ikke for, at der skal gå politireform eller kommunalreform i det her system,
+men mon ikke det er på sin plads, at vi får en
+mere gennemgribende liberalisering af apotekerloven. De mange justeringer er utvivlsomt
+velmente og velbegrundede hver for sig, men vi
+synes, det er lapperier på et meget lidt moderne
+system. Sidste gang vi gennemførte en liberalisering var ved årtusindskiftet, som medførte, at
+man kunne erhverve nogle håndkøbslægemidler i brugser og i supermarkeder, og det er vi
+faktisk rigtig mange der har haft glæde af. Vi sy-
+
+Fredag den 28. november 2008 (L 71)
+nes, at tiden er inde til en gennemgribende reform på området, men vil dog ikke stemme
+imod de foreslåede justeringer.";Villum Christensen
+98200;Time;;Kl. 11:42
+98239;title_name;":
+Tak til ordføreren. Så er det ministeren for sundhed og forebyggelse.";Helge Adam Møller
+98320;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Også her vil jeg gerne sige tak for den positive
+behandling, vi har haft i dag. Der er jo, som det
+også har været fremført fra flere sider, tale om et
+forslag med mange forskellige ændringer af lovgivningen, både på apoteks- og lægemiddelområdet.
+Sådan lidt overordnet vil jeg sige, at de forslag til nye reguleringer, som jeg finder mest betydningsfulde, for det første er forslaget om afskaffelse af aldersgrænsen på 70 år for apotekere. Apotekerne skal således ikke tvinges ud af
+arbejdsmarkedet på grund af en bestemt alder.
+De skal bestemt mulighed for at fortsætte, så
+længe de har lyst og evnen er til stede. Og hvis.
+jeg lige må korrigere hr. Preben Rudiengaard, er
+det jo ikke kun gamle mænd eller mænd over 70
+år, der kan være raske og rørige, det er jo også
+kvinder, men det tror jeg ikke kommer til at skille regeringen og hr. Preben Rudiengaard.
+For det andet er der også forslag om, at tiltrædende apotekere skal have pligt til at honorere
+apoteksindretningen: herunder for generel ved-,
+ligeholdelse, og det er simpelt hen for at give ét
+godt incitament til, at man også i de sidste år,
+mens man driver sit apotek, sørger for, at der er
+en ordentlig vedligeholdelse af det. Så det er i
+bund og grund også fornuftigt.
+For det tredje er der forslag om styrkelse af
+Sundhedsstyrelsens tilsyn med ordination af
+antipsykotika ved at give styrelsen adgang til
+Medicinprofilen, og det er min forventning, at
+det kan være medvirkende til at være et redskab
+i nogle af de diskussioner, vi har haft undervejs i
+løbet af året, nemlig til en mere hensigtsmæssig
+ordination af antipsykotika. Men det er naturligvis ikke meningen, at vi skal gå ind og røre lægernes frie ordinationsret. Men også her er det
+en balance, og jeg synes, at vi skal lægge op til
+en meget åben debat om de her problemstillinger, der også etisk er, i udvalgsarbejdet. Jeg vil i
+hvert fald sørge for, at alle spørgsmål måtte blive besvaret, og jeg stiller mig naturligvis til rådighed for udvalget i den videre proces.
+
+1603
+
+홢홢. . Kl. 11:44";Kl. 11:42
+100438;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår/ at lovforslaget henvises til Sundhedsudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+I :
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+6) 1. behandling af lovforslag nr. L 71:
+Forslag til lov om ændring af lov om indskud
+på etableringskonto og forskellige andre love.
+(Mulighed for fuld fradragsret for indskud på
+iværksætterkonto).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 19.11.2008).";Helge Adam Møller
+100983;Time;Forhandling;Kl. 11:45
+101034;title_name;":
+Forhandlingen er åbnet. Den første, der får ordet, er Venstres ordfører. Det er hr. Torsten
+Schack Pedersen.";Helge Adam Møller
+101154;Time;(Ordfører);Kl. 11:45
+101193;name_party;":
+Danmark skal være et førende vækst- og iværksættersamfund. Vi har brug for, at dygtige og innovative personer vil starte virksomheder op,
+udvikle gode ideer og bidrage til vækst og beskæftigelse i Danmark.
+,
+Regeringens politik har de seneste 7 år bestemt trukket i den rigtige retning. Danmark er
+verdens bedste land at gøre forretning i. For fjerde år i træk ligger vi i front i The Economists opgørelse over verdens mest erhvervsvenlige lande, og dansk økonomi er den mest dynamiske
+og konkurrencedygtige i EU målt på de såkaldte
+Lissabonkriterier.
+Det er jo gode resultater at læne sig op ad,
+men i Venstre vil vi ikke blot fastholde, men
+også udbygge vilkårene for danske iværksættere.
+Med dette forslag fra skatteministeren gør vi
+det mere attraktivt for lønmodtagere at lægge
+penge til side til etablering af egen virksomhed.
+
+1604
+
+,
+
+. Fredag den 28. november.2008 (L 71)
+
+Det sker helt konkret ved, at der nu gives mulighed for fuld fradragsret for indskud på iværksætterkonto.
+Tilvejebringelse af den nødvendige startkapital er ofte en af de største udfordringer for
+iværksættere, og ved at bedre de skattemæssige
+vilkår for opsparing til opstart af egen virksomhed kan vi være med til at gøre det mere attraktivt, lidt lettere og hjælpe flere på vej til at få succes og tage springet med at starte egen virksomhed.
+I Venstre finder vi det utrolig vigtigt, at vi
+konstant vurderer, hvorledes vi kan forbedre vilkårene for iværksætterne i Danmark, og dette
+- forslag giver bedre mulighed for opsparing til
+etablering af egen virksomhed, og det hjælper
+de iværksættere, som vi har så afgørende brug
+for i Danmark. Derfor kan vi i Venstre varmt
+støtte dette forslag fra skatteministeren.";Torsten Schack Pedersen
+102901;Time;;Kl. 11:47
+102940;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og næste ordfører er Socialdemokraternes
+ordfører. Det er hr. Nick Hækkerup.";Helge Adam Møller
+103080;Time;(Ordfører);Kl. 11:47
+103109;name_party;":
+Jeg var helt bange for, at Venstres ordfører ville
+være fanget heroppe hele weekenden.
+Det er alligevel ganske alvorligt, for den finansielle krise er over os. Stort set alle de økonomiske parametre, man overhovedet kan tænke
+sig, peger den forkerte vej. Antallet af tvangsauktioner er fordoblet siden 2006. Liggetiden for
+boliger til salg er eksploderet. Vi ved, at ordrebeholdningen i bygge- og anlægssektoren rasler
+ned. Der bliver praktisk talt ikke skrevet nye
+kontrakter, og den beskæftigelse, der er, er først
+og fremmest bundet i de igangværende projekter.
+Den internationale afmatning er det mest omtalte emne i medierne for tiden, og selv de mest
+optimistiske prognoser for væksten til næste år
+er, at den bliver nul. Alle andre prognoser forudser negativ vækst, at produktionen falder, og at
+arbejdsløsheden stiger. Der er i det hele taget
+usikkerhed for økonomien og utryghed for familierne. Verden diskuterer, både på de store
+planer og på de små planer, hvad der skal gøres.
+Svarene er ikke givet. Det eneste, der synes at
+være sådan almindelig enighed om efterhånden,
+er, at den blinde tro på markedskræfterne ikke
+holder. Der er sådan en omsiggribende erkendelse af den gode, gamle socialdemokratiske
+
+sandhed: Markedet er en god tjener, men en rigtig dårlig herre.
+For Socialdemokratiet er der ingen tvivl om,
+at en del af svaret på den krise, vi er i, er en
+vækststrategi: en målrettet og fokuseret erhvervspolitik, en fremadrettet investering i uddannelse, i innovation, i infrastruktur. Det vil
+kræve en lang, lang række initiativer. Nogle vil
+være store og omfattende og følge i kølvandet
+på spektakulære forhandlinger og med det drama, der skal være, og så vil der være nogle andre initiativer, som vil være ganske små og alligevel trække den rigtige vej. Og det her forslag
+er faktisk et af dem.
+Socialdemokratiet støtter det fremsatte forslag til at forbedre iværksætterordninger. Når vi
+støtter det, er det, fordi det har det mål at få flere
+nye virksomheder i Danmark. Forslagets vej er,
+som Venstres ordfører også nævnte det, forbedrede fradragsmuligheder for indskud på de såkaldte iværksætterkonti. Fremover vil der være
+fradtag i den personlige indkomst og dermed i
+topskattegrundlaget, hvor der med etableringskontoen i dag alene er tale om et ligningsmæssigt fradrag. Med andre ord giver forslaget danskerne bedre mulighed for at spare op til at starte egen virksomhed mod til gengæld efterfølgende at miste retten til afskrivning på aktiver
+og miste retten til fradrag for visse driftsudgifter
+osv.
+Det er alt sammen godt, og navnlig vil det
+være godt og rigtigt i en verden, som er sådan
+lidt julestemningsagtig god, rar og venligi hvor
+alle klæder sig varmt på og er gode mod dyr.
+Men erfaringen viser også, at verden ikke altid
+er så god, at der er mennesker, som hele tiden
+spekulerer i mulighederne for at unddrage sig
+bidrag til fællesskabet, mennesker, som vi platte,
+snyde og fifle sig til lavere skat. Der er ingen
+tvivl om, at muligheden for at få fradrag i den
+personlige indkomst og dermed en skatteværdi
+på op til 59,7 pet. vil blive grebet med kyshånd,
+også af dem der er skattekreative på den ufede
+måde.
+. Skatteministeren har gang på gang understreget, ät den såkaldte aggressive skattetænkning
+er i tiltagende. Derfor er Socialdemokratiets støtte til det foreliggende forslag betinget af, at vi
+finder en løsning på, hvordan Folketinget får viden om udviklingen i skatteudgifterne forbundet med den nye ordning.
+Folketinget må sikre sig en eller anden måde
+at opgøre provenutabet på, f.eks. ligesom man
+havde det med etableringskontoen frem til 2006,
+
+Fredag den 28. november 2008 (L 71)
+så vi kan se, i hvilket omfang ordningen benyttes, og sådan at vi kan konstatere og evaluere, at
+den giver faktisk levedygtige nye virksomheder
+og ikke misbruges til skattetænkning. Kan vi blive enige om det, så støtter Socialdemokratiet
+forslaget på grund af det gode mål om at skabe
+nye virksomheder i Danmark.
+홢 Kl. 11:52
+Fj erde næstformand (Helge Adam Møller):
+Tak til ordføreren. Den næste er Dansk Folkepartis ordfører, og det er fru Colétte L. Brix.
+, Kl. 11:52
+(Ordfører)
+Colette L. Brix (DF):
+I dag er der grund til at glæde sig. Jeg synes, det
+er et meget positivt forslag, vi kan blive enige
+om her.
+m
+de ' 홢
+Dansk Folkeparti har i forbindelse med udmøntningen af globaliseringspuljeh været meget
+engageret i at få forbedret denne etableringskontoordning - flere gange sammen med andre af
+Folketingets partier. I januar, fik vi balance i ordningen, ved at afskrivningerne blev forbedret.
+Før den forbedring, vi gennemførte i januar, var
+det opsigtsvækkende, at iværksættere blev skattemæssigt dårligere stillet, idet reduktionen af
+afskrivninger så at sige var større end den for- .
+del, man fik ved indbetalingen til ordningen. Nu
+går vi så et skridt videre ved at give valgfrihed.
+Med den nye ordning kan man vælge at få et højeré fradrag ved indskud på en iværksætterkonto, men til gengæld er der så ikke nogen afskrivningsmuligheder tilbage bagefter, når man har
+etableret sin virksomhed.
+På denne måde tilgodeser vi behovet hos
+endnu flere iværksættere, som ønsker at spare
+mere op her og nu mod til gengæld ikke at få
+skattemæssige fordele ved afskrivningerne, når
+de har etableret sig. Det er sund iværksætterpolitik konsekvent at gøre det attraktivt at starte
+virksomhed. Det er ofte opsparingen, som er
+akilleshælen hos nye virksomheder. Uden en
+krone på lommen gør det ondt, man er fuldstændig ejet af andre. Det er så vigtigt, at de små
+iværksættere selv starter med noget - meget vigtigere, end vi har fokus på. Vi kan lave fonde, vi
+kan lave alt muligt herindefra, vi kan støtte hist,
+og vi kan støtte pist, men det vigtigste er at give
+det til iværksætteren selv, og at vi gør det i starten.
+På denne måde er det her lovforslag også i
+meget fin tråd med regeringens seneste redegørelse for iværksætteraktiviteten i Danmark kaldet »Iværksætterindeks 2008«, hvor det netop
+
+1605
+
+slås fast, at vi i Danmark er langt fremme på
+mange områder, men halter bagefter, når det
+gælder væksten i nyetablerede virksomheder.
+Bedre opsparingsmuligheder er den bedste kur
+til at sikre, at væksten hos iværksættere stimuleres. Det er det allerbedste, vi: kan gøre. ,
+홢
+Vi skal selvfølgelig ikke læne os tilbage nu, vi
+må følge udviklingen i brugen af ordningen og,
+også være klar til at lave yderligete forbedringer
+fremover. Princippet om at belønne dem, der
+sparer op til at'starte virksomheder, skal vi klart
+værne om. Hvis vi på et tidspunkt er så heldige
+at kunne tage' et næste skridt i forbindelse med
+ordningen - og det tror jeg vi kan - så.skulle vi,
+måske se på leasingområdet.
+.
+Med disse ord vil jeg meddele, at Dansk Folkeparti selvfølgelig støtter forslaget.
+홢=-.홢 홢
+- . . Kl. 11:55
+Fj erde næstformand (Helge Adam Møller):
+Tak til ordføreren. Næste ordfører er SF's ordfører, og det er hr. Jesper Petersen.
+:
+, Kl. 11:55
+(Ordfører)";Nick Hækkerup
+110028;name_party;":
+Med L 71 foreslås fradragsmulighederne i etableringskontoloven udvidet. Der indføres en ny
+opsparingsordning i etableringskontoloven, en
+iværksætterkonto, og indskuddet på den konto
+kan fradrages ved opgørelsen af den personlige
+indkomst, og derfor kan indskuddet altså også
+fradrages i topskattegrundlaget fremover.
+For topskattebetalere bliver skatteværdien op
+til ca. 59 pet., og det er altså for nogle skatteydere en attraktiv ordning at bruge for at slippe for
+at betale topskat. I stedet for at der f.eks. er et
+ligningsmæssigt fradrag med en værdi på 33
+pet. som hidtil, er det foreslået som fradrag i den
+almindelige indkomst, som altså gør ordningen
+til en rabatordning til visse topskatteydere.
+Det varige provenutab ved udvidelse af etableringskontoordningen skønnes af ministeriet at
+være ca. 15 mio. kr. - altså mere end det, der
+egentlig var til rådighed i den globaliseringsaftale, der er indgået. Så statskassen skal altså betale penge til topskatteydere, der ved hjælp af
+den her ordning kan trække penge fra i skat. De
+penge kunne måske have været brugt bedre.
+Måske fører det i virkeligheden bare til mere
+skattetænkning og til yderligere tab, så det er
+vigtigt, at vi får fulgt med i, hvordan den her
+ordning udnyttes, hvis det flertal, der tegner sig,
+ender med at vedtage lovforslaget:
+Lovforslaget giver især personer med højindkomster forbedrede forhold. Det er en oplagt
+
+1606
+
+Fredag den 28. november 2008 (L 71)
+
+mulighed for personer, der ved, at de skal overtage en advokatforretning, en revisorvirksomhed, et landbrug eller lignende, fordi de i årene
+op til overtagelsen så kan slippe for topskat, fordi de kan putte penge ind på den her ordning.
+Er man tæt på pensionsalderen, kan ordningen
+også anvendes til at udsætte skattebetaling til
+pensionsalderen, hvor ens indkomst og dermed
+skattesats er mindre end på det tidspunkt, hvor
+indbetalingen foretages. Spørgsmålet er, om det
+her forslag giver flere virksomheder eller bare .
+mere skattetænkning.
+Jeg vil gerne sige, at SF gerne vil skabe gode
+forhold for iværksætteri, det må man ikke misforstå. Vi peger på flere offentlige midler til
+forskning, innovation, bedre uddannelsesmuligheder for iværksætter lystne, hjælp til at komme
+i gang og klare bureaukratiet, bogføringen og
+kontakten med det offentlige - alt det, der ikke
+er decideret virksomhedsrettet, men det bøvl,
+der er, når man starter ny virksomhed. Det er
+forskellige måder at understøtte opstarten af
+nye forretninger på, og vi mener, de er mere
+målrettede og effektive metoder end de foreslåede i det her lovforslag, der i stedet i hvert fald
+har en risiko for at ende som en skatterabat til
+topskatteydere.
+Socialdemokraternes ordfører var inde på
+vigtigheden af at følge med i brugen af ordningen, og skulle det føre til yderligere skattetænkning, så kan provenuberegningerne altså vise
+sig at være forkerte, på den måde at der er et
+større tab. Men vi vil også se meget positivt på,
+at der i udvalgsbehandlingen som minimum
+kommer tilkendegivelser om ændringer. Den situation vil gøre, at vi selvfølgelig vil overveje
+vores stilling.
+Vi vil følge meget tæt med i, hvordan den her
+ordning udnyttes, men umiddelbart er vi altså
+kritiske over for forslaget og bange for, at det
+bare vil føre til mere skattetænkning og ikke til
+mere iværksætteri. Vi har nogle andre ideer i stedet for.";Jesper Petersen
+113375;Time;;Kl. 11:58
+113414;title_name;":
+Tak til ordføreren. Næste ordfører er den konservative ordfører, og det er hr. Mike Legarth.";Helge Adam Møller
+113518;Time;(Ordfører);Kl. 11:58
+113547;name_party;":
+Tak hr. formand. Jeg er lidt ked af at skulle entre
+denne høje talerstol efter hr. Jesper Petersens
+
+jagt på erhvervslivets vilkår. Men lad det ligge,
+det må vi tage under udvalgsarbejdet.
+Det er et konservativt mål at forbedre potentielle iværksætteres muligheder for at starte
+egen virksomhed - det har det altid været - herunder er det vores ønske, at flere højtuddannede
+også får mulighed for at blive selvstændige.
+Med det her lovforslag forbedres opsparingsmulighederne for alle potentielle iværksættere,
+og den nye iværksætterkontoordning henvender sig til alle, der ønsker at spare op til egen
+virksomhed.
+Den første periode efter etablering har alle en
+forståelse for er svær, og den har man brug for at
+kunne spare op til, da indtægterne først kommer
+på et senere tidspunkt. Iværksætterkontoordningen vil alt andet lige give bedre muligheder
+for, at man har en solid opsparing, inden virksomheden etableres, og det øger virksomhedens
+chance for at overleve på lang sigt. Med lovforslaget imødekommer vi også et længe næret ønske fra mange af erhvervslivets interesseorganisationer - der hele tiden har anført, at fuld fradragsret for indskud giver de bedste opsparingsmuligheder for potentielle iværksættere om altså at leve op til de ønsker og råd, vi har fået.
+Regeringen har jo altså også tidligere forsøgt
+at skabe flertal for at forbedre potentielle iværksætteres forhold i opsparingsfasen, men det er
+først nu, det er blevet muligt at opnå et flertal
+her i Folketinget.
+Med det her forslag udmønter vi de sidste af
+de midler, der i november 2006 blev afsat fra
+globaliseringspuljen til forbedring af etableringskontoloven. Så har det været et spørgsmål,
+om leasing af driftaktiver kunne blive omfattet
+af det her lovforslag, og jeg kan forstå på Skatteministeriet, at provenutabet vil være 10 mio. kr.,
+og derfor har vi ikke mulighed for at indføre det
+som en del af det her forslag nu, men vi vil have
+det med i vores overvejelser, for principielt er vi
+enige i, at der bør være mulighed for det. Det
+kræver altså bare, at vi finder finansieringen,
+men det har vi med i baghovedet fremover.
+Det Konservative Folkeparti støtter naturligvis lovforslaget.";Mike Legarth
+115728;Time;;Kl. 12:00
+115767;title_name;":
+Tak til ordføreren. Den næste ordfører er den radikale ordfører, og det er hr. Niels Helveg Petersen.
+
+Fredag den 28: november 2008 (L 71)
+'";Helge Adam Møller
+115920;Time;(Ordfører);Kl. 12:00
+115958;name_party;":
+Flere af de foregående ordførere svang sig lidt
+op og talte i anledning af dette lovforslag om erhvervsklimaet i Danmark og gjorde sådan, skal
+vi sige mere overordnede betragtninger gældende. Det kan jeg slet ikke svinge mig op til i anledning af dette lille, prunkløse forslag, som koster 15 mio. kr., og hvis virkninger med sikkerhed vil være beskedne, ikke mindst i den nuværende konjunktursituation. Så det er prunkløst,
+men det er også samtidig et sympatisk forslag,
+og det støtter Det Radikale Venstre med glæde.
+Jeg er enig med andre ordførere, der har
+fremhævet, at vi bør følge forslagets videre gang
+i det praktiske og se, hvorledes det udnyttes og
+bruges, for at se, om det lever op til de mål, der
+er sat for virkningerne af forslaget.";Niels Helveg Petersen
+116717;Time;;Kl. 12:01
+116756;title_name;":
+Tak. Så er det hr. Villum Christensen fra Liberal
+Alliance.";Helge Adam Møller
+116827;Time;(Ordfører);Kl. 12:01
+116862;name_party;":
+Tak for det. Vi synes også i Liberal Alliance, at
+det er et sympatisk forslag, men kan ikke undlade at notere os, at vi her bliver præsenteret for et
+lovforslag på 40 sider - for at blive i hr. Niels
+Helveg Petersens spor. Vi har høringssvar fra,
+tror jeg, 20 forskellige organisationer. Et væld af
+embedsfolk har været inddraget - og formentlig
+også partiernes sekretariater og jo Folketingets
+medlemmer - alle sammen med det ædle formål
+at bringe flere iværksættere i sving for et beløb
+på 10 mio. kr., måske 15 mio. kr., hvem ved? Måske virker det slet ikke, fordi det kan afstedkomme en række forskellige spekulationer om skattesatser og om, hvorvidt det er ligningsmæssige
+fradrag, eller hvad. Der er også nogle revisorer,
+der selvfølgelig får noget at lave her.
+Jeg synes faktisk, det er symptomatisk for
+dét, vi gør herinde i Folketinget, at vi udarbejder
+meget velmente forslag - det har jeg sagt tidligere - men til fordel for hvem? Mest til fordel for
+bureaukrater og hele maskineriet herinde.
+Tænk, hvis man kunne få den tanke, at det jo
+nok hjalp langt, langt mere, hvis vi satte top- og
+mellemskatten ned og lod erhvervsklimaet
+blomstre ud fra en mete sund og gedigen erhvervspolitik frem for alle de her kryptiske regler, som jo kun er til glæde for revisorer og bu, reaukrater. Det er ærgerligt, at vi skal bruge så
+
+1607
+
+meget tid på sådan noget - jeg vil ikke sige pjat,
+for det kan være vigtigt for nogle - men altså, .
+proportionerne er bare helt ude i hampen. Hvorfor bruger vi ikke tiden på det vigtige? Lad os få
+skatten ned og så få et blomstrende erhvervsliv
+for alle, frem for at vi har alle de her kryptiske
+ordninger for 10 mio. kr. Tak.";Villum Christensen
+118539;Time;;Kl. 12:03
+118578;title_name;":
+Tak til ordføreren. Så er det skatteministeren.
+Kl..12:03
+Skatteministeren.(Kristian Jensen):
+Jeg vil starte med at sige, at jeg en gang imellem,
+faktisk ret ofte, glæder mig over at have hr. Niels
+Helveg Petersen som formand for Skatteudvalget - ikke blot på grund af den gode mødeledelse og den store indsigt i skattesager, men også
+fordi der fra tid til anden kommer sproglige
+blomster frem, som beriger en debat, herunder
+udtrykket prunkløs. Ifølge Politikens store ordbog - jeg har lige slået det efter - betyder det:
+uden overdreven pragt og stads.
+Det er lovforslaget sådan set, det er prunk-'
+løst. Det er egentlig meget nøgternt, kunne man
+også kalde det. Det er et spørgsmål om at forbedre de muligheder, vi giver vores iværksættere for netop at kunne spare op.
+Det har for mig at se to vigtige elementer i sig,
+som også fru Colette L. Brix var inde på. Det ene
+element er, at det ruster dem bedre i kampen for
+at overleve de første svære år som iværksættere.
+Det andet er, at det faktisk har en meget god, opbyggende virkning, at man som iværksætter
+skal vænne sig til at lægge penge til side og bygge op til at klare det selv. Så de penge, man kommer med selv - den egenopsparing, man har - er
+en af de afgørende faktorer for at være succesfuld efterfølgende: der er jeg helt enig med fru
+Colette L. Brix.
+Jeg havde i går aftes en meget positiv oplevelse. Jeg var på et sidste øjebliks afbud blevet bedt
+om at deltage i en af de største og ældste iværksætterkonkurrencer i Danmark, faktisk på internationalt verdensplan, Entrepreneur Of The
+Year 2008, som fyldte Bella Centerets store hal
+med tusind festklædte mennesker - arrangører
+og andre gæster, men først og fremmest ivætksættere, der havde deltaget i regionale konkurrencer og var blevet udpeget og udvalgt til at gå
+videre til den store landsfinale i Bella Centéret i
+går.
+Det var fantastisk at høre deres beskrivelse af,
+hvordan de uanset nedgang og nedture og sure
+overskrifter i aviserne stadig oplever vækstmu-
+
+I
+
+1608
+
+Fredag den 28. november 2008 (L 71)
+
+ligheder, potentialer, og stadig væk har kreativitet, idé og vitalitet til at udfordre og se hele ver- >
+den som deres globale marked og deres eget
+marked. Det er ikke noget med først at kigge
+snævert og se, om de kan sælge i deres egen
+baghave, men de fødes som globale virksomheder i et markedsfelt, hvor de lige så godt kan
+sælge til resten af Europa eller til USA eller til
+Asien, som de kan sælge til en anden landsdel
+her i Danmark.
+Det var en fantastisk oplevelse, som de, der
+mener, at dansk erhvervsliv nu går i sort, helt
+sikkert burde have undt sig selv. Derfor ér det
+den type mennesker, som lovforslaget her har
+sigte på og kommer i møde. Det giver dem bedre muligheder for at starte op. Det giver dem
+bedre muligheder for at realisere deres ideer.
+Den etableringskonto, som vi har kendt i årevis,
+har været god og solid, hvis man kunne planlægge over lang tid og spare en smule op af sin
+løn, men mange af de iværksættertyper, som jeg
+mødte i går aftes til Entrepreneur Of The Year
+2008, og mange af dem, som jeg har mødt
+rundtomkring i landet, er jo ikke nogle, der har
+siddet i lang tid og sparet op. De har fået en
+pludselig indskydelse, en idé - noget, der er
+sprunget ud af deres fritidsarbejde, deres studier eller deres fuldtidsarbejde - som de kan se en
+mulighed for at kommercialisere, og de skal rykke på kort sigt for at være de første aktører på
+banen.
+Derfor er det nødvendigt at give så at sige noget større volumen end ved de muligheder, der
+er for at spare op, nemlig ved en forbedret fradragsret, sådan at man hurtigere kan få skabt
+den nødvendige kapital. Og der er forslaget her
+et ganske godt skridt på vejen.
+Der har så været nogle bekymrede røster fra
+både SF og Socialdemokratiet om, hvorvidt der
+nu kan skàttespekuleres i det. Først og fremmest
+er der det at sige, at prisen for som iværksætter
+at få den store fradragsret nu er, at man så har
+manglende fradragsmuligheder, når man etablerer sig. Det vil sige, at man så at sige får fremrykket fradragsretten, men den bliver jo ikke
+større: vi sørger for, at det er neutralt.
+Hvad så,, hvis man sparer op og har fradragsret i dag, men ikke etablerer sig? Ligger der så en
+mulighed for så at sige at lave en form for skattearbitrage, skattespekulation? Nej, heldigvis ikke, for hvis man sparer op og ikke etablerer sig
+efterfølgende, vil der være en straffeafgift på i
+udgangspunktet 60 pct. af det, der er sparet op,
+plus et rentetillæg for hvert år, opsparingen har
+
+stået på etableringskontoen eller iværksætterkontoen. Og derfor er der et helt klart incitament
+til, at man tænker sig grundigt om, inden man
+går ind i ordningen, og alene vælger at spare op,
+hvis man er fast besluttet på, at man vil være
+iværksætter på et senere tidspunkt, for ellers ligger der en straffeafgift, som er større end den
+øjeblikkelige skattebesparelse, der er.
+Jeg vil gerne under udvalgsbehandlingen
+komme tilbage med en nærmere beskrivelse af
+de konsekvenser, der vil være, hvis man uretmæssigt hæver et indskud. Og det tror jeg vil berolige nogle af de bekymringer, der har været.
+Hvad angår det andet spørgsmål fra hr. Nick
+Hækkerup om at følge med i udviklingen af omfanget af ordningen, vil vi gerne give tilsagn om,
+at vi finder en model, som er tilfredsstillende
+med hensyn til løbende at kunne følge med i,
+hvad der vil være. Jeg kunne forestille mig, at vi
+kommer med en afrapportering efter en vis indfasningsperiode. Lovforslaget skal nu også ud
+og gøres bekendt, og folk skal vænne sig til at
+bruge det her. Så kan vi lave en afrapportering
+af, hvad niveauet har været.
+Jeg vil bare slutte med at sige - når man en
+gang imellem kan høre fra hr. Niels Helveg Petersen, at det er et prunkløst forslag, og høre hr.
+Nick Hækkerup, der nærmest startede med at
+sige, at det her var det, der skulle imødegå finanskrisen - at det er et godt, solidt forslag. Jeg
+mener i øvrigt ikke, at løsningen på finanskrisen
+er at overtage Socialdemokratiets politik. Jeg
+tror, at årsagen til finanskrisen i højere grad har
+været, at USA har kørt en så uansvarlig økonomi, at det næsten når Anker Jørgensens højder i
+1970'erne.";Helge Adam Møller
+124714;Time;;Kl. 12:10
+124753;title_name;":
+Det giver anledning til en enkelt kort bemærkning fra hr. Jesper Petersen.";Helge Adam Møller
+124839;Time;;Kl. 12:10
+124860;name_party;":
+Jeg tror også, det er nødvendigt at få et mere demokratisk kontrolleret internationalt finansielt
+system for at undgå fremtidige finanskriser.
+Men problemet bliver næppe løst med forslaget
+her, uanset hvor meget prunk eller ej der er i det.
+Skatteministeren siger klart, at man virkelig
+skal være sikker på, at man vil starte virksomhed, når man anvender muligheden her, for ellers er der en meget stor strafafgift. Er skatteministeren så ikke bange for den skattetænkning,
+der kan være, når man udmærket ved, man
+f.eks. på et tidspunkt skal overtage sine foræl-
+
+(202)
+Fredag den 28. november 2008 (L 71)
+
+1609
+
+dres landbrug, advokatpraksis, revisorvirksomDen anden bekymring, man kan have, er jo,
+hed, eller hvad det nu måtte være, mens det er
+at der er nogle, der gør brug af ordningen ved at
+sværere for andre at vide, om ideen nu holder
+skyde penge i den og dermed slipper for at betahele vejen, og man skal begynde at anvende ord- le topskat, og så holder ideen alligevel ikke. Man
+ningen? Er skatteministeren ikke bange for den
+har måske ikke lyst til at være iværksætter, eller
+skattetænkning, der kan opstå, fordi man slipman går bort fra sin oprindelige idé, men for at
+per for at betale topskat, mens man skyder ind,
+slippe for at betale strafafgiften bliver man lokog bruger pengene på noget, man uanset hvad
+ket til at putte pengene i et eller andet, man måville have brugt dem på, når man overtager en
+ske aldrig skulle have puttet dem i. Jeg synes,
+forretning, så det bare koster skatteydetne pender er den risiko, så jeg mener, vi må kunne give
+ge, og vi ikke får flere virksomheder ud af det? > meget bedre støtte til at oprette flere virksomheKl. 12:11 der end det, der ligger i forslaget.
+홢
+. . . . - Kl. 12:14";Jesper Petersen
+126632;title_name;":
+Så er det skatteministeren.";Helge Adam Møller
+126700;title_name;:;Helge Adam Møller
+126711;Time;"Så er det skatteministeren.
+, 홢
+. : 홢홢Kl. 12:14";Kl. 12:11
+126794;title_name;":
+Jeg ville sådan set ikke være nervøs, hvis der var";Kristian Jensen
+126881;title_name;":
+nogle, der som led i et generationsskifte gjorde
+Hr. Jesper Petersen er utvivlsomt et politisk tabrug af en etableringskonto som den, vi foreslår
+lent, for allerede efter et år i Folketinget har hr.
+her. Jeg synes faktisk, det ville være glædeligt.
+Jesper Petersen tillært sig, at man kan overdrive
+Vi står i den situation, at titusindvis af virkandres argumenter og få dem til at fremstå på en
+somheder i den kommende periode skal genera- måde, som de ikke selv vil stå inde for.
+tionsskiftes, og der er risiko for, at vi vil miste
+Jeg sagde ikke, at formålet med forslaget er at
+mange af dem, enten på grund af udskudt skatfremme generationsskifter. Formålet med forslategæld, der skal overdrages, eller på grund af
+get er at fremme iværksætteri. Hvis hr. Jesper
+andre problemer med at få refinansieret virkPetersen mener at kunne påpege, at det også
+somheden som led i et generationsskifte. Fra re- kan fremme generationsskifte som en sidegegeringens side har vi arbejdet på at gøre genera- vinst, har jeg ikke noget imod det, men hovedtionsskifter mere og mere smidige: Vi har genideen, hovedsigtet med forslaget er at fremme
+tagne gange, senest sammen med Dansk Folkeiværksætteri og give folk en større mulighed for
+parti og Liberal Alliance i finansloven for 2008,
+at spare op til at starte deres egen virksomhed.
+gjort tiltag til at forbedre generationsskiftemuDet er korrekt, at det har en konsekvens, hvis
+lighederne. Så hvis hr. Jesper Petersen siger, at
+man sparer op og den idé, man havde formuleforslaget her gør det nemmere at lave generatiret, ikke holder. Det er simpelt hen en værnsreonsskifte, synes jeg ikke, det er et problem.
+gel, så dér ikke bliver tale om skattesnyd og";Kristian Jensen
+128585;Time;"skattespekulation. Det er derfor, der er en hård
+Fj erde næstformand (Helge Adam Møller):
+konsekvens, hvis man ikke etablerer sig. Men
+Så er det hr. Jesper Petersen for yderligere en
+reglen gælder jo allerede i dag for den ordning,
+kort bemærkning.
+vi har, hvor der er meget lavere 'fradragsret, så";Kl. 12:12
+128894;Time;hvis hr. Jesper Petersen er modstander af den;Kl. 12:12
+128961;name_party;":
+slags, burde hr. Jesper Petersen tage initiativ til,
+Tak for svaret. Jeg er egentlig glad for, at vi fik
+at den gældende etableringsordning blev fjernet.
+det frem, for så har vi jo klarhed over, hvad forMen det ønsker vi i hvert fald ikke fra regerinslaget handler om. Det handler først og fremgens side, og vi meget tilfredse med lovforslaget
+mest om generationsskifte, det handler om en
+her.
+i
+홢홢
+홢
+. Kl. 12:15
+ny måde til at gøre generationsskiftet nemmere
+og give en yderligere skatterabat ved virksomFjerde næstformand (Helge Adam Møller):
+hedsoverdragelse til nogle, der i mange år har
+Tak til skatteministeren.
+vidst, at de skal overtage f.eks. et landbrug eller
+Da der ikke er flere, der har bedt om ordet, er
+en praksis af en eller anden art. De skal have en
+forhandlingen sluttet.
+rabat i årene frem til overtagelsen. Så har vi det
+på det rene, og det er fint, men det kunne godt
+IJeg foreslår, at lovforslaget henvises til Skatteudstå tydeligere i bemærkningerne til lovforslaget, valget. Hvis ingen gør indsigelse, betragter jeg ,-.
+at det er det, det handler om.
+dette som vedtaget.
+
+1610
+Det er vedtaget. -
+
+Fredag den 28. november 2008 (L 72)
+I
+
+Det sidste punkt på dagsordenen er:
+7) 1. behandling af lovforslag nr. L 72:
+Forslag til lov om ændring af skattekontrolloven, momsloven, opkrævningsloven, lov om
+aktiv socialpolitik, integrationsloven og forskellige andre love. (Indsats mod skatte- og afgiftsunddragelse - Fairplay III og fradrag for
+børnebidragsrestancer i kontanthjælp, starthjælp og introduktionsydelse).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 19.11.2008).";Jesper Petersen
+130576;Time;Forhandling;Kl. 12:15
+130627;title_name;":
+Forhandlingen er åbnet. Den første ordfører er
+Venstres ordfører, og det er hr. Torsten Schack
+Pedersen.";Helge Adam Møller
+130743;Time;(Ordfører);Kl. 12:16
+130782;name_party;":
+Sort arbejde, svindel, snyd og humbug hører ingen steder hjemme i Danmark. Som liberal er jeg
+stor tilhænger af lavere skat, men det skal altså
+være efter reglerne og ikke ved, at man unddrager sig de skatteregler, som vi har vedtaget her i
+Folketinget.
+Regeringen har de senere år med Fairplay I
+og Fairplay II påbegyndt en langt skrappere indsats mod sort arbejde, og det har bestemt givet
+resultater. Men interessen for at unddrage sig
+skat betyder, at der er - det var jo det, vi talte om
+under det tidligere forslag - stor innovation på
+området, og derfor må vi også fra Folketingets
+side løbende vurdere, om instrumenterne til bekæmpelse af skatteunddragelse er gode nok og
+er det aktuelle svar på de allernyeste tiltag fra
+virksomheder og personer, der helst vil undslå
+sig den beskatning, vi nu engang har vedtaget.
+De elementer, som det her lovforslag indeholder, er jo ikke noget, som er opstået ved idérigdom og initiativ hos ministeren eller i ministeriet, nej, det er jo forslag, som bunder i konstaterede problemer fra virkeligheden, problemer, som
+SKAT er stødt på, når SKAT bevæger sig rundt i
+kongeriget for at kontrollere, at lovene bliver
+overholdt.
+
+Lovforslaget indeholder en lang række tiltag.
+Det vil være for omfattende at nævne dem alle,
+så lad mig blot fremhæve et par af de centrale
+elemehter.
+Med tidligere indsats i Fairplay har kampen
+mod ulovlige sodavand påkaldt sig stor opmærksomhed. Det er noget, der har været udbredt, og som alle nok har set ud af en øjenkrog,
+hvis man har bevæget sig lidt rundt. Der er sat
+hårdt ind med mulighed for at slå hårdt ned på
+manglende overholdelse ikke bare af skatte- og
+afgiftsregler, men også gennem pantsystemet,
+og det har vist sig at være en virkningsfuld vej.
+Men idérigdommen er nu så stor, at der er brug
+for yderligere tiltag, og derfor vil der nu fremover gives mulighed for i særlig grove tilfælde
+ikke bare at beslaglægge, men at kunne konfiskere ikkeafgiftsberettigede varer. Risikoen for
+at se SKAT køre bort med et parti varer har vist
+sig at være et meget stærkt redskab i kampen
+mod de ulovlige sodavand.
+Forslaget sikrer også, at en virksomhed kan
+blive givet et påbud om, at en række nærmere
+bestemmelser i skatte- og afgiftslovgivningen
+skal efterleves, og hvis det pågældende påbud
+ikke overholdes, ja, så kan der pålægges daglige
+bøder, indtil virksomheden efterlever påbuddet.
+Der gives også bedre mulighed for samkøring
+af en række registre, så der tilvejebringes de
+bedst mulige oplysninger for en målrettet kontrol og for at få sikkerhed for, at man har det fulde billede.
+Der skal også være konstateret, at ved afmeldelse af en virksomhed kunne der stadig væk
+foregå noget i virksomheden, men disse udbetalinger har jo så været uden om skattesystemet.
+Der må man sige, at de personer, der fortsætter
+med sådanne aktiviteter efter at have afmeldt
+deres virksomhed, jo så må hæfte for den skat,
+der så ikke er blevet betalt, og det indføres der
+nu mulighed for.
+I forhold til taxaer ændres reglerne for, hvorledes en taxa kan frikøres, både for at sikre, at vi
+ikke bare når et bestemt antal kilometer, men at
+vi også sikrer, at der faktisk ligger et antal besatte kilometer bag. Det skal ikke være sådan, at
+man bare kan tage en skruemaskine og sætte i
+kilometertælleren og så lige pludselig nå det
+magiske tal og så få mulighed for at få solgt sin
+nu frikørte taxa efter de afgiftsmæssige regler,
+der så gælder. Dér bliver strammet op.
+Endelig kommer der et fradrag for børnebidragsrestancer i kontanthjælp og starthjælp, således at hvis der gives et særligt tilskud til per-
+
+.
+
+Fredag den 28. november 2008 (L 72)
+
+soner, der har en ydelsesforpligtelse og ikke betaler de penge, som de burde, ja, så kan kommunen altså tilbageholde pengene, således at det
+offentlige ikke skal betale pengene to gange, og
+således, at der ikke opstår en stor restance, som
+efterfølgende kan være svær at inddrive.
+Som sagt hyldede vi iværksætteri og llnovation i forbindelse med det tidligere forslag, og vi
+må konstatere, at det altså også sker, når det
+gælder skatteunddragelse, og derfor er det en
+fortsat kamp for at sikre, at vi har de nødvendige redskaber og værktøjer, som er svaret på de
+udfordringer, vi løbende møder. Nu er det så
+Fairplay III, vi behandler, og jeg har så stor tiltro
+til idérigdommen, at vi nok også kommer til at
+se et Fairplay IV med tiden. Men det er jo rart at
+kunne konstatere, at vi har en regering, der reagerer hurtigt, når man bliver opmærksom på
+problemer og på steder, hvor vi kan styrke kontrollen, og at vi så også ser det, så vi får opkrævet den skat, vi har besluttet i Folketinget hverken mere eller mindre.";Torsten Schack Pedersen
+135424;Time;;KL12:21
+135463;title_name;":
+Det giver anledning til en enkelt kort bemærkning. Hr. Martin Henriksen.";Helge Adam Møller
+135547;Time;;Kl. 12:21
+135569;name_party;":
+Ja tak. Nu sagde hr. Torsten Schack Pedersen, at
+der formentlig ville komme en Fairplay IV, og at
+man altid kunne gøre sig tanker om nogle af de
+ting, der kunne være med i et sådant udspil. Nu
+lægger regeringen jo i det her udspil op til, at
+der som noget nyt skal være mulighed for at i
+konfiskere varer, og man siger så, at det kan gøres i grove tilfælde, eksempelvis i gentagelsestilfælde, sådan som jeg forstår det. Vi kunne jo så
+forestille os, at man i Fairplay IV ville have indhøstet erfaringerne fra det her.
+Der står jo også i regeringens eget udspil, at
+det, som folk har respekt for, er, når der sådan er
+lidt handlekraft bag, når man kommer til de her
+folk, som eksempelvis handler med ulovlige varer. Kunne Venstre så ikke tænke sig, at man rent
+faktisk skrev ind her, at det var sådan, at første
+gang, nogen begik en ulovlighed, beslaglagde
+man måske varerne, som man gør i dag, og at
+det så var fastsat fra centralt hold, herindefra, at
+anden gang konfiskerede man varerne?";Martin Henriksen
+136570;Time;;Kl. 12:22
+136609;title_name;":
+Så er det ordføreren.
+
+1611";Helge Adam Møller
+136649;Time;;Kl. 12:22
+136677;name_party;":
+Til det, jeg sagde om idérigdommen i forhold til
+at udse sig nye muligheder for at undgå reglerne, kan jeg sige, at det jo som sagt bliver en kontinuerlig proces, og hver gang SKAT og vi kan
+konstatere, at der er nogle ting, ja, så må vi selvfølgelig gribe ind. Og det er jo ikke sådan, at vi
+nu kan konstatere, at der er noget under opsejling: så ville vi jo selvfølgelig også have taget det
+med i det her.
+Muligheden for at beslaglægge eksisterer.
+Men det, vi siger, er, at konfiskation skal være en
+mulighed. Det er altså et særlig hårdt retsmiddel, og derfor skal det selvfølgelig også bruges,
+når der er alvorlige tilfælde. Jeg synes sådan set,
+at vi laver en kraftig styrkelse af de muligheder i
+forhold til det, der er gældende i dag. Og det
+glæder jeg mig til at se effekten af, for jeg er ikke
+et sekund i tvivl: Når vi ser, at der er nogen, der
+får konfiskeret store partier, er det altså noget,
+der gør indtryk.
+""";Torsten Schack Pedersen
+137613;Time;;Kl. 12:23
+137652;title_name;":
+Der er yderligere en kort bemærkning fra hr.
+Martin Henriksen.";Helge Adam Møller
+137726;Time;;Kl. 12:23
+137748;name_party;":
+Ja tak. Jamen jeg er enig i, at man selvfølgelig
+kun skal gøre det, når det er grove tilfælde. Men
+når nu man har en sag, hvor man går ud og beslaglægger varerne, må vi gå ud fra, at den person, den virksomhed, som man beslaglægger
+varerne fra, forstår, at det er alvorligt, og at de
+sådan set er på vej i den forkerte retning. Den
+besked bliver vel - kan vi sige - givet ret tydeligt
+dér, og hvis man så gør det en gang til, er det
+vel, fordi man sådan set bevidst vælger bare
+ikke at følge reglerne: så kan der ikke være nogen tvivl mere. Synes hr. Torsten Schack Pedersen ikke, at vi i stedet for at give mulighed for, at
+man kunne konfiskere varerne, så sagde herindefra, at så konfiskerer man varerne? Så kan
+man i hvert fald ikke længere være i tvivl om,
+hvad vi forventer herindefra.";Martin Henriksen
+138550;Time;"Fj erde næstformand (Helge Adam Møller):
+Så er det ordføreren.";Kl. 12:24
+138623;Time;;Kl. 12:24
+138651;name_party;":
+Når der står, at det er i særlig grove tilfælde, er
+det i hvert fald min klare opfattelse, at det er, når
+vi taler om store varepartier eller om gengangere og nogle, der kontinuerligt bliver ved: så er
+
+1612
+
+Fredag den 28. november 2008 (L 72)
+
+det, vi skal slå ned. Der er jeg helt på linje med
+hr. Martin Henriksen, nemlig at det her er et effektivt redskab, og det er derfor, vi foreslår det.
+Et groft tilfælde, ja, det er i min optik altså, når
+det drejer sig om et meget stort parti eller om
+folk, som man nu har knaldet for tredje, fjerde
+eller femte gang: så skal man selvfølgelig sætte
+hårdt ind for virkelig at få dæmmet op for det
+her.";Torsten Schack Pedersen
+139310;Time;;Kl. 12:25
+139349;title_name;":
+Der er yderligere en kort bemærkning. Hr. Jesper Petersen.";Helge Adam Møller
+139419;Time;;Kl. 12:25
+139440;name_party;":
+Den tilkendegivelse er jeg glad for. Der kan muligvis være grund til at stramme endnu mere op.
+Ud over at det selvfølgelig betyder noget, hvad
+straffen er, hvis man bliver taget i at smugle varer for at sælge dem videre uden den afgift, der
+skal være på dem, er der selvfølgelig også risikoen for at blive opdaget, som er meget vigtig
+for at forebygge, at nogle altså vælger at forsøge
+at snyde på den her måde.
+Der vil jeg gerne høre, om hr. Torsten Schack
+Pedersen og Venstre mener, at der er en tilstrækkelig toldkontrol i dag, om der er tilstrækkelige
+ressourcer, mandskab, til at foretage den fornødne toldkontrol og det opsøgende arbejde over
+for de virksomheder i andre dele af landet, end
+hvor varerne lige er kommet ind, som sælger
+dem videre uden moms eller de afgifter, der skal
+afregnes.";Jesper Petersen
+140251;Time;;Kl. 12:26
+140290;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+140323;Time;;Kl. 12:26
+140351;name_party;":,
+Først og fremmest vil jeg henlede hr. Jesper Petersens opmærksomhed på den finanslovaftale,
+som regeringen har indgået med Dansk Folkeparti og Liberal Alliance, som netop tilfører
+SKAT, jeg tror, det er omkring 400 mio. kr., ekstra næste år for at sikre, at der er midler til de
+opgaver, der skal løses.
+Jeg må jo sige, at vi altså løbende ser nogle
+rigtig gode eksempler på, at SKAT får fanget
+nogle syndere. Vi har lige haft en sag om nogle
+sommerhusudlejere, der har haft lidt svært ved
+at få føjet deres indtægter på deres selvangivelse. Det er jo et resultat af et målrettet tiltag, og
+dermed får vi sikret, at de indtægter, der skal beskattes, også bliver det.
+
+Det er klart, at det er en kombination, for vi
+kan ikke lave en fysisk kontrol af alt, hvad der
+kommer ind i landet. Det ville være helt håbløst,
+og det ville sådan set være hæmmende for så
+mange ting. Derfor er det jo selvfølgelig med
+stikprøver og en målrettet indsats, og så skal det
+selvfølgelig være sådan, at den straf, der er, er så
+hård, at det har en præventiv effekt, så der ikke
+er nogen, der lader sig lokke.";Torsten Schack Pedersen
+141452;Time;;Kl. 12:27
+141491;title_name;":
+Så er det hr. Jesper Petersen for yderligere en
+kort bemærkning.";Helge Adam Møller
+141567;Time;;Kl. 12:27
+141588;name_party;":
+Jeg synes, at risikoen for at blive taget godt må
+være større, og jeg synes, at når hr. Torsten
+Schack Pedersen nævner, ikke de 400 mio. kr.,
+men de 359,8 mio. kr., som jeg husker det, der er
+afsat på finansloven, er oplysningen om dem jo,
+at det først og fremmest handler om at dække de
+penge ind, som mangler til at give de eksisterende medarbejdere den løn, de skal have, altså at
+der simpelt hen ikke har været budgetteret med
+nok i løn til de medarbejdere, der allerede er der.
+Der er sådan set ikke nogen ændring i, hvor
+mange medarbejdere SKAT skal skære. Der er
+fortsat meget ambitiøse mål for, hvor meget vi
+skal barbere ned på vores skatteadministration.
+Jeg spørger til det her med ressourcerne, fordi
+jeg både ved diskussioner med folk på skattecentre, men også ved ophold i valgkredsen i
+Sønderjylland meget ofte ser historier om narkotika, ulovligt indsmuglet sodavand, øl osv., som
+altså, når der kontrolleres, tages i meget store
+mængder. Man tør næsten ikke tænke på, hvor
+meget der kommer igennem, når kontrollerne
+ikke er der, og derfor kunne der være behov for
+en øget indsats bl.a. ved grænsen. Det er bare
+den tilkendegivelse, jeg beder om fra Venstre, at
+hvis de problemer fortsætter, kan vi se på det og .
+tilføre flere ressourcer for at stoppe den nedskæringsplan ...";Jesper Petersen
+142892;Time;;Kl. 12:28
+142931;title_name;":
+Så er det ordføreren, værsgo.";Helge Adam Møller
+142972;Time;;Kl. 12:28
+143000;name_party;":
+Det helt afgørende er jo selvfølgelig, at når der
+konstateres særlige udfordringer på kontrolsteder, hvor der sker en opblusning af aktiviteter af
+en karakter, man ikke bryder sig om, er det selvfølgelig der, der skal sættes ind, og det er nu
+også mit indtryk, at det er det, der foregår.
+
+Fredag den 28: november 2008 (L 72)
+Jeg kan ikke lade være med at tænke lidt på,
+når hr. Jesper Petersen taler indgående om
+grænsehandel, at hr. Jesper Petersen jo har foreslået, at vi skal hæve sodavandsafgiften. Det vil
+jo være noget af det: der vil fremme grænsehanL
+delen. Det er jo noget af det, der vil få endnu flere til at tage - og særligt når hr. Jesper Petersen
+nævner sin valgkreds - sydpå over grænsen og
+købe store mængder sodavand, og det vil være
+noget af det, der vil gøre det endnu mere fordelagtigt og attraktivt for nogle at handle i de kiosker, hvor vi jo ved at problemet er, og at få en
+mulighed for at sige: O.k. lad os da købe det i
+udlandet, for nu er afgiften steget herhjemme,
+og så bliver det dyrere at være lovlydig. Til det
+kunne man så sige, at det kunne være, at hr. Jesper Petersens forslag skulle hænge lidt bedre
+sammen. Målet må jo være, at vi får slået ned på
+dem, der ikke overholder reglerne, så de erhvervsdrivende, der driver en sund og reel forretning, ikke skal opleve en ublu konkurrence,
+fordi der er nogén, der snyder med skat.";Torsten Schack Pedersen
+144377;Time;"Fj erde næstformand (Helge Adam Møller):
+Det er rigtigt. Der skal slås néd på dem, der ikke
+overholder reglerne. Det er også derfor, formanden rejser sig op, når man ikke kan overholde taletiden.
+Tak til ordføreren. Vi går videre i ordførerrækken. Så er det den socialdemokratiske ordfører, og det er hr. René Skau Björnsson.'
+XL12:30
+(Ordfører)";Kl. 12:29
+144747;name_party;":
+Vi Socialdemokrater støtter alle forslag, som
+fremmer en fri, lige og fair konkurrence og som
+lukker skattehuller. Sort arbejde og skattesnyd
+er ikke acceptabelt. Derfor har vi også støttet de
+tidligere regeringsforslag på fairplayområdet,
+og jeg tror også, at det her lovforslag, Fairplay
+III, er et skridt i den rigtige retning.
+I forslaget er der jo en række yderligere skærpelser. Vi tror på, at det vil have en god effekt, at
+SKAT fremover vil kunne konfiskere ikkeafgiftsberigtigede varer i tilfælde, hvor der er tale om
+virksomheder eller personer, der har overtrådt
+reglerne før, og som ingen respekt har for bøder,
+der er tilkendt.
+Om vi så skal stramme op på det, der står i
+lovforslaget - det kan jeg jo ligesom fornemme
+at der kunne være et flertal for, altså at hammeren skal falde hurtigere - er vi meget åbne over
+for, og vi vil meget gerne i Skatteudvalget diskutere, om vi kan finde en løsning.
+
+1613
+
+Ligesådan er det med forslaget om, at der kan
+pålægges daglige bøder, hvis der er en virksomhed, som ikke efterlever påbud om at overholde
+de gældende regnskabsregler, der gælder for afgiftspligtige varer. Det ser også meget fornuftigt
+ud efter min mening. Herudover ér der en række andre fornuftige skærpelser. 홢:홢
+:
+Forslaget om en indsats for élt nedbringe antallet af sorte taxier ved at supplere kravet om
+antal kørte kilometer med et krav om, at en del
+skal være besatte kilometer, altså hvor der er
+kunder i bilen, er også et skridt i den rigtige retning.
+Så er der forslaget om fradrag for børnebidragsrestancer i kontanthjælp, starthjælp og introduktionsydelse. Målgruppen for forslaget er
+de personer, der modtager de her ydelser og
+samtidig modtager forsørgertillæg fra kommunen, men undlader at betale forsørgertillægget
+videre til den forælder, barnet bor hos. Fradragsadgangen gælder alene det senest forfaldne bidrag. Der vil således ikke kunne ske fradrag for
+allerede oparbejdet gæld. Efter det her forslag
+kan kommunen ikke foretage fradrag i hjælpen,
+hvis der er en risiko for, at den bidragspligtige
+person bliver udsat af sit lejemål på grund af, at
+vedkommende har en huslejerestance. Formålet
+er, sådan som jeg læser det, at begrænse den
+fremtidige opbygning af bidragsgæld for de personer. I dag sker der indeholdelse af løn ved forskellige former for gæld til det offentlige, og ifølge lovforslaget vil oparbejdet gæld mindske incitamentet til at indtræde på arbejdsmarkedet,
+da man derved fra lønnen skal fratrække gammel gæld.
+Vi er enige i det hensigtsmæssige i at begrænse opbygningen af gæld og kan derfor også støtte den del af lovforslaget.
+Vi Socialdemokrater vil også gerne i det hele .
+taget afskaffe starthjælpen og introduktionsydelsen, fordi de er urimelige, og det er umenneskeligt lave beløb, der gives via de to ydelser.
+Men den diskussion tager vi en anden gang.
+Der er, så vidt jeg kan se, nogle problemer
+med, hvordan det her hænger sammen økonomisk. Jeg så, at Kommunernes Landsforening i'
+sit høringssvar pegede på, at der jo er store økonomiske og administrative byrder for kommunerne i forbindelse med det her. Det mener jeg vi
+skal have drøftet nærmere under udvalgsbehandlingen.
+Men alt det forventer jeg vi får belyst i det arbejde, der nu går i gang, og vi går positivt ind i
+arbejdet.
+
+1614
+
+Fredag den 28. november 2008 (L 72)";René Skau Björnsson
+148060;Time;;Kl. 12:33
+148099;title_name;":
+Der er en enkelt kort bemærkning. Hr. Martin
+Henriksen.";Helge Adam Møller
+148166;Time;;Kl. 12:33
+148188;name_party;":
+Det var, fordi jeg bemærkede, at hr. René Skau
+Björnsson startede sin ordførertale med at sige,
+at Socialdemokraterne støtter alle forslag, der
+fremmer en fri og lige konkurrence. Vil Socialdemokraterne så være med til, at vi strammer det
+her lovforslag op, sådan at det står klart, at første gang beslaglægger man, og anden gang konfiskerer man så de varer, der er ulovlige?";Martin Henriksen
+148575;Time;;Kl. 12:33
+148614;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+148647;Time;;Kl. 12:33
+148671;name_party;":
+Jeg vil i hvert fald gå så langt som til at sige, at
+jeg synes, at vi skal tage en snak om det i Skatteudvalget. Vi har jo før haft nogle forslag oppe
+om, at der skulle være tre forsøg, og hvis man
+ikke kunne opføre sig ordentligt, efter at man
+var blevet snuppet tre gange, havde begået tre
+lovovertrædelser, skulle hammeren falde. Og
+her kunne man jo sagtens forestille sig, at der
+blev strammet op. Den diskussion indgår vi meget gerne i.";René Skau Björnsson
+149124;Time;;Kl. 12:34
+149163;title_name;":
+Tak til ordføreren. Vi går så videre i ordførerrækken. Den næste på vej er ordføreren for
+Dansk Folkeparti, og det er hr. Mikkel Dencker.";Helge Adam Møller
+149312;Time;(Ordfører);Kl. 12:34
+149343;name_party;":
+Tak. Lovforslaget her hedder jo Fairplay III, og .
+det er en opfølgning på de foregående lovforslag, vi behandlede for 2-3 år siden - Fairplay I
+og Fairplay 11.
+Formålet med fairplayinitiativerne er jo - som
+regeringen selv fremfører - at komme afgifts- og
+skattesnyd, sort arbejde og andre ting, som foregår inden for primært detailhandelen, til livs.
+Det er i flere brancher i detailhandelen meget
+udbredt at sælge ulovligt importerede varer,
+dvs. indsmuglede varer, samt at bruge sort arbejdskraft og i øvrigt svindle med moms, skat
+og afgifter.
+Det er jo et initiativ, som Dansk Folkeparti
+kun kan bakke varmt op om. Vi synes også, der
+skal være fair vilkår, og det er ikke rimeligt, at
+der i den ene kiosk bliver solgt ulovlige varer,
+
+mens man ligger og konkurrerer med en kiosk
+ved siden af, der bliver drevet på lovlige vilkår
+og dermed er udsat for en helt unfair konkurrence. Det kan der kun på allerhårdeste vis skrides ind over for, og det er i hvert fald noget, vi
+bakker op om at regeringen kommer med yderligere initiativer til for at få gjort.
+Regeringen foreslår bl.a., at der skal være mulighed for at konfiskere ulovlige varer, hvorimod det tidligere kun har været muligt at beslaglægge ulovlige varer. I sig selv er det jo et
+udmærket initiativ, og jeg tror, at det alt andet
+lige vil virke hårdere for den forretning, der får
+konfiskeret et vareparti og altså ikke har mulighed for at få det tilbage igen, frem for at man
+som hidtil har kunnet afgiftsberigtige de beslaglagte varer og derefter kunnet få varerne tilbage.
+Jeg er dog skeptisk over for formuleringen i
+forslaget om, at muligheden for at konfiskere
+kun skal bruges i meget grove tilfælde, som der
+står. Sådan som jeg efterhånden kender praksis
+her i landet for, hvordan man forvalter lovene,
+så betyder »meget grove tilfælde« også sjældent,
+så jeg tror, det bliver sjældent, at man vil bruge
+konfiskationsmuligheden. Derfor vil jeg da gøre
+mig til talsmand for, at man strammer op over
+for de her formuleringer og simpelt hen mere
+håndfast formulerer, at konfiskation er noget,
+man bruger i alle gentagelsestilfælde.
+Man kan sige, at første gang, en forretningsdrivende bliver taget i at have ulovlige varer,
+kan han påberåbe sig at have været uvidende,
+og derfor kan beslaglæggelse siges at være rimelig. Selv om man må formode, at der også i de
+fleste førstegangstilfælde er tale om en person,
+der har været i ond tro, da han har indkøbt ulovlige varer, kan det være svært at bevise, og derfor må det i førstegangstilfælde være rimeligt
+med en beslaglæggelse. I gentagelsestilfælde har
+vedkommende jo allerede i første forsøg lært, at
+det her altså er ulovligt, og i og med at han gentager forseelsen, har han altså været i ond tro.
+Derfor finder jeg, at konfiskation er en yderst rimelig måde at straffe den slags overtrædelser
+på.
+Skatteministeren foreslår også, at der skal
+være såkaldte dagbøder, som skal træde i kraft i
+det tilfælde, at folk ikke overholder et påbud om
+at få bragt nogle ting i orden i deres virksomhed.
+Der står ikke direkte i lovteksten, hvor høj en
+bøde skal være, der står kun, at den bør være på
+mindst 1.000 kr. Det synes jeg også er en lidt slap
+formulering, og derfor kunne jeg også godt tæn-
+
+Fredag den 28. november 2008 (L 72)
+ke mig, at det blev skrevet ind i loven, at de her
+dagbøder minimum skal være på 1.000 kr.
+I øvrigt kan jeg sige, at lovforslaget indeholder en lang række andre opstramninger, bl.a.
+muligheden for at sammenkøre forskellige registre med det formål at få bekæmpet svindel og
+snyd. Det er såmænd også et formål, som Dansk
+Folkeparti kan bakke op om.
+Alt i alt vil jeg sige, at lovforslaget her i hvert
+fald ikke er noget, vi kan have noget imod, vi
+kunne måske bare tænke os, at det blev strammet yderligere op. Så jeg skal sige, at vi selvfølgelig støtter lovforslaget, men vil i løbet af udvalgsbehandlingen søge at få skabt et flertal for
+at få nogle strammere formuleringer i forslaget.
+Så vil jeg i øvrigt også til sidst tilføje, at initiativerne med Fairplay I- og Fairplay II-forslagene
+tror jeg også man kunne få til at virke bedre med
+en mere konsekvent indsats, f.eks. ved at man
+prioriterede at lave flete razziaer højere, end tilfældet er i dag, og jeg vil da også gerne i løbet af
+udvalgsbehandlingen spørge ind til, i hvor høj
+grad man indberetter forseelser, som man opdager ved razziaer, til Næringsbasen, så vi også i
+praksis kan bruge den mulighed, der er i lovgivningen allerede nu, for via næringsbrevordningen at fratage folk retten til at drive virksomhed,
+hvis de gentagne gange overtræder lovgivningen. Hidtil har det kun ført til, at der er en enkelt
+person, der er blevet frataget muligheden for at
+drive virksomhed, og det synes jeg er alt for lidt,
+når man tænker på, ved hvor mange razziaer
+der konstateres ulovligheder.";Mikkel Dencker
+154149;Time;;Kl. 12:39
+154188;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken. Det er SF's ordfører, hr. Jesper Petersen.";Helge Adam Møller
+154294;Time;"(Ordfører)
+,
+,";Kl. 12:39
+154330;name_party;":
+Tak for det. SF arbejder for, at Danmark har så
+retfærdig en skatteopkrævning som muligt. Det
+store flertal af danskerne og danske virksomheder, der betaler deres skat og bidrager til fællesskabet, som de skal, og som det demokratisk er
+besluttet at de skal, skal kunne regne med, at
+alle andre også betaler deres del af festen. Der
+opkræves skat for at finansiere vores fælles velfærd i skoler, daginstitutioner, ældrepleje og sygehuse osv. for at kunne hjælpe de danskere, der
+kommer i knibe efter sygdom eller arbejdsløshed. Det ér demokratisk besluttet, hvordan og
+hvor meget der skal betales i skat, og hvordan
+ressourcerne i vores samfund skal fordeles. Det
+
+1615
+
+hele hænger kun sammen på en retfærdig måde,
+og der vil kun være opbakning til det system, ,
+hvis man som borger stoler på skatteadministrationen og på, at der bliver sørget for, at vi alle bidrager til fællesskabet, som det er besluttet.
+Det er simpelt hen at snyde sin nabo, når man
+snyder i skat. Så de borgere eller virksomheder, .
+der bevidst forsøger at snyde med skat eller afgifter, skal kunne regne med, at skattevæsenet
+kontrollerer skattebetalingen i Danmark, og at
+man under alle omstændigheder kommer til at
+betale. Det kræver, at der bliver sikret ordentlig
+lovhjemmel til skatteadministrationen, og det
+kræver, at der er ressourcer og systemer til at
+foretage den fornødne kontrol og opfølgning på
+sagerne.
+Selv om der fortsat vil være for få ressourcer
+og skatteadministrationen efter SF's mening
+ikke fungerer godt nok, bliver der med lovforslaget her styrket lovgivning bag det at sikre
+fairplay på skatteområdet. Lovforslaget indeholder en lang række lovændringer, der skal styrke
+indsatsen mod snyd med skatter og afgifter og
+modarbejde oparbejdelse af gæld til det offentlige. Forslagene er rettet mod konkrete problemstillinger, der i dag findes for SKAT vedrørende
+snyd eller skattetænkning. Det er godt, vi får set
+på dem.
+Samkøring af registre og oplysninger i SKAT
+og Erhvervs- og Selskabsstyrelsen vil lette opgaven med at kontrollere målrettet og effektivt.
+Hvis der ellers er tilstrækkelig toldkontrol og
+opsøgende arbejde hos kiosker og købmænd, 홢
+kan forslagene om konfiskation og om pålæggelse af dagbøder føre til mindre salg af varer,
+der ikke betales moms og afgifter af. Det betyder, at der kommer de penge i statskassen, som
+vi har vedtaget skal gå deri i form af afgifter for
+forskellige varer, og det vil betyde, at de virksomheder, der spiller rent spil, får mindre uretfærdig konkurrence.
+For at undgå, at der oparbejdes større skattegæld for borgere, der hæver ekstra kontanthjælp, fordi de er forældre og skal betale børnebidrag, men ikke gør det og dermed oparbejder
+gæld til det offentlige, kan SKAT betale bidraget
+direkte til den forælder, der skal have pengene.
+Det gælder dog ikke kontanthjælpsmodtagere
+med hjemmeboende børn. Det er en hjemmel,
+som jeg har fået opfordringer fra medarbejdere i
+SKAT til at sørge for at vi gennemfører, og jeg
+mener, at det er godt, at vi nu får det på plads.
+I forhold til kontrol med forskellige bilafgifter
+bliver det lettere for skat at kontrollere biler på 홢:
+
+1616
+
+Fredag den 28: november 2008 (L 72)
+
+arbejdspladser, hvor der kun betales halv privat
+benyttelseafgift af forskellige biler. Angående
+taxaer, så bliver det mindre tillokkende at frikøre en taxa til videresalg uden afgift, når der rent
+faktisk skal have været et vist antal kilometer
+med kundekørsel i taxaen. Jeg synes, at det er
+rigtig godt, at der i den forbindelse er taget hensyn til, at vognmænd på landet og i mindre byer
+helt naturligt har flere fremkørselskilométer at
+køre, før de er fremme kunderne, så de ikke bliver urimeligt ramt.
+Endelig er det meget rimeligt, at de virksomheder, der har indkøbt varer til delvis privat benyttelse, som derfor kun er delvis fradragsberettigede, men hvor virksomhederne alligevel ender med at udnytte varerne alene til momspligtig virksomhed, skal have mulighed for at fradrage det korrekte, højere beløb. Det er jo meget
+rimeligt. Vi skal ikke have for mange penge ind,
+kun det, der er vedtaget.
+Registrering af udenlandske lønmodtagere
+efter skattekontrolloven § 7 E ophører med lovforslaget, bl.a. som følge af ophævelsen af østaftalen og det faktum, at virksomheder og lønmodtagere i dag registreres i det såkaldte RUTregister for udenlandske tjenesteydelsesvirksomheder. Og det er nok fornuftigt nok at forenkle reglerne her, men som det påpeges af LO i
+høringssvarene, er der stadig er muligheder for
+forbedring af RUT-registeret, og f.eks. kunne
+fagbevægelsens mulighed for at sikre ordnede
+forhold på arbejdspladserne sagtens forbedres det bliver andetsteds end i det her lovforslag.
+Kravet om tilstedeværelse af en befuldmægtiget person på udenlandske virksomheder og i
+forbindelse med dødsboer og andre, der udbetaler A-indkomst i Danmark, bortfalder. Det sker
+bl.a. som følge af EU-krav og af, at Danmark nu
+kan få hjælp af andre landes skatteforvaltninger
+til at inddrage skat til Danmark. Spørgsmålet er
+dog, om den ordning er tilstrækkelig effektiv.
+Det er jo ikke sikkert, at de udenlandske skatteforvaltninger synes, at de danske sager er lige så
+hastende, som vi gør, og det er ikke afgjort, om
+praksis ville være EU-stridig, hvis den blev fortsat som i dag.
+Alt i alt er det rigtig godt at styrke indsatsen
+mod snyd og begrænse incitamenterne til det.
+Der er nogle små aber dabei, men generelt er det
+godt. De steder, hvor der er retssikkerhedsmæssige overvejelser, er der også blevet taget forskellige hensyn til f.eks. datasikkerheden, som
+Datatilsynet har påpeget. Jeg må dog igen efterlyse flere ressourcer til SKAT, for at de skal kun-
+
+ne klare arbejdet godt nok, og sikre den fælles
+kasse de vedtagne indtægter samt sørge for retssikkerheden i skatteopkrævningen både for
+dem, der betaler, som de skal, og dem, der er under anklage for ikke at gøre det. Det sidste har
+rigtignok nogle problemer, men f.eks. for udenlandske virksomheder kunne det have været interessant, at den moms, der betales til dem, afregnes direkte til staten i stedet for at skulle gennem en virksomhed, som det er svært for SKAT
+at sikre betaler sin moms. Momsen er ligesom
+ikke slået igennem overalt, og især udenlandske
+virksomheder kan have svært ved at forstå konceptet.
+Men alt i alt kan SF altså støtte lovforslaget og
+de forbedrede muligheder, det giver for indsatsen mod snyd og bedrag.";Jesper Petersen
+160708;Time;;Kl. 12:45
+160747;title_name;":
+(Jesper Petersen (SF) begynder at forlade talerstolen).
+Nej, så let går det ikke for ordføreren. Der er en
+kort bemærkning. (Jesper, Petersen (SF): Jamen
+formanden ville så gerne have mig ned lige før).
+Det er klart, at når man bruger så lang tid, giver det selvfølgelig også anledning til, at der er
+nogle, der vil spørge om noget. Det vil hr. Mikkel Dencker.";Helge Adam Møller
+161119;Time;;Kl. 12:45
+161139;name_party;":
+Ja, hr. Jesper Petersen må lige vente 5 minutter
+endnu med at holde weekend.
+Jeg kan høre, at -SF også er enig med Dansk
+Folkeparti i, at det er vigtigt at få bekæmpet
+svindel og snyd. Så langt så godt. Men jeg vil
+egentlig høre mere konkret, om ikke hr. Jesper
+Petersen er enig med mig i, at der er tale om ond
+tro, når det er gentagelsestilfælde, altså f.eks. anden gang en forretningsdrivende bliver taget i
+eksempelvis at have slovakiske colaer, som ikke
+er afgiftsberigtigede, stående i sin forretning til
+salg, og om det så ikke må føre til konfiskation,
+når der er tale om ond tro. Er SF enig med mig i
+det, og vil SF støtte et forslag fra Dansk Folkeparti om, at det i alle gentagelsestilfælde skal
+føre til konfiskation af ulovlige varer?";Mikkel Dencker
+161898;Time;;Kl. 12:46
+161937;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+161970;Time;;Kl. 12:46
+161991;name_party;":
+Vi har jo tidligere fundet ud af under behandlingen her, at det, det handler om, er fortolkningen
+af ordet grov, om der skal foretages konfiskationer i grove tilfælde. Men jeg er enig med Dansk
+
+(203)
+Fredag den 28. november 2008 (L 72)
+Folkeparti i, at der bør være en meget stram
+praksis på det her område. Har man fået en advarsel og er blevet taget en gang i at snyde, så
+ved man godt, hvad man har med at gøre.
+Generelt er sådan three strikes and you are
+out-tiltag måske ikke de mest fleksible og fornuftige. Om det er to eller tre, må vi se på, men
+at finde en ordentlig ordning, der gør, at der altså slås hårdt ned, er jeg enig med Dansk Folkeparti i at vi skal. Jeg vil gerne gentage, at det ud
+over straffen og risikoen for konfiskation så også
+handler om risikoen for, at man rent faktisk bliver opdaget, altså at der er toldere nok til at foretage den kontrol, der skal foretages, og der er
+folk nok til at foretage kontroller i f.eks. kiosker
+og sikre, at de altså ikke sælger varer, der ikke er
+betalt moms af.
+Så jeg tror godt, at vi kan arbejde sammen om
+det her punkt. Det er jeg overbevist om.
+홢
+홢";Jesper Petersen
+163120;Time;;Kl. 12:47
+163159;title_name;":
+Der er ydérligere en kort bemærkning fra hr.
+Mikkel Dencker.
+!";Helge Adam Møller
+163233;Time;;Kl. 12:47
+163253;name_party;":
+Jeg må sige, at jeg er tigtig glad for at høre, at SF
+ligger på linje med Dansk Folkeparti, i hvert fald
+i det her spørgsmål. Jeg ville egentlig også høre,
+om SF er enig med Dansk Folkeparti i, at den
+formulering, der er i lovforslaget om de her daglige bøder, godt kunne strammes op. Det står
+meget løst formuleret i bemærkningerne til lovforslaget, at bøderne bør være på mindst 1.000
+kr., men skulle vi ikke prøve at få en strammere
+formulering i selve lovteksten af, hvor store bøderne skal være? Jeg er helt enig med hr. Jesper
+Petersen i, at det er den risiko, som man tager
+ved at begå noget ulovligt, som bliver vejet op
+imod, hvad straffen egentlig i givet fald vil være,
+når man bliver snuppet. Derfor skal der selvfølgelig også være en sammenhæng mellem, hvad
+man kan tjene på at gøre noget ulovligt, og hvad
+man skal betale, når man bliver taget og får en
+. bøde. 홢
+Kan vi også være enige 01Ì1, at formuleringen:
+om bøderne og bødernes størrelse skal strammes op i lovforslaget om nødvendigt?";Mikkel Dencker
+164269;Time;;Kl. 12:48
+164308;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+164341;Time;;Kl. 12:48
+164362;name_party;":
+Ja, det vil vi godt være med til at se på under udvalgsbehandlingen. Hvad den præcise formule-
+
+1617
+
+ring skal være, vil jeg ikke lægge hovedet på
+blokken for her fra talerstolen: men også på det
+punkt tror jeg vi kan finde hinanden. Der har
+også været overvejelser inde omkring muligheden for at tage næringsbrevet fra de virksomheder, som gentagne gange snyder. Det er udeladt
+af forslaget her, og det er også et kraftigt tiltag
+fra samfundets side at foretage sådan et indgreb,
+men skulle det blive skønnet nødvendigt senere
+for at komme fortsat snyderi til livs, så er vi villige til at overveje det også.
+Så jeg ser frem til udvalgsbehandlingen og til,
+at vi får et endnu bedre lovforslag, som vi altså
+vil støtte.
+-Kl. 12:49";Jesper Petersen
+165134;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste ordfører er den konservative
+ordfører, hr. Mike L e g a r t h .";Helge Adam Møller
+165274;Time;(Ordfører);Kl. 12:49
+165303;name_party;":
+Tak hr. formand. De Konservative støtter forslaget - det kommer sikkert ikke bag på mange og det gør vi, fordi det er et glimrende tiltag.
+Godt nok er vi Konservative generelt Folketingets skattelettelsesparti, og vi arbejder i enhver
+sammenhæng for, at skatter og afgifter bliver så
+lave som muligt, men netop med den forudsætning, at det jo er vigtigt, at det snit, vi så har lagt
+på skatter og afgifter, også punktligt bliver overholdt, sådan at vi får den sum ind, så vi kan levere det sociale sikkerhedsnet og den service og
+velfærd, vi havde tænkt at levere. Derfor er vi
+selvfølgelig imod enhver form for snyd, bedtageri og skattesvindel, og det ér faktisk det, soin
+det her lovforslag handler om. De ordførere, der
+har været på talerstolen før mig, har indgående
+fortalt, hvad det handler om: det er et led i regeringens samlede indsats, som retter sig bredt :
+mod. sort og illegalt arbejde og andre former for
+skatte- og afgiftssnyd. ' 홢
+Så er der nogle elementer i det, som jeg vil
+hævne, bl.a. mulighed for konfiskation af ikkeafgiftsberettigede varer. Der er et forslag om påbud efterfulgt af daglige bøder, hvis man ikke
+lever op til det påbud, man har fået, strafansvar
+for juridiske personer, samkøring og sammenstilling af oplysninger fra Erhvervs- og Selskabsstyrelsens overtrædelsesregister, og samkøring
+af oplysninger fra SKAT's kontrolinformationsregister og SKAT's registreringssystem. Og så er
+der en række ændringsforslag, som tilpasser loven efter den hensigt, vi har haft med den. -
+
+1618
+
+Fredag den 28. november 2008 (L 72)
+
+Derfor synes vi, at det alt i alt er et rigtig positivt forslag, som vi støtter op om.";Mike Legarth
+166955;Time;;Kl. 12:50
+166994;title_name;":
+Det giver anledning til en enkelt kort bemærkning fra hr. Martin Henriksen.";Helge Adam Møller
+167081;Time;;Kl. 12:50
+167103;name_party;":
+Nu har behandlingen jo foreløbig taget en meget
+positiv udvikling, synes vi i Dansk Folkeparti og også i andre partier, forstår jeg. Og så er vi i
+den sådan lidt absurde situation, at regeringen
+nu står lidt på slapperfløjen. Jeg anerkender, at
+lovforslaget er en forbedring, i forhold til hvad
+der er i dag, det anerkender jeg fuldt ud, men
+der er jo nogle, forstår jeg - et flertal foreløbig
+uden om regeringen, tyder det på - der vil gå videre end det her lovforslag. Så jeg vil høre, om
+hr. Mike Legarth på vegne af Det Konservative
+Folkeparti nu vil melde sig ind i strammerklubben igen her fra Folketingets talerstol. Det var et
+kortvarigt farvel, så det ville jo være hyggeligt,
+hvis man kom ind igen.";Martin Henriksen
+167823;Time;;Kl. 12:51
+167862;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+167895;Time;;Kl. 12:51
+167913;name_party;":
+. Jeg tillader mig at forudsætte, at vi taler om konfiskation. Der nikkes - det er det, vi taler om. J amen jeg er fuldt tilfreds med det, der står i lovforslaget - indtil videre i hvert fald, og indtil jeg
+er belært om noget andet. Der står, at i gentagelsestilfælde kan der konfiskeres, og det indtryk,
+jeg har af SKAT, er, at det gør man så. SKAT's ansatte har kun ét sigte, og det er, at de love, der er
+udstedt, bliver efterfulgt. Så det har jeg fuld tillid til, og det forventer jeg faktisk vil være tilfældet, men det vil jeg bede ministeren om at bekræfte i sin tale, når han går på talerstolen. Men
+der er ingen uenighed mellem hr. Martin Henriksen fra Dansk Folkeparti og mig i forhold til
+det, jeg mener ud fra det, jeg har hørt i debatten.";Mike Legarth
+168676;Time;;Kl. 12:52
+168715;title_name;":
+Så er det hr. Martin Henriksen for yderligere en
+kort bemærkning.";Helge Adam Møller
+168792;Time;;Kl. 12:52
+168814;name_party;":
+Der er måske en lille uenighed alligevel, for hr.
+Mike Legarth sagde jo, at lovforslaget lægger op
+til, at der i gentagelsestilfælde kan konfiskeres,
+og vi ønsker, at der skal konfiskeres. Det var jo
+også det, jeg hørte sådan, at det var der andre
+
+partier som syntes var fornuftigt, altså at det
+ikke var en »kan«-bestemmelse, men at det var
+en »skal«-bestemmelse. Under alle omstændigheder mener vi, at vi skal finde en formulering,
+der gør, at man derude er klar over, at hvis man
+gentagne gange bryder reglerne og handler med
+ulovlige varer, bliver varerne også konfiskeret,
+og at det står fast. Er De Konservative enig i, at
+sådan skal det være?";Martin Henriksen
+169476;Time;;Kl. 12:52
+169515;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+169548;Time;;Kl. 12:52
+169566;name_party;":
+Ja, vi Konservative mener, at det allerede er sådan i loven, at der i gentagelsestilfælde skal konfiskeres, og det er den ideologi, vi vil forfølge i
+udvalgsarbejdet.";Mike Legarth
+169744;Time;;Kl. 12:53
+169783;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste ordfører er den radikale ordfører, hr. Niels Helveg Petersen.";Helge Adam Møller
+169921;Time;(Ordfører);Kl. 12:53
+169959;name_party;":
+L 72 er jo endnu et skud på stammen af tiltag til
+en systematisk bekæmpelse af skatteunddragelse, så vi skriver altså et nyt lille kapitel af historien om skattesnyderiets bekæmpelse her i Danmark.
+Jeg skal ikke gå dybt i enkeltheder i de mange
+forslag på mange forskellige områder. Enkelte
+ordførere har været inde på en række af enkelthederne, og jeg kan kun sige, at fra Det Radikale
+Venstres side ser vi med stor sympati på lovforslaget. Vi mener, det er et skridt i den rigtige retning, og jeg synes, ministeren fortjener ros for
+forslaget.
+Jeg er særlig opmærksom på konsekvenserne
+af ændringerne af fradrag for forskudsvis udbetaling af børnebidrag. På den måde modvirker
+man jo, at ikkebetalere sætter sig i gæld til staten. Man modvirker gældsstiftelse, og de, der får
+foretaget fradrag, bliver stillet, som om de havde betalt rettidigt. Det medfører også en likviditetsforbedring for det offentlige på godt 100 mio.
+kr., som modsvares af, at der ikke bliver oparbejdet gæld hos mennesker, der i forvejen faktisk
+har vanskeligt ved at betale.
+Man kan sige, at med forslaget om fradrag for
+børnebidragsrestancer sættes der yderligere fokus på de lave ydelsesniveauer for starthjælp og
+introduktionsydelse. Men selv om det er tilfæl-
+
+Fredag den 28. november 2008 (L 72)
+det, rokker det altså ikke ved, at Det Radikale
+Venstre kan støtte også denne del af forslaget,
+fordi det modvirker gældsstiftelse, som under
+alle omstændigheder er helt uhensigtsmæssigt.
+Men det gør ikke vores modstand mod ydelsesniveauet for starthjælp og introduktionsydelse
+mindre af den grund.
+På Det Radikale Venstres vegne kan jeg anbefale forslaget.
+,";Niels Helveg Petersen
+171609;Time;;Kl. 12:55
+171648;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste ordfører er Liberal Alliances
+hr. Villum Christensen.";Helge Adam Møller
+171778;Time;(Ordfører);Kl. 12:55
+171813;name_party;":
+Snyd og svindel får man jo aldrig hundrede procent bugt med, men her står vi med 100 siders
+anstrengelser for at komme snyd og svindel til
+livs.
+Det er jo ubærligt, når sunde og veldrevne
+lovly dige virksomheder bliver udkonkurreret af
+virksomheder, som føler trang til at følge deres
+egne regler. Det kan vi ikke have, og vi synes, at
+forslaget her er et rigtig godt signal. Jeg er ikke i
+tvivl om, at der er gjort et kæmpe stykke arbejde, og vi kan se, hvordan moderne it-teknologi
+benyttes til at samkøre forskellige informationer.
+Jeg sagde, at forslaget er på 100 sider, og det
+får mig til at sige: Tænk engang, hvis vi indrettede vores skattesystem sådan, at Fairplay IV, som
+man har filosoferet over indholdet af, kom til at
+handle om flad skat, så vi netop fik et ringere
+grundlag for spekulation. Meget handler jo om,
+at vi har indrettet vores skattesystem sådan, at
+det kan betale sig at spekulere i forskellige former for adfærd, men en flad skat og et lavere afgiftsniveau ville selvfølgelig alt andet lige betyde, at det blev mindre interessant, og så kunne
+det jo være, vi kunne komme ned på det halve
+antal sider, når vi nu bestræber os så voldsomt
+på at.undgå svindel og humbug. Det skal vi
+selvfølgelig, og vi vil gerne støtte forslaget, men
+jeg synes bare, det vækker til eftertanke, at vi
+har indrettet vores system sådan, at vi er nødt til
+at bruge så meget krudt på området.";Villum Christensen
+173220;Time;;Kl. 12:57
+173251;title_name;":
+Tak til ordføreren. Så er det skatteministeren.";Bent Bøgsted
+173310;Time;;Kl. 12:57
+173345;title_name;":
+Jeg tror, jeg må starte med at rive hr. Villum
+Christensen ud af nogle af sine forhåbninger. Jeg
+
+1619
+
+er helt enig med hr. Villum Christensen i, at lavere skat er med til at fjerne motivationen til at
+begå skattesnyderi, og dermed i, at jo lavere
+skat, man har, og jo lavere gevinst, der er, jo færre vil snyde, men jeg vil sige, at det dog er sådan, at selv i lande med et skattetryk, der er
+markant lavere end det danske, og med et meget
+mildere skattesystem end det, vi har for danske
+lønmodtagere, forefindes der stadig væk skattesnyderi. Så vi skal ikke gå og bilde hinanden
+ind, at en skattereform, ud over de mange andre
+positive konsekvenser, den vil medføre, helt vil
+kunne afskaffe begrebet skattesnyd.
+Når det er sagt, vil jeg sige, at der generelt set
+er stor enighed om at gennemføre lovforslaget.
+Jeg har med stor interesse og glæde noteret mig,
+at hr. Martin Henriksen har vist en kraftig interesse for skattepolitikkens finurligheder. Det er
+altid glædeligt. En gang imellem kan man frygte, om der virkelig er nogle, der lytter efter de
+meget tekniske lovforslag, vi har, og derfor glæder det mig altid, når der kommer nye røster også hr. Martin Henriksens - her i debatten.
+Hvis vi skulle hjælpe hinanden, kunne vi måske
+i fællesskab slå op og læse på lovforslagets side
+22, første spalte, cirka midt på siden, der taler
+om konfiskation, at Skatteministeriet forudsætter, »at der som udgangspunkt sker konfiskation
+ved gentagne overtrædelser« - altså er gentagelse lig med konfiskation - og der skrives videre:
+»medmindre der foreligger sådanne særlige omstændigheder, at retten efter en konkret vurdering finder, at der ikke bør ske konfiskation,
+f.eks. fordi afgiftsunddragelsen angår et bagatelagtigt beløb.«.
+Er man altså en gang blevet taget for at have
+slæbt en mængde afgiftsbelagte varer ind i landet, og man næste gang, man har været i udlandet, har glemt at afgiftsberigtige en Toms guldbarre, man har liggende i lommen, så er det måske ikke der, vi skal skride ind med den store
+konfiskation. Der kan faktisk selv i en skatteministers optik være så bagatelagtige grænser, at
+man ikke bør gå efter dem. Jeg ved godt, at det
+ikke er alle mine forgængere, der har haft en tilsvarende indgangsvinkel på skattespørgsmålet,
+men det er i hvert fald min indgangsvinkel.
+Jeg tror faktisk, at hvis hr. Martin Henriksen
+genlæser side 22, første spalte, vil han se, at vi
+faktisk er meget tæt på hinanden i vore holdninger, nemlig at det er sådan, at hvis der sker overtrædelser gentagne gange, ja, så skal der ske
+konfiskation, medmindre der er noget bagatelagtigt, der gør, at der ikke er behov for det.
+
+1620
+
+Fredag den 28. november 2008 (L 72)
+
+Så er spørgsmålet: Hvorfor skriver vi så også
+»grove tilfælde«? Jo, det gør vi, fordi der faktisk
+kan være tilfælde, der er så grove første gang, vi
+stopper vedkommende, at vi ikke skal sidde og
+vente på, at de gør det igen, men at vi allerede
+første gang skal skride ind med en konfiskation
+af de ikkeafgiftsberigtigede varer. Derfor er det
+ikke nok bare at sige »gentagne gange«. Det er
+»grove«, så vi kan skride ind første gang, eller
+»gentagne«, så vi kan tage dem, hvis de. ikke har
+lært det første gang, dog med den forudsætning,
+at der kan være sager, som er så minimale, at vi
+ikke skal bruge vores tid på det.
+Med hensyn til et andet spørgsmål, der blev
+rejst, skal vi måske prøve at kigge på side 25 i
+bemærkningerne, første spalte, tredjesidste afsnit, for her omtales de daglige bøder, altså dagbøderne, der pålægges efter et påbud, der ikke
+efterkommes, og hr. Mikkel Dencker gav udtryk
+for, at vi burde skrive »mindst 1.000 kr.« Der står
+her, at »på denne baggrund bør de daglige bøder ikke fastsættes til under 1.000 kr.«. Vi kan
+fortolke udtrykkene forskelligt, men i min begrebsverden er »ikke under 1.000 kr.« og
+»mindst 1.000 kr.« nogenlunde modsvarende.
+Derfor tror jeg, at den uenighed, der er mellem Dansk Folkeparti og regeringen, og som i
+debatten sådan kunne virke meget voldsom,
+egentlig ikke er særlig stor. Det ville da også undre mig, for vi har i fællesskab båret dé foregående lovforslag om fairplay på området igennem, og jeg er sikker på, at vi også vil bære det
+her lovforslag igennem til gavn for de lovlydige
+virksomhedsejere og til skade for dem, der måtte ønske at snyde.
+Endelig er det sådan, at nogle stykker har stillet spørgsmål om ressourceforbruget på området. Det er sådan, at vi for nogle år siden gik
+væk fra, at det var Folketinget, skatteministeren
+og finansministeren, der detailstyrede, hvad
+SKAT's medarbejdere skulle tage sig af, og at vi i
+høj grad overlod til de konkrete medarbejdere i
+det enkelte skattecenter at vurdere, hvordan de
+skulle prioritere kræfterne. Det har givet SKAT
+en større fleksibilitet til hurtigere at kunne reagere, til at kunne tage lokale forhold op, til at
+kunne agere, når der sker ændringer i samfundet og andet, der kan motivere til, at ressourcerne nu skal bruges anderledes. Og med al respekt
+for hr. Mikkel Denckers og hr. Jesper Petersens
+indsigt i skattesnyderiets historie tror jeg nu alligevel, at de konkrete medarbejdere i skattecentrene kender den lidt bedre.
+
+Derfor er jeg modstander af, at vi skal detailstyre, men tilhænger af, at SKAT får lov til at prioritere indsatsressourcerne sådan, at der sættes
+ind der, hvor der fås størst effekt for pengene.
+Endelig skal jeg bare sige til hr. Niels Helveg
+Petersen, at det er helt korrekt, at vi har indsat
+en regel om fradrag for børnefamilieydelsen, sådan at vi kan sikre, at man ikke oparbejder en
+meget stor gæld. Det synes jeg faktisk er et
+skridt, som, selv om det måske ikke virker særlig hjælpsomt i øjeblikket, faktisk på sigt er en
+hjælp til dem, der ikke har orden i deres økonomi, for vi sikrer, at de ikke kommer ud i en stor
+gæld til staten.";Kristian Jensen
+179123;Time;;Kl. 13:04
+179154;title_name;":
+Tak for det. Det har affødt et enkelt spørgsmål
+fra hr. Mikkel Dencker.";Bent Bøgsted
+179237;Time;;Kl. 13:04
+179257;name_party;":
+Jeg vil bare kommentere de konkrete steder i
+lovforslaget, skatteministeren refererede til.
+Skatteministeren kan selvfølgelig ikke se det
+på den lange afstand, men på s. 25 er der en sætning, som skatteministeren refererede til - den
+har jeg faktisk selv markeret med en rød overstregningstusch, da jeg læste lovforslaget første
+gang. Der står:
+»På denne baggrund bør de daglige bøder
+ikke fastsættes til under 1.000 kr.«
+Det er rigtigt, det har jeg godt læst. Men min
+bekymring går på, at det kun står i lovforslagets
+bemærkninger og ikke i selve paragrafferne, kan
+man sige. Og det var bare det, altså kravet om, at
+bøderne som minimum skal være på 1.000 kr.,
+som jeg godt kunne tænke mig blev rykket ind i
+selve paragrafferne. Så har det altså efter min
+mening en noget kraftigere vægt end noget, der
+bare har stået på s. 25 i bemærkningerne.
+Jeg har så også en kommentar til § 21 a, på s. 8
+her i lovforslaget. Der står:
+»Ved grove eller gentagne overtrædelser omfattet af § 21, stk. 3, kan der ske konfiskation af
+de varer, som overtrædelsen vedrører.«
+Det kunne Dansk Folkeparti godt tænke sig
+blev rettet til et »skal«. Så kan vi måske godt se
+på, om vi kunne lave en bagatelgrænse for et
+stykke chokolade eller en enkelt sodavand: det
+er måske lidt meget at køre ud og konfiskere det.
+Men når det drejer sig om hele partier, kan vi
+godt, synes jeg, sige, at man »skal« konfiskere i
+gentagelsestilfældene.
+
+Fredag den 28. november 2008 (L 72)
+.
+.";Mikkel Dencker
+180744;title_name;":.
+Så er det ministeren.
+
+Kl. 13:Q5
+
+1621
+
+skal frakendes sit næringsbrev på grund-, af for
+mange overtrædelser af forskellig lovgivning?
+Det er i hvert fald min og Dansk Folkepartis";Bent Bøgsted
+180936;Time;"opfattelse, at der sker for få frakendelser af næSkatteministeren (Kristian Jensen):
+ringsbreve, i forhold til hvor mange razziaer der
+Jeg kan ikke smykke mig med titlen jurist og er
+er, og hvor mange der bliver afsløret i svindel.
+absolut ikke belastet af nogen stor faglig juridisk For til dato har lovgivningen om næringsbreve
+viden. Men jeg har ladet mig belære om, at et
+kun været brugt en gang til at frakende én forlovforslags fulde tekst er retskilde, inklusive pa- retningsdrivende dennes ret til at drive, forretragraffer, bemærkninger, forarbejder ög de ting, . ning, og det synes vi er alt for lidt.
+som Folketinget måtte lægge vægt på i den be, Kl. 13:08
+tænkning, der skrives, forud for at et lovforslag";Kl. 13:05
+181685;title_name;":
+vedtages.
+Skatteministeren.
+Det betyder, at hvis ting ikke står præcist nok
+' Kl. 13:08
+i selve paragrafferneì slår man op i bemærkninSkatteministeren (Kristian Jensen):
+gerne for at finde ud af, hvad lovgivers hensigt
+Jeg kan ikke det præcise tal for, hvor mange indhar været på det tidspunkt, hvor loven blev ved- beretninger der har været. Det kan vi naturligvis
+, taget. Derfor er der efter min mening ingen tvivl
+oplyse under udvalgsarbejdet.
+om, at lovgivers hensigt - det er også så nemt,
+Men hvad angår spørgsmålet om frakendelse
+fordi det er mig selv - har været, at der skal ske
+af retten, er det sådan, at vi-er i gang med at føre
+konfiskation. Der er heller ingen tvivl om, at det en række retssager for at få fastslået, netop hvor
+er min hensigt, at bøden ikke skal være på under meget der så at sige skal være af samlet overtræ1.000 kr. - den daglige bøde, der skal komme til. delse, inden domstolene siger: Nu er det groft
+Derfor er det for mig at se mere et spørgsmål
+nok til, at vi kan frakende et næringsbrev.
+om, at vi finder ud af, hvordan vi juridisk får
+Det er jo sådan, at det er en ny lovgivning,
+indrettet lovgivningen, sådan at den .er tilfredshvor vi netop har sat domstolene til at vurdere,
+- stillende, end at der er en egentlig substantiel ' - hvorvidt den s'amlede mængde overtrædelser er
+uenighed mellem Dansk Folkeparti og regeringrov nok til, at man kan frakende retten til at
+gen.
+홢홢
+drive virksomhed i Danmark.
+홢Klo 13:07
+Vi har normalt en grundlovssikret ret til fri";Bent Bøgsted
+183221;title_name;":,
+næring, og derfor er det et alvorligt indgreb. Når
+Hr. Mikkel Dencker.
+det er en ny praksis på området, er det helt na'.";Bent Bøgsted
+183354;Time;turligt og i tråd med praksis, at der kommer en ..;Kl. 13:07
+183425;name_party;":
+række prøvesager for at få fastslået, hvad domTak for svaret. Jeg har også godt før hørt det,
+stolenes niveau for overtrædelser er. Og når
+som skatteministeren fremførte, med, at beførst der er blevet fastsat en praksis, et niveau,
+mærkningerne også hører med. Men nu er det jo vil det være langt hurtigere at få sager kørt igensådan, at vi, når vi har udvalgsbehandling her i
+nem..
+Folketinget, ikke stillér ændringsforslag til be홢Der er vi altså ikke kommet til endnu. Vi er
+mærkningerne, men udelukkende til selve para- stadig væk ved en række prøvesager, som jeg
+grafferne: og så bliver der hæftet nogle bemærk- forventer giver en præcedens, vi så kan bruge i
+ninger på siden hen. Det er derfor, jeg godt kun- det videre arbejde.
+ne tænke mig, at det her en gang for alle blev";Mikkel Dencker
+184217;Time;slået fast i selve paragrafferne: at en bøde er på;Kl. 13:09
+184299;title_name;":
+minimum 1.000 kr. pr. dag.
+Så er det hr. Martin Henriksen for en kort beJeg vil så også hellere videre til noget helt an- mærkning.
+,
+.'";Bent Bøgsted
+184447;Time;"det. Det kan godt være, at skatteministeren ikke
+har svar på det på stående fod, men så kan han";Kl. 13:09
+184565;name_party;":
+jo svare skriftligt i løbet af udvalgsbehandlinJeg vil fortsætte min interesse for skatteministegen. Jeg vil godt høre: Hvor ofte, når SKAT gen- réns ressort. Jeg sad selvfølgelig og bladrede om
+nemfører de her razziaèr ude hos de forretnings- på de forskellige sider, som skatteministeren
+drivende, sker der så indberetninger til Næhenviste til, men med hensyn til side 8, som hr.
+ringsbasen, altså til den base, kan man sige, der
+Mikkel Dencker var inde på, synes jeg jo også - i
+administrerer, hvornår en forretningsdrivende
+forbindelse med det her med, at der ved grove
+
+1622
+
+Fredag den 28. november 2008 (L 72)
+
+eller gentagne overtrædelser kan ske konfiskation af de varer, som overtrædelsen vedrører - at
+hvis ministeren ér enig med Dansk Folkeparti i
+at sige, at der ikke er nogen forskel på, hvad regeringen mener og ministeren mener og Dansk
+Folkeparti mener, så skulle der vel heller ikke
+være noget til hinder for, at man ændrer et kan
+til et skal - og det er jo sådan set det, som vi under debatten har argumenteret for, at vi ønskede
+fra Dansk Folkepartis side.
+Så kan ministeren ikke støtte, at man laver et
+kan om til et skal? Selv om de kloge folk ovre i
+ministeriet og forskellige steder siger, at man
+slår op i paragraffen først, og så læser man bemærkningerne - ja, det siger de - så ved vi jo
+også godt, at hvis der står i paragraffen, at man
+skal, så har vi garanti for, at det jo også kommer
+til at ske.";Martin Henriksen
+186005;Time;;Kl. 13:10
+186036;title_name;":
+Skatteministeren.";Bent Bøgsted
+186065;Time;;Kl. 13:10
+186100;title_name;":
+Sådan som jeg forstod hr. Mikkel Dencker lidt
+tidligere, så kunne man også hos Dansk Folkeparti finde en vis sympati for, at der kunne være
+ting af en sådan art, at man ikke skulle rulle det
+helt store apparat ud for at kunne gennemføre
+en konfiskation. Hvis der derfor i paragraffen
+står skal, skal der også være en underparagraf
+med, at der så skal være en bagatelgrænse af en
+art.
+Jeg synes egentlig - og det er så min personlige holdning - at vi har fundet en meget elegant
+løsning, hvor der i paragraffen står kan og
+omme i bemærkningerne er en stram formulering om, at det i udgangspunktet skal ske, men
+at der så kan være tale om en sådan bagatel, at vi
+ikke gennemfører det. Vi kredser lidt frem og tilbage med hensyn til, hvorvidt den skrappeste
+måde også ville være den bedste. Jeg kan i hvert
+fald forsikre om en ting, og det er, at jeg har en
+klar fornemmelse af, at SKAT's medarbejdere
+har efterspurgt en sådan paragraf, efterspurgt
+en sådan mulighed til for alvor at kunne tage fat,
+hvor det gør ondt på dem, der snyder, nemlig på
+deres pengepung, og derfor er jeg som minister
+på området helt tryg ved, at medarbejderne i
+SKAT nøje er klar over, hvor langt de kan gå og
+også er klar til at gå så langt, som både paragraffen og så sandelig også bemærkningerne giver
+mulighed for.";Kristian Jensen
+187406;Time;;Kl. 13:12
+187437;title_name;":
+Hr. Martin Henriksen.";Bent Bøgsted
+187471;Time;;Kl. 13:12
+187494;name_party;":
+Men når der står, at man i grove tilfælde eller
+gentagne tilfælde kan konfiskere, så er det jo
+ikke nødvendigvis sikkert, at det sker. Og hvis
+vi så slår op i bemærkningerne på den side, som
+også ministeren refererede fra, er det jo rigtigt
+nok, at der i bemærkningerne står: Det forudsættes, at der som udgangspunkt sker konfiskation ved gentagne overtrædelser, medmindre
+det angår et bagatelagtigt beløb.
+Så er det jo også et spørgsmål om, hvad et bagatelagtigt beløb er. Der ville det jo være fint,
+hvis man fra Folketingets side, fra ministeriets
+side, sendte et klart signal om, hvad det er, vi
+ønsker der skal ske, og at vi også direkte i lovteksten, i paragraffen, sagde, at når der er grove
+tilfælde, eller når der er gentagne overtrædelser,
+så kan man ikke kun, men så skal man altså.";Martin Henriksen
+188299;Time;;Kl. 13:13
+188330;title_name;":
+Ministeren.";Bent Bøgsted
+188353;Time;;Kl. 13:13
+188388;title_name;":
+I hele hr. Martin Henriksens argumentation er
+der simpelt hen en brik, jeg mangler. Det er den
+brik, der går ud på, hvad der i alverden skulle
+gøre, at SKAT's medarbejdere, som har bedt om
+at få en sådan bemyndigelse, skulle fravælge at
+bruge den. Når man har ønsket at få lov til at slå
+hårdt ned på dem, der snyder, gennem muligheden for konfiskation, og man så får muligheden,
+hvad skulle det så være, der gjorde, at man så
+ikke benyttede sig af den?
+Hvis hr. Martin Henriksen vil - og det håber
+jeg hr. Martin Henriksen vil - bibeholde sin nyfundne interesse for skattelovgivningen og
+SKAT's arbejde, så tror jeg, at hr. Martin Henriksen vil kunne blive forvisset om, at der vil blive
+fulgt aktivt op på at udnytte de muligheder, der
+ligger i lovgivningen her. Og så lad os under udvalgsarbejdet diskutere de nuancer, der kan
+være i forhold til, hvordan vi når den fælles målsætning, som der ikke er nogen i Folketingssalen
+i dag, der har været uenig i, nemlig at vi slår
+hårdt ned på dem, der snyder, for dermed at
+skabe bedre konkurrenceevne for dem, der er
+ærlige. Det glæder jeg mig over.
+
+Fredag den 28. november 2008 (L 72)";Kristian Jensen
+189534;Time;;Kl. 13:14
+189565;title_name;":
+Tak til ministeren. Da der ikke er flere, der har
+bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+1623";Bent Bøgsted
+189808;Time;Meddelelser fra formanden;Kl. 13:14
+189866;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag den 2.
+december 2008, kl. 13.00.
+Der henvises til den dagsorden, der er opslået
+i salen. Jeg skal i øvrigt henvise til den omdelte
+ugeplan.
+Mødet er hævet. (Kl. 13:14).";Bent Bøgsted

@@ -1,0 +1,78 @@
+split;reason;text;value
+0;;".'' Torsdag den 18. juni 2009 (D)
+
+8555
+
+Det er givet.
+104. m ø d e";
+103;Time;"Dagsorden
+1) Eventuelt: 2. behandling af lovforslag nr.
+L 216:
+Forslag til lov om ændring af forskellige love på
+Undervisningsministeriets område. (Fritagelse
+for betalingskravet på videregående uddannelser for børn af visse udenlandske arbejdstagere i
+Danmark).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 18.06.2009).
+2) Eventuelt: 2. behandling af lovforslag nr.
+L 217:
+Forslag til lov om ændring af lov om friskoler og
+private grundskoler m.v. (Tilsynet med undervisningen m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 18.06.2009).
+3) Eventuelt: 2. behandling af lovforslag nr.
+L 218:
+Forslag til lov om ændring af lov om friskoler og
+private grundskoler m.v. (Optagelse i dagtilbud
+af børn på mindst 2 år og 6 måneder m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 18.06.2009).";kl. 13.35
+951;Time;;Kl. 13:35
+990;title_name;":
+Mødet er åbnet.";Helge Adam Møller
+1017;Time;Samtykke til behandling;Kl. 13:35
+1080;title_name;":
+Jeg skal gøre opmærksom på, at de sager, der er
+opført under pkt. 1-3 på dagsordenen, kun med
+Tingets samtykke kan behandles på dette møde,
+men hvis ingen gør indsigelse, betragter jeg Tingets samtykke som givet.
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 216:
+Forslag til lov om ændring af forskellige love
+på Undervisningsministeriets område. (Fritagelse for betalingskravet på videregående uddannelser for børn af visse udenlandske arbejdstagere i Danmark).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 18.06.2009).
+Sammen med dette punkt foretages:
+2) 2. behandling af lovforslag nr. L 217:
+Forslag til lov om ændring af lov om friskoler
+og private grundskoler m.v. (Tilsynet med undervisningen m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 18.06.2009).
+3) 2. behandling af lovforslag nr. L 218:
+Forslag til lov om ændring af lov om friskoler
+og private grundskoler m.v. (Optagelse i dagtilbud af børn på mindst 2 år og 6 måneder
+m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 18.06.2009).";Helge Adam Møller
+2169;Time;Forhandling;Kl. 13:35
+2220;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingerne
+sluttet.
+Jeg foreslår, at lovforslagene går direkte til tredje
+behandling uden udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det ér vedtaget.
+
+8556
+
+Torsdag den 18. juni 2009 (L 216 m.fl.)";Helge Adam Møller
+2565;Time;Meddelelser fra formanden;Kl. 13:36
+2631;title_name;":
+Der er ikke mere at foretage i dette møde.
+Næste møde afholdes i dag kl. 13.45 med følgende dagsordenen:
+
+3. behandling af lovforslag nr. L 216, 3. behandling af lovforslag nr. L 217 og 3. behandling af
+lovforslag nr. L 218.
+Mødet er hævet. (Kl. 13:36).";Helge Adam Møller

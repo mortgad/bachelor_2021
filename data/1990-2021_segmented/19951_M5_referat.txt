@@ -1,0 +1,1875 @@
+split;reason;text;value
+0;;"Onsdag den 11. oktober 1995 (D)
+
+179
+
+Boligministeren (Ole Løvig Simonsen) har meddelt mig, at han ønsker skriftligt at fremsætte:
+5. m ø d e";
+179;Time;"Dagsorden
+1) Spørgsmål til ministrene.
+2) Første behandling af lovforslag nr. L 3:
+Forslag til lov om ændring af retsplejeloven.
+(Retternes stedlige kompetence ved sagsanlæg
+mod staten m.v.).
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+3) Første behandling af lovforslag nr. L 4:
+Forslag til lov om ændring af retsafgiftsloven.
+(Forhøjelse af tinglysningsafgiften).
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+4) Første behandling af lovforslag nr. L 5:
+Forslag til lov om meddelelse af dansk indfødsret til Alexandra Christina Manley.
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95)
+5) Første behandling af lovforslag nr. L 6:
+Forslag til lov om indfødsrets meddelelse.
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+
+Meddelelser fra formanden";kl. 13.00
+972;title_name;"Fra medlem af Folketinget Ole Stayad, der har
+orlov, har jeg modtaget meddelelse om, at han
+fra og med den 14. oktober 1995 atter kan give
+møde i Tinget.
+Kim Nøhr Skibsteds hverv som midlertidigt
+medlem af Folketinget ophører herefter fra
+nævnte dato at regne.
+
+Forslag til lov om ændring af lov om byfornyelse og boligforbedring og lov om midlertidig
+regulering af boligforholdene m.v. (Forbedring
+af finansieringsgrundlaget i Byggeskadefonden
+vedrørende Byfornyelsesforanstaltninger m.v.).
+(Lovforslag nr. L 31).
+Forslag til lov om ændring af lov om boliger for
+ældre og personer med handicap, lov om individuel boligstøtte, lov om leje og lov om boligbyggeri. (Plejeboliger m.v.).
+(Lovforslag hr. L 32).
+Undervisningsministeren (Ole Vig Jensen) har
+meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om støtte til
+folkeoplysning. (Bestemmelser om deltagerbetaling m.v.).
+(Lovforslag nr. L 33).
+Skatteministeren (Carsten Koch) har meddelt
+mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af ligningsloven.
+(Begrænsning af fradragsretten for løbende
+ydelser).
+(Lovforslag nr. L 34).
+Forslag til lov om ændring af kildeskatteloven.
+(Grænsegængere).
+(Lovforslag nr. L 35).
+Sundhedsministeren (Yvonne Herløv Andersen)
+har meddelt mig, at hun ønsker skriftligt at
+fremsætte:
+Forslag til lov om erstatning for lægemiddelskader.
+(Lovforslag nr. L 36).
+Socialministeren (Karen Jespersen) har meddelt
+mig, at hun ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand og lov om social pension. (Indførelse af
+ældreråd og af klageråd på hjemmehjælpsområdet m.v.).
+(Lovforslag nr. L 37).
+
+180
+
+Onsdag den 11. oktober 1995
+
+Erhvervsministeren (Mimi Jakobsen) har meddelt mig, at hun ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af patentloven.
+(Implementering af TRIPS-aftalen m.v.).
+(Lovforslag nr. L 38).
+Forslag til lov om ændring af lov om skoleskibsafgift, lov om skibsregistrering, lov om danske
+skibes forsikring mod krigsfare og lov om
+Statens Istjeneste.
+(Lovforslag nr. L 39).
+Forslag til lov om ændring af lov om skibes sikkerhed m.v. og lov om beskyttelse af havmiljøet.
+(Lovforslag nr. L 40).
+Indenrigsministeren (Birte Weiss) har meddelt
+mig, at hun ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af udlændingeloven,
+lov om midlertidig opholdstilladelse til visse
+personer fra det tidligere Jugoslavien m.v. og
+lov om social bistand. (Midlertidig opholdstilladelse til personer fra Serbien-Montenegro m.v.).
+(Lovforslag nr. L 41).
+Medlemmer af Folketinget Aage Frandsen (SF),
+Anne Baastrup (SF) og Steen Gade (SF) har
+meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om fordeling af
+arbejde og fri tid. (Skraldemandsmodellen).
+(Beslutningsforslag nr. B 10).
+Forslag til folketingsbeslutning om indførelse af
+en ret for langtidsledige til at få et ordinært
+arbejde.
+(Beslutningsforslag nr. B 11).
+Medlemmer af Folketinget Aage Frandsen (SF),
+Anne Baastrup (SF), Steen Gade (SF) og Kjeld
+Rahbæk Møller (SF) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om indførelse af
+en uddannelsesorienteret ungdomsgaranti.
+(Beslutningsforslag nr. B 12).
+
+Medlemmer af Folketinget Kirsten Jacobsen
+(FP), Kim Behnke (FP) og Annette Just (FP) har
+meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om harmonisering af reglerne for bestyrelsesmedlemmers og
+direktørers med fleres ansvar, pligter og rettigheder i finansielle virksomheder.
+(Beslutningsforslag nr. B 13).
+Medlemmer af Folketinget Pernille Sams (KF),
+Kai Dige Bach (KF), Pia Larsen (V) og Svend
+Erik Hovmand (V) har meddelt mig, at de
+ønsker at stille følgende forespørgsler til";Formanden
+4744;title_name;"»Hvilke initiativer vil regeringen tage for at
+motivere flere til at starte egen virksomhed, og
+hvad vil regeringen gøre, for at flere af de etablerede virksomheder overlever på længere
+sigt?«
+(Forespørgsel nr. F 4).
+»Hvad kan regeringen oplyse omkring opfølgningen på finanslovsaftalen for 1995 med Det
+Konservative Folkeparti og Venstre om lettelse
+af de administrative byrder for de mindre og
+mellemstore virksomheder?«
+(Forespørgsel nr. F 5).
+Skriftlig fremsættelse af forslag
+Boligministeren (Ole Løvig Simonsen):
+Jeg tillader mig herved for Folketinget at fremsætte:
+Forslag til lov om ændring af lov om byfornyelse og boligforbedring og lov om midlertidig
+regulering af boligforholdene m.v. (Forbedring
+af finansieringsgrundlaget i Byggeskadefonden
+vedrørende Byfornyelsesforanstaltninger m.v.).
+(Lovforslag nr. L 31).
+Lovforslaget vedrører først og fremmest økonomiske forhold i Byggeskadefonden vedrørende
+Byfornyelsesforanstaltninger (BvB), der blev
+etableret i 1990 til dækning af byggeskader på
+byfornyelseslovens område.
+Efter de nugældende regler tilvejebringes
+fondens midler ved indbetaling af et bidrag på 1
+pet. af de godkendte ombygningsudgifter, som
+kommunen indbetaler til Byggeskadefonden
+
+Onsdag den 11. oktober 1995
+efter ombygningsregnskabets godkendelse.
+Halvdelen af bidraget refunderes efterfølgende
+kommunen af staten. Af bidraget forventes
+halvdelen anvendt til skadedækning, mens den
+anden halvdel forventes anvendt til 5-års-eftersyn og for en mindre dels vedkommende til
+administration.
+Byggeskadefonden står nu over for de første
+5-års-eftersyn. Forinden har fonden foretaget et
+antal prøveeftersyn, og bl.a. på baggrund af disse kan det konstateres, at byfornyelseslovens
+hidtidige bidragssats på 1 pct. - der i sin tid blev
+fastsat uden noget erfaringsgrundlag - er for lille til at klare de tre opgaver: Eftersyn, skadedækning og administration.
+Det foreslås på denne baggrund, at bidraget
+forhøjes til 1,5 pet. i sager, hvor der endnu ikke
+er indbetalt bidrag.
+For eksisterende sager, dvs. sager, hvor
+bidrag er indbetalt, vil der efter Byggeskadefondens beregninger være et behov for efterbetaling i størrelsesordenen 15 mio. kr.
+Grundejernes Investeringsfond, der er sekretariat for Byggeskadefonden, har i 1992 med
+hjemmel i § 69 f, stk. 1, nr. 2, i byfornyelsesloven
+stillet en garanti på 15 mio. kr. for Byggeskadefondens udgifter til skadedækning.
+Grundejernes Investeringsfond har udtrykt
+velvilje over for at tilføre Byggeskadefonden
+likviditet. Investeringsfonden er således under
+visse forudsætninger indstillet på at konvertere
+den eksisterende garanti til et lån med 5 års
+løbetid, således at renteindtægterne fra den tilførte kapital kan medvirke til en forbedring af
+Byggeskadefondens økonomi i den pågældende
+periode. Det foreslås på denne baggrund, at
+udlånsrenten fastsættes af bestyrelsen for Investeringsfonden.
+Da Grundejernes Investeringsfond tillige har
+ytret ønske om at få mulighed for at yde en
+mere aktiv indsats bl.a. inden for byøkologi og
+istandsættelse af den ældre boligmasse, foreslås
+det endvidere dels at udvide de muligheder,
+som Investeringsfonden har for (af sine renteindtægter) at yde tilskud til forskellige formål,
+dels at indføre mulighed for, at fonden selv kan
+bestemme lånevilkårene, for så vidt angår lån til
+bevaringsværdige ejendomme. Det foreslås, at
+både lånevilkårene og den årlige låneramme
+skal godkendes af boligministeren.
+Samtidig foreslås det at ændre den økonomiske ramme for Investeringsfondens tilskudsvirksomhed fra 2 pet. af de beløb, der er indbetalt til fonden, til 10 pet. af fondens renteindtægter for det pågældende år.
+
+181
+
+Herudover foreslås et par mindre ændringer,
+som også vedrører Investeringsfonden.
+Endelig foreslås en ændring af §§ 85 og 90 i
+byfornyelsesloven, hvorefter kompetence overføres til Hypotekbanken, således at Hypotekbanken ud over den kasse- og regnskabsmæssige forvaltning af statsudgifter til sanering og
+byfornyelse overdrages den fulde efterfølgende
+administrative kompetence vedrørende de ydede lån, tilskud og statslige garantier efter disse
+støttelove.
+For så vidt angår forslaget om forhøjelse af
+bidraget til Byggeskadefonden, skønnes dette at
+betyde moderate offentlige merudgifter i størrelsesordenen 31,8 mio. kr. i årene 1996-1999.
+Forslaget om overdragelse af kompetence til
+Hypotekbanken har ingen økonomiske konsekvenser.
+Idet jeg i øvrigt henviser til lovforslaget og de
+bemærkninger, der ledsager det, skal jeg anbefale forslaget til Tingets velvillige behandling.
+Bolgministeren (Ole Løvig Simonsen):
+Jeg tillader mig herved for Folketinget at freinsætte:
+Forslag til lov om ændring af lov om boliger for
+ældre og personer med handicap, lov om individuel boligstøtte, lov om leje og lov om boligbyggeri. (Plejeboliger m.v.).
+(Lovforslag nr. L 32).
+Lovforslaget er en genfremsættelse af lovforslag
+nr. L 265, der blev fremsat den 24. maj 1995.
+Forslaget tager først og fremmest sigte på at
+give kommunerne incitamenter til at opføre flere moderne plejeboliger, dvs. ældreboliger med
+tilhørende servicearealer, hvor der er tilknyttet
+personale.
+C
+Dette muliggøres dels ved modernisering af
+utidssvarende plejehjem og omdannelse af disse
+til ældreboliger, dels ved at øge antallet af
+ældreboliger med tilknyttede servicearealer.
+Lovforslaget indeholder følgende hovedelementer:
+1) Lånefinansiering af den kommunale grundkapital.
+Ved ombygning af plejehjem og beskyttede
+boliger vil der blive åbnet mulighed for, at
+kommunerne får adgang til fuld lånefinansiering af den kommunale grundkapitaL Dette
+vil ske ved, at Indenrigsministeriet efter
+ansøgning i det konkrete tilfælde bevilger
+dispensation inden for en særlig lånepulje,
+der oprettes til formålet.
+
+182
+
+Onsdag den 11. oktober 1995
+
+2) Udvidelse af bygherrekreds. Bygherrekredsen
+for ældreboliger udvides, således at amtskommunerne kan tilvejebringe ældreboliger
+til brug for personer med vidtgående fysiske
+eller psykiske handicap.
+3) Støtte til etablering af servicearealer. Der åbnes
+mulighed for statslig støtte til etablering af
+servicearealer til nye ældreboliger samt inden for en årlig kvote på 500 boliger - til
+eksisterende ældreboliger i form af servicearealtilskud på maksimalt 4.000 kr. årligt pr.
+boligenhed i bebyggelsen.
+Herudover indføres en decentral klageadgang over anvisning til ældreboliger, en ret til
+refusion af individuel boligstøtte fra den tidligere opholdskommune ved flytning over kommunegrænser samt ændrede regler for bortfald af
+boligydelse ved flytning til plejehjem m.v.
+Endelig indeholder forslaget en række
+ændringer hovedsagelig af mere redaktionel og
+teknisk karakter.
+I forhold til lovforslag nr. L 265 er der på baggrund af en høring over forslaget foretaget nogle ændringer i lovforslaget. Blandt disse kan
+nævnes, at kredsen af ejere af servicearealer
+begrænses til kommuner og amtskommuner, og
+at det alene er disse, der kan modtage servicearealtilskud. Der gives en særlig tilskyndelse til,
+at en kommune kan ombygge plejehjem, som
+den ejer i en anden kommune. Videre foreslås,
+at opsigelsesvarslet for plejehjemsboliger skal
+være én måned, når lejeren er død uden at efterlade sig ægtefælle eller andre husstandsmedlemmer. Endelig udgår den tidligere foreslåede
+bestemmelse om, at en lejer vil kunne opsiges,
+når det er afgørende for opfyldelse af pågældendes særlige behov.
+Det skønnes med betydelig usikkerhed, at
+lovforslaget vil indebære en forøgelse af aktiviteten på ældreboligområdet fra 3.300 til 3.500
+boliger om året. De samlede offentlige nettomerudgifter herved er med betydelig usikkerhed beregnet til 0,0 mio. kr., 1,6 mio. kr., 4,6 mio.
+kr. og 7,5 mio. kr. i henholdsvis 1996, 1997, 1998
+og 1999.
+Herudover forudsættes det, at der ydes servicearealtilskud til etablering og forbedring af servicearealer i tilknytning til 3.500 ældreboliger
+om året. De statslige nettoudgifter i denne forbindelse udgør 0,0 mio. kr., 2,9 mio. kr., 8,4 mio.
+kr. og 13,5 mio. kr. i ovenfor nævnte år. Disse
+udgifter forudsættes finansieret som led i
+finanslovforhandlingerne på en sådan måde, at
+der ikke bliver tale om merudgifter som følge af
+denne del af forslaget.
+
+Forslaget om ændrede regler for bortfald af
+boligydelse skønnes at medføre offentlige mindreudgifter i størrelsesordenen 10 mio. kr. om
+året.
+Lovforslaget vurderes herefter med meget
+betydelig. usikkerhed at indebære samlede
+offentlige mindreudgifter på 9,5 mio. kr. i 1996,
+7,9 mio. kr. i 1997,4,9 mio. kr. i 1998 og 2,0 mio.
+kr. i 1999.
+Forslaget skønnes ikke at indebære væsentlige administrative, miljømæssige eller erhvervsøkonomiske konsekvenser. Endvidere ses forslaget ikke at have EU-retlige aspekter.
+Idet jeg i øvrigt henviser til lovforslaget og de
+bemærkninger, der ledsager det, skal jeg anbefale forslaget til Tingets velvillige behandling.";erhvervsministeren
+13556;title_name;":
+Jeg tillader mig herved for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om støtte til
+folkeoplysning. (Bestemmelser om deltagerbetaling m.v.).
+(Lovforslag nr. L 33).
+Ved lov nr. 445 af 14. juni 1995 om ændring af
+lov om støtte til folkeoplysning blev bl.a. reglerne om aflæggelse af regnskab og revision m.v.
+præciseret og samlet i ét kapitel.
+I den dagældende folkeoplysningslovs regnskabsbestemmelser indeholdtes en bindende
+forudsætning om deltagerbetaling, som imidlertid ikke blev gentaget i de nyformulerede
+bestemmelser om regnskabsaflæggelse. Derved
+ophævedes utilsigtet den eneste bestemmelse
+om deltagerbetaling som tilskudsbetingelse.
+Med lovforslaget søges kravet om deltagerbetaling genindsat i loven med en ny formulering.
+Det præciseres i kapitel 4 om tilskud til undervisning m.v. og i kapitel 5 om tilskud til aktivitet, at det er en betingelse for modtagelse af tilskud til virksomhed efter disse kapitler, at der
+er knyttet deltagerbetaling til virksomheden.
+Ligeledes præciseres i kapitel 6 a om regnskab
+og revision m.v., at kredsen skal dokumentere
+omfanget af den samlede deltagerbetaling.
+Forslaget indeholder tillige som følge af vedtagelsen af lov nr. 449 af 14. juni 1995 om daghøjskoler og produktionsskoler en teknisk præcisering.
+Forslaget har ikke økonomiske og administrative konsekvenser.
+
+Onsdag den 11. oktober 1995
+Idet jeg i øvrigt henviser til lovforslaget med
+bemærkninger, tillader jeg mig at anbefale lovforslaget til hurtig og velvillig behandling i det
+høje Ting.";Ole Vig Jensen
+15115;title_name;":
+Herved tillader jeg mig at fremsætte:
+Forslag til lov om ændring af ligningsloven.
+(Begrænsning af fradragsretten for løbende
+ydelser).
+(Lovforslag nr. L 34).
+Lovforslaget går ud på at ophæve adgangen til
+fradrag for ensidigt påtagne løbende ydelser til
+personer og dødsboer (såkaldte forsørgelseskontrakter) med virkning for ydelser, der erlægges efter udløbet af indkomståret 1995. Udgifter
+til sådanne ydelser er efter gældende regler fradragsberettigede ved indkomstopgørelsen med
+op til 10.000 kr. årligt.
+I praksis er der fastlagt nærmere regler for,
+hvilke indholdsmæssige og formelle krav der
+skal være opfyldt, for at ydelser kan anses for
+løbende og dermed fradragsberettigede. Såfremt aftalen går ud på at erlægge en bestemt
+sum hvert år, skal yderen f.eks. - for at opnå
+fradragsret - være forpligtet for en periode, der
+normalt ikke må være kortere end 10 år.
+Reglerne om fradrag for forsørgelseskontrakter har givet anledning til betydelige problemer
+gennem en lang årrække. I 1980'erne ændredes
+reglerne således fra et ubegrænset fradrag til
+den nuværende begrænsning på 10.000 kr. pr.
+år. Begrænsningerne var begrundet i, at de forsørgelsesforudsætninger, der oprindelig har ligget til grund for fradragsretten, ikke er til stede
+længere i et samfund med et udbygget socialt
+sikkerhedssystem. Begrænsningerne var endvidere begrundet i de betydelige administrative
+vanskeligheder, der er forbundet til fradraget,
+ikke mindst fordi der typisk er tale om betalinger til udlandet.
+Det er regeringens opfattelse, at de nævnte
+forudsætninger for fradraget i endnu mindre
+grad er til stede i dag med det veludbyggede
+sociale sikkerhedsnet. Private underholdsydelser af den omhandlede karakter bør være yderens indkomstopgørelse uvedkommende.
+Hertil kommer, at de administrative/kontrolmæssige problemer i relation til fradraget ikke
+er blevet mindre. Tværtimod. Told- og Skattestyrelsen har således i efteråret 1994/foråret
+1995 i samarbejde med en række kommuner
+
+183
+
+foretaget en undersøgelse af, om der sker misbrug af fradragsretten. Undersøgelsen er foretaget på baggrund af tidligere konstaterede misbrug af fradragsretten.
+Undersøgelserne i de omfattede kommuner
+har vist misbrug af fradraget i et omfang, som
+må anses for uholdbart. Fradraget er ofte formelt i orden, men en nøjere undersøgelse af
+dokumentationen og forholdene i øvrigt giver
+ofte et andet resultat. Det fremherskende misbrugseksempel er kendetegnet ved, at der er
+involveret betalinger til udlandet. Det er karakteriseret ved, at ydelserne faktisk betales, men
+ikke til den, der ifølge kontrakten er berettiget
+hertil. Betalingen går til den forpligtede selv på
+en konto i hjemlandet og hæves dér eller kommer retur til Danmark.
+I praksis må det anses for yderst vanskeligt
+for danske skattemyndigheder at foretage en
+blot rimelig kontrol af fradraget, idet en sådan i
+mange tilfælde bl.a. forudsætter oplysninger fra
+udlandet. En effektiv kontrol vil i sin yderste
+konsekvens kræve politiets bistand til tekniske
+undersøgelser af f.eks. dokumenters og underskrifters ægthed.
+Det kan således fastslås, at der her er tale om
+et område, hvor de kontrolmæssige muligheder
+er særdeles vanskelige, og hvor en effektiv kontrol derfor er urimeligt ressourcekrævende.
+Regeringen finder derfor, at tiden nu er inde
+til at foreslå fradraget for ensidigt påtagne
+løbende ydelser til personer og dødsboer ophævet.
+Lovforslaget ændrer ikke på fradragsretten
+for løbende ydelser til godkendte foreninger,
+stiftelser, institutioner m.v. eller religiøse samfund. Det samme gælder bestemmelserne om
+fradragsret for løbende ydelser, der udredes
+som led i en gensidigt bebyrdende aftale, f.eks. i
+form af en aftægtsforpligtelse indgået i forbindelse med generationsskifte i landbruget. Forslaget medfører heller ikke ændringer for fradrag for bidrag til ægtefælle og børn i tilfælde af
+separation og skilsmisse.
+Lovforslaget vil medføre en forenkling af ligningsmyndighedernes arbejde, fordi kontrol
+med fradraget for forsørgelseskontrakter som
+tidligere nævnt er meget vanskelig.
+Forslaget skønnes med en vis usikkerhed at
+medføre et årligt merprovenu i størrelsesordenen 75 mio. kr., heraf ca. 55 mio. kr. for kommunerne. Skønsmæssigt 15.000-20.000 personer
+benytter fradraget. Finansårsvirkningen for 1996
+skønnes til ca. 40 mio. kr.
+
+184
+
+Onsdag den 11. oktober 1995
+
+Idet jeg i øvrigt henviser til bemærkningerne i
+lovforslaget, skal jeg anbefale lovforslaget til
+Tingets velvillige behandling.";Carsten Koch
+19616;title_name;":
+Jeg skal hermed tillade mig at fremsætte:
+Forslag til lov om ændring af kildeskatteloven.
+(Grænsegængere).
+(Lovforslag nr. L 35).
+Formålet med lovforslaget er at give lønmodtagere og selvstændige bosat i udlandet, som
+oppebærer hovedparten af deres samlede indkomst i Danmark, samme adgang til fradrag for
+udgifter vedrørende personlige og familiemæssige forhold som fuldt skattepligtige personer
+med bopæl her i landet.
+Tilsvarende ligestilling tilvejebringes, for så
+vidt angår skatteberegningen.
+Anledningen til lovforslaget er en præjudiciel
+dom afsagt af EF-Domstolen vedrørende de
+tyske skatteregler for lønmodtagere bosat i
+udlandet. De tyske skatteregler for beskatning
+af udenlandske lønmodtagere svarer i princippet til de danske regler herom.
+I dommen fastslog EF-Domstolen, at Tyskland skal give udenlandske lønmodtagere
+adgang til samme personlige og familiemæssige
+lempelser, som bosatte skattepligtige har
+adgang til.
+Dette gælder dog kun, såfremt personen
+oppebærer hele eller næsten hele sin indkomst i
+Tyskland.
+Selv om sagen ikke direkte vedrørte danske
+skatteregler, skal Danmark alligevel efterleve de
+principper, som fastlægges i dommen.
+Efter de gældende regler beskattes udenlandske lønmodtagere og selvstændige kun af den
+del af indkomsten, der tjenes her i Danmark. De
+har endvidere ved indkomstopgørelsen samt
+ved skatteberegningen fordele, som ikke tilkommer fuldt skattepligtige.
+Til gengæld har udenlandske lønmodtagere
+og selvstændige kun adgang til fradrag for
+udgifter, der direkte vedrører den danske indkomsterhvervelse. Der gives ikke fradrag for
+underholdsbidrag, private renteudgifter, pensionsindbetalinger eller andre personlige fradrag.
+Ved selve skatteberegningen stilles en gift
+udenlandsk lønmodtager eller selvstændig altid
+som en enlig. Der er således ikke adgang til at
+overføre uudnyttet personfradrag m.m. fra en
+eventuel ægtefælle.
+
+Personer bosat i Danmark beskattes af hele
+deres indkomst, uanset hvorfra i verden den
+hidrører. Til gengæld får de adgang til samtlige
+fradrag og lempelser, som skattelovgivningen
+giver mulighed for.
+De 2 persongrupper beskattes så at sige efter
+hver sit beskatningssystem.
+Udenlandske lønmodtagere og selvstændige,
+der i et indkomstår oppebærer mindst 75 pet. af
+deres samlede indkomst i Danmark, vil efter
+forslaget frit kunne vælge at få samme personlige og familiemæssige lempelser, som tilkommer
+fuldt skattepligtige. Vælges herefter samme
+skattemæssige behandling som en fuldt skattepligtig, mistes så til gengæld de fordele, som
+kun en udenlandsk lønmodtager eller selvstændig har adgang til.
+Forslaget skønnes i et vist omfang at medføre
+forøgede administrative omkostninger for
+grænsekommunerne ved den dansk-tyske
+grænse.
+Det vurderes, at forslaget vil give et årligt
+provenutab på 10 mio. kr. I finansåret 1996
+skønnes forslaget dog at give et provenutab på
+40 mio. kr. Dette skyldes, at der vil være adgang
+til genoptagelse af skatteansættelser fra indkomståret 1992.
+Jeg skal herefter anbefale forslaget til Folketingets velvillige behandling.";Carsten Koch
+22702;title_name;":
+Hermed tillader jeg mig for Folketinget at fremsætte:
+Forslag til lov om erstatning for lægemiddelskader.
+(Lovforslag nr. L 36).
+Lovforslaget er en uændret genfremsættelse
+af det lovforslag, som jeg fremsatte den 17. maj
+1995 (lovforslag nr. L 261), og som ikke nåede at
+blive færdigbehandlet inden udgangen af folketingsåret 1994-95.
+Under 1. behandling af L 261 var der bred
+enighed om behovet for en lov, der gjorde det
+lettere for patienter at få erstatning for lægemiddelskader. Da der desuden var overvejende tilslutning til de grundlæggende principper i lovforslaget, har regeringen valgt at fremsætte lovforslaget i uændret form.
+Formålet med lovforslaget er at indføre en
+erstatningsordning for lægemiddelskader, der i
+vidt omfang er parallel med den eksisterende
+
+Onsdag den 11. oktober 1995
+patientforsikringslov, der dækker behandlingsskader i sygehusvæsenet.
+Da lovforslaget er bekendt for Tinget, skal jeg
+ikke gå nærmere ind på forslagets detaljer, men
+blot nævne, at erstatningsordningen foreslås
+finansieret gennem en yderst minimal nedsættelse af medicintilskudssatserne i sygesikringsloven. Herved opnås en årlig offentlig besparelse på ca. 14 mio. kr., som forventes at kunne
+dække udgifterne til erstatningsudbetalinger og
+administration m.v. af ordriingen.
+Idet jeg i øvrigt henviser til lovforslaget og
+bemærkningerne hertil, tillader jeg hermed at
+anbefale lovforslaget til Folketingets velvillige
+behandling.";Yvonne Herløv Andersen
+24173;title_name;":
+Jeg tillader mig herved at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand og lov om social pension. (Indførelse af
+ældreråd og af klageråd på hjemmehjælpsområdet m.v.).
+(Lovforslag nr. L 37).
+Lovforslaget er med mindre ændringer en genfremsættelse af lovforslag nr. L 264, der blev
+fremsat den 24. maj 1995.
+Som et led i regeringens ældrepolitiske målsætninger om, at tilrettelæggelsen af ældreomsorgen i videst muligt omfang skal tage
+udgangspunkt i de ældres behov, og at de ældre
+skal have størst mulig medindflydelse på egne
+forhold, foreslås det, at der etableres ældreråd i
+alle kommuner. Det sikres på denne måde, at de
+gode erfaringer, der allerede er indhøstet i mange kommuner, hvor ældreråd er etableret frivilligt, udbredes og udbygges.
+Ældrerådene, der skal høres om alle forslag af
+betydning for ældre, vil kunne medvirke til at
+udbygge kontakten mellem kommunens ældre
+borgere og kommunalbestyrelsen og rådgive
+kommunalbestyrelsen i ældrepolitiske spørgsmål.
+I forlængelse af forslaget om at oprette lokale
+ældreråd agter jeg at nedsætte et uafhængigt,
+centralt organ, der kan bidrage til at øge forståelsen for betydningen af at se ældrepolitikken i
+større sammenhæng og med brugernes øjne.
+Som en naturlig følge af, at de ældre får indflydelse på og deltager aktivt i tilrettelæggelsen
+af den lokale ældrepolitik, foreslås det desuden,
+at der i hver kommune etableres klageråd på
+hjemmehjælpsområdet. Disse vil kunne sikre de
+
+185
+
+ældre mulighed for at følge og medvirke til, at
+hjemmehjælpsopgaverne i praksis udføres i
+overensstemmelse med kommunalbestyrelsens
+målsætninger på dette område. Klagerådet foreslås ikke tillagt en egentlig kompetence til at
+behandle konkrete sager om hjemmehjælp med
+henblik på at omgøre disse, men derimod
+mulighed for at komme med forslag, udtale sin
+eventuelle kritik og komme med henstillinger
+på hjemmehjælpsområdet både generelt og i
+konkrete tilfælde.
+Klagerådet kan således - ud over at følge, om
+kommunen lever op til de kvalitetskrav, den
+selv har fastlagt - bidrage til udviklingen på
+hjemmehjælpsområdet ved den dialog, der forventes at opstå mellem kommunalbestyrelse og
+klageråd.
+Det er regeringens opfattelse, at en række klager på hjemmehjælpsområdet skyldes, at det
+ved tildeling af hjælpen ofte ikke tilstrækkelig
+tydeligt klargøres for modtageren, hvad formålet med hjælpen er, hvilke opgaver der vil blive
+ydet hjælp til, og hvornår hjælpen vil blive
+revurderet m.v. Disse forhold skal modtageren
+efter regeringens opfattelse oplyses om på en
+klar og tydelig måde.
+Det foreslås derfor, at kommunalbestyrelsen
+forpligtes til at meddele afgørelser om hjemmehjælp skriftligt. Herudover forpligtes kommunalbestyrelsen til i forbindelse med visitering til hjemmehjælp at anvende et skema, der
+som minimum indeholder de nævnte oplysninger. Ansøgeren/hjemmehjælpsmodtageren skal
+medinddrages i beslutningsprocessen, således
+at de oplysninger, der danner grundlag for
+afgørelsen, udarbejdes i samarbejde med den
+I pågældende.
+Anvendelse af sådanne skemaer vil ud over at
+synliggøre beslutningsgrundlaget for modtageren også medføre, at den enkelte kommunes
+afgørelser om hjemmehjælp i højere grad bliver
+sammenlignelige og dermed gøre det lettere for
+klagerådet at tage stilling til, om praksis er i
+overensstemmelse med kommunalbestyrelsens
+målsætninger.
+Det forudsættes, at den enkelte kommunalbestyrelse herudover nøje overvejer, hvilke yderligere oplysninger der bør gives skriftligt, når der
+træffes afgørelse om hjemmehjælp. Jeg henviser,
+til lovforslagets bemærkninger med hensyn til
+forslag og anbefalinger om det nærmere indhold af visitationsskemaet og initiativer i forbindelse med visitationen.
+
+186
+
+Onsdag den 11. oktober 1995
+
+Det forudsættes desuden, at den enkelte
+kommunalbestyrelse i sammenhæng hermed
+tager initiativer, der sikrer, at kommunens borgere oplyses om det nærmere indhold og
+afgrænsning m.v. af kommunens hjemmehjælpsordning.
+I sammenhæng med boligministerens samtidig fremsatte lovforslag om ændringer i ældreboligloven m.v. foreslås det endvidere tydeliggjort, at de enkelte kommuners forskellige tilbud til ældre bør udgøre en helhed, og at indsatsen bør tage udgangspunkt i forebyggelse og
+vedligeholdelse af færdigheder. Tilbudene skal
+desuden så vidt muligt sammen med kommunens andre tilbud skabe rammer, som sikrer
+trivsel, og tilbudene skal tilrettelægges i samarbejde med de ældre, således at disse opnår
+størst mulig indflydelse og medansvar.
+Idet jeg i øvrigt henviser til lovforslaget og
+bemærkningerne hertil, skal jeg på regeringens
+vegne anbefale lovforslaget til Tingets hurtige
+og velvillige behandling.";Karen Jespersen
+28842;title_name;":
+Hermed har jeg den ære for det høje Ting at
+fremsætte:
+Forslag til ændring af patentloven. (Implementering af TRIPS-aftalen m.v.).
+(Lovforslag nr. L 38).
+Formålet med lovforslaget er primært at gennemføre de dele af Aftalen om Handelsrelaterede Aspekter af Intellektuelle Ejendomsrettigheder (TRIPS-aftalen), som vedrører patenter. I
+Danmark skal aftalen være gennemført inden
+udgangen af dette år.
+Forslaget medfører på dette punkt kun få
+ændringer af teknisk-juridiske formuleringer i
+den nugældende patentlov. Forslaget omfatter
+således alene de bestemmelser, der enten
+udtrykkeligt angiver eller klart forudsætter en
+retstilstand, der afviger fra TRIPS-aftalen.
+Med henblik på at forenkle og smidiggøre
+patentloven foreslås det endvidere at ophæve
+lovens bestemmelser om løbedagsforskydning
+og at give erhvervsministeren en generel
+bemyndigelse til at fastsætte administrative regler om behandling af supplerende beskyttelsescertifikater.
+TRIPS-aftalen er en del af overenskomsten
+om oprettelse af Verdenshandelsorganisationen
+(WTO). WTO-overenskomsten blev ratificeret af
+Danmark ved folketingsbeslutning af 16.
+
+december 1994 og skal med tiden afløse GATTaftalen fra 1947.
+TRIPS-aftalen udgør et nyt emne for GATT/
+WTO-samarbejdet, og den omfatter stort set alle
+former for intellektuelle ejendomsrettigheder.
+I takt med udviklingen i den internationale
+konkurrence er det nødvendigt, at virksomhederne satser på udvikling og innovation for at
+fastholde og forbedre konkurrenceevnen. I denne forbindelse er TRIPS-aftalen et vigtigt skridt i
+den internationale harmonisering af området,
+og det er selvsagt vigtigt, at også Danmark lever
+op til aftalens forpligtelser.
+Aftalen er meget omfattende, og jeg vil derfor
+nøjes med at nævne de punkter, der har betydning for dette lovforslag.
+Aftalen indeholder nogle generelle principper
+for behandlingen af ansøgere og rettighedshavere fra andre medlemslande. Disse principper
+betyder, at det enkelte land som udgangspunkt
+skal behandle alle ansøgere og rettighedshavere
+ens, så længe de er hjemmehørende i et WTOland. Med forslaget til ændring af § 6 om prioritetsretten efterlever Danmark dette generelle
+ligebehandlingsprincip, idet prioritet fremover
+kan anerkendes fra alle WTO-lande.
+I aftalen findes der ligeledes et sæt detaljerede
+regler for de situationer, hvor et patent kan
+udnyttes uden tilladelse fra patenthaveren - de
+såkaldte tvangslicenser. Forslagets bestemmelser om tvangslicens bringer de danske regler på
+området i overensstemmelse med aftalens, idet
+der nu stilles krav om frivillige forhandlinger
+mellem parterne, før der kan udstedes tvangslicens. Endvidere foreslås betingelserne for at
+udstede visse typer tvangslicenser skærpet,
+ligesom forslaget indebærer, at mulighederne
+for overdragelse af visse typer tvangslicenser
+begrænses.
+I denne forbindelse er det vigtigt at bemærke,
+at tvangslicensreglerne stort set ikke anvendes i
+praksis. Deres betydning er først og fremmest af
+forebyggende karakter, idet truslen om udstedelse af tvangslicens i de fleste tilfælde er nok til
+at forhindre, at en patenthaver misbruger de
+rettigheder, som et patent giver.
+Med forslaget om ophævelse af reglen om
+løbedagsforskydning tilsigtes en harmonisering
+med lovgivningen i en række andre lande, og
+med reglerne i de internationale konventioner,
+som Danmark har ratificeret. Forslaget er et
+resultat af fællesnordiske drøftelser, og der forventes derfor lignende initiativer i de øvrige
+nordiske lande.
+
+Onsdag den 11. oktober 1995
+Forslaget om supplerende beskyttelsescertifikater tilsigter at lette implementeringen af EU's
+regler om supplerende beskyttelsescertifikater.
+Den nuværende regel i patentloven omfatter
+kun lægemidler, men allerede i 1996 forventes
+det at der udstedes en EU-forordning om supplerende beskyttelsescertifikater for plantebeskyttelsesmidler.
+Ved som foreslået at give erhvervsministeren
+bemyndigelse til at udstede de nødvendige
+administrative regler sikres det, at de forventede fremtidige EU-regler på området kan gennemføres her i landet på en smidig og effektiv
+måde.
+Lovforslaget forventes ikke at have erhvervsøkonomiske konsekvenser.
+Lovforslaget vil medføre, at der i Patentdirektoratet skal foretages mindre administrative
+omlægninger. Lovforslaget vil i øvrigt ikke have
+statsfinansielle eller administrative konsekvenser.
+Idet jeg i øvrigt henviser til lovforslagets
+bemærkningeri skal jeg anbefale forslaget til det
+høje Tings velvillige behandling.";Mimi Jakobsen
+33334;title_name;":
+Hermed tillader jeg mig for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om skoleskibsafgift, lov om skibsregistrering, lov oni. danske
+skibes forsikring med krigsfare og lov om Statens Istjeneste.
+(Lovforslag nr. L 39).
+Lovforslaget har til formål at tilpasse en række
+søfartslove til de i den internationale konvention
+om måling af skibe fra 1969 vedtagne måleenheder brutto- og nettotonnage (bt og nt) i stedet
+for brutto- og nettoregistertonnage, der i henhold til den tidligere 1947-konvention hidtil er
+blevet anvendt.
+Lovforslaget har endvidere til formål at foretage enkelte justeringer i lov om Statens Istjeneste, for så vidt angår isafgiften. Afgiften går til
+dækning af driftsudgifterne ved Statens Istjeneste, og betales af danske havne og danske og
+udenlandske skibe, som anløber danske havne.
+Afgiften fra skibene opkræves efter gældende
+ordning af Told- og Skattestyrelsen. Som følge
+af indførelse af det indre marked vil det ikke
+længere være muligt på denne måde at sikre
+opkrævning fra alle afgiftspligtige skibe. Man ,
+har derfor fundet det mest hensigtsmæssigt, at
+
+187 ,
+
+havnemyndighederne foruden den afgift, som
+havnene selv betaler, også overtager opkrævning af isafgiften fra skibene. Det foreslås samtidig, at havnene får dækning af staten for de
+administrative omkostninger ved opkrævningen.
+Med disse bemærkninger skal jeg anbefale
+forslaget til en hurtig og velvillig behandling i
+det høje Ting.";Mimi Jakobsen
+34814;title_name;":
+Hermed tillader jeg mig for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om skibes sikkerhed m.v. og lov om beskyttelse af havmiljøet.
+(Lovforslag nr. L 40).
+Lovforslaget indfører mulighed for, at der kan
+udstedes forbud mod, at et skib anløber dansk
+havn i de tilfælde, hvor skibet ikke respekterer
+en tilbageholdelse, der af sikkerheds- eller miljømæssige årsager er påbudt af en dansk myndighed eller et andet EU/EØS-lands myndigheder. Der skabes også hjemmel til at kræve
+betaling for alle syn, der udføres i forbindelse
+med havnestatskontrol, og som fører til en tilbageholdelse af skibet. Der er i begge tilfælde tale
+om gennemførelse af forpligtelser i direktivet
+om havnestatskontrol. Sigtet med forslaget er at
+forøge sikkerheden til søs og undgå forurening
+af havmiljøet.
+Endvidere indfører forslaget hjemmel til at
+fastsætte en ansvarsbegrænsning for klassifikationsselskaber, der optræder på Søfartsstyrelsens vegne, når der i overensstemmelse med
+EU-direktivet om klassifikationsselskaber skal
+indgås skriftlige aftaler.
+FN's internationale søfartsorganisation (IMO)
+har udarbejdet et forslag til en sådan aftale. Efter
+denne skal der på den ene side være mulighed
+for, at den statslige myndighed, hvis den ifalder
+et erstatningsansvar på grund af, at klassifikationsselskabet har handlet på statens vegne, kan
+gøre regres mod klassifikationsselskabet. På den
+anden side skal regresansvaret efter den af IMO
+foreslåede model være begrænset til beløb, som
+måtte være fastsat i det enkelte klassifikationsselskabs standard vilkår, eller et i aftalen fastsat
+højeste beløb.
+Der er i dag i lovens § 19 hjemmel for Søfartsstyrelsen til at autorisere f.eks. klassifikationsselskaber til at udføre visse tekniske undersøgelser på styrelsens vegne, men ikke til at aftale
+
+188
+
+Onsdag den 11. oktober 1995
+
+en øvre grænse for de autoriseredes økonomiske ansvar. Derfor er der behov for at skabe
+hjemmel til, at styrelsen kan indgå aftaler med et
+sådant indhold.
+Søfartsstyrelsens udførelse af syn på skibe
+sker som udgangspunkt uden betaling. Det er
+dog et problem, at nogle redere ikke på hensigtsmæssig måde klargør deres skibe til syn.
+Derved forlænges den tid og de udgifter, som er
+forbundet med et syn, ganske betragteligt. Det
+foreslås derfor, at der skal betales for de yderligere udgifter, som et større tidsforbrug påfører
+Søfartsstyrelsen. Det er ikke blot rimeligt, men
+kan også motivere rederen til at have orden i
+tingene. Det har betydning for både sikkerhed
+og miljø.
+Der indføres endelig hjemmel til at fastsætte
+lempeligere regler vedrørende konstruktion,
+udstyr m.v. for alle bevaringsværdige skibe,
+hvor dette i øjeblikket kun kan ske for skibe
+under 20 brt.
+Med disse bemærkninger skal jeg anbefale
+forslaget til en hurtig og velvillig behandling i
+det høje Ting.";Mimi Jakobsen
+37657;title_name;":
+Jeg tillader mig herved for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af udlændingeloven,
+lov om midlertidig opholdstilladelse til visse
+personer fra det tidligere Jugoslavien m.v. og
+lov om social bistand. (Midlertidig opholdstilladelse til personer fra Serbien-Montenegro m.v.).
+(Lovforslag nr. L 41).
+Hensigten med dette lovforslag er at skabe en
+samlet løsning på udsendelsesproblemerne
+samt en klarere retsstilling for personer fra Serbien-Montenegro, der efter meddelelse af endeligt afslag på opholdstilladelse her i landet ikke
+kan udsendes til deres hjemland. Formålet med
+lovforslaget er endvidere at forbedre vilkårene
+for asylansøgere generelt. Dette skal bl.a. gennemføres ved at give bedre og mere undervisning, således at de pågældendes faglige ressourcer og kundskaber vedligeholdes og udvikles under opholdet her i landet. Et andet middel
+er selvaktiveringsordninger, så de pågældende
+får større ansvar og en øget indflydelse på deres
+hverdag på indkvarteringscentret. Endelig er
+det hensigten at styrke kommunernes mulighed
+for at overtage integrationsindsatsen fra staten.
+
+Baggrunden for den foreslåede bestemmelse
+om meddelelse af midlertidig opholdstilladelse
+til personer fra Serbien-Montenegro, der for
+tiden ikke kan udsendes af landet, er, at der i
+den senere tid har vist sig store vanskeligheder
+med udsendelse af personer fra Serbien-Montenegro, som har modtaget endeligt afslag på
+opholdstilladelse. Det skyldes, at myndighederne i Serbien-Montenegro i strid med, hvad der
+er en naturlig følge af de pågældendes statsborgerskab, er uvillige til at tage deres egne statsborgere tilbage.
+Meddelelse af opholdstilladelse efter den
+foreslåede bestemmelse foretages efter en generel vurdering af udsendelsessituationen for
+gruppen af personer fra Serbien-Montenegro
+som helhed.
+Den foreslåede bestemmelse medfører ikke
+nogen indskrænkninger i asylmyndighedernes
+asylretlige vurdering, ligesom bestemmelsen
+ikke medfører nogen begrænsninger i asylmyndighedernes adgang til at genoptage en asylsag.
+Opholdstilladelsen vil i de første 3 år blive
+meddelt med henblik på midlertidigt ophold.
+Der vil tillige blive meddelt arbejdstilladelse.
+Lovforslaget indeholder endvidere forslag til
+bestemmelser om undervisning af asylansøgere,
+herunder undervisningspligt for asylansøgerbørn, samt selvaktivering af asylansøgere.
+Det foreslås således, at der indføres undervisningspligt for asylansøgerbørn i overensstemmelse med kravene i bl.a. FN's børnekonvention. Endvidere bemyndiges indenrigsministeren til efter forhandling med undervisningsministeren at fastsætte regler om, hvilke dele af
+folkeskolens undervisning asylansøgerbørn kan
+deltage i, ligesom der kan fastsættes regler om
+undervisning af voksne asylansøgere.
+Det foreslås endvidere, at der - i overensstemmelse med, hvad der allerede gælder i dag
+for bosniske krigsflygtninge - indføres regler
+om selvaktivering af asylansøgere, der er indkvarteret på asylcentre her i landet. Asylansøgerne får pligt til at udføre nødvendige opgaver
+på centret og ret til at udføre andre opgaver dér,
+således at asylansøgerne i højere grad selv kan
+tage ansvaret for og få indflydelse på deres
+hverdag på indkvarteringscentret.
+Den nærmere tilrettelæggelse af undervisnings- og selvaktiveringsordningerne vil ske på
+baggrund af et udredningsarbejde i Indenrigsministeriet og Udlændingestyrelsen.
+Regeringen finder endvidere, at kommunernes mulighed for at overtage integrationsindsat-
+
+Onsdag den 11. oktober 1995
+sen bør styrkes. Det foreslås derfor, at det i
+bistandsloven præciseres, at en kommune, der
+ønsker det, kan overtage ansvaret for integrationen umiddelbart eller ganske hurtigt efter, at de
+pågældende personer er overgivet til Dansk
+Flygtningehjælp. Indenrigsministeren vil fastsætte nærmere regler for tilrettelæggelsen af den
+kommunale overtagelse af integrationsansvaret.
+Endelig bemærkes, at der pr. 1. oktober 1995
+er gennemført en større strukturomlægning på
+udlændingeområdet. I den forbindelse har
+Direktoratet for Udlændinge ændret navn til
+Udlændingestyrelsen. Ved lovforslaget foreslås
+det derfor, at myndighedsbetegnelsen i udlændingeloven og lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. ændres i overensstemmelse hermed.
+Idet jeg i øvrigt henviser til lovforslaget og de
+ledsagende bemærkninger, skal jeg hermed
+anbefale forslaget til det høje Tings hurtige og
+velvillige behandling.
+
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager beslutningsforslaget, og anbefaler det
+til Tingets velvillige behandling.";Birte Weiss
+42245;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om harmonisering af reglerne for bestyrelsesmedlemmers og
+direktørers med fleres ansvar, pligter og rettigheder i finansielle virksomheder.
+(Beslutningsforslag nr. B 13).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager forslaget, og anbefaler det til Tingets
+velvillige behandling";Kirsten Jacobsen
+42661;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+
+Den første sag på dagsordenen var:
+1) Spørgsmål til ministrene.
+
+Forslag til folketingsbeslutning om fordeling af
+arbejde og fri tid. (Skraldemandsmodellen).
+(Beslutningsforslag nr. B 10).
+
+Spm. nr. S 1
+
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager beslutningsforslaget, og anbefaler det
+til Tingets velvillige behandling.";Aage Frandsen
+43089;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om indførelse af
+en ret for langtidsledige til at få et ordinært
+arbejde.
+(Beslutningsforslag nr. B 11).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager beslutningsforslaget, og anbefaler det
+til Tingets velvillige behandling.";Aage Frandsen
+43450;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om indførelse af
+en uddannelsesorienteret ungdomsgaranti.
+(Beslutningsforslag nr. B 12).
+
+189
+
+1) Til indenrigsministeren af:";Aage Frandsen
+43706;name_party;":
+»Vil ministeren øjeblikkelig stoppe den praksis,
+at udviste asylansøgere på statens regning får
+eftersendt stjålne eller uretmæssigt erhvervede
+ejendele til det land, de udvises til?«
+Skriftlig begrundelse
+I august 1993 ansøger en kvinde med 2 børn om
+asyl i Danmark. Hun påstår, at hun er fra Somalia. Knap 2 år senere, den 28. juni 1995, bliver
+hun udsendt fra Danmark ledsaget af to politifolk, idet hun ikke kan anerkendes som flygtning. Klager til indenrigsministeren og
+Ombudsmanden er blevet afvist.
+Under mellemlandingen i Zürich den 28. juni
+1995 indrømmer kvinden til politifolkene, at
+I hun har løjet hele tiden, og at hun er kenyaner.
+Hun beder derfor om at blive sendt til Nairobi. I
+Nairobi lufthavn blev hun identificeret som
+kenyansk statsborger. Bekendte var mødt op for
+at modtage hende.
+På dette tidspunkt havde hendes falske forklaringer medført udgifter for den danske stat
+på langt over 300.000 kr.
+
+190
+
+Onsdag den 11. oktober 1995 (Spm)
+
+Det er nu bestemt, at en masse effekter, som
+kvinden opbevarede på asylcentret i Jylland,
+skal eftersendes til hendes adresse i Kenya for
+statens regning. Det drejer sig blandt andet om
+en kummefryser, en parabol, en satellitmodtager, et fjernsynsapparat, en video, en transistorradio og et utal af forskellige mindre, elektriske
+artikler.";Helge Adam Møller
+45033;name_party;":
+For 2 år siden ankom en afrikansk kvinde til
+Københavns Lufthavn. Hun havde to børn med.
+Hun sagde, hun var fra Somalia. 2 år senere blev
+hun udvist, fordi hun ikke var flygtning. Hun
+havde klaget til Ombudsmand og minister, men
+man fastholdt, at hun skulle ud af Danmark.
+Den 28. juni i år bliver hun sendt af sted ledsaget af to kriminalfolk, og under mellemlandingen i Zürich indrømmer hun, at hun har løjet
+og svindlet de sidste 2 år. Det var ikke alt sammen rigtigt, det, hun havde fortalt. Hun var
+nemlig fra Kenya, så hun ville gerne i stedet for
+sendes tilbage til sin familie i Kenya. Man booker om. Dagen efter ankommer hun til Kenya,
+bliver modtaget af familien, og da hun har kenyansk statsborgerskab, bliver hun lukket ind.
+Hun har kostet det danske samfund V2 mio.
+kr. plus 25.000 kr. til at blive sendt ud af landet
+for.
+Få dage efter får man at vide, at hun har fem
+store kasser stående på asylcentret, og det
+besluttes, at de på statens regning skal eftersendes til hendes nye adresse i Kenya. I kasserne
+var der en kummefryser, et fjernsynsapparat,
+parabol, satellitmodtager, video og transistorradio, kaffemaskine og håndmikser.
+Mit spørgsmål til indenrigsministeren er:
+Synes ministeren ikke, det er komplet urimeligt,
+og vil ministeren øjeblikkelig stoppe det?";Helge Adam Møller
+46350;title_name;":
+Hvis praksis var sådan, som det bliver beskrevet i spørgsmålet, så er jeg aldeles enig i, at
+praksis omgående burde ændres. Men sådan er
+det altså ikke - naturligvis, havde jeg nær sagt.
+Vi har i anledning af spørgsmålet spurgt
+Rigspolitichefen om, hvordan det foregår. Rigspolitichefen oplyser, at der altid foretages en
+særlig undersøgelse, hvis der er grund til at tro,
+at udlændinge ikke lovligt besidder de ting, som
+vedkommende ønsker at få med sig hjem. Det
+vil sige, at det ikke er rigtigt, at asylansøgere,
+der udsendes på statens regning, får eftersendt
+stjålne eller uretmæssigt erhvervede effekter.
+
+Med hensyn til den konkrete sag, der nævnes
+her, har Rigspolitichefen oplyst, at det ikke
+fremgår af de oplysninger, man kan få fat på fra
+politikredsen - altså den politikreds, der stod
+for pakningen - at der kunne være tvivl om
+effekternes retmæssige tilhørsforhold.
+Rigspolitichefen har også oplyst, at det ret
+ofte forekommer, at asylansøgere får foræret
+sådanne genstande, som spørgeren nævner, af
+støttegrupper eller venner og bekendte, og at
+der naturligvis meget ofte er tale om, at det er
+brugte genstande. Der er i den konkrete sag ikke
+oplysninger om, hvorvidt der har været tale om
+nye eller brugte genstande.
+Og så lige et par ord om det generelle. Jeg har
+også spurgt Rigspolitichefen om, hvad politiet
+gør, når en udlænding, der skal udsendes, har
+nogle ejendele, som skal medsendes som bagage. Og jeg har her fået oplyst, at udlændinge
+efter udlændingeloven selv skal betale det, som
+det koster at hjemsende bagagen. Hvis der ikke
+er penge til stede, så afholdes udgifterne foreløbigt af statskassen.
+Normalt vil politiet sørge for, at udlændingen
+selv medbringer sin bagage i forbindelse med
+udsendelse med fly. Der kan selvfølgelig forekomme situationer - nu nævnes der en kummefryser og et køleskab og den slags større ting hvor det ikke er muligt at udsende det sammen
+med personen. I den slags tilfælde vil bagagen
+blive eftersendt på billigste vis til den adresse,
+som udlændingen har opgivet.";Birte Weiss
+48402;name_party;":
+Jeg kan ikke takke for svaret, for jeg er meget
+utilfreds med det. Jeg kan forstå, at ministeren
+mener, at disse effekter plus et stort antal øvrige
+- som jeg ikke kunne nå at nævne - altså ikke
+var anskaffet uretmæssigt, fordi de kunne være
+en foræring fra andre og derfor selvfølgelig
+skulle sendes med.
+Men så vil jeg gerne spørge helt konkret: Når
+man kommer til Danmark og fortæller, at man
+er fra Somalia, mens man har kenyansk pas og
+altså er fra Kenya, når man lyver og bedrager
+igennem 2 år og derfor befinder sig i Danmark
+under falske forudsætninger i 2 år, er opholdet
+så ikke uretmæssigt, og er det, man erhverver
+under opholdet, ikke også uretmæssigt?
+Og vil ministeren så ikke sørge for, at den
+slags ting bliver solgt, således at de er med til at
+afdrage en lille smule af den gæld, man helt
+uretmæssigt har påført den danske stat?
+
+Onsdag den li: oktober 1995 (Spm)";Helge Adam Møller
+49321;title_name;":
+Jeg har lidt svært ved at forstå, at spørgeren ikke
+er tilfreds med svaret, for det er det svar, som
+Rigspolitiet har kunnet give os. Det er ikke
+sådan, at vi i Indenrigsministeriet er i stand til at
+efterprøve, om de oplysninger, som politiet
+giver, er korrekte, og jeg vil også godt sige, at
+det vel heller ikke tilkommer os.
+Det svar, vi har fået fra Rigspolitiet, er, at de i
+den konkrete sag ikke havde nogen grund til at
+tro, at der var tale om stjålne effekter. Og det er
+som sagt på den baggrund nødvendigt, at jeg
+svarer ud fra de oplysninger, som politiet giver:
+det er - hvis jeg må bruge det udtryk - ikke
+Indenrigsministeriets egne oplysninger.
+Så vil jeg om den anden del af spørgsmålet
+godt sige, at der naturligvis skal være en meget
+skærpet opmærksomhed om den kendsgerning,
+at der er nogle, der på grundlag af opgivelse af
+falsk identitet eller andet på helt uretmæssig vis
+forsøger at - lad mig bare bruge udtrykket svindle sig til et ophold i Danmark. Dér har vi
+på alle de strækninger, hvor det er muligt at
+gøre noget ved det, enten gjort det eller vil være
+modtagelige for gode råd om, hvordan man kan
+gribe ind over for det.";Birte Weiss
+50497;name_party;":
+Mener ministeren, det er i orden, at den danske
+stat skal afholde udgifterne til eftersendelse af
+bagage - i den størrelsesorden, som der her er
+tale om - til personer, der uretmæssigt har
+opholdt sig i Danmark, uanset om effekterne er
+erhvervet på den ene eller den anden måde? Det
+vil jeg meget gerne have et klart svar på.
+Mener ministeren principielt, at bagage af det
+omfang skal eftersendes på den danske stats
+regning, når det drejer sig om personer, som
+uretmæssigt har opholdt sig her i landet?";Pia Christmas-Møller
+51025;name_party;":
+Ministeren siger, at ministeren bare forholder
+sig til politiets svar. Jamen jeg forholder mig til
+ministerens svar, og jeg er ikke tilfreds med
+ministerens svar, og jeg synes heller ikke, at
+ministeren skulle være tilfreds med politiets
+svar, hvis det så er det fulde og hele svar.
+Jeg spørger udtrykkeligt om, om ministeren
+synes, det er rimeligt, at det skal eftersendes,
+hvis det er stjålet eller er uretmæssigt erhvervet.
+Jeg har selvfølgelig ingen mulighed for at vurdere, om de effekter er stjålet eller ej, og jeg kan
+forstå, at politiet vurderer, at de ikke er stjålet,
+men de er da i hvert tilfælde anskaffet på uretmæssig måde.
+
+191
+
+Men når man kommer til Danmark under falske forudsætninger og hele tiden afgiver falske
+forklaringer, så har man jo opholdt sig her
+under falske forudsætninger i 2 år. Alle de lommepenge, man har fået tildelt, og alle de udgifter, der har været i forbindelse med opholdet, er
+givet under falske forudsætninger.
+Derfor må man konstatere, at alle de ejendomme, hun har fået og samlet sammen i de
+2 år, er opnået på en uretmæssig måde, og derfor er det eneste fornuftige selvfølgelig, at ministeren siger, at den slags ejendele, der er opnået
+på uretmæssig måde, skal sælges for højeste
+bud og derved afdrage en lille smule på flyvebilletten. Nu er den kvinde den rigeste kvinde i
+sin landsby hjemme i Kenya. Det er urimeligt.";Helge Adam Møller
+52429;title_name;":
+Det er jeg aldeles enig i, men det, som jeg besvarede, var det spørgsmål, som blev stillet, nemlig
+eftersendelse af stjålne eller uretmæssigt erhvervede ejendele. Dér er det, at vi så går til politiet
+og spørger: Hvad ligger der i den konkrete sag?
+Og svaret er, at man ikke har kunnet godtgøre,
+at der var tale om stjålne eller uretmæssigt
+erhvervede ejendele.
+Til den anden del af spørgsmålet vil jeg godt
+sige, at jeg synes bestemt, det er en overvejelse
+værd, at man ikke skal bruge penge på at eftersende de pågældendes ejendele, hvis der er tale
+om en situation som den, der beskrives her.
+Jeg synes, at der kunne være grund til at få
+vurderet, hvor meget det drejer sig om, altså
+hvilket beløb der bliver anvendt til dette her.
+Den oplysning, jeg har kunnet få, er, at de samlede udsendelsesomkostninger - men det er altså også for personerne, der jo er langt den største del af det - i 1994 var på 1,9 mio. kr. Vi har
+ikke kunnet få oplyst, hvor stor en del af de
+1,9 mio. kr., der gik til eftersendelse af bagagen
+på billigste vis - for det er jo så ikke at sende det
+med fly, det er at sende det med landtransport.
+Det vil være mit gæt, at det er en meget
+beskeden del, men selv denne beskedne del
+synes jeg det kunne være rimeligt at se på, herunder om man - i et så ekstremt tilfælde som
+det, der er tale om - skal bruge kræfter på det.
+Jeg tror mere, at det er et spørgsmål om, hvorvidt man skal bruge kræfter på at få sendt bagagen end om den faktiske omkostning ved det.
+Men begge dele skal naturligvis spille en rolle
+ved den vurdering.
+
+192
+
+Onsdag den 11. oktober 1995 (Spm)";Birte Weiss
+54050;name_party;":
+Det lå i ministerens svar, at staten i visse tilfælde
+betaler for hjemrejsen, og i fortsættelse af bl.a.
+det, fru Pia Christmas-Møller spurgte om, vil
+jeg gerne spørge helt præcist: Vil ministeren
+ændre reglerne, så det bliver umuligt under
+ulovligt ophold i Danmark at erhverve formuegenstande og rejse hjem med disse formuegenstande, så det bliver en overskudsforretning at
+søge om asyl her i landet? Vil ministeren forhindre det?";Birthe Rønn Hornbech
+54510;name_party;":
+Fru Birthe Rønn Hornbech har taget første del af
+mit spørgsmål, så det skal jeg ikke gentage, men
+gerne supplere ved at spørge ministeren, om
+ministeren vil tage initiativer til at sikre, at det
+ikke fremover på nogen måde bliver praksis
+hverken i enkelttilfælde eller mere generelt, at
+staten betaler for eftersendelse af effekter i forbindelse med udvisning af personer, som uretmæssigt har opholdt sig her i landet. Vil ministeren tage et sådant skridt, uanset hvor mange
+penge det drejer sig om? Det er et principspørgsmål.";Pia Christmas-Møller
+55062;name_party;":
+Nu vil ministeren »overveje«, om der eventuelt
+skal bruges kræfter på at ændre noget, som
+ministeren kun synes er et lille problem.
+Men det er et meget stort problem, for hver
+eneste gang der kommer eksempler - selv om
+de kun er enkelte eksempler - på nogle, der
+groft og fuldstændig urimeligt misbruger systemet, så smitter det desværre af på det store antal
+af flygtninge, som er reelle flygtninge, og som
+ikke lyver, og som ikke svindler.
+Derfor er det utrolig vigtigt, at ministeren,
+hver eneste gang der kommer et eksempel som
+det her, siger, at det kan vi ikke tolerere, og derfor vil jeg håbe, at ministeren klart og tydeligt
+kan sige: Det vil jeg ændre allerede i dag, således at genstande, der er anskaffet under et uretmæssigt ophold, aldrig nogen sinde kan eftersendes på statens regning. Vil ministeren gøre
+det?";Helge Adam Møller
+55922;title_name;":
+Ja, det var det, som jeg for et øjeblik siden gav
+tilsagn om.
+Men når jeg ikke vil sige, at vi kan sætte en ny
+praksis i gang lige med det samme, så er det
+simpelt hen, fordi der i spørgerens ordvalg ikke
+ligger en tilkendegivelse af, hvad uretmæssigt
+
+betyder i denne her forbindelse. Hvis uretmæssigt betyder, at det alene er et spørgsmål om
+folk, der har opholdt sig her i landet under falsk
+identitet, så er svaret klart: Ja, det vil vi naturligvis godt stoppe med det samme. Men hvis der i
+uretmæssigt skulle ligge, at man mener, at folk,
+der har søgt om asyl i Danmark, men som får
+afslag, og som har erhvervet sig nogle genstande, mens de har opholdt sig i Danmark - hvis
+det er det, man vil have med i definitionen på
+begrebet uretmæssigt ophold, så mener jeg, at
+det er et meget stort spørgsmål, om dét også
+skal være med i det.
+Så ved misbrug er det et klart: Ja, det vil vi
+gerne være med til at stoppe. Men vi bliver altså
+nødt til at angribe det her så seriøst, at vi ikke
+fratager folk ejendele, som de er i god ret til at
+have, og som de måske har fået foræret af venner i Danmark, og derfor bliver vi nødt til at
+være noget mere specifikke i vores definitioner.
+Men misbruget skal selvfølgelig stoppes.
+Hermed sluttede spørgsmålet, og spørgetiden
+var dermed til ende.
+
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 3:
+Forslag til lov om ændring af retsplejeloven.
+(Rettemes stedlige kompetence ved sagsanlæg
+mod staten m.v.).
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Birte Weiss
+57518;name_party;":
+Dette er et af de lovforslag, der bestemt ikke er
+grund til at bruge ret mange ord på. Det er ganske enkelt udtryk for sund fornuft.
+Det handler om to ting. Den ene er, at som
+verden er indrettet i dag, så skal borgere, der vil
+anlægge sag mod staten, men bor under Vestre
+Landsrets domæne, drage til Østre Landsrets
+domæne og anlægge sagen. Det bliver lavet om.
+Nu bliver det muligt at anlægge disse sager ved
+Vestre Landsret.
+
+(25)
+Onsdag den 11. oktober 1995 (L 3)
+Det andet er, at hidtil har vederlaget til stævningsmænd, som skulle ud og forkynde, skullet
+betales forud. Men det har faktisk vist sig at
+være umuligt at kunne betale forud, fordi man
+ikke ved, hvor langt der skal køres osv. osv.
+osv., og derfor ændrer man det, så det skal betales på det tidspunkt, hvor man rent faktisk ved,
+hvad vederlaget skal være. Det er også udtryk
+for sund fornuft.
+Og derfor skal jeg på vegne af Socialdemokratiet og Centrum-Demokraterne sige, at vi
+synes, det er et fornuftigt forslag, og det vil kunne få en meget hurtig behandling i udvalget.";Dorte Bennedsen
+58579;name_party;":
+Ifølge retsplejeloven er en persons værneting
+det sted, hvor han bor, og et firma det sted, hvor
+det har domicil.
+Med hensyn til statens værneting eller hjemting har det hidtil været sådan, at staten kun
+kunne stævnes for Østre Landsret. Nu vil man
+altså indføre den regel, at det er sagsøgerens
+bopæl, der bestemmer, hvor staten skal stævnes.
+Det vil sige, at alle, der bor vest for Lillebælt, for
+fremtiden kan anlægge sag mod staten ved
+Vestre Landsret i Viborg.
+Det er så rigtigt og godt et forslag, at det er
+utroligt, at ingen har fremsat det før: det kunne
+man jo have gjort for lang tid siden. Det er nemlig både forbrugervenligt og sikkert også
+omkostningsbesparende.
+Man kan sige, det er en undtagelse fra reglen
+om, at det er sagsøgtes bopæl, der bestemmer,
+hvor en sag skal anlægges, men man har jo også
+andre undtagelser, som måske er lidt besværlige, nemlig boligretssager. Her er man tit ude for,
+at nogle er flyttet fra en bolig og skal betale en
+efterregning. De er måske flyttet til Jylland efter
+at have boet i Herlev, men de skal stævnes i
+Herlev og bekoste rejse derover. Det er somme
+tider lidt uforståeligt for den indstævnede lejer.
+Det er altså en undtagelse, men det er en af de
+gode undtagelser, og Venstre kan varmt anbefale den del af forslaget.
+Det samme gælder også for den anden lille
+del om forudbetaling af stævningsmændenes
+udgifter. Det sker der ikke noget ved. Det vil i
+reglen være advokater, der skal betale, så selv
+om der gives kredit, til man har set, hvad, det
+har kostet at få forkyndt en stævning, så vil man
+ikke lide tab i staten på denne post.
+
+193";Erling Oxdam
+60201;name_party;":
+Forslaget går jo lidt forenklet ud på at behandle
+jyder ligeså godt som fynboer, københavnere og
+sjællændere, og det synes vi efter moden overvejelse faktisk er en god idé. Så vi kan tilslutte
+os forslaget.";Helge Adam Møller
+60428;name_party;":
+De foregående ordførere har nøje beskrevet lovforslagets retlige betydning og konsekvenser for
+almindelige menneskers mulighed for at søge
+deres ret, når de står i situationer, hvor de ikke
+mener, at statens forskellige myndighedsudøvelser er i overensstemmelse med den lovgivning, vi vedtager her i salen.
+Man kan beskrive lovforslaget på den måde,
+at staten skal acceptere, at værnetinget følger
+staklen, som er kommet i retligt slagsmål med
+staten, og ikke som det er sædvane, hvor værnetinget følger sagsøgte.
+Eller hvad med variationen: at det er et forsøg
+på at afhjælpe jydernes geografiske underlegenhed, når de løber ind i retlige problemer med
+staten. Sagt på en anden måde: Lovforslaget
+giver den enkelte borger i Jylland en vis ligestilling. Det er lidt træls, at man skal rejse helt til
+København, bare fordi man er kommet op at
+toppes med en eller anden statslig myndighed i
+Frederikshavn.
+Uanset hvilke forklaringer man vælger at
+lægge til grund for lovforslaget, så er vi i SF enig
+i intentionerne og vil stemme for.
+Lars Kaspersen (RV):
+Også i Det Radikale Venstre skal der være
+opbakning til det her lovforslag. Vi synes, at
+intentionerne om at give rimeligere og bedre
+vilkår for danskere og borgere bosiddende i Jylland er god, og vi ser det som en del af det
+generelle arbejde, hvor det gælder om at styrke
+den enkeltes retsstilling over for staten. Det er
+en udvikling, vi er tilhængere af, så vi støtter
+lovforslaget.";Anne Baastrup
+61886;name_party;":,
+Jeg kunne sige det samme som den forrige ordfører. Det er et forslag, som også vi støtter
+varmt. Der er ingen tvivl om, at de geografiske
+forskelle tidligere har været en forhindring måske en lille forhindring, men dog en forhindring. Den bliver nu ryddet af vejen, og det ser
+vi som et fremskridt. Vi ser det også som en god
+ting, at man som jyde kan starte sagerne op ved
+
+194
+
+Onsdag den 11. oktober 1995 (L 3)
+
+Vestre Landsret, for det er at ligestille sagsøgerne, og det er rimeligt, at man gør det.
+Vi har det på samme måde med hensyn til
+vederlaget til stævningsmændene. Det er jo
+meget fornuftigt, at man opgør omkostningerne,
+inden man udbetaler vederlag, så alt i alt er det
+et forslag, som ikke behøver at kræve den store
+udvalgsbehandling. Det er et godt forslag, som
+forenkler mange ting, og vi støtter det.";Tom Behnke
+62733;name_party;":
+Enhedslisten støtter begge dele af lovforslaget,
+altså også den del om forudbetaling af vederlag.";Søren Søndergaard
+62864;title_name;":
+Det er fristende for mig som jyde at sige tak for
+den gode behandling, men det vil jeg undlade
+og på regeringens vegne sige tak for en god
+behandling.
+Jeg håber, at de resterende lovforslag, som jeg
+vil komme med, vil få en lige så god behandling
+i Tinget, som det her forslag har fået.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Bjørn Westh
+63276;title_name;"Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 4:
+Forslag til lov om ændring af retsafgiftsloven.
+(Forhøjelse af tinglysningsafgiften).
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+
+Forhandling";Formanden
+63726;name_party;":
+Da mit partis ordfører, hr. Per Kaalund, ikke er i
+salen, skal jeg blot på hans vegne sige, at Socialdemokratiet og CD kan støtte forslaget.";Dorte Bennedsen
+63885;name_party;":
+Jeg må desværre på Venstres vegne skuffe
+justitsministerens forhåbninger om, at resten af
+dagen gik lige så nemt, for vi finder, at den forhøjelse, man foreslår af tinglysningsafgiften på
+200 kr. - fra 700 til 900 kr. - er af ren fiskal art.
+Der er ikke noget behov for omkostningsdækning, og det kan typisk være en skat på flytning,
+på skøder og pantebreve, som jo er de typiske
+tinglysningsdokumenter. Det er vi imod.
+Vi har endog foreslået, at disse afgifter skulle
+sættes ned, så derfor er vi meget utilfredse med,
+at man nu strammer skruen. Hvor skal det
+ende? Det kan jo efterhånden blive til meget, der
+skal betales for hvert enkelt tinglysningsdokument, så det er vi altså imod. Og dermed har jeg
+underholdt justitsministeren på det punkt.";Erling Oxdam
+64652;name_party;":
+Lovforslaget er et led i regeringens finanslovudspil, og set i det lys kan det godt undre, at vi
+skal førstebehandle lovforslaget i dag.
+Det havde måske været mere passende, at
+man havde medtaget det i finanslovdrøftelserne
+og så havde fremsat det efterfølgende, hvis
+udfaldet var blevet sådan.
+Det Konservative Folkeparti tager skarpt
+afstand fra lovforslaget. Det fremgår af V's og
+K's eget oplæg til finansloven, »Reform 96«, at
+vi ønsker at forbedre mobiliteten på arbejdsmarkedet og boligmarkedet, således at der skabes et incitament til, at man flytter efter et nyt
+job. Dette lovforslag vil medføre det stik modsatte, nemlig en forøgelse af flytteomkostningerne, og i det lys er vi imod det.
+Eftersom dette lovforslag nu er en del af regeringens finanslovudspil, tillader jeg mig at gå ud
+fra, at den videre behandling af det afventer de
+drøftelser, der skal være om finansloven.";John Vinther
+65559;name_party;":
+Forslaget handler om at forøge tinglysningsafgifterne med 200 kr. fra 700 kr. til 900 kr. Det
+giver statskassen 280 mio. kr. Det er ikke en helt
+ringe sum penge.
+Forslaget er skat på bl.a. hushandel, som skal
+bruges til at forbedre finansministerens samlede
+
+Onsdag den 11. oktober 1995 (L 4)
+husholdningsbudget eller måske sikre justitsministeren en mulighed for at bruge penge andre
+steder i sit system.
+Efter SF's opfattelse er det ikke uden videre
+den smukkeste vej til at skaffe flere penge til
+statskassen. En hævelse af det skrå skatteloft
+ville f.eks. være en socialt mere retfærdig vej til
+at skaffe penge til statskassen. Så ville man have
+sikkerhed for, at de mennesker, som har råd til
+det, kom til at finansiere statens underskud.
+Man kunne komme med mange andre argumenter mod forslaget. Hr. John Vinther nævnte
+før, at arbejdsministeren f.eks. gerne ville have
+geografisk mobilitet på arbejdsmarkedet. Gavner dette forslag det? Nej!
+Der er mennesker, som har været heldige at
+eje hus i nogle år. De har haft stor fordel af
+omprioriteringer på rette tid og sted. Er det
+dem, der rammes? Nej!
+De mennesker, som skal betale den retsafgiftsforhøjelse, har som udgangspunkt ikke altid
+været i den heldige situation. Det kan skyldes, at
+de først nu skal til at anskaffe en bolig. Vi er i SF
+indstillet på, at vores børn ikke skal finansiere
+vores forbrug. Det må vi selv kunne klare.
+Når nu regeringen ikke kan blive enig indbyrdes om at fastholde, at det er i det progressive skattesystem, pengene kræves ind, så vil vi i
+SF ikke bare på forhånd afvise forslaget. Pengene skal jo skrabes ind et eller andet sted.
+Der er mange steder, hvor justitsministeren
+med fordel kunne bruge penge. Lad mig blot
+nævne forbedring af kriminalforsorgen. Her vil
+vi i SF gerne være med til at bruge penge, så vi
+kan slippe for de mange svingdørskriminelle,
+som de ansatte i fængslerne ved vender tilbage,
+fordi de oplæres i kriminalitet i fængslerne i stedet for at lære, hvordan man klarer sig i det
+omgivende samfund.
+Får vi derfor i SF medindflydelse på brugen
+af de midler, justitsministeren her vil skrabe ind,
+så vil vi da ikke på forhånd helt afvise forslaget.
+Lars Kaspersen (RV):
+I Det Radikale Venstre har vi ikke den opfattelse, at denne forhøjelse på 200 kr. vil lamme
+mobiliteten på arbejdsmarkedet. Vi ser det snarere som et bidrag til en fortsat tiltrængt forbedring af de offentlige finanser, og det er vi som
+bekendt tilhængere af.
+Så også i dette tilfælde er der radikal støtte til
+lovforslaget.
+
+195";Anne Baastrup
+68091;name_party;":
+Der er tale om et rent skatteforslag, som udelukkende skal forbedre statens finanser. Der er ikke
+et eneste argument om, at det er blevet dyrere at
+foretage tinglysningerne, og derfor er konklusionen, at det er et rent skatteforslag.
+Forslaget burde have været behandlet i Skatteudvalget og ikke i Retsudvalget. Det er vores
+opfattelse, at det i forvejen er meget dyrt at
+handle ejendomme. Vi er sikre på, at yderligere
+forhøjelse af tinglysningsafgiften vil lægge endnu en sten på den vej, der hedder at forhindre
+mobiliteten på arbejdsmarkedet, og det er ikke
+det, vi har behov for, i disse år. Tværtimod har vi
+behov for, at der bliver løsnet op, således at
+mobiliteten på arbejdsmarkedet bliver bedre.
+Vi havde for et par år siden diskussionen om
+gebyrerne og om, at gebyrerne skulle svare til
+de faktiske omkostninger. Da de ikke gjorde det,
+vedtog man så - i stedet for at sætte gebyrerne
+ned, så det passede - en lang række gebyrer ved
+lov, og så var de pludselig tilladt, men det var ,
+ikke desto mindre stadig væk umoralsk.
+Spørgsmålet er, hvad der er den reelle .
+omkostning ved tinglysning. Specielt efter at vi
+nu har fået en elektronisk tinglysning, er jeg sikker på, at omkostningerne er faldet, hvilket er
+endnu et argument for, at man ikke burde sætte
+tinglysningsafgiften op, men derimod sætte den
+ned.
+Hvis det er således, at regeringen mangler
+penge i statskassen, så ville det være langt mere
+reelt, at man opkrævede pengene som egentlige
+skatter, således at befolkningen kunne se, hvad
+det var, de skulle betale i skat, og ikke som en
+eller anden skjult skat, som de færreste så får øje
+på.
+Men parolen har jo fra regeringens side gennem de sidste par år været, at der skulle være
+skattelettelser, og når man så selv i opgangstider
+ikke kan få økonomien til at hænge sammen, vil
+man selvfølgelig ikke sænke sit eget flagskib om
+lavere skatter. Så gør man det, som man har
+gjort her, at man lægger skat på nogle områder,
+som er mere eller mindre usynlige. Det er helt
+utroligt, at regeringen overhovedet tillader sig
+at fremsætte et sådant forslag.
+Mit forslag til regeringen skulle være at trække dette forslag tilbage og, hvis man mangler
+penge, at erkende over for befolkningen, at
+regeringen ikke er i stand til at styre statens
+finanser, og så opkræve pengene i reelle skatter,
+så folk kan se, hvad det koster at drive den politik, som Socialdemokratiet står i spidsen for. ,
+
+196
+
+Onsdag den 11. oktober 1995 (L 4)";Tom Behnke
+70558;name_party;":
+Enhedslisten har også den opfattelse, at der reelt
+er tale om et skattéforslag. Nu er Enhedslisten jo
+ikke noget skatteriægterparti: vi kan sagtens
+acceptere, at der bliver udskrevet skatter til fælles bedste, men det betyder selvfølgelig også, at
+vi må have hånd i hanke med, at skatterne rent
+faktisk går til det fælles bedste.
+Det afhænger altså af, hvad pengene skal bruges til. Dét er jo netop ved en finanslovdebat, at
+man diskuterer, om pengene skal bruges til
+gavn for de arbejdsløse, de syge, de svage, eller
+om de skal gives til dem, der har i forvejen. Derfor bliver vi også nødt til at henvise vores endelige stillingtagen til dette forslag til en afslutning
+af finanslovdebatten.
+Bare for at give regeringen et vink til den
+debat vil vi sige, at regeringen jo må kunne forstå, at man ikke sammen med os kan gennemføre alt det sure og så sammen med V og K gennemføre alt det søde. Skal man have vores støtte
+til at gennemføre det sure - opkrævning af
+afgifter og skatter - må der altså også noget sødt
+på bordet, og det håber jeg, regeringen forstår.
+
+finansloven indeholdende skattelettelser. Men
+det, jeg sagde, var, at det ville være mere reelt at
+erkende over for befolkningen, at Socialdemokratiet i spidsen for regeringen ikke er i stand til
+at styre statens finanser, og så i stedet udskrive
+det som reelle skatter, så man kan se, hvad man
+skal betale:";Søren Søndergaard
+71964;title_name;":
+Det er jo sådan, at hvis man vil afholde udgifter,
+må man også sørge for at få nogle indtægter. Jeg
+har bemærket, at Venstre og De Konservative
+gerne vil afholde flere udgifter, men de vil samtidig mindske indtægterne for staten, og det vil
+altså alt andet lige give et større underskud.
+Det, regeringen prøver her, er at sige: Vi vil
+gerne have nogle penge i kassen på mange forskellige måder, bl.a. også denne måde, og vi vil
+ikke, som jeg forstod Fremskridtspartiet foreslår, hæve indkomstskatten. Det var i øvrigt et
+overraskende forslag fra Fremskridtspartiets
+side, men anderledes kunne det, hr. Tom
+Behnke sagde, vel ikke forstås.
+Det er klart, at dette må indgå i de drøftelser,
+der skal være i Folketinget, men det er jo altså
+sådan, at man ikke kun kan stille krav om øgede
+udgifter. Man må også somme tider være med
+til at sikre nogie indtægter til statskassen.
+
+Hermed sluttede forhandlingen.";Bjørn Westh
+72887;name_party;":
+Ministeren forstod udmærket godt, hvad jeg
+sagde. Ministeren vil ikke forstå, hvad jeg siger,
+og ministeren står her og slår plat på, hvad jeg
+har sägt.
+Det, jeg sagde, var ikke, at Fremskridtspartiet
+ønskede at hæve skatterne. Tværtimod stiller vi
+hvert eneste år omfattende ændringsforslag til";Tom Behnke
+73202;name_party;":
+Jeg finder, at det er lidt flot, når justitsministeren
+siger, at Venstre og De Konservative bare vil
+forlange øgede udgifter uden at anvise besparelser. Det er lidt meget at få ud af et forslag, der
+skal give et provenu på 280 mio. kr. Mig
+bekendt har Venstre og De Konservative fremsat forslag til besparelser på omkring 20 mia. kr.
+At der så ud af dem skal gives en anden prioritering til noget nær det halve af disse 20 mia. kr.,
+berører jo ikke den kendsgerning, at man samlet
+set vil have besparelser og altså ikke vil forlange
+udgiftskrævende love, uden at man har anvist
+kompenserende besparelser.
+Det måtte lige - vil jeg sige til justitsministeren - sættes på plads.
+
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Erling Oxdam
+73973;title_name;"Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 5:
+Forslag til lov om meddelelse af dansk indfødsret til Alexandra Christina Manley.
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+
+Onsdag den 11. oktober 1995 (L 5)
+Forhandling";Formanden
+74450;name_party;":
+Jeg finder, det vil være på sin plads i dette tilfælde at oplyse, at Fremskridtspartiet støtter
+forslaget.";Tom Behnke
+74581;name_party;":
+Bare for at der ikke skal være nogen misforståelser, vil jeg da godt starte med at ønske prins
+Joachim til lykke med forlovelsen og så understrege, at dette forslag jo ikke handler om, hvorvidt frøken Alexandra Manley skal have dansk:
+indfødsret eller ej. Det er jo ikke det, der er til
+diskussion i dag. Det, der er til diskussion, er,
+om frøken Alexandra Manley skal have en dispensation fra alle normale betingelser for at
+opnå dansk indfødsret, altså om hun så at sige
+skal springe ud af køen og få indfødsret i strid
+med de retningslinjer, som ellers gælder på
+området. Det er det spørgsmål, som skal diskuteres i dag, og det er det spørgsmål, som jeg jo
+kunne se på talerlysten at en række ordførere
+ikke ønskede at komme med deres principielle
+og konkrete vurderinger af.
+Enhedslisten har den opfattelse, at der skal
+være lighed for loven. Det finder vi er et godt
+udgangspunkt og et godt princip. Det er altså
+sådan, at der er nogle normale betingelser for at
+få dansk indfødsret - ink1. nogle normåle betingelser for at få dansk indfødsret, hvis man er gift
+med en dansk mand. Der skal ikke herske tvivl
+om, at vi synes, de betingelser er for stramme, så
+det er for svært at få dansk indfødsret.
+Vi mener, at der er massevis af gode udenlandske kvinder og mænd, som bliver gift eller
+bare tager ophold i Danmark, og som ønsker at
+få dansk statsborgerskab, der langt tidligere
+skulle have mulighed for at få det. Derfor arbejder vi for at få ændret indfødsretsloven, men det
+er jo noget helt andet, end at man vælger nogle
+enkeltpersoner ud og siger: Dem kan vi godt
+lide. Eller: De er i en særlig position, så her laver
+vi en forskelsbehandling. De har mulighed for at
+få indfødsret, mens alle andre bare kan vente.
+Vi er altså principielt imod denne ulighed for
+loven. Vi synes, at der skal være lighed for
+loven.
+Så synes vi derudover, at der er en betænkelig
+undertone i denne debat, for det spørgsmål, vi
+stiller os selv, er: Hvorfor skal frøken Alexandra
+Manley have dansk indfødsret inden brylluppet
+med prins Joachim? Vi regnede selvfølgelig
+med, når der kom en fremsættelse fra Justitsmi-
+
+197
+
+nisteriet, at det blev forklaret, men hvad står der
+så i den skriftlige fremsættelse? Der står:
+»... mens lovforslaget om Alexandra Çhristina Manley gerne skulle vedtages inden bryllupsdagen.«
+Er det en bryllupsgave, vi er i gang med at
+vedtage? Så skal man jo sige det. Eller hvad ér
+det? »... gerne skulle vedtages ...«. Hvad er
+egentlig grunden til, at prins Joachim ikke kan
+gifte sig med en engelsk statsborger eller for den
+sags skyld en kinesisk statsborger eller en thailandsk statsborger, hvis det var det, prins
+Joachim havde lyst til? Skal det virkelig være
+sådan, at man, når man er prins i Danmark, kun
+kan gifte sig med en dansk statsborger?
+Vi synes, der ligger en meget ubehagelig
+undertone af fremmedfjendskhed i det her, som
+vi under ingen omstændigheder kan støtte.
+Denne sag forklarer meget godt, hvorfor
+Enhedslisten er imod kongedømmet. Det er jo
+ikke, fordi vi har noget imod de konkrete personer, som er en del af kongedømmet. Vi har ikke
+noget imod dronning Margrethe. Vi har ikke
+noget imod prins Joachim. Vi har ikke noget
+imod nogen af dem som personer, men vi kan
+bare konstatere, at det at have et kongedømme
+altså fører til, at bl.a. dette Ting vælger at lave J
+forskelsbehandling, vælger at lave ulighed i stedet for at opretholde, at alle er lige fpr loven.
+Dér hælder Enhedslisten til de gode gamle
+traditioner fra den franske revolution om lighed,
+frihed og broderskab, og hvis vi skal gøre det
+lidt mere konkret i dag, så inkluderer det også
+søsterskab.";Søren Søndergaard
+78203;name_party;":
+Når kongehuset og regeringen har sagt god for
+prins Joachims kommende hustru, Alexåndra
+Manley, kan vi andre jo faktisk kun ønske lykke
+til. Dansk Folkeparti kan derfor med glæde
+stemme for dansk statsborgerskab til Alexandra
+Manley.
+Nu skal Alexandra Manley til at skabe sig en
+tilværelse i Danmark, og jeg tror, jeg må sige, at
+den ingenlunde bliver let for hende. I den position, prinsessen kommer til at indtage, vil hun få
+brug for hele. befolkningens opbakning, og jeg
+tror også, den vil komme fra vide kredse af det
+danske folk.
+I vort land er kongehuset af afgørende betydning for befolkningen. Den goodwill, som f.eks.
+erhvervslivet nyder i udlandet, hænger jo i høj
+grad sammen med kongehusets omfattende rejseaktivitet. Jeg har forstået, at Danmarks kom-
+
+198
+
+Onsdag den 11. oktober 1995 (L 5)
+
+mende prinsesse sammen med sin tilkommende
+mand, prins Joachim, også vil yde en stor indsats her.
+Jeg har egentlig ikke mere at tilføje - kun at
+udtrykke ønsket om, at Alexandra Manley vil få
+et godt og et lykkeligt liv her i Danmark på
+samme måde, som prins Henrik og dronning
+Ingrid har fået det.
+Med disse ord tilsiger jeg Dansk Folkepartis
+tilslutning til en hurtig behandling af sagen her i
+Folketinget.";Poul Nødgaard
+79453;title_name;":
+Kongehuset har en særstilling i Danmark. Det
+synes jeg er rigtigt. Dette lovforslag er udtryk
+for denne særstilling. Datoen i lovforslaget er
+fastsat ud fra den ansøgning om dansk statsborgerskab, jeg har modtaget fra Alexandra Manley, der har anmodet om statsborgerskab fra den
+18. november: derfor denne dato.";Bjørn Westh
+79789;name_party;":
+For alle eventualiteters skyld vil jeg godt bede
+justitsministeren bekræfte, at der ikke er noget,
+der forhindrer, at prins Joachim er gift med en
+udenlandsk statsborger, f.eks. en statsborger i
+Storbritannien.";Søren Søndergaard
+80033;title_name;":
+Den sag, vi behandler, er en ansøgning om
+statsborgerskab, jeg har modtaget fra en person,
+der har forlovet sig med prins Joachim, og som
+ønsker at blive dansk statsborger fra den dag,
+hun gifter sig med prins Joachim, og det er det,
+regeringen fremsætter forslag om.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Bjørn Westh
+80426;title_name;"Jeg foreslår, at lovforslaget henvises til Indfødsretsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 6:
+Forslag til lov om indfødsrets meddelelse.
+Af justitsministeren (Bjørn Westh).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+80835;name_party;":
+Fremskridtspartiet har flere gange tidligere
+markeret, at vi ønsker, at der er nogle krav, der
+skal være opfyldt, før man får dansk statsborgerskab. Bl.a. mener vi, at man skal kunne klare
+sig selv økonomisk, at man skal kunne tale et
+forståeligt dansk, og at man skal holde sig fri af
+kriminalitet. Når først man har fået dansk statsborgerskab, kan man blive i Danmark resten af
+sit liv, og det er derfor vigtigt, at vi nøje ser
+ansøgerne an, inden vi udleverer det guldrandede stykke papir: Dansk indfødsret.
+Fremskridtspartiet vil selvfølgelig i udvalget
+nøje arbejde med de personer, som har søgt om
+darisk statsborgerskab. Vi vil kigge dem lidt i
+kortene, som vi plejer at gøre, og eventuelt stille
+ændringsforslag, hvis der er personer, som vi
+efter en gennemgang af forslaget ikke mener
+skal opnå dansk statsborgerskab.";Tom Behnke
+81686;name_party;":
+Jeg synes, det indlæg, vi lige har hørt, og det
+indlæg, som vi kommer til at høre efterfølgende,
+fuldstændig illustrerer den pointe, jeg prøvede
+at gøre opmærksom på under det forgående
+punkt: Lige pludselig skal folk kigges i kortene,
+og så skal vi kontrollere, og så skal vi gøre det
+ene og gøre det andet for at være sikre osv.
+Det er forskelsbehandling, men det er en forskelsbehandling, som nogle åbenbart lever fortrinligt med. Det gælder ikke Enhedslisten.
+Enhedslisten vil selvfølgelig deltage i arbejdet
+med at gennemgå de pågældende, og Enhedslisten kan tilsige sin støtte til, at alle, der opfylder betingelserne for at få dansk indfødsret,
+selvfølgelig skal have det.";Søren Søndergaard
+82386;name_party;":
+Vi kan jo godt tale lidt forbi hinanden en gang
+imellem, men det foregående forslag og så dette
+forslag adskiller sig jo afgørende derved, at i det
+forslag, vi behandler nu, står der en lang række
+personer, som er straffet for forskellig kriminali-
+
+Onsdag den 11. oktober 1995 (L 6)
+tet, men som nu har udstået en eller anden
+periodeforlængelse, som er vedtaget af regeringen, Venstre og De Konservative.
+Dér er det vores opfattelse, vil jeg gerne sige
+til Enhedslisten, at det er ulogisk for den danske
+befolkning, at folk, der har fået hårde straffe for,
+narkotikahandel, groft overfald osv., på noget
+tidspunkt skal have dansk indfødsret. Derfor
+kan jeg ligesom hr. Søndergaard tilsige, at vi må
+gå alle de ansøgninger igennem og se på, hvilke
+der i realiteten burde slettes.
+Jeg ved, at det ikke sker, for jeg ved, at regeringen og V og K er hoppet på den limpind, at
+uanset hvor høje straffe folk har fået, så forlænger man bare de 7 år med et par år eller 3, og så
+giver man dem dansk indfødsret. Jeg har tidligere her i Folketinget spurgt: Er man klar over,
+hvad det vil sige at få dansk indfødsret og dermed dansk statsborgerskab?
+Når man får de største rettigheder, man overhovedet kan få i denne verden med hensyn til
+goder, synes jeg også, man skal have gjort sig
+fortjent til goderne, og det har man ikke, hvis
+man, når man kommer til et land, gang på gang
+overtræder den ene bestemmelse efter den
+anden, og i denne sag er Folketinget i total konflikt med befolkningen.
+Jeg er sikker på, at 80-90 pet. af befolkningen
+synes, det er hul i hovedet at give indfødsret til
+ca. en tredjedel af dem, Folketinget her giver
+dansk indfødsret, for de burde ikke have det,
+når ikke de kan leve nogenlunde efter danske
+regler. Nu ser jeg bort fra folk, der har kørt uden
+lys på cyklen: det er ikke dem, vi taler om.
+Hr. Søndergaard og andre her i Folketinget
+ved ganske udmærket, at der er tale om folk på
+den lange liste, vi har her i lovforslaget, som har
+fået ganske betragtelige domme for forskellige
+forbrydelser, overtrædelse af lovgivning osv.
+Derfor kan jeg sige, at i det udvalgsarbejde, der
+nu følger med denne sag, vil vi i Dansk Folkeparti nøje gennemgå de forskellige ansøgninger,
+og vi vil også stille samme ændringsforslag, som
+vi er vant til at stille, for det kan ikke være
+meningen, at det danske samfund skal belastes
+med de udgifter, der er, når folk ikke vil rette sig
+efter den danske lovgivning.";Poul Nødgaard
+84831;name_party;":
+Jeg er fuldstændig enig med hr. Poul Nødgaard
+i det, der blev sagt her fra talerstolen, men jeg
+synes på den anden side også, det er vigtigt, at
+man så kommer med nogle positive tilkendegivelser.
+
+199
+
+Det er første gang i de 7/2 år, jeg har siddet
+her i Tinget og har haft med indfødsret at gøre,
+at jeg har set et lovforslag med så mange personer på uden virkelig alvorlig kriminalitet, så den
+opstramning, som vi lavede her i foråret, har,
+faktisk virket.
+Så er der et sidste skridt tilbage. Lad os tage
+det på et senere tidspunkt, men jeg synes, at det
+positive også skal frem.";Inge Dahl-Sørensen
+85433;name_party;":
+Nu fik fru Inge Dahl-Sørensen stort set sagt det,
+jeg ville have sagt her i salen, men vi er også på
+mange måder enige med Dansk Folkeparti i, at.
+der skal ske nogle væsentlige opstramninger.,
+Men jeg synes, at det forlig, vi fik igennem her i
+foråret, har været godt. Vi har fået strammet op
+med hensyn til kriminaliteten, og det var sådan
+set det primære ønske, vi havde fra konservativ
+side.
+Nu er vi så blevet lovet nogle forhandlinger
+med justitsministeren om, at vi skal stramme
+sprogkravene og bestemmelserne om gæld til
+det offentlige, og de forhandlinger håber jeg
+snart går i gang. Men jeg vil sige, at man også
+skal passe på, at man ikke farer for hårdt frem
+her, for, som fru Inge Dahl-Sørensen også var
+inde på, er der rent faktisk i dette lovforslag, vi
+behandler denne gang, ikke optaget så mange
+tidligere kriminelle, og det har vi i hvert fald
+med stor tilfredshed noteret os efter det forlig, vi
+har indgået.";Gitte Seeberg
+86393;title_name;":
+Jeg vil gerne takke for den modtagelse, store
+dele af Folketinget har givet dette lovforslag.
+Man kan ikke fortænke Fremskridtspartiet og
+Dansk Folkeparti i nu at gå ud i en konkurrence
+på det overdrev, hvor de altid har befundet sig.
+Til de øvrige partier vil jeg sige, at jeg selvfølgelig altid vil være parat til at diskutere de
+spørgsmål, der rejses i forbindelse med dette
+lovforslag.";Bjørn Westh
+86803;name_party;":
+Jeg synes, det er groft af justitsministeren at
+sige, at vi går ud på overdrevet. Er det at være
+ude på overdrevet at sige, hvad den danske
+befolkning synes er ret og rimeligt?
+Jeg synes ikke, at justitsministeren kan være
+bekendt at komme med sådan en udtalelse. Vi
+lever i et demokratisk land - går jeg ud fra hvor man har lov til at tale og tænke frit. Det er
+det, vi har gjort, og vi er enige med store dele af
+den danske befolkning om det.
+
+200
+
+Onsdag den 11. oktober 1995 (L 6)
+
+Så synes jeg, det er en uartig bemærkning, at
+justitsministeren siger, at vi er ude på et eller
+andet overdrev.
+
+Udenrigsudvalget (6/10 95):
+Medl.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)";Poul Nødgaard
+87523;title_name;":
+Justitsministeren tillod sig bare at tale og tænke
+frit.
+
+Skatteudvalget (6/10 95):
+Medl.: Kristian Thulesen Dahl (FP) ændret til
+Kristian Thulesen Dahl (DF)
+
+Hermed sluttede forhandlingen.
+
+Kommunaludvalget (6/10 95):
+Medl.: Poul Nødgaard (FP) ændret til
+Poul Nødgaard (DF)
+Stedf.: Ole Donner (FP) ændret til
+Ole Donner (DF)
+
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Bjørn Westh
+87944;title_name;"Jeg foreslår, at lovforslaget henvises til Indfødsretsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Meddelelser fra formanden";Formanden
+88150;title_name;"Der er ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Det Udenrigspolitiske Nævn (6/10 95):
+Medl.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+OSCE's parlamentariske forsamling (6/10 95):
+Medl.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+Retsudvalget (6/10 95):
+Stedf.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+Udvalget vedrørende Det Etiske Råd (6/10 95):
+Stedf.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+Folketingets Ø-kontaktudvalg (6/10 95): I.
+Medl.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+
+Europaudvalget (6/10 95):
+Medl.: Kristian Thulesen Dahl (FP) ændret til
+Kristian Thulesen Dahl (DF)
+Trafikudvalget (6/10 95):
+Medl.: Ole Donner (FP) ændret til
+Ole Donner (DF)
+Stedf.: Poul Nødgaard (FP) ændret til
+Poul Nødgaard (DF)
+Kirkeudvalget (6/10 95):
+Medl.: Poul Nødgaard (FP) ændret til
+Poul Nødgaard (DF)
+Kulturudvalget (6/10 95):
+Medl.: Ole Donner (FP) ændret til
+Ole Donner (DF)
+Stedf.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+Det Politisk-Økonomiske Udvalg (6/10 95):
+Stedf.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+Forskningsudvalget (6/10 95):
+Stedf.: Poul Nødgaard (FP) ændret til
+Poul Nødgaard (DF)
+Forsvarsudvalget (6/10 95):
+Stedf.: Pia Kjærsgaard (FP) ændret til
+Pia Kjærsgaard (DF)
+Indfødsretsudvalget (6/10 95):
+Medl.: Poul Nødgaard (FP) ændret til
+Poul Nødgaard (DF)
+Uddannelsesudvalget (6/10 95):
+Medl.: Poul Nødgaard (FP) ændret til
+Poul Nødgaard (DF) ,
+
+Onsdag den 11. oktober 1995
+
+201
+
+Miljø- og Planlægningsudvalget (10/10 95):
+Udtræder: Keld Albrechtsen (EL)
+Nyt medl.: Jørgen Lund (EL)
+
+Skatteudvalget (10/10 95):
+Udtræder: Kirsten Jacobsen (FP)
+Ny stedf.: Kim Behnke (FP)
+
+Landbrugs- og Fiskeriudvalget (10/10 95):
+Udtræder: Bent Hindrup Andersen (EL)
+Nyt medl.: Keld Albrechtsen (EL)
+Udtræder: Keld Albrechtsen (EL)
+Ny stedf.: Frank Aaen (EL).
+
+Folketingets næste møde afholdes i morgen,
+torsdag den 12. oktober 1995, kl. 10.00.
+
+Kulturudvalget (10/10 95):
+Udtræder: Bent Hindrup Andersen (EL)
+Ny stedf.: Bruno Jerup (EL)
+
+Mødet hævet kl. 13.58
+
+Angående dagsordenen skal jeg henvise til den
+dagsorden, der er opslået i salen.";Formanden

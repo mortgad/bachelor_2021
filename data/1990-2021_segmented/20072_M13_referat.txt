@@ -1,0 +1,1058 @@
+split;reason;text;value
+0;;"510
+
+Tirsdag den 8. januar 2008 (D)
+Fra statsministeren har jeg modtaget meddelelse
+om en midlertidig ressortændring mellem ministrene.
+13. m ø d e";
+184;Time;"Dagsorden
+
+1) 1. behandling af L 31:
+Forslag til lov om ændring af forskellige skattelove. (Diverse EU-tilpasninger af skattelovgivningen m.v.).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 05.12.2007).
+2) 1. behandling af L 32:
+Forslag til lov om ændring af momsloven og forskellige andre love. (Flymoms, salg til interesseforbundne parter, omvendt betalingspligt, undtagelser til energibeskatningsdirektivet m.v.).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 05.12.2007).";kl. 13.00
+686;Time;Meddelelser fra formanden;Kl. 13:01
+743;title_name;":
+Mødet er åbnet.
+Medlem af Folketinget Özlem Sara Cekic (SF)
+har meddelt mig, at hun på grund af graviditet
+og fødsel ikke vil kunne give møde i Tinget i
+mindst 7 dage, hvorfor hun anmoder om orlov,
+jf. Folketingets forretningsordens § 41, stk. 4,
+fra og med den 10. januar 2008 og om, at stedfortræderen må blive indkaldt.
+Det Radikale Venstres folketingsgruppe har
+meddelt mig, at den har udpeget Manu Sareen
+som statsrevisor for den resterende del af funktionsperioden i.stedet for Johannes Lebech.
+
+Meddelelsen vil blive optrykt i Folketingstidende.
+[»Efter statsministerens indstilling er det ved
+kongelig resolution af 18. december 2007 bestemt, at ressortansvaret for sagen om godkendelse af den bestyrelse for Arbejdsgivernes Elevrefusion, der skal nedsættes pr. 1. januar 2008,
+overføres fra undervisningsministeren til justitsministeren, idet der vil kunne rejses spørgsmål
+om undervisningsministerens habilitet ved behandlingen af sagen.
+Jeg beder formanden underrette Folketinget
+herom.
+Sign. Anders Fogh Rasmussen
+/Anne Kristine Axelsson.«]
+Medlemmer af Folketinget Søren Espersen (DF)
+m.fl. har meddelt mig, at de ønsker at stille følgende forespørgsel til statsministeren:
+»Hvad kan statsministeren oplyse om den politiske - og ikke mindst den socialpolitiske situation i Grønland?«
+(Forespørgsel nr. F 8).
+Medlemmer af Folketinget Pia Olsen Dyhr (SF)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om forundersøgelse af en Kattegatforbindelse.
+(Beslutningsforslag nr. B 29).
+Medlemmer af Folketinget Morten Messerschmidt (DF) m.fl. har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om at højne borgernes it-kundskaber.
+(Beslutningsforslag nr. B 30).
+
+Tirsdag den 8. januar 2008 (L 31)
+Det første punkt på dagsordenen er:
+1) 1. behandling af L 31:
+Forslag til lov om ændring af forskellige skattelove. (Diverse EU-tilpasninger af skattelovgivningen m.v.).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 05.12.2007).";Jens Vibjerg
+2776;Time;Forhandling;Kl. 13:03
+2819;title_name;":
+Forhandlingen er åbnet. Hr. Karsten Lauritzen.";Jens Vibjerg
+2877;Time;(Ordfører);Kl. 13:03
+2910;name_party;":
+Lovforslaget er det, som vi der, hvor jeg kommer
+fra i Jylland, kalder en blandet landhandel, og
+det, der handles med, er skattelovgivning.
+Forslaget indeholder nemlig en række forskellige elementer, og jeg mener, at de fleste
+bedst kan karakteriseres som mindre, men dog
+nødvendige justeringer i sammenhæng med tilpasning til EU-retten, f.eks. nedsættelse af beskatning af udbytte-, rente- og royaltybetaling til
+udlandet, fordi de nuværende regler er i strid
+med EU-traktatens grundlag og frihedsrettigheder i forhold til den fri bevægelighed af kapital,
+som også gælder lande uden for EU. Da Kommissionen har åbnet en sag mod Danmark, som
+vi står til at tabe, er det nødvendigt med en justering.
+Et andet eksempel på sådan en justering er
+reglerne for udenlandske velgørenhedsforeninger, så de kan modtage fradragsberettigede donationer, hvis de vel at mærke er godkendte i
+deres hjemland som velgørende foreninger.
+Efter vores opfattelse er det alt sammen fornuftige justeringer, som bl.a. skal være med til
+at hjælpe på den fri kapitals bevægelighed, som
+vi jo er for. Man kan sige, at forslaget består af
+mange delforslag, og det er en lillebitte smule
+teknisk, men efter en nøje granskning synes vi
+ikke desto mindre, at det er ganske fornuftigt
+- også høringssvarene taget i betragtning - og
+Venstre ser de foreslåede ændringer, som L 31
+medfører, som en konsekvens af en fornuftig og
+uundgåelig tilpasning af dansk lovgivning i forhold til EU, og vi støtter derfor forslaget både
+her i salen og i det fortsatte udvalgsarbejde.";Karsten Lauritzen
+4457;Time;;Kl. 13:04
+4488;title_name;":
+Tak. Der er spørgsmål fra hr. Nick Hækkerup.
+
+511";Jens Vibjerg
+4550;Time;;Kl. 13:05
+4568;name_party;":
+Jeg vil bare stille et enkelt spørgsmål: Er Venstres ordfører, hr. Karsten Lauritzen, enig med
+Socialdemokratiet i, at fjernelse af et fradrag for
+skatteyderen og for statskassen alt andet lige har
+den samme virkning, som hvis en skat eller afgift hæves, nemlig at rådighedsbeløbet reduceres, og at statskassens provenu forøges?
+Hvis Venstres ordfører er enig i det, er ordføreren så tillige enig i, at fradraget kun kan fjernes eller reduceres i overensstemmelse med
+skattestoppet, hvis der er tvingende grunde til
+det?";Nick Hækkerup
+5100;Time;;Kl. 13:05
+5131;title_name;":
+Så er det ordføreren.";Jens Vibjerg
+5164;Time;;Kl. 13:05
+5186;name_party;":
+Når det handler om skattestoppet, er det jo defineret sådan, at når vi i EU-lovgivningen bliver
+stillet over for et krav om en harmonisering eller
+en tilpasning, er der plads til det inden for skattestoppets rammer. Det er jo i høj grad det, vi ser
+her, nemlig at vi er tvunget ud i at skulle regulere, fordi vi skal være i overensstemmelse med
+EU-retten, og derfor har regeringen valgt at
+fremlægge de her ændringer. Dem støtter vi så i
+Venstre, og det er inden for rammerne af skattestoppet.";Karsten Lauritzen
+5691;Time;;Kl. 13:06
+5722;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og næste ordfører er hr. Nick Hækkerup.";Jens Vibjerg
+5825;Time;(Ordfører);Kl. 13:06
+5854;name_party;":
+Som det blev nævnt før, skal Folketinget med
+L 31 på en gang forholde sig til en buket af love
+- ikke mindre end 12 stykker. De fleste af de foreslåede lovændringer er ganske fornuftige og
+giver relevante svar på nogle problemstillinger,
+som er konstateret udeomkring i det virkelige
+liv. Grundlæggende kan forslagene opdeles i to
+dele, nemlig fire forslag, som er initieret, fordi
+EU foreskriver det, i hvert tilfælde i den forstand, at vi kunne løbe en risiko for at komme i
+strid med EU-retten, hvis vi ikke foretager os noget, og otte forslag, som man kan sige er på eget,
+nationalt initiativ.
+I buketten af forslag er der et forslag, som Socialdemokratiet mener der er grund til at give
+særlig opmærksomhed, nemlig forslaget om afskaffelse af det særlige fradrag til eksportmedar-
+
+512
+
+Tirsdag den 8. januar 2008 (L 31)
+
+bejdere. Det er et fradrag, som f.eks. kommer rejsemontørerne fra MAN B&W i Frederikshavn
+og Holeby til gode, det vil sige medarbejdere
+- danskere - som rejser rundt i verden og foretager reparationer og montage af skibsmotorer. En
+stor del af deres arbejde består af salg i forbindelse med reparationer og montage. Det fradrag
+handler i sin substans om danske virksomheders eksport i den store verden.
+Dansk økonomi bevæger sig efter 2015-planen, der er en plan, som jo i sine økonomiske
+måltal og forudsætninger har bred opbakning
+Folketinget, men også en plan, som har betydelig sårbarhed. Det er i flere sammenhænge og fra
+flere sider understreget, at hvis planen skal hænge sammen, så skal den ustøttede beskæftigelse
+øges varigt med 20.000 personer, og den gennemsnitlige arbejdstid må ikke falde. Med den
+måde, arbejdsmarkedet i øvrigt udvikler sig på
+frem mod 2015 med ændret alderssammensætning osv., så betyder det i realiteten, at den gennemsnitlige arbejdstid skal løftes med 1,8 pet. de
+kommende år. Eksportmedarbejderfradraget
+blev som nævnt indført for nogle år siden med
+det mål at sikre den danske eksport, hvilket der
+bestemt fortsat er et betydeligt behov for, betalingsbalancens udvikling siden 2004 taget i betragtning. Fjernelsen af eksportmedarbejderfradraget vil altså være problematisk i forhold til
+2015-planens mål om øget beskæftigelse og fastholdelse af den gennemsnitlige arbejdstid og
+dermed stabiliteten i den danske økonomi og vil
+skubbe yderligere til en uheldig udvikling i betalingsbalancen.
+Heroverfor står så den rimelige begrundelse,
+at vi er nødt til at gøre det for at sikre EU-lovmedholdeligheden. Og der henvises i den her
+forbindelse i bemærkningerne til lovforslaget til
+en afgørelse, som Kommissionen har truffet
+vedrørende udgifter til repræsentation. At det
+samme gør sig gældende for eksportmedarbejderfradraget, er der ikke argumenteret overbevisende for, ligesom det blot i lovforslaget er anført, at det må anses for usandsynligt, at støtten i
+de to bestemmelser vil kunne godkendes af
+Kommissionen som lovlig statsstøtte.
+Socialdemokratiet mener, at der, før loven
+vedtages, er behov for yderligere dokumentation for, at de danske regler faktisk er uforenelige med EU-retten. Vi står jo ikke lige over for
+en traktatkrænkelsessag på dette punkt. Der er
+
+grund og tid til at overveje alternative løsninger,
+så de erhvervsmæssige konsekvenser kan afbødes. Det kunne ske ved et tværministerielt samarbejde eller på anden måde.
+Socialdemokratiet kan støtte de fremsatte forslag, men ønsker som nævnt forbeholdene omkring det særlige fradrag for eksportmedarbejdere udredt grundigere. Der skal efter vores opfattelse udvises forsigtighed med at agere i strid
+med den økonomiske politik og muligvis bevæge sig på kanten af skattestoppet, blot fordi regeringen har mere eller mindre velbegrundede formodninger om, hvad bureaukratiet i Bruxelles
+måske hypotetisk måtte mene om dette eller
+hint.";Nick Hækkerup
+9633;Time;;Kl. 13:10
+9664;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste ordfører er fru Pia Adelsteen.";Jens Vibjerg
+9771;Time;(Ordfører);Kl. 13:10
+9801;name_party;":
+L 31 er et forslag om ændring af forskellige skattelove. Forslaget, som indeholder, skal vi sige alt
+godt fra havet, har flere justeringer, som vi finder positive. Her vil jeg fremhæve ændringen
+om sambeskatningsreglerne i forbindelse med
+konkurs, som ophører. Indførelse af fradrag for
+udenlandske lønmodtageres arbejdsgiverafgifter ved dansk beskatning er også positivt. Dette
+vil uden tvivl være til gavn for de mange svenskere, der har beskæftigelse i Danmark, og de
+danske arbejdsgivere.
+Med hensyn til nedsættelse af fradragsretten
+for udgifter til repræsentation i eksportøjemed
+er det Dansk Folkepartis holdning, at en virksomhed skal kunne fratrække sine udgifter. I
+1986 indførtes reglen om 25 pet. fradragsret på
+repræsentationsudgifter i Danmark. Ønsker regeringen at ændre fradragsretten på 100 pet. i
+eksportøjemed, således at satserne bliver ens, vil
+vi anbefale en stigning i fradragsretten på repræsentationsudgifter i Danmark.
+Med hensyn til fjernelsen af eksportmedarbejderes fradrag er vi også meget imod det, men vi
+ser frem til at gå i gang med udvalgsbehandlingen af forslaget.";Pia Adelsteen
+10913;Time;;Kl. 13:12
+10944;title_name;":
+Tak til ordføreren. Næste ordfører er hr. Jesper
+Petersen.
+
+(65)
+Tirsdag den 8. januar 2008 (L 31)";Jens Vibjerg
+11055;Time;;Kl. 13:12
+11076;name_party;":
+Alt godt fra havet, en blandet landhandel: forslaget har fået forskellige overskrifter. Man kunne også kalde det et bunkebryllup. Det er mange
+forslag, vi behandler på en gang, og det er jo i og
+for sig en uskik, at vi på den måde tager en hel
+håndfuld forslag eller mere og behandler på en
+gang.
+Men der er jo nogle praktiske hensyn, der betyder, at vi gør det, og man må sige, at det trods
+alt er godt, at den del af det gamle L 20 - som
+det her forslag jo stammer fra - om ligestilling af
+børs- og unoterede aktier er røget ud. Det er vi
+rigtig glade for i SF. Det giver os mulighed for at
+se mere positivt på L 31, som det ligger nu.
+Vi er meget tilfredse med, at der med L 31 bliver lukket forskellige huller, herunder de skattehuller, som SF tidligere har peget på. Det drejer
+sig f.eks. om hullet vedrørende konkurs i sambeskattede datterselskaber uden for Norden,
+som SF's tidligere skatteordfører, hr. Morten Homann, tog op med spørgsmål nr. S 306 i sidste
+samling. Man kan gå ind og tjekke, hvis man vil.
+Der kan dog fortsat være nogle problemer i
+forbindelse med den såkaldte skyggebeskatning, og det vil vi undersøge nærmere i forbindelse med udvalgsbehandlingen. Statskassen
+skal ikke belastes af skattespekulation, og SF vil
+fortsætte med at finde hullerne og dække dem
+til til gavn for almindelige skatteborgere, så vi
+kan finansiere de forbedringer af velfærden, vi
+gerne vil gøre.
+De mindre skattelettelser til erhvervslivet, der
+også ligger i L 31, er konsekvenser af EU-regler,
+som vi så må acceptere her, men vi glæder os
+over de fremskridt, der også sker med L 31. Der
+sker f.eks. en delvis lukning af hullerne i forbindelse med forældrekøb af ejendom og i forbindelse med indførelse af fraflytterbeskatning, så
+mælkekvoter og andre rettigheder ikke kan flyttes til udlandet og undgå beskatning.
+SF anser det også for positivt, at statsstøtten
+til repræsentationsomkostninger i virksomheder
+mindskes. Den fælles samfundskasse skal ikke
+give støtte til restaurantbesøg med udenlandske
+forretningsforbindelser.
+Målsætningen om at gøre det nemmere for
+borgere bosiddende i Sverige at arbejde i Danmark og samtidig have deltidsarbejde i Sverige
+kan vi også tilslutte os. Under udvalgsbehandlingen vil vi dog se nærmere på eventuelle alter-
+
+513
+
+nativer, som der bl.a. bliver peget på i Öresundskommiteens høringssvar.
+Det er også godt, at danskere, der vil støtte en
+velgørende forening i udlandet, får mulighed
+for at få det samme fradrag, som gælder, hvis de
+ville støtte danske velgørende foreninger. Det er
+en konsekvens af Staufferdommen i EU. Det er
+dog værd at bemærke, som det står i bemærkningerne til lovforslaget, at der med det her forslag vil blive en større administrativ byrde for
+SKAT. Det er et faktum, der desværre falder
+sammen med den fortsatte underbemanding i
+SKAT, som regeringen har skaffet sig selv og
+skatteborgerne på halsen med en større skatteunddragelse til følge.
+Men alt i alt er der først og fremmest tale om
+nogle fornuftige tilpasninger og justeringer, og
+SF vil erklære sig umiddelbart positive over for
+forslaget og ser frem til den fortsatte behandling
+i udvalget.";Jesper Petersen
+14208;Time;;Kl. 13:15
+14239;title_name;":
+Tak til ordføreren. Næste ordfører er hr. Henrik
+Rasmussen.";Jens Vibjerg
+14310;Time;(Ordfører);Kl. 13:15
+14343;name_party;":
+Da den konservative ordfører, hr. Lars Barfoed,
+ikke kan være til stede, skal jeg her kort redegøre for De Konservatives holdninger til lovforslaget.
+Der er tale om en lang række forslag til ændringer i skattelovgivningen. Nogle drejer sig
+om tilpasning til EU-retten, andre om at gøre
+reglerne mere hensigtsmæssige og hindre utilsigtede effekter af gældende regler. Der er generelt tale om forslag af teknisk karakter uden stor
+principiel betydning eller væsentlige provenumæssige konsekvenser.
+Det Konservative Folkeparti kan støtte lovforslaget. Vi vil dog under udvalgsarbejdet være
+opmærksomme på de henvendelser, der måtte
+komme til udvalget, og er parate til at medvirke
+til korrektioner, hvis der måtte være behov for
+disse.
+Samtidig skal jeg hilse fra Ny Alliances ordfører, hr. Anders Samuelsen, som heller ikke kan
+være til stede i dag, og sige, at Ny Alliance også
+støtter forslaget.";Henrik Rasmussen
+15250;Time;;Kl. 13:16
+15281;title_name;":
+Tak til ordføreren. Den næste ordfører er hr.
+Niels Helveg Petersen.
+
+514
+
+Tirsdag den 8. januar 2008 (L 31)";Jens Vibjerg
+15403;Time;(Ordfører);Kl. 13:16
+15441;name_party;":
+Lovforslaget her har til sigte at bringe den danske skattelovgivning i overensstemmelse med
+EU-retten, og det formål kan Det Radikale Venstre helt og fuldt tilslutte sig.
+Jeg skal ikke gå ind i de tekniske detaljer i
+lovforslaget. Jeg synes især, at lovforslaget kan
+have betydning for lønmodtagere med bopæl i
+Sverige og hovedbeskæftigelse i Danmark og bibeskæftigelse i Sverige. Jeg tror, man her kan løse et væsentligt problem for nogle af de skatteydere af denne art.
+Vi vil selvfølgelig være meget opmærksomme på de henvendelser, der kommer til udvalget
+i løbet af behandlingen af forslaget, men Det Radikale Venstre ser positivt på ministerens ønsker
+om her at sikre, at skattelovgivningen er i overensstemmelse med EU-retten.";Niels Helveg Petersen
+16185;Time;;Kl. 13:17
+16216;title_name;":
+Tak til ordføreren. Jeg ser ikke Enhedslistens
+ordfører i salen, så vi går videre til skatteministeren.";Jens Vibjerg
+16331;Time;;Kl. 13:17
+16366;title_name;":
+Jeg vil gerne starte med at takke for den udpræget positive modtagelse, som lovforslaget har
+fået - det glæder mig. Og det overrasker mig sådan set ikke, for det ville have overrasket mig
+mere, hvis man havde været modstander af, at
+vi nu får ryddet op med disse, hvad man vel
+godt kunne kalde små og i sig selv ikke særlig
+betydende, men alligevel nødvendige ændringer af lovgivningen, sådan at dansk skattelovgivning kommer i overensstemmelse med de
+fælles regler, vi har på EU-området.
+Det drejer sig om reglerne om, at vi ikke diskriminerer. De regler, vi tilbyder danske virksomheder, skal vi også tilbyde andre EU-landes
+virksomheder, og vi må ikke indføre særlige regler, der gør det mere attraktivt at sælge til andre
+EU-lande end at sælge til Danmark og til danske
+virksomheder.
+Det er jo det, der bl.a. er baggrunden for, at vi
+er nødt til at gøre op med de særlige fradragsregler, der er for repræsentation, når det gælder
+eksport, og der har Dansk Folkepartis ordfører
+jo egentlig ret i, at der er to veje at gå: Der er enten den vej, at man kan sænke fradragsretten for
+repræsentation, sådan at den bliver på 25 pet.
+
+for alle, eller der er den vej, at man kan sige, at
+nu bliver der fuld fradragsret for repræsentation.
+Med hensyn til respekten for at holde en samlet finanspolitisk linje og respekten for, hvad det
+er for nogle prioriteter, vi har, vil jeg sige, at vi
+fra regeringens side har valgt at lave en samling
+på det niveau, hvor vi giver det samme fradrag,
+som vi giver for indenlandsk repræsentation.
+Der er blevet sagt mange ting - og ikke nødvendigvis særlig pæne ting - om det at samle så
+mange forskellige elementer i et samlet lovforslag. Og jeg er sådan set enig i, at det ikke er nogen særlig god løsning at samle ting, der er så
+forskellige som ændring af sambeskatning, fraflytningsbeskatning, forældrekøb og ændring af
+EU-reglerne, men omvendt vil jeg også sige, at
+det måske ville være en vis form for misbrug af
+Folketingets tid, hvis vi skulle behandle hvert
+enkelt at de, tror jeg, i alt 17 punkter, der er samlet her, som selvstændige lovforslag.
+Derfor har vi gjort præcis det, som SF's ordfører sagde: Efter valget og efter at den nye folketingssamling startede, har vi taget det element i
+det gamle lovforslag, som var mest fjernt fra de
+andre, ud og så beholdt en buket, kan man kalde
+det, af lovændringer. Og det særlige kendetegn
+ved en buket er jo, at det ikke nødvendigvis skal
+være fuldstændig ens blomster, men at blomsterne som helhed skal udgøre en smuk symfoni
+af indtryk, og jeg er glad for, at så mange har ladet sig overvælde af den her juridiske buket, og
+at de slutter op bag lovforslaget.
+Jeg håber på en god udvalgsbehandling, og vi
+skal også nok gøre vores bedste for at stramme
+argumentationen op vedrørende det EU-retlige
+behov for ændring af reglerne, sådan at også Socialdemokraterne vil stemme for lovforslaget
+ved tredjebehandlingen.";Kristian Jensen
+19279;Time;;Kl. 13:21
+19310;title_name;":
+Tak til skatteministeren.
+Da der ikke er flere, som har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Tirsdag den 8. januar 2008 (L 32)
+Det sidste punkt på dagsordenen er:
+2) 1. behandling af L 32:
+Forslag til lov om ændring af momsloven og
+forskellige andre love. (Flymoms, salg til interesseforbundne parter, omvendt betalingspligt, undtagelser til energibeskatningsdirektivet m.v.).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 05.12.2007).";Jens Vibjerg
+19907;Time;"Forhandling
+Den f g. formand (Jens Vibjerg):
+Forhandlingen er åbnet, og jeg giver først ordet
+til Venstres ordfører, hr. Torsten Schack Pedersen.";Kl. 13:21
+20063;Time;(Ordfører);Kl. 13:21
+20102;name_party;":
+Ligesom det foregående forslag er dette lovforslag en opfølgning på en række afgørelser ved
+EF-Domstolen, nye EU-regler og en række mindre justeringer.
+Først og fremmest følger lovforslaget op på
+den såkaldte Cimber Air-dom fra 2004, hvor de
+danske momsregler for leverancer af fly og flydele blev kendt direktivstridige. For at tilpasse
+de danske regler til EU-retten vil flyselskaber,
+som hovedsagelig - og det er efter mange overvejelser, diskussioner og ønsker defineret som
+over 55 pet. - driver udenrigsflyvninger, blive
+fritaget for moms på deres indenrigsfly. For at
+sikre overholdelsen af direktivet vil momsfritagelsen for leverancer af fly til private og almindelige erhvervsvirksomhedet blive ophævet.
+Der er vel ingen, som har læst de 304 sider
+høringssvar, der kan være i tvivl om, at særlig
+ophævelsen af momsfritagelsen gav anledning
+til en del røre, da forslaget blev sendt i høring.
+Bl.a. har flyskoler, som ikke har mulighed for at
+modregne momsen, været kritiske. For at imødegå denne indsigelse er der medtaget en overgangsbestemmelse på 2 år, således at elever på
+flyskoler kan færdiggøre deres uddannelse under de hidtil gældende momsregler, men således
+at overgangsbestemmelsen naturligvis gælder
+fuldt ud i de 2 år. Ligeledes lægges der op til en
+fortsat momsfrihed for leverancer af private fly i
+2008, således at allerede indgåede kontrakter
+kan gennemføres med de nuværende regler.
+Forslaget indeholder også en ændring af reglerne om salg mellem såkaldt interesseforbundne parter, populært omtalt som kantinemomsen.
+
+홢
+515
+
+I dag er der mulighed for at opnå en momsmæssig medfinansiering af bl.a. kantinemad til medarbejderne på en virksomhed, hvis virksomheden giver tilskud til at sænke salgsprisen. Med
+forslaget her vil det naturligvis fortsat være muligt for virksomhederne at give tilskud til kantinedrift for mad til deres medarbejdere, men
+momsreglerne vil ikke kunne være med til at
+give en rabat på denne prisnedsættelse. Så forslaget skal rette op på en utilsigtet anvendelse af
+momsreglerne.
+Det er også noget, der har påkaldt sig opmærksomhed i høringsfasen, og forslaget er
+præciseret, således at afgiftsgrundlaget ved leverancer mellem interesseforbundne parter er
+leverancens normalværdi, hvis den faktiske
+salgspris er fastsat så lavt, at den er under indkøbs- eller fremstillingsprisen. Virksomhederne
+kan gøre brug af mulighederne for bindende
+svar for at sikre, at ordningen er i overensstemmelse med reglerne.
+Desuden indeholder det foreliggende forslag
+en udvidelse af den omvendte betalingspligt for
+ydelser leveret til danske virksomheder af udenlandske selskaber. Det er et forslag, der har til
+formål at begrænse momssvig.
+Forslaget vil endvidere ændre i energiafgiftslovene, da Kommissionen har gjort det klart, at
+de nuværende undtagelsesmuligheder ikke kan
+videreføres. Det vil naturligvis være en belastning for de erhverv, som ikke længere vil kunne
+opnå en afgiftsfritagelse. Derfor fremgår det også af forslaget, at i forbindelse med økonomiaftaler mellem regering, kommuner og regioner
+vil der bliver lagt en kompensationsordning
+frem, således at forslaget ikke vil få en økonomisk effekt for disse.
+Derimod er der endnu ikke fundet en kompensationsordning for private busvognmænd,
+men ved at gøre brug af bestemmelserne om sociale forpligtelser kan der dog åbnes op for en
+løsning. I Venstre vil vi opfordre regeringen til at
+forfølge denne mulighed for at kompensere private busvognmænd, og jeg kan forstå, at der allerede er sat noget i gang.
+Endelig er der en reduktion i vandafgiftslovens godtgørelsessatser for en række erhverv,
+sidstnævnte med henblik på også at imødekomme Kommissionens krav til den eksisterende
+ordning.
+Alt i alt er der tale om et omfattende lovforslag, som på en række områder bringer de danske regler i overensstemmelse med EU-retten og
+EU-direktiverne. Lige så vel som vi i Danmark
+
+516
+
+Tirsdag den 8. januar 2008 (L 32)
+
+er meget opmærksomme, når der er andre lande, der har regler, der favoriserer deres nationale
+virksomheder og interesser eller yder statsstøtte
+på den ene eller den anden måde, må vi naturligvis også sørge for, at danske regler lever op til
+de samme principper, og ligesom vi i Venstre altid er klar til at lukke huller eller forhindre utilsigtet brug af skattereglerne, gør vi det også her.
+Vi kan derfor støtte det omfattende forslag.";Torsten Schack Pedersen
+24466;Time;;Kl. 13:25
+24497;title_name;":
+Tak til ordføreren. Vi går videre til den socialdemokratiske ordfører, hr. Nick Hækkerup.";Jens Vibjerg
+24598;Time;(Ordfører);Kl. 13:25
+24627;name_party;":
+Udeomkring i landet sidder en række borgmestre og byrådsmedlemmer, som jævnligt spørger
+sig selv: Hvorfor blander Folketinget sig nu i det
+her? Det kunne vi da håndtere meget bedre her
+hos os selv, hvis vi fik lov. Næste gang jeg møder
+nogle af dem og de spørger, hvordan det går i
+Folketinget, vil jeg sige, at inde i Folketinget
+spørger man jævnligt sig selv: Hvorfor blander
+EU sig nu i det her? Det kan vi da løse meget
+bedre selv.
+Men sådan er vilkårene, og som ved det foregående lovforslag står Folketinget også her med
+en række love samlet i en pakke, en buket, som
+skatteministeren så malende beskrev det, og
+som ved det foregående lovforslag er der også
+her tale om en lang række tilpasninger til EU-regulering - i øvrigt langt hen ad vejen ganske fornuftige tilpasninger.
+Jeg vil alene opholde mig ved et par af forslagene. Det første er forslaget om interesseforbundne parter og normalværdi, et forslag, som i
+bund og grund handler om at sikre statens indtægtsgrundlag og forhindre, at vi alle sammen
+via tabte momsindtægter kommer til at betale
+for ydelser mellem interesseforbundne parter.
+Socialdemokratiet synes, at den opstramning
+af reglerne, der er tale om, sker på en afbalanceret måde, som på den ene side betyder, at det
+fortsat vil være muligt at handle billigt mellem
+interesseforbundne parter, og på den anden side
+betyder, at hvis man vil gøre det så billigt, at det
+sker til under den faktiske indkøbs- eller fremstillingspris, må det ske for egen regning og
+uden statstilskud, idet man skal svare moms af
+normalværdien.
+For kantinemad, som jo er reguleringens
+praktiske kerne, vil normalværdien være be-
+
+stemt af indkøbs- og fremstillingsprisen, dvs.
+uden tillæg af avance.
+Det har været fremført, at den fordyrelse af
+kantinemaden, som dette forslag måtte medføre,
+vil være til skade for folkesundheden. Den socialdemokratiske holdning er, at når vi skal investere samfundsressourcer ud fra et sundhedsperspektiv, vil vi hellere bruge pengene på sund
+og billig mad i skoler og gratis mad i daginstitutioner, end vi vil investere samfundets penge i
+billig kantinemad.
+Når det er sagt, er det jo rigtigt, at med den
+regulering, der foreligger, vil det stadig være
+muligt at sikre billig kantinemad til medarbejderne. Spørgsmålet er bare, hvem der skal betale
+for det, for det skal ikke være os alle sammen.
+Det andet forslag, der skal nævnes, er forslaget om omvendt betalingspligt. Kernen i dette
+forslag er ønsket om at sikre, at den moms, der
+efter reglerne skal afregnes, også bliver det, idet
+de betalingspligtige fremover vil være modtagerne, som typisk befinder sig på det område,
+hvor danske myndigheder har jurisdiktion. Reglen vil navnlig have betydning for udenlandske
+byggevirksomheders leverancer til Danmark.
+Socialdemokratiet kan også støtte det forslag.
+Det tredje forslag i pakken, jeg vil omtale, er
+det, der ordret hedder afgiftsfritagelse for motorbrændstoffer til lokal offentlig passagerbefordring. Her fører EU's krav til, at afgiften på
+brændstof til offentlig transport bliver hævet, så
+der skal svares afgifter af brændstof, som man i
+øvrigt svarer afgifter af brændstof.
+For Socialdemokratiet er det afgørende, at
+udbyderne af bustransport, navnlig regionerne
+og kommunerne, bliver fuldt kompenseret via
+bloktilskuddet, så buspriserne kan holdes i ro.
+En sådan kompensation er indbygget i forslaget,
+og det er vi i Socialdemokratiet meget tilfredse
+med. Vi har med stigende bekymring set, hvordan priserne på kollektiv trafik er steget markant - mere end prisudviklingen i øvrigt - under den nuværende regering. Således er buspriserne steget med 33 pet. siden 2001, mens de
+gennemsnitlige forbrugerpriser alene er steget
+med 12 pet. - til skade for den kollektive trafik,
+til skade for dem, der ikke har bil, og til skade
+for miljøet.
+Afslutningsvis vil jeg bemærke, at der, som
+det også er blevet nævnt af andre, er en række af
+forslagene, som giver anledning til spørgsmål,
+og som jeg håber vi kan få kastet lys over i udvalgets arbejde. Et af dem kunne f.eks. være,
+hvilke skatter og afgifter der påtænkes nedsat,
+
+Tirsdag den 8. januar 2008 (L 32)
+således at den skatte- og afgiftsstigning på ikke
+mindre end 332 mio. kr., der er tale om, som følge af denne reguleringspakke neutraliseres og
+skattestoppet dermed overholdes.";Nick Hækkerup
+28923;Time;;Kl. 13:30
+28954;title_name;":
+Ja tak. Jeg skal lige bede ordføreren blive her, for
+der er et spørgsmål fra hr. Jesper Petersen.";Jens Vibjerg
+29063;Time;;Kl. 13:30
+29084;name_party;":
+Jeg noterede mig, at hr. Nick Hækkerup bemærkede, at der kan være spørgsmål om folkesundhed indblandet, når vi diskuterer skattespørgsmålene: Det glæder mig, fordi vi jo har en diskussion på bedding om momsen på fødevarer
+og det at skulle nedsætte prisen på fødevarer.
+Jeg noterede mig, at der i dag i Altinget.dk's fødevarerubrik var skepsis i den socialdemokratiske gruppe.
+Jeg vil blot høre hr. Nick Hækkerup, om det
+også er holdningen hos skattefolkene i Socialdemokratiet, at det at lave en særlig lav moms på
+fødevarer for at gavne folkesundheden ikke er
+noget, vi kan se på.";Jesper Petersen
+29677;Time;;Kl. 13:31
+29708;title_name;":
+Tak. Så er det ordføreren.";Jens Vibjerg
+29746;Time;;Kl. 13:31
+29764;name_party;":
+Uden at foregribe den forespørgselsdebat, som
+skulle have været i dag, men som så er blevet
+flyttet indtil videre, kan jeg sige, at det er den socialdemokratiske holdning, at folkesundheden
+ikke varetages bedst ved at differentiere momsen, og at vi, når vi sigter mod folkesundheden,
+selvfølgelig skal bruge de midler, som er mest
+tjenlige til at fremme folkesundheden mest muligt, og det er ikke vores opfattelse, at det sker
+med differentieret moms.
+Men når det er sagt, vil jeg sige, at det er vores holdning, at der med det forebyggelsesarbejde, som er initieret bl.a. af regeringen, jo skal ses
+på de her tanker, og man skal ikke lukke øjnene
+for, at det kan vise sig, at det kan være hensigtsmæssigt under den ene eller den anden form. Vi
+skal bare også være opmærksomme på, hvor
+stor en del af vores indtægtsgrundlag momsgrundlaget i virkeligheden udgør, og man skal
+passe på med, for at nå et lille mål, et lille, men
+vigtigt mål, nemlig folkesundheden, at pille ved
+en skrue, som har meget stor betydning for vores indtægtsgrundlag til at finansiere alle de
+ting, vi som samfund gerne vil lave, og dertil
+
+517
+
+kommer jo så, at der er en relation til skattestoppet, som vi bliver nødt til at forholde os til.
+Så lad os arbejde med det, men lad os sikre et
+stabilt beslutningsgrundlag, før vi piller ved så
+store og så vigtige samfundsbrikker.";Nick Hækkerup
+31127;Time;;Kl. 13:32
+31158;title_name;":
+Ja tak. Så er det hr. Jesper Petersen for yderligere
+et spørgsmål.";Jens Vibjerg
+31236;Time;;Kl. 13:32
+31257;name_party;":
+Jeg vil blot takke for svaret og for den dog lille
+åbning, der var for at se på forslaget. Det vil jeg
+se frem til at vi kan diskutere yderligere, når vi
+kommer længere frem og tættere på behandlingen af det her forslag om lavere moms på fødevarer.";Jesper Petersen
+31517;Time;;Kl. 13:32
+31535;name_party;":
+Vi er åbne og venlige mennesker!";Nick Hækkerup
+31579;Time;;Kl. 13:32
+31610;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste er hr. Mikkel Dencker fra
+Dansk Folkeparti.";Jens Vibjerg
+31730;Time;(Ordfører);Kl. 13:32
+31761;name_party;":
+Ja, som de tidligere ordførere har været inde på,
+indeholder lovforslaget her ligesom det foregående forslag en omgang blandede bolsjer inden
+for skatteområdet. Bl.a. foreslår regeringen, at
+de danske momsregler for leverancer af og til fly
+tilrettes, så de bliver i overensstemmelse med
+EU's regler, og baggrunden for det er, at der
+foreligger en dom fra EF-Domstolen tilbage fra
+2004, som har underkendt de danske momsregler på området.
+I Dansk Folkeparti føler vi os som bekendt
+ikke forpligtet af instrukser fra Bruxelles og omegn, og vi beklager da også, at regeringen vil
+lave de danske regler om. Det gør vi, fordi vi
+frygter, at indførelsen af moms på flybranchen
+vil tage livet af eller i bedste fald kraftigt reducere en hel branche her i Danmark. Jeg er klar
+over, at det vil være udsigtsløst at forsøge at omvende regeringen på det her område til at have
+en mindre begejstret indstilling til Den Europæiske Union, og hvad der dertil hører. Derfor er
+der heller ikke udsigt til, at jeg kan tale regeringen fra at lave de danske regler om eller lade de
+danske regler blive, som de er, men jeg vil da appellere til, at de nye regler, når de skal træde i
+kraft, så indføres med et så langt varsel som mu-
+
+518
+
+Tirsdag den 8. januar 2008 (L 32)
+
+ligt, så den berørte branche i det mindste kan
+have god tid til at tilpasse sig de nye regler. I den
+forbindelse vil jeg da ikke undlade at nævne, at
+Storbritannien har regler, som kan sammenlignes med de danske, og som derfor også er EUstridige. I Storbritannien er de endnu ikke gået i
+gang med at tilpasse sine regler, så jeg vil da opfordre regeringen til, at man af hensyn til branchen ikke ændrer reglerne i et hurtigere tempo,
+end vores venner på den anden side af Nordsøen gør det.
+Regeringen foreslår også at fjerne Danmarks
+undtagelse fra EU's energibeskatningsdirektiv.
+Her er det især vigtigt at være opmærksom på
+konsekvenserne af, at afgiftsgodtgørelsen for
+motorbrændstoffer til busser i rutefart bliver
+fjernet. Fjernelsen af denne afgiftsfritagelse betyder, at der fremover skal betales fuld dieselafgift
+af brændstof til busser i rutefart. Alt andet lige
+vil det betyde, at billetpriserne vil stige. Det problem løser man dog for de busselskaber, der kører for det offentlige, ved at bloktilskuddet til
+kommuner og regioner hæves tilsvarende.
+Til gengæld opstår der altså et stort problem
+for de busselskaber, som ikke kører kontraktkørsel for det offentlige, men i stedet kører rutefart
+på eget initiativ, for egen regning og for egen risiko. De selskaber kan ikke bare hæve prisen på
+deres kontrakt og dermed få dækket stigningen i
+dieselafgiften. De har kun ét sted at sende regningen hen, nemlig til passagererne, og dermed
+svækkes bussernes konkurrenceevne, ikke kun
+over for privatbilismen, men også over for den
+subsidierede kollektive trafik, hvor man skal huske på, at diesel til togtrafik fortsat er fritaget for
+afgift, og hvor busserne på anden måde kompenseres for dieselafgift. Et meget konkret eksempel er jo faktisk, at der her fra København
+går en busrute til Bornholm via Ystad på privat
+initiativ, og parallelt med den busrute kører DSB
+med dieseldrevne tog. Der skal ikke betales dieselafgift for togene, men busvognmanden skal
+betale, så det er en helt unfair konkurrence, der
+bliver tale om her.
+I Dansk Folkeparti finder vi det uacceptabelt,
+hvis man uden videre pålægger private aktører
+en afgift, som et offentligt støttet selskab bliver
+fritaget for. De private busselskaber udfører et
+samfundsnyttigt stykke arbejde ved at drive deres busruter, som mange danskere benytter og er
+glade for, og vi vil derfor opfordre regeringen til,
+at der findes en løsning på de rent private busselskabers problem, hvis det her forslag gennemføres. I Dansk Folkeparti medvirker vi me-
+
+get gerne i arbejdet frem mod en løsning, men
+jeg må også understrege, at hvis der ikke findes
+en tilfredsstillende løsning, kan vi altså ikke
+medvirke til, at det her forslag gennemføres.
+Til slut vil jeg også tage fat på elementet med
+hensyn til de interesseforbundne parter eller
+kantinemomsen, som det har været fremme tidligere. Forslaget lyder i udgangspunktet ganske
+logisk, men går man det efter i sømmene, synes
+jeg alligevel, at gennemførelsen vil have nogle
+uheldige konsekvenser. Et af problemerne med
+forslaget er, at man kommer ud for, at et eventuelt arbejdsgivertilskud til kantineordninger i
+virksomheder fremover skal have tillagt moms
+af den såkaldte normalværdi, der skal illustrere,
+hvad varen ville koste på det frie marked. Det
+vil alt andet lige betyde en højere pris for medarbejderne, hvilket vil gøre kantineordningerne
+mindre attraktive. Det kan føre til, at medarbejderne i stedet vil søge andre steder hen, til billigere alternativer af ringere kvalitet. Virksomheden kan også forsøge at holde prisen nede ved
+at bruge billigere råvarer af en dårligere kvalitet,
+men bundlinjeresultatet bliver alt andet lige, at
+medarbejderne altså enten må betale mere eller
+spise mad af en mindre lødig kvalitet. Det er altså ikke godt for sundheden.
+Endelig kan forslaget også medføre administrativt bøvl for virksomhederne, hvis der skal
+beregnes moms af den tid, personalet bruger på
+kantinedriften ud fra den samlede arbejdstid.
+For det er jo ikke nødvendigvis kun på kantinedrift, kantinepersonalet bruger arbejdstid, det
+kan også være på tilberedning af forplejning til
+møder. Hvis en medarbejder f.eks. smører sandwich til både kantine og møder, så skal det altså
+beregnes, hvor lang tid der går til at smøre sandwich henholdsvis til møder og til kantinen, for
+smøretiden i kantinen skal jo momses. Med andre ord synes vi, det er en dårlig idé at lave kantinemoms, og derfor støtter vi ikke dette element.";Mikkel Dencker
+37471;Time;;Kl. 13:38
+37502;title_name;":
+Tak. Der er lige et spørgsmål fra hr. Nick Hækkerup, så jeg skal bede ordføreren blive her.";Jens Vibjerg
+37605;Time;;Kl. 13:38
+37623;name_party;":
+Jeg vil bare gerne spørge Dansk Folkepartis ordfører, om man, ikke bare i den her sag, i det her
+lovforslag, men også i det lovforslag, vi behandlede tidligere under L 31, vil stemme helt uafhængigt af, hvad EU-retten måtte foreskrive.
+
+Tirsdag den 8. januar 2008 (L 32)
+
+519";Nick Hækkerup
+37912;Time;(Ordfører);Kl. 13:40
+37945;name_party;:;Henrik Rasmussen
+37956;Time;"Den Konservative ordfører, hr. Lars Barfoed, kan
+ikke være til stede, og jeg skal derfor kort redeMikkel Dencker (DF):
+gøre for De Konservatives holdning til lovforslaNu er det jo rart, at hr. Hækkerup stiller spørgsmål, så jeg får mere taletid, for jeg blev ikke fær- get.
+dig i min ordførertale. Jeg kan oplyse hr. HækLigesom det var tilfældet for lovforslag, nr.
+kerup om, at i Dansk Folkeparti føler vi os ikke
+L 31, der netop er blevet behandlet, drejer dette
+forslag sig i sin væsentlighed om en række forforpligtet af EU-samarbejdet på samme måde
+skellige tilpasninger af lovgivningen med den
+som de såkaldte japartier, som hr. Nick Hækkerup selv indgår i. Vi tager stilling fra sag til sag,
+hensigt at bringe danske regler og praksis i overensstemmelse med EU-retten: der er her tale om
+hvad vi synes er fornuftigt, og hvad der er godt,
+momsregler og regler om energiafgifter.
+og det, der ikke er fornuftigt og ikke er godt, .
+Det Konservative Folkeparti mener naturligstemmer vi imod.";Kl. 13:38
+38960;Time;"vis, at retstilstanden i Danmark skal være i overensstemmelse med EU-retten. Vi har jo selv væDen fg. formand (Jens Vibjerg):
+Tak til ordføreren. Vi går videre til SF's ordfører, ret med til at udforme reglerne i EU og har en interesse i, at de øvrige medlemslande i EU også
+hr. Jesper Petersen.";Kl. 13:39
+39266;Time;"overholder dem. Så skal vi selvfølgelig også selv
+gøre det. Derfor kan Det Konservative Folkepar(Ordfører)
+ti støtte lovforslaget.";Kl. 13:39
+39418;name_party;":
+Generelt mener SF, at der i L 32 ligger en række
+Vi er opmærksomme på, at det fra nogle sider
+fornuftige opstramninger og tilpasninger til EU- har været gjort gældende, at lovforslaget går viretten. Den hidtidige rabat, der har været givet i
+dere, end hvad der er nødvendigt i forhold til
+forbindelse med kantinemoms, er reelt et udtryk EU. Som udgangspunkt må vi imidlertid lægge
+for at lade andre skatteydere give tilskud til kan- Skatteministeriets vurdering til grund. Men fra
+tinedrift, og der vil det med nye regler som kon- konservativ side vil vi som altid se på de hensekvens af L 32 blive mere retfærdigt. Det er sta- vendelser, der kommer til udvalget og medvirke
+dig muligt at stå for billig kantinedrift for sine
+til et grundigt og konstruktivt arbejde med lovforslaget i udvalget: det gælder bl.a. de bekymmedarbejdere, som der ikke skal tjenes penge
+på, men man skal tage indkøbs- eller fremstilringer, nogle har udtrykt om, at lovforslaget kan
+lingsprisen, og der skal betales en tilsvarende
+risikere åt forringe sunde madordninger i virksomhederne.
+moms.
+Samtidig skal jeg også her hilse fra Ny AllianOgså vedrørende brugen af omvendt betalingspligt for moms kan vi forhåbentlig se frem
+ces ordfører, hr. Anders Samuelsen, som ikke
+kan være til stede, og meddele, at Ny Alliance
+til, at der bliver mindre risiko for momsunddragelse, og at det bliver nemmere at administrere
+støtter forslaget.";Jesper Petersen
+40839;Time;reglerne.;Kl. 13:42
+40880;title_name;":
+Miljømæssigt er det positivt, at spildevandsTak til ordføreren. Vi går videre til Det Radikale
+afgiftrabatten til særlig forurenende erhverv
+med L 32 nedsættes. SF vil dog i udvalgsarbejVenstres ordfører, hr. Niels Helveg Petersen.";Jens Vibjerg
+41123;Time;"det se nærmere på specielt de miljømæssige
+aspekter i forslaget og sikre, at det ikke bliver til
+(Ordfører)
+skade for den kollektive trafik. Kompensationen Niels Helveg Petersen (RV):
+Jeg vil gerne allerførst understrege, at Danmark
+til de regionale busselskaber skal være tilstrækselvfølgelig bør leve op til sine forpligtelser i
+kelig og hellere være direkte til selskaberne end
+henhold til EU-retten og indrette vores lovgivvia bloktilskud. Så SF forholder sig afventende,
+ning efter EU-retten, også når der som her er tale
+men absolut ikke afvisende over for forslaget.";Kl. 13:42
+41707;Time;"om en dom fra EF-Domstolen, som har fundet,
+at danske momsregler er i strid med direktiverDen fg. formand (Jens Vibjerg):
+ne. Det er en selvfølge for os, og jeg kan jo ikke
+Tak til ordføreren. Vi går videre til hr. Henrik :
+lade være med at undre mig over, at regeringens
+Rasmussen som ordfører for Det Konservative
+parlamentariske grundlag, Dansk Folkeparti,
+Folkeparti.";Kl. 13:40
+42089;Time;;Kl. 13:38
+42121;title_name;":
+Så er det ordføreren.
+
+520
+
+Tirsdag den 8. januar 2008 (L 32)
+
+ikke indtager den grundlæggende holdning, at
+vi selvfølgelig skal leve op til vores internationale forpligtelser. Jeg kan sagtens forstå, at man
+har et ønske om at ændre ting i EU-samarbejdet,
+men at man ikke skulle have en interesse i at være med til at sikre, at lovgivningen er i overensstemmelse med EU-direktiverne, har jeg svært
+ved at forstå.
+Lovforslaget indeholder jo flere forskellige
+forslag. Det ene er forslaget, der vedrører flyselskaber, der hovedsagelig flyver i udenrigsfart,
+og momsreglerne for disse flyselskaber. Det har
+allerede affødt en del protester fra branchen, og
+vi må i Skatteudvalget nøje vurdere de indvendinger, der er fremsat af branchen, og se på, om
+de har noget på sig.
+Reglerne om kantinemoms er vi nødt til at se
+på i udvalget og også på konsekvenserne af det
+her ændringsforslag.
+Endelig vil jeg da fremhæve det forhold, at vi
+nu ikke længere i Danmark kan følge de hidtidige regler for kollektiv trafik, og det skønnes at
+give en provenugevinst for statskassen på ca.
+475 mio. kr. Så det er en ganske betydelig provenugevinst, staten her har. Der står i bemærkningerne, at man i vidt omfang vil kompensere den
+kollektive trafik for denne fordyrelse af den kollektive trafik. For Det Radikale Venstre er det
+vigtigt under udvalgsbehandlingen at sikre, at
+vi får nøje belyst, hvilke mekanismer man her
+kan bruge både over for den offentlige kollektive trafik for at kompensere og over for den private kollektive trafik. Det mener vi er et hovedspørgsmål for udvalgsbehandlingen af dette
+lovforslag.
+Vi har en positiv holdning, en meget positiv
+holdning, til forslaget, men det er også et forslag, der på nogle punkter har så store konsekvenser, at det siger sig selv, at vi nøje må vurdere, om man har fundet den rigtige tekniske løsning.";Jens Vibjerg
+43973;Time;;Kl. 13:45
+44004;title_name;":
+Tak til ordføreren. Jeg ser ikke Enhedslistens
+ordfører. Så går vi til skatteministeren.";Jens Vibjerg
+44104;Time;;Kl. 13:45
+44139;title_name;":
+Jeg kunne, som ved det foregående forslag, igen
+starte med at takke for den sådan overordnede
+positive modtagelse af lovforslaget. Men hvor
+det, vi tidligere havde, var sådan en blandet buket, har der sneget sig mindst en enkelt eller to
+tidsler ind i den her buket, kan jeg jo høre på
+ordførerne.
+
+Hr. Nick Hækkerup stillede indledningsvis
+det meget gode spørgsmål: Hvorfor blander EU
+sig nu? Og når man så sidder og kigger ned over
+listen over emner og ting, hvor EU har valgt at
+sige, at her er de danske regler ikke helt i overensstemmelse med fællesskabets, så er det måske godt lige at repetere, hvorfor EU rent faktisk
+kan blande sig: hvorfor vi rent faktisk fra dansk
+side aktivt har valgt at tilslutte os, at EU blander
+sig.
+Først og fremmest er det jo et spørgsmål om
+at sikre, at landene ikke diskriminerer. Når vi
+har valgt, at vi er i et fællesskab, i et fælles marked, så kan vi ikke give skattemæssige begunstigelser til danske virksomheder, som vi ikke ville
+være klar til at give andre virksomheder. Vi kan
+ikke bare sige, at vi skal behandle vores egne
+virksomheder bedre end andres. Vi kan ikke sige, at hos os er der et ønske om, at de andre har
+fælles regler, men at vi vil køre vores eget løb.
+Det er f.eks. sådan på området med flymoms, at
+der har været regler for, hvad der kunne betragtes som værende udenrigsselskaber, men det regelsæt, vi har kørt efter i Danmark, har ikke været i overensstemmelse med andre landes. Og
+derfor har det været afhængig af virksomhedstypen, om det har været mere attraktivt at ligge i
+Danmark, end det har været at ligge i andre lande.
+Hvis nu det havde været Belgien eller Luxembourg eller måske endda Sverige, som indførte
+tilsvarende regler, som havde gjort det mindre
+attraktivt at være i Danmark som virksomhed
+og mere attraktivt at være i de andre lande, så
+ville vi her fra Folketingets side have rejst os op
+og sagt: Det er for dårligt, og det er nødvendigt,
+at der bliver skredet ind over for, at de andre
+lande forsøger at diskriminere ud fra reglerne
+for at trække virksomheder til deres lande. Når
+vi ville have gjort det, så må vi naturligvis også
+være klar til at sige: Vi skal selvfølgelig også
+skride ind, når der er nogle, der påpeger, at her
+har vi været for lempelige.
+Der er i EU regelsæt om, hvilke byrder man
+kan lægge på: hvordan man skal opkræve f.eks.
+sådan noget som moms. Men der er også kommet nogle muligheder for, at man kan indføre
+nye metoder som f.eks. det, der her i lovforslaget hedder omvendt betalingspligt, hvis man
+gerne vil sikre sig mod svindel. Og der er det nu
+engang nemmere, at virksomheder, der har
+driftsadresse i Danmark, afregner momsen direkte til den danske stat, i stedet for at de udbetaler hele betalingssummen plus moms til en
+
+(66)
+Tirsdag den 8. januar 2008 (L 32)
+udenlandsk virksomhed, hvorfra vi så skal sørge for, at momsen bliver afregnet til statskassen.
+Og det er en mulighed, der ikke tidligere har
+været åbnet for, men som er kommet, og som vi
+derfor nu åbner for at bruge, sådan at vi i højere
+grad sikrer, at den betaling, der skal ske til den
+danske statskasse, også kommer i den.
+Så er det sådan, at man på momsområdet generelt set kan sige, at vi jo har valgt at købe nogle fælles regler for, hvordan momsen skal forstås. Til gengæld er der en individuel forståelse,
+hvor de enkelte lande individuelt vælger, hvilken sats de vil have. Det betyder så også, at når
+vi kigger på det, så må vi en gang imellem erkende, at vores fortolkning af reglerne ikke er
+i overensstemmelse med det, der var aftalt. Og
+så retter vi ind. Og som et lille land har man faktisk en interesse i, at der er en stærk EU-Kommission, der i fællesskab med en stærk EF-Domstol træffer afgørelserne på fællesskabets vegne
+og sørger for, at alle lande retter ind. Så er det
+naturligvis også vigtigt, at alle landene så også
+retter ind. Jeg har så også som DF's ordfører, tror
+jeg, det var, noteret mig, at Storbritannien endnu
+ikke har lagt mærke til, at der er fælles regler for,
+hvordan flymomsen skal opkræves. Jeg kan så
+sige - og det er ikke den store hemmelighed, jeg
+røber - at det danske skatteministerium jo har
+haft kontakt med det britiske skatteministerium
+for at høre, på hvilket grundlag de opretholder
+de eksisterende regler om nulmoms. De har svaret os noget i retning af: Tak for henvendelsen,
+det er et interessant spørgsmål, og vi vil vende
+tilbage. Da de så ikke vendte tilbage, spurgte vi
+igen: Hvad var det lige for regler, I støttede ret
+på for at opretholde jeres lovgivning? Og de svarede igen: Tak for henvendelsen, det er godt nok
+et interessant spørgsmål, og det vil vi vende tilbage omkring. Nu ved jeg så, at der også er rejst
+spørgsmål til EU-Kommissionen for at få klarlagt, hvad det egentlig er for en baggrund, Storbritannien har for at opretholde den nulmoms,
+som vi ikke længere kan opretholde i Danmark.
+Med hensyn til kantinemoms, som nogle har
+kaldt den, men som rettelig er en moms på handel mellem interesseforbundne partnere, så er
+forhistorien jo den, at den lovgivning, vi nu foreslår fra regeringens side, så at sige er en tilbagevenden til retstilstanden, som den var i Danmark før 1999. For det har hele tiden været sådan, at vi ikke har villet ønske, at man, hvis man
+solgte til nogle, man havde fælles interesser
+med, f.eks. sine medarbejdere, så solgte det til
+under indkøbspris for så at kunne få et moms-
+
+521
+
+mæssigt tilskud. Og det er jo den mekanisme,
+man har kunnet bruge, for jævnfør en landsskatteretsdom fra år 2000 var der dengang en fælles
+forståelse i EU om, at vi skulle bruge den aktuelle salgspris som momsgrundlaget, uanset at den
+var sat kunstigt lav. Og sådan som momsen er
+skruet sammen, betød det, at man kunne sætte
+en lav pris, og så betalte statskassen en del af
+den støtte, man egentlig gav til sine medarbejdere. Og nu er den blevet kaldt for kantinemoms,
+men den gælder, uanset om man sælger cowboybukser, kantinemad eller autoudstyr - man
+har mulighed for at sælge til under indkøbspris
+og via momsen få betalt en del af støtten.
+Jeg synes, at det er fint, at man sætter skatten
+ned, det vil jeg gerne sige: jeg har ikke noget
+imod, at skatten er lav, det har jeg det helt fint
+med. Men jeg mener, at det bør være et politisk
+valg, hvor skatten skal være lav, og ikke et så at
+sige tagselvbord - undskyld udtrykket - ikke
+engang, hvad angår kantinemoms. Derfor mener jeg, at det er rigtigt at få strammet op. Der er
+sket en ændring af EU's momsdirektiv, der gør,
+at vi kan vende tilbage til det, som et enigt
+dansk Folketing mente skulle være retstilstanden hele vejen frem til år 1999, og som vi så derefter blev nødt til at ændre.
+Jeg vil slutte med at sige et par ord om det
+med fjernbusserne. Når vi har valgt at fortolke
+afgiftsfritagelse af lokal, kollektiv bustransport,
+som om den var helt landsdækkende - og det
+gælder også privat bustransport - så er det måske i al fairness en lidt vid fortolkning af ordlyden. Det er svært at sige, at al transport i Danmark bare er lokal transport. Det er også svært
+at sige, at privat buskørsel er offentlig transport.
+Og derfor kan jeg godt forstå, at man har kigget
+med kritiske øjne på vores regler. Og vi forsøger
+nu at kompensere kommuner og regioner, sådan
+at de fuldt ud får en kompensation krone til krone for de udgifter, de har her i 2008. De får 50
+pet. af deres udgifter i 2009 og 50 pet. over den
+normale bloktilskudsordning. Og først i 2010 vil
+kompensationen fuldt ud være at finde på bloktilskuddet. Men vi kompenserer altså kommuner og regioner fuldt ud. Det bliver ikke, som
+den radikale ordfører lidt antydede, statskassen,
+der kommer til at vinde her, fordi vi øger støtten, sådan at kommuner og regioner har mulighed for at betale deres vognmænd for den ekstraudgift, der er.
+Tilbage er der et hjørne, nemlig den private
+fjernbustrafik, som flere ordførere også har været inde på. Det er et hjørne, hvor man undersø-
+
+522
+
+Tirsdag den 8. januar 2008 (L 32)
+
+ger, om der er nogle skattemæssige muligheder
+for at give en lempelse af andre af de skatter og
+afgifter, der er. Men på trods af vores store eftersøgning i Skatteministeriet, må jeg nok konstatere, at den bedste løsning for at imødekomme
+den ekstraudgift, som de private busvognmænd
+får, er at kigge på reglerne om public service-forpligtelse, som ligger i Trafikministeriet. Hvis der
+kan indgås en aftale om, at fjernbusserne påtager sig en public service-forpligtelse, så vil der
+også være basis for, at vi fra statens side udbetaler dem en støtte til at udføre en sådan public
+service-forpligtelse. Og dermed vil det være muligt - det er min opfattelse - at lave en form for
+ordning, der gør, at fjernbusserne ikke bliver
+ramt af den ekstraudgift på ca. 4 1/2mio. kr., som
+det i øjeblikket ser ud til det vil blive, hvis der
+ikke kommer en form for kompensationsordning. Jeg ved, at min kollega, transportministeren, er fuldt ud opmærksom på området her, og
+at parterne i branchen også vil blive indkaldt til
+drøftelser i den kommende tid. Jeg håber dermed, at vi også vil kunne få løst den lille krølle
+på lovforslaget her.";Kristian Jensen
+53183;Time;;Kl. 13:55
+53214;title_name;":
+Ja tak. Der er en kort bemærkning fra hr. Mikkel
+Dencker.";Jens Vibjerg
+53283;Time;;Kl. 13:55
+53303;name_party;":
+Jeg vil da gerne kvittere for, at regeringen arbejder for en løsning, der kan tilfredsstille de private busvognmænd, og jeg håber da meget, at man
+finder en løsning på problemet.
+Men det, jeg egentlig vil spørge om, er: Jeg
+kan jo læse i lovforslaget, at flere af elementerne
+i forslaget er begrundet med, at det er på grund
+af EU-reglerne, man er nødt til at gøre det, man
+gør. Angående flymomsen er der f.eks. en EUdom, som siger, at Danmark skal lave reglerne
+om. Jeg vil godt høre, hvem det er, der har taget
+initiativet med kantinemomsen, som den populært kaldes. Jeg ved godt, navnet dækker meget
+andet, men er det også EU, der har taget initiativet og har sagt til regeringen, at de danske regler
+er forkerte i henhold til EU-lovgivningen, så de
+skal laves om, eller er det regeringen selv, der
+har taget initiativet her?";Mikkel Dencker
+54143;Time;;Kl. 13:56
+54174;title_name;":
+Så er det ministeren.";Jens Vibjerg
+54208;Time;;Kl. 13:56
+54243;title_name;":
+Jeg skal først og fremmest sige, at jeg nødig vil
+tages til indtægt for, at jeg fuldt ud kan tilfredsstille busvognmandsbranchens ønsker, men jeg
+håber, at jeg i meget høj grad kan imødekomme
+dem. Begrebet tilfredsstillelse giver måske en
+forventning om, at vi i regeringen kan imødekomme alt, hvad de måtte ønske, men jeg håber,
+at vi kan imødekomme dem langt hen ad vejen.
+Det er i hvert fald den intention, regeringen går
+ind i arbejdet med.
+Angående spørgsmålet om kantinemomsen,
+som hr. Mikkel Dencker rejser, har vi fra dansk
+side arbejdet for at få genindført muligheden for
+at kunne opkræve momsen af i det mindste
+fremstillingsprisen for en vare eller af normalprisen, hvis det er muligt at fastsætte en normalpris. Derfor er det på baggrund af bl.a. dansk arbejde, at Kommissionen har udarbejdet et nyt
+momsdirektiv, der giver os muligheden for at
+vende tilbage til retstilstanden i Danmark, som
+den var før 1999.";Kristian Jensen
+55178;Time;;Kl. 13:57
+55209;title_name;":
+Så er det hr. Mikkel Dencker for endnu en kort
+bemærkning.";Jens Vibjerg
+55279;Time;;Kl. 13:57
+55299;name_party;":
+Svaret bragte mig da lidt hen ad vejen, for det,
+jeg var ude efter, var, hvad der er motivationen
+for, at vi får lovforslaget her om bl.a. kantinemoms. Jeg tænkte rent umiddelbart, at der kunne
+være to muligheder, og at den første kunne være, at EU havde dikteret, at regeringen skulle
+gøre det, og at man så for at være dengsen i EUklassen selvfølgelig gjorde, hvad der blev sagt.
+Den anden mulighed kunne være, at der er et
+skønnet provenu på måske 500 mio. kr., som
+man kan hente ind i kassen, og så har man opfundet EU-begrundelsen til lejligheden, for at
+forslaget skal glide lettere ned her i Folketinget.
+Det bekræfter mig lidt i det, jeg er bange for,
+nemlig at man har set, at der altså ligger en hulens bunke millioner kroner her, som man kan
+trække op af lommen på de mennesker, der arbejder i virksomheder med en kantine.";Mikkel Dencker
+56144;Time;;Kl. 13:58
+56175;title_name;":
+Så er det ministeren.
+
+Tirsdag den 8. januar 2008 (L 32)
+
+523";Jens Vibjerg
+56250;Time;ne ikke længere kan finde sted med en afgiftssubsidiering på 3 øre pr. liter, fordi vi er bange;Kl. 13:58
+56381;title_name;":
+for, at fællesskabet vil bryde sammen, hvis vi
+Først og fremmest vil jeg sige - og det er også et
+svar til hr. Nick Hækkerup, som jeg ikke fik med bliver ved med at have det system på de danske
+tankstationer. Men når det er sagt, vil jeg sige, at
+i min første besvarelse - at det nettoprovenu,
+man jo har lov til at reflektere over det hensigtsder kommer som følge af lovforslaget, jævnfør
+mæssige i reglerne, også selv om det er EU-regskattestoppet vil blive tilbageført til danskerne.
+Det vil ikke være sådan, at vi bruger det som et
+ler.";Kristian Jensen
+56933;Time;"nettoprovenu, vi vil sørge for, at der bliver genDen fg. formand (Jens Vibjerg):
+nemført modsvarende skattelettelser, så proveSå er det ministeren.
+nuet kommer tilbage til danskerne, men præcis";Kl. 14:00
+57137;Time;"hvordan det skal ske er der endnu ikke taget stilling til. Jeg beskyldes for meget, men jeg er end- Skatteministeren (Kristian Jensen):
+Jeg tror ikke på, at den frie bevægelighed eller
+nu ikke blevet beskyldt for ikke at gennemføre
+det indre marked vil kollapse, hvis vi ikke genskattelettelser, hvis jeg har pengene til det. Her
+nemfører det hjørne.
+har jeg pengene til det, og derfor tror jeg også
+fuldt og fast på, at de bliver gennemført.
+Man kan sikkert finde mange andre hjørner,
+hvor man kan spørge, om de lige præcis er nødEU har sådan set imødekommet et dansk ønske. Vi har sagt, at vi synes, der her er tale om et vendige. Problemstillingen er bare, at vi jo godt
+misbrug af reglerne, og det misbrug vil vi gerne
+kender vores egen kreativitet med hensyn til,
+hvordan vi fra dansk side gerne vil fremme egne
+have mulighed for at stoppe. Så har EU ændret
+reglerne, så det er muligt for medlemslandene at interesser, og når der er 26 andre medlemslande
+i EU, er der mange andre, der også gerne vil
+vedtage regler som dem, vi nu lægger op til fra
+fremme egne interesser på den ene eller den anregeringens side.";Kl. 14:00
+58264;Time;den måde. Derfor er Kommissionens og EFDomstolens utaknemlige opgave indimellem at;Kl. 13:59
+58378;title_name;":
+træffe afgørelser og sige, at det kan man accepteSå er det hr. Nick Hækkerup for en kort bere, og det kan man ikke acceptere.
+mærkning.";Jens Vibjerg
+58525;Time;På nogle områder havde vi fra dansk side håbet på og ønsket og arbejdet for at få lov til at;Kl. 13:59
+58636;name_party;":
+Indledningsvis vil jeg selvfølgelig takke for skat- have en længere undtagelse, men på et eller andet tidspunkt løber undtagelserne jo ud, og så
+teministerens bekræftelse af, at skattestoppet vil
+skal man arbejde efter fælles regler. Det er overblive overholdt.
+ordnet set til gavn for Danmark, ligesom det
+Når det er sagt, skal jeg sige, at det, der fik
+overordnet set er til gavn for de andre EU-lande,
+mig til at bede om ordet, var ministerens bemærkning om behovet for at følge EU-regulerin- og så må vi acceptere de små bump, som det kan
+give hen ad vejen.
+gen loyalt. Jeg og Socialdemokratiet deler fuldKl. 14:01
+stændig den grundlæggende tanke, at det præDen fg. formand (Jens Vibjerg):
+cis er solidariteten og loyaliteten landene imelTak til skatteministeren.
+lem, som er styrken i EU-samarbejdet, og at friDa der ikke er flere, som har bedt om ordet, er
+heden til at skabe det samfund, vi gerne vil haforhandlingen sluttet.
+ve, forudsætter stærke fællesskaber og hensyn.
+Det eneste, jeg spagfærdigt prøvede at anføre,
+var, at det måske er sådan med nogle af forslage- Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+ne i den buket, vi sidder med, at det måske kan
+dette som vedtaget.
+diskuteres, om det er sådan, at det virkelig vil
+Det er vedtaget.
+føre til den frie bevægeligheds ophør og fællesskabets sammenbrud, hvis de ikke bliver gennemført. Jeg nævnte f.eks. forslaget om differentierede afgiftssatser for benzin, som leveres fra
+tankstationer, der er udstyret med et genindvindingssystem, hvor opsamlingen af returdampe-
+
+524
+
+Tirsdag den 8. januar 2008 (L 32)";Nick Hækkerup
+60279;Time;"Meddelelser fra formanden
+
+Jeg henviser til den dagsorden, der er opslået
+i salen.";Kl. 14:02
+60395;title_name;":
+Der er ikke mere at foretage i dette møde.
+
+Mødet er hævet. (Kl. 14.02).
+
+Folketingets næste møde afholdes i morgen,
+onsdag den 9. januar 2008, kl. 13.00.";Jens Vibjerg

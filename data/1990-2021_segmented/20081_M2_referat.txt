@@ -1,0 +1,3565 @@
+split;reason;text;value
+0;;"(5)
+Onsdag den 8. oktober 2008 (D)
+
+2. m ø d e";
+83;Time;"Dagsorden
+1) Valg til stående udvalg m.v.
+2) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+3) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+(Se nedenfor).
+
+1) Til integrationsministeren af: :";kl. 13.00
+340;name_party;":
+Når regeringen har annonceret, at man er ved at
+indgå en aftale med den irakiske regering om
+hjemsendelse af flere irakiske asylansøgere, mener ministeren da, at det er ansvarligt at sende
+mennesker - herunder børnefamilier - til et land
+i kaos og borgerkrig?
+(Spm. nr. S 10).
+2) Til integrationsministeren af:";Johanne Schmidt-Nielsen
+681;name_party;":
+Vil ministeren oplyse, om hun mener, at det gavner integrationen, at det nu bliver endnu sværere at opnå status som dansk statsborger, og at en
+voksende gruppe mennesker i Danmark dermed udelukkes fra at deltage fuldt ud i demokratiet og samfundet?
+(Spm. nr. S 11).
+3) Til ministeren for sundhed og forebyggelse af:";Johanne Schmidt-Nielsen
+1023;name_party;":
+Vil ministeren uddybe følgende udtalelse: »I dag
+udgør privathospitalerne under 2 pct., af det offentlige sundhedsvæsen. For mig er det ikke så
+afgørende, om det forbliver 2 pct. eller vokser til
+10,20 eller måske 50 pct.«, jf. ministerens tale
+ved det seneste konservative landsråd?
+(Spm. nr. S 5).
+
+33
+
+4) Til ministeren for sundhed og forebyggelse af:";Jens Peter Vernersen
+1404;name_party;":
+Vil ministeren helst have, at privathospitalerne
+udgør 2 pct. af det offentlige sundhedsvæsen eller 50 pct.?
+,
+<
+(Spm: nr. S 6).
+5) Til ministeren for sundhed og forebyggelse af:";Jens Peter Vernersen
+1601;name_party;":
+Mener ministeren, at det er et ansvarligt forslag
+at lade halvdelen af sundhedssektoren være på
+private hænder, efter at de seneste års øgede private deltagelse har medført større ulighed i adgangen til behandling, og når øget privatisering
+i andre lande har medført stigende sundhedsudgifter?
+(Spm. nr. S 12, skr. begr.).
+6) Til ministeren for sundhed og forebyggelse af:";Per Clausen
+1992;name_party;":
+Mener ministeren, at det er udtryk for, at den
+borgerlige regerings sundhedspolitik har været
+vellykket, at antallet af private sundhedsforsikringer er eksploderet og snart runder en million?
+(Spm. nr. S 13).
+
+Meddelelser fra formanden";Per Clausen
+2240;Time;;Kl. 13:00
+2253;title_name;"Mødet er åbnet.
+Jeg hår en liste over skriftlige fremsættelser. Jeg
+skal undlade at oplæse titlerne, men blot meddele, at titler på de fremsatte lov- og beslutningsforslag vil fremgå af Folketingstidende, og
+at:
+Klima- og energiministeren (Connie Hedegaard)
+fremsætter:
+Lovforslag nr. L 3 (Forslag til lov om ændring af
+lov om elforsyning og lov om naturgasforsyning. (Sikring af forbrugerhensyn i el- og naturgasforsyningen)).
+Økonomi- og erhvervsministeren (Lene Espersen) fremsætter:
+
+34
+
+Onsdag den 8. oktober 2008 (D)
+
+Lovforslag nr. L 5 (Forslag til lov om ændring af
+årsregnskabsloven. (Redegørelse for samfundsansvar i større virksomheder)) og
+
+lem de nordiske lande til undgåelse af dobbeltbeskatning for så vidt angår indkomst- og formueskatter),
+
+Lovforslag nr. L 6 (Forslag til lov om ændring af
+varemærkeloven, straffeloven, lov om radio- og
+fjernsynsvirksomhed samt forskellige andre love. (Styrket indsats mod piratkopiering m.v.)).
+
+Lovforslag nr. L 19 (Forslag til lov om indgåelse
+af tillægsaftale til den dansk-grønlandske dobbeltbeskatningsaftale),
+
+Undervisningsministeren (Bertel Haarder) fremsætter:
+Lovforslag nr. L 8 (Forslag til lov om ændring af
+lov om private gymnasieskoler, studenterkurser
+og kurser til højere forberedelseseksamen (hfkurser). (Opfølgning på kommunalreformen og
+forenkling af tilskudssystem)) og
+Lovforslag nr. L 9 (Forslag til lov om ændring af
+lov om produktionsskoler, lov om arbejdsmarkedsuddannelser m.v., lov om erhvervsuddannelser, lov om Danmarks Evalueringsinstitut og
+lov om åben uddannelse (erhvervsrettet voksenuddannelse) m.v. (Forenkling af rådsstruktur
+m.v.)).
+Integrationsministeren (Birthe Rønn Hornbech)
+fremsætter:
+Lovforslag nr. L 10 (Forslag til lov om ændring
+af udlændingeloven. (Effektivisering og smidiggørelse af adgangen til forretningsvisum og besøgsvisum)) og
+Lovforslag nr. L 11 (Forslag til lov om ændring
+af udlændingeloven og ændring af lov om ændring af udlændingeloven. (Videregivelse af oplysninger til anklagemyndigheden, gennemførelse af SIS II-forordningen m.v.)).
+Miljøministeren (Troels Lund Poulsen) fremsætter:
+Lovforslag nr. L 12 (Forslag til lov om infrastruktur for geografisk information).
+
+Lovforslag nr. L 22 (Forslag til lov om ændring
+af ligningsloven, lov om vægtafgift af motorkøretøjer m.v. og registreringsafgiftsloven. (Smidiggørelse af 60-dages-reglen, dagsafgift for privat benyttelse af varebiler og afgiftsfritagelse for
+visse ledsagebiler)),
+Lovforslag nr. L 23 (Forslag til lov om ændring
+af selskabsskatteloven, fusionsskatteloven og
+forskellige andre love. (Justering af rentefradragsbegrænsningsreglerne m.v.)) og
+Lovforslag nr. L 24 (Forslag til lov om ændring
+af lov om registrering af køretøjer, færdselsloven, registreringsafgiftsloven og andre love. (Justeringer vedrørende digital motorregistrering,
+registreringsafgift af motorcykler, godtgørelse af
+afgift ved eksport af køretøjer, kontrol af registreringsafgift samt krav om syn ved eksport af
+køretøjer)).
+Transportministeren (Lars Barfoed) fremsætter:
+Lovforslag nr. L 25 (Forslag til lov om ændring
+af lov om offentlige veje. (Sikkerhedsforanstaltninger i jernbaneoverkørsler)) og
+Lovforslag nr. L 26 (Forslag til lov om ændring
+af lov om trafikselskaber og lov om jernbane.
+(Takstkompetence og regler om kundgørelse
+m.v.)).
+Kulturministeren (Carina Christensen) fremsætter:
+Lovforslag nr. L 29 (Forslag til lov om ændring
+af arkivloven. (Private arkivalier)).
+Justitsministeren (Brian Mikkelsen) fremsætter:
+
+Skatteministeren (Kristian Jensen) fremsætter:
+.Lovforslag nr. L 18 (Forslag til lov om indgåelse
+af protokol om ændring af overenskomst mel- ,
+
+Lovforslag nr. L 7 (Forslag til lov om ændring af
+lov om mærkning af cykelstel m.v. (Ophævelse
+af bogføringspligten)),
+
+Onsdag den 8. oktober 2008 (Udvalg)
+Beslutningsforslag rir. B 7 (Forslag til folketingsbeslutning om udkast til rådsafgørelse om oprettelse af Den Europæiske Politienhed. (Europol)) og
+Beslutningsforslag nr. B 8 (Forslag til folketingsbeslutning om udkast til rammeafgørelse om
+styrkelse af personers proceduremæssige rettigheder, om fremme af anvendelsen af princippet
+om gensidig anerkendelse i forbindelse med afgørelser afsagt, uden at den pågældende selv
+var til stede under retssagen/ og om ændring.,af af
+en række rammeafgørelser).
+Medlemmer af Folketinget Lise von: Seelèn (S)
+m.fl. fremsætter:
+Beslutningsforslag nr. B 1 (Forslag til folketingsbeslutning om en national strategi for folkebibliotekerne).
+:
+Medlemmer af Folketinget Peter Skaarup (DF)
+m.fl. fremsætter:
+Beslutningsforslag nr. B 3 (Forslag til folketingsbeslutning om at forbedre politiets aflytningsmuligheder).
+Medlemmer af Folketinget Kim Christiansen
+(DF) m.fl. fremsætter:
+Beslutningsforslag nr. B 4 (Forslag til folketingsbeslutning om skærpede straffe for flugtbilister)
+og
+Beslutningsforslag nr. B 5 (Forslag til folketingsbeslutning om godkendelse af færdselsregulerende foranstaltninger i større geografiske områder eller zoner).
+
+35
+
+Det første punkt på dagsordenen er:
+1) Valg til stående udvalg m.v.
+홢";Formanden
+7301;Time;;Kl. 13:03
+7313;title_name;"Som punkt 1 er optaget valg af medlemmer og
+stedfortrædere til en række udvalg m.v. Til disse
+valg er anmeldt følgende valggrupper:
+:
+en gruppe på 94 medlemmer: Venstre, Dansk
+Folkeparti, Det Konservative Folkeparti, Liberal
+Alliance, Sambandspartiet og Pia ChristmasMøller (UFG):
+en gruppe på 85 medlemmer: Socialdemokratiet, Socialistisk Folkeparti, Det Radikale Venstre, Enhedslisten, Tjóðveldisflokkurin (TF), Inùit Ataqatigiit (IA) og Siumut (SIU).
+Der foreligger indstilling fra grupperne om
+disse navne. Navnene på de valgte kan findes på
+Folketingets hjemmeside og i Folketingstidende.
+Samtidig er der fra grupperne fremkommet
+forslag om valg af formand og næstformand.
+Der er kun bragt én i forslag til hver af disse poster, og navnene bliver optaget i Folketingstidende.
+Skulle der inden kl. 12 i morgen komme indsigelse mod et eller flere af valgene af formænd
+og næstformænd, vil der blive indkaldt til sættemøde i det pågældende udvalg:
+[Valg af 16 medlemmer til Udvalget for Forretningsordenen.
+홢홢
+'
+Valgt blev:
+
+I . .
+1 Thor Pedersen (V)
+홢
+2 Svend Auken (S)
+3 Søren Espersen (DF)
+4'. Holger K. Nielsen (SF) .
+5 Helge Adam Møller (KF)
+6 Flemming Damgaard Larsen (V)
+7 Jens Vibjerg (V)
+8 Inger Støjberg (V)
+9 Anne-Mette Winther Christiansen (V)'
+10 Hans Christian Schmidt (V)
+11 Pia Kjærsgaard (DF) .
+.
+.
+' '.
+12 Kristian Thuleséri Dahl i(DF) '
+13 Tom Behnke (KF)
+홢)"" . '
+14 Carsten Hansen (S)
+:
+15 Henrik Dam Kristensen (S)
+:
+16 Karen J.Klint (S)
+17 Thomas Adelskov (S)
+: : I1
+18 Ole Sohn (SF)
+^
+, I . I
+19 Margrethe Vestager (RV) 홢-I' III
+
+36
+
+Onsdag den 8. oktober 2008 (Udvalg)
+
+20 Morten Østergaard (RV)
+21 Line Barfod (EL)
+(Udvalget for Forretningsordenen består af Folketingets Præsidium (nr. 1-5) tillige med 16 valgte medlemmer).";Formanden
+9075;title_name;Thor Pedersen (V);Formand
+9106;title_name;"Svend Auken (S)
+Valg af 17 medlemmer til Udvalget til Valgs
+Prøvelse.
+Valgt blev:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Karsten Nonbo (V)
+Peter Juel Jensen (V)
+Per Bisgaard (V)
+Hans Christian Thoning (V)
+Anne-Mette Winther Christiansen (V)
+Søren Espersen (DF)
+Peter Skaarup (DF)
+Per Ørum Jørgensen (KF)
+Vivi Kier (KF)
+Karen J. Klint (S)
+Henrik Dam Kristensen (S)
+Klaus Hækkerup (S)
+Julie Skovsby (S)
+Anne Baastrup (SF)
+Pernille Frahm (SF)
+Niels Helveg Petersen (RV)
+Frank Aaen (EL)";Næstformand
+9603;title_name;Karen J. Klint (S);Formand
+9635;title_name;"Peter Juel Jensen (V)
+Valg af 17 medlemmer og stedfortrædere til Arbejdsmarkedsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Jens Vibjerg (V)
+2 Peter Juel Jensen (V)
+3 Louise Schack Elholm (V)
+4 Sophie Løhde (V)
+5 Bent Bøgsted (DF)
+6 Colette L. Brix (DF)
+7 Knud Kristensen (KF)
+8 Charlotte Dyremose (KF).
+9 Villum Christensen (LA)
+10 Thomas Adelskov (S)
+
+11
+12
+13
+14
+15
+16
+17
+
+Anne-Marie Meldgaard (S)
+Lone Møller (S)
+Leif Lahn Jensen (S)
+Eigil Andersen (SF)
+Karsten Hønge (SF)
+Morten Østergaard (RV)
+Line Barfod (EL)
+
+Til stedfortrædere for:
+1-4 Erling Bonnesen (V)
+Marion Pedersen (V)
+5'-6 Kristian Thulesen Dahl (DF)
+René Christensen (DF)
+7-8 Mike Legarth (KF)
+Tom Behnke (KF)
+9 Malou Aamund (V)
+10-13 Bjarne Laustsen (S)
+Lennart Damsbo-Andersen (S)
+14-15 Ole Sohn (SF)
+16 Lone Dybkjær (RV)
+17 Julie Rademacher (S)";Næstformand
+10455;title_name;Knud Kristensen (KF);Formand
+10489;title_name;"Lone Møller (S)
+Valg af 17 medlemmer og stedfortrædere til
+Boligudvalget.
+Valgt blev:
+Til medlemmer:
+1 Troels Christensen (V)
+2 Louise Schack Elholm (V)
+3 Søren Pind (V)
+4 Eyvind Vesselbo (V)
+5 Michael Aastrup Jensen (V)
+6 Anita Knakkergaard (DF)
+7 Hans Kristian Skibby (DF)
+8 Knud Kristensen (KF)
+9 Vivi Kier (KF)
+10 Kenneth F. Christensen (S)
+11 Bjarne Laustsen (S)
+12 Lennart Damsbo-Andersen (S)
+13 Thomas Jensen (S)
+14 Nanna Westerby (SF)
+15 Karsten Hønge (SF)
+16 Jørgen Poulsen (RV)
+17 Frank Aaen (EL)
+Til stedfortrædere for:
+1-5 Karsten Lauritzen (V)
+Karen Ellemann (V)
+6-7 Henrik Brodersen (DF)
+
+Onsdag den 8. oktober 2008 (Udvalg)
+Kim Christiansen (DF)
+8-9 Tom Behnke (KF)
+Pia Christmas-Møller (UFG)
+10-13 Rasmus Prehn (S)
+René Skau Björnsson (S)
+14-15 Flemming Bonne (SF)
+Jesper Petersen (SF)
+16 Yildiz Akdogan (S)
+
+>
+
+Valg af 17 medlemmer og stedfortrædere til
+Det Energipolitiske Udvalg.
+Valgt blev:
+Til medlemmer:
+1 Marion Pedersen (V) 홢
+2 Jens Kirk (V)
+.
+3 Lars Christian Lilleholt (V) .
+4 Kristian Pihl Lorentzen (V)
+5 Henrik Høegh (V)
+6 Ellen Trane Nørby (V)
+7 Morten Messerschmidt (DF) , 홢: ,
+8 Tina Petersen (DF)
+9 Per Ørum Jørgensen (KF) :
+10 Mette Gjerskov (S)
+11 Ole Vagn Christensen, (S)
+12 Kim Mortensen (S)
+13 Thomas Jensen (S)
+14 Anne Grete Holmsgaard (SF)
+.. "" , r
+15 Ida Auken (SF)
+16 Johs. Poulsen (RV)
+17 Per Clausen (EL)
+.
+Til stedfortrædere for:
+1-6 Eyvind Vesselbo (V)
+Peter Christensen (V)
+*
+7-8 Kristian Thulesen Dahl (DF)
+René Christensen (DF)
+9 Henriette Kjær (KF)
+10-13 Svend Auken (S)
+14-15 Flemming Bonne (SF)
+16 Torben Hansen (S)
+17 Jesper Petersen (SF)
+,";Næstformand
+12094;title_name;"Jens Kirk (V)
+. Næstformand: Johs. Poulsen (RV) '
+
+Valg af 17 medlemmer og stedfortrædere til Erhvervsudvalget.
+Valgt blev:";Formand
+12228;title_name;Nanna Westerby (SF);Formand
+12261;title_name;"Troels Christensen (V)
+
+37
+
+홢
+
+홢 Til medlemmer:
+: A:
+1 Hans Christian Schmidt (V),
+2 Jacob Jensen (V)
+: 홢
+.
+3 Jens Vibjerg (V)
+A-: ,1 :
+4 Lars Christian Lilleholt (V)
+. :, .
+5 Tina Nedergaard (V)
+,. , I I
+6 Colette L. Brix (DF)
+7 Pia Adelsteen (DF)
+8 Mike Legarth (KF)
+:
+9 Per Ørum Jørgensen 홢
+(KF)
+'
+10 Orla Hav (S) : \
+.
+^
+11 Benny Engelbrecht (S)
+12 Henrik Dam Kristensen (S) , :
+13 Niels Sindal (S)
+, ,
+14 Karsten Hønge (SF)
+: 홢 홢
+::
+15 Flemming Bonne (SF) : . / , . : .
+16 Morten Helveg Petersen (RV) v:
+17 Frank Aaen (EL)
+::
+, : .,
+Til stedfortrædere for:
+,, :
+1-5 Anne-Mette Winther Christiansen (V)
+Hans Christian Thoning (V)
+6-7 Mikkel Dencker (DF)
+, ,
+Tina Petersen (DF)
+8-9 Flemming Damgaard Larsen (V)
+Vill um Christensen (LA)
+10-13 Ole Vagn Christensen (S)
+Yildiz Akdogan (S)
+14-15 Pia Olsen Dyhr (SF)
+Steen Gade (SF)
+홢
+V).
+v,:
+16 Jens Christian Lund (S)
+:
+17 Kamal Qureshi (SF)";Næstformand
+13162;title_name;Hans Christian Schmidt (V)! ,;Formand
+13205;title_name;"Colette L. Brix (DF)
+Valg af 17 medlemmer og stedfortrædere til
+Europaudvalget.
+Valgt blev:
+
+. :11 l
+
+l l. Til medlemmer:
+1 Kim Andersen (V)
+2 Michael Aastrup Jensen (V)
+3 Erling Bonnesen (V)
+4 Henrik Høegh (V)
+5 Tina Nedergaard (V) 6 Morten Messerschmidt ,(DF) , 홢
+
+:
+홢
+- :,.>, - 홢I
+
+38
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Onsdag den 8. oktober 2008 (Udvalg)
+Pia Adelsteen (DF)
+Helle Sjelle (KF)
+Bendt Bendtsen (KF)
+Svend Auken (S)
+Kim Mortensen (S)
+Yildiz Akdogan (S)
+Jeppe Kofod (S)
+Anne Grete Holmsgaard (SF)
+Karina Lorentzen (SF)
+Lone Dybkjær (RV)
+Per Clausen (EL)
+
+Til stedfortrædere for:
+1-5 Malou Aamund (V)
+Birgitte Josefsen (V)
+6-7 Martin Henriksen (DF)
+Tina Petersen (DF)
+8-9 Mike Legarth (KF)
+1
+Pia Christmas-Møller (UFG)
+10-13 Benny Engelbrecht (S)
+Orla Hav (S)
+14-15 Hanne Agersnap (SF)
+Jonas Dahl (SF)
+16 Bjarne Laustsen (S)
+17 Line Barfod (EL)";Næstformand
+14070;title_name;Svend Auken (S);Formand
+14099;title_name;"Henrik Høegh (V)
+Valg af 17 medlemmer til Finansudvalget.
+Valgt blev:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Inger Støjberg (V)
+Flemming Damgaard Larsen (V)
+Peter Christensen (V)
+Kim Andersen (V)
+Jacob Jensen (V)
+Kristian Thulesen Dahl (DF)
+Tina Petersen (DF)
+Mike Legarth (KF)
+Henriette Kjær (KF)
+Morten Bødskov (S)
+Klaus Hækkerup (S)
+Jens Peter Vernersen (S)
+Nick Hækkerup (S)
+Ole Sohn (SF)
+Jesper Petersen (SF)
+Morten Helveg Petersen (RV)
+Frank Aaen (EL)";Næstformand
+14571;title_name;Kristian Thulesen Dahl (DF);Formand
+14612;title_name;"Flemming Damgaard Larsen (V)
+
+Valg af 17 medlemmer og stedfortrædere til
+Forsvarsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Hans Christian Thoning (V)
+2 Karsten Nonbo (V)
+3 Kristian Pihl Lorentzen (V)
+4 Gitte Lillelund Bech (V)
+5 Søren Pind (V)
+6 Marion Pedersen (V)
+7 Ib Poulsen (DF)
+8 Søren Krarup (DF)
+9 Helge Adam Møller (KF)
+10 John Dyrby Paulsen (S)
+11 Jens Christian Lund (S)
+12 Poul Andersen (S)
+13 Julie Rademacher (S)
+14 Holger K. Nielsen (SF)
+15 Pernille Frahm (SF)
+16 Morten Helveg Petersen (RV)
+17 Frank Aaen (EL)
+Til stedfortrædere for:
+1-6 Peter Juel Jensen (V)
+Hans Christian Schmidt (V)
+7-8 Hans Kristian Skibby (DF)
+Søren Espersen (DF)
+9 Tom Behnke (KF)
+10-13 Bjarne Laustsen (S)
+Christine Antorini (S)
+14-15 Jonas Dahl (SF)
+16 Juliane Henningsen (IA)";Næstformand
+15387;title_name;Hans Christian Thoning (V);Formand
+15427;title_name;"Poul Andersen (S)
+Valg af 17 medlemmer til Indfødsretsudvalget.
+Valgt blev:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Karsten Nonbo (V)
+Per Bisgaard (V)
+Sophie Løhde (V)
+Gitte Lillelund Bech (V)
+Peter Juel Jensen (V)
+Louise Schack Elholm (V)
+Søren Krarup (DF)
+Jesper Langballe (DF)
+Tom Behnke (KF)
+Henrik Dam Kristensen (S)
+Kenneth F. Christensen (S)
+
+Onsdag den 8. oktober 2008 (Udvalg)
+12
+13
+14
+15
+16
+17
+
+Lennart Damsbo-Andersen (S)
+Anne-Marie Meldgaard (S)
+Astrid Krag (SF)";Næstformand
+15907;name_party;":
+Jørgen Poulsen (RV)
+Johanne Schmidt-Nielsen (EL)
+
+Valg af 17 medlemmer og stedfortrædere til
+Kommunaludvalget.
+Valgt blev:
+Til medlemmer:
+1 Erling Bonnesen (V)
+2 Britta Schall Holberg (V)
+3 Hans Christian Thoning (V)
+4 Per Bisgaard (V)
+5 Hans Kristian Skibby (DF)
+6 Henrik Brodersen (DF)
+7 Henriette Kjær (KF)
+8 Mike Legarth (KF)
+9 Villum Christensen (LA)
+10 Rasmus Prehn (S)
+11 Lene Hansen (S)
+12 Thomas Jensen (S)
+13 Lennart Damsbo-Andersen (S)
+14 Flemming Bonne (SF)
+15 Karl H. Bornhøft (SF)
+16 Johs. Poulsen (RV)
+17 Line Barfod (EL)";Anne Baastrup
+16456;title_name;Tom Behnke (KF);Formand
+16485;title_name;"Søren Krarup (DF)
+Valg af 17 medlemmer og stedfortrædere til
+Kirkeudvalget.
+Valgt blev:
+Til medlemmer:
+1 Flemming Damgaard Larsen (V)
+2 Britta Schall Holberg (V)
+3 Jens Kirk (V)
+4 Per Bisgaard (V)
+5 Jesper Langballe (DF)
+6 Søren Krarup (DF)
+7 Charlotte Dyremose (KF)
+8 Per Ørum Jørgensen (KF)
+9 Naser Khader (LA)
+10 Karen J. Klint (S)
+11 Kenneth F. Christensen (S)
+12 Benny Engelbrecht (S)
+13 Leif Lahn Jensen (S)
+14 Pernille Vigsø Bagge (SF)
+15 Anne Baastrup (SF)
+16 Bente Dahl (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:
+1-4 Lars Christian Lilleholt (V)
+Søren Pind (V)
+5-6 René Christensen (DF)
+Karin Nødgaard (DF)
+7-8 Tom Behnke (KF)
+Vivi Kier (KF)
+9 Eyvind Vesselbo (V)
+10-13 Ole Hækkerup (S)
+Flemming Møller Mortensen (S)
+14-15 Eigil Andersen (SF)
+Ole Sohn (SF)
+16 Magnus Heunicke (S)";Næstformand
+17301;title_name;Britta Schall Holberg (V);Formand
+17340;title_name;"Pernille Vigsø Bagge I(SF)
+
+39
+
+'
+
+Til stedfortrædere for:
+1-4 Troels Christensen (V)
+Birgitte Josefsen (V)
+5-6 Ib Poulsen (DF)
+Mikkel Dencker (DF)
+7-8 Colette L. Brix (DF)
+Knud Kristensen (KF)
+9 Marion Pedersen (V)
+10-13 Julie Skovsby (S)
+Nick Hækkerup (S)
+14-15 Kristen Touborg (SF)
+Anne Baastrup (SF)
+16 Thomas Adelskov (S)
+17 Magnus Heunicke (S)";Næstformand
+17699;title_name;Hans Kristian Skibby (DF);Formand
+17738;title_name;"Henriette Kjær (KF)
+Valg af 17 medlemmer og stedfortrædere til,
+Kulturudvalget.
+Valgt blev:
+Til medlemmer:
+1 Hans Christian Schmidt (V)
+2 Troels Christensen (V)
+3 Ellen Trane Nørby (V)
+4 Flemming Damgaard Larsen (V)
+5 Preben Rudiengaard (V)
+
+-
+
+40
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Onsdag den 8. oktober 2008 (Udvalg)
+Karin - N ø d g a a r d
+Pia Kjærsgaard (DF)
+Henriette Kjær (KF)
+Per Ørum Jørgensen (KF)
+Mogens Jensen (S)
+Lise von Seelen (S)
+Leif Lahn Jensen (S)
+Yildiz Akdogan (S)
+Pernille Frahm (SF)
+Holger K. Nielsen (SF)
+Simon Emil Ammitzbøll (RV)
+Per Clausen (EL)
+
+Til stedfortrædere for:
+1-5 Eyvind Vesselbo (V)
+Britta Schall Holberg (V)
+6-7 Marlene Harpsøe (DF)
+Peter Skaarup (DF)
+8-9 Bendt Bendtsen (KF)
+Malou Aamund (V)
+10-13 Flemming Møller Mortensen (S)
+Rasmus Prehn (S)
+14-15 Ida Auken (SF)
+Ole Sohn (SF)
+16 Kenneth F. Christensen (S)
+17 Karl H. Bornhøft (SF)";Næstformand
+18621;title_name;Karin Nødgaard (DF);Formand
+18654;title_name;"Preben Rudiengaard (V)
+Valg af 17 medlemmer og stedfortrædere til
+Miljø- og Planlægningsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Peter Juel Jensen (V)
+2 Eyvind Vesselbo (V)
+3 Erling Bonnesen (V)
+4 Birgitte Josefsen (V)
+5 Hans Christian Thoning (V)
+6 Jørn Dohrmann (DF)
+7 Liselott Blixt (DF)
+8 Per Ørum Jørgensen (KF)
+9 Knud Kristensen (KF)
+10 Torben Hansen (S)
+11 Mette Gjerskov (S)
+12 Flemming Møller Mortensen (S)
+13 Ida Auken (SF)
+14 Steen Gade (SF)
+15 Johs. Poulsen (RV)
+16 Per Clausen (EL)
+17 Juliane Henningsen (IA)
+
+Til stedfortrædere for:
+1-5 Lars Christian Lilleholt (V)
+Henrik Høegh (V)
+6-7 Ib Poulsen (DF)
+Anita Knakkergaard (DF)
+8-9 Helle Sjelle (KF)
+Britta Schall Holberg (V)
+10-12 Ole Vagn Christensen (S)
+Benny Engelbrecht (S)
+13-14 Pia Olsen Dyhr (SF)
+Jonas Dahl (SF)
+15 Bente Dahl (RV)
+16 Jeppe Kofod (S)
+17 Anne Grete Holmsgaard (SF)
+lFormand: Steen Gade (SF)";Næstformand
+19543;title_name;"Peter Juel Jensen (V)
+Valg af 17 medlemmer og stedfortrædere til
+Det Politisk-Økonomiske Udvalg.
+Valgt blev:
+Til medlemmer:
+1 Torsten Schack Pedersen (V)
+2 Inger Støjberg (V)
+3 Hans Christian Schmidt (V)
+4 Marion Pedersen (V)
+5 Per Bisgaard (V)
+:
+6 Pia Adelsteen (DF)
+7 Marlene Harpsøe (DF)
+8 Helle Sjelle (KF)
+9 Anders Samuelsen (LA)
+10 René Skau Björnsson (S)
+11 Anne-Marie Meldgaard (S)
+12 Helle Thorning-Schmidt (S)
+13 Julie Rademacher (S)
+14 Ole Sohn (SF)
+15 Lone Dybkjær (RV)
+16 Frank Aaen (EL)
+17 Annita å Fríðriksmørk (TF)
+l Til stedfortrædere for:
+1-5 Ellen Trane Nørby (V)";Næstformand
+20147;name_party;":
+6-7 Henrik Brodersen (DF)
+Anita Christensen (DF)
+8 Charlotte Dyremose (KF)
+II
+9 Hans Christian Thoning (V) 홢 I- I 홢
+10-13 Karen Hækkerup (S)
+Orla Hav (S)
+14 Pernille Vigsø Bagge (SF)
+
+(6)
+Onsdag den 8. oktober 2008 (Udvalg)
+15 Morten Bødskov (S)
+16 Jesper Petersen (SF) ,
+
+.
+
+:
+
+,,";Karsten Lauritzen
+20442;title_name;"Frank Aaeil. (EL)
+:";Formand
+20475;title_name;"Pia Adelsteen (DF) 홢홢>홢'
+Valg af 17 medlemmer og stedfortrædere til
+Retsudvalget.
+Valgt blev:
+Til medlemmer:
+^
+1 Kim Andersen (V)
+2 Søren Pind (V)
+3 Karsten Nonbo (V)
+4 Peter Skaarup (DF)
+5 Marlene Harpsøe (DF)
+6 René Christensen (DF) .
+7 Tom Behnke (KF)
+8 Vivi Kier (KF)
+9 Naser Khader (LA)
+10 Karen Hækkerup (S)
+11 Anne-Marie Meldgaard (S)
+12 Mogens Jensen (S)
+13 Julie Skovsby (S), .
+.
+14 Anne Baastrup (SF) .
+15 Karina Lorentzen (SF) o
+16 Simon Emil Ammitzbøll (RV) ,
+17 Line Barfod (EL)
+
+I홢
+홢,
+>I 홢
+
+41
+
+Valg af 17 medlemmer og stedfortrædere til
+Skatteudvalget.
+Valgt blev:
+
+,
+
+Til medlemmer:
+: :
+1 Torsten Schack Pedersen (V)
+2 Karsten Lauritzen (V)
+3 Peter Christensen (V)
+4 Jacob Jensen (V)
+5 Mikkel Dencker (DF)
+6 Pia Adelsteen (DF)
+7 Mike Legarth (KF)
+i 홢
+8 Charlotte Dyremose (KF)
+9 Anders Samuelsen (LA)
+10 Nick Hækkerup (S)
+:,
+11 John Dyrby Paulsen (S)
+12 Klaus Hækkerup (S),
+13 René Skau Björnsson (S)
+::
+14 Mette Frederiksen (S)
+15 Jesper Petersen (SF)
+:. 홢
+: ,,
+16 Niels Helveg Petersen (RV)
+17 Frank Aaen (EL)
+Til stedfortrædere for::
+1-4 Lars Christian Lilleholt (V)
+Gitte Lillelund Bech (V)
+5-6 Colette L. Brix (DF)
+Bent Bøgsted (DF)
+7-8 Tina Nedergaard (V)
+< Per Ørum Jørgensen (KF)
+9 Kim Andersen (V)
+10-14 Anne-Marie Meldgaard (S)
+Jens Peter Vernersen (S)
+15 Hanne Agersnap (SF)
+16 Ole Sohn (SF)
+17 Anne Baastrup (SF)
+
+,
+
+::
+
+Til stedfortrædere for:
+.I
+1-3 Karsten Lauritzen-(V)
+Gitte Lillelund Bech (V)
+4-6 Christian H. Hansen (DF)
+Kim Christiansen (DF)
+,
+.
+7-8 Louise Schack Elholm (V)
+Helge Adam Møller (KF)
+9 Troels Christensen (V) .
+I^ 홢 Formand: Niels Helveg Petersen (RV) .
+10-13 Morten Bødskov (S)";Næstformand
+22117;title_name;"Anders Samuelsen (LA)
+Flemming Møller Mortensen (S) '홢:홢
+-홢
+I ' I.,
+14-15 Astrid Krag (SF)
+Kristen Touborg (SF)
+Valg af 17 medlemmer og stedfortrædere til So-I I
+16 Lise von Seelen (S)
+cialudvalget.
+17 Pia Olsen Dyhr (SF)
+Valgt blev:";Næstformand
+22360;title_name;Peter Skaarup (DF);Formand
+22392;title_name;"Anne Baastrup (SF)
+Til medlemmer:
+1 Ellen Trane Nørby (V)
+2 Erling Bonnesen (V) /:
+3 Anne-Mette Winther Christiansen (V) :
+4 Karen Ellemann (V)
+5 Christian H. Hansen (DF)
+<.
+6 Tina Petersen (DF)
+
+42
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Onsdag den 8. oktober 2008 (Udvalg)
+René Christensen (DF)
+Vivi Kier (KF)
+Tom Behnke (KF)
+Mette Frederiksen (S)
+Lone Møller (S)
+Lene Hansen (S)
+Lise von Seelen (S)
+Özlem Sara Cekic (SF)
+Astrid Krag (SF)
+Marianne Jelved (RV)
+Line Barfod (EL)
+
+Til stedfortrædere for:
+1-4 Jens Vibjerg (V)
+Sophie Løhde (V)
+5-7 Anita Christensen '(DF)
+Liselott Blixt (DF)
+8-9 Knud Kristensen (KF)
+Villum Christensen (LA)
+10-13 René Skau Björnsson (S)
+Orla Hav (S)
+14-15 Anne Baastrup (SF)
+Hanne Agersnap (SF)
+16 Lone Dybkjær (RV)
+17 Yildiz Akdogan (S)";Næstformand
+23163;title_name;Christian H. Hansen (DF);Formand
+23201;title_name;"Erling Bonnesen (V)
+Valg af 17 medlemmer og stedfortrædere til
+Sundhedsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Louise Schack Elholm (V)
+2 Preben Rudiengaard (V)
+3 Birgitte Josefsen (V)
+4 Sophie Løhde (V)
+5 Anne-Mette Winther Christiansen (V)
+6 Liselott Blixt (DF)
+7 Karin Nødgaard (DF)
+8 Vivi Kier (KF)
+9 Pia Christmas-Møller (UFG)
+10 Jens Peter Vernersen (S)
+11 Flemming Møller Mortensen (S)
+12 Karen J. Klint (S)
+13 Lene Hansen (S)
+14 Karl H. Bornhøft (SF)
+15 Kamal Qureshi (SF)
+16 Lone Dybkjær (RV)
+17 Per Clausen (EL)
+
+Til stedfortrædere for:
+1-5 Flemming Damgaard Larsen (V)
+Karen Ellemann (V)
+6-7 René Christensen (DF)
+Anita Christensen (DF)
+8 Helle Sjelle (KF)
+9 Anders Samuelsen (LA)
+10-13 Lone Møller (S)
+Orla Hav (S)
+14-15 Jonas Dahl (SF)
+Anne Baastrup (SF)
+16 Bente Dahl (RV)
+17 Lise von Seelen (S)";Næstformand
+24019;title_name;Preben Rudiengaard (V);Formand
+24055;title_name;"Pia Christmas-Møller (UFG)
+Valg af 17 medlemmer og stedfortrædere til
+Trafikudvalget.
+Valgt blev:
+Til medlemmer:
+1 Jens Vibjerg (V)
+2 Flemming Damgaard Larsen (V)
+3 Kristian Pihl Lorentzen (V)
+4 Hans Christian Schmidt (V)
+5 Karsten Nonbo (V)
+6 Kim Christiansen (DF)
+7 Pia Adelsteen (DF)
+8 Henriette Kjær (KF)
+9 Helge Adam Møller (KF)
+10 Magnus Heunicke (S)
+11 Jens Christian Lund (S)
+12 Poul Andersen (S)
+13 Klaus Hækkerup (S)
+14 Pia Olsen Dyhr (SF)
+15 Jesper Petersen (SF)
+16 Johs. Poulsen (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-5 Jens Kirk (V)
+Jacob Jensen (V)
+6-7 Jørn Dohrmann (DF)
+Mikkel Dencker (DF)
+8-9 Henrik Brodersen (DF)
+Tom Behnke (KF)
+10-13 Benny Engelbrecht (S)
+Kim Mortensen (S)
+4-15 Jonas Dahl (SF)
+Hanne Agersnap (SF)
+16 Thomas Adelskov (S)
+
+Onsdag den 8. oktober 2008 (Udvalg)";Næstformand
+24872;title_name;Flemming Damgaard Larsen, (V);Formand
+24915;title_name;"Henriette Kjær (KF)
+Valg af 17 medlemmer og stedfortrædere til
+Uddannelsesudvalget.
+Valgt blev:
+Til medlemmer:
+1 Sophie Løhde (V)
+2 Britta Schall Holberg (V)
+3 Malou Aåmund (V)
+4 Anne-Mette Winther Christiansen (V)
+5 Troels Christensen (V)
+6 Martin Henriksen (DF)
+7 Hans Kristian Skibby (DF)
+^
+8 Charlotte Dyremose (KF)
+:
+9 Anders Samuelsen (LA)
+10 Christine Antorini (S)
+11 Carsten Hansen (S) ,
+12 Kim Mortensen (S)
+13 Julie Skovsby (S)
+14 Pernille Vigsø Bagge (SF) .
+15 Nanna Westerby (SF)
+16 Marianne Jelved (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:
+1-5 Per Bisgaard (V)";Næstformand
+25530;name_party;":
+6-7 Søren Krarup (DF)
+Karin Nødgaard (DF)
+8 Vivi Kier (KF)
+9 Karen Ellemann (V)
+10-13 Bjarne Laustsen (S) .
+Kirsten Brosbøl (S)
+14-15 Pernille Frahm (SF)
+16 Morten Østergaard (RV)
+17 Leif Lahn Jensen (S) -
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Karsten Lauritzen (V)
+Gitte Lillelund Bech (V)
+Søren Espersen (DF)
+Tina Petersen (DF)
+Helge Adam Møller (KF)
+Naser Khader (LA)
+Jeppe Kofod (S)
+Mogens Lykketoft (S)
+Ole Hækkerup (S)
+Kirsten Brosbøl (S)
+Steen Gade (SF)
+Hanne Agersnap (SF)
+Jørgen Poulsen (RV)
+Frank Aaen (EL)
+I
+
+43
+
+'
+
+Til stedfortrædere for:
+1-5 Kristian Pihl Lorentzen (V)
+Ellen Trane Nørby (V)
+6-7 Pia Kjærsgaard (DF)
+Peter Skaarup (DF)
+8 Helle Sjelle (KF) <
+9 Marion Pedersen (V)
+10-13 Mogens Jensen (S)
+Mette Gjerskov (S)
+14-15 Pia Olsen Dyhr (SF)
+Astrid Krag (SF)
+16 John Dyrby Paulsen (S)
+17 Kamal Qureshi (SF)";Peter Juel Jensen
+26367;title_name;Naser Khader (LA);Formand
+26398;title_name;"Karsten Lauritzen (V)
+Valg af 17 medlemmer og stedfortrædere til
+Udvalget for Fødevarer, Landbrug og Fiskeri.
+Valgt blev:
+
+, Til medlemmer:
+1 Torsten Schack Pedersen (V)
+2 Tina Nedergaard (V)
+,, Formand: Charlotte Dyremose (KF)
+3 Henrik Høegh (V)";Næstformand
+26658;title_name;"Martin Henriksen (DF)
+4 Jens Kirk (V)
+5 Eyvind Vessélbo (V)
+6 Jørn Dohrmann (DF)
+Valg af 17 medlemmer og stedfortrædere til 홢.l 홢 7 Bent Bøgsted (DF)
+Udenrigsudvalget.
+8 Anita Christensen (DF)
+9 Knud Kristensen (KF)
+Valgt blev:
+10 Bjarne Laustsen (S)
+11 Ole Vagn Christensen (S)
+Til medlemmer:
+:
+12 Julie Skovsby (S)
+1 Michael Aastrup Jensen (V)
+13 Benny Engelbrecht (S)
+2 Søren Pind (V)
+14 Kristen Touborg (SF)
+3 Karen Ellemann (V)
+15 Karina Lorentzen (SF)
+
+44
+
+Onsdag den 8. oktober 2008 (Udvalg)
+
+16 Bente Dahl (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-5 Karsten Lauritzen (V)
+Per Bisgaard (V)
+6-8 Ib Poulsen (DF)
+Christian H. Hansen (DF)
+9 Per Ørum Jørgensen (KF)
+10-13 Lene Hansen (S)
+Mette Gjerskov (S)
+14-15 Pia Olsen Dyhr (SF)
+Jesper Petersen (SF)
+16 Kirsten Brosbøl (S)
+17 Johanne Schmidt-Nielsen (EL)";Næstformand
+27488;title_name;Jørn Dohrmann (DF);Formand
+27520;title_name;"Torsten Schack Pedersen (V)
+Valg af 17 medlemmer og stedfortrædere til
+Udvalget for Udlændinge- og Integrationspolitik.
+Valgt blev:
+Til medlemmer:
+1 Karsten Lauritzen (V)
+2 Karen Ellemann (V)
+3 Eyvind Vesselbo (V)
+4 Troels Christensen (V)
+5 Peter Skaarup (DF)
+6 Martin Henriksen (DF)
+7 Jesper Langballe (DF)
+8 Helle Sjelle (KF)
+9 Vivi Kier (KF)
+10 Henrik Dam Kristensen (S)
+11 Anne-Marie Meldgaard (S)
+12 Ole Hækkerup (S)
+13 Kenneth F. Christensen (S)
+14 Astrid Krag (SF)
+15 Eigil Andersen (SF)
+16 Morten Østergaard (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:
+1-4 Søren Pind (V)
+Erling Bonnesen (V)
+5-7 Søren Krarup (DF)
+Pia Kjærsgaard (DF)
+8-9 Henriette Kjær (KF)
+Naser Khader (LA)
+
+10-13 Karen Hækkerup (S)
+Karen J. Klint (S)
+14-15 Pia Olsen Dyhr (SF)
+Nanna Westerby (SF)
+16 Simon Emil Ammitzbøll (RV)
+17 Lennart Damsbo-Andersen (S)";Næstformand
+28381;title_name;Karsten Lauritzen (V);Formand
+28416;title_name;"Astrid Krag (SF)
+Valg af 17 medlemmer og stedfortrædere til
+Udvalget for Videnskab og Teknologi.
+Valgt blev:
+Til medlemmer:
+1 Lars Christian Lilleholt (V)
+2 Henrik Høegh (V)
+3 Michael Aastrup Jensen (V)
+4 Tina Nedergaard (V)
+5 Malou Aamund (V)
+6 Jesper Langballe (DF)
+7 Mikkel Dencker (DF)
+8 Charlotte Dyremose (KF)
+9 Mike Legarth (KF)
+10 Kirsten Brosbøl (S)
+11 Rasmus Prehn (S)
+12 Benny Engelbrecht (S)
+13 Ole Hækkerup (S)
+14 Jonas Dahl (SF)
+15 Hanne Agersnap (SF)
+16 Marianne Jelved (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:,
+1-5 Jens Kirk (V)
+Torsten Schack Pedersen (V)
+6-7 Jørn Dohrmann (DF)
+Martin Henriksen (DF)
+8-9 Helle Sjelle (KF)
+Pia Christmas-Møller (UFG)
+10-13 Christine Antorini (S)
+Kenneth F. Christensen (S)
+14-15 Nanna Westerby (SF)
+Karl H. Bornhøft (SF)
+16 Morten Helveg Petersen (RV)
+17 Julie Rademacher (S)";Næstformand
+29271;title_name;Marianne Jelved (RV);Formand
+29305;title_name;"Lars Christian Lilleholt (V)
+
+Onsdag den 8. oktober 2008 (Udvalg)
+Valg af 17 medlemmer og stedfortrædere til
+Udvalget vedrørende Grønlandske Forhold.
+Valgt blev:
+Til medlemmer:
+1 Henrik Høegh (V)
+2 Preben Rudiengaard (V) . 홢.
+3 Britta Schall Holberg (V)
+4 Lars Christian Lilleholt (V) . 홢
+5 Kim Andersen (V)
+6 Søren Espersen (DF) .
+7 Søren Krarup (DF) 홢
+8 Kristian Thulesen Dahl (DF)
+9 Per Ørum Jørgensen (KF)
+10 Mogens Jensen (S)
+11 Mogens Lykketoft (S)
+12 Julie Rademacher (S)
+13 Kristen Touborg (SF)
+14 Niels Helveg Petersen (RV)
+15 Line Barfod (EL)
+16 Lars-Emil Johansen (SIU) :
+.
+17 Juliane Henningsen (IA)
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+45
+
+Kristian Thulesen Dahl (DF)
+Vivi Kier (KF)
+Edmund Joensen (SP)
+Niels Sindal (S)
+Lise von Seelen (S)
+Lene Hansen (S)
+Poul Andersen (S)
+Kristen Touborg (SF)
+Niels Helveg Petersen (RV)
+Line Barfod (EL)
+Annita å Fríðriksmørk (TF)
+
+Til stedfortrædere for:
+1-5 Jens Vibjerg (V)
+Helge Adam Møller (KF)
+6-7 Henrik Brodersen (DF)
+Anita Knakkergaard (DF)
+8 Per Ørum Jørgensen (KF)
+9 Kim Andersen (V)
+10-13 Torben Hansen (S)
+Mogens Jensen (S)
+14 Ole Sohn (SF)
+15 Orla Hav (S)
+16 Anne Baastrup (SF)
+17 Lars-Emil Johansen (SIU)
+
+Til stedfortrædere for:
+1-5 Birgitte Josefsen (V)
+Jacob Jensen (V)
+6-8 Henrik Brodersen (DF)
+Christian H. Hansen (DF)
+9 Vivi Kier (KF)
+10-12 Niels Sindal (S)
+Torben Hansen (S)
+13 Ole Sohn (SF)
+14 Bente Dahl (RV)
+15 Poul Andersen (S)
+16 Pernille Frahm (SF)
+17 Anne Baastrup (SF)";Næstformand
+30758;title_name;Edmund Joensen (SP);Formand
+30791;title_name;"Søren Espersen (DF)
+Valg af 2 medlemmer til at føre tilsyn med Folketingets Bibliotek.
+Valgt blev:
+1 Flemming Damgaard Larsen (V)
+2 Jens Christian Lund (S)";Næstformand
+30957;title_name;Lars-Emil Johansen (SIU);Formand
+30995;title_name;"Britta Schall Holberg (V)
+Valg af 17 medlemmer og stedfortrædere til
+Udvalget vedrørende Færøske Forhold.
+
+Valg af 9 medlemmer til det i grundlovens § 71,
+stk. 7, omhandlede tilsyn med behandlingen af
+personer, som er underkastet frihedsberøvelse
+af den i grundlovens § 71, stk. 6, omhandlede
+art.
+
+Valgt blev:
+
+Valgt blev:
+
+Til medlemmer:
+1 Louise Schack Elholm (V)
+2 Flemming Damgaard Larsen (V)
+3 Britta Schall Holberg (V)
+4 Sophie Løhde (V)
+5 Hans Christian Schmidt (V)
+6 Søren Espersen (DF) '
+' -
+
+.
+
+1
+2
+3
+4
+5
+6
+7
+
+Sophie Løhde (V)
+Birgitte Josefsen (V)
+Flemming Damgaard Larsen (V)
+Anita Christensen (DF)
+Vivi Kier (KF)
+Karen J. Klint (S)
+Julie Skovsby (S)
+
+46
+
+*
+
+Onsdag den 8. oktober 2008 (Udvalg)
+Valg af 16 medlemmer og 16 stedfortrædere til
+Nordisk Råd.
+
+8 Özlem Sara Cekic (SF)
+9 Anne Baastrup (SF)
+
+Valgt blev:";Næstformand
+31832;title_name;Karen J. Klint (S);Formand
+31864;title_name;"Anita Christensen (DF)
+
+Til medlemmer:
+1 Per Bisgaard (V)
+2 Erling Bonnesen (V)
+3 Troels Christensen (V)
+4 Marion Pedersen (V)
+5 Anita Knakkergaard (DF)
+6 Henrik Brodersen (DF)
+7 Knud Kristensen (KF)
+8 Pia Christmas-Møller (UFG)
+9 Niels Sindal (S)
+10 Mogens Jensen (S)
+11 Henrik Dam Kristensen (S)
+12 Ole Vagn Christensen (S)
+13 Kristen Touborg (SF)
+14 Karina Lorentzen (SF)
+15 Bente Dahl (RV)
+16 Line Barfod (EL)
+
+Valg af 17 medlemmer og 17 stedfortrædere til
+Det Udenrigspolitiske Nævn.
+Valgt blev:
+Til medlemmer:
+1 Gitte Lillelund Bech (V)
+2 Søren Pind (V)
+3 Inger Støjberg (V)
+4 Pia Kjærsgaard (DF)
+5 Peter Skaarup (DF)
+6 Søren Espersen (DF)
+7 Tom Behnke (KF)
+8 Naser Khader (LA)
+9 Edmund Joensen (SP)
+10 Mogens Lykketoft (S)
+11 Helle Thorning-Schmidt (S)
+12 Jeppe Kofod (S)
+13 Poul Andersen (S)
+14 Villy Søvndal (SF)
+15 Margrethe Vestager (RV)
+16 Frank Aaen (EL)
+17 Annita å Fríðriksmørk (TF)
+Til stedfortrædere for:
+1-3 a Henriette Kjær (KF)
+b Karsten Nonbo (V)
+c Torsten Schack Pedersen (V)
+4-6 a Kristian Thulésen Dahl (DF)
+b Søren Krarup (DF)
+c Ib Poulsen (DF)
+7
+Kristian Pihl Lorentzen (V)
+8
+Hans Christian Thoning (V)
+9
+Kim Andersen (V)
+10-13 a Klaus Hækkerup (S)
+b Mogens Jensen (S)
+c Henrik Sass Larsen (S)
+d John Dyrby Paulsen (S)
+14
+Ole Sohn (SF)
+15
+Niels Helveg Petersen (RV)
+16
+Line Barfod (EL)
+17
+Holger K. Nielsen (SF)";Næstformand
+33211;title_name;Gitte Lillelund Bech (V);Formand
+33249;title_name;"Jeppe Kofod (S)
+
+Til stedfortrædere for:
+1-4 Flemming Damgaard Larsen (V)
+Eyvind Vesselbo (V)
+Henrik Høegh (V)
+Edmund Joensen (SP)
+5-6 Tina Petersen (DF)
+Hans Kristian Skibby (DF)
+7-8 Mike Legarth (KF)
+Per Ørum Jørgensen (KF)
+9-12 Karen J. Klint (S)
+Thomas Jensen (S)
+Mette Gjerskov (S)
+Carsten Hansen (S)
+13 Anne Baastrup (SF)
+14 Ole Sohn (SF)
+15 Annita å Frföriksmork (TF)
+16 Juliane Henningsen (IA)
+.";Næstformand
+33663;title_name;Niels Sindal (S);Formand
+33693;title_name;"Erling Bonnesen (V)
+Valg af 9 medlemmer og 9 stedfortrædere til
+Udvalget vedrørende Det Etiske Råd.
+Valgt blev:
+Til medlemmer:
+1 Sophie Løhde (V)
+2 Preben Rudiengaard (V)
+3 Britta Schall Holberg (V)
+
+Onsdag den 8: oktober. 2008 (Udvalg) .
+4
+5
+6
+7
+8
+9
+
+Anita Christensen (DF)
+Charlotte Dyremose (KF)
+Karen J. Klint (S)
+Lene Hansen (S)
+Pernille Vigsø Bagge (SF)";Næstformand
+34081;name_party;":
+
+3
+4
+5
+6";Simon Emil Ammitzbøll
+34102;title_name;Peter Juel Jensen (V);Formand
+34137;title_name;"Jeppe Kofod (S)
+
+Valg af 5 medlemmer og 5 stedfortrædere til
+Europarådet.
+Valgt blev:
+
+..
+
+Til stedfortrædere for:
+1 Sophie Løhde (V)
+2 Hans Kristian Skibby (DF)
+3 Flemming Damgaard Larsen (V)
+4 Morten Østergaard (RV)
+5 Frank Aaen (EL) ...";Næstformand
+34386;title_name;Michael Aastrup Jensen (V);Formand
+34426;title_name;"Mogens Jensen (S)
+Valg af 6 medlemmer og 6 stedfortrædere til
+OSCE's Parlamentariske Forsamling. .,
+
+Til medlemmer:
+1 Peter Juel Jensen (V)
+l ' 2 Pia Kjærsgaard (DF)
+
+^
+
+Valg af 3 medlemmer og 3 stedfortrædere til
+Den Parlamentariske Forsamling for EU-Middelhavs-området (EMPA).";Næstformand
+34715;title_name;Lene Hansen (S);Formand
+34744;title_name;"Sophie Løhde (V)
+
+Valgt blev:
+
+Pia Christmas-Møller (UFG)
+Jeppe Kofod (S)
+Kamal Qureshi (SF)
+Frank Aaen (EL)
+
+Til stedfortrædere for:
+1 Marion Pedersen (V)
+2 Morten Messerschmidt (DF)
+3 Helle Sjelle (KF)
+4 Jens Christian Lund (S) ,
+5 Karina Lorentzen (SF)
+6 Pernille Frahm (SF)
+
+Til stedfortrædere for:
+1-3 Louise Schack Elholm (V)
+Jens Vibjerg (V) '
+Hans Christian Schmidt (V)
+4 Tina Petersen (DF)
+5 Pia Christmas-Møller (UFG)
+6-7 Kenneth F. Christensen (S)
+René Skau Björnsson (S)
+8 Pernille Frahm (SF)
+9 Marianne Jelved (RV)
+
+Til medlemmer:
+1 Michael Aastrup Jensen (V).
+2 Morten Messerschmidt (DP)
+3 Pia Christmas-Møller (UFG)
+4 Mogens Jensen (S) ....
+,
+5 Pernille Frahm (SF) . ,
+
+47
+
+Valgt blev:
+Til medlemmer:
+1. Michael.Aastrup Jensen (V)
+2 Morten Messerschmidt (DF)
+3 Yildiz Akdogan (S)
+Til stedfortrædere for:
+1 Birgitte Josefsen (V)
+2 Tina Nedergaard (V)
+3 Anne Grete Holmsgaard (SF)";Næstformand
+35647;title_name;Yildiz Akdogan (S);Formand
+35679;title_name;"Michael Aastrup Jensen (V)
+Valg af 1 medlem af hver gruppe, der er repræsenteret i Udvalget for Forretningsordenen, til
+dette udvalgs underudvalg, j f. § 59 i Folketingets Forretningsorden.
+Valgt blev:
+1 .Flemming Damgaard Larsen (V).
+2 Svend Auken (S),
+3. Søren Espersen (DF)
+4, Ole Sohn (SF)
+Y
+. I: . I
+5 Helge Adam Møller (KF)
+6 Margrethe Vestager (RV)
+7 Naser Khader (LA)
+8 Per Clausen (EL)
+
+48
+
+Onsdag den 8. oktober 2008 (Spørgetime)";Næstformand
+36130;title_name;Flemming Damgaard Larsen (V);Formand
+36172;title_name;"Svend Auken (S)]
+
+Det næste punkt på dagsordenen er:
+2) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).";Næstformand
+36302;Time;;Kl. 13:04
+36314;title_name;"Til at besvare spørgsmål i spørgetimen i dag har
+statsministeren udpeget økonomi- og erhvervsministeren og finansministeren.
+Der er ikke anmeldt spørgere til økonomi- og
+erhvervsministeren. Det er der fortsat ikke, og
+derfor siger vi tak for ministerens deltagelse indtil videre.
+Til finansministeren er anmeldt følgende
+spørgere:
+Morten Bødskov (S)
+Nick Hækkerup (S)
+Er der flere, der ønsker at anmelde sig til finansministeren?
+Det er ikke tilfældet.
+Jeg gør opmærksom på, at i første runde har
+spørger og minister 2 minutters taletid, og herefter følger to runder, hvor spørger og minister
+hver har 1 minuts taletid.
+Jeg giver ordet til hr. Morten Bødskov.";Formanden
+36983;Time;Spm. nr. US 1;Kl. 13:05
+37016;name_party;":
+Tak for det. Årsagen til, at vi ikke havde spørgsmål til økonomi- og erhvervsministeren, var
+selvfølgelig ikke, at vi ikke interesserer os for
+hendes felt, men at finansmmisteren er mere interessant i denne sammenhæng.
+Jeg står her med Politiken fra i lørdags, hvor
+der er en stor historie, som handler om, at vores
+folkeskoler forfalder. Vi har gentagne gange forsøgt at spørge finansministeren, hvordan finansministeren mener det går med investeringerne i
+folkeskolen, og nu har finansministeren i to omgange over det meste af en uge - ikke bare i Politiken, men også i Berlingske Tidende - forsøgt at
+undgå at svare på, hvordan det går med regeringens investeringer i folkeskolen.
+Imidlertid har regeringen nu via finansministeren afgivet et svar til Folketingets Uddannel-
+
+sesudvalg, hvor finansministeren selv skriver
+under på, at investeringerne i folkeskolen er
+øget under denne regering. Når man så kigger
+rundtomkring på de møgbeskidte skoletoiletter,
+de hullede tavler og kortene i atlasserne, hvor
+DDR stadig figurerer, selv om det jo efterhånden
+er omtrent to årtier siden, Berlinmuren væltede,
+undrer det os såre, at man kan påstå noget sådant. Derfor vil jeg nu gerne bede om finansministerens kommentar til, om det virkelig er rigtigt, at investeringerne i folkeskolen er øget under denne regering.";Morten Bødskov
+38342;Time;;Kl. 13:07
+38354;title_name;Ministeren.;Formanden
+38375;Time;;Kl. 13:07
+38415;title_name;":
+tak for det. Jamen det svarer jeg da meget gerne
+på, for det er sådan, at hvis man ser på det gennemsnitlige årlige niveau for investeringer i folkeskolen i den periode, regeringen har haft ansvaret, ligger det højere end det gennemsnitlige
+årlige niveau, der var fra 1993 til 2001, så det er
+meget nemt at svare på.
+Så kan man spørge sig selv, om der fortsat er
+et investeringsbehov. Svaret på det spørgsmål er
+jo ja, og det er derfor, regeringen har afsat midler til en kvalitetsfond, hvor 22 mia. kr. er målrettet primærkommunale investeringer, og der
+samtidig er lavet en aftale med kommunerne
+om, at deres del af kvalitetsfonden skal bruges
+på målrettede investeringer i det, man kunne
+kalde de borgernære institutioner: dagsinstitutionsonirådet, skoleområdet og den del af ældreområdet, som ikke er bosteder for de ældre, altså
+ældreboliger og plejehjem.
+For at angive noget om det løft, der ligger i
+det, er det sådan, at kommunerne helt aktuelt
+har et niveau i omegnen af 5 mia. kr. til den type
+investeringer. Kommunerne har forpligtet sig til,
+at kvalitetsreformen skal bringes i spil, så niveauet stiger til 6 mia. kr. i 2009 og 7 mia. kr. i
+2010 og fremefter. Inden for rammerne af de
+samlede offentlige investeringer vil der derfor
+være et øget rum til at investere i bl.a. folkeskolen, og så er det jo op til den enkelte kommune
+selv. Man kan pege på den kommune, vi befinder os i i øjeblikket, hvor jeg forstår at man har
+svært ved at få afløb for sine penge og få ført
+sine egne beslutninger ud i livet, men det er regeringen jo ikke herre over.";Lars Løkke Rasmussen
+39988;Time;;Kl. 13:08
+40000;title_name;"Spørgeren.
+
+(7)
+Onsdag den 8. oktober 2008 (US 1)
+
+49";Formanden
+40065;Time;",
+' .. Kl. 13:10";Kl. 13:08
+40101;name_party;:;Morten Bødskov
+40114;title_name;"Vi fik jo faktisk ikke noget svar. Det, jeg spurgte: Hr. Morten Bødskov for det sidste spørgsmål. 홢
+om, var, om det er rigtigt, at: investeringerne i :";Formanden
+40275;Time;"folkeskolen er øget under denne regering. 홢
+Er de";Kl. 13:10
+40344;name_party;":
+på vej ned, eller er de på vej op? Det var sådan
+Jeg tror sådan set ikke engang, at de elever, der
+set det meget, meget enkle spørgsmål, og det er
+sidder og hører på debatten i dag, er blevet medet, som er interessant. '
+get klogere. For virkeligheden er den, at investeDer er temmelig sikkert nogle folkeskoleklas- ringerne i folkeskolen siden 2001 og til i år er falser, der sidder og lytter til debatten i dag, og jeg
+det med 1,2 mia. kr. Der er sendt 1ì2 mia. kr. færtror, de er enormt trætte af at frekventere toiletre til de danske folkeskoler. Det er jo derfor, det
+ter, som er møgbeskidte og alt muligt andet. De' er så utrolig vanskeligt for folkeskoleeleverne og
+vil meget gerne høre, hvad den her regering hélr forældrene til folkeskoleeleverne at se, at der
+at sige til dem, altså om der er blevet sendt flere
+skulle være nogen som helst sammenhæng melpenge til folkèskolerne i denne regerings periolem de enorme løfter, som den her regering har
+de eller der ikke er. Alle de fikumdikbéregningivet, og så det faktum, at der stadig væk er
+ger, som man laver i ,Finansmffiisteriet,.-méd ^ møgbeskidte toiletter, at der er huller i tavlerne,
+gennemsnitsberegninger og alt: muligt andet er
+og at skimmelsvampen kryber ned ad væggene.
+ligegyldige i den her sammenhæng, og spørgsDet er rent faktisk så meget, at Arbejdstilsynet
+målet er: Er der kommet flere penge til folkesko- , nu hejser det røde flag. Folkeskolelærernes forlen eller færre penge til folkeskolen siden 2001?
+mand taler, om, at den forringede tilstand, som
+,, Kl: 13:09 den her regering har været årsag til, medfører";Morten Bødskov
+41948;title_name;"ringere muligheder for indlæring i vores folkeFinansministeren, r :
+:
+skoler:
+: . Kl. 13:09
+Så pointen er den, at under den her regering";Formanden
+42124;title_name;": er niveauet for investeringer i folkeskolerne falJamen der er kommet flere penge siden 2001. År
+det fra 2001 og til nu. 1,2 mia., kr. færre er der
+for år afleverer vi penge til kommunerne, og det blevet til folkeskolerne. Jeg forstår ikke, hvorfor
+er et udtryk for, at der kommer flere penge. Altfinansministeren'ikke bare.vil benytte lejligheså, vi stopper ikke pengene, der kommer flere
+den til at indrømme det og så svare de journalipenge.
+홢: <
+ster og os andre, som i mere .end 14 dage nu har
+Hvis man så ser på niveauerne, når vi snakventet på at få det svar fra finansministeren.:
+ker investeringer, og man ser på det ambitions홢
+/KI, 13:12
+niveau, den tidligere regering havde -7-hvis man";Lars Løkke Rasmussen
+42832;title_name;"opgør det for perioden fra 1993 til 2001, hvor
+Så er det finansministeren. : ,
+den tidligere regering havde ansvaret, og ser på:";Formanden
+42970;Time;"hvad der skete her rent investeringsmæssigt Finansministeren (Lars Løkke Rasmussen):: .
+og sammenholder det med ambitionsniveauet
+Jeg vil bede spørgeren høre her. Der var engang'
+hos den regering, der har haft ansvaret fra 2002
+en regering under ledelse af Poul Nyrup Rasog foreløbig frem til i dag, er investeringsnimussen. Den regerede landet fra 1993 til 2001,
+veauet højere urider denne regering end under : og den foretog nogle investeringer i skolevæseden tidligére regering.
+,
+홢
+net. Så kom der en anden regering under ledelse
+Hvis man går tilbage til den gamle regerings
+af Anders Fogh Rasmussen, der har haft ansvatid, vil man se, at der var nogle år, hvor man
+ret for Danmark lige siden. Hvis man ser på,
+havde et højere eller lavere niveau. Men skoler.:
+hvad der blev investeret i folkeskolen pr. år i
+bygger man altså én gang, ög: man bygger først
+den periode, Poul Nyrup havde ansvaret, kontra
+skoler igen, når der er gåét nogle år, så det, der 7 pr. år i den periode, vi nu har haft ansvaret, så er. relevant, er jo derfor at se på, hvad ambitions- - ligg'er:investéringsniveauet aktuelt cå. 2 mia. kr.
+niveauet for den danske folkeskole var i Nyrup- højere om året, end det gjorde historisk. Det er :
+regeringens levetid, og hvad ambitionsniveauet
+faktum! '
+vr:
+-. har været i regeringen Fogh Rasmusseris levetid: . Dertil kommer så, og det er nok det mest inte- . '
+Ambitionsniveauet er højere nu, og det bliver : 홢 ressante, en ambition om at øge investeringsniendnu højere i årene, der kommer. ,<:, i - . I veauet yderligere. Det er derfor, vi har afsat 22
+mia. kr. til en kvalitetsfond, der bliver bragt i
+
+50
+
+Onsdag den 8. oktober 2008 (US 2)";Kl. 13:12
+44646;Time;;Kl. 13:15
+44686;title_name;":
+Er der et investeringsefterslæb? Ja, det er der, for
+hvis ikke der var det, ville regeringen jo ikke
+have foreslået, at vi nu afsætter 50 mia. kr., hvoraf de 22 mia. kr. udmøntes direkte til kommunerne over de kommende år. Det er jo et udtryk
+for, at der over en meget, meget lang årrække
+ikke alle steder har været lige meget fokus på
+det her.
+Jeg synes, det er vigtigt at holde fast i, at der
+er et kommunalt ansvar her. Når jeg rejser rundt
+i landet, og det gør jeg en del, besøger jeg jo
+masser af moderne, velindrettede skoler, hvor
+også toiletterne har en fin standard. Så kan man
+rejse rundt andre steder, f.eks. i visse bydele her
+i nærheden, og så kan man se, at der må være
+nogle, der har forpasset at få gjort deres politiske
+arbejde igennem mere end en generation. Og sådan kan man jo gribe det kommunalpolitiske
+ansvar forskelligt an.
+Men når der bliver spurgt helt overordnet ind
+til det, vil jeg sige, at regeringen har en ambition";Lars Løkke Rasmussen
+45644;Time;"om at investere målrettet i moderne, borgernære
+bygninger. Det er baggrunden for, at jeg helt
+Spm. nr. US 2
+konkret har aftalt med kommunerne, at hvor de
+altså i år selv planlægger at bruge 5 mia. kr. på";Kl. 13:13
+45866;name_party;":
+investeringer i borgernære institutioner - skoler,
+Ja tak. Det ligger lidt i forlængelse af den problemstilling, som også blev diskuteret for et øje- daginstitutioner, på ældreområdet og i forbindelse med breddeidrætsfaciliteter - skal det løfblik siden. Jeg synes, det i hvert fald indledningsvis er værd at bemærke, hvad det så er, fol- tes næste år med 1 mia. kr. og året efter med
+yderligere 1 mia. kr. Det er selvfølgelig i en erkeskolen skal kunne rumme. For i modsætning
+kendelse af, at der er brug for, at der skal ske notil den tidligere periode, hvor investeringerne i
+get mere på den front.
+folkeskolen nogenlunde fulgte udviklingen i";Nick Hækkerup
+46523;Time;elevtallet, må man sige, at de 60.000 flere børn,;Kl. 13:17
+46585;title_name;"der er kommet til siden 2001, og som skal passe
+Hr. Nick Hækkerup.
+ind i folkeskolens rammer, jo også genererer et";Formanden
+46709;Time;behov for vedligeholdelse og et behov for yderNick;Kl. 13:17
+46773;name_party;":
+ligere investeringer i folkeskolen. Det bliver
+man jo nødt til at forholde sig til. Når man tager Jeg er i hvert fald enig i og lidt glad for erkendelsen af, at der er et investeringsefterslæb, og at
+det element med, bliver det meget klart, at der
+der er noget, der skal gøres: at der skal rettes op,
+er et investeringsefterslæb her, som også er dohvis kvaliteten, eller man kan sige den fond, den
+kumenteret - som hr. Morten Bødskov også
+værdi, der er i folkeskolen, ikke hele tiden skal
+nævnte - i de svar, som er givet.
+forringes. Det, der så er spørgsmålet, er selvfølPointen i den her sammenhæng er, om regegelig: Med den kvalitetsfond, som er lavet, bliringen deler den opfattelse, at det er dyrt at lade
+ver det niveau så nået? Og der insisterer minitingene forfalde, og at vi har en situation, hvor
+det vedligeholdelsesniveau, vi har i folkeskolen, steren og regeringen jo på, at det skulle være på
+plads. Men hvis man går til nogle af de andre,
+betyder, at kvaliteten af de bygninger, der er til
+som kigger på området udefra, eksempelvis
+rådighed i folkeskolen, er faldende.";Hækkerup
+47868;Time;"Dansk Byggeri, som man jo ikke kan anklage for
+at være i lommen på Socialdemokratiet eller";Kl. 13:15
+47971;title_name;"venstrefløjen, fremgår det, at de har opgjort, at
+Så er det finansministeren.
+selv med kvalitetsfonden vil der være et investe-
+
+spil på en sådan måde, at kommunerne forpligter sig til at øge det niveau, der i øjeblikket er på
+omkring 5 mia. kr. til skoler, til daginstitutioner
+og til ældreområdet, fra 5 mia. kr. til 6 mia. kr.
+næste år og til 7 mia. kr. næste år igen.
+Desuden kan man jo ikke løbe fra det kommunalpolitiske ansvar. Hvis man f.eks. tager
+byen her, som jo altid har været under hr. Morten
+Bødskovs politiske partis ledelse, vil jeg sige, at
+det jo ikke kan nytte noget, at man kommer med
+et hvilket som helst nedslidt skoletoilet og siger,
+at det er regeringens ansvar. Det er også et
+spørgsmål om, hvordan man disponerer i Borgerrepræsentationen og på rådhuset her i København.";Formanden
+48777;Time;;Kl. 13:13
+48789;title_name;"Det var det, hr. Morten Bødskov kunne nå inden
+for tiden.
+Næste spørger er hr. Nick Hækkerup, og det
+er til finansministeren. Der er 2 minutter her i
+første omgang.
+
+Onsdag den 8. oktober 2008 (US 2)
+
+51
+
+ringsefterslæb alene på folkeskoleområdet på
+me, som der har været i perioden 2001-2007. Sä5,3 mia. kr. Dertil kommer så det, der ligger op
+jeg har meget svært ved at se, hvor det kvalitetsad folkeskoleområdet, f.eks. idrætsbygninger,
+løft, det niveauløft, som finansministeren snakhvor der er et efterslæb på 2,6 mia. kr.
+ker om, hidrører fra.
+Jeg kunne godt tænke mig at høre ministerens";Formanden
+49394;Time;"vurdering af, om den kvalitetsfonddel, der ud- , Formanden:
+møntes af kommunerne i de kommende år, sikFinansministeren.
+rer"" at vi så når et niveau, hvor der ikke mere er
+홢";Kl. 13:20
+49577;Time;et investeringsefterslæb.;Kl. 13:20
+49643;title_name;":
+. .
+'";Lars Løkke Rasmussen
+49660;Time;Det er jo sådan set en lidt skæv tilgang til det.;Kl. 13:18
+49722;title_name;"Altså, det vil være det samme som at sige, at
+Finansministeren.
+vedligeholdelsesgraden på mit hus skal ligge og
+'
+. Kl. 13:18 svinge med, om min kone vælger at gå på del, ,홢";Formanden
+49935;title_name;":
+tidsarbejde eller tage overarbejde, og vælger
+Jamen jeg ved ikke, hvem Dansk Byggeri er i
+hun at tage overarbejde, så vi får en lidt større
+lommen på. Jeg tror ikke, de er i lommen på no- indkomst hjemme hos os, skal vi bruge en forgen, andre end sig selv. Altså, det er en branche- holdsmæssig andel af indkomsten ved hendes
+organisation, der har en interesse i at fastholde
+merarbejde på at skifte tagsten ud, for ellers har
+et vedvarende fokus på vigtigheden af, at der
+vi et vedligeholdelsesefterslæb. Det er jo en
+bygges: det vil jeg tro. Og det er selvfølgelig
+mærkelig måde at argumentere på.
+også en legitim interesse, så det sætter jeg slet
+Det, der er det helt afgørende, er, at vi nu tilikke spørgsmålstegn ved.
+fører - for at blive ved kommunetne, som har
+Kvalitetspuljen, kvalitetsfonden, er et målret- ansvaret for folkeskolen - 22 mia. kr. Og vi gør
+tet og ganske, ganske betydeligt investeringsløft det på en meget, meget målrettet måde, der ikke
+af den offentlige sektor. Jeg har nævnt tallene, og bare betyder, at der vil være et meget, meget højt
+jeg nævner dem igen. Der investeres i øjeblikket totalt anlægsniveau i kommunerne, men også - og det har sådan set været billedet igennem en hvilket er centralt i forhold til skoleeleverne og
+årrække - i omegnen af 5 mia. kr. om året ude i
+deres lærere - at den del af det kommunale anlandets kommuner i det, man kunne kalde borlægsbudget, som bruges på skoleområdet, på
+gernære institutioner. Det løftes fra 5 mia. kr. til
+børneområdet, på ældreområdet, øges. Og det
+6 mia. kr. Det er et ganske voldsomt løft i inveøges inden for rammerne af det, jeg her har sagt,
+steringsniveauet, og det bliver så fulgt op året
+fra 5 til 6 til 7 mia. kr. om året. Det er altså et
+efter af et lige så stort løft i investeringsniveauet.
+voldsomt løft.
+Så det er altså fra et niveau på 5 mia. kr. om året";Lars Løkke Rasmussen
+51801;Time;til 7 mia. kr. om året. Det er et ganske voldsomt;Kl. 13:21
+51863;title_name;"løft. Det kræver blot, at kommunerne overholTak til hr. Nick Hækkerup og tak til finansminider den aftale, de har indgået med regeringen,
+steren.
+og det har jeg al mulig forventning om at de vil
+Der er ikke flere spørgsmål, og hermed er
+gøre.
+spørgetimen sluttet.";Formanden
+52136;Time;;Kl. 13:19
+52148;title_name;"Jeg skal her oplyse, at mødet udsættes til kl.
+Hr. Nick Hækkerup, sidste spørgsmål.
+14.00.";Formanden
+52248;Time;;Kl. 13:19
+52266;name_party;":
+Mødet er udsat. (Kl. 13.21).
+Det er jo en meget interessant argumentation. Vi
+har nu i enighed konstateret, at der er et investeringsefterslæb, at der altså er et hul, der skal fyldes ud, at der er en genopretning, der skal foretages, og så siger finansministeren, at det vil
+홢";Nick Hækkerup
+52555;Time;"kvalitetsfonden så rette op på. Beregningerne vi- Meddelelser fra formanden
+ser, at når kvalitetsfonden er fuldt indfaset i
+2018, vil vi have dét, man kalder en investeFormanden:
+ringskvote på 1,8 pet., hvilket er præcis det sam- Mødet er genoptaget.
+
+52
+
+Onsdag den 8. oktober 2008 (S 10)
+
+Skatteministeren (Kristian Jensen) har meddelt
+mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om inddrivelse af gæld til det offentlige.
+(Lovforslag nr. L 20) og
+Forslag til lov om ændring af forskellige love
+m.v.. (Konsekvensændringer som følge af lov
+om inddrivelse af gæld til det offentlige).
+(Lovforslag nr. L 21).
+Økonomi- og erhvervsministeren (Lene Espersen) har meddelt mig, at hun ønsker skriftligt at
+fremsætte:
+Forslag til lov om finansiel stabilitet.
+(Lovforslag nr. L 33).
+Socialdemokratiets folketingsgruppe har meddelt mig, at den har udpeget medlem af Folketinget Henrik Sass Larsen som medlem af Danmarks Nationalbanks Repræsentantskab for den
+resterende del af indeværende funktionsperiode
+i stedet for Lars-Emil Johansen. Den pågældende er dermed valgt.
+
+Det sidste punkt på dagsordenen er:
+3) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 14:00
+53747;Time;;Kl. 14:00
+53759;title_name;Det første spørgsmål er til integrationsministeren af Johanne Schmidt-Nielsen.;Formanden
+53847;Time;"Spm. nr. S 10
+1) Til integrationsministeren af:";Kl. 14:01
+53924;name_party;":
+Når regeringen har annonceret, at man er ved at
+indgå en aftale med den irakiske regering om
+hjemsendelse af flere irakiske asylansøgere, mener ministeren da, at det er ansvarligt at sende
+mennesker - herunder børnefamilier - til et land
+i kaos og borgerkrig?";Johanne Schmidt-Nielsen
+54198;title_name;"Det er ministeren, der starter med at svare.
+Værsgo, minister.";Formanden
+54270;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Det, man starter med at påstå, er, at regeringen
+har annonceret, at den er ved at indgå en aftale
+med den irakiske regering, og så spørger man,
+om jeg så mener, at det er ansvarligt at sende tilbage. Det er jo et spørgsmål, der har været diskuteret masser af gange, og svaret er altid det
+samme: Når man søger asyl i Danmark, går man
+til Udlændingeservice. Får man afslag, kan man
+gå til Flygtningenævnet.
+Langt de fleste afgørelser er gået over Flygtningenævnet, og det er Flygtningenævnet, der
+som uafhængigt organ træffer afgørelse om,
+hvorvidt de pågældende mennesker, der har
+søgt, kan få opholdstilladelse i Danmark. Siger
+Flygtningenævnet, at de ikke kan få opholdstilladelse, skal de udsendes. Det har vi politiet til.
+De lande, hvortil de pågældende skal sendes
+tilbage, er folkeretligt forpligtet til at modtage
+egne statsborgere. Det er der så nogle lande, der
+forsømmer, og der må vi prøve at være mere
+grundige. Det er bl.a. Irak, og der prøver vi til
+stadighed at få sendt afviste asylansøgere tilbage til, og det er lykkedes at få sendt nogle få af
+sted. Vi forhandler stadig væk med myndighederne i Irak om at få sendt alle de afviste asylansøgere hjem.
+De skal hjem. Flygtningenævnet har sagt, at
+de ikke opfylder kriterierne for at være flygtning
+i Danmark, og derfor skal de udsendes.";Kl. 14:01
+55631;Time;;Kl. 14:02
+55643;title_name;"Tak. Så er det fru Johanne Schmidt-Nielsen. Jeg
+kan lige oplyse, at hr. Morten Østergaard har
+meldt sig som medspørger og kommer ind i
+spørgerækken. Værsgo, spørger.";Formanden
+55818;Time;;Kl. 14:02
+55847;name_party;":
+Jeg tænkte jo nok, at der ville blive henvist til
+Flygtningenævnet - og tak for svaret i øvrigt. Så
+kan man tage en anden diskussion om, at FN's
+flygtningeorganisation altså anbefaler noget andet, men den diskussion kan vi lade ligge.
+Jeg tror, at vi kan blive enige om, at det jo er
+ministeren og regeringen, der har det endelige
+ansvar for de her menneskers liv og skæbne. Jeg
+har kigget lidt i de amerikanske aviser i de sidste uger på nyhederne om udviklingen i Irak, og
+jeg vil gerne gengive nogle af nyhederne:
+
+Onsdag den 8: oktober 2008 (S 10)
+Den 12. september er der 32 dræbte ved et
+bombeangreb nord for Bagdad, den 13. september er 4 dræbt af en bombe i det østlige Bagdad,
+den 22. september er 2 dræbt: af en bilbombe i .
+Bagdad, og der er 9 dræbte og 70 sårede andre
+steder i landet. Den 24. september bliver 5 børn
+dræbt af en bombe i Mosul - jeg ved ikke, om jeg
+udtaler det rigtigt - og en 3-årig pige bliver
+dræbt i Bagdad. Den liste kunne jeg fortsætte.
+Man kan finde mange spændende informationer eller skræmmende informationer om sikkerhedssituationen i Irak: så mit spørgsmål til
+ministeren er: Kan ministeren garantere for de
+her menneskers sikkerhed? Jeg ved godt, at ministeren henviser til Flygtningenævnet, men vi
+er vel enige om, at det er regeringen og ministeren, som har det overordnede ansvar for de her
+menneskers sikkerhed. Kan ministeren personligt garantere for de menneskers sikkerhed, de
+mennesker, man nu forhandler om at tvangs- 홢
+hjemsende?
+:";Johanne Schmidt-Nielsen
+57343;Time;;Kl. 14:04
+57355;title_name;Ministeren.;Formanden
+57376;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Det, jeg kan garantere for, er, at sagerne bliver
+behandlet efter dansk lovgivning, og det er det,
+jeg er ansvarlig for, også over for Folketiriget.
+Hele det der spørgeri er jo blot et forsøg på at gå
+ad omveje. Sig det dog rent ud: Vi er politisk
+uenige, der er en uenighed. Vi har en dansk lovgivnmg, som spørgeren ikke er enig i. Det er
+fuldstændig legitimt, men så sig det dog.
+Vi følger dansk lovgivning, og spørgeren vil
+følge nogle regler, som ikke er dansk lovgivning:
+Hun vil åbenbart hellere være undergivet nogle
+organisationer ude i verden, og det er jo helt i
+orden. Sig det. Jeg følger dansk lovgivning, og
+det er det, jeg som minister er forpligtet til.
+홢";Kl. 14:04
+58104;Time;I;Kl. 14:05
+58118;title_name;"Fru Johanne Schmidt-Nielsen.
+홢홢 . Kl. 14:05";Formanden
+58190;name_party;":
+Nu er det at kunne spørge jo en del af den demokratiske proces i Danmark, og det er vi glade
+for, og hvis nogen skulle være i tvivl, vil jeg da
+meget gerne endnu en gang sige, at jeg er dybt,
+dybt uenig med den siddende regering i den
+flygtninge/indvandrerpolitik, der bliver ført.
+Det tror jeg ikke er en nyhed.
+
+53
+
+På Udenrigsministeriets hjemmeside fraråder
+man på det kraftigste alle danskere at rejse til
+Irak, og alle danskere, som befinder sig i landet,
+bliver opfordret til at forlade landet, og der bliver henvist til risikoen for terrorhandlinger og
+kidnapninger.
+: Igen vil jeg gerne spørge: Har ministeren nogen som helst garanti for, at de mennesker, som
+bliver sendt til Irak, er i sikkerhed? Ellers synes
+jeg, at ministeren skulle svare klart og rent og sige, at ministeren ikke er interesseret i de menneskers sikkerhed.
+-/.홢홢홢홢";Johanne Schmidt-Nielsen
+59047;Time;;Kl. 14:06
+59059;title_name;"Ministeren.
+홢, ,";Formanden
+59085;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+, .:
+.
+'
+Spørgeren har fuldstændig ret i, at spørgerén er
+berettiget til at stille spørgsmål. Det er en rigtig
+god form for kontrol af regeringen, det har jeg jo
+selv benyttet mig af, og det er jeg en varm tilhænger af. Men her ligger jo en politisk uenighed, og der kommer man jo ikke længere ved at
+stille spørgsmål. Man er velkommen til at blive
+ved, men mit svar vil hele tiden være, at den
+danske lovgivning er, som den er, og når Flygtningenævnet har truffet beslutning og kan genoptage sagerne, som Flygtningenævnet jo også
+gør, men alligevel siger, at der er personer, som
+skal udsendes, så bliver de forsøgt udsendt. Sådan er det.";Kl. 14:06
+59782;Time;,;Kl. 14:06
+59796;title_name;"Så er det hr. Morten Østergaard som medspørger-1 minut.
+.";Formanden
+59863;Time;;Kl. 14:06
+59886;name_party;":
+Situationen et jo den, at der har været en lang
+række afviste irakiske asylansøgere, som ikke
+kunne tvangsudsendes, og det skyldes jo forholdene i det land, de kommer fra, for ellers havde
+man i sagens natur, som ministeren også redegjorde for, udsendt dem.
+Med hensyn til det indledende svar fra ministeren vil jeg spørge, om det ikke er korrekt forstået, at regeringen forsøger at opnå en generel
+aftale om hjemsendelse.
+Jeg spørger, fordi der tidligere har været afholdt et samråd i forbindelse med hjemsendelse
+af nogle kriminelle asylansøgere, som der var
+indgået en konkret aftale om - og det kan man jo
+så gøre, det er jo i sin skønneste orden - men ved
+den lejlighed sagde ministeren båre, at den ikke
+
+54
+
+Onsdag den 8. oktober 2008 (S 10)
+
+havde nogen betydning for de almindelige afviste asylansøgere, altså dem, som ikke er kriminelle. Kan vi ikke få en nærmere redegørelse for,
+hvad det er for nogle bestræbelser, og vil det
+være sådan, at man indgår en generel aftale med
+de irakiske myndigheder, før man tvangshjemsender afviste irakiske asylansøgere, som ikke er
+kriminelle?";Morten Østergaard
+60989;Time;;Kl. 14:07
+61001;title_name;Ministeren.;Formanden
+61022;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Vi vil gøre alt, hvad vi kan, for, at myndighedernes afgørelse kan effektueres - alt! Og vi må
+konstatere, at Irak ikke opfylder sin folkeretlige
+forpligtelse, og derfor skal der altså mere til, for
+at vi kan få sendt alle de afviste asylansøgere
+hjem. Der findes irakere, som vi ved at fremlægge de konkrete sager har fået sendt hjem på den
+ene eller den anden måde, og der har Irak altså
+så opfyldt sin folkeretlige forpligtelse, men der
+findes stadig væk et antal tilbage. Og vi prøver
+stadig væk at mase på over for de irakiske myndigheder og fortæller dem, at de altså er forpligtet til at tage de afviste asylansøgere hjem, når
+det er deres egne statsborgere.";Kl. 14:07
+61745;Time;;Kl. 14:08
+61757;title_name;Hr. Morten Østergaard for et sidste spørgsmål.;Formanden
+61813;Time;;Kl. 14:08
+61836;name_party;":
+Jeg er ikke helt klar over, om ministerens svar
+var, at regeringen har skiftet strategi, sådan at
+den i stedet for en generel hjemsendelsesaftale
+med Irak nu ønsker at tage sag for sag. Det synes jeg sådan set er vigtigt, for det gør jo en forskel, når regeringen hele tiden har forsøgt at få
+en generel hjemsendelsesaftale og har sagt, at
+det var en forudsætning for at kunne tvangshjemsende irakere.
+Noget andet, jeg vil spørge om, er, om ministeren gør sig nogen anstrengelser for at sikre, at
+de fejltagelser, der blev begået i Kosovo, ikke bliver gentaget. Situationen er jo den, at mange af
+de folk, der har siddet i årevis i asylcentre, har
+fået en lang række psykiske lidelser, og vi ved
+fra undersøgelser, at deres børn vil tage skade
+allerede efter 12 måneders ophold i et asylcenter.
+Gør ministeren sig nogen anstrengelser for at
+sikre, at folk med psykiske lidelser ikke hjemsendes til et sted, hvor der ikke er behandling at
+få? Det skete i Kosovo, hvor man, efter at medi-
+
+erne havde afdækket det, var nødt til at hente de
+folk hjem igen. Jeg beder bare om en bekræftelse
+af, at regeringen trods alt har taget ved lære af
+den fejltagelse, som blev begået, da psykisk syge
+blev hjemsendt til Kosovo.";Morten Østergaard
+63061;Time;;Kl. 14:09
+63073;title_name;Ministeren.;Formanden
+63094;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jamen jeg kan kun gentage, at når Flygtningenævnet har sagt, at der er mennesker, der kan
+sendes hjem, så skal de sendes hjem, og det er
+slet ikke nødvendigt med nogle generelle aftaler,
+for der er en folkeretlig forpligtelse. Men det er
+klart, at hvert land selvfølgelig har ret til at sikre
+sig, at de pågældende personer netop er deres
+statsborgere, og derfor foregår det også sådan, at
+for hver enkelt af dem, der bliver sendt hjem, er
+der blevet fremlagt papirer for myndighederne,
+for at de kan se, at det er deres statsborger. Så er
+der en forståelse for at sende dem hjem, hvad
+enten det måtte være kriminelle eller ikkekriminelle.
+Når så Irak har sagt nej til en lang række
+statsborgere, så er svaret, at ja, så forsøger vi
+derudover med en generel aftale. Det ene udelukker ikke det andet. Jeg kan gentage, hvad jeg
+vist hele tiden har sagt, nemlig at vi spiller på
+alle tangenter.
+Med hensyn til Kosovo er svaret: Det er ikke
+nogen afgørelse, jeg har truffet, så det har jeg
+ikke lige present.";Kl. 14:09
+64156;Time;;Kl. 14:10
+64168;title_name;Så er det fru Johanne Schmidt-Nielsen for et sidste spørgsmål.;Formanden
+64240;Time;;Kl. 14:10
+64269;name_party;":
+Først kan jeg sige, at humanitært ophold jo altså
+gives af ministeren til afviste, som er for syge til
+hjemsendelse.
+Jeg skal bare lige finde ud af, om jeg har forstået det her rigtigt: Mener ministeren, at Danmark og ministeren selv absolut intet ansvar har
+for de mennesker, der bliver sendt hjem, altså at
+man ingen garantier kan give for, om de mennesker, de familier, der nu sidder i lejre i Danmark
+og venter på tvangshjemsendelse, vil være i sikkerhed? Det er jo i virkeligheden sådan et ja/nejspørgsmål. Fralægger man sig ethvert ansvar
+for deres sikkerhed?
+
+Onsdag den 8. oktober 2008 (S 11)";Johanne Schmidt-Nielsen
+64882;Time;"55
+
+nen, at man skal gøre sig umage for at få dansk
+statsborgerskab.. 홢
+-홢";Kl. 14:11
+64968;Time;"Kl. 14:11. Formanden:
+Integrationsministeren (Birthe Rønn HornFru Johanne Schmidt-Nielsen.
+bech):
+홢
+, Kl. 14:12
+Jamen jeg må sige det en gang til: Det er noget,";Kl. 14:12
+65158;name_party;":
+Flygtningenævnet har taget stilling til.
+Så kan jeg jo starte med at spørge, hvad det";Johanne Schmidt-Nielsen
+65255;Time;"»tværtimod« betyder. Al.tså, hvordan mener miFormanden:
+nisteren at det gavner integrationen i Danmark,
+Hermed sluttede spørgsmål nr. l.
+at der kommer til at leve flere mennesker her,
+Så har vi spørgsmål nr. 2, og det er også til in- som ikke har de samme rettigheder som os antegrationsministeren og også af fru Johanne
+dre?
+Schmidt-Nielsen.
+De nye regler gør det jo sværere at blive
+dansk statsborger. I forvejen er antallet af menKl. 14:11 neskèr, som får indfødsret, jo faldet drastisk i de
+Spm. nr. S 11
+seneste år, og nu har man så strammet reglerne
+yderligere. Rådet for Etniske Minoriteter, som jo
+2) Til integrationsministeren af:
+er regeringens eget rådgivende organ, og forJohanne Schmidt-Nielsen (EL):
+manden for 60 sprogskoler for udlændinge i
+Vil ministeren oplyse, om hun mener, at det gav- Danmark har udtalt, at både danskhedstesten og
+ner integrationen, at det nu bliver endnu svære- sprogtesten allerede i dag er for svære.
+re at opnå status som dansk statsborger, og at en
+Det er tydeligt, at de her regler jo handler om
+voksende gruppe mennesker i Danmark derat gøre det sværere at blive statsborger i Danmed udelukkes fra at deltage fuldt ud i demomark, og det tror jeg sådan set også at ministekratiet og samfundet?
+ren er ærlig nok til at indrømme. Det mener jeg
+er et underligt udgangspunkt.";Kl. 14:11
+66584;title_name;"Mener ministeren ikke, at det er positivt, at de
+Det er ministeren, der starter med at svare.
+mennesker, som lever i Danmark, faktisk har";Formanden
+66731;Time;"lyst til at blive en del af samfundet og har lyst til
+Integrationsministeren (Birthe Rønn Hornat blive fuldgyldige borgere i Danmark? Er det
+bech):
+ikke positivt, at vi har nogle mennesker, som ønSpørgsmålet handler jo om den nyligt indgåede' sker at deltage i demokratiet i Danmark?";Kl. 14:11
+67025;Time;"aftale mellem regeringen og Dansk Folkeparti
+om nogle stramninger af indfødsretskravet, og";Kl. 14:13
+67128;title_name;"om dette - sådan forstår jeg spørgsmålet - tilMinisteren.
+, K1.14:13
+skynder til integration eller lægger sig i vejen.
+Jeg kan ikke helt præcis se, hvordan spørgeIntegrationsministeren (Birthe Rønn Hornren mener det. Men det korte af det lange er, at
+bech):
+svaret jo nok ikke vil være ens, alt efter om det
+Jeg synes, det er meget positivt, at man vil deltaer spørgeren eller mig, der skal svare på det: det
+ge i demokratiet. Det har man jo også udmærket
+afhænger nok lidt af, hvordan man betragter be- lejlighed til: fra den første dag, man betræder
+grebet i n t e g r a t i o n .
+dansk jord, kan man melde sig ind i et politisk
+Men jeg vil sige, at jeg har den opfattelse, at
+parti, og når man har været her i 3 år, kan man
+der skal stilles store krav i forbindelse med at få
+stemme til kommunalvalg. Og det er rigtigt:
+indfødsret. Jeg mener, at alle parter har en inteMan kan ikke stemme til folketingsvalg, før man
+resse i, at de, der får indfødsret - som er noget
+har statsborgerskab.
+ganske særligt- er meget, meget velintegrerede.
+Men spørgerens udgangspunkt er jo forkert.
+Det mener jeg at alle har en interesse i.
+Det lyder, som om man ikke tror, at man kan få
+Så jeg ser ikke, at det på nogen måde er til
+statsborgerskab. Man skal gøre sig lidt mere
+skade for integrationen - jeg kunne næsten friumage. Jeg mener stadig væk, det er en god
+stes til at sige, i nogle tilfælde måske tværtimod.
+ting, at man ved, at man skal gøre sig umage.
+Det er i hvert fald ikke til skade for integratioMen man kan sagtens deltage i demokratiet,
+og jeg kan sige, at hvis udlændinge siger til mig,";Formanden
+68730;title_name;"Så er det ministeren.
+
+56
+
+Onsdag den 8. oktober 2008 (S 11)
+
+at de føler sig som danske, betragter jeg dem
+som danske, helt uanset om de har statsborgerskab eller ej. Der er jo også masser af personer
+her i Danmark, der ikke ønsker at afgive deres
+gamle statsborgerskab. Der er langt flere her i
+Danmark, end spørgeren sikkert tror, som har
+udenlandsk statsborgerskab, uden at man egentlig er klar over det til daglig.
+Så det er ikke til skade for integrationen. Man
+skal gøre sig en lille smule mere umage, og det
+ser jeg ikke noget som helst forkert i. Men det er
+vi selvfølgelig fuldstændig uenige om.";Formanden
+69346;Time;;Kl. 14:14
+69358;title_name;Fru Johanne Schmidt-Nielsen.;Formanden
+69396;Time;;Kl. 14:14
+69425;name_party;":
+Ja, man skal gøre sig rigtig umage. Jeg tror, det
+var flertallet af Dansk Folkepartis medlemmer,
+som ikke var i stand til at bestå de her test, og jeg
+tror da: ellers, at de virkelig selv sådan betragter
+sig som danskheden i reneste form.
+Mener ministeren, at det er positivt for integrationen i Danmark, at gruppen af borgere i det
+her land, som f.eks. ikke kan stemme til folketingsvalg, vokser? Jeg kan simpelt hen ikke forstå logikken: hvordan kan det være positivt for
+sammenhængskraften i et samfund, for integrationen, at holdet af mennesker, som ikke har
+fuldgyldige rettigheder, vokser - altså, at holdet
+af b-borgere i samfundet vokser? Og jeg er med
+på, at der er mennesker, som ikke ønsker at afgive deres gamle statsborgerskab, men der er jo
+altså også frygtelig mange mennesker, som gerne vil have dansk statsborgerskab. Hvordan kan
+det være positivt, at flere ikke har adgang til demokratiet?";Johanne Schmidt-Nielsen
+70344;Time;;Kl. 14:15
+70356;title_name;Ministeren.;Formanden
+70377;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+!
+Jamen der spørges igen på en måde, så man forudsætter noget, jeg er ganske uenig i. Man må
+gøre sig en smule mere umage, hvis man vil
+have statsborgerskab.";Kl. 14:15
+70592;Time;;Kl. 14:15
+70604;title_name;Så er det hr. Morten Østergaard som medspørger, værsgo.;Formanden
+70670;Time;;Kl. 14:16
+70693;name_party;":
+Vi har jo ofte diskuteret det her med statsborgerskab og indfødsret her i salen, og vi ved jo også,
+at ministeriets egen tænketank for integration
+har anbefalet, at det skal gøres lettere.
+Men det, jeg egentlig er optaget af og gerne
+vil spørge ministeren om, er, hvad det overhovedet har med sagen her at gøre. Altså, hvad er
+sammenhængen mellem det, som er foregået
+med retten til fri bevægelighed og EU og det nationale værn mod EU, som regeringen er meget
+optaget af at få installeret, og så statsborgerskab? Det tror jeg er svært at se for almindelige
+mennesker, medmindre det, ministeren vil sige,
+er, at regeringen har et ønske om, at så få som
+muligt benytter den fri bevægelighed, og at det
+jo derfor er et sted at starte, at færre bliver danske statsborgere, så færre har de rettigheder, der
+følger med det danske statsborgerskab og dermed unionsborgerskabet. Det er jo ærlig snak,
+og det vil jeg bare bede ministeren om så at bekræfte - om det er sådan, at grunden til, at man
+har taget det her med i aftalen om opfølgning på
+Metockdommen, er, at man ønsker, at færrest
+muligt bruger de her regler om fri bevægelighed. Det vil være ærlig snak - ikke særlig europapositivt, men dog ærligt.";Morten Østergaard
+71904;Time;;Kl. 14:17
+71916;title_name;Ministeren.;Formanden
+71937;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Det må da vist være en fortalelse, at man nu
+blander fri bevægelighed ind i det, og at regeringen skulle være interesseret i, at færrest muligt
+benytter fri bevægelighed. Altså, den fri bevægelighed er jo lagt fast ved diverse EU-domme,
+så jeg ved ikke, hvorfra det kommer, at man,
+skulle være imod fri bevægelighed.
+Men det er rigtigt, som statsministeren klart
+sagde det i går i åbningstalen: Vi er drønuenige i
+den dom fra EU, og derfor vil vi også forsøge at
+få ændret EU-reglerne, ikke med alle midler,
+men med alle kræfter, på lovlig vis, ved at forsøge at overbevise vores kollegaer i udlandet om,
+at de regler skal laves om. Men så længe de ikke
+er det, retter vi selvfølgelig ind, og derfor har vi
+også udsendt en bekendtgørelse og en vejledning..";Kl. 14:17
+72751;Time;;Kl. 14:17
+72763;title_name;"Hr. Morten Østergaard for sidste spørgsmål.
+
+(8)
+Onsdag den 8. oktober 2008 (S 5)";Formanden
+72855;Time;;Kl. 14:18
+72878;name_party;":
+Det med lovmedholdeligheden får vi nok en anden anledning til at diskutere.
+Det, jeg er optaget af, er at få en politisk forklaring på, hvad sammenhængen er mellem Metockdommen og så det, at man i den politiske aftale har ønsket at hindre folk i at blive danske
+statsborgere - altså gøre det mere besværligt. Jeg
+er klar over, at regeringen har skærpet reglerne
+for indfødsret flere, gange, men i en situation,
+hvor man skal lave et nationalt værn mod EUreglerné for den fri bevægelighed og de rettigheder, der følger med den, vælger man at inddrage
+det her med statsborgerskab. Og der er det bare,
+jeg spørger: Hvad er den bagvedliggende logik, ,
+hvad er sammenhængen? i
+Det eneste argument, jeg kan finde, er, at man
+ønsker, at færre mennesker har adgang til at
+bruge den fri bevægelighed 'og dermed også
+vende hjem med en eventuel ægtefælle efter et
+ophold i et andet EU-land - man vil ønske, at
+færre bliver çlanske statsborgere. Det er sådan
+set bare det, jeg beder om en tilkendegivelse af,
+nemlig: Er det den sammenhæng, der er, eller er
+der ingen sammenhæng overhovedet?:
+'' 홢
+\r
+. K1. 14:18";Morten Østergaard
+73991;title_name;"Ministeren.
+^ 홢
+/ '
+...77 7
+홢
+- Kl. 14:18
+Integrationsministeren (Birthe Rønn Hornbech):
+.
+:
+Jeg kan høre, at spørgeren er af den opfattelse, at
+dét er helt i orden, at illegale indvandrere fra
+hele verden via et ægteskab har adgang til de
+danske kasser. Det mener vi altså ikke er rimeligt, og derfor har vi skærpet forsørgelseskravene:-..C 7 . . . . . 7
+7.. 7' - 홢 홢:: - -7'7- i
+7-' Kl..14:19";Formanden
+74397;title_name;"Ja tak til ,hr. Morten Østergaard. Sidste spørgsmål er så til spørgeren, fru Johanne SchmidtNielsen. Værsgo.
+< 7 .
+:";Formanden
+74521;Time;;KL14:19
+74550;name_party;":
+Jeg mener stadig væk ikke, at der kom et klart
+svar på sammenhængen mellem de stramninger,
+man har' lavet, og så Metöckdommen.,
+En af de instanser,, der har meldt ud i forbindelse med de her stramninger, er Rehabiliterings- og Forskningscentret for Torturofre, RCT.
+Noget af det, de har sagt, er, at de her stramnin""ger af indfødsretstesten og sprogkravene har
+
+57
+
+meget stor betydning for de mennesker, de repræsenterer, nemlig torturofrene - altså, at der
+findes grupper af borgere, der lever i det her
+land, og som af forskellige årsager, f.eks. at de
+tidligere har været udsat for tortur, ikké vil være,
+i stand til at leve op til de krav, som man stiller.
+Kan ministeren bekræfte, at man med de nye regler har gjort det endnu sværere for - hvad
+skal man sige? - de svageste borgere at opnå ,
+indfødsret i Danmark? Kan ministeten bekræfte,
+at det forholder sig sådan, at en gruppe mennesker, som har store problemer i forvejen, nu får
+endnu sværere ved at blive fuldgyldige medlemmer af samfundét?
+7 홢7 .
+7.....
+, Kl. 14:20";Johanne Schmidt-Nielsen
+75592;title_name;"Ministeren.
+. . , Kl. 14:20
+Integrationsministeren (Birthe Rønn Hornbech):
+7 .
+홢
+홢
+Jamen nu synes jeg, man skal huske på, at de
+mennesker, der søger om indfødsret:, har permanent opholdstilladelse i forvejen v- det må jeg
+have lov at gå ud fra. Det er jo ikke sådan, at de'
+pågældende bliver udsendt af landet. Der har
+jeg altså den opfattelse, at det er en god ting, at""
+der stilles høje krav, for at man kan få statsborgerskab, og også, at man har vist, at man kan
+forsørge sig selv inden for et rimeligt tidsrum.
+,7";Formanden
+76120;Time;;Kl. 14:20
+76132;title_name;"홢
+Tak til fru Johanne Schmidt-Nielsen og tak til integrationsministeren. Hermed er spørgsmålet
+sluttet. 홢
+7
+Vi går til næste spørgsmål, som er til ministeren for sundhed og forebyggelse, og spørgeren
+er hr. Jens Peter Vernersen.
+:
+홢
+홢
+홢홢
+!
+Spm. nr. S 5
+
+홢Kl. 14:21
+
+3) Til ministeren for sundhed og forebyggelse af:";Formanden
+76472;name_party;":
+Vil ministeren uddybe følgende udtalelse: »I dag
+udgør privathospitalerne under 2 pct. af det offentlige sundhedsvæsen. For mig er det ikke så
+afgørende, om det forbliver 2 pet. eller vokser til
+10, 20 eller måske 50 pct.«, jf. ministerens tale
+ved det seneste konservative landsråd?
+7'";Jens Peter Vernersen
+76772;title_name;"Det er ministeren: der starter med at svare. , :
+Værsgo.'.
+: : 홢
+.
+
+58
+
+Onsdag den 8. oktober 2008 (S 5)";Formanden
+76888;Time;"her, er, at det åbenbart er uden problemer, og at
+Ministeren for sundhed og forebyggelse (Jakob det ikke er afgørende, om 50 pet. af hospitalsbehandlingerne sker på privathospitaler. Så er vi jo
+Axel Nielsen):
+faktisk ovre i en amerikanisering af vores hospiJeg skal gerne uddybe min udtalelse, og havde
+hr. Jens Peter Vernersen valgt at citere min udta- taler. Derovre er det vel sådan, at det kun er
+godt og vel 50 pet., der har en forsikring, der
+lelse fra landsrådet i sin helhed, ville han herdækker behandlingen. Men det har vel konsemed også have fået besvaret sit eget spørgsmål.
+kvenser, hvis man vælger at sige, at 50 pet. af
+For mig er det ikke afgørende, om det private
+sundhedsvæsen udgør en stor eller en lille andel alle behandlinger på hospital skal ske på privathospitaler. Det giver problemer for dem, som
+af det samlede danske sundhedsvæsen. Det afgørende for mig er, at vi får mest mulig sundhed ikke har en forsikring eller ikke på anden vis
+kan betale. Det afgørende er selvfølgelig også,
+for pengene og for vores arbejdskraft. Jeg er på
+om regeringen nu vil indrette sin behandlingspatienternes side, og det tror jeg også er det, der
+garanti sådan, at op til 50 pet. kommer derover.
+interesserer patienterne. Det sagde jeg faktisk
+Det er altså ikke et fuldstændig ligegyldigt
+også på vores landsråd, men den udtalelse lider
+selvfølgelig ikke skade af at blive gentaget i Fol- spørgsmål. Jeg tror faktisk ikke, der er nogen
+lande i Europa, der har valgt et udspil i den størketinget. Når det så er sagt, kan man vælge, om
+relsesorden.
+man vil bruge kræfterne på at diskutere andele";Kl. 14:21
+78502;Time;"og procentsatser eller på at sikre patienterne den
+bedst mulige behandling. Her er det min og den Formanden:
+Ministeren.
+samlede regerings klare holdning, at vi får det";Kl. 14:24
+78681;Time;"bedste sundhedsvæsen, hvis vi bruger kræfterne
+Ministeren for sundhed og forebyggelse (Jakob
+på patienterne og ikke på et ideologisk korstog
+for og imod private eller offentlige sygehuse. Jeg Axel Nielsen):
+Nu siger hr. Jens Peter Vernersen, at han har læst
+regner fortsat med, at de offentlige sygehuse vil
+min tale. Jeg må bare sige, at det ikke lyder såudgøre grundstammen i vores sygehusvæsen,
+men jeg har ingen problemer med, at private ud- dan, for jeg lægger meget vægt på, at det ikke i
+gør et nyttigt supplement, eller at regionerne la- sig selv er afgørende, om det er en offentlig produktion eller en privat produktion. Det afgørender private løse deres sygehusopgaver f.eks.
+de er, at der er fuldstændig fri og lige adgang til
+igennem udbud.
+offentligt betalte sundhedsydelser. Det er også
+Jeg mener også, at jeg fuldstændig har dækderfor, at det er helt forkert af hr. Jens Peter Verning for det, jeg har sagt, i forhold til Socialdenersen, og jeg tror, at han taler mod bedre videnmokraternes eget sundhedsoplæg af 23. april
+2008, hvor Socialdemokraterne skriver, at de pri- de, når han taler om amerikanisering, for i USA
+har vi et forsikringsbaseret system, der ikke givate sygehuse har nået konfirmationsalderen,
+ver fri og lige adgang. Lad mig bare nævne, at
+og det er på tide, at vi begynder at tage dem aldet udvidede frie sygehusvalg er en offentlig
+vorligt og behandle dem som voksne. Det betyydelse, der giver borgerne mulighed for med ofder, at vi skal give dem mere ansvar for kernefentlige kroner i hånden at komme ind på et priydelser i sundhedsvæsenet, men også at vi kan
+vat
+sygehus, og det er det, der har udryddet vostille flere krav til dem.
+res meget lange ventelister, som vi overtog i
+Der er altså fuldstændig dækning for det, jeg
+2001.
+har sagt, i forhold til Socialdemokraternes eget
+Er der nogen, der ved deres fulde fem vil
+sundhedsudspil fra april 2008.";Kl. 14:24
+80585;Time;hævde, at den privatpraktiserende læge i Danmark ikke er en del af det offentlige tilbud? Nej,;Kl. 14:22
+80692;title_name;"det tror jeg ikke. På nøjagtig samme måde er det
+Hr. Jens Peter Vernersen som spørger.";Formanden
+80788;Time;"udvidede frie sygehusvalg også en del af de offentlige ydelser med fuldstændig fri og lige adJens Peter Vernersen (S):
+gang for alle mennesker, og det er det, jeg står
+Nu kan jeg oplyse ministeren om, at jeg faktisk
+har læst hele talen, så det er ikke sådan, at der er vagt om.";Kl. 14:22
+81076;Time;noget i talen, der er mig ukendt.;Kl. 14:25
+81122;title_name;"Men det, der er afgørende i forhold til miniHr. Jens Peter Vernersen.
+sterens tale, og det, som ministeren nu gentager
+
+Onsdag den 8. oktober 2008 (S 5)
+
+59
+
+-''"".ir:: Kl. 14:25 bud. Det er derfor, vi udvider det udvidede frie";Formanden
+81374;name_party;":
+sygehusvalg, sådan at man gør sundhedsforsikDer er jo ikke nogen som helst tvivl om, at hvis
+ringer illusoriske. Gjorde vi ikke det, kunne man
+de tanker, ministeren har, bliver til virkelighed tale om amerikanisering, men vi giver offentlige
+og det må så være regeringens politik, at 50 pet.
+tilbud til alle af bedste klasse.
+kan behandles på et privathospital - så har det
+, Kl. 14:27
+selvfølgelig nogle konsekvenser. For det første";Jens Peter Vernersen
+81821;title_name;"er der jo en langt dyrere behandling på privatSå er det hr. Flemming Møller Mortensen som :
+hospitaler, for det andet er dér ikke akutmodtamedspørger. Der er to gange 1 minut til spørgegelse, og der ligger ikke nogen forskning derov- r e n .
+.
+. . . . . 홢.
+.
+홢";Formanden
+82091;Time;"re: alt det, som er helt afgørende for det danske
+sundhedsvæsen, kommer vi til at miste.";Kl. 14:27
+82210;name_party;":
+Derudover har vi altså også det problem, at
+Tak for det. Jeg vil gerne spørge sundhedsminifor den patient, som har en forsikring, tager man steren/om de 50 pet., der blev meldt ud, er et remere udgangspunkt i forsikringen, end man taalistisk bud fra sundhedsministeren, 'et dybtfølt
+ger udgangspunkt i den sygdom, som den enbud på, at det er den andel, som de private
+kelte har. Der har været gode, lange informative sundhedsudbydere kan fylde. For jeg synes, at
+artikler netop om den der overbehandling, og så der allerede var lidt tilbagetrækning selv samme
+sent som i den her uge er det ligesom dokumen- dag, som sundhedsministeren havde udtrykt
+teretl. at det er et problem. Jeg synes, at det er lidt det. Men forud for at ministeren skal svare, vil
+vigtigt, når man melder en sådan politik ud, at I jeg gerne læse en passus op, som er et fuldstænman så også ridser konsekvenserne af den polidig nyt dokument, som er kommet som et
+tik op. Der er altså en konsekvens af det her, og
+grundnotat til et samråd, som vi havde i dag.
+den er, at medarbejderne trækkes med over, og
+Sætningen lyder sådan her:
+de, som ikke kan blive behandlet på et privathoEn sådan udvikling kan medvirke til at skabe
+spital/bliver så overladt til de offentlige hospita- yderligere pres på personalet på offentlige sygeler, og det bliver så 50 pct., hvis det er det, man
+huse, da en øget aktivitet i den private sygehuskommer op på.
+sektor kan betyde, at man vil efterspørge mere :";Flemming Møller Mortensen
+83681;Time;personale i denne sektor. På længere sigt kan;Kl. 14:26
+83739;title_name;"forslaget derfor føre til et yderligere pres på det
+Ministeren.
+danske arbejdsmarked for sundhedspersonale.
+홢
+'
+, Kl. 14:26
+홢
+홢
+i 홢. 홢 Kl. 14:28
+Ministeren for sundhed og forebyggelse (Jakob Formanden:
+Axel Nielsen):
+Ministeren.
+1홢'......
+홢
+K1. 14:28
+Hr. Jens Peter Vernersen bliver ved med at hævde, at han har læst min tale. Det har han åbenMinisteren for sundhed og forebyggelse (Jakob
+bart ikke, for der står intet i min tale, der ikke er Axel Nielsen):
+dækning for. Og så nævner jeg endnu en passus
+Nu bliver hr. Flemming Møller Mortensen nødt
+i Socialdemokraternes sundhedsoplæg af 23.
+til at præcisere, hvad det er for et grundnotat.
+april i år:
+홢
+Jeg kan ikke her i Folketingssalen under miniSocialdemokraterne så gerne, at regionerne
+steransva' kommentere et grundnotat, jeg ikke
+indgik større kontrakter med de private sygehu- ved hvad er. Men jeg bliver spurgt, om det var et
+se om at udføre mange behandlinger, hvis de
+dybtfølt ønske, ät der skulle være 50 pet. privat
+private sygehuse kan gøre det til en fornuftig
+andel. Det, jeg sagde, var, at i dag fylder den pripris. Det vil gøre det muligt at udvide antallet af vate sektor 2 pet:, og for mig er det ikke så afgøsygehuse, som danskerne kan vælge imellem,
+rende, om:den fylder noget mere. Det/der er afog udfordre de offentlige sygehuse yderligere,
+gørende for mig, er, at vi får mest mulig sundså effektiviteten kan øges.
+hed for vores sundhedskroner til alle mulige
+Det er nøjagtig det samme, som jeg siger i
+danskere, og dérfor har jeg ønsket en diskussion
+min landsrådstale, og jeg kan ikke forstå, hvorom, om vi ikke kan bruge det private sygehusfor hr. Jens Peter Vernersen har så fantastisk
+væsen mere effektivt, sådan at vi får flest mulige
+travlt med at undsige sit eget oplæg fra april i år, tilbud til de danske borgere. Jeg ser stadig væk
+for det eneste, vi ønsker Lregeringen, er lige addet offentlige sygehusvæsen som værende kergang, og at alle skal have et godt offentligt tilnen i hele vores sundhedsvæsen. Og lad mig i ,
+
+60
+
+Onsdag den 8. oktober 2008 (S 5)
+
+øvrigt mane enhver snak om personaleflugt fra
+det offentlige til det private i jorden. Den er simpelt hen ikke eksisterende andet end i Folketingssalen.";Formanden
+85948;Time;;Kl. 14:29
+85960;title_name;"Hr. Flemming Møller Mortensen for sidste
+spørgsmål.";Formanden
+86021;Time;;Kl. 14:29
+86051;name_party;":
+Hvis nu det skulle være dybtfølt, at det kunne
+være 50 pet., som sundhedsministeren mener at
+de private aktører skal kunne udfylde, ville det
+så ikke betyde en flugt af personale væk fra det
+offentlige? Og lad mig prøve at opstille en metafor for ministeren: Hvis vi har to luftfartsselskaber, som begge to gerne vil konkurrere på et område, men der er mangel på piloter, kan sund- .
+hedsministeren så forestille sig, at det sætter en
+begrænsning for kapaciteten og antallet af flyvninger?
+-.";Flemming Møller Mortensen
+86555;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:29
+86617;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jamen lad os tage den med personalemangelen i
+vores sundhedssektor generelt.
+Det er rigtigt, at der vil opstå et kæmpe,
+kæmpe problem i de kommende år, når store årgange forlader arbejdsmarkedet og små årgange
+kommer til, og derfor kommer vi også til at savne sundhedspersonale. Det er derfor, regeririgen
+arbejder meget aktivt på at finde ud af, hvordan
+vi sikrer opgaveglidning, hvordan vi sikrer moderne it-teknologi, sådan at man kan få nogle
+bedre arbejdsgange, hvordan vi laver operationsforløbene om - kræftforløb, hjertepakker osv.
+- uden at folk skal rende sig en staver i livet, ,
+men kan gøre tingene på en anden måde.
+Vi har hele vores ,kvalitetsréform, som indeholder over 180 initiativer, som i virkeligheden
+går ud på, hvordan vi imødegår de personalemangelproblemer, som er den virkelige barriere
+og det virkelig store problem i vores sundhedsvæsen.
+홢,";Kl. 14:29
+87557;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.
+. 홢Kl. 14:30";Kl. 14:30
+87661;name_party;":
+Det må da- bero på en misforståelse, når ministeren ikke mener, at der er et problem med hensyn
+
+til personaleflugt. Det er jo temmelig godt dokumenteret, også af Danske Regioner, at operations- og narkosesygeplejersker søger over på
+privathospitalerne. Det er nøglepersoner, som
+kommer til at mangle. Det har selvfølgelig en
+konsekvens, først og fremmest på de ortopædkirurgiske områder, hvor der er vækst i den private sektor, og det har så den følge, at de, der ikke
+kan blive behandlet på privathospitalet, bliver
+ladt tilbage og sat på lange ventelister på det offentlige hospital.
+Der er jo sket det, som man kan se nu, at ventelisterne til knæoperationer, hofteoperationer
+og alt, hvad der ligger i den boldgade, formèntlig vil komme op på både 3 og 4 måneder. Det er
+da en fuldstændig uacceptabel tilstand, fordi
+man også bruger disse medarbejdere på privathospitalerne.1 Det er i hvert fald konsekvensen,
+og det er faktisk temmelig godt dokumenteret.
+Med hensyn til at den private sektor fylder
+2 pet., vil jeg sige, at tallet efter de oplysninger,
+jeg har, ligger på 3-4 pct.,, og på det ortopædkirurgiske område ligger det faktisk oppe på 10
+pet. Der er det jo nogle helt andre tal, det drejer
+sig om.
+.. <홢 \ S";Jens Peter Vernersen
+88895;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:32
+88957;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Svaret på lange ventelister er det udvidede frie
+valg. Jeg ved, at Socialdemokraterne er lodret
+imod, at den nuværende regering har indført
+nogle rettigheder til borgerne frem for at holde
+sig til den gamle systemtankegang. Vi har givet
+borgerne nogle rettigheder, og det har været et
+væsentligt angreb på ventelisterne.
+For så vidt angår lægernes bijobberi, er det :
+rigtigt, at mange læger bijobber. Meget af bijobberiet foregår rent faktisk i den offentlige sektor,
+mens noget af det foregår i den private sektor.
+Men læger har altid bijobbet, og jeg er glad for,
+at der er et privat hospitalsvæsen, som de kan
+bijobbe i. I 1980'erne og 1990'erne bijobbede de i
+Norge, og så mistede vi dem for alvor som en
+kapacitet i vores offentlige sundhedsvæsen, som
+denne regering ved at afsætte 18 mia. kr. til og
+ved at forny bygningsmassen med 25 mia. kr.
+satser på.";Kl. 14:32
+89890;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Spørgsmålet er afsluttet.
+
+Onsdag den 8. oktober 2008 (S 6)
+Det næste spørgsmål er også stillet til ministeren for sundhed og forebyggelse af hr. Jens Peter
+Vernersen.
+
+61
+
+...";Kl. 14:32
+90126;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.
+홢
+.";Kl. 14:34
+90206;Time;. . . :i ..;Kl. 14:34
+90228;Time;;Kl. 14:33
+90253;name_party;":
+Spm. nr. S 6
+Den privatpraktiserende læge er jo næsten mere
+offentligt ansat end nogen som helst anden efter
+4) Til ministeren for sundhed og forebyggelse af: de regler, der bliver sat op for vedkommende,";Jens Peter Vernersen
+90484;name_party;":
+selv om man ynder at kalde det noget andet.
+Vil ministeren helst have, at privathospitalerne
+Men det, der ,er afgørende, er jo, at det åbenbart
+udgør 2 pet. af det offentlige sundhedsvæsen el- er ligegyldigt for ministeren, om det er 2 pet. eller 50 pct.?
+ler 50 pet., der behandles i den private sektor.
+Det er ikke ligegyldigt, hvis vi skal se på de ofTredje næstformand (Holger K. Nielsen):
+fentlige hospitalers mulighed for at udføre beMinisteren.
+handling. Hvis det var 50 pet., er det jo sådan set
+-Kl. 14:33 hele den, kirurgiske del af de offentlige hospitaMinisteren for sundhed og forebyggelse (Jakob ler, der er væk, så har man kun de medicinske
+Axel Nielsen):
+. 홢
+:
+patienter tilbage. Det vil være virkeligheden.
+Det er vist variationer over det samme tema,,
+Disse medicinske patienter fylder faktisk så mesom vi lige har haft, som hr. Jens Peter Vernersen get og vel endda endnu mere, hvis man ser på
+citerede mig for i det forrige spørgsmål, nr. S 5.
+sengedage, 1jggedage o s v . .
+Det er for mig ikke afgørende, om privathospitaSå kan man altså på de offentlige hospitaler
+lerne kommer til at udgøre 2, 10 eller 20 pet. eller alene have ældre mennesker tilbage, der ligger
+mere. Jeg vil helst have, at privathospitalerne
+på de medicinske afdelinger, og når de så har
+udgør den procentdel af det samlede sundheds- brug for en kirurgisk læge, så har man ikke vedvæsen, som giver mest sundhed for alle. Fot mig kommende, men så kan man måske hyre en 홢
+er det underordnet, hvad det så er, når man om- ovre på privathospitalet.
+regner det til procent.
+'
+De tanker, der ligger i ministerens svar, er jo
+Jeg.kan ikke forstå, hvorfor Socialdemokrafuldstændig vanvittige, og jeg vil bare sige, at
+terne har så vanvittig travlt med at flygte fra de- hvis der i Socialdemokraternes oplæg et eneste
+res eget sundhedsudspil af 23. april 2008, for der sted står, at vi mener, at det er ligegyldigt, om
+er ikke sagt noget i min tale, som der ikke er
+det er 2 pet. eller 50 pet., så vil jeg godt have det
+hundrede procent dækning, for i Socialdemokra- citeret og læst op. Ministeren skal altså være lidt
+ternes eget udspil. ,Den, diskussion, jeg ønsker,
+varsom med at påstå hvad som helst her i Folkeer, at vi smider håndskyheden over for de priva- tingssalen.
+!
+te og lader være med at væré ideologiske for";Jens Peter Vernersen
+92801;Time;"ideologiens skyld, men er pragmatiske og finder Tredje næstformand (Holger K. Nielsen):
+ud af, at hvis vi kan få noget udført i det private, Ministeren.
+홢: :
+.
+så lad os være glade for, at det bliver udført: for
+'.
+홢
+'
+홢
+.홢
+홢Kl. 14:35
+det frigør nogle ressourcer i dét offentlige sund- Ministeren for sundhed og forebyggelse (Jakob
+hedsvæsen, som også er hårdt presset og vil
+Axel Nielsen):, .
+.
+være det i den kommende tid.
+Det sidste har hr. Jens Peter Vernersen fuldstænLad os da bare bruge ressourcerne bedst mudig ret i, men det samme må jo også gælde hr.
+ligt i stedet for at tænke i den der systemtanke-.
+Jens Peter Vernersen, selv om det er mig, der udgang, at det er så vigtigt, hvem der producerer
+taler mig under ministeransvar.
+en offentlig ydelse. Det er i virkeligheden det,
+Jamen jeg forstår sådan set ikke, hvorfor man
+der er min pointe. Det er lidt ligegyldigt, hvem
+flygter fra sin egen diskussion. Jeg har en ret
+der producerer den offentlige ydelser, bare det
+uideologisk og meget pragmatisk tilgang til, at, ,
+er en offentlig ydelse, hvortil der er fuldstændig jeg gerne vil have mest sundhed for pengene.
+lige og fri adgang for alle. Lad mig minde om, at Jeg synes, det må være det, borgerne må være
+der vel ikke er nogen ved deres fulde fem, der . interesseret i. Og så siger jeg, at jeg er lidt ligevil hævde, at den privatpraktiserende læge ikke
+glad imed, om en offentlig ydelse er offentligt
+er en offentlig y d e l s e . .
+홢 produceret eller privat produceret.
+
+62
+
+Onsdag den 8. oktober 2008 (S 6)
+
+Lad mig bare komme med et billede: Hvis en
+ny omfartsvej skal bygges, er jeg også ligeglad
+med, om det er kommunens entreprenører og
+vejfolk, der bygger den, eller om det er en privat
+entreprenør, der bygger den. Det, der er afgørende for mig, er, at vi alle sammen kan køre på
+vejen og kan gøre det gratis.
+På samme måde er det også med privathospitaler, når vi taler om det udvidede frie sygehusvalg. Det er, at Per og Poul og Hans og Grethe,
+der er fuldstændig lige, uafhængig af hvor meget de hver især betaler i skat, og om de har en
+sundhedsforsikring eller ej, kan komme til behandling, og det må være det, der er afgørende.
+Det må vel også være det, som Socialdemokraterne lægger op til i deres sundhedsudspil, og
+det er den debat, jeg prøver at få rejst. Lad os
+smide håndskyheden, lad os lade være med at
+interessere os så meget for, om det er produceret
+det ene eller det andet sted, for det er eksistensen af det private hospitalsvæsen og det udvidede frie valg, der har hævet effektiviteten i det offentlige sygehusvæsen til gavn for os alle.";Kl. 14:35
+95396;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.
+.,";Kl. 14:37
+95475;Time;;Kl. 14:37
+95500;name_party;":
+Ministeren gentager jo sig selv, for fjerde gang
+tror jeg det var nu. Men det ændrer jo ikke ved,
+at det bliver et ganske andet hospitalsvæsen, vi
+får i Danmark, hvis det går sådan, at de tanker,
+ministeren skitserede på De Konservatives
+landsråd, bliver gennemført. Jeg er sikker på, at
+der blev klappet meget af ministeren, selv om
+man ikke kan se det af ministerens talepapir,
+men det viser jo bare, at der er forskellige opfattelser, og at der ikke er nogen som helst tvivl
+om, at det er den stærkeste del af befolkningen,
+der vil få gavn af de tanker, ministeren skitserede. Så kan alle andre jo få det, der bliver tilbage.
+Det er faktisk ofte et problem, når ministeren
+forklarer det her, og jeg synes, ministeren skulle
+prøve at forklare, hvad konsekvensen af det her
+bliver. Hvad er konsekvensen, hvis man flytter
+50 pet., hvad er det så for et hospitalsvæsen, der
+bliver tilbage, og hvordan vil man i øvrigt finansiere det? Alle ved jo, at man ikke får mest sundhed for pengene, når behandlingen bliver givet
+på et privathospital: fordi man betaler en ganske
+betydelig overpris. Regionerne har opgjort overprisen til omkring 30 ,pct., men ministerens forgænger besluttede jo, at privathospitalerne skal
+have den overpris, så derfor får man ikke mest
+
+sundhed for pengene. Man betaler en overpris,
+der betyder, at der bliver leveret mindre på de
+offentlige hospitaler.";Jens Peter Vernersen
+96888;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:38
+96950;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg kan fuldstændig bekræfte, at vi havde et rigtig godt landsmøde i Det Konservative Folkeparti.
+Så siger hr. Jens Peter Vernersen, at det bliver
+den stærkeste del af befolkningen, der får andel
+i vores sundhedsvæsen. Jeg vil sige, at det jo er
+noget lodret sludder og vrøvl, og jeg tror, hr.
+Jens Peter Vernersen udtaler sig mod bedre vidende, fordi hr. Jens Peter Vernersen tager udgangspunkt i et forsikringsbaseret system. Det
+har vi ikke i Danmark, vi har et skatteyderbetalt
+system, som alle har fri og lige adgang til - fri og
+lige adgang for alle - og det må jo være det afgøreride, at vi har et skatteyderfinansieret system.
+Om et knæ så bliver opereret på et privathospital eller et offentligt hospital, kan jo være lidt ligegyldigt, bare alle kan blive opereret.
+Så nævner hr. Jens Peter Vernersen overprisen. Jeg synes også, at privathospitalerne får en
+overpris for nogle ydelser. I april måned i år
+skrev man, at man gerne vil have, der bliver kigget på den såkaldte DRG-takst. Vi skrev i vores
+regeringsprogram fra november 2007, at vi vil
+have fair og lige konkurrence, og det er derfor,
+jeg har igangsat et grundigt arbejde, så det ikke
+bare bliver noget, der hviler på en mavefornemmelse, hvordan vi skal få ændret DRG-taksten.
+Det arbejde har jeg igangsat, og vi kommer med
+et resultat, for der skal selvfølgelig være fair og
+lige konkurrence, og der skal ikke være nogen,
+der får en overpris.
+,";Kl. 14:38
+98437;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Flemming Møller Mortensen som medspørger.";Kl. 14:39
+98533;Time;;Kl. 14:39
+98563;name_party;":
+Jo, men det tror vi jo ikke på længere. I november 2007 var der endnu ikke sket noget på området, og det er jo lige nøjagtig her, ideologien
+også slår igennem. Jeg registrerer også, at sundhedsministeren anlægger en anden retorik med
+hensyn til 10, 20 eller endnu flere procent i forhold til det offentlige, så det kan jo være, vi også
+får et andet resultat ud af det.
+
+II
+
+Onsdag den 8. oktober 2008 (S 6)
+
+Men det var jo en særdeles opsigtvækkende
+udmelding fra ministeren om 10, 20 eller 50 pct.,
+for når ministeren står her i dag og siger, at det er konservativ og borgerlig politik, at det offentlige sundhedsvæsen skal være kernen, vil vi jo
+gerne have ministeren til at sige, om det er muligt, hvis det private udgør 50 pet. Så er ministeren måske omtrent den eneste i Danmark, der siger: at man kan opretholde et stærkt offentligt
+sundhedsvæsen som kernen.
+,";Flemming Møller Mortensen
+99442;Time;"Tredj e næstformand (Holger K. Nielsen):
+M i n i s t e r e n . . . 홢
+,
+\
+i Kl. 14:40
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+홢홢
+홢
+Hr. Flemming Møller Mortensen tror ikke på, at
+der kommer et udspil om DRG. Til det kan jeg jo:
+kun: svare, at tiden må vise, om hr. Flemming
+Møller Mortensen får ret, eller om jeg får ret, når
+jeg siger, at regeringen ved sundhedsministeren
+vil spille ud med en ny plan for DRG-takster. Jeg
+tror, jeg får ret.
+. Kl. 14:40
+Tredje næstformand (Holger K. Nielsen):
+Hr. Flemming Møller Mortensen.
+.홢
+5
+홢
+, Kl. 14:41";Kl. 14:40
+100036;name_party;":
+Jeg er overhovedet ikke i tvivl om, at vi nok skal
+få det, men den tid, der .går, arbejder ikke for
+den offentlige, men for den private sektor, og
+det er problemet for os, der kæmper for fri og
+lige adgang for alle danskere, også de svageste
+borgere, som får brug for hospitalsbehandling:
+Men lad mig lige brygge en lille smule videre
+på min metafor, som-gik på de tö luftfartsselskaber. Spørgsmålet er jo, om det ikke er her, vi skal
+gribe den og sige: Lad os dog så lave nogle aftaler. Socialdemokratiet mener, at den private sektor kan tjene et rigtig nyttigt formål, hvis der laves aftaler, som de private skal agere efter. Det
+betyder, at alle ved, hvad man har med at gøre,
+og det betyder, at man ved, det er i det offentlige, vi har styrken fot alle danskere i form af et
+stærkt offentligt sundhedsvæsen.";Flemming Møller Mortensen
+100859;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:41
+100921;Time;"Ministeren for sundhed og forebyggelse (Jakob
+',Axel Nielsen):
+Det er jeg fuldstændig enig i, og det er også derfor, jeg i forbindelse med økonomiaftalen med
+Danske Regioner, hvor vi har aftalt at suspende-, '
+
+63
+
+re det udvidede frie valg til og med den 30. juni
+2009, har lagt meget, meget stor og afgørende
+vægt på, at det offentlige sygehusvæsen skal
+sørge for at opkøbe en kapacitet i det private sygehusvæsen svarende til den, de har brugt i sidste kvartal af 2007 og første kvartal af 2008, så vi
+ikke får en lavere kapacitet. Det, der er afgøren-'
+de for mig, er nemlig, at vi har størst mulig kapacitet, og den kapacitet skal bruges på helt
+samme måde, som også hr. Flemming Møller
+Mortensen nu angiver. Vi skal bruge det private
+sygehusvæsen til at komme med nogle større
+udbud og få brugt kapaciteten på en fornuftig
+måde/og det er det, vi gør - det er lige nøjagtig
+det, vi gør.
+: ' .' 홢
+::";Kl. 14:41
+101835;Time;"Tredje næstformand (Holger K. Nielsén):
+Hr. Jens Peter Vernersen.
+, .Kl. 14:42";Kl. 14:42
+101939;name_party;":
+Sundhedsministeren ved måske ikke, hvordan
+tilstanden er derude. I øjeblikket er det jo sådan,
+at borgere, som har. knæproblemer, hofteproblemer eller andre problemer, er udsat for lange,
+lange ventelister, fordi der ikke er kapacitet, fordi man ikke har et offentligt hospitalsvæsen, der,
+er tilstrækkelig robust til at løse borgernes sund- hedsproblemer.
+Det, der jo har været sagt og gentaget gang på
+gang, er, at man skal være mere end idiot for
+ikke at kunne drive en rigtig, rigtig god forret- .
+ning på et privathospital. Og det viser ,sig jo
+også med de byggerier, der er i gang, at regeringen har indrettet det sådan, at man pøser pengene derover, sådan at de penge, der kunne bruges
+på fornuftig vis på offentlige hospitaler, er væk.
+Dem har man foræret til andre områder, hvor,
+man ikke får mest sundhed for pengene, men
+hvor man tværtimod får mindre sundhed for
+det, man overbetaler, fordi privathospitalerne
+kan sige nej til de patienter, der kommer til dem,
+hvis det er noget, de ikke kan klare.
+Det er jo sådan set virkeligheden, det troede
+jeg faktisk at ministeren vidste. Men problemet
+er jo lidt, når vi diskuterer det her, at ministeren
+siger et, men at konsekvensen af det, der bliver
+sagt, ude i den virkelige verden er noget ganske
+andet. Og det er det, borgerne 'oplever: de oplever rigtig, rigtig mange steder, at dét, ministeren
+siger, ikke hænger sammen med det, der sker
+ude på hospitalerne.
+<";Jens Peter Vernersen
+103370;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+
+64
+
+Onsdag den 8. oktober 2008 (S 12)";KL14:43
+103473;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg fornemmer egentlig, at hr. Jens Peter Vernersen går andres ærinde end det danske sundhedsvæsens, når det er sådan, at det skal udsættes for den evige nedrakning om, at folk venter i
+alenlange tider.
+Der er 40 millioner patiéntkontakter om året i
+det danske sundhedsvæsen, og der er 0,1 promille, der klager: det er 4.000 klager. Og det er
+også noget, som en sundhedsminister skal tage
+bestik af og sørge for bliver bedre, men der er
+altså rigtig, rigtig mange mennesker, som har en
+god oplevelse i sundhedsvæsenet. Det synes jeg
+vi skylder befolkningen at fortælle, og det synes
+jeg rent faktisk også vi skylder personalet at fortælle.
+Men det er jo sådan, at når vi nu suspenderer
+det her udvidede frie sygehusvalg, som jo er det,
+der har gjort indhug på de alenlange ventelister,
+vi overtog i 2001, er det da ikke med min bedste
+vilje, men fordi vi står i en force majeure-situation efter en strejke, der har været. Derfor er der
+desværre en længere venteliste nu på grund af
+strejken, og den må vi se at få bugt med, og det
+er derfor, vi suspenderer og giver prioriteringsværktøjet tilbage til regionerne. Men derefter
+skal vi være et hundrede procent på borgernes
+side og give dem det udvidede frie sygehusvalg
+igen, for det er det, som i en normal situation
+hakker ventelisterne ned, og det er jo derfor, vi
+har fået bugt med ventelisteproblemstillingen,
+som vi overtog i 2001.";Kl. 14:43
+104931;Time;".
+Tredje næstformand (Holger K. Nielsen):
+Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til ministeren
+for sundhed og forebyggelse af hr. Per Clausen.";Kl. 14:45
+105103;Time;"Spm. nr. S 12
+5) Til ministeren for sundhed og forebyggelse af:";Kl. 14:45
+105184;name_party;":
+Mener ministeren, at det er et ansvarligt forslag
+at lade halvdelen af sundhedssektoren være på
+private hænder: efter at de seneste års øgede private deltagelse har medført større ulighed i adgangen til behandling, og at øget privatisering i
+andre lande har medført stigende sundhedsudgifter?
+
+Skriftlig begrundelse
+Ministeren udtalte på sit partis landsråd, at han
+gerne så op til halvdelen af sundhedssektoren
+på private hænder.
+Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Per Clausen
+105679;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg kan ikke inden for 2 minutter forholde mig
+til hr. Per Clausens påstande om øget ulighed og
+om effekterne af privatisering i andre lande. Jeg
+ved ikke, hvilken dokumentation der er for
+dem. De påstande må derfor stå for hr. Per Clausens egen regning. Jeg kan kun sige, at jeg ikke
+har foreslået, at halvdelen af sundhedssektoren
+skal være på private hænder. Jeg har tværtimod
+sagt, at det for mig ikke er afgørende, om privathospitaler udgør en mindre eller en større del af
+det samlede sundhedsvæsen. Modsat hr. Per
+Clausen frygter jeg ikke, at en større andel af de
+offentlige sundhedsopgaver bliver løst af private. Det er der heller ikke noget nyt i. Hele den
+primære praksis, som udgøres af alle de privatpraktiserende læger, drives af private og har
+derfor længe været på private hænder. Det er
+også et offentligt tilbud.
+I øvrigt er ligheden i adgangen til sundhedsydelserne sikret gennem den solidariske finansiering over skatter, og det ændres ikke af, at antallet af private sygehuse eller klinikker, der behandler patienter for det offentlige, er steget de
+seneste år. Det afgørende må være, at vi har et
+skattefinansieret system, som giver lige adgang
+til alle.";Kl. 14:45
+106928;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:46
+106995;Time;;Kl. 14:46
+107012;name_party;":
+Jeg synes jo, det er interessant at høre ministerens udlægning af teksten her, for er ministeren
+ikke enig med mig i, at der er to ting, der skal
+være opfyldt, for at man kan få en hurtig behandling i sygehusvæsenet i dag? Der er i hvert
+fald to ting, der gør, at man kommer foran i køen. Den ene er, hvis man er så heldig at have en
+sundhedsforsikring eller rettere sagt tilhører den
+del af befolkningen, der har mulighed for at få
+en sundhedsforsikring. Den anden er, hvis man
+er så heldig at lide af en sygdom, som et privathospital mener det kan tjene penge på. De to af-
+
+(9)
+Onsdag den 8. oktober 2008 (S 12)
+gørende præmisser for det her er sådan set
+sundhedsforsikringer, og at man har mulighed
+for at blive behandlet, altså hvis der er et privat
+sygehus, der kan tjene penge på at behandle den
+lidelse, man har. Det vil sige, at det, der handler
+om at tjene penge, og det, der handler om at forsikre sig, er indført som grundlæggende elementer i vores sundhedssektor.";Per Clausen
+108001;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+::
+. Kl. 14:47
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+:
+Den meget opmærksomme lytter af hr. Per Clausens spørgsmål vil forstå, at det, der bliver
+spurgt om, er fuldstændig nonsens og selvmod-,
+sigende. For man taler om, at danskere kun kan
+få behandling, hvis de har en sundhedsforsikring, og samtidig taler man om, at folk kun kan
+få behandling, hvis det er sådan, at der er et privat sygehus, som vil give den. Altså, hvis der er:
+et privat sygehus, som vil give behandlingen, så
+kan alle få den som følge af det udvidede frie
+valg, og dermed er sundhedsforsikringerne
+gjort fuldstændig illusoriske. Det udvidede frie
+valg gør nemlig, at sundhedsforsikringerne er illusoriske, og jeg kan ikke forstå, at så mange vil
+tegne dem, men det er vel, fordi de bliver klasket sammen med private pensionsopsparinger,
+eller hvad ved jeg.
+Jeg arbejder på, at de gøres illusoriske, fordi
+det udvidede frie valg, som er en offentlig ydelse, skal overmatche, skal gøre det bedre end det,
+man ellers kan få tilbudt. Det, som jeg synes må
+være vigtigt for en sundhedsminister, er at sikre
+fair og lige adgang for alle i et skatteyderbetalt
+system, og det gør vi med det udvidede frie
+valg.
+홢 Kl. 14:48
+Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:47
+109330;Time;;Kl. 14:48
+109347;name_party;":
+Det, som sundhedsministeren forsøger at snakke uden om, er, at det i dag er sådan, at enten
+skal man være så heldig at lide af en sygdom,
+som der er et privathospital, som vil behandle og jeg tror, at sundhedsministeren helt uideolo- >
+gisk vil give mig, ret i, at private virksomheder
+producerer inden for det område, hvor de kan .
+tjene penge - eller også kan man sådan set godt
+.have brug for en sundhedsforsikring, for så er
+det jo betingelsen for at komme foran i køen. Det
+
+65
+
+er bare, fordi jeg vil understrege over for sundhedsministeren, at den frie og lige adgang, han
+taler om, ikke eksisterer. Den er i dag afhængig
+af privathospitalernes mulighed for at tjene penge eller af, at man kan få en sundhedsforsikring,
+hvad enten det nu er en, man selv har etableret,
+eller en, man har fået sit firma til at etablere.
+'
+:";Per Clausen
+110188;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:49
+110250;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Der bliver sagt, at man skal være så heldig at
+lide af en sygdom, som et privathospital vil behandle. Det er grundtesen ihr. Per Clausens udgangspunkt, at man skal være så heldig at lide af
+en sygdom, som et privathospital vil behandle.
+Men hvis det er tilfældet, gælder også det udvidede frie valg. Det er ikke sådan, at de private
+sygehuse behandler nogle sygdomme under
+sundhedsforsikringer og andre sygdomme under det udvidede frie valg. Hvis de kan behandle dem, vil de også kunne behandle dem under
+det udvidede frie valg, så sundhedsforsikringer
+er illusoriske.
+홢";Kl. 14:49
+110892;Time;"Tredj é næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen som medspørger.";Kl. 14:49
+110984;Time;;Kl. 14:49
+111009;name_party;":
+Ministeren siger, at privathospitalerne kan behandle patienter via den udvidede frit valg-ordning, altså patienter fra det offentlige, og forsikringspatienter på fuldstændig ens vilkår. Det går
+jeg ud fra ministeren ved ikke holder.
+' Privathospitalerne laver en aftale med regionerne om behandling. Der er ikke tilsvarende lavet en aftale med forsikringsselskaberne, eller
+hvis man betaler af egen lomme på et privathospital. Priserne for disse behandlinger er ikke
+ens, og spørgsmålet om, hvorvidt man har kapacitet til at behandle, er noget, der helt og fuldt afgøres af privathospitalet. Det private hospital
+kan afvise en behandling og sige, at de ikke har
+den kapacitet, og så kan de bruge kapaciteten til
+at behandle forsikringspatienter eller egenbetalende patienter. Den forskel troede jeg egentlig
+ministeren var fuldstændig på det rene med.
+Den eksisterer altså i virkeligheden
+Så vil jeg da godt spørge ministeren, om han
+synes, at arbejdet med at gøre sundhedsforsikringer illusoriske er succesfuldt, når antallet af
+forsikringer i den tid, vi har haft VK-regeringen,
+
+66
+
+Onsdag den 8. oktober 2008 (S 12)
+
+er vokset fra stort set nul til l million, som det
+nærmer sig at være nu og her. Det er vel ikke sådan den helt store succes, ministeren har haft på
+det område, når det er gået så galt.";Jens Peter Vernersen
+112328;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:51
+112390;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg synes, der er behov for en definition af det
+udvidede frie valg, for det udvidede frie valg
+har betydning for folk, der har en sygdom, som
+ikke er livstruende, og som derfor har kunnet
+tåle at vente 1 måned, og når de så har ventet
+1 måned, skal det offentlige finde et andet tilbud
+til dem i enten Danmark eller udlandet, selvfølgelig såfremt en behandlingsmulighed foreligger. Der er nogle sygdomme, der kan være så
+vanskelige, at der slet ikke foreligger nogen muligheder på planeten, men ellers skal de finde
+dem.
+Med hensyn til hvorfor det kunne gå så galt
+med sundhedsforsikringer, som hr. Jens Peter
+Vernersen udtrykker det, kan man bare sige, at
+da hr. Jens Peter Vernersens parti var i regering,
+var det jo en lille eksklusiv skare af direktører og
+andre på direktionsgangene, der kunne få de her
+behandlinger. Vi har jo sagt, at for at man kan få
+fradragsret for en sundhedsforsikring, så skal
+den gælde alle på arbejdspladsen. Det er derfor,
+at folk langt ind i Dansk Metal og langt ind i LO
+i dag har en sundhedsforsikring. Jeg ved ikke,
+om hr. Jens Peter Vernersen mener, at ganske almindelige lønmodtagere ikke længere skal have
+lov til at have det. De har valgt at tegne den, og
+så kan de gøre brug af den. Som sundhedsminister arbejder jeg for, at også folk uden sundhedsforsikringer kan få nøjagtig den samme behandling som dem med, fordi det udvidede frie valg
+skal kunne gøre en sundhedsforsikring illusorisk, men derfor må folk jo godt på privat
+grundlag tegne sådan en.";Kl. 14:51
+113956;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Hr. Jens Peter Vernersen.";Kl. 14:52
+114040;Time;;Kl. 14:52
+114065;name_party;":
+Jeg går ud fra, at ministeren er fuldstændig på
+det rene med, at det, Socialdemokraterne har
+sagt, er, at virksomhederne ikke skal have fradrag, når de betaler forsikringer for medarbejderne. Vi har ikke nogen som helst planer om at
+gøre op med forsikringerne. Det troede jeg
+
+egentlig at ministeren var fuldstændig klar over.
+Det har været sagt her fra Folketingets talerstol i
+hvert fald under tre forhandlinger før sommerferien, så det skulle være nogenlunde på det rene, at det nu engang er sådan.
+Så vil jeg bare sige til det med det udvidede
+frie valg: Jo jo, men man kan jo ikke forlange af
+privathospitalerne, at de skal overtage en patient. Man kan give mulighed for, at patienten
+kommer over på et privathospital og spørger,
+om han eller hun kan blive behandlet for den og
+den lidelse, men det er jo ikke noget, man kan
+forlange. Det er jo fuldstændig et marked, det
+derovre. Man kan sige, at dig vil jeg ikke behandle, og dig vil jeg behandle, og jeg vil hellere
+behandle forsikringspatienter, de kan yde en højere betaling, og jeg vil hellere behandle folk, der
+selv betaler, for de yder en anden betaling end
+den, som man får via de aftaler, der er lavet med
+regionerne. Det er jo sådan, det er, og derfor kan
+man gøre det fuldstændig, som man vil. Det synes jeg da er lidt afgørende at man også er helt,
+helt klar over..
+Så sagde ministeren, at regeringen havde
+sagt, at alle skulle med, når der skulle tegnes en
+forsikring. Nej. Nu var ministeren jo ikke i Folketinget på det tidspunkt, men det var jeg. Jeg
+sad hernede. Og det var ikke regeringens forslag, at alle skulle have en forsikring, men regeringen kunne ikke få flertal uden. Den havde
+netop lavet det sådan, at det var direktøren og
+andre, som kunne få en forsikring, men det var
+der altså ikke flertal for, og derfor blev det anderledes.";Jens Peter Vernersen
+115891;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:53
+115953;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg er godt klar over, at Socialdemokraterne ikke
+ønsker, at der skal være fradragsret for sundhedsforsikringer. Det er jo fair snak fra Socialdemokraternes side. Det ville jo rulle systemet tilbage til den tilstand, som det var i, da det kun
+var på direktionsgangen, man havde de her forsikringer. Men jeg må jo bare i al stilfærdighed
+notere mig, at det da er en underlig tilgang for et
+parti med en tradition i forhold til fagbevægelsen, at man siger, at alle almindelige lønmodtagere, som i dag har glæde af at have en sundhedsforsikring, ikke længere må have det. Det er
+det, jeg kan forstå.
+
+Onsdag den 8. oktober 2008 (S 13)
+Det er fradragsretten, der har gjort, at ganske
+almindelige lønmodtagere har fået de her sundhedsforsikringer. Men jeg kan forstå, at det vil
+Socialdemokraterne kun reservere til direktion
+e
+n
+.
+.
+.
+.
+홢. 홢.";Kl. 14:54
+116864;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Pér Clausen.";Kl. 14:54
+116931;Time;;Kl. 14:54
+116948;name_party;":
+Vi skal nok vende tilbage til sundhedsforsikringerne, men pointen er, at ministeren har sagt, at
+det er lige meget, om det er 2 pet. eller 50 pet. af
+sygehusvæsenet, som er privatejet: det betyder
+ingenting. Så vil jeg bare spørge ministeren, når
+han nu alligevel har erkendt, at private sygehuse har mulighed for at tage selvbetalere og folk
+med forsikring ind før de mennesker, der skulle
+nyde godt af det udvidede frie sygehusvalg, sådan at det slet ikke kommer til at gælde for dem,
+fordi privatsygehusene tager dem ind først, der
+kan betale selv, fordi de så får lidt mere, hvilke
+konsekvenser han så tror det får, hvis det er 50
+pet. af det danske sygehusvæsen, som er drevet
+ud fra den klare hensigt, som jo er private virksomheders hensigt, at man skal tjene penge.";Per Clausen
+117733;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+홢 Kl. 14:55
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+.
+/
+Det, der er helt afgørende for mig, er, at vi taler
+om offentlige tilbud og ikke private tilbud. På
+nøjagtig den samme måde, som det at gå til en
+privatpraktiserende læge er et offentligt tilbud,
+ønsker jeg, at vi kan bruge de to væsener på en
+mere hensigtsmæssig måde, fordi vi ved, at eksistensen af det private sygehusvæsen har højnet
+effektiviteten i det offentlige sygehusvæsen. Og
+det er noget af det, man også godt kan have
+brug for, når man går de problemer med manglende personale i møde, som vi ved at vi får.
+Det afgørende er ikke, om den her omfartsvej,
+som jeg talte om lige før, er produceret af en offentlig entreprenør eller en privat entreprenør.
+Det afgørende er, at vi alle sammen må køre på
+vejen, og det afgørende er derfor, når vi snakker
+sundhed, at alle kan få et tilbud i verdensklasse
+uanset deres øvrige økonomiske formåen. Og
+det er derfor, at vi skal holde fast i et skatteyderbetalt system.
+Men jeg synes godt,Zat vi kunne være lidt
+mere liberale i forhold til, hvem der producerer
+
+l
+
+67
+
+sundhedsydelserne - bare, alle har lige adgang
+til dem.";Kl. 14:55
+118948;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak. Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til ministeren
+for sundhed og forebyggelse af hr. Per Clausen.
+Spm. nr. S 13";Kl. 14:56
+119138;Time;6) Til ministeren for sundhed og forebyggelse af:;Kl. 14:56
+119206;name_party;":
+Mener ministeren, at det er udtryk for/at den
+borgerlige regerings sundhedspolitik har været
+vellykket, at antallet af private sundhedsforsikringer er eksploderet og snart runder en million?
+Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Per Clausen
+119461;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Stigningen i antallet af private sundhedsforsikringer indebærer, at der samlet set tilføres flere
+penge til det danske sundhedsvæsen. Regeringen har med skattefritagelsen af arbejdsgiverbetalte sundhedsforsikringer medvirket til, at
+langt flere danskere end hidtil nu har adgang til
+sundhedsforsikringer. Det skyldes, at skattefritagelsen kun opnås, såfremt virksomhederne tilbyder sundhedsforsikringer til samtlige medarbejdere og ikke kun til ansatte på direktørgangen.
+Når regeringen sideløbende har løftet det offentlige sundhedsvæsen ved at tilføre 18 mia. kr.
+fra 2001 til 2009, og når vi har styrket patienternes rettigheder i forbindelse med livstruende
+sygdomme, nedbragt ventelisterne og givet patienterne flere valgmuligheder, og når dødeligheden af hjertesygdomme er faldet kraftigt, når
+middellevetiden er steget betydeligt osv. osv., så
+mener jeg i høj grad, at regeringens sundhedspolitik har været vellykket.";Kl. 14:56
+120457;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:57
+120524;Time;;Kl. 14:57
+120541;name_party;":
+Jeg kan forstå på ministeren, som jo ellers i forbindelse med et tidligere spørgsmål sagde, at
+sundhedsforsikringerne sådan set var inderligt
+overflødige, fordi man har så fremragende tilbud til folk, der ikke har en sundhedsforsikring,
+
+68
+
+Onsdag den 8. oktober 2008 (S 13)
+
+den her mulighed. Ministeren er vel klar over, at
+at det er helt ubegribeligt, at folk vil benytte sig
+hvis man ser på, hvilke brancher de her ordninaf den her mulighed, at han nu alligevel mener,
+ger oprettes i, kan man se, at det inden for renat det, at der er 1 million mennesker i Danmark,
+gøringsbranchen er ca. 30 pet., der er omfattet,
+som har en sundhedsforsikring, er en succes for
+og at det inden for medicinalindustrien er ca. 70regeringens politik. Dét har jeg måske en anelse
+75 pet. Der er altså en enorm social skævhed
+svært ved at begribe.
+Som jeg også sagde før, er konsekvensen af, at med hensyn til, hvem der får skattesubsidierede
+man indførte skattefrihed i forhold til sundheds- sundhedsforsikringer til at komme foran i køen,
+og det er jo det, den her ordning handler om.
+forsikringerne, jo ikke den, at det flytter fra diKl. 15:00
+rektører til andre, men at vi går ind direkte og
+Tredje næstformand (Holger K. Nielsén):
+understøtter, at nogle mennesker får mulighed
+for at stille sig forrest i køen i stedet for, som det Ministeren.";Per Clausen
+121887;Time;"var tidligere, at folk selv skulle betale - det er
+fuldstændig rigtigt - og de også selv skulle beta- Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+le skatten for den ydelse, som de i givet fald fik.";Kl. 15:00
+122112;Time;"Jo, men der er jo, desværre ikke noget, der er enkelt. Men der er jo en fradragsret, og det er derTredje næstformand (Holger K. Nielsen):
+med skatteyderbetalt.
+Ministeren.";Kl. 14:58
+122294;Time;"Men der kommer endnu flere penge ind, for
+Ministeren for sundhed og forebyggelse (Jakob heldigvis er skatten under 50 pet., så når man
+kun fradrager med et mindre beløb, kommer *
+Axel Nielsen):
+der flere penge ind i systemet, betalt af de privaSuccesen i vores sundhedsvæsen er et fald i dødeligheden, flere operationer, længere levetid og te. Det frigiver ressourcer ovre i det offentlige.
+Men den diskussion synes jeg sådan set ikke er
+først og fremmest meget kortere ventelister. Det
+har været en succes siden 2001, og det er det ud- så interessant.
+Det, der er interessant, er: hvad vi i det offentvidede frie valg, der har medført det. Det udvidede frie valg har som forudsætning, at der er to lige - og jeg er altså chef for det offentlige system i sundhedsvæsenet - har af principper for
+væsener: et privat og et offentligt.
+sygdomsbehandling, og dér er princippet, at
+Alle sundhedsforsikringerne - og det kan jeg
+uanset økonomisk formåen skal man have et
+notere som et objektivt faktum - er jo virksomrigtig godt tilbud. Derfor arbejder jeg for, at det
+hedsbetalte, og derfor er det ikke skatteyderbeudvidede frie valg er så effektivt, at folk, hvis de
+talt. Det betyder, at der altså er nogle private
+virksomheder og nogle forsikringsselskaber, der i det hele taget har tegnet en sundhedsforsikring
+separat og den ikke bare er blevet klasket samtilfører sundhedsvæsenet nogle ressourcer. Det
+men med noget andet - jeg har nemlig en miskan jeg da ikke være utilfreds med.
+tanke om, at det er sådan salget sker - vælger
+Men som sundhedsminister, når vi skal kigge
+dem fra, fordi de siger: Jamen jeg har jo det udpå det principielle, arbejder jeg for, at dér er
+videde frie valg: det er jo det bedste for mig. Såfuldstændig fri og lige adgang for alle. Det er
+dan ville jeg personligt selv tænke.
+derfor, jeg holder fast i det udvidede frie valg";Kl. 14:58
+124156;Time;"som værende midlet til til stadighed at kunne
+tilbyde alle danskere uanset økonomisk formåen Tredje næstformand (Holger K. Nielsen):
+Ja tak. Hr. Jens Peter Vernersen som medspørger.
+et skatteyderbetalt tilbud. Det er succesen.";Kl. 15:01
+124393;Time;.Kl. 14:59;Kl. 15:01
+124429;name_party;":
+Tredje næstformand (Holger K. Nielsen):
+Jeg tror da kun, at det er ovre i regeringskontoHr. Per Clausen.";Jens Peter Vernersen
+124545;Time;rerne - og måske ikke engang blandt embedsmændene, men kun omkring ministeren - at;Kl. 14:59
+124645;name_party;":
+man ikke har opdaget, at uligheden i sundhed
+Men det er vel stadig væk rigtigt, at vi bruger
+skatteydermidler til at sikre, at nogle mennesker faktisk vokser.
+Jeg var til en konference her forleden med lækan komme foran i køen. Og ministeren får det
+gemiddelindustrien, som jo netop viste, hvor
+ligesom til at lyde, som om det er sådan noget,
+store problemer der var med ulighed i sundhealle kan få, og at der er lige vilkår.
+Ministeren er vel klar over, at pensionister, ar- den, og som viste, hvor store problemer der var i
+forhold til behandlingen af de forskellige befolkbejdsløse og kontanthjælpsmodtagere ikke har
+
+Onsdag den 8. oktober 2008 (S 13)
+
+, 69
+
+ningsgrupper. Og når man ser på et område som
+Det er jo rigtigt/ at der er bevilget nogle få
+hjerte-kar-sygdomme, som ministeren her
+millioner. Men det, der skulle have været bevilnævnte der også var succes med, så kan man si- get, hvis man skulle løse problemet med den .
+ge, at det var en succes, da vi fik den første hjerpukkel, der var i forbindelse med ventelisten,
+teplan, men den succes har regeringen også sat
+var i størrelsesordenen 350-400 mio. kr. Og det,
+. over styr. 홢
+der sker med det, der er bevilget, er, at det stort
+Netop her for et år siden kom de første tal : 홢 set indgår i den store modregningskasse ude i
+frem, der viste, hvor galt det var gået på det om- regionerne, hvor man jo er i gang med at spare
+råde. De viste, at man med.hensyhtil forundermilliardbeløb efter, de aftaler, man har med regesøgelser på hjerteområdet kunne have en vente- ringen. Det er jo sådan set virkeligheden: sådan
+tid på både 20 og 30 uger de fleste steder, og beer det nu e n g a n g . . . . : .
+handlingen efterfølgende, ja, det var også noget,
+Jeg vil godt spørge, om ikke ministeren anerder lå derude i horisonten. Det er jo derfor, Hjer- kender det, som i hvert fald kloge folk siger,
+teforeningen siger, at det er katastrofalt. O.k., så
+nemlig at uligheden i sundheden har været vokhar man skudt nogle penge ind nu her på fisende under den her regering, helt åbenbart
+nansloven efter aftale med regionerne, men det
+voksende, netop fordi man har indrettet sig så- .
+ser jo ud til, at regionerne stort set modrègner
+dan, som man har, sådan at de, som har færrest
+lige så meget, fordi de er udsat for store spareressourcer, er dem, der bliver behandlet s,enest.,:
+krav. Jeg synes, det er dybt problematisk, hvis - Uanset hvad ministeren siger, så er det virkeligdet er virkningen af det her.
+heden: der ligger også nogle undersøgelser på
+:
+^ Kl. 15:02 det.
+Tredje næstformand (Holger K. Nielsen):";Per Clausen
+127221;Time;"Ministeren.
+,,
+홢
+,
+Tredje næstformand (Holger K. Nielsen):
+홢
+: i";Kl. 15:04
+127296;Time;"Ministeren.
+Ministeren for sundhed og forebyggelse (Jakob,
+i-. 홢
+i, 홢
+':: :i, 홢,- Kl. 15:04
+Axel Nielsen):
+Ministeren for sundhed og forebyggelse (Jakob
+Nu synes jeg, at hr. Jens Peter Vernersen - når
+Axel Nielsen):
+: :
+man nævner eksempler på, at der er nogen, der
+Nej, det vil jeg ikke anerkende. Men jeg synes, at
+venter 20 og 30 uger på en forundersøgelse man skal mene noget andet end godt for det :
+skylder at fortælle, at de pågældende patienter
+danske sundhedsvæsen for at kunne få en stigrent faktisk enten inden for samme region eller
+ning på 2 mia. kr. til at være en besparelse.
+ved at bevæge sig over i en anden region kan
+Der er kommet ca. 2 mia. kr. ekstra til regiokomme til forundersøgelse noget tidligere: det er nerne. Og det kan godt være, at hr. Jens Peter
+muligt. Og regeringen har i den seneste økonoVernersen mener, ati der skulle have været tilført
+miaftale for 2008 afsat ekstra penge, for at vi kan 3 mia: kr. Men derfor er det stadig væk forkert at
+komme af med puklen i forbindelse med folk,
+fremstille det som: en besparelse, at en stigning
+der venter på en forundersøgelse i forbindelse
+ikke var så stor, som hr.: Jens Peter Vernersien
+med h j e r t e s y g d o m m e . .
+kunne forvente. En stigning på 2 mia. kr. er imMed hensyn til hjertesygdomme har vi ikke
+mer væk rigtig mange penge, og det kan man
+noget at skamme os over: der har vi succes. Vi
+ikke tale om som en besparelse ude i regionerne. ,
+har nogle af de bedste læger: vi hår det maskineDer er i 2009 ca: 2 :mia. kr. mere at arbejde
+ri, vi skal have: og vi har en højere overlevelse
+med i regionerne, end der var i 2008. Det er et
+hos folk med hjertesygdomme end i landene
+faktum. 홢 -i ::
+-홢
+i
+.
+omkring os. Så det er en succeshistorie på hjerteKl. 15:05
+området. Det skylder vi at fortælle alle dem, der
+Tredje næstformand (Holger K. Nielsen):
+:
+arbejder med det.
+Hr. Per Clausen.";Kl. 15:02
+129182;Time;;Kl. 15:03
+129192;Time;Tredje næstformand (Holger K. Nielsen):;Kl. 15:05
+129249;name_party;":
+Hr. Jens Peter Vernersen.
+Nu er spørgsmålet jo nok, hvilken sammenhæng
+:";Per Clausen
+129333;Time;"der er mellem den vækst, der er i opgaverne, og
+Jens Petér Vernersen (S):
+den vækst, der er i de økonomiske midler. Det
+Jeg tror, at hvis ministeren har fulgt med i de
+kunne jo være en spændende diskussion, men
+meldinger, der er kommet fra Hjerteforeningen, ,jeg vil bare holde fast i det her med sundhedsvil han kunne se, at det ser noget anderledes ud. forsikringerne og spørge ministeren, om han
+
+70
+
+Onsdag den 8. oktober 2008 (S 13)
+
+ikke er enig i, at konsekvensen af, at der går
+statslige midler til sundhedsfor sikringer, er, at
+der går offentlige midler til at skabe større ulighed i sundhedssektoren, fordi der ikke er nogen
+som helst tvivl om, at man kommer foran i køen,
+hvis man har en sundhedsforsikring. Så kan det
+jo ikke nytte noget, at man benægter den kendsgerning, for det er jo rigtigt. Det er også rigtigt,
+at hvis man ser på, hvem der har sundhedsforsikringerne, er det ikke de mennesker, der har
+de største sundhedsproblemer, og dem, der har
+de største problemer i det her samfund. Det er jo
+systematisk sådan, at hvis man arbejder inden
+for brancher, hvor der er mange højtlønnede,
+har man en overrepræsentation af folk med
+sundhedsforsikringer. Og så er pointen vel, at
+regeringens politik på det her område er med til
+at bruge statsmidler til at skabe øget ulighed.";Kl. 15:03
+130637;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 15:05
+130699;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Ulighed og ulighedsdiskussionen er jo på en eller anden måde uhåndterbar. Er det mere lige,
+at 50.000 direktører og advokater havde en
+sundhedsforsikring, sådan som det var tilfældet
+under SR-regeringen, eller er det mere lige, at
+1 million almindelige lønmodtagere har en
+sundhedsforsikring? Jeg skal ikke give svaret,
+for jeg kan ikke give det, men faktum er, at der
+er kommet flere sundhedsforsikringer, og at de
+er blevet udbredt til langt flere mennesker under
+den her regering. Det er også rigtigt, at de giver
+en hurtigere adgang til en behandling. Derfor er
+mit arbejde at sikre, at det offentlige tilbud, hvad
+enten det udføres på et offentligt sygehus eller
+privat sygehus, er så tiptop, at folk siger, at det
+her er behandling i verdensklasse. Det er det, vi
+arbejder for, og derfor ville jeg personligt ikke
+tegne en sundhedsforsikring, for jeg synes, den
+er illusorisk. Det er min personlige opfattelse.";Kl. 15:06
+131687;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Spørgsmålet er afsluttet.
+I홢";Kl. 15:06
+131775;Time;"Bortfaldne spørgsmål
+Tredje næstformand (Holger K. Nielsen):
+Medlem af Folketinget Carsten Hansen (S) har
+meddelt mig, at han ønsker at tage spørgsmål
+nr. S 1 og S 2 til statsministeren tilbage.
+[Spm. nr. S 1
+Til statsministeren (03.10.08) af:";Kl. 15:07
+132038;name_party;":
+Er statsministeren enig i Jens Rohdes udtalelser,
+om at »Det var den virkelighed, vi var med til
+selv at skabe i den måde, vi talte på. Det gælder
+både statsministeren, udenrigsministeren og
+mig selv. Alle sammen« og »Vi er nødt til at erkende, at vi i offentligheden skabte et billede af
+masseødelæggelsesvåben. Hvad der så står i
+lovteksten bagefter, det er juristeri« i forhold til
+grundlaget for Danmarks deltagelse i Irakkrigen, jf. Politiken den 28. september 2008?
+Spm. nr. S 2
+Til statsministeren (03.10.08) af:";Carsten Hansen
+132578;name_party;":
+Hvorfor sagde statsministeren, at »Jeg er ikke
+det mindste i tvivl om, at han råder over masseødelæggelsesvåben og ønsker at fremstille dem.
+Det kan verden ikke være ligeglad med« om
+Iraks Saddam Hussein efter et møde i Det Udenrigspolitiske Nævn september 2002, jf. Politiken
+den 28. september 2008?]
+Medlem af Folketinget Villy Søvndal (SF) har
+meddelt mig, at han ønsker at tage spørgsmål
+nr. S 3 og S 4 til statsministeren tilbage.
+[Spm. nr. S 3
+Til statsministeren (03.10.08) af:";Carsten Hansen
+133083;name_party;":
+Er det statsministerens opfattelse, at Jens Rohdes ytringsfrihed også omfatter hans ret til at
+ytre sig om Irakkrigen og de begrundelser, der
+dannede grundlag for ikke alene regeringens og
+Dansk Folkepartis beslutning, men også for
+
+Onsdag den 8. oktober 2008 (S 13)
+VKO's forsøg på at overbevise- den danske befolkning?
+Spm. nr. S 4
+Til statsministeren (03.10.08) af:";Villy Søvndal
+133473;name_party;":
+Finder statsministeren det ikke problematisk for
+sin troværdighed, at både den daværende politiske ordfører Jens Rohde (V) og regeringens støtteparti Dansk Folkeparti har haft den klare opfattelse, at beslutningen om krigsdeltagelsen i
+2003 var begrundet i Iraks påståede trussel mod
+Danmark og Iraks besiddelse af masseødelæggelsesvåben?]
+
+71
+
+Spm. nr. S 9
+Til økonomi- og erhvervssministeren (03.10.08)
+af:";Villy Søvndal
+133899;name_party;":
+Mener ministeren, at den finansielle krise bør
+føre til en revision af den liberalistiske økonomiske politik, som har været ført de seneste årtier,
+hvor man har ment, at markedskræfterne skulle
+overlades til sig selv og demokratiske institutioner skulle blande sig så lidt så muligt?] ,
+Hermed er spørgetiden afsluttet.
+
+Medlem af Folketinget Frank Aaen (EL) har V Kl. 15:07
+meddelt mig, at han ønsker at tage spørgsmål
+Meddelelser fra formanden
+nr. S 7 og S 9 til økonomi- og erhvervsministeren '
+tilbage.
+Tredje næstformand (Holger K. Nielsen):
+Der er ikke mere at foretage i dette møde.
+[Spm. nr. S 7
+Til økonomi- og erhvervssministeren (03.10.08)
+af:";Frank Aaen
+134571;name_party;":
+Mener ministeren, det er acceptabelt, at skatteyderne skal betale for en garantiordning, der
+f.eks. skal sikre en spekulant, der har indskudt
+næsten 2 mia. kr. i Roskilde Bank? :
+
+Folketingets næste møde afholdes i.morgen,
+torsdag den 9. oktober 2008, kl. 10.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.
+Mødet er hævet. (Kl. 15.07).";Frank Aaen

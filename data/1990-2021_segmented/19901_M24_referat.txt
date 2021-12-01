@@ -1,0 +1,40 @@
+split;reason;text;value
+0;;"2339
+
+27/11 90: Dagsorden
+
+2340
+
+(Fremsat 27/11 90. Første behandling 27/11
+90).
+Lovforslaget sattes til forhandling.
+24. møde";
+166;Time;"Dagsorden:
+Eventuelt: Anden behandling a f lovforslag nr. L
+91:
+Forslag til midlertidig bevillingslov for firiansåret 1991.
+Af finansministeren (Henning Dyremose).
+Samtykke til behandling:";kl. 13.25
+368;title_name;"Den eneste sag på dagsordenen kan kun med
+Tingets samtykke behandles i dette møde, men
+hvis ingen gør indsigelse, betragter jeg samtykket som givet. (Ophold). Det er givet.
+Man gik da til:
+Anden behandling af lovforslag nr. L 91:
+Forslag til midlertidig bevillingslov for finansåret 1991.
+Af finansministeren (Henning Dyremose).
+
+Ingen bad om ordet.
+Afstemning
+§§ 1 og 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+847;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden udvalgsbehandling.
+Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+Meddelelser fra formanden:";Formanden
+1077;title_name;"Der er ikke mere på dagsordenen.
+Folketingets næste møde afholdes i dag, tirsdag den 27. november 1990, kl. 13.40 med følgende dagsorden: (Se indledningen til næste
+møde).
+Mødet hævet kl. 13.28";Formanden

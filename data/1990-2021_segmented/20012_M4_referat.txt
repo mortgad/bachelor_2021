@@ -1,0 +1,1422 @@
+split;reason;text;value
+0;;"Fredag den 7. december 2001 (D) -
+
+4. m ø d e";
+83;Time;"Dagsorden
+1) Første behandling af lovforslag nr. L 10:
+Forslag til lov om ændring af lov om jordbrugets
+anvendelse af gødning og om plantedække.
+(Dispensationshjemmel).
+Af fødevareministeren (Mariann Fischer Boel).
+(Fremsat 5/12 2001).
+2) Første behandling af lovforslag nr. L 5:
+Forslag til lov om ændring af lov om et videnskabsetisk komitésystem og behandling af biomedicinske forskningsprojekter. (Ændring af
+reglerne om udpegning af medlemmer til de regionale komiteer og formandskabet i Den Centrale Videnskabsetiske Komité).
+Af ministeren for videnskab, teknologi og udvikling (Helge Sander).
+(Fremsat 5/12 2001).
+3) Første behandling af lovforslag nr. L 2:
+Forslag til lov om ændring af lov om Post Danmark. (Bevarelse af ret til tjenestemandspension
+m.v. ved overgang til overenskomstansættelse).
+Af trafikministeren (Flemming Hansen).
+(Fremsat 5/12 2001).
+4) Første behandling af lovforslag nr. L 4:
+Forslag til lov om ændring af lov om kommunal
+indkomstskat. (Ændring af statens afregning af
+pensionsafgifter m.v. til kommunerne).
+Af indenrigs- og sundhedsministeren (Lars Løkke Rasmussen).
+(Fremsat 5/12 2001).
+5) Første behandling af lovforslag nr. L 6:
+Forslag til lov om ændring af lov om administration af tilskud fra Den Europæiske Regionalfond
+og tilhørende statslig medfinansiering. (Adgang
+for Hovedstadens Udviklingsråd til på lige fod
+med amtskommuner og primærkommuner at
+fungere som administrationsmyndighed).
+Af økonomi- og erhvervsministeren (Bendt
+Bendtsen).
+(Fremsat 5/12 2001).
+
+115
+
+6) Første behandling af lovfotslag nr. L 11:
+Forslag til lov om ændring af pensionsafkastbeskatningsloven, selskabsskatteloven og andre
+skattelove. (Livsforsikringsselskabers fradrag,
+pensionsafkastbeskatning af livsforsikringsbestande under administration, friholdelse for
+pensionsafkastskat, ejendomsdatterselskaber,
+akkumulerende investeringsforeninger, opdeling af udloddende investeringsforeninger m.v.).
+Af skatteministeren (Svend Erik Hovmand).
+(Fremsat 5/12 2001).
+7) Første behandling af lovforslag nr. L 12:
+Forslag til lov om ændring af momsloven. (Ændringer af regler om fiskalrepræsentant).
+Af skatteministeren (Svend Erik Hovmand).
+(Fremsat 5/12 2001).
+
+Meddelelser fra formanden";kl. 10.00
+2324;title_name;":
+Medlemmer af Folketinget Marianne Jelved
+(RV), Anders Samuelsen (RV), Margrethe Vest~
+ager (RV), Carsten Hansen (S), Frank Jensen (S),
+Lene Jensen (S), Anne Baastrup (SF) og Aage
+Frandsen (SF) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til lov om ændring af lov om daghøjskoler m.v. (Skolemiljø, tilskudsbetingelser, indtægtsdækket virksomhed m.v.).
+(Lovforslag nr. L 19).
+Medlemmer af Folketinget Line Barfod (EL) og
+Pernille Rosenkrantz-Theil (EL) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om forhøjelse af
+folkepensionen.
+(Beslutningsforslag nr. B 8).
+Medlemmer af Folketinget Line Barfod (EL) og
+Pernille Rosenkrantz-Theil (EL) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om gratis receptpligtig medicin til børn under 18 år.
+(Beslutningsforslag nr. B 9).
+
+116
+
+Fredag den 7. december 2001 (L 10)
+
+Medlemmer af Folketinget Jan Petersen (S), Ole
+Vagn Christensen (S), Anne-Marie Meldgaard
+(S), Anders Samuelsen (RV) og Margrethe Vestager (RV) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om selvstændig
+ret til 6 ugers fleksibel fædreorlov.
+(Beslutningsforslag nr. B 10).
+Medlemmer af Folketinget Jan Petersen (S),
+Anne-Marie Meldgaard (S), Ole Vagn Christensen (S), Margrethe Vestager (RV) og Anders Samuelsen (RV) har meddelt mig, at de ønsker,
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om sikring af ret
+til børnepasningsorlov for forældre til børn over
+1 år.
+(Beslutningsforslag nr. B 11).
+Medlemmer af Folketinget Frank Jensen (S),
+Thomas Adelskov (S), Lene Jensen (S), Marianne
+Jelved (RV) og Anders Samuelsen (RV) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om pligt for
+kommunerne til at yde hel eller delvis friplads i
+skolefritidsordninger.
+(Beslutningsforslag nr. B 12).
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 10:
+Forslag til lov om ændring af lov om jordbrugets anvendelse af gødning og om plantedække. (Dispensationshjemmel).
+Af fødevareministeren (Mariann Fischer Boel):
+(Fremsat 5/12 2001).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+4549;name_party;":
+Året 2001 har vist, at vi som lovgivere ikke kan
+lovgive om naturens luner. Venstre lægger der-
+
+for gerne stemmer til, at der indsættes en dispensationshjemmel i lov om plantedække, så
+det bliver muligt uden alt for meget bureaukrati
+og bøvl for den enkelte bonde at fravige et krav
+om 65 pet. grønne marker, når naturens luner
+umuliggør, at det kan opfyldes.";Jens Kirk
+4932;name_party;":
+Socialdemokratiet støtter også nu ved genfremsættelsen forslaget og også en hurtig behandling.
+Christian H. Hansen (DF):
+Forslaget er fornuftigt. Det er en genfremsættelse, og selv om der er sket mange lykkelige ting,
+siden det blev fremsat første gang, kan vi stadig
+væk støtte forslaget.";Ritt Bjerregaard
+5238;name_party;":
+Da vores ordfører, fru Else Theill Sørensen, ikke
+kan være til stede, skal jeg på hendes vegne sige,
+at vi støtter forslaget, som vi har gjort hele tiden.";Kaj Ikast
+5415;name_party;":
+Vi kan også støtte forslaget, da det jo er sådan, at
+meget kan man lovgive om, men ikke om vejret,
+så den del af forslaget ser vi ingen problemer i.
+Men jeg vil godt gøre et par bemærkninger
+om, at man vil have dispensation fra 30-dagesreglen. I SF har vi den principielle opfattelse, at
+man kun skal dispensere fra reglen, hvis der er
+to forhold, der er opfyldt. Det ene er, at lovforslaget skal være enkelt og gennemskueligt, og
+det mener vi dette lovforslag det er.
+Det andet forhold, vi synes skal være opfyldt,
+er, at det også er nødvendigt at fravige reglen. Vi
+tager det faktisk meget alvorligt, at man skal
+sørge for at overholde de regler, der giver mulighed for, at lovforslagene bliver ordentligt behandlet, og derfor er vi af principielle grunde
+betænkelige ved, at man vil haste den del igennem.";Kristen Touborg
+6235;Time;"Vi har lidt svært ved at tro på, at Plantedirektoratet vil komme ud med den store hammer og
+slå landmændene i hovedet, altså straffe landmænd, der ikke har overholdt reglerne, når vi
+her i Folketinget for længst har fremsat et sådant
+forslag. Vi har altså betænkeligheder ved at fravige 30-dages-reglen, men vi vil gerne støtte lovforslaget.
+
+Fredag den 7. december 2001 (L 5)
+(Kort bemærkning).";Kl. 10.05
+6646;name_party;":
+Når SF's ordfører, hr. Kristen Touborg, nu kommer med den bemærkning om betænkelighed,
+ligger der så ikke alene i det. at gøre sig bemærket i stedet for bare at sige, at det er en praksis,
+som alle ved, at de har ret til?";Jens Kirk
+6891;name_party;":
+Også Det Radikale Venstre kan tilslutte sig forslaget, selv om jeg må sige, at vi ikke mærkede
+meget til regnen på Vesterbro, hvor jeg er valgt.";Martin Lidegaard
+7059;name_party;":
+Enhedslisten vil efter omstændighederne kunne
+støtte dette forslag, men vi vil gerne kigge på det
+svar, den tidligere fødevareminister gav udvalget i anledning af denne sag.";Keld Albrechtsen
+7255;name_party;":
+Med risiko for at udsætte mig for hr. Jens Kirks
+kritiske bemærkninger har jeg det egentlig ligesom hr. Touborg: Hvad ellers, hvis vi ikke gennemfører det her? Når der er tilkendegivet en
+bred politisk opfattelse af, at det er o.k., haster
+det vel ikke så skrækkeligt meget med et forslag.
+Det er også ukompliceret at gennemføre det, så
+det er i virkeligheden en ren formalitet.
+(Kort bemærkning).";Ole M. Nielsen
+7668;name_party;":
+Ikke for at forlænge debatten særlig meget, men
+selv i Kristeligt Folkeparti må man vel have en
+formodning om, at landmænd gerne vil kunne
+sove roligt i julen og vide, at sagen er i orden.";Jens Kirk
+7900;title_name;":
+Jeg vil gerne sige tak til ordførerne for den positive modtagelse, forslaget har fået.
+Jeg vil godt sige til SF's ordfører, hr. Kristen
+Touborg, at selvfølgelig har vi haft nogle overvejelser om dispensationen fra 30-dages-reglen.
+Men da forslaget jo blev fremsat og førstebehandlet inden valgudskrivelsen, syntes vi, at vi
+havde formalia så meget i orden, at vi godt kunne forsvare at bede om dispensation fra 30-dages-reglen, alene af den grund, at der skulle
+være fuldstændig rene linjer vedrørende ikrafttrædelsestidspunktet den 1. januar 2002.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+
+117
+
+Afstemning";Mariann Fischer Boel
+8587;title_name;":
+Jeg foreslår, at lovforslaget henvises til Udvalget
+for Fødevarer, Landbrug og Fiskeri. Hvis ingen
+gør indsigelse, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget. ,
+
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 5:
+Forslag til lov om ændring af lov om et videnskabsetisk komitésystem og behandling af
+biomedicinske forskningsprojekter. (Ændring
+af reglerne om udpegning af medlemmer til de
+regionale komiteer og formandskabet i Den
+Centrale Videnskabsetiske Komité).
+Af ministeren for videnskab, teknologi og udvikling (Helge Sander).
+(Fremsat 5/12 2001).
+Lovforslaget sattes til forhandling.";Poul Nødgaard
+9255;title_name;":
+Forhandlingen er åbnet, og jeg må spørge, om
+Venstre har nogen ordfører på forslaget. Her står
+Hanne Severinsen. (Ophold). Vi går videre i
+rækken med fru Lene Jensen, og så må Venstre
+finde ud af, om de senere stiller med en ordfører.
+Forhandling";Poul Nødgaard
+9519;name_party;":
+Så er det godt, jeg kan sige, hvad det handler
+om.
+Lad mig sige, at i Socialdemokratiet synes vi,
+at der i de videnskabsetiske komiteer foregår et
+stort og vigtigt arbejde. Efterhånden som forskellen mellem hvad vi kan, hvad der kan lade
+sig gøre, og hvad vi vil som mennesker, bliver
+større og større, er det vigtigt, at man sætter lægfolk til at møde de professionelle, de fagligt funderede, og derfor mener vi selvfølgelig også, at
+komiteerne skal have de bedste arbejdsvilkår.
+Dette forslag er set før i en lidt anden form,
+nemlig under den tidligere regering, og så vidt
+jeg kan forstå, indeholder det tre ændringer. Den
+ene handler om udpegningen til komiteerne og
+går ud på at skabe større kontinuitet, og det kan
+vi støtte.
+
+118
+
+Fredag den 7. december 2001 (L 5)
+
+Den anden ændring handler om udpegningen af formanden, hvor der lægges op til, at det
+skal være en ministeropgave. Det kan vi også
+støtte ud fra den betragtning, at det er vigtigt, at
+Den Centrale Komité er uafhængig af de regionale komiteer.
+Den tredje ændring handler om, hvem der
+kan indstille faglige medlemmer, hvor der tilstræbes en større bredde med hensyn til, hvem
+der kan sidde i komiteerne. Det ser vi også positivt på, så alt i alt er vi indstillet på, at der er tale
+om ændringer, som med fordel kan gennemføres, også selv om det skal gå lidt stærkt.";Lene Jensen
+10868;Time;;Kl. 10.10
+10889;name_party;":
+Jeg undskylder. Jeg var ikke klar over, at man
+kunne klare plantedækkeforslaget så hurtigt.
+Venstre kan støtte dette forslag om en forlængelse af funktionsperioden for op til halvdelen
+af medlemmerne af de regionale videnskabsetiske komiteer. Vi synes, det er et godt forslag, for
+derved undgår man, at man får nogle helt nyudpegede råd. Man vil få nogen kontinuitet, både
+hos de læge medlemmer og de medlemmer, der
+er udpeget af folk fra den lægevidenskabelige
+verden, så det kan vi støtte. Vi kan også støtte, at
+formanden for Den Centrale Videnskabsetiske
+Komité udpeges af ministeren.
+Vi synes, at man med dette lovforslag har fået
+en god teknisk ændring, der kan hjælpe på arbejdet, og vi forventer på et senere tidspunkt at
+få den egentlige revision af hele systemet. Vi
+støtter også, at forslaget får en hurtig behandling, for det jo er nødvendigt, hvis det skal træde
+i kraft den 1. januar.";Hanne Severinsen
+11810;name_party;":
+Dansk Folkeparti kan støtte lovforslag nr. L 5
+om, at udpegningen af medlemmerne i de regionale videnskabelige komiteer sker forskudt med
+2 års mellemrum. Dansk Folkeparti synes, at
+ændringerne i forslaget på flere måder er fornuftige. Vi finder det rigtigt at sikre kontinuiteten i
+arbejdet, og vi ser frem til den videre behandling.
+Anne Grethe Holmsgaard (SF):
+Der er tale om nogle ganske små ændringer af
+loven, som set med SF's øjne er fornuftige nok,
+så vi kan tilslutte os forslaget.";Jette Jespersen
+12327;name_party;":
+Også Det Radikale Venstre kan tilslutte sig forslaget. Vi synes, det er et udmærket forslag, og
+vi sætter pris på de ændringer, der er sket, siden
+det sidst blev førstebehandlet, da det er meget
+tydeligt, at der har været lyttet til de bemærkninger, som faldt dengang og er faldet i den høringsrunde, forslaget har været igennem.";Margrethe Vestager
+12692;title_name;":
+Pernille Rosenkrantz-Theil som ordfører.";Poul Nødgaard
+12766;name_party;":
+Det glæder mig, at du ikke kalder mig fru. Så
+kan det også være, at jeg slipper for den oldnordiske betegnelse over for de andre ordførere.
+Det er et vigtigt område, vi har at gøre med
+her...";Pernille Rosenkrantz-Theil
+12993;title_name;":
+Jeg vil gerne lige gøre opmærksom på, at det er
+tiltaleformen her i Folketinget. Det er ikke noget,
+jeg personlig har fastsat, så det har fru Rosenkrantz-Theil at rette sig efter.";Poul Nødgaard
+13206;name_party;":
+Jeg glædede mig blot over, at du ikke brugte
+den.
+Det er et vigtigt område, vi har at gøre med
+her. De videnskabsetiske komiteer har en vigtig
+rolle at spille som modvægt til medicinalindustrien og som modvægt og medspiller til ønskerne om videnskabelige forsøg, så netop de etiske
+aspekter kommer ind i billedet og det ikke kun
+er lægelig nysgerrighed og medicinalindustriens
+interesser, der bestemmer, hvilke forsøg der skal
+udføres i Danmark.
+Det er vores opfattelse, at det i øjeblikket er
+usikkert, om de videnskabsetiske komiteer har
+den autoritet og den vægt, som er nødvendig for
+at være en stærk med- og modspiller til industrien. Denne opfattelse er blevet styrket af de eksempler, der har været fremme i den offentlige
+debat om læger, der har privatøkonomiske interesser i forskning og medicinalafprøvning, og
+derfor ser vi i Enhedslisten meget frem til den
+mere omfattende revision, som ministeren har
+bebudet skal finde sted om et års tid. Vi mener,
+at den er både vigtig og nødvendig for at se
+mere grundlæggende på de videnskabsetiske
+komiteers måde at fungere på.
+Lovforslaget handler om ændring af reglerne
+for udpegning af medlemmer til de regionale videnskabsetiske komiteer og ændring af reglerne
+
+Fredag den 7. december 2001 (L 5)
+om udpegning af formandskabet. Det forslag,
+der ligger her i dag, er blevet ændret siden førstebehandlingen før valget, og det synes jeg at
+det er blevet ringere af. Venstre, De Konservative og Dansk Folkeparti var før valget enige,
+også med Enhedslisten, i, at det var uheldigt, at
+formand og næstformand i Den Centrale Videnskabsetiske Komité skulle udpeges af ministeren.";Pernille Rosenkrantz-Theil
+14845;Time;"I Enhedslisten mener vi, at udpegningen af
+formand og næstformand skal ske uafhængigt,
+men det mener vi ikke at ministeren alene er garant for. Det Juridiske Fakultet har i sit høringssvar til forslaget bemærket, at forskningsministeren vil have en tendens til at styrke forskningsinteressen på bekostning af hensynet til
+eventuelle forsøgspersoner.
+Enhedslisten deler samme bekymring og mener, at man under udvalgsarbejdet bør tage stilling til, at formand og næstformand kunne udpeges enten af justitsministeren og videnskabsministeren i fællesskab eller af sundhedsministeren og videnskabsministeren i fællesskab.
+Før valget delte Venstre, De Konservative og
+Dansk Folkeparti vores bekymring, men efterfølgende har de tre partier lavet en Hjallerup
+Marked-handel, hvor kun formanden udpeges
+direkte af ministeren, mens næstformanden kan
+komme fra komiteerne selv.
+Det synes vi altså er en rigtig dårlig idé, og
+det er ikke kun på grund af interesseproblematikken, men også af praktiske grunde. En af de
+vigtigste grunde til, at formand og næstformand
+skulle udpeges af CVK, var, at man ville undgå,
+at de blev inhabile i behandlingen af sager. Altså
+meget fornuftigt. Men muligheden for, at næstformanden i den nuværende situation vil være
+inhabil i en række sager, er derfor stor, og hvad
+gør man så, hvis formanden ikke er stede?
+De videnskabsetiske komiteer har det meget
+sunde og rigtige princip, at man kan sidde i to
+perioder a 4 år. Den slags rotationsordninger
+kender vi ganske godt i Enhedslisten. Det giver
+til gengæld det problem, som vi også kender
+ganske godt i Enhedslisten, at man risikerer, at
+en mængde erfaring går tabt på én gang.
+Derfor blev. der af. den tidligere minister foreslået, at det skulle være forskudte valgperioder.
+Det er nu fjernet, og vi forstår ikke helt hvorfor.
+Der vil muligvis med det nuværende forslag ske
+det, at mange medlemmer går af på én gang og
+en masse erfaring går tabt. Det synes vi ikke er
+sundt for de videnskabsetiske komiteer.
+
+119
+
+Den nuværende regering har så desperat forsøgt at lappe på den fadæse ved at indskrive i
+lovforslaget, at man kan genudpeges i yderligere 4 år, selv om man har været der i to perioder.
+Samtidig kan kun halvdelen af de læge og lægelige medlemmer genudpeges, og hvis der er
+uenighed om, hvem der skal genudpeges, skal
+der trækkes lod. Trækkes lod - helt ærligt!
+Forslaget er blevet markant ringere af, at den
+nye regering er kommet til. Enhedslisten signalerede ved det tidligere forslag, at vi, var til at
+snakke ined, fordi flere af tingene var fornuftige,
+mens andre ikke var det. Det er vi stadig væk. Vi
+mener stadig væk grundlæggende, at der er
+nogle ting, der kan være gode nok ved forandring af det her forslag., Derfor vil vi gå aktivt
+ind i udvalgsarbejdet for at få rettet, op på vores
+kritikpunkter. Men vi er selvfølgelig meget kede
+af, at forslaget er blevet markant ringere efter
+valget.";Kl. 10.15
+17762;name_party;":
+Det Konservative Folkeparti kan fuldt ud tilslutte sig lovforslaget, som det ligger. Der er behov
+for, at man gennemfører de her ting inden, årsskiftet, og derfor giver vi vores tilslutning.
+Jeg beklager min lidt sene fremkomst. Jeg var
+ikke helt klar over, at man var kommet så langt i
+dagsordenen.
+: :";Pia Christmas-Møller
+18101;title_name;":
+Det er tilgivet.";Poul Nødgaard
+18140;name_party;":
+Kristeligt Folkepartis ordfører, fru Bodil Kornbek, kan ikke være til stede, men hun har skrevet en smuk tale, som jeg skal fremføre:
+Lovforslag nr. L 5 er i det væsentligste en genfremsættelse af L 13 fra foregående folketingssamling, og Kristeligt Folkepartis bemærkninger
+til forslaget vil derfor også i det væsentlige være
+de samme som dem, der blev fremført under
+førstebehandlingen af L 13.
+Lovforslaget foreslår tekniske ændringer af
+komitéloven. Hensigten hermed er at imødegå
+en situation, hvor en væsentlig del af komiteernes medlemmer udskiftes på én gang.
+I Kristeligt Folkeparti er vi enige med regeringen i, at en sådan situation ikke er ønskelig. Den
+ændring af komitéloven, som man her har lagt
+op til, vil i højere grad sikre kontinuiteten i komiteernes arbejde, og det synes vi i Kristeligt
+Folkeparti er fornuftigt og ønskeligt.
+
+120
+
+Fredag den 7. december 2001 (L 5) .
+
+Nærværende forslag adskiller sig fra den tidligere regerings forslag på to punkter. For det
+første vil nærværende forslag medføre, at den
+halvdel af komitémedlemmerne, hvis medlemskab kan forlænges i op til 4 år, udgøres ligeligt
+af de faglige og de læge medlemmer. Dette nye
+element blev under førstebehandlingen af L 13 i
+sidste samling foreslået af Det Konservative Folkeparti. Dengang udtrykte vi i Kristeligt Folkeparti sympati for dette ændringsforslag, og vi
+kan derfor kun erklære os tilfredse med, at det
+nu er inkorporeret i L 5.
+For det andet lægger nærværende forslag op
+til, at det kun er formanden og ikke som tidligere foreslået både formanden og næstformanden
+for Den Centrale Videnskabsetiske Komité, der
+skal udpeges centralt af ministeren for videnskab, teknologi og udvikling. Også denne ændring er affødt af de bemærkninger, Folketingets
+partier knyttede til den tidligere regerings forslag. Spørgsmålet om, hvorvidt komiteens formandskab skal udpeges centralt eller af komiteen selv, er vel et spørgsmål om balance.";Ole M. Nielsen
+20081;Time;"I Kristeligt Folkeparti finder vi, at en løsning,
+hvor både formand og næstformand udpeges
+centralt, vil kunne resultere i en for central og
+politisk styring af formandskabet. På den anden
+side risikerer man med en ordning, hvorefter komiteen selv udvælger formandskabet, at både
+formand og næstformand tillige vil kunne være
+afhængig af regionale komiteer, som vedkommende måske også repræsenterer. En sådan
+konsekvens vil selvsagt ikke være ønskelig. Det
+er Kristeligt Folkepartis overbevisning, at man
+med det nuværende forslag behersker den balance ved centralt at udpege formanden, medens næstformanden vælges af komiteen.
+Sammenfattende er Kristeligt Folkeparti altså
+positivt indstillet over for forslaget i sin helhed,
+og vi ser frem til den videre behandling af forslaget.
+Videnskabsministeren (Helge Sander):
+Generelt vil jeg gerne sige tak for den positive
+modtagelse. Det er jo således, at vi her er i gang
+med en sag, hvor det kun er en lille detalje, vi
+har på dagsordenen i dag. Vi vender senere tilbage med anden etape, når vi skal kigge nærmere på indholdet.
+Som sagt var modtagelsen generelt positivt.
+De eneste for alvor kritiske bemærkninger kom
+
+fra Enhedslistens ordfører. Her må jeg sige sådan overordnet, at jeg er lidt overrasket over de
+betragtninger, da jeg har kigget lidt på de ting,
+der er gået forud. Jeg mener faktisk, at vi et langt
+stykke hen ad vejen netop har imødekommet
+også Enhedslistens betragtninger, der kom ved
+den første behandling, der var inden regeringsskiftet.
+Nu ved alle herinde, at jeg ikke var med i det
+forløb og de forhandlinger, men jeg har selvfølgelig kigget materialet igennem. Her har vi jo
+netop været inde på nogle af de områder, som
+man kan nikke genkendende til også fra Enhedslistens side.
+Jeg hørte ordføreren sådan, at man anser det
+her for at være vigtigt, og at vi gerne skulle have
+de praktiske ting bragt på plads inden nytår. Det
+er selvfølgelig naturligt, at vi også lige drøfter
+de ting omkring både udnævnelsen og inhabilitetsproblemerne, selv om jeg må sige, at det er
+mit indtryk ved at læse materialet, der ligger, og
+førstebehandlingen og også det, der er kommet
+fra de regionale nævn, at der aldrig har været de
+problemer. Har man haft sager i det centrale råd,
+går de regionale simpelt hen uden for døren.
+Men som sagt, jeg mener ikke, at problemerne er større, end de er til at løse, og det håber jeg
+at vi når inden nytår.
+Så skal jeg lige sige, at for så vidt angår den
+mere omfattende anden del, er det således, at
+udvalgsarbejdet allerede er i fuld gang. Mødeaktiviteten startede i november, og der er sat en
+deadline, der hedder senest 1. maj. Det skulle
+gerne betyde, at vi kunne gå i gang med den
+større og mere omfattende indholdsmæssige del
+i næste folketingssamling, altså 2002-03.
+Tak for tilslutningen. Vi tager fat på arbejdet.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Kl. 10.20
+23034;title_name;":
+Jeg foreslår, at lovforslaget henvises til Forskningsudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+(16)
+Fredag den 7. december 2001 (L 2)
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 2:
+Forslag til lov om ændring af lov om Post Danmark. (Bevarelse af ret til tjenestemandspension m.v. ved overgang til overenskomstansættelse).
+Af trafikministeren (Flemming Hansen).
+(Fremsat 5/12 2001).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+23574;name_party;":
+Vi må nu konstatere, at det gamle hæderkronede
+tjenestemandssystem er ved at forsvinde ud af
+Post Danmark.
+Når det er sagt, så synes jeg, det er et fornemt
+forslag, der ligger her. Og jeg synes, det er fint,
+at man har kunnet få lavet den aftale for 93 pet.
+af de tjenestemandsansatte, at de nu overgår til
+overenskomstansættelse.
+Post Danmark får nu mulighed for i langt højere grad at agere som privat virksomhed, og
+Post Danmark kan nu også begynde at indstille
+sig på senere at blive omdannet til et aktieselskab. Det er også nødvendigt, hvis det er sådan,
+at de skal kunne klare sig i konkurrencen og
+have mulighed for at holde udgifterne nede.
+En af de ting, som man jo godt kunne spørge
+efter, er, om tiden ikke er løbet fra, at posten skal
+bringes ud den 24. december. Vi har jo netop besluttet, at alle forretninger holder lukket den 24.
+december, så jeg kunne forestille mig, at postbudene ville føle, at det var rimeligt, hvis de heller
+ikke skulle bringe posten ud den 24. december.
+Men det er jo noget, vi kan se på, og det er noget, som postvæsenet kunne prøve at kigge på.
+Jeg tror, mange postmænd ville føle sig tilfredse
+med en sådan beslutning.";Svend Heiselberg
+24772;title_name;":
+Ja, det var en spændende betragtning.";Poul Nødgaard
+24829;name_party;":
+Der er tale om en genfremsættelse, og det glæder mig utrolig meget, at også Venstre er positiv
+over for den tidligere trafikministerens fremsatte forslag. Det er vi også, og vi ser frem til en
+hurtig sagsbehandling på området.";Poul Andersen
+25067;Time;121;Kl. 10.25
+25091;name_party;":
+Lovforslag nr. L 2 lægger op til en revision af loven om Post Danmark vedrørende statstjenestemandsansatte i Post Danmark. Ifølge bemærkningerne til lovforslaget har ca. 12.000 tjenestemænd fået tilbud om overenskomstansættelse
+under virksomhedsoverenskòmstën på nærmere fastsatte vilkår, såfremt dette lovforslag vedtages.
+Ifølge en artikel i Jyllands-Posten den 5. december i år har 10.547 sagt ja til overenskomstansættelse mod at modtage en skattepligtig engangsbonus på 50.000 kr. eller konvertere dette
+beløb til køb af forhøjet pensionsalder. Dansk
+Folkeparti ønsker at rejse spørgsmålet om, hvorvidt engangsbonussen skal være skattepligtig. I
+øvrigt er det vigtigt, at medarbejderne bevarer
+deres tjenestemandsrettigheder.
+Når så mange har sagt ja, ca. 90 pet. af tjenestemændene, så får lovforslaget den ønskede
+virkning: at de nuværende tjenestemandsansatte kan udføre andre arbejdsopgaver inden for
+Post Danmark med tilhørende datterselskaber.
+Dette lovforslag er med til at fjerne en sten på
+vejen for, at Post Danmark fungerer som en erhvervsvirksomhed med mulighed for at konkurrere med andre udbydere af postydelser. En
+væsentlig del af postområdet udføres i dag i
+fuld konkurrence, og EU's mål er jo en fuld liberalisering af postområdet. Derfor er trimningen
+nødvendig. Sigtet med Post Danmark må være
+en omdannelse til aktieselskab med efterfølgende privatisering.
+Med udgangspunkt i ovennævnte kan Dansk
+Folkeparti anbefale lovforslaget.";Poul Fischer
+26564;name_party;":
+Jeg var da glad for, at Socialdemokratiets ordfører, hr. Poul Andersen, fremhævede, at lovforslaget var fremsat under den sidste regering. Så
+får jeg lejlighed til at sige noget godt, for dette
+forslag er nok et af de bedste høringsresultater,
+der er kommet inden for hele den overgang til
+aktieselskaber, der er lavet, og der er lavet mange i årenes løb.
+Det tyder på, at vi har fået en procedure, der
+nu kører, så de ansatte arbejder med. Derfor er
+det med glæde, at vi støtter dette forslag.";Kaj Ikast
+27079;name_party;":
+Socialistisk Folkeparti synes også, at det er et
+fornuftigt forslag, som vi kan støtte.
+Jeg kan høre på hr. Svend Heiselberg og flere
+andre ordførere, at vi får nogle spændende dis-
+
+122
+
+Fredag den 7. december 2001 (L 2)
+
+kussioner i den kommende tid om Post Danmarks fremtid, hvor jeg tror, at enigheden vil begynde at indskrænke sig lidt.
+Jeg synes, det her er et fornuftigt forslag. Jeg
+synes, det er fornuftigt, at man giver de tillidsmænd, som vælger at gå over til en overenskomstansættelse, nogle ordentlige vilkår. Så SF
+kan støtte det her forslag.
+Der ligger så et andet element i forslaget, som
+handler om, om man i det her tilfælde kan dispensere fra 30-dages-reglen. Som hr. Kristen
+Touborg tidligere gjorde rede for, har vi det principielle synspunkt, at man skal overholde 30-dages-reglen. Det er der gode, fornuftige grunde
+til, og dermed skal der altså også være meget
+tungtvejende grunde til, at man kan dispensere.
+Jeg vil sige, at i det her tilfælde drejer det sig
+om, at der er en stor gruppe ansatte hos Post
+Danmark, hvis vilkår afhænger af, at det her falder på plads, så for at skabe sikkerhed omkring
+det, synes vi i SF, at det er fornuftigt, at man dispenserer fra 30-dages-reglen i det her tilfælde.";Morten Homann
+28331;name_party;":
+I Det Radikale Venstre glæder vi os også over, at
+det er lykkedes at lave en aftale med så stor en
+del, af de ansatte i Post Danmark, og vi kan derfor tilslutte os forslaget uden videre dikkedarer.";Martin Lidegaard
+28552;name_party;":
+I Enhedslisten er vi dybt og inderligt imod den
+privatisering af. Post Danmark, som det her er et
+led i. Hele den forberedelse til aktieselskab og
+bortsalg af Post Danmark, som jo er foregået nu
+gennem lang tid, har jo allerede givet anledning
+til en markant forringelse af serviceniveauet. Jeg
+opdagede f.eks. til min forbløffelse forleden, at
+man simpelt hen bare har lukket det lokale posthus dér, hvor jeg bor. Så er det jo slut med det.";Keld Albrechtsen
+29004;Time;"Og nu kan jeg forstå, at hr. Heiselberg mener,
+at der også vil være bestemte dage, hvor man sådan set bare kan lukke biksen. Det kører altså
+støt og roligt ned ad bakke.
+I fremtiden, hvis EU's liberalisering gennemføres og bortsalget af Post Danmark gennemføres, ja, så bliver konsekvensen jo, at i de tyndere
+befolkede områder i Danmark vil det ikke bare
+være juleaftensdag, at posten vil udeblive, der
+vil det sådan set blive den ene dag efter den anden.
+Vi har jo også set, hvordan posten når frem
+senere og senere på dagen. Den logiske konsekvens af det bliver jo, at man så på et eller andet
+
+tidspunkt vedtager, at det så kan være lige meget, for den kommer jo først, når det er ved at
+være mørkt, og så kan man jo lige så godt vente
+til dagen efter.
+Så den almindelige ødelæggelse af postvæsenet i Danmark, som jo var en institution, der karakteriserede et nogenlunde fungerende samfund, er altså vidt fremskreden.
+Det er ikke lang tid siden, jeg var i England,
+hvor man nu kun med store vanskeligheder kan
+sende post til udlandet, fordi man har bortsolgt
+udlandsposten til et eller andet privat selskab.
+Så skal man finde en eller anden mærkelig kiosk, hvor man kan købe nogle særlige europæiske frimærker, og så skal man finde et eller andet sted, hvor de vil bruge dem på postkortene.
+Så i England er det altså nu forbundet med
+store vanskeligheder overhovedet at sende post
+ud af landet takket være denne privatisering.
+Derfor vil vi fra Enhedslistens side meget gerne medvirke til at undersøge, om det virkelig
+kan være nødvendigt, at man, kører videre med
+den proces. Og derfor kan jeg på det her grundlag ikke give tilsagn om støtte til det forslag,
+som ligger.";Kl.10.30
+30701;name_party;":
+Hr. Keld Albrechtsens almindelige betragtninger om postservicens forringelse kan jeg fuldstændig tilslutte mig. De hører bare ikke hjem7
+me her, desværre.
+Den privatisering er jo besluttet, og jeg undrer mig faktisk over, at hr. Keld Albrechtsen og
+hans parti ikke fik indflydelse på den, for det
+var jo, mens vi havde den socialdemokratisk ledede regering, at den beslutning blev lavet om
+privatisering af postvæsenet.
+Jeg synes, de bekymringer er helt relevante jeg har selv de samme bekymringer som hr.
+Keld Albrechtsen - men det er bare ikke det,
+dette her lovforslag handler om: et lovforslag,
+som er en konsekvens af den lov, der er vedtaget
+om forringelsen af postbesørgelsen, for nu at
+sige sådan. Og derfor kan vi tilslutte os det her,
+det er helt i orden.
+Men vi mener jo, at når Post Danmark nu forringer servicen, så er det, fordi man ikke har sat
+nogle alvorlige, kraftige betingelser over for
+Post Danmark i den kontrakt. Det er såmænd
+ikke privatiseringen, der er problemet, men det
+er egentlig det, at man ikke har aftalt privatiseringen på en ordentlig måde og de forpligtelser,
+som Post Danmark skal leve op til. Og det vil jeg
+
+Fredag den 7. december 2001 (L 4)
+gerne samarbejde med hr. Keld Albrechtsen om
+i fremtiden at få forbedret.
+(Kort bemærkning).";Ole M. Nielsen
+31999;name_party;":
+Jeg vil gerne sige tak til hr. Ole M. Nielsen for
+det tilsagn om/at vi kan samarbejde om de betingelser, dér så skal stilles.
+Så vil jeg bare sige, at når den tidligere regering ikke er regering mere, ja, så hænger det jo
+bl.a. sammen med, at den gik og lavede sådan
+nogle ting som f.eks. forberedelsen af udliciteringen af Post Danmark. Så enkelt er det jo, og
+det kan så måske give stof til eftertanke hos
+dem, der tidligere har haft regeringsansvaret.
+Trafikministeren (Heririette Kjær, fg.):
+På vegne af trafikministeren vil jeg gerne takke
+fot den positive holdning, som Folketingets partier har udvist. Alle med undtagelse af Enhedslisten var jo meget positive i forhold til forslaget.
+Lovforslaget er en følge af en indgået aftale
+mellem Post Danmark og tjenestemændenes organisationer og indeholder de aftaleelementer,
+som er forudsat lovhjemlet.";Keld Albrechtsen
+32865;Time;"Som det fremgår af lovforslaget, havde Post
+Danmarks tjenestemænd frist til den 1. december i år til at tage stilling til et tilbud om at overgå til ansættelse på overenskomstvilkår. Tilbuddene og accepten heraf er betinget af, at den
+nødvendige ændring af lov om Post Danmark,
+som vi behandler i dag, bliver vedtaget.
+På baggrund af de indkomne svar har Post
+Danmark nu overblik over, hvor mange tjenestemænd der ønsker overenskomstansættelse.
+Et stort flertal på 96 pet. har sagt ja til dette.
+Lidt over 10.500 tjenestemænd ønsker overenskomstansættelse efter den model, som indebæret en engangsbetaling fra Post Danmark på
+50.000 kr. før skat. De accepterer samtidig en udvidet fortolkning af, hvilke arbejdsopgaver de
+kan overføres til. Andre ca. 650 inedarbejdere
+ønsker overenskomstansættelse efter den model, som i al væsentlighed giver samme vilkår
+som den nuværende tjenestemandsansættelse.
+Sidstnævnte model udløser ikke et engangsbeløb. En mindre del af medarbejderne, ca. 480,
+ønsker at bevare deres tjenestemandsansættelse^
+Med de positive tilkendegivelser her i dag
+støttes der op om sigtet med aftalen mellem Post
+Danmark og tjenestemandsorganisationerne,
+nemlig at styrke Post Danmark i virksomhedens
+fremtidige udvikling, samt at virksomheden får
+
+123
+
+bedre mulighed for også fremover at beskæftige
+de tjenestemandsansatte medarbejdere.
+Regeringen ser frem til et positivt lidvalgsarbejde, hvor trafikministeren naturligvis er indstillet på en hurtig besvarelse af de spørgsmål,
+der måtte blive rejst, herunder også spørgsmålet
+fra Venstres ordfører, om tiden er løbet fra, at
+posten skal udbringes den 24. december.
+Med hensyn til den problemstilling, der blev
+nævnt fra hr. Keld Albrechtsens side, vil jeg oplyse, at det i dag følger af lov om postvirksomhed, at Post Danmark skal opretholde et landsdækkende posthusnet, og det har regeringen
+ikke planer om at ændre på. Det kan godt være,
+at der småjusteres lidt, men det vil ikke være sådan, at man ser en fuldstændig hovedløs nedlukning af posthuse.
+(Kort bemærkning).";Kl. 10.35
+34929;name_party;":
+Jeg vil bare sige, at det glæder mig usigelig meget, at vi nu har ministerens ord for, at der i
+fremtiden ikke længere vil ske en hovedløs nedlæggelse af posthùse, sådan som det f.eks. lige er
+sket i Brabrand i Århus. Så den ændring af linjen, som hermed er bebudet, skal vi vide at holde regeringen fast på.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Keld Albrechtsen
+35370;title_name;":
+Jeg foreslår, at lovforslaget henvises til Trafikudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 4:
+Forslag til lov om ændring af lov om kommunal indkomstskat. (Ændring af statens afregning af pensionsafgifter m.v. til kommunerne).
+Af indenrigs- og sundhedsministeren (Lars Løkke Rasmussen).
+(Fremsat 5/12 2 0 0 1 ) .
+'
+Lovforslaget sattes til forhandling.
+
+'
+
+124
+
+Fredag den 7. december 2001 (L 4)
+
+Forhandling";Poul Nødgaard
+35931;name_party;":
+Dette lovforslag er med mindre redaktionelle
+ændringer identisk med et lovforslag, som den
+tidligere regering fremsatte.
+Ved første behandling af lovforslaget den 11.
+oktober 2001 gav Folketingets partier tilslutning
+til forslaget. Lovforslaget bortfaldt grundet udskrivelse af folketingsvalget den 1. november
+2001.
+Forslaget er et led i udmøntningen af aftalen
+af 15. juni mellem den daværende regering og
+Kommunernes Landsforening, hvor en del af aftalen var at forenkle statens afregning til kommunerne af den kommunale andel af pensionsafgifter.
+Omlægningen skal ifølge kommuneaftalen
+have virkning fra år 2002, hvilket forudsætter, at
+lovforslaget vedtages inden årsskiftet.
+Den nuværende ordning indebærer en acontoafregning i en tolvtedel med en regulering 2 år
+senere.
+Lovforslaget indebærer, at staten efter en toårig overgangsperiode, som kommunerne er
+enige i, foretager endelig afregning af den kommunale andel af pensionsafgifter til kommunerne i over 2 år efter indkomståret. Den endelige
+afregning vil således være kendt af kommunerne 1. juli i året forud for budgetlægningen.
+Jeg kan præcisere, at lovforslaget alene vedrører tidspunktet for afregningen. Der vil ikke
+være nogen provenumæssige virkninger for staten eller for kommunerne. Lovforslaget indebærer alene en større budgetsikkerhed for kommunerne samt en forenklet afregningsform.
+Vi anbefaler forslaget.";Marianne Pedersen
+37325;Time;;Kl. 10.40
+37339;name_party;":
+Lovforslaget er stort set identisk med det, som
+den daværende regering fremsatte for lidt over
+to måneder siden. Derfor ser jeg ingen grund til
+at gentage elementerne i det.
+Den meget omfattende aftale mellem regeringen og Kommunernes Landsforening skal selvfølgelig følges til dørs af lovforslaget, og derfor
+støtter Socialdemokratiet lovforslaget ligesom
+sidst, det blev behandlet.
+Derudover er vi meget enige i målet: at sikre
+kommunerne større budgetsikkerhed og forenkling. Jeg håber, at dette også bliver den nuværende regerings linje, samtidig med at regerin-
+
+gen holder sig for øje, at forenklingen skal ske,
+så vi tager højde for, at kommunerne på trods af
+deres forskellighed skal have lige mulighed.
+Regeringen har jo i valgkampen sagt, at kommunerne bliver udsultet og skal have deres udgifter dækket, så jeg behøver ikke at sige, at pensionsafgiften m.v. til kommunerne efter vores
+mening bør landsudlignes, ligesom andre skatter bliver.
+Jeg glæder mig i øvrigt til at se, når vi om forhåbentlig få måneder skal til at drøfte udligningsproblematikken - for det skal vi vel - om
+regeringen så vil stå ved de positive udmeldinger, den har tilkendegivet.
+Socialdemokratiet vil gerne være med til en
+hurtig sagsbehandling, så loven kan træde i
+kraft allerede fra 1. januar 2002, og derfor er vi
+også med til at give dispensation fra reglen om,
+at tredje behandling af et lovforslag ikke må finde sted før 30 dage efter fremsættelsen for Folketinget.";Arne Toft
+38817;name_party;":
+Det foreliggende lovforslag er en opfølgning af
+aftalen mellem regeringen og KL. I Dansk Folkeparti betragter vi lovforslaget som rent teknisk
+og med den fordel for kommunerne, at de fremover ved budgetlægning på kroner og øre kender budgetposterne for indtægterne af pensionsafgiften.
+I Dansk Folkeparti synes vi, det lyder godt,
+og vi har noteret os, at der er overgangsregler
+for budgetåret 2000 frem til 2003, så i realiteten
+får det først fuld virkning, om man kan sige det
+sådan, for 2004, hvor det bliver de faktiske indtægter af pensionsafgiften i 2002, der bliver budgetposterne.
+Jeg kunne godt her under førstebehandlingen
+tænke mig at spørge ministeren, om ikke det vil
+være en god idé, såfremt udbetalingerne af pensionsafgifterne skete én gang årlig frem for i 12
+rater. Har ministeren en holdning til dette?
+Hvis ikke jeg her under førstebehandlingen
+får et klart svar, vil jeg sørge for, at spørgsmålet
+bliver taget op i det kommende udvalgsarbejde.
+Dansk Folkeparti vil i øvrigt medvirke til en
+hurtig og positiv behandling af forslaget.";Uno Larsson
+39887;name_party;":
+Da vores ordfører, hr. Knud Erik Kirkegaard,
+ikke kan være til stede her, skal jeg på hans vegne meddele, at Det Konservative Folkeparti kan
+støtte forslaget.
+
+Fredag den 7. december 2001 (L 4)";Kaj Ikast
+40117;title_name;":
+Hr. Kristen Touborg er her ikke. Hr. Morten Homann kommer løbende. Han er også så ung!";Poul Nødgaard
+40224;name_party;":
+Jeg takker for komplimenten.
+Jeg skal på vegne af hr. Kristen Touborg fremlægge SF's holdning til lovforslag nr. L 4. Jeg
+skal prøve at gøre det efter bedste evne, selv om
+dialekten nok ikke er helt den samme.
+Jeg vil sige, at SF støtter det her forslag, fordi
+det indebærer en forenkling for kommunerne,
+og fordi det indebærer en større budgetsikkerhed, og det har der i lang tid været behov for at
+få rettet op på. Vi synes, det er fint, at regeringen
+og KL er blevet enige om de her ændringer i forbindelse med forhandlingerne i sommeren 2001.
+Så SF vil støtte forslaget, uanset om det vil
+være med vestjysk dialekt eller ej.";Morten Homann
+40875;name_party;":
+Det Radikale Venstre kan også støtte forslaget,
+og vi er tilfredse med, at den nye regering fremsætter det så hurtigt, så det kan klares inden nytår.";Marianne Jelved
+41043;name_party;":
+Vi opfatter som de øvrige partier forslaget som
+et forenklingsforslag, der skaber et klarere beslutnings- og planlægningsgrundlag for kommunerne.
+Vi fik allerede under den første behandling af
+forslaget i oktober en bekræftelse fra den daværende indenrigsminister på, at forslaget ikke har
+nogen økonomiske konsekvenser, hverken for
+staten eller kommunerne. Vi kan derfor støtte
+forslaget.";Line Barfod
+41444;Time;;Kl. 10.45
+41465;name_party;":
+Kristeligt Folkeparti kan også uden problemer
+støtte det forslag her.
+Og så vil jeg gerne kommentere, at den socialdemokratiske ordfører, hr. Arne Toft, i sin første
+optræden her på Folketingets talerstol sandsynligvis benyttede lejligheden til at føre regionalpolitik. Jeg takker virkelig for indsatsen. Jeg håber, vi kan få et godt samarbejde på det område,
+idet hr. Arne Toft glæder sig til diskussionen om
+den kommunale udligning. Dejligt, at der er
+kommet en fra Socialdemokratiet, som virkelig
+sådan af hjertet også mener det dér.
+
+125";Ole M. Nielsen
+42043;title_name;":
+Det er dejligt at blive rost lidt.
+Indenrigs- og sundhedsministeren (Lars Løkke
+Rasmussen):
+Jeg skal gøre det meget kort og kvittere for de
+positive tilsagn, der er givet hele vejen rundt om
+at støtte op bag dette lovforslag. Jeg håber, det
+kan lægge stilen for, hvorledes vi håndterer lovforslag fra min ressort i fremtiden. Det ser jeg
+meget frem til. Eller også er det måske undtagelsen, der bekræfter reglen, for der vil givetvis
+være andre områder, som vi får en tungere politisk diskussion om. Men tak for tilsagnet, også
+for tilsagnet om at søge den her sag behandlet,
+således at den kan komme på plads inden årsskiftet.
+Der var et enkelt spørgsmål fra Dansk Folkepartis ordfører, hr. Uno Larsson, som jeg gerne
+vil svare på. Som jeg forstod spørgsmålet gik det
+på, om man ikke i stedet for at udbetale i tolvtedelsrater simpelt hen kunne lægge pengene på
+bordet den første dag i året.
+Det vil jeg ikke medvirke til. Når vi afregner i
+tolvtedele, så ligger det simpelt hen i naturlig
+forlængelse af den måde, vi almindeligvis fra
+statens side afregner på over for kommunerne.
+Det er også sådan, at vi i forhold til den almindelige bloktilskudstildeling til kommunerne afregner i tolvtedele for at sikre, at der er en fornuftig, vedvarende likviditet i kommunerne,
+hvad der jo også er et spejlbillede af, at kommunerne afholder udgifter løbende over hele året.
+Så jeg vil stå fast på, at det er fornuftigt, at vi står
+ved det princip, at vi udbetaler i tolvtedele, for
+nu at svare klart på spørgsmålet.
+Så ved jeg ikke, om der lå et spørgsmål i det,
+Enhedslistens ordfører sagde. Enhedslistens
+ordfører omtalte jo, at den tidligere indenrigsminister havde givet et tilsagn om, at det her var
+provenuneutralt. Nu er det ikke, fordi alt, hvad
+den tidligere indenrigsminister har sagt, ikke
+længere har relevans, men det er vel dog alligevel relevant, at jeg så som ny ressortminister bekræfter det, som den tidligere indenrigsminister
+sagde, da denne sag blev førstebehandlet tidligere på året, nemlig at sigtet med forslaget her
+ikke er at forskyde noget provenu.
+Det er ikke det samme, som at der kan gives
+en garanti for, at det på kroner og øre kommer til
+at passe, for der er jo tale om, at der etableres en
+overgangsordning her de næste par år. Der kan
+selvfølgelig være en forskydning i, hvor mange
+kapitalpensioner der f.eks. hæves i den periode, ,
+
+126 -
+
+Fredag den 7: december 2001 (L 6)
+
+og hvis det er afvigende i forhold til det normale, så kan der selvfølgelig godt være en eller anden provenumæssig effekt af det, men det er
+ikke sigtet. Det vil jeg gerne bekræfte.
+Så tak for tilslutningen. Jeg ser frem til et udvalgsarbejde, der sikrer, at den her lov kan komme på plads inden årsskiftet.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Poul Nødgaard
+44888;title_name;":
+Jeg foreslår, at lovforslaget henvises til Kommunaludvalget. Hvis ingen gør indsigelse, betragtet jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 6:
+Forslag til lov om ændring af lov om administration af tilskud fra Den Europæiske Regionalfond og tilhørende statslig medfinansiering. (Adgang for Hovedstadens Udviklingsråd til på lige fod med amtskommuner og primærkommuner at fungere som administrationsmyndighed).
+Af økonomi- og erhvervsministeren (Bendt
+Bendtsen).
+(Fremsat 5/12 2001).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+45526;name_party;":
+Fru Rikke Hvilshøj har som ordfører bedt mig
+om at læse følgende op:
+Dette lovforslåg må betragtes som en naturlig
+konsekvensændring efter etableringen af Ho-'
+vedstadens Udviklingsråd, HUR. Danmark er
+involveret i en række grænseoverskridende EUprogrammer, interregionale programmer, heriblandt et dansk-svensk program, der dækker
+Øresundsregionen. Der er i den forbindelse fra
+programdeltagérnes side ytrèt ønske om, at administrationen placeres hos HUR. 홢";Marianne Pedersen
+45997;Time;"Den nugældende lov giver kun mulighed for,
+at økonomi- og erhvervsministeren kan bemyndige amtskommunale og kommunale myndigheder til helt eller delvis at fungere som administrationsmyndighed for de grænseoverskridende programmer. Derfor er der behov for at ændre loven.
+Lovforslaget indeholder alene en adgang for
+økonomi- og erhvervsministeren til at give HUR
+samme muligheder som allerede kan tillægges
+amtskommunale og kommunale myndigheder.
+Venstre ser ingen problemer i dette og ser det
+som en naturlig konsekvens af oprettelsen af
+HUR. Det er netop sådanne projekter som interregionale projekter, der har én naturlig placering
+i HUR. Venstre kan tilslutte sig lovforslaget.";Kl. 10.50
+46693;name_party;":
+Socialdemokratiet kan støtte, at økonomi- og erhvervsministeren får adgang til at give Hovedstadens Udviklingsråd, HUR, som det jo også
+kaldes, mulighed for, at det dansk-svenske EUprogram administrativt placeres under HUR
+som beskrevet i lovforslaget, på samme måde
+som vi jo kender det fra de andre tre grænseoverskridende programmer.
+Så som sagt: Socialdemokratiet kan støtte forslaget.Vi vil også her allerede tilkendegive, at vi
+er parat til at give forslaget en hurtig behandling
+med hensyn til tredjebehandling, så man også
+kan tage det med i sine overvejelser.";Peder Sass
+47281;name_party;":
+Dansk Folkeparti kan tilslutte sig dette forslag.
+Dansk Folkeparti finder det rigtigt, at denne ændring giver mulighed for, at Hovedstadens Udviklingsråd kan medvirke til nedsættelse af
+grænseoverskridende regionale udvalg med
+deltagelse fra regioner i lande, der deler grænser.
+Vi vil arbejde konstruktivt i udvalget og ser
+frem til, at en hurtig behandling finder sted.";Colette Brix
+47669;name_party;":
+Da den konservative ordfører, fru Carina Christensen, ikke kan være til stede, skal jeg på hendes vegne udtale følgende: Det Konservative
+Folkeparti kan støtte, at ministeren får adgang
+til at give Hovedstadens Udviklingsråd mulighed for at administrere EU-programmer på samme vis som en sådan adgang kan gives til amter
+og kommuner. Vi kan derfor støtte forslaget.
+
+Fredag den 7. december 2001 (L 6).
+
+127";Kaj Ikast
+48100;name_party;":
+fra organer med direkte politisk styring som ,
+Jeg skal ikke bruge Folketingets tid på at gentakommuner og amtskommuner over til et organ
+ge de ting, som allerede er sagt af adskillige ord- med indirekte politisk styring, som HUR jo er.
+førere, men kun sige, at SF kan støtte forslaget.
+Derfor vil vi gerne høre, om den nye regering
+Derimod vil jeg godt komme med nogle bevil tage initiativ til at fjerne det demokratiske
+mærkninger til ønsket om at fravige 30-dagesunderskud, der er i HUR i dag. Hvis ikke minireglen. Det er sådan, at SF principielt er imod at
+steren kan svare på det her, så vil vi: stille spørgsfravige den regel, men vi er med på, at der kan
+målet under udvalgsarbejdeL
+være forudsætninger, der gør, at man er nødt til
+at fravige regelen. Og der har. vi det sådan, at vi";Kristen Touborg
+48914;name_party;":
+synes, der er to ting, der skal være opfyldt.
+Jeg vil fremføre to principielle bemærkninger til
+Punkt 1 er, at loven skal være enkel og gendet her:
+nemskuelig, så det ikke gør den store skade, at
+For det første er vi imod en konstruktion som
+den går hurtigt igennem Folketinget, og den for- HUR, ligesom også jeg kan forstå, fru Line Barudsætning mener jeg er opfyldt i dette tilfælde.
+fod fra Enhedslisten er. Vi mener, at det er forPunkt 2 er, at det skal være nødvendigt at frakert at tillægge en konstruktion amtskommunavige og give dispensation, at det skal være nødle beføjelser, når den ikke har den demokratiske
+vendigt at fravige reglen. Og vi er meget i tvivl
+opbakning, som en sådan konstruktion skal haom, om det er nødvendigt i det her tilfælde.
+ve. Det er det ene, principielle forhold omkring
+Derfor er vi betænkelige ved at give dispendet h e r . .
+sationen, men jeg vil sådan set gerne høre, hvad
+Det andet er, at vi slet ikke kan forstå, at stær7
+ministeren mener konsekvensen er, ved at man
+ke områder som Øresundsområdet, Køben- ,
+følger de almindelige spilleregler i denne her
+. havnsområdet med Skåne, skal have midler fra ,
+sag.
+EU's regionalfonde. Men når det nu er sådan, at
+andre tilsvarende regionale områder i EU jo får";Ole M. Nielsen
+50184;name_party;":
+det, så skal vi selvfølgelig også have det til DanDet Radikale Venstre kan også støtte lovforslamark, men vi mener egentlig홢at det er en uting.
+get. Det er, kan man sige, en naturlig konseMen på trods af disse to kommentarer kan vi
+kvens af den beslutning, der er truffet omkring
+tilslutte os forslaget her, fordi det selvfølgelig er
+etablering af Hovedstadens Udviklingsråd, og
+en konsekvens af de ting, der allerede er beslutuanset ens synspunkter på den struktur skal det
+tet på anden vis.
+jo ikke komme området til skade, at vi har valgt
+den måde i Danmark. Så derfor ja til det.
+Økonomi- og erhvervsministeren (Bendt";Marianne Jelved
+50817;Time;"Bendtsen):
+Med hensyn til dispensation har vi fra den ra- Jeg vil gerne sige tak for den positive opbakdikale folketingsgruppe allerede tilkendegivet,
+ning, som forslaget har fået.
+at de dispensationsønsker, som den nye regering
+Med hensyn til spørgsmålet fra hr. Kristen ....
+fremsætter, vil vi støtte. Jeg tror ikke, regeringen Touborg kan jeg sige, at Kommissionens godvil misbruge det. Og vi er i en speciel situation
+kendelse af programmet forventes at foreligge
+med et nyligt afholdt folketingsvalg, som har
+inden udgangen af 2001, og det er for at undgå
+lagt en blok, der har bremset lovgivningsarbejtab af tilskudsmidler, at det er nødvendigt, at .
+det.
+programmet umiddelbart herefter sættes i gang.
+Så for at hjælpe tingene igennem: Ja til disSå det er årsagen til, at vi ønsker at få det på
+pensation.
+plads. Det er også et ønske fra parterne, fra dem,
+der skal administrere, at denne her sag kommer";Kl. 10.55
+51745;name_party;":
+på plads så hurtigt som muligt.
+I Enhedslisten synes vi umiddelbart, det lyder
+Jeg vil også gerne sige tak for de tilsagn, der
+meget fornuftigt, at man lægger administratioer kommet med hensyn til dispensation, så vi ,
+nen af tilskud fra Den Europæiske Regionalfond kan få det i gang så hurtigt som muligt. Og så
+i et samlet organ for hele hovedstadsområdet, i
+kan jeg sige til fru Line Barfod fra Enhedslisten,
+stedet for at den er fordelt,på de enkelte amter
+at jeg ikke herfra kan tilkendegive, at jeg ønsker
+og kommuner. Men Enhedslisten finder det
+at lave om på HUR. Det er nu engang sådan,
+principielt betænkeligt, at man flytter områder , 홢 som tingene er skruet sammen.
+
+128
+
+Fredag den 7. december 2001 (L 11)
+
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Line Barfod
+52598;title_name;":
+Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse, betragter
+jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+6) Første behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af pensionsafkastbeskatningsloven, selskabsskatteloven og andre skattelove. (Livsforsikringsselskabers fradrag, pensionsafkastbeskatning af livsforsikringsbestande under administration, friholdelse for pensionsafkastskat, ejendomsdatterselskaber, akkumulerende investeringsforeninger, opdeling af udloddende investeringsforeninger m.v.).
+Af skatteministeren (Svend Erik Hovmand).
+(Fremsat 5/12 2001).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+53325;name_party;":
+Jeg er glad for, at dette forslag er et af de første,
+som regeringen fremsætter, for det haster. Hvis
+ikke forslaget vedtages med virkning fra år
+2001, vil det være til stor skade for arbejdet med
+restrukturering og kapitaltilførsel til visse pensionsselskaber.
+Dette forslag blev forberedt allerede under
+den tidligere regering. Jeg vil gerne benytte lejligheden til at takke for det konstruktive forarbejde.";Peter Christensen
+53746;Time;"Det er værd at understrege, at forslaget ikke
+indebærer økonomisk støtte til pensionsbranchen. Forslaget retter derimod op på nogle
+skævheder i pinsepakken fra 1998. Det gælder
+bl.a. en asymmetrisk selskabsbeskatning af livsforsikringsselskabernes indkomst. De får med
+andre ord i år med negative aktieafkast, herunder kurstab, der ikke er realiseret for livsforsik-
+
+ringsaktieselskaber, en uforholdsmæssig stor
+selskabsskattepligtig indkomst. De får med andre ord en klækkelig skattestigning i de år, hvor
+aktiekurserne falder. Det er urimeligt. Det var
+urimeligt allerede før, at kurserne begyndte at
+falde, og det er i særdeleshed urimeligt nu, hvor
+aktiekurserne vitterlig er faldet.
+De asymmetriske beskatninger risikerer at
+forstærke den negative udvikling, som er fulgt i
+kølvandet på de store kursfald i år. Derfor skal
+skattereglerne for livsforsikringsaktieselskaberne justeres. Man kan sige: Bedre sent end aldrig.
+Men i dette tilfælde vil det være rigtigt at sige:
+Nu er det nu.
+Venstre vil selvfølgelig støtte forslaget, og vi
+ser frem til en hurtig og positiv udvalgsbehandling.";Kl. 11.00
+54865;name_party;":
+Lovforslag nr. L 11 er jo en delvis genfremsættelse af det lovforslag, L 37, der var fremsat umiddelbart før valget.
+Lovforslaget var nødvendigt, så der kunne tages højde for de meget store kursfald, som vi så
+efter den 11. september. Det fastlægger pensionsbeskatningsmæssige og pensionsskattemæssige forhold, hvis det er sådan, at Finanstilsynet griber ind, sådan at der er sikkerhed for
+pensionssparerne. Det giver bedre muligheder
+for pensionsselskaberne, når der sker disse store
+kursudsving.
+Det var som sagt et lovforslag, som var fremsat af den tidligere skatteminister, og vi støtter
+forslaget, som det ligger her. Det er, som man
+kan se, når man gennemgår lovforslaget, jo meget kompliceret stof. Jeg håber, at vi på trods af
+den korte tid, vi nu har til at få anden og tredje
+behandling igennem, har taget højde for alle de
+svære spørgsmål, der er i lovforslaget. Det skulle jo nødig være sådan, at man kunne starte med
+at beskylde den nye regering for lovsjusk. Det
+ville jo være trist, hvis vi skulle have en sådan
+start.
+Som sagt tilslutter Socialdemokratiet sig lovforslaget, og vi vil også, som det har været
+nævnt, bidrage til en hurtig behandling i den
+kommende uge, sådan at lovforslaget kan være
+på plads inden den 31. december. Det er vigtigt
+af hensyn til pensionsselskaberne.";Jens Peter Vernersen
+56185;name_party;":
+Jeg kan sige på vegne af Dansk Folkeparti, at vi
+mener, at det foreliggende forslag indeholder
+gode elementer til at imødegå de uheldige virk-
+
+* (17a)
+Fredag den 7. december 2001 (L 11)
+ninger, de nuværende regler har som følge af de
+store aktiekursfald efter den 11. september.
+På samme måde er det tilfredsstillende, at
+pensionsopspareren og livforsikringstageren
+ikke skal beskattes anderledes efter et eventuelt
+indgreb fra Finanstilsynet med fratagelse af koncessionen.
+Jeg skal dermed kun sige, at Dansk Folkeparti
+støtter forslaget.";Mikkel Dencker
+56752;name_party;":
+Terrorangrebet den 11. september har haft en
+række uforudsigelige konsekvenser for erhvervslivet.
+Jeg vil for god ordens skyld understrege, at
+det ikke er konservativ politik, at staten skal stå
+som garant for virksomheders overlevelse. Men
+i situationer, hvor de rammer, der er udstukket
+for private virksomheder, er uhensigtsmæssige,
+er det selvfølgelig vores opfattelse, at det så vidt
+muligt skal afhjælpes. Virksomheder skal ikke
+udsættes for urimelige skattesmæk.
+De kraftige kursfald har. haft stor økonomisk
+betydning for mange virksomheder, og det gælder også livforsikringsselskaberne. I denne her
+særlige situation er det derfor selvfølgelig vigtigt, at disse selskaber ikke udsættes for yderligere økonomisk belastning som følge af nogle
+uhensigtsmæssige skatteregler.
+Det har vist sig, at beskatningsreglerne for
+livsforsikringsselskaber har den paradoksale
+virkning, at selskaber i år med særlig store tab
+på aktier pludselig står med en kæmpe positiv
+skattepligtig indkomst, nemlig det beløb, de
+trækker ud for at dække tabet. Det er temmelig
+uhensigtsmæssigt.
+Vi er derfor enige i, at man ændrer reglerne
+på det her område for at sikre livsforsikringsselskabernes solvens. Desuden ser vi umiddelbart
+positivt på de skattetekniske ændringer, som
+forslaget i øvrigt omtaler.
+Vi Konservative betragter derfor intentionerne i forslaget som fornuftige og saglige, og vi
+støtter forslaget. Desuden vil vi selvfølgelig også
+bidrage til en hurtig behandling.";Charlotte Dyremose
+58230;Time;;Kl. 11.05
+58249;name_party;":
+Hele situationen, som den har været her i løbet
+af efteråret, viser jo i virkeligheden meget godt,
+hvordan markedet kan være en utrolig ustabil
+konstruktion, og hvordan det kan være med til,
+at så vigtigt et område som vores pensioner i så
+høj grad hviler på markedsvilkår. Det viser, at
+
+-
+
+129
+
+det i virkeligheden kan være utrolig ustabilt og
+skabe utrolig mange problemer for almindelige
+menneskers pensionsopsparing.
+, Den turbulens, der har været, skal vi selvfølgelig lære af, og vi skal selvfølgelig prøve at finde en ordning, som vil give de bedst mulige vilkår fremover.
+Derfor synes jeg også, man skal se på, hvordan man kan få lavet nogle mere rimelige vilkår
+for pensionsselskaberne, så vi har stor forståelse
+for. intentionen i det her.
+På den anden side synes jeg også, det er vigtigt at holde fast i, at man ikke giver nogle urimelige fordele for pensionsselskaberne, og at de
+kan fungere på nogenlunde lige vilkår med andre selskaber og andre, som driver virksomhed
+på samme vilkår.
+Så jeg synes, at man skal veje de her to hensyn op mod hinanden. Jeg synes ikke, det står
+fuldstændig klart i det her ganske omfattende
+og ganske tekniske forslag, hvordan de her to
+hensyn er vejet mod hinanden, og derfor har vi
+en del spørgsmål i Socialistisk Folkeparti, som vi
+glæder os til at få besvaret i løbet af udvalgsbehandlingen. Så jeg vil sige, at vores stillingtagen
+til det her meget afhænger af, hvordan de besvarelser bliver givet i løbet af udvalgsbehandlingen^
+Så er der selvfølgelig også den side af sagen,
+som drejer sig om, hvor hurtigt man kan behandle det her forslag, og der kan jeg sige som
+SF's ordfører, hr. Kristen Touborg, gjorde det tidligere i dag, at der er to forhold: som gør, at SF
+vil kunne støtte, at man bryder 30-dages-reglen
+og dispenserer fra den:
+For det første skal der være tale om et relativt
+gennemskueligt forslag, og jeg har svært ved at
+se, at det her forslag med sine mange sider og
+sin meget tekniske karakter falder ind under kategorien relativt gennemskueligt.
+Det andet forhold, som kunne gøre, at man
+kunne dispensere fra 30-dages-reglen, er, at det
+er bydende nødvendigt, og at det er meget presserende. Der må jeg sige, at der har jeg heller
+ikke hørt de helt afgørende argumenter for,
+hvorfor det her skal være så presserende, og
+hvorfor et så omfattende og teknisk forslag skal
+hastes igennem allerede her inden jul.
+Så jeg vil sige, at jeg savner stadig væk de
+gode argumenter for, at det her er et forslag,
+hvor man kan bryde med den demokratiske 30dages-regel. Men jeg glæder mig selvfølgelig til
+at få besvaret spørgsmålene i løbet af udvalgsbehandlingen.
+
+130
+
+Fredag den 7. december 2001 (L 12)";Morten Homann
+60945;name_party;":
+Også jeg savner de gode argumenter for, at der
+skal dispenseres fra 30-dages-reglen.
+Man kan jo se, at systemet har nogle ulemper.
+Man har lavet et system, hvor folks pensionsafkast er afhængigt af aktiernes himmelflugt, og i
+det her tilfælde det modsatte. Det er et system,
+som vi grundlæggende er imod.
+Hvis man mener, at det er problematisk i forbindelse med aktiefaldet, at folk ikke får nok afkast af deres pensioner og derfor ikke har nok at
+leve af, så synes jeg, at man skal tilslutte sig Enhedslistens forslag om at sætte folkepensionen
+op.
+Forslaget betyder en lettelse for livsforsikringsselskaberne i efteråret 2002. Der sker altså
+en lettelse i forhold til pensionsopsparing, der i
+forvejen er skattesubsidieret. Det ønsker vi i Enhedslisten ikke atmedvirke til, og derfor stemmer vi imod forslaget.";Pernille Rosenkrantz-Theil
+61793;title_name;":
+Hr. Ole M. Nielsen ser ikke ud til at være til stede. Så er det skatteministeren, hvis han ønsker
+ordet.";Poul Nødgaard
+61937;title_name;":
+Jeg vil gerne benytte lejligheden til at sige tak for
+en positiv modtagelse, og med en positiv modtagelse tænker jeg såmænd ikke bare på indholdet rent politisk i det her lovforslag, men jeg
+tænker også på den positive modtagelse af den
+store praktiske opgave, som ligger i det her.
+- Jeg er fuldstændig enig med Skatteudvalgets
+formand i, at det er en stor mundfuld at servere
+for et nyvalgt Folketing med så kort frist. Men
+jeg tror også trods al travlheden, at det jo er et
+stofområde, som har været på dagsordenen gennem adskillige måneder og også har været drøftet med pensionsbranchen. Så jeg håber og tror
+på, at vi kan få en fornuftig behandling af forslaget.";Svend Erik Hovmand
+62616;Time;"Jeg vil gerne understrege, at vi selvsagt stiller
+os til rådighed for en grundig udvalgsbehandling, og de spørgsmål, som blandt andre hr.
+Morten Homann fra SF fremhævede, skal selvfølgelig klares af under udvalgsarbejdet. Jeg beder så bare om, at vi får spørgsmålene over så
+hurtigt som muligt.
+Jeg har forstået, at der er en almindelig positiv holdning til intentionerne i forslaget, og det
+tror jeg mange pensionssparere vil være glade
+for. Det er et vigtigt signal at give til markedet
+
+og til pensionstagerne, at der her i Folketinget er
+en stor forståelse for den problemstilling, som vi
+her har sat på dagsordenen.
+Jeg vil endnu en gang sige tak for tilslutningen, og jeg ser frem til et konstruktivt udvalgsarbejde.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Kl. 11.10
+63470;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+Den sidste sag på dagsordenen var:
+7) Første behandling af lovforslag nr. L 12:
+Forslag til lov om ændring af momsloven.
+(Ændringer af regler om fiskalrepræsentant).
+Af skatteministeren (Svend Erik Hovmand).
+(Fremsat 5/12 2001).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+63917;name_party;":
+Det her forslag er endnu et forslag, der vil gøre
+forholdene mere tålelige for erhvervslivet. Hvis
+vi vedtager lovforslaget, kan staten ikke længere
+gøre krav gældende om registrering ved en fiskalrepræsentant i momspligtige virksomheder,
+som er etableret i et andet EU-land eller land
+uden for EU, som vi samarbejder med.
+De nuværende regler er en byrde for især små
+og mellemstore virksomheder, en unødvendig
+byrde, der ikke tjener noget rimeligt formål.
+Derfot har erhvervslivet også nikket positivt til
+det her forslag.
+Lovforslaget er med til at forenkle lovgivningen. Ændringerne følger ligeledes WTO's principper om ikkediskrimination, eller med andre
+ord: Man ophæver en handelshindring og er
+med til at skabe et friere marked. Det forbedrer
+altså handelsvilkårene for særligt de små og
+
+Fredag den 7. december 2001 (L 12)
+mellemstore virksomheder inden for det indre
+marked.
+Det skal bemærkes, at dette ikke har nævneværdige økonomiske konsekvenser for det offentlige, men til gengæld vil det give erhvervslivet en besparelse og regelforenkling.
+Venstre var positiv over for dét her forslag, da
+den tidligere regering fremsatte forslaget, og naturligvis støtter Venstre også forslaget nu og ser
+frem til udvalgsbehandlingen.";Peter Christensen
+65178;name_party;":
+Lovforslaget er jo en delvis genfremsættelse af
+det lovforslag, L 19, som har været førstebehandlet her i Folketinget inden folketingsvalget.
+Der er tale om implementering af et EU-momsdirektiv i dansk lovgivning.
+Det er sådan, at vi ved førstebehandlingen
+tidligere gav lovforslaget fuld opbakning, og det
+gør vi fortsat. Vi synes, det er vigtigt, at man får
+mindre bureaukrati i forhold til virksomhederne. Det syntes vi før valget, og det synes vi også
+efter valget.
+Der er tale om en lettelse for både små og
+mellemstore virksomheder, hvor de jo ikke længere skal have den tunge og krævende byrde at
+skulle opretholde en skatterepræsentant.
+Det andet element, der oprindelig var med i
+forslaget, har den nye skatteminister valgt at
+tage ud af det lovforslag, vi behandler her. Den
+del af forslaget berørte ændringer i forbindelse
+med forudfakturering. Disse ændringer ville efter det tidligere lovforslag forhåbentlig lukke
+huller i lovgivningen, som i visse tilfælde var
+brugt til at unddrage sig momsbetaling.
+Disse opstramninger, som var med i det tidligere lovforslag, er ikke med her. De gjorde det
+lettere for told- og skattemyndighederne at gennemføre den fornødne kontrol.
+Som jeg sagde indledningsvis, støtter vi lovforslaget, som det ligger her, og vi vil også bidrage til, at lovforslaget bliver behandlet i den
+kommende uge og altså bliver andenbehandlet
+på torsdag og tredjebehandlet på fredag.
+Men jeg vil godt spørge skatteministeren om,
+hvorvidt den del af det tidligere lovforslag, der
+ikke er med, bliver fremsat senere. Det har selvfølgelig lidt betydning også i vores overvejelser
+om, hvorvidt vi jo,eventuelt skulle fremsætte det
+lovforslag.";Jens Peter Vernersen
+66856;Time;"Jeg forstår helt udmærket, at des mindre indhold lovforslaget har nu, des mere rimeligt er
+det også at foretage denne hastebehandling,
+
+131
+
+men jeg vil som sagt godt høre fra skatteministeren, om vi får det element op senere, som var
+med, og som kunne sikre mod misbrug og unddragelse af moms.";Kl. 11.15
+67171;name_party;":
+Det foreliggende forslag ser, selv om det er et
+EF-direktiv, fornuftigt ud.
+I Dansk Folkeparti glæder vi os over, at der
+gives bedre vilkår for de små og mellemstore
+virksomheder, for hvem det kan være en økonomisk belastning at skulle have en repræsentant i
+et andet land.
+Dansk Folkeparti kan altså støtte forslaget også selv om det er et EF-direktiv. Men vi mener
+i øvrigt,, at EU's råderet over Danmark skal ophøre.
+:
+Charlotte Dyremose ,(KF):
+Der er her tale om gennemførelse af et EF-direktiv. Direktivet har til formål at forbedre handelsvilkårene i det indre marked.
+Skatterepræsentanten, den såkaldte fiskale re-^
+præsentant, er i dag én økonomisk byrde særlig
+for små og mellemstore virksomheder. Direktivet vil således betyde en økonomisk lettelse særlig for denne gruppe af virksomheder. Denne
+nedbrydelse af administrative barrierer for samhandelen inden for EU finder vi konservative er
+til gavn for danske virksomheder.
+Forenklinger og lettelser af unødige byrder
+for erhvervslivet er og bliver god konservativ
+politik. Vi betragter derfor intentionerne i lovforslaget som gode, og fornuftige og er selvfølgelig indstillet på at støtte forslaget.";Mikkel Dencker
+68353;name_party;":
+Jeg kan forstå på Venstres ordfører, hr. Peter
+Christensen, at man støtter det her forslag, fordi
+erhvervslivet har nikket til det. Det har jeg taget
+til efterretning.
+Jeg har også taget til efterretning, at der er
+tale om et EF-direktiv, så man ville komme til at,
+støtte det under alle omstændigheder. Derfor vil
+jeg heller ikke forholde mig så meget til det saglige indhold i det, ud over at det selvfølgelig kan
+være fornuftigt at se på, om man kan lave nogle,
+forenklinger af det.
+Derimod synes jeg: der er nogle konsekvenser af forslaget, som ikke står fuldstændig soleklare.
+Det fremgår af bemærkningerne, at der skal
+bruges omkring 10 årsværk simpelt hen af
+mandskab til at få løst den her opgave, men der
+
+132
+
+Fredag den 7. december 2001 (L 12)
+
+står ikke noget om, hvor de 10 årsværk skal findes.
+Så det vil være interessant at få opklaret, om
+det drejer sig om, at der skal ske nyansættelser
+til at få løst det her problem, og om det i så fald
+skal dækkes gennem besparelser eller gennem
+nye skatter, eller om der på den anden side skal
+ske en overflytning f.eks. fra momskontrollen.
+Hvis det er den løsning, skatteministeren lægger
+op til, synes jeg, der mangler en vurdering af:
+Hvor meget mister man så i den almindelige
+moms ved, at man mindsker kontrollen på
+momsen?
+Så jeg synes, der er nogle uafklarede ting omkring konsekvenserne af det her forslag, som jeg
+meget glæder mig til at høre skatteministeren
+opklare enten her eller under udvalgsbehandlingen.
+Endnu en gang vil jeg godt henlede opmærksomheden på 30-dages-reglen. Det er altså ikke
+en tilfældig regel, som man bare har lavet for at
+genere Folketingets medlemmer og regeringen.
+Det er faktisk en regel, der skal sikre, at man får
+en ordentlig behandling af lovforslagene, og
+som skal sikre, at man faktisk får tid til at få sat
+sig ordentligt ind i konsekvenserne af forslagene, og at offentligheden også kan følge med i,
+hvad der foregår. Derfor synes jeg, at der skal
+være meget tungtvejende grunde til, at man
+gennemfører det her forslag.
+Jeg kan forstå på skatteministerens oplysninger, at der er en tidsfrist for implementeringen af
+EF-direktivet, som hedder den 31. december,
+men jeg vil alligevel spørge, om det er så presserende, at det ikke kan vente til efter nytår. Ville
+Danmark i så fald f.eks. være det sidste EU-land,
+som ikke implementerer det her direktiv? Eller
+vil der være andre situationer, hvor Danmark
+ikke hundrede procent vil have overholdt fristen?
+Jeg synes, vi skal have alle fakta på bordet, inden vi tager stilling til, om vi vil bryde det her
+fine og vigtige demokratiske princip, som hedder 30-dages-reglen, og som gør, at både Folketingets medlemmer og den øvrige offentlighed
+kan følge med og have en chance for at påvirke
+regeringens arbejde.";Morten Homann
+71147;title_name;":
+Jeg forstod, at hr. Peter Christensen ønsker ordet
+for en kort bemærkning - den første af slagsen
+fra hr. Christensen.
+
+(Kort bemærkning).";Poul Nødgaard
+71309;name_party;":
+Jeg forstod på hr. Morten Homann, at han var
+overrasket over, at vi i Venstre også lytter til erhvervslivet. Det kan ikke være en overraskelse
+for hr. Morten Homann. Vi lytter til alle og bestemt også til erhvervslivet. De har påpeget den
+her problemstilling ved flere lejligheder, og vi
+synes altid, det er vigtigt at give erhvervslivet
+gode og rimelige vilkår.";Peter Christensen
+71683;Time;"Jeg synes også, at det kunne være på sin
+plads, at hr. Morten Homann en gang imellem
+lyttede til erhvervslivet.";Kl. 11.20
+71829;title_name;":
+Ønsker hr. Homann ordet? Så er det nu.
+(Kort bemærkning).";Poul Nødgaard
+71907;name_party;":
+Jeg lytter gerne, både til erhvervslivet og til hr.
+Peter Christensen, men jeg vil bare sige, at jeg
+synes, det er tankevækkende, hvis et af Venstres
+væsentligste argumenter for at ville foretage en
+ændring af momslovgivningen er, at det er noget, erhvervslivet har nikket til. Jeg synes også,
+det kunne være spændende at høre Venstres
+egne visioner, frem for at man fremlægger de
+forslag, som erhvervslivet har nikket til.";Morten Homann
+72366;title_name;":
+Hr. Anders Samuelsen som ordfører.";Poul Nødgaard
+72424;name_party;":
+Da dette forslag jo i det store og hele er en genfremsættelse af et forslag fra den tidligere regering, er det klart, at Det Radikale Venstre også
+kan støtte forslaget, og det kan vi gøre uden forbehold.
+Vi er selvfølgelig også opmærksomme på, at
+der er en del af det, som ikke er med i forhold til
+den første fremsættelse. Derfor vil vi selvfølgelig også følge op på, om det ikke er en god idé
+stadig væk at fastholde den del. Men ellers ser vi
+frem til en fortsat behandling.";Anders Samuelsen
+72935;name_party;":
+Det her forslag er kommet til verden for at lette
+bureaukratiet i forhold til de mindre og mellemstore virksomheder, og det er intentioner, som vi
+i Enhedslisten overraskende nok finder meget
+sympatiske.
+Dog kan vi endnu ikke gennemskue, hvad
+det har af konsekvenser i forhold til åbning af
+
+Fredag den 7. december 2001 (L 12)
+muligheder for økonomisk kriminalitet på tværs
+af landegrænser, og det har Enhedslisten tænkt
+sig at bore i under udvalgsarbejdet.";Pernille Rosenkrantz-Theil
+73433;title_name;":
+Må jeg allerførst sige til den sidste ærede taler, at
+det glæder mig, at Enhedslisten også er på holdet blandt dem, der vil reducere de administrative byrder.
+Jeg vil gerne sige tak for en positiv modtagelse af forslaget her.
+Kristeligt Folkepartis repræsentant, som ikke
+har kunnet være til stede her i salen i. dag, har
+meddelt mig, at også Kristeligt Folkeparti er positiv både med hensyn til dette og med hensyn
+til det tidligere forslag. Dermed synes jeg, at der
+er grund til at glæde sig over en generel positiv
+modtagelse.
+Der er stillet et enkelt spørgsmål, eller rettere
+sagt, der er stillet en række spørgsmål, som vi
+vil se på under udvalgsarbejdet. Naturligvis er
+det vigtigt at få en saglig behandling her.
+For så vidt angår spørgsmålet fra hr. Jens Peter Vernersen, vil jeg sige, at jeg endnu ikke har
+taget endelig stilling, men i øjeblikket overvejer
+spørgsmålet om den resterende del af det oprindelige lovforslag.
+Men under alle omstændigheder vil jeg gerne
+sige tak for en positiv modtagelse.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Svend Erik Hovmand
+74577;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+133
+
+Meddelelser fra formanden";Poul Nødgaard
+74789;title_name;":
+Der er ikke mere på dagsordenen.
+Medlemmer af Folketinget Margrete Auken
+(SF), Aage Frandsen (SF), Anne Grete Holmsgaard (SF) og Jørn Jespersen (SF) har meddelt
+mig, at de ønsker at stille følgende forespørgsel
+til statsministeren og udenrigsministeren:
+»Hvad kan regeringen oplyse om konsekvenserne af besparelserne på den fattigdomsorienterede udviklingsbistand og på miljøbistanden?«
+(Forespørgsel nr. F 7).
+Medlemmer af Folketinget Jørn Jespersen (SF),
+Margrete Auken (SF), Aage Frandsen (SF) og
+Anne Grete Holmsgaard (SF) har meddelt mig,
+at de ønsker at stille følgende forespørgsel til";Poul Nødgaard
+75404;title_name;"»Hvad kan udenrigsministeren oplyse om Danmarks og EU's forhandlingslinje frem til og under konferencen om udviklingsfinansiering
+(Financing for Development) i Mexico i marts
+2002?«
+(Forespørgsel nr. F 8).
+Folketingets næste møde afholdes tirsdag den
+11. december 2001 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte ugeplan.
+Mødet hævet kl. 11.25";udenrigsministeren

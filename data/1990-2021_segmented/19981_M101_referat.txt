@@ -1,0 +1,66 @@
+split;reason;text;value
+0;;"Onsdag den 16. juni 1999
+
+101. m ø d e";
+73;Time;Meddelelser fra formanden;kl. 10.00
+112;title_name;"Fra statsministeren har jeg modtaget følgende
+skrivelse af 11. juni 1999:
+»Folketingets formand
+Folketinget
+Christiansborg
+Med henvisning til grundlovens § 39 skal jeg
+hermed anmode om indkaldelse af Folketinget
+til møde onsdag den 16. juni 1999 med henblik
+på fremsættelse og behandling af forslag til
+folketingsbeslutning om dansk deltagelse i en
+international styrke i Kosovo.
+Med venlig hilsen
+Poul Nyrup Rasmussen
+(sign.)«
+Udenrigsministeren (Niels Helveg Petersen) har
+meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om dansk deltagelse i en international styrke i Kosovo.
+(Beslutningsforslag nr. B 148).
+Medlemmer af Folketinget Søren Søndergaard
+(EL), Keld Albrechtsen (EL), Søren Kolstrup
+(EL), Pernille Rosenkrantz-Theil (EL) og Frank
+Aaen (EL) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om dansk deltagelse i en fredsbevarende, humanitær og
+demokratiopbyggende indsats i Kosova og det
+øvrige Balkan.
+,
+(Beslutningsforslag nr. B 149).
+
+7471
+
+Medlemmer af Folketinget Kim Behnke (FP) og
+Thorkild B. Fransgaard (FP) har meddelt mig, at
+de ønsker at stille følgende forespørgsel til
+trafikministeren:
+»Hvad kan ministeren oplyse om Combus?«
+(Forespørgsel nr. F 59).
+Medlemmer af Folketinget Keld Albrechtsen
+(EL) og Søren Kolstrup (EL) har meddelt mig, at
+de ønsker at stille følgende forespørgsel til";Formanden
+1520;title_name;"»Hvad kan statsministeren oplyse om de ændringer af den danske linje i EU's forhandlinger
+om militær union, ny traktat m.v., som resultatet af EU-parlamentsvalget den 10. juni 1999
+giver regeringen anledning til?«
+(Forespørgsel nr. F 60).
+Medlem af Folketinget Anne-Marie Meldgaard
+har meddelt mig, at hun på grund af sygdom
+ikke vil kunne give møde i Tinget i mindst 7
+dage, hvorfor hun anmoder om orlov, jf. Folketingets forretningsordens § 41, stk. 3, litra a, fra
+og med den 16. juni 1999 og om, at stedfortræderen må blive indkaldt.
+Medlem af Folketinget Helle Degn har meddelt
+mig, at hun ikke vil kunne give møde i Tinget i
+mindst 7 dage, hvorfor hun anmoder om orlov,
+jf. Folketingets forretningsordens § 41, stk. 3,
+litra c, fra og med den 16. juni 1999 og om, at
+stedfortræderen må blive indkaldt.
+
+Meddelelser fra formanden";statsministeren
+2366;title_name;"Der er ikke mere at foretage i dette møde.
+Jeg skal fastsætte et nyt møde til i dag, onsdag
+den 16. juni 1999, kl. 10.10 med følgende dagsorden: (Se indledningen til næste møde).
+Mødet hævet kl. 10.03";Formanden

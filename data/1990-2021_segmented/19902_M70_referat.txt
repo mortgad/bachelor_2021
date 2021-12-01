@@ -1,0 +1,114 @@
+split;reason;text;value
+0;;"7449
+
+30/5 91: Dagsorden
+
+70. møde
+
+7450";
+65;name_party;":
+Jeg skal også på den konservative gruppes
+vegne give tilslutning til forslaget, der netop
+sikrer gratis lægehjælp også i en periode, hvor
+der ikke er en overenskomst.
+
+Dagsorden:
+
+Anders Mølgaard (V):
+Som bekendt er det både for Venstre og regeringen magtpåliggende at sikre, at vi ikke får
+problemer med gratis lægehjælp, heller ikke efter den I. juni. Så også Venstre tilslutter sig lovforslaget.
+
+Eventuelt: Første behandling a f lovforslag nr. L
+212:
+Forslag til lov om ændring af lov om offentlig
+sygesikring. (Fastsættelse af tilskud ved bortfald af overenskomst).
+Af sundhedsministeren (Ester Larsen).
+(Fremsat 30/5 91).";Karen Højte Jensen
+717;name_party;":
+Fra SF's side har vi aldrig lagt skjul på, at det
+er vigtigt for os at sikre, at der fortsat vil være
+adgang til gratis lægehjælp, og det mener vi at
+dette lovforslag er udmærket skikket til at sikre.
+Derfor går vi også positivt ind for det.";Birgitte Husmark
+996;Time;Samtykke til behandling:;kl. 23.40
+1054;title_name;":
+Den eneste sag på dagsordenen kan kun med
+Tingets samtykke behandles i dette møde. Hvis
+ingen gør indsigelse, betragter jeg samtykket
+som givet. (Ophold). Det er givet.
+Man gik da til:
+Første behandling af lovforslag nr. L 212:
+Forslag til lov om ændring a f lov om offentlig
+sygesikring. (Fastsættelse a f tilskud ved bortfald
+af overenskomst).
+Af sundhedsministeren (Ester Larsen).
+(Fremsat 30/5 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+1523;name_party;":
+Jeg skal på den socialdemokratiske gruppes
+vegne give tilslutning til, at vi med dette lovforslag får sikret, at patienter i sikringsgruppe I i
+en situation, hvor der ikke er en overenskomst
+om vilkårene for bl.a. almen lægehjælp, fortsat
+skal have ret til gratis lægehjælp.
+Vi kan altså give tilslutning til denne generelle ændring af sygesikringsloven.";Torben Lund
+1903;name_party;":
+Jeg skal så fortsætte i samme skure som de
+andre ordførere og sige, at det også efter Fremskridtspartiets opfattelse fremover må garanteres, at de danske borgere ikke skal have pungen
+op af lommen for at gå til læge. Derfor støtter vi
+også det foreliggende lovforslag.";Køpke Christensen
+2196;name_party;":
+Jeg skal prøve, om jeg kan slå rekorden: CD
+kan støtte lovforslaget.";Lis Noer Holmberg
+2288;name_party;":
+Også Det Radikale Venstre kan støtte lovforslaget. Vi finder, det er et vigtigt signal, at der
+her stiles mod under alle omstændigheder at
+sikre patienter gratis lægehjælp.";Elisabeth Arnold
+2483;name_party;":
+Også Kristeligt Folkeparti støtter lovforslaget. Det har de rigtige intentioner.";Kofod-Svendsen
+2599;title_name;":
+Jeg takker for den usædvanlige enighed og
+samdrægtighed og kortfattethed. Tak!
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+
+7451
+
+30/5 91: 1. beh. af f t, 1. mll offentlig sygesikring";Ester Larsen
+2850;title_name;vedtoges uden afstemning.;Sundhedsministeren
+2907;title_name;":
+Jeg foreslår, at lovforslaget henvises til Sundhedsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget
+(Ophold). Det er vedtaget.
+
+7452
+
+Forskningsudvalget (30/5 91):
+Udtræder : Hans Hækkerup (S)
+Nyt medl.: Ove Fich (S)
+Udtræder: Estrup (RV)
+Ny stedf.: Marianne Jelved (RV)
+
+Meddelelser fra formanden:
+
+Sundhedsudvalget (30/5 91):
+Udtræder: Inger Stilling Pedersen (KRF)
+Nyt medl.: Kofod-Svendsen (KRF)";Ivar Hansen
+3378;title_name;":
+Der er ikke mere på dagsordenen.
+
+Folketingets næste møde afholdes i morgen,
+fredag den 31. maj 1991, kl. 10.00.
+
+Der et foretaget ændringer i følgende udvalg:
+
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+I
+
+Erhvervsudvalget (30/5 91):
+Udtræder: Erling Olsen (S)
+Nyt medl.: Helge Mortensen (S)
+
+Mødet hævet kl. 23.44";Ivar Hansen

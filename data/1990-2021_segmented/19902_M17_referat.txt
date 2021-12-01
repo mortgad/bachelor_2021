@@ -1,0 +1,1553 @@
+split;reason;text;value
+0;;"977
+
+25/1 91: Dagsorden
+
+17. møde
+
+978
+
+7) Første behandling af lovforslag nr. L 68:
+Forslag til lov om ændring af lov om dagpenge ved sygdom eller fødsel og af lov om ligebehandling af mænd og kvinder med hensyn til
+beskæftigelse og barselorlov m.v.
+Af Hanne Thanning Jacobsen (SF) m.fl.";
+326;Time;"Meddelelser fra formanden:
+Dagsorden:
+1) Første behandling af lovforslag nr. L 55:
+Forslag til lov om ændring af lov om Københavns Fondsbørs. (Skatkammerbeviser).
+Af industriministeren (Anne Birgitte Lundholt).
+2) Første behandling af lovforslag nr. L 58:
+Forslag til lov om erstatning for skader forårsaget af stormflod.
+Af industriministeren (Anne Birgitte Lundholt).";kl. 10.00
+709;title_name;"Medlemmer af Folketinget Helen Beim (S),
+Dorte Bennedsen (S), Baadsgaard (S), Henning
+Gjellerod (S), Martin Glerup (S), Lise Hækkerup (S), Henrik Dam Kristensen (S), Henning
+Nielsen (S), Løvig Simonsen (S) og Trøjborg
+(S) har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag tilfolketingsbeslutning om anvendelse
+af regnskovstræ.
+(Beslutningsforslag nr. B 16).
+
+3) Første behandling af lovforslag nr. L 34:
+Forslag til lov om ændring af vejlove. (Nedlæggelse af Vejnævnet, begrænsning af klageadgang m.v.).
+Af trafikministeren (Ikast).
+
+Medlemmer af Folketinget Rahbæk Møller
+(SF), Tommy Dinesen (SF), Jes Lunde (SF) og
+Ebba Strange (SF) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om Erhvervsog Selskabsstyrelsens opgaver.
+(Beslutningsforslag nr. B 17).
+
+4) Første behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om fremgangsmåden ved ekspropriation vedrørende
+fast ejendom.
+Af trafikministeren (Ikast).
+
+Forslag til folketingsbeslutning om revision af
+årsregnskabsloven.
+(Beslutningsforslag nr. B 18).
+
+5) Første behandling af lovforslag nr. L 62:
+Forslag til lov om ændring af lov om den sociale styrelseslov og lov om social pension m.v.
+(Omlægninger af regler om tilkendelse af førtidspension, refusionssatser og ankestrukturen
+m.v.).
+Af socialministeren (Else Winther Andersen).
+6) Første behandling af lovforslag nr. L 45:
+Forslag til lov om ændring af lov om dagpenge ved sygdom eller fødsel.
+Af Jytte Andersen (S) m.fl.
+
+Forslag tilfolketingsbeslutning om ændring af
+aktieselskabsloven.
+(Beslutningsforslag nr. B 19).
+Medlemmer af Folketinget Holger K. Nielsen (SF), Pernille Frahm (SF), Gade (SF), Lilli
+Gyldenkilde (SF), Birthe Hansen (SF), Ebba
+Strange (SF) og Jens Thoft (SF) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om iværksættelse af en oplysningskampagne om Danmarks
+placering i det fremtidige europæiske samarbejde.
+(Beslutningsforslag nr. B 20).
+
+979
+
+25/1 91: Skriftlig fremsættelse";Formanden
+2748;title_name;Skriftlig fremsættelse afforslag:;Formanden
+2796;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag tilfolketingsbeslutning om anvendelse
+af regnskovstræ.
+(Beslutningsforslag nr. B 16).
+Jeg henviser til de bemærkninger, der ledsager forslaget, og anbefaler det til Tingets velvillige behandling.";Helen Beim
+3093;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig hermed at fremsætte:
+Forslag til folketingsbeslutning om Erhvervsog Selskabsstyrelsens opgaver.
+(Beslutningsforslag nr. B 17).
+Forslag til folketingsbeslutning om revision af
+årsregnskabsloven.
+(Beslutningsforslag nr. B 18).
+Forslag tilfolketingsbeslutning om ændring af
+aktieselskabsloven.
+(Beslutningsforslag nr. B 19).
+Nordisk Fjer-skandalen har endnu en gang
+vist mangler i den danske erhvervs- og regnskabslovgivning. Nogle ting er det endnu for
+tidligt at tage stilling til, herunder behovet for
+at skærpe bestemmelserne om bestyrelsesmedlemmers og revisorers ansvar. Men allerede nu
+er det tydeligt, at der er behov for visse stramninger som beskrevet i de tre nævnte beslutningsforslag.
+Desuden er der behov for en stramning af
+reglerne om Københavns Fondsbørs. Da industriministeren imidlertid har meddelt, at hun er
+på vej med lovforslag herom, vil forslagsstillerne vente med at tage initiativer, til vi har set dette lovforslag.
+Med disse bemærkninger skal jeg anbefale
+forslagene til Tingets velvillige behandling.
+Holger K. Nielsen (SF):
+Som ordfører for forslagsstillerne tillader jeg
+mig hermed at fremsætte:
+Forslag til folketingsbeslutning om iværksættelse af en oplysningskampagne om Danmarks
+placering i det fremtidige europæiske samarbejde.
+(Beslutningsforslag nr. B 20).
+
+980
+
+Jeg henviser til de bemærkninger, der ledsager forslaget, og anbefaler det til Tingets velvillige behandling.
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 55:
+Forslag til lov om ændring af lov om Københavns Fondsbørs. (Skatkammerbeviser).
+Af industriministeren (Anne Birgitte Lundholt).
+(Fremsat 16/1 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Rahbæk Møller
+4848;name_party;":
+Dette lovforslag er væsentligt forskelligt fra
+det tilsvarende i forrige samling. Der er sket to
+ting, som vi er meget glade for. For det første
+indeholder det ikke en generel dispensationsbestemmelse, men en udtrykkelig lovbestemmelse, der udelukkende drejer sig om skatkammerbeviserne. For det andet er der indført en
+indberetningspligt for så vidt angår handel med
+skatkammerbeviserne.
+Under disse omstændigheder kan vi støtte
+lovforslaget.";Erling Olsen
+5306;name_party;":
+På Det Konservative Folkepartis vegne kan
+vi tilslutte os dette lovforslag. Det blev fremsat
+første gang den 7. november 1990, vi støttede
+det dengang, og det gør vi altså igen, idet vi gerne vil give udtryk for, at lovforslaget udtrykker
+klarsyn og fornuft.";Aagaard
+5581;name_party;":
+Jeg kan meddele, at Venstre også støtter lovforslaget.";Pia Larsen
+5656;name_party;":
+Vi mener også, at problemet bør løses. Først
+vil vi gerne have undersøgt, om det ikke skyldes
+bevidst provokation, at bankerne har flyttet
+handelen til børserne i London og Helsingfors.";Rahbæk Møller
+5861;name_party;":
+Det virker, som om nogle gerne vil hjem på
+
+981
+
+25/1 91:1. beh. af f. 1.1. vedr. Københavns Fondsbørs";Annette Just
+5983;title_name;"weekend. Jeg synes, det går rimelig stærkt, men
+det er da også positivt.
+Jeg er desværre nødt til at sige, at vi støtter
+dette lovforslag. Når jeg siger desværre, er det,
+fordi det ville være bedst, hvis staten slet ikke
+havde behov for at lave sådan nogle lån.";Annette Just
+6263;name_party;":
+Også Centrum-Demokraterne kan støtte lovforslaget.";Sonja Albrink
+6333;name_party;":
+Det Radikale Venstre kan støtte lovforslaget
+i den nye og forbedrede udgave.";Lone Dybkjær
+6437;name_party;":
+Ligesom vi gjorde den 14. november 1990,
+hvor forslaget var til første behandling sidste
+gang, skal vi også fra Kristeligt Folkepartis side
+sige, at vi kan støtte lovforslaget.
+Men hvis man skulle knytte en lidt mindre
+seriøs bemærkning til det, vil jeg føje til, at jeg
+har spekuleret på: Hvor ligger det skatkammer
+rent fysisk?
+Industriministeren (Anne Birgitte Lundholt):
+Til hr. Lysholm Christensen: Jeg ville også
+ønske, at et skatkammer af denne slags var et
+reelt skatkammer. Jeg er ked af navnet, men sådan hedder det altså.
+Jeg vil gerne sige tak til alle ordførerne og også til det parti, som er tilfreds med de ændringer, vi har foretaget siden fremsættelsen i efteråret 1990.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+7250;title_name;"Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 58:
+
+982
+
+Forslag til lov om erstatning for skader forårsaget af stormflod.
+Af industriministeren (Anne Birgitte Lundholt).
+(Fremsat 16/1 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+7698;name_party;":
+Da mit partis ordfører, fru Sonja Mikkelsen,
+er forhindret i at være til stede, skal jeg på hendes og mit partis vegne give tilslutning til lovforslaget.
+Der er en del tekniske bemærkninger, som vi
+gerne vil have lov til at drøfte i udvalget, men vi
+er positivt indstillet.";Erling Olsen
+7992;name_party;":
+Dette lovforslag er også en genfremsættelse
+fra efteråret, og som vor daværende ordfører,
+hr. Grove, udtrykte det, bliver det en lettelse for
+os her i Folketinget, at en stormflod ved
+Vesterhavet ikke mere automatisk rejser en
+storm herinde.
+Vi er meget tilfredse med, at det bliver en forsikringsordning, og at der er en selvrisiko, så vi
+ikke helt fratager den enkelte incitamentet til at
+forebygge skader.
+De få spørgsmål, der blev rejst ved forrige
+førstebehandling, var meget relevante, så dem
+kan vi se på under udvalgsbehandlingen. Vi vil
+gerne være med til at behandle denne sag, så
+den får en hurtig gang gennem udvalget.";Kai Dige Bach
+8643;name_party;":
+Jeg skal endnu en gang takke ministeren for
+en loyal udførelse af SF's beslutningsforslag.
+Så vil jeg godt tilføje, at det har givet ministeren en del publicity, fordi Ritzaus Bureau ikke
+har opdaget, at det er et SF-forslag, som ministeren har omsat til lov.
+Men o.k., det skal være ministeren vel undt.
+Så vil jeg samtidig tilføje, at der har været
+den fordel ved udsættelsen, at der faktisk er foregået en ret betydelig lokal diskussion om lovforslaget i det vestjyske: de spørgsmål, der dér
+er rejst, bør vi inddrage under udvalgsarbejdet.
+Det er spørgsmålet om bestemmelsen i § 5, og
+det er spørgsmålet, om der ikke burde være en
+repræsentant for de særligt berørte områder i
+
+983
+
+25/1 91:1. beh. af f. 1.1. om erstatning for skader forårsaget af stormflod";Rahbæk Møller
+9426;title_name;"Stormflodsrådet. Men som sagt, alt det kan vi
+tage op under udvalgsbehandlingen.";Rahbæk Møller
+9524;name_party;":
+Vi støttede både beslutningsforslaget og det
+lovforslag, der var til første behandling den 25.
+oktober, og jeg kan ikke rigtig tilføje meget andet, end at jeg nu glæder mig til et positivt samarbejde i udvalget, og at vi selvfølgelig har nogle spørgsmål dér. Men det kommer vi jo tilbage
+til.";Annette Just
+9837;name_party;":
+Også Centrum-Demokraterne var positive,
+sidste gang vi behandlede dette lovforslag.
+Jeg kan ikke se, om ministeren har svaret på
+spørgsmålet om, hvorvidt der er loft over denne
+pulje, hvis vi nu ikke får nogen stormflod.
+Ellers vil vi give vor positive tilslutning.";Sonja Albrink
+10122;name_party;":
+Også Det Radikale Venstre kan støtte lovforslaget.";Lone Dybkjær
+10200;name_party;":
+Heller ikke jeg har noget nyt at føje til i forhold til sidste gang, hvor forslaget blev behandlet. Vi glæder os over, at problemet nu ser ud til
+at finde en løsning, og vi er helt tilfredse med, at
+det bliver en forsikringsordning.
+Vi skal så lige have afklaret de sidste problemer i udvalget, men vi medvirker i hvert fald
+positivt til en hurtig gennemførelse.
+Industriministeren (Anne Birgitte Lundholt):
+Jeg vil igen sige tak for de faldne bemærkninger. Jeg er klar over, at der var nogle spørgsmål
+i forbindelse med førstebehandlingen i efteråret, som endnu ikke er besvaret, bl.a. spørgsmålet om loft over udgifterne, og der var også
+enkelte andre spørgsmål vedrørende repræsentationen i rådet. Det er spørgsmål, jeg har lovet
+at tage op mellem første og anden behandling,
+det vil sige under udvalgsbehandlingen, og det
+vil jeg meget gerne.
+Jeg kan ikke undlade lige at sige til hr.
+Rahbæk Møller, at ganske vist hviler dette lovforslag på et SF-beslutningsforslag fra i foråret.
+Men det forslag, der er fremsat her, er faktisk
+identisk med et, den nuværende finansminister
+fremsatte for flere år siden, inden han blev mi-
+
+984
+
+nister. Så vi kan jo diskutere længe om ophavet,
+men vi kan da i fællesskab glæde os over, at det
+nu er lykkedes at få et forslag frem, som hele
+Folketinget kan bakke op.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+11631;title_name;"Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 34:
+Forslag til lov om ændring af vejlove. (Nedlæggelse af Vejnævnet, begrænsning af klageadgang
+m.v.).
+Af trafikministeren (Ikast).
+(Fremsat 9/1 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+12082;name_party;":
+Trafikministerens forslag om, at Vejnævnet
+nedlægges, kan vi i Socialdemokratiet godt give
+tilslutning til. Erfaringerne siger jo, at de opgaver, Vejnævnet har haft at arbejde med, har været få, og derfor kan man ikke sige, at der er nogen særlig begrundelse for at opretholde dette
+organ. Trafikministeriet kan udmærket træffe
+de afgørelser, der herefter er overført til trafikministeren.
+De andre ændringer, som lovforslaget indeholder, om begrænsning af klagemuligheder og
+frist for at indbringe sager, kan vi også give tilslutning til. Så det er tilslutning til lovforslaget.";Bakholt
+12676;name_party;":
+Det Konservative Folkeparti kan støtte gennemførelsen af dette lovforslag. Alene det, at
+det betyder en klar forenkling, er særdeles værdifuldt for os.
+
+985
+
+25/1 91:1. beh. af f. 1.1. om ændring af vejlove";Aagaard
+12897;title_name;"Som det fremgår af forslagets bemærkninger,
+har Vejnævnets aktivitet været meget begrænset, nemlig primært på et årligt møde at drøfte
+hovedlandevejsforslaget. Vi har også noteret
+os, at der i den tid, Vejnævnet har eksisteret i,
+har været ganske få sager, som man i nævnet
+har været uenig om. På den baggrund har vi ingen betænkeligheder ved at støtte forslaget om
+nævnets nedlæggelse og i stedet overlade de
+fremtidige afgørelser til ministeren, baseret på
+høringssvar fra de parter, der hidtil er blevet
+hørt.
+Den anden del af forslaget, begrænsningen
+af klageadgangen, finder vi fornuftig, idet der
+her ses bort fra ekspropriationssager: vi kan
+støtte, at der fremover kun er tale om likviditetsspørgsmål. Det samme gælder justeringerne af ekspropriationsreglerne. Vi kan tilføje, at
+det aldrig er for sent at blive klogere.";Aagaard
+13744;name_party;":
+Man kan konstatere, at der har været en lov
+med mange paragraffer, som tilsyneladende er
+overflødig. Jeg må sige, det er forbavsende, at
+Vejnævnet nu har siddet i 18 år, uden at der har
+været nogen særlig uenighed: det tyder i hvert
+fald på, at det lovforslag, regeringen har fremsat, er rigtigt.
+Jeg synes også, det er udmærket, at der stadig
+væk er muligheder for, hvis der inden for el- og
+gasforsyningsområderne er uenighed med vejvæsenet, at tage det op på andre måder. Også
+6-måneders-fristen for erstatninger synes vi er
+udmærket.
+Vi støtter lovforslaget.";Tommy Dinesen
+14324;name_party;":
+Fremskridtspartiet kan støtte trafikministerens lovforslag. Vi synes, det er et godt forslag:
+det er med til at afbureaukratisere, og det kunne egentlig godt have været et forslag, der var
+kommet fra Fremskridtspartiet, så vi går helt
+ind for det. Vi mener, det er et totalt overflødigt
+organ, der har siddet der, og vi mener, at borgernes retssikkerhed bliver tilgodeset af de
+kommunale vejbestyrelser: så vi kan støtte forslaget.";Ole Donner
+14776;name_party;":
+Da mit partis ordfører ikke kan være til stede
+i dag, skal jeg fremføre CD's synspunkter.
+
+986
+
+Tanken med Vejnævnet har oprindelig nok
+været ganske sund, men det må vist erkendes,
+at dette nævn aldrig er blevet benyttet på en
+måde, der kan retfærdiggøre dets opretholdelse. Med denne begrundelse kan CD i den administrative forenklings navn støtte lovforslag nr.
+L 34.
+En følge af ændringen vil også være, at de endelige beslutninger decentraliseres. Dette er i
+en række forhold - om end ikke i alle - en god
+ting. Særlig når det gælder lokale veje, forekommer det helt rimeligt, at den lokale myndighed har langt de bedste forudsætninger for at
+træffe de kloge afgørelser.";Sonja Albrink
+15473;name_party;":
+Lovforslag nr. L 34 hænger sammen med det
+arbejde, KVR-regeringen satte i gang omkring
+afbureaukratisering, og derfor kan Det Radikale Venstre tilslutte sig forslaget.";Marianne Jelved
+15672;name_party;":
+Jeg behøver ikke at forlænge debatten. Jeg
+tilslutter mig det, de øvrige ordførere har sagt,
+og deres begrundelser. Hvorfor skal man opretholde noget, der ikke er nødvendigt? Vi tilslutter os lovforslaget.
+Trafikministeren (Ikast):
+Jeg vil gerne takke samtlige ordførere for
+denne meget positive modtagelse af det første
+lovforslag, jeg har fremsat her i Tinget.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Inger Stilling Pedersen
+16160;title_name;"Jeg foreslår, at lovforslaget henvises til Trafikudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om fremgangsmåden ved ekspropriation vedrørende fast
+ejendom.
+
+987
+
+25/1 91 : 1. beh. af f. 1.1. vedr. fremgangsmåden ved ekspropriation vedrørende fast ejendom";Formanden
+16611;title_name;"Af trafikministeren (Ikast).
+(Fremsat 16/1 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+16727;name_party;":
+Dette lovforslag skulle også være en forenkling, nemlig en forenkling af ekspropriationsbestemmelserne vedrørende fast ejendom i forbindelse med anlæg, uden at det i øvrigt af den
+grund giver anledning til hverken personalemæssige eller andre økonomiske konsekvenser.
+Det indholdsmæssige er, at man tager den
+tvungne jordfordeling ud af ekspropriationsbestemmelserne i § 15, og at man ændrer på den
+forrentning, som gives ved erstatning, fra det
+tidspunkt, hvor den er bestemt, og indtil den
+bliver udbetalt. Endelig indføjer man en frist
+for sagsanlæg med hensyn til ekspropriationens lovlighed og erstatningens størrelse, og
+denne frist fastsættes til 6 måneder. Hidtil har
+der ikke været nogen frist.
+Jeg vil sige, at det er vanskeligt umiddelbart
+ud af bemærkningerne til lovforslaget at få en
+fornemmelse af, om det her går i den rigtige retning eller der er tale om ændringer, som indholdsmæssigt ikke er forenelige med vort ærinde i denne sammenhæng, nemlig at forhindre
+forringelser for den enkelte, der udsættes for
+ekspropriation. Det vil vi bestræbe os for at undersøge i udvalget, og derefter vil vi tage stilling
+til, hvordan Socialdemokratiets indstilling til
+dette lovforslag vil være i sidste ende.";Sonja Mikkelsen
+17956;name_party;":
+Da vor ordfører, fru Agnete Laustsen, er optaget af møde andetsteds, skal jeg på hendes
+vegne fremsætte følgende:
+Når ordet forenkling indgår i et lovforslag,
+ser vi fra konservativ side altid på det med sympati. Det gælder også dette lovforslag, som tager sigte på at modernisere den ca. 25 år gamle
+ekspropriationslov, som grundlæggende er
+ganske fornuftig, men hvor erfaringerne gennem årene har vist, at visse bestemmelser enten
+kan undværes eller eventuelt kan udformes på
+en mere hensigtsmæssig måde.
+Jeg havde i den forbindelse unægtelig også
+forhåbninger om, at der ved en afbureaukratisering havde kunnet opnås besparelser, men ud
+
+988
+
+over at spare porto ved at sende et almindeligt
+brev i stedet for et anbefalet ved indvarsling af
+ekspropriationsforretning synes dette ikke at
+være tilfældet. Jeg regner derfor med, at det
+dobbeltarbejde, som nu spares, udnyttes til
+større effektivitet på andre områder, således at
+der ikke pludselig opstår behov for øgede ressourcer, hvis nye opgaver skal løses.
+Om de enkelte bestemmelser, som afløser eller simplificerer de nugældende, skal jeg ikke
+udtale mig: de er af meget teknisk karakter. Jeg
+skal konkret anbefale det forslag, som går ud
+på at fastsætte en frist - den foreslås til 6 måneder - for anlæggelse af sag ved domstolene vedrørende ekspropriation og den erstatning, som
+skal betales. Tilsvarende fristregler gælder for
+andre, lignende områder og fungerer helt tilfredsstillende. Det må virke stødende, at sager
+kan rejses i det uendelige og udsætte parter, der
+indretter sig efter de etablerede forhold, for belastende bevisførelse og for at skulle procedere
+om ting, som kan ligge år tilbage.
+Vi anbefaler som sagt lovforslaget og medvirker gerne til en hurtig behandling.";Aagaard
+19718;name_party;":
+Jeg må sige, at vi ikke kan hidse os meget op
+over, om det bliver et anbefalet brev eller ej, der
+bliver sendt ud til folk i fremtiden.
+Man kan sige, at det går ud over postvæsenet, så dér bliver måske nogle besparelser, men
+ellers skulle der ikke være nogen konsekvenser,
+hvad det angår.
+Med hensyn til, om Jordfordelingsudvalget i
+fremtiden skal være med, synes jeg, det er godt,
+at det bliver frivilligt. Det er jo sådan, at de, der
+går ud og skal ekspropriere, godt ved, hvem
+man skal have med. Jeg har været med ude at
+ekspropriere, da jeg sad i et amtsråd, og da havde vi f.eks. nogle med fra jprdbrugerorganisationerne. De var altid gode til at tale med landmændene, således at man nåede frem til en nogenlunde fast pris, og således af ingen syntes, at
+de blev snydt. Det er jo det, det drejer sig om.
+Der er et enkelt spørgsmål, vi under udvalgsbehandlingen gerne vil have belyst, og det er,
+hvorfor der er pålagt tinglysningsafgift, når det
+er amter og kommuner, der eksproprierer, og
+ikke, når det er staten, der eksproprierer. Men
+ellers er vi velvilligt indstillet over for lovforslaget.
+
+989
+
+25/1 91: l. beh. af f. 1.1. vedr. fremgangsmåden ved ekspropriation vedrørende fast ejendom";Tommy Dinesen
+20939;title_name;"Ernst B. Schmidt (FP):
+Jeg kan næsten indlede på samme måde, som
+min kollega indledte vedrørende det tidligere
+behandlede lovforslag, nemlig med at sige, at
+forslaget faktisk godt kunne være kommet fra
+Fremskridtspartiet. Vi kan kun sige, at vi rigtig
+gerne vil tilslutte os.
+Jeg husker hele tilblivelseshistorien: jeg havde faktisk også ordførerskabet da. Det glæder
+mig at høre, at SF synes, det er godt med frivillighed: det havde vi et ændringsforslag om
+dengang, og det ser ud til, at der er positivitet
+nu. Vi skal i hvert fald gerne medvirke.";Ernst B. Schmidt
+21507;name_party;":
+Da mit partis ordfører heller ikke kan være til
+stede ved forhandlingen om dette lovforslag,
+skal jeg fremføre CD's synspunkter.
+Lovgivningen om ekspropriation er ifølge sagens natur meget teknisk og vanskelig. Det gælder også det her foreliggende lovforslag om ændring af fremgangsmåden ved ekspropriation.
+Jeg skal på CD's vegne udtale, at vi kan støtte
+principperne i lovforslaget. Vi tilsiger en rimelig hurtig udvalgsbehandling, under hvilken vi
+vil stille nogle spørgsmål.";Sonja Albrink
+22008;name_party;":
+Dette lovforslag drejer sig også om forenkling af en hel række arbejdsgange, og Det Radikale Venstre kan tilslutte sig forslaget.";Marianne Jelved
+22169;name_party;":
+Det er åbenbart en af de hurtige dage i dag.
+Kristeligt Folkeparti kan også tilslutte sig lovforslaget. Vi vil dog gerne i udvalget se nærmere på spørgsmålet frister og høre, om der er
+nogle parter, der kan komme i klemme i den
+forbindelse. Men vi tilsiger en positiv udvalgsbehandling.
+Trafikministeren (Ikast):
+Jeg vil gerne takke samtlige ordførere for tilslutningen og love, at vi fra ministeriets side vil
+give alle de oplysninger om en så teknisk svær
+lov, som denne er, til den nærmere behandling i
+udvalget.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+
+990
+
+vedtoges uden afstemning.";Inger Stilling Pedersen
+22816;title_name;"Jeg foreslår, at lovforslaget henvises til Trafikudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 62:
+Forslag til lov om ændring af lov om den sociale styrelseslov og lov om social pension m.v.
+(Omlægninger af regler om tilkendelse afførtidspension, refusionssatser og ankestrukturen m.v.).
+Af socialministeren (Else Winther Andersen).
+(Fremsat 16/1 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+23376;name_party;":
+Dette lovforslag indeholder en række ændringer i de sociale rettigheder, som vi møjsommeligt har bygget op for vore medborgere. Det
+er også en førstebehandling af et forslag, der
+tidligere har været fremsat, og jeg skal på Socialdemokratiets vegne starte med at fremhæve,
+at vi ser gode signaler i den fremsættelsestale,
+socialministeren har ledsaget lovforslaget med.
+Vi synes, det markerer en forhandlingsvilje.
+Jeg skal gøre opmærksom på, at socialministeren ved flere lejligheder har nævnt, at det er
+vigtigt at lave politik i fællesskab. Jeg håber i
+den forbindelse, at det fællesskab, vi skal omfatte dette lovforslag med, også omfatter Socialdemokratiet. Vi vil gerne gå ind i gode, fornuftige og konstruktive debatter om lovforslaget.
+Vi vil betragte lovforslaget under to vinkler.
+Den ene vinkel vedrører refusionsdelen og i
+den forbindelse også det i går behandlede lovforslag om budgetgaranti. Vi kan, som det også
+blev nævnt i går, se mange fornuftige ting i refusionsomlægningen og vil anbefale, at man deler
+det egentlige lovforslag, så vi kan gøre det færdigt relativt hurtigt. I den forbindelse skal jeg
+dog fremhæve, at vi - som også nævnt under
+førstebehandlingen sidste gang - ønsker, at re-
+
+991
+
+25/1 91:1. beh. af f. 1.1. vedr. den sociale styrelseslov og lov om social pension m.v.";Jan Petersen
+24700;title_name;"valideringsindsatsen kan få en refusion på 100
+pet.
+Den anden vinkel vedrører de andre hovedspørgsmål i lovforslaget, dels ændringerne i ankesystemet og dels udlægning af tildeling af
+førtidspensioner til kommunerne. Her forholder det sig lidt mere vanskeligt for os. Vi kan
+ikke umiddelbart tilslutte os de ændringer, der
+er i ankesystemet, og vi beder om, at det bliver
+nøje undersøgt og nøjere overvejet i Socialudvalget. Vi har tidligere leveret stærke bemærkninger om et sådant forslag, og disse bemærkninger står fortsat som vores udgangspunkt i de
+efterfølgende forhandlinger.
+Vi ser også store problemer i at udlægge
+kompetencen til kommunerne. Vi er ikke i tvivl
+om, at en række kommuner på kvalificeret vis
+kan løfte denne opgave, men vi ønsker at sikre
+os, at det kan ske på en ensartet måde over det
+ganske land, og det er vi ikke sikre på at en uddelegering på nuværende tidspunkt vil betyde.
+Vi er stærkt bekymrede over, hvorledes det vil
+virke i de mindre kommuner, og vi tror, at en
+række af de muligheder, vi har for at forkorte
+sagsbehandlingen, vil kunne udnyttes uden en
+egentlig lovændring. De forsøg, der kører i øjeblikket, viser, at man også på det eksisterende
+grundlag kan forkorte den kommunale behandling, og i den forbindelse kunne vi også
+begynde at sætte fokus på, hvorledes vi kunne
+afkorte den behandling, der foregår i selve
+nævnet.
+Endelig skal jeg sige, at vi stadig væk har
+nogle spørgsmål vedrørende de besparelser,
+der er indregnet, f.eks. stoppet for udbetaling af
+acontobeløbene. Uanset hvordan man drejer
+det, vil der være tale om, at der er penge, der
+fragår svage borgere. Det kan vi heller ikke
+umiddelbart tilslutte os.
+Afslutningsvis skal jeg gentage, at vi håber, vi
+får en god og saglig behandling af dette forslåg.
+Vi har en række andre detaljerede spørgsmål,
+som vi vil rejse under udvalgsbehandlingen.";Jan Petersen
+26579;name_party;":
+Lovforslaget er en opfølgning af aftalen mellem regeringen og Kommunernes Landsforening, og vi ser meget positivt på det, ligesom vi
+gjorde det ved den tidligere førstebehandling
+før valget.
+Vi mener, det er vigtigt, at procentsatserne
+for den statslige refusion harmoniseres, så det
+
+992
+
+bliver borgernes behov, ønsker og muligheder,
+der kommer i centrum, frem for kommunernes
+økonomi. I dag er det alt for lukrativt bare at
+tildele førtidspension. Vi ser gerne en langt mere aktiverende linje over for den store gruppe af
+personer, der her tales om.
+Det er vigtigt at understrege, at vi ikke lægger
+op til, at det nu skal være meget vanskeligt at
+blive førtidspensionist for de personer, som
+oplagt har fordel af denne mulighed, men der
+skal til gengæld foretages en grundig visitering.
+Der skal stilles de rette spørgsmål: Er der andre
+muligheder? Hvordan kan vi leve op til ønsket
+om at give den enkelte borger de bedste muligheder?
+Det andet element, nemlig kommunernes
+medfinansiering, er vi meget tilfredse med. Vi
+er tilfredse med, at der også følger yderligere
+ansvar og kompetence med til kommunerne.
+Det er en naturlig del af ønsket om, at kommunerne bliver mere direkte involveret. Vi er også
+godt tilfredse med, at afgørelsen kommer tættere på borgerne, og at der er lagt op til en meget
+stærk forenkling af hele systemet.
+Vi anbefaler lovforslaget, og jeg vil i øvrigt
+henvise til, hvad vores ordfører, fru Karen Højte Jensen, sagde ved førstebehandlingen den
+15. november 1990.";Pia Christmas-Møller
+28094;name_party;":
+Jeg vil gerne starte med at sige, at hovedideen i lovforslaget, nemlig at forenkle overførselsindkomstområdet med hensyn til refusionssatser, anker og tilkendelseskompetence, ikke er
+nogen dum idé. Men i SF synes vi, der er en del
+problemer i lovforslaget, som i øvrigt er identisk med lovforslag nr. L 64 fra sidste samling.
+Da dette lovforslag var til behandling, opridsede min forgænger, Asbjørn Agerschou, nogle
+problemer. De er ikke blevet udbedret i det nu
+foreliggende lovforslag, og derfor vil jeg lige
+ridse nogle af dem op igen.
+Ideen om den samme refusionssats for alle
+overførselsindkomster mener vi må være i
+modstrid med regeringens egne ideer om at få
+mennesker i gang igen. Det er et princip, som vi
+også i SF går helt ind for, og derfor kan vi ikke
+acceptere, ligesom Socialdemokratiets ordfører
+ikke kunne det, at de foreslåede refusionssatser
+ikke laver et skel mellem førtidspension og revalidering, som kunne være en økonomisk spore for kommunerne til at overveje sagerne end-
+
+993
+
+(63)
+25/1 91:1. beh. af f. t. 1. vedr. den sociale styrelseslov og lov om social pension m.v.
+
+994";Pernille Frahm
+29218;title_name;"nu en gang og eventuelt få flere i gang igen gennem en revalidering. Vi ser med andre ord gerne, at refusionssatserne for revalidering bliver
+højere end for førtidspensionen.
+Vi er i SF heller ikke glade for ideen om at
+nedlægge de lokale revaliderings- og pensionsnævn. Vi ved, at der i disse nævn findes en ekspertise, som det vil være meget svært for mindre kommuner at finde. Denne idé mener vi i
+øvrigt hænger sammen med ideen om de ændrede ankemuligheder.
+Vi vil gerne være med til at udlægge kompetencen til kommunerne under følgende forudsætninger: for det første, at vi bibeholder amtsankenævnene: for det andet, at vi bibeholder
+de lokale revaliderings- og pensionsnævn: for
+det tredje, at vi bevarer personalet og dermed
+ekspertisen i de lokale revaliderings- og pensionsnævn. Det vil i praksis betyde, at også små
+kommuner vil kunne få den nødvendige ekspertise at trække på i tvivlssager, hvor de lokale
+nævn så vil være ankeinstans for de sager, som
+kommunerne tidligere har afgjort. Hvis der ikke er problemer i en sag, vil kommunen jo selv
+kunne træffe afgørelsen.
+Det tredje forhold, vi har betænkeligheder
+over for i SF, er, at man vil afskaffe den forskudsvise udbetaling af pension. Den mulighed
+vil vi gerne bevare.
+Det sidste problem, vi ser i forslaget, er den
+opstramning, der sker af ankeinstansens muligheder for at gribe ind. I dag kan der gribes ind,
+hvis nævnet finder en beslutning urimelig. I
+den nye tekst er der strammet kraftigt op, idet
+det nu hedder, at den skal være direkte ulovlig
+eller groft urimelig.
+
+vælge at tildele én bestemt ydelse frem for en
+anden. Med en ensartet finansiering af de sociale overførselsindkomster bliver det hensynet
+til den enkelte modtager, der kommer i centrum
+ved tildeling af sociale ydelser.
+Vi åbner således for, at kommunerne ikke
+blot får større reel handlefrihed og større økonomisk ansvar, men også får bedre mulighed
+for at vurdere tingene i sammenhæng.
+Det er selvfølgeligt, at kommunerne i samme
+forbindelse får tildelt kompetencen til at tilkende førtidspension. Er man med til at betale, skal
+man også være med til at bestemme. Og vi sikrer, at kommunerne, når de får det samlede ansvar, får mulighed for at tage stilling ud fra en
+helhedsbedømmelse.
+En ekstra gevinst ved disse ændringer kan
+måske være, at sagsbehandlingstiden gøres
+kortere, fordi kommunerne får den større handlefrihed, og det vil absolut være velkomment,
+hvis det opnås, idet det for ansøgeren vil være
+betryggende med en så hurtig afgørelse som
+overhovedet muligt.
+Forslaget omfatter også en omlægning af ankesystemet på det sociale område. Det afgørende for os er at opnå et enklere system, og at ankenævnet og sekretariatet for ankenævnet er
+samlet på ét sted. Det er alt for upraktisk, når
+formanden og sekretariatsfunktionen ikke er
+placeret i samme regi, og i øvrigt bør det også
+her være kommunerne, der er repræsenteret, da
+det er dem, der har kompetencen og det økonomiske ansvar.
+Med disse ord skal jeg anbefale lovforslaget
+til en hurtig og positiv viderebehandling.";Pernille Frahm
+32268;name_party;":
+Vores mål på det socialpolitiske område skal
+være, at lovgivningen sikrer den enkelte den
+bedst mulige behandling. Aktivitet, deltagelse
+på arbejdsmarkedet, er så langt at foretrække
+frem for en passiv social ydelse. Ved at omlægge refusionsprocenten, så kommunerne skal
+bære halvdelen af udgifterne til førtidspension
+for personer i alderen 18-59 år, opnår vi først
+og fremmest, at kommunen får interesse i at gøre en aktiverende indsats for at have færrest
+muligt på førtidspension. Samtidig sikrer vi, at
+der med den samme refusionsprocent, uanset
+hvilken social ydelse der er tale om, ikke er nogen økonomisk interesse for kommunen i at";Eva Kjer Hansen
+32927;name_party;":
+Jeg skal på vegne af Fremskridtspartiet oplyse, at vi er overvejende positive over for forslaget fra socialministeren. Vi er enige i den administrative forenkling, som forslaget lægger op
+til, og har fuld forståelse for, at man lægger beslutningsprocessen ud til kommunerne.
+Samtidig er vi enige i, at staten efter forslaget
+fremover skal yde en fælles refusion på 50 pet.
+for de sociale ydelser. På den måde fjerner man
+den sovepude, som førtidspensionering hidtil
+har været for kommunerne, forstået på den måde, at det har været for nemt og omkostningsfrit
+at tilkende førtidspension, for så overgik udgifterne blot automatisk til staten. Budgetspekulationsmulighederne vil også forsvinde, så der
+
+995
+
+25/1 91:1. beh. af f. t. l. vedr. den sociale styrelseslov og lov om social pension m.v.";Tom Behnke
+33738;title_name;"bliver arbejdet mere for klienten end med økonomien.
+Vi er til gengæld ikke tilfredse med, at man
+opretter de sociale ankenævn i statsamtsregi.
+Det har altid været Fremskridtspartiets holdning, at statsamterne skal nedlægges, og derfor
+kan vi naturligvis ikke stemme for, at flere opgaver lægges ind under statsamterne, tværtimod.
+Vi kan som alternativ heller ikke godkende,
+at man lægger opgaverne ind under amtskommunerne, da vi mener, at også de bør nedlægges. Vi foretrækker og vil stille forslag om, at
+ankeinstansen skal varetages af en uvildig ankestyrelse, der ikke har noget med kommunerne, amterne, statsamterne eller staten at gøre.
+Det vil samtidig give borgerne garanti for en
+uvildig afgørelse.
+Fremskridtspartiet vil ligeledes stille forslag
+om, at der indføres et symbolsk beløb for at få
+en sag prøvet ved ankeinstansen. Vi forestiller
+os en ordning, hvorefter klageren f.eks. skal betale 200 kr., hvis der gives afslag på klagen,
+hvorimod det naturligvis skal være gratis, såfremt man får medhold i klagen. På den måde
+vil der blive sat en stopper for de grundløse klager, der kun bliver indsendt, fordi nogle føler,
+at de skal klage, når nu muligheden foreligger.
+Sluttelig skal jeg oplyse, at vi meddeler vores
+endelige stillingtagen, når lovforslaget er endeligt udformet ved tredjebehandlingen.";Tom Behnke
+35073;name_party;":
+Dette lovforslag er jo en genfremsættelse af
+et forslag, som blev fremsat umiddelbart før
+folketingsvalget, og Centrum-Demokraternes
+holdning til forslaget er uændret, og jeg kan
+derfor henvise til de bemærkninger, jeg gjorde
+ved den lejlighed.
+Men der er selvfølgelig nogle problemer i
+lovforslaget, dog ikke når det gælder refusionsordningen 50/50, for den synes vi er helt i orden, og hvis ministeren gerne vil have det igennem Folketinget meget hurtigt, synes jeg, hun
+skulle dele lovforslaget og fremsætte 50/50-forslaget, så vi kunne få det igennem.
+Men der er en lang række problemer med
+hensyn til besparelser og ankemuligheden, og
+dem kunne vi drøfte i løbet af foråret og efteråret med henblik på at få noget fornuftigt ud af
+det, som kan træde i kraft i 1992.
+
+996
+
+Det, vi er meget optaget af i CD, er, hvordan
+man får de kæmpebesparelser, hvem det egentlig er, der ikke skal have penge, osv. Disse
+spørgsmål vil vi gerne have nærmere belyst i
+udvalget.
+Hvad angår Fremskridtspartiets forslag om
+brugerbetaling eller gebyr, eller hvad man skal
+kalde det, synes jeg, det er forargeligt, at man
+vil indføre den slags på forsørgelse. Dette her
+drejer sig om menneskers forsørgelse, og hvem
+i alverden tror man ikke ville betale for at få en
+ordentlig forsørgelse? Men skal man det? Er
+det ikke det offentliges pligt at sørge for, at
+mennesker får en ordentlig forsørgelse, når de
+er nedslidte osv.? Skal man virkelig tvinges til
+at give 200 kr. for det - som man får tilbage,
+hvis man vinder sagen? Jeg synes, det er lidt
+usmageligt.";Bente Juncker
+36638;name_party;":
+Dette forslag står Det Radikale Venstres
+hjerte meget nær. Forslaget drejer sig om at
+placere kompetencen til at tilkende førtidspension tættest muligt på borgerne, og det vil i virkeligheden sige at afskaffe en dobbeltadministration, og det gøres altså her ved at give kompetencen til kommunerne.
+I dag behandles den samme sag i to instanser, og det er efter Det Radikale Venstres opfattelse helt unødvendigt. Det, vi kan opnå, er, at
+den lange behandlingstid og den deraf affødte
+usikkerhed for den borger, det drejer sig om,
+kan formindskes væsentligt.
+Det er selvfølgelig væsentlige forandringer i
+de systemer, vi kender i dag, der her er lagt op
+til, og vi har meget stor forståelse for, at det skaber utryghed både i systemerne og hos de borgere, som er part i problemstillingen. Men jeg
+vil gerne minde om, at det er politikeres opgave
+ikke fortrinsvis at se på de etablerede systemer,
+men på det, der er afgørende, nemlig borgernes
+mulighed for at få den bedst mulige løsning og
+den bedst mulige behandling fra systemets side.
+Der er desuden også i forslaget tale om at
+ændre refusionerne, som vi har hørt det fra de
+tidligere ordførere, således at der gives ens refusion til de forskellige mulige løsninger. Det
+giver de kommunale beslutningstagere en reel
+mulighed for at vælge den virkelig bedste løsning for den enkelte, og det må dog også være
+det vigtigste.
+
+997
+
+25/1 91:1. beh. af f. 1.1. vedr. den sociale styrelseslov og lov om social pension m.v.";Marianne Jelved
+38126;title_name;"Forslaget om ankesystemet har været udsat
+for stærk kritik, men det problem må vi da kunne løse. Det Radikale Venstre skal stærkt opfordre til, at intentionerne i lovforslaget gennemføres - vi står fuldt ud bag disse intentioner.";Marianne Jelved
+38376;name_party;":
+Jeg skal gøre det kort, da jeg kan henvise til
+den ordførertale, jeg holdt kort forud for valget,
+hvor jeg dels sagde, at der er nogle rigtige principper i retning af en hurtigere sagsbehandling,
+dels påpegede, at vi skal passe på, at der ikke er
+nogen, der kommer i en utryghedssituation her.
+Men dette forslag er jo et af dem, hvis problemer egner sig godt til at blive belyst under udvalgsarbejdet.
+Jeg har også bemærket, at ministeren i fremsættelsestalen er lydhør over for de kritiske bemærkninger, som kom under førstebehandlingen. Jeg kan se, at der delvis er taget højde for
+dem, så jeg tror, vi kan finde en løsning på det.
+Men jeg understreger, at der er nogle brugere, som naturligvis under en omlægning kan føle utryghed. Vi ved jo alle, at nogle kan blive
+ramt utilsigtet, når man laver en omlægning, og
+det må vi sørge for ikke sker i dette tilfælde.";Kofod-Svendsen
+39284;title_name;":
+Jeg vil gerne indlede med at sige tak for den
+positive modtagelse, som jeg oplever at dette
+lovforslag har fået, også i forhold til den forrige
+fremsættelse under den tidligere regering. Vi
+må huske, at det med dette lovforslag drejer sig
+om, at vi får beslutningerne lagt så tæt ud til
+borgerne som overhovedet muligt. Vi må være
+opmærksomme på, at det er kommunerne, der
+bedst kender borgerne og bedst kender det erhvervsliv, hvor man først taler om en revalidering, omskoling, aktivering, eller hvilken betegnelse man nu foretrækker. Det er også dér, man
+bedst kan se, hvilke muligheder der kan være
+for at skabe nogle pladser i erhvervslivet. Det er
+kort sagt dér, man er tættest på at få løst problemerne. Vi må heller ikke glemme, at dette lovforslag også skal bedømmes ud fra ønsket om,
+at vi får færre førtidspensionister, sådan at de
+pågældende får et bedre liv, end de får ved at
+blive kørt ud på den passive bænk, som en førtidspension jo altid vil være.
+Der har fra flere sider været udtalt uenighed
+om, hvorvidt refusionssatserne skulle forblive,
+
+998
+
+hvor de var. En af grundtankerne med forslaget
+er, at kommunerne ikke skal kunne se en fordel
+i at sætte mennesker på pension frem for revalidering, og dette vil vi nok opnå med den foreslåede ligestilling af kontanthjælp, sygedagpenge, revalidering og pension.
+Endvidere er der blevet udtalt bekymring for,
+at nogle kommuner - især de mindre - ikke
+kunne klare arbejdet med tilkendelse af pensioner. Jeg kan i den forbindelse oplyse, at man allerede nu er langt fremme med et arbejde, hvor
+vi er Kommunernes Landsforening behjælpelige med at tilrettelægge ret omfattende kursus
+for de medarbejdere, der skal arbejde inden for
+denne sektor. Jeg er helt enig i, at det er vigtigt,
+at der er ens uddannelsesniveau over hele landet, og man må aldrig være i tvivl om, at vi er
+interesserede i at medvirke til, at vi får en så veluddannet stab ude i kommunerne, at de kan
+magte disse opgaver.
+Denne gang har der også været forskellige
+opfattelser af, hvordan ankeinstansen skal se
+ud, og de har ikke været helt sammenfaldende
+med lovforslaget i alle sammenhænge. Jeg kan
+om ankeinstansen sige, at når vi nedlægger revaliderings- og pensionsnævnene, får amterne
+ikke det økonomiske medansvar, hvis de skulle
+beholde ankeinstansen, og derfor ser jeg en stor
+fordel i, at vi flytter det derhen, hvor ansvaret
+er.
+Men jeg siger tak for de positive meldinger,
+der har været, og glæder mig til, at vi kan få et
+udbytterigt udvalgsarbejde, idet jeg kan give
+tilsagn om, at vi skal gøre, hvad vi kan, for, at de
+spørgsmål, der bliver stillet, vil blive besvaret
+hurtigst muligt.";Else Winther Andersen
+41934;name_party;":
+Jeg skal ikke forlænge debatten yderligere
+her, idet der jo er lagt op til, at vi får en grundig
+debat under udvalgsarbejdet, men vil blot gøre
+to bemærkninger nu. Den ene er, at det ville
+være rart at få ministerens tilbagemelding med
+hensyn til, om vi kunne få opdelt behandlingen
+af dette lovforslag, således at vi kunne gå relativt hurtigt til drøftelsen af det, der vedrører refusionen, og bruge lidt længere tid på de mere
+komplekse problemer, der er forbundet med
+uddelegeringer og omlægninger i ankesystemet. Vi vil stærkt anbefale ministeren at prøve
+at tilrettelægge processen sådan.
+
+999
+
+25/1 91:1. beh. af f. 1.1. vedr. den sociale styrelseslov og lov om social pension m.v.";Jan Petersen
+42641;title_name;"Det andet, jeg lige skal gøre en bemærkning
+om, er dette med at få skabt aktivitet i stedet for
+førtidspensionering. Vi foreslog sidste gang og gentog i dag, at vi foretrak - en 100 pct.s refusion på revalideringsindsatsen. Nu blev det
+sagt også af ministeren, at det drejer sig om at
+animere økonomisk til at få mennesker i aktivitet.
+I den forbindelse vil jeg gøre opmærksom på,
+at den påtænkte omlægning af refusionssystemet betyder, at den kommunale udgift ved førtidspensionering på højeste niveau vil blive
+4.356 kr., mens den kommunale udgift ved en
+revalidering vil være 5.324 kr. Så hvis man med
+de mange problemer, der trods alt også er i en
+sådan tankegang, tager udgangspunkt i, hvad
+der tjener kommunernes økonomi bedst, ville
+der også være god idé i at lave en højere refusionssats på revalidering. Det er jo reelt at søge
+at aktivere dér, hvor der kan aktiveres.";Jan Petersen
+43559;title_name;":
+Hr. Jan Petersen gav det råd, at vi skulle
+overveje at dele lovforslaget i to.
+Dertil kan jeg sige, at lovforslaget ikke blot er
+fremsat som en helhed, men også er fremsat i
+sammenhæng med indenrigsministerens forslag fra i går. Men jeg vil sige, at jeg har hørt
+rådet.
+Hermed sluttede forhandlingen.
+Af,stemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Else Winther Andersen
+43955;title_name;"Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+6) Første behandling af lovforslag nr. L 45:
+Forslag til lov om ændring af lov om dagpenge
+ved sygdom eller fødsel.
+Af Jytte Andersen (S) m.fl.
+(Fremsat 10/1 91).
+
+1000
+
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+44412;title_name;":
+Efter forslaget skal faderens ret til dagpenge i
+de sidste 10 uger af barselperioden og adoptantens ret til barseldagpenge ikke være betinget
+af, at begge forældre har tilknytning til arbejdsmarkedet.
+Jeg er klar over, at problemstillingen tidligere har været genstand for drøftelse her i Folketinget -ja så sent som den 20. november 1990,
+hvor der var førstebehandling af et helt tilsvarende lovforslag fra SF.
+Ved den lejlighed sagde jeg, at Venstre finder, at den økonomiske situation ikke giver mulighed for en forøgelse af de offentlige udgifter
+på det punkt. Nu vil jeg gerne tilføje - men med
+en anden kasket på - at selv om jeg nok har næret en vis sympati for forslaget, er det regeringens generelle opfattelse, at der ikke er basis for
+en øget offentlig udgift til barseldagpenge.
+De økonomiske konsekvenser af lovforslaget
+kan med en vis usikkerhed opgøres til mellem
+15 og 20 mio. kr. Denne usikkerhed henfører vi
+dels til antallet af fædre og adoptanter, der vil
+være berettigede til dagpengene, dels til den
+andel, der vil udnytte retten, hvor længe de vil
+udnytte den, og hvor stort et beløb de i givet
+fald vil have ret til.
+Jeg vil også gerne her minde om, at der på
+baggrund af betænkningen fra dagpengeudvalget blev vedtaget en ny dagpengelov, som trådte i kraft den I. april 1990. Der blev i den forbindelse gennemført bl.a. en lempelse med
+hensyn til faderens dagpengeret i 2 uger i tilknytning til fødslen. Faderens ret til dagpenge
+kan nu efter aftale med arbejdsgiveren placeres
+inden for de første 14 uger efter fødslen. I denne 2-ugers-periode er der mulighed for at yde
+dagpenge til begge forældre samtidig. Dagpenge kan i øvrigt i den periode udbetales til faderen, selv om moderen ikke er berettiget til
+barseldagpenge.
+Det er værd at bemærke, at dagpengeudvalget ikke foreslog lempelse med hensyn til kravet om, at begge forældre skal have erhvervstilknytning, for at der kan udbetales dagpenge til
+faderen efter den 14. uge. Sådan har det været,
+lige siden der blev indført ret til faderorlov.
+
+1001
+
+25/1 91:1. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel";Else Winther Andersen
+46533;title_name;"Man kan selvfølgelig altid diskutere, om forældrenes adgang til barseldagpenge er gunstig
+nok. Men som det fremgår af det, jeg har sagt,
+mener regeringen trods en vis forståelse for forslaget, at faderens og adoptantens ret til dagpenge den økonomiske situation taget i betragtning er tilgodeset i fornødent omfang.
+Et så udgiftskrævende forslag som det foreliggende bør i hvert fald ses i en større sammenhæng, og her tænker jeg på regeringens initiativ
+i øvrigt inden for børneområdet.
+Regeringen vil derfor ikke isoleret gå ind på
+forslaget, men vi er da parate til at se på det i en
+større sammenhæng.";Socialministeren
+47155;name_party;":
+Vi er faktisk mellem 10.000 og 15.000 fædre,
+der ville få gavn af dette her i fremtiden og havde det været gennemført noget tidligere også kunne have haft gavn af det tidligere.
+Det er et ganske lille forslag og en ganske lille prioritering, men for dem, det er gået ud over
+hidtil, at det ikke har været muligt at få dagpenge som fader, hvis éns hustru ikke var dagpengeberettiget, ville det være en god lille håndsrækning.
+Jeg har ikke mange andre bemærkninger at
+gøre til det. Vi vil under debatten om det næste
+lovforslag også komme ind i en diskussion om
+den samlede prioritering på børneområdet,
+som fru Jytte Andersen nærmere vil redegøre
+for. Men vi vil meget gerne have, at denne lille
+sag også kommer med i den store sammenhæng
+her i foråret.
+Jeg skal også udtrykke glæde over, at socialministeren viser sympati for lovforslaget, og
+takke for den åbning, jeg faktisk hørte i indlægget.";Jan Petersen
+48078;name_party;":
+I Det Konservative Folkeparti kan vi ikke se
+nogen grund til, at faderens ret til barseldagpenge skal være afhængig af, om moderen er på
+arbejdsmarkedet eller ej. Sygedagpengelovens
+målgruppe omfatter først og fremmest personer
+på arbejdsmarkedet. Det kan ikke være rigtigt,
+at det derudover for den enkelte arbejdstagers
+ret også skal være et spørgsmål om, hvordan
+man i øvrigt har valgt at indrette sit familieliv.
+Derfor ser vi faktisk meget positivt på det
+forslag, som er fremsat af Socialdemokratiet,
+og vi vil også gerne medvirke til dets vedtagel-
+
+1002
+
+se, vel at mærke under den meget klare forudsætning, at der samtidig skabes enighed om finansieringen. For vi synes, at Socialdemokratiets forslag har én stor fejl og mangel, og det er,
+at der mangler bemærkninger om, hvilke udgifter det medfører, og hvordan man forestiller sig
+disse udgifter dækket.
+Nu står vi jo netop i disse dage og uger over
+for en stor diskussion om, hvordan vi kan hjælpe børnefamilierne bredt. Man har også afsat
+nogle penge til det. Vi ser gerne, at dette forslag
+indgår i den samlede diskussion, den samlede
+prioritering på dette område. Vi kan også forestille os en diskussion om andre finansieringsformer, besparelser på andre områder inden for
+socialministerens ressortområde. Vi er meget
+åbne, men finansiering skal der til, og vi vil også gerne i udvalget have en mere uddybende redegørelse for, hvor store udgifter man forventer
+der vil komme i forbindelse med en gennemførelse af dette forslag, for det er jo lidt usikkert som socialministeren også var inde på - hvor
+mange der vil deltage, og hvor meget vi dermed
+skal ud at hente i finansiering.
+Men hvad angår hovedbudskabet, er vi meget enige: vi synes, der sker en urimelig forskelsbehandling, og vi synes, det kunne være rimeligt, om vi her fra Folketinget tog fat på området. Men vi må altså prioritere det samlet:
+Hvordan hjælper vi bedst børnefamilierne en
+bloc? Er dette problem så stort, at det skal løses
+nu? Og hvor skal finansieringen i givet fald findes?";Pia Christmas-Møller
+50117;name_party;":
+Der er nogle rimelig gode intentioner i Socialdemokratiets forslag om, at fædres ret til dagpenge i en kortere periode skal udvides til også
+at omfatte de fædre, hvor moderen er hjemmegående, studerende el.lign.
+Dels bør vi være positive over for at sikre forældre muligheden for at være sammen med deres helt små børn, i det omfang det kan lade sig
+gøre, dels kan det være rimeligt at sikre, at den
+gruppe på 10.000-15.000 fædre, der ikke får
+hjælp i dag, fordi retten til dagpenge kræver, at
+begge forældre har lønindtægt eller selvstændig erhvervsindkomst, også får en økonomisk
+dækning for at tage del i omsorgen for barnet.
+Men der er absolut nogle økonomiske konsekvenser ved dette forslag. Alt efter det antal
+fædre, der vil være berettiget til dagpenge, hvor
+
+1003
+
+25/1 91: l. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel";Eva Kjer Hansen
+50980;title_name;"meget de vil udnytte det og hvor længe og med
+hvor stort et beløb, kan det betyde, at forslaget i
+givet fald vil medføre store udgifter. Jeg har set
+i forslaget, at beregninger viser ca. 15-20 mio.
+kr. Vi har jo i forvejen svært nok ved at få budgettet til at hænge sammen, hvilket Socialdemokratiet ikke forsømmer nogen lejlighed til at
+gøre opmærksom på, og derfor skal vi ikke bare
+gennemføre nye udgiftskrævende forslag.
+I Venstre synes vi, at vi skal vurdere børnenes
+vilkår i en sammenhæng, og vi vil derfor opfordre til, at dette forslag indgår i diskussionen af,
+hvordan børnepakken bliver brugt bedst. Så
+kan vi foretage en samlet vurdering af, hvordan
+vi helst vil bruge de afsatte ressourcer. I øvrigt
+vil vi jo altid kunne diskutere, hvor gode forældrenes muligheder i forbindelse med de små
+børn skal være. Men i den givne situation opfordrer vi altså til, at dette lovforslag inddrages
+i en samlet børnepakke.";Eva Kjer Hansen
+51932;name_party;":
+De mennesker - herunder folketingsmedlemmer - der, som ministeren også nævnte det,
+tager sig tid til at se på lovforslag nr. L 51 fra
+første folketingssamling, vil til fulde forstå det,
+når jeg siger til forslagsstillerne til dette forslag:
+Det kunne vi ikke gøre bedre selv! Og derfor
+har forslaget selvfølgelig SF's helhjertede støtte.";Hanne Thanning Jacobsen
+52287;name_party;":
+Det har altid været Fremskridtspartiets holdning, at det ikke skal være skatteyderfinansieret
+at gå på barselorlov, uanset om det er moderen
+eller faderen, der ønsker at gå på barselorlov.
+Vi har dog fuld forståelse for, at det er nødvendigt at være hjemme hos barnet i de første,
+så vigtige uger efter fødslen, og derfor så Fremskridtspartiet hellere, at man ved fødsler ser
+bort fra ferielovens bestemmelser, således at
+forældrene får en lovmæssig ret til at holde deres optjente ferie samlet. På den måde kan moderen få de første 5 uger efter fødslen som ferie,
+uanset på hvilket tidspunkt af året fødslen sker,
+hvorefter faderen kan tage sine 5 ugers ferie
+sammenhængende. Hvis forældrene ikke mener, det er nok, må de finde muligheder for at
+finansiere deres barselorlov på anden måde: f.
+eks. kunne forældrene spare op til barselorlov
+og på den måde få råd til, at kun den ene af forældrene gik på arbejdsmarkedet, eller for den
+
+1004
+
+sags skyld spare op til, at begge kan gå derhjemme.
+Enhver borger er nødt til at prioritere sine
+udgifter, og det gælder også forældre, som må
+budgettere med den udgift, det er at få et eller
+flere børn. Børn er jo noget af det skønneste og
+mest dyrebare, man kan få. Derfor må det også
+være muligt for forældrene at afsætte penge til
+den udgift, det er at få børn.
+Det at få barselorlov kan også udmærket indgå i en overenskomstforhandling, hvor lønmodtageren aftaler en ordning med arbejdsgiveren. Det kan Fremskridtspartiet naturligvis
+ikke have noget imod at man gør - tværtimod.
+Lovforslaget fra Socialdemokratiet er ensbetydende med endnu større udgifter for det offentlige, og derfor stemmer Fremskridtspartiet
+imod.";Tom Behnke
+53973;name_party;":
+Jeg synes, det var lidt trættende at høre ministeren og Venstres og De Konservatives ordførere stå og fortælle, at nu sprængte disse 20-25
+mio. kr. altså udgiftsrammen. Det gør de i hvert
+tilfælde ikke: de betyder ikke en pind.
+Centrum-Demokraterne er meget åbne over
+for dette forslag. Jeg synes nu ikke, at ordningen med fædres barselorlov har været det største tilløbsstykke, men det er da muligt, at de årgange, der kommer - nu står der her, at det specielt er de studerende - vil benytte sig mere af
+det. Men jeg synes som ministeren og Venstre
+og De Konservative, at nu er der afsat nogle
+ekstraordinære penge til en børnepakke. Så lad
+os se, om vi kan bruge dem dér.
+Jeg vil gerne fastholde, at selv om dette lovforslag skulle blive vedtaget isoleret, er det altså ikke noget, der sprænger nogen som helst
+rammer nogen steder.
+(Kort bemærkning).";Bente Juncker
+54844;name_party;":
+Kun lige den bemærkning, at når det drejer
+sig om mænds anvendelse af barselorlovssystemet, kan vi jo ikke løse alle problemerne på én
+gang, men jeg ved af egen erfaring, at lige præcis det problem, der vedrører de studerende,
+virker meget, meget urimeligt.
+Jeg skal ikke knytte andre bemærkninger til
+det, men vi tror ikke, det løser hele problemet,
+for der findes rent faktisk flere mænd, som i dag
+ville ønske at kunne anvende denne mulighed,
+men som ikke gør det.
+
+1005
+
+25/1 91:1. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel";Jan Petersen
+55404;title_name;"Hvor meget brug der bliver for ordningen, og
+dermed hvad den koster, er meget vanskeligt at
+forudse. Men det forstår jeg at vi er enige om at
+der selvfølgelig skal kigges på under udvalgsarbejdet.
+Der findes altså mænd, der ønsker at anvende denne ordning.";Jan Petersen
+55681;name_party;":
+Det Radikale Venstre har haft nogle temmelig afgørende principper, for os selv i hvert fald,
+vedrørende hele barselorlovssystemet igennem
+tiderne, som jeg gerne lige vil ridse op:
+Det er væsentligt for os, at man hele tiden
+prioriterer under hensyn til barnet. Dernæst af
+hensyn til kvinden, og det hænger sammen med
+hensynet til barnet. Det betyder, at vi ikke giver
+nogen valgmuligheder - det er der åbenbart
+enighed om i Folketinget - når det drejer sig om
+en kort tid før fødslen og de første 14 uger efter
+fødslen. Da er det kvinden, der har ret til barselorloven, og det er af hensyn til barnet. Efter
+de 14 uger kan parterne vælge.
+Det eneste brud på det er de 2 uger, som faderen kan vælge at tage, også med dagpengeret,
+inden for de 14 første uger efter fødslen. Det synes vi er i orden.
+Man kan argumentere for dette lovforslag ud
+fra to synspunkter: ud fra det, jeg vil kalde hensynet til barnet, og ud fra det, man kan kalde
+hensynet til ligestillingen.
+Jeg skal sige helt principielt, at Det Radikale
+Venstre ligesom alle andre partier i dette Folketing altid vil alt det gode. Det vil vi også gerne
+her, men jeg vil understrege, at Det Radikale
+Venstre også ønsker en stram og stærk og konsekvent prioritering af de goder, vi gerne vil have.
+Når vi prioriterer i denne sammenhæng,
+prioriterer vi ud fra barnets tarv, og så vil vi også, som talrige andre ordførere har sagt her om
+denne sag, se det i nogle større sammenhænge.
+Det betyder selvfølgelig, at vi også må se det i
+sammenhæng med den børnepakke, der nu er
+lagt op til i forslaget til finanslov, og der er som
+bekendt afsat 3A mia. kr. hertil.
+Jeg skal understrege, at Det Radikale Venstre prioriterer omsorgsdage højere end ligestillingssynspunktet i dette forslag.
+Vi har regnet på, hvad det mon kunne komme til at koste, og vi har også hørt beløb på mellem 15 og 20 mio. kr. Det beløb tror vi ikke på.
+
+1006
+
+Vi tror, vi kommer op i et trecifret millionbeløb.
+Jeg vil gerne spørge Socialdemokratiet, hvilke
+overvejelser det har gjort sig om økonomien i
+dette forslag.
+Nu har jeg sagt tingene lidt kraftigt, og derfor
+vil jeg gerne sige til sidst, at ligestillingssynspunktet så sandelig også har en meget høj prioritet hos Det Radikale Venstre: det skal der ikke herske tvivl om. Men vi er nødt til at se disse
+ting i sammenhæng, og det har jeg forstået at
+Socialdemokratiet også er parat til. Derfor er
+jeg lidt interesseret i, hvad Socialdemokratiet
+har skønnet med hensyn til beløbet.";Marianne Jelved
+58167;name_party;":
+Hvis jeg ikke husker galt, har SF da været
+fremme med et forslag, som, ja, om det er fuldstændig identisk eller der er rettet et par kommaer eller der er en særlig forhistorie, kan jeg
+ikke gennemskue, men jeg mener da, at jeg har
+talt om et forslag, hvor der stod det samme indholdsmæssigt, men hvor det bare var SF, der
+havde fremsat det.
+Derfor har jeg studset lidt over, at der ikke er
+en eller anden henvisning til fortiden. Det virker, som om vi er blevet helt historieløse, når
+jeg ser forslaget her. Men der kommer sikkert
+en højere åbenbaring for mig, så jeg ser de sammenhænge.
+Når jeg siger det, er det for at melde, at vi udtrykte sympati for noget af det, der står i forslaget, da vi behandlede SF-forslaget, men samtidig sagde, at vi jo i forrige samling havde fremsat vort eget forslag, hvor vi primært tog udgangspunkt i de studerende, som var bragt i en
+uheldig situation. Det forslag, kan jeg her oplyse, arbejder vi videre på og vil udbygge med noget af det, vi syntes var rigtigt i SF-sammenhæng.
+Så min melding her vil være, at vi godt kan se
+nogle positive elementer, men samtidig skal vi
+jo, som vi alle ved, foretage en økonomisk prioritering. Det, vi lagde frem i forrige samling, og
+som vi genfremsætter, prioriterer vi altså højest. Men jeg tror nok, der vil være mulighed for
+en vis sammenarbejdning, og så må vi se, hvor
+meget økonomien tillader.
+Skal lovforslaget træde i kraft i år, må jeg sige, at så må vi finde økonomien inden for de
+750 mio. kr., som vi har indgået forlig om på finansloven. Hvis det først skal træde i kraft den
+1. januar 1992, er vi selvfølgelig ikke bundet af
+
+1007
+
+l
+
+25/1 91:1. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel";Kofod-Svendsen
+59879;title_name;"de tal, men så må vi skønne ud fra en generel
+økonomisk vurdering.
+Det er, hvad jeg kan melde i øjeblikket. Vi vil
+naturligvis kombinere det med vort forslag,
+som vi regner med at vi fremsætter i næste uge.
+(Kort bemærkning).";Kofod-Svendsen
+60133;name_party;":
+Jeg vil gerne sige til hr. Kofod-Svendsen, at
+hans hukommelse slet ikke er så dårlig, som
+han tror. Han husker helt rigtigt, at i forbindelse med behandlingen af SF's forslag udtrykte
+Kristeligt Folkeparti stor sympati for dette forslag. Så jeg ser da også frem til, at vi samlet kan
+arbejde videre med det.";Hanne Thanning Jacobsen
+60461;name_party;":
+Jeg vil godt indledningsvis sige tak for de
+mange positive tilkendegivelser om forslaget.
+Jeg skal så både til SF's historieundervisning
+og til Kristeligt Folkepartis historieundervisning sige noget om forhistorien.
+Forhistorien er den, at da vi sidste gang reviderede ligebehandlingsloven, blev det i Arbejdsmarkedsudvalget afdækket, at der var et
+problem med hensyn til 10.000-15.000 fædres
+reelle mulighed for at få barselorlov.
+Det skrev vi faktisk en betænkning om, som
+Socialdemokratiet, SF og Kristeligt Folkeparti
+støttede. På det tidspunkt tog både Socialdemokratiet og SF åbenbart afsæt til at omsætte
+det i lovforslag. Af forskellige grunde, som der
+ikke er nogen grund til at komme ind på her,
+var vi ved at træde hinanden over tæerne.
+Det er forklaringen. Der er ikke nogen forskelligheder i forhold til indstillingen, i forhold
+til substansen.
+Men som sagt vil jeg godt takke for den positive holdning, der har været til lovforslaget.
+Bortset fra Fremskridtspartiet er der faktisk tydeliggjort en holdning, som jeg synes er vigtig,
+nemlig at vi meget bredt politisk er optaget af,
+at fædre i højere grad skal inddrages i omsorgsopgaverne og naturligvis også have nogle økonomiske muligheder for det.
+Fru Marianne Jelved spurgte meget konkret,
+hvad vi har gjort os af økonomiske overvejelser. Til det vil jeg godt svare, at der er meget
+usikkerhed omkring det. Hvor mange fædre vil
+tage barselorlov? Hvor længe vil de tage den,
+som socialministeren ganske rigtigt spurgte. Og
+hvad er niveauet så? Derfor har vi ikke lavet de
+
+1008
+
+helt nøje regnestykker på det. Men vort slag på
+tasken har været det, som socialministeren sagde : 15-20 mio. kr.
+Så vil jeg godt sige afslutningsvis, at vi er meget parate til at lade denne sag indgå i lidt bredere diskussioner om, hvordan vi prioriterer
+børnefamiliernes vilkår. Jeg har det ligesom fru";Jytte Andersen
+62330;title_name;"Vi står over for nogle benhårde prioriteringer, hvor vi naturligvis skal gøre
+os anstrengelser for at få det bedst mulige ud af
+pengene i forhold til børnene.
+Men når dette forslag alligevel ligger på bordet, så er det, fordi vi synes, det er anstødeligt,
+at vi på den ene side kritiserer fædre sådan en
+bloc for ikke at involvere sig i omsorgsopgaverne og på den anden side reelt udelukker omkring 15.000 fædre fra at blive inddraget.
+Det er lidt af forklaringen på, at vi alligevel
+har syntes, at dette forslag skulle fremsættes,
+som jo, da SF fremsatte det, nød fremme. Derfor mener vi egentlig også, at det bør indgå i
+den samlede børnepolitiske prioritering, vi står
+over for, og som vi i hvert fald i Socialdemokratiet håber meget på kan ende med bred forståelse og nogle brede politiske forlig til gavn for
+børnefamilierne.
+(Kort bemærkning).";Marianne Jelved
+63200;name_party;":
+Jeg skal udtrykke glæde over fru Jytte Andersens tilkendegivelse om prioriteringen og forståelsen for sammenhængen. Målet må være hvis det er en ligestillingsbetragtning, vi støtter
+- at i hvert fald de 10.000 fædre benytter sig af
+denne mulighed, hvis den kommer. Man må
+også forestille sig, at de gør det i størrelsesordenen 10 uger, altså 2V2 måned. Hvis dagpengene
+ligger på i hvert fald 20.000 kr. - det er igen alene et skøn - er vi oppe omkring de 200 mio. kr.
+Det er bare til almindelig eftertanke.
+(Kort bemærkning).";Marianne Jelved
+63746;name_party;":
+Vi tænker altid over det, vi hører fra fru Marianne Jelved. Det ved fru Marianne Jelved også
+Igodt.
+Når vi har ræsonneret, at det er 15-20 mio.
+kr., hænger det sammen med, at vi ikke har nogen forventning om, desværre, at den andel af
+fædrene, der vil tage barselorlov, vil blive større, hvad enten deres koner eller kærester eller
+
+1009
+
+25/1 91:1. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel";Jytte Andersen
+64172;title_name;"samlevere er studerende eller de ikke er det.
+Den procentandel forskyder sig nok ikke meget, før vi får en bedre dækning rent økonomisk
+i forhold til niveauet for lønkompensation.
+Det har vi ikke nogen forestilling om, og det
+er det, der er baggrunden for vores beskedne
+skøn. Jeg vil nok sige, at hvis vi havde taget den
+store mundfuld, altså et trecifret millionbeløb,
+var der andre ting, vi havde prioriteret højere.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Jytte Andersen
+64742;title_name;":
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den sidste sag på dagsordenen var:
+7) Første behandling af lovforslag nr. L 68:
+Forslag til lov om ændring af lov om dagpenge
+ved sygdom eller fødsel og af lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse og barselorlov m.v.
+Af Hanne Thanning Jacobsen (SF) m.fl.
+(Fremsat 22/1 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Lilli Gyldenkilde
+65299;title_name;":
+Efter forslaget fra SF skal der ske en forlængelse af den samlede barselorlovsperiode med
+ret til dagpenge fra det offentlige med yderligere op til 12 uger og med op til 30 uger ved flerbørnsfødsler. De sidste 12 henholdsvis 18 uger
+forbeholdes faderen. Retten til barselorlov efter fødsel foreslås tilsvarende forlænget fra 24
+til 36 uger og op til 54 uger, hvor der fødes mere
+end ét barn. Kravet om, at faderens eller adoptantens ret til dagpenge er afhængig af ægtefællens erhvervstilknytning, bortfalder.
+Forslaget er en genfremsættelse. Det tidligere forslag var til førstebehandling den 20. no-
+
+1010
+
+vember 1990, og ved den lejlighed afviste regeringen forslaget, og det gør vi fortsat.
+Med hensyn til den foreslåede udvidelse af
+faderens ret til barseldagpenge mener jeg stadig, at der først og fremmest er brug for en holdningsmæssig ændring hos fædrene, selv om jeg
+selvfølgelig erkender, at også økonomiske forhold kan spille ind, når den enkelte familie skal
+beslutte, hvem der skal tage sig af barnet under
+den sidste del af orloven.
+Men jeg tror bestemt ikke, at en udvidelse af
+faderens muligheder for at beholde barselorloven vil styrke det ønske, som SF udtrykker i bemærkningerne, om en udvikling, hvorefter der
+også på det private arbejdsmarked ydes fuld
+løn under barselorloven - tværtimod. Sagt med
+andre ord: Der er ikke penge til en forbedring
+på et område, hvor der i forvejen eksisterer en
+udmærket ordning.
+Jeg har da også bemærket, at det udvalg, der
+forberedte den forholdsvis nye dagpengelov,
+ikke stillede forslag om en forlængelse af den
+periode, hvori der kan ydes dagpenge. Det tillader jeg mig at tage som udtryk for, at det ikke
+kan være et meget presserende problem.
+Som den økonomiske situation ser ud i dag,
+er der i hvert fald efter regeringens opfattelse
+ikke råd til de foreslåede forlængelser af dagpengeretten under barsel. Regeringen må derfor, ligesom det var tilfældet med SF's tilsvarende forslag i sidste samling, afvise lovforslaget.";Else Winther Andersen
+67304;name_party;":
+SF's forslag er, som ministeren sagde, en
+genfremsættelse af forslaget om udvidelse af
+barselorloven med 12 uger til fædrene på dagpengeniveau.
+Da vi behandlede SF's forslag i efteråret
+1990, stillede Socialdemokratiet sig åbent og
+positivt over for en debat om småbørnsfamiliernes behov for at være mere sammen i barnets
+første leveår.
+Vi er også positive over for princippet om, at
+fædre i højere grad skal - med streg under skal
+- inddrages i omsorgsopgaverne. I vores eget
+forslag, vores børnepolitiske program, lægger
+vi op til en forlængelse på 6 uger til moderen og
+6 uger til faderen og sådan, at ugerne ikke overføres til hinanden, samt garanti for en plads i en
+daginstitution eller en dagpleje, når barnet er
+otte måneder. Siden vi behandlede SF's forslag
+sidste gang, er der imidlertid sket to ting:
+
+1011
+
+25/1 1: l. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel m.v.";Jytte Andersen
+68215;title_name;"For det første har vi fået SFI-rapporten om
+barselorlov, mænds og kvinders erhvervsmæssige baggrund for at tage orlov. Den dokumenterer desværre ret tydeligt, at fædrenes barselorlov er en meget stor belastning for familieøkonomien. Spørgsmålet for os er, om det er en
+rigtig prioritering med en forlængelse, så længe
+lønkompensationen i barselorlovsperioden er
+på dagpengeniveau.
+For det andet har Socialministeriet fremlagt
+rapporten om pasningsbehov for syge småbørn. Den dokumenterer, at et af de største problemer, småbørnsfamilier har, er, når de små
+børn bliver syge og det ikke er weekend eller ferie. I den rapport lægges der forskellige modeller frem til imødekommelse af dette behov for
+pasning fra forældrenes side.
+De to ting har gjort, at vi i Socialdemokratiet
+har taget benhård stilling til prioriteringen af,
+hvordan vi i en økonomisk stram tid bedst muligt får brugt pengene.
+Den første prioritet for Socialdemokratiet er
+en reform vedrørende omsorgsdage, der indeholder en ret til fem dage til hver forælder med
+børn i 0-2-års-alderen på dagpengeniveau samt
+en reform på daginstitutionstakstområdet.
+Den anden prioritering, vi har, er en bedre
+lønkompensation i forbindelse med barselorlov og omsorgsorlov. Dette er i høj grad et overenskomstanliggende, men vi har jo også lov til
+at hjælpe reformer i gang her.
+Og den tredje prioritet for os er altså forlængelse af barselorloven til både fædre og mødre.
+På den baggrund må vi afvise SF's lovforslag, som det er forelagt for os i dag.";Jytte Andersen
+69740;name_party;":
+Jeg vil gerne takke de forskellige ordførere,
+som har givet mulighed for, at jeg kan holde
+dette korte indlæg, da jeg skal skynde mig videre til et andet møde.
+Selve grundtanken med en længere barselorlov som skitseret her tror jeg da at vi alle synes
+er sympatisk, men der er også mange andre
+ting, vi synes er sympatiske. Hvis vi havde utrolig mange ressourcer til fordeling, hvad vi ikke
+lige har, så ville vi have prioriteret, at vi i højere
+grad lod pengene følge den enkelte familie.
+Vi har nu sammen med andre partier sikret
+750 mio. kr. til en børnepakke i indeværende år,
+og det er altså, hvad vi kan gøre godt med. Så
+må vi jo alle drømme, drømme og drømme om,
+
+1012
+
+hvor pengene kommer fra, og når det er blevet
+opfyldt, så kan vi begynde at realisere det.
+Men indtil videre må jeg sige, at til trods for
+al sympati må dette svæve lidt på lyseblå skyer
+- hvor længe, må fremtiden afsløre.";Kofod-Svendsen
+70668;name_party;":
+Vi kan i den konservative folketingsgruppe
+heller ikke støtte SF's forslag. Vi mener, at det
+er en gal prioritering, der er lagt ind.
+Vi synes, det er vigtigt, at vi prøver at få fædrene til at udnytte de muligheder, som eksisterer i dag. Vi ved, at der ikke er ret mange, der vil
+udnytte mulighederne. Der er en del grunde til
+det, deriblandt ukendskab til ordningen, men
+nok så væsentligt: Rester af holdningsmæssige
+barrierer.
+Noget helt centralt er imidlertid familiernes
+overvejelser omkring deres økonomi. Det afsløres i den seneste SFI-rapport, at mange familier mister adskillige tusinde kroner om måneden ved at lade faderen tage barselorloven,
+og det hænger simpelt hen sammen med forskellen mellem sygedagpengeniveauet og lønniveauet. Der er altså en væsentlig økonomisk
+hindring for, at man kan udnytte de muligheder, som allerede i dag eksisterer. SFI-rapporten viser, at familierne gennemsnitligt mister
+6.000 kr. om måneden, når faderen vælger barselorloven frem for moderen.
+Det er et meget vigtigt problem, og jeg mener, at så længe vi har sådanne problemer at
+slås med, er der ikke nógen logik i at udvide en
+ordning, som folk allerede i dag ikke føler de
+har råd til at tage del i.
+En anden overvejelse, familierne formentlig
+gør sig, er, hvilke muligheder der er for at komme tilbage til arbejdsmarkedet efter endt barselperiode: det gælder både kvinderne og
+mændene. Også her ser vi nogle problemer.
+Vi mener altså ikke, at tiden er til at udvide
+barselperioden, hverken for mændene eller for
+kvinderne. Vi mener slet ikke, at det er på denne måde, vi skal anvende, som det er opgjort i
+forslaget, 98 mio. kr., når vi ønsker at støtte børnefamilierne. Jeg synes, det er meget positivt, at
+SF har gjort sig overvejelser om, hvad forslaget
+vil koste, men jeg mener, der er meget stor usikkerhed omkring det tal, man er nået frem til.
+Men selv det tal, 98 mio. kr., mener vi er alt for
+højt. Vi kan ikke tilslutte os en udnyttelse af ressourcerne på nuværende tidspunkt på den fa-
+
+1013
+
+25/1 1: l. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel m.v.";Pia Christmas-Møller
+72772;title_name;"con. Vi mener faktisk, at børnefamilierne har
+brug for støtte på helt andre områder.
+x
+Jeg nævnte spørgsmålet om økonomien, og
+jeg vil godt benytte denne lejlighed til at opfordre arbejdsmarkedets parter til i det hele taget
+at prioritere dette område lidt højere ved overenskomstforhandlingerne. En stor del af de
+økonomiske problemer skal jo løses dér og ikke
+herindefra, og det er i vidt omfang et spørgsmål
+om prioritering inden for den meget smalle lønramme, der måtte være.
+Vi er meget glade for, at det er lykkedes os at
+få mulighed for at gøre en indsats for børnefamilierne. Der er afsat 750 mio. kr. i indeværende år, og vi synes, det er utrolig vigtigt, at vi får
+fremmet de rigtige, målrettede forslag til gavn
+for de børnefamilier, som står svagest. Børnefamilier er jo et vidt begreb, og vi ved, at der er
+stor forskel på deres muligheder i dag. Nogle
+har det ikke så tosset endda, andre har det meget vanskeligt, og derfor er det vigtigt, at vi i de
+kommende uger nøje vurderer, hvor vi kan støtte, og hvor vi får størst effekt af de 750 mio. kr.
+Vi mener ikke, at dette lovforslag rammer
+plet: vi mener faktisk, det rammer helt ved siden af. Derfor må vi afvise forslaget.";Pia Christmas-Møller
+73980;name_party;":
+Som jeg også sagde i forbindelse med det tidligere lovforslag, kan man altid diskutere, hvordan man kan give børnefamilierne de bedst
+mulige vilkår, og det er nok ikke så svært at
+komme med gode forslag til, hvordan vi kan
+sikre forældrene mere tid og bedre mulighed
+for at være sammen med deres børn.
+Men der er i dette forslag nogle meget store
+økonomiske konsekvenser, hvis det bliver realiseret. Selv om mange af os, der er unge kvinder
+i dag, nok gerne vil have mændene til at tage
+deres tørn, må vi i denne forbindelse først og
+fremmest sige: Jamen lad nu mændene udnytte
+de allerede gældende ordninger, og lad os så
+også få en samlet økonomisk vurdering af,
+hvordan vi sikrer børnefamilierne de bedste vilkår. Vi er alle sammen her i dag enige om, at
+børnepakken på 750 mio. kr. er god, og vi er alle glade for den: så lad os foretage en samlet
+vurdering af, hvordan vi bedst udnytter de ressourcer, vi har til rådighed.
+Ud fra den betragtning, at det vil være en alt
+for dyr løsning, skal vi derfor i Venstre afvise
+lovforslaget.
+
+1014";Eva Kjer Hansen
+75042;name_party;":
+Jeg skal gøre det utrolig kort og henvise til
+vores bemærkninger under behandlingen af
+lovforslag nr. L 45 og meddele, at Fremskridtspartiet så afgjort stemmer imod dette lovforslag.
+Så har jeg et enkelt spørgsmål til SF, fordi
+der har været røster fremme om, at man også
+skal have orlov til forplantningsperioden, og
+nu vil man så udvide barselorloven. Der har også været røster fremme om, at orloven skulle
+udvides helt frem til at gælde i to år. På det tidspunkt når vi så frem til, at man med forplantningsorlov og med barselorlov får en periode,
+hvor man kan nå at få flere børn inden for barselorlovsperioden, og så kan man starte på en
+ny barselorlovsperiode, og sådan kan man blive ved længe.
+Spørgsmålet til SF er: Hvor langt vil man gå?
+Er det her det sidste, vi ser fra SF?";Tom Behnke
+75860;title_name;":
+Jeg ser ikke, at fru Bente Juncker er til stede.";Ivar Hansen
+75931;name_party;":
+Ud fra mange meget ideelle betragtninger og
+en forestilling om et meget rigt samfund synes
+jeg da, der er mange gode ting i dette lovforslag,
+men jeg skal gøre det kort og sige, at vi ikke mener, at dette lovforslag ligger inden for mulighederne på nuværende tidspunkt, når vi ser på
+de behov og den måde, vi gerne vil prioritere på
+over for børnefamilierne med udgangspunkt i,
+hvad børn har brug for.";Marianne Jelved
+76363;name_party;":
+På trods af, at jeg jo ikke kan sige tak for en
+bragende tilslutning til vores forslag, vil jeg i
+hvert fald gerne starte med at sige tak for stemmeføringerne, som jeg opfatter som rimelig positive så at sige hele vejen rundt.
+Grunden til, at SF har fremsat dette forslag,
+nævnte fru Pia Christmas-Møller lige præcis,
+og den er, at vi synes, det her er et spørgsmål
+om holdninger. Jeg kan være meget enig med
+fru Pia Christmas-Møller i, at det er et spørgsmål, som arbejdsmarkedets parter burde tage
+sig af, men vi synes, det er nødvendigt iblandt
+at skubbe til processer, og det er det, der er tanken bag dette forslag.
+Det er jo rigtigt, som fru Jytte Andersen refererede, at vi har fået SFI-undersøgelsen, som
+
+1015
+
+25/1 91:1. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel m.v.";Hanne Thanning Jacobsen
+77184;title_name;"kom for godt 3 uger siden, og at vi gennem den
+fik bekræftet, hvad vi godt kunne se, og hvad
+der anede os: at der er flere forskellige grunde
+til, at denne ordning er så ringe udnyttet.
+Flere af ordførerne har fremhævet den økonomiske side, som jo er meget væsentlig, men
+der er i rapporten fremført andre grunde, f.eks.
+at faderens arbejde ikke tillod, at der blev taget
+orlov, hensynet til amning, som bestemt også er
+vigtig, og så endelig det - det var vist også fru
+Pia Christmas-Møller, der nævnte den grund at familien overhovedet ikke havde overvejet,
+om faderen skulle tage orlov. Det vil sige, at
+ordningen ikke har været kendt blandt de mange, og derfor var det vigtigt, at der blev sat et
+oplysningsarbejde i gang om det.
+Konklusionen på undersøgelsen er altså, at
+det ville være godt, om der var fuld løn under
+orloven, det ville være godt, om mændene blev
+sikret imod afskedigelse. Og konklusionen er
+faktisk også det, som vores forslag i dag handler om, nemlig at en udvidelse af den orlov, som
+er forbeholdt faderen, ville være en god ting.
+Men det er som sagt et spørgsmål om holdninger, og derfor har vi nu i et par år foreslået
+Folketinget dette. Vi synes, vi skal være med til
+at animere fædrene til at tage del, sådan at vi
+kommer et lille nøk videre ad ligestillingens
+vej. Vi finder det faktisk meget vigtigt, at Folketinget medvirker til, at fædrene i denne vigtige
+periode får mulighed for at dele ansvaret for en
+god start for barnet med moderen, og vi tror, at
+mange fædre ville presse yderligere på, hvis det
+private arbejdsmarkeds overenskomster gav
+den samme mulighed som overenskomsterne
+på det offentlige område.
+Som det kan ses af vores ændringsforslag til
+finansloven, har vi faktisk taget højde for det
+økonomisk. Vi vil gerne drøfte disse ting, så de
+kommer ind i den sammenhæng, som jo kommer til at køre her i Folketinget i de kommende
+uger, og vi vil endnu en gang understrege vigtigheden af - når vi ser på barnets tarv - at
+skubbe til denne proces.
+(Kort bemærkning).";Hanne Thanning Jacobsen
+79217;name_party;":
+Jeg betvivler faktisk ikke SF's intentioner og
+positive vilje til at skubbe til processen, og jeg
+betvivler faktisk heller ikke, at man ønsker at
+skubbe processen i den rigtige retning. Men jeg
+må så sige, at jeg er af den opfattelse, at det ikke
+er det, der sker med dette forslag.
+
+1016
+
+Jeg mener faktisk, at SF skubber i den forkerte retning, og det er begrundet i, at vi ved, at en
+af de helt store barrierer for børnefamilierne og
+specielt for fædrenes udnyttelse af den nuværende orlovsmulighed simpelt hen er økonomien. Det nytter jo ikke noget at bruge en udvidelse af perioden som løftestang for, at flere fædre
+nu skal tage del i ordningen, når det er økonomien, der er problemet.
+Vi er jo i SF og Det Konservative Folkeparti
+enige om - sådan har jeg forstået det - at netop
+spørgsmålet om lønkompensation er et arbejdsmarkedsanliggende og ikke et folketingsanliggende. Derfor er det i mine øjne lidt ulogisk at følge SF's argumentation.
+Jeg mener, at vi gør fædrene og børnefamilierne en bjørnetjeneste ved at gennemføre dette
+forslag. Jeg mener faktisk ikke, at der er tale om
+at skubbe til en udvikling i den rigtige retning,
+men tværtimod om at hale i den forkerte og få
+flere barrierer ind end højst nødvendigt.
+(Kort bemærkning).";Pia Christmas-Møller
+80486;name_party;":
+Jeg vil også gerne anerkende SF's ønske om
+at holde debatten om bl.a. ligestillingsproblemerne i denne forbindelse i gang, og når nu vi
+alle sammen erkender, at rapporter osv. viser,
+at økonomien åbenbart er et afgørende problem i denne sammenhæng, så er det altså - dér
+vil jeg give fru Pia Christmas-Møller ret - ikke
+Folketinget, der har nøglen til at løse dette problem. Derfor må kampen i virkeligheden stå et
+helt andet sted, nemlig på det private arbejdsmarked.
+Enten må der flere kvinder ind i toppen hos
+de parter, der skal forhandle overenskomsterne
+- og det er jo et mål for de fleste af os, der er til
+stede her, og den kamp må vi så føre i Folketinget selvfølgelig, men også uden for Folketingets
+mure - eller også må der flere yngre mænd til,
+som kan se, at tingene skal se anderledes ud,
+end de gør oppe i toppen, og så må vi af med de
+gamle mænd.";Marianne Jelved
+81379;name_party;":
+Jeg kan erklære mig enig i hvert fald i fru Marianne Jelveds sidste betragtninger.
+Til fru Pia Christmas-Møller vil jeg bare sige,
+at det er rigtigt - det fremhævede jeg også - at
+økonomien er den altafgørende faktor. Men ikke desto mindre fremgår det af SFI-rapporten,
+
+1017
+
+25/1 91:1. beh. af f. 1.1. vedr. dagpenge ved sygdom eller fødsel m.v.";Hanne Thanning Jacobsen
+81757;title_name;"at en af de ting, man kunne gøre, faktisk var at
+give denne ordning et skub videre, og derfor
+forstår jeg ikke, hvorfor fru Pia Christmas-Møller mener, at det er at skubbe udviklingen i en
+forkert retning.";Hanne Thanning Jacobsen
+81994;title_name;":
+Ønsker socialministeren ordet? Nej.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Ivar Hansen
+82175;title_name;":
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Ivar Hansen
+82398;title_name;":
+Der er ikke mere på dagsordenen.
+
+1018
+
+Der er foretaget ændringer i følgende udvalg:
+Nordisk Råd (24/1 91):
+Udtræder: Ahlmann-Ohlsen (KF)
+Ny stedf.: Agnete Laustsen (KF)
+Erhvervsudvalget (25/1 91):
+Udtræder: Ove Fich (S)
+Nyt medl.: Erling Olsen (S)
+Socialudvalget (25/191):
+Udtræder: Lis Noer Holmberg (CD)
+Nyt medl.: Bente Juncker (CD)
+Folketingets næste møde afholdes tirsdag
+den 29. januar 1991 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte ugeplan.
+Mødet hævet kl. 11.38";Ivar Hansen

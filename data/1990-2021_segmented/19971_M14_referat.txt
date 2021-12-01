@@ -1,0 +1,3295 @@
+split;reason;text;value
+0;;"(119)
+Fredag den 7. november 1997 (D)
+
+945
+
+Meddelelser fra formanden
+14. m ø d e";
+119;Time;"Dagsorden
+
+I";kl. 10.00
+167;title_name;":
+Medlemmer af Folketinget Anne Baastrup (SF),
+Aage Frandsen (SF), Kjeld Rahbæk Møller (SF),
+Dorte Bennedsen (S), Flemming Oppfeldt (V),
+Vibeke Peschardt (RV), Tom Behnke (FP), Bruno Jerup (EL) og Jette Gottlieb (EL) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+
+1) Første behandling af lovforslag nr. L 32:
+Forslag til lov om ændring af lov om anlæg af
+fast forbindelse over Storebælt.
+Af trafikministeren (Bjørn Westh).
+(Fremsat 22/10 97).
+
+Forslag til lov om ændring af lov om kunstig
+befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v. (Enliges
+adgang til behandling).
+(Lovforslag nr. L 61).
+
+2) Første behandling af beslutningsforslag nr.
+B 5:
+Forslag til folketingsbeslutning om kommuners
+ret til at yde tilskud til sygdomsbehandling.
+Af Jan Køpke Christensen (FP) m.fl.
+(Fremsat 9/10 97).
+
+Medlemmer af Folketinget Keld Albrechtsen
+(EL) og Frank Aaen (EL) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+
+3) Første behandling af beslutningsforslag nr.
+B 6:
+Forslag til folketingsbeslutning om kommunal
+støtte til sygdomsbehandling.
+Af Ester Larsen (V) og Henriette Kjær (KF).
+(Fremsat 9/10 97).
+4) Første behandling af beslutningsforslag nr.
+B 21:
+Forslag til folketingsbeslutning om amternes
+pligt til at sikre døende mulighed for en værdig
+pleje.
+Af Bruno Jerup (EL) og Frank Aaen (EL).
+(Fremsat 21/10 97).
+5) Første behandling af beslutningsforslag nr.
+B 29:
+Forslag til folketingsbeslutning om tilladelse til,
+at praktiserende læger kan holde åbent om lørdagen.
+Af Jørgen Winther (V) og Henriette Kjær (KF)
+m.fl.
+(Fremsat 23/10 97).
+
+Forslag til lov om ændring af lov om midlertidig regulering af boligforholdene. (Nedlæggelse
+af boliger).
+(Lovforslag nr. L 62).
+Medlemmer af Folketinget Bent Hindrup
+Andersen (EL) og Frank Aaen (EL) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+Forslag til lov om afgift af antimikrobielle
+vækstfremmere til dyrefoder.
+(Lovforslag nr. L 63).
+Medlemmer af Folketinget Pia Kjærsgaard (DF),
+Kristian Thulesen Dahl (DF), Ole Donner (DF)
+og Poul Nødgaard (DF) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om skærpede
+regler for udgang fra fængsler.
+(Beslutningsforslag nr. B 57).
+Medlemmer af Folketinget Bendt Bendtsen
+(KF), Brian Mikkelsen (KF), Helge Adam Møller
+(KF), Gitte Seeberg (KF), John Vinther (KF), Birthe Rønn Hornbech (V), Inge Dahl-Sørensen
+(V), Bertel Haarder (V), Erling Oxdam (V) og
+Ulla Tørnæs (V) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+
+946
+
+Fredag den 7. november 1997
+
+Forslag til folketingsbeslutning om hjemmel til
+politiet til beslaglæggelse hos mistænkte/dømte.
+(Beslutningsforslag nr. B 58).
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 32:
+Forslag til lov om ændring af lov om anlæg af
+fast forbindelse over Storebælt.
+Af trafikministeren (Bjørn Westh).
+(Fremsat 22/10 97).
+Lovforslaget sattes til forhandling.
+Forhandling";Henning Grove
+3121;name_party;":
+Socialdemokratiet er positiv over for det fremsatte lovforslag. Det må jo ikke være sådan, at
+der er nogle, der ved at forsøge at undgå betaling ikke bliver pålagt en ekstra afgift, og det er
+jo det, der ligger i forslaget.
+Afgiften er af en størrelsesorden på 500 kr.,
+og det synes vi er rimeligt. Vi synes også, det er
+en rimelig tackling af registerloven med hensyn
+til den nødvendige overvågning, der bør foregå
+på anlægget, for at man kan følge dem op, der
+vil forsøge at køre gratis over Storebæltsforbindelsen. Så alt i alt et godt forslag, som vi bakker
+op.";Poul Andersen
+3709;name_party;":
+Venstre kan støtte lovforslaget. Det forekommer
+os, at det er et let og administrativt forenklet
+betalingssystem, man har fundet frem til. Det er
+klart, at selve tv-overvågningen har vores fulde
+opmærksomhed, men vi finder, at den her er af
+en sådan karakter, at den ikke kan virke stødende på ret mange - måske på dem, der forsøger at fuske sig igennem systemet. Men Venstre støtter lovforslaget.";Svend Heiselberg
+4123;name_party;":
+Jeg vil sige med det samme, at Det Konservative Folkeparti også kan støtte forslaget, og samtidig vil vi gerne udtrykke glæde over, at man
+tager hensyn til den store trafikmængde, der
+kan afvikles på meget kort tid med det system,
+vi får her, så man kan undgå, at der bliver en
+
+ophobning omkring betalingsanlæggene. Derfor
+kan vi støtte dette lovforslag, og vi glæder os
+over, at det allerede er kommet frem.";Kaj Ikast
+4553;name_party;":
+Selv om vi ikke har nogen aktier i brodelen på
+Storebælt, vil jeg godt sige, at vi også kan støtte,
+at der sker denne overvågning. Vi mener selvfølgelig ikke, at folk skal kunne snyde sig over,
+ligesom man heller ikke kan gøre det, hvis man
+bruger togforbindelsen. Man får jo en bøde,
+hvis man gør det, og så skal der selvfølgelig
+være ligestilling for togpassagerer og bilbrobenyttere. Vi støtter forslaget.";Tommy Dinesen
+4990;name_party;":
+Jeg skal meddele, at Fremskridtspartiet jo heller
+ikke har lod eller del i netop denne forbindelse,
+men at det foreliggende forslag lyder fornuftigt.";Jan Køpke Christensen
+5161;name_party;":
+Jeg må indrømme, at jeg bliver nødt til at gøre
+mit indlæg lidt længere.
+Jeg drømte faktisk om det i nat. Jeg skulle til
+et møde i Jylland og var stået op fuldstændig
+normalt, alting var normalt: men da jeg så kom
+ud på gaden, kunne jeg mærke, at der var altså
+noget, der ikke var normalt, og jeg kunne ikke
+lige komme i tanker om, hvad det var.
+Men så fandt jeg ud af, at det var jo i dag,
+Københavns Kommune havde indført videoovervågning af cyklister. Fra to forskellige
+vinkler fulgte et elektronisk øje minutiøst mine
+bevægelser op ad Amagergade. Man havde
+besluttet at indføre overvågningen, fordi det
+var almindelig kendt, at mange cyklister ikke
+overholdt færdselsloven, og det var helt umuligt at håndhæve loven, medmindre man tog
+elektronikken til hjælp, blev der sagt. Man sagde også, at hvis cyklisterne gjorde, som de skulle, ville videoerne jo blive slettet inden for 2
+dage, naturligvis medmindre de blev udtaget af
+Teknisk Forvaltning til nærmere undersøgelse.
+Systemet var også blevet indført ud fra den
+begrundelse, at man på baggrund af konkrete
+situationer kunne anvende optagelserne til at
+forbedre forholdene for cyklisterne. Alle var
+glade, for det blev jo kun til ulempe for de stakler, som tilsidesatte færdselsloven, og det må
+man jo ikke. Det var helt klart et system, som
+gav både øget tryghed og bedre service.
+På Hovedbanegården blev cyklistovervågningen erstattet af HT og DSB's nye stationsovervågningssystem. Den stigende voldsdis-
+
+Fredag den 7. november 1997 (L 32)
+kussion havde medført et massivt ønske fra
+såvel de ansatte som kunderne om, at nu måtte
+man have en bedre overvågning. Man kunne
+gøre det ved at forbedre bemandingen i togene
+og på stationerne, men i stedet havde man nu
+udviklet et komplet overvågningssystem, som
+trådte i kraft i det øjeblik, man bevægede sig
+ind på HT og DSB's arealer. Selskaberne kunne
+på den mådé garantere deres kunder, at såfremt
+der skete noget ulovligt eller noget ubehageligt,
+kunne man tilbyde en video over situationen til
+eventuel retmæssig brug. Helt klart et system,
+som ville give både øget tryghed og bedre service.
+Inde i intercitytoget så jeg for første gang
+DSB's helt nye passagerovervågningssystem,
+som samtidig fungerede som billetkontrol og
+betaling - meget smart! Det var nu ikke længere
+nødvendigt at købe billet: Jeg skulle bare holde
+mit Dankort frem mod et af kameraerne i kupeen/og det foretog så helt automatisk registrering og træk på min bankkonto, hver gang vi
+passerede en ny station - jo længere rejse, desto
+større træk.
+Samtidig fik DSB masser af god information
+om ikke bare rejsevaner, men også om de rejsendes behov under rejsen. Systemet forebyggede enhver form for snyd, fordi vi alle blev
+elektronisk registreret og kun blev slettet, hyis
+der er dækning på kontoen. Samtidig var der i
+alle vogne indbygget en alarm, som udpegede
+eventuelle personer, som skyldte penge fra tidligere rejse. Jeg sad i kupé med en gammel sut,
+som straks udløste alarmen, og han blev omgående fjernet af det hidkaldte vagtkorps. Helt
+åbenlyst et system, som giver både øget tryghed og bedre service.
+Da vi passerede Storebæltstunnelen, anmodede en stemme om, at vi igen skulle holde
+vores Dankort frem, fordi Storebæltsforbindelsen skal opkræve sit eget, selvstændige gebyr
+for benyttelsen af tunnelen. I farten havde jeg
+imidlertid fået proppet mit Dankort ned i den
+forkerte lomme og nåede ikke at få det frem,
+inden vi kørte ind i tunnelen. Alarmen gik
+straks igang, toget bremsede, Storebæltsforbindelsens vagtkorps stormede ind og tvang mig
+ud på skinneterrænet - men så vågnede jeg heldigvis!
+Se, når jeg nu fortæller den historie, er det for
+at komme med et oplæg til, hvorfor jeg ikke kan
+støtte forslaget. Jeg er selvfølgelig helt med på,
+at der skal opkræves betaling af bilister, der vil
+over Storebæltsmotorvejen, selv om betalingen
+
+I
+
+947
+
+er alt for lav, og jeg er også helt med på, at man
+benytter et tv-kontrolsystem, der aflæser nummerpladerne, og at der kan krydstjekkes med
+nummerpladekontoret. Men jeg er absolut og
+fuldstændig principielt imod, at A/S Storebæltsforbindelsen får lov til at blive banebryder
+for en række overvågningsopgaver, bl.a. under
+dække af, at det handler om at give bedre service, og hvor det, at en person skal have kredit,
+betegnes - som det står i lovforslaget - som »en
+særlig risikobetonet situation«: Hvad er det dog
+for noget? Det, der her er tale om, er et ganske
+alvorligt skråplan i retning af Big Brother-samfundet, som jeg gerne vil have mig frabedt.
+Jeg er meget bange for, at indførelsen af dette
+system, som A/S Storebæltsforbindelsen åbenbart har lokket trafikministeren til at sige god
+for, vil åbne en ladeport for nye tiltag i den
+samme retning. Vi skal ikke have drømmen til
+at blive, til virkelighed, det vil jeg meget gerne
+medvirke til at forhindre, og derfor er jeg altså
+nødt til at stemme imod dette forslag.";Jette Gottlieb
+10057;name_party;":
+Det Radikale Venstre deler ikke Enhedslistens
+forbehold over for dette system. Vi accepterer,
+at den moderne teknologi er indført, og at man
+for at få en hurtig og nem afvikling af trafikken
+ved indkørslen i Halsskov i tre forskellige baner
+bliver nødt til at have dette system. Vi støtter
+altså forslaget.";Vibeke Peschardt
+10384;name_party;":
+Her foreligger et udmærket stykke håndarbejde, og CD vil godt give en hånd med: ingen
+problemer i det.
+Jeg skal dog benytte lejligheden til lige at
+kommentere bemærkningerne på side 3, pkt. 4,
+Høring. Forfatteren trænger muligvis til et
+danskkursus, for der står:
+»Lovforslaget har været sendt til høring ...«.
+Hvad forstår man ved »har været«? Er det
+sendt til høring? Hvad er det for en førdatid?
+Hvornår har det været til høring, og hvad har
+svaret været på de høringer? Når det har været
+sendt, må det jo være længe siden, og hvorfor
+oplyser bemærkningerne så ikke noget om,
+hvad høringsadressaterne har svaret?
+Vi havde i forrige uge her i Folketinget en
+høring om kvaliteten af udarbejdelsen af lovforslagene: bl.a. kom man ind på høringer, og det
+blev understreget, at der burde høres i tide. Det
+har flere af partierne sagt heroppefra gang på
+gang, så måske kunne ministeren i dag oplyse,
+
+948
+
+Fredag den 7. november 1997 (L 32)
+
+hvad dette »har været« står for - om det var
+anno dazumal, om det var i forgårs, om det var
+før lovforslaget blev trykt, eller hvad, og om
+høringssvarene foreligger. Dem kan vi selvfølgelig få i udvalget, og det får vi jo også, når vi
+bare beder om det. Men meningen med en
+høring må vel være, at når vi står her og
+behandler lovforslaget, burde vi vide, hvad
+høringsinstanserne - og det vil i denne sammenhæng især sige Registertilsynet og A/S Storebæltsforbindelsen - har ment om det. Det kan
+vi i dette øjeblik kun gætte os til, og det er ikke
+en rimelig måde at behandle Folketinget på.
+Jeg siger det ikke specielt til denne minister,
+skønt han har ansvaret for dette lovforslag, men
+til administrationen generelt. Sådan kan man
+altså ikke behandle voksne mennesker, og man
+skal være 18 år for at kunne komme i Folketinget, så det har vi vel lov at regne os for, uden at
+der dermed er sagt noget om, hvad vi ellers kan
+eller ikke kan. Kunne vi få det gjort lidt mere
+professionelt, ville vi være taknemmelige.
+Men fejlen ændrer ikke CD's fulde støtte til
+selve forslaget.";Arne Melchior
+12417;name_party;":
+Jeg skal sige, at fra Dansk Folkepartis side kan
+vi støtte lovforslaget. Det er jo et lovforslag, der
+kan siges meget lidt om eller meget om, og jeg
+er sikker på, at med de bemærkninger, der faldt
+fra hr. Arne Melchior som formand for udvalget, kommer vi nok til at diskutere sagen. Men
+vi kan støtte forslaget.
+Trafikministeren (Bjørn Westh):
+Jeg vil gerne sige tak for god støtte til lovforslaget.
+Jeg er enig med de ordførere, der har sagt, at
+der er tale om en meget stor trafikmængde, der
+gerne skulle kunne afvikles på kort tid uden
+ophobning, men selvfølgelig også på en sådan
+måde, at alle kommer til at betale det, de skal
+betale. Jeg vil også kvittere fru Jette Gottlieb for,
+at htm gerne vil være med til at registrere nummerpladerne, men i øvrigt generelt er imod
+overvågning.
+Overvågning kan være et godt element til
+trafikstyring. F.eks. bruges den i øjeblikket ved
+det store reparationsarbejde, der foregår ved
+Limfjordstunnelen, fordi det kan være fornuftigt at lede trafikken derhen, hvor der er åbent,
+så man kan få overblik over, hvad der sker. Der
+skal laves så lidt som muligt, og det er også
+derfor, jeg kommer med et lovforslag, så vi kan
+
+diskutere, hvordan det skal gøres. Jeg håber, fru
+Jette Gottlieb vil sove bedre i fremtiden, men
+jeg er da glad for, at hun har det bedre, når hun
+er vågen.
+Med hensyn til hr. Arne Melchior skal jeg
+gerne se på, om det danske sprog er brugt rigtigt: men jeg vil gerne sige, at det ikke er kutyme, at man nødvendigvis redegør i selve lovforslaget for alle de tilkendegivelser, der kommer ind. Høringssvarene bliver sendt til udvalget efter første behandling, og udvalget går i
+gang med den detaljerede debat. Her i dag
+tager Folketinget stilling til regeringens lovforslag, og inden man når frem til eventuelt at
+vedtage det, kender man alle høringssvarene.
+Hvis vi skulle gennemgå høringssvarene her
+ved første behandling, ville det ikke blive den
+store, principielle, generelle debat om hovedtendensen i lovforslaget, som er bestemt i Folketingets forretningsorden: så ville det jo blive
+en mere detaljeret debat. Men hr. Arne Melchior
+skal få alle de oplysninger, han har brug for for
+at kunne tage stilling til lovforslaget.
+(Kort bemærkning).
+Ame Melchior (CD):
+Tak til ministeren. Jeg er tryg ved, at vi får dem.
+Nu ved jeg godt, at det er L 32, vi diskuterer,
+men uden at trække for lange veksler på formandens tålmodighed vil jeg dog lige replicere,
+at selv hvis det altid er sådan, bliver det sandelig ikke bedre af det. Jeg bestrider dog, at det
+normalt er sådan.
+For det første skal vi interessere os for fra
+udvalgets side, hvornår forslaget har været
+sendt til høring, og det kan jeg altså ikke læse
+ud af dette »har været«. Det er muligt, at det
+bliver det i næste uge, og det kan godt være,
+det var i forgårs: det aner jeg ikke noget om.
+Hvis det er længe siden, og hvis svarene er indgået, må ministeren da give mig ret i, at det er
+vanskeligt at behandle et sådant lovforslag, hvis
+man ikke ved, om Registertilsynet har sagt, at
+det er i strid med registerloven. Det ville da
+have været interessant at vide. Eller for at se
+mere positivt på det ville det være interessant at
+vide, om de havde sagt, at det er helt o.k. Jeg er
+ikke bange for, at Justitsministeriet og Statsministeriet og Finansministeriet skulle have svaret
+trafikministeren negativt, og A/S Storebæltsforbindelsen har givetvis også været taget med på
+råd. Men det er da vigtigt at vide allerede ved
+en førstebehandling, om der er væsentlige,
+tungtvejende indvendinger under høringsfasen.
+
+Fredag den 7. november 1997 (L 32)
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Ole Donner
+16120;title_name;":
+Jeg foreslår, at lovforslaget henvises til Trafikudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+2) Første behandling af beslutningsforslag nr.
+B 5:
+Forslag til folketingsbeslutning om kommuners ret til at yde tilskud til sygdomsbehandling.
+Af Jan Køpke Christensen (FP) m.fl.
+(Fremsat 9/10 97).
+Sammen med denne sag foretoges:
+3) Første behandling af beslutningsforslag nr.
+B 6:
+Forslag til folketingsbeslutning om kommunal
+støtte til sygdomsbehandling.
+Af Ester Larsen (V) og Henriette Kjær (KF).
+(Fremsat 9/10 97).
+Forslagene sattes til forhandling.
+Forhandling";Henning Grove
+16820;title_name;":
+Det formål, som forslagsstillerne angiver som
+baggrund for deres forslag, er prisværdigt, og
+jeg tror ikke, der overhovedet er nogen, der kan
+komme op at skændes om det. Det drejer sig
+om at få nogle kortere ventetider.
+Men når det er sagt, vil jeg godt starte med at
+understrege, at jeg kan ikke støtte de to forslag,
+og det er der flere grtmde til. Først og fremmest
+har regeringens økonomiske oprustning af
+sygehusvæsenet gennem de sidste år faktisk
+ført til nogle meget positive ændringer i nedadgående retning i ventetiderne. F.eks. kan jeg
+nævne, at siden 1993 er antallet af mennesker,
+der venter mere end 3 måneder på en hjerteoperation, faldet fra ca. 60 pet. til ca. 8 pet. - det
+
+949
+
+er stadig ikke nok, men det går helt klart i den
+rigtige retning - og for 12 udvalgte operationstyper, som bl.a. omfatter hofte- og knælidelser,
+åreknuder, brok og diskusprolaps, er antallet af
+patienter, der venter mere end 3 måneder, faldet med 9 pet. i samme periode.
+I lyset af denne positive udvikling vil det
+efter min mening være forkert at iværksætte
+nye tiltag, som blot skaber rod og uklarhed om
+opgavefordelingen i sundhedsvæsenet, eller jeg
+skulle måske snarere sige i den offentlige sektor. Der er nemlig ingen tvivl om, at konsekvensen af dette her bliver rod og uklarhed,
+hvis kommunerne skal til at varetage sygehusopgaver, som det ellers er meningen, at amterne
+skal gøre. Det fremgår jo af sygehusloven.
+Vi har den udmærkede ordning her i landet,
+at det offentliges opgaver gennem lovgivning er
+fordelt mellem forskellige myndigheder og
+administrative niveauer. Når en opgave er henlagt til én myndighed, kan andre ikke gå ind på
+dette område, heller ikke selv om man måtte
+være utilfreds med den pågældende myndigheds indsats. Dette princip om opgavernes fordeling er det efter min opfattelse nødvendigt at
+holde fast ved.
+Det var noget om teknikken, men teknikken
+er selvfølgelig ikke det vigtigste. Det vigtigste
+er de mennesker, det handler om, og i den forbindelse er det min opfattelse, at hvis man i forbindelse med ventetiderne kun fokuserer på de
+patienter, der modtager sygedagpenge - og det
+er jo det, der vil være konsekvensen af de to
+forslag - er der meget stor risiko for, at der
+vil ske en opprioritering af de erhvervsaktive
+patienter på bekostning af andre gruppers adgang til sygehusvæsenet, og sagt helt enkelt:
+Det vil jeg ikke være med til!
+Jeg vil ikke være med til en ordning, hvor de
+erhvervsaktive systematisk kommer hurtigere
+til end børn, pensionister, arbejdsløse eller
+andre ikkeerhvervsaktive. Jeg synes nemlig, det
+er et godt - for ikke at sige det endnu stærkere,
+man kunne godt kalde det et helt nødvendigt princip, at det skal være lægefaglige kriterier,
+der afgør, i hvilken rækkefølge patienterne skal
+behandles, og ikke kommunale embedsmænd.
+Det ville der jo blive tale om, hvis man gennemførte det, der er hensigten med de to beslutningsforslag. Så skulle det være kommunale
+embedsmænd, som sad og afgjorde det, eller
+også - endnu værre - skulle det være et flertal i
+en kommunalbestyrelse, som tog stilling til, om
+
+950
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+hr. NN eller fru XX skulle rykkes frem på listen,
+fordi de betalte for sygehusbehandlingen.
+Min konklusion er derfor stadig, at der kun
+er én fornuftig løsning på problemerne med
+sygedagpenge til patienter på venteliste, og det
+er i al sin enkelhed at fortsætte med at nedbringe ventelisterne inden for amternes almindelige
+sygehusvæsen. Det var i den forbindelse, jeg
+glædede mig over, at ventetiderne er faldende.
+Så blot den ene bemærkning, at ud over den
+økonomiske oprustning af sygehusvæsenet,
+som jeg har nævnt, har regeringen iværksat en
+lang række målrettede initiativer, der også
+hører til i omegnen af denne problemstilling. Vi
+er f.eks. i meget fin samklang med amterne i
+gang med at inspirere til hurtigere indførelse af
+bookingsystemer på sygehusene, og vi er i gang
+med bedre arbejdsplanlægning og en lang række andre ting, som er med til at skabe større
+gennemskuelighed, større tryghed og dermed
+også en mere perspektivfyldt samarbejdsform
+mellem den enkelte patient og sygehusvæsenet.
+Sammenfattende synes jeg, at alt det, jeg har
+nævnt, er den rigtige vej at gå i stedet for at
+instituere en forskelsbehandling mellem patienter, som faktisk er det danske velfærdssamfund
+fremmed.";Birte Weiss
+21159;name_party;":
+Der er vel ikke noget usædvanligt i, at vi her
+har to næsten enslydende forslag fra henholdsvis Venstre og De Konservative og Fremskridtspartiet om at gøre det muligt for kommunerne helt eller delvis at betale for bestemte
+patienters behandling på privathospitaler. Det
+må kommunerne ikke i dag, og vi mener i
+Socialdemokratiet, at sådan skal det fortsat
+være, og det mener vi ud fra nogle ganske logiske lighedsbegreber.
+Det lyder besnærende, når de tre partier
+påstår, at deres forslag skal fjerne ventetiderne
+ved vores fælles sygehusvæsen. Jeg tillader mig
+at være knap så diplomatisk som ministeren og
+sige, at det er et rent blålys. Vi ved, at man taler
+mod bedre vidende, og at formålet endnu en
+gang er det rent ideologiske at hjælpe de trængte privathospitaler. De skal have kunstigt åndedræt med offentlige midler.
+Troværdigheden bliver naturligvis ikke større af, at et såkaldt fremtrædende medlem fra
+Venstre, hr. Peter Brixtofte, for åben tv-skærm
+opfordrer kommunerne til at begå lovbrud på
+området, jf. TV 2's »Rigets tilstand« onsdag
+aften. Jeg kan kun kalde en sådan opførsel for
+
+ynkelig, og jeg er helt sikker på, at brave Venstrefolk som Kresten Philipsen og andre ikke
+har været rådspurgt med hensyn til disse forslag.
+Socialdemokratiet går lodret imod forslagene.
+De er ren ideologi, og de hjælper ikke en pind
+på ventetiderne. For det første er der kun 89
+sengepladser i de fire resterende privathospitaler, mens der til sammenligning er 23.343 pladser i det offentlige, dvs. 262 offentlige sengepladser for hver privat. For det andet arbejder
+de få læger i de private sygehuse desværre også
+for det meste i det offentlige system. Det burde
+amterne forbyde efter min mening, og det betyder naturligvis, at kapaciteten i privat regi til
+enhver tid er helt afhængig af ressourcer, man
+hugger fra det offentlige, og derfor er V, K og
+Z's påstande rent blålys.
+Så længe det måske kun var enkelte, der fik
+de muligheder, kunne de komme til med det
+sammen: men hvis det private sygehus bliver
+brugt i bare beskedent omfang, vil der også
+opstå ventetider her. Det er simpel logik, man
+mangler jo kapaciteten, men saglighed tynger
+åbenbart ikke V, K og Z.
+Hvis man vil følge deres forslag, er det værste dog, som ministeren var inde på, at vi siger
+farvel til lighedsprincippet på området: det, at
+alle medborgere har lige ret til lige behandling
+efter behov. VKZ ønsker åbenbart to slags
+patienter, et A-hold og et B-hold. A-holdet kan
+enten selv betale eller får kommunen eller en
+anden arbejdsgiver til at betale for at springe
+ventelisten over, og tilbage har vi så langt den
+største gruppe, som omfatter børn, pensionister,
+arbejdsløse og mange andre - et stort B-hold af
+tabere, som ikke får disse muligheder for at
+bruge VKZ's populistiske forslag.
+Situationen for alle disse medborgere vil tilmed blive værre og værre, fordi de private
+sygehuse vil tappe de offentlige for specialister
+og sygeplejersker. De kan jo kun komme ét sted
+fra, de samlede ressourcer bliver jo ikke større,
+og på grund af unfair konkurrence kan private
+overbyde de offentlige arbejdsgivere med hensyn til løn og andre goder. Når jeg kalder det
+unfair konkurrence, er det naturligvis, fordi de
+private sygehuse nasser på de offentlige. Det er
+jo det offentlige, der sørger for uddannelse,
+forskning, akutberedskab med skadestuer, forundersøgelser, langtidsmedicinsk behandling
+osv., og de private kan så nøjes med at tage de
+mere givtige ting ind såsom knæ- og hofteoperationer.
+
+Fredag den 7. november 1997 (B 5 og B 6)
+Vil vil fastholde, at alle skal behandles lige i
+vores sundhedssystem. Det skal ikke kunne
+lade sig gøre at betale sig ud af køen til behandling. VKZ-forslagene lægger op til, at det
+fremover bliver kommunale embedsmænd eller
+i værste fald politikere i stedet for læger, der tilfældigt vurderer behovet for behandling, og det
+ville være både usagligt, lemfældigt og usmageligt. Selvfølgelig skal det fortsat være læger,
+som alene vurderer ud fra et behov, og ikke
+kommunens embedsfolk eller politikere, som
+vurderer ud fra, om det er afdelingschefen eller
+en pensionist, der er tale om.
+Forslagsstillerne nedgør også i utrolig grad
+de mange offentligt ansatte, som dagligt udfører et godt stykke arbejde til gavn for syge
+medborgere. Faktisk er vi ved at have rettet op
+på den borgerlige regerings forsømmelser fra
+1982 til 1993, hvor man skar ned og skar ned og
+forsømte at uddanne tilstrækkeligt personale og
+anskaffe nyt apparatur. Heldigvis er ventetiden
+til en række vigtige operationer mindsket betydeligt f.eks. på hjerteområdet, jf. ministeren, og
+det er den vej, vi skal gå. Vi skal fortsat forbedre de offentlige sygehuse og behandle efter
+behov og ikke efter folks pengepung, så vi afviser klart VKZ-forslagene.";Holger Graversen
+25923;name_party;":
+Hvor var det dog sørgeligt at høre både hr.
+Holger Graversen og ministeren.
+Har hr. Holger Graversen aldrig hørt om, at
+der også findes noget, der hedder privatpraktiserende speciallæger, og at det ikke kun er privathospitaler, der kan bruges? Og har hr. Holger Graversen aldrig tænkt på, at det drejer sig
+om syge mennesker, der ikke kan blive behandlet? Er man syg, må man nemlig ofte vente urimelig længe på at blive behandlet mod helt
+banale lidelser.
+Det har ikke noget med ideologi at gøre. Det
+har noget at gøre med, at vi prøver at løse et
+reelt problem, som vi står over for, og som er til
+stor ulykke, for de mennesker, der er blevet
+ramt af sygdom. Man kan ikke passe sit job,
+man bliver irritabel og modløs, og man bliver
+yderligere svækket af sin sygdom, fordi man
+skal vente så længe, mens tiden går.
+Ud over disse personlige lidelser skal kommunen betale sygedagpenge til den sygemeldte,
+og kommunerne bruger hvert år enorme summer til sygedagpenge til folk, der ville være
+fuldt arbejdsdygtige, hvis de bare kunne blive
+behandlet for deres sygdom. Så sent som i mor-
+
+951
+
+ges hørte vi i Radioavisen, at udgifterne til
+sygedagpenge stiger og stiger. Samfundet som
+helhed ville spare penge på at behandle folk så
+hurtigt som muligt, og det ville være en stor
+gevinst for de mennesker, der faktisk er syge.
+Og netop den situation, hvor vi har amtet, der
+tager sig af sygdomsbehandling, og kommunen,
+der udbetaler sygedagpenge, er et godt eksempel på, hvor skadeligt det er med for mange
+administrative led, for det fører til kassetænkning i stedet for effektive løsninger.
+Men med de her to beslutningsforslag har vi
+en mulighed for at komme kassetænkningen
+lidt til livs, så vi kan sikre folk en rimelig behandling, nemlig ved at tillade at de kommuner, der har et ønske om at kunne sende deres
+indbyggere til behandling på en privat praktiserende speciallæges klinik eller på et privathospital, også skal have mulighed for det.
+Den udgift, der vil være forbundet med en
+sådan behandling, er ofte langt mindre end det,
+kommunen skal udbetale i sygedagpenge. Og
+så burde alle jo være glade. Patienten bliver
+rask. Kommunen sparer penge. Det private
+behandlingssted får øget aktivitet, og presset på
+de offentlige sygehuse lettes.
+Men nu er loven altså indrettet på en sådan
+måde, at det ikke kan lade sig gøre for kommunerne at sende sine medborgere til privat behandling. Det vil vi lave om på. Vi ønsker, det
+skal være muligt for kommunerne at yde hel
+eller delvis støtte til sygdomsbehandling, selvfølgelig efter en konkret vurdering.
+Nogle kommuner vil måske ikke benytte sig
+af sådan en mulighed. Andre vil hilse et sådant
+instrument velkommen. Men det vigtigste for
+Det Konservative Folkeparti er, at kommunerne
+får muligheden for det.
+Jeg har et godt eksempel fra Skælskør. Det
+drejer sig om en familiefar, der kom til skade
+den 22. april 1997. I hospitalsvæsenet fik han
+oplyst, at han ville blive opereret i marts 1998,
+så det med de korte ventelister skal vi altså lede
+lidt længe efter. Der er altså tale om 11 måneders sygedagpenge a ca. 11.000 kr. pr. måned, i
+alt 121.000 kr.
+Han er blevet tilbudt en operation på et privathospital til 35.000 kr., men kommunen må jo
+ikke betale, og betaler arbejdsgiveren, skal han
+betale skat af de 35.000 kr., da det jo betragtes
+som et frynsegode. Igen en fuldstændig vanvittig ting: at det skulle være et frynsegode at
+modtage sygdomsbehandling. Og det havde
+han simpelt hen ikke råd til, denne familiefar.
+
+952
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+Konklusion: Efter 120 sygedage mister manden sit job. Og hvordan tror I, han går og har
+det? Det er jo tragisk, og vi kan simpelt hen
+ikke være det bekendt. Jeg synes, det er en
+åbenlys skandale, at vores system er indrettet
+på den måde. Det er systemet frem for mennesket. Lad os straks lave om på dette rædselsfulde system!
+(Kort bemærkning).";Henriette Kjær
+29812;name_party;":
+Den konservative ordfører kommer behagelig
+let uden om sagens kerne: at der kun er få ressourcer til at forbedre ventetiderne med.
+Det er rigtigt, at der også er speciallæger korrekt - men det offentlige gør også brug af og
+samarbejder med dem, så lad det ligge. Det, det
+drejer sig om, er de fire private hospitaler, der
+er tilbage, som kører på pumperne. De skal så
+hjælpes her.
+Det er ikke rart for nogen at være syg, hvad
+enten man er den, der falder for 120-dages-reglen eller andre regler, eller man er pensionisten,
+der venter på en hofte. Det er ikke rart for
+nogen. Men at bilde nogen ind, at man kan spare penge ved at bruge de private, den er langt
+ude, for i sidste ende er det jo et spørgsmål om
+kassetænkning, altså hvilken kasse pengene
+skal tages af. Om det er sygedagpenge eller
+dagpenge kan jo sådan set være det samme.
+Det var rart, hvis De Konservative og de borgerlige i øvrigt havde været lige så bekymrede
+for de syge, medens man havde magten, dengang man forsømte både det ene og det andet
+til skade for de syge i dag.
+(Kort bemærkning).";Holger Graversen
+30892;name_party;":
+Der bliver appelleret til, at vi skal lave dette
+rædselsfulde system om. Jeg er helt enig. Det
+skal vi gøre.
+Problemet er, at det system, der er i dag med
+enorme ventelister på en række sygdomme, er
+skabt af Det Konservative Folkeparti, af Venstre
+og desværre også af den nuværende regering.
+Og det, som fru Henriette Kjær præsenterer, er
+en ikkeløsning, som så skal præsenteres, som
+om det skulle være løsningen på de problemer,
+som den forrige regering, den forrige regering
+igen og den her regering har været med til at
+skabe. Det er helt hen i vejret.
+I spørgsmålet orii f.eks. mængden af folk, der
+er på sygedagpenge, dér er et af problemerne,
+at mange af dem lommer på dagpenge som
+
+konsekvens af den tvangsaktivering, som også
+De Konservative har været med til at lave. Det
+er faktisk hovedgruppen, hvilket undersøgelser
+også viser.
+Så kan man selvfølgelig sige: Nåh ja, men det
+er sådan nogle, der vil forsøge at finde et andet
+sted, men det betyder jo, at der ingen ændring
+er i det antal, der skal forsørges, enten de nu er
+på dagpenge eller på sygedagpenge. De har
+bare fundet en anden vej, fordi de simpelt hen
+ikke er i stand til eller kan overkomme at tage
+et job.
+(Kort bemærkning).";Bruno Jerup
+32111;name_party;":
+Til hr. Holger Graversen vil jeg sige, at man
+selvfølgelig sparer penge ved at behandle folk
+hurtigst muligt. Det er da en udgift, at man skal
+gå i et system og modtage sygedagpenge i stedet for, at man med det samme kan komme tilbage og passe sit job: det kan man altså ikke
+løbe fra.
+Det kan så godt være, at vi på et tidspunkt,
+hvis denne ordning vil blive en succes, vil løbe
+ind i et kapacitetsproblem, men det tror jeg
+ikke, for jeg tror, at der er mulighed for at øge
+kapaciteten. Selv om det er de samme folk, vi
+taler om, så tror jeg nu godt, at man vil kunne
+få mere ud af de samme mennesker: man vil
+alligevel kunne øge kapaciteten.
+Hr. Bruno Jerup siger, at det er den borgerlige regerings skyld, at vi det hele taget står med
+et sådant problem. Den synes jeg nu er lidt letkøbt, og jeg synes heller ikke, at jeg hører om
+nogle alternative løsningsmodeller.
+Jeg prøver ikke at stå heroppe og sige, at vi
+kan løse alle problemer i sundhedsvæsenet, ved
+at vi får indført denne ordning, for det kan vi
+ikke. Det er en lille del af det. Det er heller ikke
+alle folk på sygedagpenge, vi vil kunne få ud af
+sygedagpengesystemet, men vi kan hjælpe nogle. Lad os dog gøre det.";Henriette Kjær
+33313;name_party;":
+Jeg tror sådan set, at vi alle sammen kan være
+enige om, at det er fuldstændig vanvittigt at
+betale mennesker sygedagpenge for at stå på en
+venteliste til en operation eller en behandling i
+sundhedsvæsenet.
+Det er vanvittigt af mange forskellige grunde.
+For det første fordi det selvfølgelig påfører
+patienter, der skal vente, unødige lidelser. Det
+er også vanvittigt, fordi det risikerer at betyde,
+at sygdommen bliver værre og derfor fører til
+
+(120)
+Fredag den 7. november 1997 (B 5 og B 6)
+
+953
+
+større behandlingsbehov, og endelig er det økoSå vil jeg spørge: Hvis det nu er et spørgsmål
+nomisk vanvittigt, fordi det i mange tilfælde er
+om at proppe flere penge i sundhedsvæsenet dyrere at betale sygedagpengene, end det er at
+hvad der kan være fornuft i, forudsat at det blibetale behandlingen.
+ver gjort på en målrettet måde - hvorfor så ikke
+Så den pointe tror jeg at der sådan set er ret
+bruge pengene i det offentlige sundhedsvæsen,
+udbredt enighed om i hele Folketinget: det ville
+så det fører til en lige adgang til behandling for
+være ret svært at mene andet. Det, der så bliver
+alle, der står på venteliste?
+spørgsmålet, og det, der er den reelle debat, er
+Det, man kan konkludere ud fra de her to
+selvfølgelig, hvad løsningen er på den helt van- forslag, er, at hvis det kommende folketingsvalg
+vittige situation, vi i nogle tilfælde står i i dag. skulle gå på den ulyksalige måde, at vi får en
+Dér må jeg sige, at i SF synes vi ikke, at det
+borgerlig regering baseret på Dansk Folkeparti
+forslag, der ligger nu, er en løsning, for det vil
+og Fremskridtspartiet - hvis de kommer ind ikke betyde, at vi får afskaffet ventelisterne,
+vil vi altså få et sundhedsvæsen, hvor der er et,
+men kun får dem omfordelt, og det vil oven i
+A-hold, der kan blive behandlet med det samkøbet være på en måde, der er meget asocial.
+me, nemlig folk, der er i arbejde og har arbejdsDet forslag, der er til behandling, eller rettere
+givere, der vil betale for dem, eller som komsagt de forslag, der er til behandling, for de er jo munerne vil betale fori og så vil det være sådan,
+stort set ens, er efter vores mening diskrimine- at pensionister, studerende og arbejdsløse ved,
+rende: de vil føre til et dårligere sundhedsvæat under en borgerlig regering bliver de
+sen, og de vil føre til et dyrere sundhedsvæsen.
+behandlet sidst og skal vente længst.
+De er diskriminerende, fordi de vil betyde, at
+det er folk, der er i arbejde, og som kan få
+(Kort bemærkning).
+nogen til at betale for sig, der vil springe køen";Jørn Jespersen
+35842;name_party;":
+over, og det betyder selvfølgelig, at køen og
+Det var jo dejligt som altid at høre den store
+ventetiden bliver længere for dem, som ikke har
+demagog hr. Jørn Jespersen med hans tro og
+nogen til at betale for sig, netop fordi kapacite- ikke tro, og om en ordfører, der tror noget, og
+ten er begrænset. Det er den jo f.eks. på lægehvordan man dog kan stille et beslutningsforområdet. Der er ingen arbejdsløse læger, som
+slag på den baggrund!
+man bare kan udvide kapaciteten med.
+Vi ved jo ikke, hvor mange kommuner der vil
+Fru Henriette Kjær siger, at hun ikke tror, at
+benytte sig af det her. Det er der jo ingen der
+der vil komme et kapacitetsproblem. Det synes
+kan vide, uanset hvor grundigt vi har bearbejjeg er et lidt tyndt beslutningsgrundlag at have,
+det forslaget, og derfor kan vi heller ikke vide, 1
+når man fremsætter et beslutningsforslag i Fol- hvor stort presset bliver, men vi mener, at der
+ketinget, og jeg vil egentlig anbefale, at man
+skal være en mulighed, og så må vi se, hvordan
+havde undersøgt det en lille smule grundigere,
+det kan afhjælpes.
+før man fremsatte forslaget, sådan at man ikke
+Så vil jeg også sige til hr. Jørn Jespersen, at
+havde nødig at have en debat, hvor ordføreren
+modsat regeringen har vi i vores forslag til
+fra et af forslagsstillerpartierne uden nogen
+finanslov sammen med Venstre afsat penge til
+yderligere argumentation siger, at hun ikke tror, at styrke det offentlige sygehusvæsen. Vi har
+der vil komme et kapacitetsproblem.
+afsat adskillige millioner kroner, der skal
+Selvfølgelig vil der komme et kapacitetspro- afhjælpe nogle af de, her lange ventelister, så de
+blem. Det har jo vist sig, at de steder, hvor man
+bliver kortere.
+har fået nedsat ventelisten, skyldes det, at man
+Så vi ønsker også et styrket offentligt sygemålrettet har udnyttet kapaciteten til det yder- husvæsen med kortere ventelister, og dér sætter
+ste, har fået læger fra det offentlige til at opere- vi også ind, men vi står altså med et akut prore om aftenen og i weekenden og i det hele
+blem, som vi prøver at løse. Men jeg kan se, at
+taget fået alt det arbejde, som skal gøres, gjort. der ingen vilje er fra hr. Jespersens side til at
+Hvis man er parat til at poste flere penge i
+Ihjælpe med noget som helst. Det er igen - lige- .
+sundhedsvæsenet, og det forstår jeg at forslags- som hos Socialdemokratiet og i regeringen - ,
+stillerne er, skal det jo for det første finansieres,
+systemet frem for mennesket.
+og derfor ville det være rart at få at vide fra
+Venstre og De Konservative, om man er parat
+til at betale de ekstra skattepenge, der skal til,
+for det er jo ellers ikke den melodi, man hører.
+
+954
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+(Kort bemærkning).";Henriette Kjær
+38558;name_party;":
+Jeg overlader trygt til tilhørerne at afgøre, hvem
+der er mest demagogisk i sin argumentation, og
+så skal jeg bare sige, at det dér med troen faktisk gik på fru Henriette Kjær. Der er stadig
+væk ikke kommet nogle argumenter for, at
+kapaciteten automatisk ville blive udvidet,
+sådan at det, at man giver mulighed for at nogle
+springer over i køen, ikke skulle føre til, at
+andre kommer til at vente tilsvarende længere.
+Vil fru Henriette Kjær ikke godt dokumentere, hvorfra den øgede kapacitet skulle komme,
+bare fordi nogle kommuner betaler penge til
+privathospitaler? Hvor kommer der ekstra
+læger fra? Hvor kommer hele den ekstra kapacitet, som i dag mangler, fra? Hvordan vil man
+sikre sig, at det, at kommunerne begynder at
+betale i et omfang, vi ikke kender - selvfølgelig
+gør vi ikke det - ikke fører til, at de læger, der
+så skal stå på et privathospital, fordi de bliver
+købt fra det offentlige, mangler i det offentlige
+sundhedsvæsen. Så det er ikke et spørgsmål om
+at ville hjælpe: det er et spørgsmål om at diskutere, om det her er et middel, der overhovedet vil hjælpe.
+Min pointe er, og jeg mener, at den er ret
+indlysende, at det fordeler ventetiderne anderledes, men det vil ikke gøre spor for, at mindske de samlede ventetider. Der skal en lang
+række tiltag til, og det er langt mere kompliceret og besværligt end noget, Venstre og De
+Konservative kan beskrive på to linjer i et
+beslutningsforslag.
+
+Jeg skal ikke forklare eller fortælle, hvordan
+privathospitalerne internt løser det, hvordan de
+har aftaler og overenskomster med de læger, de
+har ansat, men fakta er, at vi har fået svar: at
+der er en vis kapacitet, som vi kan udnytte.
+
+(Kort bemærkning).";Jørn Jespersen
+40251;name_party;":
+Det er ikke i forbindelse med det her beslutningsforslag, men i en anden forbindelse, at
+man fra Sundhedsministeriets side - det var for
+to år siden, mener jeg - har spurgt de private
+hospitaler, privatpraktiserende speciallæger,
+hvordan kapaciteten var på udvalgte områder,
+hvor man ville forsøge at gøre en indsats for at
+nedbringe ventelisterne.
+Dér fik man svar tilbage, at der var kapacitet
+hos de privatpraktiserende speciallæger og ved
+privathospitalerne. Og de må jo have lavet nogle beregninger på, hvordan deres lægesituation
+er, og derudfra kunne vi altså se, at der var et
+klart billede: Vi kunne nedbringe nogle af ventelisterne, og der var kapacitet i den private
+sektor.";Henriette Kjær
+40961;name_party;":
+Det er jo en interessant debat, som vi stort set
+har en gang om året, og den handler om, hvor
+mange senge der er på privathospitalerne. Jeg
+mener ikke, det er meget mere end 100 eller 150
+senge. Det er selvfølgelig rigtigt, at der er nogle
+specialklinikker, hvor man også kan indlægge
+folk, og det synes vi også at amterne skal gøre,
+i det omfang de har politisk flertal for det, og
+det er sådan ca. i halvdelen af amterne.
+Forslaget her handler om, hvorvidt man skal
+give kommunal støtte til sygdomsbehandling. I
+øjeblikket er det sådan, at en kommune ikke
+kan gå ind og betale på privatklinikker og privathospitaler, og det synes vi i Det Radikale
+Venstre heller ikke der skal være mulighed for.
+For det ville - hvis man altså sagde ja til det betyde en ulighed i muligheden for at blive
+behandlet. Man ville simpelt hen nedprioritere
+
+(Kort bemærkning).
+Jøm Jespersen (SF):
+Nu handler det lige pludselig om de privatpraktiserende speciallæger. Det er da en helt
+anden debat. Jeg synes da absolut, man skulle
+udnytte kapaciteten hos speciallægerne. Det er
+SF en stor tilhænger af. Det gør man også rundt
+omkring i amterne. SF har f.eks. i Frederiksborg
+Amt medvirket til, at man på nogle områder,
+hvor man kunne flytte behandlingen fra det
+offentlige sygehusvæsen til nogle privatpraktiserende speciallæger, som havde kapaciteten,
+gjorde dette. Man skal da fra amtet, som har
+ansvaret for sundhedsvæsenet, gå ind og bestille ydelserne dér og betale for dem. Naturligvis
+skal man da det. Men der er da ingen grund til
+at blande kommunerne ind i det, så de skal til
+at lægge ud af deres kasse, som ikke er beregnet
+til sundhedsydelser.
+Det, vi snakker om, er privathospitaler, det er
+det, hele debatten handler om. Hvor mange
+arbejdsløse læger er der? Hvor mange sengepladser er det, der står parat til at modtage
+patienterne på privathospitaler? Hvor mange
+læger går rundt og venter på at komme til at
+operere på privathospitalerne?
+Kunne man ikke bare få de oplysninger fra
+de partier, som har fremsat forslaget?
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+955
+
+en lang række mennesker, nemlig dem uden for
+arbejdsmarkedet. Det kan vi ikke støtte. Vi kan
+ikke støtte nogen af forslagene.
+
+Det, vi er præsenteret for her, er efter vores
+opfattelse et virkelig eklatant eksempel på en
+ikkeløsning på et meget stort problem.";Vibeke Peschardt
+43304;name_party;":
+Det er to analoge forslag, som vi har set nogle
+gange før, og vi er imod begge forslag. Det danske sundhedsvæsen er offentligt skattefinansieret, og alle borgere skal have lige adgang uafhængig af alder, køn, race, social status osv. Det
+er vores grundholdning, at det forsat skal være
+sådan.
+Ventelisteproblemerne skal ikke løses ved ad
+bagvejen at lave skjulte privatiseringer, men
+ved at styrke det offentlige sundhedsvæsen,
+bl.a. ved at tilføre flere penge, øge demokratiseringen og den folkelige indflydelse på sundhedsvæsenet og videreudvikle brugerinddragelsen, f.eks. ved at man også ændrer på
+uddannelsen af sundhedspersonale. At give
+kommunerne mulighed for at vælge særlige
+grupper, som de vil købe behandling til, er et
+afgørende brud med lighedsprincipperne og,
+derfor efter vores opfattelse fuldstændig uacceptabelt.
+Enhedslisten er enig med forslagsstillerne i,
+at det er uheldigt/når familier trues af opløsning, personer bliver marginaliseret i forhold til
+arbejdsmarkedet eller andet, primært fordi det
+offentlige sundhedsvæsen ikke lever op til sine
+forpligtelser, men løsningen er altså at styrke
+det offentlige sundhedsvæsen og ikke lade
+kommunerne kassetænke i, hvilke befolkningsgrupper de ønsker at opprioritere behandlingsmæssigt.
+Vi kan altså sige, at det ikke er forslag, som
+på nogen måde kan få vores støtte. Det, det
+fører til, er alene, at man får et system, som
+samlet set både bliver dårligere og dyrere. Der
+bliver selvfølgelig nogle muligheder for, at der
+bliver nogle privat fabrikker - sundhedsfabrikker - som kan tjene nogle penge på det offentlige, men det er vi ikke tilhængere af.
+Hvis man skal ændre noget, er man nødt til
+også at gå ind og uddanne flere læger, og vi har
+også fra Enhedslistens side ved flere lejligheder
+luftet den tanke, men har ikke fået megen støtte
+fra hverken De Konservative eller Venstre. Og
+det er altså nødvendigt både at uddanne og
+, efteruddanne flere læger, for at man er i stand
+til at sikre den kapacitet, der skal til for at fjerne
+ventelisterne. Det er sådan set det egentlige og
+rigtige mål at sætte sig.
+
+Vibeke Kiil (CD):
+Forslaget kan umiddelbart lyde fornuftigt, men
+det løser ikke det problem, at hospitalerne ikke
+kan magte deres opgave.
+Centrum-Demokraterne taler varmt for at
+lade virksomhederne betale for behandlingen af
+deres medarbejdere, uden at det skal beskattes.
+Det vil spare på de offentlige udgifter til sygehusvæsenet, og ventelisterne vil blive forkortet.
+Men det her er en anden sag, for Venstres og De
+Konservatives forslag giver en uhensigtsmæssig
+konkurrence mellem to systemer. Det vil i givet
+fald være nødvendigt med en afgrænsning af,
+hvilke tilfælde vi taler om, dvs. en positivliste
+over, hvilke sygdomme der kan komme på tale.
+Det er svært at overskue følgevirkningerne af
+forslaget, og det må ikke bremse for, at det
+offentlige sygehusvæsen må bringes til at fungere.
+CD mener til gengæld, at forslaget rammer
+ind i et ømt punkt, nemlig opdelingen mellem
+stat, amter og kommuner. I denne her situation
+har kommunerne nogle udgifter til f.eks. sygedagpenge, som de ville kunne spare, hvis ventelisterne var kortere, men amterne, der har
+hospitalerne under sig, mærker ikke disse
+udgifter. To offentlige institutioner, men en kasse, nemlig den offentlige, bør samarbejde om at
+opnå de bedste løsninger og ikke modarbejde
+hinanden. Det håber vi i CD at der vil blive set
+på i forbindelse med den fremtidige opgavefordeling mellem stat, amter og kommuner.
+CD er imod, at man med et forslag som dette
+tror, at man ikke/behøver at skabe de forbedringer af de offentlige sygehuse, som vitterlig er
+nødvendige, for det er først og fremmest her,
+problemet ligger.
+Centrum-Demokraterne kan tilføje, at vi har
+tilsvarende bemærkninger til beslutningsforslag
+nr. B 6.";Bruno Jerup
+47087;name_party;":
+Dansk Folkeparti kan støtte de to forslag, og jeg
+kan slet ikke forstå, at hr. Graversen var sådan
+oppe på mærkerne, som han rent faktisk var.
+Han talte om, at\privathospitalerne nasser på
+systemet, og at de kører på pumperne.
+Ministeren kommer med nogle eksempler på,
+at ventelisterne er faldet en anelse med nogle få
+procenter. Jeg vil bare sige, at er man på en
+
+956
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+venteliste, er det jo ligegyldigt, om der er 47
+pct., der venter, eller der kun er 33 pct., der
+venter. Hvis man er imellem de sidste 33 pct.,
+så er det simpelt hen forfærdeligt.
+Jeg kan ikke forstå, at hr. Graversen taler så
+hårdt om A- og B-hold, for det har vi jo allerede i dag. Vi har et A-hold, og hvis de bliver
+syge, betaler de sig bare fri af ventelisterne. Vi
+har fremtrædende medlemmer her i Folketinget
+med Socialdemokraterne i spidsen, som benytter sig af det, og jeg ville også selv benytte mig
+af det, hvis jeg blev syg. Jeg ville ikke acceptere
+at gå og vente i så lang tid, hvis jeg havde
+mulighed for at blive behandlet på et privathospital. Hvorfor vedtager man ikke det her?
+Så taler man om kapacitetsproblemer. Jamen
+der er jo masser af muligheder for også at blive
+behandlet i udlandet, så må man bare betale
+det, det koster.
+Og når fru Henriette Kjær kommer med
+eksemplet med den familiefar, som må gå og
+vente et års tid på at blive behandlet, og som i
+mellemtiden bliver fyret, så kan man jo ikke
+have det med kassetænkning som modargument. Det må da være formålstjenligt, at man
+bruger pengene til behandling, så manden kan
+beholde sit arbejde og blive rask. Vi kan varmt
+anbefale begge forslag.
+Så vil jeg godt minde om, at nu har vi en lang
+venteliste for alle patienter. Den går frem til
+maksimalt den 20. september næste år, for så
+kommer der et folketingsvalg, og så kommer
+der formentlig et andet flertal her i Folketinget,
+som lynhurtigt kan få det her iværksat. Så den
+venteliste er en behagelig venteliste, for den kan
+man se en ende på, og det gør ikke ondt at gå
+og vente på det.
+(Kort bemærkning).";Ole Donner
+49159;name_party;":
+Jeg er meget glad for, at Dansk Folkeparti støtter disse forslag, for bare dette område er nemlig med til at vise hulheden i deres omsorg for
+pensionister generelt. Enhver kan sige sig selv,
+at pensionisterne ikke vil kunne gøre brug af de
+tilbud, der kommer. Det betyder, at pensionisterne bliver skubbet ned på ventelisterne, på
+den ventetid, der til enhver tid desværre vil
+være.
+Der er kun et at gøre: at forbedre de offentlige hospitaler endnu mere, end vi har gjort
+hidtil.
+
+(Kort bemærkning).";Holger Graversen
+49677;name_party;":
+Jeg er også glad for den meget klare melding,
+der kommer fra hr. Ole Donner, for det viser, at
+hr. Ole Donner og Dansk Folkeparti - sammen
+med de andre partier - er et grundlæggende
+asocialt parti, helt ned til roden et asocialt parti,
+som åbenbart kun har en ting i hovedet: hvordan kan man styrke A-holdet i det her land?
+Hvordan kan A-holdet få nogle ekstra rettigheder ud over det, de har i forvejen? Hr. Donner
+sagde selv, at A-holdet jo har råd til at betale,
+men ikke nok med, at hr. Donner konstaterede
+det, så sagde hr. Donner også, at vi skal give
+dem noget ekstra. Det er jo det, der ligger i det.
+De har råd til at betale, og nu skal de have
+noget ekstra.
+Men det betyder, som også andre har været
+inde på, at det bliver pensionisterne, det bliver
+de arbejdsløse, det bliver de studerende, det
+bliver folk, som ikke er på hr. Donners A-hold,
+der bliver skubbet bag i køen, og det bliver desværre ikke afhængig af, hvilken regering der
+sidder, men åbenbart afhængig af hr. Donners
+holdninger.
+(Kort bemærkning).";Bruno Jerup
+50721;name_party;":
+Hr. Ole Donner sagde én rigtig ting. Han sagde
+nemlig: Jeg forstår ikke det der med kapaciteten
+- og det var helt tydeligt. Men det betyder, at
+der er kun det antal læger, der er, til rådighed,
+og hvis man flytter dem over på privathospitaler, hvor nogle, der kan få tilskud, bliver behandlet, så mangler de i det offentlige sundhedsvæsen. Hvis et privathospital køber hjertelægerne fra Rigshospitalet, kan de jo ikke samtidig operere på Rigshospitalet. Og konsekvensen er altså, at der er nogle, der kommer tidligere til, og andre, der får tilsvarende lange ventetider.
+Derfor synes jeg, det er meget nyttigt, at vi i
+dag har fået slået helt fast, at hvis den ulykke
+skulle ske, at vi får en borgerlig regering baseret på Dansk Folkeparti, så ved pensionister,
+hvad de har i vente, nemlig en meget lang
+ventetid. Så ved studerende, hvad de har i
+vente, nemlig en meget lang ventetid. Så ved
+de arbejdsløse, hvad de har i vente, nemlig
+en meget lang ventetid. Sagen er den, at hvis
+Dansk Folkeparti får indflydelse, og det er der
+noget der kunne tyde på at de ulykkeligvis får,
+så bliver det pensionister, studerende og
+
+Fredag den 7. november 1997 (B 5 og B 6)
+arbejdsløse, som skal vente i bunden af ventelisten på alle behandlingstyper.
+(Kort bemærkning).";Jørn Jespersen
+51998;name_party;":
+Hr. Graversen og hr. Jespersen er bekymrede
+for pensionisterne. Jeg håber og tror ikke, at
+pensionisterne selv er bekymrede, for hvad er
+det, vi vil? Vi vil jo ikke have dem til at vente.
+Vi vil have, at de skal frem i køen, og netop ved
+at gennemføre disse to forslag vil ventetiden
+blive, fra den nye regering tiltræder, til forslagene er gennemført, så det er en overskuelig
+ventetid.
+Så var der det med kapaciteten. Jamen hr.
+Jespersen glemmer jo, at vi får en bro til Sverige. Det bliver hurtigere at køre til Sverige og
+blive behandlet derovre, og der er masser af
+pladser i udlandet, så det er kun et spørgsmål
+om at komme i gang og få det betalt.
+Så er hr. Bruno Jerup meget bekymret for, at
+vi er asociale osv., og nu bliver der ekstra
+afstand mellem A- og B-holdet. Vi vil altså bare
+have alle over på A-holdet, for pengene er der,
+men de bliver bare brugt til noget forkert i øjeblikket, nemlig til at folk skal gå på sygedagpenge, til at de skal miste deres arbejde, og til at
+de skal gå og pines, fordi de ikke kan blive
+behandlet. Jeg glæder mig umådelig til, at det
+her bliver gennemført.";Ole Donner
+53137;title_name;":
+Ordføreren for forslagsstillerne til B 5, hr. Jan
+Køpke Christensen.";Henning Grove
+53234;name_party;":
+Vi så igen her i dag, at de, der kalder sig socialt
+ansvarlige her i Tinget, nemlig regeringspartierne, CD og også Det Radikale Venstre, sammen med SF og Enhedslisten ikke ønsker at
+støtte det foreliggende forslag fra Fremskridtspartiet og heller ikke forslaget fra V og K desværre.
+Nu sagde hr. Bruno Jerup, at det ikke var første gang, Fremskridtspartiet har fremsat det
+her, men det er det faktisk, og det burde hr.
+Jerup måske også kunne læse i bemærkningerne. Men når vi kommer med forslaget fra Fremskridtspartiets side, skyldes det, at vi kan se
+ude i kommunerne, at den ene kommune efter
+den anden melder sig på banen og gerne vil
+indlægge deres borgere på private klinikker og
+hospitaler eller hos speciallæger, men det har
+lovgivningen endnu ikke gjort muligt.
+
+957
+
+Og det nærmeste tilfælde, jeg kender, er fra
+min egen kommune, hvor Fremskridtspartiets
+byrådsgruppe fremsatte det her forslag, og hvor
+faktisk hele byrådet bortset fra SF var indstillet
+på at gennemføre det. Men så blev det lagt over
+i socialudvalget og socialforvaltningen osv., og
+dér fandt man så ud afì at der også kørte en sag
+i Holmegård Kommune, og så ville man lige
+afvente udfaldet af denne sag først. Men princippet i, at kommunen skulle have lov til at indlægge kommunens borgere som patienter på et
+privathospital, sagde man altså ja til. Det var
+den principielle holdning hele vejen rundt bortset fra SF.
+Og det vil sige, at det altså ikke kun er den
+kommune, som jeg tilhører, Aabenraa Kommune, men også andre kommuner, der har været
+interesseret i at benytte sig af det, og det kan
+man også læse om i vores bemærkninger. Og
+jeg synes, det er fint, når socialdemokratiske
+borgmestre, f.eks. i Holmegård Kommune, står
+frem og siger: Vi gør det, uanset hvad lovgivningen siger, for det drejer sig først og fremmest om at spare de pågældende borgere for
+store smerter og dernæst om at spare skatteydeme i kommunen for nogle helt vanvittige
+udgifter til sygedagpenge, som kunne være,
+undgået.
+Så taler man ineget om kapacitetsproblemerne, men det ligger jo sådan, at et beslutningsforslag er meget overordnet formuleret, og det
+er da klart, at vi i Fremskridtspartiet meget gerne vil indgå forhandlinger med regeringen om
+at indføre en regel om, at der naturligvis ikke
+skal være en opdeling i A- og B-borgere, men
+at alle, der står på venteliste i en kommune, skal
+have mulighed for at blive behandlet på et privathospital, alt efter hvor længe de har stået på
+venteliste.
+Men så kan man jo sige, at det altså ikke er
+de store dagpenge, der bliver sparet, i hvert fald
+når det drejer sig om pensionister osv., og det
+er ganske rigtigt: det er helt klart. Men for
+Fremskridtspartiet har det altså noget med det
+rent medmenneskelige at gøre, at man naturligvis hjælper borgerne hurtigst muligt.
+Og hvis det viser sig, at der ikke er kapacitet
+nok på privathospitalerne, vil vi gerne udbygge
+vores forslag på den måde, at der også bliver
+mulighed for at overføre pengene til udenlandske hospitaler og dermed trække på de ressourcer, der er uden for landets grænser, således at
+den enkelte kommune kan sige til pensionist";Jan Køpke Christensen
+56353;title_name;"Hvis du ikke kan indlægges på en
+
+958
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+privat klinik eller et privat hospital inden for
+landets grænser, overfører vi pengene til udlandet, så du hurtigst muligt bliver behandlet.
+Så er det problem løst! Og det siger jeg især
+til de partier - og det er måske de mere venstreorienterede partier - der kører meget på
+kapacitsproblemerne.
+Så der er faktisk ikke store problemer i det.
+Men der er kæmpeproblemer med, at det flertal, der i dag er her i Tinget, og som har været
+her i alt for mange år, intet har gjort for at få det
+offentlige sundhedsvæsen til at fungere optimalt. For hvorfor har der aldrig været flere, der
+har meldt sig ind i Sygesikringen danmark, end
+der er i dag? Selvfølgelig fordi borgerne er
+meget utilfredse med den behandling, de kan
+forvente at få i det offentlige regi.
+Og derfor bliver vi altså nødt til at forholde
+os til virkelighedens Danmark, og det er faktisk
+sådan, at vi ikke kan leve op til det, som borgerne kræver af os her i Folketinget, nemlig at
+de kan komme til hurtigst muligt.
+F.eks. støttede Folketingets flertal allerede i
+1988 et dagsordensforslag fra Fremskridtspartiet, der gik ud på, at der maksimalt måtte være 3
+måneders ventetid til hospitalsbehandling. Men
+hvad er der siden sket? Stort set intet! Ventelisterne er ikke blevet mindre - tværtimod.
+Og jeg synes, det er værd at mærke sig, at
+man var enig i principperne, men hvad har man
+gjort fra de skiftende regeringers side, ikke kun
+den nuværende med Socialdemokratiet i spidsen - det er ganske rigtigt - men også den tidligere, borgerlige? Dér har man jo helt klart
+hver gang sagt: Nu forhandler vi noget på plads
+med Amtsrådsforeningen, for nu skal der altså
+skæres igennem, nu skal vi have de ventelister
+væk! Men trods det er der ikke sket noget. Nej,
+i stedet taler man om så mange andre ting, om
+kulturen osv. Men hvad er det værd, når helbredet ikke er i top?
+Og ud over at det drejer sig om, at patienterne hurtigst muligt skal i behandling, er det jo
+også sådan, at der inklusive sygedagpengene
+bruges kæmpemæssige økonomiske ressourcer
+på det område herhjemme, for det er klart, at jo
+længere en patient står på venteliste, desto mere
+medicin skal den pågældende patient have, og
+den er også tilskudsberettiget, og desto længere
+tid tager det også at komme på benene igen, og
+så skal den pågældende patient eventuelt på
+rekreationsophold osv. bagefter, fordi den
+pågældende har gået i for lang tid, inden vedkommende blev behandlet, og det koster også
+
+ekstra for det offentlige. Så det er og bliver i
+bund og grund en utrolig dårlig forretning at
+have medborgere på venteliste.
+Men hvis man ser bort fra det økonomiske, er
+det primære naturligvis - i hvert fald for Fremskridtspartiet, men det går jeg ud fra at alle er
+enige i - det rent medmenneskelige aspekt i
+denne sag, og her tror jeg, alle vi sundhedsordførere her i Tinget kender til daglige opringninger fra forskellige patienter om, hvor dårligt de
+bliver behandlet af det danske sundhedsvæsen.
+Men det, der er galt i den forbindelse, er bare,
+at først når hr. eller fru Jensen henvender sig til
+en folketingspolitiker, sker der noget, for så
+henvender den pågældende folketingspolitiker
+sig til systemet, og så kan den pågældende
+patient pludselig - sådan som jeg oplevede det
+for et par uger siden, da en patient henvendte
+sig til mig - godt blive indskrevet og komme i
+gang med behandlingen, og det kan jo ikke
+være rigtigt over for de svageste, som måske er
+nervøse eller ikke kan formulere sig og derfor
+ikke kan sætte sig ned og skrive et brev eller
+tage telefonen og ringe en folketingspolitiker
+op. Det kan da ikke være rigtigt, at de mennesker, som jo har det hårdt nok i forvejen, ikke
+kan komme til, og at det kun er dem, der råber
+højest, der kommer til.
+Vi må altså gøre noget for, at vores sundhedsvæsen kan blive bedre, og det, som Fremskridtspartiet har foreslået i dag, er altså en af
+de ting, som jeg mener kan forbedre situationen.
+Men jeg er da klar over, at der måske vil
+opstå problemer med hensyn til kapaciteten. Jeg
+siger ikke, at der gør det, men meget kunne
+tyde på det, for det er jo rigtigt, at vi ikke har
+nok læger herhjemme, og at der skal uddannes
+flere - det er vi enige med Enhedslisten i - men
+det kræver jo både tid og penge at uddanne flere læger, og desværre er situationen jo ikke til
+det i dag, og og derfor bliver vi altså nødt til at
+gøre, hvad vi kan, også ved at tillade patienterne at komme i behandling i udlandet. Sådan er
+situationen altså desværre i Danmark i dag.
+Det skal selvfølgelig ikke være noget, man er
+tvunget til, men man skal i hvert fald have tilbudet. Og jeg håber, at det rent medmenneskelige perspektiv kommer til at veje tungest, og så
+må vi bagefter se på kapacitets- og ressourceproblemerne. Men lad nu det kommunale selvstyre fungere ved, at den enkelte kommune får
+lov til at benytte sig af den mulighed, jeg her
+har skitseret. Og så må man fra regeringens
+
+Fredag den 7. november 1997 (B 5 og B 6)
+side udstikke nogle regler omí at der ikke må
+ske forskelsbehandling med hensyn til, om man
+er pensionist eller man er i arbejde, for naturligvis må alle, der står på venteliste, kunne
+komme til, alt efter hvornår de er indskrevet på
+den.
+Det skal så være mine ord i dag, og så håber
+jeg, at man vil tænke meget grundigt over dem
+og over det, der i dag under overskriften »Flere
+havner på sygedagpenge« står i JyllandsPostens Erhverv & Økonomi-sektion om, hvor
+overflødigt det er at give de penge ud til ingen
+verdens nytte.";Petersen
+61878;title_name;"Så er der indskrevet tre til korte bemærkninger:
+hr. Jørn Jespersen, hr. Holger Graversen og fru
+Hanne Andersen.
+(Kort bemærkning).";Formanden
+62029;name_party;":
+Jeg bliver nødt til at gentage, at jeg tror, vi alle
+sammen er enige i, at det er både vanvittigt og
+frygtelig uhensigtsmæssigt, at folk får sygedagpenge for at stå på en venteliste, for det er både
+lidelsesfuldt for de pågældende mennesker og
+dårlig økonomi for samfundet. Det er på alle
+måder en dårlig idé, og derfor handler diskussionen alene om, hvordan vi får det problem
+løst.
+Det er altså det, det handler om, og derfor må
+man sige, at set fra den enkelte kommunes side,
+som hr. Jan Køpke Christensen nævner, er det
+da oplagt, at hvis den kommune kan konvertere
+sine sygedagpenge til betaling for behandling
+på et privathospital, så er problemet løst for den
+pågældende kommunes vedkommeride, men
+hvad nu, hvis alle kommuner gør det? Hvad vil
+der ske, hvis alle de kommuner, som har mennesker på sygedagpenge stående på en venteliste, siger: Nu vil vi godt have dem behandlet på
+et privathospital? Hvordan kan det så lade sig
+gøre? Hvor er løsningen henne? Kan vi ikke få
+en helt håndfast dokumentation af, hvor den
+kapacitet er til stede?
+Hvis f.eks. 10.000 mennesker skal opereres
+inden for 10 dage som følge af det her forslag,
+hvilke privatklinikker eller privathospitaler har
+så den kapacitet? Kan jeg få en dokumentation
+af, hvor det kan lade sig gøre?
+Det, jeg efterlyser, er altså navnene på de
+konkrete steder, hvor man har de ledige ressourcer, hvor lægerne står parat, og hvor det
+kan lade sig gøre, for hvis ikke den dokumen-
+
+959
+
+tation kan forelægges, er forslaget det rene blålys.
+(Kort bemærkning).";Jørn Jespersen
+63575;name_party;":
+Også blot for at rette en misforståelse: Det er
+rigtigt, at ventelisterne stadig væk er der, og at
+de faktisk er lige så lange, som de hele tiden har
+været, men det er der mange andre grunde til,
+og det er ikke det, der er det mest interessante:
+det interessante er ventetiderne, for medmindre
+hr. Køpke Christensen vil benægte fakta, er
+ventetiderne på en række områder altså blevet
+meget kortere, og det er det, det drejer sig om.
+Og så kan vi endnu en gang konstatere her,
+at Fremskridtspartiets omsorg for pensionisterne ikke er den helt store, for når det siger sig
+selv, at en kommune skal være frit stillet med
+hensyn til, om den vil give tilskud eller ej, tror
+hr. Køpke Christensen så, at en kommune vil
+plukke nogle enkelte ud af pensionistrækken og
+give tilskud til dem? Nej, det vil naturligvis af
+økonomiske grunde blive nogle, der er ansat i
+kommunen, og som man betaler sygedagpenge
+for, der kommer i betragtning ifølge det her forslag, og ikke pensionisterne.
+(Kort bemærkning).";Holger Graversen
+64590;name_party;":
+Jeg vil gerne sige til hr. Køpke Christensen, at vi
+er meget optaget af at få bragt ventelisterne
+ned, for de skal ned, og ikke bare ventelisterne,
+men også ventetiderne.
+Og jeg synes også, at det, som hr. Jørn Jespersen påpegede, er interessant: Hvem er det,
+der venter på at komme til at behandle i tusindvis af patienter? For der er altså kun 90 senge
+på de private sygehuse i Danmark og over
+23.000 senge i det offentlige sygehusvæsen, og
+så kan jeg godt regne ud, hvem der kan præstere mest.
+Hr. Køpke Christensen peger også på, at man
+kan forsikre sig, men jeg synes, hr. Køpke Christensen skulle være fair og oplyse, at det jo kun
+er raske mennesker, der kan forsikre sig, og at
+de kronisk syge ikke har en chance, for de kan
+ikke blive forsikret, så de har ikke den udvej.
+Man kan nemlig kun blive forsikret i Danmark,
+hvis der ikke er risiko for, at man bliver syg.
+Det er altså et stort slag i den blå luft, og her
+kommer hulheden i forslaget igen frem.
+Og med hensyn til omkostningerne vil jeg
+gerne lige gøre opmærksom på, at gennemsnitsprisen for f.eks. en hofteoperation på et
+
+960
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+offentligt sygehus er 56.000 kr., hvorimod den
+er 72.000 kr. på et privat. Så hvis der bliver opereret fem patienter på et offentligt sygehus, er
+den ene altså gratis i forhold til, hvad det ville
+koste at operere de samme fem patienter på et
+privat.
+(Kort bemærkning).";Hanne Andersen
+66028;name_party;":
+Hvis man vil fejlfortolke, som fru Hanne
+Andersen gjorde det, kan man jo altid gøre det.
+Men det, jeg sagde, var, at der aldrig har været
+flere, der har tilmeldt sig Sygeforsikringen danmark, end der er i dag. Og jeg anbefalede ikke,
+at alle skulle have en sygeforsikring, frem for at
+det skulle betales over skatten, sådan som der
+lå i det, fru Hanne Andersen sagde. Det var
+ikke det, jeg sagde. Lyt efter, hvad der bliver
+sagt!
+Det, jeg siger, er altså, at der aldrig har været
+flere, som tilmelder sig Sygeforsikringen danmark. Og hvorfor gør borgerne så det? Det gør
+de naturligvis, fordi de ikke har tillid til det
+bestående sundhedssystem. Hvorfor skulle de
+ellers gøre det? Hvis det sundhedsvæsen, vi
+har, fungerede og var helt i top, var der jo ingen
+grund til at gøre det. Men det gør borgerne altså, og det er tragisk, synes jeg, men det må vi så
+forholde os til.
+Med hensyn til det, hr. Graversen sagde,
+synes jeg også, det var en bevidst fejlfortolkning, for der står intet i Fremskridtspartiets forslag om, at det skal gå ud over pensionisterne,
+og at det er kun de erhvervsaktive, der skal til.
+Jeg ved godt, at det økonomisk set er bedst
+for kommunen at få de erhvervsaktive behandlet først, og det sagde jeg også, men det er da
+klart, at vi gerne vil have, at der bliver indført
+klare regler om, at der ikke må gøres forskel
+med hensyn til, hvem der skal behandles hurtigst muligt. Det er vi helt klart med på, for vi
+mener selvfølgelig heller ikke, at der skal være
+forskel på, om det er en ældre pensionist, der
+måske har gået i et år og ventet på at få en hofteoperation, eller det er en erhvervsaktiv, og vi
+mener naturligvis, at det er det rent medmenneskelige perspektiv, det først og fremmest drejer sig om, fra Fremskridtspartiets side i hvert
+fald.
+Så vil jeg sige til SF, at man godt nok gang på
+gang hegler alle de forslag ned, der kommer om
+en forbedring af sundhedsvæsenet i relation til
+de mange ventelistepatienter, der er, men har
+SF fremlagt noget konkret, der kunne hjælpe på
+
+situationen? Mig bekendt ikke noget, der virkelig gennemgribende kan hjælpe de pågældende
+patienter, og det efterlyser jeg, for det kunne
+være meget interessant.
+Og med hensyn til lægerne erkendte jeg også,
+da jeg var heroppe, at der måske kunne blive
+nogle kapacitetsproblemer, og det skal jeg
+under ingen omstændigheder afvise kan ske,
+men vi ved jo også, at nogle sygeplejersker er
+tilsluttet vikarbureauer eller har andre job ved
+siden af deres offentlige stilling, og at der også
+kan være læger, der har andre job ved siden af
+deres offentlige stilling. Det er ikke noget, jeg er
+tilhænger af, men vi ved jo, at det er tilfældet,
+og hvis en læge i sin fritid hellere vil hjælpe til
+på en privatklinik end sætte et loft op i sit hus,
+eller hvad ved jeg, så for mig ingen alarm: det
+synes jeg lægen skal have lov til. Og uanset
+hvad man vælger at gøre i den situation, skal
+man naturligvis have frihed til det.
+Men jeg synes efterhånden, det er skandaløst,
+at man ikke vil åbne sig for, at der måske er en
+mulighed her, som bør prøves. Og som jeg sagde tidligere, skal der selvfølgelig være detaljerede regler om, at der ikke må ske nogen form
+for forskelsbehandling, uanset hvilke borgere i
+kommunen det drejer sig om.";Jan Køpke Christensen
+69275;title_name;"Så har vi en omgang korte bemærkninger til:
+fru Hanne Andersen, hr. Jørn Jespersen og hr.
+Holger Graversen. Og efter denne omgang korte bemærkninger går vi så videre til fru Ester
+Larsen.
+(Kort bemærkning).";Formanden
+69500;name_party;":
+Jeg må forstå hr. Jan Køpke Christensen sådan,
+at hr. Jan Køpke Christensen erkender, at kronisk syge ikke har en chance for at lade sig forsikre, og at kronisk syge altså ikke kan sætte
+deres lid til alternative ordninger.
+Jeg forstår også, at hr. Jan Køpke Christensen
+synes, det er i orden at betale 72.000 kr. for den
+operation på et privat sygehus, som man kan få
+for 56.000 kr. i det offentlige sygehusvæsen. Det
+er altså en god måde at anvende pengene på,
+forstår jeg!
+Og så vil jeg sige, at jeg ikke synes, det vidner om særlig megen omsorg for syge mennesker at sige, at de kan blive opereret af en læge,
+der arbejder på overtid på et privathospital. Jeg
+vil i hvert fald nødig være nummer fire eller
+fem på dagsoperationsprogrammet, fordi lægen
+
+(121)
+Fredag den 7. november 1997 (B 5 og B 6)
+arbejder på overtid: jeg vil faktisk gerne være
+den første på programmet og have en udhvilet
+specialist til at operere mig.
+
+ll
+
+.
+
+961";Hanne Andersen
+70454;title_name;"Så er det hr. Holger Graversen og derefter hr.
+Bruno Jerup og så hr. Jan Køpke Christensen.
+
+(Kort bemærkning).
+(Kort bemærkning).";Formanden
+70604;name_party;:;Jørn Jespersen
+70626;name_party;":
+Ja, det er jo ret nemt, det her: for nu er hele
+Jeg opfatter det, som hr. Køpke Christensen nu
+grundlaget under de to forslag åbenbart skresiger, som en ren bortforklaring af den kendsdet, og hr. Jan Køpke Christensen kan ikke læn-, gerning, at der vil opstå en forskel i behandlingere argumentere for sin sag. Den er også ual- gen, for med hensyn til pensionisterne er det
+mindelig dårlig.
+vist nu tilstrækkeligt understreget, at de ikke
+For det første siger han nemlig, at der ikke er
+kommer i betragtning. Det siger jo sig selv, for
+I noget i forslaget, der antyder, at pensionisterne
+kommunerne har jo ikke for mange penge at
+vil blive diskrimineret, men hele argumentatio- rutte med, og når en kommune så skal vælge
+nen i bemærkningerne - hele vejen igennem,
+nogle ud fra en venteliste på måske 100 til en
+uden undtagelse - går på, at kommunerhe skal
+bestemt operation, vil det naturligvis blive nogbruge sygedagpengene til at finansiere behand- le, som den kan spare sygedagpenge på, der
+lingen på privathospitalerne, og det betyder, at
+kommer i betragtning.
+de, der ikke er på sygedagpenge betalt af komOg en anden ting er, at det forslag, der kom
+munen, selvfølgelig ikke får tilskud, for det er
+om, at man også skal kunne bruge udenlandske
+der ingen økonomisk logik i, og det betyder alt- hospitaler, vil belaste den kommunale økonomi
+så, at pensionisterne ikke får noget tilskud, men yderligere, men på andre områder taler Frembliver nødt til at blive stående på den offentlige
+skridtspartiet jo for, at kommunerne skal sætte
+venteliste, og det kommer jo til at føre til lænderes udgifter ned og opkræve færre skatter
+gere ventetid for pensionisterne.
+osv., og i Fremskridtspartiets ændringsforslag
+Konklusionen er altså, at det vil favorisere
+til finanslovforslaget vil man over en bred front
+dem, der er i arbejde, og at det vil medføre læn- skære i den offentlige sektor.
+gere ventetid for pensionister, studerende og
+arbejdsløse.
+(Kort bemærkning).
+Der står nemlig intet i forslaget om, at der";Holger Graversen
+72652;name_party;":
+skal ydes tilskud til alle, sådan som hr. Jan
+Jeg synes også, det er interessant, at hr. Køpke
+Køpke Christensen siger nu. Ikke et ord står der , Christensen nu konstaterer, at der er kapacitetsom det. Det er noget, han finder på nu, fordi
+problemer. Men jeg synes, det ville væte endnu
+han aner problemer. Det står ikke skrevet i for- mere interessant, hvis ordføreren for det andet
+slaget, og det har altså ikke været tanken.
+forslag siden hen også ville forholde sig til den
+Og for det andet anerkender hr. Jan Køpke
+problemstilling og erkende, at der er kapacitetsChristensen nu, at der selvfølgelig bliver kapa- problemer, for det er sådan set den første forcitetsproblemer, og så bliver det altså noget
+udsætning for at forstå, hvad der skal gøres ved
+med, at lægerne skal arbejde i fritiden.
+det. Det er den ene ting.
+Men det er jo netop det, der er sket. Vi har
+Og en anden ting, som hr. Køpke Christensen
+f.eks. nedbragt ventelisten til hjerteoperationer
+bør forholde sig til, og som fru Hanne Anderved, at vi virkelig har fået folk til at tage over- sen også var inde på, er: Er det fornuftigt at
+arbejde, og det kan vi altså gøre i det offentlige
+bruge 25 pet. mere af sundhedsudgifterne for at
+sygehusvæsen. Men vi kan ikke løse hele vensikre, at man i den private sektor kan få lidt
+tetidsproblemet ved alene at gøre dét, og vi kan ekstra profit? Man får nemlig nøjagtig den samslet ikke gøre det ved, at lægerne i den offent- me ydelse, men den koster altså bare 25 pet.
+lige sektor arbejder på privathospitaler i fritimere.
+,
+den, for den kapacitet, som jeg efterlyste doku- ',
+Men hvis man skal tage hr. Jan Køpke Chrimentation for, er der ikke, og derfor fører det til
+stensens forslag for pålydende - og det forslag
+diskrimination, og derfor skal pensionisterne
+er åbenbart et helt andet forslag end det, der er
+altså vide, at de får længere ventetider.
+I
+afleveret til behandling her i dag, men jeg kan
+forstå, at man har planer om at lave et andet
+forslag, som så skal handle om det, som hr. Jan
+Køpke Christensen stod og talte om: i sidste ,
+
+962
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+indlæg - er det faktisk et forslag, hvor alle kan
+rykke foran i køen ved at blive henvist til privathospitaler. Men det er jo sådan set bare et
+forslag om at privatisere hele sundhedsvæsenet
+- andet er der jo ikke i det - og så kan hr. Jan
+Køpke Christensen jo bare sige, at det er det,
+der er hr. Jan Køpke Christensens forslag, i stedet for at tale om dette underlige forslag, for det
+er ikke det, der er til behandling.";Bruno Jerup
+75200;title_name;"Først hr. Jan Køpke Christensen og derefter fru
+Ester Larsen.";Formanden
+75288;name_party;":
+Med hensyn til, hvad der er til behandling, og
+hvad der ikke er til behandling, er jeg da godt
+klar over, at det ikke er præcis de linjer, der er
+til behandling, jeg har talt om, men uanset
+hvordan og hvorledes det forholder sig, når det
+drejer sig om beslutningsforslag, er vi som sagt
+interesserede i at få nytænkning igennem på det
+her område, fordi der virkelig mangler at blive
+afviklet en stor pukkel af ventelister, og det skal
+jo gøres på en eller anden måde, og vi mener
+altså, at det her er ét aspekt af det, som kan
+være med til det.
+Og med hensyn til, at kronisk syge ikke kan
+blive forsikret, er det da klart, at det ved vi
+godt, og man behøver da ikke at tmderstrege
+noget, som vi ved. Men problemet er jo, at det
+blandt andet er regeringens skyld, at der er de
+store problemer i sundhedssektoren, og det er,
+som om man prøver at vende det om, så det
+bliver Fremskridtspartiets ansvar, at der er disse kæmpeproblemer i sundhedssektoren.
+Ellers plejer regeringen jo at bryste sig af det
+hele, i hvert fald hvis det er noget, der går godt.
+Men med hensyn til ventelisterne går det virkelig ad h . . . til: det ved vi alle sammen, og det
+ved regeringen selvfølgelig også, og det er selvfølgelig et problem for regeringen, og så er det
+jo smart at prøve at vende det om, så det er os,
+der bliver ansvarlige for det, men det er det
+ikke.
+Og med hensyn til kapaciteten har jeg altså
+sagt, at jeg ikke vil afvise, at vi kan få et problem. Jeg siger ikke, at der er et problem: jeg
+siger, at jeg ikke vil afvise, at vi kan få et sådant
+problem: det er da klart.
+Så kan man måske sige, at vi opfører os lidt
+radikalt på det område, men det er da klart, at
+vi ikke på forhånd kan vide det. Og hvor meget
+kommunerne vil benytte sig af den situation,
+
+ved vi heller ikke. Men vi må da prøve at se på,
+hvad der kan gøres, og hvordan det kan gøres
+bedst muligt, og jeg tror altså, at det her kan
+løse store problemer, og det er naturligvis ikke
+noget, der skal gå ud over de svageste, over
+pensionisterne.
+Og hvis kommunerne også kan sende deres
+patienter til udlandet, sådan som jeg har været
+inde på, er det da klart, at det vil løse nogle af
+problemerne med hensyn til de ventelister til
+behandling, der er på de offentlige hospitaler,
+for jo færre erhvervsaktive der er på ventelisterne i det offentlige sygehusvæsen, desto flere
+pensionister vil der da kunne blive behandlet
+dér, og så bliver ventelisterne naturligvis forkortet: det siger sig selv, og det må selv Socialdemokratiet kunne forstå.";Jan Køpke Christensen
+77803;title_name;"Så er det ordføreren for forslagsstillerne til
+beslutningsforslag nr. B 6 (forslag til folketingsbeslutning om kommunal støtte til sygdomsbehandling), fru Ester Larsen.";Formanden
+77988;name_party;":
+Det er forstemmende at lytte til denne debat.
+Det er forstemmende at opleve, at mange medlemmer af dette Ting holder så krampagtigt fast
+i det princip, at systemet er vigtigere end det
+enkelte menneske, og det er forstemmende at
+registrere den kolossale mistillid til kommunerne, der kommer til udtryk under debatten.
+I dag er det sådan, at det kun er de bemidlede, der er i stand til at benytte privathospitalerne, og jeg tror, vi er mange, der interesseret og
+opmærksomt følger fremtrædende socialdemokratiske personers omgang med principperne,
+når de selv står i vanskelige sygdomssituationer, og vi vil med dette forslag meget gerne
+give ikkebemidlede, som står i en helt uacceptabel situation, den samme mulighed, og her vil
+de kronisk syge, som fru Hanne Andersen har
+talt om ikke kan blive forsikret, kunne komme
+ind under den kommunale omsorg. For det er jo
+rigtigt, at det er en ekstra byrde for de kronisk
+syge, at de ikke kan forsikre sig.
+Og jeg synes, det har været interessant at følge den kolossale interesse for, om kapaciteten
+nu er tilstrækkelig, men jeg tror ikke, kommunernes iver efter at bruge dette instrument vil
+være særlig stor, for det, der ligger i vores forslag, er blot at give kommunerne en lovlig
+mulighed for at have en nødbremse at trække i,
+når mennesker er ved at blive kvast i systemet.
+
+Fredag den 7. november 1997 (B 5 og B 6)
+Og hvis man alligevel skulle være meget
+bekymret - som jeg kan høre at nogle af mine
+kolleger er - kan man jo rent teknisk indlægge
+nogle grænser for, hvor meget der må trækkes i
+nødbremsen, hvis det er det, man er bekymret
+for. Men det, jeg mangler i debatten, er en
+omsorg for de mennesker, som på grund af
+ventetiden kommer i en særlig belastende
+situation.
+Jeg er enig i, at ventetiderne i det offentlige
+sundhedsvæsen skal bekæmpes, og det gøres
+også, men jeg er også enig med sundhedsministeren i, at ventetiderne ikke kan afskaffes, fordi
+der jo hele tiden finder en nyudvikling sted,
+som jeg ved flere lejligheder har hørt ministeren
+sige. Men det er helt evident for den, der interesserer sig for patienterne, at ventetiden opleves umådeligt forskellig alt efter de situationer,
+som den enkelte er i. Og ventetiden på undersøgelse og ventetiden på behandling har helt
+forskellige konsekvenser, afhængigt både af
+den sundhedsmæssige situation og af den
+sociale situation.
+For eksempel er der mange steder problemer
+med kapaciteten med hensyn til ledundersøgelser, og det medfører altså forskellige gener i
+forskelligt omfang, idet der faktisk er mennesker, der venter på disse undersøgelser, som er
+i stand til at passe deres arbejde, mens de venter på at få den rette diagnose stillet, mens
+andre er totalt uarbejdsdygtige, og de risikerer
+altså at blive udstødt af arbejdsmarkedet, mens
+de venter, og det er særlig bittert at opleve for
+erhvervsaktive, som netop er kommet i den
+situation på grund af en erhvervsskade.
+Så selv om ventetidsproblemérne lykkeligvis
+er for nedadgående for nogle diagnosers vedkommende, er den samlede ventetid til undersøgelser og behandling i nogle tilfælde katastrofal for enkelte patienter. Og da kommunerne er de myndigheder, der er tættest på borgerne, synes jeg, det vil være meget naturligt at
+give kommunerne en lovlig nødbremse at trække i, når en borger er på vej ned ad en social sliske.
+Hvis en samlet konkret vurdering af en borgers helbredsmæssige og sociale situation taler
+for, at man bør gribe aktivt ind og sørge for, at
+der bliver sat en behandling i værk, bør det altså være lovligt at lade fornuften og omsorgen
+råde. Og vi giver faktisk den kommunale sektor
+en lang række lovlige redskaber til at forebygge
+social deroute af andre årsager, men hvis årsagen til de uheldige omstændigheder er vente-
+
+홢
+
+963
+
+tiden i det offentlige behandlingssystem, lader
+vi altså fortsat både borgerne og kommunen i
+stikken.
+*
+Der er unge under uddannelse, der risikerer
+at ryge ud af uddannelsessystemet på grund af
+ventetiden: der er arbejdsløse, der i visse situationer ikke kan komme i arbejde igen og dermed bliver fastholdt i urimelig ledighed, fordi
+de skal vente på præcis den behandling, der
+sætter dem i stand til at vende tilbage: og der
+er pensionister, der bliver helt uacceptabelt
+afhængige af fremmed hjælp, når de skal vente
+på en operation for den stær, som har gjort dem
+blinde. Og jeg synes, det er forstemmende, at
+disse mennesker ikke må hjælpes af hensyn til
+nogle meget fastlåste lighedsforestillinger, for
+en meget nidkær håndhævelse af disse lighedsforestillinger bringer altså disse mennesker i
+ulykkelige og uacceptable situationer.
+Og jeg synes også, det er meget forstemmende, at man ikke herinde har tillid til, at kommunerne, som jo er tæt på borgerne, ikke skulle
+være i stand til at foretage en konkret samlet
+vurdering af, om et menneske er i knibe, og i
+givet fald hjælpe det menneske til den behandling, som kan løse op for problemerne.
+Så hvis det for hr. Jørn Jespersen og andre
+alene er et problem med hensyn til kapaciteten i
+den private sektor, kan vi da bare lægge et loft
+over trækkene i nødbremsen. Og jeg kan også
+henlede opmærksomheden på, at der faktisk er
+en del danske læger, som bruger en hel del af
+deres optjente fritid på at behandle patienter i
+de andre nordiske lande, og så kunne det jo
+være, at de først og fremmest kunne blive
+beskæftiget i Danmark, og det ville da være til
+glæde for de danske patienter.";Ester Larsen
+83378;title_name;"Så er der anmeldt fem korte bemærkninger,
+men vi tager først de fire, og så får fru Ester
+Larsen mulighed for at svare, og så går vi videre med de korte bemærkninger. Men de første
+fire er fru Hanne Andersen, fru Vibeke
+Peschardt, hr. Jørn Jespersen og hr. Bruno
+Jerup. Derefter kommer så hr. Holger Graversen.
+(Kort bemærkning)., ,";Formanden
+83729;name_party;":
+I virkeligheden undrer jeg mig meget over fru
+Ester Larsen som forslagsstiller og ordfører for
+dette forslag. Men jeg må jo skønne, at forklaringen er, at sygehusudvalgsformanden i Fyns
+
+964
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+Amt, fru Ester Larsen, har opgivet at rette op på
+at indrette sygehusvæsenet på Fyn, så man kan
+løse de opgaver, som borgerne forventer at man
+løser, og give de tilbud, som borgerne også forventer at de kan få.
+Jeg synes, det er forstemmende at høre ordføreren sige, at de kronisk syge, de, der har
+brug for særlig omsorg, kan sætte deres lid til
+kommunerne, så når amterne svigter, må kommunerne tage sig af dem. Det tror jeg de gør i
+stor udstrækning i forvejen.
+Men jeg synes, en hovedopgave for amterne
+var at tage sig af de særligt belastede syge.
+Hvem der er de særligt belastede, hvem der har
+de største problemer, er jo en lægelig vurdering.
+De skulle jo ikke vente længst. Sådan er det
+ikke, for så er der i hvert fald nogle læger, der
+vurderer forkert.
+(Kort bemærkning).";Hanne Andersen
+84769;name_party;":
+Jeg synes jo næsten, det var rørende at høre fru
+Ester Larsens bemærkninger om kommunernes
+omsorg for patienterne, og i den forbindelse vil
+jeg gerne komme med nogle gode råd både til
+fru Ester Larsen og til kommunerne.
+Det er nemlig sådan, at kommunerne i den
+sociale lovgivning har fået nogle særlige redskaber og instrumenter til at gå tidligt ind i
+sygedagpengeforløbet. Det kunne man kombinere med, at man fra kommunal side tog fat i en
+patient og sagde: Nu bruger vi sygehuslovens
+nye muligheder for at se, hvor i Danmark man
+kan behandle hurtigst.
+Det er jo sådan, at amterne i dag skal offentliggøre deres ventetider, og der er altid mulighed for at sende patienten fra et amt til et andet.
+Her kan kommunen spille en stor og vigtig rolle
+både i forhold til sit eget amt og som - skal vi
+sige - »sygeplejerske« over for patienten.
+Patienter ved meget tit ikke, hvor de er henne i
+sygehussystemet i dag. Derfor kunne de godt
+trænge til noget almindelig oplysning om,
+hvordan man forholder sig, og det kunne deres
+primærkommune hjælpe dem med.
+Jeg tror, at et af de tilfælde, man så beskrevet
+forleden aften i tv-programmet »Rigets tilstand«, kunne have været afhjulpet, hvis den
+pågældende kommune havde taget hånd om
+patienten fra starten. Kommunen kunne også
+have sparet sygedagpenge ved det.
+
+(Kort bemærkning).";Vibeke Peschardt
+86112;name_party;":
+Jeg synes, det er forstemmende at høre fru Ester
+Larsens forsøg på at gøre sig til den eneste, der
+nærer en speciel omsorg for de svage i samfundet. Jeg forstår, at forslaget her lægger op til, at
+kommunerne skal kunne gøre en særlig indsats
+for personer, som er særligt belastede helbredsmæssigt.
+Er det ikke i forvejen amternes opgave at
+gøre det? Er det ikke sådan f.eks. i Fyns Amt,
+hvor fru Ester Larsen har ansvaret for sundhedsvæsenet, at man har sørget for, at sundhedsvæsenet i forvejen tager hensyn til folk, der
+helbredsmæssigt er særligt belastede?
+Hvis det ikke allerede er tilfældet i Fyns
+Amts, så synes jeg da, at formanden for Sundhedsudvalget gør et ualmindelig dårligt stykke
+arbejde, og jeg synes, at det er forstemmende, at
+det så lige pludselig skulle være en opgave, der
+overgår til kommunerne, fordi formanden for
+Sundhedsudvalget ikke magter at løfte den
+opgave.
+(Kort bemærkning).";Jørn Jespersen
+87037;name_party;":
+Fru Ester Larsen nævnte, at der skulle være
+mulighed for, at kommunerne havde en slags
+nødbremse, som de kunne trække i, når de fik
+øje på en virkelig vigtig historie. Og jeg kalder
+det bevidst en historie, for sagen er jo, at hvis
+man kigger på ventelisterne til behandling, så
+er der jo stort set en smertefuld historie bag
+hver eneste person, der står på en sådan liste.
+For nogle er problemet, at de ikke er i stand
+til at få et arbejde, andre er måske ældre medborgere, som ikke kan komme ud af deres hjem,
+fordi de ikke kan få en hofteoperation, og for
+nogle helt tredje er der nogle andre problemer.
+Det vil sige, at spørgsmålet om, hvorvidt en
+kommune har behov for at trække i nødbremsen, alene handler om, hvorvidt den lokale
+presse tager en bestemt person, skriver en god
+historie om vedkommende. Og så er vi alle
+sammen enige: Det må der gøres noget ved.
+Min pointe er, at det skal man gøre for alle
+dem, der står på ventelisterne, hvis man vil
+gøre det ordentligt. Men det er simpelt hen en
+forkert vej, for det betyder bare, at man får et
+system, hvor det er sådan, at politikerne i kommunerne bliver sådan nogle, der skal piskes
+rundt af den lokale presse, hver gang der er en
+god historie om en, der er syg. Dem er der
+mange af, og derfor skal ventelisterne væk.
+
+Fredag den 7. november 1997 (B 5 og B 6)
+(Kort bemærkning).";Bruno Jerup
+88396;name_party;":
+Jeg takker for mine kollegers store interesse for
+mit arbejde i Fyns Amt, og sådan særlig ros fra
+denne forsamling havde jeg ikke forventet at
+modtage. Jeg synes også, det er sagen ret uvedkommende.
+Det, vi med vores forslag meget gerne vil
+tage højde for, er den situation, hvor kombinationen af behov for en lægelig behandling plus
+nogle særlige sociale omstændigheder skubber
+mennesker ned ad en social sliske ud i en social
+deroute.
+Det er selvfølgelig sundhedsvæsenets ansvar
+at drage omsorg for de syge, det er det, vi har
+sundhedsvæsenet til, det behøver man sådan :
+set ikke at belære hinanden om. Men i sundhedsvæsenet er det nu engang sådan, at man
+behandler folk i rækkefølge, medmindre de helbredsmæssigt er stærkt truede.
+Man kan lade sociale hensyn indgå i rækkefølgen, men det er unægtelig nemmere for en
+medarbejder i en kommune, som har hele patientens situation klarlagt, at se, hvad konsekvensen er, hvorfor dette menneske rammes
+særlig hårdt af en ventetid. Det er, som om man
+ikke vil acceptere, at konsekvenserne af ventetider er vidt forskellige.
+Vi har mennesker, som jeg nævnte før, der
+venter på ledundersøgelser, og som er i stand
+til at passe deres arbejde. Sammen med dem
+venter en ung håndværker, som er faldet ned af
+en stige, som er uarbejdsdygtig, som mister sit
+job, som er ved at miste sit hus, fordi hans terminer bliver for uoverskuelige, og når det går
+helt galt, så løber konen fra ham. Der er altså
+et samspil mellem nogle fysiologiske, nogle behandlingsmæssige behov og så nogle sociale
+omstændigheder, som er vidt forskellige.
+Det er det hensyn, som jeg synes man burde
+overlade kommunerne en mulighed for at kunne tage.
+(Kort bemærkning).";Ester Larsen
+90100;name_party;":
+Vi vil naturligvis ikke afvise, at nogle kan være
+mere belastet af at stå på venteliste end andre.
+Men vil det være rigtigt og sagligt at lade kommunale embedsfolk, eventuelt kommunalpolitikere, afgøre det i stedet for læger? Det kan vi
+ikke se.
+Vi har stor tillid til kommunerne. Fru Ester
+Larsen har stor mistillid til amterne, der står for
+
+965
+
+sygehusene, og altså de mange amtspolitikere,
+bl.a. fru Ester Larsen.
+Det er jo rørende at høre om Venstres menneskelige omsorg. Vi har stor omsorg for alle,
+der står på venteliste, og ikke bare en udvalgt
+gruppe.
+Det, vi skal gøre, og det kan vi så spørge om
+Venstre er villig til at være med til, er at mindske ventetiderne ved de offentlige sygehuse.
+Det er den rigtige vej at gå, så vi stadig væk kan
+behandle alle folk lige. Det vil jeg godt have et
+svar på.
+Det går nemlig ikke så dårligt eller, som hr.
+Jan Køpke Christensen tidligere sagde, ad h ...
+til. Ventetiderne er kortet ned på en række
+områder, og det er den vej, vi skal.
+(Kort bemærkning).";Holger Graversen
+91127;name_party;":
+Jeg forstår simpelt hen ikke fru Ester Larsens
+argumentation, for selvfølgelig betyder den
+aktuelle lidelses sværhedsgrad noget. Jeg har
+været til mange konferencer, hvor man netop
+har snakket om hele patientens situation i
+sundhedsvæsenet, og det går jeg også ud fra
+læger og sundhedspersonale gør, når de skal
+vurdere behovet og hvilken plads en patient
+skal have i ventetiden. Det er ikke alene datoen,
+der er afgørende for, hvor man kommer til at
+stå på listen.
+,
+Så vil jeg også gerne spørge, sådan som jeg
+spurgte hr. Jan Køpke Christensen, om fru Ester
+Larsen synes, at det er fornuftig anvendelse af
+borgernes penge at betale 72.000 kr. for en operation, når man kan få den for 56.000 kr.? Det er
+nemlig borgernes penge, der bliver brugt tiladet.
+(Kort bemærkning).";Hanne Andersen
+91922;name_party;":
+Jeg synes, det er en besynderlig opfattelse af det
+kommunale og det amtskommunale selvstyre,
+der kommer til udtryk i fru Ester Larsens indlæg. Jeg forstår, at det skal være sådan, at nu
+skal visitationen til sundhedsvæsenet - hvem
+skal have hurtig adgang, og hvem skal ikke
+have det - ifølge fru Ester Larsen ligge hos
+kommunale embedsmænd, der ikke har chance
+for at vurdere de helbredsmæssige ting, som
+lægerne i dag gør og prioriterer ud fra, og som
+har én parameter at tage hensyn til, nemlig
+kommunens økonomiske egeninteresse.
+Det må betyde, at det, der er essensen i forslaget, er, at Venstre har den opfattelse, at folk i
+arbejde skal behandles med det samme, og folk,
+
+966
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+der ikke er i arbejde, f.eks. pensionister, studerende og arbejdsløse, skal vente så meget desto
+længere.
+Jeg savner også et svar på kapacitetsproblemet. Er det ikke sådan, at hvis man flytter
+kapacitet fra det offentlige til private hospitaler,
+hvor nogle kan blive behandlet og andre ikke
+kan, så mangler kapaciteten i det offentlige, og
+derfor bliver ventetiden længere for dem, som
+det ikke bliver betalt for?
+(Kort bemærkning).";Jørn Jespersen
+93099;name_party;":
+Det ville være en lykke, den dag vi her i huset
+nåede til kun at udtale os om det, vi selv mener,
+og så lade være med at pådutte hinanden nogle
+meninger og holdninger, som vi ikke har. Jeg
+synes, det er groft, at jeg skal lægge øre til, at
+jeg har mistillid til amtspolitikerne. Hvad i
+alverden er meningen? Jeg har umådelig stor
+respekt for de mennesker, som slås med at få
+det danske sundhedsvæsen til at fungere, så det
+vil jeg meget gerne have mig frabedt.
+Jeg blev afkrævet svar på spørgsmålet, om
+jeg ønsker ventetiden sat ned i det offentlige. Ja,
+det kan jeg så sandelig garantere for. Det knokler vi med rundt omkring i det danske landskab. Jeg har bare ikke tillid til - og der er jeg
+på samme linje som ministeren - at ventetider
+forsvinder ud i den blå luft, og når jeg hører, at
+Finansministeriet lægger op til, at væksten i
+sundhedsvæsenet fremover skal holdes inden
+for 1 pet., så har jeg svært ved at se, at vi kan
+trylle alle ventetidsproblemer væk.
+Så blev jeg spurgt direkte om fornuftig
+anvendelse og fik stukket nogle priser på hofteoperationer ud. Jeg synes, det offentlige skal
+anvende borgernes penge med megen omtanke.
+Derfor har vi i det sundhedsvæsen, som jeg har
+ansvaret for, holdt licitation og spurgt, hvem
+der kunne operere hjertepatienter på et højt
+niveau og til hvilken pris, og da fandt vi ud af,
+at det billigste tilbud var et privathospital. Så
+der er ikke nogen fast regel for, at det ene
+system er billigere eller dyrere end det andet.
+Jeg har ikke på noget tidspunkt gjort mig til
+talsmand for, at kommuner eller kommunalt
+ansatte skal til at visitere lægeligt. Det er klart,
+at den lægelige visitation hører til i sundhedsvæsenet. Det, jeg har gjort mig til talsmand for,
+er, at man skal have en lovlig mulighed for at
+kunne tage nogle sociale, menneskelige hensyn
+til mennesker, som er lægeligt indstillet til en
+behandling. Det er sandelig ikke meningen, at
+
+en socialrådgiver skal sidde og vurdere, om der
+er et behandlingsgrundlag eller ej.
+Hvorfor skal man dog prøve på at pådutte
+hinanden sådan nogle tåbelige holdninger? Det
+ville være dejligt, hvis man kunne nøjes med at
+udtrykke sine egne holdninger.";Ester Larsen
+95265;title_name;Så er det fru Grete Schødts som privatist.;Formanden
+95325;name_party;":
+Normalt plejer jeg ikke at melde mig som privatist, men det har jeg lyst til i dag, for jeg er en
+af dem, som alle taler så meget om. Jeg vil gerne indskyde her, at jeg aldrig har været på
+sygedagpenge.
+Jeg er en af dem, der har fået en ny hofte og
+et nyt knæ. Det var altså to operationer inden
+for 10 måneder udført af meget, meget dygtige
+specialister på Svendborg Sygehus. Jeg har også
+været på venteliste. I Fyns Amt, hvor fru Ester
+Larsen er sygehusudvalgsformand, er de fynske
+patienter helt afhængige af, hvilken kvote, altså
+antal operationer, det enkelte sygehus i Fyns
+Amt må udføre. Fru Ester Larsen er talsmand
+for at begrænse antallet af, hvor mange der
+egentlig kan blive smertefri.
+De fynske specialister, kan jeg hilse og sige,
+kunne sagtens operere mange flere, end de gør
+i dag, men det må de ikke for det borgerlige
+styre i Fyns Amt, og det er hykleri, når fru Ester
+Larsen står her på talerstolen og taler om, at
+patienter, der modtager sygedagpenge, skal
+kunne lade sig behandle på et privathospital.
+Var det ikke en rigtigere beslutning at lade
+lægerne på vores egne sygehuse operere i alle
+12 måneder af året i stedet for det, vi oplever i
+Fyns Amt, hvor man lukker i 3 måneder, fordi
+kvoten er opbrugt? Det er simpelt hen noget
+svineri, samtidig med at vi skal have debat om
+brug af privathospitaler. Lad dog de fynske
+læger og lægerne i Danmark operere, og så
+glem alt om brugen af privathospitalerne. Når
+man lukker operationsstuer i 3 måneder, så
+øger man ventelisterne i de offentlige sygehuse
+yderligere 3 måneder, og det er det, fru Ester
+Larsen står i spidsen for.
+Jeg vil godt slutte af med at spørge: Kunne
+fru Ester Larsen forestille sig den tankegang at
+flytte penge fra kommunerne, altså fra sygedagpengeområdet, over i amtskommunernes
+regi? Så var vi måske nået et lille stykke hen ad
+vejen, til at nogle flere kunne blive opereret på
+vores gode offentlige sygehuse.
+
+Fredag den 7. november 1997 (B 5 og B 6)
+(Kort bemærkning).";Grete Schødts
+97310;name_party;":
+Det er korrekt, når fru Grete Schødts gør
+opmærksom på, at der har været problemer
+med at få pengene til at række i det fynske amt,
+ligesom der har været på Rigshospitalet og en
+lang række andre sygehuse.
+Det er jo sådan, at man ikke kan sætte større
+aktivitet i gang, end man kan betale regninger
+for, og jeg kan fortælle, men det burde være
+overflødigt at gøre fru Grete Schødts opmærksom på, at i det fynske amt har amtsskattten
+været sat præcis så højt, som det var acceptabelt
+for finansministeren, og at det merprovenu,
+som er indkommet, er gået til sygehusvæsenet
+med det resultat, at vi nu ser, at ventetiderne
+for bl.a. hofteoperationer går nedad.
+Så bliver jeg spurgt direkte, om jeg var indstillet på at flytte sygedagpenge fra kommuner
+til amter. Jeg har været meget optaget af en idé
+om at gøre amter og kommuner ansvarlige for
+sygedagpenge og så lade staten træde ud af
+systemet netop for at få en indbygget motivation til at få sygedagpengene så små som overhovedet muligt.
+Beregninger viser, at den andel af patienter,
+som venter på behandling i sygehusvæsenet, og
+som er i en situation, hvor behandlingen er
+afgørende for, om de kan genoptage arbejdet
+eller ej, er nede omkring 2 pet. Så det er en
+meget stor omlægning at foretage af hensyn til
+et relativt begrænset antal personer, men
+grundlæggende har jeg været meget optaget af
+den idé.
+
+967
+
+måneder på en hjerteoperation, faldet fra 60 pet.
+til nu ca. 8 pet. Ja, det er da udtryk for, at man
+interesserer sig for den enkelte patient. Det er
+udtryk for, at man har en helt grundlæggende
+opfattelse af, at systemer er til for mennesker,
+og at det, der er vores helt store udfordring i
+disse år, er både at bevare den menneskelige
+værdighed i sygehusvæsenet og give så gode
+og hurtige behandlingsmuligheder, som det nu
+engang er tilfældet.
+Jeg vil godt til Folketingets Sundhedsudvalg
+oversende papirer, der viser, hvordan ventetidsudviklingen har været. Det siger jeg også af
+hensyn til hr. Køpke Christensen, som argumenterede, som om ventetiden er dramatisk stigende.
+Så vil jeg om debatten i øvrigt blot sige, at
+sjældent har jeg egentlig oplevet forslag fordampe så hurtigt på en kold vinterdag. Når
+argumentationen bryder sammen, så skifter
+man bare argumentation. Det var det, vi oplevede med hr. Køpke Christensen. I forslaget var
+det sygedagpengemodtagere, det drejede sig
+om, og gået hårdt på klingen ville man alligevel
+overhovedet ikke lave nogen forskelsbehandling, selv om det er det, der er hele pointen i
+forslaget. Så skifter man argumentation og
+siger: Nej, nej, vi vil under ingen omstændigheder foretage os noget, der diskriminerer.
+Det samme, når det gælder kapacitetsdiskussionen. Dér må man så lidt hårdt presset erkende, at det da egentlig godt kan være, at der ikke
+er voldsomt megen ledig kapacitet. Der er en
+arbejdsløshedsprocent blandt læger på 1. Det er
+fuld beskæftigelse, og denne ene procent omfatSundhedsministeren (Birte Weiss):
+ter mennesker, der er på vej fra et job til et
+Også jeg fandt det meget hjertegribende, da fru
+andet, hvor der så kan være nogle få ledighedsEster Larsen om sig selv og sit parti brugte
+perioder i overgangsfasen.
+udtrykket »den, der interesserer sig for patienDerfor synes jeg ikke: at man efter denne
+terne«, og dermed antydede, at folk, der ikke
+debat kan sige, at der står ret meget andet tilstøtter de her to forslag, ikke interesserer sig for bage, end at man ikke tigtig har nogen alternapatienterne. Det blev også sagt, at hvis man
+tiver til den bestræbelse, som er den fuldstænikke gik ind for det her, så satte man systemet
+dig afgørende for denne her regering, nemlig at
+over det enkelte menneske.
+vi skal have ventetiderne ned i det offentlige
+Jeg synes, det er værd at gentage disse udsygehusvæsen, vi skal have en ordentlig besagn og spejle dem i den kendsgerning - for at
+handling, patienterne skal selv inddrages i langt
+tage noget helt konkret - at dengang den borhøjere grad, end der har været tale om hidtil, og
+gerlige regering havde ansvaret for det danske
+samtidig skal vi videreudvikle de bookingsygehusvæsen, var der nogle ventelister, som
+systemer, der gør, at der kommer en langt
+ikke tydede på særlig omsorg for patienterne og større gennemsigtighed i de ventelister, der nu
+ikke tydede på særlig stor ekstra interesse for
+engang er.
+enkeltmennesket frem for systemet.
+Så tilbage står alene, at en række af de arguJeg nævnte i mit indlæg, at siden 1993 er
+I menter, der har været fremført, altså ikke holdt
+antallet af mennesker, der venter mere end 3
+for en nærmere debat, og det synes jeg er værd
+
+968
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+at have stående i hukommelsen efter vores
+meningsudveksling her.
+Så vil jeg godt slutte med at sige, at med hensyn til nogle af de problemstillinger, der blev
+rejst bl.a. af fru Grete Schødts, har jeg bedt
+Opgavekommissionen om at vurdere præcis
+dette problem, der har at gøre med sygedagpengene, og det er naturligvis også et spændende element i en tid, hvor vi har bedt en sagkyndig kommission om at gennemgå helt nøje bid
+for bid: Ligger den enkelte opgave nu engang
+rigtigt funderet dér, hvor den ligger, eller er der
+grund til at se på den måde, som f.eks. sygedagpengene er skruet sammen på med den
+statslige andel i det? Er der steder, hvor der er
+for megen kassetænkning, og en lang række
+andre ting.
+Men det kan ikke føre til en konklusion som
+den, de to forslag i dag lægger op til, for det er
+og bliver forskelsbehandling. Det er og bliver
+en bevægen sig væk fra det, der har været det
+grundlæggende princip i det danske sygehusvæsen, nemlig at det er de lægelige indikationer
+og det samlede syn på patientens tilstand og
+omstændigheder, der gør, at man skal til på den
+plads, man kan få i behandlingskøen. Sådan er
+det jo allerede i dag, og jo bedre vi i fællesskab
+bliver til at løse ventetidsproblemerne, jo mindre bliver dette problem også.
+Og jeg vil i hvert fald godt afslutte debatten
+her med helt klart at sige, at jeg ville betragte
+det som et demokratisk meget ubehageligt
+skred, hvis den prioritering, der foregår med
+udgangspunkt i de lægelige vurderinger, men
+også inddrager den samlede situation, skulle
+overlades til nogle andre end dem, der har
+ansvaret for det i dag.
+For konsekvensen er jo, som flere har været
+inde på, at det meget vel kan ende med, at det
+er et politisk flertal i en kommunalbestyrelse,
+som kommer til at sidde og tage stilling til, om
+den ene eller den anden nu engang trænger sig
+mere på f.eks. på grund af en kunstigt oppustet
+debat. Vi ved alle, hvordan sygehistorier kan
+være godt pressestof, og at man derved måske,
+som jeg tror det var hr. Jørn Jespersen der var
+inde på det, kan få et helt andet - nej, det var
+vist hr. Bruno Jerup, undskyld, jeg kan se, der
+nikkes - parameter til at være det sidste lille
+udslaggivende, når den slags beslutninger skal
+træffes i sidste instans måske i en politisk forsamling. Det kan vi ikke være tjent med, og
+derfor skal vi i stedet for blive bedre til det
+inden for de rammer, der nu engang er.
+
+(Kort bemærkning).";Ester Larsen
+104345;name_party;":
+Det er lidt spændende at se, hvor mange år
+endnu vi skal høre argumentet om, hvad der
+skete for mange år siden i en borgerlig regering.
+Jeg vil godt lige henlede opmærksomheden på,
+at da den socialdemokratiske regering slap tøjlerne, da vi stod og kiggede ned i den økonomiske afgrund med en trussel om at blive sat
+under administration fra omverdenen, var
+situationen en anden, end den er i dag, hvor vi
+er inde i en konjunkturopgang.
+Når vi er inde i en positiv økonomisk bølge,
+så er det ikke rimeligt, at der skal være mennesker, som kan komme ud i uacceptable sociale
+situationer med udspring i en ventetidssituation. Jeg synes, det er en meget flot og en meget
+frimodig påstand, at ministeren kan sige, at
+argumenterne ikke holdt, altså at man har klynget sig til en stribe af argumenter om kapacitetspåstande. Det, jeg har gjort opmærksom på, er,
+at det er en nødbremse, som kan sikre det
+enkelte menneske mod at blive kvast imellem
+de systemer, som ellers er retlinede og udmærkede. Så det at skyde det hen til, at det overhovedet ikke kan lade sig gøre af hensyn til kapacitet, er en underlig omvej at gå.
+Jeg har stor tillid til det demokratiske system.
+Jeg har stor tillid til, at mennesker, som sidder i
+kommunalbestyrelser, forvalter deres pund
+ordentligt, for hvis de ikke gør det, hvis de indlægger nogle forkerte, nogle umenneskelige
+præmisser i deres vurderinger, så er jeg helt
+klar over, at de vil blive udskiftet ved førstkommende lejlighed.
+(Kort bemærkning).";Ester Larsen
+105847;name_party;":
+Fru Ester Larsen har tidligere i debatten været
+inde på, at man skulle lade være med at fortolke, hvad andre mente. Jeg mener nu ikke, at det
+er helt urimeligt, at vi prøver at finde ud af,
+hvad det forslag, som Venstre har stillet, rent
+faktisk handler om, og hvad det indebærer. Det
+er vel sådan set derfor, det er fremsat som et
+forslag. Og jeg må konstatere, at der er nogle
+ting, der overhovedet ikke er svaret på.
+Jeg vil gerne spørge helt konkret: Hvis nu
+man i en kommune har to borgere, som står på
+en venteliste til den samme operation - der kan
+være tale om en person i arbejde og en pensionist - hvem er det så helt konkret i den pågældende kommune, der skal træffe beslutning om,
+hvorvidt man vil yde tilskud til, at den ene kan
+
+(122)
+Fredag den 7. november 1997 (B 5 og B 6)
+springe ventelisten over, og at den anden bliver
+nødt til at komme nederst på ventelisten og
+vente uden at kunne få tilskuddet? Hvem er det
+præcis, der skal træffe den beslutning? Er det
+en socialrådgiver? Er det kommunalbestyrelsen,
+der skal stemme om det? Eller er det noget helt
+tredje? Kunne vi ikke godt få det at vide.";Jørn Jespersen
+106997;title_name;":
+Fru Ester Larsen sagde med et suk: Hvor længe
+skal vi dog blive ved med at høre om det, der
+skete under den borgerlige regering? Til det
+kan jeg kun sige: Rigtig, rigtig længe. Det er
+bestemt vores intention, at vi skal blive ved
+med at tale om den borgerlige regering i datid.
+(Kort bemærkning).";Birte Weiss
+107312;name_party;":
+Til sundhedsministeren: Det er rigtigt, at når
+man taler om den borgerlige regering, der sad i
+10 år, taler man naturligvis i datid. Man taler i
+fremtid og snart i nutid om den kommende
+borgerlige regering.
+Jeg vil gerne erkende, at jeg var lidt upræcis
+tidligere i min formulering, da jeg sagde, at
+man ikke skal fortolke hinandens holdninger.
+Det, jeg mente, var, at man ikke skal pådutte
+hinanden holdninger, og det syntes jeg har
+været groft forsøgt i denne debat.
+Der er ikke tale om, at man sætter to borgere
+op mod hinanden. Der er tale om, at hvis en
+social medarbejder i en kommune, hvor man
+har givet accept af, at man vil bruge en nødbremse, hvis man får en nødbremsemulighed,
+finder, at her er der et menneske, som er stærkt
+socialt truet på grund af ventepositionen, bør
+man lave en indstilling til de politisk ansvarlige
+om, at der her er en sag, hvor man vil foreslå, at
+der skal trækkes i nødbremsen. Så enkelt er det.
+(Kort bemærkning).";Ester Larsen
+108287;name_party;":
+Jamen tak for svaret. Jeg mener, det ligger rimeligt klart, at det, Venstre mener, er, at de borgere i kommunen, som står skrevet op til en
+behandling i sundhedsvæsenet, fremover kan
+henvende sig til kommunen via en socialrådgiver, forelægge deres sag, hvorefter det vil blive
+til en politisk afgørelse i hvert enkelt tilfælde,
+om der kan ydes et tilskud til, at de kan springe
+køen over eller ej.
+Det skal der altså stemmes om. Det vil være
+en sag, der kan komme op i kommunalbestyrelsen, sådan at man fremover skal have afstem-
+
+969
+
+ninger i landets kommunalbestyrelser om,
+hvem der skal have et kommunalt tilskud til at
+kunne blive behandlet hurtigt, og hvem der
+ikke kan få det. Det er vist noget af et brud med
+det princip, vi hidtil har haft i dansk sundhedsvæsen om, at der var lighed i systemet, at alle
+havde ret til at blive behandlet, og at i det
+omfang, der var specielle forhold, der gjorde sig
+gældende, var det en sundhedsmæssig vurdering af patientens helbredstilstand, der var
+afgørende for, hvilken behandling man fik.
+Det skal altså nu laves om til en politisk
+behandling. Jeg konstaterer yderligere, at vi
+ikke har fået noget som helst bud på, hvor
+kapaciteten er. Det vil sige, at det er en uomgængelig rigtig konklusion at sige, at det her
+fører til længere ventetider.
+Landets pensionister ved nu, hvor de har en
+kommende borgerlig regering, nemlig lige præcis dér, hvor man sætter pensionisterne nederst
+på ventelisten. Det er en nyttig oplysning.
+(Kort bemærkning).";Jørn Jespersen
+109799;name_party;":
+Jeg vil gerne spørge, om det ikke er nyttigt, at vi,
+fortsætter med den udmærkede sagsgang, vi
+har i dag, at en særlig patient i en særlig situation - både når det gælder helbred, sygdom og
+alle private og sociale forhold - har en tæt kontakt til sin praktiserende læge og måske også til
+en socialrådgiver, at den praktiserende læge er
+den gode advokat for patienten, henvender sig
+til amtskommunen og siger: Her er noget ekstraordinært, og at den gode praktiserende læge
+derudover hjælper patienten med at finde et
+hospital, der kan behandle patienten, fordi ventetiden dér er kortere.
+Vi har altså frit sygehusvalg her i landet. Så
+derfor skal der vejledes og oplyses, og det skal
+den praktiserende læge gøre, og han er forhåbentlig god og ordentlig.
+(Kort bemærkning).";Hanne Andersen
+110596;name_party;":
+Jeg vil gerne korrigere hr. Jørn Jespersen, for
+når hr. Jørn Jespersen siger, at disse enkeltsager,
+personlige sager, ender i kommunalbestyrelsen,
+må jeg afvise det. Den kommunale styrelseslov
+levner ikke mulighed for, at man i kommunalbestyrelsen kan behandle enkeltsager. Det henhører under det pågældende udvalg og kan altså ikke komme i kommunalbestyrelsen.
+
+970
+
+Fredag den 7. november 1997 (B 5 og B 6)
+
+(Kort bemærkning).";Karen Højte Jensen
+111044;name_party;":
+Den megen interesse for kommunale procedurer synes helt at se bort fra, at der i dag foretages en række skøn i kommunerne efter en faglig
+vurdering.
+De kommuner, som er rettroende, altså de
+socialdemokratisk ledede kommuner, vil selvfølgelig på forhånd afstå fra at beskæftige sig
+med det her, men de kommuner, som gerne vil
+forhindre en social deroute ved at give et
+behandlingstilbud, har brug for denne lovlige
+mulighed.
+Det er meget godt at henvise til det frie sygehusvalg, men selv om alting går så godt, er der
+faktisk behandlinger, som der er ventetid på på
+samtlige offentlige sygehuse, og derfor kan det
+ikke nytte noget, at, man siger, at den praktiserende læge bare kan finde ud af, hvor der ikke
+er nogen ventetid, for for nogle diagnoser gælder det ikke.
+(Kort bemærkning).";Ester Larsen
+111853;name_party;":
+Fru Karen Højte Jensens pointe, at enkeltsager
+ikke kan behandles i kommunalbestyrelsen,
+ændrer overhovedet ikke på det principielle i
+sagen, nemlig at forslaget lægger op til, at det
+ifølge Venstre og De Konservative fremover er
+en rent politisk afgørelse, hvem der kan få tilskud til at springe ventelister over, og hvem der
+ikke kan.
+Vi ved godt, hvad det er for nogle ting, der
+kan komme til at påvirke beslutningen. Det er
+f.eks., om man kender redaktøren af den lokale
+avis, så man kan få en tilstrækkelig mediedebat,
+for så vil der være en tendens til, at det lægger
+et pres på de politiske beslutningstagere. Det vil
+så ske i udvalgene, og hvis ikke man får sin vilje fra det politiske flertals side i udvalget, kan
+man jo tage en principiel debat om kriterier i
+den enkelte kommune, og så har vi altså den
+situation, at vi nu har en kommunalbestyrelse,
+som sidder og bestemmer, hvem der skal behandles hvornår i sundhedsvæsenet, og det vil
+selvfølgelig ifølge hele logikken også i bemærkningerne til begge forslag blive ud fra en økonomisk prioritering. Derfor får det den konsekvens, at fremover vil pensionister og andre,
+der ikke er på sygedagpenge, blive behandlet
+sidst, mens der er andre, der har mulighed for
+at springe over.
+
+Det er hamrende asocialt, det er helt udemokratisk, og det er i strid med alle principper i
+det danske sundhedsvæsen.
+(Kort bemærkning).";Jørn Jespersen
+113253;name_party;":
+Fru Ester Larsen bebrejdede tidligere i debatten
+andre ordførere, at de tolkede, hvad andre
+mente, men det afholder ikke fru Ester Larsen
+fra selv at gøre det.
+Når fru Ester Larsen siger, at rettroende
+socialdemokratiske kommuner naturligvis ikke
+vil yde denne service, underforstået de tager sig
+ikke rigtigt af deres borgere, de har ikke omsorg for de svage og de syge, mener jeg, at fru
+Ester Larsen er langt ude i at tolke, hvad andre
+mener.
+(Kort bemærkning).";Hanne Andersen
+113736;name_party;":
+Det er muligt, jeg gik for vidt, for Holmegaard
+Kommune, som var den første, der betalte for
+behandling på privathospital, er socialdemokratisk ledet.
+Jeg har, men nu er jeg snart træt af at gentage
+det, faktisk så meget tillid til og respekt for
+kommunalpolitikere, at jeg ikke tror de lader
+sig trække rundt i manegen, og hvis de gør det,
+vil borgerne påtale det næste valgdag. Jeg synes
+godt, man kan tillægge folkevalgte i et andet
+system end vores en evne til at træffe fornuftige
+afgørelser.
+Hermed sluttede forhandlingen, og forslagene
+overgik derefter til anden (sidste) behandling.
+Afstemning";Ester Larsen
+114351;title_name;"Jeg foreslår, at forslagene til folketingsbeslutning henvises til Sundhedsudvalget. Hvis ingen
+gør indsigelse mod dette forslag, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+Fredag den 7. november 1997 (B 21)
+Den næste sag på dagsordenen var:
+4) Første behandling af beslutningsforslag nr.
+B 21:
+Forslag til folketingsbeslutning om amternes
+pligt til at sikre døende mulighed for en værdig pleje.
+Af Bruno Jerup (EL) og Frank Aaen (EL).
+(Fremsat 21/10 97).
+Forslaget sattes til forhandling.
+Forhandling";Formanden
+114902;title_name;":
+Hensigten med dette forslag er meget sympatisk.
+Enhedslisten foreslår, at det pålægges amterne at sikre døende ret til omsorg, pleje og smertebehandling under hospicelignende forhold
+ved oprettelse af særlige afdelinger som en
+integreret del af det offentlige sygehusvæsen
+eller ved at indgå driftsoverenskomster med
+non profit-organisationer.
+Så nævnes det i bemærkningerne, at det bør
+være en naturlig del af et velfærdssamfunds
+virke at sikre borgeme den nødvendige hjælp
+og støtte, også når de er døende.
+Jeg tror, de fleste godt er klar over, at det er i
+sygehusloven, man fastlægger de overordnede
+rammer for amternes forpligtelser i forbindelse
+med sygehusbehandling, og at den mere detaljerede tilrettelæggelse af selve betjeningen
+besluttes ude i de enkelte amter.
+I overensstemmelse med dette grundfæstede
+princip om det decentrale sundhedsvæsen gælder det også ifølge sygehusloven, at amterne
+helt overordnet er forpligtet til at yde behandling og pleje til døende mennesker, mens det er
+op til hvert enkelt amt præcist i detaljen at
+afgøre, hvordan behandlingen og plejen skal
+tilrettelægges alt efter hensyntagen til de lokale
+forhold.
+Da amterne opfylder de forpligtelser, der
+ifølge sygehusloven er blevet dem pålagt også i
+relation til døende, finder regeringen ikke, at
+der er grund til at ændre noget i princippet om
+den decentrale udførelse af sundhedsopgaven,
+eller inden for sygehusvæsenet skulle jeg måske
+snarere sige. Men at alvorligt syge og døende i
+et velfærdssamfund som det danske skal sikres
+behandling og pleje under vilkår, hvor der i
+videst mulig udstrækning tages hensyn til den
+enkeltes ønsker og behov, og hvor den indsats,
+
+971
+
+der ydes, er af høj faglig standard, støtter regeringen fuldt ud, og det kan vi naturligvis af alle
+grunde give vores varme tilslutning til.
+Derfor glæder vi os over, at der her i de seneste år er igangsat en række initiativer både i
+amter og kommuner, der har med det her at
+gøre. Også i forbindelse med amternes udarbejdelse af sundhedsplaner er emnet sat på dagsordenen. Mange amter har i den forbindelse
+drøftet og udarbejdet konkrete planer for, hvordan den palliative indsats kan udbygges og forbedres.
+Flere amter har allerede overvejelser og konkrete planer om indgåelse af aftaler med de
+allerede eksisterende hospicer og også om
+oprettelse af særlige hospicelignende afdelinger, og det synes jeg er et stort gode.
+Regeringen følger området tæt. Vi har været
+med til at understøtte udviklingen bl.a. med en
+redegørelse fra Sundhedsstyrelsen fra marts
+1996. I den redegørelse fremhæves det bl.a., at
+der er behov for at sikre kvaliteten af den indsats, der ydes, og det anbefales derfor, at der
+udarbejdes nationale referenceprogrammer for
+de faglige aspekter af den palliative indsats.
+På den baggrund nedsatte Sundhedsstyrelsen
+så i foråret, altså her i 1997, en ekspertgruppe.
+Den har til opgave at udarbejde faglige retningslinjer for udvalgte dele af den palliative
+indsats. Styrelsen regner med at afslutte arbejdet i begyndelsen af 1998, det vil altså sige i
+løbet af få måneder. Resultatet af ekspertgruppens arbejde vil derefter blive offentliggjort som
+et supplement til Sundhedstyrelsens redegørelse fra marts 1996, som jeg nævnte før.
+Jeg kan også oplyse, at Socialministeriet i
+samarbejde med Sundhedsministeriet har
+iværksat en evaluering af bistandslovens regler
+om plejeverderlag til mennesker, der passer en
+nærtstående, som er døende, og som ønsker at
+tilbringe den sidste tid i eget hjem. Evalueringen af reglerne vil bl.a. blive set i sammenhæng
+med den øvrige indsats, der gøres for alvorligt
+syge og døende. Formålet med en evaluering er
+bl.a. at klarlægge, hvilke holdninger de nuværende og kommende brugere har til de nuværende ordninger for døende, herunder hospicer,
+palliative enheder og bistandslovens regler om
+plejevederlag.
+Jeg håber meget, at undersøgelsen vil besvare
+nogle centrale spørgsmål på området. Når de
+svar foreligger, vil vi for det første kunne afgøre, om der er behov for ændringer i Socialmini- '
+steriets plejevederlagsordning, så flere kan få
+
+972
+
+Fredag den 7. november 1997 (B 21)
+
+gavn af den. For det andet vil vi generelt være
+bedre rustet til at rådgive amterne om, hvordan
+man bedst imødekommer borgernes ønsker i
+forbindelse med behandling og pleje i den sidste livsfase.
+Også fra Set. Maria Hospice Center i Vejle
+Amt er der interessante resultater på vej. Man
+har her bl.a. i samarbejde med et privat konsulentfirma og Sundhedsministeriet kigget på det,
+som vi kan kalde den samlede sum af de erfaringer, man har på centeret, og dermed også for
+hele dets virke.
+Det vil sige, at der allerede i øjeblikket er
+igangsat en lang række forskellige små og store
+initiativer på det her vigtige område. Man er i
+fuld gang med det ude i de enkelte sygehusvæsener, og da regeringen bestemt ikke finder det
+hensigtsmæssigt at ændre ved det helt grundlæggende princip om, at udfyldelsen af det fælles mål skal ske decentralt, kan vi ikke støtte det
+konkrete forslag, som Enhedslisten her har
+fremsat.
+Men der må ikke herske den ringeste tvivl
+om, at den holdning, som bærer forslaget, deler
+vi, og jeg håber også meget, at det er fremgået
+af mit indlæg her, at vi ubetinget deler den
+holdning.";Birte Weiss
+120139;name_party;":
+I Socialdemokratiet er vi helt enige med forslagsstillerne i, at det er en naturlig del af velfærdssamfundets opgave at sikre døende borgere en værdig behandling og pleje, og at der
+tages store hensyn til den enkeltes behov og
+ønsker.
+Med hensyn til værdighed vil jeg gerne sige,
+at jeg naturligvis går ud fra, at det danske
+sundhedspersonale altid udfører sit arbejde,
+bl.a. pasning af syge og døende, med værdighed og respekt for patienten.
+Jeg tror, forslagsstillerne mener, at de patienter, der ikke kan tilbydes yderligere behandlinger, hvor det alene drejer sig om smertebehandling og pleje, gerne vil være i et mindre
+hektisk miljø end på en travl sygehusafdeling,
+hvis hovedopgave det er at behandle og helbrede syge patienter.
+Derfor glæder vi os også over, at der er sat en
+række initiativer i gang for at imødekomme
+disse patienters ønsker. Det er sket både i amter
+og kommuner, og begge parter har indgået
+aftaler med eksisterende hospicer og sygehuse,
+der visse steder har indrettet særlige hospiceafdelinger. Under alle omstændigheder kan amter
+
+og kommuner til enhver tid indgå aftaler med
+hospicer, hvis der er behov for det, og hvis de
+ønsker det.
+Her er faktisk også et område, hvor amter og
+kommuner samarbejder om at løse opgaven til
+gavn for borgerne. Det synes jeg er glædeligt,
+og jeg synes, det er vigtigt, at vi følger området
+nøje, at vi tilskynder til, at denne udvikling
+fortsætter, og at det bliver noget, der kommer
+til at indgå i sundhedsplanlægningen i amter og
+kommuner.
+Sundhedsstyrelsen har beskæftiget sig med
+det, er kommet med rapport i 1996 og er nu i
+gang, som ministeren sagde, med at udarbejde
+retningslinjer på det her område.
+Ud over hospicer, som kan være et godt tilbud til dem, der ønsker det, findes der jo også,
+som ministeren sagde, en mulighed for at kunne blive plejet i eget hjem, hvor de pårørende
+kan få plejevederlag, og hvor der kan stilles
+hjælpemidler, hjemmehjælp og andet til rådighed for dem, der måtte ønske det. Det har jeg
+altid været optaget af, og derfor glæder det mig,
+at Socialministeriet og Sundhedsministeriet
+også har en fornyelse og en justering af denne
+ordning med i arbejdet.
+Jeg synes, det er et vigtigt spørgsmål. Jeg
+synes, det er vigtigt, at vi holder øje med, om
+den udvikling, der er gået i gang, fortsætter i
+den rigtige retning, men jeg synes ikke, der er
+grundlag for at lovgive på nuværende tidspunkt.";Hanne Andersen
+122544;name_party;":
+Venstre har også stor sympati for de tanker, der
+ligger bag forslaget. Vi ved, at der foregår et
+arbejde rundt omkring i landets amter netop på
+dette område.
+Vores udgangspunkt er patientens mulighed
+for at vælge, hvor han eller hun ønsker at tilbringe de sidste dage og uger af sit liv. Det er
+vigtigt, at man får den valgmulighed også i den
+fase af livet.
+Der er valgmuligheder rundt om i landet.
+Der er tre amter, som har besluttet at lade de
+patienter, der ønsker at tilbringe den sidste tid
+på hospice, få mulighed for det. Det vil sige, de
+lader et beløb følge med patienten. Det er
+Københavns Amt, det er Vejle Amt, og det er
+Sønderjyllands Amt. Det har vi stor respekt og
+stor sympati for, og den mulighed synes vi
+sådan set at alle borgere skulle have i landet.
+Vi mener ikke, det er vores opgave herindefra at diktere amterne, hvordan de skal handle,
+
+Fredag den 7. november 1997 (B 21)
+og hvilke tilbud de skal give. Det må være op til
+amterne at beslutte det, og det er der så også
+amter, der har gjort.
+Samtidig er vi vidende om, at der er nogle
+lovgivningsmæssige problemer på området. Det
+har de fleste amter peget på. De siger, at der er
+behov for en lovgivningsmæssig afklaring vedrørende hospicer. De vil gerne have afklaret
+byrdefordelingen mellem amter og kommuner,
+og det er altså betalingsforpligtelsen.
+Det er jo sådan, at hvis patienten kan være i
+sit hjem og en pårørende tager pasningsorlov,
+stiller kommunen hjemmehjælp og hjemmepleje
+til rådighed i et øget omfang, og det gør de
+mange steder på strålende vis. Jeg har personlige erfaringer med, at det fungerer rigtig godt
+mange steder.
+Hvis den døende ønsker at komme på et
+hospice, skal kommunen ikke betale noget, men
+amtet skal betale den fulde pris. Derfor ønsker
+amterne en afklaring af byrdefordelingen, og
+jeg vil meget henstille, at vi får set på det, sådan
+at det bliver en reel valgmulighed for mennesker at kunne komme på et hospice og blive
+passet i den sidste tid, hvis de nu ønsker det.
+Uanset om de har mulighed for at være i
+deres hjem eller på et hospital, skal de også
+have mulighed for at vælge et hospice, og det
+har man altså ikke alle steder i landet. Amterne
+kan beslutte det, men de synes mange gange,
+det er urimeligt, at de skal betale den fulde
+udgift, når kommunen også bliver lettet for en
+økonomisk byrde ved det.
+Jeg vil spørge ministeren om, hvordan det ser
+ud. Arbejder man i ministeriet med denne byrdefordeling, som de fleste amter efterlyser en
+afklaring af?";Tove Fergo
+125044;name_party;":
+I Det Konservative Folkeparti er hospicetanken
+højt prioriteret. Det var også baggrunden for
+det forslag, vi fremsatte i maj måned om at sikre patienter, der ønsker hospiceophold, tilskud
+fra det offentlige, således at patienter har lige
+adgang til hospiceophold uanset egne økonomiske midler.
+Vi finder, at hospice er en vigtig nyskabelse
+inden for det danske sundhedsvæsen. Alvorligt
+syge og døende tilbydes omsorg og lindring af
+smerter i gode og trygge omgivelser.
+Den omfattende interesse for dette alternativ
+til de traditionelle tilbud til døende viser, at der
+er et stort behov for hospicer i vort samfund.
+
+973
+
+Derfor er det vort ønske, at der oprettes flere
+hospicer, samtidig med at alle visiterede patienter, der opfylder visitationskravene, får en reel
+valgmulighed for at vælge hospiceophold frem
+for sygehus, plejehjem eller pleje i hjemmet,
+hvis de har ønsker derom. Patienter skal have
+krav på at kunne vælge, og pengene skal følge
+patienten, ikke systemet. Heldigvis er der, som
+det allerede har været nævnt, en række amter for få vil jeg sige - som allerede har taget dette
+til efterretning.
+I
+Det Konservative Folkeparti har også sympati for, at der i det offentlige sygehusvæsen
+oprettes særlige afdelinger for døende, eller
+at amterne indgår driftsoverenskomster med
+hospicer uden for offentligt regi.
+Det, der er afgørende i relation til Enhedslistens forslag, er jo i virkeligheden, at amterne
+allerede i dag kan oprette særlige afdelinger, og
+de kan også i dag indgå aftaler med hospicer, så
+vi kan vel sige, at forslaget formelt er overflødigt. Det er nok godt, at vi stadig væk holder
+fast i hospicetanken herinde, men jeg finder
+ikke, at der er behov for den lovgivning, der her
+er lagt op til, og vi ønsker ikke at pålægge
+amterne at oprette hverken den ene eller den
+anden specialafdeling på sygehuse. Det må vi
+overlade til amterne, men som det fremgår,
+støtter vi hospicetanken.";Karen Højte Jensen
+126977;name_party;":
+Enhedslisten foreslår at pålægge amterne at sikre døende ret til omsorg, pleje og smertebehandling under hospicelignende forhold enten
+på specielle afdelinger eller ved indgåelse af
+driftsoverenskomster med hospicer.
+Vi er positive over for sigtet i forslaget. Det er
+vores opfattelse, at den pleje og omsorg, der
+bliver givet til døende i dag, ikke er god nok
+alle steder, og at der er behov for nogle yderligere tiltag rundt omkring. Der er nogle ting i
+gang, og jeg er meget indstillet på på SF's vegne
+at følge arbejdet rundt omkring og også vurdere, f.eks. under udvalgsarbejdet, om der er
+yderligere ting, der kunne gøres fra Folketingets side i et samarbejde med amterne for at
+fremme udviklingen, sådan at flere, der har
+behov for det ud fra en vurdering af den enkeltes behov, kan få mulighed for hospiceophold
+eller andre tiltag, som kan sikre det, der er formålet med forslaget, nemlig en værdig omsorg
+og pleje og smertelindring for den enkelte
+døende.
+
+974
+
+Fredag den 7. november 1997 (B 21) .
+
+Vi er meget interesseret i et samarbejde om
+forslaget og vil meget gerne indgå i et samarbejde med amterne i det omfang, der måtte
+være behov for tiltag fra Folketingets side.";Jørn Jespersen
+128186;name_party;":
+Det er jo rart at høre, at der indimellem kan
+være enighed om emner som bl.a. det her. Det
+er en lang udvikling, der ligger forud for det, og
+det er i hvert fald over 10 år siden, man lavede
+ordningen om pleje af døende i eget hjem. Så
+vidt jeg husker, var det et forslag, som blev
+lavet af CD, og det fik også fuld tilslutning.
+Nu er det jo sådan, som vi har hørt det flere
+gange i dag, at amterne allerede er i fuld gang
+med at løse denne opgave, idet de dels selv er i
+færd med at oprette afdelinger, hvor døende
+kan blive plejet, og hvor familierne kan komme,
+dels giver mulighed for at købe pladser ude.
+Mig bekendt er der også mulighed for, at
+kommuner kan gå ind og være med til at betale
+for pladser, og sådan som jeg kender til det, er
+det udmærkede redskaber, der gør, at man allerede er fint i gang med det.
+Vi støtter ikke forslaget her direkte, fordi det
+er en amtsopgave at tage sig af det, men vi er
+positive over for alle de tanker, der ligger i det.";Vibeke Peschardt
+129181;name_party;":
+Jeg skal på Fremskridtspartiets vegne sige, at vi
+jo altid har sat patienten i centrum, og når det
+drejer sig om det her forslag, er det i allerhøjeste grad noget, vi støtter.
+Vi vil gerne indgå i forhandlinger og i
+udvalgsbehandlingen om at få dette forslag
+igennem. Vi mener, at godt nok er amterne i
+fuld gang rundt omkring, bl.a. mit eget amt,
+Sønderjyllands Amt, også Vejle Amt hørte jeg,
+og flere andre, men at det er utrolig vigtigt, at
+alle patienter, uanset hvor de bor i landet, har
+de samme muligheder for at få denne pleje, når
+de er på det sidste.
+Det vil sige, at vi i princippet støtter dette
+forslag. Jeg vil sige, at der faktisk ikke er meget,
+der skal ændres, hvis der er noget, der skal
+ændres, men jeg synes, at vi under udvalgsbehandlingen skal prøve at finde frem til, om der
+skal laves nogle justeringer i forslaget.
+Det er klart, at vi kun kan have stor sympati
+fra Fremskridtspartiets side med hensyn til at
+give en valgmulighed, når en døende skal plejes. Det er vigtigt, at man har en valgmulighed,
+og det uanset om det skal være i hjemmet, på et
+
+hospital, eller om det er hospicetanken, det drejer sig om.
+For en del år siden vedtog vi netop i Fremskridtspartiets folketingsgruppe på vores sommergruppemøde at arbejde videre med denne
+sag, og vi synes, at dette forslag indeholder
+præcis de principper, som Fremskridtspartiet
+kan gå ind for, så det er stort set et helhjertet ja
+til forslaget.
+Vibeke Kiil (CD):
+Dette forslag ligger klar op ad CD's politik.
+Centrum-Demokraterne er varme tilhængere af
+hospicetanken. Selv om man kan indrette særlige afdelinger inden for sygehusvæsenet,
+mener CD, at der også bør etableres hospicer
+uden for sygehusmurene, gerne som selvejende
+institutioner og mindst ét i hvert amt, hvortil
+der er knyttet et forsknings- og uddannelsescenter, og hvorfra personale kan sendes ud og
+vejlede i hjemmene, hvis det er dér, man ønsker
+at tilbringe den sidste tid.
+Alvorligt syge og døende mennesker udgør
+en af sundhedsvæsenets suverænt største opgaver. Vi trænger til en markant oprustning på
+området. Hospicer kendes fra andre lande. Der
+er i alt knap 50 hospicepladser i Danmark, men
+der er i øjeblikket adskillige initiativer til oprettelse af flere hospicer. Hospicer er ikke en konkurrent til hverken hospital eller plejehjem, men
+det er et alternativ, som det bør stå den enkelte
+frit for at kunne vælge, og CD mener, at finansieringen er en offentlig opgave.
+CD synes derfor, det er et godt forslag, som
+vi støtter varmt.";Jan Køpke Christensen
+131685;name_party;":
+Dansk Folkeparti kan støtte forslaget. Vi synes,
+det er et godt forslag, og vi vil meget gerne
+være med til arbejde videre med det i udvalget.
+Det er et emne, som optager os meget, at man,
+også når man kommer i den fase af livet, får en
+god behandling. Vi kan støtte forslaget.";Ole Donner
+131981;name_party;":
+Det er jo sjældent, jeg stiller forslag, som bliver
+så velvilligt modtaget. Selv om jeg alligevel kan
+fornemme, at der måske ikke er et flertal, der
+vil stemme for det konkrete forslag lige nu og
+her, sådan som jeg har formuleret det, er det er
+mit indtryk, at vi her har fat i et spørgsmål,
+hvor ikke kun Enhedslisten, men faktisk et
+bredt Folketing har nogle overvejelser, der går
+
+Fredag den 7. november 1997 (B 21)
+den vej. Det lover godt, kan man sige, for det
+fremtidige forløb.
+Døden er noget, som vi i vores kultur har et
+lidt skævt forhold til. Det er måske et historisk
+problem, at det er noget, man forsøger på at
+skubbe fra sig. Det er så en særskilt diskussion,
+hvordan vi i vores kultur forholder os til døden,
+men i hvert fald kan man samfundsmæssigt
+prøve at forholde sig til den på en måde, der
+erkender den som en fase.
+For nogle er det en lang fase. Døden indtræder selvfølgelig på et kort tidspunkt, men selve
+den fase, der fører frem til den, kan for nogle
+være kort og for nogle være lang. Man må forholde sig til, at det faktisk er en problemstilling,
+at der kommer et tidspunkt i sundhedsbehandlingen, hvor der ikke er mere at gøre, og hvor
+der ikke er mulighed for at sikre, at den syge
+kommer tilbage på det tidligere niveau, og at
+der nu er en anden dagsorden for patienten og
+dermed også for sundhedsvæsenet.
+Vi synes, det er vigtigt, at man på dette
+område også tænker på, at meget af det, der
+foregår i det offentlige sundhedsvæsen, hvor
+patienterne ligger i sengene, nogle gange på
+gangene, nogle gange flere sammen i nogle hvide lokaler, hvor der er hvide senge og hvide
+kitler, sikkert ofte ikke er under den rigtige
+form. Når det ikke er formålet, at man skal ud
+og leve i det normale samfund uden for hospitalets vægge igen, er det måske ikke den rigtige
+måde at placere folk på.
+Derfor har vi sammen med andre diskuteret
+denne mulighed, og for os er det vigtigt og
+meget fundamentalt, at det ikke bliver noget,
+som kun nogle kan få. For os er det vigtigt, og
+det er også derfor, vi har fremsat forslaget på
+den måde, som vi har gjort, at det skal være et
+alment tilbud. Jeg er ikke sikker på, at det er
+alle, der vil tage imod det. Jeg har ingen præcise
+tal på, hvor mange det er. Jeg tror, der vil være
+mange flere end i dag, men jeg har ingen præcise tal på, hvor mange det er. Men det skal
+være et tilbud til typisk den ældre person, det
+kan også godt være en yngre person, som er
+meget syg, og som måske sammen med familie
+og pårørende kan vurdere, om det var bedre at
+finde en anden form i de sidste måneder eller
+halve år.
+Det, jeg forestiller mig, er, at man i højere
+grad får mulighed for at indrette sig, at man har
+et værelse, hvor det er muligt at have nogle af
+sine egne ting med, således at man kan indrette
+et rum, hvor man kan være, og hvor man kan
+
+975
+
+føle, at man lever. Der skal være nogle andre
+plejefunktioner end dem, der er på hospitalet,
+der jo i høj grad er knyttet til det sundhedsmæssige som f.eks. spørgsmålet om, hvorvidt
+man nu skal opereres, eller om man skal have
+noget bestemt medicin, eller hvad man nu skal.
+Det er nogle andre behov, der skal tilgodeses,
+og som er svære at få tilgodeset i det sundhedsvæsen, vi har.
+Derfor kan man selvfølgelig godt sige, at
+amterne allerede er i gang med det her, og at
+det er ikke nødvendigt, nu ser Vii hvad der sker.
+Min fornemmelse er, at amterne og det eksisterende sundhedsvæsen desværre er for meget
+rettet ind imod den helbredende funktion, den,
+der handler om, at folk kommer ind, fordi de er
+syge, de skal helbredes, og så skal de ud igen.
+Vores sundhedsvæsen og amternes måde ,at
+tænke på er simpelt hen ikke rettet ind på at
+tage hånd om dette problem. Det er også derfor,
+jeg har lyst til - og jeg kan fornemme, at det
+tyder på, at det er der også et flertal, der har
+lyst til - at skubbe en lidt anden vej og prøve at
+give nogle muligheder, som går lidt på tværs af
+det, der foregår i dag.
+Man kunne godt kalde det en form for et
+skift, en revolution vil nogle måske sige, eller et
+paradigmeskift i vores måde at forstå den periode, der går fra, at man konstaterer, at nu er der
+ikke så meget mere at gøre, og til, at man dør.
+Det er det, der er hensigten, og. så det at sikre,
+at det bliver et alment tilgængeligt gode for alle.
+Der er allerede i dag forskellige muligheder,
+og dem har vi også omtalt i forslaget, bl.a.
+muligheden for, at man kan få løn til at pleje
+nærtstående pårørende i eget hjem. Jeg kan forstå, at man er i gang med at analysere, hvordan
+denne ordning fungerer. Der er faktisk nogle,
+der ikke har mulighed for at gøre sådan, men vi
+synes selvfølgelig, at det også er en vej at gå.
+Det er ikke sådan, at vi siger, at det er den
+eneste løsning. Vi siger heller ikke, at det skal
+være sådan, at man skal sige til folk, der ligger
+på hospitalet, at de skal på et hospice. Det ville
+også være forkert. Vi skal lige præcis prøve at
+sige, at dette er en situation, som i høj grad er
+en individuel problemstilling, hvor vi er af den
+opfattelse, at for en stor gruppe af dem, der er i
+denne situation - og det er, hvad enten de nu er
+tvunget til at være hjemme, eller de er tvunget
+til at være på et hospital - er det ikke den rigtige løsning. Den erkendelse tror jeg efterhånden er ved at blive bredt anerkendt også langt
+uden for Folketingets rækker.
+
+976
+
+Fredag den 7. november 1997 (B 21)
+
+Hvis vi ser på de enkelte ordføreres indlæg,
+vil jeg generelt set starte med at sige mange tak
+for alle de sympatiske meldinger og holdninger
+til ideen. Stort set alle har sagt, at de havde
+sympati for forslaget, nogle var villige til at
+stemme for, og andre ikke.
+Jeg forstår på sundhedsministeren, at man
+har gang i en række ting og åbenbart også venter på nogle rapporter og nogle forskellige
+grupper, der sidder og arbejder med analyser af
+dette problem. Vi ser selvfølgelig frem til, at der
+kommer et eller andet output, og når resultatet
+foreligger, håber jeg, at ministeren sammen
+med forhåbentlig et enigt Folketing vil prøve at
+kigge på, om der er nogle ting, der skal ændres,
+for det kan godt være, at der er det.
+Jeg forstod også på fru Hanne Andersen, som
+sluttede af med at sige, at der ikke på nuværende tidspunkt skulle lovgives, at det er, fordi
+man også i Socialdemokratiet ønsker at afvente
+nogle af de undersøgelser, der er i gang, for at
+se, hvordan det udvikler sig. Man kan heller
+ikke fra Socialdemokratiets side afvise, at der
+faktisk kan være nogle lovgivningsmæssige
+ting, som bremser, f.eks. den kassetænkning,
+som andre også har været inde på. Der kan
+være nogle ting, som simpelt hen bremser
+mulighederne for, at denne idé kan accelerere
+og hurtigt blive sat i værk.
+Jeg er enig med flere ordførere i, at det selvfølgelig ikke er noget, der lige kan laves i morgen. Det tager tid, sådan er det, men det er i
+hvert fald vigtigt at have en idé om, hvilken vej
+man vil, og at man også sørger for at indrette
+lovgivningen sådan, at man kan gå den vej på
+en gelinde måde. Det synes jeg, vi må prøve at
+se på, og jeg forstod også på den socialdemokratiske ordfører, at man var villig til at overveje det. Men ellers kan jeg forstå, at fru Hanne
+Andersen var helt enig med forslagsstillerne, og
+det vil sige med undertegnede, og det er jo dejligt.
+Jeg forstod også på fru Tove Fergo, at der var
+stor sympati. Vi havde en diskussion i foråret
+med fru Tove Fergo, og vi havde den også med
+fru Karen Højte Jensen, med hensyn til, om det
+kun skal være nogle bestemte, der med tilskud
+fra amterne kan betale sig til at komme ind. Her
+er der nok en lille uenighed, måske er det en
+stor uenighed, for vi lægger megen vægt på, at
+det her ikke skal være noget, der gør, at når
+man i alderdommen skal dø, er det dem, der
+har flest penge, der igen kommer foran i køen.
+Vi synes ikke, det vil være acceptabelt at stille
+
+sådan en model op, og det vil vi gerne undgå.
+Det skal være et alment tilbud. Det er der så
+uenighed om, men alligevel vil jeg tro, at vi
+måske kunne mødes om de tanker, som vi har
+lagt frem her.
+Jeg takker for støtten fra hr. Jørn Jespersen,
+som siger, at han gerne vil indgå i et samarbejde, og det var der flere, der nævnte. Det skal
+ikke skorte på ønsker om et samarbejde fra
+Enhedslistens side både med ministeren og med
+andre partier om at prøve at få dette problem
+løst. Det er ikke et ultimativt forslag om, at
+sådan skal man bare gøre. Det må vi selvfølgelig snakke om. I øvrigt er forslaget ikke udforment i delelementer, så man kan ikke sige, at
+der er nogle forhindringer i det.
+Jeg kunne også forstå på fru Vibeke
+Peschardt, at hun er enig i forslaget, men at hun
+mener, at amterne er i fuld gang, og at hun derfor ikke kan støtte initiativet. Det er jo rigtigt, at
+amterne er i fuld gang, men jeg tror også, fru
+Peschardt må erkende, at det er lidt tilfældigt,
+hvad amterne får lavet på dette område. Der er
+nogle amter, der er lidt i gang med noget, og
+nogle er ikke i gang. Jeg synes også, at De Radikale burde være interesseret i at holde øje med,
+om det faktisk udvikler sig i den rigtige retning.
+Min taletid er ved at løbe ud, men jeg vil gerne sige tak for støtten fra hr. Køpke Christensen
+og hr. Ole Donner, og jeg vil selvfølgelig også
+sige mange tak for støtten fra fru Vibeke Kiil fra
+CD. I CD har man jo, og det er også blevet
+nævnt af andre, været nogle af foregangsmændene eller -kvinderne på dette område, og jeg
+kan forstå, at CD er stærke tilhængere af, at
+man får lavet det her, og at det er det offentlige,
+der skal sikre dette område også med hensyn til
+betalingen. Det er også helt vores tanke.
+Hermed sluttede forhandlingen, og forslaget
+overgik derefter til anden behandling.
+Afstemning";Bruno Jerup
+141583;title_name;"Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Sundhedsudvalget. Hvis ingen gør
+indsigelse mod dette forslag, betragter jeg det
+som vedtaget. (Ophold). Det er vedtaget.
+
+(123)
+Fredag den 7. november 1997 (B 29)
+Den sidste sag på dagsordenen var:
+5) Første behandling af beslutningsforslag nr.
+B 29:
+Forslag til folketingsbeslutning om tilladelse
+til, at praktiserende læger kan holde åbent om
+lørdagen.
+Af Jørgen Winther (V) og Henriette Kjær (KF)
+m.fl.
+(Fremsat 23/10 97).
+Forslaget sattes til forhandling.
+Forhandling";Formanden
+142154;title_name;":
+Sygesikringens forhandlingsudvalg og Praktiserende Lægers Organisation starter i løbet af
+ganske kort tid deres forhandlinger - overenskomstforhahdlinger, tror jeg, jeg vil kalde det,
+for det er vel det mest præcise udtryk, man kan
+bruge om det. Så kommer man fra Venstre og
+De Konservative og siger: Vi vil da godt på forhånd gribe ind i de forhandlinger. Vi vil godt
+på forhånd tage en detalje ud og så sige, at det
+skal Folketinget tage beslutning om. Det er jo
+egentlig en aparte fremgangsmåde, og allerede
+af den grund vil jeg godt afvise forslaget.
+Så skal jeg samtidig pege på, at spørgsmålet
+om lørdagsåbent, der som bekendt godt kan
+være en god idé, også skal ses i sammenhæng
+med overenskomstens regler om lægernes vagtforpligtelser uden for dagtiden, og derudover
+skal man selvfølgelig se på, om den almindelige
+anvendelse af ressourcerne nu engang også er
+den optimale.
+Jeg er vidende om, at mere fleksible åbningstider rent faktisk indgår i disse overenskomstforhandlinger eller i hvert fald i det oplæg, som
+er lavet af Sygesikringens Forhandlingsudvalg.
+Og sagt lige ud: Jeg finder, at det må være op til
+overenskomstparterne at lave deres overenskomst, og de skal selvfølgelig gøre det under
+dyb hensyntagen til, hvordan man bedst opfylder befolkningens ønsker og behov, herunder
+naturligvis også, når det gælder åbningstiderne.
+Jeg går også ud fra, at man vil have et åbent øre
+for et ønske som det, der er tale om her, om
+åbningstid om lørdagen, men det er vel ikke
+noget, som vi skal fastlægge i Folketinget.
+Jeg vil godt skildre det på den måde, at selv
+om regeringen har sympati for intentionen bag
+beslutningsforslaget, finder vi det hverken hensigtsmæssigt eller nødvendigt at gribe ind i
+
+977
+
+nogle forhandlinger, som netop nu er ved at
+udspille sig eller i hvert fald ved at gå i gang,
+og sådan lyder min afvisning af forslaget.";Birte Weiss
+144029;name_party;":
+Jeg vil gerne sige, at Socialdemokratiet er helt
+enig i, at borgerne skal have den bedst mulige
+service. Det gælder også de borgere, der søger
+den praktiserende læge.
+Jeg tolker forslaget måske som et udtryk for,
+at praktiserende læger er optaget af at yde den
+bedste service til deres kunder, patienterne. Jeg
+håber, det er sådan.
+Ansvaret for, at borgerne får et godt tilbud,
+ligger i amtskommunerne. Aftaler om ydelser
+forhandles mellem Praktisernede Lægers Organisation og Sygesikringens Forhandlingsudvalg.
+Det er altså et decentralt ansvar.
+Når der er to parter om at løse en opgave,
+har vi en god tradition, nemlig at parterne laver
+en aftale om ydelsen og honoreringen af ydelsen. I forhandlinger er det også almindeligt, at
+man møder op med områder, som man prioriterer højt, man forhandler og når frem til et
+resultat. Sådan er det vel også med de forhandlinger, der nu går i gang på dette område.
+De' praktiserende læger vil måske føre lørdagsåbent frem som en prioritet, og måske er
+det også et ønske hos amterne. Men det har jeg
+naturligvis ikke noget præcist kendskab til. Jeg
+er nemlig ikke part i forhandlingerne.
+Jeg ved til gengæld, at der forskellige steder
+i landet er lavet forsøg med brugervenlige åbningstider, måske ikke lørdagsåbent, men åben
+konsultation f.eks. til kl. 20. Det er sket flere steder. Resultatet siges ikke at være opløftende.
+Det siges, at det var en ensom oplevelse at sidde til klokken otte om aftenen uden kunder.
+Det behøver naturligvis ikke at betyde, at
+amter og praktiserende læger udelukker andre
+muligheder og andre servicetilbud, så derfor vil
+jeg gerne sige: Lad forhandlingsparterne afgøre,
+hvilken plads lørdagsåbent skal have i de aktuelle forhandlinger.
+At forslagsstillerne foreslår lovgivning i stedet for forhandling, kan undre. At forslagsstillerne ønsker at gribe ind i forhandlingerne, før
+man har forhandlet færdigt, og ønsker centralisering i stedet for decentralisering, er overraskende. Jeg vil gerne sige, at måske er tidspunktet i den nuværende 4-års-periode af
+betydning for forslaget.
+Socialdemokratiet vil naturligvis ikke være
+utilfreds med, at Sygesikringen og de praktise-
+
+978
+
+Fredag den 7. november 1997 (B 29)
+
+rende læger indgår aftaler om brugervenlige
+åbningstider. Men vi kan ikke støtte forslaget,
+som det foreligger.";Hanne Andersen
+146353;name_party;":
+En undersøgelse fra Århus Amt viser, at flere
+og flere patienter henvender sig på skadestuen
+og hos vagtlægen i stedet for at gå til egen
+praktiserende læge. Det opfatter jeg som et problem, for det er dyrere for samfundet at bruge
+skadestue og vagtlæge, og det er i sidste ende
+dårligere for patienten, for den bedste behandling, når det drejer sig om banale lidelser, får
+man hos sin egen læge, der kender én godt og
+ved, hvilken familie man kommer fra, og hvordan ens arbejdsmæssige forhold er.
+Det er alt andet lige lettere for den praktiserende læge at stille en korrekt diagnose og hjælpe patienten bedst muligt. Men hvis patienten
+ikke synes, at han eller hun kan tage fri fra
+arbejde for at få undersøgt sit håndled, der gør
+ondt, eller hvis man ikke kan tage fri for at få
+lægen til at kigge på sit barn, der har klaget
+over ondt i maven i flere dage, ender det jo
+med, at man til sidst henvender sig på skadestuen eller ringer efter vagtlægen, når man
+kommer hjem.
+Det er en dårlig udvikling. Man kan mene alt
+det, man vil, om, hvordan man prioriterer sit
+liv, men udviklingen er dårlig, når vi benytter
+alternativer til den praktiserende læge, for den
+praktiserende læge er, som jeg har nævnt, den
+bedste, vi kan henvende os til.
+Jeg mener derfor, at han skal have mulighed
+for at holde lørdagsåbent, så familien sammen
+kan komme og få undersøgt det, man nu føler
+er galt. Det vil give både børnefamilier og andre
+en mulighed for at få lidt mere luft i dagligdagen. Har man et lille barn, der skal vaccineres
+rimelig ofte i det første halvandet år, går der
+altså en række fridage med at komme til lægen.
+Det ville være en velkommen mulighed, hvis
+man kunne lægge nogle af besøgene om lørdagen.
+Det Konservative Folkeparti opfordrer derfor
+regeringen til, at man tilskynder de parter, det
+drejer sig om, nemlig Sygesikringens Forhandlingsudvalg og Praktiserende Lægers Organisation, til, at man i den kommende overenskomst
+sikrer mulighed for lørdagsåbent. På mange
+andre områder ér vores samfund indrettet efter
+nutidens faktiske forhold, og det bør selvfølgelig også gælde de sundhedsydelser, vi får fra
+lægerne.";Henriette Kjær
+148500;name_party;":
+I SF synes vi, det er et glimrende forslag, som
+Venstre har stillet, om at lægerne holder åbent
+om lørdagen. Det mener vi sådan set langt hen
+ad vejen, at de bare kunne gøre, og der er vel
+intet i vejen for, at man ved næste overenskomstforhandling fra de praktiserende lægers
+side siger, at det vil de meget gerne gøre. Det
+skal bare stå i overenskomsten med Sygesikringen, at det vil de gøre fremover, selvfølgelig
+uden at det skal medføre ekstraomkostninger.
+Man må jo sige, at lægerne i dag er så rigelig
+vellønnede, at det meget vel også kan rumme
+en mulighed for at holde åbent om lørdagen.
+Jeg er temmelig sikker på, at Sygesikringens
+Forhandlingsudvalg ikke har noget imod, at
+lægerne kommer og siger, at de egentlig gerne
+vil holde åbent om lørdagen og yde en bedre
+service over for deres patienter. Det kan klares
+ved den næste overenskomstforhandling med
+den tilstrækkelige velvilje fra lægernes side, og
+det ser jeg frem til vil ske.
+Så vil jeg i øvrigt bare sådan af principielle
+grunde gerne spørge, om forslaget her er et
+udtryk for Venstres holdning til det kommunale
+og amtskommunale selvstyre og til, hvordan
+man forholder sig til forhandlinger, som. er henlagt til andre steder.";Jørn Jespersen
+149721;name_party;":
+Efter Det Radikale Venstres mening er forslaget
+her fra hr. Jørgen Winther med flere simpelt
+hen et af de mærkeligste forslag, vi har set i
+meget lang tid. Tænk, at man fra de to partier
+skal høre, at her skal vi altså have mere stat, og
+her skal Folketinget gribe ind i en overenskomstforhandling, der løber i øjeblikket, altså
+før man har nogle resultater.
+Vi synes ikke bare, det er en god idé, vi
+synes, det er en strålende idé, at lægerne skal
+holde åbent om lørdagen. Sidste gang, jeg havde brug for en læge, var en dejlig sommereftermiddag, da klokken var to. Jeg ringede så til
+min praktiserende læge og fik at vide, at doktor
+Hansen ikke svarede i konsultationen, han havde naturligvis fri. Jeg mener egentlig godt, at
+man kan arbejde fredag eftermiddag, men det
+kunne altså ikke lade sig gøre dér.
+Efter vores opfattelse synes vi, at lægerne
+skal finde ud af det, men vi mener, ligesom SF
+sagde det, at de praktiserende læger, som jo
+hævder, at det er et helt frit, privat erhverv,
+hvad det aldeles ikke er, at deres indtjening
+
+Fredag den 7. november 1997 (B 29)
+faktisk er sådan, at de egentlig ikke burde have
+ret meget oven i posen for at gøre det her.";Vibeke Peschardt
+150917;name_party;":
+Jeg sad og læste lidt i Venstres program her forleden, og jeg faldt over det, som vi også har
+hørt tidligere, at partiet har foreslået, at der
+skulle indføres en selvrisiko på 1.000 kr. om
+året ved lægebesøg. Derudover skriver Venstre
+også, at alle skal have mulighed for at kunne
+konsultere en anden læge end familielægen og
+for at kunne konsultere en speciallæge uden
+henvisning fra egen læge.
+Disse valgmuligheder skal være forbundet
+med en vis egenbetaling, og jeg vil gerne spørge
+Venstre, for det står der ikke noget om i dette
+beslutningsforslag, om det er sådan, at det også
+skal koste noget ekstra for patienten.
+Det er jo ingen hemmelighed, at Fremskridtspartiet ønsker, at der skal være et fuldstændig
+frit lægevalg, frit speciallægevalg og fri ret til at
+skifte læge. Alle, der har anerkendte uddannelser, skal frit kunne etablere sig og udbyde
+sundhedsydelser. Behandleren må tage den pris
+for sine ydelser, som han ønsker.
+Det er det, som Venstre i hvert fald har talt
+om. Det offentlige refunderer et beløb efter et
+takstsystem - det tror jeg vil være godt - hvor
+priserne for alle ydelser på forhånd er fastsat.
+Fri etableringsret og fri prisdannelse vil måske
+være med til at styrke kvaliteten af de ydelser,
+der udbydes, samt tilskynde behandleren til
+altid at levere ydelser af høj kvalitet.
+Det centrale, at man frit skal kunne etablere
+sig som læge, hvis man har en anerkendt uddannelse, kunne måske være med til, at der
+kom udvidede åbningstider. Dét, at der kom en
+reel konkurrence imellem de praktiserende
+læger, og at man ikke som i dag, når man
+ønsker en anden læge, bliver henvist til, at der
+er de og de læger tilbage i kommunen, som du
+kan vælge imellem, kunne i hvert fald være
+medvirkende til, at åbningstiderne også blev
+udvidet.
+Det er så ikke det, forslaget går på i dag. Dette enkle, meget konkrete forslag går bare ud på,
+at der skal være mulighed for at holde åbent
+lørdag formiddag, og jeg kan ikke se, at der er
+nogen argumenter for at gå imod et sådant forslag. Naturligvis skal de praktiserende læger
+have mulighed for at holde åbent lørdag formiddag og for den sags skyld hele døgnet.
+Det, det handler om, er nemlig, som vi har
+sagt gang på gang, at sætte patienten i centrum.
+
+979
+
+Som der også står i bemærkningen her, tænker
+alle i dag på service. Forretninger, banker osv.
+har åbent, når kunderne har tid til at gå i banken eller handle andre steder. Sundhed er jo
+noget, der i allerhøjeste grad er vigtigt, modsat
+måske mange andre ting, man kan benytte sig
+af her i samfundet. Men netop sundheden skal
+være i top for borgerne, og det centrale er, at
+trygheden for den enkelte borger bliver sat i
+centrum.
+Man skal altid kunne få fat på lægen, og det
+kan være meget, meget vanskeligt i dag med de
+nye vagtlægeordninger, som der har været
+meget kritik af. Der har været mange uheldige
+eksempler på, at det ikke har kunnet lade sig
+gøre, og det har endda efter sigende ført til
+døden for visse patienter.
+Den sidste overenskomstforhandling med de
+praktiserende læger har simpelt hen kun været
+til gavn for lægerne, og den har medført en dårlig service for patienterne. Vi skal selvfølgelig
+gøre, hvad vi kan, for at der bliver bedre service
+for patienterne, og dette forslag er så et element,
+der kan være medvirkende til det.
+Derfor synes Fremskridtspartiet naturligvis,
+at dette forslag må støttes med brask og bram.
+Vi må her fra Folketingets side ikke bare sige:
+Det er overenskomstforhandlinger, det kommer
+an på, og det må lægerne selv finde ud af ved
+overenskomstforhandlingerne. Det er faktisk
+mere eller mindre det, der ligger i det: at de
+skal til at styre det.
+Nej, de skal ikke styre det. Vi kan godt sætte
+visse regler fra Folketingets side, når det drejer
+sig om et så vigtigt emne som sundheden. Det
+er som sagt noget af det mest primære for borgerne ret hurtigt at kunne konsultere en læge
+og også på tidspunkter, hvor der normalt er
+lukket. Så naturligvis skal dette forslag vedtages, det kan der ikke herske nogen tvivl om.";Jan Køpke Christensen
+154922;name_party;":
+Enhedslisten ønsker overordnet, at det nuværende system med praktiserende læger ændres,
+således at tværfagligt bemandede, offentlige,
+lokale sundhedshuse bliver den fremtidsmusik,
+som vi går efter. Det nuværende system, hvor
+lægens indtægt er afhængig af, hvor mange
+patienter der når at skrive under på en refusionsblanket til Sygesikringen, er dårligt for
+begge parter.
+For patienterne er mødet med den praktiserende læge ofte en frustrerende oplevelse, fordi
+der er alt for lidt tid til dialog. For lægen bety-
+
+980
+
+Fredag den 7. november 1997 (B 29)
+
+der det nuværende system, at han efter endt
+turnus påtager sig en anselig gæld, måske oven
+i en stor studiegæld, og derfor de første mange
+år er meget økonomisk afhængig af at have de
+flest mulige patienter i konsultationen, enten
+fysisk eller telefonisk, og endda må supplere
+indtægten med andet arbejde som vagtlæge,
+kommunal lægekonsulent m.v.
+Tværfagligt bemandede sundhedshuse, hvor
+læger sammen med f.eks. sundhedsplejersker,
+fysioterapeuter, diætister, socialrådgivere og
+andre relevante faggrupper arbejder sammen
+om at give borgeren den til enhver tid mest
+relevante behandling, vil være en gevinst for
+folkesundheden, og samarbejdet med hjemmepleje, sygehusvæsen, småbørns- og skolesundhedspleje og socialforvaltning vil også kunne
+styrkes væsentligt ved et sådan system.
+Hvis vi ser på det konkrete forslag, handler
+det ikke om nogen særlig visionære forbedringer af den primære sundhedssektor: men
+Enhedslisten er enig med forslagsstillerne i, at
+en ugentlig aftenkonsultation i mange tilfælde
+giver et for dårligt serviceniveau for brugerne.
+Vi tror ikke, Amtsrådsforeningen vil have det
+fjerneste at indvende, såfremt Praktiserende
+Lægers Organisation beder om lov til at holde
+åbent om lørdagen, medmindre de ønsker en
+særlig honorering for denne serviceudvidelse.
+Vi afventer med spænding kommentarerne
+fra de to berørte parter, fordi det for os at se
+virker mærkeligt, at det overhovedet skulle
+være noget problem. Vi kan ikke se noget odiøst i, at også lægerne i den primære sektor har
+nogle arbejdsforhold, som ligner dem, man må
+byde personalet i sundhedsvæsenet. Både læger
+og sygeplejersker, som arbejder inden for sygehusvæsenet, må jo leve med, at de skal arbejde
+i weekendeme og have turnus, og hvad ved jeg.
+Egentlig kan man undre sig over, at der overhovedet er et problem her. Jeg synes i hvert
+fald, at de godt kan holde åbent om lørdagen,
+hvis de vil det, og om søndagen med for den
+sags skyld.
+Det eneste problem, man måske kunne nævne, og som er lidt mere langsigtet, er, at i dag er
+det jo kutyme, at man på nogle arbejdspladser men vel at mærke kun på nogle - kan få lov til
+at tage fri, hvis man skal til læge. Det, man kan
+frygte, hvis det bliver sådan, at lægen lægger
+sin arbejdstid uden for normal arbejdstid, er, at
+folk ikke kan gøre det mere. Men i dag er det
+allerede sådan, typisk inden for det offentlige,
+at folk afspadserer eller flekser, hvis det er
+
+sådan, at de skal til læge, så de ikke gør det i
+arbejdstiden.
+Jeg er ikke sikker på, det er noget stort problem, og samlet må vi sige, at forslaget ikke er
+noget, der revolutionerer verden. Men hvorfor
+søren i luften skulle lægerne ikke kunne holde
+åbent om lørdagen?
+Vibeke Kiil (CD):
+Centrum-Demokraterne finder det ganske
+rimeligt, at de praktiserende læger skal have
+mulighed for at holde åbent om lørdagen, og
+CD vil opfotdre til, at lægernes organisationer
+og Amtsrådsforeningen finder frem til en løsning. Det virker dog ikke som en fremkommelig vej at lovgive om den slags, men nu går forslaget til udvalgsbehandling, og vi vil så se på,
+hvad man kan nå frem til.";Bruno Jerup
+158568;name_party;":
+Da vores partis ordfører, fru Pia Kjærsgaard,
+ikke kan være til stede i dag, har jeg lovet at
+fremføre Dansk Folkepartis synspunkter.
+Fru Pia Kjærsgaard har været så venlig at
+forsyne mig med en ordførertale, der lyder: Ja,
+selvfølgelig! Og så kort kunne det faktisk siges.
+Vi er 100 pet. enige med V og K i dette forslag,
+vi støtter det varmt, og vi håber, det kan blive
+gennemført hurtigst muligt, fordi det vil give
+gode muligheder for patienterne.
+Vi forstår slet ikke de bemærkninger, der er
+kommet fra forskellig side om, at det vil være
+indgreb i overenskomstforhandlingerne. Det
+synes vi ikke er rigtigt. Det er også blevet sagt,
+at man er bange for at lovgive på området, men
+jeg må tænke tilbage på de debatter, vi har haft
+her i Folketinget om åbningstider butiksåbningstider, rullegardiner foran specielle varer
+og begrænset vareudbud med lange lister over,
+hvad der må sælges i det og det tidsrum. Her
+plejer man ikke at være så nervøs, så derfor
+støtter vi forslaget varmt, og vi håber, det bliver
+gennemført.";Ole Donner
+159612;name_party;":
+Jeg vil gerne takke både sundhedsministeren og
+ordførerne for alle de mange positive ord, der
+er kommet om dette forslag angående lørdagsåbent hos praktiserende læger.
+Udgangspunktet er jo klart: Det er sådan, at i
+dag må en praktiserende læge ikke holde åbent
+lørdag formiddag til almindelig konsultationstakst fra sygesikringen, hvis han har lyst til det.
+Det minder jo ikke om et godt, frit, liberalt land,
+
+Fredag den 7. november 1997 (B 29)
+
+981
+
+hvis en læge ikke må have lov til at holde åbent Afstemning
+en lørdag formiddag.
+Jeg er også enig med flere ordførere i/at den";Jørgen Winther
+160205;title_name;"bedste behandling, når man bliver akut syg, får Jeg foreslår, at forslaget til folketingsbeslutning
+man hos sin egen praktiserende læge, fordi
+henvises til Sundhedsudvalget. Hvis ingen gør
+denne læge kender patienten bedst. Det er altid
+indsigelse mod dette forslag, betragter jeg det
+bedre at blive behandlet hos sin egen praktise- som vedtaget. (Ophold). Det er vedtaget.
+rende læge end af en vagtlæge, og jeg vil også
+sige, at hvis en læge har haft travlt i et stykke
+tid med et eller andet og måske været væk et
+par dage i ugen, kunne det være fint, hvis han
+kunne få lov til at holde åbent en lørdag forMeddelelser fra formanden
+middag.
+Jeg lagde selvfølgelig meget mærke til, hvad";Formanden
+160903;title_name;"sundhedsministeren sagde, og der var to gode
+Der er ikke mere på dagsordenen.
+udsagn. Det ene var, at ministeren sagde, at lørdagsåbent bestemt kunne være en god idé, og
+Medlemmer af Folketinget Tom Behnke (FP) og
+yderligere udtalte ministeren, at hun havde
+Kim Behnke (FP) har meddelt mig, at de ønsker
+sympati for intentionen om lørdagsåbent. Og
+at stille følgende forespørgsel til justitsininistehensigten med forslaget er jo, at partierne skulle
+ren:
+give et signal til forhandlingsparteme, altså
+Praktiserende Lægers Organisation og Amts»Hvad kan ministeren oplyse om uroen i de
+rådsforeningen, så de kan få et signal om, at de
+danske fængsler, herunder om ledelsesforholpolitiske partier i Folketinget så at sige alle
+dene i Kriminalforsorgen?«
+ønsker, at praktiserende læger skal have mulig- ' (Forespørgsel nr. F 17).'
+hed for at holde åbent om lørdagen. Sandheden
+er nemlig - og det er nok det, der er det essen- Der er ikke mere at foretage i dette møde.
+tielle her - at Amtsrådsforeningen vistnok er
+meget positiv over for lørdagsåbent, men at
+Folketingets næste møde afholdes torsdag den
+Praktiserende Lægers Organisation ikke har ret
+13. november 1997 kl. 10.00.
+meget lyst til at holde åbent om lørdagen.
+Angående dagsordenen skal jeg henvise til
+Nu har vi haft debatten, og det, som Venstre
+den dagsorden, der er opslået i salen.
+og De Konservative ønsker, er altså at give
+Med hensyn til mødet om fredagen i den
+praktiserende læger en mulighed for at holde
+kommende uge skal jeg henvise til den omdelte
+åbent om lørdagen, hvis de gerne vil. Kan vi
+ugeplan.
+Undgå lovgivning, er det selvfølgelig det bedste, for det er ikke lovgivning, vi ønsker at ty til Mødet hævet kl. 13.09
+i første omgang. Vi ønsker det, vi har opnået
+nu: et klart signal fra Folketingets partier om, at
+PLO bør tænke sig lidt om og gå ind for lørdagsåbent
+Hermed sluttede forhandlingen, og forslaget til
+folketingsbeslutning overgik derefter til anden
+(sidste) behandling.";Formanden

@@ -1,0 +1,62 @@
+split;reason;text;value
+0;;"7522
+
+Torsdag den 24. juni 1999 (D)
+
+106. m ø d e";
+85;Time;"Dagsorden
+1) Eventuelt: Anden (sidste) behandling af
+beslutningsforslag nr. B 151:
+Forslag til folketingsbeslutning om udvidelse af
+operationsområdet for det danske bidrag til den
+NATO-ledede multinationale styrke i Albanien.
+Af udenrigsministeren (Poul Nielson, fg.).
+(Fremsat 24/6 99. Første behandling 24/6 99.
+Betænkning 24/6 99).
+(Mødet foregik i Landstingssalen på Christiansborg)
+
+Meddelelser fra formanden";kl. 16.00
+511;title_name;"Fra medlem af Folketinget Anne-Marie
+Meldgaard, der har orlov, har jeg modtaget
+meddelelse om, at hun fra og med den 25. juni
+1999 atter kan give møde i Tinget.
+Jytte Madsens hverv som midlertidigt medlem af Folketinget ophører herefter fra nævnte
+dato at regne.
+
+Man gik da til:
+Anden (sidste) behandling af beslutningsforslag nr. B 151:
+Forslag til folketingsbeslutning om udvidelse
+af operationsområdet for det danske bidrag til
+den NATO-ledede multinationale styrke i
+Albanien.
+Af udenrigsministeren (Poul Nielson, fg.).
+(Fremsat 24/6 99. Første behandling 24/6 99.
+Betænkning 24/6 99).
+Der var ikke stillet ændringsforslag.
+Forslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+(Foretaget på den i forretningsordenens § 35,
+stk. 3, angivne måde).
+Forslaget til folketingsbeslutning vedtoges med
+109 stemmer (S, V, KF, SF, DF, CD, RV, FP, KRF
+og Frank Dahlgaard (UP)): 3 (EL) stemte
+hverken for eller imod.";Formanden
+1444;title_name;"Udenrigsministeren vil få meddelelse om denne
+beslutning.
+
+Meddelelser fra formanden
+Samtykke til behandling";Formanden
+1564;title_name;"Den sag, der er opført på dagsordenen, kan kun
+med Tingets samtykke behandles i dette møde,
+men hvis ingen gør indsigelse, betragter jeg
+samtykket som givet. (Ophold). Det er givet.";Formanden
+1758;title_name;"Der er ikke mere på dagsordenen.
+Folketingets næste møde afholdes tirsdag den";Formanden
+1863;Time;"med følgende dagsorden: Første behandling af forslag til finanslov
+for finansåret 2000.
+Skulle det blive nødvendigt at indkalde
+Folketinget til yderligere møder i dette folketingsår, vil meddelelse om tidspunkt og dagsorden blive tilstillet medlemmerne skriftligt.
+Herefter er der kun at ønske medlemmerne
+og husets ansatte en fortsat god sommer!
+Mødet hævet kl. 16.05";kl. 10.00

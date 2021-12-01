@@ -1,0 +1,24 @@
+split;reason;text;value
+0;;"17/9 92: Dagsorden
+
+11365
+
+11366
+
+en dansk militær styrke til rådighed for De
+Forenede Nationer.
+Af udenrigsministeren (Ellemann-Jensen).
+
+99. møde";
+188;Time;"Dagsorden:
+Eventuelt: Anden (sidste) behandling af beslutningsforslag nr. B 95:
+
+Meddelelser fra formanden:";kl. 20.00
+309;title_name;"Da Forsvarsudvalget endnu ikke har afgivet
+betænkning, er der ikke mere at foretage i dette
+møde.
+Folketingets næste møde afholdes i morgen,
+fredag den 18. september 1992, kl. 10.00.
+Mødet hævet kl. 20.01
+
+Forslag til folketingsbeslutning om at stille";Formanden

@@ -1,0 +1,3335 @@
+split;reason;text;value
+0;;"1040
+
+Tirsdag den 22. januar 2008 (D)
+
+21. m ø d e";
+88;Time;"Dagsorden
+1) Spørgsmål om meddelelse af orlov til og
+indkaldelse af stedfortræder for medlem af
+Folketinget Torsten Schack Pedersen (V).
+2) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som midlertidigt
+medlem af Folketinget for Torsten Schack Pedersen (V).
+3) Spørgsmål om fremme af forespørgsel nr.
+F 12:
+Forespørgsel (hasteforepørgsel) til integrationsministeren [om afviste asylansøgere].
+Af Henrik Dam Kristensen (S), Astrid Krag (SF),
+Morten Østergaard (RV), Jørgen Poulsen (NY)
+og Johanne Schmidt-Nielsen (EL).
+(Anmeldelse 18.01.2008).
+4) 3. behandling af lovforslag nr. L 13:
+Forslag til lov om bemyndigelse til opsigelse af
+dobbeltbeskatningsoverenskomster mellem
+Danmark og henholdsvis Frankrig og Spanien.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+30.11.2007. Betænkning 09.01.2008. 2. behandling 17.01.2008. Lovforslaget optrykt efter 2. behandling).
+5) 2. behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om indskud på
+etableringskonto. (Forbedrede afskrivnings- og
+fradragsmuligheder).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008).
+6) 2. behandling af lovforslag nr. L 12:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Østrig.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008).
+
+7) 2. behandling af lovforslag nr. L 14:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Kroatien.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008).
+8) Forespørgsel nr. F 3:
+Forespørgsel til transportministeren [om trafikkens COz-udslip].
+Af Pia Olsen Dyhr (SF) m.fl.
+(Anmeldelse 04.12.2007. Fremme 06.12.2007).
+9) 1. behandling af beslutningsforslag nr. B 24:
+Forslag til folketingsbeslutning om anlæg af de
+manglende dobbeltspor mellem Vamdrup og
+Vojens og mellem Tinglev og Padborg samt opgradering af sidebanen Tinglev-Tønder.
+Af Per Clausen (EL) og Frank Aaen (EL)
+(Fremsættelse 11.12.2007).";kl. 13.00
+2236;Time;Meddelelser fra formanden;Kl. 13:00
+2274;title_name;"Medlemmer af Folketinget Jeppe Kofod (S),
+Steen Gade (SF), Morten Helveg Petersen (RV),
+Gitte Seeberg (NY) og Frank Aaen (EL) m.fl. har
+meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om pulje til forstærket oplysningsindsats om udviklingsarbejde og globalisering i udviklingslande på 45 mio.
+kr.
+(Beslutningsforslag nr. B 35).
+Medlemmer af Folketinget Jesper Petersen (SF),
+Benny Engelbrecht (S) og Per Clausen (EL) m.fl.
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om etablering af
+dobbeltspor mellem Vamdrup og Vojens og mellem Tinglev og Padborg.
+(Beslutningsforslag nr. B 36).
+
+(131)
+Tirsdag den 22. januar 2008 (Orlov)
+Medlemmer af Folketinget Frank Aaen (EL)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om respekt for
+arbej dstagerrettigheder, menneskerettigheder
+og retfærdig konkurrence.
+(Beslutningsforslag nr. B 37).
+Medlemmer af Folketinget Kristen Touborg (SF),
+Bjarne Laustsen (S), Gitte Seeberg (NY) og Per
+Clausen (EL) m.fl. har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om velfærdsbesøg i kvæg- og svinebesætninger hvert tredje år.
+(Beslutningsforslag nr. B 38).
+
+1041";Formanden
+3543;Time;;Kl. 13:01
+3555;title_name;"Fra Udvalget til Valgs Prøvelse har jeg modtaget
+indstilling om, at 1. stedfortræder for Venstre i
+Nordjyllands Storkreds, Anders Broholm, godkendes som midlertidigt medlem af Folketinget
+fra og med den 22. januar 2008, i anledning af
+Torsten Schack Pedersens orlov.
+Er der nogen, der ønsker ordet? .
+Da det ikke er tilfældet, går vi til afstemning.";Formanden
+3914;Time;Afstemning;Kl. 13:02
+3937;title_name;"Der stemmes om udvalgets indstilling. Der kan
+stemmes.
+Afstemningen slutter.
+Udvalgets indstilling er vedtaget enstemmigt
+med 105 stemmer.
+
+Det første punkt på dagsordenen er: .
+1) Spørgsmål om meddelelse af orlov til og
+indkaldelse af stedfortræder for medlem af
+Folketinget Torsten Schack Pedersen (V).";Formanden
+4251;Time;;Kl. 13:01
+4263;title_name;"Torsten Schack Pedersen har søgt om orlov fra
+den 22. januar 2008 på grund af barns fødsel.
+Hvis ingen gør indsigelse, vil jeg betragte det
+som vedtaget, at der meddeles orlov som ansøgt, og at stedfortræderen indkaldes som midlertidigt medlem.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+2) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som midlertidigt medlem af Folketinget for Torsten Schack
+Pedersen (V).
+
+[For stemte: 105 (V, S, DF, SF, KF, RV, NY og EL),
+imod stemte: 0, hverken for eller imod stemte:
+0].
+
+Det næste punkt på dagsordenen er:
+3) Spørgsmål om fremme af forespørgsel nr.
+F 12:
+Forespørgsel (hasteforepørgsel) til integrationsministeren [om afviste asylansøgere].
+Af Henrik Dam Kristensen (S), Astrid Krag (SF),
+Morten Østergaard (RV), Jørgen Poulsen,(NY)
+og Johanne Schmidt-Nielsen (EL).
+(Anmeldelse 18.01.2008).";Formanden
+5143;Time;;Kl. 13:02
+5155;title_name;"Hvis ingen gør indsigelse mod fremme af denne
+forespørgsel, betragter jeg Tingets samtykke
+som givet.
+,
+Det er givet.
+
+1042
+
+Tirsdag den 22. januar 2008 (L 13)
+
+Det næste punkt på dagsordenen er:
+4) 3. behandling af lovforslag nr. L 13:
+Forslag til lov om bemyndigelse til opsigelse
+af dobbeltbeskatningsoverenskomster mellem Danmark og henholdsvis Frankrig og Spanien.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+30.11.2007. Betænkning 09.01.2008. 2. behandling 17.01.2008. Lovforslaget optrykt efter 2. behandling).";Formanden
+5717;Time;;Kl. 13:03
+5728;Time;Afstemning;Kl. 13:04
+5751;title_name;"Der stemmes om lovforslagets endelige vedtagelse. Der kan stemmes.
+Afstemningen slutter.
+For stemte: 108 (V, S, DF, SF, KF, RV, NY og EL),
+imod stemte: 0, hverken for eller imod stemte: 0.
+Lovforslaget er vedtaget og vil nu blive sendt til
+statsministeren.
+
+Forhandling";Formanden
+6032;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig? Ja, hr. Jesper Petersen.";Formanden
+6131;Time;(Ordfører);Kl. 13:03
+6163;name_party;":
+Under førstebehandlingen af det her forslag
+blev der boret lidt i, hvilke lande det så er, vi nu
+mangler at have aftaler med, og hvor der stadig
+er udeståender, når vi får dobbeltoverenskomsterne på plads. Der blev spurgt meget ind til,
+om Schweiz var et af de lande, og det snakkede
+vi længe om. Det er nu kommet frem undervejs i
+udvalgsbehandlingen, at der i Schweiz, Holland, Tyrkiet og andre lande stadig er et stort antal pensionister, hvor vi risikerer stadig at have
+den situation, at man har privat pension i Danmark med fradrag og ikke bliver beskattet af det
+i Danmark.
+Vi stemmer naturligvis for det her forslag og
+ser frem til, at det bliver vedtaget.
+Jeg skal så blot markere, at vi nu må forvente,
+at vi får taget hul på at løse problemerne med de
+lande, f.eks. Schweiz, Holland og Tyrkiet, hvor
+der stadig er udeståender, som skal afklares. Så
+jeg vil anbefale, at vi ikke standser processen
+her, men hurtigst muligt kommer videre og får
+løst problemerne for de her andre lande. Med
+den opfordring skal jeg ikke forlænge taletiden
+yderligere.";Jesper Petersen
+7232;Time;;Kl. 13:04
+7244;title_name;"Ja tak. Ønsker flere at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Det næste punkt på dagsordenen er:
+5) 2. behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om indskud
+på etableringskonto. (Forbedrede afskrivnings- og fradragsmuligheder).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008).";Formanden
+7645;Time;Forhandling;Kl. 13:05
+7669;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen afsluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse, betragter jeg dette
+som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+6) 2. behandling af lovforslag nr. L 12:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og
+Østrig.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008).
+
+Tirsdag den 22. januar 2008 (L 14)";Formanden
+8288;Time;Forhandling;Kl. 13:06
+8312;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Det er ikke tilfældet, og forhandlingen er sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse, betragter jeg dette
+som vedtaget.
+Det er vedtaget.
+
+1043
+
+Det næste punkt på dagsordenen er:
+8) Forespørgsel nr. F 3:
+Forespørgsel til transportministeren:
+Hvad agter regeringen at gøre for at sikre, at
+dens målsætning om at reducere trafikkens
+C02-udslip med 25 pet. i 2030 i forhold til 1988
+bliver overholdt?
+Af Pia Olsen Dyhr (SF), Jesper Petersen (SF) og
+Ole Sohn (SF).
+(Anmeldelse 04.12.2007. Fremme 06.12.2007).";Formanden
+8980;Time;;Kl. 13:06
+8992;title_name;Fru Pia Olsen Dyhr har ordet for begrundelse.;Formanden
+9047;Time;"Begrundelse
+
+Det næste punkt på dagsordenen er:
+7) 2. behandling af lovforslag nr. L 14:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Kroatien.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008).";Kl. 13:07
+9351;Time;Forhandling;Kl. 13:06
+9375;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse, betragter jeg dette
+som vedtaget.
+Det er vedtaget.
+
+(Ordfører for forespørgerne)";Formanden
+9715;name_party;":
+Klimadebatten er blevet aktualiseret, hvilket vi
+tydeligt oplevede i den lige overståede valgkamp. SF har derfor valgt at rejse denne forespørgsel for at få Folketingets opbakning både
+til regeringens ønske om en plan for klima og
+miljø og til regeringens C02-pejlemærke for trafikken, som er beskrevet i regeringens strategi
+for bæredygtig udvikling, »Grønt Ansvar«, fra >
+2007. Vi står i Danmark - men også globalt over for en enorm udfordring på klimaområdet,
+og det er derfor helt centralt, at Folketinget bakker op om en ambitiøs linje.
+Regeringens Infrastrukturkommission har i
+meget begrænset omfang forholdt sig til C02udslippet fra trafikken, hvilket vi skal beklage.
+Det havde alt andet lige været oplagt, at man i
+forbindelse med løsningen af trængselsproblemerne ikke skabte yderligere klimaproblemer,
+og derfor bør trængsel og klima ses i sammenhæng og ikke hver for sig. Det er desværre ikke
+sket, og derfor må Folketinget sikre denne sammenhæng.
+Vi mener, der er to væsentlige elementer, som
+det er centralt for Folketinget at forpligte regeringen til. Det ene er en plan for trafik og klima,
+som statsministeren nævnte i forbindelse med
+regeringens seminar på Havreholm - en plan,
+der sikrer, at alle fremtidige investeringer i infrastruktur i Danmark er klimasikrede - og det andet er en konkret målsætning for reduktion af
+trafikkens C02-udslip, jævnfør udkast til bæredygtighedsstrategi, »Grønt Ansvar«, fra 2007.
+Målsætningen er væsentlig, for det er en måde,
+hvorpå vi kan sikre, at politiske beslutninger
+hænger sammen, således at vi ikke først bygger
+
+1044
+
+Tirsdag den 22. januar 2008 (F 3)
+
+en masse motorveje for efterfølgende at konstatere sådan hovsaagtigt, at vi alligevel ikke får
+nedbragt C02-udslippet.
+Jeg ser frem til en konstruktiv debat.";Pia Olsen Dyhr
+11501;Time;;Kl. 13:08
+11513;title_name;Ja tak. Så er det transportministeren for besvarelse.;Formanden
+11576;Time;"Besvarelse
+Transportministeren (Carina Christensen):
+Allerførst vil jeg gerne takke for den mulighed,
+forespørgslen giver mig for at adressere vores
+håndtering af C02-spørgsmålet i forhold til
+transportområdet.
+Regeringen har besluttet sammen med investeringsplanen at udarbejde en ambitiøs strategi
+med virkemidler, der kan realisere et fald i
+transportsektorens C02-udledning. Strategien
+offentliggøres i slutningen af 2008.
+Som bekendt har regeringen formuleret et
+pejlemærke om at reducere trafikkens C02-udledninger med 25 pet. i 2030 i forhold til 1988-niveauet. Dette pejlemærke har stadig gyldighed.
+Opfyldelsen vil dog være afhængig af indgåelsen af ambitiøse europæiske og globale klimaog energiaftaler, der bl.a. kan sætte gang i en accelereret teknologisk udvikling og en kommercialisering af nye alternative brændsler og drivmidler.
+Vi kan ikke gøre det selv, uanset at vi med udformningen af en egentlig COz-politik på transportområdet nu er på vej til at tage et meget vigtigt nationalt skridt. Siden fastlæggelsen af pejlemærket har EU's regeringsledere truffet en række beslutninger med betydning for Danmarks
+bidrag til at reducere de globale menneskeskabte klimaforandringer. Det ser ud til, at transportsektoren vil blive omfattet, og at tidshorisonten
+for de aftalte reduktionskrav vil blive 2020. Dermed vil udgangspunktet være, at regeringens
+COz-strategi for transportsektoren vil fokusere
+på at leve op til de internationale aftaler, Danmark vil indgå i den kommende tid.
+I en kommende COz-politik for transportsektoren vil vi under alle omstændigheder stå over
+for en udfordring, hvor vi skal være meget grundige, når vi kommer med forslag til strategier og
+konkrete løsninger. Som jeg ser det, kommer det
+til at handle om at finde løsninger, hvor de konkrete tiltag inden for transportsektoren leverer
+et bidrag til at begrænse de menneskeskabte kli-
+
+maforandringer, men hvor disse tiltag påvirker
+borgernes velfærd og samfundets vækstmuligheder mindst muligt. Vi ved, at der er en meget
+klar tendens til, at transport af personer og
+transport af gods forøges, i takt med at der sker
+forbedringer i vores velstand. Det er en sammenhæng, som går begge veje. Transport skaber
+velstand, og velstand skaber transport. Det skal
+vi huske på, når vi skal vurdere konsekvenserne
+af forskellige muligheder for at reducere transportsektorens C02-udledning.
+Infrastrukturkommissionen er opmærksom
+på denne problematik, og kommissionen har
+også bl.a. anbefalet, at indsatsen for at begrænse
+transportsektorens miljø- og klimapåvirkninger
+skal intensiveres. Jeg citerer fra rapporten:
+Der er behov for at sikre en afkobling mellem
+trafikudviklingen og C02-udslippet. Det kræver
+et langt sejt træk i de kommende år.
+Infrastrukturkommissionen siger videre i deres rapport, og jeg citerer:
+En vigtig del af indsatsen er at sikre, at en så
+stor del af trafikvæksten som muligt sker i den
+kollektive trafik.
+Det er regeringen enig med kommissionen i.
+Man kan ret let sammenligne det faktiske energiforbrug i togtrafikken med energiforbruget i
+biltrafikken. Med det aktuelle energiforbrug til
+persontransport på henholdsvis bane og vej
+medfører en rejst kilometer på banen mellem en
+tredjedel og halvdelen af den C02-udledning,
+som 1 km på vejen giver tilsvarende. Omregnet
+svarer det til, at togpassagererne i 2006 kunne
+køre 50 km pr. liter benzin og S-togs-passagererne 75 km. En moderne bil kører til sammenligning i gennemsnit 15,7 km pr. liter benzin, hvilket med et gennemsnitligt antal personer pr. bil
+på 1,6 svarer til 25 km pr. liter. Bl.a. derfor vil vi
+have særligt fokus på den kollektive trafik i det
+videre arbejde med både investeringsplanen og
+C02-strategien. Vi må som politikere erkende, at
+den samlede indsats kommer til at bestå af summen af en række virkemidler.
+Jeg vil gerne benytte lejligheden til at runde et
+par af de instrumenter ud over den kollektive
+trafik, som jeg forventer vil kunne få størst betydning for de fremtidige transporters C02-udledning.
+For det første drejer det sig om indsatser, der
+begrænser væksten i transportefterspørgslen,
+således at der sker en afkobling mellem udviklingen i den økonomiske vækst og udviklingen i
+transportens miljøbelastning. Det indebærer, at
+der fortsat kan ske en vækst i økonomien, uden
+
+Tirsdag den 22. januar 2008 (F 3)
+
+1045
+
+sterens melding, for de mange gode ord på diverse pressemøder bliver jo ikke til virkelighed.
+Regeringen.har sagt, og transportministeren bekræfter, at man ønsker en plan for trafik og klima, og ydermere bekræfter transportministeren,
+at regeringen har et C02-pejlemærke for trafikken indskrevet i regeringens strategi for bæredygtig udvikling fra 2007, »Grønt ansvar«, som
+man holder fast ved. Alligevel nævner transportministeren, at der er knyttet betingelser til
+målsætningen. Hvis vi skal leve op til målsætningen, vil det kræve ambitiøse vedtagelser. Det
+er SF med på, men hvorfor er der indlagt betingelser i »Grønt ansvar«? Det var der ikke tidligere.
+Vi stiller os også lidt undrende over for, at regeringspartierne ikke ønsker at støtte et forslag
+til vedtagelse baseret på netop de to ting: en
+plan for trafik og klima og C02-pejlemærket for
+trafikken. Vi ser hellere, at Folketinget bakker op
+om en ambitiøs linje, og det vil kræve konkrete
+forpligtelser. Transportens andel af den samlede
+C02-udledning udgør nu 30 pet. og er stigende.
+Regeringen har i planen for bæredygtig udvikling lagt op til, at trafikkens C02-udledning skal
+reduceres med 25 pct. Ses det mål i forhold til
+den stigning, der er sket siden 1988, svarer det
+til en reduktion af transportens C02-udledning i
+2030 med 45 pet. i forhold til nu. Det vil sige, at
+vi massivt skal i gang med beslutninger, hvis vi
+skal ændre den nuværende tendens.
+Derudover udgør transportens olieforbrug 60
+pet. af det samlede danske olieforbrug, og da det
+er regeringens langsigtede målsætning - statsministeren har gang på gang bekræftet det - at
+Danmark skal være 100 pet. uafhængigt af fossile brændstoffer, så stiller det store krav til transportsektoren. Set i lyset af, at regeringen i energiforhandlingerne har lagt op til en reduktion på
+15 pct. af COz-udledningen over 17 år, ja, så kan
+vi altså først nå målet om et Danmark fri for fosKl. 13:16 sile brændstoffer i 2125 - altså om 117 år. Det er
+groft uambitiøst.
+Forhandling
+Det er derfor centralt, at vi stadig væk fastholder en klar målsætning for C02~udledningen
+(Ordfører for forespørgerne)
+i trafikken, som regeringen selv har beskrevet i";Kl. 13:09
+18080;name_party;":
+sin egen plan for bæredygtig udvikling. Her ønJeg vil starte med at sige tak til ministeren for
+sker regeringen, at COrudledningen reduceres,
+hendes konstruktive tilgang til forespørgslen.
+og jeg er glad for, at transportministeren bekræfStatsministeren sagde efter pressemødet på
+ter det, men ked af, at regeringspartierne ikke er
+Havreholm Slot, at regeringen vil arbejde for, at
+villige til at indskrive det i en vedtagelse.
+folk flytter sig fra bilen til den kollektive trafik.
+Infrastrukturkommissionen har i meget lille
+Det er en målsætning, som SF kan støtte, og som
+omfang forholdt sig til en reduktion af COz-udjeg kan høre at transportministeren også støtter.
+ledningen fra trafikken. Det er korrekt, hvad
+Alligevel er jeg lidt skuffet over transportmini-
+
+at der sker en tilsvarende stigning i transportefterspørgslen. Den fysiske planlægning er helt
+central her. Eksempelvis skal vi holde fast i stationsnærhedsprincippet. Det drejer sig om fortsat at sørge for, at arbejdspladser placeres, så de
+ligger tæt ved kollektiv trafik.
+For det andet er det indsatser, der effektiviserer transportsystemet, således at der udføres
+mere transport pr. kørt kilometer. Herved sker
+der en afkobling mellem mængden af udført trafik og gennemført transport. Det drejer sig eksempelvis om at indføre modulvogntog, hvor
+der kan være mere gods på den samme lastbil.
+For det tredje er det indsatser, der effektiviserer energiforbruget i transportsektoren, således
+at energiforbruget pr. kørt kilometer reduceres.
+Herved sker der en afkobling mellem mængden
+af trafik og energiforbruget. Det drejer sig om, at
+biler, tog, busser og lastbiler kører længere pr. liter brændstof. Det er et område, hvor et nyt EUdirektiv kan få stor betydning, hvad angår personbiler. Det handler dog også om, hvordan
+man rent faktisk kører i trafikken.
+For det fjerde er det virkemidler, der effektiviserer energiforbrugets COrudslip, således at
+der sker en afkobling mellem COrudslippet og
+den forbrugte energi i transportsektoren. Det
+drejer sig bl.a. om at anvende renere brændstoffer.
+Regeringens C02-strategi vil som nævnt omfatte et bredt katalog over mulige indsatser og
+virkemidler, der kan bidrage til, at transportsektoren kan levere sit til at opfylde Danmarks internationale klimaforpligtelser.
+Vi ser frem til en konstruktiv politisk proces i
+forbindelse med det videre arbejde.";Pia Olsen Dyhr
+20457;Time;;Kl. 13:15
+20469;title_name;"Tak til transportministeren. Og så er det fru Pia
+Olsen Dyhr som ordfører for forespørgerne.
+
+1046
+
+Tirsdag den 22. januar 2008 (F 3)
+
+transportministeren gør rede for her, men det er
+langtfra nok, hvis vi skal se på, at de samlede investeringer i fremtiden skal inddrage klimahensyn. For foretages der ikke en ekstra indsats for
+trafikken, vil trafikkens andel af de samlede udledninger vokse. Hvis vi reelt ønsker at reducere
+COrudledningen generelt og vi ikke er villige
+til at reducere trafikkens C02-udledning, vil det
+kræve massive investeringer i energisektoren,
+og jeg vil med regeringens meldinger under
+energiforhandlingerne in mente ikke mene, at
+regeringen er villig til det. Så hvis regeringens
+klimapolitik skal hænge sammen, er det uansvarligt at ignorere trafikkens C02-udledning.
+SF tror på, at det kan lade sig gøre, men kun
+hvis vi tager problemet alvorligt. Ministeren var
+inde på forskellige virkemidler, og dem er vi
+helt enige i: ny teknologi, mere kollektiv trafik
+og større fysisk planlægning. Men det gøres ikke, uden at vi har en konkret målsætning, som vi
+kan pejle efter i forbindelse med investeringerne.
+Regeringen har altid en undskyldning for
+ikke at mene noget ambitiøst på klimaområdet.
+Den siger, at den er ambitiøs, men den er det aldrig. Nu står der endelig noget pænt om klima i
+regeringsgrundlaget, og det første, regeringen
+så efterfølgende gør i den første debat om klimamålene, er at løbe fra målsætningerne ved ikke
+at være villig til at indskrive det i en vedtagelse.
+Nu påstår regeringen så, at den er blevet klimabevidst. Statsministeren har sågar indrømmet, at han tog grueligt fejl, hvad angår klimaproblemernes alvor, og nu lægger regeringen alligevel op til at navigere sådan lidt på må og få.
+Jeg håber derfor, at regeringen vil besinde sig og
+bakke op om vores forslag til vedtagelse.
+Jeg skal derfor på vegne af Socialdemokraterne, Det Radikale Venstre, Enhedslisten og SF
+fremsætte følgende:
+Forslag til vedtagelse
+»Idet Folketinget konstaterer, at C02-udslippet
+fra transportsektoren fortsat vokser kraftigt, og
+at det af hensyn til Danmarks indsats på klimaområdet er nødvendigt at vende denne udvikling, opfordrer Folketinget regeringen til i overensstemmelse med regeringens egen målsætning at reducere transportens C02-udslip med
+25 pct. i forhold til 1988-niveauet i 2030. Regeringen skal i 2008 fremlægge en detaljeret plan
+for, hvordan målet kan nås med løbende årlige
+
+delmål, samt hvad det forudsætter med hensyn
+til det enkelte transportmiddels COreffektivitet,
+trafikkens omfang, trafikkens fordeling på
+transportmidler, samt hvilke konsekvenser det
+har for infrastrukturinvesteringerne.«
+(Forslag til vedtagelse nr. V 20).";Formanden
+23170;Time;;Kl. 13:21
+23182;title_name;"Der er nu fremsat følgende forslag til vedtagelse:
+»Idet Folketinget konstaterer, at C02-udslippet
+fra transportsektoren fortsat vokser kraftigt, og
+at det af hensyn til Danmarks indsats på klimaområdet er nødvendigt at vende denne udvikling, opfordrer Folketinget regeringen til i overensstemmelse med regeringens egen målsætning at reducere transportens C02-udslip med
+25 pct. i forhold til 1988-niveauet i 2030. Regeringen skal i 2008 fremlægge en detaljeret plan
+for, hvordan målet kan nås med løbende årlige
+delmål, samt hvad det forudsætter med hensyn
+til det enkelte transportmiddels COreffektivitet,
+trafikkens omfang, trafikkens fordeling på
+transportmidler, samt hvilke konsekvenser det
+har for infrastrukturinvesteringerne.«
+(Forslag til vedtagelse nr. V 20).
+Dette forslag til vedtagelse vil indgå i de videre
+forhandlinger.
+Der er ingen, der har bedt om korte bemærkninger. Vi siger tak til fru Pia Olsen Dyhr. Næste
+ordfører er hr. Kristian Pihl Lorentzen.";Formanden
+24162;Time;(Ordfører);Kl. 13:22
+24201;name_party;":
+Jeg vil gerne indledningsvis slå fast, at transporten af personer og gods er årsag til en betydelig
+del af Danmarks udledning af C02' Derfor mener Venstre også, at der er brug for målrettede
+initiativer, der kan mindske brændstofforbruget
+og dermed reducere udledningen af CO2 til
+gavn for miljøet og klimaet.
+Jeg vil også gerne slå fast, at den øgede trafik
+hænger nøje sammen med den høje beskæftigelse og den gunstige økonomiske situation i Danmark. Vi har simpelt hen gang i hjulene i Danmark, også bogstavelig talt. Det er et faktum, at
+en velfungerende transport af personer og varer
+er en helt afgørende forudsætning for vores fælles velfærd. Hvis fremdriften på veje og baner
+hæmmes, vil det betyde en mindre samfundskage og dermed mindre velfærd til danskerne,
+
+Tirsdag den 22. januar 2008 (F 3)
+og det er selvfølgelig et faktum, vi må forholde
+os til.
+Den manglende fremdrift i trafikken betyder
+dog ikke kun milliardtab for samfundet hvert
+eneste år. Lange bilkøer og forsinkede tog betyder også spild af god livstid - tid, der kunne
+bruges langt bedre derhjemme hos familien
+midt i en travl hverdag eller til en ekstra tørn på
+arbejdspladsen i en tid med mangel på arbejdskraft.
+Endelig har manglende fremdrift i trafikken
+også negative konsekvenser for miljøet og for
+C02-udledningen. Biler, der holder i kø på Køge
+Bugt-motorvejen, forurener meget, og det bringer mig til kernen i den trafikpolitiske udfordring, vi står over for.
+På den ene side skal vi sikre velstanden og
+velfærden i vort samfund med en moderne og
+tilstrækkelig infrastruktur. Det vil kræve målrettede og massive investeringer i den trafikale infrastruktur, både i den kollektive trafik og i vejnettet. På den anden side skal vi indrette transporten således, at vi reducerer udledningen af
+C02 mest muligt. Her er der brug for nye initiativer, der betyder en såkaldt afkobling af C02udledningen, dvs. at C02-udledningen ikke stiger i samme takt som den øgede trafikmængde ja, den skulle gerne falde i de kommende år.
+Men det kræver, at vi hele tiden medtænker dette mål, når vi træffer beslutninger om fremti- dens trafik.
+Venstre vil bl.a. gerne være med til at fremme
+den kollektive trafik som et attraktivt alternativ
+til bilen, men Venstre mener også, at der også i
+denne sag skal findes den rette balance. Det er et
+vigtigt mål at reducere C02-udledningen, men
+vi skal også holde gang i hjulene i samfundet til
+gavn for beskæftigelsen og for vores velfærd.
+Venstre ønsker derfor, at der kommer en belysning af sammenhængene mellem velfærd og beskæftigelse på den ene side og begrænsninger af
+transporten med henblik på reduktion af C02udledningen på den anden side. Det er en vigtig
+viden at have, inden vi sætter nogle faste og bastante mål for reduktion af C02-udledningen,
+hvor meget det koster i velfærd, og det går jeg
+ud fra at alle Folketingets partier er meget interesserede i.
+Lad mig nævne København, vores alle sammens hovedstad, som et eksempel. Hver dag leverer lastvogne hundredvis af tons varer til
+modtagere i København, så byen kan fungere,
+herunder varerne på hylderne i butikkerne. Der-
+
+1047
+
+for er det en vanvittig tanke, når visse politikere
+foregøgler borgerne, at lastbilerne skal helt ud af
+byen. De samme politikere må forholde sig til,
+om byen skal sættes i stå, eller om de mange
+tons varer i stedet skal leveres på budcykler eller
+af en hærskare af små varebiler. Vejen frem er
+naturligvis at sikre grundlaget for den nødvendige transport på en måde, der er så miljøvenlig
+som muligt, bl.a. ved brug af lastvogne med lavt
+brændstofforbrug og partikelfiltre.
+Infrastrukturkommissionen har for et par
+uger siden fremlagt en række visionære bud på,
+hvordan vi forener hensyn til mobilitet og miljø.
+Der er grund til at takke kommissionen for et
+flot stykke arbejde, der bidrager til at give os et
+samlet overblik over de trafikale udfordringer
+og de tilknyttede miljømæssige udfordringer.
+Desuden peger kommissionen på seks fokusområder, der bør være en ledetråd for det politiske arbejde, og et af disse fokusområder er netop at styrke indsatsen for at begrænse transportens miljø- og klimapåvirkning. Her er der en
+bred vifte af konkrete initiativer at tage fat på,
+fra parker og rejs-anlæg, fremme af cyklisme og
+målrettede investeringer i den kollektive trafik
+til udbygning af udvalgte vejstrækninger samt
+investeringer i intelligente transportsystemer,
+der kan øge fremkommeligheden og forbedre
+miljøet.
+Venstre hilser meget velkommen, at regeringen i løbet af 2008 vil fremlægge to vigtige planer, nemlig for det første en samlet investeringsplan, der skal sikre fremdriften i trafikken og
+sammenhængen i Danmark og dermed grundlaget for vores velfærd, og for det andet en samlet
+strategi for reduktion af transportsektorens
+COrudledning. Men vi ønsker ikke at lægge os
+fast på faste procentsatser på nuværende tidspunkt: vi ønsker en dynamisk tilgang og en satsning med konkrete initiativer i stedet for faste
+procentsatser. Herefter er det nemlig op til Folketingets partier at tage stilling og følge planerne op med handling, forhåbentlig med en bred
+politisk aftale sidst på året som resultat - et resultat, hvor vi i transportpolitikken sikrer
+grundlaget for både fremdrift og renere miljø i
+vort samfund. Hvor der er vilje, er der vej og bane.
+På denne baggrund vil jeg gerne på vegne af
+Venstre, Dansk Folkeparti, Det Konservative
+Folkeparti, Ny Alliance og Pia Christmas-Møller
+(UFG) fremsætte følgende:
+
+1048
+Forslag til vedtagelse
+
+Tirsdag den 22. januar 2008 (F 3)
+
+tiøs målsætning om, at C02-udslippet skal reduceres så meget som muligt.";Kristian Pihl Lorentzen
+29787;Time;"»Transporten af personer og gods er ansvarlig
+for en stor del af Danmarks udledning af C02'";Kl. 13:30
+29891;title_name;"Folketinget hilser det derfor velkommen, at
+Ordføreren.";Formanden
+29956;Time;regeringen sammen med den kommende investeringsplan vil fremlægge en ambitiøs strategi;Kl. 13:30
+30071;name_party;":
+for en reduktion af transportsektorens COrudDet er korrekt, at vi ikke ønsker at fastsætte faste
+ledning.
+procentsatser, som jeg også redegjorde for i min
+Folketinget opfordrer til, at de mulige indordfører tale, og det gør vi jo ikke, fordi vi for det
+satsområder til en begrænsning af transportsek- første ikke mener, det er særlig dynamisk. Vi vil
+torens miljø- og klimapåvirkning, som fremgår
+hellere iværksætte en række konkrete initiativer,
+blandt andet af Infrastrukturkommissionens be- som der er lagt op til med Infrastrukturkommistænkning, herunder en prioritering af den kolsionens rapport, og som regeringen lægger op til
+lektive trafik, inddrages i dette arbejde.«
+med den strategiplan, der fremlægges her i løbet
+(Forslag til vedtagelse nr. V 21).
+2008.";Kristian Pihl Lorentzen
+30850;Time;For det andet er det også værd at hæfte sig;Kl. 13:29
+30906;title_name;"ved, at det pejlemærke, som regeringen har udJa tak. Der er fremsat følgende forslag til vedtastukket for 2030, jo fortsat er gældende som et
+gelse:
+pejlemærke. Men jeg har noteret mig, at regeringens strategi for reduktion af CO2 fra transpor»Transporten af personer og gods er ansvarlig
+ten sigter mod 2020, så alene af den grund er der
+for en stor del af Danmarks udledning af CO2.
+årsag til at fastsætte en ny målsætning. Men jeg
+Folketinget hilser det derfor velkommen, at
+mener også, at Enhedslisten bør forholde sig til,
+regeringen sammen med den kommende inveat hvis vi bare sætter sådan en målsætning uden
+steringsplan vil fremlægge en ambitiøs strategi
+skelen til, hvad transporten i øvrigt betyder for
+for en reduktion af transportsektorens COz-udal vores velfærd, har Enhedslisten et problem,
+ledning.
+for mig bekendt går Enhedslisten kraftigt ind
+Folketinget opfordrer til, at de mulige indfor, at vi skal have mest mulig velfærd.";Formanden
+31859;Time;satsområder til en begrænsning af transportsektorens miljø- og klimapåvirkning, som fremgår;Kl. 13:31
+31963;title_name;"blandt andet af Infrastrukturkommissionens be- Så er det hr. Per Clausen for yderligere en kort
+tænkning, herunder en prioritering af den kolbemærkning.";Formanden
+32125;Time;"lektive trafik, inddrages i dette arbejde.«
+(Forslag til vedtagelse nr. V 21).";Kl. 13:31
+32221;name_party;":
+Jeg kan forstå, at hr. Kristian Pihl Lorentzen meOgså dette forslag til vedtagelse vil indgå i de
+ner, regeringen var udynamisk, da den i 2007
+videre forhandlinger.
+fremlagde et forslag om, at det her skulle være
+Der er korte bemærkninger, og den første er
+målsætningen.
+fra hr. Per Clausen.
+Så siger hr. Kristian Pihl Lorentzen, at fordi";Per Clausen
+32571;Time;målet nu er 2020, er det klart, at vi skal have en;Kl. 13:29
+32639;name_party;":
+ny målsætning. Men problemet er jo ikke, at hr.
+Jeg kan forstå på hr. Kristian Pihl Lorentzen, at
+Kristian Pihl Lorentzen vil have en ny målsætregeringspartierne sammen med Dansk Folkening. Problemet er, at hr. Kristian Pihl Lorentzen
+parti og Ny Alliance nu har et ambitiøst mål om
+ingen målsætning vil have, bortset fra en målat reducere COrudslippet så meget, som det er
+sætning om, at vi skal reducere COrudslippet
+muligt uden at genere bilerne og den økonomiså meget, som det er muligt, når vi skal sikre biske vækst. Jeg vil bare spørge hr. Kristian Pihl
+lernes frihed fremover og også sikre, at der er
+Lorentzen, om det også er udtryk for, at regerin- plads til den økonomiske vækst. Pointen er vel,
+gen har skiftet politik - altså at regeringen fra at
+at for hr. Kristian Pihl Lorentzen er C02-udsliphave en meget præcis målsætning om, at der
+pet noget, hvor vi gør det så godt, som vi kan,
+skal ske et fald i C02-udslippet på 25 pct. fra
+når vi har taget hensyn til alt det, vi synes er vig1988 til 2030, nu er gået over til at have en ambi- tigt.
+
+(132)
+Tirsdag den 22. januar 2008 (F 3)";Per Clausen
+33749;Time;1049;Kl. 13:32
+33766;Time;;Kl. 13:33
+33794;name_party;":
+Nej, tværtimod mener jeg sandelig, at vi skal reKl. 13:32 spektere de internationale målsætninger. Jeg gør";Kristian Pihl Lorentzen
+33930;name_party;":
+opmærksom på, at transporten jo kun er en del
+Jeg kan bekræfte, at vi tager hensyn til transpor- af hele problemstillingen omkring COz-udledtens betydning for vores velfærd - ja. Men ikke
+ningen. Men transporten skal som nævnt yde sit
+desto mindre har vi en ambitiøs tilgang til det
+markante bidrag, og det kan vi få den til ved at
+her, og som jeg har redegjort for, er der en lang
+træffe kloge beslutninger fremadrettet.
+række konkrete initiativer, som vi ønsker at
+Al mulig respekt for det forslag til vedtagelse,
+iværksætte. Nu afventer vi så regeringens samder her er fremsat af SF og andre partier, men
+lede strategi på området.
+det hænger altså fast i en meget bastant procentDa regeringen fastsatte det her pejlemærke,
+sats frem for at se på de konkrete initiativer, der
+var den ikke udynamisk, tværtimod. Tingene
+er brug for, og uden skelen til, at vi er nødt til at
+udvikler sig hurtigt, og jeg synes, hr. Per Clauhave en viden om, hvad de beslutninger, vi måtsen skulle hilse det velkommen, at både statsmi- te træffe, betyder for hele transportsektoren, og
+nisteren, transportministeren og klimaministeom de måske kan aflede en mindre velfærd.
+ren, som der også står i regeringsgrundlaget, er
+For en ting er sikkert: Hvis vi lægger hindrinambitiøse på det her punkt. Jeg synes, hr. Per
+ger i vejen for transporten uden at lave nogle
+Clausen med spænding og store forventninger
+kloge alternativer, går det ud over vores velskulle afvente, hvad der kommer på området,
+færd. Det synes jeg også SF skulle forholde sig
+til.
+uden at lægge sig fast på stereotype procentsatKl. 13:34
+ser.";Kristian Pihl Lorentzen
+35533;Time;Formanden:;Kl. 13:32
+35556;title_name;"Fru Pia Olsen Dyhr for en sidste kort bemærkning.
+Så er det fru Pia Olsen Dyhr.";Formanden
+35645;Time;;Kl. 13:32
+35655;Time;;Kl. 13:34
+35675;name_party;:;Pia Olsen Dyhr
+35696;name_party;":
+Jeg er glad for, at hr. Kristian Pihl Lorentzen
+Nu har jeg noteret mig, at hr. Kristian Pihl Lorentzen kalder det en meget bastant målsætning.
+også er ambitiøs på regeringens vegne. Det vil
+hele Folketinget som sådan egentlig gerne være, Det kan vi godt kalde den, men det er ikke desto
+og derfor har vi lagt op til en vedtagelse, som i
+mindre regeringens egen målsætning fra bærevirkeligheden bekræfter nogle af de udtalelser,
+dygtighedsstrategien fra 2002, som igen er bekræftet i bæredygtighedsstrategien »Grønt anregeringen er kommet med efter en valgkamp,
+der har fokuseret på klima.
+svar« fra 2007. Det vil sige, at det er regeringens
+Vi har valgt at fremsætte et forslag, som både
+egen målsætning, man nu vælger at løbe fra, og
+det vil sige, at den ikke holder længere.
+handler om en plan for klima og trafik - jeg tror
+egentlig, vi kan blive ganske enige om, at den
+Det er en anden udmelding end den, transportministeren lagde op til. Så jeg synes egentskal være ambitiøs, og en anden del, som handlig, det kunne være interessant, om hr. Kristian
+ler om, hvorvidt vi skal reducere COrudslippet
+Pihl Lorentzen kunne bekræfte det.
+efter en konkret målsætning, eller hvorvidt vi
+Den anden del af det er, at statsministeren
+bare skal lade det være op til tilfældighederne,
+igen og igen har valgt at sige, at Danmark skal
+om vi nu når den her målsætning:
+Er hr. Kristian Pihl Lorentzen ikke enig i, at vi være fossilfrit i fremtiden. Mener hr. Kristian
+internationalt har forpligtet os til at reducere vo- Pihl Lorentzen så ikke også, at det bør have konsekvenser for transportsektoren og olieforbruget
+res C02-udslip, og at det derfor ikke er nødveni transportsektoren? Eller kan hr. Kristian Pihl
+digt, at Folketinget træffer beslutninger, der leLorentzen ikke støtte statsministerens målsætver op til de internationale målsætninger? Eller
+mener hr. Kristian Pihl Lorentzen, at vi bare kan ning om det?";Pia Olsen Dyhr
+37614;Time;skrotte de internationale målsætninger og gøre,;Kl.13:35
+37674;title_name;som vi har lyst til?;Formanden
+37704;Time;Ordføreren.;Kl. 13:33
+37728;title_name;Ordføreren.;Formanden
+37751;title_name;"Ordføreren.
+
+1050
+
+Tirsdag den 22. januar 2008 (F 3)";Formanden
+37815;Time;;Kl. 13:35
+37843;name_party;":
+Det var mange spørgsmål på én gang, men jeg
+skal forsøge at besvare dem så godt, jeg kan.
+Jeg er helt enig i målet om, at Danmark skal
+være totalt uafhængig af fossile brændstoffer på
+den lange bane, og det bliver den meget lange
+bane. Det er der gode sikkerhedspolitiske grunde til, men også gode forsyningsmæssige grunde. Så jeg er helt enig i det pejlemærke.
+Jeg er også helt enig i, at vi selvfølgelig skal
+have reduceret brændstofforbruget. Og der er
+det jo netop, Infrastrukturkommissionen har peget på en række landvindinger og en række tiltag, der skal til - f.eks. det, at vi kører i mere
+brændstoføkonomiske biler, både personbiler og
+lastbiler, der kører meget længere på literen, det
+at, vi kan investere i intelligente transportsystemer, som øger fremkommeligheden på de eksisterende veje, samtidig med at vi sparer masser
+af brændstof, og det, at vi iværksætter forsøg
+med modulvogntog og dermed kan transportere
+langt mere gods med den samme brændstofmængde. Der er masser af gode nyheder på vej.
+Men jeg mener, at regeringens målsætning
+om 25 pct. er og bliver et pejlemærke. Det, vi
+skal nu, er, at vi skal frem til en strategi for, hvad
+der skal ske i perioden frem til 2020, og så skal vi
+følge det op med en række beslutninger om en
+række konkrete initiativer, der leder frem mod
+det pejlemærke.";Kristian Pihl Lorentzen
+39170;Time;;Kl. 13:36
+39182;title_name;Det er hr. Torben Hansen for en kort bemærkning.;Formanden
+39240;Time;;Kl. 13:36
+39258;name_party;":
+Jeg kan forstå på Venstres ordfører, hr. Kristian
+Pihl Lorentzen, at der er manglende dynamik i
+at sætte en fast procentsats ind, og det er også
+stereotypt. Det har fået mange ikke så pæne ord
+med på vejen.
+Det synes jeg jo et eller andet sted er lidt ærgerligt, og jeg vil da godt her i Folketingssalen
+tilbyde hr. Kristian Pihl Lorentzen, hvis han mener, at de 25 pct. er for lavt sat, altså at vi kunne
+nå endnu højere, at forslagsstillerne så her skriver mindst foran, sådan at hr. Kristian Pihl Lorentzen ikke behøver at være bange for, at vi sigter for lavt. Det er jeg overbevist om de gerne vil
+være med til.
+I forhold til det her med stereotyp vil jeg høre,
+om hr. Kristian Pihl Lorentzen så også mener, at
+det er stereotype procentsatser, når EU eksem-
+
+pelvis på hele andelen af vedvarende energi
+med den danske regerings opbakning har lavet
+en procentsats, og når EU også på nedbringelse
+af C02-udslippet har lavet en fast procentsats
+med den danske regerings opbakning. Mener hr.
+Kristian Pihl Lorentzen også, at det er en stereotyp og udynamisk tilgang til tingene?";Torben Hansen
+40349;Time;;Kl. 13:37
+40361;title_name;Ordføreren.;Formanden
+40382;Time;;Kl. 13:37
+40410;name_party;":
+Det, jeg mener med det, er, at der er stor bevægelse i det her område. Ikke alene kommer der
+hver eneste dag teknologiske landvindinger på
+det her område, som imødekommer problemet,
+der er også en stor debat i gang i EU, der udmønter målsætninger vedrørende reduktionen
+af C02' Det er derfor, jeg mener, der er behov for
+dynamik i den her proces. Og derfor passer det
+som fod i hose, at regeringen i løbet af 2008 får
+lavet en samlet strategi for det her område, ledende frem til en række konkrete tiltag, som vi
+så forhåbentlig kan tage beslutninger om herinde med en bred politisk opbakning.
+Det, der er vigtigt for mig, er at signalere så
+kraftigt, jeg kan, at Venstre ikke alene ønsker en
+reduktion i COrudledningen fra transporten,
+men vi ønsker også et samfund, der har gang i
+hjulene og har beskæftigelse, og hvor der fortsat
+er et grundlag for vores velfærd, også i 2030.";Kristian Pihl Lorentzen
+41301;Time;;Kl. 13:38
+41313;title_name;Det er hr. Torben Hansen for en sidste kort bemærkning.;Formanden
+41378;Time;;Kl. 13:38
+41396;name_party;":
+Jeg synes, at Venstres ordfører kørte rundt om
+det som katten om den varme grød. Hvorfor
+ikke erkende, at årsagen til, at EU på de her
+punkter med den danske regerings opbakning
+har sat faste procentsatser, netop er, at der skal
+være noget, om man vil, der presser aktørerne
+frem mod målet? Og der kunne det jo også være
+fornuftigt, som også fru Pia Olsen Dyhr har sagt:
+Jamen lad os tage udgangspunkt i det, som regeringen selv har formuleret tidligere, nemlig 25
+pet.
+Derfor vil jeg gerne spørge hr. Kristian Pihl";Torben Hansen
+41925;title_name;"Er det, fordi man er bange for, at 25
+pct. er for lavt sat, og at man vil kunne stemme
+for det her forslag til vedtagelse, hvis det er sådan, at vi sætter det lille ord mindst foran?
+
+Tirsdag den 22. januar 2008 (F 3)";Lorentzen
+42153;Time;;Kl. 13:39
+42165;title_name;Ordføreren.;Formanden
+42187;Time;;Kl. 13:39
+42215;name_party;":
+Jeg vil gerne sige ærligt, at målet med en reduktion på 25 pct. frem til 2030 bliver mere end
+svært at nå. Det kan man lige så godt erkende
+ærligt. Det vil medføre en markant reduktion og
+masser af restriktioner på vores transportstrømme, som uvægerlig vil få indflydelse på samfundets velfærd, og det vil jeg gerne have belyst, inden Venstre lægger sig fast på en bestemt målsætning, om vi overhovedet gør det, for som
+sagt er det et meget dynamisk område, hvor der
+hele tiden kommer teknologiske landvindinger.
+Vi har faktisk i regeringsgrundlaget en række
+klare målsætninger, bl.a. for introduktionen af
+biobrændstoffer inden for transportområdet,
+som vi selvfølgelig vil gøre alt for bliver opfyldt.
+Men lige præcis på det her område, hvor der er
+så mange ting, der spiller ind, og hvor vi skal
+have et samlet overblik i sammenhæng med den
+investeringsplan, vi skal i gang med inden for
+infrastrukturen, mener vi ikke, at det for nuværende er klogt at lægge sig fast på en konkret
+målsætning. Men det er da vigtigt at have et pejlemærke ude i horisonten, og det har regeringen
+så udmærket fremlagt sidste år.";Kristian Pihl Lorentzen
+43339;Time;;Kl. 13:40
+43351;title_name;"Der er ikke flere korte bemærkninger. Vi siger
+tak til hr. Kristian Pihl Lorentzen. Den næste
+ordfører er hr. Torben Hansen.";Formanden
+43485;Time;(Ordfører);Kl. 13:40
+43514;name_party;":
+En tredjedel af den samlede C02-udledning i
+Danmark stammer fra transportsektoren, herunder ikke mindst vores biler, og den andel er stadig stigende. Og der er ingen vej uden om det:
+Hvis det er sådan, at C02-udslippet skal nedbringes, så skal flere danskere tage bussen og toget i stedet for bilen, men det kan vi kun gøre
+ved at forbedre den kollektive trafik så meget, at
+det bliver et reelt og troværdigt alternativ til bilerne.
+. Regeringen har igennem de seneste 6 år nedbrudt danskernes tillid til den kollektive trafik.
+Det er blevet langt dyrere at køre med bus og
+tog, servicen er faldet markant med færre afgange og flere forsinkelser. Og for miljøets skyld, for
+pendlernes skyld, for brugernes skyld er det
+nødvendigt, at man nu får genskabt tilliden til
+
+1051
+
+den kollektive trafik i Danmark. Det vil fra Socialdemokratiets side bl.a. betyde, at vi nu skal
+have massive investeringer i den kollektive
+transport, og det indebærer mere regularitet og
+mere kapacitet for både tog, busser og letbaner.
+Det er en stor investering, men prisen ved at
+lade være er endnu større.
+Det kunne også være spændende, hvis vi alle
+sammen inden for de kommende år greb chancen og fik højhastighedstog i Danmark eller i
+hvert fald taget beslutningen herom, greb chancen for letbaneprojekter, som vi ser mange steder i byerne rundtomkring. Eksempelvis er det
+sådan, at det med toget tager 1 time og 22 minutter mellem Paris og Bruxelles. I Danmark er
+der den samme afstand mellem Århus og København, det tager i omegnen af 3 timer, og jeg
+synes egentlig, at det meget godt siger, hvilken
+tilstand den kollektive trafik er i for nuværende.
+Det burde jo også være klart for enhver, at
+trafikpolitikken ikke fungerer, da der lige nu er
+massive køer på motorvejene, forsinkelser på
+jernbanerne og enorme og stigende miljøbelastninger, der med rette sætter dagsordenen i den
+trafikpolitiske debat. Infrastrukturkommissionen er kommet med forskellige bud. Mange af
+dem ser spændende ud, men jeg synes, at der
+desværre mangler nogle overvejelser over miljø,
+og at der mangler nogle overvejelser over økonomi.
+Godstrafikken er et særskilt kapitel. Alle beregninger viser, at vi får stadig stigende godstrafik på vores veje. Òg Socialdemokratiet vil derfor i den her samling fremsætte forslag om at
+indføre en vejbenyttelsesafgift, svarende til den
+tyske Maut, for lastbiler over 12 t, så antallet af
+lastbiler, der kører tomme rundt på vejene,
+mindskes, og så godstransport på skinner og
+skibe bliver mere konkurrencedygtig i forhold
+til lastbiler. Det vil være godt for miljøet, og det
+vil mindske trængslen til glæde for de øvrige
+trafikanter. Og indtægterne fra trængselsafgifterne på lastbilerne kunne jo passende anvendes
+til massivt at sænke priserne på miljøvenlige biler.
+Socialdemokratiet vil også, at Skattekommissionen, der skal igangsætte sit arbejde her i 2008,
+også tager det perspektiv med, at vi på et tidspunkt skal til at kigge på, at vi skal have billigere biler, og at de så skal være dyrere at benytte.
+Det vil være helt naturligt, at Skattekommissionen tager det med.
+. Et andet redskab til at sikre større lyst til at
+bruge den kollektive trafik er selvfølgelig også
+
+1052
+
+Tirsdag den 22. januar 2008 (F 3)
+
+takstnedsættelser. Vi har tidligere foreslået, og
+det vil vi gøre igen, en takstnedsættelse på den
+kollektive trafik med 25 pct., og for en pendler,
+der bruger alle zoner i hovedstadsområdet, vil
+det eksempelvis betyde en nedsættelse på 279
+kr. og for en pendler mellem eksempelvis Randers og Aalborg en månedlig besparelse på 380
+kr. Men det er bare for at vise, at prisen har betydning, og at prisen sammen med forbedret regularitet og kapacitet er fuldstændig altafgørende for den kollektive trafiks konkurrencemuligheder.
+Nedbringelsen af C02-udslippet fra trafikken
+er ikke nem og ligetil, men den allerførste forudsætning er at sikre, at man har et ordentligt og
+håndfast mål. Socialdemokratiet synes, det er
+ærgerligt for både miljøet og trafikpolitikken, at
+regeringen ikke vil være med til at sætte bindende mål for C02-reduktionen i trafikken. Nu er risikoen en masse flotte ord uden mål, uden handling, alt sammen noget, der fører til, at regningen og miljøproblemerne bliver endnu større i
+de kommende år. Vi skal alle sammen huske på,
+at alle har et ansvar for at bekæmpe klimaforandringerne, men det er dem, der tager de politiske beslutninger, der har det allerstørste ansvar,
+og jeg synes, at regeringen svigter ved ikke at
+ville være med til nogen mål for det her område.";Torben Hansen
+48034;Time;;Kl. 13:45
+48046;title_name;"Der er korte bemærkninger, og den første er fra
+hr. Kristian Pihl Lorentzen.";Formanden
+48132;Time;;Kl. 13:45
+48160;name_party;":
+Hr. Torben Hansen var inde på, at specielt de
+sidste 6 år var tilliden til den kollektive trafik
+blevet helt nedbrudt - det var vist ordvalget.
+Der vil jeg da godt stilfærdigt gøre opmærksom
+på, at der netop de seneste 6 år er foretaget massive investeringer i den kollektive trafik med
+henblik på genopretning af fortidens synder.
+Bl.a. blev der i trafikaftalen fra 2006 ekstraordinært afsat 4,7 mia. kr. til en genopretning af det
+skinnenet, som var nedslidt igennem årtier. Jeg
+må formode, at socialdemokratiske regeringer
+også har haft et ret stort medansvar i den sag.
+Der er truffet principbeslutning om en totaludskiftning af signaler og sporskifter i de kommende år. Nu mangler vi så at finde finansieringen,
+men det bliver der fulgt op på.
+Så jeg synes, det er noget af en tilsnigelse, at
+hr. Torben Hansen siger, at tilliden til den kollektive trafik er blevet nedbrudt under den her re- .
+
+gering. Tværtimod er der iværksat en lang række fremadrettede initiativer.
+Det, jeg godt kunne tænke mig at høre, er:
+Hvad har Socialdemokratiet tænkt sig at sætte af
+til en fremadrettet investering i den kollektive
+trafik?";Kristian Pihl Lorentzen
+49296;Time;;Kl. 13:46
+49308;title_name;Ordføreren.;Formanden
+49329;Time;;Kl. 13:46
+49347;name_party;":
+Det står fuldstændig soleklart, at det er det samlede Folketing - ja, der kan være nogle enkelte,
+der ikke har været med i det - der igennem
+mange årtier har været med til ikke at tage sig
+ordentligt af det her område. Det vedkender Socialdemokratiet sig, og jeg har registreret, at
+Venstre også vedkender sig, at de har et ansvar
+dér.
+Men når vi ser på, hvor mange der bruger
+den kollektive trafik, når vi ser på, at taksttilskuddet er fjernet, og at det generelt er blevet
+dyrere, når vi ser på, at man eksempelvis i de
+her uger og måneder - det ved hr. Kristian Pihl
+Lorentzen også - er ved at finde ud af, hvad for
+nogle buslinjer man af økonomiske årsager skal
+nedlægge i Midtjylland, så synes jeg i allerhøjeste grad, at det netop viser, at man ikke prioriterer det her område tilstrækkeligt.
+Så blev der sagt signaler, javel, men hvis man
+følger den plan, som regeringen har lavet, så er
+vi jo fremme ved 2014, før vi måske kunne være
+oppe på at have et signalsystem, der fungerer,
+som vi gerne vil have det. Det betyder jo rent
+faktisk, at vi har 6-7 år endnu, inden vi får noget,
+der ligner regularitet i togdriften, og det er simpelt hen for lang tid.";Torben Hansen
+50520;Time;;Kl. 13:47
+50532;title_name;Hr. Kristian Pihl Lorentzen for en sidste kort bemærkning.;Formanden
+50600;Time;;Kl. 13:48
+50628;name_party;":
+Jeg hører ikke ret meget om finansieringen. Det
+er jo ellers et punkt, der bliver meget interessant,
+når vi nu skal til at realisere alle de her konkrete
+projekter, der er. Der bliver det jo spændende at
+se, om Socialdemokraterne denne gang vil være
+med til at skaffe noget finansiering, så vi får en
+bred trafikpolitisk aftale.
+Jeg hørte også hr. Torben Hansen nævne noget om nye vejafgifter for lastvogne. Jeg forstår,
+at der skal opkræves i omegnen af 2 mia. kr., der
+så kunne kanaliseres over i privatbilerne.
+
+Tirsdag den 22. januar 2008 (F 3)
+Mener hr. Torben Hansen ikke, at det vil være
+et skud for boven for hele den samlede danske
+vognmandsbranche, der i forvejen er under
+hårdt konkurrencemæssigt pres udefra, og som i
+forvejen er plaget af lastvogne, der udflager
+hver eneste uge: der er faktisk kommet fart på
+det på det seneste? Mener hr. Torben Hansen, at
+det vil være fornuftigt på den måde at skyde
+danske vognmænd i sænk, så det er udenlandske vognmænd, der kommer ind og transporterer, og mener hr. Torben Hansen ikke, at det er
+konkurrenceforvridning, så det klodser?";Kristian Pihl Lorentzen
+51728;Time;;Kl. 13:48
+51740;title_name;Ordføreren.;Formanden
+51761;Time;;Kl. 13:48
+51779;name_party;":
+Nej, jeg mener rent faktisk, at det vil være med
+til at skabe en mere lige konkurrencesituation,
+for det forholder sig sådan i dag, som hr. Kristian Pihl Lorentzen også ved, at danske vognmænd jo rent faktisk skal betale afgifter i Tyskland i betydelig højere grad, end det omvendte
+er tilfældet. Så jeg tror rent faktisk, at det her vil
+være med til at skabe en lige konkurrencesituation for alle de vognmænd fra Europa, der så kører under et andet flag end det danske, og som
+så skal herop og køre. Så jeg mener rent faktisk,
+der vil ske det omvendte: at vi får skabt en mere
+lige konkurrencesituation, sådan at det ikke er
+nede ved grænsen, det afgøres, hvor man skal
+betale mest. Så det kan jeg slet ikke se.
+I forhold til finansieringen vil jeg bede hr. Kristian Pihl Lorentzen om at kigge i Socialdemokratiets finanslovoplæg fra omkring den 10. september, hvor vi netop i en kvalitetsfond vil afsætte i omegnen af 100 mia. kr. over de kommende mange år, hvor der også er et helt specifikt punkt omkring udbygning af den kollektive
+trafik.";Torben Hansen
+52835;Time;;Kl. 13:49
+52847;title_name;Det er hr. Kim Christiansen for en kort bemærkning.;Formanden
+52908;Time;;Kl. 13:49
+52930;name_party;":
+Jeg kunne godt tænke mig at tage tråden lidt op
+i forhold til et lovforslag, der skal pålægge transportbranchen øgede omkostninger. Det lyder
+spændende set i forhold til, at det er et meget
+plaget erhverv. Jeg mener under den netop overståede valgkamp helt klart at have hørt, at Socialdemokratiet er tilhænger af at videreføre af-
+
+1053
+
+gifts- og skattestoppet. Strider det her ikke lidt
+imod den tanke?";Kim Christiansen
+53347;Time;;Kl. 13:50
+53359;title_name;Ordføreren.;Formanden
+53380;Time;;Kl. 13:50
+53398;name_party;":
+Nej, for pengene bliver inden for transportsektoren.";Torben Hansen
+53462;Time;;Kl. 13:50
+53474;title_name;Et sidste kort spørgsmål.;Formanden
+53509;Time;;Kl. 13:50
+53531;name_party;":
+Så kunne jeg godt tænke mig at høre hr. Torben
+Hansens begrundelse for, at det kun er transportsektoren, der skal betale vèjafgift. Jeg kan
+godt se, at der kan være en pointe i, at man får
+den udenlandske transittrafik til at lægge nogle
+penge i Danmark, men det strider i givet fald
+mod EU-lovgivningen kun at opkræve den af
+udlændinge, så det vil alt andet lige være at
+straffe det danske transporterhverv.
+Så vil jeg gerne høre hr. Torben Hansen, hvorfor det så kun skal være for transporterhvervet
+og ikke for privatbilismen.";Kim Christiansen
+54072;Time;;Kl. 13:51
+54084;title_name;Ordføreren.;Formanden
+54105;Time;;Kl. 13:51
+54123;name_party;":
+Når det gælder transporterhvervet, får vi jo bl.a.,
+som hr. Kim Christiansen selv siger, en del af
+transittrafikken med.
+Til det andet om privatbilismen ville hr. Kim
+Christiansen, hvis hr. Kim Christiansen eksempelvis så Danmark Radios DR Nyheder 21 i aftes, kunne se, at Socialdemokratiet stiller forslag
+om, at man i den Skattekommission, der nu skal
+igangsætte sit arbejde her i 2008, også får en diskussion af, at vi skal have gjort de danske biler
+billigere, men benyttelsen af dem skal gøres dyrere. Det er jo sådanne erfaringer, man er ved at
+gøre i andre lande, og jeg synes, det vil være naturligt, at Skattekommissionen går ind og ser på
+det, så der i de kommende år også kan blive
+truffet nogle beslutninger på det område.";Torben Hansen
+54869;Time;;Kl. 13:51
+54881;title_name;"Der er ikke flere, der har bedt om korte bemærkninger. Vi siger tak til hr. Torben Hansen. Næste
+ordfører er hr. Kim Christiansen.
+
+1054
+
+Tirsdag den 22. januar 2008 (F 3)";Formanden
+55064;Time;(Ordfører);Kl. 13:52
+55097;name_party;":
+Man må sige, at dagens debat om C02-udled~
+ning og om, hvordan vi kan reducere den inden
+for person- og godstransport, er en meget aktuel
+debat. Her er det Dansk Folkepartis helt klare
+opfattelse, at det bedst kan ske ved en optimal
+udnyttelse af eksisterende ressourcer samt ved
+at indtænke problematikken i fremtidens infrastruktur.
+Når man ser på de afledte effekter, der er af
+transporten, er det lykkedes at forbedre alle elementer undtagen udslippet af CO2, som i en periode, hvor trafikken er steget med 50 pet., er
+steget med 30 pct., så den er dog ikke steget proportionalt med stigningen i trafikken, og det må
+man så tilskrive den teknologiske udvikling.
+Men det er ikke godt nok, og med en forventet
+stigning i trafikken frem mod 2030 er det tvingende nødvendigt, at vi tænker i andet end at
+bygge bredere veje. Det er også det, som jeg hører fra de ordførere, der hidtil har tilkendegivet
+deres holdning, nemlig at man skal satse mere
+på den kollektive trafik.
+I dag udgør transport i personbiler 81,5 pet. af
+personbefordringen, og 80 pct. af godstransporten foretages med lastbiler. Togene tegner sig for
+henholdsvis 8 pet. og 4 pct. Derfor er der for
+Dansk Folkeparti slet ingen tvivl om, at der i
+den kommende investeringsplan, som regeringen har varslet i forlængelse af Infrastrukturkommissionens rapport, bør lægges stor vægt
+på en styrkelse af den kollektive trafik, hvilket
+statsministeren til min store glæde også har givet udtryk for.
+Der har været meget tale om modulvogntog,
+og til oplysning primært for dem, der sidder og
+ser tv derhjemme, kan jeg da oplyse, at længden
+på en lastvogn på et modulvogntog øges fra
+18,75 m til 25,25 m, og den tilladte vogntogsvægt øges fra 48 t til 601. Det vil sige, at man kan
+øge godsvolumen med 25-30 pet., og at man kan
+mindske C02-udslippet med 15-20 pct. Det er et
+meget, meget vigtigt område at sætte ind på.
+Når vi nu ser, at 80 pct. af alt gods i Danmark
+transporteres netop på lastbil, er man ikke nødt
+til at være professor for at kunne se de åbenlyse
+fordele ved modulvogntog.
+Derfor synes jeg også, at det er lidt besynderligt, at den vedtagne forsøgsordning til 85 mio.
+kr. ikke allerede er blevet udvidet. Det vil kræve
+
+yderligere 42 mio. kr., for at de, der nu har lyst
+til og behov for havne og transportcentre, kan
+komme med i en ordning om modulvogntog.
+Det ville også modvirke en skævvridning af
+Danmark, og det ville ikke mindst være en stor
+gevinst med hensyn til C02-udledningen og for
+miljøet.
+Hvis man ville være lidt til grin, skulle man
+for ikke så mange år siden bare nævne ordet
+sporvogn, så blev man kaldt nostalgiker, og man
+blev spurgt: Er du så gammel, at du kan huske
+dem? Jeg kan meget svagt huske dem, men jeg
+vil sige, at fremtiden ligger i sporvognene - nu
+om dage hedder det letbaner. I Infrastrukturkommissionens rapport tales der om etablering
+af letbaner i Århus og det nordlige København,
+og senest har vi set Odense præsentere et storstilet og ambitiøst projekt om at indføre letbaner
+over en tiårig periode. Det er ting, som Dansk
+Folkeparti gerne vil være med til at fremme.
+Når vi taler om, hvad der skal til for at nedbringe C02-udledningen, er snakken selvfølgelig også om de igangværende forsøg med biodiesel og større brug af bioætanol. I det hele taget skal alternative drivmidler indtænkes i fremtidens debat.
+Motorvejsafgifter og roadpricing er også
+ting, der vil blive diskuteret, og lad mig sige det
+ganske kort: Det er Dansk Folkeparti ikke tilhænger af, vi brandskatter i forvejen i rigelig
+grad vores bilister. Jeg kan i øvrigt i den forbindelse lige nævne, at den seneste omlægning af
+registreringsafgiften, som netop havde det sigte
+at fremme brugen af miljørigtige, mindre dieselbiler, har været en rigtig stor succes. Det har faktisk affødt et boom i salget af små dieselbiler.
+Der vil komme mange gode ideer på bordet
+under dagens debat, og ingen skal være i tvivl
+om, at Dansk Folkeparti vil melde sig ind i kampen for at mindske udledningen af CO2 fra trafikken, både i de kommende finanslovforhandlinger og i udmøntningen af Infrastrukturkommissionens mange anbefalinger.";Kim Christiansen
+59208;Time;;Kl. 13:56
+59220;title_name;"Der er ingen, der har bedt om korte bemærkninger, så vi siger tak til hr. Kim Christiansen. Den
+næste i ordførerrækken er fru Henriette Kjær.
+[Formanden bliver opmærksom på, at fru Henriette Kjær ikke er til stede i salen]. Det betyder
+så, at næste tilstedeværende i ordførerrækken er
+fru Bente Dahl.
+
+Tirsdag den 22. januar 2008 (F 3)";Formanden
+59566;Time;(Ordfører);Kl. 13:57
+59593;name_party;":
+Da ordføreren for Det Radikale Venstre, hr. Johs.
+Poulsen, er forhindret, er det mig, der holder De
+Radikales ordførertale.
+Transportsektoren bidrager med en større og
+større andel af vores samlede C02-udslip. Mens
+det samlede cOrudslip er reduceret med omkring 15 pct. siden 1988, er transportsektorens
+C02-udslip steget støt gennem alle årene med i
+alt 30 pet. Intet tyder på, at udviklingen vender,
+tværtimod fortsætter udbygningen af motorvejene, mens jernbaneskinnerne knap nok bliver .
+vedligeholdt og cykeltrafikken er under kraftig
+nedtrapning. Det er alarmerende.
+Hvis ikke vi får vendt udviklingen, får Danmark alvorligt svært ved at opfylde sine internationale klimaforpligtelser. Men ikke nok med
+det: Hvert år dør omkring 4.000 danskere som
+følge af luftforurening fra transportsektoren. Vi
+rører os ikke nok og spilder masser af gode arbejdstimer på motorvejene i kø.
+Der er brug for nye løsninger i transportsektoren. Der er mange oplagte muligheder for at
+reducere transportsektorens forbrug af fossile
+energikilder. Det Radikale Venstre mener, at der
+skal investeres massivt i kollektiv transport. Der
+skal satses på hybridbiler og cyklisme, og vi skal
+have afgiftssystemet til at arbejde med os, så det
+altid kan svare sig at vælge de miljøvenlige
+transportløsninger. Vi har alle muligheder for at
+knække transportsektorens C02-kurve. Det
+handler bare om at tænke visionært og frem for
+alt om at handle.
+Alvoren er dog ved at gå op for regeringen, i
+hvert fald er retorikken på plads. Regeringen offentliggjorde på Havreholm den 10. januar, at
+den vil nedbringe trafikkens C02-udslip. Vi glæder os meget over denne udmelding, men vi har
+brug for at se retorikken omsat til handling, og
+det har vi haft en del problemer med hidtil. Derfor opfordrer vi regeringen til at fremlægge en
+detaljeret plan for, hvordan den vil nå sin egen
+målsætning om 25 pct. C02-reduktion i 2030 i
+forhold til i 1988. Det tyder da heldigvis på, at
+regeringen og oppositionen langt hen ad vejen
+har et fælles mål, også selv om regeringen har
+meget svært ved at bevæge sig fra skåltaleniveauet til konkret handling.
+Det skal dog ikke afholde Det Radikale Venstre fra at afsøge alle muligheder for et bredt
+samarbejde hen over midten om konkrete løsninger. Lad os derfor i fællesskab skabe nye løs-
+
+1055
+
+ninger for transportsektoren. Vi løfter gerne vores del af ansvaret.";Bente Dahl
+61972;Time;;Kl. 14:00
+61984;title_name;"Der er ingen, der har bedt om korte bemærkninger, så vi siger tak til fru Bente Dahl. Og så er det
+fru Henriette Kjær som ordfører.";Formanden
+62125;Time;(Ordfører);Kl. 14:00
+62156;name_party;":
+Først vil jeg gerne takke forespørgerne for debatten. Det er jo et meget væsentligt emne, som
+vi får en grundig debat om her i dag, for vi har
+brug for nye løsninger på de udfordringer, vi
+står over for. Vi ved alle sammen godt, at mængden af gods, der skal transporteres, stiger voldsomt de kommende år. Samtidig kræver arbejdsmarkedet så også, at vi er mobile, og det er ikke
+muligt for alle at flytte hen nær deres arbejdsplads. Det kan være, fordi en ægtefælle arbejder
+et helt andet sted, eller fordi boligpriserne er for
+høje, der, hvor arbejdspladsen ligger. Derfor er
+bilen og den kollektive trafik nødvendig for
+mange mennesker.
+Derfor er vi Konservative også glade for, at
+det er første gang, der bliver lavet en strategi for
+nedbringelse af transportsektorens C02-udslip,
+samtidig med at vi får lavet en ny trafikinvesteringsplan. Vores afhængighed af transport betyder også, at udledningen af CO2 vil vokse, hvis
+vi ikke forsøger at finde alternativer til biler og
+samtidig får udviklet nogle mere miljøvenlige
+teknologier, så biler og lastbiler, tog og færger
+udleder mindre C02 i fremtiden. Det kræver, at
+vi bruger mange ressourcer på forskning i ny
+teknologi ikke bare her i Danmark, men også på
+EU-plan og for den sags skyld på verdensplan,
+da C02-udledningen jo er et globalt problem.
+Der skal stilles krav til bilproducenterne om
+at levere biler, der kan køre langt på literen eller
+bruge alternative energiformer. Der er da heldigvis også fremskridt at spore, da vi allerede
+har en række biltyper på markedet, der kan køre
+endog meget langt på literen, og så har vi hybridbiler, elbiler og brintbiler. Alt det skal videreudvikles fra at være lidt småbesværligt og på
+forsøgsstadiet til at blive normen.
+Derfor er vi Konservative også tilfredse med,
+at regeringen har valgt at afgiftsfritage elbiler og
+brintbiler indtil 2012 for at få skabt motivation
+til at vælge et sådant køretøj, men det kræver
+naturligvis, at der bliver opbygget et net af opladningsstationer til elbiler og påfyldningsstationer til brintbiler, og det er en udfordring.
+
+1056
+
+Tirsdag den 22. januar 2008 (F 3)
+
+Vi Konservative har for ganske nylig foreslået, at der bliver lavet forsøg med brintbusser.
+Busserne kører allerede i en række europæiske
+storbyer, og med gode erfaringer. Derfor er det
+selvfølgelig også oplagt, at vi skal have brintbusser i Danmark og dermed både undgå C02udslip og de skadelige NOx'er, som dieselbusserne i dag slipper ud. Vi Konservative mener, at
+vi skal bruge nogle af de midler, der netop er afsat til at udvikle ny miljørigtig teknologi, til at
+lave forsøg med brintbusser i nogle af vores
+større byer. Der er brug for, at vi hjælper de forholdsvis nye trafikselskaber i gang med at udnytte den nye teknologi, så det håber vi kan blive en realitet.
+Da Infrastrukturkommissionen offentliggjorde sin rapport, var der bl.a. fra Danmarks Naturfredningsforenings side kritik af, at man lagde for lidt vægt på klimapåvirkningerne fra trafikken, herunder kritik af, at der blev lagt op til
+en stadig udbygning af vores vejnet. Men det er
+jo en meget gammeldags måde at se tingene på.
+For det første går øvelsen jo ud på at ændre teknologien i de biler og lastbiler, der benytter vejene, så de ikke udleder CO2 i samme omfang,
+som vi kender det i dag. For det andet ved vi, at
+biler og lastbiler, der holder i kø på en vejstrækning, udleder mere end 30 pct. mere CO2, end
+hvis de havde kørt med en stabil fart på 80
+km/t. Det taler altså også for mere fremkommelighed på vejene.
+Det er jo så en kendt sag, at netop også Storebæltsforbindelsen, som har erstattet de berømte
+storebæltsfærger, er årsag til, at vi har set et kraftigt fald i udledningen af CO2 over Storebælt det samme fald vil vi se med kommende broer,
+herunder Femernbroen.
+Derudover skal vi jo også have udbygget den
+kollektive transport væsentligt. Der skal være et
+alternativ til bilen, og der er vi glade for at Infrastrukturkommissionen har lagt op til, at man
+skal benytte letbaner. Vi ved, at man er langt
+fremme med planlægningen i Århus, men vi ser
+også store perspektiver i, at man i andre byer,
+bl.a. i Odense samt i hovedstadsområdet, hvor
+de har brug for en forbindelse mellem fingrene
+mellem Lyngby og Ishøj, kunne benytte sig af
+letbaner. God kollektiv trafik betyder mindre
+C02-udslip, og det skal derfor være et erklæret
+mål at få udbygget skinnenettet, så vi får mere
+kapacitet på baneområdet og dermed flere afgange og hurtigere forbindelser.
+Derfor er vi også medforslagsstillere til det
+forslag til vedtagelse, Venstres ordfører læste op
+
+i sit ordførerindlæg, da det netop opfordrer til,
+at vi får lavet en handlingsplan for at nedbringe
+transportsektorens C02~udslip, og at vi satser
+mere på den kollektive trafik.";Henriette Kjær
+66891;Time;;Kl. 14:05
+66903;title_name;"Ja tak. Der er korte bemærkninger, og den første
+er fra fru Pia Olsen Dyhr.";Formanden
+66988;Time;;Kl. 14:05
+67008;name_party;":
+Tak for indlægget. Jeg noterede mig, at ordføreren slet ikke har valgt at forholde sig til C02målsætningen for trafikken. Jeg vil gerne spørge, om det skyldes, at Det Konservative Folkeparti mener, at det, at pejlemærket for C02-udslippet skal reduceres med 25 pet. i 2030, ikke er
+væsentligt i forhold til den klimaplan, der skal
+laves for trafik vedrørende trafikkens cOrpåvirkning, eller om det skyldes, at ordføreren mener, at det ligger så implicit i alting, at man faktisk slet ikke behøver at nævne det.
+Jeg kunne godt tænke mig at få at vide af fru
+Henriette Kjær, om det kunne have været muligt
+at støtte oppositionens forslag til vedtagelse,
+hvis vi havde skrevet ordene kollektiv trafik ind.
+Er det det, der er omdrejningspunktet? Eller har
+man måske i virkeligheden slet ikke nogen problemer med cOrmålsætningen? Det var næsten
+det, jeg hørte ordføreren sige.";Pia Olsen Dyhr
+67891;Time;;Kl. 14:06
+67903;title_name;Ordføreren.;Formanden
+67924;Time;;Kl. 14:06
+67944;name_party;":
+Årsagen til, at jeg ikke sådan synes, at det var i
+dag, vi skulle stå og diskutere procenttal, er, at
+vi alle sammen er enige om, at cOrudslippet
+skal nedbringes. Regeringen har det pejlemærke, at cOrudledningen skal nedbringes med 25
+pct. i 2030. Det er en kendt sag.
+Jeg har derfor i mit indlæg været mere operativ: Hvad kan vi så gøre for at få det C02-udslip
+bragt ned? Det er ret væsentligt, at vi begynder
+at diskutere det nu, så vi er enige om midlerne.
+Vi er sådan set ret enige om, at vi har det her pejlemærke, men vi vil ikke lægge os fast på et absolut og bindende mål, hvor regeringen bliver
+slået oven i hovedet, hvis ikke den når det, men
+vi har en ambition om at nå det.";Henriette Kjær
+68642;Time;;Kl. 14:07
+68654;title_name;"Det er fru Pia Olsen Dyhr for en sidste kort bemærkning.
+
+(133)
+Tirsdag den 22. januar 2008 (F 3)";Formanden
+68762;Time;;Kl. 14:07
+68782;name_party;":
+Jeg stiller mig lidt undrende over for ordførerens sidste bemærkning om, at de ikke vil lægge
+sig fast på sådan et bindende tal. Regeringen har
+jo i sin strategi fra 2002 på det tidspunkt valgt at
+have en målsætning for cOz-udslippet. Senere
+har man så i 2007 lavet det om til et pejlemærke,
+men så vil jeg gerne have, at ordføreren gør rede
+for, om et pejlemærke bare betyder et eller andet
+derudeomkring eller mellem 20 pct. og 30 pct.
+eller måske 15 pct. Er det så uforpligtende at
+lave et pejlemærke? Eller er pejlemærket som
+med miljøministerens ord i virkeligheden bare
+et andet ord for målsætning? Hvordan skal vi
+fortolke det her med pejlemærker?";Pia Olsen Dyhr
+69448;Time;;Kl. 14:07
+69460;title_name;Ordføreren.;Formanden
+69481;Time;;Kl. 14:07
+69501;name_party;":
+Vi vil meget gerne nå de 25 pct. Det er det, der
+menes med det: det er det, vi har ambitioner om.
+Det skal der ikke herske nogen tvivl om. Derfor
+var jeg også, som jeg sagde, meget operativ i forhold til at sige: Hvad kan vi gøre for at nå det?
+For vi mener det seriøst. Det er ikke bare et tal,
+der er stillet op: det er faktisk et tal, vi forventer
+at nå.";Henriette Kjær
+69870;Time;;Kl. 14:08
+69882;title_name;Så er det hr. Per Clausen for en kort bemærkning.;Formanden
+69941;Time;;Kl. 14:08
+69958;name_party;":
+Jeg er meget glad for at høre fru Henriette Kjærs
+svar på det her spørgsmål, for jeg må nok sige,
+at det var lidt andre ord, vi hørte fra Venstres
+ordfører, men lidt nuancer skal der være plads
+til også mellem regeringspartier.
+Det, jeg vil spørge fru Henriette Kjær om, er
+meget konkret, for fru Henriette Kjær har lagt
+meget vægt på brintbusser, og det kan jo k u n
+glæde Enhedslisten, der ofte har talt varmt for
+brint. Men er fru Henriette Kjær ikke enig med
+Enhedslisten om, at hvis brint skal være et drivmiddel, som - om man så må sige - er miljømæssigt forsvarligt, kræver det, at vi har udbygget den vedvarende energi, sådan at brinten baserer sig på vedvarende energi?";Per Clausen
+70648;Time;;Kl. 14:09
+70660;title_name;"Ordføreren.
+
+1057";Formanden
+70688;Time;;Kl. 14:09
+70708;name_party;":
+Jo, det er sjovt, for der kan vi ikke være mere
+enige - vi Konservative og Enhedslisten - i det
+synspunkt, og det er jo ellers sjældent, at vi er
+enige om noget som helst.
+Det er rigtigt, at hvis brint skal bruges som
+drivmiddel og være en ren teknologi, kræver
+det, at det bliver spaltet fra en vedvarende energikilde, og der siger vi, at det vil være oplagt at
+bruge noget af den overskudsstrøm, der kommer fra vindmøllerne.";Henriette Kjær
+71146;Time;;Kl. 14:09
+71158;title_name;"Hr. Per Clausen for yderligere en kort bemærkning.
+. Kl. 14:09";Formanden
+71237;name_party;":
+Er det så ikke også rigtigt, at hvis det skal have
+nogen mening på den halvlange sigt eller på lidt
+længere sigt, er det afgørende, at vi faktisk samtidig med at arbejde for brintbusser også opererer med nogle meget klare målsætninger for,
+hvordan vi udvikler produktionen af vindenergi
+i de kommende år?";Per Clausen
+71553;Time;;Kl. 14:09
+71565;title_name;Ordføreren.;Formanden
+71586;Time;;Kl. 14:09
+71606;name_party;":
+Nu pågår der jo nogle energiforhandlinger hos
+klimaministeren, og der synes jeg da der lægges
+op til, at man lægger en meget detaljeret plan for
+udbygningen af bl.a. vindenergi.";Henriette Kjær
+71795;Time;;Kl. 14:10
+71807;title_name;Så er det hr. Jesper Petersen for en kort bemærkning.;Formanden
+71870;Time;;Kl. 14:10
+71891;name_party;:;Jesper Petersen
+71921;title_name;"Jeg kan bruge så
+kraftig en stemme, at den når op til fru Henriette
+Kjær, men nu er jeg på.
+Jeg er også glad for svarene og for hensigterne om at ville øge brugen af biler i Danmark,
+som ikke udleder så meget CO2, som konventionelle biler gør. Vi er på skatteområdet ved at behandle, at man fortsat afgiftsfritager el- og brintbiler indtil 2012, men det er jo lidt en gratis omgang, og derfor er oppositionen klar - Socialdemokraterne og SF er i hvert fald klar - med et
+forslag om, at der også skal være en rabat på hybridbiler, ved at man enten afgiftsfritager den
+
+1058
+
+Tirsdag den 22. januar 2008 (F 3)";Problemer med mikrofonen
+72540;Time;"del af hybridbilen, som er batteridrevet, eller at
+man simpelt hen giver en særlig rabat.";Kl. 14:12
+72650;name_party;":
+Er det noget, som De Konservative kunne
+Jeg tror ikke, at der er nogen folk, der er dumme,
+være interesseret i at medvirke til, så vi kan få
+og hvis der er noget, man er nøjeregnende med,
+udskiftet bilparken og i højere grad få solgt nog- er det jo, hvis man kan spare nogle penge ved at
+le hybridbiler, der jo giver os en C02-gevinst her
+køre fornuftigt. Men jeg tror, at der er mange,
+og nu, hvis vi får flere af dem på vejene i stedet
+der har travlt - det var lige præcis det, jeg sagde
+for konventionelle biler, der kører på benzin eli min ordførertale - og der er ikke opladningsler diesel?
+stationer rundtomkring. Man er afhængig af, at";Henriette Kjær
+73304;Time;der er et sted, man kan oplade, og hvis man ikke;Kl. 14:11
+73365;title_name;"får gjort det, fordi man ikke har tid til det, kan
+Ordføreren.
+det betyde, at man må slå over og køre på benKl. 14:11 zin, og så opnår man altså ikke den miljøgevinst,";Formanden
+73552;name_party;":
+der var meningen. Derfor siger jeg, at det skal
+Det er bestemt et meget interessant forslag, men
+undersøges nøje.";Henriette Kjær
+73677;Time;"man skal være helt sikker på, at man opnår en
+gevinst med hensyn til C02-udslippet ved hyFormanden:
+bridbiler, altså at man ikke køber dem uden afHr. Torben Hansen for en kort bemærkning.";Kl. 14:13
+73875;Time;"gift eller med en lavere afgift end andre biler og
+derefter kører på et fossilt brændstof, så samfun- Torben Hansen (S):
+det alligevel ikke får den miljøgevinst, man hav- Jeg synes måske, at forvirringen er ved at brede
+de regnet med. Det er noget, der skal granskes
+sig lidt på nogle punkter. Jeg kunne forstå på
+meget nøje, inden man kaster sig ud i at afgiftstransportministeren, at de 25 pet. eksisterer nu
+fritage hybridbilerne.
+som et pejlemærke. Så kunne jeg forstå på VenKl. 14:12 stres ordfører, at det ikke er særlig dynamisk, at";Kl. 14:13
+74427;title_name;"det bare er en stereotyp procentsats. Nu kan jeg
+Så er det hr. Jesper Petersen for en sidste kort be- forstå på den konservative ordfører, at det agter
+mærkning.
+man sådan set stadig væk at gøre, altså at de 25";Formanden
+74647;Time;pet. er gældende. Vil det dermed betyde, at fru;Kl. 14:12
+74716;name_party;":
+Henriette Kjær ikke er enig i Venstres ordførers
+Jeg kender godt det svar som en indvending
+bemærkninger om, at procentsatser bare er en
+stereotyp tilgang til tingene?
+imod det her forslag, men jeg synes, det er en";Jesper Petersen
+74942;Time;smule mærkeligt, for hvis jeg køber en hybridbil;Kl. 14:14
+75003;title_name;"og kan spare en masse penge på, at den er delvis
+batteridrevet og jeg ikke skal fylde benzin på bi- Ordføreren.";Formanden
+75124;Time;len, hvorfor i alverden skulle jeg så vælge at slå;Kl. 14:14
+75195;name_party;":
+batteriet fra og køre på benzin, som koster meJeg synes, at Venstres ordfører holdt en rigtig
+get mere, i stedet for at køre på det batteri, som
+god tale, som jeg var hundrede procent enig i.
+sidder i bilen? Kan fru Henriette Kjær forklare
+Altså, det, der er stridens kerne her, og det
+mig logikken i det og oplyse mig om, om hun
+kan vi jo lige så godt se i øjnene, er, at dele af opvirkelig mener, at mennesket er så dumt, at det
+positionen mener, at der skal være et fast mål, og
+ville pålægge sig større udgifter ved at bruge et
+brændsel i stedet for at køre på batteriet i en hy- at der simpelt hen med vold og magt skal gøres
+alt for at nå det mål på 25 pet. reduktion i 2030.
+bridbil?
+Der siger vi: Vi skal også have samfundet til at
+Jeg kan simpelt hen ikke forestille mig det,
+men hvis fru Henriette Kjær kender til det, må vi hænge sammen. Hvis vi så kommer til at ligge
+på 23 pct., eller hvad ved jeg, skal det jo ikke
+selvfølgelig have det frem. Ellers synes jeg, at
+være sådan, at vi skal træffe nogle forhastede bedet er en lidt underlig indvending mod forslaslutninger.
+get.";Henriette Kjær
+76295;Time;Jeg kan forstå, at Socialdemokraterne og andre mener, at vi skal have det der meget faste og;Kl. 14:12
+76400;title_name;"bindende mål, når vi bevæger os ud ad den vej.
+Ordføreren.
+Det synes vi ikke er en ordentlig måde at føre
+politik på, da det kan bringe nogle i klemme. For
+
+Tirsdag den 22. januar 2008 (F 3)
+at få vores varer transporteret frem og tilbage er
+vi altså afhængige af, at vi også har en velfungerende transportsektor.";Formanden
+76724;Time;;Kl. 14:15
+76736;title_name;Et supplerende spørgsmål fra hr. Torben Hansen.;Formanden
+76793;Time;;Kl. 14:15
+76811;name_party;":
+Det virker lidt som »hen til kommoden og tilbaws igen«, og nu kan jeg ikke finde ud af, hvor
+vi er henne, men jeg tror, vi er kommet tilbaws
+igen. Det, jeg så skal forstå på fru Henriette
+Kjær, er, at man alligevel skal passe på med de
+der mål, men betyder det så, at det, der står om
+trafik i det bæredygtighedsoplæg, som den daværende konservative miljøminister udsendte i
+sommeren 2007, og som de 25 pet. er hentet fra,
+ikke længere er det, som man satser på? For så
+synes jeg, at forvirringen lige nu må brede sig
+totalt ude i de små stuer. Vil man noget, eller vil
+man ikke noget?
+Lige nu er det vist sådan vippet over til, at
+man nok ikke vil noget, men betyder det så, at
+de procentsatser osv., der står meget om igennem hele det oplæg om bæredygtig vækst, alligevel ikke gælder, fordi det er stereotypt og ikke
+særlig dynamisk? For så er der mange ting, der
+skal luges ud her i den kommende periode.";Torben Hansen
+77730;Time;;Kl. 14:16
+77742;title_name;Ordføreren.;Formanden
+77763;Time;;Kl. 14:16
+77783;name_party;":
+Vi vil noget, og derfor er den her regering den
+første regering, der lader en investeringsplan for
+trafikområdet følge af en klimaplan, der vil nedbringe trafikkens C02-udslip. Det er en nyskabelse, det er ikke noget, man fandt på under en
+socialdemokratisk ledet regering. Det er, fordi
+man vil noget. Det er, fordi man vil nedbringe
+C02-udslippet. Det er, fordi man har et pejlemærke, der hedder, at man gerne vil reducere
+C02-udslippet med 25 pct., når vi når til 2030.
+Hr. Torben Hansen ved udmærket godt, at
+det her er en diskussion om et fast mål eller en
+klar målsætning, et pejlemærke, og vi mener, at
+det sidste er det mest pragmatiske. Det betyder
+ikke, at vi slækker på noget som helst, og det betyder ikke, at vi ikke har nogen ambitioner.
+Tværtimod er de jo klart ridset op i det forslag til
+vedtagelse, som Venstres ordfører fremsatte, og
+som vi støtter.
+
+1059";Henriette Kjær
+78670;Time;;Kl. 14:17
+78682;title_name;"Der er ikke flere korte bemærkninger. Vi siger
+tak til fru Henriette Kjær. Næste ordfører er hr.
+Anders Samuelsen.";Formanden
+78806;Time;(Ordfører);Kl. 14:17
+78839;name_party;":
+Hvis man nu spurgte naturen eller klimaet til
+råds om, hvorvidt vi skal prioritere at få begrænset udledningen fra boliger, fra industrien
+eller fra transporten, så tror jeg sådan set, at svaret ville være, at det sådan set er ligegyldigt,
+bare det samlede mål bliver fastholdt, nemlig at
+vi får reduceret udledningen.
+Det er måske egentlig lidt af det, der sætter
+den debat, vi har haft i dag, på spidsen. For
+hvorfor egentlig fokusere ensidigt på transporten i dag og så sætte et fast mål dér, hvis det viser sig, at vi kan opnå en meget større reduktion
+ved at gå ind på andre områder, f.eks. erhvervsområdet eller boligområdet, og for færre midler
+opnå en endnu større reduktion? Er det så
+egentlig ikke noget, vi burde gøre i stedet for at
+være så fokuserede og fikserede på et bestemt
+område?
+I Ny Alliance går vi selvfølgelig ind for, at vi
+skal have øje for de store klimaudfordringer, vi
+står over for. Vi skal have øje for, at også transportsektoren spiller en rolle i det her spil. Men vi
+går også ind for at have et helhedssyn på området. Vi mener, at man skal sætte bredt ind på
+mange områder. Vi skal sætte ind i forhold til at
+få nogle bedre boliger, havvindmølleparker, en
+fælles europæisk politik, differentierede afgifter
+for brændselstyper og grønne afgifter, som bliver strikket bedre sammen, så vi samlet set for
+alvor rykker os. Det er den første tilgang, vi har
+til det fra Ny Alliances side.
+Den anden tilgang til det er så, at vi meget
+tror på, at de redskaber, som vi skal tage i brug
+inden for den offentlige og private transport, i
+høj grad drejer sig om at få nogle teknologilandvindinger. Det betyder, at vi fra fællesskabets side, fra samfundets side, skal være villige til at
+foretage nogle massive investeringer inden for
+forskningsområdet, sådan at vi kan få de landvindinger. Der er nogle redskaber, som vi i dag
+har mulighed for at bruge, og som man slet ikke
+havde mulighed for at bruge i 1988, som forslaget til vedtagelse fra SF: Socialdemokratiet, Det
+Radikale Venstre og Enhedslisten tager udgangspunkt i.
+
+1060
+
+Tirsdag den 22. januar 2008 (F 3)
+
+I dag kan vi jo faktisk bruge redskaber som
+GPS langt mere effektivt, end man overhovedet
+forestillede sig dengang. Nu kan vi alle snart
+have det i mobiltelefonerne. Man kan nemt forestille sig, at vi i løbet af ganske kort tid kan kombinere det med roadpricing, så vi ved at nedsætte registreringsafgifterne samtidig kan udvikle
+et fantastisk system, som kan sikre, at hvis jeg
+f.eks. skal fra Horsens til København, så kan jeg
+tage ud til afkørslen ved Lund uden for Horsens
+og give en melding via mobiltelefonen om, at jeg
+gerne vil til København. De bilister, der nærmer
+sig Horsens, kan melde sig på og sige: Jeg vil
+gerne tage dig, der står og venter, op. Så kan
+vedkommende, der tager mig op, få en reduktion i roadpricing, altså betale et mindre beløb i
+roadpricing. Samlet set kan vi komme frem to
+personer i bilen i stedet for en person i hver vores bil.
+Det er en kæmpe gevinst for miljøet og måske
+også set i et lidt bredere perspektiv en kæmpe
+gevinst for Danmark, hvis vi går i front og får
+udviklet det her system før alle andre. For det er
+jo ikke kun i Danmark, at man har problemet
+med transport og med for mange biler på vejene, køer osv. Hvis vi så samtidig investerer massivt i den offentlige transport helt ned til det banale med parkeringspladser de steder, hvor vi
+skal stige på den offentlige transport, så tror vi,
+at vi kan nå rigtig mange ting.
+Det er sådan set de to tilgange, vi har til det
+fra Ny Alliances side, og derfor ønsker vi heller
+ikke at støtte forslaget til vedtagelse fra SF, Socialdemokratiet, Det Radikale Venstre og Enhedslisten. Vi synes, der er mere mening i det
+forslag til vedtagelse, som vi er med til at fremsætte sammen med Dansk Folkeparti, Venstre,
+Det Konservative Folkeparti og fru Pia Christmas-Møller, hvor vi understreger, at det, vi ønsker at se fra regeringens side, er en ambitiøs
+strategi for reduktion af transportsektorens
+cOrudledning, men hvor vi lader være med at
+sætte et fast procenttal på.";Anders Samuelsen
+82902;Time;;Kl. 14:22
+82914;title_name;"Der er en kort bemærkning fra fru Pia Olsen
+Dyhr.";Formanden
+82973;Time;;Kl. 14:22
+82993;name_party;":
+Tak for et godt indlæg. Jeg synes, der er mange
+gode toner fra Ny Alliance i forhold til nogle af
+de virkemidler, vi skal til at bruge i transporten,
+bl.a. også, som ordføreren lægger op til, trængselsafgifter. Det er vi meget enige i, og det kunne
+
+være en af de ting, vi tog fat på i den kommende
+tid, fordi det kunne være spændende at se, hvad
+regeringen vil være med til på det område.
+Men ordføreren siger også, at det væsentlige
+må være at formulere et samlet mål for klimaet,
+og at man ikke kan dele det op i forskellige sektorer. Nu er det jo desværre det, der sker, når vi
+forhandler konkret, for så forhandler vi jo et mål
+på energiområdet og et mål på transportområdet, som er de. to områder, der yder størst bidrag
+til Danmarks C02-udledning.
+Kan jeg så forstå ordførerens tale sådan, at
+når man i virkeligheden ikke er villig til at lave
+et reduktionsmål i forhold til transportsektoren,
+og at det måske i virkeligheden kan variere lidt,
+så skal vi måske være mere benhårde i forhold
+til energisektoren? For hvis vi lader trafikken
+vokse, som den gør i dag, kan vi se frem til, at vi
+skal reducere C02-udslippet fra energisektoren
+med 80 pet., hvis vi skal leve op til vores internationale C02-forpligtelser? Er det Ny Alliances
+målsætning?";Pia Olsen Dyhr
+84258;Time;;Kl. 14:23
+84270;title_name;Ordføreren.;Formanden
+84291;Time;;Kl. 14:23
+84313;name_party;":
+Det er fuldstændig rigtigt forstået, at vores tilgang er, at vi skal holde fast i den overordnede
+målsætning. Og så skal vi kigge de forskellige
+sektorer igennem for at se, hvor vi mest effektivt
+opnår den målsætning for færrest mulige penge.
+For det er jo klart, at hver gang vi bruger penge
+på det her område, er vi nødt til at tage dem fra
+andre områder, f.eks. sundhedsvæsenet eller vores uddannelsessystem. Derfor er det nødvendigt, at vi kigger på tværs.
+Det kan sagtens være sådan, at det hen over
+f.eks. de næste 5 år skifter på grund af teknologiske landvindinger, så det mål, man måske ville
+sætte op i dag - jf. det mål, man satte op i 1988 viser sig at være helt ude af trit med den teknologiske udvikling, som giver nogle helt andre
+muligheder. Så vil det da være helt tosset at
+have lagt sig benhårdt fast på et bestemt mål,
+hvis det - i modsætning til, hvis man satsede, investerede og stillede kravene på andre områder
+- i bund og grund er at hælde penge ud ad vinduet.";Anders Samuelsen
+85310;Time;;Kl. 14:24
+85322;title_name;"Det er fru Pia Olsen Dyhr for en sidste kort bemærkning.
+
+Tirsdag den 22. januar 2008 (F 3)
+
+1061";Formanden
+85431;Time;(Ordfører);Kl. 14:26
+85462;name_party;:;Pia Olsen Dyhr
+85480;name_party;":
+Jeg har noteret mig, at ordføreren siger, at det
+Det er altid spændende, når der kommer nye inkoster flere penge at gøre noget ved klimamålteressante synspunkter frem. Således må det vel
+sætningen på trafikområdet. De beregninger,
+der har været på trafikområdet, f.eks. i forhold
+i den debat, der foregår for tiden, betragtes som
+et nyt og interessant synspunkt, at der skulle
+til investeringer i den kollektive trafik, viser jo,
+vise sig en mulighed for at reducere cOrudslipat det i virkeligheden kan oppebære sig selv.
+Hvis man investerer i gode skinner og hurtigere
+pet i de kommende år uden at gøre noget ved
+tog, så kan togene i virkeligheden køre flere gan- transportsektoren. Det virker besynderligt, syge frem og tilbage, og så får vi i virkeligheden
+nes jeg.
+flere passagerer transporteret og derfor også fleFor mig at se - og for Enhedslisten - er der ingen tvivl om, at transportsektoren bliver et af de
+re indtægter til at kunne lave de her forbedrincentrale områder, ikke mindst fordi flere analyger. Så mange af de her investeringer eller udser jo har vist, at det faktisk er i transportsektofordringer på trafikområdet kan bære udgifterne i sig selv. Ordføreren vælger selv at nævne
+ren, at cOz-udslippet i de her år vokser mest på
+det globale plan. Og så er det jo oven i købet
+især trængslen og GPS-systemet, og det er jo i
+også sådan, at hvis man tager transportsektoren,
+virkeligheden et af de områder, hvor jeg tror vi
+så er der mulighed for at hente mange gevinster
+har en mulighed for få indtægter til trafikområhurtigt, og uden at det behøver at koste en fordet. Men lad det nu ligge.
+mue, netop fordi der ikke har været gjort nogen
+Jeg noterede mig bare, at ordføreren siger, at
+seriøs indsats for at nedbringe cOz-udslippet i
+målet er gammelt og er tilbage fra 1988. Der vil
+de senere år, netop fordi transportpolitikken og
+jeg bare gøre ordføreren opmærksom på, at det
+her mål ikke er gammelt. Det her mål er bekræf- trafikpolitikken i Danmark har været ensidigt
+tet af regeringens strategi for bæredygtig udvik- fokuseret på bygning af veje, og netop fordi man
+ling »Grønt ansvar« fra 2007. Det kan godt være, i årtier har fravalgt at investere i togdriften.
+Når det også er interessant at beskæftige sig
+at et halvt år er lang tid, men det er i hvert fald
+med transportsektoren nu, er det selvfølgelig,
+ikke gammelt.";Per Clausen
+87837;Time;"fordi vi under alle omstændigheder står over for
+at skulle foretage et valg i investeringspolitikken";Kl. 14:25
+87950;title_name;"i fremtiden i forhold til transportsektoren. Alle
+Ordføreren.";Formanden
+88021;Time;er jo enige om, at der her skal foretages store investeringer, men spørgsmålet er så bare: Hvor;Kl. 14:25
+88139;name_party;":
+skal disse investeringer være?
+Jamen selv det mål tog udgangspunkt i 1988Da Infrastrukturkommissionen kom med sin
+mål. Og fordi VK-regeringen skriver noget ind,
+redegørelse, var det jo bemærkelsesværdigt, at
+behøver Ny Alliance ikke at stå bag det. Vi kan
+faktisk godt tillade os at sige tingene, som vi me- mange partier gav udtryk for det synspunkt, at
+Infrastrukturkommissionen ikke havde inddraner de er, nemlig at det er væsentligt at have et
+get C02-problemstillingen i tilstrækkeligt omhelhedssyn på det her og hele tiden fokusere på,
+fang. Mange partier gjorde klart, at de syntes,
+hvor vi får mest muligt ud af de penge, som vi
+investerer, og som vi skal investere i det her om- det var rigtigt, at der nu for alvor skulle investeres i den kollektive trafik og i jernbanetrafikken.
+råde, sådan at vi sikrer, at vi mest effektivt og
+Så udgangspunktet er for så vidt positivt.
+hurtigst muligt når frem til de reduktioner, som
+Det, der så ikke er så positivt, er, at vi i dag
+vi alle sammen kan være enige om - og sådan, at
+har en diskussion, hvor man vel kan sige, at revi i bund og grund imødekommer naturen og
+klimaet og besvarer spørgsmålet om, hvor vi skal geringen og regeringspartierne har bevæget sig
+fra de 25 pet. som målsætning til et meget, megøre det, på samme måde som naturen og kliget uklart og utydeligt pejlemærke. For der ville
+maet ville besvare det, nemlig ved at sige, at det
+jo ikke være noget galt i, at man sagde: Jamen
+er lige meget, bare vi gør det!";Anders Samuelsen
+89633;Time;"det er en målsætning, vi har. Det er en målsætning, vi forventer at nå op på. Og med udgangsFormanden:
+punkt i den, synes vi, at vi skal bruge tid og
+Der er ikke flere, der har bedt om ordet, og jeg
+siger tak til hr. Anders Samuelsen. Næste ordfø- energi på at diskutere de konkrete redskaber, vi
+kunne tage i anvendelse.
+rer er hr. Per Clausen.";Kl. 14:26
+89989;Time;"1062
+
+Tirsdag den 22. januar 2008 (F 3)
+
+Men også når vi så kommer til de konkrete
+redskaber, man kan tage i anvendelse, har der jo
+indtil nu ikke været nogen vilje til at gøre det
+nødvendige.
+Lad os bare tage en så banal ting som trængselsafgifter, bompenge. Indtil for ganske få uger
+siden var det sådan, at det indgik som et fast ritual ikke bare i Dansk Folkepartis taler, men
+også i regeringspartiernes taler, at det ville man
+under ingen omstændigheder være med til, selv
+om det jo er en kendsgerning, at der her ligger
+både indtægter og muligheder for at reducere
+den eventuelle biltrafik. Og hvis man så vel at
+mærke bruger de penge, man får ind på det her
+område, er der også gode muligheder for at lave
+de nødvendige investeringer i den kollektive
+trafik, hvor det jo handler om at gøre den kollektive trafik billig, men også om at gøre den attraktiv i forhold til at kunne komme hurtigt og
+effektivt frem.
+Der er jo nu nævnt spørgsmålet om letbaner,
+der er nævnt spørgsmålet om forbedrede skinner, forbedrede togforbindelser, men derudover
+selvfølgelig også spørgsmålet om et generelt løft
+af den kollektive trafik.
+Det er klart, at vi også skal erkende, at der i
+fremtiden - jeg tror, det var Venstres ordfører,
+der nævnte det - vil køre lastbiler i Danmark.
+Det er sikkert rigtigt. Der vil også køre personbiler i fremtiden. Netop derfor er det jo interessant
+også der at fokusere på de energiformer, som
+kan reducere C02-udslippet.
+Det er for så vidt godt og visionært, når Det
+Konservative Folkeparti lægger vægt på brintbusser og betragter det som noget, der kan udvikles og eksperimenteres med. Det synes jeg er
+meget godt, men det er jo lige så sikkert, at det
+ikke har nogen mening, hvis man ikke også
+snart ser det i sammenhæng med en markant
+udbygning af den vedvarende energi. Det ville
+jo også være kedeligt, at man, fordi man først
+tænkte på nogle lidt mere langsigtede løsninger,
+fuldstændig glemte det, som i dag er den oplagte løsning på transportproblemet og problemerne med C02-udslippet fra personbiler, nemlig
+etablering af hybridbiler og i nogle tilfælde også
+af elbiler og en massiv satsning på udviklingen
+af det her område samt en sikring af, at de afgiftssystemer, vi har, også gør en sådan udvikling til den, der for alvor sker.
+Problemet med regeringens politik i dag er
+nok den manglende vilje til at have målsætninger, men også at man - i hvert fald indtil nu -
+
+ikke har været i stand til at levere varen, når det
+handler om konkrete handlinger.
+Kl..14:32";Kl. 14:24
+92523;title_name;":
+Tak til ordføreren. Så er det fru Pia Olsen Dyhr
+som ordfører for forespørgerne.";Søren Espersen
+92615;Time;(Ordfører for forespørgerne);Kl. 14:32
+92664;name_party;":
+Jeg er glad for, at vi egentlig som sådan har haft
+en konstruktiv debat. Desværre må jeg så beklage, at regeringspartierne ikke vil være med til en
+fælles vedtagelse, der bekræfter deres egen politik om trafik og klima.
+Vi har jo et politisk ansvar i Folketinget for at
+sætte klare målsætninger, ikke kun i forhold til,
+hvordan trafikken skal udvikle sig, men i forhold til, hvordan trafik og klima skal udvikle
+sig. Derfor er det meget trist, synes jeg, at det
+ikke er muligt at få regeringspartierne med til en
+vedtagelse, der klart forpligter på, at man arbejder for et pejlemærke med en reduktion på 25
+pct. af C02-udslippet med udgangspunkt i 1988.
+Jeg vil gerne rose regeringen for, at man fremlægger en investeringsplan for trafik og klima.
+Det er der ingen tvivl om at vi har behov for. SF
+tror, at det kan lade sig gøre, men kun, hvis vi tager problemet alvorligt. Her skal vi benytte alle
+tænkelige virkemidler, som transportministeren
+også var inde på: ny teknologi, mere kollektiv
+trafik, større fysisk planlægning, så vi ikke får
+brug for øget mobilitet.
+Allerede i 1991 fremlagde den tidligere borgerlige regering jo scenarieberegninger for det:
+og i arbejdsnotatet var det tydeligt, at det faktisk
+var muligt med en 25-procents-reduktion af
+C02-udledningen inden 2030. Men notatet gjorde det også klart, at alle virkemidler skulle i spil.
+Notatet var faktisk så vidtgående at sige, at vi
+måske skulle diskutere en 50-procents-reduktion af C02-udslippet, for det var måske så
+langt, vi skulle gå på det område. Det var man
+så ikke villig til. ,
+I dag, hvor vi har langt mere teknologi i spil,
+burde det i virkeligheden være muligt at snakke
+om 25 pet. reduktion af trafikken. Derfor synes
+jeg, det er ærgerligt og beklageligt, at regeringspartierne ikke vælger at stemme for det forslag
+til vedtagelse, som SF, Socialdemokratiet, Enhedslisten og Det Radikale Venstre har fremsat.
+Venstre mener, at det er totalt urealistisk med en
+cOrmålsætning på trafikområdet. Det vil jeg
+beklage. Derfor vil vi selvfølgelig fortsætte med
+yderligere at presse regeringen til at forpligte sig
+
+Tirsdag den 22. januar 2008 (B 24)
+
+1063";Pia Olsen Dyhr
+94811;Time;"Transportministeren (Carina Christensen):
+Jeg forstår, at Enhedslisten gennem årene har
+fremsat mange beslutningsforslag om undersøgelse af baneanlæg og om genoptagelse af togtrafikken på tidligere banestrækninger.
+Jeg synes, der her er tale om et forslag, der beskæftiger sig med en relevant problemstilling.
+Der er to elementer i forslaget. Den første og
+centrale del er forslaget om at analysere fuldførelsen af dobbeltsporet i Sønderjylland. Jeg vil
+gerne anerkende, at banekapaciteten i SønderKl. 14:35 jylland er en problemstilling, som der må være
+fokus på.
+Afstemning
+Strækningen gennem Sønderjylland er vigtig
+for import- og eksporttrafik på bane, og den er";Kl. 14:37
+95513;title_name;":
+central for passagertogforbindelserne til og fra
+Der stemmes om forslag til vedtagelse nr. V 21
+(se side 1048) af Kristian Pihl Lorentzen (V), Kim Sønderjylland. Men det er lige så klart, at problemet vil blive reduceret med åbning af en fast
+Christiansen (DF), Henriette Kjær (KF), Anders
+forbindelse over Femern.
+Samuelsen (NY) og Pia Christmas-Møller
+Regeringen har i forhold til dobbeltsporet i
+(UFG), og der kan stemmes.
+Sønderjylland tit fremhævet sammenhængen
+Afstemningen slutter.
+med en fast forbindelse over Femern. HoldninFor stemte: 57 (V, DF, KF og NY), imod stemte: 0, gen har været, at hvis der ikke inden for en kort
+årrække blev truffet beslutning om en fast forhverken for eller imod stemte: 48 (S, SF, RV og
+bindelse, ville der med sikkerhed opstå et behov
+EL).
+for at fuldføre dobbeltsporet i Sønderjylland.
+Forslag til vedtagelse nr. V 21 er vedtaget.
+Nu er der indgået en principaftale om Femern Bælt, men dermed er det ikke givet, at der
+Herefter er forslag til vedtagelse nr. V 20 (se side
+1046) af Pia Olsen Dyhr (SF), Torben Hansen (S), ikke er brug for et dobbeltspor i Sønderjylland.
+Uanset Femern Bælt vil strækningen gennem
+Bente Dahl (RV) og Per Clausen (EL) bortfaldet.
+Sønderjylland fremdeles være den forbindelse,
+der kobler erhvervslivet i det vestlige Danmark
+Hermed er forespørgslen afsluttet.
+op på det europæiske banegodsnet.
+Jeg noterer mig i den sammenhæng, at InfraKan vi lige få lidt mere ro i salen!
+strukturkommissionen anbefaler, at der gennemføres en analyse af behovet for og omkostningerne ved at forbedre den jysk-fynske opkobling på det europæiske banegodsnet.
+I forbindelse med opstillingen af en handlingsplan for fremtidens godstransport er det
+Det sidste punkt på dagsordenen er:
+9) 1. behandling af beslutningsforslag nr. B 24: bl.a. også en målsætning at styrke mulighederne
+for gods på jernbane. Det er et af de tiltag, der
+Forslag til folketingsbeslutning om anlæg af
+skal bidrage til at reducere transportsektorens
+de manglende dobbeltspor mellem Vamdrup
+energiforbrug og C02-udledning. Og i den forog Vojens og mellem Tinglev og Padborg samt
+bindelse er det naturligvis vigtigt at analysere
+opgradering af sidebanen Tinglev-Tønder.
+de flaskehalse på infrastrukturen, som spiller en
+Af Per Clausen (EL) og Frank Aaen (EL)
+rolle for banegodstrafikken.
+(Fremsættelse 11.12.2007).
+Regeringen vil derfor analysere mulighederKl. 14:36 ne og behovet for etablering af dobbeltsporet i
+Sønderjylland, og det vil ske som led i opstillinForhandling
+gen af en statslig investeringsplan, som regeringen som omtalt fremlægger senere på året.";Søren Espersen
+98138;title_name;":
+Forhandlingen er åbnet. Transportministeren.
+
+konkret til, at CO2 ikke kun er noget, man snakker om på pressemøder, men i virkeligheden
+også er noget, man er villig til at forpligte sig til i
+Folketinget. Men tak for en interessant debat.";Søren Espersen
+98388;Time;;Kl. 14:34
+98423;title_name;":
+Tak til ordføreren.
+Vi venter lige et minuts tid, inden vi stemmer.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen afsluttet, og vi går herefter over
+til afstemning.
+
+1064
+
+Tirsdag den 22. januar 2008 (B 24)
+
+Det andet element i forslaget omhandler
+godsbanen mellem Tønder og Tinglev. Her
+handler det ganske vist også om godstrafik på
+bane, men i en ganske anden og meget lille skala. Når der ikke er truffet beslutning om en
+istandsættelse af den bane, beror det på en simpel prioritering. Det er vurderet, at de økonomiske midler, som er til rådighed, kan anvendes
+bedre på de fungerende dele af banenettet.
+Som det fremgår, stiller jeg mig egentlig positiv over for de centrale dele af indholdet i beslutningsforslaget, men det gælder til gengæld ikke
+fremgangsmåden. Frem for at tage stilling til
+hvert enkelt spørgsmål for sig lægger regeringen
+vægt på, at trafikinvesteringerne afvejes og prioriteres i en større sammenhæng.
+En sådan lejlighed opstår netop i forbindelse
+med arbejdet med investeringsplanen senere i
+år, og på den baggrund kan regeringen ikke støtte beslutningsforslaget.";Søren Espersen
+99544;Time;;Kl. 14:40
+99579;title_name;":
+Tak til ministeren. Hov, der er lige en enkelt kort
+bemærkning fra hr. Per Clausen. Undskyld.";Søren Espersen
+99684;Time;;Kl. 14:40
+99701;name_party;":
+Jeg skal takke ministeren for en jo på mange måder positiv tilbagemelding. Jeg vil sige til transportministeren, at når det trods alt kan være fornuftigt at tage disse forslag op som enkeltstående, er det jo også, fordi det giver en mulighed
+for at få en debat af de reelle forhold, der gør sig
+gældende.
+Jeg vil bare spørge transportministeren, om
+hun ikke er enig med mig i, at der under alle
+omstændigheder er ganske meget trængsel på
+de her spor allerede i dag, og at et af de store
+problemer jo er - uanset om Femernforbindelsen skulle blive til noget eller ej - at udviklingen
+både i person- og godstrafikken jo vil gøre, at
+man vil komme til at stå i en meget, meget vanskelig situation omkring 2010, så der derfor er
+brug for at træffe en beslutning om at få etableret et dobbeltspor.";Per Clausen
+100505;Time;;Kl. 14:41
+100540;title_name;":
+Ministeren.";Søren Espersen
+100563;Time;"Transportministeren (Carina Christensen):
+Jeg er sådan set enig i, at det er et område i Danmark, som vi skal have fokus på. Det synes jeg
+også jeg kom omkring i mit indlæg. Derfor synes jeg også, det er helt naturligt, at vi også har
+det forslag, som kommer her fra Enhedslisten,
+
+og som også er nævnt i Infrastrukturkommissionens rapport, med i prioriteringerne, når vi skal
+lave investeringsplanen til efteråret.";Kl. 14:41
+100989;Time;;Kl. 14:41
+101024;title_name;":
+Hr. Per Clausen.";Søren Espersen
+101052;Time;;Kl. 14:41
+101069;name_party;":
+Jeg vil så til gengæld sige, at jeg var lidt ked af
+ministerens holdning til Tønder-Tinglev-banen
+ud fra det synspunkt, at man selvfølgelig godt
+kan sige, at sammenlignet med mange store problemer i resten af Danmark er her tale om et lille
+problem, i hvert fald forstået på den måde, at
+det er et problem for en forholdsvis lille del af
+erhvervslivet og en forholdsvis lille gruppe
+mennesker.
+Men er transportministeren ikke enig i, at vi
+også bliver nødt til at se på, hvordan vi kan sikre, at der er nogle fødelinjer til hovedlinjerne i
+det danske jernbanenet, og at det også kan være
+relevant at se på, hvordan man sikrer de tværgående forbindelser for de mennesker, der f.eks.
+bor i Tønderområdet og skal til Sønderborg eller
+omvendt?";Per Clausen
+101820;Time;;Kl. 14:42
+101855;title_name;":
+Ministeren.";Søren Espersen
+101878;Time;"Transportministeren (Carina Christensen):
+Jamen jeg afviser sådan set ikke, at vi i forbindelse med arbejdet med investeringsplanen
+også kan kigge på problematikken vedrørende
+Tønder og Tinglev, men vi kommer ikke uden
+om, at vi i sidste ende skal foretage en prioritering. Jeg mener, at vi skal have en behovsorienteret tilgang: Hvor får vi mest for pengene, hvor
+hjælper vi flest personer og flest virksomheder?
+Den prioritering skal vi nødvendigvis lave i fællesskab, partierne imellem, til efteråret, når vi
+forhåbentlig kan blive enige om en plan for investeringsplanen.
+Men jeg er enig i, at vi også skal tage den problemstilling ind på bordet og få alt vendt og vurderet.";Kl. 14:42
+102567;Time;;Kl. 14:43
+102602;title_name;":
+Der er flere korte bemærkninger. Den første er
+fra hr. Benny Engelbrecht.";Søren Espersen
+102687;Time;;Kl. 14:43
+102709;name_party;":
+Jeg skal tage spørgsmålet om behovet for dobbeltsporet set i relation til Femern op, som jo
+også fremmes af den tidligere spørger, og som
+
+(134)
+Tirsdag den 22. januar 2008 (B 24)
+drejer sig om hensynet til, hvordan behovet vil
+være, i det tilfælde at Femernbroen er parat.
+Spørgsmålet er selvfølgelig, om det er fremtid
+eller nutid, vi snakker om. Der er en sammenhæng selv mellem små hændelser i dag, som
+kan føre til aflysninger og forsinkelser i systemet, fordi kapaciteten er så lille. Vil ministeren
+ikke anerkende, at der allerede i dag er kapacitetsproblemer på netop den sydjyske strækning?";Benny Engelbrecht
+103321;Time;;Kl. 14:43
+103356;title_name;":
+Ministeren.";Søren Espersen
+103379;Time;"Transportministeren (Carina Christensen):
+Jeg vil gerne anerkende, at der er problemer på
+strækningen i dag, og derfor synes jeg også, det
+er relevant, at vi får set på den problemstilling i
+forbindelse med investeringsplanen. Der er så til
+gengæld heller ingen tvivl om, at den dag, vi får
+en Femernbro, vil det i sig selv reducere problemet, fordi noget af godstrafikken vil blive ledt
+en anden vej. Men derfor synes jeg også, at vi
+skal have belyst problemstillingen vedrørende
+Sønderjylland, hvad angår de problemer, der er
+her og nu, og have belyst, hvordan situationen
+vil være der også på længere sigt, når vi får en
+Femernbro.";Kl. 14:43
+104024;Time;;Kl. 14:44
+104059;title_name;":
+Hr. Benny Engelbrecht.";Søren Espersen
+104093;Time;;Kl. 14:44
+104115;name_party;":
+Vil ministeren så ikke også anerkende, at med
+den viden, vi har i dag, bl.a. på baggrund af Infrastrukturkommissionens rapport, tyder alting
+på, at godstransporten over den dansk-tyske
+grænse vil stige til trods for en Femernforbindelse?";Benny Engelbrecht
+104364;Time;;Kl. 14:44
+104399;title_name;":
+Ministeren.";Søren Espersen
+104422;Time;"Transportministeren (Carina Christensen):
+Infrastrukturkommissionen peger jo generelt på,
+at vi vil se en massiv stigning i godstransporten
+- jeg tror, det er helt op til 75 pct. inden for en
+ikke så lang årrække. Så vi skal have meget stort
+fokus på godstrafikken fremover, og vi skal selvfølgelig sørge for at få tilrettelagt vores infrastruktur på det område bedst muligt. Vi skal se
+på Femernforbindelsen, men vi skal selvfølgelig
+også se på strækningen i Sønderjylland. Og så
+skal det indgå i investeringsplanen til efteråret.
+
+1065";Kl. 14:44
+104971;Time;;Kl. 14:45
+105006;title_name;":
+Så er der en kort bemærkning fra fru Bente Dahl.";Søren Espersen
+105066;Time;;Kl. 14:45
+105082;name_party;":
+Som sønderjyde er jeg meget glad for at høre, at
+ministeren vil analysere behovet for dobbeltsporet, som nu er til debat i dag.
+Jeg vil høre, om der i det tilsagn, som jeg må
+tage det som, også ligger en analyse af en samlet
+plan for den sønderjyske infrastruktur.";Bente Dahl
+105358;Time;;Kl. 14:45
+105393;title_name;":
+Ministeren.";Søren Espersen
+105416;Time;"Transportministeren (Carina Christensen):
+Der ligger ikke en samlet plan specifikt for Sønderjylland. Tanken er jo, at regeringen til efteråret vil præsentere en investeringsplan og samme dag præsentere en cOrstrategi, som vi lige
+har drøftet.
+Nu har vi jo netop fået en god og gennemarbejdet rapport fra Infrastrukturkommissionen,
+som har kigget på hele Danmark fra et helikopterperspektiv og kigget ud i fremtiden helt frem
+til 2030, og der har vi altså fået et godt redskab,
+der kan hjælpe os til at planlægge langsigtet, når
+det gælder infrastrukturen i Danmark. Vi skal
+selvfølgelig kigge på de enkelte landsdele hver
+for sig, men også se på dem i en sammenhæng,
+og vi skal have en behovsorienteret tilgang og
+se, hvor i landet behovet er størst, og hvor vi kan
+hjælpe flest mennesker for de penge, vi investerer.
+Selvfølgelig skal vi også se på Sønderjylland i
+den sammenhæng, og som jeg også har meldt
+ud tidligere, vil jeg her i foråret komme rundt i
+hele landet og besøge de fem regioner, og man
+vil få mulighed for at præsentere de særlige lokale problemstillinger, man måtte ønske at der
+bliver set på og prioriteret i forbindelse med investeringsplanen.";Kl. 14:45
+106592;Time;;Kl. 14:46
+106627;title_name;":
+Fru Bente Dahl.";Søren Espersen
+106654;Time;;Kl. 14:46
+106670;name_party;":
+Det må afføde to spørgsmål. Jeg forstod ministeren sådan, at den analyse, ministeren talte om i
+første omgang, kun handlede om Sønderjylland
+og det dobbeltspor, vi behandler i dag. Nu siger
+ministeren, det er hele Danmark, vi skal lave en
+helhedsplan for. Det er det ene spørgsmål: om
+det er hele Danmark, vi snakker om, eller vi
+
+1066
+
+Tirsdag den 22. januar 2008 (B 24)
+
+snakker om Sønderjylland i den her analyse,
+som ministeren taler om.
+Det andet spørgsmål går på Femernbroen, for
+der er andre analyser, der viser, at 67 pct. af
+godstrafikken fremover altid vil skulle føres
+igennem Sønderjylland. Det vil sige, at Femernbroen altså ikke fuldstændig afhjælper godstrafiktransporten - faktisk kun meget lidt, når 67
+pet. stadig væk skal gå igennem Sønderjylland.
+Hvordan vil ministeren afhjælpe det?";Bente Dahl
+107486;Time;;Kl. 14:47
+107521;title_name;":
+Ministeren.";Søren Espersen
+107544;Time;"Transportministeren (Carina Christensen):
+Jeg vil bekræfte, at det, vi præsenterer til efteråret, er en investeringsplan for hele Danmark,
+hvor vi vil gå ind og se på, hvordan situationen
+er, og hvor behovet er størst. Der vil de forslag
+vedrørende Sønderjylland, der er fremlagt i Infrastrukturkommissionens rapport, også blive
+vurderet. Der er jo bl.a. det her forslag, som Enhedslisten også kommer med i dag.
+Indtil da skal vi selvfølgelig have kigget på de
+enkelte projekter, så vi er bedst muligt orienteret, når vi skal ind og foretage den her prioritering politisk.
+Så er jeg enig i, at Femernforbindelsen selvfølgelig ikke afvikler al godstransporten. Der vil
+stadig væk være en stor godsmængde også gennem Sønderjylland, og derfor siger jeg heller ikke, at det, at vi nu får en Femernbro, så udelukker, at der kan blive behov for dobbeltspor gennem Sønderjylland.";Kl. 14:47
+108427;Time;;Kl. 14:48
+108462;title_name;":
+Så er der en kort bemærkning fra hr. Jesper Petersen.";Søren Espersen
+108527;Time;;Kl. 14:48
+108548;name_party;":
+Jeg er også rigtig glad for ministerens tilkendegivelse og den måde, hun nærmest får elsket
+forslagsstilleren ihjel på. Kan vi forestille os, at
+ministeren, hvis vi trækker den del af forslaget,
+der handler om Tønder-Tinglev-banen, ud af
+forslaget, så fortsat vil være så forelsket, at vi
+med det samme kan træffe beslutningen om at
+anlægge dobbeltsporet gennem Sønderjylland,
+og at vi ikke skal vente længere? Vi har sådan set
+allerede ventet siden 1993, hvor vi sidst vedtog
+det. Så hvis vi nu tager den del af forslaget ud,
+kan transportministeren så støtte forslaget?";Jesper Petersen
+109132;Time;;Kl. 14:49
+109167;title_name;":
+Ministeren.";Søren Espersen
+109191;Time;"Transportministeren (Carina Christensen):
+For det første synes jeg bestemt, man skal rose
+nogle forslagsstillere, når der er grund til at rose
+dem, og her synes jeg faktisk, at Enhedslisten er
+kommet med et beslutningsforslag, der peger på
+en meget relevant problemstilling, så anerkendelse for det.
+Så kan jeg for det andet med det samme sige,
+at nej, regeringen kan ikke støtte beslutningsforslaget, heller ikke, hvis man tager delen med
+Tønder og Tinglev ud. Det kan vi ikke af den
+simple årsag, at vi ønsker at afvente det arbejde,
+vi sætter i gang med investeringsplanen, og regeringen vil til efteråret komme med en samlet
+investeringsplan for landet. Så vi vil ikke på nuværende tidspunkt binde os op på enkeltstående
+projekter.";Kl. 14:49
+109937;Time;;Kl. 14:49
+109972;title_name;":
+Hr. Jesper Petersen.";Søren Espersen
+110004;Time;;Kl. 14:49
+110025;name_party;":
+Jeg bemærkede også i ministerens tale, at der
+ikke længere er så klar en afvisning af, at selv
+om Femernbroen bliver til noget, vil det altså
+ikke være sådan, at der ikke længere er behov
+for dobbeltsporet ned igennem Sønderjylland.
+Jeg fornemmer en åbning, da tidligere transportministre på tidligere spørgsmål har været mere
+afvisende end her. Det vil jeg også gerne kvittere
+for, det synes jeg er rigtig, rigtig positivt. Men
+kan ministeren sætte en form for tal på? Hvis de
+forventninger, der hedder, at 67 pct. af godstransporten stadig væk skal foregå ned igennem
+Sønderjylland, viser sig at holde stik, anser ministeren så det for at være et tilstrækkeligt behov, eller hvad er tallet for størrelsen på den
+mængde af godstransport, der fortsat skal foregå ned igennem Sønderjylland, for at ministeren
+vil anse det for helt givet, at dobbeltsporet skal
+anlægges? Kan der sættes tal på nu?";Jesper Petersen
+110931;Time;;Kl. 14:50
+110966;title_name;":
+Ministeren.";Søren Espersen
+110989;Time;"Transportministeren (Carina Christensen):
+Jeg kan godt afsløre, at der ikke kan sættes tal på
+endnu. Nu har vi fået den store rapport fra Infrastrukturkommissionen her den 10. januar, jeg
+er gået i gang med at læse mig igennem det her
+
+Tirsdag den 22. januar 2008 (B 24)
+store, tykke dokument, og vi kigger også på det i
+huset. Det, der er vigtigt, er, at vi i hvert fald har
+øje på, at godstransporten vil være stigende de
+kommende år, og det, vi hu skal sørge for, er at
+sikre vores infrastruktur bedst muligt i forhold
+til den problemstilling. Femern vil komme til at
+spille en stor, positiv rolle, når det gælder afvikling af godstransport, men som jeg siger, kan det
+ikke udelukkes, at der også vil være behov for et
+dobbeltspor gennem Sønderjylland.
+Alt det skal vi så ind og afveje og prioritere i
+forhold til hinanden, og det vil vi gøre til efteråret, bl.a. i forbindelse med den kommende investeringsplan.";Kl. 14:50
+111916;Time;;Kl. 14:51
+111951;title_name;":
+Der er ikke flere bemærkninger, og vi siger tak
+til transportministeren. Så er det hr. Jacob Jensen
+som ordfører.";Søren Espersen
+112076;Time;(Ordfører);Kl. 14:51
+112104;name_party;":
+Lidt i stil med det, transportministeren var inde
+på før, vil jeg starte med at udtrykke min sympati for forslaget. Det har jo været oppe at vende
+før i den tidligere folketingssamling, og lad mig
+derfor starte med at slå helt fast, at Venstre ønsker at øge sporkapaciteten ned gennem Sønderjylland til dobbeltspor, sådan at der bl.a. skabes
+endnu bedre forbindelser til Tyskland og til resten af Europa. Behovet for baneudbygningen i
+Sønderjylland er efter vores opfattelse koncentreret om strækningen mellem Kolding og Padborg, altså hovedlinjen. Udbygningen af den
+sønderjyske jernbane til et dobbeltspor skal også
+ses i sammenhæng med Tysklands beslutning
+om at etablere et dobbeltspor fra grænsen til
+Hamborg, så vi netop dermed får udnyttet muligheden for at kunne eksportere og komme fornuftigt videre ned igennem Europa.
+Udbygningen af den sønderjyske jernbane til
+et dobbeltspor skal også ses i sammenhæng med
+en modernisering af godsterminalen ved Taulov,
+for målet er så her at skabe en forudsætning for
+netop at få flyttet mere gods over på jernbanen,
+ikke mindst det gods, som skal transporteres
+langt, og som skal ned gennem Europa.
+Endelig er Venstre opmærksom på, at en opgradering af den sønderjyske bane selvfølgelig
+også vil skabe en betydelig bedre betjening af
+det sønderjyske område og dermed af Sønderborgområdet. Dog kommer forslaget ikke ind på
+selve finansieringen. Man anviser i hvert fald
+ikke nogen finansieringskilde til en eventuel ud-
+
+1067
+
+bygning af dobbeltsporet, og det er selvfølgelig
+altid en væsentlig forudsætning for at kunne
+vurdere et forslag samlet set. Vi har alle en lang
+ønskeliste til infrastrukturprojekter - det er jeg
+sikker på vi har - også på baneområdet. Jeg kunne nævne Sydbanen, jeg kunne nævne jernbanen mellem Ringsted og København, Nordvestbanen osv., men vi har jo næppe finansiering til
+alle projekterne, så vi må jo, som ministeren sagde, ind i en prioritering og se tingene i en sammenhæng og ikke se dem isoleret projekt for
+projekt.
+Regeringen har jo så fået sin infrastrukturkommissionsrapport her for nylig og skal så
+evaluere de anbefalinger, der kommer, i en samlet investeringsplan, som jeg kan forstå så kommer her i løbet af året, og det ser jeg da selvfølgelig utrolig meget frem til. For at slå det helt
+fast igen går Venstre ind for en udbygning af hovedsporet ned gennem Sønderjylland, men vi
+vil altså se det i en samlet investeringsplan for
+hele landet, herunder finansiering af projekterne
+indeholdt i en prioritering mellem de enkelte
+projekter. Vi vil ikke tage stilling projekt for projekt.
+Forslaget her indeholder som nævnt tidligere
+i debatten også en del sidebaner, som umiddelbart ikke står øverst på Venstres prioriteringsliste over jernbaneprojekter. Når så forslaget heller ikke anviser nogen finansiering i øvrigt, kan
+vi ikke for nuværende støtte forslaget, som det
+ligger her.";Jacob Jensen
+114986;Time;;Kl. 14:54
+115021;title_name;":
+Hr. Jesper Petersen.";Søren Espersen
+115053;Time;;Kl. 14:54
+115074;name_party;":
+Jeg er meget glad for, at hr. Jacob Jensen kan bekræfte, at Venstre støtter, at der skal anlægges
+dobbeltspor ned gennem Sønderjylland. Det er
+dejligt at få så klar en udtalelse fra dem. Jeg har
+adskilligt materiale liggende fra valgkampen,
+som viser, at politikere fra Venstre, herunder
+Venstres gruppeformand, er af samme holdning.
+Det, der er mit spørgsmål, er: Når nu Venstre
+har været regeringsførende parti siden 2001,
+hvorfor skal vi så vente så længe på at få anlagt
+det dobbeltspor, når der jo er kapacitetsproblemer i dag og har været det alle de år, Venstre har
+haft regeringsmagten og siddet for enden af bordet? Kan hr. Jacob Jensen forklare mig, hvorfor
+vi skal vente så længe på at få det ført ud i livet,
+hvis man faktisk er enig i, at det skal være der?
+
+1068
+
+Tirsdag den 22. januar 2008 (B 24)";Jesper Petersen
+115899;Time;"dentligt. Er det et landsdækkende problem også
+i hr. Jacob Jensens øjne?";Kl. 14:55
+115983;Time;;Kl. 14:57
+115993;Time;;Kl. 14:55
+116028;title_name;:;Søren Espersen
+116046;name_party;":
+Så er det ordføreren.";Jacob Jensen
+116079;Time;"Jeg er fuldstændig enig i, at der er et kapacitetsproblem. Det var også det, jeg udtalte i min ord- Jacob Jensen (V):
+førertale for et øjeblik siden. Men det betyder jo
+Ja, det er det, det er et landsdækkende problem,
+ikke, at vi ikke skal se på, hvordan vi kan priori- lige så vel som at det er et landsdækkende protere de ressourcer, vi nu engang får, i forhold til
+blem, når man ikke kan komme hurtigt og effekden investeringsplan, som vi skal til at forhandle
+tivt mellem eksempelvis Ringsted og Købenpartierne imellem i løbet af i år.
+havn eller hurtigt og effektivt mellem KøbenNu har vi fra regeringens side fået frembragt
+havn og Sydsjælland eller Nordvestsjælland elet særdeles solidt grundlag at tage beslutning
+ler andre steder. Der er masser af steder, hvor
+ud fra, nemlig den rapport, som er kommet for
+det er et landsdækkende problem, fordi tingene
+ganske kort tid siden fra Infrastrukturkommisjo hænger sammen. Det, at man investerer et
+sionen, og det er den og dens anbefalinger, som
+sted, afføder selvfølgelig noget kapacitet et anvi siger vi skal tage udgangspunkt i. Og så må vi
+det sted.
+se, hvordan vi i øvrigt så kan prioritere imellem
+Men det er da klart, at når vi taler gods, taler
+de projekter, selvfølgelig både dem, som Infravi jo ikke - efter min opfattelse i hvert fald - om
+strukturkommissionen kommer med, og de øvgodstransport over korte afstande, hvis vi skal
+rige projekter, som partierne måtte have på deflytte det over på jernbanen, der taler vi om de
+res ønskeliste.
+strækninger, som går langt, både indenlandsk
+Så jeg vil godt anerkende problemet, nemlig
+og i særdeleshed, når vi taler om eksporten. Og
+at der er mangel på kapacitet, men jeg vil stadig
+det er her, den her problemstilling, som der blivæk fastholde, at det altså skal ses i en sammen- ver peget på, faktisk kommer ind i billedet, at
+hæng. Vi kan ikke tage enkeltprojekter, vi skal
+godstransporten på den sønderjyske jernbane
+have fat i en prioriteringsliste, når vi nu engang
+og videre ned gennem Europa har et kapacitetsikke har penge til dem alle sammen.
+problem. Det er også derfor, at vi i Venstre i voKl. 14:56 res nye trafikoplæg »Frihed og Fremdrift«, som";Kl. 14:57
+118282;title_name;":
+kan læses på Venstres hjemmeside, faktisk anerHr. Jesper Petersen.
+kender og går ind for det her projekt. Men det";Søren Espersen
+118407;Time;"skal altså ses i en prioriteringsrækkefølge, hvor
+en lang række andre projekter indgår, som også";Kl. 14:56
+118525;name_party;":
+Jeg synes, det er godt gjort, at man kan sidde på
+har en landsdækkende problemstilling i forhold
+regeringsmagten i de her 6-7 år og vente på at få til investeringsplanen, som vi skal til at kigge på
+nogen til at beregne for sig, hvordan situationen nu her i løbet af året.";Jesper Petersen
+118809;Time;vil være nu og i fremtiden, når man hele tiden;Kl. 14:58
+118891;title_name;":
+har kunnet se, at der er kapacitetsproblemer på
+den her strækning. Det er jo ikke noget nyt proSå er der en kort bemærkning fra hr. Benny Enblem, vi har med at gøre. Så jeg er glad for hr. Ja- gelbrecht.";Søren Espersen
+119106;Time;"cob Jensens tilkendegivelser, men har svært ved
+Benny";Kl. 14:58
+119176;name_party;":
+at være decideret imponeret over dem. Jeg synes
+også, der i den sidste halvdel af hr. Jacob Jensens Tak til hr. Jacob Jensen for hans pointering af
+sammenhængen, hvad angår de nordtyske invesvar ligger en form for negligering af det, når
+steringer på infrastruktur også. Det er fuldstænder bliver sagt, at der jo er så mange problemer
+dig korrekt, og det er bl.a. en af årsagerne til, at
+rundtomkring i landet, som vi gerne vil løse.
+Så jeg vil gerne have hr. Jacob Jensen til at be- dette selvfølgelig er et meget aktuelt spørgsmål.
+Vil hr. Jacob Jensen give mig ret i, at dialogen
+kræfte, at det faktisk er et landsdækkende promed Tyskland er meget væsentlig, og at det netblem, hvis ikke man kan få sin godstransport ud
+op derfor også er meget væsentligt at fremme en
+og ind af Danmark, og at det også er et problem
+afgørelse om det her projekt, for at vi kan samfor nordjyder, vestjyder og fynboer, hvis ikke
+mentænke løsninger nord og syd for grænsen,
+godstransporten ned til Tyskland fungerer orAnden næstformand (Søren Espersen):
+Så er det ordføreren.
+
+Tirsdag den 22. januar 2008 (B 24)
+så vi bl.a. kan sikre en effektiv transportafvikling?";Engelbrecht
+120337;Time;;Kl. 14:58
+120372;title_name;":
+Ordføreren.";Søren Espersen
+120395;Time;;Kl. 14:58
+120412;name_party;":
+Ja, det vil jeg gerne. Det er jo helt utroligt, så enige vi kan blive om det her. Ja, jeg anerkender, og
+jeg er enig med spørgeren i, at det er vigtigt at
+kunne se det i sammenhæng med og i forhold til
+tyskerne. En jernbane stopper jo ikke ved grænsen, eksport stopper jo i sagens natur ikke ved
+grænsen, så derfor skal vi jo se de her ting i sammenhæng.
+Et dobbeltspor vil jo ikke kun gavne eksporten, det vil jo også i stor udstrækning gavne hele
+det sønderjyske Sønderborgområde med jernbanebetjening. Det synes jeg også vi skal anerkende og tage med i vores overvejelser, når vi skal
+prioritere de her mange forskellige projekter.
+Det er jo rigtigt - som spørgeren er inde på at vi da skal have øje for eksporten og dermed
+også tyskernes holdning til, hvordan deres jernbaneinfrastruktur fra grænsen og videre mod
+Hamborg og sydover udvikler sig. Derfor er det
+da klart, at vi skal have taget forhandlingerne og
+diskussionerne med tyskerne med ind i overvejelserne, når vi laver de her prioriteringer, herunder dobbeltsporet igennem Sønderjylland.";Jacob Jensen
+121475;Time;;Kl. 14:59
+121510;title_name;":
+Hr. Benny Engelbrecht.";Søren Espersen
+121544;Time;;Kl. 14:59
+121566;name_party;":
+Set i den sammenhæng er det selvfølgelig meget
+interessant at kigge på det aktstykke, som Finansudvalget fik tilsendt forleden dag, der omhandler en trafikprognose for, hvordan Femern
+Bælt vil påvirke trafikken over Storebæltsbroen.
+Det er alene 3 pet. af trafikken, som vil blive påvirket af det.
+Så man kan sige, at sammenhængen mellem
+Femernbroen og den grænseoverskridende trafik jo er meget begrænset, så netop i den sammenhæng er det vel vigtigt, at vi ikke får prioriteret det her for lavt.";Benny Engelbrecht
+122075;Time;;Kl. 15:00
+122110;title_name;":
+Ordføreren.";Søren Espersen
+122133;Time;;Kl. 15:00
+122150;name_party;":
+Nu har jeg også den store fornøjelse at sidde i Finansudvalget, så jeg kender godt aktstykket.
+
+1069
+
+Men jeg må så også stadig væk sige, at prioriteringer jo er prioriteringer, som man skal foretage ud fra forskellige afvejninger. Der er nogle,
+der lægger vægt på gode muligheder for at
+komme til Tyskland med eksportvarer, og nogle
+lægger vægt på, at de gode muligheder er der,
+hvor mange bor, som pendler ind mod hovedstaden eller mod Århus eller andre store byer. Så
+det er jo en afvejning af de forskellige elementer
+i en prioritering, som man skal tage med, og det
+er så det, forhandlingerne nu skal vise her i løbet
+af de kommende måneder, så vi når frem til en
+forhåbentlig bred aftale i løbet af 2008 på netop
+det her område, og der må partierne så hver
+især komme med deres ønsker.
+Nu har vi så fra regeringens side fremlagt jeg skal ikke stå og sige på vegne af regeringen,
+men i hvert fald regeringspartierne - et solidt
+grundlag netop gennem Infrastrukturkommissionen, og det synes jeg er rigtig godt. Det borger da i hvert fald for en vis kvalitet i de forhandlinger, som vi skal i gang med. Det håber
+jeg også og tror også på at spørgerens parti vil
+medvirke til.";Jacob Jensen
+123340;Time;;Kl. 15:01
+123375;title_name;":
+Så er der en kort bemærkning fra fru Julie Rademacher.";Søren Espersen
+123441;Time;;Kl. 15:01
+123462;name_party;":
+Nu er jeg også et af de heldige folketingsmedlemmer, der kommer fra Kolding, og jeg er endda vokset op i Sønderborg, så jeg kender om nogen infrastrukturen i det syd- og sønderjyske.
+Jeg vil blot minde ordføreren om, at en af
+Venstres egne politikere og sågar ministre, fru
+Eva Kjer Hansen, meldte ud i valgkampen, at
+hun klart støtter et dobbeltspor gennem Syd- og
+Sønderjylland. Det gjorde hun på et debatmøde i
+Vamdrup, og for mig at se er det også meget fornuftigt at investere i infrastrukturen i netop dette område, der udgør porten til Europa, som jeg
+også har været inde på.
+Men mit spørgsmål til ordføreren lyder: Hvis
+Venstre ikke skal leve op til sine valgløfter, når
+de efter valget får regeringsmagten, hvornår vil
+de så give nogle garantier?";Julie Rademacher
+124229;Time;;Kl. 15:02
+124264;title_name;":
+Ordføreren.
+. Kl. 15:02";Søren Espersen
+124306;name_party;":
+Jeg er da glad for, at vores minister Eva Kjer
+Hansen også har støttet det projekt, for som jeg
+
+1070
+
+Tirsdag den 22. januar 2008 (B 24)
+
+nævnte for et øjeblik siden, har Venstres folkehurtigere frem og tilbage til svigerfamilien, og
+tingsgruppe faktisk officielt taget stilling til det
+det er jo altid dejligt.
+og sagt, at hovedlinjen i projektet her, altså vel at
+Men jeg kan kun gentage mig selv og sige, at
+mærke linjen mellem Kolding og grænsen, er
+fra Venstres side har vi anerkendt kapacitetspronoget af det, vi gerne ser fremmet. Det fremgår
+blemet på den sønderjyske bane af flere grunde:
+som sagt af vores trafikoplæg.
+eksportproblemer, godstransport og selvfølgeMen vi har også sagt, at vi også skal se det i
+lig også betjeningen af det sønderjyske område,
+sammenhæng med alle de andre projekter, der
+når det drejer sig om passagertrafikken. Men vi
+er, og dermed prioritere. Jeg ved jo ikke i dag,
+har også erkendt, at der er en lang række andre
+hvor mange midler vi umiddelbart kan få til råproblemstillinger på såvel jernbaneområdet som
+dighed til at investere i infrastruktur. Der kan
+vejområdet og andre infrastrukturområder, så vi
+være nye finansieringskilder, som man kan forbliver nødt til at prioritere, og som sagt kan jeg
+handle sig til rette om her i Folketinget, og som
+jo ikke på nuværende tidspunkt stå her og sige,
+gør, at vi pludselig har nogle flere midler, eller
+hvor mange midler vi har til rådighed.
+det kan være, vi får nogle færre midler, fordi de
+Det ville ikke være nogen sag for mig at sige,
+er afsat til anden side til andre investeringer, og
+at alle de områder, alle de projekter, som jeg har
+derfor vil jeg have svært ved at sige nu, at vi kan nævnt, kan vi selvfølgelig gennemføre, og det
+garantere, at det bliver til noget, eller garantere,
+skal være pr. omgående. Det kunne vi, hvis vi
+at det ikke bliver til noget. Det er altså et spørgs- bare havde midlerne til det, men på nuværende
+mål om prioritering, og det vil jeg fastholde, selv tidspunkt har vi ikke et umiddelbart overblik
+om vi har anerkendt problemstillingen, både fra
+over, hvor mange midler der bliver stillet til råvores ministers side og i vores oplæg til infradighed, og hvor mange midler der er til rådigstruktur.
+hed, så derfor vil jeg stadig væk holde mig til at";Jacob Jensen
+126595;Time;sige: Vi anerkender problemet, men vi vil gerne;Kl. 15:03
+126678;title_name;":
+se det i sammenhæng med andre projekter og en
+Så er det fru Julie Rademacher.
+prioritering.";Søren Espersen
+126781;Time;;Kl. 15:03
+126791;Time;;Kl. 15:05
+126812;name_party;:;Julie Rademacher
+126848;title_name;":
+Jeg tænkte nok, at svaret ville lyde cirka sådan,
+Ja tak. Så er der en kort bemærkning fra hr. Per
+men når man sådan sparker spørgsmålet til hjør- Clausen.";Søren Espersen
+127015;Time;"nespark, vil jeg da opfordre til og gerne invitere
+til at tage en tur i det syd- og sønderjyske. Så";Kl. 15:05
+127132;name_party;":
+kunne det være, at der fra både ordførerens og
+Jeg synes måske, at det er meget forståeligt, at
+ministerens side kom en erkendelse af, at der
+hr. Jacob Jensen ikke direkte slår til og lover, at
+skal være et dobbeltspor i det syd- og sønderjydet her skal han nok sørge for. Det ville jo være
+ske, for i dag tager det rigtig, rigtig lang tid at
+muligt, men måske også for muligt.
+køre i tog der.
+Men det, jeg gerne vil spørge hr. Jacob Jensen
+Jeg ved, at jeg taler på borgernes vegne, når
+om, er, om han ikke anerkender, at et af probledenne sag bliver bragt op, både når det angår
+merne her er, at man i al for lang tid har været
+Sønderjylland og Jylland lidt længere nordpå, så negativ over for det her dobbeltspor, fordi man
+jeg håber, at ordføreren måske vil tage imod den
+ligesom hele tiden har sagt, at det klarer vi ved
+invitation og sætte ekstra fokus på området
+hjælp af Femernforbindelsen, og at det måske
+fremover.
+meget er, fordi man har forsøgt at skabe et";Per Clausen
+128111;Time;grundlag for Femernforbindelsen, at man har;Kl. 15:04
+128190;title_name;":
+været afvisende over for det her dobbeltspor, og
+Ordføreren.
+det har givet anledning til bekymring i det sydKl. 15:04 jyske område.";Søren Espersen
+128333;Time;;Kl. 15:06
+128350;name_party;":
+Jeg kan berolige med, at jeg også udmærket ken- Anden næstformand (Søren Espersen):
+der strækningen. Min svigerfamilie bor i SønOrdføreren.";Jacob Jensen
+128501;Time;"derborg og omegn, så jeg bruger den ganske tit,
+så også ud fra et personligt synspunkt ville det";Kl. 15:06
+128615;name_party;":
+være en kæmpefordel. Så kunne jeg jo komme
+Nu er jeg lidt i tvivl om, hvem hr. Per Clausen
+henviser til, når hr. Per Clausen siger man, men
+
+Tirsdag den 22. januar 2008 (B 24)
+hvis vi antager, at det er regeringen, så er jeg
+ikke enig og anerkender heller ikke, at det har
+noget med hinanden at gøre. Femern Bælt-forbindelsen udgør én problemstilling i forhold til,
+hvordan godstransport og erhvervstransport
+hænger sammen, og i øvrigt også selve sammenhængen mellem Danmark og et af vores største
+markeder, Tyskland, og resten Europa.
+At der så er en sammenhæng mellem, hvordan transporterne i nord- og sydgående retning
+vil være, er da klart. Nogle af de analyser, vi har
+fået, viser også, at der er en sammenhæng, at det
+gør en forskel, hvordan transporten er, om der
+er en Femern Bælt-forbindelse, eller om der ikke
+er det. Men det betyder jo ikke, at vi ikke stadig
+væk kan anerkende, at der ud over en Femern
+Bælt-bro også er et behov for en udbygning af
+dobbeltsporet i Sydjylland. De to ting tror jeg
+ikke udelukker hinanden.";Jacob Jensen
+129661;Time;;Kl. 15:06
+129696;title_name;":
+Hr. Per Clausen.";Søren Espersen
+129724;Time;;Kl. 15:07
+129741;name_party;":
+Det er selvfølgelig godt, at hr. Jacob Jensen fastholder, at der kan være behov for begge dele,
+når nu Venstre insisterer på, at der også er behov
+for en Femernforbindelse.
+Men jeg kunne godt tænke mig at spørge hr.
+Jacob Jensen om noget andet. Man kan selvfølgelig godt spørge: Hvorfor komme løbende med
+de her lokale forslag, når der nu skal laves en
+helhedsplan? Men anerkender hr. Jacob Jensen
+ikke, at det her sådan set er en af de opgaver, der
+burde have været løst for lang tid siden, fordi
+man har haft et problem med togdriften i det her
+område i meget lang tid? Man har et ønske om
+at få mere af, lad os så bare sige langdistancegodset flyttet over til jernbanen, og det er jo et
+ønske, som findes hele vejen fra Nordjylland og
+ned igennem Jylland i forbindelse med transporten ned igennem Tyskland. Så det er et
+spørgsmål om, at man her ligesom har et overvintret problem, som man skulle have gjort noget ved for et stykke tid siden.";Per Clausen
+130697;Time;;Kl. 15:07
+130732;title_name;":
+Ordføreren.";Søren Espersen
+130755;Time;;Kl. 15:07
+130772;name_party;":
+Jeg synes, det er forkert at sige, at det er et lokalt
+problem. I svaret til, jeg tror, det var hr. Jesper
+Petersen for et øjeblik siden, anerkendte jeg faktisk, at det her ikke kun er et lokalt problem. Det
+
+1071
+
+er faktisk et samfundsmæssigt og måske nærmest internationalt problem, hvis man kan bruge så store ord i den her sammenhæng. Så at det
+er et lokalt problem, synes jeg er forkert at sige.
+At det så skulle have været løst for længe siden,
+kan man da godt sige, men det kan man jo sige
+om masser af projekter. Altså, jeg kan også nævne kapaciteten mellem Ringsted og København.
+Det har man diskuteret i årevis, og nu har vi da
+endelig nogle beslutninger om, at vi skal have
+VVM-undersøgt de to muligheder, der har været
+forhandlet om. Jeg kan nævne Nordvestbanen.
+Der ligger heldigvis også et projekteringsforslag
+fra Trafikstyrelsen. Det skulle der sikkert også
+have været gjort noget ved for mange år siden.
+Men nu er vi altså en situation, hvor vi må
+kigge fremad og sige: Hvad er det så for nogle
+projekter, der ligger, og hvad er det for nogle
+muligheder, vi har at prioritere imellem, og
+hvad er det i øvrigt for nogle midler, vi kan bruge? Det er sådan set det, vi gør på baggrund af
+rapporten fra Infrastrukturkommissionen og
+den investeringsplan, som regeringen vil komme med i løbet af 2008.";Jacob Jensen
+132097;Time;;Kl. 15:08
+132132;title_name;":
+Der er en kort bemærkning fra fru Bente Dahl.";Søren Espersen
+132187;Time;;KL15:08
+132203;name_party;":
+Venstres ordfører har anerkendt problemet i
+Sønderjylland flere gange her under debatten.
+Så mit spørgsmål til Venstres ordfører er: Når
+man anerkender et problem, følger man det så
+ikke op politisk af en handling? Og hvornår ser
+vi en handling som opfølgning på problemanerkendelsen?";Bente Dahl
+132499;Time;;Kl. 15:09
+132534;title_name;":
+Ordføreren.";Søren Espersen
+132557;Time;;Kl. 15:09
+132574;name_party;":
+Man kan jo sige, at handlingen sådan set allerede er i gang, forstået på den måde, at vi for nylig
+har fået tilvejebragt et ordentligt beslutningsgrundlag for hele landet og de sammenhænge,
+der er. Det drejer sig netop om de anbefalinger,
+som meget indsigtsfulde mennesker i Infrastrukturkommissionen er kommet med på det
+område. Det synes jeg i hvert fald er det første
+skridt, og så kan man spørge: Skal der så følges
+op på det? Ja, det skal der, og vi kunne også høre
+på ministerens svar for et øjeblik siden, at regeringen påtænker at komme med et forslag til en
+investeringsplan, som skal forhandles her i Fol-
+
+1072
+
+Tirsdag den 22. januar 2008 (B 24)
+
+ketinget, hvor bl.a. den sønderjyske jernbane og
+andre projekter vil indgå. Så handlingen bliver
+
+handlet, og nu, hvor det bliver behandlet denne
+gang, ikke mindst til Venstres daværende og nuværende ordfører, hr. Jacob Jensen, der dengang";Jacob Jensen
+133485;Time;henviste til, at man ville tage konkret stilling til;Kl. 15:10
+133573;title_name;":
+dobbeltsporenes prioritering, efter at konklusioJa tak. Vi skal lige huske at overholde taletiderne nerne i Infrastrukturkommissionens rapport var
+ved spørgsmålene. Der er faktisk fuldstændig fri kendt. Lignende synspunkter fremførte fru Hentaletid inden for 1 minut. Fru Bente Dahl.
+riette Kjær på vegne af De Konservative og hr.";Søren Espersen
+133915;Time;"Walter Christophersen på vegne af Dansk FolkeBente Dahl (RV):
+parti.
+Nu taler Venstres ordfører igen om planer for
+I dag kender vi jo indholdet af Infrastrukturhele landet. Jeg anerkender selvfølgelig, at lankommissionens rapport, vi har læst den, og vi
+det hænger sammen. Sønderjylland er ikke et
+ved, at især to af rapportens hovedkonklusioner
+land for sig selv. Men der foreligger dog en lov
+har indflydelse i forhold til den sydjyske del af
+fra 1993, hvori der står, at vi skulle have en dob- Danmark.
+beltsporet bane i Sønderjylland. Første etape er
+Det første punkt er prioriteringen af det store
+bygget, og anden etape mangler. Hvornår vil
+H. Her kan man i rapportens kapitel 7, side 138,
+Venstres ordfører lave tiltag, som gør, at anden
+tydelig se de kapacitetsproblemer, det giver for
+etape bliver udført?
+banenettet, at der ikke er dobbeltspor på strækKl. 15:10 ningerne Vamdrup-Vojens og Tinglev-Padborg.";Kl. 15:10
+134866;title_name;":
+I dag udnyttes kapaciteten til fulde, og selv små
+Ordføreren.
+hændelser kan udløse forsinkelser eller aflysninKl. 15:10 ger. Dette oplevede syd- og sønderjyderne i eksJacob Jensen (V):
+trem grad i sommeren 2007, hvor DSB's somDet har vi sådan set allerede gjort fra Venstres si- merkøreplan resulterede i danmarksrekord i
+de. Som sagt har vi anerkendt det og taget det
+driftsforringelser i Sydjylland. Infrastrukturmed i vores officielle politik blandt de projekter,
+kommissionens rapport giver os på det punkt
+som vi synes skal fremmes blandt mange. Så kan ikke ny viden, men en forklaring på sammenman spørge, hvad der så skal ske yderligere. Jo,
+hængen mellem kapacitet og effekt.
+vi vil da selvfølgelig gå konstruktivt ind i forDen anden hovedkonklusion er styrkelsen af
+handlingerne med de andre partier her i Folkeportene til Europa. En meget stor del af den intinget om den investeringsplan, som regeringen
+ternationale godstransport foregår i dag over
+vil fremlægge her i løbet af 2008, og herunder
+den dansk-tyske grænse, og denne godsmængogså tage stilling til, hvordan vi skal prioritere
+de vil øges betydeligt i de kommende år, også
+den sønderjyske jernbane.
+når en fast forbindelse over Femern Bælt står";Søren Espersen
+136094;Time;klar. Derfor vil det både i det korte og det lange;Kl. 15:11
+136180;title_name;":
+perspektiv være at udvise rettidig omhu at opDer er ikke flere bemærkninger til ordføreren. Vi gradere den sydligste del af det store H's ene
+siger tak. Den næste ordfører er hr. Benny Engel- ben på jernbaneområdet.
+brecht.
+For at understrege dette synspunkt vil jeg";Søren Espersen
+136458;Time;"henvise til notatet »Strategiske perspektiver for
+(Ordfører)
+udvikling af baneinfrastrukturen«, som TrafikBenny Engelbrecht (S):
+styrelsen sendte til Infrastrukturkommissionen i
+Det fremsatte beslutningsforslag er grundlægforbindelse med deres arbejde. I notatet arbejder
+man med tre mulige teser for jernbanens udvikgende yderst sympatisk. Socialdemokraterne er
+enige i, at den kollektive transport skal styrkes.
+ling. I alle tilfælde peges på dobbeltsporet melIsær trænger jernbanerne til et løft. Vi har tidlilem Vamdrup og Tinglev som en nødvendig ingere stemt for et lignende forslag fremsat i 2006- vestering.
+07-samlingen, dengang fremsat af hr. Rune
+Med baggrund i de forbehold, Venstre, KonLund m.fl. Vi finder fortsat Enhedslistens forservative og Dansk Folkeparti havde ved sidste
+slag udmærket.
+behandling, har SF, Socialdemokraterne og EnImidlertid må vi også forholde os til den fakhedslisten i dag fremsat et alternativt besluttiske politiske situation. Vi har lyttet nøje til,
+ningsforslag. Dette forslag vil SF's ordfører, hr.
+hvad der blev sagt, sidste gang forslaget blev be- Jesper Petersen, kort redegøre for i sin ordfører-
+
+(135)
+Tirsdag den 22. januar 2008 (B 24)
+tale. Jeg vil dog bemærke, at Socialdemokraterne ser dette alternative forslag som en imødekommelse af de forbehold, Venstre, Dansk Folkeparti og Konservative har. Samtidig vil det
+give Folketingets partier den mulighed bredt at
+debattere Infrastrukturkommissionens konklusioner ved den berammede høring den 27. februar, inden en beslutning træffes.
+Spørgsmålet om det sydjyske dobbeltspor er
+meget afgørende for Socialdemokraterne, og det
+er da også påfaldende at studere den lange historie, dette projekt har. Det har således været på
+den politiske dagsorden helt tilbage til min ærede forgænger hr. J.K. Hansens tid.
+Vi håber derfor, at de løfter, der blev afgivet
+før, under og efter valgkampen i 2007 af repræsentanter for regeringspartierne og Dansk Folkeparti, nu kan blive indfriet. Jeg vil ikke her gentage de mange løfter, der blev af givet,, blot dvæle ved det debatindlæg af hr. Hans Christian
+Schmidt, som dagbladet JydskeVestkysten bragte den 31. december 2007, hvor hr. Hans Christian Schmidt skriver, og jeg citerer:
+Sydjylland er Danmarks bro til resten af Europa. Hvis vi vil fastholde Danmarks omfattende
+samhandel med resten af Europa, er det nødvendigt, at vi forbedrer og udbygger den sydjyske infrastruktur. Jeg mener, at vi skal udvide
+jernbanenettet, bl.a. ved at etablere et dobbeltspor mellem Vojens og Vamdrup. Citat slut.
+Jeg går ud fra, at hr. Hans Christian Schmidt
+står ved disse holdninger, og at han har opbakning i sit parti til denne holdning.
+Med hensyn til det foreliggende forslag fra
+Enhedslisten skal jeg på det nuværende grundlag sige, at Socialdemokraterne vil undlade at
+stemme til forslaget, idet vi ønsker at fremme
+det forslag, vi er medforslagsstillere af, og som
+vi håber vil nyde bred opbakning i Folketinget.";Kl. 15:11
+139417;Time;;Kl. 15:15
+139452;title_name;":
+Ja tak. Der er en kort bemærkning fra hr. Jacob
+Jensen.";Søren Espersen
+139519;Time;;Kl. 15:15
+139536;name_party;":
+Tak for ordførertalen.
+Jeg skal bare spørge ordføreren, om ikke ordføreren er enig i, at det her forslag og de projekter, der bliver beskrevet i forslaget, også skal
+indgå i en prioritering blandt andre forslag. Eller har forslaget om et dobbeltspor igennem
+Sønderjylland simpelt hen prioritet nr. 1? Har
+Socialdemokraterne lagt sig fast på en prioriteringsliste inden for infrastrukturinvestering?
+
+1073";Jacob Jensen
+139952;Time;;Kl. 15:16
+139988;title_name;":
+Ordføreren.";Søren Espersen
+140012;Time;;Kl. 15:16
+140034;name_party;":
+Det er oplagt, at dette selvfølgelig er et punkt,
+som skal tages med i en prioritering, det er helt
+sikkert, men det er også et forslag, som vi i den
+grad gerne ser nyder fremme.";Benny Engelbrecht
+140224;Time;;Kl. 15:16
+140259;title_name;":
+Så er der en kort bemærkning fra hr. Per Clausen.";Søren Espersen
+140320;Time;;Kl. 15:16
+140337;name_party;":
+Nu forstår jeg sådan set godt, at hr. Benny Engelbrecht og Socialdemokraterne vil koncentrere
+sig om det, som de vurderer der måske er de
+bedste muligheder for at få igennem. Det skal
+jeg ikke kritisere særlig voldsomt.
+Det, jeg bare vil spørge hr. Benny Engelbrecht
+om, er, om jeg skal forstå det, hr. Benny Engelbrecht siger, sådan, at Socialdemokraterne har
+ændret opfattelse: altså at Socialdemokraterne
+ikke længere støtter og heller ikke vil arbejde for,
+at banen mellem Tønder og Tinglev renoveres,
+sådan at den også bruges fremover.";Per Clausen
+140889;Time;;Kl. 15:17
+140924;title_name;":
+Ordføreren.
+. Kl. 15:17";Søren Espersen
+140971;name_party;":
+Som det tidligere er fremhævet, er det et yderst
+sympatisk forslag, men i den givne situation bliver vi også nødt til at prioritere. Derfor er vi
+også nødt til at sige, at det, som har den højeste
+prioritet i henhold til Infrastruktur kommissionens rapport, også er det, vi tager udgangspunkt i. Det er jo det store H, den grænseoverskridende trafik, porten til Europa.
+Det betyder selvfølgelig ikke, at Tinglev-Tønder-forslaget ikke er udmærket og ikke også skal
+nyde fremme. Men det må nødvendigvis blive
+på et senere tidspunkt end det sydjyske dobbeltspor.";Benny Engelbrecht
+141542;Time;;Kl. 15:17
+141577;title_name;":
+Hr. Per Clausen.";Søren Espersen
+141605;Time;;Kl. 15:17
+141622;name_party;":
+Det synes jeg selvfølgelig er vigtigt, for jeg har
+forstået Socialdemokraternes ordfører, hr. Benny
+Engelbrecht, sådan, at man sådan set går efter en
+umiddelbar vedtagelse af dobbeltsporet. Så kan
+
+1074
+
+Tirsdag den 22. januar 2008 (B 24)
+
+det jo godt være, at man alligevel får lidt svært
+ved at få det igennem, fordi et flertal i Folketinget måske vil henvise til, at det skal indgå i de
+såkaldt samlede prioriteringer.
+Men er det rigtigt forstået, at hr. Benny Engelbrecht og Socialdemokraterne stadig væk, når vi
+snakker om en samlet prioritering af jernbanenettet i fremtiden, er åbne for at arbejde for, at
+der også bliver mulighed for at renovere og bevare den bane, der er mellem Tønder og Tinglev?";Per Clausen
+142341;Time;;Kl. 15:18
+142376;title_name;":
+Ordføreren.";Søren Espersen
+142399;Time;;Kl. 15:18
+142421;name_party;":
+Jeg er sikker på, at alle, når de har nået at sætte
+sig ind i Infrastrukturkommissionens konklusioner og læst rapporten igennem, vil nå frem til
+samme konklusion, som vi er nået frem til, nemlig at det her er et forslag, som skal nyde fremme.
+Men som sagt: Vi er ikke modstandere af
+Tinglev-Tønder-banen. Vi mener bare, at det
+sydjyske dobbeltspor er så vigtig en prioritet, at
+det skal fremmes umiddelbart.";Benny Engelbrecht
+142840;Time;;Kl. 15:18
+142875;title_name;":
+Der er ikke flere korte bemærkninger, og vi siger
+tak til ordføreren. Næste ordfører er hr. Kim
+Christiansen.";Søren Espersen
+142996;Time;(Ordfører);Kl. 15:19
+143029;name_party;":
+Enhedslisten vil med dette beslutningsforslag
+opfordre regeringen til at igangsætte en grundig
+behovsanalyse af mulighederne for at anlægge
+de manglende dobbeltspor mellem Vamdrup og
+Vojens og mellem Tinglev og Padborg samt en
+opgradering af sidebanerne Tinglev-Sønderborg Og Tinglev-Tønder. Beslutningsforslaget er
+stort set en genfremsættelse af B 115 fra sidste
+samling.
+Indledningsvis vil jeg kvittere for et detaljeret
+og informativt beslutningsforslag, og jeg synes
+ligesom min forgænger på området, at fuldførelsen af dobbeltsporet mellem Kolding og Padborg, nemlig de manglende to etaper VamdrupVojens og Tinglev-Padborg, er af stor betydning.
+Det samme er den manglende strækning i Nordjylland.
+Dansk Folkeparti, Venstre, Det Konservative
+Folkeparti og Det Radikale Venstre har med »Aftale om trafik« af 26. oktober 2006 afsat 4,7 mia.
+
+kr. til jernbaneinfrastrukturen frem til 2014. Endvidere aftaltes en principbeslutning om at udskifte Banedanmarks signalanlæg. Der er således afsat midler til at afvikle en del af efterslæbet på Banedanmarks skinnenet.
+Jeg vil så medgive forslagsstillerne, at dobbeltsporet i Sønderjylland ikke er specifikt prioriteret, men det er imidlertid Dansk Folkepartis
+opfattelse, at de tiltag vedrørende den danske
+jernbaneinfrastruktur, som er omtalt i aftalen i
+prioriteret rækkefølge, er et skridt i den rigtige
+retning.
+Vi har alle sammen lige modtaget Infrastrukturkommissionens rapport. Nu afventer vi så regeringens investeringsplan, som jeg forventer
+kommer i god tid før finansloven for 2009, og jeg
+forventer, at både beløbsstørrelse og prioritering
+vil blive udlagt til en politisk forhandling.
+Her vil både godstransport på bane samt personbefordring på bane have en høj prioritet for
+Dansk Folkeparti, herunder også dobbeltsporet i
+Sønderjylland, som for DF også er et vigtigt element for sammenhængen i hele Danmark. Jeg
+tror, det var fru Bente Dahl, der nævnte, at for en
+sønderjyde var det her vigtigt, men der vil jeg
+da bare lige sige, at det er vigtigt for en dansker,
+at vi får en sammenhæng i den danske infrastruktur, det være sig Sønderjylland, Nordjylland eller andre steder. Det vil Dansk Folkeparti
+kæmpe for.
+Vi synes måske ikke, tiden lige er inde til lokalpolitiske indslag, men mere til, at vi tænker
+overordnet for at løse kapacitetsproblemerne på
+hele det danske jernbanenet. Og når jeg nævner
+hele det danske jernbanenet, indgår Sønderjylland også.
+Til slut vil jeg bare lige nævne, at som det meste af det, Enhedslisten fremlægger, er også det
+her forslag ufinansiéret. For Dansk Folkeparti er
+det ikke fuldstændig uinteressant, hvordan der
+tilvejebringes 1 mia. kr., som den tidligere trafikminister havde beregnet anlægsudgifterne til. Så
+trods forslagsstillernes mange gode intentioner
+kan vi ikke tilslutte os beslutningsforslaget.";Kim Christiansen
+145850;Time;;Kl. 15:21
+145885;title_name;":
+Der er en kort bemærkning fra hr. Benny Engelbrecht.";Søren Espersen
+145949;Time;;Kl. 15:22
+145971;name_party;":
+Man kan næsten tolke hr. Kim Christiansens udtalelser, som om der her var tale om en rent lokal
+sag. Vil hr. Kim Christiansen ikke give mig ret i,
+at en styrkelse af det store H og en styrkelse af
+
+Tirsdag den 22. januar 2008 (B 24)
+portene til Europa er to væsentlige konklusioner
+i Infrastrukturkommissionen rapport, som også
+betyder en styrkelse af hele Danmarks infrastruktur?";Benny Engelbrecht
+146364;Time;;Kl. 15:22
+146399;title_name;":
+Ordføreren.";Søren Espersen
+146422;Time;;Kl. 15:22
+146444;name_party;":
+Jo, det vil jeg give hr. Benny Engelbrecht ret i.
+Jeg tror også, jeg pointerede meget i min ordførertale, at det netop ikke kun var et lokalt problem, men at det var en del af hele den samlede
+danske infrastruktur, som vi gerne vil være med
+til at kigge på.";Kim Christiansen
+146713;Time;;Kl. 15:22
+146748;title_name;":
+Hr. Benny Engelbrecht.";Søren Espersen
+146782;Time;;Kl. 15:22
+146804;name_party;":
+Jeg kan jo ikke undlade samtidig at bemærke hr.
+Kim Christiansens holdning i forhold til prioritering af det her spørgsmål. Den tidligere ordfører hr. Walter Christophersen, udtalte under
+valgkampen i november til Ritzaus Bureau, at
+han ønskede en række projekter på jernbanen
+gennemført hurtigst muligt, og blandt de projekter nævnte han dobbeltspórene i Sønderjylland. Jeg vil godt spørge ind til, om det stadig
+væk er sådan, Dansk Folkepartis prioritering er?
+Og er det et valgløfte, som man kan stå ved?";Benny Engelbrecht
+147323;Time;;Kl. 15:23
+147358;title_name;":
+Ordføreren.";Søren Espersen
+147381;Time;;Kl. 15:23
+147403;name_party;":
+Vi vil stå ved valgløftet så langt, at Sønderjylland har en høj prioritet. Det har, som jeg nævnte i min ordførertale, Nordjylland også, altså den
+strækning nord for Aalborg, hvor man også
+mangler dobbeltsporet, og det har Sønderjylland. Så det er fuldstændig korrekt udtrykt af
+min kollega i valgkampen, at vi i Dansk Folkeparti vil prioritere de her strækninger, men om
+det bliver Sønderjylland frem for det ene eller
+det andet, må vi se, når den færdige investeringsplan foreligger.
+I øvrigt anbefaler Infrastrukturkommissionen
+også, at vi skal tilsidesætte de her lokalpolitiske
+interesser og sætte ind der, hvor behovet er
+størst. Hvis analyser viser, at det er i Sønderjylland, er det der, vi sætter ind.
+
+1075";Kim Christiansen
+148132;Time;;Kl. 15:23
+148167;title_name;":
+Tak til ordføreren. Der er ikke flere bemærkninger. Den næste ordfører er hr. Jesper Petersen.";Søren Espersen
+148273;Time;(Ordfører);Kl. 15:24
+148305;name_party;":
+Jernbanen oplever en renæssance, desværre ikke
+i Danmark, men ude i Europa. Der bliver bygget
+nye jernbaner, og der kører så gode og hurtige
+tog, at de er i stand til at udkohkurrere såvel fly
+som bil. Trængselsproblemer gør det sværere og
+sværere at få afviklet såvel fly- som biltrafikken,
+og klimaforandringerne kræver, at vi får vekslet
+biltransport til mere af den miljøvenlige togtransport.
+Det er på høje tid, at Danmark kommer op i
+gear. Den nuværende regering har ikke truffet
+beslutning om en eneste jernbane, siden den
+trådte til i 2001. Det er nødvendigt, at der nu
+træffes beslutning om anlæg af både nye jernbaner og opgradering af de eksisterende baner. Et
+af de vigtige steder at tage fat er dobbeltsporet
+fra Vamdrup til den dansk-tyske grænse. Folketinget vedtog sådan set at anlægge dobbeltsporet i 1993. Dengang stemte alle partier undtagen
+Fremskridtspartiets 6 mandater for. Alle kunne
+se det nødvendige i at anlægge et ekstra spor fra
+Vamdrup og ned til grænsen. Problemet er bare,
+at beslutningen kun blev ført halvt ud i livet.
+Anden etape blev aldrig gjort færdig, så på
+strækningerne Vojens-Vamdrup og Tinglev-Padborg er der i dag kun ét spor. Der er gjort klar til
+det ekstra spor. Der er plads. Ledningerne på
+den elektrificerede bane er der, og nu får Folketinget så igen mulighed for at rette op på fortidens synder og tage fat på de udfordringer, Infrastrukturkommissionen peger på, og som vi
+allerede står midt i.
+Jeg har med glæde noteret, at Venstres gruppeformand, hr. Hans Christian Schmidt, og andre Venstrefolketingsmedlemmer som fru Ellen
+Trane Nørby, hr. Preben Rudiengaard, hr. Peter
+Christensen m.fl. har garanteret, at de og Venstre vil støtte dobbeltsporet, og det er også kommet frem i dag fra hr. Jacob Jensen, at det simpelt hen er erklæret Venstrepolitik. Jeg håber, at
+borgerne kan regne med Venstres gamle slogan,
+som jeg skal glæde Venstre med at gentage her
+fra talerstolen, om, at med Venstre så bliver det
+til noget.
+Det glæder mig også, at hr. Jacob Jensen er
+glad for sin svigerfamilie i Sønderborg og derfor
+har et incitament til faktisk at få forkortet rejseti-
+
+1076
+
+Tirsdag den 22. januar 2008 (B 24)
+
+den dernedtil. Det kunne jo have været omvendt, det har man hørt om før, men i dette tilfælde er det heldigvis - båce for hr. Jacob Jensen
+og måske også for den danske infrastruktur rigtig godt, at der er glæde for svigerfamilien
+hos hr. Jacob Jensen.
+Det er nødvendigt at anlægge de to stykker
+spor for at øge kapaciteten på strækningen. Den
+nuværende flaskehals giver forlængede rejsetider, ekstra risiko for forsinkelser og kapacitetsmangel på banen i forhold til forbedringer af
+togservicen og mulighederne for godstransport
+til og fra Tyskland via jernbanen. Der betales på
+strækningen i dag høje kapacitetsafgifter pr. tog
+på grund af flaskehalsen, og det fremmer jo ikke
+ligefrem rentabiliteten ved at køre tog på strækningen, selv om vi har så akut behov for at få
+mere transport over på jernbanen for at mindske
+C02-udslippet og for at mindske trængslen på
+vejene.
+Skal vi gøre noget ved trængselsproblemerne
+på motorvejene og ikke mindst den hektiske E
+45 til Tyskland med store mængder godstransport og leve op til regeringens udmærkede målsætning eller pejlemærke, eller hvad vi fandt
+frem til i den forrige debat om at sænke C02-udslippet fra transportsektoren med 25 pct. inden
+2030, så er jernbanerne afgørende og dobbeltsporet i Sønderjylland et vigtigt sted at komme i
+gang.
+Godsmængderne, der transporteres ud og ind
+af Danmark gennem Sønderjylland, er hastigt
+voksende, og også Infrastrukturkommissionen
+peger på de to enkeltsporede strækninger som
+alvorlige flaskehalse på jernbanen. Med et dobbeltspor kan vi åbne porten til Europa og indføre timedrift til Hamborg og Sønderborg, vi kan
+skabe bedre muligheder for, at virksomhederne
+kan fragte deres varer ud til markederne i Europa eller importere varer til Danmark. Ganske
+vist er naturen nord for Vojens ganske køn at se
+på, når man holder der og venter på vigesporet,
+men borgerne betaler deres dyrt købte togbilletter i håb om at nå hurtigt og pålideligt frem, ikke
+for at komme på en sønderjysk safaritur med
+gratis udsigtsstop syd for Vamdrup.
+Af alle de her grunde har vi i SF i samarbejde
+med Socialdemokraterne og Enhedslisten fremsat et særskilt forslag om, at dobbeltsporet skal
+anlægges, så det ikke er de yderligere ting omkring Tinglev-Tønder i det her forslag, der skal
+stå i vejen for det.
+Vi må rigtigt nok se nærmere på perspektiverne i elementerne i forslaget, men SF vil stem-
+
+me for. Vi vil ikke stemme imod at forbedre og
+anlægge dobbeltsporet. Vi skal have de udeståender løst, der er der nu, så vi kan varmt støtte
+at anlægge dobbeltsporet og rette op på fortidens synder om manglende indfrielse af de ting,
+der allerede er vedtaget tilbage i 1993.";Jesper Petersen
+153127;Time;;Kl. 15:28
+153162;title_name;":
+Der er en kort bemærkning fra hr. Jacob Jensen.";Søren Espersen
+153221;Time;;Kl. 15:28
+153238;name_party;":
+Jeg skal bare kort spørge ordføreren, om ikke
+ordføreren er enig i, at når man taler om infrastruktur og investeringer i det hele taget, så må
+man også foretage en prioritering.
+Derfor vil jeg spørge, om SF har lagt sig fast
+på en prioritering i forhold til de forhandlinger,
+vi skal i gang med her senere på året, når regeringen kommer med sit forslag til en investeringsplan. Har det forslag om et dobbeltspor
+gennem Sønderjylland første prioritet for SF?";Jacob Jensen
+153707;Time;;Kl. 15:29
+153742;title_name;":
+Ordføreren.";Søren Espersen
+153765;Time;;Kl. 15:29
+153786;name_party;":
+Når der skal prioriteres, og det skal der, det er
+jeg fuldstændig enig med hr. Jacob Jensen i, er
+det jo sådan, at det i sidste ende afhænger af,
+hvor mange ressourcer man har til rådighed. SF
+har faktisk fremlagt en jernbaneplan, hvor der
+som en del af prioriteringen er råd til at anlægge
+dobbeltsporet.
+Det er jo det, der er et af de store problemer
+her: Venstre kan godt komme og sige, at de støtter dobbeltsporet, og at de i øvrigt altid har gjort
+det siden 1993, hvor de stemte for, at det skulle
+anlægges. Men det er svært at være imponeret,
+når der ikke rigtig sker noget. Det håber jeg at
+der vil gøre nu.
+Et af problemerne er jo, at der ikke afsættes
+penge nok. Det har vi i SF gjort i vores plan, og
+jeg håber, at også Venstre vil se nødvendigheden
+af at øge investeringerne i infrastrukturen i Danmark, så der også er råd til en prioritering som
+det meget vigtige dobbeltspor ned igennem
+Sønderjylland, der naturligvis skal foretages,
+sammen med andre vigtige infrastrukturinvesteringer i Danmark.";Jesper Petersen
+154807;Time;;Kl. 15:30
+154842;title_name;":
+Tak til ordføreren. Den næste ordfører er fru
+Henriette Kjær.
+
+Tirsdag den 22. januar 2008 (B 24)";Søren Espersen
+154952;Time;(Ordfører);Kl. 15:30
+154983;name_party;":
+Det her er jo en sag, som vi har behandlet før her
+i Folketinget, og ligesom sidst vi behandlede
+det, vil jeg sige, at vi Konservative faktisk er indstillet på og kan se ideen i at få et dobbeltspor på
+strækningen Vamdrup-Vojens og Tinglev-Padborg. Heldigvis, kan man sige, er der mange, der
+gerne vil køre med tog på netop den strækning,
+og det betyder så også, at trafikken fra tid til anden sander til, hvilket igen betyder, at der kommer forsinkelser og manglende regularitet. Derfor er vi Konservative også meget optaget af, at
+der bliver fundet en løsning, hvor vi får etableret
+dobbeltspor på den strækning.
+Nu diskuteres det jo meget - det gør det også
+i Infrastrukturkommissionens rapport - at der
+skal være en god forrentning i de projekter, man
+laver: at der skal være en god samfundsøkonomi i de anlæg, som vi beslutter os for her i Folketinget, og det tror jeg også man vil kunne se at
+der vil være, netop når vi taler Vamdrup-Vojens
+og Tinglev-Padborg. Jeg er mere i tvivl, når vi taler om opgradering af sidebanen Tinglev-Tønder. Men det er jo noget af det, vi må se nærmere
+på.
+Men som sagt skal der også være tog til tiden
+i Sønderjylland, og derfor er det vigtigt, at vi
+prøver at komme videre med det her forslag.
+Men det, som vi Konservative sætter os lidt
+imod - og det er sådan set årsagen til, at vi også
+siger nej til beslutningsforslaget, som det ligger
+her - er, at det er et fuldstændig ufinansieret beslutningsforslag, man kommer med. For det er
+jo ikke småpenge, vi taler om: det er meget, meget dyrt. Hele pakken, hvis man kan kalde beslutningsforslaget det, koster jo omkring 1 mia.
+kr. - eller for at tage det, som flest har talt for,
+nemlig at etablere dobbeltspor mellem Vamdrup
+og Vojens og mellem Tinglev og Padborg: Det vil
+ifølge Enhedslistens og ministeriets godt nok
+lidt ældre oplysninger koste omkring 600 mio.
+kr.
+Det er jo klart, at de penge skal findes, og det
+skal ses i en større sammenhæng i forhold til,
+hvordan vi i øvrigt ønsker at det trafikale landkort skal se ud. Derfor må proceduren være den,
+at alle de forskellige partier jo må melde ind, når
+vi nu skal til at lave en ny trafikinvesteringsplan, hvad der er på deres ønskeliste, og hvordan det her skal prioriteres - og jeg håber da bestemt, at dobbeltsporet mellem Vamdrup og Vojens vil finde en plads i den plan.
+
+1077
+
+Men det er i det regi, det skal foregå: Det er
+også der, man skal blive enige om en finansiering af den her meget store investering. Det kan
+vi ikke bare stå og sige ja til her i Folketingssalen
+på baggrund af et beslutningsforslag fra Enhedslisten.";Henriette Kjær
+157574;Time;;Kl. 15:33
+157609;title_name;":
+Der er nogle korte bemærkninger, og den første
+er fra hr. Benny Engelbrecht.";Søren Espersen
+157697;Time;;Kl. 15:33
+157719;name_party;":
+Tak til ordføreren. Jeg må lige komme med en
+korrektion af passagertallet. Det er nemlig sådan, at den manglende regularitet, der har været
+på de sønderjyske strækninger, ikke mindst på
+grund af DSB's sommerkøreplan, rent faktisk
+har ført til, at der har været en voldsom nedgang
+i passagertallet, og det er netop også derfor, at
+dette er en sag, som nyder stor opmærksomhed.
+Så vil jeg høre ordføreren, om man er interesseret i at fremme et forslag alene omhandlende
+dobbeltspor. Fru Henriette Kjær får nævnt, at
+man håber, at det her vil indgå i en investeringsplan, men der er jo langt fra et håb og til, at De
+Konservative rent faktisk vil gå ind og støtte, at
+den her sag kommer med i en investeringsplan.";Benny Engelbrecht
+158441;Time;;Kl. 15:34
+158476;title_name;":
+Ordføreren.";Søren Espersen
+158499;Time;;Kl. 15:34
+158519;name_party;":
+Jeg kan ikke støtte et beslutningsforslag her i
+Folketingssalen, der er revet ud af en sammenhæng og er uden finansiering, heller ikke, hvis
+det skulle komme i en slankere udgave med færre spor fra Socialdemokraterne. Det er noget, der
+skal drøftes over et bord hos ministeren, hvor vi
+skal blive enige om, dels hvordan den langsigtede investeringsplan skal se ud, dels hvordan vi
+finder pengene til den.";Henriette Kjær
+158935;Time;;Kl. 15:34
+158970;title_name;":
+Hr. Benny Engelbrecht.";Søren Espersen
+159004;Time;;Kl. 15:34
+159026;name_party;":
+Det besvarer jo så ikke spørgsmålet, jeg stillede
+ordføreren, om man alene vil håbe, at dette kommer med i en investeringsplan, eller om man vil
+arbejde aktivt for, at det kommer med. Jeg er sikker på, at ordføreren også er bekendt med, at det
+tidligere medlem af Folketinget hr. Allan Niebuhr netop har arbejdet hårdt for denne sag og
+
+1078
+
+Tirsdag den 22. januar 2008 (B 24)
+
+bl.a. i valgkampen også har været ude at give
+nogle løfter med hensyn til dobbeltsporet.";Benny Engelbrecht
+159506;Time;;Kl. 15:35
+159541;title_name;":
+Så er det ordføreren.";Søren Espersen
+159574;Time;;Kl. 15:35
+159594;name_party;":
+Jeg er da helt overbevist om, at i hvert fald dele
+af det her beslutningsforslag vil være noget, som
+vi vil bringe med til forhandlingsbordet, men jeg
+vil ikke stå og forhandle her. Vi skal have lavet
+en plan i den konservative gruppe: der er mange
+ønsker, og de afhænger jo meget af, hvor man er
+valgt. Det er klart, at det er der, hvor man er
+valgt, at trafikproblemerne ligger forrest på nethinden, så det bliver selvfølgelig et puslespil,
+som det er svært at få til at gå op, men der er
+gode argumenter for, at man i hvert fald begynder med at få lavet et dobbeltspor mellem Vamdrup og Vojens.";Henriette Kjær
+160203;Time;;Kl. 15:35
+160238;title_name;":
+Der er en kort bemærkning fra hr. Jesper Petersen.";Søren Espersen
+160300;Time;;Kl. 15:35
+160321;name_party;":
+Også til De Konservatives ordfører vil jeg gerne
+kvittere for opbakningen og for, at De Konservative også kan se fornuften i og det vigtige i at få
+anlagt dobbeltsporet på de to strækninger, hvor
+det mangler. Jeg kan forstå, at det så ikke bare er
+enkelte konservative politikeres synspunkter i
+valgkampen, men simpelt hen Det Konservative
+Folkepartis politik, at det er en mangel, at det
+dobbeltspor ikke er blevet anlagt for lang tid siden.
+Det, vi så når frem til, handler igen om prioritering. Det er det, som både De Konservative og
+Venstre har henholdt sig til. Vil det sige, at fru
+Henriette Kjær i dag siger og medgiver, at regeringen simpelt hen har afsat for få midler, siden
+den kom til i 2001, til at investere i infrastrukturen, siden der ikke er råd til at gennemføre et
+forslag, der også for De Konservative står så
+indlysende klart som en nødvendighed?";Jesper Petersen
+161201;Time;;Kl. 15:36
+161236;title_name;":
+Vi skal huske at overholde taletiderne. Så er det
+ordføreren.";Søren Espersen
+161309;Time;;Kl. 15:36
+161329;name_party;":
+Nej, det var så ikke lige det, jeg sagde. Jeg synes
+da også, at det er imponerende - for det er det,
+jeg kan udlede af spørgsmålet - at SF sådan set
+
+mener, at alt godt fra havet skal vi bare sige ja til
+uden at tænke på, hvor pengene skal komme
+fra, og uden at tænke på, at vi også har et sundhedsvæsen og en ældresektor og andre ting,
+som kræver store investeringer og mange penge. Det er jo det, der er det svære herinde: Det er
+den øvelse med at få det hele til at gå op i en højere enhed. Og som hr. Jacob Jensen, Venstres
+ordfører, også nævnte, er der mange andre og
+relevante ønsker om at få opgraderet bl.a. Nordvestbanen og om at få bygget en ny forbindelse
+for at få øget kapaciteten København-Ringsted
+osv. Der er mange ønsker, og vi må tage dem i
+den takt, hvormed vi kan finde pengene.";Henriette Kjær
+162139;Time;;Kl. 15:37
+162174;title_name;":
+Hr. Jesper Petersen.";Søren Espersen
+162206;Time;;Kl. 15:37
+162227;name_party;":
+Jeg skal undskylde, at jeg brugte lidt for lang tid.
+Det øjeblik formanden rejste sig, afsluttede jeg
+talen. Jeg skal nok holde øje med tiden.
+Vi er ved prioriteringerne, og der må jeg gentage, at SF faktisk har fremlagt en jernbaneplan,
+hvor vi har angivet finansiering af bl.a. anlæggelsen af dobbeltsporet ned gennem Sønderjylland. Vi vil gerne tage ansvar for økonomien, vi
+er økonomisk ansvarlige, vi finansierer de forslag, vi kommer med, også når det handler om
+trafikken og om at få anlagt det her manglende
+dobbeltspor.
+Det bringer mig så frem til et spørgsmål. Der
+har ikke været penge nok, det er det, det ligesom
+lander på, synes jeg. Kan fru Henriette Kjær så
+bekræfte, at regeringen i sin iver for at give skattelettelser, hvilket jo er en konservativ mærkesag, har udhulet investeringerne i den offentlige
+transport?";Jesper Petersen
+163070;Time;;Kl. 15:38
+163105;title_name;":
+Ordføreren.";Søren Espersen
+163128;Time;;Kl. 15:38
+163148;name_party;":
+Nej, det kan jeg ikke på nogen måde. For mens
+SF har gået rundt og hygget sig herovre i Folketingssalen, har forligskredsen bag trafikforliget
+faktisk fundet og afsat 4,7 mia. kr. til en genopretning af hele skinnenettet. Det synes jeg er en
+meget vigtig investering, og derfor er det her
+også noget, vi prioriterer meget højt og er meget
+parate til at afsætte penge til. Men som jeg også
+sagde, skal vi se på, hvad forrentningerne er i de
+forskellige projekter. Det skal ses i en større sammenhæng, og derfor kaster vi os altså ikke bare
+
+Tirsdag den 22. januar 2008 (B 24)
+ud i at slå til søren, hver gang der kommer et beslutningsforslag fra Enhedslisten eller SF.";Henriette Kjær
+163828;Time;;Kl. 15:39
+163863;title_name;":
+Der er ikke flere bemærkninger. Tak til fru Henriette Kjær. Næste ordfører er fru Bente Dahl.";Søren Espersen
+163968;Time;(Ordfører);Kl. 15:39
+163995;name_party;":
+Den radikale trafikordfører kan ikke være til stede i dag. Derfor er det mig, der er ordfører på
+B 24.
+Det Radikale Venstre finder dette beslutningsforslag sympatisk. Intentionen med dobbeltsporet mellem Vamdrup og Vojens og mellem Tinglev og Padborg er uhyre sympatisk,
+hvilket vist også fremgår af de spørgsmål, jeg
+har stillet andre ordførere. Derimod er vi ikke
+helt enige i, at opgraderingen af sidebanen Tinglev-Tønder er aktuel her og nu.
+Den sønderjyske infrastruktur er i en ikke
+særlig god stand. Vi er i 2008, og den lader meget tilbage at ønske. Det er ikke kun dobbeltsporet, vi mangler i Sønderjylland. Der er også andre tiltag, der råber på at blive taget, på forskellige områder. Sønderjylland er hele landets port
+til Europa. Det er ikke kun et lokalområde, det
+er det også, men det er også porten til Europa Femernbro eller ej. Det er i hele landets interesse, at den bane bliver bedre i Sønderjylland. Vi
+vil gerne se samlet på en sammenhængende trafikpolitik, både lokalt og nationalt. Tingene
+hænger sammen. I Det Radikale Venstre vil vi
+også gerne se på finansieringen. Vi er med i trafikforliget, og vi laver ikke noget, uden at vi har
+sørget for, at det kan finansieres.
+Vi kan ikke støtte det her beslutningsforslag,
+sådan som det er fremsat. Vi så gerne en samlet
+trafikpolitik på området.";Bente Dahl
+165322;Time;;Kl. 15:41
+165357;title_name;":
+Tak til ordføreren. Den næste ordfører er hr. Anders Samuelsen.";Søren Espersen
+165432;Time;(Ordfører);Kl. 15:41
+165465;name_party;":
+Som det er fremgået af debatten i dag, er der helt
+utvivlsomt et stort behov for, at der bliver gjort
+noget ved den problemstilling, som er blevet
+rejst af Enhedslisten i dag. Ny Alliance vil se meget positivt på netop dette spørgsmål i forbindelse med de kommende forhandlinger om en
+samlet plan for infrastrukturens udvikling i
+Danmark. Men vi mener, at det er helt urimeligt
+
+1079
+
+at tage stilling til et enkelt konkret forslag helt
+ude af en sammenhæng. Hvis vi skulle være
+sagsbehandlere på den måde i Folketingssalen,
+kunne vi ikke bestille andet end at blive taget
+som gidsler i forskellige regionale mærkesager.
+Det betyder ikke, at vi ikke ønsker at prioritere
+den her sag. Det gør vi, og vi vil tage den med
+og se, om vi kan få den passet ind i de kommende forhandlinger, som tager udgangspunkt i et
+helhedssyn i stedet for blot at tage en enkelt sag
+ud.
+Så derfor kan vi ikke støtte forslaget.";Anders Samuelsen
+166382;Time;;Kl. 15:42
+166417;title_name;":
+Tak til hr. Anders Samuelsen. Så er det hr. Per
+Clausen som ordfører for forslagsstillerne.";Søren Espersen
+166520;Time;(Ordfører for forslagstillerne);Kl. 15:42
+166569;name_party;":
+Jeg skal starte med at takke for en, synes jeg,
+ganske udmærket debat. Det er vel sjældent, at
+så mange politikere fra så mange forskellige partier finder anledning til at omtale Enhedslistens
+forslag som sympatisk, og nogle brugte måske
+endda endnu pænere ord. Det er vi selvfølgelig
+meget glade for, og jeg vil også sige, at vi i Enhedslisten sådan set ikke er uenige i det synspunkt, mange også har fremført, nemlig at det er
+fornuftigt at gennemføre en prioritering, hvor
+man går til beslutningerne ud fra et helhedsindtryk.
+På den anden side synes vi også, at det indimellem - også her i Folketingssalen - kan være
+fornuftigt at få nogle diskussioner af de konkrete forslag, der ligger, til forbedringer af infrastrukturen, sådan at forløbet ikke bare bliver sådan, at først kommer der en plan fra regeringen,
+så foregår der nogle hemmelige forhandlinger,
+så træffes der en afgørelse, og derefter er der intet at diskutere i en årrække, for nu har man jo et
+forlig, hvorefter man gentager øvelsen. Så det er
+en af baggrundene for, at vi har fremsat dette og
+også andre forslag på jernbaneområdet.
+En anden begrundelse for, at vi fremsætter
+dette og andre forslag på jernbaneområdet, er jo
+et ønske om at synliggøre, hvad det er for nogle
+investeringer, vi har brug for at foretage på jernbaneområdet, hvor vigtige de er, og hvilke problemer de kan medvirke til at løse. Så vores forslag indgår selvfølgelig i en helhed, men er også
+udtryk for, at vi faktisk synes, det er godt, at
+man også får en debat om en række konkrete
+forslag. Det, der er det gode ved det her, er jo, at
+diskussionen i dag meget tydeligt har vist, at
+
+1080
+
+Tirsdag den 22. januar 2008 (B 24)
+
+den indsats, mennesker i Syd- og Sønderjylland
+yder for at fokusere på denne problemstilling,
+ikke er spildt, og at man rolig kan fortsætte. For
+man skal vel også nok huske på, at det godt kan
+være, at politikerne fra næsten alle partier i dag
+er meget positivt indstillet over for det, der
+handler om dobbeltsporene, men de udsættes jo
+dagligt for påvirkning fra mange andre sider, så
+opmærksomheden skal nok fastholdes.
+Det tredje argument for at fremsætte dette
+forslag er sådan set, at vi opfatter en forbedring
+af jernbanedriften, bedre tog og en anvendelse
+af skinner til både transport af mennesker og
+gods som en af de centrale løsningsmodeller i
+forbindelse med at få reduceret C02-udslippet i
+Danmark. Derfor mener Enhedslisten, at hvis vi
+styrker togtrafikken, kan vi bidrage til en samlet
+nedsættelse af miljøpåvirkningen fra transportsektoren og dermed bidrage til at undgå klimaforandringerne. Det kræver generelt mindre
+energi og forurener mindre pr. kilometer at
+transportere en person eller 1 t gods med jernbane end med bil eller fly. Og større markedsandele til den kollektive trafik giver samtidig en bedre belægning på de enkelte afgange og dermed
+en mere effektiv udnyttelse af energien. Der er jo
+også ud fra et trafiksikkerhedsmæssigt synspunkt store fordele ved at flytte trafik fra vej til
+bane. Så der er altså en række generelle grunde
+til at fokusere på jernbanedriften.
+Så er der selvfølgelig også nogle grunde til, at
+det er særlig vigtigt at fokusere på flere skinner i
+Sønderjylland. Som det også er fremgået af mange af spørgsmålene i dag, eksisterer der allerede
+i dag en række problemer med forsinkelser og
+langsom togdrift, hvilket hænger sammen med,
+at man ikke har dobbeltspor. Enhver, der bor i et
+område, hvor der kun er enkeltspor, vil vide, at
+forsinkelser virkelig eksploderer, når der er tale
+om, at man kun har enkeltspor i stedet for dobbeltspor. Og det er jo et af de meget store problemer, at små uregelmæssigheder bliver til store
+uregelmæssigheder.
+Derimod ved man også, at de prognoser, der
+er for, hvordan transporten udvikler sig i de
+kommende år - både hvis man udelukkende ser
+på de forventninger, der er til en øget godstrafik,
+og hvis man ser på de forventninger, der er til en
+øget passagertrafik - viser, at de kapacitetsmuligheder, der stadig væk er på det syd- og sønderjyske skinnenet, relativt hurtigt vil være opbrugt. Og det betyder så, at situationen med de
+mange forsinkelser, som man allerede ser nu,
+yderligere vil blive forstærket.
+
+Der er jo ikke nogen tvivl om, at der, når man
+snakker om godstrafikken og behovet for at
+etablere dobbeltspor i Syd- og Sønderjylland, jo
+også er tale om at løse en udfordring, et problem, som vedrører mange andre mennesker og
+mange virksomheder også andre steder i Danmark end i Syd- og Sønderjylland. I hvert fald
+foregår der jo hele tiden, helt op til Hirtshals, en
+løbende debat om, hvordan man kan få mere af
+det gods, der skal transporteres ned til Tyskland
+og måske endda længere ned i Europa, over på
+jernbane. Her er det jo et afgørende problem, at
+den godstrafik, der skal være, både skal være til
+at regne med, og at den skal foregå betydelig
+hurtigere, end den gør i dag. Og der spiller udbygningen af den sønderjyske længdebane til
+dobbeltspor en meget, meget vigtig rolle.
+Konsekvensen af, at man ikke gør det her, bliver, at man risikerer at få mindre gods på bane hvilket jo er modsat et fælles politisk ønske - og
+dermed en yderligere belastning i form af lastbiler, og det synes vi i hvert fald ville være en meget uheldig og Ulykkelig situation. Det samme
+kan selvfølgelig siges om persontrafikken, hvor
+der er hensynet til den lokale pendlertrafik, og
+det er jo meget vigtigt at sikre den ordentlige vilkår, sikre regelmæssighed i driften og skabe sikkerhed for, at togene faktisk kører: når de skal
+køre.
+Men det er også et spørgsmål om internationalt set at gøre togdrift til et langt mere attraktivt alternativ til flytrafikken, end det er i dag,
+for der er jo heller ikke nogen tvivl om, at flytrafikken er en af de store C02-syndere. Hvis man
+kan lave attraktive togforbindelser ned gennem
+Jylland og ned til Tyskland og længere sydpå,
+vil det også repræsentere et godt alternativ til
+flytrafikken. Det er jo lige præcis sådan, at hvis
+man både skal have gods, pendlertrafik og tog,
+der kommer hurtigt frem over længere afstande,
+så er det en absolut betingelse, at man har et
+dobbeltspor.
+Det er jo sådan den del af det, hvor der har
+været meget stor tilslutning til hovedsynspunkterne. Der har været diskussion om, på hvilket
+tidspunkt beslutningerne skal træffes, og det,
+man vel bare må sige til folk i Syd- og Sønderjylland, er, at de skal være opmærksomme på, at
+beslutningen formentlig bliver truffet, før den
+bliver offentliggjort. Så der er god grund til at
+følge opmærksomt med i tingene.
+Der har også været snakket om finansiering,
+og for en god ordens skyld skal jeg bare sige, at
+Enhedslisten i sit finanslovforslag altid får fi-
+
+(136)
+Tirsdag den 22. januar 2008 (B 24)
+nansieret alle sine forslag og har solidt overskud, så det er ikke, fordi vi mangler bud på finansiering. Men vi har nok den grundopfattelse,
+at hvis man er enig om, at det her er noget, der
+skal igennem, er det fornuftigt, at man ud fra det
+starter en diskussion om finansieringen, og det
+ser vi da også frem til i de forhandlinger, der
+måtte komme, om en samlet infrastrukturplan.
+Jeg er sikker på, at hvis alle havde lige så beskedne ambitioner, som vi har, når det handler
+om motorveje og motorvejsudbygning, så ville
+der være råd til ganske megen udbygning af
+skinnenettet: måske også mere, end man sådan
+umiddelbart kunne forestille sig.
+Til den sidste del af vores forslag, der handler
+om Tinglev-Tønder: Man kan vel sige, at det er
+skæbnen for mange mindre udkantsområder,
+som det jo hedder, at når den store prioritering
+kører, snakker man ikke om den slags, og når
+den store prioritering er gennemført, er det
+glemt. Vi har taget det med i vores forslag i dag,
+fordi vi synes, det er vigtigt også at få snakket
+om den strækning, fordi vi sådan set mener, at
+der er behov for både passager- og godstog på
+den strækning. Det har jo også været et ønske,
+som såvel Tønder Kommune som det nu nedlagte Sønderjyllands Amt har givet udtryk for.
+Delstatsregeringen i Slesvig-Holsten har også givet udtryk for et ønske om, at strækningen ikke
+nedlægges, da man mener, at den kan indgå i et
+regionalt koncept for jernbanetransport. Der har
+også været meldinger fra Arrivas side om, at
+man i en vis udstrækning havde brug for at bruge den til at transportere passagerer til sygehuset i Tønder, som ligger i Tønder Øst.
+Så der er en række behov her, som man gerne
+vil have opfyldt. Vi synes derfor, det er positivt,
+at der også i forbindelse med det her forslag har
+været partier, som har givet udtryk for, at også
+
+1081
+
+den del af vores forslag skal med i de videre forhandlinger, de videre drøftelser. Det er vores
+klare opfattelse, at vel kan det være rigtigt, at
+det kan være svært at huske, at der er noget, der
+hedder en Tønder-Tinglev-bane, når man snakker om, hvordan man skal føre en bane over
+Køge og løse nogle af de meget store problemer,
+der er i Københavnsområdet. Men store problemer for relativt få mennesker skal man ikke altid
+glemme, fordi der er nogle store problemer for
+mange mennesker, der skal løses.";Per Clausen
+175592;Time;;Kl. 15:52
+175627;title_name;":
+Tak til ordføreren. Da der ikke er flere, der har
+bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Trafikudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+홢";Søren Espersen
+175891;Time;Meddelelser fra formanden;Kl. 15:52
+175952;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen,
+onsdag den 23. januar 2008, kl. 13.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.
+Mødet er hævet. (Kl. 15.52).";Søren Espersen

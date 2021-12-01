@@ -1,0 +1,1960 @@
+split;reason;text;value
+0;;"3491
+
+6/12 91: Dagsorden
+
+- '
+
+3492
+
+(Lovforslag nr. L 139).
+
+29. møde";
+108;Time;"Dagsorden:
+1) Anden behandling af lovforslag nr. L 106:
+Forslag til færdselslov for Grønland.
+Af justitsministeren (Engell).
+2) Første behandling af lovforslag nr. L 132:
+Forslag til lov om ændring af lov om social
+bistand. (Udskydelse af revisionsbestemmelser).
+Af socialministeren (Else Winther Andersen).
+3) Første behandling a f lovforslag nr. L 127:
+Forslag til lov om ophævelse af lov om erstatning for skader ved LSD-behandling og om
+ændring af ligningsloven.
+Af sundhedsministeren (Ester Larsen).
+4) Første behandling af lovforslag nr. L 128:
+Forslag til lov om ændring af lægeloven.
+(Bestemmelser om information og samtykke).
+Af sundhedsministeren (Ester Larsen).
+5) Første behandling af beslutningsforslag nr. B
+25:
+Forslag til folketingsbeslutning om oprettelse af Danmarks Teknologi- og Udviklingsfond.
+Af Nyrup Rasmussen (S) m.fl.
+
+Meddelelser fra formanden:";kl. 10.00
+993;title_name;"Medlemmer af Folketinget Villy Søvndal
+(SF), Gade (SF) og Jens Thoft (SF) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til lov om ændring a f lov om beskatning til kommunerne a f faste ejendomme.
+
+Medlemmer af Folketinget Grete Schødts
+(S), Jytte Hilden (S), Jørn Pedersen (S), Bente
+Juncker (CD), Mimi Jakobsen (CD) og Arne
+Melchior (CD) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand og lov om social pension. (Ret til ophold
+på plejehjem m-v. i en anden kommune).
+(Lovforslag nr. L 144).
+Medlemmer af Folketinget Villy Søvndal
+(SF), Pernille Frahm (SF), Gade (SF) og Hanne Thanning Jacobsen (SF) har meddelt
+mig,
+I
+at de ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand.
+(Lovforslag nr. L 151).
+Skriftlig fremsættelse af orslag:";Formanden
+1856;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om beskatning til kommunerne af faste ejendomme.
+(Lovforslag nr. L 139).
+Jeg skal i øvrigt henvise til lovforslagets
+tekst og de bemærkninger, der ledsager det, og
+anbefaler det til Tingets velvillige behandling.";Villy Søvndal
+2195;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand og lov om social pension. (Ret til ophold
+på plejehjem m.v. i en anden kommune).
+(Lovforslag nr. L 144).
+Jeg skal i øvrigt henvise til lovforslagets
+tekst og de bemærkninger, der ledsager det, og
+anbefaler det til Tingets velvillige behandling.";Grete Schødts
+2585;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand.
+(Lovforslag nr. L 151).
+
+3493
+
+6/12 91: Skriftlig fremsættelse";Villy Søvndal
+2794;title_name;"Jeg henviser i øvrigt til de bemærkninger,
+der ledsager lovforslaget, og anbefaler det til
+Tingets velvillige behandling.
+Den første sag på dagsordenen var:
+1) Anden behandling af lovforslag nr. L 106:
+Forslag til færdselslov for Grønland.
+Af justitsministeren (Engell).
+(Fremsat 7/11 91. Første behandling 19/11
+91. Betænkning 21/11 91).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet
+om dets overgang til tredje behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1-76
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Villy Søvndal
+3431;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 132:
+Forslag til lov om ændring af lov om social
+bistand. (Udskydelse af revisionsbestemmelser).
+Af socialministeren (Else Winther Andersen).
+(Fremsat 27/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+3941;name_party;":
+
+3494
+
+Socialdemokratiet kan tilslutte sig lovforslaget.";Pernille Forchhammer
+4025;name_party;":
+Vi kan i den konservative gruppe støtte det
+af socialministeren fremsatte lovforslag om at
+udskyde revisionsbestemmelsen.
+Vi ser frem til, at vi får lidt flere erfaringer på
+området, og vil på den baggrund gerne medvirke til at udskyde den egentlige revision.";Pia Christmas-Møller
+4306;name_party;":
+I Venstre vil vi gerne bakke dette lovforslag
+op. Det er med til at fremme den aktivering,
+som vi gerne ser omkring kontanthjælpsmodtagerne, og derfor synes vi, det er en god idé at
+fortsætte disse ordninger.";Eva Kjer Hansen
+4536;name_party;":
+Da vores ordfører på området, hr. Villy
+Søvndal, ikke kan være til stede i dag, har jeg
+lovet at sige, at vi støtter det foreliggende lovforslag.";Pernille Frahm
+4699;name_party;":
+Der er ingen tvivl om, at det mest hensigtsmæssige vil være at få vedtaget dette lovforslag. Der er ingen grund til, at vi går i gang
+med en revision, når vi ikke er klar til en revision.
+Man kunne så stille spørgsmålet: Hvorfor er
+vi ikke klar til en revision endnu? Det kan være, ministeren kan svare på det.";Tom Behnke
+5041;name_party;":
+Også Kristeligt Folkeparti tilslutter sig lovforslaget.
+Sòcialministeren (Else Winther Andersen):
+Jeg skal gøre det lige så kort.
+Jeg vil sige tak for den hurtige og velvillige
+behandling.
+Hr. Tom Behnkes spørgsmål kan jeg besvare
+med, at det er, fordi vi gerne vil have et noget
+større erfaringsgrundlag.
+Jeg håber på en hurtig sagsgang gennem udvalget, som noget også tyder på.
+Hermed sluttede forhandlingen.
+Afstemning
+
+3495
+
+6/12 91: 1. beh, af f. t. 1. vedr. social bistand
+
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Inger Stilling Pedersen
+5605;title_name;"Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 127:
+Forslag til lov om ophævelse a f lov om erstatning for skader ved LSD-behandling og om ændring af ligningsloven.
+Af sundhedsministeren (Ester Larsen).
+(Fremsat 27/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+6083;name_party;":
+Socialministeriet nedsatte i 1986 et LSD-erstatningsnævn, som skulle afgøre spørgsmål
+vedrørende tilkendelse af ydelser efter loven.
+Ansøgningsfristen for ydelser udløb i juni
+1988, og samtlige sager, som har været indbragt for nævnet, er behandlet. Derfor lader
+det til, at det vil være fornuftigt at nedlægge
+nævnet.
+Dog er det omtalt i forslaget, at Folketingets
+ombudsmand har tilkendegivet, at nævnets
+virksomhed ikke kan anses for at være afsluttet
+for så vidt angår ansøgninger om forhøjelse af
+erstatning efter lovens §§ 2 og 3. Socialdemokratiet har derfor et par spørgsmål, som vi gerne vil have nærmere belyst i et kommende udvalgsarbejde.";Lone Møller
+6759;name_party;":
+Den konservative gruppe kan tilslutte sig
+lovforslaget.";Karen Højte Jensen
+6835;name_party;":
+Det bliver relativt kort: Venstre kan også tilslutte sig forslaget.";Jørgen Winther
+6926;name_party;":
+
+3496
+
+Som en af initiativtagerne syntes vi i SF, at
+vi måtte gå lidt nærmere ind i dette forslag. Vi
+synes, at det umiddelbart lyder meget tilforladeligt, at LSD-erstatningsnævnet nu har udført
+sin opgave, og at man derfor kan nedlægge
+nævnet, men der er alligevel nogle spørgsmål i
+den forbindelse, som vi meget gerne vil have
+belyst, før vi kan sige, at det er det rigtige at
+gøre på nuværende tidspunkt.
+Man skriver i lovforslagets bemærkninger,
+at man har fået en enstemmig tilkendegivelse
+fra nævnet om, at det skulle være en god idé at
+nedlægge det. Nævnet består af tre personer og det er jo endda et spørgsmål, om alle tre
+personer har været til stede ved det møde, som
+man citerer i bemærkningerne - så den omtalte
+enstemmighed indbefatter altså ikke vældig
+mange personer.
+Jeg vil godt bede ministeren bekræfte, at
+hvis man ophæver LSD-erstatningsloven nu,
+så vil man også afskære eventuelle senere ansøgninger med hensyn til hævelse af erstatningsbeløbet. Indtil nu har det jo været muligt
+at hæve erstatningsbeløbet, hvis man kunne
+dokumentere, at man havde fået yderligere
+skader i sin mulighed for den personlige livsførelse, man ellers ville have haft.
+Hvis det er rigtigt, at man kan videreføre bestemmelsen med hensyn til, at man kan få forhøjet erstatningsbeløbet, vil det i hvert fald
+medføre, at paragraffen om skattefritagelse
+skal bestå i lovforslaget og ikke slettes. Der er
+altså forskellige ting at kigge på.
+Endelig mener vi ikke, at det, der står i bemærkningerne til § 3 om, at der kun kan ydes
+erstatning indtil den 1. januar 1997, er rimeligt.
+Det er heller ikke rimeligt, at man i bemærkningerne skriver, at der ydes erstatning til helbredende behandling. Netop i forhold til personer, der har fået LSD-skader, kan der meget
+vel være tale om mennesker, der har brug for
+lindrende og stabiliserende behandling, men
+ikke nødvendigvis helbredende behandling.
+Det er desværre i nogle tilfælde slet ikke muligt.
+Endelig må ministeren meget gerne oplyse,
+om lovforslaget har været til høring i de forskellige brugerkredse, f.eks. i Samvirkende Invalideorganisationer og Landsforeningen
+Sind, og om det har været til høring i faglige
+kredse, der kunne have et kendskab til det aktuelle behov for loven.
+
+3497
+
+6/12 91: 1. beh. af f. t. 1. vedr. skader ved LSD-behandling m.v.";Birgitte Husmark
+9250;title_name;"I første omgang er der altså en lang række
+ting, vi gerne vil have oplyst, inden vi kan sige,
+om vi i givet fald kan tilslutte os lovforslaget.";Birgitte Husmark
+9416;name_party;":
+Fremskridtspartiet har ikke de store indvendinger imod lovforslaget. Vi synes, at det er
+helt i orden, at man nu siger, at der må være
+stop for det her. Imidlertid mener Folketingets
+ombudsmand ikke, at man er færdig med disse
+sager, og det er vores opfattelse, at vi naturligvis i udvalgsbehandlingen må prøve at se, om
+vi kan få de ting ordnet.
+Vi vil også gerne have, at de skattefri udbetalinger, der har været tidligere, bliver sat på
+plads, sådan at der ikke kommer nogen problemer dér. Så vidt jeg kan se af forslaget, er de
+erstatninger, man får i kommende sager, ikke
+længere skattefri: det vil jeg gerne have en bemærkning til fra ministeren.";Køpke Christensen
+10093;name_party;":
+Der er jo ikke ligefrem storpolitik i dette lovforslag. CD kan gå ind for forslaget, som det
+foreligger.";Lis Noer Holmberg
+10229;name_party;":
+Også her kan Kristeligt Folkeparti sige ja, og
+vi tilsiger en både hurtig og positiv udvalgsbehandling.";Inger Stilling Pedersen
+10368;title_name;":
+Det er over for mig oplyst, at samtlige medlemmer af nævnet har været til stede og står
+bag enstemmigheden. Jeg må konstatere, at
+når medlemsskaren kun er på tre, kan antallet
+af stemmer, der er enige, ikke overstige tre.
+Der bliver spurgt, om man kan rejse ansøgning om forøget erstatning, når loven ophæves.
+Det er ikke tilfældet.
+Med hensyn til spørgsmålet, om der har været høring, kan jeg sige, at det er heller ikke
+tilfældet. Det er en meget lille sag, vi her behandler. Det er rimeligt, at en lov, hvis virkning ophørte for flere år siden, også bliver afskaffet.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+
+3498
+
+vedtoges uden afstemning.";Ester Larsen
+11071;title_name;"Jeg foreslår, at lovforslaget henvises til
+Sundhedsudvalget. Hvis ingen gør indsigelse
+mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 128:
+Forslag til lov om ændring af lægeloven. (Bestemmelser om information og samtykke).
+Af sundhedsministeren (Ester Larsen).
+(Fremsat 27/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+11522;name_party;":
+Princippet om, at en patient skal grundigt
+informeres, og at patienten også skal give samtykke, for at der kan iværksættes en lægelig undersøgelse eller behandling, er jo et gammelt
+og grundlæggende princip i forholdet mellem
+læge og patient. Derfor kan vi også tilslutte os,
+at reglerne om lægers informationspligt og patienters selvbestemmelsesret bliver fastlagt mere tydeligt i lægeloven.
+Det bliver dermed lovfæstet, at en patient efter en omhyggelig information om sin helbredstilstand, behandlingsmuligheder, risiko
+for komplikationer osv. kan sige nej til en behandling, og at lægen i en sådan situation også
+er forpligtet til at følge patientens vilje. Vi får
+altså retstilstanden præciseret, og det synes vi
+er godt.
+Men vi synes måske nok, at ministeren kunne være gået lidt videre, når nu vi skal ændre
+lægeloven. Vi mener, der er brug for at få præciseret retstilstanden også på et par andre områder både af hensyn til patienterne og af hensyn til lægerne.
+Efter vores mening bør det lovfæstes, at en
+læge i en situation, hvor patienten er uafvendeligt døende - som det hedder med et meget folkeligt udtryk - altså hvor dødsprocessen er gået i gang, kan undlade at påbegynde eller fortsætte en behandling, som kun kan udskyde
+tidspunktet for dødens indtræden.
+
+3499
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Torben Lund
+12865;title_name;"Vi finder det ikke rigtigt, at retstilstanden på
+et så fundamentalt område skal bygge på pressemeddelelser fra sundhedsmyndighederne og
+på den til enhver tid gældende retspraksis eller
+tiltalepraksis hos anklagemyndigheden. Også
+på det punkt bør retstilstanden efter vores mening - ikke mindst af hensyn til lægerne fremgå direkte af loven.
+Af den samme grund synes vi også, det bør
+fastlægges i loven, at en læge under de samme
+omstændigheder kan give den smertestillende
+eller beroligende medicin, som er nødvendig
+for at holde en patient smertefri, også selv om
+det måtte have den sidevirkning, at det kan
+medføre en fremskyndelse af dødstidspunktet.
+I lovforslagets bemærkninger bliver også
+livstestamenter berørt, altså spørgsmålet om,
+hvilken virkning det skal have, at man forud
+har tilkendegivet, hvordan man ønsker der
+skal forholdes, når der er tale om en udsigtsløs
+og livsforlængende behandling.
+Lovforslaget medfører ikke en juridisk bindende anerkendelse af livstestamenter. Socialdemokratiet ønsker at vise respekt for den enkeltes ret til selvbestemmelse også på dette
+punkt, og derfor ønsker vi, at regler om livstestamenter bliver lovfæstet, sådan at livstestamenter kan blive juridisk bindende, og sådan
+at også livstestamenterne bliver registreret og
+dermed bedre kendt i den konkrete situation.
+Hvis man gennemfører sådanne regler om
+livstestamenterne - hvad vi gerne ønsker - betyder det, at en læge ikke må indlede en behandling, hvis patienten ved et livstestamente
+har udtrykt ønske om, at livsforlængende behandling ikke skal iværksættes i nærmere beskrevne situationer.
+De nærmere regler for livstestamenters oprettelse, udformning, registrering og tilbagekaldelse vil vi gerne drøfte nærmere under udvalgsarbejdet, men vi synes, at mindretallets
+indstilling i den betænkning, der foreligger om
+afkald på livsforlængende behandling, vil kunne tjene som en god inspiration og være et
+godt udgangspunkt for disse drøftelser.
+Med disse ord kan jeg tilsige et positivt og
+grundigt udvalgsarbejde om disse fundamentale og vigtige spørgsmål, og jeg har altså samtidig bebudet, at vi gerne ønsker en lidt mere
+omfattende lovændring end den, ministeren
+har lagt op til med sit lovforslag.
+
+3500
+
+(Kort bemærkning).";Torben Lund
+15128;name_party;":
+Jeg forstår, at hr. Torben Lund ønsker, at
+man skal fastsætte lovregler om dette med, at
+lægerne kan gøre tingene. Jeg vil gerne spørge
+hr. Torben Lund, om han har overvejet, hvor
+utrolig svært det vil være at lave den lov sådan,
+at den ikke også i nogle tilfælde kan misbruges.
+Og mener hr. Torben Lund ikke, at virkningen af livstestamenter, som man måske har lavet adskillige år, før de bliver aktuelle, må afhænge af, hvad der står i dem? Et er, hvis jeg
+går hen og skriver mit testamente i dag, et andet er, hvis jeg virkelig er syg, og så er der jo
+forskel på, om jeg er udsigtsløs syg eller der
+faktisk er en mulighed for at hjælpe mig. Hvad
+ved jeg om, hvilke muligheder der er om 10-20
+år eller måske længere frem? Det, som i dag er
+uhelbredeligt, kan måske til den tid være helbredeligt. Derfor synes jeg, at sådan nogle ting
+kræver langt, langt større indsigt.
+Noget andet er, at man selvfølgelig altid kan
+prøve at respektere livstestamenter, så langt
+det overhovedet kan lade sig gøre, men lovfæster man dem, kan man måske få en konflikt
+mellem patienten og lægen og lægens pligt til
+at hjælpe, hvor der er en mulighed for at hjælpe.
+(Kort bemærkning).";Inger Stilling Pedersen
+16311;name_party;":
+Jeg er helt enig med fru Inger Stilling Pedersen i, at det er utrolig vanskelige problemstillinger, vi her har med at gøre, men jeg synes
+blot, at det på et så fundamentalt område som
+det, vi her beskæftiger os med, er vigtigt, at vores lovgivning er så klar som muligt. Jeg synes
+netop, at det bliver endnu sværere ved, at vi
+ikke har en klar lovgivning på dette område.
+Jeg synes heller ikke, at det er rart for lægerne, der jo står i de vanskelige situationer, at vi
+ikke har en klar lovgivning om, hvad lægerne
+må, og hvad lægerne ikke må i disse situationer. De er nødt til at basere sig på, hvad der
+administrativt er sendt ud fra Sundhedsstyrelsen, og den til enhver tid værende tiltalepraksis i anklagemyndigheden, og det synes jeg ikke er rart.
+Det, vi foreslår, som jeg har bebudet her, er
+en lovfæstelse af den retstilstand, vi har på de
+områder i dag, og som jeg synes er god.
+
+3501
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Torben Lund
+17270;title_name;"Til spørgsmålet om livstestamenter vil jeg sige, at det er klart, at lægen skal foretage vurderingen i den aktuelle situation af, om den pågældende patient befinder sig i den tilstand,
+der nu skal være tale om, for at et livstestamente skal have virkning. Den vurdering kan og
+skal vi aldrig fratage den lægefagligt uddannede person. Sådan vil det selvfølgelig også være
+med det forslag, som vi vil komme med om
+livstestamenter.
+Dertil kommer, at to ting i virkeligheden er
+vigtige ved livstestamenterne. Det er for det
+første vigtigt, at vi dermed, så langt det overhovedet er gørligt, kan respektere det enkelte
+menneskes ønske om, hvordan der skal forholdes med vedkommendes liv. Det andet, der er
+vigtigt, er, at vi med livstestamenterne får sikkerhed for, at det ønske, patienten eller borgeren har haft, kommer frem i dagens lys, al den
+stund et livstestamente jo bliver registreret og
+dermed kommer til lægens kundskab, når man
+står i den ulykkelige situation.
+Måtte jeg endelig gøre den sidste lille tilføjelse, at vi godt vil være med til at overveje, om
+vi skal lave et system, hvor man, om jeg så må
+sige, skal bekræfte livstestamentets indhold og
+dermed sit ønske med mellemrum, f.eks. hvert
+tiende år, eller hvad man vil.
+
+3502
+
+Venstre kan fuldt ud støtte dette forslag til
+ændring af lægeloven.
+Vanskelige problemer skal vi ikke feje ind
+under gulvtæppet, men tage op til analyse og
+vurdere dem. Der er et indlysende behov for,
+at der kommer klare regler angående det vanskelige område om information og om samtykke.
+I den nye lægelov præciseres, at lægen ikke
+må indlede eller fortsætte en behandling mod
+patientens vilje, medmindre andet er særlig
+hjemlet.
+Udgangspunktet for loven er godt. Det er
+nemlig det enkelte menneskes selvbestemmelse. Det bliver nu sådan, at det bliver helt klart,
+at en kræftpatient selv kan bestemme, om han
+vil have penicillinbehandling, når han får lungebetændelse. Ligeledes kan Jehovas Vidner
+helt klart sige nej til blodtransfusion, hvis de
+ikke ønsker en sådan.
+Ifølge loven bliver det Også sådan, at en læge ikke må afbryde en spisevægring, som er
+påbegyndt af en voksen og habil person. Det
+synes jeg også er meget vigtigt, for efter min
+personlige opfattelse er der i dag en ret stor
+uenighed blandt læger, om der skal og bør
+gives intravenøs væskebehandling til en patient, der bliver bevidstløs efter en sultestrejke.
+Den nye lægelov gør det helt klart, at lægen
+først
+og fremmest skal respektere patientens";Torben Lund
+19757;name_party;":
+selvbestemmelse.
+Med det foreliggende forslag præciseres læI spørgsmålet om livstestamenter, som har
+gens pligt til at informere og indhente samtykværet omtalt her, er det sådan, at de ikke bliver
+ke fra patienten i forbindelse med undersøgeljuridisk bindende, men der skal meget, meget
+se og behandling.
+tungtvejende argumenter til, før lægen fraviDet præciseres nu i lovgivningen, at al patiger, hvad patienten forinden har sagt. I det stoentbehandling bygger på information og samre og hele tror jeg, at denne nye lægelov på en
+tykke. Det er vi i den konservative gruppe tilmåde næsten gør disse livstestamenter retsgylfredse med. Det har tidligere været præciseret
+dige. Jeg kan forestille mig meget, meget få sivia cirkulærer, og der tilsigtes alene en tydeligtuationer, hvor der kommer konflikter.
+gørelse af den gældende retstilstand og de gældende principper for information og samtykke
+i patienters behandling.";Karen Højte Jensen
+20700;name_party;":
+Vi finder det væsentligt med disse klare regI SF er vi glade for, at der er fremsat et lovler, der sikrer patientens selvbestemmelse, forslag, som tilsigter en tydeliggørelse af den
+retsstilling og integritet. Der har været meget gældende retstilstand og de gældende principusikkerhed i befolkningen om det at iværksæt- per for information og samtykke i patientbete en udsigtsløs, livsforlængende behandling handlingen.
+imod patientens ønsker, og det er dette forBemærkningerne præciserer også på udhold, der nu klarlægges, og det synes vi er po- mærket vis, hvordan information og samtykke
+sitivt.
+kan håndteres i den almindelige patientbehandling. Der står således i bemærkningerne,
+at for at man skal kunne udøve sin bestemmelJørgen Winther (V):
+
+3503
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Birgitte Husmark
+21524;title_name;"sesret, er lægen forpligtet til - af egen drift, står
+der i bemærkningerne - i fornødent omfang at
+informere patienten om dennes sygdom og om
+undersøgelse, behandling og indgreb samt om
+risikoen for eventuelle komplikationer og bivirkninger. Der står også, at informationen typisk forventes givet i dialog med patienten.
+Det er nogle præciseringer, som vi er meget
+glade for i SF.
+Men patienters selvbestemmelse bliver alligevel ikke respekteret fuldt ud, når man nærlæser bemærkningerne. Noget af det, som vi
+godt vil kigge nærmere på i udvalget, er, hvordan vi skal beskrive det, sådan at både læger
+og patienter kan føle sig trygge i det danske
+sundhedsvæsen. Specielt bemærkningerne til
+den nye § 6, stk. 3, i lov om lægegerning rejser
+tvivl, om patienten er sikret imod en behandling, som patienten ikke ønsker. Her står dels,
+at der ikke stilles nogen formkrav til patientens
+samtykke - og det kan være fornuftigt nok
+dels står der, at »det fornødne samtykke må
+med føje antages at foreligge, så længe patienten i ord eller gerning ikke giver udtryk for andet«.
+Senere står der:
+»En læges afbrydelse af en behandling på
+patientens begæring, der bevirker, at patienten
+umiddelbart efter afgår ved døden, vil dog såfremt det fornødne forsæt må antages at foreligge - efter omstændighederne kunne anses
+for omfattet af straffelovens § 239 om drab på
+begæring...«.
+På den anden side er lægen såvel berettiget
+som forpligtet til at følge patientens ønsker,
+hvis en patient, mens vedkommende endnu var
+habil, i en aktuel sygdomssituation har udtalt,
+at en livsforlængende behandling ikke ønskes.
+Denne forpligtelse gælder også, hvor inhabilitet eventuelt senere indtræder. Det er vi helt
+tilfredse med.
+»Har patienten forudgående - det vil sige,
+før den aktuelle sygdomssituatión er opstået tilkendegivet, f.eks. i et livstestamente, at udsigtsløs, livforlængende behandling ikke ønskes, bør lægen tillægge patientens således forudgående tilkendegivne ønsker afgørende
+vægt«, står der også i bemærkningerne.
+Det er vi også meget tilfredse med, men det
+er her, vi kommer ind på muligheden for en
+præcisering og på spørgsmålet, om det vil være
+rimeligt at lovfæste grundlaget for, hvad en pa-
+
+3504
+
+tient måtte ønske med hensyn til en fremtidig
+situation, hvor patienten kan komme ud for at
+være stillet over for en udsigtsløs, livsforlængende behandling.
+Den eventuelle lovgivning vil vi meget gerne
+fra SF's side arbejde videre med. Vi er helt klar
+over, at det er et følsomt område, og derfor vil
+vi appellere til, at så mange som muligt deltager i debatten. Foreløbig er der et godt grundlag i betænkning nr. 1184, og der er også kommet et responsum fra Etisk Råd, som 'er godt at
+blive klog af.";Birgitte Husmark
+24245;name_party;":
+Lægen må ikke indlede eller fortsætte en behandling mod patientens vilje, medmindre andet er særligt hjemlet.
+Det store flertal af Fremskridtspartiets folketingsgruppe er ganske enig i dette lovforslag
+og kan godt se det fornuftige i det, men jeg skal
+også sige, at Fremskridtspartiets folketingsmedlemmer, som vi jo plejer på etiske områder, vil stå frit ved afstemningen i denne sag,
+og der er divergerende meninger om forslaget.
+Det er jo sådan, at med hensyn til lægevidenskab er det svært at sige: Vi kan bevise noget. Det kan man ikke. Det er ikke som i matematikken, at man kan sige, at noget er eksakt
+sådan. Derfor er det et stort ansvar for lægerne
+og ikke mindst for patienterne, man pålægges
+her.
+Jeg synes, der rejser sig mange spørgsmål
+vedrørende dette lovforslag. Man har eksempler på cancerpatienter, der får at vide, at de har
+en måned tilbage, og så har man set eksempler
+på, 'at den pågældende patient har levet et år,
+ja, måske to år, og har haft det nogenlunde
+godt. Det er et stort ansvar for lægerne at sige,
+at man har så og så lang tid tilbage, og det vil
+ikke altid være i overensstemmelse med det,
+der reelt sker.
+Så kan man måske sige, hvis forslaget bliver
+gennemført, at der ikke kommer nogen problemer, for det kan man jo ikke konstatere bagefter. Men det skal stå helt klart, at det kan jeg
+ikke billige. Jeg synes ikke, man kan pålægge
+den enkelte læge at vurdere, hvor lang tid patienten har tilbage, for det er jo på det grundlag,
+den pågældende skal tage stilling.
+Der er altså mange spørgsmål, jeg gerne vil
+have yderligere belyst under udvalgsbehandlingen, før jeg personlig kan tage endelig stil-
+
+3505
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven
+3506";Køpke Christensen
+25962;title_name;"ling til forslaget, og endelig skal jeg gentage, leve videre for, selv om situationen måske kunhvad jeg sagde indledningsvis, at Fremskridts- ne vende sig til det positive senere hen. Det har
+partiet som sådan er positivt over for forslaget. vi også set, og det er det, jeg er meget, meget
+ked af i denne forbindelse.
+(Kort bemærkning).
+(Kort bemærkning).";Køpke Christensen
+26336;name_party;":
+Det er til hr. Køpke Christensen. Hvis der er Jørgen Winther (V):
+Hvis vi ser på virkelighedens verden, var det
+misforståelser, er det bedst at få dem ryddet af
+vejen med det samme.
+måske for 4-5-6 år siden ret typisk på sygehuDet blev nævnt, at læger ofte mener, at en sene, at lægerne sagde, at nu er der måske én
+kræftpatient kun har en måned tilbage, og at måned eller 3 måneder tilbage. Situationen er i
+patienten så måske lever 12 måneder derefter. dag, at langt de fleste læger vælger at sige, at
+Det er rigtigt, at noget sådant somme tider fo- det er en alvorlig sygdom, og det ser ikke ud
+rekommer, men jeg vil præcisere, at det jo ikke til, at patienten kan blive rask. Det er meget,
+på nogen måde har noget med dette lovforslag meget sjældent, man giver en tidsfrist i dag,
+at gøre. Det er først, når patienten er meget al- man siger, at man vil gøre det maksimalt mulivorligt syg, bevidstløs osv., at overvejelserne ge, prøve at gøre det så godt som overhovedet
+med henblik på livstestamentet melder sig, for muligt for patienten i den sidste tid.
+Men min personlige holdning er også, at
+hvis der er tale om en almindelig kræftpatient,
+som måske er oppegående, betyder det jo ikke man skal aldrig nogen sinde som læge give en
+noget, om det bliver den ene måned eller 12 tidsfrist. Man kan gøre det klart, at det er en
+måneder, set i relation til lovforslaget. Jeg er alvorlig sygdom, men man skal ikke begynde
+selvfølgelig godt klar over, at det betyder me- at sige, at der er 4 uger eller 8 uger tilbage.
+get for patienten.
+(Kort bemærkning).
+Men hvis hr. Køpke Christensen kan forklare, hvad det er, han mener, vil jeg da gerne hø- Inger Stilling Pedersen (KRF):
+re det.
+Jeg synes, det er helt korrekt af hr. Køpke
+Christensen at rejse spørgsmålet.
+(Kort bemærkning).
+Jeg kan godt forstå, at hr. Jørgen Winther
+udtaler sig, som han gør, for det er hans perKøpke Christensen (FP):
+Nu nævnte jeg cancerpatienter, men vi har sonlige holdning. Men hvor mange læger har
+jo også i al almindelighed set eksempler på pa- ikke slynget ud til et ganske uforberedt mennetienter, der er langt, langt ude, men alligevel ske, at den pågældende skal dø og kun har så
+får det bedre i en efterfølgende periode, selv og så kort tid tilbage? Jeg har talt med dem om man fra lægevidenskabelig side har sagt, at og det har hr. Jørgen Winther og hr. Køpke
+Christensen nok også - talt med mennesker,
+der ikke er store udsigter.
+Jeg vil godt erkende, at det foreliggende for- der har fået det chok.
+Så hvis vi skal have den bestemmelse om, at
+slag ikke går ud på, at man skal sige stop på et
+tidligt stadium, det er klart nok. Men jeg vil lægen skal informere, må man også se nærmeogså godt understrege, at jeg synes, at spørgs- re på lægernes uddannelse. Det må være et
+målet har en så stærk etisk karakter, at det er krav, at lægerne altid skal give patienterne et
+svært at pålægge lægerne det ansvar, også for- vist håb, for det er forkert, hvis man tager hådi der skal være et samspil mellem lægerne og bet fra et menneske og siger: Der ikke er noget
+patienten. Der er meget psykologi med i det at gøre, men se at få det så godt som muligt de
+her, og jeg mener ikke, at alle læger er i stand sidste par måneder. Derfor synes jeg, det er
+meget væsentligt, at det element kommer ind i
+til at klare det, fordi de ikke er psykologer.
+Derfor tror jeg også, at der er et problem debatten under den videre behandling af forher: Det psykiske pres, man lægger på den pa- slaget.
+tient, der får at vide, at han eller hun ikke har
+(Kort bemærkning).
+mere end 2-3 måneder tilbage, bevirker måske,
+at den pågældende siger, at der ikke er noget at Køpke Christensen (FP):
+
+3507
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Jørgen Winther
+30064;title_name;"Jeg vil gerne spørge hr. Jørgen Winther:
+Hvad vil man f.eks. gøre i den situation, hvor
+en patient den ene dag siger, at man ikke skal
+forlænge livsforløbet, og der så sker noget den
+næste dag, der måske bevirker, at den pågældende får en helt anden holdning til tingene?
+Den pågældende er i forvejen langt nede psykisk og har svært ved at tage stilling. Hvad vil
+man gøre i sådan en situation? Der opstår virkelig et problem her efter min opfattelse.";Køpke Christensen
+30538;name_party;":
+Da Folketinget den 30. april 1986 debatterede et beslutningsforslag om lægers og patienters retsstilling vedrørende behandlingen af
+patienter, som ikke ønsker udsigtsløs, livsforlængende behandling, var jeg ikke ordfører for
+CD. Men jeg har naturligvis læst, hvad der
+blev sagt ved den lejlighed, og jeg har set, at
+CD satte spørgsmålstegn ved, om det overhovedet var muligt at gøre de såkaldte livstestamenter retligt forpligtende for de behandlende
+læger. Der er så senere afgivet en betænkning,
+der ligger til grund for nærværende lovforslag.
+Efter gældende regler er en enhver behandling en frivillig sag for patienten, og principper
+for lægers information af patienter og patientsamtykke indgår allerede som en del af ånden i
+lægeløftet. Det, man nu vil gøre, er faktisk at
+omsætte denne ånd til lovparagraffer.
+Hvis jeg skal gå lidt ind i lovforslaget, må jeg
+medgive, at hvis man ønsker at sulte sig til døde, burde det vel være éns egen sag. Men i sådanne tilfælde er der ofte tale om et råb om
+hjælp, og det gælder i øvrigt også ved mange
+andre selvmordsforsøg. Derfor er jeg bestemt
+ikke enig i, at der her blot skal informeres om
+konsekvenserne - for dem kender vi jo - nej,
+jeg mener, der skal ydes hjælp.
+Med hensyn til blodtransfusioner kommer
+patientens religiøse overbevisning i visse tilfælde ind i billedet, og her er der også i lovforslaget et både-og. Lægen skal følge patientens
+ønske, men alligevel samtidig selv vurdere situationen. Og denne holdning går faktisk igen
+i hele lovforslaget.
+Ministeren siger i den skriftlige fremsættelse, at i lande, vi plejer at sammenligne os med,
+er der ikke vedtaget lovgivning, som gør livstestamenter juridisk bindende, netop på grund
+af de vanskeligheder, som er forbundet med at
+gennemføre en detaljeret lovgivning om lægers
+
+3508
+
+handlepligt og handleret ved udsigtsløs, livsforlængende behandling. I CD er vi frit stillet i
+sager af denne etiske karakter, men personligt
+mener jeg, at lægerne gør alt, hvad de kan for
+patienterne i dag. Og i øvrigt er lægerne jo ikke
+selv interesseret i en justering af reglerne på
+nuværende tidspunkt.
+Ifølge lægeløftets lægeetiske regler fremgår
+det jo helt tydeligt, at en læge skal udøve sin
+gerning omhyggeligt og samvittighedsfuldt, at
+lægen i sin gerning under allé forhold skal respektere sine patienters værdighed og personlige integritet, og at en patient har ret til fuld
+information om diagnose, prognose og behandlingsmuligheder samt ret til på grundlag
+af denne information at afgøre, om han eller
+hun vil acceptere eller afvise en given behandling. Personligt opfatter jeg derfor dette lovforslag som en lovfæstelse af gældende praksis og
+ikke andet, og jeg mener, det er overflødigt.
+Men det er klart, at vi i udvalgsarbejdet vil følge, hvad der måtte komme frem, og ud fra det
+vil vi i CD hver for sig tage stilling til forslaget
+ud fra vores personlige holdning, som det også
+er tilfældet i andre lignende sager af etisk og
+samvittighedsmæssig karakter.";Lis Noer Holmberg
+33533;name_party;":
+Lovforslaget tager udgangspunkt i den meget smukke tanke, at man skal bibringe patienten en afklaret holdning til sin situation, og at
+man skal skabe en forståelse mellem behandler
+og patient om, at nu er situationen sådan og
+sådan, så man i fællesskab kan planlægge og
+udføre en behandling eller skaffe lindring og
+trøst.
+Det er et fremskridt, at man præciserer og
+lovfæster, at patienten i højere grad skal have
+ret til at bestemme sin egen skæbne på et tidspunkt, hvor en behandling vil være udsigtsløs
+og i hvert fald ikke tjener til andet end at forlænge livet på et meget lavt livskvalitetsniveau.
+Nogle af de tidligere ordførere har sagt, at
+man aldrig må tage håbet fra folk, uanset hvilken besked man giver dem. Men man kan jo
+godt give folk et godt liv i den tid, de har tilbage, hvis man holder sig de meget smukke principper i det gamle lægeløfte for øje. Man skulle somme tider helbrede, man skulle altid prøve at lindre, og hvis der ikke kunne gøres andet, skulle man i hvert fald altid trøste. Man
+kan godt bibringe folk en trøst, en ro og en
+
+3509
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Elisabeth Arnold
+34666;title_name;"afklarethed omkring deres livssituation uden
+nødvendigvis at give dem håb om overlevelse.
+I sidste instans kan det håb jo alligevel ikke
+opfyldes for nogen af os.
+Vi synes, det er et udmærket lovforslag, men
+Det Radikale Venstre ønsker også at medinddrage aspekter om en yderligere sikring eller
+yderligere vægtning af livstestamentet i udvalgsarbejdet. Vi kan godt se, at et flertal af de
+hørte instanser, bl.a. lægerne, ikke ønsker en
+yderligere juridisk lovfæstelse af livstestamentet, men vi mener i virkeligheden, at anerkendelse af et livstestamente udtrykker den yderste respekt for patientens eget ønske om medbestemmelse i den sidste fase af livet.
+Derfor vil vi gerne undersøge under udvalgsarbejdet, om der er nogle steder i lovgivningen vedrørende registrering, tilgængelighed, udformningsregler osv., hvor vi kan give
+livstestamentet en størrre vægt, så det kan indgå i lægernes bedømmelsesgrundlag. Enkelte
+af os i den radikale gruppe gik gerne endnu
+videre, men ligesom på andre af disse meget,
+meget følsomme områder vil den enkelte være
+frit stillet i denne sag.
+Men den generelle holdning er, at vi gerne
+ønsker at gå videre, og vi ønsker i udvalgsarbejdet at bedømme, om det er muligt at give en
+yderligere styrkelse af begrebet livstestamente.
+Så vi ser frem til et grundigt og meningsfyldt
+udvalgsarbejde.";Elisabeth Arnold
+36022;name_party;":
+Det er helt sikkert, at vi står over for et lovforslag, som kræver en meget, meget grundig
+udvalgsbehandling og en klarlæggelse af mange af de synspunkter, der er kommet frem i
+dag, for ellers kan det let komme til en konflikt
+mellem to modstridende ting, nemlig patientens ret og lægens ansvar.
+Da jeg før sagde noget om et håb, mente jeg
+ikke, at man skulle stille i udsigt, at patienten
+måske kunne leve adskillige år endnu. Siger
+man direkte til et menneske, at det kun har 3
+måneder tilbage, tager man håbet væk. Det gør
+man derimod ikke, hvis man siger: Det er alvorligt, ingen kan sige, hvor længe det vil vare,
+men uanset om det bliver 3 måneder, 9 måneder eller et år, vil vi gøre den tid så god som
+overhovedet muligt. Det, jeg mener, er, at tager
+du håbet væk, har du også fjernet livslysten og
+livsgnisten, og så kan man lige så godt lægge
+sig til at dø i morgen.
+
+3510
+
+Jeg mener altså, at der findes læger, der kynisk slynger en dødsdom i hovedet på folk,
+selv om de egentlig ikke ved, hvor lang tid den
+pågældende har tilbage at leve i, og jeg vil meget gerne understrege, hvor vigtigt det er, at lægerne får pligt til at fortælle sandheden på en
+anstændig måde, ikke bare slynge noget hårdt
+og brutalt i hovedet på folk.
+Så kommer spørgsmålet om retten til at dø.
+Hvis patienten allerede er inde i dødsprocessen, skal man selvfølgelig ikke forlænge en udsigtsløs behandling, det er vi helt enige i, men
+så kommer grænsetilfældene. Hvornår er behandlingen udsigtsløs? Er det lægen eller patienten, der skal afgøre det? Kunne man tænke
+sig, at en behandling var udsigtsløs, men at
+man alligevel bevarede håbet?
+Der står i forslaget, at man altid skal respektere patientens ønsker. Men hvis et menneske
+skriver til mig: Jeg ønsker at dø, for det er en
+uværdig behandling, vi giver vore ensomme
+gamle, og nu vil jeg holde op med at spise og
+drikke - skal vi så lade det menneske dø? Nej,
+for det er jo ikke det, vedkommende egentlig
+vil. Derfor er vi nødt til at gå bag ønskerne om
+at dø, hvis den pågældende ikke allerede er inde i dødsprocessen, og spørge om grunden til,
+at man nærer dette ønske.
+Jeg tror, at man meget, meget let kan komme
+over i en slags passiv, ja, måske endda aktiv
+dødshjælp, hvis man ikke passer på. Der har
+været mange røster fremme, som antyder noget
+i den retning. Jeg er glad for, at ministeren så
+klart har udtrykt sin holdning til spørgsmålet,
+men der er mange, der prøver at komme frem
+med bittesmå skridt og siger: Er det nu alligevel ikke bedst, at de får lov til at dø? Her tænker jeg også på de børn, som fødes med en
+uhelbredelig sygdom til en udsigtsløs fremtid.
+Skal man her have lov til at opfylde et ønske
+fra forældrene om, at dette barn ikke skal leve?
+Jeg synes, at vi er kommet ind i nogle diskussioner, hvor vi ikke bare kan feje tingene af
+bordet og sige, at det enkelte menneske selv
+skal bestemme, selv om det måske i længden
+kan blive det billigste for samfundet og de pårørende. På den anden side skal man også respektere et døende menneske, der ikke ønsker
+at gennemgå en operation i sidste øjeblik eller
+at blive fyldt med medicin. Det er selvfølgelig
+klart, at man må give smertestillende midler,
+også selv om det skulle forkorte livet med et
+
+3511
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Inger Stilling Pedersen
+39314;title_name;"par dage. Der er jo ikke noget ved at leve et par
+dage længere med stærke smerter, men i øvrigt
+tror jeg slet ikke, det er det, sagen drejer sig om
+overhovedet.
+Kristeligt Folkeparti vil forsøge at få klarlagt nogle af disse ting under udvalgsbehandlingen, så vi ikke bare siger, at selvfølgelig skal
+det enkelte menneske selv bestemme. Vi må
+også tænke på de psykisk syge, de svært retarderede og handicappede. De får altså ikke en
+chance, for man skal jo selv være i stand til at
+træffe en afgørelse. Der er virkelig mange,
+mange aspekter i sagen.
+Vi vil altså fra Kristeligt Folkepartis side
+stille de spørgsmål under udvalgsbehandlingen og derigennem finde frem til, om vi når
+frem til et lovforslag, som vi kan støtte. Derfor
+vil vi ikke afvise forslaget nu, men vi skal stadig bevare respekten for det enkelte menneske,
+ikke bare tale om frihed ud over alle grænser.
+Vi lader mennesker gå til grunde og dø af alkohol og narko og mange andre ting. Det kan vi
+godt kalde frihed, men er det virkelig frihed?
+(Kort bemærkning).";Inger Stilling Pedersen
+40365;name_party;":
+Jeg synes ikke, at Kristeligt Folkepartis ordførerindlæg skal have lov at stå uimodsagt.
+Jeg synes, det er meget beklageligt, når Kristeligt Folkeparti siger om debatten, at adskillige af os andre fejer tingene af bordet og fremhæver selvbestemmelse over alt andet. Alle
+ordførere i dag har været meget seriøse i deres
+behandling af emnet, har udtalt betænkelighed, har udvist omtanke for de meget vigtige
+emner, det drejer sig om. Der er ingen, der har
+affejet debatten med en bemærkning om, at
+det kun er et spørgsmål om, at man selv skal
+bestemme.
+Der er ingen, der har sagt, det vil være billigere. Der er ikke nogen, der har nævnt kroner
+og øre i denne her forbindelse. Jeg mener, det
+er uanstændigt at trække debatten ned på et
+niveau, hvor den slet ikke hører hjemme.
+Og så vil jeg sige til fru Inger Stilling Pedersen, at det er en grov påstand, at kyniske læger
+slynger en dødsdom i hovedet på folk. Jeg tror,
+de fleste af os har oplevet, når personer har
+været uhelbredeligt syge, at de har fået en
+nænsom og omsorgsfuld behandling af lægerne, også hvad angår informationen.
+
+3512
+
+Hvis fru Inger Stilling Pedersen havde gjort
+sig bekendt med nogle af beskrivelserne af
+slutningen af AIDS-patienters liv, ville fru Inger Stilling Pedersen se, at de ofte har været
+præget af omsorg, af kærlighed, af stor oplevelsesintensitet af livet og den omgivende natur, en afklarethed og en ro, som har gjort den
+sidste del af deres liv meget, meget værdifuld.
+Jeg synes ikke, fru Inger Stilling Pedersen
+kan være bekendt at bruge udtryk som kynisme og dødsdomme i omtalen af vort sundhedsvæsens meget højt professionelt uddannede
+personale.
+(Kort bemærkning).";Elisabeth Arnold
+42048;name_party;":
+Det er debatten om livstestamenterne, der
+får mig herop. Jeg synes da umiddelbart, det
+kan lyde positivt, men hvordan kan vi som
+mennesker vurdere vore holdninger i den situation, vi taler om her, hvis man ligger og er
+dødssyg? Jeg mener ikke, det kan lade sig gøre,
+og derfor tvivler jeg lidt på, om man kan acceptere livstestamenter. Man kan have en diametralt modsat holdning den dag, man ligger
+og har kort tid tilbage.
+Så har jeg studset over noget med hensyn til
+børn. Det var Kristeligt Folkeparti, der fik mig
+ind på de tanker. I bemærkningerne til forslaget tales der om mindreårige, men hvor går
+grænsen? Er det 15-årige, eller er det 18-årige,
+man tænker på, eller hvor går grænsen for det,
+man kalder mindreårige? Det vil jeg da gerne
+have ministerens kommentar til.
+Vedrørende bemærkningen om de kyniske
+læger vil jeg sige, at læger er jo altså også mennesker, og derfor ved vi også godt, at ligesom
+der findes kyniske mennesker alle andre steder
+i samfundet, findes der naturligvis også kyniske læger. Det vil jeg da godt give Kristeligt
+Folkeparti ret i. Det kunne jo også være, at der
+er nogle, der kender eksempler på kyniske læger, der har slynget de pågældende patienter i
+ansigtet, hvor lang tid de havde tilbage.
+(Kort bemærkning).";Køpke Christensen
+43332;name_party;":
+Der må jo være nogle, der har følt sig trådt
+over tæerne, for jeg tænkte overhovedet ikke
+på én eneste bestemt ordfører, og jeg nævnte
+ikke én eneste ordfører ved navn og henviste
+
+3513
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Inger Stilling Pedersen
+43594;title_name;"ikke til ét eneste indlæg. Hvis jeg havde ment
+fru Elisabeth Arnold, havde jeg nævnt navnet,
+og det gjorde jeg ikke, så det vil jeg gerne have
+mig frabedt.
+Det, jeg talte om, er den holdning, man møder ude omkring. Jeg ved ikke, hvor mange beskyldninger der fløj imod mig, men jeg taler ud
+fra virkeligheden. Når jeg taler med mennesker, der fortæller mig, hvad de har været ude
+for, skulle jeg så sige her i Folketinget, at det
+passer ikke, for sådan er det ikke?
+De fleste læger gør det jo godt nok, og det er
+helt i orden. Men når man vil give en lov, der
+giver lægerne pligt til at informere, må man også sørge for, at de får pligt til at informere på
+den rigtige måde, at de faktisk kan drages til
+ansvar, hvis de ødelægger tilværelsen for et andet menneske. Jeg har talt med mennesker, der
+har været udsat for at få slynget sådan noget i
+hovedet og har grædt i flere dage derefter. Problemet eksisterer i virkeligheden, det er ikke
+bare noget, som jeg står og finder på her, det er
+faktisk realiteter.
+Og derfor mener jeg, vi skal tage højde for
+det i den kommende lov og spørge, om lægernes uddannelse er god nok. Skal der mere psykologi ind i uddannelsen? Skal de have noget
+at vide om, hvordan man informerer på den
+rigtige måde? Det er det, jeg prøver på at sige,
+og så kan man jo godt afvise det og sige, at alt
+det, de gamle skriver, alt det, de siger, det passer jo slet ikke, for vi gør det jo så godt, så
+godt. Nej, realiteten er somme tider en anden.
+(Kort bemærkning).";Inger Stilling Pedersen
+45098;name_party;":
+Først til fru Inger Stilling Pedersens sidste
+indlæg om, at man skal informere, også mod
+patienternes ønsker. Jeg vil gerne sige udtrykkelig, at der står i § 6, stk. 2:
+»Lægen skal, hvor det er muligt, og hvor der
+ikke er grund til at antage, at det strider mod
+patientens ønske, oplyse patienten
+«. Hvis
+lægen vurderer, at denne patient ikke kan tåle
+eller ikke ønsker at vide den fulde sandhed,
+står der helt klart i loven, hvordan lægen skal
+opføre sig.
+Så vil jeg gå til fru Inger Stilling Pedersens
+forrige indlæg. Fru Inger Stilling Pedersen
+giver faktisk udtryk for, at læger skal altid under alle omstændigheder gøre den maksimale
+indsats for at holde en patient i live i så lang
+
+3514
+
+tid som muligt, og det er nok fru Inger Stilling
+Pedersens grundholdning. Det, der lægges op
+til, og det, der i hvert fald er Venstres grundholdning, er, at patienterne har en selvbestemmelsesret, og den skal lægerne også respektere
+i meget vidt omfang.
+Så blev der talt om det virkelige liv. Jeg vil
+gerne give et eksempel fra det virkelige liv, ikke et bestemt, men et konglomerat af forskellige oplevelser, jeg har haft. Der findes kvinder
+midt i 90'erne, som har mistet deres mand for
+mange, mange år siden, som har mistet deres
+venner, som ikke længere kender nogen, måske bortset fra nogle tilfældige hjælpere, der
+kommer en gang imellem, men som det er
+svært at få et personligt forhold til.
+Så kan man også tænke sig situationen, at
+vedkommende har gigtsmerter - det har næsten alle i den alder - måske også noget med
+hjertet, åndenød om natten osv. Selv om lægerne gør det maksimalt mulige, kan man altså ikke skabe en virkelig værdig tilstand for vedkommende patient efter patientens egen vurdering, og så oplever vi som læger, at disse patienter uge efter uge, måned efter måned siger:
+Jeg har ikke mere lyst til at leve, og på et tidspunkt vil jeg altså gøre alvor af det. Det er en
+helt velovervejet og afklaret situation, og hvis
+sådan en meget gammel dame ønsker at holde
+op med at drikke og spise, synes jeg bestemt, at
+det skal vi læger også respektere.
+I dag er vi læger delt i to lejre. Nogle mener,
+at man skal give intravenøs ernæring, når vedkommende bliver bevidstløs, andre mener det
+ikke. Nu får vi altså en situation, hvor det helt
+klart fremgår af bemærkningerne til lovforslaget, hvordan vi skal forholde os, men jeg vil
+gerne konstatere, at i det virkelige liv findes
+der livstrætte mennesker, som ikke længere
+har lyst til at leve.
+(Kort bemærkning).";Jørgen Winther
+47597;name_party;":
+Jeg vil gerne sige til fru Inger Stilling Pedersen, at jeg følte mig overhovedet ikke truffet
+personligt af fru Inger Stilling Pedersens første
+indlæg. Jeg prøvede bare at præcisere, at hvis
+vi skal sikre eller prøve at arbejde for, at debatten bliver holdt på et ordentligt niveau, har vi
+alle sammen et ansvar, også fru Inger Stilling
+Pedersen.
+
+3515
+
+6/1291:1. beh. af f. t. 1. vedr. lægeloven";Elisabeth Arnold
+48017;title_name;"Fru Inger Stilling Pedersen var den første af
+alle talerne i dag, der tog begrebet økonomi
+med ind i debatten, og hvis vi skal undgå, at
+debatten ude i samfundet kommer til at handle
+om penge og kynisme, er det også vores ansvar, og så skal vi holde debatten her fri for
+den slags ting. Det var bare det, jeg gerne ville
+appellere til.
+Og i øvrigt vil jeg sige til fru Inger Stilling
+Pedersen, at vi vil da meget gerne fra vort partis side gå ind i en nærmere debat om lægernes
+uddannelse, om den er god nok. Det er en udmærket ting at tage op, men det anfægter ikke,
+at jeg synes, at vi skal holde et ordentligt debatniveau om det foreliggende lovforslag og de
+problemer, der er knyttet til det.
+(Kort bemærkning).";Elisabeth Arnold
+48755;name_party;":
+Med hensyn til spørgsmålet, om lægernes
+uddannelse er god nok, og her tænker jeg særlig på det psykologiske aspekt, vil vi da også
+gerne være med til at se på denne sag, for der
+er efter min klare opfattelse et problem netop
+på det område.
+Når hr. Jørgen Winther taler om, at det skal
+være sådan, at det ikke må stride imod patienternes ønsker, er det da ganske rigtigt, for det
+står der jo i lovforslaget. Men hvordan skal
+den enkelte læge vurdere det? Det er her, vi
+kommer ind på det psykologiske. På det tidspunkt, patienten bliver spurgt, er han måske
+kørt så langt ned, at han har svært ved at tage
+endelig stilling, og jeg er overbevist om, at der
+vil komme modstridende udtalelser fra en sådan patient gang på gang, og derfor tror jeg, at
+dette lovforslag vil give anledning til mange
+sager. Det er dér, problemet ligger efter min
+mening.
+Den enkelte læge skal også oplyse om behandlingsmulighederne. Hvis en læge nu er
+stærk modstander af naturmedicin, er det
+klart, at man ikke tager højde for de ting, og
+det kan man heller ikke. Man kan ikke tage
+højde for alle muligheder. Men jeg mener også, at vi har set eksempler på, at patienter, som
+efter alt at dømme ville dø inden for en kort
+tid, har levet meget længere efter behandlinger
+med naturmedicin.
+Og her er mit spørgsmål: Kan man bare gennemføre denne lov uden at skele til sådanne
+eksempler? Det synes jeg ikke at man kan.
+
+3516";Køpke Christensen
+50166;title_name;"Inden jeg giver ordet til fru Lis Noer Holmberg for en kort bemærkning, skal jeg gøre opmærksom på, at førstebehandlingerne jo drejer
+sig om principperne i lovforslagene.
+(Kort bemærkning).";Formanden
+50378;name_party;":
+Jeg vil gerne i forbindelse med fru Inger Stilling Pedersens indlæg sige, at jeg tror, at fru
+Inger Stilling Pedersen er blevet misforstået
+lidt, for jeg kan godt følge hende et stykke hen
+ad vejen, når økonomien kommer ind i billedet.
+Jeg har oplevet mange gange på plejehjem,
+at man holder liv i senildemente, og det er jo et
+spørgsmål, om man skal gøre det, for der er
+faktisk mange gange slet ikke noget liv. Der
+ligger bare et væsen og venter på at dø. Det er
+jo et utrolig svært problem.
+Men man har også oplevet gang på gang inden for de senere år, at både ældre og f.eks.
+scleroseramte og andre syge, der sidder alene
+rundt omkring, er blevet reddet i sidste øjeblik
+ved at blive indlagt. De har ikke fået den væske, de har brug for, og så har man konstateret
+på sygehuset, at det var væskemangel, og man
+har i sidste øjeblik reddet flere liv på den måde. Det har en lille smule med nedskæringer
+og økonomi at gøre også, så det skal vi holde
+os fra.
+Jeg har et andet spørgsmål, jeg gerne vil stille, og det er noget, der ligger mig meget på sinde. Blodtransfusion har noget med religion at
+gøre: der er nogle, der ikke vil have, at der skal
+gives blodtransfusion. Men jeg har i mit arbejde som sekretær på et sygehus oplevet, at man
+- også på grund af religion - f.eks. ikke har
+måttet foretage en manuel placentaløsning,
+fordi det, hvis den skulle fqretages af en mandlig læge, stred imod den religion, man havde.
+Det vil altså sige, at en sådan kvinde og måske
+et nyfødt barn skal sætte livet til, fordi hun har
+en tro, der ikke tillader, at en mandlig læge foretager en manuel placentaløsning.
+Jeg tror, denne debat kunne blive uendelig
+lang, hvis vi kom frem med alle de eksempler,
+vi har. Det er et spørgsmål, om man skal tilgodese den enkeltes religion og holdning og så
+bare lade folk dø. Det er utrolig svært for lægerne at tackle dette her, så de kan holde liv i
+folk på trods af disses religion.
+
+3517
+
+6/12 91: 1. beh. af f. t. 1. vedr. lægeloven";Lis Noer Holmberg
+52381;title_name;":
+Debatten har vist, at det at lægge livets afslutning fast i lovparagraffer er uhyre vanskeligt. Jeg synes også, debatten har vist, at vi er
+enige om sigtet i loven, at det er vigtigt at prøve
+at skabe en klarere retstilstand i forbindelse
+med spørgsmålet om behandling/ikkebehandling af mennesker, som er meget alvorligt syge.
+Som det er fremgået, har jeg ikke vovet at
+tage skridtet fuldt ud og lægge op til, at livstestamentet skulle være retsgyldigt. Jeg har, som
+det fremgår af bemærkningerne, lagt mig så
+tæt op ad intentionen om at følge livstestamentet som overhovedet muligt.
+Det fremgår af bemærkningerne, at dér,
+hvor patienten har givet udtryk for sine ønsker
+i forbindelse med en indlæggelse umiddelbart
+før en behandling, enten i livstestamenteform
+eller anden form, skal lægen være både berettiget til og forpligtet til at følge patientens ønsker. Der skal nogle helt sjældne, nogle helt
+tungtvejende hensyn til, hvis man skal fravige
+patientens ønsker, f.eks. det, som er nævnt, at
+man skal kunne redde et fuldbårent foster
+igennem behandlingen. Ved at gøre livstestamentet retsgyldigt ville man i den situation fraskrive sig denne mulighed.
+Det fremgår også af bemærkningerne, at
+hvor patienten forudgående har tilkendegivet
+sin vilje i form af et livstestamente, skal der
+lægges afgørende vægt på dette ønske, og der
+skal nogle meget tungtvejende grunde til for at
+fravige dette ønske.
+I bemærkningerne er der også gjort rede for,
+hvilke betænkeligheder der har været afgørende for, at livstestamentet ikke får retsgyldighed, nemlig vanskeligheden ved præcisering af
+livstestamentet og de komplikationer, som det
+kan få, når det medfører en ubetinget handlepligt for lægen. Men jeg har lyttet mig frem til,
+at der er god vilje til, at vi drøfter disse meget
+vanskelige spørgsmål under udvalgsarbejdet,
+og jeg vil tilsige al mulig støtte til, at vi kan
+finde en løsning, som vi føler vi kan leve med,
+og som ikke gør det endnu vanskeligere, end
+rimeligt er.
+Der er stillet et konkret spørgsmål om definitionen af mindreårige børn, og jeg kan sige,
+at når der ikke er en bestemt aldersgrænse, er
+det, fordi det er min overbevisning, at der må
+foreligge en modenhedsvurdering. En 17-årig
+person vil i nogle tilfælde være i stand til at
+
+3518
+
+argumentere for, om man ønsker blodtransfusion eller ej: det afhænger af individets modenhedsudvikling. Jeg tror ikke, det er lykkeligt at have faste, klare aldersgrænser inde i loven.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Ester Larsen
+54948;title_name;"Jeg foreslår, at lovforslaget henvises til
+Sundhedsudvalget. Hvis ingen gør indsigelse
+mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den sidste sag på dagsordenen var:
+5) Første behandling af beslutningsforslag nr. B
+25:
+Forslag til folketingsbeslutning om oprettelse
+af Danmarks Teknologi- og Udviklingsfond.
+Af Nyrup Rasmussen (S) m.fl.
+(Fremsat 19/11 91).
+Forslaget sattes til forhandling.
+Forhandling
+Industriministeren (Anne Birgitte Lundholt):
+Med dette beslutningsforslag foreslår Socialdemokratiet, at regeringen skal opfordres til
+at fremsætte lov om medfinansiering af udviklingsprojekter. Det er en opfordring, som regeringen gerne tager imod, fordi kendsgerningen
+er, at regeringen allerede har fremsat et sådant
+lovforslag, forslag til lov om Dansk Erhvervsudviklingsfond, som blev fremsat den 30. oktober 1991 og allerede er førstebehandlet i Tinget. Men jeg finder det da glædeligt, at man
+kan konstatere, at regeringen og Socialdemokratiet er enige om, at der er behov for denne
+fond, hvad jo også viste sig, da fonden faktisk
+blev vedtaget i forbindelse med finanslovforhandlingerne forleden nat.
+
+3519 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3520";Formanden
+56217;title_name;"I store træk er der også enighed om udformningen af fonden, idet de fleste af de ting, der
+står i dette forslag til folketingsbeslutning, allerede er indført i regeringens lovforslag. Der er
+nogle enkelte undtagelser og nogle enkelte
+punkter, hvor der er uoverensstemmelser. Men
+mon ikke det er muligt at få sig talt til rette om
+at blive enige om, hvordan Dansk Erhvervsudviklingsfond skal se ud, igennem de drøftelser,
+vi skal have med de partier, der står bag finansloven og dermed bag tilvejebringelsen af
+kapitalen til fonden?
+Regeringens lovforslag blev efter førstebehandlingen den 6. november 1991 henvist til
+Erhvervsudvalget, og i stedet for at indlede en
+ny drøftelse her i salen af den konkrete udformning vil jeg opfordre Socialdemokratiet
+og de øvrige partier bag finansloven og dermed bag fremskaffelse af kapitalen til Dansk
+Erhvervsudviklingsfond til en konstruktiv
+drøftelse om opfyldelse af regeringens lovforslag og dermed også en opfyldelse af mange af
+punkterne i det foreliggende forslag til folketingsbeslutning.
+Dermed skal jeg officielt sige, at regeringen
+selvfølgelig må afvise forslaget til folketingsbeslutning med bemærkning om, at det er indeholdt i regeringens lovforslag, der allerede er
+under behandling.
+(Kort bemærkning).";Industrlmlnlsteren
+57492;name_party;":
+Jeg vil gerne kvittere for ministerens referat
+af det finanslovforlig, der blev indgået forleden nat. Det er rigtigt, at efter fremsættelsen af
+vort beslutningsforslag er der opnået enighed
+om finansiering af udviklingsfonden på 2 mia.
+kr. Kapitalen er nu fremskaffet, hvad den ikke
+var, da vi behandlede regeringens lovforslag
+om oprettelse af en erhvervsudviklingsfond.
+Nu er kapitalgrundlaget på plads, og der er også indgået aftale om formålet, nemlig medfinansiering af udviklingsprojekter og markedsføring. Så de ting er helt på plads.
+Men det, som vi skal bruge denne første behandling til i dag, er at få præciseret noget af
+det indhold, som nødvendigvis er det vigtigste
+i en ny udviklingsfond. Derfor vil jeg selvfølgelig opfordre til, at vi også i dag benytter førstebehandlingen til at give ministeren og det efterfølgende udvalgsarbejde nogle principper
+med på vejen med hensyn til, hvad der skal
+være indholdet i den nye udviklingsfond.
+
+Derfor er det ikke nok blot at henvise til, at
+der nu, er foreslået et udvalgsarbejde. Det er
+væsentligt, at Erhvervsudvalget efter denne
+første behandling har nogle principper at tage
+udgangspunkt i for det videre arbejde. Det er
+baggrunden for, at Socialdemokratiet har
+fremsat et forslag, som jo på væsentlige områder adskiller sig fra industriministerens tidligere fremsatte lovforslag.";Frank Jensen
+58857;name_party;":
+Det er rigtigt, som ministeren sagde, at i og
+med at finansloven nu lykkeligt er forhandlet
+på plads mellem seks partier, er selve regeringens lovforslag nr. L 80 en del af finansloven.
+Og noget af det, der ligger i dette beslutningsforslag, indgår formentlig også som en del af
+finansloven. Det får vi nærmere at se, når vi
+kender det helt eksakte indhold.
+Jeg synes derfor, man må sige, at det foreliggende beslutningsforslag måske ikke er så tosset endda, og vi kan godt diskutere noget af
+indholdet. Men jeg synes, det i virkeligheden
+bør ske som en del af den behandling, vi har af
+regeringens forslag i Erhvervsudvalget. Kommer der nogle ændringsforslag, som har baggrund i dette beslutningsforslag nr. B 25, må
+de indgå i behandlingen i Erhvervsudvalget af
+lovforslag nr. L 80. Mere synes jeg ikke der er
+at sige om den sag, efter at vi har afklaret hele
+den finanspolitiske situation.";Flemming Hansen
+59766;name_party;":
+Det var også med en blanding af tilfredshed
+og undren, at jeg gennemlæste Socialdemokratiets beslutningsforslag, som vi behandler nu.
+Tilfredsheden bunder i, at jeg har måttet konstatere, at Socialdemokratiet stort set har samme holdning som Venstre til at støtte især de
+små og mellemstore virksomheders udviklingsprojekter.
+Min undren går på, at vi netop for ganske
+kort tid siden har førstebehandlet regeringens
+lovforslag til Dansk Erhvervsudviklingsfond,
+som på langt de fleste punkter ligner beslutningsforslaget fra Socialdemokratiet. Derfor
+har vi i Venstre svært ved at se, at der skulle
+være nogen særlig grund til, at Socialdemokratiet fremsætter netop dette forslag lige nu, ikke
+mindst fordi finansieringen af regeringens forslag nu er på plads i finansloven.
+
+(221)
+3521 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3522";Pia Larsen
+60662;title_name;"Alligevel vil jeg gerne kort kommentere et
+par af beslutningsforslagets elementer, som jeg
+i øvrigt mener vi bør drøfte nærmere i Erhvervsudvalget. For det første undrer det mig,
+at forslagsstillerne overhovedet finder anledning til at differentiere enkeltvirksomheders
+udviklingsprojekter fra dels samarbejdende
+private virksomheders, dels private og offentlige virksomheders samarbejde, når der skal tages stilling til, hvordan fondens midler skal anvendes. Det kan efter Venstres opfattelse aldrig blive kriteriet. Kriteriet må altid være projektets art og omfang, som er indeholdt i forslaget om Dansk Erhvervsudviklingsfond.
+Dernæst undrer det mig, at man sætter
+spørgsmålstegn ved de private virksomheders
+evne til at råde over en engageret og kvalificeret ledelse. Forslagsstillerne skriver i bemærkningerne, at det stiller store krav til ledelsens
+evne til at træffe hurtige og vigtige beslutninger vedrørende valg af teknologi, finansiering,
+markeder og kunder m.v. Det er jeg helt enig i,
+men jeg er ikke enig med forslagsstillerne i, at
+det offentlige skulle være bedre til at stille denne ledelseskapacitet til rådighed end de private virksomheder.
+Jeg har absolut tillid til, at de fleste virksomhedsledere er tilstrækkelig kvalificerede til at
+kunne løse sådanne opgaver, og det, de eventuelt måtte mangle i akademiske kvalifikationer - hvis det er det, forslagsstillerne mener har de så meget mere af i engagement og i det
+at brænde for sagen.
+I Venstre ønsker vi ikke, at udefra kommende ledelsesrådgivning skal påduttes virksomhederne. Vi ønsker, at de selv specifikt skal
+give udtryk for, når de har behov for ekstern
+rådgivning. Hvis det er tilfældet, er der masser
+af muligheder for at hyre private konsulentfirmaer, revisorer og lignende. Påduttet eller
+tvungen ledelsesrådgivning skal ikke være en
+betingelse for at opnå støtte til udviklingsprojekter.
+Som sagt mener jeg, at vi bør diskutere disse
+elementer i Erhvervsudvalget i forbindelse
+med regeringens forslag til Dansk Erhvervsudviklingsfond. Venstre afviser beslutningsforslag nr. B 25 som et selvstændigt forslag.";Pia Larsen
+62775;name_party;":
+Der sker da fremskridt herinde, det er såmænd ikke så længe siden, jeg mindes at have
+
+hørt både industriministeren og fru Pia Larsen
+afvise forslag af denne art her, men nu er tonen
+altså ændret.
+Fra vores side kan jeg kun sige, at det i næsten alle detaljer er i overensstemmelse med,
+hvad vi tidligere har foreslået, og hvad vi støtter. Jeg vil da aldeles ikke beskylde Socialdemokratiet for afskrift - det har de en uvane
+med, når det er SF-forslag, der behandles - jeg
+vil bare konstatere, at der åbenbart er meget
+stor parallel tænkning.
+Sammenholdt med regeringens forslag til en
+erhvervsudviklingsfond, der jo i sig selv er en
+meget stor indrømmelse fra regeringens side,
+som jeg gerne vil kvittere for her, er Socialdemokratiets forslag på en række punkter bedre.
+Jeg vil især nævne, at udviklingskontrakter
+mellem virksomheder, offentlige myndigheder
+og institutioner ikke så tit nævnes. Det synes
+jeg er centralt. Jeg vil nævne, at der foreslås en
+bedre administration med en integration i det
+nuværende erhvervsfremmesystem. Det synes
+jeg også er en klar fordel. Og så vil jeg da endelig nævne, at der er en mere sober finansiering,
+idet det står direkte på finansloven, mens regeringen jo som sædvanlig forsøger at bruge
+kreativ bogføring for at fastholde en illusion
+om, at man fastholder udgiftsloftet.
+Efter denne ros er jeg nødt til at komme lidt
+malurt i bægeret. Det drejer sig selvfølgelig om
+det sidste punkt, for vi ved jo alle sammen, at
+der er sluttet et finanslovforlig, og at det har
+nogen betydning for dette forslag. Umiddelbart betyder det, at når det drejer sig om finansieringen, er det regeringens kreative bogføringsmodel, der bruges. Jeg forstod på hr.
+Frank Jensens indlæg, at også på det andet
+punkt er der sket en ændring. Nu er det nemlig
+aftalt, at den fond, der kommer, både skal kunne finansiere udvikling og markedsføring.
+Det, der så står tilbage at spørge om, er for
+det første: Hvor meget står åbent i dag, og hvor
+meget er der allerede aftalt med forligspartierne? Og for det andet: Hvem er omfattet i den
+drøftelse, der skal foregå? Er det alle Folketingets partier, eller er det kun finanslovspartierne? Disse to spørgsmål vil jeg gerne have svar
+på.
+Endelig er der en mangel, jeg gerne vil påpege. I forbindelse med udviklingskontrakter
+burde det præciseres, at de ikke kun kan udbydes i forbindelse med offentlige indkøb - det
+
+3523 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3524";Rahbæk Møller
+65272;title_name;"er en god ting i sig selv - men de bør også kunne udbydes f.eks. i forbindelse med miljøkrav.
+Der er netop et hul i de miljøteknologiske udviklingsprogrammer, som vi efterhånden har i
+Miljøministeriets og Industriministeriets regi og meget fornuftigt i øvrigt - men netop på det
+punkt, hvor vi mangler en teknologi for at opfylde miljøkravene uden skade for virksomhederne, har vi i dag ikke et instrument til at udvikle nye processer og produkter, og det instrument bør selvfølgelig være en miljøudviklingsfond. Jeg håber, at Socialdemokratiet er
+enig med mig i denne sag: det kan være en forglemmelse, men det er bare for tit, at Socialdemokratiet glemmer at have det bæredygtige
+med i deres forslag. Det kan også ses på deres
+faktisk førte politik: jeg tænker især på trafikpolitikken.
+Med disse bemærkninger skal jeg sige, at SF
+støtter det foreliggende forslag.";Rahbæk Møller
+66154;name_party;":
+Forslaget fra Socialdemokratiet om at oprette endnu en fond følger jo den tendens, der
+mere og mere gør sig gældende inden for
+dansk finanspolitik, nemlig at man anvender
+cigarkasseøkonomi. Man tror, det er en god
+ting at oprette særskilte cigarkasser med særskilte formål og særskilte bestyrelser, der kan
+sidde og disponere over den pågældende cigarkasse. Det er efter vores mening aldeles
+uhensigtsmæssigt og på alle punkter noget,
+man skal råde til at lade være med.
+Hvis man ønsker penge brugt på et særligt
+formål, må det fremgå af en konkret bevilling
+på den årlige finanslov: så må man se, om der
+er flertal for den konkrete bevilling. Og hvis
+det er bevillinger af denne art, håber vi ikke,
+der er flertal for det. Men under alle omsÜendigheder, det med at oprette disse særlige fonde er i den grad et skråplan.
+I dette tilfælde vil man starte forsigtigt med
+at afsætte 250 mio. kr. til driften og 250 mio. kr.
+til garantistillelser. Men det fremgår tydeligt af
+bemærkningerne, at det, der er meningen, er,
+at denne fond skal gå hen og blive en endog
+meget stor fond, som årene går, fordi de penge,
+der har været udlånt, eller de penge, der har
+været stillet garanti for, skal blive i fonden, efterhånden som de kommer retur. Og det vil altså sige, at som årene går, kan denne fond få et
+meget betydeligt indestående, og det bryder vi
+
+os ikke om. Særligt bryder vi os ikke om det i
+en situation, hvor statens finanser er så afsporet, som tilfældet er. En statsgæld på 560 mia.
+kr. næste år er ikke en situation, hvori man ligefrem skal råde til at fylde nogle af pengene i
+cigarkasser.
+Vi bryder os heller ikke om selve den måde,
+forslaget er skruet sammen på, det, at der skal
+sidde et udvalg bestående af bare fem personer. Det er tegn på statsstyring, det er statsfascisme af værste karakter, når man tillægger så
+få personer den magt, at de kan sidde og vende
+tommeltotten opad eller nedad, alt efter om de
+ud fra deres subjektive vurdering synes, at noget skal have støtte eller ej. Vi tager kraftigt
+afstand fra den slags tendenser. Det giver ensretning. Det betyder, at det er vennernes venner, det er dem, der er så heldige, at de går til
+golf med en af dem, der sidder i dette udvalg,
+at de er i loge sammen med en af dem, der sidder i dette udvalg, der er sikre på, at deres bevilling nok skal gå glat igennem. Det er akkurat, som vi har set det på en lang række andre
+områder, når der fra det offentliges side skal
+uddeles milde gaver til dem, der opfører sig
+pænt og ordentligt.
+Så er der hele spørgsmålet om, hvorvidt det
+er hensigtsmæssigt at støtte disse områder. Der
+bliver givet eksempler på, hvordan man i USA
+og Japan og andre lande har langt højere investeringsrater inden for forskning og udvikling,
+og det er da rigtigt. Men i de pågældende lande har man så sandelig også en samfundsøkonomi, der er langt, langt bedre end den danske.
+Der er jo en grund til, at danske virksomheder
+ikke bruger flere penge på forskning og udvikling: De har ikke pengene. Danske virksomheder skal i dag være meget heldige, hvis de lige
+akkurat kan slippe for at have underskud. Hvis
+der endelig er nogle virksomheder, der ligefrem har overskud, så ved vi godt, at der er et
+rødt flertal her i salen, der er parat til at komme og klippe dem med højere beskatning. I
+stedet for vil man altså uddele disse milde gaver. Det skal man holde op med. Man skal i
+stedet for nedsætte den beskatning, virksomhederne har. Man skal indføre 125 pct.-afskrivningsregler på disse områder og lade virksomhederne selv disponere. Man skal lade være
+med at tro, at staten og fem mere eller mindre
+tilfældigt udvalgte personer skal tillægges den
+store magt, det er at bestemme, hvordan disse
+penge skal anvendes.
+
+3525 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3526";Kim Behnke
+69976;title_name;"Vi skal derfor med alt, hvad vi overhovedet
+har af muligheder for det, stritte imod dette
+forslag, lige så vel som vi også stritter imod regeringens forslag gående ud på at oprette denne erhvervsudviklingsfond. Begge fonde håber
+vi aldrig nogen sinde bliver til noget, og vi skal
+gøre, hvad vi kan for det.
+(Kort bemærkning).";Kim Behnke
+70320;name_party;":
+Jeg synes blot, hr. Kim Behnke burde vide,
+at især i USA gælder det, at en meget, meget
+stor del af erhvervslivets forskning betales direkte af statskassen. Desværre sker det i forbindelse med militærkontrakter. Men derfor er
+kilden jo stadig væk den samme.
+(Kort bemærkning).";Rahbæk Møller
+70614;name_party;":
+Af en eller anden grund er der en tendens til,
+at når ordførere - også hr. Rahbæk Møller fra
+SF - skal forsøge at så lidt tvivl om Fremskridtspartiets synspunkter, drager man altid
+USA frem. Det gør man på sundhedsområdet,
+og det gør man på så mange andre områder.
+Jeg vil gerne slå fast, så det ikke kan misforstås: Fremskridtspartiet er ikke specielt tilhængere af det amerikanske system. Der er
+mange, mange ting i det amerikanske samfundssystem, vi ikke bryder os om. Det kan da
+også godt være, at der er nogle ting, vi synes
+der er bedre end de danske. Men på dette område synes vi ikke at USA er specielt efterlignelsesværdigt - slet ikke.
+Og jeg er fuldstændig enig med hr. Rahbæk
+Møller. Det er uforskammet med disse gigantiske beløb, der i USA bruges på militærkontrakter osv. Derfor gav jeg også et bud på,
+hvordan en fornuftig dansk forsknings- og udviklingspolitik bør sammensættes. Den bør
+bygge på 125 pct.-afskrivningsreglen, og den
+bør bygge på, at initiativet er ude i virksomhederne, og at initiativet findes i form af, at man
+får nogle gode ideer, og ikke, at man har nogle
+dygtige advokater til at udfylde formularer,
+som man kan sende ind til disse fem mennesker, der skal sidde og uddele pengene på nåde, alt efter om virksomhederne er en af dem
+med gode eller en af dem med dårlige karakterer. Det er det, vi ikke bryder os om. Vi skal
+have initiativet ud i virksomhederne, og det får
+
+man med 125 pct.-afskrivningsreglen. Så derfor har vi i en lang række sammenhænge foreslået, at den udvides til at gælde alt inden for
+forskning og udvikling og ikke kun med de begrænsninger, der i øjeblikket er på den.
+Det er, hvad vi mener der skal til, og så interesserer det os egentlig ikke så meget, hvad
+der sker i USA og Japan. Jeg nævnte blot, at
+når man har en højere grad af forskningsaktivitet i de pågældende lande, skyldes det også, at
+virksomhederne i de pågældende lande har et
+større overskud, altså et større potentiale at
+bruge af. Problemet i Danmark er, at vores
+virksomheder simpelt hen ikke har noget overskud, og dermed har de heller ikke pengene til
+rådighed til at sætte forskning i gang.
+(Kort bemærkning).";Kim Behnke
+72779;name_party;":
+Jeg beklager, at jeg reagerer lidt sent på hr.
+Kim Behnkes ordførertale. Men jeg synes altså
+næsten ikke, at vi kan holde ud at have det stående, at hr. Kim Behnke siger, at det, virksomhederne har brug for, det er en lavere selskabsskat, en lavere skat.
+Man kan da ikke sige andet end, at når man
+går ned fra 50 pet. til 40 pet., til 38 pct., til 34
+pct., så er det da i allerhøjeste grad det, der er
+lykkedes for regeringen, og det synes jeg da ikke kan stå uimodsagt, for det sagde hr. Kim
+Behnke jo, at det, det drejede sig om, var en
+lavere skat. Mon ikke vi er ved at have rekord
+som det laveste i EF nu? Det synes jeg i virkeligheden er ganske godt klaret på 2-3 år.
+(Kort bemærkning).";Flemming Hansen
+73492;name_party;":
+Jeg vil bare lige præcisere, at jeg ikke har
+beskyldt hr. Kim Behnke for at være ubetinget
+tilhænger af det amerikanske system, men hr.
+Kim Behnke hævdede og gentog, at når man i
+USA og Japan forsker mere i erhvervslivet,
+skyldes det, at de har lavere skatter. Dels er det
+en tvivlsom påstand, som hr. Flemming Hansen lige påpegede, men dernæst betales for
+USA's vedkommende en meget stor del af
+forskningen direkte fra statsbudgettet. For Japans vedkommende betales der mindre, men
+til gengæld har den japanske stat en meget stor
+koordinerende rolle i form af meget store udviklingsprogrammer. Så der er meget stor
+statslig indflydelse i begge lande.
+
+3527 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3528
+(Kort bemærkning).";Rahbæk Møller
+74282;name_party;":
+Jeg bliver nødt til at sige både til hr. Flemming Hansen og hr. Rahbæk Møller, at selvfølgelig er Fremskridtspartiet tilhænger af lavere
+skatter. Det var Fremskridtspartiet, der sammen med regeringen fik selskabsskatten sat
+ned fra 50 pet. i første omgang til 40 pet. og
+siden fra 40 pet. til 38 pet., og vi stemmer selvfølgelig også for, når selskabsskatten nu sættes
+ned til 34 pet. Det manglede da bare.
+Men det var slet ikke det, der var mit budskab. Budskabet lå i at få forbedret afskrivningsreglerne. Jeg gentog det så mange gange,
+at vi skal have indført denne 125 pct.-afskrivningsregel, og den skal gælde for al forskning
+og udvikling.
+Så gjorde jeg den bemærkning, at når man
+fra Socialdemokratiets side i teksten påpeger,
+at f.eks. USA og Japan har en højere grad af
+forskning og udvikling, er det efter min opfattelse en af årsagerne til, at virksomhederne i de
+pågældende lande også har et større overskud,
+så de har nogle flere penge at bruge til forskning og udvikling. Jeg har slet ikke snakket om
+skatteniveauet i Japan og USA. De har et større overskud, og problemet i Danmark er, at de
+færreste danske virksomheder har overskud.
+Alt for mange har underskud, og alt for mange
+kører med den ene fod på et stykke våd håndsæbe og den anden på en konkurs. Det er klart,
+at når man ude i en virksomhed skal sidde og
+rebe sejlene osv., er forskning og udvikling ikke det første, man bruger sine penge på. Men
+det kan man stimulere ved at indføre denne
+125 pct.-afskrivningsregel, og det har ikke noget som helst at gøre med, hvor høj eller hvor
+lav - forhåbentlig lav - selskabsskatteprocenten i øvrigt er.";Kim Behnke
+75922;name_party;":
+Som tidligere ordførere allerede har sagt, er
+der indgået et finanslovforlig forleden nat, og
+vi behandler i øjeblikket et lovforslag fra regeringen i Erhvervsudvalget, som også omhandler nogle af emnerne i beslutningsforslag nr. B
+25. Derfor foreslår vi, at vi ser på forslaget fra
+Socialdemokratiet som et supplement, og vi er
+villige til at se på eventuelle ændringsforslag til
+ministerens lovforslag.
+Vi kan derfor ikke støtte det foreliggende
+forslag.";Sonja Albrink
+76399;name_party;":
+Jeg tror, jeg vil tilslutte mig de bemærkninger, som CD kom med. Og jeg kan tilføje, at så
+har man jo heller ikke sagt for meget.";Lone Dybkjær
+76556;name_party;":
+Jeg vil gerne udtrykke lidt enighed med Socialdemokratiet i det formål, der er skitseret i
+beslutningsforslaget her, altså formålet med
+hensyn til styrkelse af konkurrenceevnen i
+dansk erhvervsliv gennem bl.a. risikofyldte udviklingsprojekter.
+Det er et rigtigt og godt sigte, der er med
+dette beslutningsforslag, men som det tidligere
+er sagt, har vi allerede regeringens parallelforslag liggende i Erhvervsudvalget, lovforslag nr.
+L 80, og finansieringen af dette kom på plads
+forleden i finanslovforliget. Derfor vil vi gerne
+se konstruktivt på, om der er nogle elementer
+fra Socialdemokratiets beslutningsforslag, som
+kan indarbejdes i regeringens lovforslag. Lad
+os prøve at overveje det under arbejdet i Erhvervsudvalget.";Lysholm Christensen
+77302;name_party;":
+Jeg vil meget gerne takke for den meget brede tilslutning til Socialdemokratiets beslutningsforslag om at oprette en teknologi- og udviklingsfond. Jeg forstod det sådan, at der i
+hvert fald fra konservativ side, fra hr. Flemming Hansens side, var en uforbeholden støtte
+til de intentioner, som ligger i Socialdemokratiets forslag.
+Industriministeren var forbavset over, at Socialdemokratiet opretholder sit forslag, når der
+er indgået et ,finanslovforlig. Det kan jeg ikke
+forstå at industriministeren er så forbavset
+over, for på væsentlige områder adskiller Socialdemokratiets beslutningsforslag sig fra det
+lovforslag, industriministeren havde til behandling her i salen den 6. november. Det afgørende for os er, som vi tidligere har fremført
+også over for industriministeren, at denne fond
+- hvor det ikke er overskriften, navnet på fonden, barnets navn, der skal være det afgørende
+- bliver en integreret del af det eksisterende
+enstrengede erhvervspolitiske system, at vi ikke får nye knopskydninger.
+Det andet, der er helt afgørende for os, er, at
+den nye fond bliver knyttet an til Erhvervsudviklingsrådet. Jeg går ud fra, vi kan få det forlig, der blev indgået forleden nat, udmøntet i
+
+3529 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3530";Frank Jensen
+78616;title_name;"noget, der kan være bred enighed om i folketingssalen. Vi er i hvert fald meget interesseret
+i, at vi senere kan få en dialog med industriministeren om finanslovforliget, som kan føre til
+en vedtagelse af en lov her i salen, sådan at vi
+kan få udmøntet de 2 mia. kr., der er indgået
+aftale om i finansloven. Men vi ønsker altså
+ikke, at det skal være nye knopskydninger,
+men at det skal være en del af det enstrengede
+system, og vi ønsker, at Erhvervsudviklingsrådet skal være knyttet an til det derved, at Erhvervsudviklingsrådet får indflydelse på udpegningen af de bestyrelsesmedlemmer, som
+skal sidde i den nye fondsbestyrelse.
+Fru Pia Larsen hæftede sig ved vores forslag
+om oprettelse af et managementpanel. Jeg forstod simpelt hen ikke fru Pia Larsens forbehold over for at få et managementpanel. Der er
+ikke noget ønske fra vores side om, at nogen
+skal påduttes professionel rådgivning fra et
+managementpanel, tværtimod, men fru Pia
+Larsen, som har beskæftiget sig med erhvervspolitik tidligere, ved også, at i de små og mellemstore virksomheder er management et væsentligt problem for at kunne implementere
+anvendelsen af den nye teknologi og sætte
+større udviklingsarbejder i gang. Det kræver
+ud over kapitalgrundlaget også professionel
+managementviden, og derfor er det for os at se
+væsentligt, at vi får knyttet et management an
+til den nye fond, således at fondsbestyrelsen
+kan sikre sig, at man får den nødvendige udvikling ud af både virksomhedens egne investeringer og af de penge, som fonden skyder
+ind.
+Jeg er meget enig med hr. Rahbæk Møller i,
+at der bestemt er kommet nye vinde i den erhvervspolitiske diskussion her på det seneste,
+for det er ikke mere end to år siden, at de samme partier, som roser dette initiativ, var med til
+hårdt og brutalt at afvikle den gamle udviklingsfond, som af både industriens egne folk,
+Forskningspolitisk Råd og alle andre kvalificerede er vurderet som et af de væsentligste instrumenter, vi tidligere har haft til at stimulere
+den private sektors forsknings- og udviklingsintensitet. Men det er da dejligt, når folk bliver
+klogere, og det er da også dejligt, at industriministeren er blevet klogere i denne sag.
+Det fjerde element er helt afgørende for os,
+og da fru Lone Dybkjær ikke var glad for at
+sige så meget i dag, kan jeg henvise til det, som
+
+fru Lone Dybkjær sagde under debatten den 6.
+november 1991 her i salen om industriministerens forslag om udviklingsfond, hvor fru Lone
+Dybkjær var meget optaget af spørgsmålet om
+sekretariatsbetjeningen. Det var vi også ved
+samme lejlighed, og derfor var vi i vores beslutningsforslag, som var udarbejdet før industriministerens lovforslag, meget optaget af at
+få sekretariatet placeret i forhold til Industriog Handelsstyrelsen, så selv om fru Lone Dybkjær ikke ville sige så meget i dag, var jeg i
+hvert fald glad for de bemærkninger, som fru
+Lone Dybkjær gjorde den 6. november om det
+spørgsmål.
+Jeg håber også, at vi ved den videre udvalgsbehandling vil være i stand til at få krydset regeringens lovforslag og Socialdemokratiets beslutningsforslag på det felt. Jeg er nemlig meget enig i de betragtninger, som fru Lone Dybkjær havde om nødvendigheden af at være i et
+noget større miljømæssigt sekretariat, og den
+synergieffekt, der kan opstå ved at være i Industri- og Handelsstyrelsen er vi meget optaget
+af. Selvfølgelig er der behov for en vis selvstændighed i sekretariatet, for der kommer også viden ind til sekretariatet fra enkeltvirksomheder, så det er nødvendigt, at der er en meget
+stor grad af anonymitet, så tingene ikke bliver
+spredt vidt og bredt omkring.
+Det femte i vores beslutningsforslag er, at vi
+får flere redskaber at operere med i den nye
+fond, bl.a. de udviklingskontrakter, som hr.
+Rahbæk Møller var optaget af, og som var en
+meget væsentlig del af den gamle udviklingsfond og nok det mest positive element, vi havde til at få større innovationsprocesser i gang i
+den private sektor: derfor er det også en væsentlig del af det socialdemokratiske forslag.
+Øvrige dele er, at man i vores forslag direkte
+opererer med tilskud til feasibility studies, altså til undersøgelser, der kan føre frem til en
+egentlig ansøgning om at få etableret et større
+udviklingsprogram. Der er også lån, garantier,
+og der er indarbejdet forslag til tilbagebetalingsdelen.
+Vores ambition har været at nå op på, at fonden kunne medfinansiere udviklingsprojekter
+for op til 1 mia. kr. om året, og det mål ser vi
+også gerne bliver resultatet af de forhandlinger, vi nu skal i gang med om udmøntningen af
+aftalen om oprettelse af en fond på 2 mia. kr.
+
+3531 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3532";Frank Jensen
+83296;title_name;"Til hr. Rahbæk Møller, som med rette
+spurgte, hvad der nu var aftalt, og hvad der var
+tilbage at aftale, vil jeg sige, at der er aftalt et
+kapitalgrundlag på 2 mia. kr. til oprettelse af
+fonden, og at de skal gå til udviklingsaktiviteter og markedsføring. Derudover er der intet
+aftalt, så der er også plads for SF, som har været utrolig interesseret i denne sag tidligere både i Erhvervsudvalget og i Folketingets Forskningsudvalg, til at komme med positive bidrag
+til det udvalgsarbejde, der forestår.
+Vi er interesseret i at få regeringens lovforslag koblet sammen med dette beslutningsforslag, og det kunne jeg forstå at Kristeligt Folkepartis ordfører var enig i.
+Hr. Kim Behnke svingede sig højt op og
+kaldte det statsfascisme, meget store ord, som
+må stå for Fremskridtspartiets ordførers egen
+regning. Jeg vil bare sige til hr. Kim Behnke, at
+de lande, som tidligere har fulgt Fremskridtspartiets råd om en udelukkende skattefinansieret stimulans af forsknings- og udviklingsaktiviteter ved at give 125 pct.s fradrag på forskning og udvikling, har gjort meget negative erfaringer med det, og jeg kan sige, at både Sverige og Finland har udnyttet den mulighed.
+Det, man fik, var en ordentlig oppustning af
+virksomhedernes statistiske forsknings- og udviklingsaktiviteter, men når man så på, hvad
+det var for nogle dele, man overførte til 125
+pct.s fradrag, var den forsknings- og udviklingsaktivitet, der var forbundet med det, begrænset.
+Det er klart, at hvis man gennemfører hr.
+Kim Behnkes forslag, vil man se, hvordan
+kreativiteten vil udfolde sig, og så vil virksomhederne snart kunne overføre alle omkostninger til 125 pct.s fradrag, og hvor er vi så henne?
+Så har hr. Kim Behnke på ingen måde styr
+over provenuomkostningerne ved initiativet,
+men jeg kan forstå, at hr. Kim Behnke principielt gerne vil støtte, at Danmark rejser sig og
+får øget sin forsknings- og udviklingsintensitet,
+for det er helt klart det, der giver vækstpotentialerne i beskæftigelse og i indkomst for virksomhederne i fremtiden. ,
+I øvrigt vil jeg gerne slutte med at sige tak
+for den meget positive modtagelse, og jeg ser
+frem til, at vi nu meget hurtigt i Erhvervsudvalget kan få koblet det, der var grundlaget i regeringens forslag, nemlig oprettelsen af en fondsdannelse, sammen med en kapital på 2 mia. kr.
+
+Pengene er fundet, og nu skal vi have styringsredskaberne på plads, og det skal vel ikke forhindre, at SF i udvalgsarbejdet kan bidrage
+positivt til at få det egentlige indhold ind. Der
+er vel ingen af os, der har indgået finanslovforlig, der er interesseret i at holde partier ude fra
+at komme med positive bidrag til lovbehandlingen. Der skal et lovforslag igennem salen,
+det er ikke noget, der skal foregå i Industriministeriet eller Finansministeriet, men her i salen, og derfor skal Erhvervsudvalget have det
+her på plads meget hurtigt.
+(Kort bemærkning).";Frank Jensen
+86176;name_party;":
+Jeg takker hr. Frank Jensen for en meget positiv besvarelse af mine spørgsmål. Jeg forstår,
+at det eneste, der er aftalt, er selve fondens finansiering og dens formål, nemlig udvikling
+og markedsføring, niens resten står åbent. Jeg
+forstår også, at det er Socialdemokratiets opfattelse, at alle Folketingets partier kan deltage
+i den videre udmøntning.
+Det, der så står tilbage for mig at spørge om,
+er: Dækkes denne opfattelse også af den anden side af forligspartierne? Vil industriministeren bekræfte, at hun er enig med hr. Frank
+Jensen i denne fortolkning?
+(Kort bemærkning).";Rahbæk Møller
+86774;name_party;":
+Lad det stå krystalklart både for hr. Frank
+Jensen og for etnologer, der om 10.000 år skal
+læse, hvad vi har sagt her i dag - for der er nok
+ikke ret mange andre, der gør det - at når jeg
+brugte benævnelsen statsfascisme, var det ikke
+- og jeg understreger: ikke - om, hvorvidt vi
+skal have forskning og udvikling, men om, at
+man nedsætter denne lille klike på bare 5 personer, og disse 5 personer vender så tommeltotten opad eller nedad. Man tillægger disse få
+personer magt til, at de med deres subjektive
+vurdering af de enkelte projekter kan spille
+Vorherre over for de virksomheder, der ansøger, og det bryder vi os ikke om, for det giver
+en ensretning og en styring, som ikke hører
+hjemme i et samfund som det danske.
+Hr. Frank Jensen var meget præcis i sin beretning om, at det nu bliver regeringens forslag
+med de 2 mia. kr., og så implementerer man
+lidt af hr. Frank Jensens og hr. Nyrup Rasmus-
+
+3533 6/12 91: 1. beh. af f. t. beslutn. om oprettelse af Danmarks Teknologi- og Udviklingsfond 3534";Kim Behnke
+87796;title_name;"sens ideer fra dette forslag, og så er den hjemme. Hr. Frank Jensen sagde også, at man nu
+har fundet de 2 mia. kr. Kunne hr. Frank Jensen ikke over for Folketinget åbenbare, hvor
+de 2 mia. kr. er fundet henne? For under behandlingen af regeringens og industriministerens forslag var problemet netop, at regeringen
+havde disponeret i retning af, at det var Fremskridtspartiet, der skulle finde de 2 mia. kr.,
+men at den i øvrigt sammen med Socialdemokratiet ville sammensætte fonden og bestemme, hvad den skulle lave. Resultatet af den behandling blev, at vi krystalklart fik slået fast, at
+den fond blev ikke til noget, for vi var ikke interesseret i at skrabe pengene sammen. Vil hr.
+Frank Jensen fortælle, hvor de 2 mia. kr. skal
+komme fra?
+Industriministeren (Anne Birgitte Lundholt):
+Jeg blev spurgt, om det var rigtigt, at de to
+forslag skulle arbejdes sammen. Jeg kan sige til
+hr. Rahbæk Møller, at det, jeg har talt om, er,
+at der er en del af dette forslag, der i forvejen
+er indeholdt i regeringens forslag, og skulle der
+under udvalgsbehandlingen af regeringens forslag vise sig at være visse andre elementer, der
+skal indarbejdes i det, går vi selvfølgelig positivt ind i den drøftelse. Men da jeg gjorde
+klart, at vi afviste det foreliggende beslutningsforslag, skal man ikke forvente, at beslutningsforslaget som helhed inddrages i lovforslaget.
+Til de øvrige, der har spurgt om, hvem der
+inddrages i forhandlingerne om lovforslag nr.
+L 80, skal jeg sige, at jeg føler, at det er naturligt, at de partier, der har deltaget i finansieringen af regeringens lovforslag, også deltager i
+udfyldelsen af regeringens lovforslag.
+(Kort bemærkning).";Kim Behnke
+89466;name_party;":
+Til sidst vil jeg gerne kvittere for industriministerens imødekommenhed over for at kunne
+samarbejde om at udmønte loven, og der blev
+også vist åbenhed over for at tage dele af det
+socialdemokratiske beslutningsforslag med
+ind i det endelige lovforslag. Det var en imødekommenhed, som havde været på sin plads i
+industriministerens første indlæg.
+Jeg skal sige til hr. Kim Behnke, som spurgte
+om, hvor finansieringen kom fra, at der ikke er
+stukket noget under stolen i denne sag. Det
+fremgår direkte af aftalen, hvor pengene kom-
+
+mer fra, nemlig fra Bygge- og Boligfonden og
+fra Hypotekbankens reserve. Sådan er det, så
+det er åbenlyst for alle, hvor pengene kommer
+fra.
+Det er ikke sådan, som det var i sin tid, da
+hr. Kim Behnke bidrog til, at vi kunne få
+Grundforskningsfonden på plads. Vi takker
+for de penge og håber nu også, de kan gøre
+gavn ved at øge dansk grundforskningsaktivitet.
+(Kort bemærkning).";Frank Jensen
+90398;name_party;":
+Jeg skal bare konstatere, at der indlysende
+er en uenighed mellem de to forligsparter om,
+hvem der kan være med til at udmønte beslutningen i detaljer. Jeg skal ikke bore mere i det,
+blot konstatere, at den uenighed altså eksisterer. Jeg håber selvfølgelig, at det bliver Socialdemokratiet, der vinder tovtrækkeriet, og at
+det flertal, der formodentlig er i Folketinget for
+at stramme regeringens forslag op, faktisk også
+udmøntes.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Rahbæk Møller
+90981;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Erhvervsudvalget. Hvis ingen
+gør indsigelse mod dette forslag, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Ivar Hansen
+91228;title_name;":
+Der er ikke mere på dagsordenen.
+Justitsministeren (Engell) har meddelt mig,
+at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af retsafgiftsloven.
+(Forhøjelse af tinglysningsafgiften).
+(Lovforslag nr. L 140).
+
+3535
+
+6/12 91: Meddelelser fra formanden";Ivar Hansen
+91520;title_name;"Undervisnings- og forskningsministeren
+(Bertel Haarder) har meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring a f lov om depositum ved ungdomsuddannelser og videregående
+uddannelser og gebyr ved prøveforberedende enkeltfagsundervisning til højere forberedelseseksamen. (Bortfald af depositumordningen).
+(Lovforslag nr. L 141)..
+Forslag til lov om ændring af lov om statens
+uddannelsesstøtte. (Ændring a f egenindkomstbegrebet og opgørelsen af indkomstgrundlaget
+samt ændringer som følge af ressortomlægning
+fra Undervisnings- og Forskningsministeriet til
+Finansministeriet).
+(Lovforslag nr. L 147).
+Landbrugsministeren (Tørnæs) har meddelt
+mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om støtte til
+miljøforbedrende investeringer i mindre landbrug m.v.
+(Lovforslag nr. L 142).
+Arbejdsministeren (Kirkegaard) har meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om arbejdstilbud til ledige. (Introduktionsperiode, maksimal aflønning i offentlige arbejdstilbud m.v.).
+(Lovforslag nr. L 143).
+Udenrigsministeren (Ellemann-Jensen) har
+meddelt mig, at han ønsker skriftligt at fremsætte :
+Forslag til lov om ændring af lov om forbud
+mod handel med Den Sydafrikanske Republik.
+(Lovforslag nr. L 145).
+Boligministeren (Svend Erik Hovmand) har
+meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om individuel boligstøtte. (Stramning af arealnorm).
+(Lovforslag nr. L 146).
+Trafikministeren (Ikast) har meddelt mig, at
+han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om udbygning af Københavns Lufthavn, Kastrup.
+(Lovforslag nr. L 148).
+
+3536
+
+Industriministeren (Anne Birgitte Lundholt)
+har meddelt mig, at hun ønsker skriftligt at
+fremsætte:
+Forslag til lov om ændring af lov om aktieselskaber og lov om anpartsselskaber. (Kapitalkrav).
+(Lovforslag nr. L 150).
+Skriftlig fremsættelse af orslag:";Anden næstformand
+93489;title_name;":
+Hermed tillader jeg mig for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af retsafgiftsloven.
+(Forhøjelse af tinglysningsafgiften).
+(Lovforslag nr. L 140).
+Lovforslaget har til formål at forhøje tinglysningsafgiften fra 500 kr. til 700 kr. Forslaget er
+led i aftalerne omkring forslaget til finansloven
+for 1992.
+Ved at forhøje tinglysningsafgiften med 200
+kr. tilvejebringes dels grundlaget for en delvis
+finansiering af edb i tinglysningen, dels en generel budgetforbedring.
+Jeg fremsatte den 27. november 1991 et forslag til ændring af tinglysningsloven, som hvis det vedtages -r- bl.a. indebærer indførelse
+af edb i tinglysningen over en 8-årig periode.
+De samlede etableringsudgifter ved denne
+tinglysningsreform er ca. 375 mio. kr. Udgifterne foreslås finansieret ved en kombination af
+besparelser og indtægter og ved en forhøjelse
+af tinglysningsafgiften med 30 kr.
+Nærværende lovforslag indebærer som
+nævnt en forhøjelse af tinglysningsafgiften
+med 200 kr. Heraf udgør de 30 kr. finansieringen af edb i tinglysningen, mens de resterende
+170 kr. tilvejebringer den førnævnte generelle
+budgetforbedring. Det samlede merprovenu
+anslås til ca. 272 mio. kr. i 1992 og til ca. 242
+mio. kr. i de følgende år.
+Idet jeg i øvrigt henviser til lovforslaget og
+de ledsagende bemærkninger, skal jeg hermed
+anbefale forslaget til det høje Tings velvillige
+behandling.
+Undervisnings- og forskningsministeren (Bertel
+Haarder):
+Hermed tillader jeg mig for det høje Ting at
+fremsætte:
+
+3537
+
+6/12 91: Skriftlig fremsættelse
+
+[Undervisnings- og forskningsministeren]
+Forslag til lov om ændring af lov om depositum ved ungdomsuddannelser og videregående
+uddannelser og gebyr ved prøveforberedende enkeltfagsundervisning til højere forberedelseseksamen.
+(Lovforslag nr. L 141).
+I forbindelse med forhandlingerne om finansloven for finansåret 1992 er det besluttet,
+at depositumordningen skal bortfalde.
+Derimod
+skal
+gebyrordningen
+ved
+enkeltfagsundervisning fortsætte.
+Uddannelsessøgende, der har indbetalt depositum, får dette tilbagebetalt, når de afslutter
+deres uddannelse.
+Det overlades til undervisnings- og forskningsministeren at bestemme, at depositumordningen skal ophøre helt, dog først efter 31.
+december 1995. Ophør af ordningen medfører,
+at de uddannelsessøgende, der er indskrevet
+på en uddannelse, som endnu ikke er afsluttet,
+skal have det indbetalte depositum tilbagebetalt.
+Alle, der har modtaget meddelelse om, at de
+før 1. januar 1992 er godkendt optaget på en
+uddannelse, skal indbetale depositum, også
+selv om uddannelsen først begynder efter 1. januar 1992.
+Afskaffelsen af depositum knyttes herved til
+et klart kriterium, og der gribes ikke ind i allerede iværksatte administrative procedurer, og
+indtægterne for 1991 påvirkes ikke.
+Der vil efter forslaget ikke blive indbetalt
+deposita for fremtiden, og udbetalingerne vil
+som følge heraf formindskes gradvis.
+Lovforslaget er udformet med henblik på en
+administrativt enkel afvikling af depositumordningen.
+Idet jeg i øvrigt henviser til lovforslaget med
+tilhørende bemærkninger, tillader jeg mig at
+anbefale forslaget til hurtig og velvillig behandling i det høje Ting.
+Undervisnings- og forskningsministeren (Bertel
+Haarder):
+Jeg tillader mig herved for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om statens
+uddannelsesstøtte.
+(Lovforslag nr. L 147).
+Formålet med lovforslaget er:
+
+3538
+
+1) at ændre lovens egenindkomstbegreb, således at udbytteindkomst over 30.000 kr. indgår (som konsekvens af ændrede regler i
+skattelovene), og således at »overskud af
+danske ejendomme« fradrages,
+2) at ændre opgørelsen af indkomstgrundlaget, der anvendes for forældrene i forbindelse med beregning af stipendium til
+18-årige uddannelsessøgende (som konsekvens af de ændrede regler i skattelovene
+om udbytteindkomster), og
+3) at ændre visse administrative bestemmelser
+(som konsekvens af en ressortomlægning
+fra Undervisnings- og Forskningsministeriet til Finansministeriet af administrationen
+af statens garantiforpligtelse for studielån i
+pengeinstitutter, efter at statsgarantien er
+meddelt, samt af lov om tilskud til afvikling
+af studiegæld og om eftergivelse af studiegæld).
+Baggrunden for ændringerne vedrørende
+udbytteindkomst og opgørelsen af indkomstgrundlaget er den ved lov nr. 218 af 10. april
+1991 gennemførte ændring af forskellige skattelove (ophævelse af dobbeltbeskatningen af
+aktieudbytter m.v.).
+For at få maksimalt stipendium og studielån
+ifølge lov om statens uddannelsesstøtte må en
+uddannelsessøgendes egenindkomst i støtteåret ikke overstige et nærmere bestemt beløb.
+Egenindkomsten er ifølge loven enhver positiv
+indkomst, der henføres til eller indgår i den
+personlige indkomst og kapitalindkomsten
+med fradrag af stipendium efter loven samt af
+renter af beløb opsparet i henhold til lov om
+uddannelsesopsparing.
+Som følge af ændringen af skattelovene indgår udbytteindkomster ikke længere i kapitalindkomsten. Udbytteindkomster på over
+30.000 kr. vil hos skattemyndighederne blive
+registreret som en særskilt indkomstart. Det
+foreslås derfor, at denne indkomstart fremtidig
+skal indgå i egenindkomsten.
+Ifølge loven beregnes stipendiet til 18-årige
+uddannelsessøgende ud fra forældrenes samlede indkomstgrundlag på grundlag af indkomsten for det andet kalenderår forud for støtteåret.
+De nugældende regler om indkomstgrundlag går i store træk ud på, at man anvender
+summen af den personlige indkomst og positiv
+kapitalindkomst, dvs. det samme grundlag,
+
+3539
+
+6/12 91: Skriftlig fremsættelse
+
+[Undervisnings- og forskningsministeren]
+som anvendes ved beregning af 6 pct.-indkomstskat, dog uden bundfradrag. Til dette
+grundlag lægges et beregnet formueafkast af
+visse lavtforrentede aktiver. Det faktiske afkast
+skal fragå i det beregnede formueafkast.
+Når udbytteindkomsten fra og med 1991 er
+udgået af 6 pet.-grundlaget, skal udbytteindkomsten ej heller ifølge lovforslaget kunne fragå i det beregnede formueafkast. Efter lovforslaget vil det alene være kapitalindkomst, som
+er omfattet af personskattelovens § 4, stk. 1, nr.
+4 og 5, hvori der indeholdes udbytteskat, der
+kan fragå i det beregnede formueafkast.
+Blandt de indkomster, som tidligere ikke
+blev medregnet ved opgørelsen af en støttemodtagers egenindkomst, var »lejeværdi af
+egen bolig«. Den automatisering af indkomstkontrollen, som blev gennemført med virkning
+fra støtteåret 1991, medfører, at denne indkomstpost nu indgår i egenindkomsten. Dette
+har givet anledning til kritik. Skattemyndighederne vil ikke kunne oplyse »lejeværdi af egen
+bolig«, men alene indkomstposten »overskud
+af danske ejendomme«. Efter forslaget vil denne indkomstkomponent udgå ved opgørelsen
+af egenindkomsten fra indkomståret 1991.
+Idet jeg i øvrigt henviser til lovforslaget med
+tilhørende bemærkninger, tillader jeg mig at
+anbefale lovforslaget til hurtig og velvillig behandling i det høje Ting.
+Landbrugsministeren (Tørnæs):
+Hermed skal jeg for det høje Ting fremsætte:
+Forslag til lov om ændring af lov om støtte til
+miljøforbedrende investeringer i mindre landbrug m.v.
+(Lovforslag nr. L 142).
+Hermed tillader jeg mig for det høje Folketing at fremsætte forslag om ændring af lov om
+støtte til miljøforbedrende investeringer inden
+for jordbruget.
+Lovforslaget er en konsekvens af regeringens handlingsplan for en bæredygtig udvikling i landbruget. Som følge af skærpede krav
+til udbringning af husdyrgødning er der behov
+for yderligere at investere i opbevaringsanlæg
+inden udgangen af 1994.
+Det er regeringens hensigt, at der fortsat skal
+være mulighed for offentlige tilskud til disse
+investeringer. I overensstemmelse hermed foreslås den gældende miljøstøttelov forlænget.
+
+3540
+
+I forhold til den pågældende lov foreslås en
+ændring i tilskudssatserne, således at der nu
+normalt gives 35 pet. i tilskud uafhængigt af
+antal dyreenheder og opbevaringskapacitet.
+Dog kan der for fælles biogasanlæg ydes mere
+end 35 pet.
+Lovforslaget åbner mulighed for, at der til
+samme ejendom kan ydes støtte mere end én
+gang, idet der dog sættes et loft for det samlede
+tilskud på 150.000 kr.
+Idet jeg i øvrigt henviser til lovforslagets bemærkninger, anbefaler jeg lovforslaget til Fol""
+ketingets hurtige og velvillige behandling.
+Arbejdsministeren (Kirkegaard):
+Jeg tillader mig herved at fremsætte:
+Forslag til lov om ændring af lov om arbejdstilbud til ledige. (Introduktionsperiode, maksimal aflønning i offentlige arbejdstilbud m.v.).
+(Lovforslag nr. L 143).
+Lovforslaget har to formål: dels at skabe
+større incitamenter for ledige til selv at søge
+arbejde, dels at øge antallet af private arbejdstilbud.
+Disse formål opnås ved at:
+- maksimere aflønningen i offentlige arbejdstilbud til 154.000 kr. årligt,
+- indføre en uges introduktionsperiode forud
+for private arbejdstilbud og
+- overflytte kommunale arbejdstilbudsopgaver til privat regi.
+Herudover foreslås revisionen udskudt fra
+folketingsåret 1991-92 til folketingsåret
+1992-93.
+Det foreslås, at loven træder i kraft den 1.
+januar 1992, og at den maksimale aflønning i
+offentlige arbejdstilbud får virkning for de tilbud, der påbegyndes efter den 31. december
+1991.
+Idet jeg i øvrigt henviser til lovforslaget og
+bemærkningerne hertil, skal jeg anbefale lovforslaget til Folketingets velvillige behandling.";Engell
+102744;title_name;":
+Herved tillader jeg mig for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om forbud
+mod handel med Den Sydafrikanske Republik.
+(Lovforslag nr. L 145).
+På mødet i Udenrigsudvalget den 28. november 1991 opfordrede et flertal mig til at
+
+3541
+
+6/12 91: Skriftlig fremsættelse";Ellemann-Jensen
+103058;title_name;"fremkomme med et udspil, der vil kunne sikre
+dispensationsadgang i loven om forbud mod
+handel med Sydafrika.
+Lovforslaget vil give industriministeren en
+generel adgang til efter forelæggelse for Udenrigsudvalget at dispensere fra handelsforbudet
+i lovens § 1, stk. 1.
+Sagen har en konkret baggrund i virksomheden Skamols akutte behov for at importere
+produktet vermikulit fra Sydafrika. Jeg deler
+Udenrigsudvalgets ønske om at sikre den fortsatte produktion og beskæftigelse på denne
+virksomhed og andre virksomheder i lignende
+situationer og har derfor ønsket at fremsætte
+vedlagte lovforslag med bemærkninger.
+Boligministeren (Svend Erik Hovmand):
+Jeg tillader mig herved for Folketinget at
+fremsætte:
+Forslag til lov om ændring af lov om individuel boligstøtte. (Stramning af arealnorm).
+(Lovforslag nr. L 146).
+Forslaget er et led i aftalen mellem Socialdemokratiet, Det Konservative Folkeparti, Venstre, Centrum-Demokraterne, Det Radikale
+Venstre og Kristeligt Folkeparti om finansloven for 1992.
+Forslaget indebærer en gradvis stramning af
+boligstøttelovens arealnorm over en 6-årig periode (1992-1997). Når forslaget er fuldt gennemført, vil der kun blive givet boligstøtte til et
+boligareal på 65 m2 til én person i husstanden
+og maksimalt 20 m2 for hver ekstra person i
+husstanden.
+Efter forslaget må en husstand som udgangspunkt maksimalt miste 2.000 kr. årligt i
+1992 og i de efterfølgende år.
+Særreglen for personer, der bliver enlige i
+forbindelse med dødsfald m.v., opretholdes,
+således at de ikke får reduktion for de tidligere
+til ægtefællen udløste ekstra 20 m2 i basisnormen.
+For personer, der ansøger om boligstøtte efter 31. december 1992 eller senere, anvendes
+de nye regler uden overgangsordning.
+Idet jeg i øvrigt henviser til lovforslaget og
+de bemærkninger, der ledsager det, skal jeg anbefale forslaget til Tingets velvillige behandling.
+Trafikministeren (Ikast):
+Herved tillader jeg mig at fremsætte:
+
+3542
+
+Forslag til lov om ændring af lov om udbygning af Københavns Lufthavn, Kastrup.
+(Lovforslag nr. L 148).
+For få måneder siden vedtog Folketinget loven om etableringen af et af de fremtidige store
+trafikanlæg - den faste forbindelse over Øresund.
+Et væsentligt element i dette nyanlæg er, at
+Københavns Lufthavn i Kastrup nu får forbindelse til det overordnede jernbanenet og samtidig får udvidet sit opland betydeligt ved den
+hurtige forbindelse til og fra Sverige.
+Sammenbygningen af jernbanestationen
+med lufthavnens terminal vil medføre en ændring i den fremtidige indretning af lufthavnen
+i forhold til de hidtidige planer for lufthavnsudbygningen, og det er således et eksempel på,
+at udviklingen her midt i udbygningen af lufthavnen kan kræve korrektioner af det planlægningsmæssige grundlag i udbygningsloven fra
+1980. Det er i øvrigt også nødvendigt for at justere lufthavnens areal som følge af arealer,
+der bliver disponible fremover.
+Når det er situationen, finder regeringen, at
+der samtidig mere generelt bør blødes lidt op
+på lovens meget stramme byggezoner og på
+begrænsningerne i anvendelsen af lufthavnsarealerne.
+Herfor taler også hensynet til det nye statslige aktieselskab, som for godt et år siden overtog driften af lufthavnen. Selskabet skal som
+bekendt drive sine aktiviteter på et kommercielt grundlag og bør også i relation til lufthavnens videre udbygning have større frihed til at
+tilpasse sig den stadig stigende konkurrence
+fra andre europæiske lufthavne.
+På den anden side er det klart, at de miljømæssige, overordnede retningslinjer for udbygningen af lufthavnen fortsat skal være gældende. Det understreges i lovforslaget, der
+samtidig fastslår, at trafikministeren i samarbejde med miljøministeren fastlægger de nærmere retningslinjer for varetagelsen af miljøhensynene i forbindelse med den fortsatte udbygning og drift af lufthavnen.
+Forslaget fremtræder som en revideret rammelov, hvori der fortsat er fastsat overotdnede
+retningslinjer for fordelingen af aktiviteterne
+på de forskellige områder i lufthavnen.
+Idet jeg i øvrigt henviser til lovforslaget og
+de ledsagende bemærkninger, skal jeg tillade
+mig at anbefale lovforslaget til Tingets hurtige
+og velvillige behandling.
+
+3543
+
+6/12 91: Skriftlig fremsættelse
+
+Industriministeren (Anne Birgitte Lundholt):
+Herved har jeg den ære for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om aktieselskaber og lov om anpartsselskaber. (Kapitalkrav).
+(Lovforslag nr. L 150).
+Regeringen har allerede iværksat en række
+initiativer til nedbringelse af restancer til det
+offentlige. Nærværende forslag, hvorved
+mindstekravet til aktiekapitalen forhøjes fra
+300.000 kr. til 500.000 kr. og indskudskapitalen
+for anpartsselskaber fra 80.000 kr. til 200.000
+kr., skal ses i forlængelse heraf. Kapitalkravene blev senest forhøjet i 1982.
+Det offentlige har ikke mulighed for at betinge sig sikkerhedsstillelse eller kaution for
+tilgodehavender på samme måde som private
+kreditorer.
+Forhøjelsen har til formål at styrke soliditeten i aktie- og anpartsselskaber og dermed
+mindske risikoen for uerholdelige offentlige
+tilgodehavender.
+For allerede registrerede eller anmeldte selskaber foreslås en overgangsperiode, således
+at disse inden 5 år skal bringe aktie- eller indskudskapitalen op på de foreslåede mindstekrav.
+Idet jeg i øvrigt henviser til lovforslaget med
+bemærkninger, skal jeg anbefale forslaget til
+hurtig og velvillig behandling i det høje Ting.
+
+3544
+
+Meddelelser fra formanden:";Udenrigsministeren
+108506;title_name;":
+Der er ikke mere at foretage i dette møde.
+Der er foretaget ændringer i følgende udvalg:
+Markedsudvalget (5/12 91):
+Udtræder: Kim Behnke (FP)
+Nyt medl.: Annette Just (FP)
+Udtræder: Niels Anker Kofoed (V)
+Nyt medl.: Annebeth Runge Svendsen (V)
+Boligudvalget (5/12 91):
+Udtræder: Peter Hansen-Nord (V)
+Ny stedf.: Annebeth Runge Svendsen (V)
+Folketingets næste møde afholdes tirsdag
+den 10. december 1991 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte
+ugeplan.
+Mødet hævet kl. 11.45
+
+ll .";Ivar Hansen

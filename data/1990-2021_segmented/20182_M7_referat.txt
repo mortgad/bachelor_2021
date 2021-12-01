@@ -1,0 +1,90 @@
+split;reason;text;value
+0;;"Tirsdag den 10. september 2019 (D)
+
+1
+
+Rigsombudsmanden i Grønland, i henhold til nærmere aftale mellem
+finansministeren og statsministeren overføres fra finansministeren til
+statsministeren pr. 1. september 2019.
+
+7. møde
+
+Jeg beder formanden underrette Folketinget herom.";
+315;Time;"Sign.: Mette Frederiksen
+/Carsten Madsen«]
+
+Dagsorden
+1) 2. behandling af lovforslag nr. L 1:
+Forslag til lov om ændring af lov om valg til Folketinget og lov om
+valg af danske medlemmer til Europa-Parlamentet. (Sanktioner for
+retsstridig indsamling af vælgererklæringer).
+Af social- og indenrigsministeren (Astrid Krag).
+(Fremsættelse 13.08.2019. 1. behandling 28.08.2019. Betænkning
+05.09.2019).
+2) 1. behandling af beslutningsforslag nr. B 3:
+Betænkning og indstilling om ændring af forretningsorden for Folketinget. (Opdeling af Transport- og Boligudvalget).
+(Forslag som fremsat (i betænkning) 28.08.2019. Anmeldelse (i salen) 28.08.2019).";kl. 13.00
+972;Time;Meddelelser fra formanden;Kl. 13:00
+1033;title_name;":
+Mødet er åbnet.
+Fra statsministeren har jeg modtaget brev om,
+at det efter statsministerens indstilling ved kongelig resolution den
+24. august 2019 blev bestemt, at ressortansvaret for opgaver vedrørende bogholderi og regnskab m.v., der vedrører Rigsombudsmanden i Grønland, overføres fra finansministeren til statsministeren.
+Meddelelsen vil fremgå af www.folketingstidende.dk (jf. nedenfor).
+[»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 24. august
+2019 bestemt,
+at ressortansvaret for alle opgaver vedrørende bogholderi og regnskab, herunder kreditor- og debitoradministration, udarbejdelse af
+perioderegnskab, administration af kasse og likviditet, anlægsadministration, regnskabsmæssig registrering af tilskud i Navision Stat,
+vedligeholdelse af registreringsramme i regnskabssystemet, bogføring af rejseafregning samt udarbejdelse af standard ledelsesinformation til understøttelse af institutionernes styringsbehov, der vedrører
+
+Socialdemokratiets folketingsgruppe har meddelt mig, at den med
+virkning fra den 4. september 2019 har udpeget medlem af Folketinget Flemming Møller Mortensen som ny statsrevisor for den resterende del af indeværende funktionsperiode.
+Den pågældende er herefter valgt.
+Alternativets folketingsgruppe har meddelt mig, at medlem af Folketinget Torsten Gejl er udpeget som medlem af Lønningsrådet i stedet
+for Carolina Magdalene Maier, og at medlem af Folketinget Susanne
+Zimmer er udpeget som stedfortræder i Lønningsrådet i stedet for
+René Gade for den resterende del af indeværende funktionsperiode.
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 1:
+Forslag til lov om ændring af lov om valg til Folketinget og lov
+om valg af danske medlemmer til Europa-Parlamentet. (Sanktioner for retsstridig indsamling af vælgererklæringer).
+Af social- og indenrigsministeren (Astrid Krag).
+(Fremsættelse 13.08.2019. 1. behandling 28.08.2019. Betænkning
+05.09.2019).";Henrik Dam Kristensen
+2995;Time;Forhandling;Kl. 13:01
+3042;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen slut.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+2
+
+Tirsdag den 10. september 2019 (FM )
+
+Det sidste punkt på dagsordenen er:
+2) 1. behandling af beslutningsforslag nr. B 3:
+Betænkning og indstilling om ændring af forretningsorden for
+Folketinget. (Opdeling af Transport- og Boligudvalget).
+(Forslag som fremsat (i betænkning) 28.08.2019. Anmeldelse (i salen) 28.08.2019).";Henrik Dam Kristensen
+3665;Time;Forhandling;Kl. 13:01
+3712;title_name;":
+Forhandlingen er åbnet.
+Er der nogen, der ønsker ordet?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Udvalget for Forretningsordenen. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+4006;Time;Meddelelser fra formanden;Kl. 13:02
+4067;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes torsdag den 12. september 2019,
+kl. 10.00.
+Jeg henviser til den dagsorden, der vil fremgå af Folketingets
+hjemmeside.
+Mødet er hævet. (Kl. 13:02).";Henrik Dam Kristensen

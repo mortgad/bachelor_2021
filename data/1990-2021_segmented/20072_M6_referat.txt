@@ -1,0 +1,2940 @@
+split;reason;text;value
+0;;"210
+
+Onsdag den 5. december 2007 (D)
+
+6. m ø d e";
+86;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+I spørgetimen møder justitsministeren og klimaog energiministeren.
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+(Se nedenfor).
+
+1) Til statsministeren af:";kl. 13.00
+357;name_party;":
+Hvilke konsekvenser mener statsministeren at
+Ministeriet for Sundhed- og Forebyggelses
+»yderst kritisable« svigt med hensyn til tilsynet
+med Cancerregisteret bør have for den tidligere
+indenrigs- og sundhedsminister og nuværende
+finansminister?
+(Spm. nr. S 24).
+2) Til ministeren for sundhed og forebyggelse af:";Per Clausen
+687;name_party;":
+Mener ministeren, at det er acceptabelt, at Sundhedsstyrelsen først udarbejder en plan for at
+genoprette Cancerregisteret under indtryk af, at
+statsrevisorerne kommer med en meget kritisk
+rapport?
+(Spm. nr. S 25).
+3) Til ministeren for sundhed og forebyggelse af:";Per Clausen
+977;name_party;":
+Vil ministeren tage initiativ til at ajourføre
+manglende data til Cancerregistret?
+(Spm. nr. S 52).
+
+4) Til ministeren for sundhed og forebyggelse af:";Jens Peter Vernersen
+1154;name_party;":
+Agter ministeren at iværksætte en tilbundsgående undersøgelse af, hvilke konsekvenser den
+manglende ajourføring af Cancerregistret har
+haft og vil have for kræftpatienternes mulighed
+for helbredelse og for ajourføring af Kræftplan I
+og II, samt af, hvad den manglende ajourføring
+af dødsårsagsregisteret har betydet for forskning i kræftsygdomme?
+(Spm. nr. S 53).
+5) Til finansministeren af:";Jens Peter Vernersen
+1572;name_party;":
+Agter ministeren at inddrage de skatteforhøjelser, som overskrider kommuneaftalen?
+(Spm. nr. S 5).
+6) Til velfærdsministeren af:";Ole Vagn Christensen
+1719;name_party;":
+Mener ministeren, at det er velfærd, når borgerne i en række kommuner skal opleve både nedskæringer og skattestigninger på grund af kommunernes pressede økonomi i en tid, hvor regeringen ellers giver skattelettelser?
+(Spm. nr. S 48, skr. begr.).
+7) Til velfærdsministeren af:";Rasmus Prehn
+2013;name_party;":
+Mener ministeren, at det vil være rimeligt at
+straffe kommunerne i 2009 for de skattestigninger, der blev foretaget i 2008, når nu statsministeren fredede kommunerne under valgkampen?
+(Spm. nr. S 49, skr. begr.).
+8) Til velfærdsministeren af:";Rasmus Prehn
+2277;name_party;":
+Er servicelovens § 32 tilstrækkelig klar til at sikre alle børn, der har behov herfor, et særligt dageller klubtilbud?
+(Spm. nr. S 50, skr. begr.).
+9) Til velfærdsministeren af:";Pernille Frahm
+2476;name_party;":
+Hvor stor forøgelse af den kommunale indtægt
+for særlige dag- og klubtilbud i perioden 20032007 vil ministeren finde acceptabel?
+(Spm. nr. S 51, skr. begr.).
+
+Onsdag den 5. december 2007 (US 1)
+10) Til kulturministeren af:";Pernille Frahm
+2719;name_party;":
+Vil ministeren redegøre for det rimelige i, at ministeriet ikke sikrer den nødvendige økonomiske udbetaling til landets egnsteatre, hvilket
+bl.a. har resulteret i, at Herning Kommune må
+lægge penge ud for staten, så Team Teatret kan
+betale lønninger i januar?
+(Spm. nr. S 21, skr. begr.).
+11) Til transportministeren af:";Mogens Jensen
+3061;name_party;":
+Hvordan vurderer ministeren trafiksikkerheden,
+når mange overordnede veje nu er delt mellem
+flere kommuner, hvoraf nogle salter dem, inden
+morgentrafikken begynder - andre ikke, selv om
+der er glat føre eller udsigt til glat føre?
+(Spm. nr. S 46, skr. begr.).
+12) Til transportministeren af:";Eigil Andersen
+3374;name_party;":
+Hvordan vurderer ministeren trafiksikkerheden
+på motorvejene, når langsomme særtransporter
+har lov til at køre 40-50 km i timen, også i myldretiderne?
+(Spm. nr. S 47, skr. begr.).";Eigil Andersen
+3566;Time;Meddelelser fra formanden;Kl. 13:00
+3604;title_name;"Mødet er åbnet.
+Beskæftigelsesministeren (Claus Hjort Frederiksen) har meddelt mig, at han ønsker skriftligt at
+fremsætte:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. og lov om fleksydelse. (Justering af fortrydelsesordningen i efterlønsreglerne og i fleksydelsesordningen).
+(Lovforslag nr. L 30).
+Skatteministeren (Kristian Jensen) har meddelt
+mig, at han ønsker skriftligt at fremsætte: '
+
+211
+
+Forslag til lov om ændring af forskellige skattelove. (Diverse EU-tilpasninger af skattelovgivningen m.v.).
+(Lovforslag nr. L 31) og
+Forslag til lov om ændring af momsloven og forskellige andre love. (Flymoms, salg til interesseforbundne parter, omvendt betalingspligt, undtagelser til energibeskatningsdirektivet m.v.).
+(Lovforslag nr. L 32).
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+I spørgetimen møder justitsministeren og kli-,
+ma- og energiministeren.";Formanden
+4554;Time;;Kl. 13:01
+4566;title_name;"Til at besvare spørgsmål i spørgetimen i dag har
+statsministeren udpeget justitsministeren og klima- og energiministeren.
+Til justitsministeren er anmeldt følgende
+spørgere:
+Peter Skaarup (DF)
+Marlene Harpsøe (DF)
+Morten Messerschmidt (DF)
+Mogens Jensen (S)
+Ib Poulsen (DF)
+Til klima- og energiministeren er anmeldt følgende spørgere:
+Per Clausen (EL)
+Mette Gjerskov (S)
+Ole Vagn Christensen (S)
+Jeg skal spørge, om der er flere, der ønsker at
+blive anmeldt som spørger.
+Det er ikke tilfældet.
+Den første er så hr. Peter Skaarup med
+spørgsmål til justitsministeren. Det foregår ved
+pulten. Værsgo.
+: 홢 홢 .
+Spm. nr. US 1";Formanden
+5196;Time;;Kl. 13:01
+5216;name_party;":
+Tak for det. Spørgsmålet er til justitsministeren,
+og det handler om en sag, der har været omtalt i
+medierne her inden for de seneste dage, nemlig
+en sag fra Århus, hvor det viser sig, at en sag
+mod tre århusianske mænd, der er tiltalt for
+smugleri af en kvart million ecstasypiller fra
+
+212
+
+Onsdag den 5. december 2007 (US 1)
+
+Holland via Danmark til USA, afvises. Det, der
+var årsagen til, at sagen blev afvist, var, at flere
+vidner, som havde fået det, man kan kalde nedsat straf i forbindelse med en anden sag, skulle
+deltage i retsbehandlingen, men i den pågældende sag afviste retten at lade de vidner afhøre,
+og det betød, at vidneudsagnet selvfølgelig ikke
+kunne bruges med henblik på den her sag, og
+det betød også, at anklagemyndigheden måtte
+opleve, at sagen altså blev afvist.
+Vi har i Folketinget vedtaget en ændring af
+lovgivningen på et tidspunkt i 2003, der gav den
+mulighed, at man kunne lade sådanne vidner
+indgå i retssager. Det, vi er interesseret i, er ikke
+at få en kommentar til den sag, vi har set omtalt i
+medierne nu, men generelt at høre justitsministeren, om ikke ministeren kan bekræfte, at sådanne vidner vil kunne bruges i forbindelse
+med sådanne sager.";Peter Skaarup
+6414;Time;;Kl. 13:03
+6426;title_name;Justitsministeren.;Formanden
+6454;Time;;Kl. 13:03
+6488;title_name;":
+Jeg vil sige til hr. Peter Skaarup, at jeg ikke kender den konkrete sag, og jeg mener heller ikke,
+det vil være rigtigt af en justitsminister at gå ind
+og kommentere konkrete afgørelser fra domstolene, men generelt vil jeg sige, at jeg ligesom hr.
+Peter Skaarup er meget optaget af, at vi sikrer, at
+de sager, der kan bringes for retten, skal bringes
+for retten. Hvis man har medvirket til ulovligt
+salg af narko og ecstasy, skal man naturligvis
+dømmes for det. Jeg synes umiddelbart, at det
+lyder meget bekymrende, hvis der er regler, der
+gør, at vidner ikke kan benyttes i en dansk retssag.
+Jeg kender som sagt ikke den konkrete sag,
+men jeg vil meget gerne være med til at se på,
+om der skulle være nogle problemer i lovgivningen. Det, jeg kan sige, er, at der er et udvalg, der
+lige nu er ved at se på, hvordan man kan udforme regler, så man kan give det, der hedder leniency, altså at man faktisk kan give rabat til virksomheder, der medvirker i kartelsager. Det er
+det, vi kender fra udlandet, og det er altså noget
+af det, som også skal ind og være dansk ret, og
+det mener jeg er en rigtig vej at gå.";Lene Espersen
+7607;Time;;Kl. 13:04
+7619;title_name;Hr. Peter Skaarup.;Formanden
+7648;Time;;Kl. 13:04
+7667;name_party;":
+Jeg siger tak til justitsministeren for svaret, for
+noget af det, som jeg er ude efter, er nemlig at få
+undersøgt rækkevidden af den lovgivning, vi
+har vedtaget der i 2003. Ideen var jo netop den
+samme som i de her kartelsager, som man i øjeblikket vurderer om man kan bruge samme retningslinjer for. Ideen var jo netop, at man kunne
+bruge den slags vidner i retssager med henblik
+på at afsløre den organiserede kriminalitet, som
+meget ofte er så sammenfiltret, at man fra politiets og anklagemyndighedens side skal bruge
+nogle nye værktøjer.
+Jeg vil godt spørge justitsministeren, om ministeren er klar over, i hvor mange tilfælde man
+har brugt den her nyere lovgivning fra 2003,
+som anklagemyndigheden altså i den pågældende sag har ment kunne bruges.";Peter Skaarup
+8432;Time;;Kl. 13:05
+8444;title_name;Ministeren.;Formanden
+8465;Time;;Kl. 13:05
+8499;title_name;":
+Det er jeg ikke bekendt med. Det er også meget
+vanskeligt under et spørgsmål om onsdagen at
+besvare sådan et meget konkret spørgsmål om,
+hvornår en paragraf er blevet brugt, men jeg vil
+meget gerne undersøge det. For bundlinjen er, at
+jeg ønsker, at de personer, der begår kriminalitet
+og kan straffes for det i Danmark, skal straffes
+for det. Hvis der er problemer med lovgivningen, må vi se på det.
+Så jeg vil sige, at jeg ikke har tallet her, men
+jeg vil gerne medvirke til at få undersøgt, om
+der skulle være nogle problemer. Selvfølgelig er
+der nogle helt almindelige retssikkerhedsmæssige betragtninger og nogle procedurer, som vi
+skal overholde, men jeg mener bestemt heller ikke, at folk skal slippe for straf, og derfor er der i
+hvert fald noget, der tyder på, at det er en problemstilling, der skal ses på.";Lene Espersen
+9327;Time;;Kl. 13:06
+9339;title_name;"Hermed sluttede det spørgsmål.
+Man er som næste spørger i rækken velkommen til at trække her op og gøre brug af en stol
+ved ordførerbordet. Godt nok har man kun krav
+på et sæde i Folketinget, men der er altså her
+mulighed for at få et ekstra sæde.
+Den næste spørger til justitsministeren er fru
+Marlene Harpsøe, værsgo.
+
+Onsdag den 5. december 2007 (US 2)";Formanden
+9706;Time;;Kl. 13:08
+9717;Time;Spm. nr. US 2;Kl. 13:06
+9752;name_party;":
+En 38-årig kvinde blev i marts i år dræbt af sin
+tidligere samlever. I sidste uge faldt dommen så
+i Holbæk Ret. Den lød på 10 års fængsel. Praksis
+er, at der i den slags sager idømmes 12 års fængsel, men da drabsmanden er tidligere samlever
+til den dræbte, fik han en såkaldt rabat på strafudmålingen, fordi Højesteret har skabt præcedens for det på det område.
+Jeg ved godt, at ministeren selvfølgelig ikke
+kan gå ind i konkrete sager, men jeg vil gerne
+spørge ministeren, om ministeren finder det rimeligt, at straffen nedsættes, fordi man er samlever, ægtefælle eller lignende til offeret. Vil ministeren ikke mene, at det er rimeligt, at der sker
+en ligestilling på det her område, så den normale retspraksis selvfølgelig gælder for alle?";Marlene Harpsøe
+10506;Time;;Kl. 13:07
+10518;title_name;Justitsministeren.;Formanden
+10546;Time;;Kl. 13:07
+10580;title_name;":
+Jeg er fuldstændig enig med fru Marlene Harpsøe. Der skal ikke være nogen som helst form for
+rabat, der skal være en ligestilling. At slå et menneske ihjel, er at slå et menneske ihjel, og uanset
+hvad ens personlige relationer er, bør udgangspunktet altid være, at folk får den samme straf.
+Der har været en lang række sager over de
+sidste par år, når det gælder vold mod ægtefæller eller tidligere kærester, der har været sager
+med drab, som fru Marlene Harpsøe her nævner, og fælles for dem er, at der har været påstande om, at der skulle forekomme en rabat,
+hvis man havde nære relationer til hinanden.
+Der er ikke noget, der sådan er juridisk dokumenteret, men jeg har bedt Rigsadvokaten gennemgå såvel voldssager som drabssager, og det
+er med henblik på at undersøge, om det fænomen, som fru Marlene Harpsøe her nævner, er
+et, der rent faktisk forekommer, nemlig at der
+simpelt hen er en rabat alene på grund af de ægteskabelige forhold. Hvis det viser sig at være
+tilfældet, skal lovgivningen laves om, og det vil
+jeg ikke tøve med. Jeg mener simpelt hen, at det
+er nedsættende for de mennesker, der sidder tilbage - den nærmeste familie - hvis de føler, at
+gerningsmanden ikke fik den straf, som den pågældende fortjente.
+
+213";Lene Espersen
+11828;title_name;Værsgo fru Marlene Harpsøe.;Formanden
+11866;Time;;Kl. 13:08
+11888;name_party;":
+Det glæder mig selvfølgelig at høre, at ministeren er helt på linje med Dansk Folkeparti og betragter et mord som et mord, og vi glæder os
+selvfølgelig til at høre nærmere i den her sag. Så
+jeg vil sige tak for svaret.";Marlene Harpsøe
+12118;Time;;Kl. 13:08
+12130;title_name;Den næste er hr. Mogens Jensen til justitsministeren.;Formanden
+12193;Time;Spm. nr. US 3;Kl. 13:09
+12225;name_party;":
+Jeg har her i løbet af de seneste måneder fået
+mange henvendelser fra politibetjente og andre i
+mit valgområde, som føler, at der er store problemer med implementeringen af politireformen. Det har også givet sig udslag i en række
+episoder i det midt- og vestjyske, hvor man kan
+sige, at politiets opgaver ikke er blevet løst tilfredsstillende. Jeg skal spare ministeren for en
+masse eksempler her - det vil jeg fremsende men jeg vil godt høre ministeren, om ministeren
+har helt fod på politireformens implementering
+rundtomkring. Jeg har også læst i Politiforbundets eget blad om problemer andre steder i landet.
+Mener ministeren ikke, vi har problemer med
+den måde, reformen bliver implementeret på? Vi
+har et øget sygefravær blandt betjentene, flere
+ytrer ønske om at forlade politiet, der en øget jobutilfredshed. Mener ministeren ikke, at vi har
+problemer med implementeringen, og hvad har
+ministeren tænkt sig at gøre i den anledning?";Mogens Jensen
+13176;Time;;Kl. 13:10
+13188;title_name;Så er det justitsministeren.;Formanden
+13226;Time;;Kl. 13:10
+13260;title_name;":
+Jeg vil sige til hr. Mogens Jensen, at der såmænd
+ikke er de store problemer med implementeringen af politireformen. Den er jo knap nok startet,
+men er i den allerallerførste fase, hvor folk lige
+nu er ved at starte på nye job og finde nye skriveborde osv., men jeg er enig med hr. Mogens
+Jensen i, at det at lave en kæmpestor reform,
+hvor man flytter rundt på 14.000 mand, altså
+
+214
+
+Onsdag den 5. december 2007 (US 3)
+
+skaber nogle efterdønninger, og min oplevelse
+hvert fald ikke umiddelbart se er tilfældet i det
+er den samme som hr. Mogens Jensens.
+midt- og vestjyske.
+Der er rigtig mange i dansk politi, der i øjeJeg har forsøgt at få samtaler med almindeliblikket er lidt trætte af det, og som synes, at det
+ge betjente på baggrund af de henvendelser, jeg
+er hårdt at skulle starte fuldstændig forfra. Der
+har fået om det her, og jeg må sige, at det vil leer rigtig mange, der skal i gang med et nyt job,
+delsen i vores politikreds ikke rigtig give lov til,
+og vi ved alle sammen, hvordan det er, når man
+og derfor vil jeg godt høre ministerens princistarter et nyt sted. Det kan faktisk godt være
+pielle holdning som hovedarbejdsgiver på det
+svært i starten, og dansk politi er jo kendetegnet her område til, om ministeren ikke synes, det er
+ved, at de sætter en ære i at gøre tingene perfekt
+rimeligt, at folketingsmedlemmer og medlemførste gang. Så der er meget frustration over, at
+mer af Retsudvalget kan få lejlighed til at tale
+tingene måske ikke kører hundrede procent,
+med almindelige betjente om, hvordan de oplesom de skal. Man er ikke så dygtig som den per- ver deres dagligdag.
+son, der måske tidligere sad i stolen. Man skal";Lene Espersen
+14919;Time;"først lige læres op i det, og man er måske beFormanden:
+kymret for, om den person, der har overtaget
+Justitsministeren.
+ens arbejde, f.eks. i en færdselsafdeling, kan vaKl. 13:13
+retage det lige så godt, som man selv gjorde det. Justitsministeren (Lene Espersen):
+Så der er nogle frustrationer, og de skal løses.
+Jeg vil starte med at sige til hr. Mogens Jensen, at
+De bliver også løst, og de skal løses internt. Jeg
+hvis man ser på statistikkerne, er det altså ikke
+ved, at der i går var møde i koncernledelsen, alt- så slemt, som nogle vil gøre det til. Hvis vi f.eks.
+så mellem alle politidirektørerne og rigspolitiser på jobtilfredshed, er der tale om et fald på ca.
+chefen, og det var bl.a. også med henblik på at
+10 pet., og når vi tænker på, hvordan man f.eks.
+sikre, at man offensivt og målrettet går ind og
+selv har det, når man skal flytte til et nyt sted,
+hjælper med at skabe en positiv dialog med de
+pakke hele ens liv ned i kasser, ens børn skal
+medarbejdere, der føler sig trængte. For det her
+starte i en ny institution, så varer det utrolig lang
+er svært.
+tid, før man er oppe at køre hundrede procent
+Der er ikke noget, der tyder på, at politirefor- på klingen igen. Så jeg vil sige, at det, at der har
+men ikke kommer til at køre, som den skal, men været et lille fald i jobtilfredsheden, men stadig
+man er på en tung plads, og det vil man også
+væk ikke en meget stor afgang af politipersonavære hen over foråret, indtil folk - om jeg så må
+le, er udtryk for, at politiet ikke er dem, der giver
+sige - har fundet deres plads. Nogle steder har
+op. De bliver altså ved og tror på, at den her poder manglet jurister, det har der bl.a. i Midt- og
+litireform er det rigtige, at det altså kræver, at
+Vestjylland. Der har også manglet kontorpersoalle lægger et ekstra arbejde i det.
+nale mange steder. De stillinger skal selvfølgelig
+Jeg vil også sige, at hvis vi f.eks. ser på tallene
+besættes, så vi får et rigtig godt og velfungerenmed hensyn til målrettet patruljering, har der
+de politi.
+faktisk været mere patruljering i år, end der var";Kl. 13:13
+16984;Time;sammenlignet med sidste år.;Kl. 13:12
+17024;title_name;"Så vil jeg sige til hr. Mogens Jensen, at de 800
+Hr. Mogens Jensen.
+betjente jo først skal være endelig klare i 2011, så";Formanden
+17154;Time;der er jo lange udsigter til, at alle betjentene er;Kl. 13:12
+17224;name_party;":
+frigjort, men vi forventer selvfølgelig, at kadenJeg er selvfølgelig enig i, at når man gennemføcen er der.
+rer sådan en stor reform, vil der være ting, der
+Endelig vil jeg sige: Jamen alle har jo deres
+først skal falde på plads osv., men det, der jo be- ytringsfrihed og kan tale med hvem, de vil.
+kymrer mig, er, at vi også i statistikkerne virkeHvor meget, der skal foregå i arbejdstiden, skal
+lig kan se, at vi har en faldende jobtilfredshed
+jeg ikke gøre mig klog på, men det er mit indblandt politibetjentene, og at vi har et meget,
+tryk i de mail, jeg får, at der er rigtig mange, der
+meget stort sygefravær. Det, vi må have undergerne vil i dialog med os.";Mogens Jensen
+17899;Time;søgt, er jo, om der er noget af det her, der skyldes den måde, reformen er skruet sammen på,;Kl. 13:14
+18004;title_name;"bl.a. om vi får det antal ekstra betjente ud på ga- Hr. Mogens Jensen.
+den, som der egentlig er forudsat. Det kan jeg i
+
+Onsdag den 5. december 2007 (US 4)";Formanden
+18170;Time;;Kl. 13:14
+18188;name_party;":
+Jeg vil selvfølgelig godt takke for ministerens
+svar og specielt det første svar, der gik ud på, at
+ministeren selvfølgelig vil sørge for, at de problemer, der jo helt tydeligt er med implementeringen - uanset om det skyldes, at man skal lave
+om på mange ting, eller der er noget mere strukturelt i det - vil blive løst. Det vil jeg selvfølgelig
+holde ministeren fast på.
+Så må jeg sige, at jeg synes uanset hvad, at det
+må vække bekymring hos ministeren, at der er
+så stort et sygefravær, og at der trods alt er så
+stor en udvikling med hensyn til dårlig jobtilfredshed. Jeg tager ministerens sidste udsagn
+som et udtryk for, at ministeren også vil være
+enig i, at man selvfølgelig som folketingsmedlem og som medlem af Retsudvalget skal have
+mulighed for at få adgang til at kunne undersøge de forhold, der bliver rejst over for en, så man
+kan udføre sit arbejde som folketingsmedlem ordentligt, og at det også gælder politikreds Midtog Vestjylland.";Mogens Jensen
+19151;Time;;Kl. 13:15
+19163;title_name;Justitsministeren.;Formanden
+19191;Time;;Kl. 13:15
+19225;title_name;":
+Jeg vil starte med at sige, hvis vi skal tage det
+med de problemer, der er i en hvilken som helst
+reformproces, at det er meget forudsigeligt, men
+at det ikke er noget, man skal tage let på. Man
+skal selvfølgelig prøve at se på, hvad man så kan
+gøre for at skabe en bedre situation og for at forbedre situationen for de medarbejdere, der måtte gå og være frustrerede.
+Det, jeg bare synes er vigtigt at få understreget her i dag over for hr. Mogens Jensen, er, at
+formanden for Politiforbundet, hr. Peter Ibsen,
+klart har sagt, at der ikke er et politisk problem.
+Vi politikere har løst vores del af opgaven ved at
+lave en reform. De problemer, der er, skal løses
+internt. De skal løses mellem ledelsen ude i hver
+enkelt politikreds og de medarbejdere, der er,
+for det er jo forskellige typer problemer, der er
+forskellige steder. Det synes jeg er vigtigt at vi
+holder fast i.
+Så vil jeg også sige til hr. Mogens Jensen, at
+jeg også tror, det er meget vigtigt her fra Folketingets side, at vi lytter til den kritik og de nødråb, der måtte komme undervejs, men også at vi
+er tålmodige. Enhver reform er svær, og jeg synes ikke, at vi skal presse politiet mere end det,
+de kan klare. Det, der er vigtigt, er, at vi får et
+
+215
+
+bedre politi og et mere synligt politi, og så længe
+det går i den rigtige retning og man følger kadencen, skal vi være tilfredse.";Lene Espersen
+20591;Time;;Kl. 13:16
+20603;title_name;"Hermed er spørgsmålet sluttet. Næste spørger
+er hr. Morten Messerschmidt.";Formanden
+20686;Time;Spm. nr. US 4;Kl. 13:17
+20726;name_party;":
+Et af de store temaer her i de sidste par måneder
+har jo været spørgsmålet om, hvorvidt der skal
+afholdes folkeafstemning om EU-traktaten.
+Jeg har jo med en vis interesse læst den redegørelse, som nu er kommet. Den er godt nok
+kommet fra Udenrigsministeriet, men det er jo
+sådan, at retsområdet er omtalt en hel del i rapporten, og derfor har jeg nogle spørgsmål, som
+jeg måske kunne afæske justitsministeren hendes holdning til.
+Når man nu skriver, at der »introduceres få
+egentlige nye retsgrundlag«, betyder det jo, at
+der kommer nye retsgrundlag, og de ligger altså
+under samarbejdet om retlige indre anliggender,
+altså det område som justitsministeren har ansvaret for. Derfor synes jeg, det er mærkeligt, at
+man konkluderer fra regeringens side, at der
+ikke skal en folkeafstemning til.
+Jeg mener, at når det konkluderes i rapporten
+fra regeringens embedsapparat, at der kommer
+nye retsgrundlag, uanset hvor få eller hvor mange det måtte være, jamen så er der vel også tale
+om suverænitetsafgivelse, og derfor vil jeg gerne
+høre, om justitsministeren ikke vil forklare,
+hvorfor man fra regeringens side af al kraft holder fast ved, at man ikke vil have den afstemning.";Morten Messerschmidt
+21912;Time;;Kl. 13:18
+21924;title_name;"Justitsministeren.
+K1. 13:18";Formanden
+21986;title_name;":
+Jeg vil sige, at redegørelsen er på ca. 120 sider
+tungt juridisk stof, så det vil nok være at have
+for stor tiltro til ens formuleringsevner, hvis man
+skal kunne besvare hr. Morten Messerschmidts
+spørgsmål fuldstændig fyldestgørende med de
+korte svarfrister, vi har. Jeg vil dog sige som en
+servicebemærkning til hr. Morten Messerschmidt, at der jo er samråd i morgen i Folketingets
+Europaudvalg, og her bliver der nok mulighed
+
+216
+
+Onsdag den 5. december 2007 (US 4)
+
+for, at vi i længere tid kan diskutere de mere juridiske aspekter med hinanden.
+Men som svar til hr. Morten Messerschmidt
+vil jeg dog sige, at lige præcis på det område,
+der vedrører mit eget ressortområde, altså det
+retslige område, har Danmark jo et forbehold,
+og redegørelsen lægger jo ikke skjul på, at § 20
+vil omfatte en del af de nye beføjelser, der ligger
+inden for det område, fordi de falder ind under
+det overstatslige samarbejde. Men i og med at vi
+har et forbehold og ikke deltager i det samarbejde, kan man udlede, at det altså også betyder, at
+der ikke er behov for nogen folkeafstemning, da
+vi jo netop står uden for det. De steder, hvor der
+overlades yderligere beføjelser, som medfører, at
+grundlovens § 20 skal iagttages, står Danmark
+uden for, og derfor betyder Lissabontraktaten
+ikke, at vi skal have en folkeafstemning om det
+punkt.";Lene Espersen
+23323;Time;;Kl. 13:19
+23335;title_name;Hr. Morten Messerschmidt.;Formanden
+23370;Time;;Kl. 13:19
+23396;name_party;":
+Jeg vil godt kvittere for svaret og sige, at jeg ikke
+kunne drømme om at begynde at stille spørgsmål til alle de godt og vel 120 sider, og jeg kan
+også bekræfte, at på samrådet i morgen vil vi få
+en meget lang og, tror jeg, god debat om det her.
+Men jeg vil alligevel godt anholde de kun 14 sider, som angår justitsministerens område, og det
+er det, jeg fokuserer på her.
+Synes justitsministeren ikke, det er besynderligt, at man på den måde kan fifle sig uden om
+§ 20, fordi man har et forbehold på lige præcis
+det område, hvor der er suverænitetsafgivelse?
+Jeg synes, det er væsentligt og godt, at justitsministeren slår så klart fast, at med traktaten er der
+tale om suverænitetsafgivelse, og den eneste
+undskyldning for ikke at gøre brug af § 20 er altså, at vi har et forbehold. Man lad os prøve at
+flytte det lidt over til den gamle forfatning. Justitsministeriet kom frem til, at her var der ni
+områder med suverænitetsafgivelse, og betyder
+det, at man sådan set kunne have implementeret
+den uden om § 20, bare man havde taget ni forbehold? Er det sådan, justitsministeren forstår
+grundlovens § 20?";Morten Messerschmidt
+24513;Time;;Kl. 13:20
+24525;title_name;Justitsministeren.;Formanden
+24554;Time;;Kl. 13:20
+24588;title_name;":
+Jeg har svært ved at gennemskue hr. Morten
+Messerschmidts spørgsmål, så jeg er ikke i stand
+til at svare på, om man overhovedet kan sammenligne de ni områder, som er meget forskellige, og som jo i redegørelsen bliver behandlet inden for tre forskellige juridiske problemstillinger. Justitsministeriet har i redegørelsen forsøgt
+at gennemgå de ni områder, som i medfør af forfatningstraktaten ville udløse spørgsmål angående § 20, og forsøgt at redegøre for, hvorledes
+Lissabontraktaten forholder sig til dem. Det er
+tre meget forskelligartede problemstillinger, så
+det kan jeg ikke svare nøjagtigt på.
+Men jeg vil sige, at uden at vi skal ind i en
+længere juridisk diskussion er det da sådan set
+meget logisk, at i det omfang, vi ikke deltager i
+noget og derfor ikke afgiver suverænitet, er der
+ikke tale om suverænitetsafgivelse. Jeg har meget svært ved at forstå, at der er nogen, der argumenterer for, at et område, vi ikke deltager i, og
+hvor vi derfor ikke afgiver suverænitet, alligevel
+skulle medføre suverænitetsafgivelse. Den argumentation har jeg meget svært ved at forstå.";Lene Espersen
+25683;Time;;Kl. 13:21
+25695;title_name;Hr. Morten Messerschmidt.;Formanden
+25730;Time;;Kl. 13:21
+25756;name_party;":
+Så skal jeg forsøge at gøre det lidt mere begribeligt.
+Det, der er sagen, er, at man er i gang med at
+fifle denne traktat igennem. Hvis man anlægger
+den diskurs, at man bare kan tage et forbehold
+over for de områder i traktaten, der vedrører suverænitetsafgivelse, tager man sådan set et forbehold over for grundlovens § 20. Det er jo sådan, at ved de afstemninger, vi har haft med
+hjemmel ifølge grundlovens § 20, altså helt tilbage fra 1972 og op gennem tiden i 1993 og 1998 og
+også i 1992 for den sags skyld, stemte vi jo om
+hele det samlede traktatgrundlag. Vi stemte om
+hele Amsterdamtraktaten i 1998, vi stemte om
+hele Maastrichttraktaten i 1992 og ikke kun om
+de områder, hvor Justitsministeriet vurderede,
+at der var tale om suverænitetsafgivelse.
+Men det, der nu lægges op til, er, at man kan
+tage de områder ud og holde særskilte afstemninger om dem, og det er jo ganske enkelt ulogisk. Man kan sige, at det består ikkeprøven, for
+hvis vi ikke havde haft retsforbeholdet, ville vi
+jo være inde under grundlovens § 20, og dermed
+skulle vi har haft en folkeafstemning. Jeg vil si-
+
+(28)
+Onsdag den 5. december 2007 (US 5)
+ge, at det understreger bare nødvendigheden af
+at have retsforbeholdet, men det understreger jo
+også, hvor hul den analyse, der er kommet fra
+regeringen, er, for selvfølgelig kan man ikke
+bare tage de delområder ud og tage forbehold
+de steder, hvor der er § 20-stof, og så i øvrigt
+køre tingene igennem med en almindelig folketingsbehandling.
+Jeg betragter ganske enkelt det, regeringen er
+i gang med her, som en omgåelse af grundloven,
+og jeg vil gerne have, at justitsministeren forholder sig til, om det ville have været muligt, f.eks.
+ved implementeringen af Amsterdamtraktaten,
+blot at tage forbehold på de områder - jeg mener, det var noget med ligestilling - man betragtede som suverænitetsafgivende, og hvorfor
+man alligevel afholdt en folkeafstemning. Ville
+det efter justitsministerens opfattelse af § 20
+have været muligt blot at tage et forbehold og så
+i øvrigt implementere ved en behandling i Folketinget?";Morten Messerschmidt
+27818;Time;"i Formanden:
+Justitsministeren.";Kl. 13:23
+27860;Time;;Kl. 13:23
+27894;title_name;":
+Jeg vil sige til hr. Morten Messerschmidt, at jeg
+ikke var justitsminister, dengang vi diskuterede
+Amsterdamtraktaten, og jeg er simpelt hen ikke
+i stand til at redegøre for juraen bag de beslutninger, der blev truffet dengang. Hr. Morten
+Messerschmidt er meget velkommen til at stille
+et skriftligt spørgsmål om den problemstilling,
+men jeg kan simpelt hen ikke svare her.
+Rent generelt vil jeg gerne sige om det hele, at
+der er lavet en meget, meget grundig redegørelse, som område for område gennemgår, om der
+er tale om afgivelse af suverænitet eller ej, og jeg
+mener, at det må jo være det afgørende, hvis vi
+ser på tingene med grundlovsbriller, om der afgives suverænitet eller ej. Her er der altså et område, som Danmark står uden for, og som vi har
+stået udenfor længe. Nu er der et større område,
+hvor vi står uden for og ikke deltager, og når vi
+ikke deltager, afgiver vi jo derfor ikke suverænitet.
+. Kl. 13:24";Lene Espersen
+28829;title_name;"Hermed sluttede spørgsmålet, og næste spørger
+er hr. Ib Poulsen.
+
+217";Formanden
+28908;Time;Spm. nr. US 5;Kl. 13:24
+28939;name_party;":
+Jeg vil godt spørge ministeren, om det er ministerens opfattelse, at det er meningen, at i de
+retssager, hvor begge parter kommer fra en by
+med tingsted, skal man drage til en retskredshovedby, som ofte ligger 100 km væk.
+Jeg kan henvise til en sag, der har været omtalt i Thisted Dagblad den 28. november, hvor
+begge parter kom fra Thisted og måtte give
+møde i Holstebro. Jeg mener, at meningen med
+de her tingsteder, og der er bl.a. et i Thisted, vel
+var, at der skulle tages hensyn til de store afstande, der netop er i det område. Er det ikke rigtigt?";Ib Poulsen
+29506;Time;;Kl. 13:25
+29518;title_name;Justitsministeren.;Formanden
+29546;Time;;Kl. 13:25
+29580;title_name;":
+Nu kan jeg jo ikke forholde mig til konkrete
+sagstyper, men i forbindelse med retskredsreformen var der jo enighed om, at der skulle etableres afdelingskontorer de steder, hvor der geografisk var meget langt til hovedtingstedet.
+Men den primære funktion for afdelingskontorerne - det er der enighed om, og det er der
+også i Folketinget besvaret mange spørgsmål
+om - var altså, at de skulle tage sig af de lettere
+opgaver, typisk skiftesager, fogedsager, eventuel
+inddrivelse af bøder osv. og i helt, helt særlige
+tilfælde at kunne se på de små sager, hvor alle
+parter kommer fra lokalområdet, så man der
+kunne etablere retten lokalt.
+Der er altså ikke lagt op til, at alle sager kan
+behandles lokalt, for så skulle vi ikke have lavet
+retskredsreformen, så skulle vi have bevaret 82
+retskredse, hvis dommerne alligevel skulle køre
+ud hver eneste dag. Så det er et skøn fra retspræsidenten, hvor ofte og i hvor mange sager det er
+dommeren, der skal drage ud, og hvor mange
+gange det er borgerne, der skal drage den anden
+vej.";Lene Espersen
+30615;Time;;Kl. 13:26
+30627;title_name;Hr. Ib Poulsen.;Formanden
+30652;Time;;Kl. 13:26
+30668;name_party;":
+Den pågældende sag var netop en simpel retssag, så jeg er glad for, at man er enig med mig i,
+at den burde have foregået i Thisted.
+Det er sådan, at over 40 pet. af sagerne i Holstebro Retskreds kommer fra Thy og Mors. Er
+
+218
+
+Onsdag den 5. december 2007 (US 6)
+
+det sådan, at man flytter sagerne fra Thy og
+Mors til Holstebro, kan man jo godt frygte, at
+grundlaget for at bevare det her tingsted i Thisted bortfaldet.
+I det tilfælde er det så retspræsidenten, ministeren eller Folketinget, der beslutter, om et sådant tingsted skal lukkes eller det får lov at bestå?";Ib Poulsen
+31249;Time;;Kl. 13:26
+31261;title_name;Justitsministeren.;Formanden
+31289;Time;;Kl. 13:26
+31323;title_name;":
+Nu vil jeg sige til hr. Ib Poulsen, at jeg synes, det
+er lige lovlig hurtigt, at man begynder at drage
+konklusioner af en reform, der ikke er fuldt ud
+implementeret endnu.
+Jeg tror helt sikkert, at de afdelingskontorer,
+som Folketingets partier valgte at sige skulle
+være afdelingskontorer, kommer til at bestå længe, fordi der er en lang række helt borgernære
+opgaver, som jeg tror løses bedst lokalt. Det drejer sig altså typisk, som jeg sagde, om sager om
+skifte. Nu vil jeg sige, at jeg i mandags var ved
+byretten i Viborg, den nyindviede byret i Viborg,
+som også har et meget stort opland. Der har
+man egentlig fundet ud af, at mange i stedet for
+at møde op i skifteretten hellere vil klare det
+over telefonen og printe en formular ud via internettet. Det er lidt af en skuffelse for mange, at
+skifteretten ikke er et fint retslokale med dommere osv., men at det er en medarbejder fra
+domstolene, der sidder på et kontor og udfylder
+papirer med en. Så jeg tror, at det mange steder
+løses lokalt, og der vil være en mulighed for at
+få alle opgaver løst lokalt.
+Men det er klart, at sager, der involverer flere
+parter, typisk vil være sager, der kører ved hovedtingstederne. Det er jo meningen med reformen, at borgerne skal få en højere kvalitet, en
+hurtigere sagsbehandling og en bedre service.
+Jeg tror, at man kan finde den rigtige balance
+mellem at tage lokale hensyn og også sikre en
+højere kvalitet i de større sager.";Lene Espersen
+32762;Time;;Kl. 13:28
+32774;title_name;"Der er ikke flere spørgsmål fra hr. Ib Poulsen, og
+det vil sige, at vi siger tak til justitsministeren for
+besvarelse af spørgsmål.
+Næste minister til besvarelse er klima- og
+energiministeren, og jeg vil blot lige gentage, at
+her er spørgerne hr. Per Clausen, fru Mette Gjerskov og hr. Ole Vagn Christensen i nævnte rækkefølge. Først er det hr. Per Clausen, værsgo.";Formanden
+33150;Time;Spm. nr. US 6;Kl. 13:28
+33181;name_party;":
+En af de ting, der jo har været meget debatteret i
+de seneste dage, har været spørgsmålet om
+DONG's investering i et kulkraftværk i Tyskland. Klimaministeren har til det sagt to ting:
+For det første at staten jo sådan set ikke kan
+blande sig i det, fordi DONG jo bare er et selvstændigt selskab, der tilfældigvis ejes af staten,
+og at det opfører sig, som det har lyst til, når det
+handler om at tjene penge inden for lovgivningens rammer. Det synspunkt vil jeg sådan set
+ikke gå nærmere ind i, for det afslører jo bare,
+hvor dumt det var, da alle partier med undtagelse af Enhedslisten besluttede, at det skulle være
+sådan, og at det skulle man se at få gjort noget
+ved.
+For det andet har ministeren sagt, at det kraftværk, der kommer nede i Tyskland, skal være
+verdensmester i miljø. Så vil jeg bare spørge ministeren: Når man har et kulkraftværk, og man
+ved, at 50 pet. af den energi, der bliver brugt, bliver lukket direkte ud i Østersøen og kun har
+den funktion at opvarme badevandet dernede,
+kan man så tale om et verdensmesterskab i miljø
+og i energiudnyttelse?";Per Clausen
+34261;Time;;Kl. 13:29
+34273;title_name;Klima- og energiministeren.;Formanden
+34310;Time;"Klima- og energiministeren (Connie Hedegaard):
+Det første, hr. Per Clausen siger, er jo rigtigt. Enhedslisten er det eneste parti, der ikke står bag
+den måde at håndtere DONG på, som er baggrunden for, at jeg har udtalt mig, som jeg har
+gjort. Alle andre partier inklusive oppositionen,
+Det Radikale Venstre, Socialistisk Folkeparti og
+Socialdemokratiet, står bag en forståelse af, at
+DONG må have lov til at agere på kommercielle
+vilkår på armslængde af staten: vi kan ikke blande os i det.
+Så kommer diskussionen om, hvordan
+DONG agerer også på andre markeder. Og der
+må man sige, at vi jo har valgt i Europa at have
+et kvotereguleringssystem, hvor hvert land - i
+det her tilfælde altså Tyskland - får et antal kvoter og ud fra det så må finde ud af, hvordan de
+vil opnå at få deres energi sammensat, som de
+nu har lyst til. Tyskerne skal nå et VE-mål, et
+vedvarende energimål, ligesom vi andre skal,
+men de vil i mange år endnu også basere sig på
+
+Onsdag den 5. december 2007 (US 6)
+kulkraft. Og der har jeg sagt, at Danmark er altså blandt de førende i verden, når det gælder
+rene kulkraftværker. Det er uden for diskussion.
+Det kan hr. Per Clausen ikke tale væk.
+Med hensyn til alle mulige andre konkurrenter til DONG, man kunne tale om her, må man
+antage, at det, når det er kulkraft, vi taler om, så
+vil være en dårligere løsning klimamæssigt og
+miljømæssigt set.";Kl. 13:29
+35692;Time;;Kl. 13:30
+35704;title_name;Hr. Per Clausen.;Formanden
+35730;Time;;Kl. 13:30
+35747;name_party;":
+Nu mener jeg jo, at der er lang vej fra at være
+bedre end andre kulkraftværker inklusive de
+gamle i Tyskland og så til at være verdensmester. Det er sådan, at Det Europæiske Miljøagentur jo også meget klart har sagt, at det her er den
+dårligste løsning - altså at kul er den dårligste
+løsning.
+Så der er ingen tvivl om, at DONG ved at investere på den måde, man gør, fastholder en udvikling, som vi jo desværre ser. Jeg mener, at
+omkring 80 pet. af alle de planlagte investeringer, der er i kraftværker i EU i de kommende år,
+er i kraftværker, der bruger fossile brændstoffer.
+Altså er vi i den situation, at vi ikke er i færd
+med at omlægge til vedvarende energi, vi er i
+færd med at udbygge brugen af de fossile
+brændstoffer og dermed også kulkraften. Og det
+er DONG drivkraften bag.
+Derfor synes jeg bare, at ministeren skulle
+holde op.med at tale om, at det er udtryk for, at
+DONG er verdensmester i miljø, når DONG gør
+det her. Det, man er, er formentlig verdensmester i at tjene penge, og det er vel også det, det
+handler om. Og jeg er da helt enig med ministeren i, at det da er ulykkeligt, at oppositionen i
+det her Folketing har tilsluttet sig det synspunkt,
+at man ikke skal bruge DONG til at gennemføre
+den danske energipolitik med, men i stedet for
+overlader det til markedskræfterne og et forsøg
+på at regulere dem.";Per Clausen
+37087;Time;;Kl. 13:31
+37099;title_name;Ministeren.;Formanden
+37120;Time;"Klima- og energiministeren (Connie Hedegaard):
+Det kan ikke nytte noget, at hr. Per Clausen laver om på, hvad der er sagt og ikke sagt. Jeg får
+et spørgsmål om DONG og kulkraft, og så siger
+jeg, som sandt er, at dansk kulteknologi er
+
+219
+
+blandt de førende i verden, og ja, jeg tror også, at
+mange eksperter ville sige, at vi er verdensmestre til det. Det er en kendsgerning, at når Kina
+nu bygger to nye kulkraftværker om ugen, så
+kan hr. Per Clausen jo godt stå med sine rene
+hænder og sige, at det har vi heldigvis ikke noget med at gøre, lad dem blive ved med at bygge
+dem med gammel, svinende kulteknologi, eller
+vi kan sige, som vi jo gør i de internationale klimaforhandlinger: Lad os da sørge for at gøre alt,
+hvad vi kan, for, at det nye, kineserne bygger,
+bliver bygget med renere teknologier, fordi det
+alt andet lige er til gavn for det fælles miljø.
+Det er altså kendsgerningerne om det, og så
+er det jo klart nok, at Enhedslisten også i denne
+sag har valgt at stå ene af alle partier uden for
+DONG-aftalen. Men når nu der er lavet den forståelse, i øvrigt også med mindretalsaktionærerne i DONG, så skal alle vi andre - og det er jo
+altså de 175 øvrige mandater i Folketinget - passe godt på, at vi ikke går ind og bryder den aftale og bryder de forudsætninger, også selv om vi
+hver især kan have vores personlige holdning
+om, at det da er ærgerligt med det der kul, men
+hverken hr. Per Clausen eller jeg kan tale væk, at
+der i de næste mange, mange år i denne verden
+stadig væk også vil være energiforsyning baseret på kul.";Kl. 13:31
+38670;Time;;Kl. 13:33
+38682;title_name;Hr. Per Clausen.;Formanden
+38708;Time;;Kl. 13:33
+38725;name_party;":
+Det, vi vel også kan konstatere, er, at DONG
+med den meget miljøbevidste klimaministers
+støtte forlænger den periode, hvori vi er afhængige af fossile brændstoffer, ved at investere i
+fossile brændstoffer i Østtyskland, hvor ikke Enhedslisten alene, men også Det Europæiske Miljøagentur jo meget klart siger, at det faktisk er en
+usædvanlig dårlig idé, og at det burde man lade
+være med at gøre. Det er jo det, der er problemet
+i den her situation, nemlig at uanset hvad ministeren mener, og hvad ministeren kan finde på
+at sige, så har hun sammen med resten af Folketinget med undtagelse af Enhedslisten besluttet
+sig til, at det er i orden, at DONG vælger det,
+som Det Europæiske Miljøagentur kalder den
+dårligst tænkelige løsning på at producere energi i Østtyskland. Det er det, som er kendsgerningen her, og det er konsekvensen af den politik,
+som ministeren står for, uanset alle forsøg på at
+snakke udenom.
+
+220
+
+Onsdag den 5. december 2007 (US 7)";Per Clausen
+39692;Time;"have atomkraft, og da vi ikke har megen naturgiven vandkraft, ja, så er vi som et rigt land nogle af dem, der pr. indbygger udleder rigtig meKl. 13:34 get CO2 og - som fru Mette Gjerskov ved at jeg
+Klima- og energiministeren (Connie Hedeogså mener - for meget CO2.
+gaard):
+Det er jo faktisk noget af det, vi er ved at gøre
+Det er ikke noget forsøg på eller ønske om at
+noget ved, og det er grunden til, at fru Mette
+snakke udenom. Det er ikke DONG, der forlæn- Gjerskov og jeg og mange andre har siddet omger det, det gør den tyske regering. Den tyske
+kring et fælles bord så sent som i morges for at
+regering siger: Det er klart, at vi frem mod 2020
+prøve at føre energiforhandlingerne, bl.a. om
+vil have en stadig højere andel af vedvarende
+mere vedvarende energi, til ende.
+energi. Og EU har sagt: I får kun så og så mange
+Men det er jo en mærkelig præmis, fru Mette
+kvoter. Hvad I vil gøre med dem, og hvordan I
+Gjerskov stiller op, når hun inddrager det med
+vil håndtere dem, er jeres ansvar. Det er den tyskibe, for vi kan jo inddrage hvad som helst,
+ske regerings ansvar, det er ikke DONG's anmen vi er nu engang nødt til at opgøre det, såsvar, det er slet ikke hr. Per Clausens ansvar eller dan som kloden opgør det, sådan som verden
+mit ansvar som dansk klimaminister.
+opgør det, og ifølge verdens måde at opgøre det
+Vi kan faktisk ikke gøre ret meget ved det. Vi på efter de eksisterende regler, så indregnes
+kan kun gøre én ting: Vi kan arbejde for de mest
+skibsfart ikke. Og det er klart, at fordi Danmark
+muligt forpligtende internationale aftaler, sådan
+har nogle dygtige folk, der sejler rundt på haveat vi hele tiden sørger for at stramme de kvoter,
+ne med varer - de sejler f.eks. fra Kina med vader bliver til rådighed for nogen som helst, og
+rer til USA - så betyder det ikke, at Danmark har
+hele tiden sørger for at sikre en maksimal tekno- ret meget lod eller del i det.
+logiudvikling, sådan at hver enkelt kvote også
+Det tæller ikke med, sådan som det er i dag,
+ad den vej efterhånden kan føre til stadig bedre
+men der er jo ingen, der så klart som jeg har
+teknologier til fordel for miljøet.
+sagt: Jeg ønsker, at luftfart skal være med og";Kl. 13:34
+41865;Time;være reguleret i et nyt internationalt regime, og;Kl. 13:35
+41927;title_name;"jeg ønsker, at skibsfart skal være det, men da det
+Ja tak. Her sluttede spørgsmålet, og næste spørikke er det i dag, er det jo sådan på kanten af
+ger er fru Mette Gjerskov.
+manipulation at sige, at det burde det så være
+lige præcis for Danmarks vedkommende. HvorKl. 13:35 dan ville så luftfart og skibsfart og alt muligt anSpm. nr. US 7
+det, der heller ikke er med, påvirke regnskaberne for alle de andre lande? Det er jo en lidt stykMette Gjerskov (S):
+vis og delt måde at se tingene på.";Formanden
+42425;Time;Det, jeg vil spørge ind til, er, hvordan vi beregner vores C02-belastning i det her land.;Kl. 13:37
+42527;title_name;"Kan ministeren bekræfte, at Danmark nu fak- Fru Mette Gjerskov.
+f";Formanden
+42602;Time;"tisk hører til et af de mest klimabelastende lande
+i verden, hvis man medregner vores COTudled- Mette Gjerskov (S):
+ning fra fly og skibe? Altså, helt oppe i supereli- Jamen det mener jeg sådan set slet ikke at jeg har
+ten er vi blandt de største klimasyndere - klipåstået at det skulle. Vi er en stor skibsfartsnatimasvin er der nogle der kalder det - sammen
+on, og mange af de transporter, som f.eks.
+med USA og andre storproducenter af C02-udMærsk foretager, er jo mellem Afrika og Asien
+ledning.
+for den sags skyld, og de har i princippet ikke";Kl. 13:37
+43160;Time;noget med de danske borgere at gøre. Men vi;Kl. 13:36
+43216;title_name;"bliver nødt til at forholde os til, at vi har danske
+Ministeren.
+virksomheder, som udleder meget CO2, og det";Formanden
+43334;Time;"er det, jeg ikke mener at regeringen har forholdt
+Klima- og energiministeren (Connie Hedesig til.
+gaard):
+Vi har kun hørt tal om, hvor dygtige vi var,
+Danmark er - også uden skibe - et af de lande i
+når man ikke talte fly og skibe med, og det har
+verden, der har det højeste forbrug og den højefaktisk betydet, at udledningen af CO2 fra dansk
+ste levestandard, og da vi f.eks. har valgt ikke at
+skibsfart mellem år 2004 og 2006 - på bare 2 år Formanden:
+Ministeren.
+
+Onsdag den 5. december 2007 (US 7)
+er steget med 75 pet. Det er så blevet efterfulgt af
+en vision fra regeringens side om dansk søfart,
+hvor man anerkender søfarten som miljøvenlig.
+Men når vi ved, at dansk skibstrafik - nu kommer der en hel masse tal - overstiger hele det
+danske erhvervsliv med hensyn til udledning, at
+samtlige fabrikker i Danmark udleder mindre,
+end vi gør på verdenshavene, bliver vi da nødt
+til at forholde os til det. Det må regeringen da
+vel også forholde sig til, og det må klimaministeren da også forholde sig til.
+Ja, vi skal gøre noget på internationalt plan:
+ja, vi skal have det fordelt, men hvis vi så i Danmark laver en søfartspolitik, som bare handler
+om vækst, vækst og vækst uden et ord om C02udledning, så har vi da et problem i Danmark.";Kl. 13:36
+44587;Time;;Kl. 13:39
+44599;title_name;Ministeren.;Formanden
+44620;Time;"Klima- og energiministeren (Connie Hedegaard):
+Nu ved fru Mette Gjerskov, at jeg synes, det er
+vigtigt, at man tænker COTudledningen ind i
+alle mulige og umulige sammenhænge. Det synes jeg er meget, meget vigtigt at vi gør fuldstændig på kryds og tværs. Men jeg er altså nødt
+til at sige, at man også må tale om det her på en
+sådan måde, at man stiller spørgsmålet: Hvad er
+alternativet? Den kiwifrugt, som fru Mette Gjerskov kan købe i et hvilket som helst supermarked, er jo altså ikke groet på Samsø: den er jo
+groet et eller andet sted ude i den store verden
+og er transporteret hertil.
+Derfor kan man jo ikke tale om det her som et
+nulsumsspil: vi lever jo alle sammen af, at varer
+som følge af globaliseringen transporteres på
+kryds og tværs, og der er det altså stadig væk
+rigtigt, at skibsfart er meget fornuftigt med hensyn til at transportere ganske store mængder af
+varer.
+Når det så er sagt, vil jeg sige, at Danmark jo
+har været i front med at sige, at vi gerne vil have, at skibsfarten bliver underlagt regulering, ligesom vi også nu er i front i EU med at sige, at vi
+vil have, at luftfarten skal inkluderes.
+Så jeg arbejder meget på, at i 2009 i København, hvor vi forhåbentlig kan indgå en ny global klimaaftale, skal netop luftfart og søfart være
+en del af aftalen, og de skal underlægges et kvotesystem, eller hvad fremtiden nu byder på,
+fuldstændig på lige fod med andre sektorer. Det
+tror jeg også godt at fru Mette Gjerskov ved det har vi faktisk kæmpet for ret længe, og Dan-
+
+221
+
+mark er et af de lande i Den Internationale Søfartsorganisation, som klart har presset på for
+det her.";Kl. 13:39
+46238;Time;;Kl. 13:40
+46250;title_name;Fru Mette Gjerskov for det sidste spørgsmål.;Formanden
+46304;Time;;Kl. 13:40
+46323;name_party;":
+Det er jeg fuldstændig enig i, men det, jeg bare
+siger til ministeren, er, at når man ikke har fokus
+på et område, så udvikler det sig uden hensyn til
+klimaet. Når dansk skibstrafik på blot 2 år har
+kunnet have en C02-udledning, der er steget
+med 75 pet., er det altså også et tegn på, at der er
+nogle, der ikke har holdt øje med det område.
+Det er ikke nok at sætte sig ned og vente på,
+at vi når frem til 2009. Jeg ved godt, at ministeren rejser ud og taler med folk - det er slet ikke
+det - men det er jo ikke nok bare at vente til 2009
+og sige: Nå, så må vi jo se, hvordan det går. Det
+er ikke nok, når man samtidig i Danmark laver
+store, grandiose visioner for, hvordan dansk
+skibstrafik skal udvikle sig i fremtiden, og at det
+skal være en kæmpestor - en endnu større - industri for Danmark, uden at man overhovedet
+forholder sig til C02-udledningen.
+Det er jo det, der er problemet - og klimaministeren ved det godt - med miljøet, med ligestillingen, med klimaet: hvis ikke man hele tiden
+holder fokus på det, så skrider det, og det er
+skredet for dansk skibstrafik, og det er et kæmpestort problem for Danmark.";Mette Gjerskov
+47453;Time;;Kl. 13:41
+47465;title_name;Ministeren.;Formanden
+47486;Time;"Klima- og energiministeren (Connie Hedegaard):
+Jeg mener altså, at fru Mette Gjerskov stiller det
+fuldstændig urimeligt op. Jeg tror nu også, at
+man i det tal har taget både P&O Nedlloyd og
+meget andet, som man har købt sig til, med ind i
+regnestykket, for at det kan give en vækst på 75
+pet. på 2 år. Det vil jeg næsten tro.
+Det handler jo om at, ja, det globale transportarbejde er steget i de senere år, og derfor skal vi
+også have gjort noget ved det. Derfor skal vi sørge for, at også den sektor har det optimale incitament til hele tiden at prøve at blive teknologisk
+bedre, blive bedre, når det angår brændstof, blive bedre til på alle tænkelige måder at minimere
+deres C02-udslip.
+Der er det altså stadig væk sådan, at Danmark i Den Internationale Søfartsorganisation er
+
+222
+
+Onsdag den 5. december 2007 (US 8)
+
+gået i spidsen, og vi har jo nu sagt: Nu har I næste år, 2008, til at klare det i IMO, jeres egen organisation, og hvis ikke I finder en løsning der,
+så er det et af de væsentlige temaer i forbindelse
+med en ny global klimaaftale i 2009, forhåbentlig.
+o
+Så må jeg altså lige til sidst sige, at man stadig
+væk skal huske, at selv om Danmark har et højt
+C02-udslip - af mange grunde, f.eks. på grund
+af at vi alle sammen lever på et højt forbrugsniveau - så er det en kendsgerning, at sammen
+med Tyskland er Danmark det land i verden,
+der vil have reduceret sit C02-udslip mest i 2012
+- det år, hvor man skal være i land med det nemlig med 21 pet.";Kl. 13:41
+48964;Time;;Kl. 13:43
+48976;title_name;"Hermed sluttede spørgsmålet.
+Den sidste spørger til klima- og energiministeren er hr. Ole Vagn Christensen.
+
+sine argumenter på dette område på Bali, så vi
+kan få vendt den folkelige modstand til en folkelig opbakning?";Formanden
+49204;Time;;Kl. 13:45
+49216;title_name;Ministeren.;Formanden
+49237;Time;"Klima- og energiministeren (Connie Hedegaard):
+Man kan give regeringen skylden for meget,
+men at der ikke ligefrem er folkelig begejstring
+der, hvor man placerer en meget stor mølle tæt
+på mennesker, tror jeg nu er lidt uafhængigt af,
+hvad farve den til enhver tid siddende regering
+har.
+Vi har alle sammen en fælles opgave med at
+prøve at få de store møller placeret i landskabet,
+så der er respekt for landskabet, og så der er respekt for mennesker. Derfor har vi lagt meget
+vægt på, at vi ikke dikterer opstillingen her fra
+Christiansborg eller fra København, men at";Kl. 13:45
+49817;Time;"kommunerne får lejlighed til at placere dem orSpm. nr. US 8
+dentligt netop med respekt for mennesker og
+landskab.";Kl. 13:43
+49956;name_party;":
+Så har vi også fokus på det, hr. Ole Vagn ChriThy er førende i Danmark inden for vedvarende
+stensen nævner omkring ejerforhold. Det var
+energi på grund af en tidligere indsats. Vi har
+nemmere, dengang de stod nede i mandens
+252 vindmøller, som dækker 80 pet. af den vedegen baghave og man selv kunne tjene pengene
+varende energi. Vi havde en drøm om at kunne
+på det også osv., så var det måske nemmere at
+få opstillet 17 store møller for at opnå de 100
+leve med generne. Dengang var møllerne jo så
+pet., men vi må jo indrømme, og det må ministe- også mindre. Derfor har vi sat et arbejde i gang
+ren jo også i forbindelse med klimamødet på Ba- med henblik på at se, om der er nogle muligheli, at der ikke er den folkelige begejstring omder for, at vi kan have en eller anden slags genkring det at få oprettet vindmøller. Det kan så
+skabt ejerfornemmelse. Og hr. Ole Vagn Chriskyldes, at man i 6 år har haft en negativ holdstensens partifæller var altså til forhandling om
+ning til vindmøller, men det kan også skyldes, at bl.a. det her så sent som i morges, så vi arbejder
+vi er i den situation, at det handler om, hvem
+hårdt på den sag.";Ole Vagn Christensen
+51104;Time;der skal have ejerskabet til dem, og at afstandskriterierne ikke er accepteret af befolkningen.;Kl. 13:46
+51212;title_name;"Nu ved jeg godt, at der foregår drøftelser og
+Hr. Ole Vagn Christensen.";Formanden
+51293;Time;"forhandlinger om at skabe et energiforlig, men
+det, jeg har brug for, er den folkelige begejstring.";Kl. 13:46
+51418;name_party;":
+Hvordan har ministeren tænkt sig at den kan
+Nu er det jo ikke sådan, at den folkelige begejudbredes? Her mener jeg, at ejerforholdene spil- string bare opstod ved, at folk havde møllen ståler en væsentlig rolle, for det har jo været sådan
+ende i baghaven. Det er sådan - og det ved minihidtil, at værdien af disse 252 møller er kommet
+steren jo også godt - at der er oprettet store
+området til gode, ved at der har været nogle ind- vindmølleparker, også i det område. Men jeg er
+komster. Men hvis ejerne kommer til at sidde
+helt enig i, at kriterierne for, hvordan og hvor
+alle mulige mærkelige steder, er der jo ikke den
+tæt de må komme på en befolkning, når det dresamme interesse for, at man kan sige, at det her
+jer sig om de store møller, ikke er så klare, så der
+er noget, der kan være med til at bygge et områ- er opbakning til dem. Her må vi i de diskussiode op, nej, så kan det splitte et område.
+ner, der er rundtomkring, konstatere, at vi har
+Derfor er mit spørgsmål: Hvad agter ministe- den kedelige oplevelse, at folk faktisk føler, at
+ren at gøre, og hvordan agter hun at fremføre
+der ikke tages hensyn til dem.
+
+Onsdag den 5. december 2007 (US 8)
+Derfor er jeg nødt til at spørge vedrørende
+kriterierne: Arbejdes der med kriterierne på en
+sådan måde, at vi får skabt en folkelig begejstring omkring projektet? For det er væsentligt,
+hvis vi ud fra en lang, lang række forudsætninger kan sige, at de her kriterier er rimelige, og da
+vi jo ved, at vi har store områder, så behøver de
+jo ikke at blive placeret i nærheden af en lille by.";Ole Vagn Christensen
+52980;Time;;Kl. 13:47
+52992;title_name;Ministeren.;Formanden
+53013;Time;Klima- og energiministeren (Connie Hedegaard):;Kl. 13:47
+53077;title_name;"... også fuldstændig præcist fået
+kortlagt, hvor i kongeriget der er mest vind, og i
+hvilke kommuner det er mest hensigtsmæssigt
+at møllerne bliver opstillet. Den øvelse er der
+blevet brugt mange kræfter på, ligesom der også
+har siddet gode mennesker med alle mulige interesser repræsenteret, der har sagt: Lad os nu
+prøve, om ikke vi i fremtiden kan koncentrere
+møllerne i lidt større klynger.
+Der er sket det, fra der i sin tid poppede en
+mølle op her, to møller der og tre møller der, at
+de siden er blevet spredt lidt vel meget i landskabet. Der er det givet en planlægningsopgave
+- også ude i kommunerne - at prøve at se, om vi
+ikke i de kommende år kan koncentrere de møller, der skal være på land, i nogle større klynger,
+så vi alt andet lige har dem færre steder i landskabet, og til gengæld så placerer dem i respekt
+for naboer og i respekt for landskaber. Der vil
+jeg så sige til hr. Ole Vagn Christensen: Jo, de
+kriterier er der, f.eks. må man simpelt hen ikke
+placere møller inden for en afstand til en nabo af
+fire gange møllens højde, ellers er det simpelt
+hen forbudt, så får man ikke tilladelsen til at stille møllen op. Så kigger vi også på, om der i nogle helt særlige tilfælde også skal være mulighed
+for at kompensere nogle naboer, der måske ligger lidt i periferien af de fire gange møllens højde.";Udfald af lyd
+54405;Time;;Kl. 13:49
+54417;title_name;Hr. Ole Vagn Christensen.;Formanden
+54452;Time;;Kl. 13:49
+54477;name_party;":
+Netop det med at kompensere er jo at betale
+nogle for at modtage en støj. Men er man sikker
+på, at man ved at gå ind i den diskussion så ikke
+på den måde simpelt hen prøver at tro på, at
+man så kan kvæle den udenomsdiskussion, om
+det her nu er nogle kriterier, der er acceptable?
+
+223
+
+Vi har eksempler oppe fra Thy, hvor der snakkes om tre store møller, og de kommer meget tæt
+på befolkningen. De tre møller kan efter min opfattelse være med til at standse hele projektet, og
+det kan vel ikke være rigtigt. Vi kan komme til at
+diskutere løbende, om kriterierne nu er opfyldt,
+om de nu er klaret, og om der nu er en hel masse
+af de her instanser, som man skal have drejet ind
+for at give borgerne noget sikkerhed. Det vil sige, at i stedet for at få en fornuftig planlægning
+og en fornuftig dialog med borgerne om alle
+problemerne, så opbygger man et problemsæt,
+som måske kan være uløseligt. Det synes jeg
+også man bør tage med. Det har jo noget at gøre
+med, hvordan det ser ud, hvor smukt og æstetisk og alle de ting der, men også den her baggrundsstøj, som der i dag blandt de lærde er lidt
+uenighed om, f.eks. hvor stor afstanden skal være.
+I andre tilfælde tager vi jo hensyn til, at man
+skal løbe den mindste risiko for, at det kommer
+til at påvirke mennesker. Det synes jeg også man
+bør gøre i de her situationer, så man kommer så
+langt væk fra disse områder, og så man kan sige,
+at det her er håndteret med fornuft.";Ole Vagn Christensen
+55912;Time;;Kl. 13:51
+55924;title_name;Det svarer ministeren på.;Formanden
+55959;Time;Klima- og energiministeren (Connie Hedegaard):;Kl. 13:51
+56023;title_name;"... lige sige: For det første var
+den tidligere spørger jo fra den nuværende spørgers parti, og behovet for, at vi skal have vedvarende energi, mere vedvarende energi, og at vi
+skal have nedsat C02-belastningen, skulle vi jo
+gerne så langt være enige om. Der må jeg altså
+sige: Skudt forbi, hvis det handler om at kritisere
+denne regering for ikke at føre dialog med folk
+om, hvor de møller skal være. Det er ikke regeringen, der sådan personligt gør det, for det har
+vi jo lagt ud til kommunerne, men det er denne
+regering, der i modsætning til hr. Ole Vagn Christensens parti har sagt: Lad os nu lade være med
+at diktere os frem fra Christiansborg, hvis vi kan
+undgå det. Lad os i stedet for diktater vælge dialog. Lad os give kommunerne en chance for at
+placere dem der, hvor de chikanerer mindst i det
+lokale samfund.
+Jeg tror, at både hr. Ole Vagn Christensen og
+jeg ved, at det jo ikke altid lige er det sted, vi kan
+se er det rigtige. Der kan være nogle kulturelle
+spor, der kan være nogle særlige grunde til, at
+man lige i det område siger, at det ikke går at
+
+224
+
+Onsdag den 5. december 2007 (S 24)
+
+sætte møllen der, af grunde, som en eller anden
+fuldmægtig på et kontor i København måske
+ikke lige har så meget forståelse for. Det er faktisk os, der har givet rigtig meget grobund for
+dialogen, det er os, der har sagt, at selv om det
+skal tage et par måneder ekstra, respekterer vi
+det for netop ikke at lægge møller for had.
+Så har vi også alle kriterierne. Det er faktisk
+os, der har sat det i gang, at vi nu har kriterier, så
+vi ved, hvad vi skal gøre, ikke bare i år og næste
+år, men i de næste mange år.";Udfald af lyd
+57655;Time;;Kl. 13:52
+57667;title_name;"Tak til klima- og energiministeren.
+Hermed sluttede spørgetimen.
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Formanden
+57844;Time;;Kl. 13:52
+57856;title_name;"Det første spørgsmål er til statsministeren af hr.
+Per Clausen.
+Spm. nr. S 24
+1) Til statsministeren af:";Formanden
+57977;name_party;":
+Hvilke konsekvenser mener statsministeren at
+Ministeriet for Sundhed- og Forebyggelses
+»yderst kritisable« svigt med hensyn til tilsynet
+med Cancerregisteret bør have for den tidligere
+indenrigs- og sundhedsminister og nuværende
+finansminister?";Per Clausen
+58233;Time;;Kl. 13:52
+58245;title_name;Det er statsministeren, der svarer først.;Formanden
+58296;Time;;Kl. 13:52
+58336;title_name;":
+Ja, jeg kan sige til hr. Per Clausen, at regeringen
+bestemt tager Rigsrevisionens kritik af forvaltningen af Cancerregisteret til efterretning. Der
+skal naturligvis rettes op på de påpegede mangler. Det har sundhedsministeren da også taget
+initiativ til, og derfor finder jeg ikke anledning
+til at drage yderligere konsekvenser af Rigsrevisionens beretning.";Anders Fogh Rasmussen
+58706;Time;;Kl. 13:53
+58718;title_name;Hr. Per Clausen.;Formanden
+58745;Time;;Kl. 13:53
+58762;name_party;":
+Ja, nu har jeg godt bemærket, at man i Sundhedsministeriet under indtryk af truslen om, at
+der kom den her redegørelse fra Rigsrevisionen
+og Statsrevisorerne, har taget nogle initiativer,
+og det må vi snakke videre med sundhedsministeren om.
+Men det, jeg synes er lidt interessant her, er, at
+der vel trods alt også er grund til at kigge lidt på
+ansvaret for det, der sker. For det, som statsrevisorerne jo siger, er, at de finder det yderst kritisabelt, at formålet med overtagelsen af Cancerregisteret endnu ikke er opnået, til trods for at
+det snart er 11 år siden, at Indenrigs- og Sundhedsministeriet overtog ansvaret, og at de finder
+det kritisabelt, at ministerens tilsyn og opfølgning ikke har været systematisk og kontinuerlig.
+Det ville jo normalt være en diskussion, vi tog
+med den ansvarlige minister, men nu er den ansvarlige minister jo lige blevet skiftet ud, og jeg
+synes faktisk, det ville være lidt urimeligt at
+gøre den nuværende sundheds- og forebyggelsesminister ansvarlig for fortidens forsyndelser.
+Og derfor er der kun det at spørge statsministeren, om statsministeren ikke mener, det er en
+smule mærkværdigt, at belønningen for ikke at
+have styr på det her er, at man får en anden ministerpost.";Per Clausen
+59993;Time;;Kl. 13:54
+60005;title_name;Statsministeren.;Formanden
+60031;Time;;Kl. 13:54
+60071;title_name;":
+Den nuværende finansminister og tidligere indenrigs- og sundhedsminister har gjort ganske
+meget for at forbedre forholdene på sygehusområdet, også når det gælder kræftbehandlingen,
+og jeg vil endnu en gang slå fast, at regeringen
+selvfølgelig tager Rigsrevisionens kritik til efterretning: det skal der ikke herske den mindste
+tvivl om.
+Men det er jo ikke sådan, at kræftområdet
+ikke er blevet prioriteret under denne regering.
+Tværtimod. Siden 2001 har vi i samarbejde med
+amterne ydet en massiv indsats på kræftområdet, og senest har regeringen aftalt med regionerne, hvordan alle kræftpatienter gradvis i løbet af det kommende år bliver sikret akut handling og klar besked.
+
+(29)
+Onsdag den 5. december 2007 (S 25)";Anders Fogh Rasmussen
+60801;Time;"225
+
+fungerede - til skade for evalueringerne inden
+for området, til skade for planlægningen, til skade for forskningen - og ikke har grebet ind og";Kl. 13:55
+60960;Time;"sikret, at tingene kom i orden i forbindelse med
+Cancerregisteret, så mener statsministeren, at";Kl. 13:55
+61073;name_party;":
+der ikke er grund til at sige noget kritisk om den
+Netop fordi statsministeren ved flere lejligheder
+tidligere indenrigs- og sundhedsministers agehar lagt så meget vægt på kræftbehandlingen,
+ren i den her sag.
+hvilket jeg synes er et rigtigt og fornuftigt synsJeg vil sige, at det jo giver ministre vide mupunkt, undrer det mig, at statsministeren ikke
+ligheder for at begå fejl i fremtiden og alligevel
+mener, der er grund til at kritisere en minister,
+at kunne satse på statsministerens støtte.
+når statsrevisorerne siger, at det er yderst kritiKl. 13:57
+sabelt, at man ikke har fået tingene til at fungere";Per Clausen
+61695;title_name;"i løbet af 11 år - hvis statsministeren har lyst til
+Statsministeren.
+det, kan han også godt kritisere nogle af de mi.Kl. 13:57
+nistre, der var der i de første 5 år, men nu snakStatsministeren (Anders Fogh Rasmussen):
+ker vi mest om ham, der var der i de sidste 6 år Som sagt tager regeringen selvfølgelig beretninog at statsministeren heller ikke finder anledgen fra Rigsrevisionen til efterretning. Der er
+ning til at sige nogen kritiske ord om, at der er
+iværksat initiativer til at rette,op på mangler, der
+en minister, som faktisk er blevet udsat for at få
+at vide af Statsrevisorerne, at det er kritisabelt, at er påpeget.
+Men det afgørende må jo være, om der er sket
+ministerens tilsyn og opfølgning ikke har været
+nogle fremskridt på kræftområdet, og jeg vil
+systematisk og kontinuerlig. Det nytter jo ikke
+godt sige, at sundhedsområdet uden sammennoget, når man diskuterer fejl og forsømmelser,
+ligning er det velfærdsområde, der har oplevet
+så at henvise til, at man i øvrigt har gjort mange
+den største vækst siden 2001. Jeg kan nævne, at
+gode gerninger. Jeg tror faktisk ikke, at det er et
+der til næste år, altså i 2008, vil blive brugt over
+af statsministerens pædagogiske principper, at
+16 mia. kr. mere på sundhedsområdet, end da
+man kan få tilgivelse for forsømmelser, bare
+regeringen kom til. Pengene er bl.a. blevet brugt
+man også gør noget godt eller prøver på at gøre
+til at styrke indsatsen på kræftområdet, og resulnoget godt.";Formanden
+63154;Time;"taterne er da også tydelige. Fra 2001 til 2006 er
+antallet af årlige kræftoperationer steget med";Kl. 13:56
+63263;title_name;godt 40 pet., antallet af strålebehandlinger er steStatsministeren.;Formanden
+63340;Time;"get med mere end 20 pet., og kræftdødeligheden
+er faldet med 6 pet. fra 2000 til 2005.";Kl. 13:56
+63467;title_name;":
+Så der er altså på kræftområdet - selv om der
+Sundhedsstyrelsen har i de sidste år som led i
+indsatsen på kræftområdet taget initiativ til at få stadig mangler meget at gøre: det skal jeg være
+rettet op på en række mangler, og senest har sty- den første til at sige - sket betydelige fremskridt,
+relsen fremlagt en samlet plan for ajourføring og siden denne regering overtog ansvaret i 2001.";Anders Fogh Rasmussen
+63870;Time;modernisering af Cancerregisteret. For at sikre,;Kl. 13:58
+63931;title_name;"at det planlagte arbejde bliver gennemført, vil
+Ja tak. Hermed sluttede spørgsmålet til statsmisundhedsministeren udarbejde en statusrapnisteren.
+port i slutningen af 2008.
+Det næste spørgsmål er stillet til ministeren
+Så på den baggrund finder jeg ikke anledning
+til at drage yderligere konsekvenser af beretnin- for sundhed og forebyggelse, og det er stillet af
+hr. Per Clausen.
+gen fra Rigsrevisionen.";Formanden
+64345;Time;;Kl. 13:56
+64357;title_name;"2) Spm. nr. S 25
+Hr. Per Clausen for et sidste spørgsmål.";Formanden
+64424;Time;Til ministeren for sundhed og forebyggelse af:;Kl. 13:56
+64488;name_party;:;Per Clausen
+64506;name_party;":
+Jeg må jo forstå statsministeren sådan, at på
+trods af at den tidligere indenrigs- og sundheds- Mener ministeren, at det er acceptabelt, at Sundminister, den nuværende finansminister, i årevis hedsstyrelsen først udarbejder en plan for at
+genoprette Cancerregisteret under indtryk af, at
+har været vidende om, at det her område ikke";Per Clausen
+64853;title_name;"Hr. Per Clausen.
+
+226
+
+Onsdag den 5. december 2007 (S 25)
+
+statsrevisorerne kommer med en meget kritisk
+rapport?";Formanden
+64976;Time;;Kl. 13:58
+64988;title_name;Ministeren for sundhed og forebyggelse.;Formanden
+65037;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Som det fremgår af Rigsrevisionens beretning,
+blev Cancerregisteret fra 1997 til begyndelsen af
+2001 kun ajourført med fjerde kvartal i 1996. I
+2001 var der således oparbejdet en pukkel på
+150.000 canceranmeldelser. Dødsårsagsregisteret var i 2001 kun ajourført til og med 1997.
+På den baggrund iværksatte Sundhedsstyrelsen i 2002 en ekstra indsats. 12003 var Cancerregisteret derfor så ajourført som muligt frem til
+2002. En fuldstændig ajourføring forudsætter
+dog, at Dødsårsagsregisteret også ajourføres, og
+det arbejdes der med, så det kan komme på
+plads i 2008.
+Sideløbende hermed har Sundhedsstyrelsen
+som følge af den styrkede indsats på kræftområdet imødekommet behovet for opdaterede tal
+for effekten af kræftbehandlingen.
+Ved en prioriteret indsats i Sundhedsstyrelsen blev årgang 2005 af Dødsårsagsregisteret
+udarbejdet før årgangene 2002 til 2004 for at få
+så nye tal som muligt for kræftdødeligheden.
+Desuden lavede Sundhedsstyrelsen sygehusbaserede overlevelsesrater for en række kræftformer fra 2004 til 2005, også for at få så nye tal som
+muligt.";Kl. 13:59
+66171;Time;;Kl. 14:00
+66202;title_name;":
+Hr. Per Clausen.";Bent Bøgsted
+66230;Time;;Kl. 14:00
+66247;name_party;":
+Nu har statsministeren jo opbrugt alle de muligheder, der er for at tale uden om spørgsmålet, så
+der er jo ikke noget tilbage til sundhedsministeren, og det er selvfølgelig lidt synd.
+Men jeg vil alligevel forsøge at præcisere,
+hvad mit spørgsmål til sundhedsministeren går
+ud på, og det er: Synes sundhedsministeren ikke, at det simpelt hen er for dårligt, at der skal
+medieomtale og igangsættelse af en undersøgelse fra statsrevisorernes side til, før man i Sundhedsministeriet beslutter sig til at tage den her
+sag så alvorligt, at man laver en plan, som man
+har tænkt sig at overholde? Er det ikke forbløffende, at man i Sundhedsministeriet i 11 år kan
+være vidende om, at det her slet ikke går i den
+rigtige retning, uden at man griber ind? Det sy-
+
+nes jeg at sundhedsministeren rolig kan have
+meninger om, eftersom der ikke findes nogen
+mulighed for at gøre ham direkte ansvarlig. Men
+det er klart, at sundhedsministeren i det videre
+forløb også hænger på fortidens forsyndelser.";Per Clausen
+67245;Time;;Kl. 14:01
+67276;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+67307;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Til trods for de initiativer, jeg nævnte før, så må
+det jo erkendes, at ajourføringen af Cancerregisteret ikke er gået hurtigt nok. Jeg er derfor glad
+for, at Sundhedsstyrelsen i løbet af efteråret 2007
+har lavet en ny og meget præcis plan for at komme i mål med ajourføringen af Dødsårsagsregisteret og Cancerregisteret. Planen omfatter en
+række milepæle samt udarbejdelse af en offentlig statusrapport hver tredje måned frem til den
+forventede afslutning i oktober 2008, med statusrapporter direkte ind til mit ministerium.";Kl. 14:01
+67904;Time;;Kl. 14:01
+67935;title_name;":
+Hr. Per Clausen.";Bent Bøgsted
+67963;Time;;Kl. 14:01
+67980;name_party;":
+Nu er der jo gået et stykke tid, hvor vi ikke har
+været samlet her i Folketingssalen, og derfor
+havde jeg fuldstændig glemt det der med, at ligegyldigt hvad man spørger om, så får man jo
+nok det samme svar.
+Jeg er ikke så meget interesseret i, hvilke fejl
+Sundhedsstyrelsen har begået - Sundhedsstyrelsen har jo skiftet direktør, vist nok af nogle andre grunde - men jeg er interesseret i, om den
+nuværende sundhedsminister ikke er enig med
+mig i, at det er fuldstændig uacceptabelt, at et
+ministerium, som er vidende om, at Sundhedsstyrelsen ikke får den her opgave til at fungere,
+ikke sørger for, at det sker, når man nu ved, at
+det har konsekvenser for evalueringen af kræfthandlingsplaner, konsekvenser for den planlægning, man foretager på området, og endnu mere
+betydende konsekvenser for forskningen på området.";Per Clausen
+68811;Time;;Kl. 14:02
+68842;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+68873;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Nu er det jo ikke sådan, at udarbejdelsen af evalueringsplaner og Kræfthandlingsplan I og 11
+
+Onsdag den 5. december 2007 (S 52)
+
+227";Kl. 14:02
+69080;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Som det fremgår af Rigsrevisionens beretning,
+blev Cancerregisteret fra 1997 til begyndelsen af
+2001 kun ajourført...
+Lige et øjeblik, jeg skal lige se noget... Det her
+er spørgsmål S 52, undskyld.
+Som jeg allerede svarede hr. Per Clausen i forbindelse med spørgsmål S 25, har Sundhedsstyrelsen taget initiativ til dette. Sundhedsstyrelsen
+har jo allerede den 21. november 1997 offentliggjort en meget detaljeret tidsplan for ajourføring
+af Cancerregisteret samt afslutning af registrets
+modernisering. Af planen fremgår det, at Cancerregisteret vil være ajourført i oktober 2008,
+hvor alle endelige overgange til og med 2006 vil
+være offentliggjort.";Kl. 14:04
+69802;Time;;Kl. 14:05
+69833;title_name;":
+Hr. Jens Peter Vernersen.";Bent Bøgsted
+69870;Time;;Kl. 14:05
+69895;name_party;":
+Tak for besvarelsen.
+Nu er det jo sådan, at man tidligere har
+spurgt sundhedsministeren om det her emne,
+nemlig hvorfor der ikke har været foretaget registrering. Sundhedsministeren har svaret, at der
+har været en række år, hvor man ikke har nået
+registrering, men har ikke på noget tidspunkt
+over for Sundhedsudvalget eller her i Folketingssalen oplyst disse konsekvenser, som er
+vældig alvorlige, og som jo beskrives i Rigsrevisionens og statsrevisorernes beretning.
+Jeg synes, at sagen på den måde bliver yderligere problematisk, altså, man har haft en viden
+om, at man var langt bagud, men man har aldrig
+over for Folketinget oplyst konsekvenserne af
+den viden, som først kommer frem ved en revisionsgennemgang.
+Mener sundhedsministeren ikke, at det burde
+have konsekvenser for den minister, som havde
+ansvaret på det tidspunkt? Nu er det selvfølgelig svært at udvise mistillid til en minister, som
+ikke er minister for området længere, men en eller anden form for konsekvens burde det have,
+når man trods alt har haft den viden, som jeg beSpm. nr. S 52
+skriver her.";Jens Peter Vernersen
+70977;Time;3) Til ministeren for sundhed og forebyggelse af:;Kl. 14:06
+71058;title_name;:;Bent Bøgsted
+71084;name_party;":
+Sundhedsministeren.
+Vil ministeren tage initiativ til at ajourføre
+manglende data til Cancerregisteret?
+
+har stået og faldet med det her register, og det
+må jeg lige bemærke at den tidligere regering jo
+også må have ment, da det var den, der lavede
+Kræfthandlingsplan 1. Og så må jeg minde om,
+at der jo fra 2001 og fremad er begyndt at ske noget med det her register, men som jeg sagde i
+mit forrige svar, er det naturligvis ikke acceptabelt, at det ikke er blevet ajourført. Derfor har vi
+taget initiativ til, at det vil ske nu.";Jens Peter Vernersen
+71626;Time;;Kl. 14:03
+71657;title_name;":
+Hr. Per Clausen.";Bent Bøgsted
+71685;Time;;Kl. 14:03
+71702;name_party;":
+Jeg synes, at sundhedsministeren blev en anelse
+mere præcis her. For når han siger, at det ikke er
+acceptabelt, at man ikke udfører de opgaver,
+som man har påtaget sig eller er blevet pålagt i
+et ministerium, så vil jeg bare spørge sundhedsministeren: Mener sundhedsministeren ikke, at
+det burde have konsekvenser for nogle et eller
+andet sted, når man i et ministerium opfører sig
+på en måde, der ikke er acceptabel?
+Jeg synes jo, at ordene, som står her i statsrevisorernes bemærkninger, på nogle områder er
+betydelig skrappere end dem, der fik en tidligere minister inden for fødevareområdet, familieog forbrugerministeren, til at forlade sin post.
+Og jeg vil bare gentage mit spørgsmål til sundhedsministeren: Er det ikke rigtigt, at det, der er
+foregået her, er helt uacceptabelt og derfor også
+burde have nogle konsekvenser?";Per Clausen
+72544;Time;;Kl. 14:04
+72575;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+72606;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg må henvise til de svar, der allerede er givet.";Kl. 14:04
+72728;Time;;Kl. 14:04
+72759;title_name;":
+Vi siger tak til hr. Per Clausen.
+Det næste spørgsmål til sundhedsministeren
+er fra hr. Jens Peter Vernersen.
+
+228
+
+Onsdag den 5. december 2007 (S 53)";Bent Bøgsted
+72923;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg vil henvise til mit svar på spørgsmål S 25 til
+hr. Per Clausen.";Kl. 14:06
+73062;Time;;Kl. 14:06
+73093;title_name;":
+Hr. Jens Peter Vernersen.";Bent Bøgsted
+73130;Time;;Kl. 14:06
+73155;name_party;":
+Det er selvfølgelig et meget beskedent svar, og
+det kan måske skyldes, at sundhedsministeren
+kun haft området i ganske kort tid. Men jeg vil
+godt minde ministeren om, at det her jo er dybt
+alvorligt, fordi vi jo ved, at konsekvenserne af
+disse manglende indberetninger og konsekvensen af, at man har haft en række sager liggende
+uden at gøre noget ved dem, har betydet, at
+kræftforskningen er bagud. Konsekvensen er
+også, at man ikke har nogen viden om, hvordan
+udviklingen har været, fordi det heller ikke er
+rapporteret til Dødsårsagsregisteret.
+Det må da give ministeren anledning til overvejelser, også overvejelser, der går ud over at
+henvise til svaret på tidligere spørgsmål.";Jens Peter Vernersen
+73849;Time;;Kl. 14:07
+73880;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+73911;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Lad mig slå fast, at den manglende ajourføring
+af Cancerregisteret ikke har forhindret os i at
+nedbringe kræftdødeligheden med 6 pet. fra
+2000 til 2005 og samtidig øge overlevelsen for en
+række forskellige kræftformer. Den manglende
+ajourføring har heller ikke hindret regeringen og
+Dansk Folkeparti i at gennemføre en massiv udbygning af indsatsen på kræftområdet.
+Med hensyn til kræftplanerne vil jeg sige: Nu
+er det jo ikke sådan, at udarbejdelsen af evalueringen af Kræftplan I og II har stået og faldet
+med det her register, og det her må den tidligere
+regering jo også have ment, da den udarbejdede
+Kræftplan I for perioden 1997-2001 - der blev
+Cancerregisteret jo ikke ajourført.
+Jeg må minde om, at det faktisk i den her periode, hvor der ikke skete noget, nemlig fra december 2000 til regeringsskiftet den 27. november 2001, var direktøren for Kræftens Bekæmpelse, der var social- og sundhedsminister - socialdemokratisk sundhedsminister.";Kl. 14:07
+74931;Time;;Kl. 14:08
+74962;title_name;":
+Hr. Jens Peter Vernersen.
+
+K1. 14:08";Bent Bøgsted
+75025;name_party;":
+Jeg forstår, at ministeren henholder sig til de
+samme oplysninger, som statsministeren har
+haft, om, at kræftdødeligheden er nedbragt. Det
+er den for nogle kræftformers vedkommende.
+Jeg går ud fra, at ministeren også er briefet om,
+at vedrørende andre kræftformer har man faktisk ikke haft et fald i dødeligheden, tværtimod.
+Det er rigtigt, at der på en række områder - de
+færreste - er et fald i dødeligheden, men på
+langt de fleste områder ser man ikke et tilsvarende fald. Jeg tror, at det er vigtigt, at man, når
+man giver sådan en oplysning til Folketinget, tager hele kræftområdet med.
+Så synes jeg egentlig, at man skulle være noget ydmyg i den her sag, og ikke i alt for høj
+grad bare læne sig op ad sit embedsværk, men i
+langt højere grad erkende, at der er store problemer. Ellers ville Rigsrevisionen ikke lave en beretning, som jo helt og fuldt bliver godkendt af
+statsrevisorerne.";Jens Peter Vernersen
+75930;Time;;Kl. 14:09
+75961;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+75992;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Naturligvis skal man være ydmyg over for en af
+de alvorligste sager, som vi kan have, og det her
+er en alvorlig sag.
+Regeringen ønsker, at vi får et behandlingstilbud i verdensklasse, og at vi bliver rigtig gode
+på kræftområdet. Derfor igangsætter vi også det
+her pakkeforløb, sådan at patienterne kommer
+ind i et komprimeret forløb med klar besked om
+deres diagnose og det forløb, de skal i gang
+med.";Kl. 14:09
+76465;Time;;Kl. 14:09
+76496;title_name;":
+Så sluttede spørgsmål nr. S 52.
+Spm. nr. S 53
+4) Til ministeren for sundhed og forebyggelse af:";Bent Bøgsted
+76618;name_party;":
+Agter ministeren at iværksætte en tilbundsgående undersøgelse af, hvilke konsekvenser den
+manglende ajourføring af Cancerregisteret har
+haft og vil have for kræftpatienternes mulighed
+
+Onsdag den 5. december 2007 (S 53)
+for helbredelse og for ajourføring af Kræftplan 1
+og II, samt af, hvad den manglende ajourføring
+af dødsårsagsregisteret har betydet for forskning i kræftsygdomme?";Jens Peter Vernersen
+77014;Time;;Kl. 14:09
+77045;title_name;":
+Jeg giver ordet til sundhedsministeren.";Bent Bøgsted
+77096;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Lad mig først slå fast, at den manglende ajourføring af Cancerregisteret ikke har forhindret os i som jeg også sagde før - at nedbringe kræftdødeligheden med 6 pet. fra 2000 til 2005 og samtidig øge overlevelsesmuligheden for en række
+kræftformer.
+Med hensyn til Kræftplan I omhandlede den
+især nogle organisationsændringer og tiltag til
+en øget behandlingskapacitet, og det var forhold, hvor det ikke var nødvendigt med ajourførte oplysninger fra Cancerregisteret for at evaluere. Ved udarbejdelsen af Kræftplan II i 2005
+blev der brugt en sygehusbaseret overlevelsesstatistik med helt aktuelle tal fra 2004, og til dette formål, altså udarbejdelse af en kræftplan, var
+denne statistik velegnet. Jeg har derfor vanskeligt ved at se, at den manglende ajourføring af
+Cancerregisteret skulle have haft betydende
+konsekvenser for kræftplanerne.";Kl. 14:09
+78009;Time;;Kl. 14:10
+78040;title_name;":
+Hr. Jens Peter Vernersen.";Bent Bøgsted
+78077;Time;;Kl. 14:10
+78102;name_party;":
+Jeg bliver nødt til at spørge ministeren, om ministeren ikke er enig i, at den manglende ajourføring har givet problemer, når det gælder helbredelsen på kræftområdet, og at vi kunne have
+været bedre stillet, hvis vi havde haft en større
+viden på området. Jeg tvivler meget på, at ministeren ikke vil erkende, at sådan er det, ikke
+mindst når man ser den hårde kritik, som er rejst
+af Rigsrevisionen og af statsrevisorerne.";Jens Peter Vernersen
+78536;Time;;Kl. 14:11
+78567;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+78598;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det er jo altid svært at sige, hvordan tingene ville have set ud, såfremt der var noget, som ikke
+havde været til stede. Men lad mig sige med
+hensyn til forskning og helbredelse, at grunddata fra registeret, der føder Cancerregisteret, har
+
+229
+
+Sundhedsstyrelsen hele tiden stillet til rådighed
+for forskere. Det gælder data fra Landspatientregisteret, Patologiregisteret og fra 2005 også
+Dødsårsagsregisteret, så forskerne har altså haft
+adgang til relevante data. De har bare ikke været
+tilgængelige i en så bearbejdet form, som de findes i Cancerregisteret, og derfor ser jeg altså
+ikke noget behov for at iværksætte nogen undersøgelse i den stil, som hr. Jens Peter Vernersen nævner.";Kl. 14:11
+79358;Time;;Kl. 14:12
+79389;title_name;":
+Hr. Jens Peter Vernersen.";Bent Bøgsted
+79426;Time;;Kl. 14:12
+79451;name_party;":
+Jeg synes, ministeren skulle tage det her mindst
+lige så alvorligt, som Rigsrevisionen og statsrevisorerne har gjort.
+Jeg er helt bekendt med de udtalelser, der er
+kommet fra Sundhedsstyrelsen om, at den mener, den har klaret sig. Man kunne næsten få det
+indtryk, at det var uden betydning, at styrelsen
+fik denne indrapportering til registeret.
+Om Dødsårsagsregisteret vil jeg godt sige,
+når vi nu også taler om det i denne sammenhæng, at den tidligere sundhedsminister jo har
+svaret, at alle dødsfald registreres i Dødsårsagsregisteret. Det svarede ministeren den 5. oktober
+2005, og det er jo altså ikke et svar, der svarer til
+det, som vi nu har fået fra Rigsrevisionen og
+statsrevisorerne, hvor det netop påvises, at man
+ikke har den viden, der er nødvendig, og ministeren gav altså et helt andet svar for bare 2 år siden.";Jens Peter Vernersen
+80290;Time;;Kl. 14:12
+80321;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+80352;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg kan ikke stå her og under ministeransvar
+kommentere, hvad tidligere ministre har sagt,
+men jeg kan sige, at jeg og regeringen tager sagen her meget, meget alvorligt. Det vil jeg godt
+understrege.";Kl. 14:12
+80623;Time;;Kl. 14:13
+80654;title_name;":
+Hr. Jens Peter Vernersen.";Bent Bøgsted
+80691;Time;;Kl. 14:13
+80716;name_party;":
+Så må vi også forvente, at der helt og fuldt bliver
+taget fat om sagen, og så må ministeren vel også
+erkende, at ansvaret for, at det ikke er sket, i og
+med at der er blevet givet svar fra den tidligere
+
+230
+
+Onsdag den 5. december 2007 (S 5)
+
+minister, også ligger hos den sundhedsminister,
+som nu er finansminister.";Jens Peter Vernersen
+81046;Time;;Kl. 14:13
+81077;title_name;":
+Sundhedsministeren.";Bent Bøgsted
+81108;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg vil henvise til mit svar på spørgsmål nr. S 25
+til hr. Per Clausen.";Kl. 14:13
+81251;Time;;Kl. 14:13
+81282;title_name;":
+Så siger jeg tak til sundhedsministeren og hr.
+Jens Peter Vernersen.
+Det næste spørgsmål er stillet til finansminisferen af hr. Ole Vagn Christensen. Finansministeren er ikke til stede, men vi har fået oplyst, at
+han er på vej, så vi venter lige et par minutter.";Bent Bøgsted
+81556;Time;;Kl. 14:15
+81587;title_name;":
+Vi genoptager mødet nu. Finansministeren er
+kommet til stede.
+Spm. nr. S 5
+5) Til finansministeren af:";Bent Bøgsted
+81716;name_party;":
+Agter ministeren at inddrage de skatteforhøjelser, som overskrider kommuneaftalen?";Ole Vagn Christensen
+81810;Time;;Kl. 14:15
+81841;title_name;":
+Jeg vil give ordet til finansministeren.";Bent Bøgsted
+81893;Time;;Kl. 14:16
+81933;title_name;":
+Må jeg starte med at beklage over for Folketinget, at jeg ikke var her til tiden. Jeg skal ikke helt
+præcis kunne sige, hvad der er gået galt, men jeg
+skal bestræbe mig på, at det ikke gentager sig.
+Jeg bliver spurgt, om jeg eller regeringen agter at inddrage de skatteforhøjelser, som overskrider kommuneaftalen, og svaret på det
+spørgsmål er: Nej.";Lars Løkke Rasmussen
+82294;Time;;Kl. 14:16
+82325;title_name;":
+Hr. Ole Vagn Christensen.";Bent Bøgsted
+82362;Time;;Kl. 14:16
+82387;name_party;":
+Når jeg har rejst det her spørgsmål, er det sådan
+set for at få det der klokkeklare svar. Men det er
+også for at finde ud af, hvad der menes, når man
+taler om at have overskredet kommuneaftalen.
+Det står i kommuneaftalen, at der er tilladte
+skatteforhøjelser aftalt i forbindelse med udlig-
+
+ningsreformen. Der er jo en del kommuner, som
+er blevet tvangsindlagt til at skulle sætte skatten
+ned efter udligningsreformen. For de kommuner - har jeg forstået, og jeg håber også, at det er
+det samme indtryk, ministeren har - drejer det
+sig om knap 1 mia. kr., eller var det godt og vel I
+mia. kr., man havde i spil, da det handlede om at
+overflytte midler?
+Mit spørgsmål er derfor: Er de her skatteforhøjelser ikke tilladt i henhold til den kommuneaftale, som er indgået?";Ole Vagn Christensen
+83166;Time;;Kl. 14:17
+83197;title_name;":
+Finansministeren.";Bent Bøgsted
+83226;Time;;Kl. 14:17
+83266;title_name;":
+Vi har 98 kommuner, som jo hver især har deres
+individuelle frihed til for så vidt at sætte skatten,
+som de vil, når blot det sker koordineret og solidarisk på en måde, der gør, at skatteprocenterne
+under et går i balance i forhold til det, der er aftalt. Det, der helt præcist blev aftalt, var, at
+skattestoppet naturligvis gjaldt, men at man for
+så vidt angik 2008 kunne tillade, at kommuneskatterne under et steg med 750 mio. kr., som så
+skulle reduceres i den statslige skat for at sikre,
+at skattestoppet blev overholdt.
+Når vi aftalte at lægge 750 mio. kr. på bordet
+oven i de gammelkendte kommunale skatteprocenter, var det præcis for at yde et bidrag til man kan vel udtrykke det på den måde - at ryste skatteprocenterne på plads, efter at de i en
+periode havde været låst endda med to decimaler. Det, man bare må konstatere, er, at den øvelse ikke lykkedes for KL, fordi den ramme på de
+750 mio. kr. blev sprængt, sådan at vi nu står i en
+situation, hvor kommuneskatterne er blevet
+yderligere 1,4-1,5 mia. kr. højere.";Lars Løkke Rasmussen
+84304;Time;;Kl. 14:19
+84335;title_name;":
+Hr. Ole Vagn Christensen.";Bent Bøgsted
+84372;Time;;Kl. 14:19
+84397;name_party;":
+Angående de her 750 mio. kr. ligger der jo papirer på, hvad det sådan set var, der blev aftalt.
+Men det løser jo ikke det problem, vil jeg sige til
+finansministeren, som man skabte med udligningsreformen ved at lave en tvangsnedskrivning af skatten, og samtidig sagde man i aftalen,
+at kommunerne havde lov til at sætte skatten op
+i de efterfølgende år. Der var ingen restriktioner.
+Derfor er mit spørgsmål: Er de forhold, jeg
+her nævner, indgået i forbindelse med den nye
+kommuneaftale, nemlig at man kunne forvente,
+
+Onsdag den 5. december 2007 (S 5)
+at der ville blive 1 mia. kr. i overskridelse? Nej,
+det var vel ikke så meget, for der var jo noget,
+man fik lov til at beholde. Men det er i hvert fald
+en stor del af de 1,1 mia. kr., der blev overført til
+kommunerne, som de ville have mulighed for at
+kunne lave skatteforhøjelser for i 2008, hvilket
+de også har gjort. Det ligger derfor inden for
+rammen, og det kan i hvert fald ikke være et tal,
+der kan passe med de 750 mio. kr. Så der er et eller andet her, vi har brug for at få en forklaring
+på, og det kan være, at ministeren kan give den.";Ole Vagn Christensen
+85510;Time;;Kl. 14:20
+85541;title_name;":
+Finansministeren.";Bent Bøgsted
+85570;Time;;Kl. 14:20
+85610;title_name;":
+Ja, temaet har jo indgået i økonomiforhandlingerne, for det er jo rigtigt, at de byrdefordelingsmæssige konsekvenser af udligningsreformen
+for en del, der lå ud over, hvad der svarer til 0,2
+skatteprocent, blev faset ind via kommuneskatterne. Det vil sige, at de kommuner, der havde
+gevinst på kommunalreformen, altså skulle lade
+en del af gevinsten sætte sig i en lavere skatteprocent i første omgang: de kommuner, der havde tab på udligningsreformen på den korte bane, kunne lade en del af tabet sætte sig ved at
+forhøje kommuneskatten.
+Så der var sådan set lagt op til, at kommunerne fra det startpunkt over tid kunne justere deres skatteproceliter, nogle i opadgående retning
+og andre i nedadgående retning. Sådan fungerer
+det jo.
+Så der er fin plads til, at de kommuner, der
+har brug for over tid at have en højere skatteprocent, kan få det. Modstykket er bare, at de kommuner, der så over tid kan klare sig med en lavere skatteprocent, så også skal have en lavere
+skatteprocent. Det er sådan, skattestoppet skal
+forstås. Det er sådan, det også indgår som en
+forudsætning bag økonomiaftalen.
+For at lette vejen, i erkendelse af at der nok
+præcis i 2008 var flere kommuner end almindeligvis, der havde brug for at justere deres skatter,
+lagde vi så yderligere 750.mio. kr. på bordet. Det
+var et tal, vi var enige med KL om, ligesom vi
+var enige med KL om, at det klogeste var, at det
+var KL, kommunerne selv, der så at sige administrerede skattestoppet plus 750 mio. kr.
+Det er jo også derfor, at vi nu, hvor aftalen
+ikke er overholdt, bliver nødt til at drøfte med
+KL, startende på et møde her den 14. december,
+hvad det her fremadrettet giver anledning til.
+
+231";Lars Løkke Rasmussen
+87290;Time;;Kl. 14:22
+87322;title_name;":
+Hr. Ole Vagn Christensen.";Bent Bøgsted
+87360;Time;;Kl. 14:22
+87385;name_party;":
+Jeg mener, at det er et selvskabt problem, ministeren har fået op at stå. Man kunne have løst
+det på den måde, som man nu har løst det med
+hensyn til skattestoppet, at staten sådan set havde taget sin andel af udligningsbeløbet, hvor en
+række kommuner jo netop med udligningsbeløbene kunne få genoprettet deres service. Mit
+indtryk er ikke, at der i kommunerne er den opfattelse, at man ikke har lov til at bruge disse
+penge til velfærdsforbedringer. Det er ikke mit
+indtryk, og jeg kan heller ikke se, at nogen af de
+papirer, jeg har set, understreger det: heller ikke,
+at det skulle være nævnt specifikt i aftalen, at
+man kun gradvis må have lov til at forhøje sin
+skat.
+For det er jo det, ministeren siger: Man må
+ikke have lov til at lave en ajourføring og dermed håndtere det. Nej, for så giver man jo ikke
+plads, til at de øvrige kommuner kan få deres
+nødvendige ajourføring. For det ville jo - hvis vi
+skal tage ministerens ord for pålydende - betyde, at vi sådan set skulle sætte skatten ned i de
+kommuner, som har levet godt, altså velhaverkommunerne, som jo har afleveret penge. Men
+det jo ikke det, der er resultatet, når vi ser på listen.
+Derfor er problemet her skabt af ministeren.
+Det er ministeren, der er gået ind og faktisk har
+lavet uorden i det kommunale system. For hvis
+man nu havde gjort det anderledes, end man har
+gjort, havde vi jo ikke været i den situation.";Ole Vagn Christensen
+88782;Time;;Kl. 14:24
+88813;title_name;":
+Vi giver ordet til finansministeren.";Bent Bøgsted
+88861;Time;;Kl. 14:24
+88901;title_name;":
+Nej, det er hr. Ole Vagn Christensen, der skaber
+uorden i tingene, for orden i tingene er, at den
+enkelte kommune sådan set må gøre, som den
+vil.
+Hvis man i den enkelte kommune føler behov
+for at ajourføre sin skat i opadgående eller nedadgående retning, så kan den enkelte kommune
+gøre det, når blot den samtidig sikrer sig, at man
+indgår i et solidarisk fællesskab med de øvrige
+97 kommuner, og sikrer sig, at de bevægelser,
+man laver i opadgående retning, modsvares af
+andre, der laver en tilsvarende bevægelse i nedadgående retning. Det er sådan, kommunesyste-
+
+232
+
+Onsdag den 5. december 2007 (S 48)
+
+met fungerer, det er sådan, aftalesystemet fungerer. Det er sådan, det er aftalt med Kommunernes Landsforening i sommer: en aftale, som
+blev berømmet og fremhævet som en god aftale
+af næstformand Anker Boye, af bestyrelsesmedlem Nicolai Wammen og andre gode kræfter fra
+hr. Ole Vagn Christensens parti.
+Derfor er det selvfølgelig også ærgerligt, at
+det, vi aftalte med kommunernes egne repræsentanter, ikke er efterlevet af kommunerne selv.
+Og det er vi nødt til at se på med nogen alvor, og
+det er også baggrunden for, at jeg indkaldte KL
+til et møde - jeg regner med, at det finder sted
+her den 14. december - hvor vi kan få lejlighed
+til at drøfte, hvad det her giver anledning til
+fremadrettet.";Lars Løkke Rasmussen
+90219;Time;;Kl. 14:25
+90250;title_name;":
+Tak til finansministeren og hr. Ole Vagn Christensen.
+Næste spørger er hr. Rasmus Prehn. Spørgsmålet er stillet til velfærdsministeren.
+Spm. nr. S 48
+6) Til velfærdsministeren af:";Bent Bøgsted
+90448;name_party;":
+Mener ministeren, at det er velfærd, når borgerne i en række kommuner skal opleve både nedskæringer og skattestigninger på grund af kommunernes pressede økonomi i en tid, hvor regeringen ellers giver skattelettelser?
+Skriftlig begrundelse
+I en række kommuner er situationen den, at
+man både bliver nødt til at hæve den kommunale skatteprocent, samtidig med at man skærer
+ned i budgettet.";Rasmus Prehn
+90847;Time;;Kl. 14:25
+90878;title_name;":
+Jeg giver ordet til velfærdsministeren, værsgo.";Bent Bøgsted
+90937;Time;"Velfærdsministeren (Karen Jespersen):
+I spørgsmålet bliver det forudsat, at kommunerne har en presset økonomi og derfor er i en situation med skattestigninger og nedskæringer.
+Men det mener jeg ikke er rigtigt. Hvis man ser
+på kommunernes økonomi under et og også under den aftale, som finansministeren netop har
+indgået, så er der sådan set tale om, at der bliver
+tilført øgede ressourcer til kommunerne i kraft
+
+af den aftale, der er lavet med Kommunernes
+Landsforening, og hvor så de her ekstra skatteindtægter kommer oveni. Det betyder selvfølgelig ikke, at der ikke kan være nogen konkrete
+kommuner, hvor der på enkelte områder opleves et lavere serviceniveau, fordi man har valgt
+at prioritere på en bestemt måde i den kommune. Eller der kan f.eks. være en kommune, hvor
+man har haft et urealistisk højt serviceniveau i
+2007 i forhold til de indtægter, der ligger i kommunen: men det er jo en konsekvens af det kommunale selvstyre. Men jeg mener ikke, at man
+under et kan tale om, at der er en presset økonomi i kommunerne.";Kl. 14:25
+91977;Time;;Kl. 14:27
+92008;title_name;":
+Hr. Rasmus Prehn.";Bent Bøgsted
+92037;Time;;Kl. 14:27
+92054;name_party;":
+Jeg tror, at langt de fleste kommunalpolitikere
+har svært ved at genkende det billede, som velfærdsministeren lægger frem her, nemlig at man
+ikke skulle have en presset økonomi. Jeg tror, at
+man har haft overordentlig svært ved at få de
+kommunale budgetter til at hænge sammen, og
+at man mange steder er rigtig kede af, at man er
+nødt til at forringe den service, der er over for
+borgerne. Det er jo det der er situationen. Vi jo
+haft en situation, hvor vi i valgkampen havde et
+meget klart valg: Ville vi have skattelettelser,
+som regeringen har lagt frem, eller ville vi have
+velfærdsforbedringer? Der sagde regeringen, at
+begge dele kunne lade sig gøre. Men ikke desto
+mindre er der altså steder i Danmark, hvor der
+er kommuner, der simpelt hen må reducere i
+velfærden, og der er jeg helt overbevist om, at de
+ikke har nogen oplevelse af, at man ikke er presset. De er overordentlig pressede, de skal lukke
+biblioteker, de skal lukke borgercentre og andre
+ting.
+Nu ved jeg godt, at regeringen har forsøgt at
+sætte trumf på deres velfærdsfokusering ved at
+udnævne den tidligere socialminister til også at
+være velfærdsminister, og det kan jo så godt gøre, at den tidligere socialminister har meget
+svært ved også at overskue, hvad der sker ude i
+kommunerne. Men efterhånden som den nye
+velfærdsminister skal rundt og besøge kommunerne, er jeg sikker på, at ministeren vil opdage,
+at man er meget presset derude.
+Jeg vil gerne helt konkret spørge, om ministeren oplever, at det er velfærd, når det er sådan,
+at man rundt omkring i kommuner oplever, at
+
+(30)
+Onsdag den 5. december 2007 (S 48)
+man reducerer i velfærden, samtidig med at
+man også nødt til at sætte skatten op.";Rasmus Prehn
+93742;Time;;Kl. 14:28
+93773;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+93804;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg oplever, at der generelt i det danske samfund
+er et meget højt velfærdsniveau. Det betyder
+selvfølgelig ikke, at der ikke hele tiden er områder, hvor man kan gøre det bedre. Men jeg oplever bestemt, at vi har et velfungerende velfærdssamfund. Det man jo kan se - også for budgetterne, som har været offentliggjort i pressen med
+de foreløbige budgettal - er, at kommunernes
+samlede udgifter i 2008 til service på velfærdens
+kerneområder, som man jo kalder det, forventes
+at ligge højere end niveauet i 2007. Og for det sociale område er der samlet tale om en realvækst i
+2008 på 0,8 mia. kr. På ældreområdet forventes
+udgifterne at stige med ca. 0,3 mia. kr., udgifter
+til børn og unge med 0,2 mia. kr., og til handicappede/udsatte voksne 0,3 mia. kr. Det er det
+samlede billede for de budgetter, der nu foreligger.";Kl. 14:28
+94671;Time;;Kl. 14:29
+94702;title_name;":
+Hr. Rasmus Prehn.";Bent Bøgsted
+94731;Time;;Kl. 14:29
+94748;name_party;":
+Ja, ministeren kan jo udmærket læse op af en hel
+masse tal, som søde, rare embedsfolk har skrevet ned. Jeg tror bare, at man ude i de kommuner, som det handler om, oplever noget andet. Vi
+kan jo tage et konkret eksempel som Vesthimmerlands Kommune i Nordjylland, som jo er
+Venstrestyret, og hvor man jo har været nødt til
+simpelt hen at sætte skatten op med 0,8 pet., så
+den almindelige borger hver eneste måned skal
+betale mere i skat til kommunen. Men ikke desto
+mindre har man været nødt til at spare et tocifret
+millionbeløb på velfærden.
+Konkret er det jo en geografisk meget stor
+kommune, fordi det er en sammenlægning af
+flere tidligere kommuner, og der har man i forbindelse med sammenlægningen lovet borgerne, at der skulle være fire borgercentre, hvor
+man kunne henvende sig og få hjælp. Nu bliver
+det så reduceret til kun to. På biblioteksområdet
+og en række andre virkelige kernevelfærdsområder skal man skære ned. Der synes jeg altså, at
+velfærdsministeren skylder borgerne i Vesthimmerland en helt konkret forklaring på, om det er
+
+233
+
+velfærd. Er det velfærd, når det er sådan, at man
+skal betale mere, men får mindre?";Rasmus Prehn
+95894;Time;;Kl. 14:30
+95925;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+95956;Time;"Velfærdsministeren (Karen Jespersen):
+Nu kan jeg jo selvfølgelig ikke gå ind her og begynde at kommentere en konkret kommune - så
+skulle det jo have ligget ikke i spørgsmålet, og så
+ville jeg have undersøgt det. Jeg har jo ikke lige
+alle 98 kommuners økonomi på fingrene, men
+grundlæggende må man sige, at der samlet set
+er tale om en realvækst i de budgetter, der nu
+ligger. Som sagt kan der da i den enkelte kommune være nogle konkrete grunde til, at man
+har et lavere niveau på et bestemt område. Men
+det er jo også netop derfor vi har givet plads til,
+at man kan hæve skatterne. Som finansministeren lige har sagt, så er der et spillerum for det,
+hvis det bare holder sig inden for den samlede
+aftale. Så jeg synes helt bestemt, at vi har et særdeles velfungerende velfærdssamfund i Danmark. Jeg synes ikke, man kan have et meget
+bedre udgangspunkt for et velfærdssamfund
+end vi har, og det gælder efter mine begreber
+også i Vesthimmerlands Kommune.";Kl. 14:30
+96920;Time;;Kl. 14:31
+96951;title_name;":
+Hr. Rasmus Prehn.";Bent Bøgsted
+96980;Time;;Kl. 14:31
+96997;name_party;":
+Nu hørte vi jo ministeren starte med at sige, at
+det generelle billede er positivt, og at det er meget få kommuner, hvor der er tale om at man
+både sætter skatten op og reducerer velfærden.
+Derfor kan det heller ikke have været nogen
+større opgave for ministeren, når det nu er sådan, at spørgsmålet er stillet skriftligt - til og
+med næsten en uge i forvejen - at finde de kommuner frem, hvor det er sådan, at man både sætter skatten op og reducerer velfærden.
+Derfor undrer det mig noget, at velfærdsministeren her i salen ikke kan svare på, hvad borgerne i Vesthimmerland kan regne med. For
+dem stiger skatten, og velfærden falder, og jeg
+synes, at velfærdsministeren har en forpligtelse
+til at svare på, om det virkelig i 2007, snart 2008,
+kan være rigtigt, at der er kommuner, som skal
+have ringere velfærd, og som skal betale mere
+for den. Hænger det sammen med det valgløfte,
+som regeringen gav inden det valg, der netop er
+overstået? Jeg synes ikke, at det hænger sammen, og ministeren har haft alle forudsætninger
+
+234
+
+Onsdag den 5. december 2007 (S 49)
+
+for at forberede svaret på lige præcis det her
+spørgsmål.";Rasmus Prehn
+98132;Time;;Kl. 14:32
+98163;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+98194;Time;"Velfærdsministeren (Karen Jespersen):
+Det er altså ikke forbudt at spørge noget mere
+præcist, sådan at man faktisk spørger til, om der
+er kommuner, hvorom man kan sige, at de både
+skærer skatten ned og hæver den. Men det er
+bare ikke så enkelt at forklare, hvad det vil sige
+at skære ned. Der er faktisk ret mange kommuner, som vælger at lægge biblioteker sammen.
+Det var et af de eksempler, som hr. Rasmus
+Prehn nævnte. Der er rigtig mange kommuner,
+der gør det under overskriften forbedringer, fordi man mener, at det giver en langt bedre mulighed for at servicere borgerne. Så det, der ligesom
+på den ene side kunne kaldes nedskæringer, kalder nogle af kommunerne på den anden side
+faktisk forbedringer.";Kl. 14:32
+98911;Time;;Kl. 14:33
+98942;title_name;":
+Tak til ministeren. Det var slut på spørgsmålet.
+Det næste spørgsmål er også stillet af hr. Rasmus Prehn til velfærdsministeren.
+Spm. nr. S 49
+7) Til velfærdsministeren af:";Bent Bøgsted
+99133;name_party;":
+Mener ministeren, at det vil være rimeligt at
+straffe kommunerne i 2009 for de skattestigninger, der blev foretaget i 2008, når nu statsministeren fredede kommunerne under valgkampen?
+Skriftlig begrundelse
+Statsministeren lovede under valgkampen, at
+kommunerne ikke skulle genåbne deres budgetter, men sagde samtidig, at overskridelserne ville blive taget op i økonomiforhandlingerne med
+kommunerne for 2009.";Rasmus Prehn
+99553;Time;;Kl. 14:33
+99584;title_name;":
+Jeg giver ordet til velfærdsministeren.";Bent Bøgsted
+99635;Time;"Velfærdsministeren (Karen Jespersen):
+Spørgsmålet drejer sig, så vidt jeg kan forstå, om
+noget af det samme, som finansministeren har
+
+svaret på her for ikke så længe siden. Der bliver
+spurgt, om jeg mener, det vil være rimeligt at
+straffe kommunerne i 2009 for de skattestigninger, der blev foretaget i 2008, når nu statsministeren fredede kommunerne under valgkampen.
+Sådan er spørgsmålet formuleret.
+Der er ikke lagt op til nogen straffeekspedition, for det er jo blevet sagt tydeligt, at kommunerne ikke skal genåbne deres budgetter. Hvordan man så skal forholde sig til den skattestigning, der er sket, og som ligger over det, der lå i
+aftalen med Kommunernes Landsforening, er
+der ikke truffet nogen afgørelse om, men der
+skal, som finansministeren også sagde, være et
+møde med Kommunernes Landsforening, fordi
+det hele jo i første omgang handler om at klarlægge, hvad situationen er. Der skal vi jo høre
+KL's vurdering af, hvordan de ser det samlede
+billede, og så kommer der, når forhandlingerne
+går i gang i løbet af foråret, en række overvejelser om, hvilket udgangspunkt man skal tage for
+de forhandlinger.
+Så der er ikke lagt op til nogen straffeekspedition, men det betyder jo ikke, at de skattestigninger, der har været, ikke ligesom eksisterer som
+en del af den virkelighed, man skal tage udgangspunkt i.";Kl. 14:33
+100965;Time;;Kl. 14:34
+100996;title_name;":
+Hr. Rasmus Prehn.";Bent Bøgsted
+101025;Time;;Kl. 14:34
+101042;name_party;":
+Det, vi hører ministeren svare her i dag, er, at
+det, som statsministeren lovede sidst i valgkampen, hvor statsministeren var hårdt presset af
+meningsmålingerne og andet - vi freder kommunerne, hed det - gælder kun i 2008, det gælder ikke 2009. Der er man nødt til at gå ind og
+reducere i de kommuners økonomi. Fordi man
+f.eks. i Vesthimmerland har sat skatten op, skal
+det modregnes i 2009. Det løfte, man gav, gjaldt
+kun for 2008, det gælder ikke for 2009.";Rasmus Prehn
+101512;Time;;Kl. 14:35
+101543;title_name;":
+Velfærdsministeren.
+K1. 14:35
+Velfærdsministeren (Karen Jespersen):
+Nej, det er ikke rigtigt. Det var ikke det, jeg sagde. Jeg forklarede eller forsøgte at forklare, at
+der under alle omstændigheder også vil være
+noget, som kan være ren beregningsteknik. Altså, hvor skal man tage udgangspunkt? For der
+er også de kommuner at tage hensyn til, som
+ikke har hævet skatten.
+
+Onsdag den 5. december 2007 (S 49)
+Der er ingen planer om at gå ind og reducere
+for konkrete kommuner. Jeg vil sige, at der ikke
+er nogen konkrete planer endnu, fordi vi ikke
+har klarlagt et fælles udgangspunkt med Kommunernes Landsforening. Det er jo det, der er
+hele ideen bag de her forhandlinger, nemlig at vi
+klarlægger, hvad det er for et fælles udgangspunkt, vi har, og dertil er vi faktisk ikke nået
+endnu. Og før vi er det, kan vi ikke tage hul på
+at sige, hvordan vi så skal forholde os til et fælles udgangspunkt.";Bent Bøgsted
+102452;Time;;Kl. 14:36
+102483;title_name;":
+Hr. Rasmus Prehn.";Bent Bøgsted
+102512;Time;;Kl. 14:36
+102529;name_party;":
+Ja, så blev jeg så meget klogere.
+Det, det handler om, er altså, at der ikke er lavet planer om det endnu, man har ikke nået at
+forberede, hvad straffeaktionen skal være. Men
+når man så har lavet planerne, så ved man,
+hvordan man skal straffe, og så ved man, hvordan f.eks. Vesthimmerlands eller Thisted Kommune, som har sat skatten op, skal spare.
+Men svaret her i Folketingssalen er, at man
+bare ikke endnu har fundet ud af, hvordan man
+vil gøre. Man lovede godt nok før valget, at
+kommunernes økonomi var fredet, men det var
+sådan set bare, fordi man endnu ikke havde
+planlagt, hvordan man havde tænkt sig at straffe
+kommunerne, og så kan det jo så være, at vi kan
+få flere af de her såkaldte forbedringer, som ministeren var inde på, hvor der, at når man skal
+reducere velfærden - det hørte jeg ministeren
+sige - ligefrem var tale om en forbedring. Det
+kan jeg heller ikke helt forstå hvordan hænger
+sammen.
+Men svaret er altså her i dag: Der kommer en
+straffeekspedition over for kommunerne: regeringen har bare ikke nået at tænke det igennem
+endnu og har ikke rigtig fundet nogen ordentlig
+forklaring på, hvordan man skal forklare borgerne, at man lovede det i valgkampen og nu straffer alligevel, godt nok ikke i 2008, men i 2009.";Rasmus Prehn
+103778;Time;;Kl. 14:37
+103809;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+103840;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg kan lige her til det sidste få sagt, at det altså
+er noget sludder og vrøvl. Jeg har absolut ikke
+stået og sagt her, at man kan regne med straffeekspeditioner. I øvrigt har jeg ikke statsministerens konkrete formulering fra valgkampen. Men
+
+235
+
+sådan som jeg husker det, var det, der blev sagt
+ret præcist, at man ikke ville gå ind og genåbne
+budgetterne.
+Men det er på den anden side heller ikke blevet sagt, at man helt konkret vil inddrage nogle
+penge, der kan jo laves et hundrede og sytten
+forskellige modeller: det er der absolut ikke blevet sagt. Der er blevet sagt: Nu sætter vi os sammen med KL og finder ud af, hvad grundlaget
+er. I øvrigt er de tal, som tidligere har været
+nævnt fra hr. Rasmus Prehns side om situationen i Thisted Kommune, ikke rigtige, og det er
+ikke rigtigt, at KL har været inde og sagt god for
+de 60 mio. kr., der har været nævnt. Vi har indhentet en udtalelse fra KL, der siger, at det har
+de ikke gjort, men de er i øvrigt i forhandlinger
+med Thisted Kommune om, hvad realiteten er,
+og så er der jo en mulighed for at tage det op i
+2010 - bare lige for at få den sag på plads.";Kl. 14:37
+105005;Time;;Kl. 14:38
+105036;title_name;":
+Hr. Rasmus Prehn.";Bent Bøgsted
+105065;Time;;Kl. 14:38
+105082;name_party;":
+Jeg er rimelig overbevist om, at situationen i forbindelse med Thisted er sådan, som jeg tidligere
+har oplyst.
+Men det, vi bare får frem her, er jo, at det er
+sådan, at regeringen i valgkampen lovede, at der
+ikke ville ske indgreb. Men nu hører vi så ministeren helt tydeligt sige, at når man har fået regnet på det, når man har fået kigget på det, og når
+man har fået talt sammen med KL, holdt møde
+og andre ting, jamen så er man nødt til at kigge
+på, hvordan de skattestigninger, som er blevet
+lavet i kommunerne, skal modregnes. Og det vil
+jo alt andet lige betyde, at man er nødt til at kigge på budgetterne igen i 2009, og så er der altså
+flere biblioteker, der skal lukkes - eller forbedres, som ministeren var inde på - og der er eventuelt andre velfærdsgoder, flere borgercentre,
+der skal lukkes, fordi der simpelt hen ikke er råd
+til det, fordi man nu skal reducere for at leve op
+til regeringens stramme økonomiske politik. Sådan må jeg jo forstå det der blev sagt her.";Rasmus Prehn
+106073;Time;;Kl. 14:39
+106104;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+106135;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg kan jo bare gentage det, jeg har sagt nu flere
+gange: Det er ikke rigtigt: det er en forkert konklusion. Nu holder vi det møde med KL, og så
+laver vi en vurdering af, hvordan den samlede
+
+236
+
+Onsdag den 5. december 2007 (S 50)
+
+situation er med henblik på at forberede de
+kommuneforhandlinger, der går i gang i løbet af
+foråret.";Kl. 14:39
+106518;Time;;Kl. 14:39
+106549;title_name;":
+Vi siger tak til hr. Rasmus Prehn.
+Den næste spørger til spørgsmål 8 er fru Pernille Frahm, og det er også til velfærdsministeren.
+Spm. nr. S 50
+8) Til velfærdsministeren af:";Bent Bøgsted
+106745;name_party;":
+Er servicelovens § 32 tilstrækkelig klar til at sikre alle børn, der har behov herfor, et særligt dageller klubtilbud?
+Skriftlig begrundelse
+Der ønskes en afklaring af anvendelsen af de
+særlige dag- og klubtilbud under servicelovens
+§32.";Pernille Frahm
+106994;Time;;Kl. 14:39
+107025;title_name;":
+Velfærdsministeren har ordet.";Bent Bøgsted
+107066;Time;"Velfærdsministeren (Karen Jespersen):
+Spørgsmålet drejer sig om § 32 i serviceloven,
+der taler om de børn, der har behov for særlige
+dag- og klubtilbud. Der er ikke nogen begrundelse for svaret, men jeg vil sige: Som helhed
+mener jeg, at § 32 er en god paragraf, når det
+handler om at sikre børn med fysisk, psykisk eller udviklingshæmmende handicap et særligt
+tilbud. Men der, hvor der tilsyneladende er en
+uklarhed, er, når det handler om forældrenes betaling for de dagtilbud. Der kan vi se, at vi har
+fået nogle henvendelser. Jeg er bekendt med, at
+ministeriet har fået nogle henvendelser fra nogle
+handicaporganisationer og også fra nogle enkelte kommuner. På den baggrund er vi gået i gang
+med at ændre vejledningen, så den bestemmelse, der jo hele tiden har været om forældres betaling, bliver tydelig. Eller rettere sagt: Det er den
+bestemmelse, som handler om, hvornår forældrene kan få et 100-procents-tilskud. Og det kan
+de, når der i al overvejende grad er tale om, at
+barnet er i situationen på grund af handicappet
+og ikke på grund af et pasningstilbud. Men der
+er åbenbart en uklarhed, og vi vil gøre det tydelig.";Kl. 14:39
+108206;Time;;Kl. 14:41
+108237;title_name;":
+Fru Pernille Frahm.";Bent Bøgsted
+108269;Time;;Kl. 14:41
+108289;name_party;":
+Det glæder mig da, at ministeren allerede nu
+træder i karakter i forhold til, at der er en uklarhed i, hvordan visitationen anvendes. For det
+drejer sig netop, som ministeren siger, om børn,
+der på grund af deres psykiske eller fysiske
+funktionsnedsættelse har brug for et særligt tilbud, og det særlige tilbud er 100 pet. refusionsberettiget i forhold til forældrebetaling.
+Da oplever vi så, at det ikke er helt tydeligt,
+om det er et almindeligt pasningstilbud, børnene får tilbudt, eller om det er det her særlige pædagogiske tilbud, som børnene har behov for.
+Det er derfor uklart, om forældrene skal betale.
+Man kan sige sig selv, at der vil være en overlapning, for i det øjeblik barnet modtager et særligt pædagogisk tilbud, som barnet har et særligt
+behov for, og som ikke kan finde sted i almindelige klub- og dagtilbud, vil der jo heller ikke
+være et pasningsbehov. Der kunne man jo godt,
+hvis man ikke var hæderlig over for de her forældre og over for de her børn, sige: Jamen fint,
+så er det et pasningsbehov, der bliver dækket.
+Der håber jeg så at ministeren vil være meget
+klar i mælet i forhold til at støtte og være solidarisk over for de her børn og deres forældre, altså
+at det fortrinsvis er den specialpædagogiske
+indsats, der er begrundelsen for, at barnet er netop der.
+Jeg kunne godt tænke mig at vide, hvor langt
+ministeren er med de her overvejelser, og hvornår vi kan vente, at der kommer en præcisering.
+Er det i det her folketingsår? Er det i næste samling? Hvor længe skal vi vente på en præcisering?";Pernille Frahm
+109830;Time;;Kl. 14:42
+109861;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+109892;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg vil næppe kunne nå det inden jul, men i
+hvert fald i næste samling. Vi har jo fået de her
+henvendelser, men vi må sige, at vi ikke har fået
+nogen konkrete klager. Vi er ikke bekendt med,
+at nogle forældre konkret klager. Men det er
+klart, at den her uklarhed er opstået, efter at tilbuddene er flyttet fra de gamle amter over i de
+nye, store kommuner. Der er jo ikke blevet ændret på regelsættet med hensyn til forældrebeta-
+
+Onsdag den 5. december 2007 (S 51)
+ling, men der er så nogle kommuner, der er usikre, og som sagt har vi fået de her henvendelser.
+Jeg er selvfølgelig opmærksom på, at det skal
+gå så hurtigt som muligt. Så det vil ske så hurtigt som muligt i det nye år.";Kl. 14:42
+110625;Time;;Kl. 14:43
+110656;title_name;":
+Fru Pernille Frahm.";Bent Bøgsted
+110687;Time;;Kl. 14:43
+110707;name_party;":
+Jeg var lidt inde på den her balance mellem, om
+det er et specialpædagogisk tilbud, eller om det
+er et pasningsbehov, man dækker. Det kunne jeg
+godt tænke mig ministeren sådan lige trådte lidt
+frem på scenen med: Hvilken vægtning synes
+ministeren selv det er rigtigt at give her? Vil man
+være solidarisk over for de her børn og deres familier, eller vil man sige: Jamen når de får det
+her specialpædagogiske tilbud, er de jo også
+passet, og så er det et pasningsbehov, der bliver
+dækket - og dermed ingen refusion?";Pernille Frahm
+111233;Time;;Kl. 14:44
+111264;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+111295;Time;"Velfærdsministeren (Karen Jespersen):
+Det er klart, at når der er den her bestemmelse,
+så er det jo også ud fra et hensyn til, at der er
+nogle børn, der har brug for at være der på
+grund af deres handicap. Det er der jo også i
+nogle almindelige dagtilbud, hvor der er forskellige støtteforanstaltninger. Jeg synes, at det
+er nogle virkelig gode tilbud, der er til de børn,
+der har det her særlige behov. Så det er selvfølgelig også derfor, vi har dem, og det er derfor, at
+vi skal lave nogle regler.
+Men jeg vil nødig her i dag stå og blive mere
+præcis, hvad angår, hvor snittet skal lægges, for
+så havde jeg jo, kan man sige, allerede skrevet
+det nye afsnit i vejledningen. Men det bliver jo
+tilgængeligt, og vi kan tage en debat om det, når
+der ligger et udkast. Jeg vil godt lige have lidt
+mere solid grund under fødderne, for der er det
+her samspil, og vi kan i øvrigt også se, at der er
+nogle forældre, der gerne vil have deres børn i
+en almindelig daginstitution, hvor de jo skal betale efter de almindelige regler, men hvor de så
+også kan få noget støtte. Så det ville i virkeligheden bare kunne bidrage til en øget uklarhed,
+hvis jeg stod her og begyndte at væve mig ud i,
+hvordan de nye regler skal være.";Kl. 14:44
+112519;Time;;Kl. 14:45
+112550;title_name;":
+Fru Pernille Frahm.
+
+237";Bent Bøgsted
+112587;Time;;Kl. 14:45
+112607;name_party;":
+Men ministeren er forhåbentlig enig i, at i det
+øjeblik barnet modtager et specialpædagogisk
+tilbud, hvad enten det gives i en speciel daginstitution eller speciel klub, eller det gives i en integreret institution, en normal institution, så er
+der tale om et barn, der har et særligt behov, og
+så burde servicelovens § 32 træde i funktion. Det
+er vi forhåbentlig enige om.";Pernille Frahm
+112991;Time;;Kl. 14:45
+113022;title_name;":
+Velfærdsministeren.";Bent Bøgsted
+113053;Time;"Velfærdsministeren (Karen Jespersen):
+Sådan som jeg hører fru Pernille Frahm, så lyder
+det, som om der altid skal være 100 pet. offentligt tilskud, når der er andet end et pasningsbehov, men sådan mener jeg ikke man kan sige
+det. Sådan har reglerne heller aldrig været. Men
+jeg synes sådan set, at det bliver lidt skævt at stå
+her og diskutere udformningen af reglerne. Så
+hvis vi skal komme nærmere ind på det, også
+nærmere ind på en beskrivelse af, hvordan reglerne har fungeret under de gamle amter, og på,
+hvordan de fungerer i dag, vil jeg foreslå, at vi
+gør det skriftligt. For det, der jo er brug for, er et
+præcist svar på, hvordan de har fungeret. Og
+det, jeg hører fru Pernille Frahm sige, mener jeg
+ikke er dækkende for, hvordan de regler har været og er.";Kl. 14:45
+113830;Time;;Kl. 14:46
+113861;title_name;":
+Det var slut på spørgsmål 8.
+Spm. nr. S 51
+9) Til velfærdsministeren af:";Bent Bøgsted
+113955;name_party;":
+Hvor stor forøgelse af den kommunale indtægt
+for særlige dag- og klubtilbud i perioden 20032007 vil ministeren finde acceptabel?
+Skriftlig begrundelse
+Spørgeren ønsker at få ministerens holdning til,
+hvilket niveau forældrebetalingen for dag- og
+klubtilbud for børn med fysiske eller psykiske
+funktionsnedsættelser skal være på. Ifølge serviceloven skal kommunalbestyrelsen yde en refusion på 100 pet. Det er spørgerens opfattelse, at dette ikke holder stik, og at kommunernes ind-
+
+238
+
+Onsdag den 5. december 2007 (S 51)
+
+tægter på området er steget betragteligt. Spørge- nisteren synes, at det vist er et tegn på, at visitaren ønsker derfor at få afklaret ministerens hold- tionsreglerne bliver anvendt på en anden måde
+ning til en forøget kommunal indtægt på områend tidligere? Taler vi om en fordobling, en tredet.
+dobling, en firedobling eller om en femdobling,";Pernille Frahm
+114835;Time;"en syvdobling eller en tidobling siden kommuDen fg. formand (Bent Bøgsted):
+nalreformen trådte i kraft? Hvor synes ministeJeg giver ordet til velfærdsministeren.
+ren ligesom at smertegrænsen er for, hvornår";Kl. 14:46
+115052;Time;"man kan sige noget om, at reglerne i hvert fald
+Velfærdsministeren (Karen Jespersen):
+ikke bliver brugt, som de gjorde før?";Kl. 14:47
+115186;Time;"Spørgsmålet ligger i forlængelse af det forrige
+og handler om, om man kan sige noget om, hvor";Kl. 14:49
+115311;title_name;":
+stor en forøgelse af forældrebetalingen som vil
+Velfærdsministeren.";Bent Bøgsted
+115390;Time;"være acceptabel. Men jeg mener sådan set ikke,
+at man kan spørge på den måde. For det, det jo
+Velfærdsministeren (Karen Jespersen):
+handler om, er selvfølgelig, at der er nogle regDet kan jeg jo altså selvfølgelig overhovedet
+ler, der skal forvaltes korrekt i forhold til hensig- ikke begive mig ud i. Men hvis der pludselig
+ten med loven, da den blev vedtaget.
+skete en meget dramatisk vækst i forældrenes
+I spørgsmålet kunne der ligge den præmis, at
+andel fra det ene år til det andet, så kunne jo se
+der har været en stigende forældrebetaling, og
+ud, som om man er begyndt at administrere det
+det har jeg ikke noget belæg for at sige at der har
+anderledes, end man gjorde tidligere, og ikke
+været. Loven har jo også kun fungeret under
+har administreret det efter lovens hensigt.
+kommunerne i 2007 - det var som jo en følge af
+Men det, vi lige skal holde fast i, er, at vi i
+kommunalreformen - og derfor har vi ikke nohvert fald ikke har fået nogen konkrete klager i
+gen tal for 2007. Der har jo hele tiden været en
+ministeriet. Og vi har jo under alle omstændigheder et ankesystem, og ankesystemet fungerer
+lille forældrebetaling, men det er jo af ret ny dato, at man er begyndt at opgøre den, så det tager jo som det sociale områdes domstol, der kan gå
+altid nogle år, før en sådan ny opgørelsesmetode ind i forhold til den praksis, der har været, og sige, om dette så er en ændring af praksis ud over
+bliver helt korrekt. Vi har nogle tal for forældreloven. Ud over den præcisering, vi nu laver i
+betalingens størrelse nogle år tilbage, som er i
+vejledningen, vil det jo være naturligt at bruge
+størrelsesordenen 2 mio. kr. om året, og det er
+det samlede beløb for alle forældre, der har deanken. Og når kommunerne har været på vej ud
+over lovens grænser, ja, så har ankesystemet tit,
+res børn i specialtilbud, så det er en ret lille del
+ligesom domstolene, hevet dem tilbage og sagt:
+af den samlede betaling. Og vi har ikke noget
+Hov, det er her, I skal være med hensyn til forælbelæg for at sige, at den forældrebetaling har
+drebetaling.
+været stigende i 2007. Jeg kan heller ikke sige
+K1. 14:50
+det modsatte. Men det vil altså blive opgjort på";Kl. 14:49
+117573;title_name;":
+et tidspunkt.";Bent Bøgsted
+117598;Time;Fru Pernille Frahm.;Kl. 14:48
+117628;Time;;Kl. 14:50
+117659;title_name;":
+Fru Pernille Frahm.";Bent Bøgsted
+117700;name_party;:;Pernille Frahm
+117711;Time;"Jeg bliver altså lidt forundret over, at ministeren
+slet ikke vil forholde sig til det, fordi det er noPernille Frahm (SF):
+get, hun slet ikke ved noget om, når vi nu snakJeg spørger jo heller ikke ministeren om tallene,
+de indgår slet ikke i spørgsmålet, for så havde vi ker om, at det her er i holdningsafdelingen, ikke? Det var ministerens holdning, jeg spurgte til.
+ikke stået her og haft den her dialog.
+Mener ministeren noget om det? Det er det, jeg
+Det er et holdningsspørgsmål. Og derfor
+står og efterlyser.
+spørger jeg ministeren om hendes holdning.
+Men jeg kan altså sige, at det også undrer
+Hvordan synes ministeren at det burde være mig, at ministeren slet ikke ved noget om, hvorsom minister, naturligvis? Hvis man nu efter
+dan udviklingen ser ud, for jeg har da i hvert
+kommunalreformens indførelse kan se, at der er
+fald fået nogle foreløbige beregninger, der tyder
+sket en voldsom forøgelse af den indtægt - jeg
+på, at vi er oppe på en tidobling - en tidobling siger ikke indtjening, for kommunerne har jo
+på 4 år. Og det store spring er sket fra 2006 til
+også nogle udgifter, ikke? - på det her felt, hvor
+mange gange må den så blive fordoblet, før mi-
+
+Onsdag den 5. december 2007 (S 21)
+
+239";Kl. 14:48
+118934;Time;2007. Vil det sætte alarmklokker i gang hos ministeren?;Kl. 14:53
+119021;title_name;:;Bent Bøgsted
+119032;Time;Vi siger tak til velfærdsministeren og fru Pernille;Kl. 14:51
+119115;title_name;":
+Frahm.
+Velfærdsministeren.
+Det næste spørgsmål er stillet til kulturminiKl. 14:51 steren. Der er spørgsmål 10, og det er stillet af hr.
+Velfærdsministeren (Karen Jespersen):
+Mogens Jensen.
+I de år, jeg nævnte, som, så vidt jeg husker, var
+fra 2002 til og med 2006, har der ikke været nævneværdige udsving. Det, jeg også har fået at viSpm. nr. S 21
+de, er, at det ligesom på andre områder altid er
+mere upræcist, når man er ved at køre et nyt re10) Til kulturministeren af:
+gistreringssystem ind, og jeg har forstået det såMogens Jensen (S):
+dan, at jeg ikke kan få nogen sikre tal for 2007,
+Vil ministeren redegøre for det rimelige i, at mimen jeg vil da studere dem med stor interesse,
+nisteriet ikke sikrer den nødvendige økonomihvis der vitterlig skulle være sket en tidobling.
+ske udbetaling til landets egnsteatre, hvilket
+Jeg vil altså ikke stå her og forholde mig til det.
+bl.a. har resulteret i, at Herning Kommune må
+Vi er i december måned, så tallene kommer
+lægge penge ud for staten, så Team Teatret kan
+om ikke så forfærdelig længe, og så må vi se på:
+betale lønninger i januar? .
+Skulle der virkelig være sket sådan en dramatisk
+ændring af forældrebetalingen, uden at der har
+været nævneværdig uro omkring det? Men så
+Skriftlig begrundelse
+understreger det da behovet for den præcisering, som jeg snakker om.
+Der henvises til artikel i Herning Folkeblad den";Bent Bøgsted
+120497;Time;28. november 2007.;Kl. 14:52
+120526;Time;;Kl. 14:53
+120557;title_name;":
+Fru Pernille Frahm.
+Kulturministeren (Brian Mikkelsen):";Bent Bøgsted
+120624;Time;"Jeg vil godt starte med at sige, at den her diskusPernille Frahm (SF):
+sion om Team Teatret bygger på en misforståelDet takker jeg for. Jeg vil selvfølgelig oversende
+se. Team Teatret vil selvfølgelig også få sit statsnogle mere konkrete spørgsmål til ministeren, så tilskud i det nye år, så der er ikke tale om et reelt
+vi får undersøgt området til bunds, for det virproblem.
+ker, som om visitationsreglerne bliver brugt på
+Det er korrekt, at der næppe kan nå at blive
+en ganske anderledes måde i kommunerne, og
+underskrevet en ny egnsteateraftale for Team
+det kan man jo godt forstå, set ud fra kommuTeatret pr. 1. januar, men Kunststyrelsen betragnernes utrolig klemte økonomiske situation. Jeg
+ter de indsendte udkast til nye eller forlængede
+har fuld forståelse for det, men jeg synes også
+egnsteater aftaler som forpligtende tilkendegibare, at man er nødt til at være opmærksom på
+velser af, at kommunerne ønsker at indgå aftale
+de her børns og deres forældres betingelser. Så
+med de pågældende teatre. Kunststyrelsen kan
+ministeren kan vente en stribe konkrete spørgsderfor nøjagtig som hidtil udbetale statstilskud
+mål om området sendt over.
+direkte til teatrene allerede i starten af januar.";Kl. 14:52
+121835;Time;Det kan så kun blive månedsvis forud i stedet;Kl. 14:53
+121912;title_name;":
+for som normalt kvartalsvis forud, men det skylVelfærdsministeren.
+des jo situationen omkring finansloven, og det";Bent Bøgsted
+122037;Time;"ligger altså uden for min kontrol som kulturmiVelfærdsministeren (Karen Jespersen):
+nister, at vi har haft et folketingsvalg i mellemtiden.
+Det er kun fint, for er der nogle ting, der skal
+holdes øje med og korrigeres, så skal det selvfølDet kan også godt være, at der har været - det
+gelig ske. Jeg er f.eks. heller ikke bekendt med,
+kan vi jo forstå af spørgsmålet - nogle uklare
+meldinger om den præcise situation i det nye år,
+at antallet af pladser i de specielle institutioner
+skulle være faldet. Men lad os endelig få set på
+men vi har nu gennemgået reglerne grundigt, og
+der er ikke noget problem.
+det. Det er jo nogle børn og familier, der virkelig
+har brug for en ordentlig kvalificeret hjælp.
+Så er der naturligvis også spørgsmålet om
+statens refusion af kommunens tilskud til Team
+
+240
+
+Onsdag den 5. december 2007 (S 21)
+
+Teatret. Efter loven skal der foreligge en underskrevet egnsteateraftale, før staten kan udbetale
+refusion af kommunens tilskud til egnsteatre.
+Da bekendtgørelsen meget snart vil blive udsendt, så vil der sandsynligvis også være behov
+for nogle mindre rettelser i de nye egnsteateraftaler. Refusionen kan således godt blive forsinket lidt som følge af, at der endnu ikke foreligger en ny bekendtgørelse. Årsagen til denne forsinkelse vil jeg gerne gennemgå, men lad mig
+blot lige forinden slå fast, at en forsinkelse af bekendtgørelsen og dermed af statens refusion til
+kommunen, ikke til teatret, jo ikke hindrer kommunen i som sædvanligt at udbetale det fulde
+kommunale tilskud til teatret. Det skal vi nok
+gøre helt klart for kommunerne i forbindelse
+med udstedelsen af den nye bekendtgørelse.
+Der opstår altså ikke noget problem for Team
+Teatret, som under alle omstændigheder får sit
+samlede tilskud fra både kommune og stat til tiden. Det mulige problem består alene i, at en
+stor kommune som Herning ser ud til at få den
+statslige refusion udbetalt nogle måneder forsinket. Det tror jeg ikke vil kaste en stor kommune
+som Herning ud i en større likviditetskrise.
+Angående spørgsmålet om udstedelsen af
+den omtalte egnsteaterbekendtgørelse, som hr.
+Mogens Jensen kommenterer i de i spørgsmålet
+nævnte artikler i Herning Folkeblad, vil jeg kort
+lige skitsere forløbet.
+Sidst på foråret vedtog Folketinget en ændring af teaterloven. Den betød, at man fik en ny
+egnsteaterordning. For bedre at kunne have et
+regelgrundlag for det, så udstedte vi en ny bekendtgørelse. Der har været en stor høring om
+det, og så har der været et folketingsvalg. Og det
+folketingsvalg har betydet, at tingene har været
+sat i stå herinde, og det har betydet, at vi ikke
+har kunnet få den bekendtgørelse ud. Men den
+kommer ud meget snart.";Kl. 14:53
+124704;Time;;Kl. 14:56
+124735;title_name;":
+Hr. Mogens Jensen.";Bent Bøgsted
+124765;Time;;Kl. 14:56
+124783;name_party;":
+Nu er det efterhånden ikke nogen hemmelighed, at ministeren sammen med Venstre og
+Dansk Folkeparti har gennemført en forringelse
+af egnsteaterordningen, der jo betyder, at en
+række egnsteatre kan risikere at komme i en
+voldsom økonomisk klemme fra 2009. Så lavede
+man lige en redning for 2008 op til valget, så tilskuddet er sikret der. Men det, der undrer mig,
+er jo, at Team Teatret i Herning har haft en an-
+
+søgning liggende inde siden den 1. marts 2007,
+og de står altså nu over for at mangle penge, fordi ministeren endnu ikke har underskrevet og
+udsendt bekendtgørelsen, som jo allerede for
+længst har været i høring. Det betyder altså, at
+teatret ikke kan få udbetalt det tidligere tilskud,
+man har fået fra amtet. Det er, hvad teatret har
+fået at vide.
+Kommunen har sagt: Vi giver vores del af tilskuddet. Men det, man tidligere har fået fra amtet, kan man ikke få udbetalt. Man kommer altså
+til at mangle i omegnen af 0,5 mio. kr. i første
+kvartal. Jeg synes jo, det er mærkeligt, at ministeriet kan tillade det over for så lille et teater,
+der trods alt har en så skrøbelig økonomi, altså
+at de selv skal ud og udrede en likviditet, der
+gør, at de er i stand til at betale lønninger i januar måned.
+Mener ministeren virkelig, at det er en rimelig fremgangsmåde over for de her teatre?";Mogens Jensen
+126090;Time;;Kl. 14:57
+126121;title_name;":
+Kulturministeren.";Bent Bøgsted
+126150;Time;"Kulturministeren (Brian Mikkelsen):
+Jeg ved ikke, hvordan jeg skal sige det pænt,
+men jeg sagde jo lige, at det var en misforståelse.
+Pengene bliver udbetalt i starten af januar, så jeg
+forstår ikke helt det nye spørgsmål. Pengene bliver udbetalt i starten af januar.";Kl. 14:57
+126428;Time;;Kl. 14:58
+126459;title_name;":
+Hr. Mogens Jensen.";Bent Bøgsted
+126489;Time;;Kl. 14:58
+126507;name_party;":
+Hvis der er tale om en misforståelse, så har jeg
+misforstået ministeren, altså at pengene fra staten bliver udbetalt i starten af januar. Jamen så
+er problemet selvfølgelig løst, og så er jeg glad
+for, at ministeren i anledning af det her spørgsmål har sørget for, at problemet er løst. Det kvitterer jeg for.";Mogens Jensen
+126828;Time;;Kl. 14:58
+126859;title_name;":
+Kulturministeren.";Bent Bøgsted
+126888;Time;"Kulturministeren (Brian Mikkelsen):
+Hr. Mogens Jensen er en dygtig kulturordfører.
+Pengene fra amtet, som staten nu sørger for, bliver udbetalt som planlagt i starten af januar. Hr.
+Mogens Jensen nævnte også kommunens tilskud. Der nævnte jeg her, hvordan forløbet vil
+være i forbindelse med den nye bekendtgørelse.
+Der vil Herning Kommune så stadig væk stå
+
+(31)
+Onsdag den 5. december 2007 (S 46)
+med det ansvar, de har, og vi refunderer dem så
+løbende, måned for måned, som følge af, at der
+er en midlertidig finanslov og man ikke har lavet nogen finanslov endnu.
+Men det tilskud, som hele sagen har handlet
+om, og som staten har overtaget fra amterne, vil
+blive udbetalt som planlagt i starten af januar. Så
+der skulle ikke være nogen problemer. Det er en
+misforståelse, og det bunder i, at bekendtgørelsen har været ude til høring. En af høringsparterne havde brug for noget længere tid til at
+kommentere høringen. Så kommer der et folketingsvalg, og så skulle vi præcisere for Kunststyrelsen, hvordan man skulle reagere på den situation. Og det tilskud, som Team Teatret helt retfærdigt har krav på, får de også udbetalt som
+planlagt i starten af januar.";Kl. 14:58
+128059;Time;;Kl. 14:59
+128090;title_name;":
+Hr. Mogens Jensen.";Bent Bøgsted
+128120;Time;;Kl. 14:59
+128138;name_party;":
+Det synes jeg jo er glimrende. Det ændrer selvfølgelig ikke ved det generelle spørgsmål, der er
+omkring egnsteatrenes økonomi, og som vil
+komme fra 2009, når man kan påregne, at deres
+tilskud vil falde som følge af, at der kommer flere egnsteatre ind i ordningen.
+Men det her konkrete spørgsmål handlede
+om, at vi ikke kan stille nogen teatre i den situation, at de selv skal ud og finde likviditet alle
+mulige andre steder, fordi de ikke får deres tilskud udbetalt af staten. Og jeg er glad for, at ministeren har løst det på den her måde.";Mogens Jensen
+128690;Time;;Kl. 15:00
+128721;title_name;":
+Kulturministeren.";Bent Bøgsted
+128750;Time;"Kulturministeren (Brian Mikkelsen):
+Det er jeg selvfølgelig også, for hele intentionen
+med egnsteaterlovgivnihgen og den prioritering, vi har haft af egnsteatrene, kan ses. 12000
+gav vi 38 mio. kr. til egnsteatrene, i 2007 67 mio.
+kr., og her i 2008 regner vi med at give 88,8 mio.
+kr. til egnsteatrene. Det er udtryk for en politisk
+set meget, meget høj prioritering af egnsteatrene. Der er aldrig blevet givet så mange penge til
+egnsteatrene før. Så det er et bevidst valg og en
+bevidst prioritering af egnsteatrene.";Kl. 15:00
+129279;Time;;Kl. 15:00
+129310;title_name;":
+Vi siger tak til kulturministeren og hr. Mogens
+Jensen.
+
+241
+
+Spm. nr. S 46
+11) Til transportministeren af:";Bent Bøgsted
+129439;name_party;":
+Hvordan vurderer ministeren trafiksikkerheden,
+når mange overordnede veje nu er delt mellem
+flere kommuner, hvoraf nogle salter dem, inden
+morgentrafikken begynder - andre ikke, selv om
+der er glat føre eller udsigt til glat føre?
+Skriftlig begrundelse
+Tidligere var de fleste af de store veje amtslige.
+Ved glat føre eller prognoser om glat føre blev
+disse veje saltet, inden morgentrafikken begynder ved 6-tiden. Nu, hvor 80-85 procent af de
+amtslige veje er blevet kommunale, har vi allerede oplevet de første uheld pga. kommunalreformen og forskelligt serviceniveau mht. glatførebekæmpelse. Bilisterne overraskes af, at én
+strækning på samme vej har fint føre, fordi den
+er saltet - hvorimod en anden strækning er meget glat, fordi den ligger i en anden kommune.";Eigil Andersen
+130217;Time;;Kl. 15:00
+130248;title_name;":
+Spørgsmålet er stillet til transportministeren af
+hr. Eigil Andersen.
+Transportministeren har ordet.";Bent Bøgsted
+130360;Time;"Transportministeren (Carina Christensen):
+Tak for det.
+En effektiv, rettidig indsats mod glatte veje i
+vinterhalvåret er naturligvis helt centralt for trafiksikkerheden, og det skal den myndighed,
+som har ansvaret for vejen, sørge for. Det er et
+udtrykkeligt krav i vejlovgivningen.
+Denne vinter er den første, efter at kommunalreformen trådte i kraft ved årsskiftet. Efter
+kommunalreformen har vi nu to ansvarsniveauer, før havde vi tre. Vejdirektoratet har ansvaret
+for statens veje, og kommunerne har ansvaret
+for det kommunale vejnet.
+Hvordan og hvornår der bliver glatførebekæmpet på de kommunale veje, er derfor et
+kommunalt anliggende, og der er på nuværende
+tidspunkt ikke noget statistisk belæg for at konkludere, at der i den vinter, vi er i gang med, er
+sket flere ulykker som følge af niveauet for glatførebekæmpelse i forhold til tidligere vintre. Jeg
+har derfor ikke grundlag for at tro, at kommunerne i samarbejde med politiet ikke skulle være
+præcis lige så gode til at salte og rydde sne, som
+amterne var, eller som staten er.
+
+242
+
+Onsdag den 5. december 2007 (S 46)
+
+Vejdirektoratet indhenter og analyserer løbende ulykkesstatistikkerne fra de danske veje,
+og den viden indgår i grundlaget for det meget
+store arbejde, der pågår, for at forbedre trafiksikkerheden. Jeg ved også, at Vejdirektoratet til foråret, når vintersæsonen er afsluttet, vil evaluere
+indsatsen og de samlede ulykkestal og drøfte
+udviklingen med kommunerne.
+I forbindelse med gennemførelsen af kommunalreformen blev der nedsat et såkaldt vinterudvalg med deltagelse af amter, kommuner, Vejdirektoratet samt Sund & Bælt, som udarbejdede
+en strategi for den fremtidige vintertjeneste af
+kommunernes og statens veje. I denne strategi
+for vintertjeneste tilstræbes det, at der saltes, inden det bliver glat, den såkaldte præventive
+saltning.
+Vejdirektoratet vurderer, at langt hovedparten af kommunerne anvender strategien for vintertjeneste som vejledning. Samtidig er der indgået aftaler mellem kommunerne om ensartede
+serviceniveauer på de veje, der går gennem flere
+kommuner. Derudover har Vejdirektoratet på
+statens vegne tilbudt alle kommuner en samarbejdsaftale om vintertjeneste. Aftalen indebærer,
+at Vejdirektoratet varetager vinterovervågningen og vintervarslingen på kommunens overordnede veje og forestår udkald og udførelse af
+vintertjeneste på de overordnede kommunale
+strækninger, der skal saltes præventivt, og p.t.
+har 60 kommuner sagt ja tak til hele tilbuddet.
+Så samlet set mener jeg derfor ikke, at der på
+nuværende tidspunkt er nogen grund til at tro,
+at kommunalreformen har medført dårligere
+trafiksikkerhed grundet manglende glatførebekæmpelse, og når det handler om indsatsen
+mod glatte veje på det kommunale vejnet, må
+kommunerne leve op til deres ansvar.";Kl. 15:00
+133141;Time;;Kl. 15:03
+133172;title_name;":
+Ja tak. Så er det hr. Eigil Andersen.";Jens Vibjerg
+133221;Time;;Kl. 15:03
+133241;name_party;":
+Jeg siger tak for svaret. Men jeg vil også sige, at
+selv om der endnu ikke er statistik, der viser, at
+der er sket ulykker, er jeg overbevist om, at de
+vil komme, og jeg mener ikke, at man skal vente
+på, at de kommer, og så først gøre noget til den
+tid.
+Hidtil, før kommunalreformen, har det jo været sådan, at når man kom kørende på en større
+vej på vej til arbejde om morgenen, så ville den,
+hvis der var risiko for glat føre, være saltet, inden morgentrafikken begyndte kl. 6.00 eller
+
+6.30. Men efter kommunalreformen er det jo netop sådan, som ministeren var inde på, at 80-85
+pet. af vejene er blevet kommunale, og det er allerede konstateret nu, at kommunerne har forskelligt serviceniveau, i hvert fald i mange områder.
+Vi har set de første eksempler i det østjyske
+område, som er det, jeg kender bedst. Der er en
+bestemt vej mellem Arhus og Randers, som er
+en større vej, der tidligere var amtslig. En morgen for nogle uger siden var den saltet og havde
+fint føre i Arhus Kommune: så kom man kørende ind i Favrskov Kommune, hvor den var utrolig glat, og også i Randers Kommune, hvor den
+sidste del af vejen er, var der utrolig glat, for der
+var ikke saltet af de pågældende kommuner. Det
+medførte selvfølgelig også, at der var biler, der
+røg i grøften - ikke nogen alvorlige tilskadekomster ved den lejlighed, men det skal der jo
+ikke meget fantasi til at forestille sig at der kan
+komme.
+I virkeligheden er det jo sådan, at folk har en
+berettiget forventning om - og det er ministeren
+jo også inde på - at forholdene på vejene er ensartede, når det er den samme vej. Ellers burde
+der jo ved hver kommunegrænse, som man jo
+ikke lægger mærke til som trafikant, være et
+stort skilt med et dødningehoved på, hvor man
+bliver advaret om, at man nu kører ind i et område, hvor det kunne være meget farligt at køre,
+og det er selvfølgelig ikke nogen god løsning.
+Derfor vil jeg, når det nu allerede er konstateret i praksis, at det her giver vanskeligheder,
+spørge ministeren, om det så ikke er på tide at
+gøre noget allerede nu for at sikre, at der bliver
+ensartede forhold på alle de større veje i Danmark, i stedet for at vente på ulykkesstatistikken, der så til foråret eller til sommer vil dokumentere de vanskeligheder, der er.";Eigil Andersen
+135488;Time;;Kl. 15:05
+135519;title_name;":
+Ja tak. Så er det ministeren.";Jens Vibjerg
+135560;Time;"Transportministeren (Carina Christensen):
+Jeg er selvfølgelig fuldstændig enig med spørgeren i, at vi skal sørge for, at der er en effektiv og
+rettidig indsats mod glatte veje. Det har den lokale myndighed jo også ansvaret for - og når det
+er statens veje, så er det staten, der har ansvaret,
+og når det er kommunernes veje, så er det kommunen, der har ansvaret. Jeg synes, det er hensigtsmæssigt. Jeg må sige, at jeg er meget fortrøstningsfuld efter kommunalreformen. Før
+havde vi ansvaret placeret tre steder - hos kom-
+
+Onsdag den 5. december 2007 (S 46)
+munerne, i amterne og i staten - nu har vi to niveauer, der skal koordinere det her, kommunerne og staten. Jeg synes, at de tiltag, vi har set
+indtil nu, tegner godt. Der har været det her
+samarbejde omkring vintertjeneste, hvor man
+har været i dialog om, hvordan man bedst koordinerer samarbejdet. Der er mange kommuner,
+ca. 60 kommuner, der har valgt at tilslutte sig
+Vejdirektoratets nye tilbud, så jeg er absolut fortrøstningsfuld. Og så tror jeg også, at kommunerne vil kunne leve op til det her nye ansvar.
+Jeg har i hvert fald ikke på nuværende tidspunkt
+nogen grund til at tro, at de ikke skulle kunne
+være lige så gode til at løfte den her opgave, som
+amterne har været det tidligere, og som staten jo
+også er det.";Kl. 15:05
+136853;Time;;Kl. 15:06
+136884;title_name;":
+Så er det hr. Eigil Andersen.";Jens Vibjerg
+136925;Time;;Kl. 15:06
+136945;name_party;":
+Det er jo rigtigt nok, at Vejdirektoratets lokale regionskontorer ringer til kommunerne og fortæller, at de nu selv, altså Vejdirektoratet, kører ud
+og salter de statslige veje. Det har ministeren
+fuldstændig ret i, sådan fungerer det. Men sagens kerne er, at det så er den enkelte kommune,
+som bestemmer, om man også i den kommune
+vil køre ud og salte de større veje. Det er der
+nogle, der gør, men jeg kan jo fortælle, at det er
+der altså også nogle, der ikke gør. Og sådan vil
+det jo være i det øjeblik, at det, man kommer
+med, er nogle anbefalinger. Det var det ministeren nævnte i sit første svar - man anbefaler, at
+der skal være ensartede forhold på vejene. Men i
+ordet anbefaler ligger selvfølgelig også, at hvis
+det ikke bliver fulgt 100 pet. - og det kan jeg oplyse at det bestemt ikke gør, hverken i det østjyske eller i det nordjyske område - så vil der opstå det problem, som jeg her kredser omkring.
+Så vil jeg spørge: Når ministeren ønsker, at
+der skal være ensartede forhold, ville det så ikke
+være mere på sin plads at sikre det, ved at man
+indførte en lovregel, som sagde, at der skal være
+ensartede forhold?";Eigil Andersen
+138083;Time;;Kl. 15:08
+138114;title_name;":
+Ja tak. Så er det ministeren.";Jens Vibjerg
+138155;Time;"Transportministeren (Carina Christensen):
+Man kan sige, at der jo også skal være ensartede
+forhold, i den forstand at de, der har ansvaret
+for vejene, også har ansvaret for, at man sætter
+rettidigt ind og forhindrer uhensigtsmæssige
+
+243
+
+forhold og sikrer, at der sat ind mod de glatte veje. Men det er nu engang sådan, at kommunerne
+har ansvaret for kommunernes veje, og staten
+har ansvaret for statens veje. Det er sådan, vi har
+lavet det i forbindelse med kommunalreformen.
+Det er den første vinter, vi er i gang med her og
+nu, og jeg har fuld tiltro til, at kommunerne vil
+kunne løfte den her opgave. Jeg kan ikke se,
+hvorfor de skulle kunne gøre det anderledes,
+end amterne har gjort det hidtil. Det er jo ikke
+nyt, at ansvaret er placeret forskellige steder. Før
+var det placeret i kommunerne, i amterne og i
+staten, nu er det kommunerne og staten, der
+sammen skal koordinere det her, og der mener
+jeg at vi selvfølgelig må følge udviklingen. Men
+jeg tror godt, at kommunerne kan løfte opgaven
+i samarbejde med politiet. Vejdirektoratet følger
+selvfølgelig med her den første vinter, og vi vil
+kigge på situationen til foråret. Men her og nu er
+der ikke noget i tallene, der viser, at vi skulle
+have grund til at være særlig utrygge ved situationen.";Kl. 15:08
+139422;Time;;Kl. 15:09
+139453;title_name;":
+Ja tak. Så er det hr. Eigil Andersen for en sidste
+omgang med dette spørgsmål.";Jens Vibjerg
+139543;Time;;Kl. 15:09
+139563;name_party;":
+Men når ministeren nu siger, at hun er optimistisk med hensyn til, at kommunerne lever op til
+deres ansvar, ville det så ikke være mere naturligt, at man simpelt hen kom med et pålæg for at
+sikre, at det, som ministeren egentlig ønsker,
+sker. Problemet her er jo egentlig kommunalreformen, for tidligere var det sådan, at det overordnede vejnet hørte under staten og amterne,
+og at staten og amterne gjorde fuldstændig det
+samme i de enkelte områder. Men det kan man
+altså ikke være sikker på her. Og derfor kan jeg
+ikke se andet, end at hvis man vil være sikker
+på, at der ikke opstår de her farlige situationer,
+så er det nødvendigt, at der ikke er frivillighed,
+men at der kommer et pålæg. Det vil jeg gerne
+spørge ministeren om hun ikke er indstillet på.";Eigil Andersen
+140333;Time;;Kl. 15:09
+140364;title_name;":
+Tak. Så er det ministeren.";Jens Vibjerg
+140402;Time;"Transportministeren (Carina Christensen):
+Jeg vil gerne sige, at en effektiv rettidig indsats
+mod glatte veje i vinterhalvåret er helt centralt
+for trafiksikkerheden. Og det skal den myndighed, der har ansvaret for vejene, sørge for - i det
+her tilfælde kommunerne eller staten. Det er al-
+
+244
+
+Onsdag den 5. december 2007 (S 47)
+
+lerede i dag et udtrykkeligt krav i vejlovgivningen, så der er sådan set ikke grund til at præcisere det yderligere. De skal sørge for, at forholdene
+er i orden.
+Så er det selvfølgelig klart, at hvis der, som
+spørgeren nævneren, er en kommune, som man
+ikke mener har levet op til ansvaret, så må vi
+selvfølgelig se på det. Og der er det jo sådan, at
+Vejdirektoratet netop følger med og vil have
+mulighed for at kunne påtale det i forhold til en
+sådan kommune. Men mig bekendt er der altså
+ikke fortilfælde for, at man har været nødt til
+det. Og jeg tror, at man må være fortrøstningsfuld. Hidtil har amterne, kommunerne og staten
+i samarbejde kunnet løse de her problemer og
+udfordringer, og det tror jeg også at kommuner
+og stat vil kunne gøre i fremtiden.";Kl. 15:09
+141503;Time;;Kl. 15:10
+141534;title_name;":
+Tak til transportministeren. Så er besvarelsen af
+dette spørgsmål er sluttet.
+Det næste spørgsmål er også til transportministeren af hr. Eigil Andersen.
+Spm. nr. S 47
+12) Til transportministeren af:";Jens Vibjerg
+141754;name_party;":
+Hvordan vurderer ministeren trafiksikkerheden
+på motorvejene, når langsomme særtransporter
+har lov til at køre 40-50 km i timen, også i myldretiderne?
+Skriftlig begrundelse
+Når hastigheden på motorvejen er 110 eller 130
+km, udløser disse langsomme særtransporter kilometerlange køer i myldretiderne. Resultatet er
+farlige opbremsninger og stor risiko for ulykker
+ved, at man kører op bag i den forankørende bil.
+Efter spørgerens opfattelse bør disse transporter
+i dagtimerne kun tillades mellem kl. 9 og 14.30.";Eigil Andersen
+142276;Time;;Kl. 15:11
+142307;title_name;":
+Så er det transportministeren.";Jens Vibjerg
+142349;Time;"Transportministeren (Carina Christensen):
+Min forgænger, Flemming Hansen, lovede i et
+samråd med Trafikudvalget at drøfte dette
+spørgsmål med justitsministeren. Flemming
+Hansen og justitsministeren aftalte at lade Færdselsstyrelsen høre rigspolitiet, om der var
+
+grundlag for at indføre generelle spærretider
+gældende for motorvejene i hele landet.
+Rigspolitiet har på baggrund af en høring af
+politikredsene indstillet, at der ikke indføres generelle spærretider. Flemming Hansen har orienteret Trafikudvalget om rigspolitiets indstilling. Den vigtigste begrundelse for indstillingen
+var, at trafikintensiteten var meget forskellig i de
+forskellige landsdele, og der er derfor efter politiets opfattelse ikke grundlag for at fastsætte generelle spærretider.
+Men det er dog klart, at politiet har til opgave
+at tage hensyn til trafiksikkerheden, når de udsteder tilladelser. Politiet har i den forbindelse
+muligheden for at fastsætte lokale spærretider
+ud fra en konkret vurdering af de lokale trafikforhold, eksempelvis risikoen for trafikuheld
+samt hensynet til fremkommeligheden.
+Jeg vil gerne benytte lejligheden til at sige, at
+jeg som ny minister lægger meget stor vægt på
+trafiksikkerhed og derfor også er meget opmærksom på, at lastbiltransporterne foregår på
+forsvarlig vis. Det er dog min opfattelse, at hensynet til trafiksikkerheden er tilgodeset efter det
+nugældende regelsæt, og jeg er på baggrund af
+den dialog, der har været mellem Færdselsstyrelsen og rigspolitiet, enig i, at der ikke er behov
+for at fastsætte generelle spærretider.
+For at få et samlet billede af problemstillingen
+vil jeg dog bede Færdselsstyrelsen om at indhente oplysninger hos politiet om, i hvilket omfang hjemmelen til at fastsætte lokale spærretider for særtransporter bliver udnyttet, og om
+politiets vurdering af omfanget og hyppigheden
+af særtransporterne, hvorefter jeg gerne vil orientere Trafikudvalget.";Kl. 15:11
+144262;Time;;Kl. 15:13
+144293;title_name;":
+Tak. Så er det hr. Eigil Andersen.";Jens Vibjerg
+144339;Time;;Kl. 15:13
+144359;name_party;":
+Tak for svaret. Og jeg er glad for, at ministeren
+fortæller, at Færdselsstyrelsen vil blive bedt om
+at spørge politikredsene om det, som nu er
+nævnt, nemlig hvordan man vurderer at det
+fungerer, og om der måske er behov for noget
+generelt.
+For så vidt ligner det her emne det foregående spørgsmål, nemlig at i det øjeblik det er frivilligt for nogle og der ligger nogle forskellige former for anbefalinger, så ligger det jo indbygget i
+sagen, at der så også kan ske fejlskøn, og det kan
+der ske i mange tilfælde. Jeg kan da i hvert fald
+se på Vejdirektoratets hjemmeside, at det kun er
+
+Onsdag den 5. december 2007 (S 47)
+få steder, hvor man i praksis har brugt de her
+spærretider på motorvejsnettet.
+Jeg kan fortælle fra det østjyske område, som
+jeg kommer fra, at man på motorvejen mellem
+Århus og Skanderborg kl. 7.45 om morgenen,
+hvor der er masser af trafik af mennesker, der
+skal på arbejde, simpelt hen kan risikere at komme ud for sådan en langsom særtransport, der
+så kører 40-50 km/t. i stedet for de 110 km/t.,
+som man ellers kører på motorvejen, og det
+kommer overraskende for folk. Man skal bremse
+hårdt op, og risikoen for, at man støder ind i de
+forankørende eller de foranholdende, er meget
+stor. Derfor bør sådan nogle køer slet ikke dannes, og slet ikke i myldretiderne.
+Jeg vil også sige, at der er et andet aspekt af
+det her. Det er, at det simpelt hen forsinker mange mennesker på deres vej til arbejde, og det er
+heller ikke noget, som jeg synes er godt: også af
+den grund bør man gøre noget ved det. Men
+først og fremmest er det selvfølgelig det sikkerhedsmæssige med risiko for sammenstød og
+kvæstelser og i sidste ende også dræbte, og derfor er det, at jeg mener, at den rigtige løsning er
+at indføre en generel spærretid morgen og sen
+eftermiddag, sådan at man siger, at hvis de her
+køretøjer skal køre i dagtiden, så må det være
+mellem kl. 9.00 og 14.30.
+Hvordan ser ministeren på de her særtransporter, sådan som det er nu? Udgør de efter ministerens opfattelse et o.k. eller et unødvendigt
+risikomoment i myldretiden med ulykker og risiko for kvæstede og dræbte?";Eigil Andersen
+146463;Time;;Kl. 15:15
+146494;title_name;":
+Ja tak. Så er det ministeren.";Jens Vibjerg
+146535;Time;"Transportministeren (Carina Christensen):
+Jamen jeg tror, at alle, der har prøvet at køre på
+en motorvej efter sådan en særtransport, vil
+være enige i, at det kan være ret generende, og
+at man kommer langsomt frem. Jeg ved ikke, om
+det er årsag til flere ulykker - det tal kender jeg
+ikke - men der er ingen tvivl om, at man i hvert
+fald oplever det som generende i trafikken, når
+der er de her særtransporter, ikke mindst i
+myldretiden. Så langt er jeg sådan set fuldstændig enig med spørgeren, og der vil jeg da også
+være indstillet på at se, om der er noget, der skal
+gøres anderledes, end vi gør det i dag.
+Der er så er det her forslag om at lave generelle spærretider, fra kl. 9 til kl. 14.30 mener jeg
+blev nævnt her. Det tror jeg bare ikke er den rigtige løsning, og det hænger simpelt hen sammen
+
+245
+
+med, at trafikintensiteten er meget, meget forskellig fra landsdel til landsdel. Det kan være, at
+det er meget belastet i Århus, og så kan man
+komme til andre egne i landet, hvor det ikke ville give mening at have sådan en spærretid, fordi
+der ikke er intensitet på vejene. Så jeg synes, den
+nuværende løsning, hvor man lokalt kan lave de
+her regler - politiet kan lokalt gå ud og sige, at
+man i det her tidsrum på de her strækninger
+ikke ønsker, at der bliver kørt - giver meget
+mere mening.
+Så jeg tror rent faktisk, at når vi nu indhenter
+de her oplysninger og får kendskab til, hvor
+stort omfanget af det her er, og hvor tit man går
+ud og bruger den her lokale mulighed, vil vi forhåbentlig finde ud af, at det fungerer på tilfredsstillende vis i dag. Men det kan vi jo så se på i
+fællesskab, når vi får tallene ind.";Kl. 15:15
+148176;Time;;Kl. 15:16
+148207;title_name;":
+Tak. Så er det hr. Eigil Andersen.";Jens Vibjerg
+148253;Time;;Kl. 15:16
+148273;name_party;":
+Nu tror jeg så ikke, at der findes en ulykkesregistrering, hvor man kan definere, at årsagen var
+en særtransport på en motorvej. Det tror jeg ikke
+findes, for der bliver jo i virkeligheden let oparbejdet 3, 4, 5 km kø i løbet af meget få minutter,
+og hvis der så sker en ulykke i, om jeg så må sige, den første del af køen, der, hvor man kører
+hurtigt, og hvor man så skal bremse hårdt op, jamen så tror jeg ikke, det bliver registreret, at den
+ulykke i virkeligheden skyldes en særtransport
+4 km væk. Men det er jo altså bare generelt en
+kendt sag, at lige så snart der er en kø på en motorvej, er der en forøget ulykkesrisiko.
+Jeg vil gerne spørge ministeren om den her
+høringsrunde, som så skal foregå i forhold til
+politikredsene: Hvornår forventer ministeren at
+de svar er kommet i hus?";Eigil Andersen
+149076;Time;;Kl. 15:17
+149107;title_name;":
+Tak. Så er det ministeren.";Jens Vibjerg
+149145;Time;"Transportministeren (Carina Christensen):
+Jeg vil nu bede Færdselsstyrelsen om at indhente oplysningerne hos politiet. Jeg ved selvfølgelig ikke, hvor lang tid de skal bruge på at sende
+dem ind, men det, jeg selvfølgelig vil spørge om,
+er, i hvilket omfang hjemlen til at fastsætte lokale spærretider for transport bliver udnyttet, og
+så selvfølgelig også, hvad politiets vurdering af
+omfanget og hyppigheden af de her særtransporter er, så vi får et overblik over omfanget af
+
+246
+
+Onsdag den 5. december 2007 (S 47)
+
+selve problemstillingen. Jeg håber selvfølgelig,
+det kan gå hurtigt, og vil vende tilbage til Trafikudvalget, så snart jeg har fået oplysningerne.";Kl. 15:17
+149822;Time;;Kl. 15:17
+149853;title_name;":
+Tak. Så er det hr. Eigil Andersen.";Jens Vibjerg
+149899;Time;;Kl. 15:17
+149919;name_party;":
+Jeg vil blot runde af med at sige, at jeg også håber, at det kommer til at gå hurtigt, og at jeg er
+overbevist om, at vi bør arbejde med den løsning, jeg har talt for her.";Eigil Andersen
+150102;Time;;Kl. 15:18
+150133;title_name;":
+Så siger vi tak til hr. Eigil Andersen og transportministeren.
+Hermed er spørgetiden sluttet.";Jens Vibjerg
+150239;Time;Meddelelser fra formanden;Kl. 15:18
+150296;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen,
+torsdag den 6. december 2007, kl. 10.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.
+Mødet er hævet. (Kl. 15.18).";Jens Vibjerg

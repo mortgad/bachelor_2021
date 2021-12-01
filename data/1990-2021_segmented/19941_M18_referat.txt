@@ -1,0 +1,1070 @@
+split;reason;text;value
+0;;"834
+
+Fredag den 18. november 1994
+
+18. m ø d e";
+85;Time;"Dagsorden
+1) Første behandling af lovforslag nr. L 49:
+Forslag til lov om zoonoser.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 9/11 94).
+2) Første behandling af lovforslag nr. L 45:
+Forslag til lov om ændring af skattekontrolloven, skattestyrelsesloven, kildeskatteloven, ligningsloven og vurderingsloven. (Diverse justeringer af administrativ karakter, bl.a. ændrede
+oplysningspligter, forlænget ligningsfrist, indeholdelsespligt for visse udenlandske arbejdsgiveres herværende fuldmægtige samt tilpasning
+af reglerne om beskatning af visse huslejebindinger).
+Af skatteministeren (Carsten Koch).
+(Fremsat 9/11 94).
+3) Første behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af lov om mægling i
+arbejdsstridigheder.
+Af Aage Frandsen (SF) m.fl.
+(Fremsat 2/11 94).
+
+Meddelelser fra fonnanden";kl. 10.00
+926;title_name;"Fra medlemmer af Folketinget Jørgen Estrup
+(RV) og Peter Duetoft (CD), der har orlov, har
+jeg modtaget meddelelse om, at de fra og med
+den 22. november 1994 atter kan give møde i
+Tinget.
+Stedfortræderne fru Inger Marie Bruun-Vierøs og fru Lisbeth Arbøls hverv som midlertidige medlemmer af Folketinget ophører herefter
+fra nævnte dato at regne.
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 49:
+Forslag til lov om zoonoser.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 9/11 94).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+1522;name_party;":
+Ved zoonoser forstås sygdomme og infektioner,
+der naturligt overføres fra dyr til mennesker, sådan som vi eksempelvis kender det fra salmonellabakterien.
+Dette lovforslag er et supplement til den eksisterende lovgivning om husdyrsygdomme,
+hvori der fastsættes regler om forebyggelse og
+bekæmpelse af sygdomme hos husdyrene, og
+formålet er at beskytte menneskers sundhed.
+Gennem kontrolindsamling af data og ikke
+mindst forebyggelse øges kampen mod zoonotiske smitstoffer.
+Lovforslaget åbner mulighed for, at landbrugs- og fiskeriministeren kan fastsætte regler
+om gennemførelse af særlige foranstaltninger,
+der har til formål at begrænse eller imødegå
+zoonoser. Sådanne foranstaltninger er selvfølgelig ikke omkostningsfrie, og der er også derfor
+mulighed for, at der kan ydes en erstatning i de
+tilfælde, hvor der er tale om, at ejere af husdyrhold eller virksomheder bliver påbudt at aflive
+dyr eller at fjerne eller destruere produkter.
+Som forbrugere må vi være meget interesserede i at kunne købe og spise sunde fødevarer,
+hvor risikoen for efterfølgende sygdomme er
+minimeret. Hvis vi som forbrugere trygt skal
+kunne spise vores mad, er det derfor nødvendigt, at der sættes effektivt ind over for den
+smitte, der finder sted fra dyr til mennesker.
+I Socialdemokratiet er vi ikke tilhængere af, at
+madvarer behandles med klor eller strålebehandles. Vi ønsker, at der tages fat ved kilden til
+smitte, og det handler i høj grad om hygiejne.
+Endelig er det værd at tage med i overvejelserne, at forslaget til lov om zoonoser ikke kun
+gavner forbrugernes sundhed, men at forslaget
+også øger produkternes kvalitet, hvilket er til
+gavn for eksporten.
+Hermed anbefaler Socialdemokratiet, at lovforslaget om zoonoser vedtages.
+
+Fredag den 18. november 1994";Eva Fatum
+3300;name_party;":
+Venstre er enig i lovens hovedsigte: at beskytte
+menneskers sundhed ved at reducere forekomsten af bakterier, der overføres fra dyr til mennesker med fødevarer. Det forventer forbrugerne at vi tager fat på og at producenterne tager
+fat på. Men vi har en række betænkeligheder
+ved lovforslaget, som vi skal have klarlagt gennem spørgsmål og svar i udvalgsarbejdet.
+Der er en lang række ministerbeføjelser, som
+vi vil have beskrevet nærmere. Jeg tror, der er
+nævnt 20 steder, at »ministeren kan« et eller andet.
+Det er et spørgsmål, om der, er kommet flere
+bakterier i fødevarer, end der altid har været, eller om problemerne ikke snarere opstår ved, at
+mennesker ændrer kostvaner. Nu skal kødet
+spises næsten råt og med en hel masse grøntsager til, og under tilberedningen havner det hele
+på det samme køkkenbord og skæres måske også til med den samme kniv.
+Vi vil have svar på, hvordan vi undgår en ulige konkurrence, som det er beskrevet i § 7. Er
+det rimeligt, at ejeren afholder alle de udgifter,
+som en offentlig kontrol koster? Skal det offentlige kunne stille krav om indretning og drift af
+en ejendom, som § 5 åbner mulighed for? Hvordan skal adgangen til at undersøge en besætning tilrettelægges? Hvordan beregnes og dækkes driftstab, efter at en besætning er slået ned?
+Dette var en appetitvækker på, hvad det er
+for problemer, vi skal have afdækket, inden vi
+siger ja til lovforslaget. Men jeg vil love, at Venstre vil gå aktivt ind i udvalgsarbejdet.";Christian Mejdahl
+4782;name_party;":
+Indledningsvis vil jeg sige, at jeg synes, det er
+sørgeligt, at regeringen bruger så komplicerede
+og uforståelige ord i et lovforslag. Som nyvalgt
+er det en ekstra forhindring, at man faktisk skal
+benytte ordbøger for at forstå et lovforslag, og
+jeg vil derfor henstille til regeringen, at man for
+fremtiden bruger et sprog, som også vi almindelige mennesker kan forstå.
+Det Konservative Folkeparti er af den opfattelse, at man til enhver tid skal sikre forebyggelse af zoonoser og derigennem løbende forbedre
+folkesundheden. Vi mener derfor, at vi skal
+støtte en forstærket indsats mod zoonoser. Der
+er i dag en lang række eksempler fra vores
+hverdag på, at syge dyr eller raske dyr som
+smittebærere overfører zoonotiske sygdomme
+til mennesket. En mere effektiv indsats mod
+zoonoser, ikke mindst på EU-plan, vil blive positivt modtaget af Det Konservative Folkeparti.
+
+835
+
+I loven gives der bemyndigelse til, at landbrugs- og fiskeriministeren kan fastsætte regler
+og nedlægge forbud med henblik på at begrænse og imødegå risikoen for udbredelse af zoonotiske sygdomme fra dyr, der er i menneskelig
+varetægt. Det Konservative Folkeparti mener, at
+det er rimeligt, at ministeren kan træffe foranstaltninger, ikke kun når smitstoffer er påvist,
+men også i situationer, hvor der blot er mistanke
+om forekomsten af zoonotiske smitstoffer.
+Lovforslaget indeholder en række nødvendige tiltag, hvis formål er ved hjælp af særlige foranstaltninger at begrænse og imødegå risikoen
+for udbredelse af smitstofferne. Vi synes, det er
+positivt, at de berørte virksomheder kompenseres for de lovbundne udgifter og et eventuelt
+driftstab. Det Konservative Folkeparti mener, at
+udgifter, der hidrører fra lovens implementering, skal afholdes af det offentlige.
+Desværre indeholder lovforslaget tiltag, der
+kan medføre afledte udgifter for den enkelte bedriftsleder, f.eks. gebyrer og afgifter. Vi mener
+ikke, at en forbedring af folkesundheden skal
+ske som led i en afgiftsforhøjende politik og
+dermed sætte bedriftsejere i en ugunstig økonomisk situation. Tværtimod må vi være med til at
+sikre, at det altid skal kunne betale sig at afgive
+oplysninger samt handle i overensstemmelse
+med lovens formål.
+På lignende vis må myndigheder og tilsyn,
+der kontrollerer for zoonotiske smitstoffer, sikre,
+at der skabes rimelige arbejdsvilkår for den enkelte virksomhed. Da bemyndigelsen til at varetage lovens rammer er af meget vidtgående karakter, vil vi godt understrege, at der også må
+indgå et hensyn og et ansvar til den anden parts
+arbejdsplanlægning.
+Ligeledes indeholder loven en bestemmelse
+om oprettelse af et såkaldt zoonoserégister. Det
+Konservative Folkeparti tilslutter sig fuldt ud
+oprettelsen af et register, hvis det skal bruges af
+offentlige myndigheder og i forskningsøjemed,
+men vi må være betænkelige ved fuld offentlig
+adgang til det nævnte register, idet oplysninger
+om enkelte bedrifter kan blive groft udnyttet i
+kommercielt øjemed. Jeg vil derfor godt understrege, at vi under ingen omstændigheder vil
+slække på de gældende regler for offentlige registre, herunder ikke mindst private personers
+adgang til disse.
+Til sidst vil jeg godt understrege, at den enkeltes retssikkerhed, herunder klageadgang,
+ikke må indskrænkes. De indskrænkninger i
+klageadgangen, som lovforslaget foreslår, vil vi
+
+836
+
+Fredag den 18. november 1994
+
+se på med særdeles kritiske øjne. Hvis den lovgivende forsamling giver vidtgående bemyndigelser til indgreb i den enkelte bedrift, bør der
+som minimum være mulighed for at klage over
+eventuelle overgreb.
+Alt i alt støtter Det Konservative Folkeparti
+forslagets formål, men den praktiske gennemførelse er altså ikke beskrevet godt nok, og vores
+forbehold er derfor følgende: at zoonoseregisteret skal følge offentlige registres lovgivning, at
+finansieringen skal finansieres af offentlige midler, og at antallet af ministerbeføjelser skal reduceres.
+I øvrigt vil jeg se frem til en positiv behandling af lovforslaget i udvalget.
+Jøm Jespersen (SF):
+I SF er vi som udgangspunkt positive over for
+forslaget. Vi synes, det er godt og rigtigt og vigtigt at gøre en forstærket indsats for at forbedre
+sundhedstilstanden og for at forhindre smitte
+fra dyr til mennesker.
+Vi har en række tekniske spørgsmål, som vi
+vil stille under udvalgsbehandlingen for at få
+dem bedre belyst.
+Så vil vi gerne understrege, at det problem,
+der ligger i den nuværende måde at producere
+landbrugsvarer på her i landet, jo langtfra er løst
+ved hjælp af dette lovforslag. Vi har for nylig
+kunnet se, at Danmark har indtaget en meget
+kedelig førsteplads, når det drejer sig om forekomsten af salmonellabakterier i kyllinger. Vi
+hører jævnlig om nye problemer med forebyggende medicinbehandling i svinebesætninger.
+Vi mener grundlæggende, at de sundhedsproblemer, der i dag findes med vores fødevarer, har noget med vores produktionsform at
+gøre. Spørgsmålet er, om tiden ikke er kommet
+til, at de politiske partier og landbrugets organisationer indgår i en reel dialog om, hvilke produktionsformer vi skal have i dansk landbrug i
+fremtiden.
+Det er vores opfattelse, at den måde, man i
+dag producerer landbrugsvarer på, med nogle
+kæmpemæssige industrilignende bedrifter, fører til, at de samfundsmæssige omkostninger
+ved landbrugsproduktionen langt overstiger
+det, som de burde være. Det kan godt være, at
+forbrugerne i nogle tilfælde får billige fødevarer,
+men resultatet er, at man skal betale de afledte
+omkostninger til f.eks. at bekæmpe salmonella
+og til at afholde de udgifter, der også ligger i det
+her lovforslag, via skat og via alle mulige andre
+udgifter, og at vi dermed i virkeligheden produ-
+
+cerer dyrere, dårligere og mere sundhedsfarlige
+fødevarer, end vi kunne gøre.
+Vi er altså positive over for det foreliggende
+lovforslag, men vi understreger, at det langtfra
+løser de helt grundlæggende problemer, der findes i dansk landbrugsproduktion, og ikke løser
+de grundlæggende sundhedsmæssige problemer, som den industriprægede landbrugsproduktion i dag skaber.
+Mogens Christensen (FP):
+Fremskridtspartiet er også meget positivt over
+for selve lovforslagets formål: at beskytte menneskers sundhed ved at iværksætte nogle foranstaltninger mod zoonotiske smitstoffer.
+Vi har selvfølgelig også nogle betænkeligheder ved dette lovforslag. Ifølge § 3 kan landbrugsministeren fastsætte særlige regler om undersøgelse af dyrehold, herunder udtagning af
+prøver af levende dyr, slagtekroppe m.v. Det,
+jeg især har hæftet mig ved, er den sidste sætning: »I reglerne kan tillige fastsættes bestemmelser om aflivning af dyr i undersøgelsesøjemed«. Derfor vil jeg spørge landbrugs- og fiskeriministeren, om man også i tilfælde af, at man
+udtager enkeltdyr, kan få fuld erstatning for dyret.
+Vi mener også, at der i § 8 er nogle tvivlsspørgsmål, som vi gerne vil have besvaret. Ved
+aflivning eller påbud om fjernelse af dyr og ved
+destruktion, tilintetgørelse eller bortskaffelse af
+foder, æg, mælk og lignende produkter yder
+staten ejeren erstatning, der svarer til dyrenes
+eller produkternes værdi, samt en erstatning til
+hel eller delvis dækning af det herved opnåede
+driftstab. Men i stk. 2 er det, som om man tager
+forbehold: hvad betyderer maksimeringen af
+den erstatning, man vil yde fra statens side? Og i
+stk. 3: I hvilket omfang er der begrænsninger for
+statens afholdelse af udgifterne? Vi mener, vi
+skal have klart beskrevet, hvilke forbehold
+landbrugs- og fiskeriministeren vil tage.
+Med hensyn til § 12 er vi modstandere af, at
+tilsynsmyndighederne til enhver tid - og som
+jeg læser det, uden på forhånd at have meddelt
+ejeren det - kan komme ind på en privat ejendom. Vi mener ikke, det er rimeligt, at man til
+enhver tid uden at meddele det til ejeren kan
+komme ind på en privat ejendom. Vi vil gerne
+have det ændret, således at man måske anmelder sin ankomst - og derved eventuelt får den
+modstand, som vi ofte har set ved den slags tiltag. I øvrigt er der jo ifølge § 17 mulighed for, at
+man kan gå ind og foretage en ransagning.
+
+I Fredag den 18. november 1994
+Vi ser positivt på intentionerne i lovforslaget,
+men der er nogle spørgsmål, som vi gerne vil
+have besvaret. Vi ser frem til et positivt arbejde i
+udvalget.";Lene Espersen
+12948;name_party;":
+Baggrunden for lovforslaget er et ønske om at
+bekæmpe smitstoffer og bakterier i fødevarer i
+hele kæden fra jord til bord, som der står i forslagets bemærkninger.
+Vi har allerede lovgivning, der på forskellig
+vis skulle tilgodese, at forbrugerne fik ordentlige animalske produkter. Det har desværre vist
+sig, at denne lovgivning ikke har kunnet forhindre udbredelsen af bl.a. den berygtede salmonellabakteriè, der kan være yderst skadelig for
+mennesker.
+Vi ved, at det er muligt at bekæmpe disse forskellige bakterier og virus, men det er ikke lykkedes særlig godt i Danmark. Vi har sammenlignet med f.eks. vort naboland Sverige en kedelig rekord i salmonellabefængte produkter. Derfor køber danske forbrugere også gerne svenske
+salmonellafri kyllinger.
+På lang sigt mener vi i Det Radikale Venstre,
+at virkningerne af denne lov vil være, at vi får
+renere fødevarer. Det vil gavne både forbrugerne og eksporten af danske landbrugsvarer.
+Loven, der er ganske præcis og detaljeret, indeholder bl.a. regler om kompensation i form af
+I erstatninger for destruktion og nedslagtning af
+dyr.
+Loven indeholder også, synes jeg, ret vidtgående bemyndigelsesbestemmelser i retning af,
+at landbrugsministeren kan fastsætte regler for,
+hvordan målene skal nås.
+Det Radikale Venstre kan støtte lovforslaget,
+men vi er åbne over for at diskutere dele af det
+under udvalgsarbejdet.";Vibeke Peschardt
+14342;name_party;":
+Vi kan også støtte lovforslaget fra Enhedslistens
+side.
+Vi er stærkt tilhængere af, at man, når det
+drejer sig om husdyrhold, laver en harmonisering især i forhold til svenske forhold. Sverige
+har haft succes med bekæmpelse af salmonella
+og i det hele taget med at indrette en produktion, hvor der ikke bruges vækstfremmere og
+ikke systematisk bruges antibiotika i foder.
+Vi mener også, at denne lov, som drejer sig
+om forholdene i besætningerne, er nødvendig.
+Det er ikke nok, at vi har en lov om foder og en
+lov, der bevirker, at man tjekker kød på slagterierne.
+
+837
+
+Vi synes også, at det er i orden, at det offentlige går ind og finansierer det i en vis udstrækning, som der er tale om her, når der skal ske
+nedslagtninger af besætninger. Men når det offentlige går ind og finansierer det, så må det offentlige også have interesse i, at der bliver lavet
+nogle ledsageforanstaltninger, forstået på den
+måde at vi mener, man skal undgå en reinficering, for ellers går det hen og bliver en sisyfosopgave.
+Det skal forstås på den måde, at når man har
+fået saneret en besætning - eller når vi har fået
+saneret landet, så man stolt kan gå ud og sige, at
+danske kødvarer er fri for salmonella - så er det
+urimeligt, hvis der til stadighed vil være en risiko for reinficering. Derfor vil vi tage initiativ til
+nogle ledsageforanstaltninger, som skal gå på en
+yderligere national beskyttelse.
+Det er sådan, at smitten i det væsentligste
+overføres ved levende dyr. I dag er den veterinære kontrol flyttet ud til stalddøren: det er et
+utrolig risikabelt system, ikke alene i forhold til
+salmonella, men også til en række andre sygdomme, som landet i dag er fri for.
+Derfor vil vi tage initiativ til en ledsageforanstaltning, der genindfører kontrol med de levende dyr ved grænsen på linje med den, vi tidligere har haft her i landet, og den, man også har
+i dag i Sverige.
+En anden smittekilde er gødning og slam. Vi
+vil ligeledes tage initiativ til en ledsageforanstaltning, som går på, at der skal sættes en stopper for transport af gødning og slam, herunder
+især gylle, over grænserne. På den måde mener
+vi, at man kan tage nogle initiativer til at undgå
+en unødig reinficering, og det mener vi er nok så
+vigtigt, når man laver en lov, som også er omkostningsfyldt for det offentlige. Det er vigtigt at
+prøve at undgå en stadigt tilbagevendende reinficering, og vi vil derfor tage initiativ til et lovforslag, som jeg nævnte før.";Bent Hindrup Andersen
+16788;name_party;":
+Lovforslaget er et supplement til den eksisterende lovgivning om husdyrsygdomme. I CD synes
+vi, det er et godt initiativ, landbrugsministeren
+her er kommet med.
+Jeg skal ikke gå nærmere ind på lovforslagets
+enkelte punkter, da tidligere ordførere jo allerede har være inde på en del, men skal blot tilkendegive, at vi i CD støtter lovforslaget og vil
+medvirke til en positiv udvalgsbehandling.
+
+838
+
+Fredag den 18. november 1994
+
+Landbrugs- og fiskeriministeren (Henrik Dam
+Kristensen):
+Jeg vil gerne indledningsvis takke Folketingets
+partier, for jeg har lyttet mig frem til, at der helt
+klart var en positiv tilkendegivelse i forhold til
+de intentioner, der er i lovforslaget.
+Der blev stillet en række spørgsmål af mere
+teknisk karakter, men også nogle principielle.
+Jeg vil sige, at jeg håber, at vi i løbet af det üd- '
+valgsarbejde, som nu går i gang, selvfølgelig
+først og fremmest kan afklare de tekniske
+spørgsmål, men også kan få en god debat om de
+mere principielle spørgsmål.
+Med det lovforslag, der her er fremsat, forbedrer vi mulighederne for at undgå smitte fra
+dyr til mennesker. Det tror jeg - i forhold til den
+debat, der har været i den seneste tid - er særdeles vigtigt, og derfor er det rart, at der har været en så positiv modtagelse af lovforslaget.
+Hermed sluttede forhandlingen.
+
+Forhandling";Sonja Albrink
+18126;name_party;":
+Det er lige ved, at man som ordfører ved dette
+forslag kan konkurrere i korthed med præsentationen af selve forslaget.
+Der er, som parentesen i lovforslagets titel
+fortæller, tale om at justere en række love med
+hensyn til nogle forhold af mere administrativ
+karakter.
+I Socialdemokratiet finder vi, at det er godt, at
+man fra tid til anden giver sig tid til at ajourføre
+en række af de administrative regler, sådan at vi
+får en lovgivning, der svarer til, hvordan man
+efterhånden praktisk indretter sig, og derved
+også lægger op til en løbende effektivisering af
+hele skattekontrolsystemet.
+På den baggrund og med de målsætninger vil
+vi fra Socialdemokratiets side give tilslutning til
+et positivt udvalgsarbejde.";Pia Gjellerup
+18863;name_party;":
+. Venstre kan også anbefale lovforslaget i sit udgangspunkt, idet der selvfølgelig kan være enAfstemning
+keltheder, vi kan se på i udvalgsbehandlingen.
+Under ét mener jeg, at der er tale om en forLovforslagets overgang til anden behandling
+enkling, og at der er tale om en lettelse af nogle
+vedtoges uden afstemning.
+administrative byrder, og derudover er vi i Venstre naturligvis også glade over, at man har indlagt en vis decentralisering ved at lægge beslutFormanden:
+ninger, som tidligere har ligget i told- og skatteJeg foreslår, at lovforslaget henvises til Landregionerne, over til skatteankenævn. Det synes
+brugs-og Fiskeriudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vi er at gå den rigtige vej.
+Sammenfattende synes vi, at det er positivt
+vedtaget. (Ophold). Det er vedtaget.
+forslag. Det er også indviklet at forstå - så hvis
+her er nogen, som ikke er i Skatteudvalget, men
+som meget gerne ville have været der, synes jeg,
+at de skulle læse dette her lovforslag.
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 45:";Peter Brixtofte
+19968;name_party;":
+Forslag til lov om ændring af skattekontrolloDa vores ordfører ikke er til stede i dag, skal jeg
+ven, skattestyrelsesloven, kildeskatteloven,
+fremføre følgende:
+ligningsloven og vurderingsloven. (Diverse
+Dette er et overvejende teknisk forslag, som,
+justeringer af administrativ karakter, bl.a. ænjf. bemærkningerne, har til hensigt at medføre
+drede oplysningspligter, forlænget ligningsen enklere og smidigere skatteadministration.
+frist, indeholdelsespligt for visse udenlandske
+arbejdsgiveres herværende fuldmægtige samt Det er jo en smuk og god hensigt, som Det Konservative Folkeparti kun kan være enig i.
+tilpasning af reglerne om beskatning af visse
+Men er det nu også den eneste effekt af forhuslejebindinger).
+slaget? På mange områder synes det at være det,
+Af skatteministeren (Carsten Koch).
+men der er dog detaljer, som vi skal have uddy(Fremsat 9/11 94).
+bet under udvalgsbehandlingen.
+For Det Konservative Folkeparti vil overskrifLovforslaget sattes til forhandling.
+ten for udvalgsarbejdet være, at vi skal sikre en
+lettere administration, men absolut også skal
+
+Fredag den 18. november 1994
+sikre, at det ikke sker på retssikkerhedens bekostning.
+Hvis borgerne, der i forvejen bliver kontrolleret i rigt mål, skal kontrolleres endnu mere, skal
+der ligge meget tungtvejende grunde bag. Hvis
+det endda er en øget kontrol uden deres viden
+eller samtykke, skal der være bestyrket mistanke om ulovligheder. På dette område mener vi,
+at lovforslaget ikke er tilstrækkelig klart. Grænserne for myndighederne - og dermed borgernes sikkerhed - skal stå som tekst i loven og
+ikke være henvist til bemærkningerne.
+Lad mig give et eksempel. I bemærkningerne
+til § 1, nr. 2, står, at skattemyndighederne skal
+være tilbageholdende med at kræve nødvendige oplysninger direkte fra juridiske personer det vil oftest sige pengeinstitutter - hvis oplysningerne lige så vel kan kræves af den skattepligtige selv. Efter Det Konservative Folkepartis
+opfattelse bør den slags handlingsbegrænsninger skrives ind i selve loven.
+Det Konservative Folkeparti hilser velkomment, at der på skatteafregningsområdet sikres
+ligestilling mellem offentlige og private arbejdgivere, således at offentlige og halvoffentlige arbejdsgivere underlægges samme strafansvar
+som private arbejdsgivere. Ligestillingen bør
+sikres på alle arbejdsområder. Måtte denne ligestillingsproces forløbe på andre områder, som
+f.eks. krav om offentlige foretagenders efterlevelser af Konkurrencerådets afgørelser på linje
+med kravet til private.
+Forslagets hensigt kan Det Konservative Folkeparti støtte fuldt ud, og vi vil arbejde positivt i
+udvalget for borgernes retssikkerhed og for administrative lettelser.";Lene Espersen
+22663;name_party;":
+SF er positiv over for de mange små ændringer,
+som forslaget er udtryk for. Vi har selv ved flere
+lejligheder gjort opmærksom på, at der er behov
+for en øget indberetningspligt.
+SF støtter også en udskydelse af ligningsfristen, men vi vil gerne pege på behovet for at
+ændre på 3-års-fristen, der i mange tilfælde er
+for kort til, at skattemyndighederne kan nå at
+komme til bunds i komplicerede sager med
+eventuel efterfølgende tiltalerejsning fra Bagmandspolitiet. Det viser erfaringerne fra indsatsen mod selskabstømninger. 3-års-fristen bør
+også forlænges for at passe sammen med retten
+til at fremføre underskud i 5 år, så vi vil opfordre ministeren til at ændre de 3 år til 5 år.
+
+839
+
+SF kan støtte den forenkling, at skattevæsenet
+ikke behøver at fremsende en endelig kendelse,
+hvis skatteyderen ikke har reageret på en »agter«-skrivelse. Til gengæld lægger vi vægt på, at
+skattevæsenet er parat til at genoptage sagen,
+hvis skatteyderen senere møder op med en ny
+dokumentation. Der kan f.eks. være tilfælde,
+hvor ressourcesvage skatteydere ikke i første
+omgang er klar over deres rettigheder.
+Endelig mener vi, at lovforslaget bør udvide
+pligten til indberetning af handel med obligationer til også at omfatte børsnoterede aktier, så
+også dette område administreres mere effektivt
+og samtidig lettere for borgerne.
+Mogens Christensen (FP):
+Da Fremskridtspartiets ordfører, hr. Kristian
+Thulesen Dahl, ikke kan være til stede i salen,
+skal jeg på partiets vegne meddele følgende:
+Lovforslag nr. L 45 medfører en række ændringer i skattekontrolloven, skattestyrelsesloven og kildeskatteloven. Flere af ændringerne er
+af redaktionel karakter, og disse kan Fremskridtspartiet støtte.
+Af bemærkninger fremgår det, at ændringerne vil sikre, at skattereglerne tydeliggøres og
+smidiggøres, samt at ændringerne betyder, at
+der opnås en mere enkel administration.
+På visse områder kan dette selvfølgelig påstås. Eksempelvis er det jo en forenkling, at
+skattemyndighederne fritages for give den skattepligtige særskilt underretning i tilfælde, hvor
+den skattepligtige ikke er fremkommet med
+indsigelser mod den forudgående »agter«-skrivelse.
+Omvendt er der andre områder i lovforslaget,
+hvor Fremskridtspartiet ikke finder, der sker
+forenkling. Eksempelvis udvides kredsen af
+kontrolpligtige vedrørende pengeoverførsler til
+udlandet. Samtidig er vi skeptiske over for at
+flytte kompetencen til at afgøre klager over afslag på anmodninger om fremskyndet tilbagebetaling af forskudsskat fra de statslige told- og
+skattemyndigheder til de kommunale skatteankenævn.
+Fremskridtspartiet er derfor umiddelbart tilfreds med nogle af de foreslåede ændringer,
+men skeptisk over for andre. Vi vil under udvalgsbehandlingen søge at få belyst, hvordan
+ændringerne vil virke i praksis, og ud fra dette
+tage stilling til de enkelte dele af lovforslaget.
+Gunhild Husum (RV):
+Lovforslaget har til hensigt at justere nogle ad-
+
+840
+
+Fredag den 18. november 1994
+
+ministrative retningslinjer, således at de simplificeres og effektiviseres. Ved således at gøre
+skattereglerne enklere opnås, at lovgivningen
+bliver mere gennemskuelig til glæde for både
+skatteborgere og administration.
+Det Radikale Venstre støtter lovforslaget.";Kristen Touborg
+25885;name_party;":
+Jeg kan også give tilsagn Om en positiv behandling af lovforslaget. Vi vil i udvalget prøve at
+rejse diskussion om yderligere stramninger i
+forhold til indberetningspligt og kontrol med
+køb og salg af værdipapirer og med pengeoverførsler til udlandet.
+Der er jo i det hele taget mange, vil jeg sige,
+interessante paragraffer, der berøres i lovforslaget. Vi skal selvfølgelig også passe på, at vi ikke
+kommer med ændringsforslag, som gør det til et
+helt andet forslag end det, der er fremsat, men
+inden for de rammer, der måtte være, vil vi stille
+nogle ændringsforslag. Vi er bl.a. enige med SF
+i, at 3-års-reglen bør ændres til en 5-års-regel.";Frank Aaen
+26550;name_party;":
+CD kan støtte det af skatteministeren fremsatte
+lovforslag. Vi er med på de justeringer af diverse skattelove, som det omhandler.";Sonja Albrink
+26713;title_name;":
+Jeg takker for en positiv modtagelse af lovforslaget.
+Det er som anført overvejende af justerende
+teknisk-administrativ karakter og betyder ikke
+nogen radikal udvidelse af skattemyndighedernes mulighed for at gå tæt på borgere og virksomheder, som der jo er - og det er der også
+blevet givet udtryk for her i dag - en berettiget,
+hvad skal vi kalde det, interesse i ikke bliver for
+voldsom. Der er jo altid en afvejning mellem
+retssikkerhed på den ene side - den enkelte borgers suverænitet - over for en retfærdig og effektiv og kontrolleret ligning, og det hensyn
+mener jeg er nogenlunde tilfredsstillet i det eksisterende lovforslag.
+Så jeg glæder mig til en konstruktiv udvalgsbehandling.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Carsten Koch
+27532;title_name;"Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Den sidste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af lov om mægling i
+arbej dsstridigheder.
+Af Aage Frandsen (SF) m.fl.
+(Fremsat 2/11 94).
+Lovforslaget sattes til forhandling.
+Forhandling
+Arbejdsministeren (Jytte Andersen):
+SF foreslår to ændringer i mæglingsloven. For
+det første foreslås det at ophæve den såkaldte 35
+pct.-regel, dvs. reglen om, at der skal et flertal
+på mindst 35 pet. af de stemmeberettigede til at
+forkaste et mæglingsforslag.
+For det andet foreslås det at ophæve forligsmandens adgang til at sammenkæde flere mæglingsforslag, således at afstemningerne om disse
+foregår under ét.
+Det forslag, som SF her fremsætter, svarer til
+et forslag, som SF tidligere har fremsat, nemlig
+den 23. janaur 1993. Jeg tilkendegav dengang
+under behandlingen af forslaget om ændring af
+mæglingsloven, at mæglingsloven eller forligsmandsloven er et udtryk for et af de mest
+grundfæstede principper i dansk kollektiv arbejdsret, nemlig at indgåelse af kollektive overenskomstet er parternes ansvar og parternes
+opgave.
+De spilleregler, parterne indordner sig under,
+er blevet til i overensstemmelse med parternes
+ønsker. Derfor er det fortsat regeringens opfattelse, at det, så vidt det overhovedet er muligt,
+er parterne, der skal komme med udspil til en
+lovændring.
+Parterne har efter anmodning fra regeringen
+haft forhandlinger om et fælles udspil til en ændring af loven. Parterne har imidlertid ønsket at
+sætte disse forhandlinger i bero her op til de
+kommende overenskomstforhandlinger, idet
+parterne er af den opfattelse, at det af både
+praktiske og principielle grunde vil være problematisk at ændre loven op til og under over-
+
+Fredag den 18. november 1994
+enskomstforhandlinger. Regeringen deler den
+opfattelse. Det ville skabe unødig usikkerhed op
+til overenskomstforhandlingerne, hvis Folketinget netop nu begyndte at drøfte ændringer i
+regler, der er helt centrale for den kommende
+overenskomstindgåelse.
+Regeringen har derfor bedt parterne om at
+genoptage forhandlingerne om ændringer af loven, lige så snart overenskomstforhandlingerne
+er afsluttet. Dermed er det så også sagt, at regeringen ikke er afvisende over for tanken om - på
+det rigtige tidspunkt - at justere reglerne.
+Jeg skal på den baggrund meddele, at regeringen ikke kan støtte det af SF fremsatte lovforslag.";Formanden
+30066;name_party;":
+Vi nærmer os jo en overenskomstsituation, og
+derfor er det igen tid til at diskutere forligsmandsloven. SF fremsatte jo det samme forslag i
+april 1991: dengang fik forslaget ikke flertal. I januar 1993 var det samme forslag igen på Folketingets dagsorden, og dengang led forslaget
+samme skæbne.
+Nu behandler vi altså forslaget igen. Jeg sagde dengang, at den socialdemokratiske folketingsgruppe ønskede at få arbejdsmarkedets
+parter til at se på forligsmandsloven med det
+formål at opnå enighed om, hvor der er behov
+for justeringer.
+For at SF nu ikke skal få den opfattelse, at min
+forståelse rækker til, at den socialdemokratiske
+gruppe nu kan støtte forslaget, skal jeg meddele,
+at vi ikke kan støtte det forslag, vi behandler i
+dag. Det er der bl.a. to væsentlige årsager til.
+For det første tidspunktet. Vi sagde det sidste
+gang, og jeg vil gerne gentage det: Vi ønsker ro
+op til og under overenskomstforhandlingerne.
+Der må ikke skabes uro eller tvivl om spillereglerne for overenskomstforhandlingerne.
+For det andet: SF foreslår igen, at § 12 skal ophæves. Jeg har sagt det så ofte, og jeg skal gerne
+gentage det: Den socialdemokratiske folketingsgruppe vil ikke være med til at fjerne sammenkædningsreglerne. Det ville få uoverskuelige
+konsekvenser for det danske arbejdsmarked.
+Jeg var før inde på arbejdsmarkedets parter.
+Siden vi i 1993 behandlede dette forslag sidste
+gang, har der været ført en række forhandlinger
+mellem parterne. Parterne har ikke kunnet nå et
+resultat. Så vidt jeg har forstået, har parterne tilkendegivet, at man vil forsøge sig igen efter de :
+kommende overenskomstforhandlingers afslut. ning. Den chance synes jeg parterne skal have.
+
+841
+
+Og jeg ser frem til, at man opnår enighed om et
+forslag til demokratisering af loven.
+Når jeg ser frem til, at parterne kan nå et resultat, hænger det jo sammen med, at ILO's fagforeningsfrihedskomité har interesseret sig for
+de danske sammenkædningsregler og den måde, de anvendes på. Man har udtalt en kritik set
+i forhold til de internationale konventioner.
+ILO's komité har overvejelser om - så vidt jeg
+har kendskab til i hvert fald - at bringe spørgsmålet op på den næste internationale konference
+i juni 1995. Og det synes jeg vi skal forholde os
+til. Det vil være uheldigt, hvis de danske sammenkædningsregler bringes op på konferencen.
+Derfor vil det være godt, om arbejdsministeren
+og regeringen vil se på det problem og eventuelt
+- og jeg understreger eventuelt - komme med et
+udspil, der sikrer, at vi ér i overensstemmelse
+med de internationale konventioner.";Poul Erik Dyrlund
+32631;name_party;":
+Lad mig starte med at sige, at vi er fuldstændig
+enige med arbejdsministeren i, at mæglingsloven er udtryk for et af de mest grundlæggende
+principper i dansk kollektiv arbejdsret, nemlig
+at indgåelse af kollektive overenskomster er
+parternes ansvar og dermed også parternes opgave.
+Vi mener derfor, at initiativer om ændring af
+disse grundlæggende principper i arbejdsretten
+bør komme fra arbejdsmarkedets parter selv.
+Med hensyn til 35 pct.-reglen vil jeg sige, at
+det jo ikke er helt unormalt, at man har quorumsregler i forskellige fora. Jeg skal her blot
+nævne Folketingets forretningsorden, som redegør for Folketingets beslutninger. Det er helt
+normalt, at man siger, at der skal være et vist
+antal, der stemmer om en sag, før resultatet
+overhovedet kan være gældende. Det er helt i
+tråd med, hvad der gælder i almindelig foreningsjura, og det er jo den regel, vi taler om
+her.
+Jeg synes altså, at 35 pct.-reglen er rimelig. De
+passive har jo markeret til fordel for mæglingsforslaget, idet de ikke mener, at der er grund til
+at stemme imod det. Men problemet er tilsyneladende, at fagbevægelsen ikke kan få et tilstrækkeligt antal medlemmer motiveret til at
+stemme. Medlemmerne konkluderer, at det, der
+lægges på bordet, har folk, som man har valgt til
+det, sagt god for, skrevet under, og derfor er
+man tilfreds med det. Og fordi medlemmerne af
+en faglig organisation ikke, som det står i bemærkriingerne til forslaget, orker at stemme, er
+
+842
+
+Fredag den 18. november 1994
+
+det langtfra givet, at vi her fra Folketingets side
+skal sænke kravene til den nejstemmeprocent,
+der skal til for at forkaste et mæglingsforslag.
+Det handler jo om, at interessen for at deltage i
+beslutningsprocesserne er forudsætningen for at
+få indflydelse, og den interesse må de faglige
+organisationer selv sikre.
+Endelig vil jeg gerne understrege, at det for
+Venstre er vigtigt at fastholde princippet om, at
+det skal være vanskeligt at forkaste et mæglingsforslag, og i tilfælde af forkastelse er det
+derfor vigtigt, at dette synspunkt er bredt funderet. Forkastelse af et mæglingsforslag kan jo
+få vidtrækkende konsekvenser for mange andre
+dele af samfundet.
+Med hensyn til bortfald af sammenkædningsretten må det være en naturlig konsekvens af
+SF's forslag, at retten til sympatikonflikter ligeledes bortfalder: ellers er der ikke rigtig nogen
+mening med tingene. Men i øvrigt mener vi, at
+bortfald af sammenkædningsreglerne skal ses i
+et langt større perspektiv end det, man er inde
+på her.";Ulla Tørnæs
+35143;name_party;":
+Da både arbejdsministeren og Venstres ordfører
+har givet en række meget saglige grunde til at
+afvise dette forslag, skal jeg ikke begive mig ind
+på at gentage disse meget gode begrundelser der er jo også tale om en genfremsættelse af et
+lovforslag, som tidligere har været til behandling her i Folketinget - så jeg vil indskrænke mig
+til at sige, at Det Konservative Folkeparti afviser
+lovforslaget.";Pia Christmas-Møller
+35563;name_party;":
+Det forslag, vi står med her, er jo et genfremsat
+forslag. Sidst, vi behandlede det, kan jeg se i
+Folketingets forhandlinger, var den 16. marts
+1993, og de to forslag er totalt identiske.
+Jeg skal sige lidt mindre, end jeg sagde ved
+den lejlighed, men jeg vil nok række hånden lidt
+mere frem til SF, end de andre ordførere har
+gjort, for specielt sammenkædningsreglen synes
+jeg at der er nogle problemer i. Det må være sådan, at hvis man lever i et demokrati, som vi gør
+her i Danmark, må det også være rigtigt, at man
+kigger på den regel, nok ikke i det her forslag,
+men jeg kunne forestille mig, at arbejdsmarkedets parter kunne snakke sig til rette om noget,
+der kunne gøre, at vi kunne ændre loven, hvis
+det kommer som et udbredt ønske fra parterne.
+Vi har det sådan i Fremskridtspartiet, at vi
+har en enorm respekt for det, der hedder ar-
+
+bejdsmarkedets parter. Vi synes, det er dem, der
+skal aftale tingene. Hvis de kommer i stort set
+enighed og beder om at få foretaget nogle ændringer i gældende dansk lovgivning på de områder her, vil vi i Fremskridtspartiet være meget
+positive over for at ændre specielt i sammenkædningsreglen. Jeg synes, der er store problemer i den.
+Jeg var lidt forbavset over den socialdemokratiske ordfører, der var meget afvisende. Det
+skal han jo være, når ministeren har været oppe
+at tale og de er fra samme parti, men jeg kunne
+forestille mig, at fagforeningsmanden hr. Poul
+Erik Dyrlund måske ikke er så afvisende over
+for dette forslag, som han gav udtryk for her.
+Men sådan er spillereglerne jo herinde: man skal
+tale med de tunger, man bliver bedt om at tale
+med.
+Så jeg må bedrøve SF: Lige i dag kan vi ikke
+give tilslutning til forslaget, men jeg synes, det
+er korrekt og fint, at SF rejser det her, så også det
+store Socialdemokrati bliver gjort opmærksom
+på, at der på dette område er nogle problemer,
+som vi på et givet tidspunkt - tror jeg - bliver
+nødt til at beskæftige os med.
+Vi går videre i udvalgsarbejdet. Jeg kan ikke
+umiddelbart se, at vi kan gennemføre dette forslag, men jeg tror alligevel, at det giver stof til
+eftertanke. Så tak til SF, fordi man er kommet
+med lovforslaget.";Poul Nødgaard
+37724;name_party;":
+SF genfremsætter her sit forslag til ændring af
+forligsmandsloven. I bemærkningerne til forslaget nævner SF, at vi nærmer os overenskomstforhandlingerne, og SF finder det fint, om deres
+forslag kunne blive vedtaget i god tid, inden
+overenskomstforhandlingerne på arbejdsmarkedet starter.
+SF begrunder endvidere forslaget med, at
+lønmodtagerne skal have bedre mulighed for
+ved ændrede afstemningsregler at vælte et forslag fra forligsmanden, hvis et sådant skulle
+komme til urafstemning hos lønmodtagerne.
+Det er nemlig det, der ligger i forslaget om afskaffelse af 35 pct.-reglen.
+SF foreslår endvidere, at sammenkædningsreglerne helt eller delvis afskaffes.
+Det Radikale Venstre har ikke skiftet holdning til forslaget, som vi som helhed ikke kan
+støtte. Efter vores opfattelse skal det nemlig ikke
+være specielt let at vælte forligsmandens oplæg
+til overenskomster ved en urafstemning. Der er
+en grund til, at man har indført 35 pct.-reglen i
+
+Fredag den 18. november 1994
+1971. Det er ikke lige netop arbejdskamp med
+deraf følgende arbejdsnedlæggelser, det danske
+samfund har brug for i en situation, hvor
+300.000 er arbejdsløse, og det kunne let blive
+konsekvensen af at slette 35 pct.-reglen.
+I Danmark taler vi meget om den danske model, der går ud på, at parterne på arbejdsmarkedet ved deres forhandlinger selv fastlægger lønog arbejdsvilkår. Vi synes, det ville være en udmærket og god idé, om parterne på arbejdsmarkedet også selv kunne blive enige om de ændringer i forligsmandsloven, som de fandt var
+de rigtige.
+Jeg har forstået på hr. Poul Erik Dyrlunds
+indlæg, at ILO's fagforeningsfrihedskomité har
+interesseret sig for sammenkædningsreglerne i
+forligsmandsloven, og det siger sig selv, at det
+må undersøges, öm vi fra dansk side overholder
+de internationale konventioner.
+Det Radikale Venstre kan ikke støtte lovforslaget.";Vibeke Peschardt
+39586;name_party;":
+Jeg skal ikke lægge skjul på, at Enhedslisten
+helst så hele forligsmandsloven afskaffet. Vi anser loven med afstemningsregler, sammenkædningsforhold, bestemmelser om hemmelighedskræmmeri og muligheden for at udsætte fra forligsmandens side for at være indblanding i de
+frie forhandlinger, og vi anser Forligsinstitutionen for statens redskab til at forhindre, at styrkeforholdet afprøves på det danske arbejdsmarked.
+Men nu er loven der nu engang, og derfor er
+det også nødvendigt at stille ændringsforslag til
+den, og der må vi sige, at SF's forslag er et skridt
+i den rigtige retning, og vi vil gerne være med til
+at fremme forslaget. Vi vil dog ikke lægge skjul
+på, at vi mener, vi selv har stillet et bedre forslag
+- desværre er det fremkommet på et tidspunkt,
+hvor vi ikke kendte SF's - og vi havde selvfølgelig helst set, at de var blevet behandlet sammen i salen: det havde lettet Folketingets behandling af forslagene. Nu bliver vi nødt til at
+kigge på dem i fællesskab i udvalget. Men vi vil
+under alle omstændigheder sige, at SF's forslag
+går i den rigtige retning.
+Specielt til Socialdemokratiet og til regeringen
+vil jeg sige, at man må være opmærksom på,
+hvad der foregår i baglandet. Sidst kunne man i
+forbindelse med LO's repræsentantskabsmøde
+den 25. oktober se i Politiken dagen efter, at
+LO's formand, Finn Thorgrimson, mente, at Socialdemokratiet ganske enkelt ikke havde mod
+
+l
+
+-
+
+843
+
+til at sætte den politiske dagsorden. Thorgrimson udtalte på repræsentantskabsmødet, at det
+var uforståeligt, at Socialdemokratiet endnu
+ikke havde rejst dette forslag.
+Sagen er jo nemlig, at det har været LO's officielle politik faktisk siden 1991, og så bliver diskussionen om det rette tidspunkt at fremsætte
+forslaget på altså en lille smule tynd, for umiddelbart efter en overenskomstforhandling er det
+ikke belejligt og ikke passende at fremsætte forslaget, fordi man kan hævde, at det ville skabe
+tvivl om, hvorvidt et forslag var forkastet eller
+vedtaget, hvis der havde været andre regler: så
+det er ikke rigtig passende at fremsætte sådan et
+forslag lige efter forhandlingerne. Det er åbenbart heller ikke passende at fremsætte forslaget i
+god tid inden overenskomstforhandlingerne.
+Hvornår er det så nogen sinde passende?
+Arbejdsmarkedets parter har haft udmærket
+tid til at forhandle det, og som sagt har LO allerede for længst taget stilling til spørgsmålet.
+Jeg synes, at man skulle lytte til, hvad der foregår i de kredse, og så skulle man være med til
+at fremme forslaget.
+Lisbeth Arbøl (CD):
+CD kan vedrørende dette forslag henholde sig
+til arbejdsministerens besvarelse. Grundet overenskomstforhandlingerne er det et forkert tidspunkt at tage lovforslaget op på ny.
+CD mener, at arbejdsmarkedets parter efter
+overenskomstforhandlingerne må arbejde videre på at nå frem til enighed om demokratisering
+af loven. Til den tid, når arbejdsmarkedets parter har afsluttet deres forhandlinger, vil vi fra
+CD's side forholde os til de problemer og løsningsmodeller, der på det tidspunkt vil kunne
+tænkes.
+Jeg skal meddele, at CD ikke kan støtte det af
+SF stillede forslag til lov om ændring af lov om
+mægling i arbejdsstridigheder.";Jette Gottlieb
+42754;name_party;":
+Ordene »passende tidspunkt« er blevet brugt af
+et par af ordførerne.
+Sidst, vi fremsatte forslaget, var under overenskomstforhandlingerne - mens de var i gang.
+Der kunne man måske med en vis ret sige, at da
+var det ikke passende.
+Nu fremsætter vi forslaget på et tidspunkt,
+hvor forhandlingerne så småt er ved at gå i
+gang. Det kan sagtens vedtages i god tid, inden
+man skal i gang med at diskutere tingene nærmere, og også inden man eventuelt overhovedet
+skal overveje noget med sammenkædning.
+
+844
+
+Fredag den 18. november 1994
+
+grupper, der intet har med hinanden at gøre, på.
+Så derfor regnede vi egentlig med, at det her
+Og hr. Poul Erik Dyrlund må som fagforeningstidspunkt da måtte være passende. Hvis det er
+menneske også en gang imellem synes, det er
+passende at fremsætte forslaget på ét tidspunkt,
+underligt, at nogle af hans kolleger skal være
+hvor overenskomstforhandlingerne lige er afsammen med nogle, som de slet ikke har noget
+sluttet - jeg kunne forstå, at det er det mest pasat gøre med. Sidste gang var - som vi også anføsende tidspunkt - må man vel sige, at sidste
+rer - f.eks. sømændene sammen med nogle,
+gang, vi fremsatte forslaget, og hvor det var til
+hvor man må sige, at det var svært at se, hvad
+behandling i marts måned, havde det jo været
+sømænd havde med dem at gøre. Det havde
+passende at vedtage forslaget i april eller maj
+været naturligt, de havde været i en gruppe forinden folketingssamlingens udløb: da var overmentlig omkring transportsektoren.
+enskomstforhandlingerne overstået, og der
+Så under alle omstændigheder synes vi, at det
+kunne man have gjort det i fred og ro.
+her er i fin overensstemmelse med demokratisk
+Det er klart, at hvis man er uenig i forslaget,
+tankegang. Til påstanden eller synspunktet om,
+skal man selvfølgelig ikke vedtage det - det er
+at man har så mange regler af den slags også inda en ærlig sag - men det dér med, om det er
+den for foreningsverdenen, vil jeg sige, at inden
+passende eller ikke passende: Jeg tror aldrig, jeg
+finder et tidspunkt her i Folketinget at fremsætte for foreningsverdenen er reglen jo, at der skal
+være et vist antal mennesker, for at der kan veddet på, hvor de, der vil bruge udtrykket »pastages noget - der skal være quorum for at få
+sende«, vil sige, at det er passende.
+vedtaget noget. Her skal der være nogle for at få
+Jeg kan forstå, at forslaget, som det nu ligger,
+forkastet noget. Det er en underlig måde at fraåbenbart ikke kan vedtages, fordi det ikke er
+tage medlemmerne den fulde indflydelse på.
+passende, men så må forslaget blive liggende i
+Derfor mener vi fortsat, at forslaget er rigtigt,
+Arbejdsmarkedsudvalget, og det gør det jo så,
+og vi er glade ved, at der inden for fagbevægelmens overenskomsterne forhandles: men eftersen i stigende omfang rejses diskussion om detfølgende ligger det der jo stadig væk. Jeg må så
+te. Man må også spørge: Er det sådan, at parterregne med, at de mennesker, der har argumenne skal sige ja begge to, uanset hvor lang tid det
+teret med, om det er passende eller ej, vil sige,
+tager? Har Dansk Arbejdsgiverforening en venår vi kommer frem til maj måned, at så kan vi
+toret i det her spørgsmål til enhver tid?
+vedtage det - eller forkaste det, hvis man er poJeg forstod arbejdsministeren sådan, at det
+litisk uening i det, men man kan ikke bruge udhar de ikke. Det vil sige, at når arbejdsministetrykket »passende« på det tidspunkt. Det forren nu har sagt til parterne, at de skal sætte sig
+venter jeg.
+ned igen Og tale om tingene, så må der ligge
+Med hensyn til selve argumentationen omderi, at de skal se at få fundet ud af noget. Og
+kring det vil jeg sige, at når vi mener, 35
+finder de ikke ud af noget, må det betyde, at repct.-reglen er forkert, hænger det sammen med,
+geringen kommer med et udspil, og så vil jeg
+at vi mener, det er rigtigt, at de mennesker, som
+opfordre regeringen til, at man kommer med
+noget vedrører, har indflydelse på det og dermed også kan tage et ansvar for det. Det vil sige, udspillet i så god tid inden de kommende overat medlemmerne skal have indflydelse på det, enskomstforhandlinger, at vi ikke risikerer, at
+og det har de bedst, hvis reglen ikke er der og de der her i salen er nogle, der siger, at det ikke er
+et passende tidspunkt. Hvis regeringen mener,
+kan tage et ansvar. Det betyder så også, at når
+der er et behov, må det allersenest ske i begynde har deltaget i en demokratisk afstemning og
+delsen af folketingssamlingen 1995-96, så det
+har haft den fulde mulighed for det, kan de helikke løber ind i nogle overenskomstforhandlinler ikke brokke sig.
+ger.
+Det er ikke kun, fordi vi synes, det er i orden,
+Og der vil jeg godt lige høre ministeren: Er
+man kan vælte et forslag. Det synes vi selvfølgeder sat en præcis tidsfrist for, hvornår parterne
+lig det er, hvis folk er uenige i indholdet, men vi
+synes da ikke, at det er bedst altid at vælte et skal være færdige med det, sådan at ministeren
+kan gøre sig sine overvejelser med henblik på et
+forslag - slet ikke - men man skal have muligudspil, hvis parterne ikke selv kommer med nohed for dét og dermed også tage et ansvar for
+get, som er tilfredsstillende efter regeringens
+det.
+Med hensyn til sammenkædningsreglerne har opfattelse?
+vi skrevet i bemærkningerne, at det er en underlig måde, man somme tider sammenkæder
+
+Fredag den 18. november 1994
+Arbejdsministeren Gytte Andersen):
+Der har været flere talere, der har været inde på
+spørgsmålet om, hvornår det ville være et passende tidspunkt at komme med et udspil. Der er
+jo ingen tvivl om, at den ene del af arbejdsmarkedets parter synes, det er passende på et bestemt tidspunkt, og den anden del af arbejdsmarkedet synes, det er passende på et andet
+tidspunkt.
+Jeg synes - og regeringen synes - at det er et
+passende tidspunkt at få justeret forligsmandsloven, når parterne har haft mulighed for endnu
+en gang at nærme sig hinanden, så der er en rimelig forståelse hos arbejdsmarkedets parter for
+et nyt regelsæt - et mere moderne regelsæt, kan
+man vel sige.
+Det, jeg siger her, bygger sådan set på det
+samme synspunkt, som hr. Poul Nødgaard gav
+udtryk for, nemlig respekten for arbejdsmarkedets parter, men jeg kunne ligesom fornemme,
+at konklusionen for Fremskridtspartiet var noget anderledes end den, regeringen drager,
+nemlig at give parterne en mulighed for at finde
+ud af noget, som jeg tror hr. Aage Frandsen formulerede det.
+Der er ikke sat en tidsfrist på, men som jeg
+sagde i min tale, har vi altså lagt vægt på at sige
+til parterne, at de umiddelbart efter overenskomstforhandlingerne må tage sagen på dagsordenen og også prioritere den så højt, som hr.
+Finn Thorgrimson på LO's repræsentantskabsmøde gerne ville have at regeringen skulle prioritere den.
+Men jeg vil sige til almindelig oplysning for
+fru Jette Gottlieb, at der ikke lå i indstillingen fra
+LO's repræsentantskabsmøde, at man fra regeringens side skulle komme med et udspil hen
+over hovedet på arbejdsmarkedets parter hverken den ene eller den anden.
+Hr. Poul Erik Dyrlund var inde på, om der på
+næste års Genévekonference - eller ILO-konference - kunne blive tale om, at man fra fagforeningsfrihedskomiteen fik taget sagen op og
+diskuteret den i komiteen.
+Det ved vi jo ikke rigtig noget om endnu, men
+det er klart, at det er en sag og en diskussion,
+som vi følger meget nøje, og vi vil selvfølgelig
+også tage de nødvendige initiativer fra regeringens side for at sikre, at Danmark ikke kommer
+ud i situationer, hvor vi ikke lever op til de demokratiske og gode konventioner, der i øvrigt
+findes på arbejdsmarkedet. Det er altså et område, vi følger meget nøje.
+
+-
+
+845
+
+Jeg hæftede mig ved en bemærkning fra hr.
+Aage Frandsen, som sagde, at det nogle gange
+var meget ulogisk, hvordan grupperne på arbejdsmarkedet blev kædet sammen i selve afstemningsforløbet. Passer de nu sammen, eller
+passer de ikke sammen? Jeg vil sige, at Folketinget nok er det dårligste forum til at afgøre, om
+de og de grupper passer sammen. Det er jo lige
+præcis her, det er så vigtigt, at parterne på arbejdsmarkedet selv tager ansvaret for, hvilke
+grupper der skal sammenkædes. Det er et udtryk for, at her skal man i hvert fald holde fingrene væk fra politisk hold, og det er selvfølgelig
+derfor, arbejdsmarkedets parter også i fremtiden skal være ansvarlige for forligsmandsloven,
+hvis der skulle blive behov for nogle justeringer
+af loven. Det kommer vi formentlig til at diskutere på et eller andet tidspunkt, både i Arbejdsmarkedsudvalget, i det faglige system blandt
+arbejdsmarkedets parter og sandsynligvis også
+her i Folketinget.
+(Kort bemærkning).
+Poul Erlk Dyrlund (S):
+Det er først og fremmest til hr. Aage Frandsen,
+der beskæftigede sig lidt med, hvorfor det er
+passende, at SF fremsætter forslaget nu. Det er
+jeg ikke helt enig i.
+Når jeg plæderer for, at arbejdsmarkedets
+parter skal være sikre på, hvilke spilleregler der
+er at køre efter, er det faktisk, fordi man på nuværende tidspunkt er i gang med at aftale disse
+spilleregler. Forud for selve forhandlingerne aftaler man altid et sæt spilleregler om, hvordan
+forhandlingsforløbet skal køre, og det er man i
+fuldt sving med. På nogle områder er man formentlig allerede færdig og har aftalt reglerne, og
+derfor er det vigtigt, at vi ikke begynder at
+skubbe til denne proces.
+Som det fremgår af forslaget, nævner hr.
+Aage Frandsen bl.a. sømændene. Jeg var inde
+på problematikken omkring ILO's interesse for
+vores forligsmandslov, og jeg er af den opfattelse, at det område netop er noget, ILO interesserer sig for. Derfor er Socialdemokratiets budskab til regeringen, at den skal kigge på disse
+ting.
+Jeg vil sige til hr. Poul Nødgaard - sådan i al
+fredsommelighed midt på en fredag formiddag,
+hvor vi ved, at i hvert fald nogle af os skal på
+weekend, mens andre formentlig skal arbejde at en gang imellem har jeg hr. Poul Nødgaard
+lidt mistænkt for, at det kniber for ham at høre,
+hvad vi andre siger. Det, jeg sagde i min ,ordfø-
+
+846
+
+Fredag den 18. november 1994
+
+rertale, var, at for det andet foreslår SF igen, at S
+12 ophæves - altså at samtlige sammenkædningsregler ophæves. Det er vi imod, og det vil
+vi altid være imod.
+Og i øvrigt sagde jeg også, at jeg ser frem til,
+at man opnår enighed om forslaget til en demokratisering af loven. Dermed har jeg tilkendegivet på Socialdemokratiets vegne, at vi gerne ser,
+at denne lov bliver demokratiseret. Jeg står her
+ikke som en eller anden fagforeningsmand, der
+afviser et SF-forslag.
+(Kort bemærkning).";Aage Frandsen
+53160;name_party;":
+For mig er der ingen tvivl om, at 35 pct.-reglen,
+sammenkædningsreglerne og hele hemmelighedskræmmeriet i øvrigt er meget udemokratisk og er med til at svække den aktive medleven. Det er den erkendelse, som LO's ledelse
+også er kommet til, så medmindre der ligger
+rent partitaktiske hensyn bag, skulle man jo være glad for, at forslaget bliver fremsat nu. Jeg
+kan også godt forstå, at Socialdemokratiet er
+meget interesseret i ligesom at tage kegler, så
+når der bliver fremsat et sådant forslag, som
+man ved der er meget stor opbakning om blandt
+alle LO's medlemmer, synes jeg, der kunne være
+god grund til, at Socialdemokratiet støttede forslaget.
+(Kort bemærkning).";Jette Gottlieb
+53848;name_party;":
+Jeg er ked af, at ministeren ikke vil angive en
+tidsfrist for parterne, når de skal finde frem til et
+eller andet. Men under alle omstændigheder må
+det være sådan, at hvis der skal ske ændringer
+og det ikke skal ende med, at nogle kommer og
+siger, at det duer ikke, og at det ikke er det rette
+tidspunkt, må det være i folketingssamlingen
+1995-96, man skal have noget vedtaget, for ellers risikerer man at komme i den samme situation, vi er i nu.
+Det er i al venlighed og stilfærdighed, jeg lige
+vil nævne over for ministeren, at jeg ikke synes,
+ministeren skal komme i den situation, jeg kommer i hver gang, og derfor må det være i samlingen 1995-96, det skal laves. Ministeren må
+komme med et forslag, for ellers må jeg bebude
+over for ministeren, at så må jeg gøre det til den
+tid.
+Med hensyn til sammenkædningsreglerne er
+det ikke herinde, der skal laves noget som helst i
+den forbindelse: vi foreslår kun, at de slet ikke
+skal være der. Men under alle omstændigheder
+
+er det sådan, at f.eks. sømændene og slagteriarbejderne tidligere har følt, at de ikke havde indflydelse på noget som helst, fordi de blev kædet
+sammen med nogle andre, som stemte anderledes, og som de intet havde tilfælles med. Det er
+det, der er problemet.
+(Kort bemærkning).";Aage Frandsen
+55119;name_party;":
+Jeg er glad for, at hr. Poul Erik Dyrlund i anden
+omgang kunne tale i et lidt klarere sprog, end
+han gjorde første gang. Det er muligt, han citerede fra den tale, han holdt indledningsvis, men
+så har jeg i hvert fald hørt for dårligt efter.
+Men vi er altså enige om én ting nu, nemlig at
+sammenkædningsreglen giver nogle problemer:
+sådan har jeg da forstået Socialdemokratiet.
+Men så forventer jeg nogle signaler om, hvordan
+Socialdemokratiet vil tackle problemet. Vil man
+bare sidde tilbagelænet i stolene og vente, eller
+vil man optage nogle forhandlinger for at få disse problemer løst?
+Jeg synes også, SF skal have ret, når de forljener det. Der er jo tit tale om, at man sammenkæder fagområder, der ligger milevidt fra hinanden, og jeg synes også, det er et problem, som vi
+ikke kan komme uden om her i Folketinget.
+Så vil jeg lige sige til hr. Poul Erik Dyrlund, at
+da jeg bor i Ringstedområdet, kender jeg storslagteriet Steff-Houlberg særdeles godt, og jeg
+ved også, hvilke problemer slagteriarbejderne
+har været ude i nogle gange. Jeg synes, at hr.
+Poul Erik Dyrlund som tidligere fagforeningsformand nu mere eller mindre er ved at miste
+jordforbindelsen med sit erhverv, og jeg synes
+også, han skulle tage noget mere kontakt med
+sit fagområde. Så ville han se, at der faktisk er
+nogle problemer i det, vi diskuterer her i dag.
+Men jeg synes dog, vi er nået et lille skridt
+hen ad vejen. Vi er ved at bløde fronterne op, og
+vi er klar over, at der er noget, som vi ikke - i
+hvert fald ikke på længere sigt - kan blive ved
+med at gå uden om, hvis vi fortsat skal have et
+godt demokrati på de danske arbejdspladser.
+Og det går jeg da ud fra, at også Socialdemokraterne kan tilslutte sig - eller kan de?
+Arbejdsministeren (Jytte Andersen):
+Jeg kunne forstå, at hr. Aage Frandsens optagethed af at få en meget præcis tidsfrist alene var af
+hensyn til mig, så jeg på et passende tidspunkt
+kunne fremsætte et lovforslag, som ikke forstyrrede hverken starten af overenskomstforhandlingerne eller allerede igangværende forhand-
+
+Fredag den 18. november 1994
+linger. Jeg takker for hensynet og kan måske gøre hr. Aage Frandsen lidt gladere ved at sige, at
+jeg håber, at de drøftelser, som parterne på arbejdsmarkedet skal have, kan afvikles så hurtigt
+som overhovedet muligt, så jeg ikke kommer i
+den tidsmæssige klemme, vi er bekymrede for
+også at komme i næste gang.
+(Kort bemærkning).";Poul Nødgaard
+57531;name_party;":
+Jeg har altså lidt svært ved at finde ud af hr.
+Poul Nødgaard. Jeg opfattede egentlig hr. Poul
+Nødgaards første indlæg således, at hr. Poul
+Nødgaard lagde meget stor vægt på parternes
+rolle, og efterfølgende oplever vi, at jeg skal have nogle klø, fordi vi ikke spiller ud med et eller
+andet fra Socialdemokratiets side. Jeg har egentlig den samme opfattelse som hr. Poul Nødgaard, nemlig at parterne skal spille en central rolle, så det er meget, meget svært at finde ud af.
+Men det var mere klar tale i anden omgang
+fra hr. Poul Nødgaards side, og derfor strejfede
+denne tanke mig: Vi har egentlig aldrig set et
+udspil fra hr. Poul Nødgaard eller hans parti om
+en justering af sammenkædningsreglerne, og
+det kunne være interessant at se, hvad Fremskridtspartiet har i posen på det område. Jeg vil
+ikke love, at jeg vil støtte det, Fremskridtspartiet
+kommer med: men af hensyn til vores andres
+nysgerrighed og til vores orientering kunne det
+være spændende at se, hvilke budskaber Fremskridtspartiet har, så lad os se et forslag. Jeg vil
+ikke love, at vi støtter det, men lad os se, hvad
+det kunne føre til.
+Hermed sluttede forhandlingen.
+
+847
+
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Poul Erik Dyrlund
+58791;title_name;":
+Jeg foreslår, at lovforslaget henvises til Arbejdsmarkedsudvalget. Hvis ingen gør indsigelse
+mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Meddelelser fra fonnanden
+Den fg. fonnand (Helge Sander):
+Der er ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Miljø- og Planlægningsudvalget (17/11 94):
+Udtræder: Mogens Christensen (FP)
+Nyt medl.: Aage Brusgaard (FP)
+Folketingets næste møde afholdes tirsdag den
+22. november 1994 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte ugeplan.
+Mødet hævet kl. 11.12.";Helge Sander

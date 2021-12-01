@@ -1,0 +1,2719 @@
+split;reason;text;value
+0;;"Tirsdag den 10. oktober 1995 (D)
+
+4. m ø d e";
+83;Time;"Dagsorden
+1) Første behandling af lovforslag nr. L 2. Forslag til lov om ændring af færdselsloven.
+Af trafikministeren (Jan Trøborg).
+(Fremsat 4/10 95).
+2) Første behandling af lovforslag nr. L 7:
+Forslag til lov om ændring af lov om tobaksafgifter og lov om forskellige forbrugsafgifter.
+(Forhøjelse af afgiften af røgtobak og cigaretpapir).
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+3) Første behandling af lovforslag nr. L 8:
+Forslag til lov om anvendelse af Det Europæiske
+Fællesskabs forordning om foranstaltninger
+med henblik på at forbyde overgang til fri
+omsætning, udførsel, genudførsel og henførsel
+under en suspensionsprocedure af varemærkeforfalskede og piratkopierede varer.
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+4) Første behandling af lovforslag nr. L 9:
+Forslag til lov om ændring af lov om afgift af
+ansvarsforsikringer for motorkøretøjer m.v.
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+5) Første behandling af lovforslag nr. L 10:
+Forslag til lov om ændring af lov om vægtafgift
+af motorkøretøjer m.v. (Forhøjelse af udligningsafgiften).
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+
+147
+
+6) Første behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om indkomstskat og formueskat for personer m.v. (personskatteloven) og lov om fordeling mellem staten,
+kommunerne og amtskommunerne af skattenedslaget som følge af personskattelovens skatteloft. (Ændring af det skrå skatteloft for indkomståret 1996 m.v.).
+Af skatteministeren (Carsten Koch).
+(Fremsat 5/10 95).
+
+Meddelelser fra fonnanden";kl. 13.00
+1692;title_name;":
+I skrivelse af 6. oktober 1995 har medlemmer af
+Folketinget Pia Kjærsgaard, Poul Nødgaard,
+Kristian Thulesen Dahl og Ole Donner meddelt
+mig, at de er udtrådt af Fremskridtspartiets folketingsgruppe, og at de med virkning fra den 6.
+oktober 1995 anmelder sig som gruppe i Folketinget under betegnelsen Dansk Folkeparti.
+Erhvervsministeren (Mimi Jakobsen) har meddelt mig, at hun ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om butikstid
+m.v.
+(Lovforslag nr. L 29).
+Medlemmer af Folketinget Aage Frandsen (SF),
+Anne Baastrup (SF), Steen, Gade (SF) og Kjeld
+Rahbæk Møller (SF) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om støtte til
+voksenuddannelse. (Støtte til videregående
+uddannelse).
+(Lovforslag nr. L 28).
+Medlemmer af Folketinget Villy Søvndal (SF),
+Margrete Auken (SF), Steen Gade (SF) og Gert
+Petersen (SF) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om forbud mod
+antipersonelminer.
+(Beslutningsforslag nr. B 9).
+
+148
+
+Tirsdag den 10. oktober 1995
+
+Medlemmer äf Folketinget Annette Just (FP) og
+Tom Behnke (FP) har meddelt mig, at de ønsker
+at stille følgende forespørgsel til statsministeren,
+arbejdsministeren og justitsministeren:
+»Hvad kan regeringen oplyse om den verserende konflikt i Ri-Bus i Esbjerg, herunder hvilke
+muligheder Folketinget og/eller regeringen har
+for at få konflikten løst?«
+(Forespørgsel nr. F 2).
+Medlemmer af Folketinget Gert Petersen (SF) og
+Keld Albrechtsen (EL) har meddelt mig, at de
+ønsker at stille følgende forespørgsel til udenrigsministeren:
+»Hvad kan udenrigsministeren på baggrund af
+ministerens redegørelse af 29. juni 1995 oplyse
+om dansk atomvåbenpolitik i efterkrigstiden,
+ikke mindst i perioden efter 1968?«
+(Forespørgsel nr. F 3).
+Skriftlig fremsættelse af forslag";Ivar Hansen
+3543;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om støtte til
+voksenuddannelse. (Støtte til videregående
+uddannelse).
+(Lovforslag nr. L 28).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager lovforslaget, og anbefaler det til Tingets velvillige behandling.";Aage Frandsen
+3885;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om forbud mod
+antipersonelminer.
+(Beslutningsforslag nr. B 9).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager beslutningsforslaget, og anbefaler det
+til Tingets velvillige behandling.";Villy Søvndal
+4221;title_name;":
+Hermed har jeg den ære for det høje Ting at
+fremsætte:
+Forslag til lov om ændring af lov om butikstid
+m.v.
+(Lovforslag nr. L 29).
+Lovforslaget har til formål at rette tekniske fejl i
+lov om butikstid. Der er således alene tale om
+justeringer af lov om butikstid i overensstemmelse med intentionerne bag loven.
+Ved lovforslaget gives der mulighed for, at
+butikkerne på påske- og pinsèlørdag samt den
+sidste lørdag og søndag før juleaftensdag kan
+sælge alle de varer, som de normalt fører. Det
+vil sige, at butikkerne også må sælge øl, vin og
+spiritus i tidsrummet fra kl. 17.00 til kl. 20.00, for
+så vidt angår de nævnte lørdage, og i tidsrummet fra kl. 10.00 til kl. 20.00, for så vidt angår
+søndagen før juleaftensdag.
+Der åbnes endvidere mulighed for at give
+butikkerne dispensation også fra bestemmelsen
+i § 2, således at de ved de ganske særlige lejligheder, der er omtalt i lovens § 3, stk. 8, kan
+benytte en eventuel tilladelse uden at skulle etablere særlig afskærmning af øl, vin og spiritus.
+Idet jeg i øvrigt henviser til bemærkningerne
+til lovforslaget, skal jeg anbefale forslaget til det
+høje Tings velvillige behandling.
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 2:
+Forslag til lov om ændring af færdselsloven.
+Af trafikministeren (Jan Trøjborg).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Mimi Jakobsen
+5609;name_party;":
+Det foreliggende lovforslag om ændring af
+færdselsloven rummer ændringer vedrørende
+cyklisters forhold i trafikken. Det drejer sig for
+det første om, at to cyklister må køre ved siden
+af hinanden, selv om det er forbundet med en
+vis ulempe, for det andet om, hvilke genstande
+der må medtages på cykel, og for det tredje om,
+at der efter den 1. juli 1996 ikke må parkeres
+nærmere et vejkryds end 10 m - mod nu 5 m.
+Det vil særlig forbedre cyklisters forhold i trafikken.
+Det sidste forslag har været drøftet her i Tinget før og har ikke nydt fremme. Det gør det
+
+Tirsdag den 10. oktober 1995 (L 2) *
+forhåbentlig nu ved vedtagelsen af det foreliggende lovforslag.
+Betaling for omstillingssyn ved Statens Bilinspektion er i orden. Det er ikke bare et spørgsmål om ekstra indtjening til Bilinspektionen,
+men - og det synes jeg at jeg gerne vil understrege - det skal også betyde kortere ventetider ,
+til syn.
+Socialdemokratiet støtter lovforslaget og forventer et hurtigt udvalgsarbejde.";Erling Christensen
+6619;name_party;":
+Det er ærgerligt, at ministeren har valgt at blande alt muligt sammen i det her lovforslag. Det
+gør, at Venstre er imod forslaget, og forklaringen kommer her:
+Forslag nr. 1, som indebærer en udvidelse af
+parkeringsafstanden fra 5 til 10 m fra vejkryds,
+har vi et ambivalent forhold til. Det er klart, at
+hvis det er forbudt at parkere langs fortovene, er
+udsigtsforholdene for bilisterne optimale. På
+den anden side indskrænker man betydeligt de i
+forvejen meget få parkeringspladser, der er i
+hvert fald i København.
+Forslag nr. 2 er for mig fuldstændig uforståeligt. Man accepterer her - som man skriver den ulempe, at cyklister skal have ret til at køre
+to og to. Det vil sige, at man helt bevidst udsætter cyklister for fare. Hvad hjælper det, at man
+kører på sin ret, hvis det koster cyklisten livet?
+Det undrer mig, hvis Dansk Cyklist Forbund
+har sagt god for dette.
+I øvrigt må det nu være på sin plads at få diskuteret mange cyklisters helt groteske færden i
+byområderne. Vi, der færdes her i København,
+har sikkert alle oplevet cyklisternes terror, deres
+bevidste færden som de svage i trafikken. Man
+kører uden lys, man kører over for rødt, man
+kører imod ensretningen, man kører på fortovet,
+og man kører i fodgængerfelter m.m.
+Kan det virkelig være rigtigt, at vi mere eller
+mindre ser igennem fingre med disse ulovligheder? Cyklisternes uheldsprocent er stigende,
+men hvorfor er den det? Det,er i flere tilfælde
+udlagt, som om det kun er bilisternes fart, der
+dræber. Det er det også, men samtidig med, at
+mange cyklister overtræder færdselsloven, er
+det jo en farlig cocktail. Dansk Cyklist Forbunds
+fornemste opgave må være at appellere til sine
+medlemmer om at overholde færdselsreglerne.
+Når man så i bemærkningerne til § 1, nr. 2,";Inge Dahl-Sørensen
+8379;title_name;"»Herved gøres det lovligt for to cyklister at køre ved siden af hinanden, selv om det
+er forbundet med en vis ulempe«, beder jeg
+
+149
+
+ministeren svare på: Hvad er det for en ulempe,
+og for hvem?
+Venstre kan ikke med god samvittighed godkende dette punkt.
+Punkt 3 er for mig at se en teknisk ændring,
+og punkt 4 har sådan set et udmærket sigte,
+nemlig at udnytte tiden bedre i Bilinspektionen,
+ved at bilen er i orden første gang. Det kan Venstre s t ø t t e . . .
+I Venstre ser vi os ikke i stand til at støtte forslaget, som det ligger, medmindre punkt 2 tages
+ud.";skriver
+8968;name_party;":
+Det Konservative Folkeparti synes, det er i
+orden med reglerne om, at to cyklister i lidt
+større omfang end i dag får mulighed for at køre
+ved siden af hinanden også med loven i hånd.
+Det lægger selvfølgelig også op til, at bilisterne
+skal følge loven og dermed sørge for, at de ikke
+kører ind i dem. Det tror jeg også godt kan lade
+sig gøre, selv om jeg da helt klart må sige, at jeg
+er enig i ganske mange af de bemærkninger, fru
+Inge Dahl-Sørensen gjorde om visse cyklistgruppers færden i trafikken.
+Vi skal jo passe på, at vi ikke skærer alle over
+én kam. Ligesom der er nogle bilister, der kører
+utrolig hensynsløst, aggressivt og ulovligt, er
+der heldigvis også mange bilister, der kører fornuftigt. Det er der også mange cyklister der gør,
+men der er altså nogle - og en større og større
+gruppe - der kører ganske, som fru Inge DahlSørensen beskrev det.
+Med hensyn til at udvide reglerne om parkering i vejkryds således, at der, i stedet for som
+det er nu, hvor der skal være 5 m hen til krydset,
+skal være 10 m, kan den konservative gruppe
+også sige ja til dette forslag. Det er jo, som der
+også står i bemærkningerne, et led i den færdselssikkerhedspolitiske handlingsplan, som blev
+vedtaget i 1986 og sat i gang fra 1988, og forslaget vil jo, som der står, medføre færre kvæstede
+i trafikken.
+Jeg kan sige, at vi dengang i kommissionen
+regnede ud, at gennemførelse af det forslag ville
+betyde 20 færre kvæstede og én færre dræbt om
+året. Nogle kan synes, det er lidt, andre kan
+synes, det er meget, men da vi må konstatere, at
+antallet af dræbte og kvæstede i den danske trafik i september måned satte en meget kedelig
+rekord, hvor vi i forhold til september sidste år
+fik 65 pet. flere dræbte - og når vi tager august
+måned med, var det ikke bedre, for både august
+og september under ét viser, at der blev dræbt
+
+150
+
+Tirsdag den 10. oktober 1995 (L 2)
+
+50 pet. flere end i de samme måneder sidste år og da vi ved, at mange af de uheld jo sker i vejkryds med dårlig oversigt, ja, så synes vi altså,
+det er rigtigt at gennemføre dette lovforslag.
+Ministeren skriver i bemærkningerne, at det
+ikke koster nogen penge, og at økonomien er
+neutral. Det mener jeg ikke er rigtigt. Jeg vil
+godt gøre opmærksom på, at da Færdselssikkerhedskommissionen beskrev forslaget, gjorde
+vi udtrykkelig opmærksom på, at skal det have
+nogen gennemslagsskraft, kræver det selvfølgelig, at trafikanterne - og her først og fremmest
+bilisterne - bliver klar over, at der er en ny regel.
+Det koster altså noget i form af informationskampagner og andet, og vi anslog dengang, at
+man skulle anvende 2 mio. kr. til det. Jeg synes
+stadig væk, det er rigtigt og fornuftigt, at vi fortæller trafikanterne, at nu er der indført en ny
+regel - ellers holder de den ikke og med god
+grund: hvis folk ikke kender reglerne, kan man
+jo heller ikke forlange, at de holder dem.
+Og så til det tredje og sidste punkt: omstillingssyn. Det kan vi også tilslutte os - tror jeg
+nok. Og når jeg siger tror jeg nok, er det, fordi vi
+har nogle spørgsmål. Vi vil nemlig godt sikre os,
+at det under ingen omstændigheder bliver en
+ekstra indtægtskilde for staten. Det må være
+sådan, at synene skal hvile i sig selv.
+Til sidst vil jeg godt komme med et lille hjertesuk. Når netop Socialdemokratiets ordfører
+var ked af de meget lange ventetider, får det os
+til at sige: Vi skulle have fulgt det konservative
+forslag om at privatisere bilsynene. Det er jo urimeligt, at folk skal vente dage og uger på at få
+deres bil synet.";Helge Adam Møller
+12471;name_party;":
+Vi synes i SF, at det er en buket blandede blomster, der er fremlagt. Der er ikke så mange tidsler eller rettere: så vidt jeg kan se, er der ikke
+nogen. Vi er i det store og hele positive.
+Jeg vil godt komme med et par bemærkninger. Det drejer sig i første omgang om omstillingssynet. Jeg kan nu ikke se, at der er noget
+galt i, at staten tjente lidt flere penge på det dér,
+hvis det skulle være. Jeg tror ikke, man kommer
+til det i synderligt omfang, men man får effektiviseret forløbet. Og jeg synes, det lyder rimeligt,
+at man ikke skal kunne køre hen med sin smadder kasse til syn og få at vide, hvad det er, hvad
+man skal have repareret på den, og så gå hjem
+og få den repareret bagefter. Det bør man nok få
+værkstedet til at kigge efter, inden man kommer. God idé.
+
+Om forslaget om parkeringsafstanden kan jeg
+sige, at det er rigtigt, som hr. Helge Adam Møller sagde, at vi i sin tid skrev i Færdselssikkerhedskommissionens handlingsplan, at det
+kostede penge. Men det var altså et af de forslag, der vil have den største virkning i forhold
+til, hvad det koster. Det betyder ikke, at det har
+en meget stor virkning, men det betyder, at det
+er meget billigt.
+Jeg vil godt sige, at jeg ikke ved, om Folketinget er opmærksom på, at vi i Færdselssikkerhedskommissionen har kritiseret amter og kommuner for, at de ikke fulgte op på det, de skulle,
+i forhold til Færdselssikkerhedskommissionens
+forslag. Sandheden er jo, at det først og fremmest er staten, der ikke har gjort det.
+Den meget store og meget effektive post, der
+hedder mere færdselspoliti, er ikke ført igennem, er altid blevet afvist. Vi håber da meget, at
+den kommer igennem nu, hvor det viser sig, at
+vi nok får mulighed for at få nogle flere penge
+ud af det, for det er en af de helt afgørende
+poster, og den er statslig, og den har hidtil ikke
+været ført igennem.
+Nu tager vi en lille billig en, og den er god:
+Jeg mener, at vi kan overleve, at der bliver færre
+parkeringspladser. Det kan vi af andre grunde
+have glæde af, fordi vi på mange måder gør
+noget for at tilskynde folk til at komme ind til
+byen på anden vis end ved hjælp af bilen. Det er
+en del af vores øvrige politik, som der meget
+ofte er konsensus om, når man skal snakke om
+den overordnede trafikplanlægning. At det så
+kniber, når det kommer til stykket, er jo en sag,
+vi ser så tit.
+Og så til den dér med, om to cyklister må køre
+ved siden af hinanden. Jeg kan høre, at de, der
+taler imod det, gør det, fordi de aldrig cykler.
+Tænk, hvis de ikke måtte sidde ved siden af
+hinanden i bilen og snakke! Det er dog mange
+gange med til at gøre det utrolig vemodigt at
+cykle, hvis ikke man må køre ved siden af hinanden, hvorfor cyklisterne jo da stort set også
+gør det, og uden at man behøver at kalde dem
+terrorister og alt muligt bagefter, fordi de ikke
+overholder loven. Det er et af de områder, hvor
+vi som på en række andre punkter burde tilpasse loven lidt mere, gøre den lidt mere cyklistvenlig, end den er i øjeblikket.
+Jeg kan fortælle fru Inge Dahl-Sørensen, at jeg
+engang har kørt på Fyn med et barn, der dengang var 6 år gammelt, og hvor det ville have
+været helt uforsvarligt at lade hende køre alene.
+Dér oplevede jeg, at cirka en tiendedel af bilisterne truttede af os, fordi de var de nødt til at
+
+Tirsdag den 10. oktober 1995 (L 2) .
+vente med at overhale, hvis der kom en modkørende bil. Jeg oplevede det dobbelte i det, at der
+for det første var forholdsvis mange galninge i
+trafikken - det var den ene del: den anden del
+var, at det vel nok var godt, at jeg havde tvunget
+bilisterne til lige at vente, før de overhalede cyklisterne, for en af de meget farlige situationer
+opstår jo, når to biler overhaler hinanden og
+ligesom skubber cyklisten, der slet ikke fylder
+noget, udi siden af trafikken. Det er tit meget
+klogt at fylde noget, når man er cyklist i trafikken. Det ved mange, der cykler. Hvis man kører
+med en påhængsvogn, eller hvis man på anden
+vis synliggør sig, kommer der det dér minimum
+af lidt mere hensyntagen i trafikken.
+Jeg er meget glad for, at forslaget er koinmet
+nu, sådan at man ikke også på det punkt skal
+beskyldes for at være terrorist, fordi man kører
+sådan, som det er forholdsvis naturligt at køre
+for en cyklist.
+Der er også en række andre punkter, som
+altid bringes frem, og som sagtens kunne nævnes ved samme lejlighed, fordi cyklister jo mange gange opfører sig som fodgængere. Der er
+ingen fodgængere, der skal dreje til højre, som
+afventer grønt lys. De respekterer selvfølgelig
+vigepligten osv., og det skal man. Men der er
+mange af reglerne, der er lavet udelukkende på
+grund af bilisterne, og det mærker man som
+cyklist.
+Jeg siger ikke, at vi skal ophæve dem alle
+sammen - det ville blive en farlig sag - men jeg
+mener, at man for at fremme cyklismen godt
+kunne tage lidt mere hensyn til cyklisterne, end
+man gør i øjeblikket.
+Det her forslag vil næppe slå flere cyklister
+ihjel: det vil sandsynligvis beskytte flere cyklister, fordi de som sagt vil fylde mere i trafikken
+og dermed indgyder en anelse mere respekt.
+Tak for forslagene! Vi støtter dem.
+Lars Kaspersen (RV):
+Vi radikale er især glade for de forbedringer,
+der sker for cyklisterne med det her lovforslag.
+Forslaget om de 10 meters afstandskrav ved
+parkering ved vejkryds følger - som hr. Helge
+Adam Møller var inde på det - forslagene fra
+Færdselskommissionen. Vi er opmærksom på,
+at Dansk Cyklist Forbund havde foreslået en
+grænse på 5 m yderligere. Vi har imidlertid det
+synspunkt, at de 10 m vil forbedre den trafiksikkerhed for cyklisterne, som vi ønsker.
+Når man hører fru Inge Dahl-Sørensen, kan
+det undre lidt, at Venstre tilsyneladende ikke vil
+
+151
+
+være med til at prioritere sikkerheden over parkeringspladserne. I øvrigt vil jeg her henvise til,
+hvad hr. Helge Adam Møller var inde på.
+Hvad angår de øvrige forslag for at forbedre
+vilkårene for cyklisterne, er vi tilfredse med, at
+lovgivningen bliver indrettet mere efter de reelle forhold i vejkanter og på cykelstier. Det er
+faktisk dér, nogle af de mest udsatte trafikanter
+findes.
+Endelig er der betalingen for omstillingssyn.
+Det mener vi er sund fornuft, da det vil opfordre
+forbrugerne til en grundigere klargøring ved
+førstegangssynet og altså føre til effektivisering
+og dermed et mere rationelt forbrug af ressourcerne.
+Så for at gøre det helt klart støtter Det Radikale Venstre altså dette forslag.";Margrete Auken
+18814;name_party;":
+Hvad angår forslaget om, at man flytter afstanden fra vejkrydsene fra 5 m til 10 m med hensyn
+til standsning og parkering, synes jeg nok, at det
+er noget af et drastisk skridt, man tager. Hvis
+man tager et almindeligt vejkryds, er det jo på
+otte sider, man så ikke kan parkere inden for de
+5 m. Det er vel tæt på to biler, der så ikke kan
+holde dér, og det vil sige, at for hvert vejkryds
+kan vi tælle otte biler. Hvis vi så tager en by som
+f.eks. København og gør op, hvor mange vejkryds der er i København ganget med de otte
+biler, er det adskillige tusinde biler, vi taler om.
+Jeg tror ikke, det er særlig hensigtsmæssigt at
+gøre det.
+Man kunne også lave nogle beregninger på,
+hvor mange kilometer i hele Danmark det ville
+komme til at betyde, at man ikke kan parkere
+længere.
+Så spørgsmålet er, om det her overhovedet er
+et forslag, der kan gå an, og om det ikke vil skabe mere kaos end nødvendigt i byerne, ikke
+mindst i København. Vi står meget tvivlende
+over for, om det er en god idé at flytte grænsen
+fra de 5 m til 10 m.
+Vi har altså de her spørgsmål om, hvilke konsekvenser det har, og det kan vi jo så se på i
+udvalget. Når vi så har svarene dér, vil det være
+nemmere at forholde sig til det.
+Men jeg synes, at når man taler om trafiksikkerheden for cyklisterne i vejkrydsene, er forslaget om, at man trækker stoplinjen for bilisterne
+længere tilbage, således at cyklisterne holder
+længere fremme end bilerne, når de venter på,
+at det skal blive grønt, et langt bedre forslag og
+et forslag, som jeg er helt sikker på har meget
+
+152
+
+Tirsdag den 10. oktober 1995 (L 2)
+
+større effekt end det, at man forhindrer parkering på yderligere 5 m.
+Vedrørende forslaget om, at man for cyklister,
+der kører ved siden af hinanden, ændrer ulempekriteriet fra, som det er i dag, at det ikke må
+være til ulempe, til, at det efter forslaget ikke må
+være til unødig ulempe, vil jeg gerne sige, at jeg
+synes, det er et forkert forslag at stille. Jeg synes,
+det er forkert, at man på nuværende tidspunkt
+slækker på kriterierne vedrørende den ulempegrad, som cyklisterne må optræde med.
+Det nytter ikke noget, at vi sender det signal
+til cyklisterne, at de i højere grad kan køre ved
+siden af hinanden, for det betyder jo, at cyklisternes færdselssikkerhed bliver svækket. I og
+med at de i endnu flere situationer kan få lov til
+at køre to ved siden af hinanden, slækker vi på
+cyklisternes færdselssikkerhed, og det var jo
+netop det modsatte, ministeren ønskede at opnå.
+Vi ved også fra virkelighedens verden, at de
+farlige situationer netop opstår, når to cyklister
+kører ved siden af hinanden. Jeg ved også af
+personlig erfaring, at mange af de færdselsuheld, der sker med cyklister, netop sker, når
+man kører to ved siden af hinanden og en bilist
+på den ene eller den anden måde, f.eks. fordi
+der kommer modkørende el.lign., bliver nødt til
+at trække ind, og så har vi uheldet.
+Så af hensyn til cyklisternes færdselssikkerhed synes jeg, det er et dårligt forslag, og det
+burde ministeren ikke have taget med.
+Så er der et lille forslag om, at de medbragte
+genstande på cykler nu ikke længere skal have
+en særskilt paragraf, men at de i virkeligheden
+er dækket ind af en anden paragraf i færdselsloven.
+Og det er jo sådan set rigtigt nok, men den
+paragraf, der findes i øjeblikket, og som ministeren ønsker skal fjernes, er dog mere præcis i
+sin formulering. Og derfor vil jeg godt have lov
+til i udvalget at stille nogle spørgsmål på det her
+område, og lad os så se på, om det er rimeligt, at
+vi fjerner den paragraf.
+Til sidst er der så det med, at omstillingssyn
+skal koste det halve af et »rigtigt« syn. For mig
+at se er der ingen tvivl om, at det, man går efter
+her, er en ekstra skat. Jeg kan ikke se andet, end
+at det eneste, man vil opnå, er at få nogle flere
+penge i kassen, og det vil vi selvfølgelig ikke
+være med til.
+Hvis ministeren konkret kan påvise nogle
+skattelettelser på andre områder, der opvejer
+det her, er vi villige til at diskutere det, men
+foreløbig ser vi det udelukkende som en ekstra
+beskatning, og det vil vi ikke være med til.
+
+Man kunne også sige, som hr. Helge Adam
+Møller var inde på, at havde vi i sin tid her i Folketinget fulgt det forslag, som kom fra VKZ om,
+at man skulle privatisere Bilinspektionen, så
+havde vi været ude over det her problem, og så
+havde vi også været ude over problemet med
+ventetider ved Bilinspektionen.
+Konkluderende må jeg sige, at vi er meget
+forbeholdne over for forslaget, men vi er villige
+til at se på det i udvalget, og vi er villige til at
+diskutere det. Vi vil stille nogle spørgsmål, og så
+må vi se på de svar, der kommer, om vi kan
+ændre vores opfattelse, men foreløbig forholder
+vi os rimelig negativt til ministerens forslag.
+(Kort bemærkning).";Tom Behnke
+23551;name_party;":
+Det er lige for at præcisere forslaget om de 5 og
+10 m. Det drejer sig jo altså ikke udelukkende
+eller endda kun i begrænset omfang om cyklisternes bedre oversigt: det drejer sig også om
+fodgængernes - det indgår i Færdselssikkerhedskommissionens arbejde - og det drejer sig
+om biler, der skal køre ud fra sideveje og ikke
+kan se, fordi der er parkeret biler hele vejen hen.
+Det handler om alle trafikanters bedre oversigt.
+Det er da vigtigt, at hr. Tom Behnke får det at
+vide, for det vidste han åbenbart ikke.
+Så vil jeg derudover selvfølgelig ikke deltage i
+den borgerlige fronts hetz mod cyklister, for
+anderledes kan det ikke høres, når man siger, de
+ikke engang må køre ved siden af hinanden. Det
+skal være surt og artigt og helst forbudt at cykle.
+Til allersidst vedrørende privatiseringen kan
+jeg gøre Venstre og Fremskridtspartiet opmærksom på, at CAD - altså alle de almindelige
+værksteder - er tordnende imod. De har været
+dybt forbløffede over - og den kreds tæller jo
+mange af Fremskridtspartiets og Venstres vælgere - at Venstre og Fremskridtspartiet i den
+grad er gået med på De Konservatives og
+D.A.F's noget mislykkede forsøg på at snuppe
+de dér penge. Det er desværre ikke helt mislykket, men det er et mislykket forsøg, selv om det
+altså i et eller andet omfang er lykkedes. Men
+jeg fatter ikke, at Fremskridtspartiet og Venstre
+er hoppet på det vrøvl.
+(Kort bemærkning).";Margrete Auken
+24966;name_party;":
+En enkelt bemærkning til hr. Tom Behnke, ikke
+nogen skældud som den forrige taler, for man
+kan jo godt have forskellige opfattelser ud fra
+hver sit udgangspunkt og mene, at man gør det
+
+Tirsdag den 10. oktober 1995 (L 2)
+rigtige. Vedrørende cyklisterne og det med at
+køre to ved siden af hinanden kontra ikke at
+køre to ved siden af hinanden læser jeg i og for
+sig lovforslaget således - og nu kan ministeren
+jo korrigere mig siden hen, hvis det ikke er rigtigt - at man nu gør det tilladt, som mange mennesker vel gennem mange år har gjort, men som
+faktisk har været ulovligt.
+Lad mig tage et eksempel: Når jeg kører med
+min lille datter foran på cyklen og min kone ved
+siden af mig mellem Ladby og Toksværd - det
+er sådan en forholdsvis lille landevej nede på
+Sydsjælland - ja, så har jeg faktisk brudt loven,
+for selvfølgelig er jeg til ulempe for de bilister,
+der kommer hvert tiende minut, og en bilist må
+indimellem, hvis der tilfældigvis netop dér
+kommer en modkørende, vente, til han kan
+komme uden om, når jeg kører véd siden af min
+kone. Men det får jeg altså nu lov til, selv om jeg
+skulle forsinke ham i 3 sekunder på den dér lille
+landevej.
+Og det synes jeg faktisk er meget rimeligt, for
+jeg vil godt have et trafiksystem i Danmark,
+hvor der både er plads til bilerne, og hvor der
+også er mulighed for, at cyklisterne - der er jo
+mange familier, der er afhængige af cykler, og
+der er masser af børn, der kører til skole, for de
+må altså ikke køre bil, før de er 18 år, og det
+synes jeg også er meget fornuftigt - kan få lov til
+at køre ved siden af hinanden to og to på mindre befærdede veje.
+Det er vel reelt det, man giver mulighed for
+med lovforslaget, og det synes jeg faktisk er fornuftigt. Og jeg synes også godt, at jeg kan leve
+med som bilist indimellem at skulle vente 3-4
+sekunder ekstra for at passere cyklisterne på en
+sikker måde.
+(Kort bemærkning).";Helge Adam Møller
+26861;name_party;":
+Jeg tror, fru Margrete Auken skal gøre sig den
+ulejlighed at læse det, der er blevet sagt fra
+talerstolen, når det bliver skrevet ned. Inden for
+de næste 2 timer vil det være muligt at læse,
+hvad jeg sagde her fra talerstolen, og så vil fru
+Margrete Auken give mig ret i, at det var rent
+vrøvl, det, fru Margrete Auken her stod og
+beskyldte mig for at have sagt.
+Det er ikke nogen hetz imod cyklisterne overhovedet ikke. Jeg er helt enig i, at vi skal
+gøre noget for cyklisternes færdselssikkerhed.
+Men det, jeg tillader mig at diskutere her fra
+talerstolen, er ministerens forslag til, hvordan vi
+forbedrer den sikkerhed, og dér er det min
+
+153
+
+opfattelse, at de forslag, ministeren kommer
+med, ikke vil forbedre cyklisternes sikkerhed tværtimod - og derfor tillader jeg mig at være
+imod ministerens forslag, ikke for at hetze imod
+cyklisterne, men faktisk fordi jeg mener det her
+positivt i forhold til cyklisterne.
+Til hr. Helge Adam Møller, der siger, at man
+vil lovliggøre en praksis, der allerede fungerer,
+vil jeg sige, at det er mtiligt., Jeg er også enig i hr.
+Helge Adam Møllers udtalelse om, at der skal
+være plads til både bilister og cyklister: jeg er
+helt enig. Selvfølgelig skal der være plads både
+til cyklisterne og til bilisterne. Men det, jeg er
+bange for at vi gør med det her forslag, er, at vi
+sender et signal om, at man som cyklist fremover i højere grad end i dag kan tillade sig at
+køre to ved siden af hinanden uden at tage hensyn til den øvrige trafik.
+Jeg er bange for, at det er det signal, vi kommer til at sende, og dermed sender vi et signal,
+der, vil bevirke, at færdselssikkerheden bliver
+slækket for cyklisterne, og det synes jeg er synd
+for cyklisterne. Det er ikke noget, jeg siger for at
+hetze imod cyklisterne - tværtimod.
+(Kort bemærkning).";Tom Behnke
+28668;name_party;":
+Jeg ville i min ordførertale forsøge at undgå den
+generelle trafikdebat, som vi jo sædvanligvis
+har, når vi behandler forslag om ændring af
+færdselsloven. Når det er cyklisterne, vi særlig
+har fokus på i dag, kan jeg ikke lade være med
+at nævne de tal, vi læser i pressen i dag, om
+uheld og særlig uheld, der går ud over cyklister.
+Jeg ved ikke, om cyklister, som fru Margrete
+Auken sagde, skal fylde i trafikken. Det, cyklisterne i hvert fald skal gøre i trafikken, er, at de
+skal gøre sig synlige. De skal være synlige: det
+er utrolig vigtigt. Det er ikke vigtigt for en cyklist at have ret og efterfølgende ligge 3 fod
+under jorden. Problemet er, at cyklisterne er
+bløde trafikanter, og derfor handler det om
+opnåelse af en trafikkultur, ikke alene fra cyklisternes side, men fra alles side, der færdes i trafikken.
+Jeg tror, det er vigtigt at komme ind på - vi
+har drøftet det før, Færdselssikkerhedskommissionen har også nævnt det, og jeg forstår ikke, at
+et par af ordførerne, som er medlemmer af
+Færdselssikkerhedskommissionen, ikke har
+nævnt det her - hvad f.eks. en skærm mellem
+for- og baghjul på lastbiler kan betyde med hensyn til alvorligt kvæstede. Vi har drøftet det før
+her i Folketinget, men der kunne måske være
+
+154
+
+Tirsdag den 10. oktober 1995 (L 2)
+
+anledning til i forbindelse med det her lovforslag at kigge på, om vi kunne gennemføre det
+forslag.
+Her tænker jeg særlig på de problemer, der
+netop opstår for cyklister i de mange, mange,
+mange rundkørsler, vi efterhånden får etableret
+i dette land.
+Jeg oplevede i sidste uge - eller var det for 14
+dage siden? - en ung pige i Odense, der blev
+kørt over af en lastbil i en rundkørsel. Jeg har set
+mange farlige situationer, hvor lastbiler drejer
+ud af rundkørsler, og på grund af, ja, at man
+ikke passer på, bliver cyklister, som skal fortsætte rundt i rundkørslen, kørt over af bilerne i
+rundkørslen - her tænker jeg særlig på de høje
+lastbiler - og dér kunne netop en skærm mellem
+for- og baghjul forhindre, at cyklisterne kommer
+ind under bilerne.
+Det er et forslag, vi har drøftet før her i Tinget, og det er tidligere blevet afvist, men der var
+måske en mulighed for - når nu det med cyklisterne ligger os alle sammen så meget på sinde at det var et forslag, vi kunne drøfte under
+udvalgsarbejdet omkring det her lovforslag.
+(Kort bemærkning).";Erling Christensen
+31012;name_party;":
+Til hr. Tom Behnke vil jeg gerne sige, at jeg tror,
+han skal lytte til det, som hr. Helge Adam Møller, som åbenbart selv cykler, sagde, nemlig at
+det her drejer sig om at lovliggøre det, som de
+fleste af os jo gør i forvejen, for det ville være
+fortvivlende sørgeligt at cykle, hvis man ikke
+måtte køre ved siden af hinanden, og det gør
+man. Og så er det jo meget godt, at det nu også
+bliver lovligt.
+Jeg tror ikke, at antallet af dem, der kører to
+og to ved siden af hinanden, vil vokse, for det er
+meget, meget sjældent, at folk - hvis de er sammen - kører bagefter hinanden på steder, hvor
+det overhovedet kan lade sig gøre at køre ved
+siden af hinanden.
+Vi kan forbedre cyklisternes trafiksikkerhed
+enormt ved at lade dem blive hjemme: det er der
+ingen tvivl om. Vi kan sige til dem, at de helst
+skal blive hjemme. Vi kan ikke sige, at de skal se
+sig nøje for ved hvert eneste kryds, for det viser
+sig, at det er i de kryds, hvor de artige piger
+artigt holder tilbage, at lastbilerne svinger ind i
+dem. De bliver slået ihjel, hvorimod de af os, der
+forstår at anbringe os derude med alle antennerne ude, fordi vi er klar over, at vi halvvejs er i
+den situation, og altid holder foran, og kan
+overskue hele trafikken: der stort set klarer os.
+
+Det er selvfølgelig farligt at stå og sige sådan
+noget, for det kan jo gå galt. Men jeg vil sige, at
+det er i kryds, ulykkerne sker, og de sker, fordi
+bilerne svinger ind i cyklerne. Det er dér, bil og
+cyklist er i konflikt.
+Dér, hvor vi derudover har cyklistulykker, er
+ved en række enelùykker, og det er der en række andre grunde til.
+Men det er klart, vil jeg gerne sige til hr. Tom
+Behnke, at det ville være aller-, allersikrest, hvis
+alle andre end bilisterne blev hjemme og man,
+hvis man var barn eller gammel, lod sig transportere fastspændt fra kravlegård til kravlegård,
+og hvis man som cyklist ventede på, at éns far
+eller mor kunne køre én på anden vis. Det giver
+den bedste sikkerhed. Til gengæld giver det altså en utrolig nedsat mobilitet for alle andre end
+dem, der sidder bag rattet, og vi ønsker altså
+også at give folk lyst til at cykle.
+Det var ikke noget vrøvl, da jeg før talte om
+hetz - jeg kunne have anvendt en anden sprogbrug - men så vidt jeg kunne høre af hr. Tom
+Behnkes andet indlæg, var det ganske i overensstemmelse med, hvad hr. Tom Behnke havde
+sagt i første omgang, og det var det, jeg kom
+med indvendinger imod. Vi er uenige - det er
+en anden side af sagen - men vrøvl var det ikke.
+(Kort bemærkning).";Margrete Auken
+33515;name_party;":
+Af den tunge trafik, herunder også persontrafikken, bliver der i stor udstrækning taget
+hensyn til den bløde trafik.
+Det er da rigtigt, som ordføreren for Det Konservative Folkeparti påpeger, at man ikke kan
+skære alle over én kam, men med den stigende
+andel af trafikken, som cyklisterne udgør, er
+tiden også kommet til, at de får en miniuddannelse i trafikkultur.
+Biltrafikken har i de seneste år investeret store
+beløb i sikkerhed, herunder i montering af
+diverse sidespejle. Vil det så ikke også være
+rimeligt, at der sker en højnelse af cyklisternes
+trafikkultur? Det er for ensidigt at gennemføre
+en sådan lov, uden at der også sker en opstramning hos dem, som loven omfatter.
+Hvis dette lovforslag bliver gennemført i sin
+nuværende form, vil vi fremover komme til at se
+et stigende antal uheld, hvor cyklister er involveret, for biltrafikken er i øjeblikket ved at nå
+det maksimale med hensyn til rent sikkerhedsmæssige investeringer.
+
+Tirsdag den 10. oktober 1995 (L 2)
+(Kort bemærkning).";Erik Jacobsen
+34530;name_party;":
+Jeg synes, det er synd, at fru Margrete Auken
+skal udlægge teksten på en måde, der virker
+misvisende. Fru Margrete Auken lægger det op,
+som om vi i øjeblikket diskuterer et forslag om,
+hvorvidt det skal være tilladt for cyklister at
+køre ved siden af hinanden eller ej. Det diskuterer vi ikke. Det er allerede i dag tilladt for cyklister at køre ved siden af hinanden: men det må
+ikke være til ulempe. Ministeren foreslår så, at
+det ikke må være til unødig ulempe, og det vil
+sige, at ulempegraden bliver slækket en anelse.
+Fru Margrete Auken skal lade være med at
+udlægge teksten, som om vi i dag diskuterer,
+om man må køre ved siden af hinanden eller
+man ikke må køre ved siden af hinanden. Det er
+forkert at udlægge teksten på den måde.
+Det andet, som fru Margrete Auken hele tiden
+får smidt med ind i sine bemærkninger, er, at
+man skulle være mere kompetent til at diskutere
+dette lovforslag, hvis man var cyklist. Jeg tror
+da, at alle her i salen mere eller mindre er cyklister. Hele sommeren, når Folketinget er sendt
+hjem på ferie, kører jeg på cykel hver eneste
+dag, og i den tid, hvor Folketinget er indkaldt,
+gør jeg det, så vidt det er muligt, men jeg kan
+ikke cykle fra Århus til København, når jeg skal
+på arbejde i Folketinget.
+Jeg tror, at vi alle sammen cykler i det
+omfang, vi kan, så lad være med at gøre det til
+noget odiøst, således at fordi fru Margrete
+Auken kører på cykel, skulle hun være mere
+kompetent til at diskutere forslaget end vi
+andre: det er ikke tilfældet.
+Jørgen Lund (EL):
+Da Enhedslistens politiske ordfører på dette
+område ikke kan være til stede, skal jeg oplyse,
+at Enhedslisten støtter det freinsatte forslag:
+men jeg vil godt i samme forbindelse sige, at vi
+ikke finder, det er tilstrækkeligt til de svage trafikanter.
+Der har indtil nu været adskillige smådebatter, og jeg kunne da godt tænke mig at få at
+vide, når vi nu diskuterer spørgsmålet om unødig ulempe, og hvor meget man må fylde: Har
+vi nogen regler for trafikken om, hvad der er
+unødig ulempe, og hvor meget man må fylde?
+Må en bil fylde mere end to cyklister? Er det
+bilerne, der er til unødig ulempe, eller er det de
+cyklister, der kører ved siden af hinanden?
+Sådan kan man nøjagtig lige så godt vurdere det
+spørgsmål.
+
+155
+
+Når jeg sagde før, at jeg ikke finder det her
+tilstrækkeligt, må jeg også samtidig sige, at
+Enhedslisten er i gang med at forberede et samlet udspil om de svage trafikanters vilkår i trafikken, og at vi selvfølgelig stemmer for det lovforslag, der nu er fremsat: men vi kommer altså
+selv senere med et selvstændigt forslag.
+Trafikministeren (Jan Trøjborg):
+Jeg vil gerne sige tak for de engagerede og
+seriøse indlæg i debatten. Regeringen havde
+naturligvis også forventet og håbet, at vi nok så
+meget fik en trafikpolitisk debat på baggrund af
+disse forslag.
+Der var et par enkelte spørgsmål.
+Fru Inge Dahl-Sørensen hæftede sig ved forslaget om udvidelsen fra 5 til 10 m af standsnings-/parkeringsforbudet, og det samme gjorde hr. Tom Behnke.
+Det er naturligvis korrekt, at en sådan udvidelse af parkerings/standsningsforbudet vil
+medføre, at der bliver færre parkeringspladser.
+Imidlertid har Færdselssikkerhedskommissionen i sin tid beregnet, at forslaget vil reducere
+antallet af personskader i vejkryds med 1-2 pct.,
+svarende til ca. 20 personskader inklusive én
+dræbt. Her er der altså tale om en prioritering,
+og jeg mener, at vi skal prioritere til fordel for
+trafiksikkerhed.
+Hr. Helge Adam Møller er inde på det samme
+som fru Inge Dahl-Sørensen i spørgsmålet om
+den ændring, der handler om, hvordan cyklister
+kan køre ved siden af hinanden. Dér er ændringen som bekendt, at det, at man må køre ved
+siden af hinanden, uden at det er til ulempe for
+trafikken, nu ændres, således at det skal være
+uden unødig ulempe for trafikken.
+Jeg er fuldstændig enig med hr. Helge Adam
+Møller i, at netop når vi taler om de bløde trafikanter - jeg tror, det var det ord, der blev brugt er det hensigtsmæssigt at tilrettelægge lovgivningen således, at den er i overensstemmelse
+med den virkelighed, som vi færdes i.
+Jeg har også sympati for det synspunkt, der
+blev udtrykt her fra talerstolen, at der jo ikke er
+noget mere pragtfuldt end at køre ved siden af
+sin kone eller kæreste med loven i hånd. Jeg ved
+ikke, om det er så romantisk, men i al fald er det
+anderledes praktisk end retstilstanden i dag.
+For så vidt angår spørgsmålet om omstillingssyn, er det jo, som ordførerne også har
+været inde på, hensigtsmæssigt at indføre
+omstillingssyn for at få en mere effektiv arbejdsgang i Statens Bilinspektion og frigøre kapacitet.
+
+156
+
+Tirsdag den 10. oktober 1995 (L 2)
+
+Imidlertid vil omstillingssyn naturligvis medføre nogle indtægter til statskassen, men det er
+ikke de store, svimlende beløb, vi taler om. Vi
+skønner omkring 14-16 mio. kr. ekstra i statskassen, men det vigtigste er naturligvis, at der
+vil blive mere kapacitet hos Statens Bilinspektion. Det vil medføre - går vi stærkt ud fra - en
+adfærdsregulering, således at der er færre, der
+kommer til syn hos Statens Bilinspektion med
+dårligt fremstillede biler, og dermed bliver der
+færre gentagne syn.
+Det er givet, at det spørgsmål naturligvis vil
+indgå i drøftelserne om finansloven for 1996, for
+som bekendt er provenuet en del af regeringens
+forslag til finanslov for 1996.
+Jeg kan tilføje, at de endelige priser for syn
+skal fastsættes i forbindelse med den budgetanalyse, der for øjeblikket foretages af Statens
+Bilinspektion, og som følge af, at vi fra 1998
+gennemfører obligatorisk syn hvert andet år af
+biler, der er mere end 5 år gamle. Til brug for
+fastsættelse af den endelige synspris er det
+naturligvis også vigtigt for ministeriet at have
+erfaringer fra betaling af omstillingssyn til de
+beregninger, der skal foretages.
+Jeg siger tak for de positive bemærkninger, og
+jeg håber, at de positive bemærkninger også vil
+blive fastholdt under udvalgsarbejdet i et så tilstrækkeligt omfang, at der kan dannes et forhåbentlig meget bredt flertal for lovforslaget, som
+det foreligger, således at vi kan få gennemført
+disse efter min opfattelse forbedringer af færdselssikkerheden og også nogle fornuftige
+ændringer af praksis i forbindelse med fremstilling af biler til syn.";Tom Behnke
+40729;name_party;":
+Jeg fik ikke svar på det spørgsmål, som jeg stillede ministeren, og det vil jeg sådan set meget
+gerne have, inden vi slutter.
+Der står i lovforslaget, at det medfører en vis
+ulempe, at to cyklister kører ved siden af hinanden, og så spørger jeg: En ulempe for hvem? Er
+det for bilister, eller er det for cyklister? Jeg tør
+så slet ikke tænke på den cyklist, der som nummer tre skal uden om de to. Men nu spørger jeg
+ministeren: Hvilken ulempe og for hvem? Er det
+for bilister eller for cyklister? Jeg synes, det er
+afgørende.
+Trafikministeren (Jan Trøjborg):
+Nu bliver det en meget teknisk og vanskelig
+diskussion. Jeg skal prøve at besvare fru Inge
+Dahl-Sørensens spørgsmål.
+
+Efter lovforslaget blødes reglen lidt op, således at cyklister må køre ved siden af hinanden,
+selv om dette er forbundet med en vis ulempe
+for andre, når der ikke er tale om en unødig
+ulempe for andre, hvilket naturligvis kan være
+tilfældet.
+Imidlertid tror jeg, at vi står os godt ved at
+indrette lovgivningen således, at den passer til
+de eksisterende forhold i trafikken, og jeg mener
+også, at det er hensigtsmæssigt at gennemføre
+det, men vil naturligvis i øvrigt under udvalgsarbejdet besvare det stillede spørgsmål. Jeg finder det hensigtsmæssigt, at man dér får de, skal
+vi sige mere professionelle trafiksikkerhedsmæssige betragtninger om dette lovforslag.
+(Kort bemærkning).";Inge Dahl-Sørensen
+42107;name_party;":
+Jeg kan ikke dy mig. Ministeren sagde, at det vil
+være hensigtsmæssigt, at vi indretter færdselsloven efter de eksisterende forhold i trafikken.
+Jeg glæder mig til at se et forslag fra ministeren
+om, at man på motorveje må køre 130 km i
+timen. Det er de eksisterende forhold. Vi glæder
+os til det forslag fra regeringen. Tak for det.";Tom Behnke
+42475;title_name;":
+Jeg gør opmærksom på, at dette lovforslag ikke
+handler om hastigheder på vejene.
+(Kort bemærkning).";Ivar Hansen
+42596;name_party;":
+Nej, men vi går så ud fra, at hr. Tom Behnke
+fremsætter et forslag om at legalisere al den bilkørsel, som foregår i dag: så skal vi se, hvordan
+det tager sig ud. Jeg tror ikke, det var det, hr.
+Tom Behnke mente.
+Så vil jeg lige sige til fru Inge Dahl-Sørensen,
+at mig bekendt betyder lovforslaget udelukkende noget for bilisternes muligheder for at overhale, når to cyklister kører ved siden af hinanden, og det drejer sig så om, hvorvidt de indimellem lige skal vente, hvis der er modkørende
+trafik. Det drejer sig ikke om, hvorvidt det er
+generende, at man cykler ved siden af hinanden
+på en cykelsti, når der kommer en tredje cyklist
+og skal forbi. Det kan en gang imellem, fordi
+cykelstierne er meget smalle, være generende,
+men jeg har ikke nogen fornemmelse af, at det,
+lovforslaget tog sigte på, var, at man kun måtte
+køre én og én dér. Men man skal selvfølgelig i al
+trafik vise hensyn til hinanden, og det gør vi
+også på cykelstierne.
+
+Tirsdag den 10. oktober 1995 (L 2)
+(Kort bemærkning).";Margrete Auken
+43620;name_party;":
+Jeg skal ikke forlænge debatten yderligere, men
+når vi nu taler om svage og mere stærke trafikanter, tænker jeg altså nok mere på cyklisterne,
+end fru Margrete Auken gør, for her drejer det
+sig altså om nogle, som risikerer at blive slået
+ihjel, fordi de vil køre på deres ret, og jeg synes
+altså, det er urimeligt, hvis fru Margrete Auken
+synes, at det ér rimeligt.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Inge Dahl-Sørensen
+44133;title_name;":
+Jeg foreslår, at lovforslaget henvises til Retsudvalget.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 7:
+Forslag til lov om ændring af lov om tobaksafgifter og lov om forskellige forbrugsafgifter.
+(Forhøjelse af afgiften af røgtobak og cigaretpapir).
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+44646;name_party;":
+Det lovforslag om forhøjelse af afgiften på røgtobak og cigaretpapir, vi har til behandling her,
+er et spørgsmål om, hvorvidt man synes, vi skal
+lægge mere afgift på rygning.
+På Socialdemokratiets vegne vil jeg gerne
+anbefale merafgift på rygning med de finanspolitiske følger, en sådan forhøjelse indebærer.
+
+157
+
+Som bekendt er hjemmerulleriet steget ganske meget, og en begrænsning heraf vil betyde
+en indsnævring i prisforskellen mellem de
+hjemmerullede og de højere beskattede færdigfremstillede cigaretter.
+Som det fremgår af lovforslaget, vil ændringerne medføre en væsentlig provenugevinst, og
+jeg mener, at den foreslåede afgiftsforhøjelse er
+en nænsom måde at prøve at finde nogle penge
+på. Samtidig vil lovforslaget forhåbentlig også
+betyde en sundhedsmæssig regulering, selv om
+det ikke vil være muligt at vurdere de sundhedsmæssige aspekter af afgiftsforhøjelsen.
+Idet jeg henviser til lovforslaget og de
+bemærkninger, der ledsager det, skal jeg på
+Socialdemokratiets vegne anbefale vedtagelse af
+lovforslag nr. L 7.";Anna-Marie Hansen
+45700;name_party;":
+I Venstre finder vi det ejendommeligt, at vi skal
+førstebehandle dette forslag i dag, da det jo forhandles i forbindelse med finanslovforhandlingerne, men jeg skal dog ikke undlade her at
+gentage, hvad der står i VK's »Reform 96«, nemlig at vi er imod forslaget.
+Vi er imod flere afgifter, og derudover kan
+man jo sige - nu har Socialdemokratiet lige
+været oppe og støtte forslaget, og det er måske
+ikke så ejendommeligt, da Socialdemokratiet
+sidder i regeringen - at dette forslag sådan set
+har social slagside. Det plejer at bekymre Socialdemokraterne, når forslag har det, og der er nok
+ikke nogen tvivl om, at hjemmerullede cigaretter ikke i så høj grad findes i meget rige hjem
+som i fattige hjem.";Charlotte Antonsen
+46422;name_party;":
+Også i Det Konservative Folkeparti finder vi det
+mærkværdigt, at vi i dag skal førstebehandle
+dette lovforslag, der nok burde afvente finanslovforhandlingerne. Det er sådan set også
+mærkværdigt ved lovforslaget, at der intetsteds
+i bemærkningerne tii det nærmere står angivet,
+hvad formålet er. Indholdet af lovforslaget er
+selvfølgelig klarlagt, men formålet er ikke
+omtalt. Er det et forsøg på at ligestille de to
+tobakstyper? Har det et sundhedsmæssigt sigte,
+eller er det blot et led i regeringens finanslovudspil, altså et spørgsmål om provenu? Det er nok
+hovedsagelig det sidste, og jeg skal, ligesom fru
+Charlotte Antonsen gjorde det, henvise til VK's
+eget finanslovudspil og afvise forslaget. Det har
+alene et fiskalt sigte, og så burde vi nok afvente
+den videre behandling af det, til man er gået i
+gang med finanslovdrøftelserne.
+
+158
+
+Tirsdag den 10. oktober 1995 (L 7)";John Vinther
+47321;name_party;":
+Sundhedsmæssigt både for dem, der ryger, og
+for dem, der er så uheldige at skulle være i nogle lokaler, hvor andre ryger, er der ingen tvivl
+om, at det vil være en fordel at få nedbragt
+tobaksforbruget, og derfor er vi åbne over for at
+se på dette lovforslag.
+Jeg har da også bemærket, at det selvfølgelig
+indgår i nogle finanslovforhandlinger, og jeg
+kan forstå, at det er en selvstændig fornærmelse
+imod De Konservative og Venstre, at forslaget
+overhovedet er på dagsordenen i dag. Jeg glæder mig til den dag, hvor Venstre og De Konservative begynder at tage nogle konsekvenser af
+alle de fornærmelser, de er udsat for, for indtil
+videre skal vi bare høre på, at de brokker sig og
+larmer, men de forhandler jo alligevel videre i
+Finansministeriet, og det ender såmænd nok
+med, at de indgår en aftale, hvor de så har slugt
+røgtobakken eller i hvert fald slugt, at der skal
+lægges en afgift på den.
+Jeg kan godt forstå, at man har lavet en aftale
+om, at disse ting ikke gøres færdige, før finanslovforhandlingerne er ført til ende. Der er lavet
+sådan en slags »stand still«, hvor man siger, at
+nu laver vi ikke aftaler om sådan nogle ting, før
+finanslovforhandlingerne er færdige, men jeg
+synes da, at regeringen lige burde notere sig, at
+når den mangler penge for at få nedbragt
+underskuddet på statsfinanserne, er der nogle
+partier, der er åbne over for bidrag til at få fjernet problemet, hvilket SF er, og så er der nogle,
+der siger, at de ikke vil være med til noget som
+helst. Det er Venstre og De Konservative. Hvem
+er det så, man siger man helst vil lave forlig
+med? Også i den sammenhæng de forkerte! Det
+synes jeg er lidt mærkværdigt.
+Elisabeth Amold (RV):
+Hver gang man ser provenuberegningerne på
+forslag af denne type - om forhøjelse af afgifter
+på tobak, og det gælder også spiritus - tænker
+man ved sig selv, at det er det gamle, klassiske
+dilemma: Vi vil gerne have provenuet, vi vil
+gerne have de penge, som kommer ind i statskassen fra disse afgifter, men af hensyn til folkesundheden vil vi altså også gerne have, at folk
+ryger eller drikker mindre, og så får vi jo færre
+penge.
+Det er det sædvanlige dilemma, som af og til
+nærmer sig dobbeltmoral, men det er altså en
+vane, vi har fået herinde, at vi gerne vil pålægge
+disse gifte, som man kalder dem, nogle afgifter,
+og at vi også meget gerne vil bruge afgifterne til
+
+alt muligt andet end lige netop at afbøde de skader, som disse gifte påfører befolkningen.
+Det Radikale Venstre støtter forslaget, og vi
+lader det med stor fornøjelse indgå i forhandlingerne om finansloven og venter spændt på,
+hvad der kommer ud af disse.
+(Kort bemærkning).";Jes Lunde
+49959;name_party;":
+Det er et svar på spørgsmålet, om lovforslaget
+har social slagside. Dér mener jeg, vi skal se lovforslaget i et større perspektiv, og som det fremgår af regeringens finanslovforslag, er det fortsat målet at opnå ligevægt i de samlede offentlige finanser, og derfor er det altså en budgetforbedring, der skal bruges penge på.
+Når man ser det i en større sammenhæng, kan
+man bl.a. se på de mange ekstra initiativer,
+regeringen har taget, og da pengene jo skal findes et sted, mener jeg, at det er et nænsomt
+område at finde pengene på.";Anna-Marie Hansen
+50510;name_party;":
+Man kigger altid en ekstra gang, når der er et
+forslag fra regeringen om at forhøje skatter eller
+afgifter.
+Som udgangspunkt har vi i Fremskridtspartiet sådan set ikke noget imod, at man har beskatning af tobak, alkohol osv., men hvad bliver
+pengene brugt til? Vi fik for lidt siden at vide af
+SF, at pengene skulle bruges til at nedbringe
+underskuddet: det fremgår ikke af bemærkningerne.
+Det fremgår tværtimod af bemærkningerne,
+at man ønsker at opnå et merprovenu, og man
+har oven i købet en forventning om, at folk vil
+ryge mere, end de gør i dag, for det bliver gjort
+klart i bemærkningerne, at hvis folk ikke ændrer
+adfærd, giver det 200 mio. kr. ekstra i statskassen. Og så har skatteministeren en forventning
+om, at der sikkert er nogle af rygerne, som ikke
+længere gider rulle deres egne cigaretter og i
+stedet vælger at købe de cigaretter, som er
+fabriksfremstillede, og som er belagt med fuld
+afgift, og i det tilfælde er det 350 mio. kr., der
+kommer i statskassen.
+Fru Elisabeth Arnold havde et ønske om, at
+afgifter kunne være med til at bedre sundhedstilstanden, men det har man i Skatteministeriet
+koldt og kynisk beregnet ikke vil ske. Tværtimod håber man på, at folk bibeholder det forbrug, de har i dag, ja endda oven i købet
+omlægger det fra hjemmerullede til fabriksfremstillede cigaretter. Det giver selvfølgelig
+
+Tirsdag den 10. oktober 1995 (L 7)
+nogle ekstra arbejdspladser på Skandinavisk
+Tobakskompagni i Århus, hvilket jeg ikke skal
+beklage, men så er det altså dobbeltmoralsk at
+hævde, at dette forslag er et sundhedsfor slag.
+Det er det ikke: det er koldt og kynisk penge,
+der skal i statskassen.
+Man burde så overveje, hvordan man bedst
+fik de penge i statskassen. Gør man det ved at
+snige sådan et enkelt lovforslag igennem, som
+skal bidrage med 350 mio. kr., eller burde man
+se på hele den måde, vi har tilrettelagt vores
+skatter og afgifter på? I dag er vi altså også en
+del af Det Europæiske Fællesskab, og det giver
+nogle forpligtelser. Lige så vel som vi har været
+nødsaget til at tilpasse vores afgiftsniveau på
+hårde hvidevarer, radioer, tv'er, videoer og alt
+muligt andet, er vi også nødt til at tilpasse vores
+afgifter på tobak og spiritus. Hvis konsekvensen
+af det her bliver stigende grænsehandel, opnår
+man ikke engang den provenugevinst, som
+regeringen har stillet i udsigt: tværtimod opnår
+man et tab på sundhedsområdet, for vi ved jo
+godt, hvordan det er, når folk kommer hjem
+efter at have været på toldfrit indkøb. Så ryges
+cigaretterne lidt hurtigere, end de ellers bliver,
+fordi de er billigere og der bliver budt både til
+højre og venstre.,
+Ud fra alle de betragtninger er vi nødt til at
+sige: Dette er et dårligt forslag, som vi kommer
+til at stemme imod. Betingelsen for, at vi kunne
+stemme for sådan et forslag, skal ministeren
+selvfølgelig kende, og den er, at de 350 mio. kr.
+ikke bare går til fædrelandets fordærv, men går
+til, at der andre steder inden for ministerens ressort sker nedsættelser, tilsvarende krone for
+krone-nedsættelser, af f.eks. personskatterne.
+Hvis det var tilfældet, medvirkede vi gerne,
+men her hvor det er højst tvivlsomt, hvad pengene går til - og vi er ikke engang så optimistiske som SF, der tror, at de går til at nedbringe
+statens underskud - må vi sige nej.
+Jørgen Lund (EL):
+Ligesom ved det forrige lovforslag er jeg nødsaget til at indlede med at beklage, at vores ordfører på området ikke kan være til stede.
+Jeg skal så oplyse, at Enhedslisten ikke er
+afvisende over for det lovforslag, der her er
+fremsat, men at vi i lighed med de øvrige, der
+har været på talerstolen, mener, at det er et forslag, der udelukkende vil være med til at forbedre statsfinanserne. Derfor vil Enhedslistens
+endelige stillingtagen til dette lovforslag afhænge af, hvordan forhandlingerne om finansloven
+forløber.
+
+159
+
+(Kort bemærkning).";Kim Behnke
+54343;name_party;":
+Som Socialdemokratiets ordfører vil jeg gerne
+tilbagevise Fremskridtspartiets påstand om, at
+lovforslag nr. L 7 er blevet fremstillet som et
+sundhedspolitisk forslag. Det fremgår såvel af
+lovforslaget som af mit indlæg, at det ikke forholder sig sådan.
+Jeg anbefalede en merafgift på rygning med
+de finanspolitiske argumenter, der er for en
+sådan forhøjelse, og så udtrykte jeg forhåbning
+om, at det også kunne betyde en sundhedsmæssig regulering, selv om det ikke ville være
+muligt at vurdere de sundhedsmæssige aspekter ved afgiftsforhøjelsen.
+(Kort bemærkning).";Anna-Marie Hansen
+54925;name_party;":
+Det var jo lige præcis den udtrykte forhåbning,
+jeg henviste til, når jeg mener, at regeringen er
+dobbeltmoralsk, fordi den koldt og kynisk
+indregner en provenugevinst, som forudsætter,
+at folk opretholder det tobaksforbrug, de har i
+dag. Det er lige så koldt og kynisk, som når man
+ved den årlige finanslov under Justitsministeriets område kan se, at man forventer, at folk er
+akkurat lige så kriminelle, som de altid har
+været, endda nogle gange måske mere kriminelle, for man indbudgetterer et merprovenu for
+bøder i forventning om, at folk overtræder lovgivningen.
+Den form for moral, som statsadministrationen udviser, har vi altså meget svært ved at nikke genkendende til. Hvis man virkelig troede
+på, at der var et sundhedspolitisk sigte i det her,
+skulle man indbudgettere et mindre provenu og
+have en forventning om, at folk lod være med at
+ryge så meget tobak, men det gør man ikke.
+Man ønsker bare at få penge i kassen, og så skal
+man lade være med at prøve at pakke det ind i
+lidt cellofan, som der står »sundhed« på. Vi
+hopper ikke på den.";Kim Behnke
+56011;title_name;":
+Jeg skal takke for god behandling af lovforslaget.
+Til Venstre og De Konservative kan jeg sige,
+at det selvfølgelig bliver fremsat nu, hvor vi er
+sikre på, at man er klar over, hvad regeringens
+hensigt er, idet vi har den hensigt, at der skal tilvejebringes en finanspolitisk stramning, og i det
+lys skal nærværende forslag ses.
+Det udelukker ikke, at det samtidig kan have
+en udmærket sundhedspolitisk effekt, og den
+
+160
+
+Tirsdag den 10. oktober 1995 (L 7)
+
+måde, hvorpå man angiver provenuberegningen, er helt konventionel. Det gøres ved uændret aktivitet. Om vi får et mindre provenu som
+følge af en stærk reduktion af rygeriet og rulleriet, er det helt o.k. Det er den normale måde,
+man måler det her på.
+Jeg må tilbagevise hr. Kim Behnke, som indfortolker alle mulige mærkelige ting i, at man
+blot konventionelt angiver en provenueffekt.
+Det, der er lovforslagets beregnede provenueffekt, er 200 mio. kr. I bemærkningerne diskuteres på, hvad skal vi kalde det, sofistikeret måde
+alternative adfærdsændringer, som kan give
+anledning til andre provenuer, men det, der er
+udgangspunktet, er 200 mio. kr. Giver det mindre, er der ikke så meget at gøre ved det. Der er
+ikke noget koldt og kynisk i det: det er den
+måde, man beregner det på.
+Jeg vil sige tak og håbe på en god og fornuftig
+udvalgsbehandling.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+Første næstfonnand (Ivar Hansen):
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Forhandling";Carsten Koch
+57660;name_party;":
+Bag denne meget svære overskrift på dette lovforslag gemmer sig den kendsgerning, at det er
+velkendt, at handel med varemærkeforfalskede
+og piratkopierede varer skader fabrikanter,
+handlende samt indehavere af bl.a. ophavsret,
+og det vildleder jo også i høj grad forbrugerne.
+Denne ulovlige virksomhed skal selvfølgelig
+bekæmpes, og det skal søges forhindret, at
+sådanne varer bliver bragt på markedet bl.a.
+ved indførsel fra tredjelande. Forordningen fra
+EU, der har nummer 3295, trådte i kraft 1. juli i
+år og giver bl.a. toldmyndighederne beføjelser
+til at gribe ind i disse sager, men hvert land, herunder Danmark, skal ifølge forordningen selv
+fastsætte, hvilke sanktioner der skal anvendes
+m.v., og derfor dette lovforslag.
+Lovforslaget angiver, at der skal betales 500
+kr. for en anmodning til toldmyndighederne om
+eventuel indgriben. Det omtaler bestemmelser,
+hvis der skal foretages ransagning, og tilsvarende om sikkerhedsstillelse og om behandling af
+varer, om hvilke det er fastslået, at de er varemærkeforfalskede eller piratkopierede, og
+endelig er der straffebestemmelserne.
+EU-forordningen bestemmer, at det er toldmyndighederne, der skal modtage anmodninger om indgriben, hvor det hidtil her i landet
+har været fogedretten: derfor den foreslåede
+ophævelse af § 653 i retsplejeloven. Det er til
+gengæld nu domstolene, der skal afgøre, hvad
+der skal ske i selve sagen.
+Socialdemokratiet kan støtte lovforslaget i
+dets helhed.";Per Kaalund
+59125;name_party;":
+Venstre kan også støtte, at man straffer ulovligheder.
+
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 8:
+Forslag til lov om anvendelse af Det Europæiske Fællesskabs forordning om foranstaltninger med henblik på at forbyde overgang til fri
+omsætning, udførsel, genudførsel og henførsel
+under en suspensionsprocedure af varemærkeforfalskede og piratkopierede varer.
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+
+Pemille Sams (KF):
+Lovforslaget er udtryk for implementering af en
+EF-forordning om varemærkeforfalskede og
+piratkopierede varer, og vi finder, at forslagets
+indhold er i orden. Der er dog mange ting, som
+skatteministeren får bemyndigelse til at fastsætte nærmere bestemmelser for, og det er efter
+vores mening unødvendigt. De fleste af disse
+forhold kunne godt have været ordnet i forbindelse med lovgivningen i øvrigt, f.eks. klagemulighederne og flere af detaljerne. Men overordnet set er indholdet af lovforslaget i orden.
+
+(21)
+Tirsdag den 10. oktober 1995 (L 8)";Charlotte Antonsen
+60196;name_party;":
+Vi kan også støtte lovforslaget.
+Elisabeth Amold (RV):
+Tilslutning fra radikal side.";Jes Lunde
+60300;name_party;":
+Dette lovforslag er en god ting. Vi har sagt ja i
+Europaudvalget, og det var på høje tid, det blev
+gjort. Så der er også fuld tilslutning fra Fremskridtspartiet.
+Jørgen Lund (EL):
+For tredje gang i dag skal jeg beklage, at vores
+ordfører på området ikke kan være til stede, og
+jeg skal derfor prøve at fremføre Enhedslistens
+synspunkter på området.
+Vi støtter gerne det lovforslag, der foreligger
+her. Vi synes godt nok, det har været utrolig
+svært at finde ud af, hvad det drejer sig om. I
+den kommende udvalgsbehandling vil vi prøve
+at sikre, at de udvidede beføjelser, der bliver
+givet her, ikke kan misbruges af store koncerner
+til at genere mindre virksomheder på et urimeligt grundlag. Et af de mest nærliggende eksempler i den genre er den måde, vi har set
+McDonald bekæmpe pølsemanden McAllan på,
+og derfor vil vi tage det op under udvalgsbehandlingen.
+Så er der et spørgsmål, som går ud fra det, hr.
+Per Kaalund sagde, og som vi egentlig gerne vil
+have et svar på. Hvorfor skal der laves en lov?
+Det er jo reelt sådan, at EF-forordningen er gældende ret, uanset om vi vedtager dette lovforslag eller ej. Vi støtter selvfølgelig, at vi selv er
+lovgivere, men kan egentlig også have fornemmelsen af, at det er et skindemokrati. Har vi
+nogen som helst muligheder for at ændre forslaget under udvalgsarbejdet?";Annette Just
+61648;title_name;":
+Jeg vil blot svare hr. Jørgen Lund, at det er rigtigt, at der er en forordning, som har umiddelbar retskraft og har haft det fra den 1. juli i år.
+Grunden til, at vi alligevel vælger at fremsætte
+et lovforslag, er, at der er en række mindre afgørende administrative detaljer, som skal præciseres. Det er den eneste grund til det.
+I øvrigt vil jeg takke for en velvillig modtagelse af lovforslaget, og jeg ser frem til en hurtig og
+effektiv udvalgsbehandling.
+Hermed sluttede forhandlingen.
+
+161
+
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Carsten Koch
+62259;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 9:
+Forslag til lov om ændring af lov om afgift af
+ansvarsforsikringer for motorkøretøjer m.v.
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+62716;name_party;":
+50 pct.-afgiften på bilisters ansvarsforsikring
+kender vi. Udviklingen har imidlertid vist, at
+den ikke har været så hensigtsmæssig, som vi
+havde forventet. Tanken var jo, at den skulle
+finansiere de offentlige udgifter, der altid vil
+være i forbindelse med diverse trafikulykker.
+Det billede, der har tegnet sig i lovens funktionsperiode, er, at forsikringsselskaberne tegner forsikringer i puljer, så både ansvarsforsikringer, kaskoforsikringer og andre tillægsforsikringer går i én pulje, og at præmiebeløbet så
+specificeres - men ikke nødvendigvis som man
+havde forestillet sig fra starten - så meget til
+ansvarsforsikring, så meget til kasko osv. Når
+man ser på branchen under ét, viser tallene helt
+klart, at selskabernes provenu af netop ansvarsforsikringer er faldet ganske gevaldigt, og det
+kunne tyde på, at indbetalingerne til ansvarsforsikringer også er faldet, og at pengene er overført til andre typer forsikringer. Dermed formindskes provenuet til staten og dermed også
+midlerne til et godt formål, nemlig at dække de
+offentlige udgifter, som kommer i forbindelse
+med trafikuheld.
+
+162
+
+Tirsdag den 10. oktober 1995 (L 9)
+
+For at rette op på dette misforhold opererer
+lovforslaget med, at afgiften skal svares af det
+rent faktisk udbetalte skadeserstatningsbeløb og vel at mærke med 55 pet., når det drejer sig
+om personbiler og mindre vare- og lastvogne,
+og med 44 pet., når det drejer sig om visse busser. På den måde får vi lovgivningen bragt tilbage på sporet, så vi også får sikkerhed for, at det
+provenu, staten nødvendigvis skal have for at
+klare sine opgaver, står i det rigtige forhold til
+både forsikringssummen og alle de indbetalte
+penge.
+På den baggrund kan jeg på Socialdemokratiets vegne anbefale lovforslaget.";Erik Mortensen
+64482;name_party;":
+Venstre har ikke, som regeringen tilsyneladende
+har, mistillid til forsikringsselskaberne. Vi
+mener ikke, der er nogen beviser for, at forsikringsselskaberne flytter overskud fra ansvarsforsikring til kaskoforsikring for at undgå afgifter, og derfor mener vi slet ikke, der er nogen
+begrundelse for dette lovforslag.
+Dernæst finder vi forslaget meget rodet. Vi
+tror, det vil være meget svært at administrere i
+praksis, når der nu skal lægges afgifter på de
+udbetalte erstatninger, bl.a. fordi erstatningerne
+kommer dumpende ad åre og ikke lige 2 minutter efter, at skaden er sket.
+Der er en ting, jeg ikke helt forstår ved forslaget. Hvis man - som det fremgik af den socialdemokratiske ordførers tale - ønsker, at bilisterne skal betale inere til sygehusvæsenet, hvorfor
+så ikke bare pålægge dem en ekstra vægtafgift?
+Tør regeringen ikke tage det slagsmål, der vil
+komme som følge heraf, så det i stedet skal ske i
+det skjulte? Realiteten er jo, at det netop er bilisterne, der får denne ekstra udgift, fordi forsikringsselskaberne selvfølgelig vælter den ekstra
+afgift over på bilisterne.
+(Kort bemærkning).";Charlotte Antonsen
+65612;name_party;":
+Det var selvfølgelig ikke min hensigt at mistænkeliggøre nogen, heller ikke forsikringsselskaberne. Det var kun en meget klar konstatering
+af, at beløbene set under ét har skiftet karakter,
+så det hele er umuligt at overse. Provenuet af
+ansvarsforsikringer er faldet kolossalt, og det
+tilsvarende tal for kaskoforsikringer viser nøjagtig den modsatte tendens. Det var begrundelsen
+for min anbefaling.";Erik Mortensen
+66036;name_party;":
+Det Konservative Folkeparti kan ikke støtte lovforslaget om at ændre afgiften på ansvarsforsikringer. Vi mener, at bilisterne betaler nok i forvejen i form af høje vægt- og registreringsafgifter.
+Princippet om, at afgiften skal beregnes ud fra
+præmieudgiften, mener vi er sundt nok, men
+problemet er, at dette forslag medfører et større
+provenu. Assurandør-Societetet har i den forbindelse gjort opmærksom på, at der ikke længere er nogen sammenhæng mellem størrelsen
+af forsikringspræmierne og risikoen for offentlige udgifter. Det var ellers det, der var den
+gode, rationelle begrundelse for indførelsen af
+ansvarsforsikringer: De skulle sikre, at de, som
+forårsagede uheldene og ulykkerne, også bidrog
+til at betale de deraf følgende udgifter.
+Nu vil regeringen lade afgiften stige med ca.
+100 kr. pr. køretøj. FDM skønner, at hvis vi tager
+tallene fra 1994, vil den danske stat få omkring
+28 mia. kr. i kassen fra bilejerne i form af registreringsafgift, benzinafgift, dieselafgift, vægtafgift, ansvarsforsikringsafgift, CO2-afgift og vejbenyttelsesafgift.
+Hvis vi ser på samtlige udgifter til vejnettet såvel investeringer som vedligeholdelse - udgør
+de 7,5 mia. kr., mens udgifterne i forbindelse
+med ulykker udgør 2,5 mia. kr. Der bliver altså
+et årligt overskud til staten via det, skatteministeren har kaldt neutral skattepolitik, på over 18
+mia. kr. Selvfølgelig kan man fratrække omkostningerne på miljøområdet, men der er næppe
+tvivl om, at der i den sidste ende bliver ganske
+mange milliarder i overskud.
+Dette forslag er altså en indirekte skattekilde
+til finansiering af regeringens store udgifter, og
+det er i lyset af dette, man skal vurdere den nye
+afgift, som godt nok er skjult og camoufleret så
+godt som muligt.
+Lad mig også gøre opmærksom på, at regeringen åbent og ærligt erklærer, at omkring 50
+mio. kr. af afgiftsstigningen vil belaste erhvervene rent umiddelbart. Regeringen bryder jo
+ikke med sin erhvervsfjendske linje her. Hvor
+mange flere afgiftsstigninger vil vi se i det lange
+løb? Det ville være rart, hvis skatteministeren
+kunne fortælle, hvor mange afgifter han planlægger at belaste erhvervslivet og alle os private
+borgere med. Den går ikke i længden.
+Man skal ikke lægge ekstra skat på vores
+transport og infrastruktur, som trods alt er forudsætningen for, at vi kan producere og tjene til
+livets ophold. Det er noget, Det Konservative
+
+Tirsdag den 10. oktober 1995 (L 9)
+Folkeparti gerne vil arbejde for, og derfor kan vi
+ikke stemme for det foreliggende lovforslag.";Brian Mikkelsen
+68559;name_party;":
+Under åbningsdebatten i sidste uge kunne man
+flere gange opleve, at ordførere for Venstre og
+De Konservative gik herop og sagde, at de ikke
+kunne leve med at skulle lægge navn og stemmer til et finanslovforlig og lave en stram
+finanslov, når SF bagefter skulle have lov til at
+ødsle pengene væk i én uendelighed.
+Jeg synes, dette her er endnu et godt eksempel på, at virkeligheden faktisk er den modsatte.
+Virkeligheden er, at Venstre og De Konservative
+ikke vil være med til at sørge for den finansiering af samfundet, der skal til. Det vil de ikke,
+de siger nej gang på gang.
+Her har vi et lovforslag fra skatteministeren,
+som går ud på at erhverve. en indtægt på
+omkring 900 mio. kr., og der står i bemærkningerne, at man skønner, at man umiddelbart sikrer et provenu på omkring 200 mio. kr. Men
+Venstre og De Konservative vil ikke være med
+til det.
+Så bliver det altså andre partier, der skal
+finansiere det, og her synes jeg, at vi i SF må
+begynde at spørge os selv: Er det interessant for
+os at sidde og kigge på, at der bliver lavet
+finanslovforlig med Venstre og De Konservative, hvor man øser penge ud på forsvaret og øser
+penge ud på at lempe gave- og arveafgifter,
+mens SF skal tage det sure slid med at forsvare
+indhentningen af de skattekroner, som skal til,
+for at statsunderskuddet ikke skal blive alt for
+stort? Det er da i virkeligheden os, der skal
+begynde at tænke på den måde, ikke Venstre og
+De Konservative.
+Vi er positive over for lovforslaget, fordi vi vil
+medvirke positivt til, at staten får de indtægter,
+som skal til for at finansiere velfærdssamfundet.
+Men vi synes, det er lidt grotesk, at de, man sidder og forhandler finanslov med i øjeblikket Venstre og De Konservative - skal køre på fribillet.
+(Kort bemærkning).";Jes Lunde
+70329;name_party;":
+Hr. Jes Lunde gjorde netop opmærksom på den
+fundamentale forskel på borgerlig og socialistisk skattepolitik. Det er jo nemt nok at kradse
+en masse penge ind, og det gør man også i dette
+tilfælde. Der er i hvert fald et overskud på 15-16
+mia. kr. på alle de bilafgifter, der findes.
+
+163
+
+Både V og K er selvfølgelig ansvarlige partier,
+men vi vil ikke være med til at kradse flere skattepenge ind: vi vil hellere være med til at finde
+nogle besparelser og sørge for en mere effektiv
+udnyttelse af statens midler. Men det nytter altså ikke noget bare at blive ved med at kradse en
+masse penge ind og kalde det ansvarlig politik:
+det vil jeg snarere kalde en kolossalt uansvarlig
+politik.
+Elisabeth Amold (RV):
+Det sker meget ofte, at når man pålægger et
+bestemt objekt en afgift, vil der gennem årene
+udvikle sig en praksis, hvorefter det oprindelige
+mål med afgiften ikke opnås: således også med
+afgiften på ansvarsforsikringer for motorkøretøjer.
+Det er helt klart, at den præmie, som har
+været grundlaget for afgiftsberegningen, tilsyneladende ikke har gennemgået den samme
+udvikling som de reelle udgifter i forbindelse
+med de udbetalte erstatninger. Det vil sige, at
+der er et vist misforhold mellem den belastning,
+de pågældende uheld påfører samfundet, og
+den præmie, bilisterne skal betale. Derfor føler
+vi, det er rigtigt at ændre berègningsgnmdiaget,
+så det i højere grad afspejler både ulykkesfrekvensen og alvoren af de skader, som de pågældende bilister påfører samfundet.
+Til Venstres ordfører, som desværre ikke er til
+stede i øjeblikket, vil jeg sige, at forslaget om i
+stedet at pålægge bilisterne en øget vægtafgift
+lige præcis ikke vil opfylde det formål, jeg netop
+har nævnt. Vægtafgiften afspejler nemlig ikke
+den ulykkesfrekvens, den ulykkesalvor og de
+ekstra udgifter, som de pågældende bilister
+påfører samfundet, men det gør netop de udbetalte erstatninger. De er derfor en udmærket
+målestok for, hvordan trafikken påvirker samfundsøkonomien med øgede sundhedsudgifter
+og andre udgifter til erstatning osv. Derfor støtter vi lovforslaget og regner med, at det skål blive et værn mod yderligere dræn i statskassen.
+(Kort bemærkning).";Brian Mikkelsen
+72510;name_party;":
+Fru Elisabeth Arnold siger, at det er godt, der er ,
+en slags sammenhæng, så bilisterne dækker
+nogle af sygehusudgifterne. Jamen hvorfor skal
+det være så kompliceret? Hvorfor skal skattesystemet i Danmark være så kompliceret, at personer og virksomheder skal bruge uendelig
+megen tid på at hitte ud af reglerne og efterleve
+alle de krav, vi stiller herindefra?
+
+164
+
+.
+
+Tirsdag den 10. oktober 1995 (L 9)
+
+Jeg spurgte skatteministeren helt konkret, og
+det spørgsmål vil jeg gerne gentage til den radikale ordfører: Hvorfor ikke bare forøge vægtafgiften? Er det, fordi man ikke tør tage det slagsmål, det vil medføre, fordi det bliver synligt for
+de danske bilister, at regeringen med dette forslag gør, det endnu dyrere at benytte privatbil?
+(Kort bemærkning).";Charlotte Antonsen
+73295;name_party;":
+Angående skattesystemets kompleksitet vil jeg
+blot sige til fru Charlotte Antonsen, at det ikke
+er lykkedes for de mange borgerlige skatteministre - herunder Venstres skatteministre - at forenkle skattesystemet væsentligt, selv om de har
+haft adskillige år til deres rådighed.
+Med hensyn til pålægning af afgifter på
+ansvarsforsikringer er det jo sådan, at der for
+mange år siden var en fornemmelse af, at de
+bilister, der var meget aktive i trafikken og derfor forårsagede skader, også skulle være med til
+at bære en ekstra andel af sundhedsudgifterne, i
+stedet for at samtlige skatteydere. - også de, der
+bare kørte på cykel eller slet ikke kørte nogen
+steder og i øvrigt ikke var involveret i uheld skulle bidrage til denne andel. Derfor er det rigtigt at sige: Hvis der skal være en ekstra belastning af trafikanter, som er meget udsat for at
+blive indblandet i uheld, kan man enten gøre
+det ved at lægge den på bilernes pris, ved at
+lægge den på registreringsafgiften, på vægtafgiften, på de opkrævede præmier eller på de
+udbetalte erstatninger.
+Ideen med præmien havde egentlig været
+meget god, hvis det var sådan, at præmiens
+størrelse afspejlede de faktiske omkostninger.
+Men der er noget, der tyder på, at den ikke længere gør det, og derfor er det rigtigt at vende det
+om og sige: Det er de udbetalte erstatninger, der
+skal være opkrævningsgrundlag, og ikke længere præmierne.
+Men det er stadig sådan, at fra radikal side
+mener vi, det må være rimeligt at pålægge bilisterne en ekstra omkostning i forbindelse med
+de udgifter, de påfører samfundet - ikke blot
+sundhedsudgifter, men også trafikudgifter i
+øvrigt, vejinvesteringer osv. Det er udgifter, som
+specifikt påføres samfundet af bilisterne.";Elisabeth Arnold
+75020;name_party;":
+Med hensyn til det forrige lovforslag, om
+tobaksafgifterne, blev det gjort klart, at formålet
+med afgiften er, at man ønsker at reducere folks
+forbrug.
+
+Det samme kan jo ikke helt være tilfældet
+med en afgift på en lovpligtig forsikring, for al
+den stund forsikringen er lovpligtig, kan man
+ikke undslå sig for at have den, selv om afgifterne bliver nok så høje. Og det er jo smart fundet
+på, for uanset hvilken adfærd man har, fanger
+skattefar én, og man kommer til at betale. Men
+blandt de vise embedsmænd i Skatteministeriet
+har man opdaget, at det kunne jo være, disse
+forsikringspræmier indgik som konkurrenceparameter, så hvis man tegner livsforsikring og
+husforsikring og alt muligt andet, får man det
+hele lidt billigere, end hvis man kun har en
+enkelt forsikring. Og hvad gør man så ved dét?
+Så flytter man beregningen.
+Men jeg tror ikke, det er forklaringen. Nej,
+forklaringen er den, at i dag er de danske bilejere ved at være rigtig godt trætte af at blive flået.
+De er ved at være rigtig godt trætte af at læse
+sammenligriinger med forholdet i andre europæiske lande og se, at Danmark er det land i
+Europa, der har den værste og voldsomste
+beskatning af biler. Og et af de steder, hvor det
+er meget synligt, er på girokortet fra forsikringsselskabet, for øverst står præmien, og derunder
+står der en statsafgift.
+Men kunne man nu flytte det, så det ikke var
+noget, der så tydeligt optrådte dér, og man ikke
+generede samtlige bilejere, hver gang man skulle opkræve sin afgift, har man jo skjult det. Og
+nu vil man altså lave det om til bare at være en
+bogholderipostering i forsikringsselskabernes
+regnskaber. Det er smart udtænkt, for det er
+med til at skjule den afgift, folk betaler.
+I den forbindelse forstår jeg godt, at CD ikke
+er til stede i salen, for i forbindelse med portrætteringen af hr. Erhard Jakobsen for nylig gentog
+man det budskab, at CD er bilejernes parti. CD
+må have det meget svært med at være med i en
+regering, som nu skal ud og plukke 200 mio. kr.
+ekstra op af lommen på de danske bilejere med
+dette forslag. Det er usympatisk, og det er igen
+et forsøg på at skjule, hvor meget folk reelt betaler i skatter og afgifter i Danmark, og det vil vi
+ikke være med til. Vi vil arbejde for, at skatter
+og afgifter bliver så synlige, som det overhovedet er muligt, og det allerbedste system for os
+ville være - også på andre områder - at hver
+enkelt borger simpelt hen fik edb-udskrifter
+over, hvor meget de betaler, og hvad pengene
+går til. Det ville have en så pædagogisk virkning, at skatteministeren ville blive landsforvist
+i løbet af meget kort tid.
+Vi kan desværre kun give dette lovforslag syv
+nejstemmer, men det vil vi også gøre.
+
+Tirsdag den 10. oktober 1995 (L 9)
+(Kort bemærkning).";Kim Behnke
+77761;name_party;":
+Jeg skylder vel bare at sige til hr. Brian Mikkelsen, at beskrivelsen af forskellen mellem vores
+form for skattepolitik og Venstres og De Konservatives form efter min mening er helt forkert.
+Jeg kan da godt forstå, at Venstre og De Konservative helst vil sætte skatterne ned. Det er det
+sjoveste, og det vil vi også gerne i SF, for det er
+da en god sport at gøre folk glade. Problemet er
+bare, at vi har et underskud på statsfinanserne,
+som er ganske voldsomt, og derfor er spørgsmålet ikke, om man skal sætte skatterne op, eller
+om man skal spare på forskellige områder. Man
+er faktisk nødt til at gøre begge dele for at få
+balance i dette lands økonomi, og det er det, vi
+påtager os.
+Og her er det, Venstre og De Konservative
+forsøger at få det til at se ud, som om de kan
+nedsætte afgifterne på en stribe områder - en
+række ukloge områder i øvrigt: benzinafgifter,
+grønne afgifter og den slags, hvor det vil være
+miljømæssigt forkert at nedsætte afgifterne.
+Men de forsøger at give det udseende af, at man
+kan nedsætte skatter og afgifter i milliardklassen og alligevel få balance i statsfinanserne, og
+det kan man ikke. Den økonomiske politik, Venstre og De Konservative står for i disse år, hænger simpelt hen ikke sammen.
+(Kort bemærkning).";Jes Lunde
+79030;name_party;":
+Jeg bliver nødt til at sige til hr. Jes Lunde, at det
+drejer sig jo ikke om, at Det Konservative Folkeparti vil have nedsat afgiften. Vi vil blot have en
+status quo-afgift.
+Og med hensyn til, at vi skulle finansiere
+vores alt for store statsunderskud ved at kradse
+nogle flere skatter ind, kan vi da godt kradse
+30-33 mia. kr. ind, for vi vil hurtigt kunne finde
+de 30-33 mia. kr. Men problemet er jo - og det
+siger almindelig, basal økonomisk teori - at hvis
+man kradser så mange penge ind i skat, får det
+altså en negativ dynamisk effekt: Der kommer
+mindre gang i samfundshjulene, og så får vi alligevel færre skattekroner. ind.
+Det gælder om at finde den tigtige balance
+mellem det at hente nogle penge ind i skat og
+foretage nogle besparelser, og vi henter jo mange penge ind i skat. Det Konservative Folkeparti
+vil godt hente penge ind i skat, selv om vi henter
+alt for meget ind i dag, men der skal være den
+rigtige balance, for ellers får vi ikke ordentlig
+gang i samfundshjulene.
+i
+
+165
+
+Og netop hjulene er jo vigtige i denne diskussion, for hvis bilisterne bliver plukket endnu
+mere, som man vil gøre med dette forslag, gør
+man det endnu sværere for dem og sætter
+erhvervslivet tilbage. Man sætter stop for
+erhvervsudviklingen mellem de forskellige
+landsdele, fordi mange erhvervsgrene bliver
+ramt af forslaget, og det passer altså ikke med
+den almindelige økonomiske politik - også fra
+regeringens side - at det skal være lettere at
+være virksomhedsejer. Nu gør man det sværere.
+Jørgen Lund (EL):
+Da Enhedslistens ordfører på området ikke kan
+være til stede, skal jeg oplyse, at Enhedslisten
+kan støtte lovforslaget, idet vi mener, at det griber ind over for en indirekte skattetænkning i
+forsikringsbranchen, og det er vi udmærket tilfredse med.";Brian Mikkelsen
+80821;title_name;":
+Fru Charlotte Antonsen hævdede, at Venstre
+ikke havde den mistillid til forsikringsselskaberne, som regeringen påstås at have. Jeg har
+den allerstørste tillid til forsikringsselskaberne.
+Jeg synes, de opfører sig utrolig professionelt.
+Jeg ville være mere betænkelig, hvis forsikringsselskaberne ikke var i stand til at profitmaksimere på de givne vilkår. Hvis de ikke profitmaksimerede, var forsikringsfolkene nogle dårlige handelsfolk, nogle dårlige forretningsfolk.
+Det er klart, at de gør det, når reglerne er, som
+de er, og der er muligheder for at ændre præmien. Når afgiften kun lægges på den del af forsikringen, man typisk betaler til en bil, ville det
+være foruroligende, hvis det ikke var sådan, at
+forsikringsselskaberne var i stand til at profitmaksimere og dermed ændre dé præmier, som
+skal betales.
+Jeg har altså fuld tillid til forsikringsselskaberne. Jeg foreslår blot, at vi i lyset af, at de er
+professionelle, indfører en lille ændring, så vi
+kan opnå det samme provenu, som vi ville have
+opnået, hvis reglerne var blevet konstrueret på
+den måde, der rerit faktisk var tilsigtet.
+Igen har jeg kunnet konstatere, at Det Konservative Folkeparti er på vild flugt væk fra en fornuftig CO2-politik og fra de tilkendegivelser, de
+selv er kommet med i forbindelse med de miljøpolitiske målsætninger: nien dét er jo ikke noget
+nyt. Vi kender det jo fra foråret, og her må vi så
+bare konstatere det en gang til.
+Jeg må også konstatere, at hr. Jes Lunde, som i
+øjeblikket er i gang med at smykke sig med en
+
+166
+
+Tirsdag den 10. oktober 1995 (L 9)
+
+finanspolitisk ansvarlighedsglorie af ganske
+betragtelige dimensioner, for ikke så lang tid
+siden var med til at pålægge regeringen at fremsætte et lovforslag, som skulle give en finanspolitisk lempelse på ikke mindre end 140 mio. kr. den berømte cd-afgift - så jeg bliver da glad,
+hvis hr. Jes Lunde vil vise ansvarlighed og
+bidrage til den almindelige finanspolitiske
+stramning. Men så skal hr. Jes Lunde i hvert fald
+starte 140 mio. kr. før os andre, og jeg glæder
+mig til, at den ansvarlighed også bliver udmøntet i konkret tilslutning til de forskellige lovforslag.
+Jeg skal i øvrigt takke for forhandlingen og
+henvise til udvalgsbehandlingen.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+Første næstfonnand (Ivar Hansen):
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 10:
+Forslag til lov om ændring af lov om vægtafgift af motorkøretøjer m.v. (Forhøjelse af
+udligningsafgiften).
+Af skatteministeren (Carsten Koch).
+(Fremsat 4/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Carsten Koch
+83650;name_party;":
+Dette lovforslag må nok nærmest betegnes som
+et konsekvensforslag, nemlig en konsekvens af
+vedtagelsen umiddelbart før sommerferien af en
+ekstraordinær forhøjelse af benzinpriserne til
+ikrafttrædelse pr. 1. januar 1996.
+
+I og med, at dieselolie er et billigere produkt
+end benzin, har man forsøgt at holde et vist
+niveau mellem dieseldrevne og benzindrevne
+biler, så der ikke blev en umådelig stor gevinst
+ved at køre på diesel, og vi skal selvfølgelig se
+forslaget i lyset heraf. En forhøjelse af benzinprisen bør naturligvis medføre en forhøjelse af
+dieselafgiften, og det udmøntes her i den
+såkaldte udligningsafgift på dieselbiler.
+En gennemsnitsberegning viser, at benzinforhøjelsen vil medføre en merudgift på ca. 500 kr.
+for en gennemsnitstrafikant i en gennemsnitsbil,
+og derfor foreslås udligningsafgiften for dieselbiler forhøjet med samme beløb og i øvrigt gradueret for de øvrige typer dieseldrevne biler,
+som tilfældet også er i dag.
+Ud fra ønsket om at bevare forholdet mellem
+diesel og benzin kan vi fra Socialdemokratiets
+side anbefale lovforslaget, selvfølgelig ikke
+mindst på baggrund af, at dieseldrevne biler
+heller ikke er til den store fordel for vores miljø.";Erik Mortensen
+84856;name_party;":
+Som den socialdemokratiske ordfører lige har
+redegjort for, er lovforslaget en udmøntning af
+det forlig, regeringen lavede med venstrefløjen
+lige efter sidste års finanslovforhandlinger.
+Som bekendt var Venstre stærk modstander
+ikke alene af forliget, men også af hele den
+måde, hvorpå man først forhandler finanslov
+med den ene del af salen for derefter at gå ud og
+aftale ekstra afgifter med den anden del af salen.
+Men det er blot én af grundene til, at Venstre går
+imod forslaget. Vi er også imod det, fordi vi
+mener, det er et dårligt forslag. Man hæver
+afgiften på dieseldrevne biler, og dermed
+pålægger man erhvervslivet ekstra afgifter. Det
+giver færre job, og jeg kunne godt tænke mig at
+høre fra skatteministeren, hvor mange færre job
+der bliver tale om her. Vi har jo for nylig haft en
+diskussion med statsministeren her i salen om
+skabelsen af rigtige job, og her er i hvert fald et
+eksempel på, at der bliver færre rigtige job, og
+det er imod Venstres ønske.";Charlotte Antonsen
+85850;name_party;":
+Først så vi de enorme stigninger i benzinafgiften. De blev lanceret som grønne afgifter, og de
+skulle kompenseres med lettelser i den personlige skat.
+Men med en socialdemokratisk ledet regering
+er det nok en illusion at tro på lettelser i det
+samlede skattetryk.
+
+Tirsdag den 10. oktober 1995 (L 10)
+Nu kommer så endnu en stor stigning, denne
+gang en dieselafgiftsstigning på 500 kr. for en
+almindelig personbil. Det sker, som vi har hørt
+fra de foregående talere, i lyset af den store
+afgiftsstigning på benzin, vi oplevede i foråret,
+og det er også for at sikre, at folk ikke går over
+til dieseldrift. Man skriver i lovforslaget, at
+dieselen er mere miljøbelastende end benzin.
+Men flere eksperter har rent faktisk sat spørgsmålstegn ved, om det altid er tilfældet. I Sverige
+har man for eksempel en ren dieseltype uden
+partikler, der koster 60 øre mere pr. 1, og som er
+meget renere end benzin.
+Men lad os se på effekten af dette forslag. Vi
+har i forvejen set en regering, der ikke har holdt
+sig tilbage fra at belaste erhvervslivet med en
+stribe konkurrenceforvridende afgifter - på
+trods af meget flotte ord, må jeg erkende, fra
+både skatteministeren og erhvervsministeren men i dette tilfælde indrømmer regeringen helt
+åbenlyst, at dens forslag vil gå ud over såvel
+privatbilisterne som erhvervslivet. Fra lovforslagets bemærkninger kan jeg citere, at forslaget
+kan ses »som en ekstra udgift for dele af
+erhvervslivet.«
+Det fremgår også helt klart af provenuberegningerne, at langt størstedelen, 90 mio. kr., skal
+hentes ved at øge afgiftspresset på varevogne og
+visse lastbiler. Det må man jo sige er ærlig snak,
+men det er ikke søde toner i erhvervslivets ører,
+og derfor kan jeg selvfølgelig undre mig over, at
+erhvervslivets positive vogter herinde, CD, heller ikke er til stede under denne sag. Nu lover
+man altså heller ikke nogen kompensation, og
+det er måske, fordi regeringen erkender, at den
+ikke vil kompensere, og at den ikke vil give
+skattelettelser, at den fortsætter denne lange
+række af såkaldte grønne afgifter.
+Da man tilmed rammer de mindre køretøjer
+ekstra hårdt, mens man ikke planlægger videre
+forhøjelser for de helt store køretøjer over 12 t,
+vil det være en ekstra klods om benene på de
+små og mellemstore virksomheder, som flertallet her i Folketinget ellers altid taler så smukt
+om, og som man er sikker på vil være med til at
+sætte skub i Danmark og være med til varigt at
+nedbringe arbejdsløsheden.
+Vi vil ikke acceptere, at regeringen langsomt,
+men sikkert saver den gren over, vi sidder på.
+Det Konservative Folkeparti kan af alle disse
+grunde slet ikke acceptere dette lovforslag og vil
+derfor stemme imod.
+
+167";Brian Mikkelsen
+88520;name_party;":
+Ja, Venstre og De Konservative fortsætter jo
+med at være afvisende over hele linjen.
+SF mener, at vi har for megen biltrafik i Danmark. Der køres alt for meget i bil, og der forurenes alt for meget. Det forøger den globale
+CO2-forurening og drivhuseffekten og medvirker dermed til de økologiske katastrofer, der
+kan komme ud af dét. Derfor er SF selvfølgelig
+det rigtige sted at henvende sig, hver eneste
+gang man diskuterer at gøre det dyrere at køre i
+bil. Det er simpelt hen nødvendigt af miljømæssige grunde, og derfor er vi også positive over
+for et forslag som dette.
+Så kan jeg forstå, at skatteministeren - hvis
+han ellers kan få tid til at høre efter - mener, at
+SF er 140 mio. kr. bagud på grund af cd-forslaget. Det kan selvfølgelig være, at det er det, hr.
+Brian Mikkelsen er henne for at forklare skatteministeren: at af bemærkningerne til beslutningsforslaget om cd-afgiften fremgik det, at
+konstruktionen skulle være provenuneutral,
+fordi der kommer en øget omsætning på musikområdet, som så i kraft af momsen giver de indtægter, som skatteministeren kunne miste på
+anden vis. Det er jeg sikker på at hr. Brian Mikkelsen kan docere lidt om. Det var ikke meningen med det forslag at opnå en lempelse, hvor
+man bare øser penge ud. Det er der andre der er
+meget bedre til, bl.a. De Konservative og Venstre, som får lempelser i arve- og gaveafgiften.
+Så er det rent ud sagt at øse penge ud, og så er
+der tale om flere hundrede millioner kroner.
+Hvis skatteministeren endelig synes, vi er
+bagud med hensyn til at skaffe de penge, der
+skal til for at finansiere velfærdssamfundet, så
+kan skatteministeren jo bare kigge på de forslag,
+vi f.eks. har haft på benzinprisområdet og på en
+række andre miljøområder, hvor vi selvfølgelig
+er villige til at skaffe de penge, der skal til. Hvis
+vi skal nedsætte skatter og afgifter - og det kan
+vi jo godt, for selvfølgelig skal man ikke bare
+sætte dem op, selvfølgelig skal man også en
+gang imellem kigge på, om skattesystemet fungerer rimeligt, og om der er steder, hvor man
+burde nedsætte skatterne, og afgifterne - så er
+det, vi vil, at nedsætte skatten på de laveste indkomster. Det vil vi faktisk komme med et forslag om senere på efteråret, for det synes vi der
+er fornuft i.
+Vi kan også godt nedsætte afgifterne på sådan
+noget som cd'er, som giver noget mere musik i
+livet, hvilket jeg synes er udmærket, men at
+nedsætte afgifterne på stærkt forurenende ting,
+
+168
+
+Tirsdag den 10. oktober 1995 (L 10)
+
+sådan som De Konservative og Venstre vil, er jo
+helt forkert, og at øse penge ud på skattelettelser
+til de allerrigeste i samfundet er også helt forkert. Det er den form for politik, som vi vender
+os imod. Lad os få en økonomisk ansvarlighed,
+som også er koblet med god miljøpolitik og god
+social fordelingspolitik, så er SF med.";Jes Lunde
+91333;name_party;":
+Hvis vi begyndte helt forfra og skulle konstruere et afgiftssystem til transportsektoren, så kom
+vi ikke uden om at skulle lave et udredningsarbejde, der ville ende med at vise, at vi skulle
+beskatte både drivmidlerne og selve køretøjerne
+ganske anderledes, end vi gør i dag. Der er
+ingen tvivl om, at den beskatning, der er på
+transportsektoren i dag, ikke afspejler den
+belastning, der er af miljøet, og den afspejler
+heller ikke de ønsker, der er om at få bragt en
+meget større del af transporten over på enten
+skinner eller vandtransport.
+Derfor er der i alle disse småjusteringer af
+afgifterne på transportområdet, afvejninger af,
+hvad det pågældende erhverv kan tåle af konkurrenceforvridning, hvad det pågældende
+erhverv kan tåle i forhold til et parallelt erhverv,
+hvad den pågældende biltype kan tåle i forhold
+til andre biltyper, osv. osv. Derfor er det meget
+små justeringer, og der er ingen, der kan få mig
+til at tro, at disse ændringer vil påvirke vognmandserhvervet i væsentlig grad.
+Det Radikale Venstre går altså ind for disse
+ændringer, ligesom vi i sin tid gik ind for forhøjelsen på 17 øre af benzinafgiften.
+Til fru Charlotte Antonsen, som på Venstres
+vegne endnu en gang talte om den store fornærmelse, det er mod Venstre, at man indfører forskellige former for afgifter med den ene side af
+Folketinget og så laver forlig med den anden
+side, vil jeg blot sige, at det jo altså er en meget
+ny puritansk linje, Venstre her fremfører. Jeg
+husker, at der i hr. Anders Fogh Rasmussens
+ministertid blev lavet et meget stort forlig, hvori
+samtlige af Folketingets partier var involveret,
+og hvor man påvirkede såvel tobaksafgifterne
+som parfumeafgifterne, benzinafgifterne, dieselafgifterne og spiritusafgifterne i et kæmpemæssigt forlig, hvor alle havde forlig med hinanden
+på kryds og tværs, men ingen med alle. Det var
+jo også det, der gav anledning til den muntre
+bemærkning om, at skatteministeren var en af
+de få her i landet, som kunne trylle dieselolie om
+til parfume.
+
+Venstre har altså også udvist stor kreativitet i
+forbindelse med afgiftsforliget for netop at værne statskassen mod frafald af provenu og for at
+sikre, at balancen mellem de forskellige afgiftsobjekter blev opretholdt. Så jeg giver ikke meget
+for Venstres gloriepudsning i denne forbindelse.";Elisabeth Arnold
+93635;name_party;":
+Da benzinafgiften senest blev forhøjet, stemte
+Fremskridtspartiet imod. Meget apropos det
+seneste indlæg har vi kun været med til at stemme for noget i forbindelse med benzinafgifter én
+gang. Det var i 1990 - dengang de blev sat ned og det var noget, der blandt andet var med til at
+flytte folks forbrug fra almindelig benzin til blyfri benzin. Da viste det sig, at incitamentet til at
+få folk til at ændre adfærd var lavere skatter.
+Lavere skat på blyfri benzin fik folk til at bruge
+blyfri benzin.
+Det ser ud, som om regeringen har den opfattelse, at man kun kan ændre folks adfærd ved at
+forhøje afgifterne, og det er jo, fordi man i virkeligheden ikke ønsker at ændre adfærden. Det,
+man reelt ønsker, er at få nogle flere penge i
+statskassen, og det er usympatisk såvel i forbindelse med dette forslag som i forbindelse med
+så mange andre forslag.
+Med hensyn til bemærkningen i skatteministerens fremsættelsestale om, at diesel er
+væsentlig lavere beskattet end benzin, ville jeg
+godt have haft et lidt større spænd i afgifterne,
+hvis ordet væsentligt skulle bruges. Jeg synes
+bestemt ikke, der er tale om nogen væsentlig
+forskel: jeg synes, der er tale om en glædelig forskel. Og hvorfor så det? J 0, dér skal vi over i den
+afdeling, der hedder erhvervslivet. Det fremgår
+jo klart og tydeligt, hvem dette her kommer til at
+ramme: Det kommer til at ramme det danske
+erhvervsliv. Det er primært de danske erhvervsvirksomheder, som bruger dieseldrevne køretøjer.
+Hurra, endelig er der noget, som er til gavn
+for det danske erhvervsliv, endelig er der noget,
+hvor dansk erhvervsliv har lidt medvind i ryggen! Og hvad gør skatteministeren så? Så sidder
+han med millimeterskruen og måler sig frem til,
+at her er en lille forskel, og den skal man med
+det samme have hentet hjem, så man kan få 125
+mio. kr. ekstra ned i statskassen. Det hører ingen
+steder hjemme!
+Det kan da godt være, at dette her ikke betyder lukning af tusinder af arbejdspladser, eller
+hvad man ellers kunne hævde. Det gør det sikkert ikke. Men det er endnu en skovlfuld jord
+
+Tirsdag den 10. oktober 1995 (L 10)
+oven på det læs af danske afgifter, som det danske erhvervsliv i forvejen slæber rundt på, og
+det er derfor, man skal stemme imod dette forslag.
+Den socialdemokratiske ordfører gjorde
+meget ud af, at der er tale om gennemsnitsbetragtninger, og det bærer forslaget også præg af.
+Forslaget bærer jo netop præg af, at man ikke
+har foretaget nogen dyberegående analyser af,
+hvordan de forskellige typer køretøjer bliver
+påvirket osv. Nej, i ministeriet har man spurgt:
+Hvad er facit? Og facit er, at der skal 125 mio. kr.
+ekstra i statskassen, og så orker man ikke at regne det ud for hver enkelt type. Så siger man: Vi
+anstiller nogle gennemsnitsbetragtninger og
+siger, at det er 500 kr. pr. næse, og det går jo
+nok. For man kender facit på forhånd: Man skal
+have pengene i statskassen. Ellers ville man
+aldrig have anstillet disse gennemsnitsbetragtninger, men have set på de enkelte typer køretøjer. For jeg er da enig med dem, der har sagt, at
+der er dieselkøretøjer, som bestemt ikke er til
+gavn for miljøet: men der er jo til gengæld også
+dieselkøretøjer, som er gået over til at køre på
+let diesel. Jeg tror endda, at DSB, når de bruger
+let diesel, kalder den miljødiesel. Og nogle kalder den oven i købet grøn diesel.
+Det korte af det lange er, at hvis man virkelig
+ville gavne miljøet - og det kunne der være
+gode argumenter for - så skulle man benytte det
+samme incitament som dengang, da vi fik folk
+til at bruge blyfri benzin, nemlig afgiftsnedsættelser. Det, man gør her, er bare at skaffe nogle
+flere penge til statskassen. Og så alle miljøargumenterne! De er igen blot noget cellofan, som
+man lægger omkring afgifterne i håb om, at de
+så glider lettere ned i den almene befolkning.
+Men folk skal ikke lade sig narre. Dette her er
+125 mio. kr. ekstra til fædrelandets fordærv.
+Jørgen Lund (EL):
+Jeg ved ikke, om det kommer som en overraskelse for nogen, hvis jeg indleder med at sige,
+at vores ordfører på området ikke kan være til
+stede, og at det derfor er mig, der skal oplyse, at
+Enhedslisten støtter dette forslag. Det gør vi
+selvfølgelig både af hensyn til miljøet og af hensyn til statens finanser. Og i de kommende
+finanslovforhandlinger vil vi arbejde for, at det
+provenu på 125 mio. kr., der omtales, bliver
+brugt til en omstilling af transportsektoren i retning af en bedre kollektiv trafik. Det er vores
+indgangsvinkel til det.
+II
+
+169";Kim Behnke
+98109;title_name;":
+Efter min mening anlægger flere partier i dag en
+meget kedelig og smålig taktisk vinkel på
+næsten alle disse forslag. Jeg synes, man for en
+gangs skyld skulle vise lidt format og sige: Vi
+står her over for en ret interessant problemstilling: Der er et opsving, som er godt i gang, og
+der er meldinger om, at der kan være muligheder for overophedning.
+Sidst der var en tilsvarende faresituation,
+opfangede man overhovedet ikke signalerne,
+men lod bare økonomien løbe løbsk - det var jo
+i midtfirserne under den daværende borgerlige
+regering - og det fik betydelige negative
+beskæftigelsesmæssige og erhvervsmæssige
+konsekvenser. Det er vi meget optaget af ikke
+kommer til at ske igen. Faktisk er det eneste, der
+holder skatteministeren vågen om natten i øjeblikket, hvordan vi får klaret skærene, hvordan
+vi får holdt opsvinget på sporet, hvordan vi sørger for, at opsvinget får en sådan karakter, at
+der ikke sker overophedning. Det synes jeg man
+skal tænke på. Det kan give anledning til en
+sund økonomisk betragtning, der går ud på, at
+vi må have en finanspolitik, der sikrer en rimelig finanspolitisk stramning.
+Det indebærer selvfølgelig en stram udgiftspolitik, sådan som regeringen har lagt op til ingen tvivl om det - men det indebærer også en
+beskeden samling afgiftsforhøjelser, som i hvert
+fald for langt de flestes vedkommende er karakteriseret ved samtidig at have et udmærket miljøpolitisk sigte.
+Så jeg synes, vi skulle enes om, at dette her
+faktisk er en fornuftig pakke, som tilgodeser et
+ansvarligt økonomisk forløb, som også er til
+gavn og glæde for det danske erhvervsliv, og så
+ikke sidde og lave alle disse småfnidderberegninger på det ene og det andet. Det afgørende
+er, at vi får holdt det økonomiske opsving rimeligt på sporet, og det synes jeg disse forslag lægger op til. Og lad så alle disse små, taktiske
+overvejelser ligge til en anden god gang.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+
+170
+
+Tirsdag den 10. oktober 1995 (L 10)";Carsten Koch
+100177;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Den sidste sag på dagsordenen var:
+6) Første behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om indkomstskàt og fonnueskat for personer m.v.
+(personskatteloven) og lov om fordeling mellem staten, kommunerne og amtskommuneme
+af skattenedslaget som følge af personskattelovens skatteloft. (Ændring af det skrå skatteloft for indkomståret 1996 m.v.).
+Af skatteministeren (Carsten Koch).
+(Fremsat 5/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Margrete Auken
+100831;name_party;":
+Skatteloftet lægger som bekendt loft over marginalskatten og sikrer, at ingen del af indkomsten beskattes med mere end en given procent,
+og i 1995, altså indeværende år, er det 63,5 pet.
+Skatteloftet virker for skatteydere, der bor i
+kommuner, hvor summen af kommuneskatten
+og amtsskatten er højere end 29 pet., og hvor
+den samlede skat inklusive statsskatten dermed
+er højere end 63,5 pet. Skatteydere, der kommer
+over dette loft, får et nedslag i den del af statsskatten, der kaldes topskatten.
+Skatteloftet skal ifølge den skattereform, der
+blev vedtaget for et par år siden, nedsættes år
+for år for i 1998 og fremefter at være 58 pct. Fra
+1996 skulle der ske en nedsættelse med 2,5 pet.,
+fra 63,5 pet. til 61 pet. Det foreliggende lovforslag, L 11, foreslår stadig væk en nedsættelse,
+men alene på 1,5 pet., til 62 pet., hvilket indebærer, at der først gives nedslag, når summen af
+kommune- og amtsskatter er på over 30 pet.
+Nedsættelsen eller aftrapningen af skatteloftet hviler på den forudsætning, at kommune- og
+amtsskatterne skulle være uændrede i forhold
+til 1993-niveauet, men i 1995 er de steget med
+0,4 pet., og i 1996 vil de med meget stor sand-
+
+synlighed - skatteprocenterne er jo i disse uger
+ved at blive vedtaget i kommunerne og amterne
+- stige med yderligere 0,5 pet. Kommunerne og
+amterne har altså sammenlagt over disse to år
+hævet skatten med 0,9 pet. eller næsten 1 pet.
+Derfor dette forslag om kun at sænke skatteloftet til 62 pet.
+Ved kun at sænke skatteloftet til 62 pct. i stedet for som oprindelig fastsat 61 pet. kommer
+ca. 625.000 skatteydere, der betaler topskat i de
+aktuelle kommuner, også til at betale deres forholdsmæssige andel af stigningen i kommuneog amtsskatten, og ca. 130.000 af disse vil ikke få
+nedslag i topskatten for 1996.
+Socialdemokratiet kan ud fra en rimelighedsbetragtning støtte dette forslag om en ændring
+af skattereformen. Nedslag i topskatten giver
+staten et provenutab, og det provenutab skal
+amter og kommuner, der har forhøjet skatten ud
+over 1993-niveauet, være med til at finansiere.
+Det lovforslag, der foreligger nu, indebærer,
+at kommunerne og amterne i 1996 på uændrede
+vilkår skal medfinansiere nedslag i topskatten.
+Medfinansieringen udgør ca. 300 mio. kr. Når
+skatteloftet kun sænkes til 62 pet. i stedet for 61
+pet., opstår et merprovenu på ca. 475 mio. kr., og
+ifølge lovforslaget får kommunerne og amterne
+ikke andel i denne provenugevinst, som fuldt
+ud tilfalder statskassen.
+Loven gælder kun for 1996. Det vil sige, at
+skatteloftet for 1997 som forudsat ved skattereformen bliver 60 pet., hvilket bygger på den
+vurdering, at den kommunale økonomi er så
+stærk og god, at man vil kunne forudse nedsættelser i kommuneskatten med ca. 0,5 pet. i 1997.
+Socialdemokratiet kan anbefale, at loven kun
+gælder for 1996.
+Til sidst vil jeg nævne, at skattekortene for
+1996 jo meget snart skal udsendes, og vi kan
+derfor anbefale en hurtig behandling af lovforslaget.";Per Kaalund
+103785;name_party;":
+Jeg kan godt forstå, at ordføreren for Socialdemokratiet, hr. Per Kaalund, gav en meget teknisk redegørelse for dette forslag, for hvis man
+lidt mere klart skal sige, hvad det handler om,
+ja, så er det, at regeringen bryder sine egne skatteløfter fra skattereformen, idet man simpelt hen
+ikke gennemfører den marginalsænkning af
+indkomstskatten, som man lagde op til i skattereformen.
+Derfor kan vi i dag med dette forslag konstatere, at regeringen simpelt hen ikke holder sine
+
+Tirsdag den 10. oktober 1995 (L 11)
+løfter til befolkningen, at man firer på sine løfter
+om at sætte skatten på lønindkomster ned, og
+det tror jeg er med til at fremkalde den politikerlede, som bliver diskuteret så meget netop i
+denne tid: at befolkningen aldrig kan regne
+med, hvad politikere siger, eller hvad en regering siger - lige så snart et valg er overstået, bliver der igen åbnet døre for i dette tilfælde skattestigninger.
+Da man lavede skattereformen, talte man om
+en sammenhængende skattereform. Først plagede man danskerne med en stribe grønne afgifter, men man forsøgte at dæmpe utilfredsheden
+hos danskerne ved at sige, at man jo samtidig
+reducerede indkomstskattetrykket, og at de
+hårdt skatteplagede danskere dermed ikke ville
+komme til at mærke det så slemt.
+Nu ser vi altså, at man har droppet reduktionen af marginalskatterne, og så siger ordføreren
+for Socialdemokratiet, hr. Per Kaalund, at det vil
+ikke ske igen næste år. Jamen hvor er garantien
+for, at det ikke vil ske igen og igen og igen? Vi
+har lige gennemgået en række forslag fra regeringen om øgede afgifter - på trods af, at den
+netop har lovet, at der ikke ville komme mere,
+og at den nu lagde op til en marginalskattesænkning og et reduceret skattetryk.
+Når Venstre er særlig ophidset over denne
+sag, er det selvfølgelig, fordi vi for en måneds
+tid siden kunne læse i aviserne, at dette lovforslag allerede har et politisk flertal bag sig, idet
+der i nattens mulm og mørke er blevet lavet
+skatteforlig med venstrefløjen. Og dér har vi jo
+allerede adskillige gange i dag hørt SF's hr. Jes
+Lunde redegøre for, hvordan SF altid er med på
+skatteforhøjelser, fordi SF er så ansvarligt et
+parti, at bare det er noget med, at borgerne skal
+betale mere til staten, er SF med for enhver pris.
+Dette forslag er stærkt medvirkende til, at det
+ikke bliver særlig let for Venstre at lave et
+finanslovforlig med regeringen. Det er i hvert
+fald ikke befordrende for seriøse finanslovforhandlinger. Vi finder, det er noget griseri, at
+man vedtager et sådant forslag, inden finanslovforhandlingerne overhovedet er gået i gang,
+og det var som bekendt halvanden måned
+siden, dette her kom på plads. Vi er imod det.
+(Kort bemærkning).";Charlotte Antonsen
+106482;name_party;":
+Jeg vil kun sige til fru Charlotte Antonsen, at der
+sker en nedtrapning af skatteloftet. Det eneste,
+vi foretager, er en lille opbremsning i 1996
+begrundet i, at kommuner og amter imod de
+
+171
+
+forventninger, vi havde, da skattereformen blev
+vedtaget, sammenlagt har forhøjet de kommunale skatter med næsten 1 pct. Det er begrundelsen. Det er Socialdemokratiets klare mål at
+opfylde skattereformens målsætning om at nå
+ned på et skatteloft på 58 pet. fra 1998 og fremefter, og vi har ingen intentioner om at ændre
+dét. Forudsætningen for næste år igen, altså i
+1997, at sænke skatteloftet så meget, som det var
+hensigten i skattereformen, er den vurdering, at
+den kommunale økonomi er i en sådan stand, at
+det vil være muligt for kommunerne at reducere
+skatteprocenten.
+(Kort bemærkning).";Per Kaalund
+107295;name_party;":
+Hr. Per Kaalund begrunder dette ejendommelige lovforslag med, at kommunerne allerede
+har hævet skatterne. Hr. Per Kaalund garanterer, at kommunerne ikke hæver skatterne igen
+næste år, så regeringen dermed føler sig nødsaget til igen at hæve marginalskatten.
+(Kort bemærkning).";Charlotte Antonsen
+107589;name_party;":
+Det er selvsagt svært at give garantier i den retning. Jeg har selv igennem mange år på kommuneside og amtsside forhandlet disse overenskomster og aftaler med regeringen, men det ligger i kommuneaftalerne om økonomien for
+1996, at de kommunale og amtslige organisationer på kommunernes og amternes vegne tilslutter sig regeringens overordnede økonomiske
+politik, og den overordnede økonomiske politik
+går altså ud på, at vi blandt andet skal ned på et
+skatteloft i 1998 og fremefter på 58 pet.";Per Kaalund
+108103;name_party;":
+Det kan næppe komme bag på skatteministeren,
+at Det Konservative Folkeparti ikke støtter dette
+lovforslag. Det fremgår, at baggrunden for lovforslagets fremsættelse er den skævhed, der vil
+opstå som følge af stigninger i amts- og kommuneskatter på gennemsnitligt 0,9 pet. Forslaget
+skal så tage højde for de uligheder, der vil opstå,
+hvis skattereformen bliver indfaset som forudsat
+De højeste indkomster vil ved en sænkning af
+det skrå skatteloft skulle bidrage mindst til fælleskassen, som ministeren kalder det. Det er
+selvfølgelig også et plausibelt argument. Problemet er imidlertid bare, at de højest1ønnede i forvejen bidrager mest til fælleskassen, og det forekommer mig derfor ikke umiddelbart at være et
+
+172
+
+Tirsdag den 10. oktober 1995 (L 11)
+
+holdbart argument. Desuden drejer det sig ikke
+kun om de højeste indkomster, men også om
+mellemindkomsterne.
+I regeringens regnestykke ved fastsættelsen af
+det skrå skatteloft medregnes ej heller bruttoskatten. Jeg mener derfor ikke, at det opstillede
+regnestykke i lovforslaget reelt er udtryk for de
+skævheder, som efter skatteministerens beregninger vil opstå.
+Det skrå skatteloft på 62 pet. før kirkeskat og
+en bruttoskat på 7 pct. oveni for arbejdsindkomster må siges at være meget højt set med skatteborgernes øjne.
+Endnu en gang kan jeg blot konstatere, at
+regeringens lovede skattelettelser er en ren luftballon.
+Borgerne interesserer sig jo ikke for, om det er
+kommuneskatten, amtsskatten, bruttoskatten
+eller statsskatten, der stiger. Det interessante for
+skatteborgeren er, hvor meget der samlet set
+skal betales i skat, og ikke, hvad man kalder
+skatten.
+Regeringen regnede forkert, da den anslog
+skattegrundlaget for 1995. Nu har man igen
+meget positive forventninger til skattegrundlaget for 1996. Det fremgår, at regeringen forventer, at der i 1997 som følge af et øget skattegrundlag og store efterbetalinger er mulighed
+for en reduktion af de samlede kommunale
+skatter svarende til stigningen i 1996 på i gennemsnit en halv procent.
+Men hvad hvis regeringens forventninger
+igen ikke holder stik? Skal vi så ifølge dette lovforslag igen se skattestigninger, som det fremgår af bemærkningerne kun er tænkt at gælde
+for 1996? Vil vi se yderligere ændringer af det
+skrå skatteloft, hvis regeringens forventninger
+endnu en gang ikke holder stik?
+Når amter og kommuner i vidt omfang er
+nødsaget til at sætte skatterne i vejret, er det jo
+ikke, fordi de synes, det er sjovt. Det er jo bl.a.,
+fordi kommunerne og amterne får pålagt den
+ene opgave efter den anden, altså at regeringen
+giver det ene løfte efter det andet på kommunernes og amternes vegne, som disse må efterleve.
+Hertil kommer de meget skæve udligningsordninger, som har ramt mange kommuner
+hårdt.
+Det fremhæves i bemærkningerne, at det er
+første gang, regeringens skattereform bliver
+ændret, efter at den blev vedtaget i 1993. Ja, det
+er sådan set rigtigt nok, men kun når skattereformen ses isoleret. For hvad med f.eks. de stig-
+
+ninger på benzin, vi så tidligere på året, og som
+også rammer private skatteborgere hårdt? Og
+hvad med de stigninger, som der er lagt op til i
+regeringens lovkatalog med øgede afgifter på
+forsikringer og øgede vægtafgifter og tinglysningsafgifter. Det må vel også siges at være
+afgifter, der påvirker den private skatteborger,
+og som burde være indregnet i det samlede
+skattegrundlag.
+Selv om der ikke er nogen repræsentanter for
+CD til stede her, vil jeg gerne spørge, hvor partiet er henne i denne sag, og om man helt har
+solgt sin sjæl for at sidde med ved regeringens
+bord. CD har udråbt sig selv til regeringens borgerlige garanti mod skattestigninger, men det
+har vi nu ikke set meget til.
+Som det fremgår af bemærkningerne til lovforslaget, vil lovforslaget ifølge beregningerne
+give yderligere 475 mio. kr. i statens kasse. Provenuet er indregnet i regeringens finanslovforslag for 1996. Burde man ikke have ventet med
+dette forslag, til finanslovforhandlingerne var
+kommet i gang? Men som fru Charlotte Antonsen var inde på, var der jo allerede i løbet af
+sommeren kommet en aftale i stand om dette
+med SF og Enhedslisten.
+Som det fremgår, støtter Det Konservative
+Folkeparti ikke dette lovforslag, som hele vejen
+igennem viser, at det sådan set er regeringens
+eget bevis for, at den såkaldte skattereform med
+lettelse af marginalskatterne ikke er andet end
+ren retorik.";Gitte Seeberg
+112463;name_party;":
+Skattereformen indeholdt jo en række meget
+fornuftige grønne afgifter til finansiering.
+Det betød, at man fik nogle flete penge ind i
+statskassen, så man kunne lette indkomstskatten
+og nedsætte beskatningen af arbejdsindkomst.
+Det var sådan set meget fornuftigt. Det, der var
+fejlen i skattereformen, var, at man stort set udelukkende valgte at give skattelettelserne på
+arbejdsindkomst til de højeste indkomster. Det
+betød, at skattereformen samlet set var kolossalt
+skæv med meget minimale skattelettelser til
+dem med de lave indkomster og med så små
+skattelettelser, at nogle af dem fik et minus ud af
+det, da de grønne afgifter var indregnet.
+Omvendt hos dem med de høje indkomster. Dér
+var der nogle helt kolossale skattelettelser:
+10.000,20.000,30.000 kr. i skattelettelser om året
+til nogle af dem med de højeste indkomster.
+Det syntes vi i SF var forkert, og derfor er det
+godt, at man nu har fået rettet bare en lille smule
+
+Tirsdag den 10. oktober 1995 (L 11)
+op på det ved, at det skrå skatteloft bliver forhøjet i 1996. Det giver omkring %mia. kr. til statskassen, som altså bliver taget fra de folk, som
+har de største indkomster her i samfundet. Det
+er, når man har en indkomst på over ca. 240.000
+kr. og bor i en kommune med den rigtige skatteprocent til at overskride det nuværende skatteloft, at det her træder i kraft. Det betyder forholdsvis små penge. For folk, der tjener
+250.000-300.000 kr., er det ikke de store penge,
+det drejer sig om, men er man oppe på at tjene
+500.000-600.000 kr., så begynder det at være
+noget, der er til at mærke: Man skal af med nogle flere penge til det fælles samfund. Det synes
+vi i SF er yderst fornuftigt, og derfor har vi selvfølgelig indgået den her aftale med regeringen.
+Jeg må skuffe Venstre med, at aftalen sådan
+set ikke er lavet om natten. Den er lavet ved fuld
+bevidsthed fra begge parters side, både regeringen og SF, en blank formiddag. Så vi vidste
+godt, hvad vi havde med at gøre, og vi synes, at
+det er et udmærket resultat, vi har fået ud af det.
+Så siger Venstre igen: at nu er det svært at
+lave en finanslovaftale med Venstre og nu
+begynder det at gå galt. Vi hørte jo også dengang Venstres politiske ordfører sige, at det var
+helt uantageligt, at regeringen havde lavet den
+aftale med SF, og at man måtte forlange, at
+finansministeren dementerede, at der var en
+aftale, for det var forudsætningen for, at man
+kunne forhandle finanslov. Desværre er alt det
+dér jo bare gas fra Venstres side. De drager
+ingen konsekvenser af det. De råber og skælder
+og smælder, at regeringen laver forlig med SF,
+men de drager ingen konsekvenser, desværre.
+For det synes jeg egentlig de burde.
+Jeg synes, at Venstre burde mande sig op til at
+tage nogle konsekvenser og sige: Jamen så vil vi
+ikke lave finanslovforlig med regeringen. Der er
+faktisk ikke noget, vi hellere ser i SF, for vi ved
+jo, at når Venstre og De Konservative skal lave
+et finanslovforlig med regeringen, er der en risiko for, at det går ud over de dårligt stillede. Det,
+der er på dagsordenen, er hårde nedskæringer
+på dagpengeområdet og hårde sociale nedskæringer og i den anden ende gaver, der skal deles
+ud til helt andre samfundsgrupper som f.eks.
+sidste år, hvor man fik lov til at bruge oinkring 1
+mia. kr. De penge, vi andre betaler i skat, fik
+man lov til at bruge på lempelse af arve- og
+gaveafgifter og den slags. Det håber vi ikke gentager sig.
+Så jeg ser frem til den dag, hvor Venstre
+begynder at drage nogle konsekvenser af alt
+
+173
+
+deres råberi og ikke kim lader det være mundsvejr. Venstre mener selvfølgelig grundlæggende, at det er noget svineri - sådan fik vi det
+direkte udtrykt heroppefra - at lave aftaler med
+SF, mens det er den eneste naturlige ting i verden at lave politik sammen med Venstre og De
+Konservative! Tænk, hvis vi sagde det modsatte!
+Så var der nogle, der ville begynde at blive fornærmede herinde i salen. Det gør vi ikke, men
+lad os få lidt konsekvens fra Venstres side i stedet for råberiet.
+(Kort bemærkning).";Jes Lunde
+116466;name_party;":
+I Venstre er vi konsekvente. Hvis vi ikke får
+noget ved finanslovforhandlingerne, så stemmer vi ikke for finansloven. Sådan ligger landet.
+Og det tror jeg allerede er fremgået af andre
+sammenhænge. Det, der så bliver interessant, og
+som vi måske også kan være medvirkende til, er
+at gøre SF til et anstændigt parti, som bakker
+den regering op, som SF har peget på.
+(Kort bemærkning).";Charlotte Antonsen
+116866;name_party;":
+Jo, men der er vist noget, fru Charlotte Antonsen
+har misforstået. SF har ikke på noget tidspunkt
+peget på den her regering. Vi har peget på en
+leder af forhandlingerne. Efter sidste folketingsvalg pegede vi på Socialdemokratiets formand,
+men vi har sandelig ikke peget på den her regering. Vi er ikke sikkerhedsnet for den, og vi føler
+os ikke forpligtet til at stemme for, hvad den her
+regering måtte finde på at komme med. Vi
+stemmer indholdsmæssigt fra sag til sag. Kommer den med gode ting, så støtter vi det. Kommer den med dårlige ting, så stemmer vi imod,
+uanset hvilke konsekvenser det får for regeringens liv.
+Elisabeth Amold (RV):
+Som regeringspartirepræsentant er det jo lige
+før, man føler sig helt venneløs her. Venstre vil
+ikke stemme for finansloven, og SF har overhovedet ikke peget på regeringen. Jamen hvordan
+skal det hele så ende? Det bliver jo spændende
+at se nu her om et par måneder, når vi skal have
+finansloven til sidste behandling.
+Den konservative ordfører, fru Gitte Seeberg,
+sagde i sin ordfører tale, at kommunerne og
+amterne ikke sætter skatterne op, fordi det er
+sjovt. Jeg vil da gerne stille et modspørgsmål:
+Jamen hvem gør det? Der er da ingen, der sætter
+skatterne op, fordi det er sjovt.
+
+174
+
+-Tirsdag den 10. oktober 1995 (L 11)
+
+Det her forslag handler om at lave en mindre
+skattenedsættelse, end vi havde håbet at kunne
+gennemføre. Vi er fra radikal side ikke spor glade for det her lovforslag, men vi finder, at det er
+nødvendigt for at skærme statens indtægter.
+Der er lavet nogle forhandlinger med de kommunale og amtslige organisationer, som gerne
+skulle have holdt til, at man ikke fik forhøjede
+skatter i amter og kommuner, men det er desværre ikke tilfældet.
+Hr. Per Kaalund nævnte, at han selv havde
+været med til adskillige af den slags forhandlinger i sin tidligere karriere. Jeg kan kun sige, at
+det er prisen, vi betaler for at have et decentralt
+politisk system her i Danmark. Vi har kommuner og amter, som selvstændigt kan udskrive
+skatter, og vi kan i realiteten ikke gennem aftaler med Kommunernes Landsforening eller
+Amtsrådsforeningen binde den enkelte kommune. Den må prøve at skele til aftalen, og den kan
+prøve at gøre sit bedste, men vi kan ikke binde
+den enkelte kommune. Derfor er vi nødt til at
+have en eller anden form for modforholdsregler,
+når der sker højere skattestigninger, end vi
+egentlig havde aftalt.
+Det er de kendsgerninger, vi må bøje os for.
+Hvis det var anderledes, skulle vi herinde fra
+centralt hold diktere, hvad kommuneskatten
+skulle være i samtlige kommuner, og hvad
+amtsskatten skulle være i samtlige amter, og så
+var der jo ingen grund til at have hverken kommunalbestyrelser eller amtsråd. Det er de barske
+realiteter, det er dem, vi må arbejde under, og
+derfor støtter Det Radikale Venstre forslaget.";Jes Lunde
+119677;name_party;":
+Da regeringen gennemførte den seneste skattereform, var vi mange, der betvivlede, at det
+nogen sinde ville blive til andet end en skatteomlægning. Det tog regeringen på daværende
+tidspunkt meget fornærmeligt op. Specielt regeringens finansminister skældte mange ud her
+fra talerstolen - herunder undertegnede - for
+når regeringen havde lavet sådan et projekt, så
+agtede den selvfølgelig at gennemføre det og
+indfri de løfter, der var blevet givet.
+En af de ting, jeg selv på det tidspunkt gjorde
+opmærksom på, var, at det bilag, der var til
+aftalen - der var et bilag, hvor man opgjorde de
+forskellige kommunale skatter - jo kunne blive
+udhulet eller det modsatte ganske mange gange
+undervejs, eftersom kommunerne ganske rigtigt, som fru Elisabeth Arnold har beskrevet det,
+frit og næsten uhindret kan sætte deres skatter ,
+
+op - eller ned: det er der nemlig også enkelte
+kommuner der præsterer. Men jeg tror ikke, at
+der efterhånden er ret mange, der er i tvivl om,
+at vi havde ret, da vi betvivlede, at skattereformen ville få til resultat, at der ville blive tale om
+reelle skattenedsættelser.
+Der er nok nogle, der i 1995 og måske stadig
+væk en lille smule i 1996 har lidt fornøjelse af
+skattereformen. Men som det er blevet opgjort i
+Jyllands-Posten så sent som i går, på side 2, så
+viser det sig nu, at man taler om, at en ganske
+almindelig familie får et tab i størrelsesordenen
+7.000 kr. Det får den, fordi kommunerne forhøjer deres skatter og der sker nye ejendomsvurderinger, som betyder en forhøjelse på 10 pet.
+eller nogle steder endda på 15 pet. Det betyder,
+at lejeværdien af egen bolig stiger, og det betyder, at grundskatterne stiger. Alt sammen noget,
+der er med til at udhule økonomien for den
+almindelige familie.
+Som jeg har sagt så mange gange tidligere fra
+denne talerstol: I min og i de fleste andre danskeres tegnebog er der kun ét rum. Om det er
+borgmester Thorkild Simonsen, der kommer og
+henter pengene gennem forhøjede kommuneskatter i Århus, eller det er skatteministeren, der
+henter pengene, er min tegnebog uinteresseret i.
+Det, den bare kan konstatere, er, at det eneste,
+der efterhånden er deri, er lommeuld, for resten
+har kommunen, staten og amtet hentet.
+Det forslag, som vi nu har til behandling, er jo
+bare en fuldbyrdelse af hele den situation, vi har
+haft omkring det, at skattereformen ikke lagde
+op til reelle skattelettelser. 300 mio. kr. ekstra vil
+man kradse ind ved at ændre det skrå skatteloft.
+Man gør i bemærkningerne opmærksom på,
+at det jo nærmest er en ubetydelighed, og vi
+hørte også den socialdemokratiske ordfører, hr.
+Kaalund, sige, at det kun lige er i 1996. Jamen
+hvorfor skal vi tro på, at det bliver resultatet, når
+de forudsætninger, der lå til grund for regeringens skattereform, er blevet brudt? Hvorfor skal
+vi tro på hr. Kaalund i dag, når han siger, at det
+her kun er i 1996, for i 1997 er man på banen
+igen, og så skal man nok sørge for at nedsætte
+det skrå skatteloft, som det oprindelig var aftalt?
+Vi tror ikke på det. Vi tror på, at regeringen
+også på det tidspunkt har 117 argumenter for, at
+man nu lige er nødt til endnu en gang at lave
+skatteforhøjelser. Det kom jo tydeligst frem i
+SF's ordførertale, at det her er et rent misundelsesforslag: Uha, der er nogle mennesker, der tjener nogle penge, uden at de bliver flået fuldstændig i skat, og det er dog forfærdeligt!
+
+Tirsdag den 10. oktober 1995 (L 11)
+Men sagen er den, at hvis vi ikke behersker os
+i beskatningen af disse mennesker med lidt
+højere indkomster, så er det ikke sådan, at vi
+bare får det provenu. Nej, de pågældende mennesker vælger at stemme med fødderne og fraflytte landet, for der er altså andre steder, hvor
+der er mildere himmelstrøg. Og som Darisk
+Industri har opgjort i går, så er vi altså ved at
+være i den situation i Danmark, at selv en
+almindelig industriarbejder kun har 38 øre tilbage af den krone, han har tjent, mens de, han
+sammenligner sig med ude i det store EU, har 45
+øre tilbage af hver krone. Og jo højere indkomst
+man har, jo større fordel er der ved at fraflytte
+landet og stemme med fødderne, og det har vi
+ingen interesse i.
+Også af den grund vil vi anbefale Folketinget
+at stemme nej til denne her skatteforhøjelse og
+på den måde hjælpe regeringen med at leve op
+til de løfter, den selv afgav tmder skattereformen. De løfter skal holdes, og det vil vi så forsøge at holde regeringen fast på.
+(Kort bemærkning).";Kim Behnke
+124076;name_party;":
+Det er til hr. Kim Behnke. Hvis man kigger på
+den forventelige kommunale økonomi for 1996,
+så sker der en ganske kraftig konsolidering med
+afdrag på gæld osv. Og der er intet i hverken
+Økonomiministeriets eller Finansministeriets
+opgørelse og vurderinger for 1997, der tilsiger,
+at det ikke gennemsnitligt skulle kunne lade sig
+gøre at sænke den kommunale skatteprocent
+med 0,5.
+Så det er altså vores faste indstilling, at vi stadig væk skal nedtrappe. Vi tager bare et lidt
+mindre trin. Til gengæld tager vi senere et lidt
+større, og så er vi på niveau fra 1997 og endelig
+på slutfacit i 1998.
+(Kort bemærkning).";Per Kaalund
+124707;name_party;":
+Jamen jeg vil så gerne tro på hr. Kaalund. Jeg vil
+så gerne tro på, at det sker fyldest. Jeg må bare
+sige, at jeg har noget at have min mistænksomhed i, for når man kigger i bakspejlet, kan man
+se, at alt for mange løfter om skattenedsættelser
+osv. aldrig er blevet indfriet.
+Når kommunerne - og også amterne i et eller
+andet omfang - er i stand til i 1997 at præstere
+nogle skattenedsættelser, så er der jo to årsager
+til det.
+Den væsentligste årsag er nok, at der i
+november måned 1997 er kommunalvalg, og
+
+175
+
+man skal jo helst ikke træde borgerne alt for
+meget over tæerne, i hvert fald ikke i et år, der
+er valgår - vel?
+Men ser vi sådan rent økonomisk på det, er
+det klart, at når man nu laver ejendomsvurderinger, som betyder forhøjelser på mellem 10 og
+15 pct. - og det giver jo altså ganske mange penge i den kommunale økonomi - så er det jo ikke
+fordi man laver besparelser eller er tilbageholdende ude i den kommunale økonomi. Det er,
+fordi man henter pengene ind på en anden konto, at man er i stand til at nedsætte personskatten, hvis man ellers - med en tyk streg under
+hvis - lever op til hr. Kaalunds forudsigelse.
+Men i og med, at jeg anerkender, at hr.
+Kaalund har været mange år i den kommunale
+sektor, ved jeg, at hr. Kaalund også er opmærksom på, at der er valg i november måned 1997,
+og derfor skal det såmænd nok komme til at
+holde stik, men så er det bare af helt andre
+grunde end for at leve op til regeringens skattereform. Det er, fordi man skal ud at skovle nogle
+stemmer ind, så man kan blive siddende og
+bevare borgmesterposterne.
+Jørgen Lund (EL):
+Indledningsvis vil jeg gerne gøre opmærksom
+på, at jeg og Enhedslisten deler hr. Jes Lundes
+overordnede politiske betragtninger, som de
+kom frem lige før. Men det, at vi gør det, får mig
+alligevel ikke til at glemme at gøre opmærksom
+på, at da Enhedslistens ordfører på området
+ikke kan være til stede, skal jeg meddele, at vi
+støtter dette lovforslag: det er helt klart i vores
+politiske ånd. Vi vil også støtte ethvert forslag,
+der kommer om en yderligere forhøjelse, idet vi
+i det hele taget helst så loftet helt fjernet.";Kim Behnke
+126845;title_name;":
+Der kører jo nærmest en kampagne mod den
+utrolig gode skattereform, som blev vedtaget i
+1993, og som nu kører systematisk. Kampagnen
+har givet sig de forunderligste udslag. Senest
+blev der refereret til den her fra talerstolen af
+hr. Kim Behnke, som henviste .til en artikel i
+Jyllands-Posten i går, hvor De Konservative
+skulle have fremlagt nogle beregninger til støtte
+for det synspunkt, at skattereformen faktisk
+rammer både sagesløse LO-arbejderfamilier og
+funktionærfamilier.
+Jeg vil bruge denne anledning til én gang for
+alle at sige, at de beregninger er så groteske, at
+det er et meningsløst grundlag for overhovedet
+at diskutere skattereformen. Jeg kan oplyse, at
+
+176
+
+Tirsdag den 10. oktober 1995 (L 11)
+
+antagelserne i beregningerne er så absurde, at
+en almindelig LO-familie ikke på nogen måde
+vil kunne genkende sig selv. De bygger f.eks. på
+antagelser om, at en LO-familie køber nyt hus
+hvert eneste år, og at det er fuldt ud lånefinansieret. Der er ikke én krone, der bidrager til
+opsparing. Det er lånefinansieret det hele. Man
+køber også ny bil hvert år, og ydermere er man i
+stand til at købe en bil, som kun kører 1 km på
+literen, på trods af at man køber ny bil hvert år.
+Det må være en særlig interesse for veteranbiler,
+der tænkes på. Men jeg må sige: Med min mangeårige tilknytning til LO-systemet er det endnu
+ikke lykkedes mig at opdage en familie af den
+pågældende karakter.
+Men det viser alt sammen, hvor grotesk kritikken mod skattereformen er. Nu har vi jo
+igennem 1980'erne set den borgerlige regering
+ved magten i mere end ti år, uden at man overhovedet har været i stand til at lave skattelettelser. Vi har faktisk set en ganske betragtelig stigning i skattetrykket igennem 1980'erne. Så kommer der en ny regering til, der som en af sine
+første handlinger gennemfører en skattereform
+med systematiske reduktioner af marginalskatterne. Så bryder helvede løs, for det er dog forfærdeligt. Tænk, at en socialdemokratisk ledet
+regering er i stand til at lave en skattereform,
+som indebærer stadig systematiske fald i marginalskatterne. Det er ikke desto mindre tilfældet.
+Skattereformen kører, og der er faldende marginalskatter. Men vore borgerlige venner er så
+optaget af vanetænkning, at de overhovedet
+ikke kan omstille sig, ikke engang i deres regneeksempler. De må lave nogle groteske regneeksempler for at få bekræftet de fordomme, som er
+den rene luft.
+Må jeg gøre opmærksom på, at hvis det er
+grundlaget for en diskussion om at hæve skatteloftet, så kan jeg ikke se frem til de kommende
+forhandlinger med fuld fortrøstning og heller
+ikke til udvalgsbehandlingen af dette lovforslag.
+Så vil jeg sige noget helt andet: Af hensyn til
+forskudsregistreringen bør dette lovforslag vedtages inden den 27. oktober i år. I modsat fald
+kan der forventes administrative merudgifter til
+etablering og anvendelse af nødprocedurer til
+brug for udsendelse af skattekortene for 1996.
+Dette være en oplysning til glæde for de partier,
+der ikke nødvendigvis går ind for øgede administrative omkostninger.
+Jeg vil sige det på denne måde: Da man har
+konstateret, at der er et pænt flertal for det
+pågældende lovforslag, går jeg ud fra, at man
+
+loyalt anerkender, at der ingen grund er til ved
+hjælp af chikane eller på anden vis at udsætte
+behandlingen, så man påfører det offentlige
+merudgifter af denne karakter.
+I øvrigt skal jeg henvise til bemærkningerne
+til lovforslaget og anbefale det til en hurtig og
+velvillig behandling.";Carsten Koch
+130316;name_party;":
+Jeg vil starte med det sidste, skatteministeren
+kom med, nemlig det loyale samarbejde, og jeg
+kan garantere skatteministeren, at der fra vores
+side ikke vil blive lagt hindringer i vejen. Jeg
+synes, at skatteborgerne betaler nok - også med
+dette forslag - og jeg er godt klar over, at det
+koster 7 mio. kr., hvis vi ikke får vedtaget det
+nu. Så selv om vi er imod, at det bliver vedtaget,
+fordi vi synes, det er et forkert forslag, vil vi
+selvfølgelig være samarbejdsvillige i udvalget,
+som vi i øvrigt også har været det i hele sidste
+samling. Det er i hvert fald min uforbeholdne
+mening.
+Men når jeg går herop nu, er det, fordi skatteministeren nævnte hr. Hans Engells udmeldinger om skattereformen, og dér må jeg sige, at jeg
+også har set, hvad der har stået i aviserne. Med
+de beregninger og de ting, som skatteministeren
+kommer med her, er der lagt op til, at en familie
+køber nyt hus hvert eneste år, ny bil hvert eneste
+år, kører 1 km pr. liter, var det vist, osv., men
+lad os nu se, når de tal kommer frem. Jeg vil
+sige: Nu, hvor vi skal i gang med at behandle
+det her lovforslag, har vi jo muligheden for at få
+nogle tal på bordet. Det er jo ikke nok at se isoleret på, hvordan skattereformen ser ud, for som
+jeg også var inde på i min ordførertale, så er det
+jo ikke kun skattereformen isoleret set med de
+grønne afgifter, der er lagt på: det er også alle de
+andre afgifter, der nu bliver lagt på, og som blev
+lagt på sidste år, og der er jo tale om mange
+betydelige afgifter.
+Så nævner skatteministeren, at vi under den
+borgerlige regering også hævede skatterne, og
+det må jeg jo tage til efterretning, det er jo helt
+korrekt. Men jeg vil sige: Hvis man ikke er i
+stand til at bringe skatterne ned i denne her tid,
+hvor vi virkelig har et opsving, så mener jeg, det
+står meget galt til. Det skulle vi i hvert fald gerne bruge de kommende år på.
+Hermed sluttede forhandlingen.
+
+(23)
+Tirsdag den 10. oktober 1995 (L 11)
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+Tredje næstfonnand (Margrete Auken):
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Meddelelser fra formanden
+Tredje næstfonnand (Margrete Auken):
+Der ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Det Energipolitiske Udvalg (5110 95):
+Udtræder: Niels J. Langkilde (KF)
+Nyt medl.: Henning Andersen (KF)
+Udtræder: Vibeke Peschardt (RV)
+Ny stedf.: Lars Kaspersen (RV)
+Kirkeudvalget (5110 95):
+Udtræder: Niels J. Langkilde (KF)
+Nyt medl.: Henning Andersen (KF)
+
+177
+
+Udtræder: Hans Christian Schmidt (V)
+Nyt medl.: Jens Vibjerg (V)
+Nordisk Råd (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+Nyt medl.: Lars Kaspersen (RV)
+Udtræder: Ulla Tørnæs (V)
+Ny stedf.: Jens Vibjerg (V)
+Trafikudvalget (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+Nyt medl.: Lars Kaspersen (RV)
+Udtræder: Svend Erik Hovmand (V)
+Nyt medl.: Jens Løgstrup Madsen (V)
+Udtræder: Erik Larsen (V)
+Ny stedf.: Svend Erik Hovmand (V)
+Arbejdsmarkedsudvalget (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+Nyt medl.: Jørgen Estrup (RV)
+Udtræder: Jørgen Estrup (RV)
+Ny stedf.: Lars Kaspersen (RV)
+Landbrugs- og Fiskeriudvalget (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+Nyt medl.: Lars Kaspersen (RV)
+Europaudvalget (5110 95):
+Udtræder: Ole Stavad (S)
+Ny stedf.: Kim Nøhr Skibsted (S)
+
+Boligudvalget (5110 95):
+Udtræder: Niels J. Langkilde (KF)
+Ny stedf.: Henning Andersen (KF)
+
+Det Politisk-Økonomiske Udvalg (5110 95):
+Udtræder: Ole Stavad (S)
+Nyt medl.: Kim Nøhr Skibsted (S)
+Udtræder: Helge Sander (V)
+Nyt medl.: Pia Larsen (V)
+Udtræder: Pia Larsen (V)
+Ny stedf.: Helge Sander (V)
+Udtræder: Christian Mejdahl (V)
+Ny stedf.: Lars Løkke Rasmussen (V)
+Observatør i henhold til forretningsordenens
+§ 7, stk. 1:
+Jacob Haugaard (UP)
+
+Folketingets Ø-kontaktudvalg (5110 95):
+Udtræder: Niels J. Langkilde (KF)
+Nyt medl.: Henning Andersen (KF)
+
+Socialudvalget (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+Ny stedf.: Lars Kaspersen (RV)
+
+Miljø- og Planlægningsudvalget (5110 95):
+Udtræder: Niels J. Langkilde (KF)
+Nyt medl.: Henning Andersen (KF)
+Udtræder: Bodil Thrane (V)
+Nyt medl.: Hans Christian Schmidt (V)
+Udtræder: Anders Mølgaard (V)
+Ny stedf.: Bodil Thrane (V)
+
+Kommunaludvalget (5110 95):
+. Udtræder: Vibeke Peschardt (RV)
+Nyt medl.: Lars Kaspersen (RV)
+Udtræder: Ole Stavad (S)
+Nyt medl.: Kim Nøhr Skibsted (S)
+
+Sundhedsudvalget (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+Nyt medl.: Lars Kaspersen (RV)
+Uddannelsesudvalget (5110 95):
+Udtræder: Vibeke Peschardt (RV)
+
+178
+
+Tirsdag den 10. oktober 1995
+
+Ny stedf.: Lars Kaspersen (RV)
+Udtræder: Else Winther Andersen (V)
+Nyt medl.: Henning Urup (V)
+Udtræder: Henning Urup (V)
+Ny stedf.: Else Winther Andersen (V)
+Forskningsudvalget (5110 95):
+Udtræder: Else Winther Andersen (V)
+Ny stedf.: Jørgen Winther (V)
+Kulturudvalget (5110 95):
+Udtræder: Birthe Rønn Hornbech (V)
+Nyt medl.: Lars Løkke Rasmussen (V)
+Observatør i henhold til forretningsordenens
+§ 7, stk. 1:
+Jacob Haugaard (UP)
+Udenrigsudvalget (5110 95):
+Udtræder: Jens Vibjerg (V)
+Nyt medl.: Ulla Tørnæs (V)
+Udvalget vedrørende Dansk Sikkerhedspolitik (5110 95):
+Udtræder: Peder Sønderby (V)
+
+Nyt medl.: Flemming Oppfeldt (V)
+Udtræder: Birthe Rønn Hornbech (V)
+Nyt medl.: Jens Hald Madsen (V)
+Udtræder: Flemming Oppfeldt (V)
+Ny stedf.: Peder Sønderby (V)
+Udtræder: Jens Hald Madsen (V)
+Ny stedf.: Birthe Rønn Hornbech (V)
+Dét Udenrigspolitiske Nævn (5110 95):
+Udtræder: Ivar Hansen (V)
+Ny stedf.: Ulla Tørnæs (V)
+Boligudvalget (9/10 95):
+Udtræder: Kjeld Rahbæk Møller (SF)
+Ny stedf.: Holger K. Nielsen (SF)
+Folketingets næste møde afholdes i morgen,
+onsdag den 11. oktober 1995, kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 15.21";Gitte Seeberg

@@ -1,0 +1,2964 @@
+split;reason;text;value
+0;;"1671
+
+8/11 90: Dagsorden
+
+15. møde";
+73;Time;"Dagsorden:
+1) Spørgsmål om meddelelse af orlov til og indkaldelse af stedfortræderen forfolketingsmedlem
+Bertel Haarder (V).
+2) Indstilling fra Udvalget til Valgs Prøvelse.
+3) Tredje behandling af lovforslag nr. L 2:
+Forslag til lov om bemyndigelse til optagelse
+af indenlandske statslån.
+Af finansministeren (Henning Dyremose).
+4) Anden (sidste) behandling af beslutningsforslag nr. B 8:
+Forslag til folketingsbeslutning om opfordring til at trække aktstykke nr. 7 vedrørende
+privatisering af teleDanmark A/S tilbage fra
+Finansudvalget.
+Af Behnke (FP) m.fl.
+5) Tredje behandling a f lovforslag nr. L 11:
+Forslag til lov om visse forhold på telekommunikationsområdet.
+Af kommunikationsministeren (Torben Rechendorff).
+6) Tredje behandling af lovforslag nr. L 12:
+Forslag til lov om offentlig mobilkommunikation (GSM-mobilnet).
+Af kommunikationsministeren (Torben Rechendorff).
+7) Forespørgsel nr. F 3:
+Forespørgsel til skatteministeren og energiministeren [om energiafgifterne].
+Af Duetoft (CD) m.fl.
+8) Første behandling a f lovforslag nr. L 57:
+
+1672
+
+Forslag til lov om ændring af lov om stempelafgift. (Indførelse af stempelfrihed ved ombytning af realkreditlån og realkreditlignende
+lån mellem realkreditinstitutter m.v. samt ved
+optagelse af nye lån hos disse til indfrielse af
+gamle realkreditlån eller realkreditlignende
+lån).
+Af skatteministeren (Fogh Rasmussen).
+9) Første behandling a f lovforslag nr. L 40:
+n
+Forslag til lov om ændring af lov om afgift af
+arv og gave.
+Af Kofod-Svendsen (KRF) m.fl.
+10) Første behandling af lovforslag nr. L 55:
+Forslag til lov om æg og ægprodukter.
+Af landbrugsministeren (Tørnæs).
+
+Meddelelser fra formanden:";kl. 10.00
+1741;title_name;"Fra statsministeren har jeg modtaget følgende skrivelse:
+»Statsministeriet, den 5. november 1990.
+Ved kongelig resolution af 25. oktober 1990
+er det bestemt, at sager vedrørende handels- og
+industripolitiske spørgsmål på EF- og GATTområdet i forbindelse med offentlige indkøb,
+herunder § 2 i lov om samordning af fremgangsmåderne ved indgåelse af offentlige bygge- og anlægskontrakter og offentlige indkøb
+m.v., bortset fra særlige regler om standisering
+ved offentlige indkøb af informationsteknologi, overføres fra Finansministeriet til Industriministeriet fra 15. november 1990 at regne.
+Folketinget bedes underrettet herom.
+Sign. Poul Schlüter.«
+Medlemmer af Folketinget Leif Hermann
+(SF), Carsten Andersen (SF), Tommy Dinesen
+(SF), Birgitte Husmark (SF), Ingerlise Koefoed
+(SF), Bjørn Poulsen (SF) og Ebba Strange (SF)
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag tillov om ændring af lov om offentlige
+myndigheders registre.
+(Lovforslag nr. L 65).
+
+1673
+
+8/11 90: Meddelelser fra formanden";Formanden
+2769;title_name;"Medlemmer af Folketinget Aage Frandsen
+(SF), Carsten Andersen (SF), Tommy Dinesen
+(SF), Lilli Gyldenkilde (SF), Ole Henriksen
+(SF), Rahbæk Møller (SF), Gert Petersen (SF),
+Stillinger (SF) og Ebba Strange (SF) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension og lov om ændring af
+lov om Lønmodtagernes Dyrtidsfond.
+(Lovforslag nr. L 66).
+Medlemmer af Folketinget Inger Stilling Pedersen (KRF), Lysholm Christensen (KRF),
+Glønborg (KRF) og Kofod-Svendsen (KRF)
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om hunde.
+(Lovforslag nr. L 67).
+Medlemmer af Folketinget Kofod-Svendsen
+(KRF), Lysholm Christensen (KRF), Glønborg
+(KRF) og Inger Stilling Pedersen (KRF) har
+meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag tilfolketingsbeslutning om privat institutionsdrift.
+(Beslutningsforslag nr. B 17).
+Medlemmer af Folketinget Inger Stilling Pedersen (KRF), Lysholm Christensen (KRF),
+Glønborg (KRF) og Kofod-Svendsen (KRF)
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om foranstaltninger vedrørende AIDS.
+(Beslutningsforslag nr. B 18).
+Skriftlig fremsættelse afforslag:";Formanden
+4023;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om offentlige
+myndigheders registre.
+(Lovforslag nr. L 65).
+Lovforslaget er en uændret genfremsættelse
+af L 197 fra sidste folketingsår.
+De seneste ændringer af lov om offentlige
+myndigheders registre beskæftigede sig med
+det forhold, at registeropbygningen har antaget
+en betydelig decentral retning.
+
+1674
+
+Prisen på edb-udstyr og fremkomsten af
+tekstbehandlingsanlæg, begrænsede informationssystemer m.v. indebærer, at benyttelsen af
+edb i daglige kontorrutiner og i sagsbehandling
+er blevet helt sædvanlig. Dermed er etableringen af en række såkaldte arbejdsregistre, der
+tidligere etableredes manuelt, blevet nødvendig. Oprettelsen af sådanne registre er imidlertid stadig undergivet reglerne om oprettelse af
+registre. I det kommunale regi f.eks. skal oprettelsen af et sådant register ske efter vedtagelse i
+et kommunalbestyrelsesmøde, og forskrifter
+m.v. skal forelægges Registertilsynet til udtalelse.
+Kommunerne har ved forskellige lejligheder
+tilkendegivet deres utilfredshed med denne
+retstilstand, og en konference om de kommunale registerproblemer har været berammet.
+Forslagsstillerne finder det væsentligt af
+hensyn såvel til respekten for registerlovgivningen som til den offentlige forvaltnings effektivitet, at de rejste problemer underkastes en grundig behandling i Folketinget.
+Lovforslaget følger i det væsentligste den af
+Kommunernes Landsforening rejste kritik og
+undtager oprettelse af registre, der ikke indeholder fortrolige personoplysninger, fra loven
+bortset fra dennes bestemmelser om adgang til
+registerindsigt. Videre forenkles oprettelsesproceduren, således at kun registre med oplysninger om enkeltpersoners rent private forhold
+skal behandles af det øverste administrative organ (ministeren eller kommunalbestyrelsen).
+Andre registre med fortrolige personoplysninger kan oprettes efter delegering. I stedet skal
+den oprettende myndighed én gang årligt udarbejde en beretning over, hvilke registre der det
+foregående år er oprettet. Hvert 4. år udarbejder myndigheden en plan for personregistreringen. Dermed skulle der være tilvejebragt et
+smidigere grundlag for registeroprettelse og tillige et grundlag for en offentlig debat herom.
+Bestemmelserne om registerforskrifter forenkles og afløses af standardforskrifter i form af bekendtgørelser.
+Blandt øvrige ændringer kan nævnes, at samkøring af registre med rent private oplysninger
+til andet end statistiske og videnskabelige formål forbydes, og at reglen om udelukkelse af
+registerindsigt af hensyn til den registrerede
+selv ophæves.
+
+1675
+
+8/11 90: Skriftlig fremsættelse";Leif Hermann
+6711;title_name;"Idet jeg i øvrigt henviser til lovforslaget og
+bemærkningerne hertil, skal jeg anbefale lovforslaget til Tingets velvillige behandling.";Leif Hermann
+6865;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension og lov om ændring af
+lov om Lønmodtagernes Dyrtidsfond.
+(Lovforslag nr. L 66).
+Efter SF's opfattelse er spørgsmålet om,
+hvad der skal investeres i, et af de politisk vigtigste, som der skal træffes beslutning om. Derfor må beslutningerne herom på samme måde
+som beslutningerne i Folketinget træffes i størst
+mulig åbenhed og af repræsentanter, der er
+valgt direkte af folket.
+I dag foregår beslutningerne om investeringspolitikken ikke med tilstrækkelig åbenhed
+og ikke på baggrund af en folkelig debat. Det er
+i den forbindelse ret underordnet, om der er tale om lønmodtagerfonde (ATP, Lønmodtagernes Dyrtidsfond (LD) og Pensionskasser) eller
+der er tale om aktieselskaber, fonde eller pengeinstitutter.
+Det er efter SF's opfattelse rigtigt, at åbenhed
+og offentlig debat må gælde overalt i investeringspolitikken. Men særlig oplagt må det gælde for lønmodtagerfonde.
+Derfor foreslår SF direkte valg til det fælles
+repræsentantskab for ATP og LD. Det direkte
+valg vil i sig selv bidrage til større åbenhed og
+debat. Den offentlige debat og det direkte valg
+vil betyde, at der kommer diskussion om, hvilken investeringspolitik der skal føres.
+I hvor høj grad skal der satses på grønne investeringer og hvilke slags grønne investeringer? I hvor høj grad skal der satses på aktive investeringer i forhold til mere passive investeringer bl.a. i form af obligationsopkøb? I hvor høj
+grad skal løsning af uddannelses- og beskæftigelsesopgaver indgå som en del af investeringspolitikken og i denne forbindelse måske en
+særlig indsats i forhold til kvinderne og de unge? I hvor høj grad skal der satses på forskningsindsats og udviklingsarbejde? I hvor høj
+grad skal der satses på aktiv regionspolitik
+(egnsudviklingspolitik) ?
+Disse og en række andre spørgsmål skal der
+tages stilling til, når principperne for investeringspolitikken skal fastlægges. Diskussionen
+
+1676
+
+herom forventer SF vil medføre, at folket vil dele sig efter anskuelser, sådan som det også skete, da der blev gennemført direkte valg til Folketinget i forrige århundrede, og sådan som det
+stadig sker ved valg til Folketinget. Forhåbentlig da.
+Argumenterne imod direkte valg kender vi i
+form af påstande om, at valgdeltagelsen ikke vil
+blive særlig stor. Som det fremgår af bemærkningerne, var valgdeltagelsen heller ikke særlig
+høj, da demokratiet blev indført i forrige århundrede. Men jeg tror ikke, at nogen af den
+grund drømte om at afskaffe det direkte valg til
+Folketinget.
+Når SF ønsker direkte valg med anvendelse
+af listevalg, er det, fordi vi mener, at det er meget vigtigt, hvilke beslutninger der træffes og
+dermed også af hvem. Det er også vigtigt, at der
+kommer større åbenhed om den investeringspolitik, der føres. Det vil også helt naturligt
+medføre, at interessen om investeringspolitikken bliver større. Vi tror, at folks interesse, engagement og ansvarlighed omkring investeringerne vil øges med det direkte valg.
+Den foreslåede bestemmelse om at regionalisere forvaltningen af fondsmidlerne har også til
+formål at øge folks interesse, engagement og
+ansvarlighed. Det tror vi lettere sker, hvis en del
+af midlerne forvaltes i regionerne. At 25 pet. af
+midlerne fortsat skal forvaltes centralt, skyldes,
+at der også er brug for en overordnet og landspolitisk vinkel på forvaltningen af pengene.
+Interessen, engagementet og ansvarligheden
+vil utvivlsomt også øges for lønmodtagerne ude
+i virksomhederne, hvor kapitalen investeres,
+fordi der skal samarbejdes i en eller anden
+form, når pengene placeres ude i virksomhederne. Lønmodtagerne vil på en helt anden måde end i dag opleve, at det er »deres« fælles kapital, som de har magten over og ansvaret for.
+Magt og ansvar hænger derfor her nøje sammen.
+Med dette lovforslag styrkes demokratiet i de
+økonomiske beslutninger og på arbejdspladsen. Men dette forslag er naturligvis kun en del
+af det, der er nødvendigt. Efter SF's opfattelse
+er der fortsat brug for indførelse af egentligt arbejdspladsdemokrati og økonomisk demokrati. Dertil kommer udbygningen af branchepensionskasserne.
+På nogle områder opfylder dette lovforslag
+de oprindelige hensigter med indførelse af øko-
+
+1677
+
+8/11 90: Skriftlig fremsættelse
+
+1678";Aage Frandsen
+11182;title_name;"Idet jeg i øvrigt henviser til bemærkningerne
+nomisk demokrati, men ikke alle, idet der med
+dette lovforslag fortsat kun vil være lønmodta- til lovforslaget, skal jeg anbefale forslaget til
+gerpenge i de virksomheder, som ønsker det. Tingets velvillige behandling.
+Begrænsningerne i lovforslaget gælder naturligvis også, hvad angår arbejdspladsdemokrati- Inger Stilling Pedersen (KRF):
+et.
+Som ordfører for forslagsstillerne tillader jeg
+Arbejdspladsdemokratiet styrkes kun, i det mig herved at fremsætte:
+omfang den kollektive lønmodtagerkapital er
+Forslag til lov om ændring af lov om hunde.
+stærk nok i den enkelte virksomhed. Hvor det
+(Lovforslag nr. L 67).
+ikke er tilfældet, sker der reelt ikke noget på
+Jeg henviser til de bemærkninger, der ledsabaggrund af dette forslag. Det samme gælder ger lovforslaget, og anbefaler det til Tingets velnaturligvis også den offentlige sektor.
+villige behandling.
+Derfor er gennemførelse af arbejdspladsdemokrati naturligvis fortsat centralt for SF. Men Kofod-Svendsen (KRF):
+en vedtagelse af lovforslaget vil kunne blive en
+Som ordfører for forslagsstillerne skal jeg
+løftestang for de tanker, som ligger i indførelhermed tillade mig at fremsætte:
+sen af arbejdspladsdemokrati og økonomisk
+Forslag tilfolketingsbeslutning om privat instidemokrati.
+Når der i lovforslaget lægges op til, at der tutionsdrift.
+(Beslutningsforslag nr. B 17).
+skal anvendes kønskvotering ved udvælgelsen
+Jeg skal i øvrigt henvise til beslutningsforslaaf kandidaterne på de enkelte lister, skyldes
+det, at SF har begrundet mistanke om, at der el- .gets tekst og de bemærkninger, som ledsager
+lers næsten kun vil blive valgt mænd. Netop når det.
+det drejer sig om »pengeforsamlinger«, siger
+erfaringerne, at det stadig er en næsten ren Inger Stilling Pedersen (KRF):
+Som ordfører for forslagsstillerne tillader jeg
+mandeverden. Skal der gøres noget ved det,
+tror vi, at obligatorisk kønskvotering er nød- mig hermed at fremsætte:
+vendig.
+Forslag til folketingsbeslutning om foranstaltNår vi i dag ser på, hvilken investeringspoli- ninger vedrørende AIDS.
+tik lønmodtagerfondene fører i forhold til an(Beslutningsforslag nr. B 18).
+dre kapitalinvestorer, er der ikke den store forJeg henviser til de bemærkninger, der ledsaskel. Det er SF's opfattelse, at investeringspoli- ger forslaget, og anbefaler det til Tingets velviltikken i langt højere grad burde tage hensyn til, lige behandling.
+hvad der gavner en økologisk bæredygtig udvikling. Det betyder, at vækst i traditionel forstand målt ved bruttonationalproduktet ikke er
+Den første sag på dagsordenen var:
+en acceptabel måleenhed for, hvad der er godt
+at investere i. Hensyn til beskæftigelsen, den re- 1) Spørgsmål om meddelelse af orlov til og indkalnest mulige teknologi, genbrug, begrænsning i delse af stedfortræderenforfolketingsmedlem Beranvendelse af Jordens knappe ressourcer, be- tel Haarder (V).
+grænsning af import m.v. bør i høj grad også
+indgå. Heri ligger der nogle begrænsninger i Formanden:
+ATP's og LD's ellers fri investeringsmuligheDen pågældende har søgt om orlov i henhold
+der. Til gengæld lægger forslaget på andre om- til forretningsordenens § 42, stk. 3, litra d, jf.
+råder op til betydelige udvidelser i, hvad ATP stk. 5, på grund af midlertidig udsendelse i ofog LD kan gøre.
+fentligt hverv.
+For SF indebærer dette lovforslag en udviHvis ingen gør indsigelse, vil jeg betragte det
+delse af demokratiet og en klar hensyntagen til som vedtaget, at der meddeles den pågældende
+en økologisk bæredygtig udvikling, to helt kla- orlov som ansøgt fra og med den 8. november
+re mål, som SF også med en række andre for- 1990, og at stedfortræderen indkaldes som midslag i Folketinget arbejder for at nå.
+lertidigt medlem. (Ophold). Det er vedtaget.
+
+1679
+
+8/11 90: Indstilling fra Udvalget til Valgs Prøvelse
+
+Den næste sag på dagsordenen var:
+2) Indstilling fra Udvalget til Valgs Prøvelse.
+Forhandling";Aage Frandsen
+15103;name_party;":
+Folketinget har nu vedtaget at meddele orlov
+til et medlem af Folketinget og at indkalde stedfortræderen.
+Som ordfører for Udvalget til Valgs Prøvelse
+skal jeg tillade mig at gøre indstilling om, at
+stedfortræderen godkendes som midlertidigt
+medlem af Folketinget.
+Hr. Bertel Haarder er valgt i Københavns
+Amtskreds, og i anledning af hans orlov indkaldes 1. stedfortræder for Venstre i denne amtskreds, direktionssekretær Pia Larsen.
+Udvalget til Valgs Prøvelse har i et møde den
+6. november d.å. behandlet denne sag, og jeg
+kan herefter på udvalgets vegne afgive følgende:
+Indstilling
+Direktionssekretær Pia Larsen godkendes
+som midlertidigt medlem af Folketinget fra og
+med den 8. november 1990.
+(Kort bemærkning).";Lizzie Lichtenberg
+15837;name_party;":
+Jeg vil stille fru Lizzie Lichtenberg et spørgsmål. Det er jo efterhånden blevet ret maskinelt
+dette med orlovsmeddelelse. Jeg kunne godt
+tænke mig at vide, hvad der er årsagen til, at
+man meddeler orlov. Det ville da være ret interessant.";Knud Lind
+16090;title_name;"Jeg skal gøre opmærksom på, at det ikke er
+Udvalget til Valgs Prøvelse, der meddeler orlov. Det er Folketinget, der for et øjeblik siden
+har vedtaget at meddele orlov til det pågældende medlem.
+Hermed sluttede forhandlingen.
+Afstemning
+Udvalgets ovennævnte indstilling
+vedtoges med 108 stemmer (S, KF, SF, V, FP,
+RV, CD og KRF) mod (ved en fejlafstemning) 1
+(FP).
+
+1680
+
+Den næste sag på dagsordenen var:
+3) Tredje behandling af lovforslag nr. L 2:
+Forslag til lov om bemyndigelse til optagelse af
+indenlandske statslån.
+Af finansministeren Henning Dyremose.
+(Fremsat 3/10 90. Første behandling 11/10
+90. Betænkning 31/10 90. Anden behandling
+6/1190).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+16840;name_party;":
+Efter dagspressen at dømme virker det ikke,
+som om det unægtelig store problem, der hedder statens samlede gæld, har haft en særlig
+fremtrædende plads i de forhandlinger mellem
+regeringen og Socialdemokratiet, som er foregået netop i går.
+Derfor føler jeg anledning til at forhøre mig
+hos finansministeren om, hvad der egentlig er
+regeringens plan, hvordan man nogen sinde agter at få afviklet den store statsgæld, som, jf. regeringens seneste budgetoversigt, vil runde 510
+mia. kr. i 1991. Jeg mener, at den danske befolkning i den grad har brug for at vide, om gældsætningen blot skal foregå uhæmmet.
+Som vi har anført i vort betænkningsbidrag,
+vil gældsætningen allerede i 1995 runde 700
+mia. kr., hvis den fortsætter med samme hastighed som i øjeblikket. En gæld på 700 mia. kr. i
+1995 vil betyde, at på det tidspunkt vil alene
+renterne af den gæld udgøre så stort et beløb, at
+alt, hvad der overhovedet kommer ind i moms
+til staten, vil gå til at betale dem.
+Man kan selvfølgelig godt have finanslovforhandlinger, man kan have store politiske forhandlinger osv., hvor man ønsker at ommøblere et par hundrede millioner eller en enkelt milliard kroner, men i det her tilfælde taler vi altså
+om store beløb, ja, renterne i 1991 vil være et
+sted mellem 59 og 60 mia. kr. Tænk på, hvor let
+det ville være at nedsætte skatterne, hvor let det
+ville være at finde penge til de planer, man har i
+de respektive partier, hvis man kunne slippe for
+at betale 59 eller 60 mia. kr. i renter næste ,år!
+Da det jo unægtelig er, som jeg tidligere har
+udtrykt det, en gøgeunge på finansloven, synes
+
+1681
+
+8/11 90: 3. beh. af f. 1.1. om bemyndigelse til optagelse af indenlandske statslån";Behnke
+18528;title_name;"jeg, det ville være overordentlig relevant at få
+en melding fra regeringens side om, hvordan
+man agter nogen sinde at komme i gang med at
+afvikle den gældspost, så vi også kan slippe for
+renteporteføljen. Det synes jeg er relevant for
+Folketinget at vide forud, for at man nu stemmer om at give tilladelse til at forøge gælden
+med yderligere 50 mia. kr.";Behnke
+18917;title_name;":
+Jeg forstår fuldt og helt hr. Behnkes bekymringer, og jeg deler dem. Jeg har også selv somme tider spekuleret over, hvor dejligt det ville
+være, hvis ikke vi havde den rentebyrde hvert
+år. Sikke mange gode ting vi kunne komme til
+at lave, hvis vi kunne bruge de penge på en anden måde end til at betale den gamle gæld. Jeg
+forstår også godt hr. Behnkes efterlysning af,
+hvad vi så gør i fremtiden. Jeg mener, at den
+diskussion hører hjemme i den finanslovdebat,
+vi skal have lidt senere på sæsonen.
+Det, vi skal i dag, er at give en nødvendig bemyndigelse, som i og for sig har sin konsekvens
+i fortidens udvikling og ikke i en diskussion om
+de fremtidige ændringer. Derfor vil jeg afstå fra
+at gå ind i debatten nu, men gør det med stor
+glæde, når vi får finanslovdebatten.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslaget
+vedtoges med 85, stemmer (S, KF, V, RV, CD,
+KRF og Bjørn Elmquist (UP)) mod 9 (FP):
+15 (SF) stemte hverken for eller imod.";Henning Dyremose
+19883;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+1'682
+
+Der var ikke stillet ændringsforslag.
+Forslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Forslaget til folketingsbeslutning
+forkastedes, idet 10 (FP) stemte for, 98 (S, KF,
+SF, V, RV, CD, KRF og Bjørn Elmquist (UP))
+imod.
+Den næste sag på dagsordenen var:
+5) Tredje behandling af lovforslag nr. L 11:
+Forslag til lov om visseforhold på telekommunikationsområdet.
+Af kommunikationsministeren (Torben Rechendorff).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 80 stemmer (S, KF, V, RV, CD og";Formanden
+20566;name_party;": 19 (SF og
+KRF) stemte hverken for eller imod.";Bjørn Elmquist
+20625;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+
+Den næste sag på dagsordenen var:
+4) Anden (sidste) behandling af beslutningsforslag
+nr. B 8:
+Forslag til folketingsbeslutning om opfordring
+til at trække aktstykke nr. 7 vedrørende privatisering af teleDanmark A/S tilbage fra Finansudvalget.
+Af Behnke (FP) m.fl.
+(Fremsat 23/10 90. Første behandling 31/ 10
+90. Betænkning 6/11 90).
+
+6) Tredje behandling af lovforslag nr. L 12:
+Forslag til lov om offentlig mobilkommunikation (GSM~mobilnet).
+Af kommunikationsministeren (Torben Rechendorff).
+(Fremsat 3/10 90. Første behandling 10/10
+90. Betænkning 1/11 90. Anden behandling
+6/11 90).
+Der var ikke stillet ændringsforslag.
+
+1683
+
+8/11 90: 3. beh. af f. t. I. om offentlig mobilkommunikation
+
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 91 stemmer (S, KF, V, FP, RV,
+CD og Bjørn Elmquist (UP)) mod 15 (SF): 4
+(KRF) stemte hverken for eller imod.";Formanden
+21621;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+7) Forespørgsel nr. F 3:
+Forespørgsel til skatteministeren og energiministeren:
+»Hvilke oplysninger kan regeringen give om
+energiafgifternes fremtid, og vil regeringen benytte energiafgifterne som middel til at stabilisere forbrugerpriserne på energiområdet?«
+Af Duetoft (CD) m.fl.
+(Forespørgslen anmeldt 3/10 90. Fremme af
+forespørgslen vedtaget 10/10 90).";Formanden
+22077;title_name;"Jeg giver først ordet til ordføreren for forespørgerne, hr. Duetoft. Jeg beder om, at medlemmer, som forlader salen, gør det nu og forlægger samtalerne til områder uden for salen,
+så vi kan høre hr. Duetoft, som jeg ved har problemer med stemmen, der i hvert fald ikke skal
+forstørres af, at det er svært at få ørenlyd.
+Begrundelse";Formanden
+22421;name_party;":
+I det sidste år har der været en del usikkerhed omkring afgifterne og specielt energiafgifterne, efter at den røde rapport om afgifternes
+fremtid er kommet, og samtidig har Golfkrisen
+jo medført stigende energipriser. Derfor er det
+relevant igen at få diskuteret, om den aftale, der
+blev indgået i 1986 om at benytte energiafgifterne som reguleringsfaktor og skabe stabile priser, stadig er gældende, og derfor har CD valgt
+at stille denne forespørgel til energiministeren
+og skatteministeren. Vi mener, at det er en debat, der betyder ganske meget for de kommende overenskomstforhandlinger.
+
+1684
+
+Besvarelse";Duetoft
+23066;title_name;":
+Forespørgslen er rettet til såvel energiministeren som mig. Det er min opgave på regeringens Vegne at svare på forespørgslen.
+Forespørgslen lægger op til en drøftelse af
+energiafgifternes fremtid, og fremtiden er da
+bestemt et spændende emne, men som vi alle
+ved, skal man være noget varsom med at spå
+om fremtiden, og det tror jeg navnlig gælder...";Fogh Rasmussen
+23429;title_name;"Må jeg bede om ro også i sidegangen, så vi
+kan gennemføre denne forespørgsel.";Formanden
+23540;title_name;":
+Denne varsomhed med at spå om fremtiden
+gælder ikke mindst, når det drejer sig om et så
+ømtåleligt spørgsmål, som vi her har på dagsordenen.
+Vi ved jo alle, at vi har høje energiafgifter her
+i landet: det er ingen i tvivl om. Vi har haft de
+høje afgifter siden 1986, hvor prisen på råolie
+faldt kraftigt efter at have ligget på et højt niveau i begyndelsen af 1980'erne. Afgiftsforhøjelserne dengang betød i virkeligheden, at forbrugerpriserne blev opretholdt på det - ganske
+vist høje - tidligere niveau. Der blev samtidig
+indgået en regulerings aftale med det formål at
+fastholde de dagældende forbrugerpriser. Denne reguleringsaftale var i kraft indtil foråret
+1989, og den har givet anledning til både afgiftsforhøjelser og afgiftsnedsættelser.
+Når reguleringsaftalen blev ophævet i 1989,
+var det, fordi den havde udspillet sin rolle. Det
+oprindelige flertal bag aftalen var forsvundet,
+og andre hensyn kunne gøre det nødvendigt at
+ændre politikken. Det stod klart, at man ikke
+med rimelighed burde forsøge at fastholde et
+bestemt absolut prisniveau for energi, når priserne for andre varer i øvrigt steg.
+Det stod også klart, at fastsættelsen af energiafgifterne i Danmark i stigende omfang burde
+ses i forbindelse med EF's tilpasningsbestræbelser, burde ses i sammenhæng med etableringen af EF's indre marked, herunder udviklingen i grænsehandelen.
+Efter ophævelsen af reguleringsaftalen har
+regeringens initiativer på energiafgiftsområdet
+da også især været begrundet i tilpasningen til
+EF's indre marked. Benzinafgiften er i to om-
+
+1685
+
+8/11 90: Forespørgsel om energiafgifterne";Fogh Rasmussen
+25152;title_name;"gange blevet reduceret, og den er nu i praksis
+på EF-niveau, og regeringen har stillet forslag
+om indførelse af en afgift på dieselolie til erhvervsmæssig landevejstransport, således at vi
+også på dette område nærmer os EF-niveauet.
+Men der er også et andet område, hvor udviklingen må siges at være løbet fra de tidligere
+reguleringsprincipper: den stigende erkendelse
+af miljøproblemerne. Regeringen har fremlagt
+to handlingsplaner om energi og transport. Planernes målsætning er en væsentlig reduktion af
+energiforbruget og dette forbrugs miljøbelastning.
+I planerne er der bl.a. sat spørgsmålstegn ved
+den hidtidige energiafgiftspolitik, og der er i
+den forbindelse peget på forskellige muligheder for at indrette energiafgifterne anderledes.
+De overvejelser, der gøres i den forbindelse, er
+endnu ikke afsluttet, og der er selvfølgelig en
+række delvis modsatrettede, tungtvejende hensyn, som selvsagt gør denne opgave vanskelig.
+Det er der heller ikke lagt skjul på i handlingsplanerne.
+Der arbejdes nu videre med de forskellige
+tanker. Det er stadig for tidligt at sige noget om,
+hvornår arbejdet kan forventes endeligt afsluttet. Af samme grund kan jeg heller ikke sige noget om udfaldet af disse overvejelser, men også
+på dette område vil det videre arbejde i stor udstrækning afhænge af udviklingen omkring os.
+De forskellige handlingsplaner indeholder
+således også tanker om at indføre afgifter på erhvervenes energiforbrug, men det er samtidig
+regeringens politik, at erhveryenes internationale konkurrenceevne ikke må forringes. Hvis
+der i EF kunne opnås enighed om en fællesskabsløsning, således at man i EF indførte afgifter på energi, ville effekten på miljøet være
+helt anderledes mærkbar end ved et isoleret
+dansk initiativ, og den danske konkurrenceevne kunne samtidig fastholdes. Regeringen har
+da også i forhandlingerne med de øvrige EFlande arbejdet for at udbrede energiafgifterne,
+og regeringen ser med tilfredshed, at man i de
+øvrige EF-lande med stadig større interesse
+overvejer mulighederne for at anvende afgifter
+på energi i miljøpolitikken.
+Regeringen vil fortsat arbejde for, at man på
+internationalt plan inddrager energiafgifterne i
+miljøpolitikken, samtidig med at vi nationalt
+fortsætter vore egne overvejelser om, hvorledes
+eventuelle ændringer kan ses i en helhed.
+
+1686
+
+Regeringen mener altså ikke, at der på nuværende tidspunkt er grundlag for at regulere
+energiafgifterne. Det er et meget usikkert
+spørgsmål, om dagens prisniveau på omkring
+35 dollars pr. tønde råolie vil holde sig i de
+kommende måneder. Det vil sikkert helt afhænge af udviklingen i Golfkonflikten.
+Hertil kommer, at grundlaget for en eventuel
+regulering af afgifterne er tvivlsomt. Hvis vi
+f.eks. tager udgangspunkt i de forbrugerpriser,
+der lå til grund for den gamle reguleringsaftale,
+altså de forbrugerpriser, der gjaldt i foråret
+1986, og fremskriver dem med den almindelige
+prisudvikling siden da, kan vi se, at de reale priser, altså priserne i faste kroner og øre, på benzin i dag er væsentlig lavere end de oprindelige
+målpriser efter reguleringsaftalen. Priserne på
+olie til opvarmning ligger på samme reale niveau, altså samme niveau i kroner og øre og
+renset. for inflation, som målpriserne i reguleringsaftalen fra foråret 1986.
+Vi kan altså fastslå, at forbrugerne i størstedelen af 1980'erne faktisk har haft samme reale
+oliepris som i dag, mens den reale benzinpris
+på trods af de seneste prisstigninger nu er lavere end i 1980'erne. Dette skyldes selvfølgelig i
+hovedsagen, at benzinafgiften er sænket så
+markant, som tilfældet er.
+Jeg kan altså konkludere, at de nuværende
+råoliepriser ikke giver regeringen anledning til
+at tage initiativer til at regulere energiafgifterne.
+Forhandling";Skatteministeren
+28881;name_party;":
+Jeg vil gerne starte med at takke skatteministeren for svaret på forespørgslen.
+Der er to diskussioner. Den ene er den helt
+aktuelle, nemlig om afgifterne skal bruges som
+en stabiliserende faktor, og den anden er selvfølgelig om de fremtidige energiafgifters opbygning.
+Jeg har benyttet lejligheden til i forbindelse
+med denne debat at kigge tilbage på, hvad der
+faktisk skete i 1986, da man indførte energiafgifterne med denne højde. Det var ikke - det
+fremgår ganske tydeligt af den daværende folketingsdebat - et spørgsmål om at få flere penge i statskassen. Grunden var klart, at man ville
+modvirke et fald i energipriserne, fordi man var
+bange for, at de besparelser, man gerne ville ha-
+
+1687
+
+8/11 90: Forespørgsel om energiafgifterne
+
+1688";Duetoft
+29643;title_name;"ve gennemført, derved ikke ville blive gennem- i begyndelsen af året, og frem til nu, der måske i
+ført. Begrundelsen både fra den daværende løbet af nogle få uger får ens privatøkonomi til
+skatteminister og fra ordførerne i Tinget var at bryde sammen og dermed er årsag til et lønganske klart denne reguleringsmekanisme og pres. Derfor synes vi faktisk, at ministerens staikke et spørgsmål om at få penge i kassen.
+tistikker ikke kan bruges til noget som helst i
+Når vi i dag kommer til diskussionen om sti- denne sammenhæng.
+gende energipriser, ser vi, at regeringen ikke er
+Med hensyn til den internationale aftale, miindstillet på stadig væk at opfatte energiafgif- nisteren af og til taler om, hvor man måske vil
+terne som en stabilisator. Så er både energimi- bruge høje energiafgifter til at begrænse forbrunisteren og skatteministeren ude på, at der ikke get i en mangelsituation, er vi sikre på, at man
+skal ske en regulering.
+internationalt kan finde andre midler end afDen situation, vi har i Mellemøsten, er giftsforhøjelser.
+sprængfarlig. Den kan i løbet af nogle få dage
+Vi er sikre på, at regeringen med den holdeller nogle få uger resultere enten i en krig eller ning, man har, indbygger en ekstra oliekrise i
+i en ganske voldsom skærpelse af konflikten - den, der er i forvejen, og det er faktisk som at
+med medfølgende problemer for energien og skyde sig selv i foden. Det, der sker i øjeblikket,
+dermed voldsomt stigende energipriser.
+er, at vi pålægger Irak nogle sanktioner, hvorefDa er det vores melding til regeringen, at vi ter det skaber en stigning i energipriserne, som
+ikke forstår, at en regering, der taler meget om, vi kan være hundrede procent sikre på vil ramat en lav lønstigning er nødvendig i den kom- me os selv. Og derefter har vi garanteret os selv
+mende periode, og som lægger op til overens- høje energipriser internt, som giver nogle økokomster til foråret, der ikke accelererer, samti- nomiske problemer. Vi synes, det er lidt underdig kan sige: Vi behøver ikke at garantere løn- ligt.
+modtagerne, at deres varmeudgifter og deres
+Og specielt dobbeltmoralsk og underligt er
+transportudgifter ikke stiger ganske voldsomt. det, at staten faktisk tjener penge på det her.
+Vi forstår godt i CD den del af fagbevægel- Staten får bl.a. ekstra momsindtægter som følge
+sen, der så vil sige: Jamen hvis ikke vi kan få en af de stigende energipriser. Det mindste, man
+garanti for, at vores medlemmer ikke pludselig kunne have gjort, var dog at nedsætte afgifterne
+bliver udsat for ganske voldsomme stigninger med det ekstra provenu, staten rent faktisk får
+på nogle helt fundamentale ting, er vi ikke ind- ind dér. Det synes vi er lidt underligt.
+stillet på at indgå lavstigningsoverenskomster
+Jeg vil gerne takke ministeren, fordi ministeeller langvarige overenskomster.
+ren talte om EF-harmonisering. Jeg har haft
+Vi tror i CD, at regeringen med denne hold- fornøjelsen at diskutere både EF og energiafning til energiafgifterne og deres regulering gifter med energiministeren et par gange her i
+faktisk er med til at skade mulighederne for at salen i løbet af det sidste års tid, og som jeg hufå en fornuftig lønudvikling i Danmark.
+sker det, har energiministeren ikke været nær
+Når ministeren siger, at de reelle priser ikke så positiv over for en EF-harmonisering af
+er højere, end de ville have været, hvis man energiafgifterne, som skatteministeren er i dag.
+fremskrev priserne fra 1986, må jeg i al stilfærSkatteministeren skal da have hjertelig tak
+dighed sige, at det virker på mig som at sam- for, at regeringen nu også har fundet ud af, at
+menligne Rundetårn og et tordenskrald. Det der faktisk kan ske en harmonisering her. Det
+hjælper jo ikke familien i Danmark, det hjæl- er klart, for naturligvis er også sådan noget som
+per ikke lønmodtagerfamilien, der pludselig får olie grænsehandelsafhængigt. Vi har set det
+en ekstraudgift på 1.000, 2.000 eller 3.000 kro- med hensyn til dunkpetroleum. Hvorfor skulle
+ner til varme, og som får en ekstraudgift til man ikke kunne køre med en tankvogn til
+transport, at ministeren siger: Nå ja, men pri- Flensborg og hente olie og dermed skabe et
+serne er ikke meget højere, end de ville være i prispres? Så tak for den melding! Det var da
+1986 fremskrevet med pristallet.
+nyt og dejligt, at regeringen vil det.
+Det, der er aktuelt for lønmodtagerne i DanJeg vil gerne benytte lejligheden til at komme
+mark, for alle danskere, er selvfølgelig, hvis der med et par bemærkninger om det principielle,
+sker et ganske voldsomt skift fra det budget, om 'de fremtidige energiafgifter. CD synes, at
+man har kunnet lægge for 2 måneder siden eller I. regeringen har været med til at skabe usikker-
+
+1689
+
+8/11 90: Forespørgsel om energiafgifterne";Duetoft
+34375;title_name;"hed om energiafgifterne i det forløbne år. Vi
+havde faktisk troet - da den røde rapport, der
+senere blev hvid, var kommet i foråret, og da
+man i Energiplan 2000 havde et rimelig klart afsnit om energiafgifter, hvori regeringen siger, at
+der skal ske ændringer - at regeringen ville om
+ikke spille ud, så i alt fald tegne nogle hovedlinjer op for, hvor disse afgifter skulle ende. Men
+vi har oplevet, at hver eneste gang vi diskuterede med regeringens ordførere og henviste til
+Energiplan 2000, fik vi af de ordførere at vide,
+at det i hvert fald ikke var de forslag, der lå dér,
+regeringen støttede. Vi har til gengæld aldrig
+nogen sinde fået at vide, hvad regeringen så
+støttede. Det kunne vi have håbet på at vi måske kunne have fået i dag.
+Det er med til at skabe usikkerhed ikke
+mindst i erhvervslivet med al den snak omkring
+miljøafgifter. Jeg tror, at alle i dette Ting kan
+blive enige om ordet miljøafgifter, men jeg er
+ret sikker på, at der er otte forskellige definitioner af miljøafgifter, hvis man går til de otte forskellige partier, der er herinde. Derfor synes vi,
+at regeringen faktisk godt kunne være kommet
+med nogle klare udmeldinger.
+Vi er enige i, at det er udmærket, at man har
+nedsat endnu en arbejdsgruppe, der skal gøre
+noget, men problemet er vel, at man faktisk i
+den energiplan, det hele handler om, har skrevet ganske klart, at man ønsker nogle ændringer, og det kan jeg godt forstå at man ønsker.
+Vore energiafgifter er socialt meget belastende.
+Det fremgår ganske klart af den røde rapport,
+at de socialt er meget tunge, fordi f.eks. opvarmningsudgifter klart ikke er afhængige af
+folks indkomst, men er meget mere tungtvejende for lavindkomstfamilier end for andre.
+Vi så også dunkpetroleumsagen, som vel var
+sommerens hit. Vi så også, at man måske nok
+skal lade være med at føre socialpolitik ved at
+lave forskellige afgiftssystemer vedrørende
+energiafgifter. Det var i hvert fald ikke en stor
+succes, må vi nok sige.
+Vi kan også se af den røde rapport, at energiinvesteringer i Danmark medfører, at man
+indfører nogle urentable investeringer, og det
+synes vi ikke er særlig smart. Jeg ved da godt, at
+der bliver nogle problemer for naturgassen,
+men CD har da den ene gang efter den anden
+sagt, at vi er rede til at give naturgasselskaberne
+statsstøtte, fordi vi mener, at det er rigtigt, at vi
+har opbygget naturgasnettet. Men denne un-
+
+1690
+
+derlige form, hvor man holder fast ved nogle afgifter og ved nogle provenuer for at få naturgasselskaberne til at overleve, kan vi ikke rigtig
+forstå.
+Alt i alt havde vi altså håbet på nogle mere
+positive meldinger fra regeringen i dag. Vi havde håbet, at regeringen havde forstået, at det
+var vigtigt at sige noget om energiafgifterne og
+deres fremtid - i alt fald at komme med en principmelding. Vi var godt klar over, at skatteministeren ikke i dag ville komme med et forslag
+om nedsættelse af energiafgifterne: så meget
+var dog sivet ind i hovedet på os. Men vi ville
+meget gerne have haft en principmelding fra regeringen om, at befolkningen kan være tryg, for
+det er jo tryghed, dette drejer sig om. Det er
+tryghed, i det øjeblik man skal indgå de lange
+overenskomster, det er tryghed vedrørende udviklingen på dette område. For at forsøge at
+skabe den tryghed og håbe på, at regeringen så
+skifter mening i debattens løb, vil jeg gerne på
+vegne af Centrum-Demokraterne og Fremskridtspartiet fremsætte følgende:
+Forslag om motiveret dagsorden.
+»Idet Folketinget konstaterer, at en af forudsætningerne for flerårige overenskomster med
+lav lønstigning på arbejdsmarkedet er rimelig
+stabilitet i priserne på opvarmning og transport,
+og idet Folketinget konstaterer, at den nuværende situation i Mellemøsten kan føre til voldsomt stigende energipriser i den periode, overenskomsterne forventes at omfatte,
+opfordres regeringen til at benytte energiafgifterne til at friholde forbrugerne for merudgifter
+til fyringsolie og benzin.
+Tinget går herefter over til næste sag på dagsordenen.«
+(Dagsordensforslag nr. D 11).";Duetoft
+38380;title_name;"Der er nu fremsat følgende forslag om motiveret dagsorden: (se ovenfor). Dette forslag
+indgår nu i forhandlingen.";Formanden
+38510;name_party;":
+Det er rigtigt, at prisudviklingen på olie i de
+sidste 10 år målt i kroner ikke er særlig voldsom. De sving, der har været op og ned, har
+selvfølgelig givet anledning til masser af tilpasningsproblemer, men i de store linjer er vi altså
+
+1691
+
+8/11 90: Forespørgsel om energiafgifterne
+
+1692";Poul Nielson
+38821;title_name;"Monopoltilsynet har aldrig kunnet styre denikke inde i en fuldstændig anden situation i
+ne sag. Den har hele tiden været for indviklet.
+dag.
+Den øjeblikkelige situation er også præget Der var engang, da man fik det, jeg kaldte et
+af, at man i olieindustrien betragter alt, hvad røntgenbillede af de faktiske omkostningsforder ligger over 25 dollar, som en slags krigspro- hold, nemlig da staten brød gennem lydmuren
+fit eller kriseprofit, idet der markedsmæssigt ik- og med sit eget selskab handlede, så man fik heke anses at være grundlag for priser, der ligger le omkostningskæden belyst. Det førte i øvrigt
+over 25 dollar, måske endda kun 20 - 22 dollar. til et påbud fra Monopoltilsynet om sænkning
+Der er selvfølgelig megen fornuft i den meka- af den fortjenstmargen, som det danske statsnisme, som den tidligere aftale baserer sig på, selskab havde. Det kunne man finde ud af: dér
+og som går ud på at modvirke udefra kommen- skred man ind. Men det indviklede mønster af
+de udsving i afgifterne herhjemme. Men jeg sy- omkostningsfordeling, der i øvrigt præger det,
+nes, det er klogt i den situation, vi er i, at erken- der foregår, har man altså ikke kunnet finde ud
+de, at der er to aspekter af prisen på olie. Det af: man kan simpelt hen ikke bryde koden.
+ene er niveauet som sådant: man kunne kalde Derfor er det svært at se med for stor optimisme
+det normalprisen eller fredstidsniveauet: det på, hvordan et nu yderligere svækket adminiville være den egentlige markedspris. Det andet strativt apparat på dette punkt skal kunne klare
+er det prisniveau, der har krisepsykologien som at styre det. Det var meget bedre at give statens
+grundlag. Det element er i høj grad til stede i eget olieselskab friere tøjler til at gå ind og præprisen, og så længe det er det, mener Socialde- stere et bidrag til den konkurrence, der er det
+mokratiet, at man skal passe uhyre meget på eneste, der kan få os til at ligne de andre lande.
+Den efterfølger, der kom som energiminister,
+med at bilde sig selv og andre - og dermed også
+da vi skiftede regering i 1982, sagde som noget
+befolkningen - ind, at vi har det i vores magt, og
+af det første: Vi skal ikke have statslige olierafat det overhovedet ville være klogt at lave denfinaderier i Danmark. Nu har vi to, men det er
+ne kompensationsmekanisme. Det hænger ogbare ikke os selv, der er med i det. Det bidrager
+så sammen med, at det kunne. vise sig at være faktisk til, at vi ikke har de reelle redskaber i
+utrolig kortsigtet og utilgiveligt i sit indhold i en hånden, der kunne bidrage til, at vi kunne - lad
+eventuel krigssituation at have gjort det, CD mig bare sige det sådan - skræmme os til lidt
+mener vi skal gøre her og nu. Det er vores ad- mere konkurrence. Dér ligger der nogle penge,
+varsel i situationen. Det kan være et helt forkert der burde hentes.
+signal, hvis vi om kort tid står i en situation,
+Vedrørende diskussionen om disse energiafhvor vi skal gøre alt, hvad vi kan, for at begræn- gifter i øvrigt er der ikke sket noget nyt, siden vi
+se forbruget.
+havde energipolitisk debat i foråret.
+Vi mener også i Socialdemokratiet, at vi mere
+Der er stadig væk ikke noget forslag fra regealment bør gøre, hvad vi kan for at muliggøre ringen om disse vidtgående omlægninger, og
+fælles beslutninger i IEA. Derfor synes vi, at der er heller ikke nogen afklaring i EF. Hvad
+det er for dristig en håndbevægelse at garantere angår EF-beslutningsprocessen, hvis man kan
+forbrugerne mod konsekvenserne af Saddam kalde den det, tror jeg, at hr. Duetoft misforHusseins handlinger.
+stod det, som skatteministeren sagde, og også
+Derimod er det interessant - og det burde vi det, som energiministeren har sagt. Jeg skal da
+nok beskæftige os mere med - at krisen har gerne bidrage til at udlægge teksten, som jeg
+klædt olieselskaberne af. Olieprodukterne er forstår den. Sagen er, at man i EF er begyndt på
+dyrere i Danmark end i andre lande, også når en bred diskussion om at bruge miljøhensynet
+man ser bort fra afgifterne. Det er positivt, at som grundlag for en afgiftsstruktur på enerKonkurrencerådet endelig har besluttet sig for giområdet, som specielt tager sit grundlag i
+at se på sagen. Det er nemlig ligegyldigt, om ar- C02-problematikken. Hvis det bliver til noget,
+gumentet for, at det er dyrere, er, at der er for har vi da noget, vi kan gribe og gøre i fra dansk
+mange benzinstationer i Danmark. Det er ikke side, og som vi nok ikke vil stille os i vejen for.
+noget, forbrugerne insisterer på. Forbrugerne Det er, hvad der foregår, men den øvrige, om
+vil gerne have så billig benzin som muligt, og jeg så må sige, gamle indre marked-harmonisejeg tror, at realiteten i det er, at der er for lidt ringssag om energiafgifter ser jeg ikke meget liv
+i.
+konkurrence.
+
+1693
+
+8/11 90: Forespørgsel om energiafgifterne";Poul Nielson
+43607;title_name;"I øvrigt har vi jo haft en betydelig offentlig
+debat, men stadig væk ikke på noget konkret
+grundlag. På de to afgørende punkter, nemlig
+tilbageførselsmekanismerne vedrørende nye,
+større afgifter til industrien og til kraftvarmebyerne, er der stadig væk fuldstændig blankt papir.
+Netop disse krumtapproblemer er ikke belyst endnu fra regeringens side, og så længe det
+er tilfældet, mener jeg ikke, vi sagligt set har et
+tilstrækkeligt grundlag for at køre videre med
+debatten. Vi har i årevis fra Socialdemokratiets
+side fremført, at man godt kunne udbrede
+grundlaget for energiafgifterne i og med, at
+man kunne lade butikshandelen, f.eks. handel
+og service, betale de afgifter, alle andre betaler.
+Det ville ikke være betalingsbalanceforkert.
+Derimod er vi ikke tilhængere af at pålægge industrien som sådan disse afgifter.
+Men som sagt: Vi har ingen færdige meninger om alt dette. Vi synes, det er rimeligt, hvis
+regeringen har nogle standpunkter, at den
+kommer med dem, og så diskuterer vi det på det
+grundlag.
+Om miljø- og energiforholdene på afgiftsområdet vil jeg sige, at de kvoter, vi har, der styrer
+maksimumudledningen af S02 og NOx, indiskutabelt er miljøpolitik. Derimod kan en
+CO2-afgift meget nemt afspores til at blive en
+almindelig provenumaskine, meget nemt, og vi
+mener, at der, hvis det virkelig var miljøhensynet, der for alvor skulle gøres noget ved, faktisk
+var mere miljøforbedring at hente i at fremme
+udviklingen på kraftvarmeområdet i København. Der ville faktisk være mere miljøfordel i
+det end i at kradse penge hjem gennem en
+CO2-afgift, som meget nemt bliver en beskatning af, at vi ånder som mennesker, både industrielt og personligt.
+Som sagt venter vi på udspil og ser i øvrigt
+ikke situationen sådan, at vi finder, at der i dag
+er brug for vedtagelser, i hvert fald ikke med,
+hvad vi har hørt indtil nu.
+Derfor kan jeg på forhånd sige, at vi vil undlade at stemme til dagsordenen.";Poul Nielson
+45546;name_party;":
+Jeg har ikke tænkt mig at gentage alt det, som
+jeg sagde ved den forrige store energidebat,
+selv om noget af det nok kunne være relevant i
+denne sammenhæng. Dog vil jeg godt gentage
+én ting, for hr. Duetoft sagde, at der var et eller
+
+1694
+
+andet, der var sivet ind med hensyn til, hvad regeringen ville eller ikke ville nu.
+Jeg må så konstatere, at der er noget andet,
+der ikke er sivet ind, nemlig at den røde rapport
+ikke er identisk med Energihandlingsplan
+2000. Den røde rapport er en embedsmandsrapport, et godt og grundigt stykke arbejde. Jeg
+beklager at skulle gentage det, men det er åbenbart smuttet for hr. Duetoft. Deri er der en lang
+række forslag, som det er op til regering og Folketing at bruge til noget, men det kan ikke nytte
+noget, at man piller et enkelt af forslagene ud
+og siger, at det er regeringens politik. Det kan
+læses i Energihandlingsplan 2000, og dér står
+disse ting ikke på den måde, som hr. Duetoft
+fremhæver.
+Så vil jeg i øvrigt til selve forespørgslen sige,
+at da CD rejste den, var råoliepriserne og dermed verdens energipriser nærmest på himmelflugt. Den udvikling er nu heldigvis stoppet.
+Det ser ud til, at priserne efter at være faldet i
+hvert fald i øjeblikket er ved at stabilisere sig
+med en svag tendens til fortsat at falde lidt.
+Ingen kan forudse, hvordan situationen i
+Golfen vil udvikle sig, eller hvilken indflydelse
+det vil få på energipriserne i verden som helhed
+og som følge heraf også herhjemme.
+Meget tyder på, at der ikke bliver alvorlig
+mangel på olie. Det kan måske betyde, at vi
+slipper for de meget drastiske prisstigninger.
+Men som sagt: Det er der ingen der kan forudse, og derfor er der heller ingen, der kan tage
+højde for det.
+I Det Konservative Folkeparti er vi af den
+opfattelse, hvis der fremover kommer meget
+store, langvarige og stabile prisstigninger på råolien og dermed også på de raffinerede produkter, at vi så må tage afgiftsniveauet op til overvejelse igen og især afgiften på fyringsolie.
+Med hensyn til benzinafgifterne har vi nemlig allerede flere gange i de senere år nedsat
+dem, angiveligt af hensyn til grænsehandelsproblemerne. I dag adskiller de danske benzinafgifter sig ikke markant fra afgifterne i de øvrige europæiske lande, og et blik på benzinpriserne i Europa, som Tekst-TV er så venligt at
+gøre det nemt for os at få overblik over hver
+dag, viser da også, at vi nok ligger i den dyre
+ende, men at der er flere lande, hvor priserne
+ligger over, endda ikke så lidt.
+Samtidig er der ikke så langt ned til de typiske europæiske priser. Der er ganske vist stadig
+
+1695
+
+8/11 90: Forespørgsel om energiafgifterne";Else Theill Sørensen
+48175;title_name;"væk knap 1,50 kr.s forskel på prisen på 11 super
+i Danmark og i Tyskland, men både Frankrig,
+Holland og Belgien ligger på niveau med Danmark, og de nordiske lande ligger langt over.
+Anderledes forholder det sig med fyringsolien: her er vores afgifter klart i top.
+Den førerposition fik vi, som det også har
+været nævnt flere gange, i 1986, da de blev forhøjet drastisk i forbindelse med et fald i råolieprisen. Dengang var afgiften ganske rigtigt,
+som det også har været nævnt, tænkt som et
+middel til at stabilisere priserne, foruden at den
+skulle være forbrugsbegrænsende.
+Det er da også rigtigt, at argumentet ikke var,
+at der skulle flere penge i kassen, for dem havde
+man ikke disponeret med skulle ind. Nu er det
+faktisk sådan, at sådanne indtægter, som står
+der, er der disponeret efter. De er ikke samlet
+sammen i en særlig kasse for det tilfældes
+skyld, at man en dag skulle få brug for dem. Det
+var dejligt, hvis vi havde det sådan.
+Så uanset hvordan man vender og drejer det,
+hvis en afgift skal sættes ned - i dette tilfælde
+energiafgifterne - skal de danske borgere på
+anden måde betale de offentlige udgifter, som
+vi ikke rigtig har held med at få sat ned.
+Der blev dengang også lavet en aftale om at
+regulere afgifterne, når råoliepriserne ændrede
+sig meget. Den aftale er ophævet, men det forhindrer ikke, at man kan se på, hvordan prisen
+for fyringsolie har udviklet sig siden.
+I 1986 var prisen på 1.000 1 fyringsolie 3.939
+kr., og hvis vi regulerer det med nettoprisindekset, svarer det til 4.700 kr. i dag. Det er omtrent
+det niveau, prisen ligger på. I går eller i forgårs
+lå den lidt over, og i dag ligger den lidt under.
+Det er nemlig i virkeligheden meget svært at
+følge med i, hvad 1.000 l fyringsolie koster, så
+hurtigt svinger priserne: det synes jeg også er et
+reelt problem for forbrugerne.
+Jeg var forleden til et møde i en efterlønsklub
+i Skive, og dér var der flere, der sagde til mig:
+Kan I da i hvert fald ikke finde ud af, at der er
+en eller anden gennemsnitspris over et stykke
+tid? For det er ikke til at holde ud, at det er så
+væsentligt, om vi køber det om tirsdagen eller
+om torsdagen.
+Jeg synes, tanken var sympatisk, for jeg kan
+godt forstå, at det er svært. Men jeg sagde så til
+de folk: Det vil I sikkert synes er en god idé, så
+længe vi kunstigt holder prisen lidt under det,
+listeprisen ellers skulle have været, men vi skal
+
+1696
+
+så være forberedte på det ramaskrig, der kommer, den dag vi i en længere periode holder prisen højere oppe, end den burde være. ,Så foreløbig er min konklusion, at det nok er klogest at
+følge de prisstigninger, som markedet nu engang giver.
+Som sagt har jeg tidligere og for ikke så længe siden gjort rede for mit partis begrundelser
+for at fasthold.e et højt energiafgiftsniveau. Jeg
+vil så her tilføje, at vi mener, at der ikke på det
+nuværende grundlag er basis for at ændre på
+energiafgifterne, men vi vil naturligvis nøje følge udviklingen.
+Jeg skal meddele, at Det Konservative Folkeparti stemmer imod dagsordenen.
+(Kort bemærkning).
+Duetòft (CD):
+Jeg vil gerne sige til fru Else Theill Sørensen,
+at jeg som CD'er føler mig snydt. Da vi sad i
+regering i 1986, var det helt klart som en stabiliserende faktor, at vi var med til at gennemføre
+de energiafgifter. Jeg er meget fascineret af her
+at høre en konservativ ordfører sige, at man
+godt kan indføre nogle afgifter med en bestemt
+begrundelse, men man ved jo, at pengene kommer ind i kassen, hvorefter de i løbet af nogle år
+ligesom bliver en del af det hele, og så betyder
+det ikke noget, at man pludselig bare kigger på
+det ud fra et finansielt synspunkt. Det synes jeg
+var meget fascinerende. Jeg vil sige, at det i alt
+fald ikke er på den måde, man fremmer politikeres omdømme i den offentlige debat.
+Det, der egentlig fik mig herop, var fru Else
+Theill Sørensens påstand om, hvad der sivede
+ind og ud af mit hoved. Det kan der selvfølgelig
+være mange diskussioner om, og jeg er sikker
+på, at mange synes, at der er meget, der ikke siver ind. Men blandt det, der ikke siver ind, er, at
+der er så stor forskel på den konservative energipolitiske ordfører og regeringen. Nu gentager
+fru Else Theill Sørensen her, at den røde rapport er en embedsmandsrapport, som regeringen ikke står bag. Så må jeg, fru Else Theill Sørensen, citere fra Energiplan 2000 på side 86.
+Dér står der:
+»Udvalgets rapport danner efter regeringens
+opfattelse et godt udgangspunkt for at tage stilling til den fremtidige udformning af energiafgifterne.
+Regeringen stiler mod en omlægning af energiafgiftssystemet ...«
+
+1697
+
+(107)
+8/11 90: Forespørgsel om energiafgifterne";Else Theiil Sørensen
+52772;title_name;"Så kommer der noget indskudt, som jeg ikke
+skal tage med, men jeg vil fortsætte lidt længere
+nede:
+»I overvejelserne herom vil der bl.a. indgå
+...« Og så nævner man miljøafgifter på CO2 og
+S02, ændringer af el- og kraftvarmebeskatning
+og indførelse af miljøafgifter på erhvervslivet.
+Det er da ikke at tage afstand fra den røde
+rapport, sådan som fru Else Theill Sørensen
+gør det her. Det er da en bekræftelse af, at det er
+et godt grundlag, at den skal indgå i overvejelserne, og at regeringen seriøst overvejer de ting.
+Det er da ikke en afvisning.
+Det, der er problemet, er, at Det Konservative Folkeparti ikke kan lide, at energiministeren
+har en anden linje end Det Konservative Folkeparti. Det er det, der giver os andre problemer.
+(Kort bemærkning).";Duetoft
+53554;name_party;":
+Jeg begynder at overveje, om det i virkeligheden var en fejltagelse, at jeg for en 25-30 år siden fik et ret pænt papir på mine pædagogiske
+evner. Men det kan godt være, de her er kommet på en prøve, som man ikke forudså dengang.
+Jeg er glad for, at hr. Duetoft citerer direkte
+fra rapporten. Jeg havde den desværre ikke ved
+mig, så derfor måtte det være efter - hvad skal
+man sige? - min almindelige opfattelse - jeg
+tror nok, jeg brugte næsten de samme ord - at
+denne rapport giver et godt grundlag. Så jeg vil
+bede hr. Duetoft se efter, når udskriften af forhandlingerne kommer. Der er ikke tale om, at
+Det Konservative Folkeparti mener noget andet, end hvad regeringen har udtrykt i energihandlingsplanen, eller end hvad vi tidligere har
+sagt.
+Jeg synes også, der er grund til at læse igen,
+hvad jeg sagde med hensyn til indførelsen af afgifterne og problemerne med dernæst at afskaffe dem.
+For det første var de ikke kun prisstabiliserende. Jeg var ganske vist dengang ikke aktiv i
+politik herinde, men jeg er helt sikker på, at en
+væsentlig begrundelse var, at man ville opsuge
+købekraft for ikke at få forbruget til at eksplodere. Det er muligt, det ikke specielt har været
+CD som regeringsmedlem, der gik ind for det,
+men det var den samlede regerings begrundelse, og det må dog i hvert fald også med.
+
+1698
+
+Jeg har heller ikke sagt, at man, når man indfører en afgift med én begrundelse, bare kan
+glemme begrundelsen, og så kan det hele være
+lige meget. Jeg har bare sagt, at enhver regering
+må komme i det problem, at hvis man afskaffer
+afgiften med den ene eller den anden eller den
+tredje begrundelse, må den regering ud at hente
+de penge et andet sted. Der er ikke andre steder
+at hente dem end hos de danske forbrugere og
+de danske skatteborgere.";Else Theill Sørensen
+55330;name_party;":
+Det var tydeligt nok efter den debat, vi allerede har haft, hvorfor CD har rejst denne sag:
+Det er for at få energiafgifterne, sat ned.
+Vi ved også, at det er en af CD's mærkesager,
+og CD har sikkert nok haft mulighederne for et
+kommende hurtigt valg i tankerne, da man stillede denne forespørgsel.
+Jeg ved ikke, om vi undrer os, men i hvert
+fald kan CD's holdning til afgiftspolitikken
+vække forundring. Vi ved jo, at CD er et parti,
+der ikke er meget for at spare på statens udgifter og slet ikke på militærudgifterne, men man
+er meget ivrig efter at sætte afgifter ned på en
+lang række områder, ikke alene på energi, men
+også på boliger, på ejendomsskatter og på en
+hel række områder, hvor vi i og for sig godt
+kunne have høje afgifter på trods af EF. Samtidig ønsker CD en nedsættelse af momsen uden
+finansiering, uden kompenserende besparelser,
+hvad der formodentlig giver et tab for statskassen på 15-20 mia. kr.
+Der var engang, da SF blev beskyldt for at
+bruge nationalproduktet to gange. Den snak er
+forstummet nu, fordi vi anviser indtægter og
+besparelser for vore forslag. Hvad med at se på
+CD's forskellige oplæg til valgflæsk? De trænger til en nationaløkonomisk grundig og kritisk
+gennemgang.
+CD har også brugt argumentet om, at en
+sænkning af energiafgifterne vil anspore arbejdsmarkedets parter til at aftale lavere lønstigninger. Det indgår også i dagsordenen.
+Det kan godt være. Det ville vel også være tilfældet, hvis man holdt f.eks. huslejerne nogenlunde i ro, hvis man sænkede madmomsen og
+måske forhøjede momsen på mere luksusbetonede varer. Man kunne finde langt mere fornuftige former for at skabe et ordentligt forhandlingsklima omkring arbejdsmarkedet. Men en
+nedsættelse af nogle afgifter, der dog begræn-
+
+1699
+
+l
+
+8/11 90: Forespørgsel om energiafgifterne";Riishøj
+57129;title_name;"ser importen og forbedrer vores betalingsbalance, er i hvert fald ikke lige sagen, når man
+skal lave et fornuftigt indgreb.
+Derimod er der mange grunde til at se - det
+var hr. Poul Nielson også inde på - på kontrollen med hensyn til prisdannelsen inden for
+branchen. Det vil jeg meget stærkt opfordre til.
+Man havde jo, da energipriserne var høje - det
+var de i starten af 1980'erne - en anden kontrolmekanisme med månedlige godkendelser fra
+Monopoltilsynets side. Den kontrolmekanisme
+blev ophævet, da energipriserne faldt. Man
+kunne passende overveje at genindføre den.
+Det er også meget rimeligt at se på, hvad
+f.eks. A.P. Møller og oliebranchen nu kommer
+til at betale i skat. Jeg gad vide, om de enorme
+ekstraindtægter, der kommer nu, overhovedet
+bliver afspejlet i ekstraindtægter til staten i
+form af skattebetaling. Det håber jeg at skatteministeren er opmærksom på.
+Vi har i SF også den opfattelse, at man her og
+nu uden problemer kunne ophæve afgiftsfritagelsen for energi for serviceerhvervene, de indenlandske erhverv. Derefter kunne man gradvis indføre energiafgifter inden for den øvrige
+del af erhvervslivet og samordne det med en
+energibesparelsesindsats i erhvervslivet. Man
+kunne godt uden beskæftigelsesmæssige problemer tage fat med energiafgiftsfritagelsen for
+erhvervslivet, som jo er total, helt uanset branchernes stilling med hensyn til eksport og import.
+SF er imod generelle nedsættelser af energiafgifterne. Hertil kan der føjes de argumenter,
+jeg har nævnt: Energiafgifterne (har den skattetekniske fordel, at de er svære at omgå, og det
+gælder i hvert fald ikke for en række andre afgifter. De er også ret lette at administrere. Det
+er også en fordel. Dertil kommer, at høje energiafgifter uundgåeligt fremmer vedvarende
+energi og opmuntrer til energibesparelser. Man
+kan som sagt sagtens finde andre afgifter, der er
+mere passende at nedsætte end energiafgifterne, med bedre eller mindst de samme sociale
+virkninger. Jeg nævnte før madmomsen, og jeg
+nævnte huslejerne.
+Modsat CD går SF faktisk ind for - hvis vi får
+magt, som vi fortjener det - en forhøjelse af
+energiafgifterne, forudsat at hver eneste krone
+anvendes til finansiering af en social opretning,
+der er hårdt tiltrængt, miljøforbedringer, støtte
+til vedvarende energi og støtte til nedbringelse
+
+1700
+
+af energiforbruget i de mest miljøbelastende industrier og i eksporterhvervene. Bruges hver
+krone til de formål, er SF faktisk tilhænger af, at
+man forhøjer energiafgifterne. Vi har også
+fremsat forslag til finansloven om en forhøjelse,
+hvor pengene krone for krone anvendes til de
+formål, jeg nævnte før. Så vi har anvist pengene
+til at finansiere vores ekstraudgifter - modsat
+CD.
+I de sidste dage har energiministeren, måske
+også inspireret af det mulige folketingsvalg,
+som i hvert fald mange troede på for nogle dage
+siden, skærpet holdningen med hensyn til omlægning af energiafgifterne til miljøafgifter, og
+hvis energiministeren gør alvor af de løfter, skal
+der ikke mangle forhandlingsvilje fra vores side. Jeg kan forstå, at Socialdemokratiet er
+skeptisk over for en sådan omlægning, men gør
+energiministeren alvor af en omlægning til
+C02-afgifter, eventuelt kombineret med en gigajouleafgift, så skal det ikke mangle på forhandlingsvilje fra vores side, og dermed er der
+flertal for det. Men det forudsætter jo, at energiministeren - omsider, vil jeg sige - fremkommer med konkrete forslag.
+Det er, som flere ordførere har nævnt, efterhånden et stykke tid siden vi har fået energihandlingsplanen, og jeg synes nok, at tiden er
+inde til, at vi ser nogle konkrete udspil med
+hensyn til en omlægning af energiafgifterne.
+Jeg vil spørge energiministeren, om der er en
+deadline for, hvornår sådanne konkrete udspil
+vil komme. Det skulle i hvert fald meget gerne
+være i denne folketingssamling, ellers virker
+det jo helt meningsløst, ellers er vi helt henne i
+slutningen af valgperioden, og så er der altså ikke sket noget i en hel valgperiode.
+I debatten om energiafgifterne har CD jo også henvist til EF, og CD forsøger at bruge EF
+for at vinde gehør for sin politik med hensyn til
+nedsættelse af energiafgifterne. Det er et
+spørgsmål - som hr. Poul Nielson var inde på
+det - hvorvidt EF overhovedet i en overskuelig
+årrække foretager bindende indgreb med hensyn til harmonisering af energiafgifterne. De er
+jo meget forskellige fra land til land, og det er
+øjensynlig ikke det, der står øverst på ønskesedlen i Bruxelles.
+Et andet og langt vigtigere spørgsmål er,
+hvordan energiafgifterne udvikler sig i vores
+naboland Tyskland. Det er jo med det land, vi
+kan forestille os grænsehandel: man kan ikke
+
+1701
+
+8/11 90: Forespørgsel om energiafgifterne
+
+1702";Riishøj
+61802;title_name;"at skærpe kontrollen med prisdannelsen inforestille sig, at man kører ned til Holland eller
+Frankrig og fylder tanken op og så kører tilbage den for oliebranchen
+og at ændre energiafgiftslovene sådan, at der
+igen. Det kan godt være, CD har den tanke, at
+sådan noget kan ske, men den er jo ikke så ikke gives energiafgiftsrefusion for momsregioplagt igen. Så det er udviklingen i Tyskland, strerede virksomheder i serviceerhvervene.
+Energiafgiftsrefusion i produktion, håndværk
+der er afgørende.
+Der er jo allerede sket en tilnærmelse, og når og transport ophæves gradvis, samtidig med at
+man følger den tyske debat, er man jo ikke i der ydes støtte til nedbringelse af energiforbrutvivl om, at alt taler for, at der umiddelbart efter get.
+et valg sker en forhøjelse af energiafgifterne i
+Tinget går derefter over til næste sag på dagsTyskland. Man skal skaffe et betragteligt eks- ordenen.«
+trabeløb til at finansiere udviklingen i DDR, og
+(Dagsordensforslag nr. D 12).
+man er også i klemme både på grund af Kuwaitkrisen og på grund af problemerne internt i Formanden:
+kulindustrien. Man er tvunget til at nedbringe
+Der er nu fremsat følgende forslag om motienergiforbruget i det samlede Tyskland, og jeg veret dagsorden: (se ovenfor). Også dette dagstror bestemt, at der kommer afgiftsforhøjelser. ordensforslag indgår nu i forhandlingen.
+Man diskuterer det i hvert fald åbent, og selv
+inden for CDU - som efter opinionsundersø(Kort bemærkning).
+gelserne vinder valget, men det kan jo ændre";Riishøj
+63306;name_party;":
+sig - er man indstillet på det.
+Jeg synes, det er synd for hr. Riishøj, at der
+Så udviklingen kan meget vel gå i den retning, og det vil være glædeligt, fordi det ganske ikke blev udskrevet valg i går, for hele arguenkelt er nødvendigt, hvis vi tager Brundtland- mentationen omkring, hvad alle i denne sal
+handlingsplanens anvisninger og de truende - mente, var åbenbart bygget på, at der skulle væudsigter med hensyn til klimaforandringer og re valgkamp.
+Jeg vil godt i al stilfærdighed sige tak til hr.
+ødelæggelse af miljøet i Europa og i verden alRiishøj, fordi hr. Riishøj mener, at jeg har såvorligt.
+Hvis energiministeren gør alvor af at ville danne synske evner, at jeg kunne vide, at der
+omlægge energiafgifterne til miljøafgifter, til her i begyndelsen af november måned ville væCO2-afgifter, eventuelt i kombination med an- re lidt spilfægteri. Faktisk bebudede CD alleredre energiafgifter, skal der derfor ikke mangle de denne forespørgsel i august, så det er meget
+velvilje fra vores side, heller ikke til en hurtig godt forudset, synes jeg, og det er jeg da glad
+afgørelse på dette område, for der er gået for for. Jeg håber, jeg kan blive ansat som spåmand
+lang tid, og vi har grundlaget for at tage de rigti- et eller andet sted, hvis jeg engang skulle ryge
+ud herindefra.
+ge beslutninger.
+Det andet, jeg godt vil sige til hr. Riishøj, er,
+CD's dagsorden vil vi naturligvis afvise.
+Det skuffer mig noget, at Socialdemokratiet at CD faktisk igennem de sidste 8 år har stemt
+ikke kan stemme imod den dagsorden, som CD for ganske mange besparelser. Det har vi gjort,
+fremsætter sammen med Fremskridtspartiet, mens vi var i firkløverregeringen, men vi har
+oven i købet i en ret skærpet udgave, men det også gjort det senere.
+Vores indvending imod besparelser gælder
+har nok sådan lidt at gøre med, at man godt vil
+dér,
+hvor man bare slår ud med armen og siger:
+være lidt gode venner med CD efter et valg. Det
+har jeg lidt på fornemmelsen. Det kan ikke væ- Nu skærer vi lige et par milliarder ned hist og
+her. Vi vil gerne se, hvad der rammes, og vi vil
+re af sàglige grunde.
+Vi vil derimod fremsætte et forslag om moti- også have ret til at sige, at der er nogle steder,
+veret dagsorden, som jeg håber kan få flertal i hvor vi ikke mener det skal ramme. Men vi har
+aldrig som hr. Riishøj kørt friløb på det områFolketinget, og det lyder sådan:
+de: vi har rent faktisk været med til at spare
+Forslag om motiveret dagsorden.
+ganske mange penge i de offentlige budgetter,
+og nu bruger vi nogle få af dem igen.
+»Folketinget opfordrer regeringen til:
+at omlægge energiafgifterne til miljøafgifter
+Og så vil jeg da i øvrigt sige til hr. Riishøj, at
+hr. Riishøj ikke skal være bange. Jeg er glad for,
+(forureningsafgifter),
+
+1703
+
+8/11 90: Forespørgsel om energiafgifterne";Duetoft
+66098;title_name;"at Socialdemokratiet har valgt at undlade at
+stemme til vores dagsorden, men uden at det
+skal være en opfordring til hr. Poul Nielson, vil
+jeg da gerne sige, at selv om hr. Poul Nielson
+skulle have fundet på at stemme imod dagsordenen, kunne vi nok snakke sammen bagefter,
+også efter et valg, hvis det var nødvendigt.
+(Kort bemærkning).";Duetoft
+66447;name_party;":
+De ting, jeg- nævnte omkring finansieringen,
+gik jo på det, CD har gjort, siden de var i regering. Det er rigtigt, at da man var i regering,
+gjorde man noget andet, end da man var uden
+for regeringen.
+Inden for de sidste år har CD jo foreslået en
+lang række ting med hensyn til ejendomsbeskatning, lejeværdi af egen bolig, nedsættelse af
+momsen til EF-niveau og nu afgifterne på energi, og tilsammen må det løbe op til skønsmæssigt mindst 15-20 mia. kr., og der er ikke kommet et eneste forslag til enten kompenserende
+besparelser eller nye indtægtskilder. Og det vil
+sige, at siden CD er gået ud af regeringen, har
+alt altså gået på regulært overbud. Jeg har ikke
+set, hvordan man vil finansiere de ting: man
+har endda, tror jeg, fejet det af vejen og sagt :
+Det er ikke vores opgave. Derfor synes jeg, at
+CD slipper alt for let. Jeg nævnte før, hvordan
+vi blev angrebet for nogle år siden med hensyn
+til bruttonationalproduktet - vi synes med urette - men nu bliver vi ikke angrebet for det mere.
+Men jeg har altså ikke set CD fremsætte forslag
+til finansiering af de 15-20 mia. kr., man har villet forære forbrugerne inden for det sidste år,
+siden CD trådte uden for regeringen. Jeg kan
+godt huske, at da de var i regering, kunne de
+godt spare. Det har altså noget med troværdighed at gøre.";Riishøj
+67762;name_party;":
+Debatten bliver jo bred, og det synes jeg er
+udmærket, men som regeringen allerede har
+oplyst, og som skatteministeren har fortalt os,
+er energipriserne for øjeblikket under niveauet
+i foråret 1986, når der justeres for inflationen,
+måske lige med undtagelse af fyringsolien, som
+med justeringen for inflationen lå nogenlunde
+på det niveau, som vi har i dag.
+Derfor er der efter Venstres mening ingen
+grund til at ændre de nuværende energiafgifter
+som et middel til at stabilisere forbrugerpriser-
+
+1704
+
+ne på energiområdet. Det er selvfølgelig heller
+ikke det, dagsordenen lægger op til, men det er
+fremtiden, man ser på. Jeg synes heller ikke, der
+er nogen grund til at gøre det på grundlag af
+den nuværende konflikt i Golfen, som vi endnu
+ikke ved hvordan ender.
+Forespørgslen vedrører vurdering af de
+fremtidige energipriser, og på dette punkt kan
+jeg godt forstå at skatteministeren har tilkendegivet, at det er umuligt at vurdere. Vi ved jo ikke, hvad der vil ske i de kommende uger eller
+måneder. Vi har dog fået oplyst, at terminspriserne, dvs. levering på 3 måneder, er lavere end
+spotpriserne for øjeblikket, hvilket indicerer, at
+markedet i dag forventer faldende priser, men
+som tidligere sagt kan det se anderledes ud allerede i morgen eller i næste uge.
+I påskeaftalen i 1986 var der enighed om at
+tilpasse afgifterne på energi både op og ned for
+at stabilisere priserne for forbrugerne. Det betød, at afgifterne skulle reduceres, såfremt verdensmarkedspriserne steg, og forhøjes, såfremt
+priserne på verdensmarkedet faldt. Det skulle
+holdes inden for en udsvingsramme på ca. 10
+pet. Aftalen blev jo også praktiseret på denne
+måde, men som vi tidligere har hørt, er aftalen
+faldet bort i 1989, fordi der var enighed om, at
+den ikke længere lod sig praktisere, bl.a. fordi
+der nu var et andet flertal i Folketinget.
+Venstre vil dog gerne nu sige, at ordningen
+på en måde var økonomisk naturstridig, fordi
+den faktisk betød, at når landet blev fattigere på
+grund af, at vi skulle betale mere for olien på
+verdensmarkedet, ja, så skulle forbrugerne stilles, som om intet var hændt, og hvis oliepriserne faldt, ville forbrugerne ikke få nogen som
+helst glæde deraf.
+Det, vi lavede i 1986, havde jo så andre årsager, som vi også har hørt fra den konservative
+ordfører. Derfor var Venstre ikke imod, at aftalen ophørte, og vi har ingen ønsker om igen at
+indføre en helt eller delvis automatisk afgiftsordning, der vil medføre, at vi bliver bundet fast
+til løbende at foretage tilpasning af energiafgifterne, således at forbruget stabiliseres.
+Umiddelbart lyder løsningen måske tiltalende, fordi vi som forbrugere så holdes skadesløse for energiprisstigninger, som vi ikke selv har
+nogen direkte indflydelse på : men vi er jo også
+skatteydere, og regningen vil under alle omstændigheder skulle betales. Samtidig fjerner vi
+os yderligere fra den egentlige markedspolitik -
+
+1705
+
+8/11 90: Forespørgsel om energiafgifterne";Skrumsager Skau
+70713;title_name;"et system, man for øvrigt kæmper for at få indført i Central- og Østeuropa for dermed at opgi-,
+ve planøkonomien.
+Venstre vil endvidere med energiafgifterne
+varetage andre hensyn, f.eks. hensynet til EF's
+indre marked, som flere af ordførerne har været
+inde på, herunder selvfølgelig dansk erhvervslivs konkurrenceevne - og derfor tager vi afstand fra SF's ordfører på det område - men
+også de forpligtelser, som jeg har fået oplyst at
+vi har indgået med andre lande i Energiagenturet, men det kan jeg så spørge energiministeren
+om.
+I Venstre mener vi også, at hensynet til miljøet skal tilgodeses: men at der er nogenlunde ligestilling mellem de omkostninger, der er ved
+at bruge de forskellige opvarmningsmidler, og
+hvilke muligheder der er til stede i de forskellige egne af landet, har også ret stor betydning. I
+den forbindelse vil jeg kort nævne redegørelsen
+fra det tværministerielle energiudvalg, der har
+undersøgt og udarbejdet forskellige indstillinger, som regeringen jo ikke har taget stilling til
+endnu, men det kan jeg forstå at vi skal drøfte
+senere og ikke under denne forhandling.
+Til de forskellige dagsordensforslag, som vi
+har hørt indtil nu, kan jeg sige, at Venstre vil
+stemme imod forslaget fra CD: det vil ikke nyde fremme hos os. Også forslaget fra SF vil Venstre stemme imod.";Skrumsager Skau
+72026;name_party;":
+Det kan godt bekymre, at man fra regeringens side vælger kun at besvare forespørgslen
+fra skatteministerens side. Det vidner jo om, i
+hvilken grad vores energipolitik her i landet
+mere er skattepolitik end egentlig energipolitik.
+Jeg fristes i den forbindelse til at kigge lidt tilbage, nemlig til september 1989, hvor Tom
+Togsverd fra Budgetdepartementet havde en
+på daværende tidspunkt meget omtalt artikel i
+bladet El og Energi.
+I artiklen gennemgik han den førte energipolitik her i landet og gjorde klart og utvetydigt
+opmærksom på, at med den måde, energiafgifterne har været administreret på, og det niveau,
+de har ligget på, har der ikke været saglige energipolitiske argumenter for de nuværende energiafgifter: derimod er der gode finanspolitiske
+argumenter. Det synes jeg også glimrende illustreres ved, at regeringen i dag vælger udelukkende at lade det være skatteministeren, der
+svarer på forespørgslen.
+
+1706
+
+Vi har ikke hørt meget fra regeringen om de
+deciderede energipolitiske overvejelser, der ligger bag. Og dér synes jeg for at blive ved den
+nævnte artikel af Tom Togsverd, at det er væsentligt at henlede opmærksomheden under
+den debat, vi har i øjeblikket, på et par andre
+citater fra samme artikel. Det er nemlig sådan,
+at der ganske rigtigt kan være gode argumenter
+for at stimulere folk til forøget isolering og i det
+hele sikre så lavt et energiforbrug som overhovedet muligt. Men når man vælger en energipolitik og ikke mindst en afgiftspolitik, der giver
+så kraftigt et afgiftssmæk, som tilfældet er, kan
+man også meget vel komme ud i, at der foretages overinvestering i energibesparelser, så man
+må beregne et samlet velfærdsøkonomisk tab,
+simpelt hen. For hvis de pågældende penge ikke var blevet opkrævet i energiafgifter, ville de
+alt andet lige have været anvendt på andre områder, som også kunne have givet staten et provenu. Så det, at man lægger så hårdt ud, kan
+simpelt hen stimulere til en overinvestering i
+energibesparende foranstaltninger - igen fra
+samme artikel.
+Så vil jeg vende mig lidt til det, skatteministeren sagde. Skatteministeren gjorde lidt ud af at
+fortælle om EF's tilpasningsbestræbelser, og
+jeg kvitterer da for, at regeringen har fundet ud
+af, at det var en god idé, at vi i fællesskab sænkede afgifterne på benzin. Det var jo også medvirkende årsag til, at skatteministeren i dag
+kunne fortælle, at når man regner ud fra 1986
+og realpriser osv., er det alene bidraget fra afgiftsnedsættelsen i januar og juli d.å., som betyder, at man i dag kan konstatere, at benzinpriserne ikke har så skrækkelige højder, som de
+har haft tidligere.
+Men når så skatteministeren går videre og
+minsandten ligefrem praler med, at regeringen
+har tænkt sig som en del af EF-tilpasningsbestræbelserne at ændre afgiftsfritagelsesordniggerne vedrørende dieselafgiften for lastbiler, ja,
+så må jeg indrømme, at det løber mig koldt ned
+ad ryggen. Regeringen vælger altså at tage det
+segment ud, der hedder afgiftsstigning, og prale
+af det. Vi efterlyser nok en gang, at regeringen
+også interesserer sig for de områder, hvor der er
+brug for, at afgiftstilpasning betyder afgiftsnedsættelse.
+Flere ordførere, ikke mindst hr. Duetoft, har
+allerede nævnt, hvordan sommerens dunkpetroleum jo i allerhøjeste grad gav anledning til
+
+1707
+
+8/11 90: Forespørgsel om energiafgifterne";Behnke
+75347;title_name;"debat om energiafgifterne her i landet. Det var
+jo ingen tilfældighed, at tusinder af danskere så
+en økonomisk fordel i at gøre sig de oven i købet meget besværlige bestræbelser for at hente
+dunkpetroleum: det var simpelt hen, fordi afgiftsspændet var for stort. Og hvad enten energiministeren eller skatteministeren kan lide det
+eller ej, så vil den 1. januar 1993 bringe os i en
+situation, hvor et fortsat afgiftsspænd mellem
+fyringsoliepriserne i Danmark og fyringsoliepriserne i Vesttyskland vil betyde ikke alene, at
+man altså kan køre til Vesttyskland og selv fylde dunke op med fyringsolie og køre dem til
+Danmark, men vel egentlig også, at man fra sin
+telefon i Tinglev kan ringe til et olieselskab i
+Flensborg og bede det om at køre en lastvognfuld fyringsolie til sit oliefyr i Tinglev mod at
+betale priser og afgifter i Vesttyskland, for varernes fri bevægelighed vil jo ellers blive krænket.
+Det er ikke noget, EF kræver. Jeg kan forestille mig, at de vesttyske olieleverandører vil
+klappe i hænderne og være meget begejstrede,
+hvis vi opretholder vort høje afgiftsniveau i
+Danmark, for det vil give flere kunder til dem,
+præcis på samme måde som det selvfølgelig ikke er indehaverne af grænsekioskerne på den
+tyske side af den dansk-tyske grænse, der er bekymret for det høje afgiftsniveau i Danmark,
+for jo højere afgifterne er i Danmark, jo større
+er omsætningen hos dem.
+Men lige så vel som vi på et tidspunkt i sommeren 1989 kunne konstatere, at en opretholdelse af en særlig afgift på turistbusser ville betyde 0 kr. i statskassen, fordi alle turistbusserne
+blev udflaget, så vil vi altså på en lang række
+andre områder kunne konstatere, at enten opretholder vi afgifterne og får færre penge i statskassen, fordi folk gør deres indkøb i udlandet,
+eller også tilpasser vi vores afgifter, ikke af hensyn til de andre EF-lande, men faktisk af hensyn til os selv.
+Så går energiministeren op og siger, at der
+måske er brug for, at energiafgifterne afregnes
+på en anderledes måde, og at man jo da bestemt
+ikke vil forringe erhvervslivets konkurrenceevne. Den debat om at ændre energiafgifterne til
+at være miljøafgifter, og hvor miljøafgifterne så
+altså ikke er fradragsberettigede rent skattemæssigt for virksomhederne, har vi også haft
+lidt af i dag.
+
+1708
+
+Skatteministeren har senest i sin egen skattepolitiske redegørelse fra maj 1990 klart og utvetydigt beskrevet, hvordan det, at pengene transporteres igennem statskassen, betyder, at der
+falder nogle penge af undervejs.
+Hvis man vil have, at erhvervslivet skal betale miljøafgifterne uden refusion og man så putter dem ud i nogle kasser, hvor der kan søges
+tilskud, og der så skal energikonsulenter ud etc.
+etc., så er jeg overbevist om, at skatteministeren
+må være den første til at give mig ret i, at der
+mildt sagt bliver tale om et velfærdsøkonomisk
+tab. Det har alle andre ordninger hidtil i hvert
+fald betydet.
+Skatteministeren praler med, at regnet i realpriser siden 1986 har forbrugerne ingen grund
+til at klage. Det er vi ikke enige i, og det er selvfølgelig, fordi vores udgangspunkt er, at eksempelvis fyringsoliepriserne allerede i 1986 var alt
+for høje, ikke på grund af markedsprisen, men
+på grund af afgifterne.
+Vi accepterer ikke den udregning og den måde at fremskrive tingene på, fordi udgangspunktet ganske enkelt efter vores mening er forkert. Det er forkert at have så høj en afgift, særlig på fyringsolie. Havde dette land befundet
+sig 1.000 km længere mod syd i nærheden af
+ækvator, så kunne folk sagtens overleve uden
+opvarmning i deres stuer, men vi befinder os på
+en breddegrad, som betyder, at det er en livsnødvendighed at opvarme sin bolig.
+Vores udgangspunkt er, at alle skatter er
+hæslige og skattetyveri, og så kan vi diskutere
+graden af hæslighed og graden af tyveri ved de
+forskellige skatter, men at have en afgift på så
+basalt et menneskeligt behov som at have varme i sine stuer er ikke alene uforskammet, det
+er decideret umoralsk. Man kan have afgift på
+spiritus, man kan have afgift på tobaksvarer og
+andre ting og have gode argumenter for det,
+men at beskatte folk på at opvarme deres stuer
+eller beskatte erhvervslivet på at bruge energi
+til produktion, det er efter vores mening ganske
+og aldeles urimeligt.
+Nu har energiministeren ganske vist ikke
+haft ordet, men ved festlige lejligheder praler
+energiministeren jo af, at vores forsyningsgrad
+fra de danske energiressourcer i Nordsøen er
+stigende. Og hurra for det, men hvor mange foredrag er der ikke bl.a. fra denne talerstol igennem årene blevet holdt om, at et af problemerne for dansk erhvervsliv er, at vores under-
+
+1709
+
+8/1190: Forespørgsel om energiafgifterne";Behnke
+79995;title_name;"grund er så råstoffattig - ud over lidt tavlekridt
+og sådan noget er det jo ret begrænset, hvad vi
+kan finde i den danske undergrund - og at
+dansk erhvervsliv derfor alle dage har været afhængigt af råstofpriserne på de internationale
+markeder. Nu er der en stigende grad af selvforsyning på energiområdet, hvorfor skal det så
+ikke komme dansk erhvervsliv til gode i form
+af, at vi endelig har et segment i råstoftilførslen,
+hvor der er mulighed for selv at differentiere
+prisen her i landet og selv sørge for, at erhvervslivet har et billigere udgangspunkt end vores
+konkurrenter?
+Fru Else Theill Sørensen fastslog klart og
+utvetydigt, at det ikke var konservativ politik at
+lægge ekstra afgifter på dansk erhvervsliv.
+Glimrende! Jeg håber, at fru Else Theill Sørensen og Det konservative Folkeparti vil stå fast
+på de synspunkter, når man på et eller andet
+tidspunkt i en uvis fremtid skal tage stilling til
+den noksom omtalte røde rapport. Men jeg
+minder stadig væk fru Else Theill Sørensen om,
+at i den redegørelse, som energiministeren afgav til Folketinget den 4. april d.å., står der
+klart og utvetydigt på side 5: »Indførelse af miljøafgifter på S02 og CO2 i kombination med en
+fortsat anvendelse af almindelige energiafgifter«. Jeg kan ikke læse det på anden måde, end
+at man rent faktisk planlægger både at opretholde energiafgifterne og indføre nye miljøafgifter.
+Jeg håber, fru Else Theill Sørensen har lige så
+meget indflydelse både i Det Konservative Folkeparti og i regeringskredse, som der bliver lagt
+for dagen her fra Folketingets talerstol, men jeg
+kan slet ikke forstå, at fru Else Theill Sørensen
+kan stå her og sige, at hvis nogle af energiafgifterne forsvinder, er man nødt til at kradse pengene ind på anden måde. Er det konservativ
+politik, at det ikke kan lade sig gøre at gøre de
+offentlige budgetter mindre? Så glæder jeg mig
+til at korrespondere med fru Else Theill Sørensen i læserbrevsspalterne og diskutere på møder, hvor vælgerne er til stede, for det er i hvert
+fald, må jeg nok sige, en ny melding fra Det
+Konservative Folkeparti, at det ikke kan lade
+sig gøre at reducere den offentlige sektor.
+Når Venstres ordfører, hr. Skrumsager Skau,
+siger, at man i Østeuropa opgiver planøkonomien og det samme burde vi gøre her i landet,
+er jeg enig, men på energiområdet synes jeg at
+Venstre skulle lade være med at holde den slags
+
+1710
+
+foredrag. Jeg minder om, at det var en Venstrehandelsminister, som i sin tid påførte landet
+den katastrofe, der hedder naturgasprojektet,
+og det er, om noget, centralisme og planøkonomi.
+Jeg skylder at sige, at Fremskridtspartiet
+selvfølgelig støtter den dagsorden, vi er medforslagsstillere til.";Behnke
+82669;title_name;"Fru Else Theill Sørensen for en kort bemærkning. Jeg skal lige gøre opmærksom på, at uret
+ved siden af talerpulten ikke fungerer, så det
+kan man ikke stole på. Min tidsmåling er uafhængig af det.
+(Kort bemærkning).";Formanden
+82909;name_party;":
+Dette behøver heller ikke tage ret lang tid.
+Jeg skal sige, at det er Det Konservative Folkepartis politik, at de offentlige udgifter godt kan
+blive mindre, og den dag vi har 90 mandater,
+eller 90 mandater herinde er enige med os i det,
+vil det kunne lade sig gøre.
+Men ligesom Fremskridtspartiet jo ikke får
+nedsat nogen afgifter eller nogen skatter eller
+nogen offentlige udgifter ved bare at sige, at det
+er deres politik, så er det altså heller ikke sådan
+for Det Konservative Folkeparti. Jeg kan vist
+roligt sige, at sådan er det heller ikke for de tre
+regeringspartier tilsammen, for vi råder desværre ikke over 90 mandater.
+Det er just problemet, at vi ikke kan nøjes
+med at styre den ene side af regnskabet. Vi bliver nødt til at have nogen til at hjælpe med også
+at sætte udgifterne ned. Det er let nok at få folk
+til at sætte indtægterne ned, det er der stribevis
+af forslag til, og vi kunne finde mange flere.";Else Theill Sørensen
+83853;name_party;":
+Forespørgslens første del stiller spørgsmålet,
+om man kan oplyse noget om energiafgifternes
+fremtid. Det synes på nuværende tidspunkt at
+være klart, at energiafgifternes fremtid tegner
+sig lys og lykkelig. Der vil fortsat være brug for
+afgifter på energi i lang tid fremover, så vidt vi
+kan skønne. Så vidt Det Radikale Venstre kan
+skønne, vil der også komme energiafgifter i
+mange andre lande, og, der vil komme højere
+energiafgifter i nogle lande, end de har været
+vant til.
+
+1711
+
+8/11 90: Forespørgsel om energiafgifterne
+
+1712";Elisabeth Arnold
+84408;title_name;"Vi vil også være interesseret i at kigge på visDertil kommer så ting, der har været nævnt
+se dele af erhvervslivet, som bruger energi til flere gange før i dag, nemlig benzinselskabersimpel rumopvarmning og andre ting, som de nes prispolitik og deres markedsføringspolitik.
+også skal have et incitament til at spare på.
+Vi er meget tilfredse med, at Konkurrencerådet
+Vi ser også frem til, at EF vil tage energiafgif- nu kigger nærmere på, hvordan prisdannelsen
+terne op med henblik på forbedring af miljøfor- egentlig sker i benzinselskaberne, og vi er overholdene med henblik på nedbringelse af bevist om, at der vil komme interessante ting
+C02-udslippet og med henblik på energibespa- frem af den undersøgelse.
+relser. Vi forudser, at der efterhånden vil ske en
+En sidste ting, som også har indflydelse på
+omlægning til miljøafgifter, hvor afgifterne vil prisforholdene, som de kommer til at foregå for
+blive pålagt de energiformer, der giver den stør- den enkelte dansker, er dollarkursen: den har
+ste forurening på emissionssiden.
+vi heller ikke megen indflydelse på i Danmark.
+Kort sagt, Det Radikale Venstre forudser, at Så der er utrolig mange ting, som giver indflyenergiafgifterne som instrument i energi- og delse på prisudviklingen, og alligevel har prismiljøpolitikken vil blive bevaret og udbygget i udsvingene i Danmark været ganske moderate.
+fremtiden, både nationalt og globalt.
+Det er bevist af de tal, som skatteministeren
+Jeg vil også henvise til de seneste udmeldin- har lagt frem. Når man tænker på, hvor store
+ger fra miljøkonferencen i Genéve: 2 graders udsving der har været på råolieprisen, så har
+temperaturstigning vil udløse miljøkollaps.
+prisudsvingene for den almindelige dansker
+Den anden del af forespørgslen går på, om været forholdsvis beskedne.
+man vil bruge energiafgifterne som middel til at
+Vores hidtidige energipolitik har hjulpet
+stabilisere forbrugerpriserne på energiområ- med til, at virkningerne af Golfkrisen på landet, og det er jo en ganske anden snak. Stabili- dets økonomi har været temmelig reducerede.
+tet er åbenbart kodeordet. Ja, hr. Duetoft gik En modsætning kan f.eks. være USA, hvor den
+endda så vidt, at han brugte ordet tryghed: man almindelige forbruger i USA har et literforbrug
+skulle have tryghed for, at energiafgifterne var af benzin pr. person, som er fuldstændig eksoruændrede ud i en eller anden fjern fremtid.
+bitant. Man regner det for en menneskeret, at
+Det er selvfølgelig godt for den enkeltes pri- man har billig benzin til rådighed til hvert enevatøkonomi, at der er stabilitet på en væsentlig ste medlem i familien over 16 år, som kan køre
+del af ens husholdningsbudget, nemlig hvad bil. Dér betyder det utrolig meget, at der er prisangår opvarmning og transport. Stabilitet er udsving i Den Persiske Golf, og dér har man
+også udmærket for landet, hvis vi ved, at vi kan problemer. Man kan i disse dage i amerikansk
+regne med en nogenlunde fast udgift for bor- fjernsyn opleve energiministre og skatteminigerne på dette område, og at vi ikke vil blive stre i USA sige: Se til Europa! Se, hvor fornuftimødt med store, voldsomme krav om kompen- ge de har været i Europa. De har indrettet deres
+sationer. Og stabilitet på højt niveau vil være energipolitik sådan, at de ikke er så sårbare megodt for landet, hvis vi skal have etableret ener- re over for svingninger på råolieprisen i Den
+gibesparelser. Det vil være til gavn for miljøet: Persiske Golf. Så jeg tror, vi skal tørre sveden
+den sammenhæng er alle efterhånden klar over. lidt af panden og sige: Det ser ud til, at vi rider
+De forskelle, der skal være i energiafgifterne, stormen af denne gang.
+skal selvfølgelig animere til brug af renere enerDet Radikale Venstre ønsker ikke den gamle
+gikilder. Det er jo også et sigte, som jeg har for- prisreguleringsaftale genindført. For det første
+nemmelsen af at en stor del af Folketingets var der altså ikke flertal for den: der er ikke
+medlemmer er enige i. Så langt så godt. Men mandatflertal bag den - det er i sig selv, synes
+det er jo et prisfølsomt område. 20 gange efter jeg, et vægtigt argument. Men vi skal ikke foreIraks invasion af Kuwait har der været ændrin- gøgle befolkningen, at vi kan garantere den
+ger i benzinprisen herhjemme. Lynhurtig reak- mod prischok. Hvis der sker en katastrofe i
+tion, ikke blot på faktiske forhold, men også på Mellemøsten og prisen på verdensmarkedet stirygter, varsler og forventninger eller bange ger med en faktor 5, 10 eller sådan noget - det
+anelser. Men altså ikke prisudsving, som har kunne man måske forestille sig i sin vildeste
+været ændret eller foranlediget af dette -Folke- fantasi - så kan vi da ikke garantere den danske
+tings indgriben.
+forbruger, at vedkommende ikke skal mærke
+
+1713
+
+8/11 90: Forespørgsel om energiafgifterne";Elisabeth Arnold
+89196;title_name;"noget som helst til, at der sker drabelige ting
+ude i verden. Sådan en prisreguleringsaftale vil
+vi ikke kunne give folk nogen som helst garanti
+for kan gennemføres. Så det synes jeg ikke vi
+skal foregøgle nogen. Det kan også skabe fornyede problemer i forhold til Fællesmarkedet,
+især Tyskland - det er nævnt flere gange: grænsehandelsproblemerne.
+Jeg synes ikke, vi skal skabe flere problemer.
+Vi har netop prøvet at løse nogle af dem: vi skal
+ikke prøve at genindføre nogen af de problemer, vi er sluppet af med.
+Vi vil hellere anbefale regeringen at arbejde
+for en mere sammenhængende energi- og miljøpolitik i Europa og samarbejde med Det Internationale Energiagentur og selvfølgelig
+presse på i EF's Ministerråd på energiområdet
+for at få nogle aftaler, der hænger bedre sammen, så vi også kan få nogle af de andre lande i
+Europa til at føre en lige så fornuftig energipolitik, som vi har gjort her i Danmark. Det Radikale Venstre vil i hvert fald bidrage alt, hvad vi
+kan, til, at en sådan større, sammenhængende
+løsning ser dagens lys.
+Til sidst vil jeg sige, at Centrum-Demokraternes og Fremskridtspartiets dagsorden vil vi naturligvis stemme imod.
+SF's dagsorden har vi megen sympati for.
+Den indeholder jo elementer, som vi fra Det
+Radikale Venstres side kan tilslutte os. Vi ser
+frem til, at energiafgifterne efterhånden bliver
+omlagt til miljøafgifter. Vi vil også gerne være
+med til at se på kontrollen med prisdannelsen
+inden for oliebranchen. Og vi vil også gerne
+kigge på, hvorledes man skal give energispareincitamenter til erhvervslivet, sådan som den
+private forbruger i Danmark har fået det.
+Men ordlyden i SF's dagsorden foregriber
+begivenhedernes gang, for den giver allerede
+konklusionen på det udvalgsarbejde eller den
+undersøgelse, som netop er sat i gang. Derfor
+kan vi ikke støtte selve dagsordensteksten: men
+intentionerne i den har vi sympati for, og vi forudser, at det arbejde, der kommer til at foregå
+her i Folketinget på energiområdet, vil række i
+nogenlunde den samme retning.
+Derfor vil vi stemme imod begge de stillede
+dagsordensforslag.";Elisabeth Arnold
+91301;name_party;":
+Man kan nok have en fornemmelse af, at noget af gassen er gået af ballonen. Hvis vi havde
+
+1714
+
+haft nogle benzinpriser på 7-8 kr./l og helt deroppe i dag, var det noget andet, men nu er det
+jo sådan, i hvert fald i det område, jeg kommer
+fra, at den er nede omkring 4-5 kr./l, så billig,
+som den ikke har været længe. Men på den anden side ved vi også godt, at det ikke er noget,
+der varer ved, og derfor kunne det være meget
+rimeligt at diskutere det.
+Kristeligt Folkeparti mener, at der kan være
+god grund til virkelig at have styr på energiområdet. Jeg har også hørt udtalelser om, at man i
+USA måske ikke havde ,haft de store problemer, de stod med dengang, alle de mange krak
+og tragedier derovre, hvis de havde haft en mere fornuftig energipolitik. Men det er jo bare sådan, at der er nogle grøfter i begge sider: man
+kan gå så langt i pålæggelsen af afgifter, at det
+bliver for dyrt for den enkelte borger.
+Vi skal nok i det hele taget være lidt opmærksom på, når vi pålægger afgifter på afgifter hele
+tiden, så at sige: hvordan rammer det borgerne?
+Når det gælder energiområdet, så har vi jo en
+god grund til at pålægge afgifter: vi har miljøgrunden. Men selv med miljøgrunden må vi også sige, at der er grænser for, hvor meget den
+enkelte familie specielt kan holde til. For Kristeligt Folkeparti gælder det derfor om, at vi
+finder en fornuftig balance i det, sådan at der er
+et incitament til at spare på energien, men også
+sådan, at man ikke ikke behøver at sidde og fryse og slukke lyset for at få det til at løbe rundt.
+Hvis vi kommer så langt ud i vores spareiver, at
+det bliver så dyrt, at folk ikke har råd til at have
+den fornødne varme eller det fornødne lys i huset, ja, eller det fornødne lys omkring sit hus og
+på gader og veje, så får det nogle andre konsekvenser. Så kan det blive stigende udgifter til
+hospitalsophold, til overfald og sådanne ting.
+Derfor mener vi, det er meget, meget vigtigt,
+at vi ser realistisk på det. Vi har haft en energidebat og nogle planer om, hvordan fremtiden
+skal være også på energiforsyningsområdet,
+men vi synes også godt, at regeringen her kunne
+prøve på at blive en lille smule mere fornuftig,
+sådan at man også, når man skal se på besparelser og på, hvordan man tilgodeser den enkelte
+forbrugers udgifter, tilgodeser f.eks. de fjernvarmeværker, der i dag kører godt, og ikke påtvinger dem noget, som vil give større udgifter.
+Jeg er personlig meget skeptisk over for miljøafgifter. Ikke hvis det virkelig var miljøafgif-
+
+1715
+
+8/1190: Forespørgsel om energiafgifterne";Inger Stilling Pedersen
+93862;title_name;"ter, men fordi man næsten kan få alting til at
+glide ned, bare man siger miljø foran: og så er
+det meget ofte reelt bare en ny afgift og en skat.
+Man siger måske, at nu skal vi til at beskattes
+efter miljøvirkningen. Jamen jeg som forbruger
+må bruge den varme, jeg kan få og er tvunget til
+at tage i det område, hvor jeg bor. Jeg har ingen
+indflydelse på, hvilket brændstof der bruges, så
+reelt må jeg måske betale en merpris et sted,
+fordi jeg overhovedet ikke har nogen muligheder for at slippe for det.
+Hvis vi ser på trafikområdet, så er det også
+klart, at man kan have en fornemmelse af, at vi
+skal spare på benzinen, og vi skal ikke køre så
+meget. Det kan vi også godt blive enige om,
+især når man bor i en by, hvor man har busser
+til døren, og hvor alt det offentlige er til stede.
+Men når man bor ude på landet, har børn, der
+skal køres til spejdermøder og til alt muligt andet forskelligt, og man ikke har andre muligheder end sin bil, så kan en stigning i de priser også være med til at vælte budgettet. Så i stedet
+for kunne man også, hvis det er miljø, man vil
+snakke om, prøve at se på, hvordan man får bilerne gjort bedre, mindre forurenende: man
+kan angribe tingene fra flere sider.
+Jeg har fået henvendelse fra en vognmand
+vedrørende dieselafgiften. Han siger: Jamen
+det kommer jo til at belaste mig. Men så kunne
+man spørge ministeren, hvordan det hænger
+sammen.
+Har man i de andre EF-lande nogen udgifter,
+som er lavere end danske vognmænds, fordi
+andre afgifter er mindre? Man må jo sammenligne de samlede udgifter for vognmændene og
+ikke bare tage én ting ud og sige, at det kan vi
+sagtens gøre.
+Jeg er enig i det, der er sagt om EF. Vi kommer ikke uden om, at vi på længere sigt må være
+med til at nærme os hinanden. Men det betyder
+ikke altid, at vi skal nærme os EF: EF kan jo
+også nærme sig til os, og derfor bliver det igen i
+de kommende år en forhandling, hvor vi prøver
+at gøre vores synspunkter gældende, og hvor vi
+prøver på at nå til en fornuftig konklusion.
+Jeg synes ikke, det er nødvendigt at forlænge
+debatten meget mere. Jeg tror, at det er vigtigt,
+at vi følger energipriserne, og at vi følger benzinselskaberne: det nytter ikke noget, vi sænker
+priserne herinde, hvis de bare lægger på dem
+bagefter. Så er vi jo lige vidt.
+
+1716
+
+Vi vil undlade at stemme til dagsordenen fra
+CD og Fremskridtspartiet: SF's dagsorden er
+der også mange gode intentioner i, men da den
+er kommet så sent, at vi ikke har kunnet behandle den på gruppemødet, kan jeg ikke udtale mig om vores afstemning på nuværende tidspunkt.";Inger Stilling Pedersen
+96413;title_name;"Jeg kan se, at urene nu virker igen.
+Poul Jensen (FP):
+Regeringens energihandlingsplan fra den 4.
+april d.å., hvori der er omtalt indførelse af miljøafgifter på energi, kan få meget alvorlige konsekvenser for dansk erhvervsliv. Denne afgift
+vil alvorligt svække det danske erhvervslivs
+konkurrenceevne, og det netop nu, hvor vi står
+ved indgangen til det europæiske marked.
+Det er dette producerende erhvervsliv, der
+gerne skulle ansætte en hel del af de unge og de
+arbejdsløse: det er dette producerende erhvervsliv, som gerne skulle kunne opsluge de
+personer, der skal spares væk i den offentlige
+sektor.
+Inden for gartneriet kan denne miljøafgift på
+energi fuldstændig slå bunden ud af gartneriernes økonomi. Der tales godt nok om, at disse
+miljøafgifter skal tilbageføres til erhvervslivet i
+form af tilskud til energibesparende og miljøforbedrende investeringer, men vi ved jo godt,
+at det kun bliver en brøkdel, der bliver betalt
+tilbage. Alt for mange af pengene vil blive brugt
+til konsulenter, skemaer, ansøgninger, og hvad
+ved jeg.
+Det er ikke bureaukrati, vi har brug for. Der
+er ikke en gartner med respekt for sig selv og sit
+gartneri, der ikke for længst har foretaget alle
+de energibesparende foranstaltninger i sit gartneri, der var og er lønnende, ja, jeg vil vove den
+påstand, at de drivhusgartnere, der ikke har
+været energibevidste, for længst er gået konkurs.
+Lad mig nævne et par tal, der kan underbygge de energibesparende foranstaltninger, der er
+foretaget inden for gartneriet: I 1978 var gartneriernes forbrug af energi eksklusive el
+11.525.000 gigajoule, og vi havde en omsætning, en produktionsværdi af varer, på 916 mio.
+kr. 1 1983 var forbruget faldet til 7.707.000 gigajoule, men vores produktionsværdi var steget
+til 1.989 mio. kr. I 1987 havde vi et forbrug af
+
+1717
+
+8/11 90: Forespørgsel om energiafgifterne";Formanden
+98272;title_name;"gigajoule på 8.619.000, men da var produktionsværdien 2.597 mio. kr. Og i 1989 var vores
+omsætning ca. 4 mia. kr.
+Det vil sige, at i runde tal har gartnerierhvervet inden for en 10-års-periode nedsat energiforbruget med 25 pet., men samtidig har vi forøget produktionsværdien til det tredobbelte.
+Hvis disse miljøafgifter på energi efter planerne
+i embedsmandsrapporten føres ud i livet, vil det
+få alvorlige følger for Fyn, hvor der er mange
+gartnerier, og hvor vi i forvejen slås med en stor
+arbejdsløshed.
+Det kan ikke nytte noget, at vi her i Danmark
+har væsentlig skrappere miljøregler og -afgifter
+end i de andre lande, vi skal konkurrere med.
+Det vil svække erhvervslivets konkurrenceevne
+med stor arbejdsløshed til følge.
+Fremskridtspartiet tager på det skarpeste afstand fra disse miljøafgifter på energi.
+Energiministeren (Bilgrav-Nielsen):
+Jeg vil gerne give et par svar på nogle få af de
+spørgsmål, der er rejst. Det er i øvrigt skatteministeren, der giver hovedsvaret, ligesom det er
+skatteministeren, der på regeringens vegne har
+besvaret forespørgslen.
+Men jeg vil godt give et par bemærkninger til
+diskussionen om den fremtidige afgiftsstruktur
+og slå fast, som det er slået fast et par gange i
+øvrigt af tidligere ordførere, at energihandlingsplanen såvel som den særlige energiafgiftsrapport jo kun er begyndelsen til de overvejelser, vi skal igennem omkring hele afgiftsstrukturen.
+Det fortsatte arbejde med denne sag føres nu
+videre på regeringsniveau i to underudvalg,
+som har en styringsgruppe til at samle aktiviteten. Der er et embedsmandsudvalg vedrørende
+erhvervslivets afgiftsvilkår og et udvalg vedrørende kraftvarmebeskatningen. Så det er altså
+dér, arbejdet nu føres videre.
+Men jeg vil godt understrege, ikke mindst efter det sidste indlæg, som jeg i øvrigt takker for,
+at jeg er bekendt med, at det ville være forbundet med store problemer, hvis man uden videre
+gik hen og forhøjede afgifterne eller indførte en
+ny afgift f.eks. på gartnerierhvervet. Det er vi
+fuldt opmærksom på. Det står jo også i energihandlingsplanen, at der er betydelige hensyn,
+der skal tages i sådanne overvejelser.
+Jeg beder så bare om, at man i gartnerierhvervet, som man har gjort det inden for Indu-
+
+1718
+
+strirådet, og som senest også Landbrugsraadet
+har givet mig tilsagn om, vil være med til at opstille mål, opstille midler, for, hvorledes man
+kan komme videre med sine energibesparelser.
+Jeg tror nemlig ikke, at man er ved vejs ende.
+Jeg tror, der vil være muligheder for, at også
+gartnerierhvervet kan nå endnu længere i henseende til at reducere sit energiforbrug.
+Jeg vil henlede opmærksomheden på de undersøgelser, der er foretaget af AKF, altså
+Amtskommunernes og Kommunernes Forskningsinstitut, som jo har undersøgt energiforbruget i en række erhverv og er kommet til den
+konklusion, at der er ganske betydelige rentable energibesparelser at gå efter stadig væk,
+selv om man er nået langt - hvilket jeg fuldt ud
+anerkender, naturligvis.
+Kan vi få en sådan god debat om tingene, så
+er jeg også med på, at vi overvejer andre midler
+til at fremdrage de nødvendige energibesparelser. Men der er altså en opgave, vi skal løse. Og
+jeg kan da godt føje til, hvad ikke kan være ubekendt i øvrigt, at det ikke er en opgave, vi står
+alene med i Danmark. Det er en opgave, som i
+stigende grad bliver en fælles europæisk, en
+fælles international opgave.
+Hvis man følger lidt med i de aktuelle debatter om energi- og miljøproblemer, så vil man jo
+se, at på trods af lidt sendrægtighed hist og her
+så er det en generel opfattelse, at der er en tydelig vækst i henseende til, at man kan forstå og
+vil gå i gang med at arbejde med reduktion af
+energisektorens miljøbelastning. Det er alle
+landene enige om. Det er takten, tempoet, man
+måske ikke er helt enige om. Men det skal bare
+være sagt til de ordførere, der har rejst spørgsmålet om den fremtidige energiafgiftsstruktur.
+Her vil jeg så godt føje til, at når hr. Behnke
+nævnede en artikel, som jeg godt husker, af hr.
+Togsverd, om det nuværende afgiftssystem, så
+er det jo en artikel, der i høj grad peger på - ligesom vores energirapport i øvrigt gør det, den
+røde rapport - at der er en del ting i det nuværende system, som trænger til at blive gennemset og ændret. I øvrigt husker jeg også, at hr.
+Togsverd omtaler et nyt væsentligt argument,
+man kan lægge til grund for at ændre i systemet,
+nemlig miljøhensynet. Det glemte hr. Behnke
+at citere hr. Togsverd for, så det er passende,
+hvis jeg drager det frem. Det er jo lige præcis
+miljøhensynet, der gør, at vi bør arbejde videre
+med disse problemer.
+
+1719
+
+-
+
+8/1190: Forespørgsel om energiafgifterne";Poul Jensen
+102912;title_name;"Så vil jeg også gerne føje til, at jeg måske undrer mig lidt over, at CD fastholder denne forespørgsel, der, som det har været nævnt, er rejst
+for længe siden. Men især undrer jeg mig, fordi
+det tidligere og også i dag jo kommer frem, at
+CD ligesom vil sige, at der er et EF-harmoniseringsønske, som vi burde arbejde stærkere med
+på. Altså man giver indtryk af, at CD kraftigt
+går EF-vejen også i energipolitik.
+Som denne dagsorden er formuleret, kan jeg
+godt sige, at man faktisk går i den modsatte retning. Det ville være en EF-uvenlig dagsorden
+at vedtage. Det er sådan, at EF's energiministre
+efter et møde i OECD's energiafdeling, altså
+Det Internationale Energiagentur, har sagt enstemmigt, at de beslutninger, der er truffet i
+IEA, bør man følge klart op også i den nuværende situation, altså hvis det kommer til forsyningsproblemer.
+Det vil sige, at de prisstigninger, der er kommet i kølvandet på Golfkrisen, bør slå igennem
+hos forbrugerne. Det har IEA givet tydeligt udtryk for, og det har EF's energiministre bakket
+kraftigt op bag.
+Man behøver ikke at spinde en lang ende
+over, hvorfor det nu er kommet til en sådan beslutning. Det er naturligvis, fordi det, der mest
+af alt er behov for i en situation med stigende
+priser og eventuelt senere svigtende tilførsler,
+er, at man sparer på forbruget.
+Og det vil jo ikke være et særlig fornuftigt tiltag at foreslå afgiftsnedsættelser som et element til at frembringe besparelser. Det vil fremkalde det modsatte.
+I øvrigt kan jeg tilføje, at sådan som drøftelserne forløber i IEA, så er der fuld enighed om,
+at der ikke er nogen forsyningskrise, og at prisudsvingene har basis i usikkerhed om, hvorvidt
+det kommer til en fredelig løsning på krisen i
+Golfen. Der er også nu konstateret en mærkbar
+produktionsforøgelse på olieområdet. Det er
+sådan, at disse beslutninger om merproduktion
+i enkeltlandene er ved at være på plads, således
+at man i dag under ét kan konstatere, at lagersituationen er en smule bedre nu end for bare få
+uger siden.
+Men som det er sagt af andre, kan der hurtigt
+ske ændringer, hvis situationen ændrer sig i
+Golfen, og så er det op til Danmark og de andre
+medlemslande i IEA at træffe de beslutninger,
+man finder fornødent, og i fællesskab at følge
+de henstillinger, der måtte blive givet fra IEA.
+
+. l
+
+1720
+
+Og det kan godt blive til, at vi på et tidspunkt
+skal til at gennemføre begrænsninger, fordi tilførslerne er begrænsede.
+Jeg har gerne villet understrege dette, fordi
+jeg synes, ikke mindst CD burde være opmærksom på, at her er der en klar EF-interesse, en
+klar IEA-fællesinteresse, og derfor burde det
+også være en klar dansk interesse at bakke op
+omkring det.";Energiministeren
+105600;title_name;":
+Jeg vil gerne uddybe det, jeg lidt kortfattet redegjorde for i min indledning til debatten her,
+nemlig regeringens argumentation for, at der
+ikke på nuværende tidspunkt er baggrund for
+en regulering af energiafgifterne.
+Jeg vil her tage mit udgangspunkt i, hvorledes priserne på et par energiprodukter faktisk
+har udviklet sig siden foråret 1986.
+Det er klart, at den første og afgørende grund
+til, at regeringen ikke finder baggrund for for
+nærværende at foretage en regulering af energiafgifterne, er den usikkerhed, der trods alt hersker om, hvad der er det blivende niveau for
+olieprisen. Men dernæst spiller det - som jeg
+tidligere var inde på - en rolle, at den faktiske
+prisudvikling viser, at der i dag for benzin er tale om en lavere forbrugerpris end i foråret 1986,
+hvad enten vi taler om løbende priser eller faste
+priser. Og hvad angår fyringsolie, er der tale om
+uændret realpris, dvs. uændret pris i forhold til
+foråret 1986, når vi renser for inflation.
+Helt præcis er det sådan, at hvis vi f.eks. tager
+95 oktan blyfri benzin, så kostede den pr. liter 6
+kr. 33 øre i maj 1986, og i dag er prisen 5 kr. 91
+øre. Prisen er altså i dag lavere, end den var i
+maj 1986.
+For så vidt angår fyringsolie var prisen for
+1.0001 fyringsolie i maj 1986 på lige knap 4.000
+kr. Hvis vi fremskriver den pris med inflationen
+siden da, nemlig godt 19 pet., skulle prisen i dag
+være 4.700 kr. for at være uændret i faste kroner
+og øre, altså real uændret pris, og det er lige
+nøjagtig, hvad den er. Den er helt præcis 4.680
+kr. nu. Det vil altså sige, at for så vidt angår fyringsolien er der tale om real uændret pris.
+Jeg er vel opmærksom på, at hr. Behnke anførte, at det argument, jeg her fremfører, ikke
+kan gøre indtryk på Fremskridtspartiet, al den
+stund Fremskridtspartiet finder, at niveauet
+under alle omstændigheder er for højt. Netop
+denne diskussion om niveauet var jo også årsa-
+
+1721
+
+.
+
+8/11 90: Forespørgsel om energiafgifterne";Fogh Rasmussen
+107565;title_name;"gen til, at regeringen som led i den finanslovaftale, der blev indgået sidste år med bl.a. Fremskridtspartiet, gennemførte en sænkning af
+benzinafgifterne, fordi regeringen fandt, at netop en sænkning af benzinafgifterne var et virkningsfuldt middel til at dæmpe grænsehandelen. Jeg tror i øvrigt, vi kan sige, at vi allerede
+har set de positive resultater af det: så det var
+velbegrundet.
+Det er derfor ikke sådan, at regeringen har
+været fremmed over for argumentationen om
+hensynet til tilpasning i EF, men vi er altså nødt
+til at prioritere denne meget omfattende tilpasningsopgave. Det var derfor, regeringen var
+indstillet på i første omgang at sænke energiafgiften på et produkt, der klart gav anledning til
+grænsehandel. Og regeringen finder altså ikke,
+at der i den nuværende situation er grundlag
+for yderligere regulering af energiafgifterne.
+Så anførte hr. Duetoft, at staten har ekstra
+momsindtægter, når oliepriserne stiger, og så
+burde staten dog i det mindste lade det gå tilbage til forbrugerne i form af en afgiftssænkning.
+Hr. Duetofts ræsonnement holder altså ikke jeg tror også, jeg før har haft lejlighed til at sige
+det til hr. Duetoft. Det er da rigtigt nok, at isoleret set kommer der en øget momsindtægt til
+statskassen på olieprodukter, når olieprisen stiger. Men givet, at forbrugerne har den samme
+sum penge til rådighed for forbrug, må det jo
+logisk være sådan, at hvis prisen på energiforbrug vokser, så bliver der mindre til rådighed
+for andet forbrug, som der jo også betales
+moms af. Det, der vindes ind på moms på energiforbruget, sættes altså til i form af mindre
+momsindtægter på andet forbrug.
+Totalt set gælder det derfor, at momsindtægterne ikke nævneværdigt påvirkes af disse udsving i energipriserne, og derfor holder hr. Duetofts ræsonnement ikke.
+Til slut blot et par bemærkninger om de
+fremsatte dagsordensforslag. I forlængelse af
+energiministerens redegørelse for det udvalgsarbejde, der er igangsat vedrørende den fremtidige struktur for så vidt angår energiafgifterne,
+må regeringen afvise hr. Riishøjs forslag om
+motiveret dagsorden, som jo foregriber det
+analysearbejde, der endnu er i gang.
+Hr. Duetoft fremsatte et forslag om motiveret
+dagsorden, som også hr. Behnke er medforslagsstiller til. Det kan man jo godt kalde en
+yderst interessant dagsorden. Hr. Duetofts ud-
+
+1722
+
+gangspunkt for forespørgslen i dag er jo i virkeligheden et spørgsmål til regeringen, om regeringen er indstillet på at benytte energiafgifterne som middel til at stabilisere forbrugerpriserne på energiområdet. Eller sagt på en anden
+måde: om regeringen vil være villig til at genindføre den gamle, halvautomatiske reguleringsmekanisme, sådan at når olieprisen falder,
+skal energiafgifterne gå op, og når olieprisen
+stiger, skal energiafgifterne gå ned.
+Jeg har på regeringens vegne afvist en sådan
+model for automatisk regulering. Regeringen
+ønsker ikke at binde sig til, at fordi olieprisen
+falder, så skal afgifterne automatisk sættes i
+vejret, for det ville jo besværliggøre den tilpasning bl.a. til EF's afgiftsstruktur, som jeg har
+forstået at hr. Duetoft også er tilhænger af. Derfor har energiministeren jo meget ret i sin kraftige understregning af, at en vedtagelse af en sådan mekanisme jo i virkeligheden ikke ville være nogen EF-venlig handling.
+Men svagheden i mekanismen ser vi også illustreret i dette forslag om motiveret dagsorden, for jeg har forstået, at hr. Behnke i hvert
+fald ikke vil binde sig til, at afgifterne skal sættes op, hvis oliepriserne falder. Og det, hr.
+Behnke her er medforslagsstiller til, er en dagsorden, der kun siger den ene halvdel af det,
+nemlig at energiafgifterne skal sænkes, når
+olieprisen går op. Det betyder altså, at her får vi
+faktisk meget klart dokumenteret, at hvis det
+flertal, der står bag en sådan mekanisme, ikke
+er indstillet på, at den skal gælde både op og
+ned, så er den intet som helst bevendt. Her vender den kun den ene vej.
+Så jeg synes i og for sig, at det forhold, at hr.
+Behnke og hr. Duetoft har kunnet enes om denne dagsorden, er et af de allerbedste argumenter for, at den skal afvises, for det viser, at selv
+om man lavede en sådan reguleringsmekanisme, så ville den aldrig nogen sinde komme til at
+virke.";Skatteministeren
+111787;title_name;"Jeg skal her afbryde forhandlingen og udsætte mødet. Det genoptages i dag kl. 13.15.
+Mødet udsat kl. 12.03
+Mødet genoptaget kl. 13.15
+Forhandlingen genoptoges.
+
+1723
+
+8/11 90: Forespørgsel om energiafgifterne";Formanden
+112010;name_party;":
+Nu er der ingen af ordførerne, der skal frygte,
+at frokostpausen har givet fornyet energi, således at debatten forlænges yderligere. Jeg skal
+gøre det ganske kort her i anden omgang. Jeg
+har et par enkelte kommentarer.
+Hr. Poul Nielson forsøgte at udlægge regeringens EF-holdninger på dette område, og det
+var da en spændende udlægning, hr. Poul
+Nielson kom med. Jeg vil gerne have lov at
+spørge skatteministeren, om skatteministeren
+er enig i hr. Poul Nielsons udlægning. For rent
+faktisk er det vel vigtigt, om regeringen opfatter
+energiområdet som et af de områder, der har
+grænsehandelsproblemer. Hr. Poul Nielson
+udlagde det som, at EF-harmoniseringen og
+samordningen skulle være noget med CO2-afgifter og lignende. Jeg vil gerne spørge skatteministeren, om det ikke er rigtigt, at der i forbindelse både med olie og med benzin er et
+grænsehandelsproblem, der vil være stigende
+efter grænsens fjernelse i 1992-93. Jeg vil bare
+gerne vide, om hr. Poul Nielsons fortolkning af
+regeringens synspunkter kan være rigtige, hvad
+jeg tvivler på at de kan.
+Så vil jeg gerne sige til energiministeren uden at jeg ellers skal gå i polemik om det, for
+det ved jeg godt vi kunne få lang tid til at gå
+med, og det er nok lidt frugtesløst, for vi ved jo,
+hvor skyttegravene er - at jeg er meget fascineret af energiministerens omhu for EF i denne
+debat. Jeg synes også, at det havde været klædeligt, hvis omhuen havde været der lidt tidligere, når vi havde snakket energi og EF, men
+jeg forstår da godt, at energiministeren ikke
+kunne lade være med at drille.
+Til ordførerne for SF og De Radikale vil jeg
+gerne sige, at jeg synes, at der i begge indlæg lå
+nogle kedelige angreb på olieselskaberne. Jeg
+vil gerne sige, at jeg tror ikke på den gamle idé
+om »de syv søstre« og alt det halløj om, at de er
+nogle fæle nogle. Jeg er glad og tilfreds med, at
+Konkurrencerådet har taget fat i undersøgelsen. CD har også sagt offentligt i sommerens
+løb, at det ville være rigtigt, at det var sådan,
+men jeg synes, at der både hos Det Radikale
+Venstre og hos SF's ordførere lå en undertone
+af, at der også nok var noget fordækt her. Det
+synes jeg faktisk vi skal vente med at sige, indtil
+undersøgelsen har bekræftet, at det er sådan,
+for det er jo ikke sikkert, at den gør det.
+
+.
+
+l
+
+1724
+
+Så vil jeg gerne sige både til skatteministeren
+og til andre ordførere, at det forslag om motiveret dagsorden, der er stillet af CD og Fremskridtspartiet, ikke handler om automatikken.
+Jeg vil gerne understrege, at for CD er det stadig væk et mål at få indført den automatiske regulering, men vi er realister nok til at vide, at vi
+nok er de eneste i dette Ting, der mener sådan,
+og derfor har vi valgt i dag ikke at komme med
+en dagsorden, der går på det automatiske. Det
+har skatteministeren også kvitteret for, og jeg er
+glad for, at det er blevet opfattet sådan.
+Denne dagsorden handler alene om en hensigtserklæring, der skal være med til at gøre
+overenskomstforhandlingerne og miljøet for
+overenskomstforhandlingerne til foråret bedre,
+fordi de giver tryghed, og, fru Elisabeth Arnold,
+det er jeg nu ikke så ked af at stå og være talsmand for. Det er rigtigt opfattet af skatteministeren, at vi kunne have fundet en anden dagsorden, der havde talt om automatikken, og så
+havde den fået 9 stemmer i dette Ting, nemlig
+CD's og ikke andre, men vi synes, det var mere
+spændende at se, om vi kunne få lokket regeringen med til faktisk at komme med denne hensigtserklæring. Jeg vil gerne takke Socialdemokratiet, Kristeligt Folkeparti og Fremskridtspartiet, fordi de på mange områder har accepteret, at der er en problemstilling her.
+Så har hr. Poul Nielson været inde på, at der
+ikke skulle være nogen dagsordensforslag i
+dag, og jeg respekterer, at Socialdemokraterne
+har det synspunkt, men der ligger dog en erkendelse af, at der er et problem i det, og det vil jeg
+gerne kvittere for,
+Jeg vil også sige til både skatteministeren og
+energiministeren, at jeg synes egentlig, det er
+trist, at regeringen ikke ser det problem, der er i
+relation til en lav overenskomstløsning. Jeg forstår ikke, at man ikke ser det. Det kan godt være, at skatteministeren ikke bliver så glad for
+mig nu, fordi jeg måske overfortolker ham - jeg
+vil gerne undskylde over for ministeren på forhånd - men ministeren sagde i sit svar op til flere gange, at der i regeringen ikke var planer om
+for indeværende at ændre afgifterne. Det trøster mig, og jeg vil så tillade mig, indtil andet er
+bevist, at fortolke det derhen, at ministeren ikke
+i dag vil stemme for vores dagsorden, men at
+»for indeværende« ikke betyder, at man ikke
+godt kan se, at hvis der virkelig kommer en
+voldsom stigning i oliepriserne efter en forøget
+
+1725
+
+8/11 90: Forespørgsel om energiafgifterne";Duetoft
+116746;title_name;"krise i Mellemøsten, er man nødt til at gøre et
+eller andet, og hvis det er den fortolkning, jeg
+kan lægge i det, er jeg godt tilfreds.
+Jeg vil slutte med at sige, at det dagsordensforslag, vi har fremsat i dag sammen med Fremskridtspartiet., alene går på det med overenskomsterne. Jeg skal så bare - for ikke at blive
+angrebet - for god ordens skyld sige, at CD
+godt er klar over, at den tanke, vi har om en automatik, naturligvis betyder, at hvis energipriserne går ned, er man nødt til at lægge en højere
+afgift på: og omvendt, hvis de går op, skal man
+fjerne afgiften. Vi har aldrig afvist, at denne reguleringsmekanisme skulle gå begge veje, men
+det er bare ikke det, det handler om i dag, for i
+dag handler det såmænd om den tryghedsaftale, man kunne indgå med arbejdsmarkedets
+parter ved at sige dette om afgifterne.
+Men jeg vil gerne have det andet signal sendt
+ud, for at det ikke skal hedde sig, at CD gerne
+vil være med, når afgifterne skal sættes ned,
+men ikke, når de skal sættes op. Hvis vi havde
+fået automatikken, havde vi ikke nogen problemer med det, og det tror jeg også at skatteministeren har hørt mig sige ganske mange gange.";Duetoft
+117910;name_party;":
+Jeg har ikke mere at føje til debatten i øvrigt,
+men skal bare give en melding om Socialdemokratiets stilling til det af hr. Riishøj stillede
+dagsordensforslag, og det vil jeg gøre ved at
+henvise til den argumentation for Det Radikale
+Venstres stemmeafgivning, som fru Elisabeth
+Arnold fremkom med. Den dækker også, hvorfor Socialdemokratiet undlader at stemme til
+SF's dagsordensforslag.
+Men jeg vil gerne komme med en enkelt supplerençle bemærkning til hr. Riishøj. Jeg vil
+nemlig gerne sige, at de nuværende energiafgifter ikke hviler på et system, der er helt anderledes i sin faktiske virkning end det, man taler
+om, når man taler om miljøafgifter. Det er ikke
+sådan, at det er to helt forskellige ting, vi taler
+om. De nuværende energiafgifter kombineret
+med kvotesystemet for reduktionen af S02- og
+NOx-udledning er alt i alt et meget sagligt og
+velfungerende system. Det er lige så meget
+spørgsmålet om relative forskydninger, om,
+hvorvidt vægtningen på en række punkter er
+den rigtige i henseende til den politik omkring
+decentral kraftvarme osv., vi arbejder med. Det
+er lige så meget den problemstilling, der er re-
+
+1726
+
+aliteten bag diskussionen, som at vi ville få noget helt andet, hvis vi kalder det miljøafgifter.
+Det er jo en charmerende detalje ved S02- og
+NOx-kvoterne, at udgifterne til at forbedre luftkvaliteten i den forbindelse lægges på den rene
+elpris uden afgifter, og det vil sige, at her har vi
+altså en situation, hvor også erhvervslivet direkte og fuldt ud i forhold til deres elforbrug bidrager til en miljørigtig udvikling. Dér har vi
+altså sådan set allerede fat i en metode, som er
+langt bedre, vil jeg sige, end sit rygte i miljødebatten, og derfor skal vi passe lidt på med at
+farve hele denne diskussion, som om det, vi
+har, ikke er særlig godt. Det er altså ikke tilfældet.";Poul Nielson
+119739;name_party;":
+Jeg takker for De Radikales principielle tilslutning til vores dagsorden. Hvis De Radikale
+ikke var i regeringen og man tænker tilbage på,
+hvad der kunne vedtages i de tre år fra 1981, er
+jeg også sikker på, at man kunne have stemt
+sammen i dag, men det kan man altså ikke, men
+det skyldes nogle ganske bestemte forpligtelser,
+som De Radikale har i dag.
+Jeg ser ikke noget problem i at pålægge regeringen at arbejde frem mod miljøafgifter, det
+står jo i selve Brundtlandhandlingsplanen.
+Kontrollen med priserne er vel også indlysende, og jeg kan forstå, at der er en sympati
+for, at man arbejder frem mod nogle ændrede
+principper for erhvervslivet. Men jeg opfatter
+det, som om der er velvilje, og at det er denne
+regeringsbinding, der er problemet.
+Derimod er meningsforskellene noget større
+på det punkt hos Socialdemokratiet, som jo afviser omlægning til miljøafgifter, også som
+princip, og det er derfor, jeg ser frem til, at der
+nok inden alt for længe kan komme forhandlinger om en omlægning, for der er dog nogle, der
+ønsker det. Jeg hørte ikke, at energiministeren
+svarede på, hvornår vi kan forvente et udspil fra
+regeringen. Bliver det i denne folketingssamling, eller bliver det ikke i denne folketingssamling? Måske bliver det overhovedet ikke i denne regeringsperiode, at vi får et udspil på et område, som er så vigtigt og afgørende. Men hvornår er deadline for det arbejde, der foretages i
+ministerierne?
+Til hr. Duetoft kun ganske kort: Hvis man vil
+skabe et rimeligt miljø for overenskomstforhandlingerne, er der alle mulige andre og bedre
+
+1727
+
+8/11 90: Forespørgsel om energiafgifterne";Riishøj
+121359;title_name;"måder at gøre det på end at tage fat på netop
+dette område. Der har heller ikke af arbejdsmarkedets parter været udtalt noget egentligt
+ønske om, at det lige netop er her, man skal gå
+ind og sænke energiafgifterne. Jeg tror ikke, der
+fra CD's side ud fra en arbejdsmarkedsvurdering er et reelt ønske om at appellere til nogle af
+deres kernevælgere.
+Man kunne som sagt finde alle mulige andre
+fornuftige instrumenter, f.eks. huslejerne eller
+madmomsen, hvis man endelig vil skabe et fornuftigt miljø for overenskomstforhandlingerne.
+Vi må også have in mente, at de lande, der
+rent faktisk rammes allerhårdest af disse energiprisstigninger, som CD indirekte vil frigøre
+os selv for, er udviklingslandene og de nye demokratier i Østeuropa, og de lande har vi en
+forbandet pligt til at hjælpe i den overgangssituation, de befinder sig i. Vi er faktisk dem, der
+rammes allermindst i den situation, vi befinder
+os i nu. International bistand til de lande, der
+rammes hårdest, og så, at vi skaber et mere robust og mere miljøvenligt energisystem, er de
+rigtige svar på den krise, som vi også befinder
+os i, men som faktisk er meget værre for visse
+andre lande.
+Jeg håber, energiministeren vil klargøre,
+hvornår vi kan forvente nogle resultater med
+hensyn til energiafgifternes sammensætning.
+(Kort bemærkning).";Riishøj
+122684;name_party;":
+Jeg bliver nødt til at sige til hr. Riishøj, at han
+har fuldstændig ret i, at Det Radikale Venstre
+deler adskillige af de synspunkter, der står i den
+dagsorden, hr. Riishøj fremsatte på sit partis
+vegne, men Det Radikale Venstre bliver under
+alle omstændigheder nødt til at stemme imod
+en dagsorden, som foregriber konklusioner fra
+et udvalg, som skal sættes til at udrede nogle af
+de problemer, dagsordenen omhandler. Vi kan
+ikke støtté en dagsorden, som kommer med en
+konklusion, så ville der ikke være nogen grund
+til at nedsætte det udvalg, der nu arbejder. Det
+er såmænd bare det, jeg siger, og den stilling vil
+vi under alle omstændigheder tage.";Elisabeth Arnold
+123367;name_party;":
+Jeg skal blot sige, at vi vil undlade at stemme
+til SF's dagsorden.
+
+1728";Inger Stilling Pedersen
+123477;title_name;":
+Hr. Duetoft stillede mig et spørgsmål, nemlig
+om ikke regeringen er af den opfattelse, at afgifterne på benzin og fyringsolie skal ses i relation
+til grænsehandelsproblemerne. Regeringen er
+enig i, at benzinafgifterne skal ses i relation til
+spørgsmålet om grænsehandelen, og det er også grunden til, at der sidste år som led i finanslovaftalen blev besluttet en sænkning af benzinafgiften i to omgange her i løbet af 1990. Situationen er i dag den, at f.eks. afgiften for blyfri benzin er på samme niveau som afgiften i
+Tyskland. Der er altså faktisk foretaget total tilpasning på det punkt.
+Så spørger hr. Duetoft om afgiften på fyringsolie, og dertil må jeg svare, at med de nuværende rejsegodsregler repræsenterer fyringsolien ikke noget grænsehandelsproblem.
+Hvorledes rejsegodsreglerne vil komme til at
+se ud på den meget lange sigt er det alt for tidligt at sige noget om på nuværende tidspunkt,
+og under alle omstændigheder har regeringen
+altså valgt at prioritere tilpasningsopgaven og
+tage fat på det tilpasningsproblem, som var det
+mest akutte, nemlig benzinafgiften. Det er så
+omfattende en tilpasningsopgave, at den selvsagt ikke kan klares på én gang, derfor må den
+prioriteres, og det er grunden til, at regeringen
+sidste år gik med i en finanslovaftale, som bl.a.
+gik ud på netop at sænke benzinafgiften ud fra
+de grænsehandelssynspunkter, som hr. Duetoft
+rigtigt påpeger.";Fogh Rasmussen
+124880;name_party;":
+Jeg er meget tilfreds med ministerens konstatering af, at der er grænsehandelsproblemer såvel for benzin som for olie, på olien for så vidt,
+at rejsegodsbestemmelserne bliver ændret. Jeg
+vil gerne spørge skatteministeren, om det ikke
+er regeringens opfattelse, at Danmark skal leve
+op til, at den fysiske grænse mellem landene i
+forbindelse med indførelse af det indre marked
+falder bort nytårsmorgen mellem 1992 og 1993.
+Forestiller skatteministeren sig, at man efter
+denne skæringsdato skal have danske særordninger og dansk specialbehandling i relation til
+EF? Jeg synes, at ministeren, når ministeren
+bruger udtrykket »på lang sigt«, ser bort fra, at
+.vi rent faktisk har denne skæringsdato, og det
+vil jeg gerne bede om en forklaring på.
+Hermed sluttede forhandlingen.
+
+,, 1729
+
+(109)
+8/11 90: Forespørgsel om energiafgifterne
+Afstemning
+
+Forslag om motiveret dagsorden nr. D 11 af
+Duetoft (CD) og Behnke (FP) (se foran)
+forkastedes, idet 13 (FP og CD) stemte for, 53
+(KF, SF, V og RV) imod: 35 (S og KRF) stemte
+hverken for eller imod.
+Forslag om motiveret dagsorden nr. D 12 af
+Riishøj (SF) (se foran)
+forkastedes, idet 13 (SF) stemte for, 56 (KF, V,
+FP, RV og CD) imod: 34 (S og KRF) stemte
+hverken for eller imod.
+Hermed sluttede forespørgslen.
+Den næste sag på dagsordenen var:
+8) Første behandling af lovforslag nr. L 57:
+Forslag til lov om ændringaflov om stempelafgift. (Indførelse af stempelfrihed ved ombytning
+af realkreditlån og realkreditlignende lån mellem realkreditinstitutter m.v. samt ved optagelse
+afnye lån hos disse til indfrielse af gamle realkreditlån eller realkreditlignende lån).
+Af skatteministeren Fogh Rasmussen.
+(Fremsat 31/10 90).
+Lovforslaget s'attes til forhandling.
+Forhandling";Duetoft
+126617;name_party;":
+Der er her tale om et forholdsvis beskedent
+forslag, som fjerner den stempelafgift, der i dag
+skal betales, hvis man ombytter et realkreditlån
+i en realkreditinstitution til et realkreditlån i en
+anden realkreditinstitution eller skifter bankforbindelse i forbindelse med flytningen af et
+såkaldt realkreditlignende lån.
+Det er imidlertid kun en af de hindringer, der
+er, for at man frit vil skifte mellem realkreditinstitutter og pengeinstitutter for så vidt angår
+disse lån. Det er jo nemlig ikke sådan, at der
+ved sådanne lån er tale om en pose penge, som
+man bare kan flytte. Der er tale om, at man har
+indgået en aftale enten via et realkreditinstitut
+eller et pengeinstitut med obligationsejere, der
+sidder i den anden ende, som skal have de penge, som man betaler i terminer. Disse obligationsejere skal så have solgt deres obligationer,
+
+1730
+
+og det kan man ikke uden videre tvinge dem til.
+Derfor er der en række omkostninger forbundet med sådanne transaktioner ud over den
+stempelafgift, som hidtil har kunnet beregnes
+fra statens side. Vi har set, at der ikke har været
+nogen synderlig ombytning af sådanne lån, og
+min pointe er, at det ikke udelukkende skyldes,
+at der har været en stempelafgift.
+Dette lovforslag kan få Socialdemokratiets
+fulde støtte. Det er et skridt i den rigtige retning
+mod en mere åben konkurrence de forskellige
+institutioner imellem. Men vi skal ikke foregøgle os her i dag, at man ved at fjerne stempelafgiften derved frit kan bytte låneinstitutter: man
+vil stadig skulle betale et beløb i forbindelse
+med de transaktioner, som jeg skitserede før.";Pia Gjellerup
+128232;name_party;":
+Da mit partis ordfører, hr. Aagaard, desværre ikke kan være til stede, skal jeg på hans vegne fremføre følgende:
+Jeg skal på Det Konservative Folkepartis
+vegne gøre nogle få bemærkninger til dette lovforslag. Det er min opfattelse, at mange borgere
+kun har ringe forståelse for, at der overhovedet
+skal betales stempelafgift. Få - for ikke at sige
+ingen - kan forstå, hvorfor man skal betale ny
+stempelafgift ved et lånskift mellem realkreditog pengeinstitutioner m.v., da slet ikke i en tid,
+hvor liberaliseringen af hele vor finansielle sektor pågår og fusioner på tværs af hidtidige konkurrenceforhold gennemføres.
+Det er derfor glædeligt, at regeringen med
+dette lovforslag gør loven lidt mere forståelig,
+samtidig med at man giver kunderne frihed til
+at vælge en institution fra med udgangspunkt i
+det tilbud, en fri konkurrence åbner for - og vel
+at mærke: uden at skulle betale ny stempelafgift. Det betyder altså, at man bliver fritaget for
+stempelafgift, såfremt man optager et nyt realkreditlån eller realkreditlignende lån og bruger
+dette til at indfri et andet realkredit- eller realkreditlignende lån, blot det holdes inden for de
+gældende lånegrænser.
+Vi kan i Det Konservative Folkeparti støtte
+skatteministeren i gennemførelsen af dette forslag.";Else Theill Sørensen
+129514;name_party;":
+Vi tror lige så lidt som den socialdemokratiske ordfører, at dette forslag løser ret mange
+problemer. Men det er da fornuftigt, at man
+
+- 1731
+
+8/11 90: 1. beh. af f. t. I. vedr. stempelafgift m.v.";Rahbæk Møller
+129732;title_name;"kan skifte realkreditinstitut uden at betale skat
+til staten. Så vi støtter lovforslaget.";Rahbæk Møller
+129842;name_party;":
+Jeg skal på Venstres vegne anbefale lovforslaget. Vi synes, at det er et godt og også et rimeligt lovforslag, som ministeren her er kommet med. Vi hilser med tilfredshed, at der bliver
+større frihed for låntagerne, og at der bliver
+større konkurrence, og vi mener, at det selvfølgelig er rimeligt med fritagelse for stempelafgift.
+Venstre skal anbefale lovforslaget.";Svend Heiselberg
+130224;name_party;":
+Fremskridtspartiet kan ikke lide stempelafgifter. Hvis man klipper en hel del hæle og kapper nogle tæer af, kan man som en af hovedbegrundelserne herfor sige, at det ville faktisk være rart, hvis den skandinaviske model nåede op
+på højde med Tjekkoslovakiet, Polen og Ungarn, hvad angår markedsøkonomi.
+Markedsøkonomi og stempelafgifter er hinandens fjender, for stempelafgifter betyder, at
+man lægger en barriere for, at kapitalen til enhver tid kan flyde derhen, hvor den under de
+givne forhold gør bedst nytte, fordi man altså
+begynder at opkræve noget, når man foretager
+en eller anden disposition i relation til et kapitalgode. Og det gælder også her: Når man nu
+engang kan låne billigere i Totalkredit end med
+de ekstra pligter, man får i Nykredit eller Byggeriets Realkreditfond, så skal markedet selvfølgelig søge over til Totalkredit og væk fra de
+forældede og af Venstres tidligere økonomiminister, hr. Anders Andersen, totalt ødelagte
+gamle kreditforeninger, som det efterhånden
+begynder at være aldeles risikobefængt at være
+medlem af.
+Hvis nu Venstre fortsætter med at have magten - nu flygter folk jo heldigvis fra det parti i
+øjeblikket - kan vi risikere, at de også ødelægger Totalkredit, og så må man se at få lavet ordninger et andet sted og skifte lånet over. Det er
+netop kernen i den markedsøkonomi, som er så
+uhyre væsentlig, hvis vi ikke skal blive udkonkurreret af de forhen socialistiske lande, der nu
+altså er gået over til markedsøkonomien.
+Derfor er dette et godt første skridt på vejen
+til totalt at udrydde stempelafgifterne. Jeg kan
+godt se, det er et lille skridt, men et skridt frem
+er dog et fremskridt. Derfor vil jeg igen - som
+
+1732
+
+jeg har gjort hver evig eneste gang, når der er
+blevet behandlet forslag om stempelafgifter i
+den tid, jeg har været i Folketinget - opfordre
+den i øjeblikket siddende regering til nu at foretage en aktion for at få ryddet op i hele stempellovsuvæsenet. Det er ikke nok med disse småfriseringer, som der her er tale om.
+Men o.k., da det som sagt er et skridt i den
+rigtige retning, vil Fremskridtspartiet selvfølgelig stemme for lovforslaget, så med hensyn til os
+skal ministeren ikke være bange for, at han ikke
+får sit lovforslag gennemført.";Glistrup
+132462;name_party;":
+Det bliver svært at variere graderne af tilslutning til dette forslag, men også fra Radikal side
+må vi sige, at vi synes, det er fornuftigt forslag.
+Det løser måske ikke nogen store problemer i
+boligsektoren, men det rydder i hvert fald nogle
+små sten af vejen, og det vil vi ikke sætte os
+imod. Vi synes, det er et udmærket forslag, og
+kan give det den fulde tilslutning.";Elisabeth Arnold
+132857;name_party;":
+CD's ordfører i denne sag, fru Bente Juncker,
+kan desværre ikke være til stede i dag, hvorfor
+jeg blot på Centrum-Demokraternes vegne skal
+sige, at vi gerne vil stemme for dette forslag,
+som vi i øvrigt betragter som et fornuftigt lovforslag.";Emmert Andersen
+133127;name_party;":
+Det opfattes almindeligvis som en urimelighed, at man skal betale stempelafgift, hvis man
+skifter til et andet kreditforeningsinstitut, og
+Kristeligt Folkeparti er da enig i det synspunkt,
+at det er en urimelighed, og derfor støtter vi gerne dette forslag. Hvis forslaget også kan yde et
+lille bidrag til at skabe en friere konkurrence på
+området, er det jo heller ikke så galt.
+Vi kan altså støtte forslaget og medvirker gerne til en hurtig gennemførelse.";Lysholm Christensen
+133619;title_name;":
+Dette lovforslag er et lille bidrag til en liberalisering af realkreditmarkedet. Der har været
+tilslutning fra alle ordførere, og det glæder jeg
+mig over. Jeg siger tak for den positive modtagelse, forslaget har fået.
+Hermed sluttede forhandlingen.
+
+1733
+
+8/11 90: 1. beh. af f. 1.1. vedr. stempelafgift m.v.
+Afstemning
+
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Fogh Rasmussen
+134051;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+9) Første behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af lov om afgift af
+arv og gave.
+Af Kofod-Svendsen (KRF) m.fl.
+(Fremsat 10/10 90).
+Lovforslaget sattes til forhandling.
+Forhandling";Henning Rasmussen
+134487;title_name;":
+Som reglerne er i dag, er der mulighed for, at
+arv, der tilfalder velgørende institutioner, belastes med en lavere arveafgift end anden form
+for arv. Teknisk er det lavet sådan, at skatteministeren er bemyndiget til at nedsætte arveafgiften fra 35 til 12 pet. af arv, der tilfalder velgørende institutioner.
+Kristeligt Folkeparti ønsker nu, at skatteministeren skal bemyndiges til helt at fritage sådanne institutioner for arveafgift, således at gaver og arv afgiftsmæssigt ligestilles.
+Regeringen er enig med forslagsstilleme i, at
+disse velgørende institutioner løser en række
+opgaver på det sociale og det sundhedsmæssige område og i øvrigt også på andre områder,
+og der er i allerhøjeste grad grund til at påskønne det arbejde, der udføres fra disse institutioners side.
+Reglerne er i dag indrettet sådan, at kun gavegiverens nærmeste slægtninge betaler gaveafgift, mens alle andre gavemodtagere betaler
+indkomstskat. Når langt hovedparten af de velgørende institutioner ikke betaler skat, skyldes
+det altså, at de har en indkomst, der ikke er tilstrækkelig høj til at blive beskattet, og den side
+af retstilstanden tror jeg såmænd nok at disse
+foreninger og institutioner er godt tilfredse
+med.
+
+1734
+
+Regeringens konklusion er den, at selv om
+disse institutioner udfører et påskønnelsesværdigt arbejde, finder regeringen ikke, at tiden er
+inde til at nedsætte indtægterne af arveafgiften
+med 35-40 mio. kr., som er det, det ville koste at
+gennemføre Kristeligt Folkepartis forslag. Det
+er jo under alle omstændigheder nødvendigt at
+foretage en prioritering af, hvor eventuelle lettelser skal sættes ind, hvis der kan findes finansiering for dem, og i den prioriteringsliste finder regeringen ikke at dette forslag har højeste
+prioritet.
+Regeringen kan derfor ikke give sin tilslutning til det foreliggende forslag.";Fogh Rasmussen
+136327;name_party;":
+Fra Socialdemokratiets side har vi principielt den holdning, at der skal være en mulig ligestilling på dette område, altså afgiftsfritagelse,
+mellem gave og arv. Her er der nogle forskellige
+regler, alt efter om det er skattepligtige eller ikke skattepligtige institutioner, der modtager
+disse gaver eller arv, og det er afhængigt af deres indkomstforhold.
+Hvis man stiler mod en principiel ligestilling,
+som er det, forslaget lægger op til, synes vi fra
+Socialdemokratiets side, at der også ville være
+grund til at se på en anden del af det, forslaget
+rejser, nemlig selve det nåleøje, som man kan
+sige at de pågældende institutioner skulle udvælges i forhold til.
+Hvad dette angår, er det angivet i lovforslaget, at man tænkte sig at tage udgangspunkt i
+ligningslovens § 8 a. Vi vil gerne under udvalgsarbejdet se på, om det ikke ville være mere rimeligt og hensigtsmæssigt og meget mere præcist virkende, om vi i højere grad skelede til de
+regler, der gælder for løbende ydelser, med
+henblik på at overveje, om det ikke ville være
+rimeligt at lave denne ligestilling mellem gave
+og arv med hensyn til afgiftsfritagelse.
+Denne holdning hos Socialdemokratiet skyldes, at vi har kunnet iagttage, at det i de allerseneste år er blevet en del vanskeligere for de pågældende almenvelgørende institutioner at
+skaffe sig indtægter i det tidligere kendte omfang. Der er nogle enkelte almenvelgørende institutioner, som takket være en, jeg havde nær
+sagt meget aggressiv markedsføring - det er ikke noget helt velvalgt udtryk, men noget i den
+stil - har kunnet opretholde rimelige indkomster dels i form af gaver, dels i form af arv.
+
+1735
+
+8/11 90: 1. beh. af f. 1.1. vedr. afgift af arv og gave";Pia Gjellerup
+138037;title_name;"Men ganske mange institutioner, som det ville være rimeligt at støtte på baggrund af det nyttige arbejde, de udfører, har et problem med
+indtægtsgrundlaget, og dem kunne Folketinget
+komme i møde med en ændring af loven og
+med en om muligt mere præcis udvælgelse som
+skitseret, altså med en relation til reglerne for
+løbende ydelser.
+Vi vil derfor være åbne over for en drøftelse
+af forslaget. Vi mener ikke, det er så præcist,
+som det skulle være, men vi vil gerne se på indkomstforholdene for de pågældende institutioner og på en om muligt mere præcis udvælgelse, og det vil udvalgsarbejdet være særdeles
+velegnet til.";Pia Gjellerup
+138682;name_party;":
+I Det Konservative Folkeparti ser vi principielt meget gerne generelt arveafgiften sat ned
+til et lavere niveau, men der er en lang række
+opgaver, som står meget længere oppe på vores
+ønskeseddel, vores prioriteringsliste, når det
+gælder om at sætte de offentlige indtægter ned.
+Derfor kan vi på trods af vores sympati for tanken desværre ikke støtte dette forslag fra Kristeligt Folkeparti om at nedsætte 12 pct.-afgiften.
+Det er da helt rigtigt, som det anføres i bemærkningerne, at disse organisationer på en
+lang række områder løser sociale og sundhedsmæssige opgaver. Der er sikkert også mange af
+dem, der løser dem på en meget fornuftig måde
+og måske også på en økonomisk god måde,
+men i hvilket omfang disse organisationer ville
+kunne forøge deres sociale eller sundhedsmæssige indsats, fordi vi nu fjernéde denne 12 pct.s
+afgift, synes jeg er lidt tvivlsomt, og i hvert fald
+må vi vel nok være realistiske og sige, at der ikke er ét eneste sted, vi med rimelighed ville kunne sætte en bevilling så meget som 1 mio. kr.
+ned, fordi vi nu lempede denne afgift. Vi skulle
+altså hente disse penge et andet sted, og derfor
+har vi som sagt ikke på nuværende tidspunkt
+fundet grundlag for at støtte forslaget, selv om
+vi altså har sympati for det.
+Birte Lau Pedersen (SF):
+Socialistisk Folkeparti er umiddelbart positivt indstillet over for forslaget. Vi synes, det lyder både logisk og sympatisk at ophæve forskellen vedrørende afgift på gaver givet i levende live og de testamentariske bestemmelser. ,
+
+1736
+
+Vi er også enige med forslagsstillerne i, at
+mange frivillige organisationer og foreninger
+løser vigtige opgaver, som ellers ikke ville blive
+løst, og vi vil gerne være med til at støtte det arbejde på den måde, som bliver nævnt her i forslaget, ved at vi indirekte kommer til at give de
+pågældende organisationer og foreninger flere
+penge.
+De betænkeligheder, vi kunne have, går snarere i retning af, om dette forslag åbner for nye
+skattefiduser, og det er et af de spørgsmål, vi
+gerne vil have undersøgt under udvalgsbehandlingen. Det drejer sig om fondsbeskatningen, skattepligtige over for skattefri fonde osv.
+Endvidere kunne det måske også være på sin
+plads at drøfte, hvad der i det hele taget ligger i
+begrebet »velgørende og almennyttige formål«. Således virker det ikke lige gennemskueligt, hvad alle de foreninger egentlig laver,
+som er opført i oversigten i Told- og Skattestyrelsens cirkulære, som der henvises til i bemærkningerne. Jeg kan f.eks. nævne Landsforeningen Arbejde Adler, Dansk Faldskærms
+Union, Fondet for Forsøg med Sukkerroedyrkning, Vegetarernes Omsorgs- og Støtteforening
+og foreningen Værn om Danmark.
+Endelig kunne vi ønske, at bestemmelsen afbureaukratiseres, således at afgiften simpelt
+hen faldt væk og ikke skulle igennem en skatteministeriel behandling først, sådan som der står
+i indledningen til stk. 4.
+Men som sagt kan vi tilslutte os hovedsigtet i
+forslaget fra Kristeligt Folkeparti, sådan som vi
+forstår det.";Else Theill Sørensen
+141669;name_party;":
+Venstre har stor sympati for den næstekærlighed, der ligger i lovforslaget, men ligesom
+bl.a. skatteministeren skønner heller ikke vi, at
+vi har råd til at støtte lovforslaget endnu. Efter
+min mening er det i det hele taget uretfærdigt,
+at man skal beskattes af opsparede midler. Det
+burde man slet ikke blive. Men forholdene er jo
+sådan i dag, at vi må prioritere, hvor vi skal sætte ind med afviklingen af skatter, og vi har altså
+valgt et andet område, hvor vi mener det er mere værdifuldt. Det kan da være, at vi engang
+kan vende tilbage til det ellers meget fornuftige
+lovforslag, Kristeligt Folkeparti har fremsat,
+men på nuværende tidspunkt må vi afvise det.
+
+1737
+
+8/11 90: 1. beh. af f. 1.1. vedr. afgift af arv og gave";Svend Heiselberg
+142415;name_party;":
+Arveafgiftsloven, hun er et gammelt hus, som
+i allerhøjeste grad trænger til en renovering og
+hovedistandsættelse fra kælder til kvist. Derfor
+er det noget betænkeligt, når man i enkeltforslag som det, vi behandler her, tager en enkelt
+lille detalje ud af et system, som jo er skrevet
+faktisk tilbage engang i det 18. århundrede, for
+det er jo sandheden om vores arveafgiftslov i
+den nuværende formulering, senest gennemset
+omkring 1922.
+Den regel, som man har fundet på at ville
+ændre fra Kristeligt Folkepartis side, er ikke ligefrem et af de bærende elementer, og det hele
+ville derfor ikke styrte sammen, hvis man ændrede den på den foreslåede måde. Da vi jo allerede har den bureaukratiske lovregel, at skatteministeren skal se på de enkelte sager for at
+vurdere, om han kan yde den store gunstbevisning at nedsætte arveafgiften til 12 pet., ville det
+ikke medføre umådelig meget ekstra bureaukrati, om han skulle få beføjelse til at nedsætte
+den til 0 pet. Og med de statsunderskud, som
+regeringen opererer med på 30 mia. kr. eller 40
+mia. kr., eller hvor meget det nu bliver, virker
+det vel heller ikke aldeles fortvivlende at skulle
+rokere med 35 mio. kr.
+Det er selvfølgelig en fordel, når man fører
+den økonomiske politik, som den siddende regering gør, at man kan tage lettere på 35 mio.
+kr., for det ligger jo alligevel langt inden for
+fejlmarginen på det statsunderskud, der under
+alle omstændigheder vil være.
+Vi kan da også være fuldstændig enige med
+Venstres og De Konservatives ordførere, når de
+her siger, at det er nogle skatter, de ikke kan lide. Men kunne man ikke i stedet for have formuleret sig på den måde, at man overhovedet
+ikke kan lide skatter - hr. Svend Heiselberg
+nikker - for det hjælper jo ikke meget at sige, at
+man ikke kan lide lige præcis den skat, vi her
+taler om, når man stort set ikke kan lide nogen
+som helst typer af skatter.
+Men hvis man endelig i anledning af den tilstundende jul skulle finde frem til, hvor man
+kunne gøre godt med de 35 mio. kr. inden for
+vort skattesystem, tror jeg, man hellere skulle
+rette blikket mod den stempellov, vi behandlede under den foregående sag på dagsordenen,
+andre kapitalvindingsskatteregler eller afskrivningsloven, som regeringen med lovforslag nr.
+L 3 vil forringe yderligere, skønt der er behov
+
+1738
+
+for at forbedre den for at give yderligere konkurrencedygtighed. Og der var måske også andre steder inden for arveafgiftsloven, f.eks.
+kunne der måske være grund til at nedsætte arveafgiftssatsen på 90 pet. til 89,8 pet. for dog
+trods alt at komme et skridt i den rigtige retning
+ved at bruge disse penge på anden måde.
+Og når vi nu behandler denne § 3, stk. 4, i arveafgiftsloven, rejser der sig også det spørgsmål, om det er rimeligt, at den skatteminister,
+som f.eks. i forbindelse med lovforslag nr. L 2
+fra sidste samling var så ivrig efter at ændre de
+fortvivlende regler fra enevældens tid om, at
+det er de høje excellencer, der skal finde ud af,
+hvem der skal betale skat, eller hvem der ikke
+skal betale skat her i landet. Reglerne er udformet sådan, at skatteministeren kan fritage dem,
+han kan lide. Hvis man f.eks. har fru Kirsten
+Lees opfattelse af flygtningespørgsmål, kan
+man betragte flygtningevenner som velgørende
+formål, og hvis man har fremskridtsopfattelsen
+af flygtningespørgsmål, kunne man mene, at
+Den Danske Forening var et langt mere velgørende formål osv.
+Det bør ikke være den til enhver tid siddende
+politiske skatteminister, hvad enten han som i
+øjeblikket er fra Venstre eller som i fremtiden
+fra Fremskridtspartiet, der skal afgøre, hvem
+der kan blive fri for at betale skat, og hvem der
+skal betale skat. Det er en lidt forældet opfattelse.
+Nå, så lykkedes det mig at få talt om dette lille forslag helt frem til, at den røde lampe lyste.
+Nu må jeg holde op.";Glistrup
+146219;name_party;":
+Jeg skal på Det Radikale Venstres vegne forsøge at udføre det kunststykke, der hedder at
+komme med en positiv afvisning af dette lovforslag.
+I Det Radikale Venstre er vi tilhængere af arveafgift og andre former for afgifter og skatter i
+det omfang, det er nødvendigt for at skaffe staten nogle indkomster. Men der er naturligvis
+også nogle faktiske forhold i jernindustrien,
+som vi bliver nødt til at tage i betragtning, og
+dette lille forslag, som skulle være til gavn for
+nogle velgørende institutioner, er vi da godt
+klar over bygger på nogle reelle vanskeligheder
+i samfundet.
+Vi får mange henvendelser i disse måneder
+fra organisationer og foreninger, som tidligere
+
+1739
+
+8/11 90: 1. beh. af f. 1.1. vedt. afgift af arv og gave";Elisabeth Arnold
+146976;title_name;"har kunnet skaffe penge ved hjælp af lotterier,
+indsamlinger, basarer osv., men som nu pludselig oplever, at pengene er begyndt at tørre ud,
+fordi vi herinde i Folketinget har vedtaget lotto,
+kasino, præmieopsparingsordninger og andre
+former for opsparing, som dræner folks likviditet, og som betyder, at mange af de små organisationer, der før i tiden har kunnet klare sig
+med frivillige bidrag, nu ingenting får og har
+meget svært ved at klare sig, uanset at de har
+mange gode formål og udfører et stort socialt
+og kulturelt arbejde, som kan komme mange til
+gode.
+Der er altså et reelt problem for de små organisationer, og derfor synes jeg, Kristeligt Folkeparti skal have ros for, at de fremsætter dette
+forslag, så vi i hvert fald kan få en diskussion
+om spørgsmålet.
+Til gengæld må jeg også sige, at den beskrivelse, som hr. Glistrup netop har givet af, hvordan man sondrer mellem foreninger, som bør
+kunne få en sådan fritagelse, helt klart beskriver, hvad det er for et problem, vi står over for,
+som fru Pia Gjellerup også omtalte tidligere,
+nemlig nåleøjet. Hvor stort skal det være, det
+nåleøje? Skal det være en stoppenål, eller skal
+det være en synål? Det er jo helt klart meget
+vanskeligt at sondre imellem, hvad der er gode
+formål, og hvad der ikke er helt så gode formål.
+Derfor kan jeg sige, at vi under udvalgsarbejdet vil gå alvorligt ind i diskussionen: vi vil stille spørgsmål, og vi vil diskutere sagen for at se,
+om vi kan komme længere med det. Men foreløbig må vi på det nuværende grundlag desværre sige nej.";Elisabeth Arnold
+148530;name_party;":
+Ligesom det gjaldt det foregående lovforslag
+på dagsordenen, kan CD's ordfører i sagen, fru
+Bente Juncker, ikke være til stede.
+Jeg skal på CD's vegne udtale, at vi er overordentlig sympatisk indstillet over for lovforslaget, og at vi meget gerne vil medvirke til at få
+det gennemført: i hvert fald vil vi deltage positivt i udvalgsarbejdet.";Emmert Andersen
+148899;name_party;":
+Jeg skal indledningsvis takke for - med den
+radikale ordførers formulering - den positive
+afvisning, som er kommet fra de fleste partiers
+side. Det er naturligvis beklageligt, at vi ikke
+I kan se frem til at få dette forslag gennemført nu
+
+1740
+
+i den foreliggende form, men jeg må da glæde
+mig over de mange positive tilkendegivelser,
+der er kommet fra forskellige sider, og jeg skal
+komme med nogle kommentarer til de forskellige indlæg, der har været.
+Ministeren var inde på, at regeringen er enig
+i, at disse institutioner løser en lang række opgaver, og der blev også udtrykt anerkendelse af
+det arbejde, der gøres.
+Men skatteministeren nævnte, at institutionerne er godt tilfredse med den skattefritagelse,
+de har på gaver, og det lå ligesom i ordene, at
+man måske så også burde være tilfreds med, at
+der er en afgift på arv.
+Dertil vil jeg gerne sige, at det jo ikke er for
+institutionernes skyld, at vi har fremsat dette
+forslag. Det er af hensyn til det gode formål, altså de personer og det hjælpearbejde, der bliver
+sat i gang: det er jo ikke institutionerne som sådan, der skal have fordel af dette her.
+Vi er godt klar over, at man må lave en prioritering, når det gælder brug af statens finanser.
+Vi havde gerne set, at regeringen havde prioriteret denne sag højere, så det var kommet med.
+Vi mener, det er en vældig billig form for socialt
+arbejde. Det er ofte meget billigere, end. staten
+kan udføre det, og jeg tror også, der ligger en
+masse forebyggelse i dette her, som i den sidste
+ende sparer staten for en lang række udgifter.
+Til den socialdemokratiske ordfører, fru Pia
+Gjellerup, skal jeg også lige knytte et par kommentarer. Det er rigtigt, at nåleøjet udgør et
+problem. Jeg tror imidlertid, Folketinget skal
+være uhyre varsom med at lave dette nåleøje
+for lille. Jeg ved godt, at ordføreren ikke var inde i overvejelser om, hvad der er godt eller dårligt, men jeg mener, det i høj grad må være
+yderne, der er medbestemmende her, og så må
+vi selvfølgelig opstille nogle regler for, hvordan
+pengene skal anvendes. Vi skal ikke have åbnet
+nye muligheder for misbrug og skattetænkning
+og den slags, men formålets værdi skal vi passe
+på ikke at sætte for snævre grænser for her fra
+Folketingets side.
+Jeg er også enig med fru Pia Gjellerup i
+spørgsmålet om disse institutioners vigende
+muligheder for at skaffe sig indtægter. Det ser
+vi med stor alvor på, og det er ikke uden sammenhæng med de love, der er vedtaget her i
+Folketinget om lotto, præmieopsparing og andre initiativer af den art. Det er meget beklageligt, hvis disse velgørende organisationer får
+indskrænket deres muligheder for at arbejde.
+
+1741
+
+8/11 90: 1. beh. af f. 1.1. vedr. afgift af arv og gave";Lysholm Christensen
+151615;title_name;"Endvidere skal jeg lige knytte et par kommentarer til fru Else Theill Sørensen, som siger,
+at vi ikke har pengene til dette her. Det falder jo
+godt i tråd med skatteministerens udsagn, og
+jeg må beklage, at Det Konservative Folkeparti
+ikke sætter denne sag højere på prioritetslisten,
+end man har gjort.
+SF's ordfører, fru Birte Lau Pedersen, gjorde
+en interessant bemærkning om, hvad der skjuler sig bag ved de forskellige formål, som man
+kan finde i listen over modtagere efter § 8 a. Nu
+skal jeg ikke gøre nøjere rede for det her, men
+jeg vil lige kommentere et enkelt formål, der
+blev omtalt, nemlig det formål, der hedder
+»Arbejde Adler«. Det er jo et gammelt udtryk,
+og umiddelbart kan man måske ikke forstå,
+hvad der ligger bag det. Denne forening gør
+imidlertid faktisk et godt stykke arbejde for det,
+vi kalder for »landevejens farende svende«.
+Det startede med, at disse mennesker, som ikke
+ønsker fast bopæl, kunne komme ind og hugge
+noget brænde og få noget mad og en seng at sove i som betaling for det arbejde, de havde udført. Og så vidt jeg ved, har man i øjeblikket 3
+institutioner tilbage, hvor man kan deltage i arbejdet i gartneri og på anden måde og dermed
+gøre sig fortjent til at få et værelse, hvor man
+kan opholde sig så længe, som man har lyst til et ganske udmærket stykke arbejde, som jeg
+heller ikke tvivler på at SF's ordfører vil anerkende. Der kan jo godt somme tider skjule sig
+et godt formål bag en gammel betegnelse.
+Jeg vil takke SF's ordfører for de pæne ord
+om vores forslag: vi synes, at det er helt fint, at
+man får undersøgt, om der skulle ligge nogle
+muligheder for skattefiduser i forslaget. Det er
+naturligvis ikke vores hensigt, at der skal være
+mulighed for den slags.
+Hr. Svend Heiselberg ville gerne være med til
+at vende tilbage til forslaget på et senere tidspunkt. Det skal vi huske, for vi mener, at det er
+et virkelig godt formål, og hvis vi ikke kan få det
+gennemført nu, kommer vi nok med det en anden gang igen, så vi vender tilbage til det tilsagn
+fra Venstres side.
+Heller ikke hr. Glistrup kunne støtte lovforslaget, hvilket jeg må beklage.
+Jeg skal takke fru Elisabeth Arnold for den
+positive afvisning. Også her fik vi nogle bemærkninger om de velgørende institutioners
+muligheder for at samle penge i disse tider. Jeg
+håber, det vil være muligt at få rettet op på det
+
+1742
+
+forhold, således at kilderne ikke tørrer helt ud
+til disse mange gode formål.
+Konklusionen må jo blive, at der var mange
+positive bemærkninger, men at det kneb lidt
+med den konkrete tilslutning. Det beklager jeg,
+men nu ser vi frem til, at der bliver stillet nogle
+opklarende spørgsmål i udvalget, og jeg takker
+for ordførernes indlæg.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+154438;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den sidste sag på dagsordenen var:
+10) Første behandling af lovforslag nr. L 55:
+Forslag til lov om æg og ægprodukter.
+Af landbrugsministeren (Tørnæs).
+(Fremsat 31/10 90).
+Lovforslaget sattes til forhandling.
+Forhandling";Henning Rasmussen
+154837;name_party;":
+Dette lovforslag fra landbrugsministeren er
+en ramme- og bemyndigelseslov i ordets bogstaveligste forstand, hvilket giver ministeren
+beføjelser og afføder udsendelse af mange efterfølgende bekendtgørelser. Dette er vi jo ikke
+uvante med fra de forskellige ministres side.
+Nogle af de paragraffer, hvorefter landbrugsministeren kan fastsætte, afgøre, pålægge, meddele, tilkendegive osv., ønsker vi derfor fra Socialdemokratiets side at se nærmere på under
+det kommende udvalgsarbejde.
+Dette arbejde skal selvfølgelig ses i lyset af l
+de gældende EF-direktiver. Jeg kan af bemærkningerne til lovforslaget forstå, at regeringen
+bl.a. har lagt et ønske om afbureaukratisering
+til grund for disse ændringer af gældende lov.
+Jeg har derfor nogle spørgsmål, som ministeren
+
+1743
+
+8/11 90: 1. beh. af f. t. I. om æg og ægprodukter";Eva Fatum
+155676;title_name;"er velkommen til at svare på nu, eller jeg kan
+tage dem med i et efterfølgende udvalgsarbejde.
+Ministeren ønsker at ophæve kravet om autorisation af virksomheder, der importerer eller
+eksporterer æg. I stedet ønskes en registrering.
+Hvilke lettelser vil det give? Vil ideelle forhold
+være i tråd med Rådets direktiv af 20. juni 1989,
+som er omtalt i lovforslaget?
+I lovforslaget gives der ministeren mulighed
+for at henlægge kontrolopgaver til private institutioner og for at fastsætte regler for disse kontrolopgavers varetagelse. Hvilke private institutiötÍer og hvilke kontrolopgaver tænker ministeren her på? Er det i overensstemmelse med
+Rådets direktiv af 20. juni 1989? Det skal ikke
+være nogen hemmelighed, at Socialdemokratiet mener, at sådanne kontrolopgaver bedst varetages af offentlige myndigheder for at bevare
+uvildighed og ensartethed.
+En anden ting er, at egenkontrollen af æg og
+ægprodukter ikke må blive en sovepude og
+fuldstændig erstatning for den offentlige kontrol, da loven skal beskytte forbrugeren ved at
+sikre optimal kvalitet.
+Efter disse spørgsmål og bemærkninger kan
+Socialdemokratiet umiddelbart støtte lovforslag nr. L 55 til videre behandling i Landbrugsog Fiskeriudvalget.";Eva Fatum
+156895;name_party;":
+Jeg må tilstå, at det er lidt svært at finde belæg for at bruge ret mange ord på dette lovforslag, al den stund 13 ud af de 19 paragraffer er
+bemyndigelser til ministeren til at fastsætte regler.
+Så er der et par paragraffer om strafferammerne for overtrædelse. Så er der en paragraf,
+der bestemmer ikrafttrædelsestidspunktet, og
+så er der en paragraf, der siger, at loven ikke
+gælder for Færøerne og Grønland.
+Tilbage er der vistnok to paragraffer med en
+lille smule indhold, og i dem havde jeg håbet at
+der var nogle regler om, hvad der kom først:
+hønen eller ægget.";Rønholt
+157482;name_party;":
+Det er ikke mange forslag, landbrugsministeren fremsætter, hvor der ikke i slutningen af
+fremsættelsestalen står: »Dette lovforslag
+fremsættes som led i en almindelig modernisering og som led i regeringens afbureaukratise-
+
+1744
+
+ringsprogram«, eller der står i indledningen:
+»Forslaget sigter bl.a. på at skabe grundlag for
+at gennemføre Rådets direktiv« af den og den
+dato.
+Det behøver i sig selv ikke at være dårligt, og
+det med EF er jo noget, vi efterhånden bare må
+tage til efterretning, men de store visioner giver
+det ikke Landbrugsministeriet mulighed for at
+komme frem med.
+Når ministeren i sine bemærkninger siger, at
+dette er udformet som eh ramme- og bemyndigelseslov, så tror jeg ikke, ministeren nogen sin-*
+de har haft mere ret. Det er i den grad en bemyndigelseslov, at man, selv 0111 man opmærksomt har læst lovforslaget igennem, kun ved, at
+det drejer sig om æg og ægprodukter og så ikke
+meget mere.
+Der står, at der skal gælde nogle regler for
+»tilvirkning, pakning, mærkning, forhandling
+en gros, indførsel og udførsel samt dertil knyttet opbevaring og transport«, og at der tillige
+skal være regler for »hensynet til sundhed, hygiejne, ernæring, kvalitet, kontrol og forbrugeroplysning«. Det er vi helt på det rene med, men
+hvilke regler er det, der skal være? Var det en
+SF-landbrugsminister, kunne jeg føle mig helt
+tryg, så det må ved en sådan rammelov altså
+dreje sig om at have fuld tillid til den til enhver
+tid siddende minister, og det kan jeg godt indimellem være lidt utryg ved.
+Vil man vide noget om, hvad det er for regler,
+må man slå op i EF-direktivet og dér se, hvad
+det drejer sig om. For pakkeriernes vedkommende ser det ud til, at der er tænkt på både æg
+og personale, hvilket jo så sandelig også er vigtigt i disse salmonellatider. Men med hensyn til
+æggenes tilvirkning er det en helt anden sag.
+Her er det kun mennesker og menneskers føde,
+der tages hensyn til, ikke til de dyr, der leverer
+varen.
+Det kunne f.eks. være sket gennem en af de
+ting, lovforslaget handler om, nemlig mærkning. Vi synes, at forbrugeren igennem mærkning skal have mulighed for at gøre sig klart,
+hvorledes varen er frembragt, altså under hvilke forhold dyret har levet: Er det æg fra burhøns? Er det æg fra fritgående høns? Er det
+høns, der har haft luft omkring sig eller blot er
+stuvet sammen, så de praktisk talt ikke har haft
+mere plads at røre sig på end burhøns? Eller er
+det høns, der har levet under for forbrugeren
+acceptable forhold? En sådan mærkning ville
+
+1745
+
+8/11 90: 1. beh. af f. t. I. om æg og ægprodukter";Inger Harms
+160045;title_name;"give forbrugeren mulighed for at vælge. Det var
+også rart at vide, om det var et dansk eller et importeret produkt og i så fald fra hvilket land.
+Det med mærkningen er måske noget, landbrugsministeren vil være villig til at svare på,
+for da der nu skal være en mærkning, var det
+rart at vide, hvad den indebærer.
+Vi har bemærket, at der nu ikke skal være nogen form for autorisation af den enkelte producent. Havde der eksisteret en forebyggende veterinær sundhedstjeneste, der jævnligt kom på
+besøg, havde vi måske ikke været så usikre,
+men om man skal give helt frie hænder, har vi
+svært ved at overskue.
+I et EF-direktiv, der skal sikre beskyttelse af
+folkesundhed og dyresundhed, står der, at
+medlemslandene skal forelægge en plan, hvori
+de gør rede for, hvorledes de agter at gennemføre kontrollen. Denne plan skal godkendes af
+EF, og nu hvor grænsekontrollen ophæves, var
+det rart for udvalget at kende denne plan.
+Endelig står der i forslaget, at landbrugsministeren kan fastsætte regler om omfanget af og
+betingelserne for ægproducenters salg af æg direkte til forbruger. Jeg synes, at det er vigtigt, at
+denne salgsmåde ikke begrænses, idet forbrugerne herved får mulighed for at støtte præcis
+den landmand, der giver hønsene de forhold,
+de synes at æg skal produceres under.
+Til allersidst kan jeg af Landbrugsraadets
+netop tilsendte papirer se, at man ikke regner
+med en stigning i forbruget af æg. Nej, det tror
+jeg da gerne. Enhver, der har set de forhold,
+burhøns lever under, mister jo appetitten på
+æg.
+Ernst B.Schmidt (FP):
+Om dette forslag til lov om æg og ægprodukter kan jeg roligt sige til landbrugsministeren,
+at det ikke ægger os til den helt store debat. Vi
+er klar over, at der skal være visse regler, for at
+man kan sikre, at æggene er så gode som muligt.
+En af mine kolleger i gruppen oplyste mig
+under gruppemødet om, at i realiteten skal æg
+koges i 8 minutter, for at man kan være helt sikker på, at der ikke er bakterier eller andet skidteri i dem. Vi vil nu ikke fremsætte ændringsforslag om, at sådan skal æg behandles, selv om
+der i § 6 står: ))Æg og ægprodukter må ikke sælges, hvis varen ved anvendelse på sædvanlig
+måde må antages at kunne overføre eller fremkalde sygdom...«.
+
+1746
+
+Æg er noget, vi alle sammen benytter, og
+hvor vi alle sammen ønsker at få det bedste. Vi
+har problemet med konkurrencen i det indre
+marked, hvor man efterhånden frit kan producere og sælge æg. Skal der derfor være regler
+for ægproducenter i Danmark, skal de harmonere med reglerne for andre ægproducenter i
+det indre marked. Det vil vi i hvert fald arbejde
+for, så godt vi kan.
+Jeg er klar over, at der måske er visse ting,
+som jeg nu har lyttet mig til, der kunne forbedres. Jeg er heller ikke tilhænger af, at ministeren
+kan og kan og kan og kan, som der står hele vejen igennem lovforslaget. Hvis ministeren indfører nogle regler, som ikke harmonerer med,
+hvad Fremskridtspartiet ønsker, skal vi nok være opmærksom derpå og få det ændret.
+Jeg kan tilsige ministeren vores positive medvirken under udvalgsarbejdet.";Inger Harms
+163099;name_party;":
+Forslaget er en opfølgning af et rådsdirektiv
+fra juni 1989, og det omfatter bl.a. krav om virksomhedernes egenkontrol, bestemmelser om
+produkternes transport og om personalets helbredstilstand. Ifølge forslaget kan man fastsætte Fællesskabsbestemmelser om restkoncentrationer af skadelige stoffer i ægprodukter. Lige
+præcis det område er noget, jeg hilser med meget stor tilfredshed. Det er meget vigtigt, at vi
+får ensartede vilkår, at vi ikke får nogen konkurrenceforvridning ved strammere bestemmelser ét sted end et andet sted, så jeg håber, at
+landbrugsministeren vil bestræbe sig på, at det
+også bliver håndhævet i de andre lande.
+Vi får endvidere en klar adskillelse af avlsæg
+og æg til konsum, idet lovforslaget kun omfatter konsumæg og ægprodukter.
+Man kan sige, at det er nødvendigt at foretage nogle af de justeringer, der er i lovforslaget,
+for landbrugsministeren, og der er tale om en
+ajourføring og modernisering. Med de bemyndigelser, landbrugsministeren får, tror jeg bestemt, at loven vil kunne holde i mange, mange,
+mange år.
+Fra radikal side er der tilslutning alligevel.";Larsen-Ledet
+164214;name_party;":
+Allerførst må jeg sige, at CD kan stemme for
+lovforslaget, som det er.
+Jeg skal ikke kommentere de enkelte ting ret
+meget, dog vil jeg godt spørge om den sprog-
+
+1747
+
+8/11 90: 1. beh. af f. 1.1. om æg og ægprodukter";Emmert Andersen
+164453;title_name;"brug, man anvender. Hvorfor står der, at landbrugsministeren »kan« fastsætte regler? Hele
+meningen med forslaget er vel, at landbrugsministeren fastsætter reglerne. I stedet for at skrive, at landbrugsministeren »kan«, kan man lige
+så godt skrive, at det gør landbrugsministeren.
+Så var vi måske også fri for alle de kommentarer bagefter.";Emmert Andersen
+164817;name_party;":
+På en måde er det lidt besynderligt at give en
+minister så mange bemyndigelser, som det her
+er tilfældet, men jeg trøster mig lidt med, at der
+er vel ingen landbrugsminister, der kan overleve ikke at fastsætte nogle rimelige regler på dette område. Der skal ikke omtales mange sygdomstilfælde i dagspressen, før det vil falde tilbage på landbrugsministeren, og vi har jo haft
+tilløb til sådanne sager. Derfor har jeg en vis
+fortrøstning til, at landbrugsministeren vil sørge for at få disse bestemmelser udmøntet på rette måde.
+Desuden er det jo også en opfyldelse af et
+EF-direktiv, og vi synes, det er helt fint, at man
+får disse ting på plads i relation til EF-direktivet.
+Vi kan tilsige lovforslaget en positiv udvalgsbehandling.
+Landbrugsministeren (Tørnæs):
+Først vil jeg sige tak for en overordentlig velvillig modtagelse af lovforslaget, selv om nogle
+på enkelte punkter har udtrykt betænkelighed
+ved formuleringerne.
+Lovforslagets hensigt er, som det har været
+udtrykt fra flere ordføreres side, først og fremmest en modernisering, idet dele af dette skriver sig tilbage til 1947. Desuden er der indarbejdet en mulighed for at gennemføre de EFdirektiver, der måtte blive vedtaget på området.
+Jeg forstår for så vidt godt de ordførere, der
+siger: Er det nu nødvendigt med alle disse bemyndigelser? På den anden side kan man vel
+ikke forestille sig, at Folketinget vil være interesseret i at skulle behandle et nyt lovforslag,
+hver gang der blev behov for en eller anden aktivitet eller for at gennemføre en eller anden
+foranstaltning på dette område, som selvfølgelig er vigtigt, men jo dog trods alt er et ret begrænset område.
+Jeg vil gerne understrege, at der i § 2, stk. 1, i
+lovforslaget står, hvilke hensyn der skal tages
+
+1748
+
+ved fastsættelse af regler om æg og ægprodukter. Det er hensynet til sundhed, hygiejne, ernæring, kvalitet, kontrol og forbrugeroplysning.
+Jeg mener, det er karakteristisk for danske
+landbrugsprodukter, at når vi generelt kan opnå en højere pris end de fleste andre lande, vi
+sammenligner os med, så er det, fordi vi har en
+god produktion på et hygiejnisk højt niveau og
+nogle ernæringsmæssigt gode produkter, også
+fordi der føres en forsvarlig og tilstrækkelig
+kontrol med det.
+Jeg vil gerne under udvalgsarbejdet deltage i
+opklaringen af nogle af alle de spørgsmål, der
+er stillet. Jeg synes, det er rimeligt og rigtigst, at
+vi behandler dem dér.
+Det leder mig hen på spørgsmålet, om man
+nu også kan være tryg ved det. Det var især
+CD's ordfører, der sagde: Hvorfor skriver man
+»kan« ? Det er jo svært at forudse alle de situationer, der kan opstå på et sådant område, og
+derfor er det nok trods alt en hensigtsmæssig
+formulering at skrive »kan«.
+Jeg tror også godt, jeg tør sige til SF's ordfører, at det behøver man såmænd ikke at være så
+utryg ved. Det forholder sig sådan, når vi taler
+konkret om mærkning, at der allerede er vedtaget et EF-direktiv, der foreskriver regler for
+mærkning af æg til salg.
+Men jeg er parat til, at vi i udvalget diskuterer, om vi må skønne, at der af den ene eller den
+anden grund er behov for, eller at det er hensigtsmæssigt at supplere det på områder, hvor
+det er muligt at gøre det.
+Med disse bemærkninger vil jeg gerne sige
+tak for modtagelsen af lovforslaget.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+168214;title_name;":
+Jeg foreslår, at lovforslaget henvises til Landbrugs- og Fiskerilidvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som
+vedtaget. (Ophold). Det er vedtaget.
+
+1749
+
+8/11 90: Meddelelser fra formanden
+
+Meddelelser fra formanden:";Henning Rasmussen
+168504;title_name;":
+Der er ikke mere på dagsordenen.
+Medlemmer af Folketinget Kirsten Jacobsen
+(FP), Behnke (FP) og Pia Kjærsgaard (FP) har
+meddelt mig, at de til statsministeren ønsker at
+stille følgende:
+Forespørgsel.
+»Hvilke ændringer agter regeringen at foreslå i indeværende folketingssamling som erstatning for boligpakken, særlig med henblik på at
+give boligejerne lavere boligudgifter, f.eks. gennem ændringer i lejeværdibeskatningen, standardfradrag/vedligeholdelsesudgifter, realkreditbelåning og skattefradrag for renter?«
+(Forespørgsel nr. F 11).
+Medlemmer af Folketinget Pia Kjærsgaard
+(FP), Poul Jensen (FP), Knud Lind (FP) og To-
+
+1750
+
+ve Niemann (FP) har meddelt mig, at de til justitsministeren ønsker at stille følgende:
+Forespørgsel.
+»Hvilke ændringer af udlændingeloven
+agter ministeren at foreslå i indeværende folketingssamling?«
+(Forespørgsel nr. F 12).
+Folketingets næste møde afholdes tirsdag
+den 13. november 1990 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den i salen opslåede dagsorden.
+Angående Folketingets arbejde de følgende
+dage i den pågældende uge skal jeg henvise til
+den omdelte ugeplan.
+Mødet hævet kl. 14.30";Henning Rasmussen

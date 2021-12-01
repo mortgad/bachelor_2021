@@ -1,0 +1,2591 @@
+split;reason;text;value
+0;;"1208
+
+Fredag den 18. november 2005 (D)
+
+18. m ø d e";
+90;Time;"6) Første behandling af lovforslag nr. L 57:
+Forslag til lov om indgåelse af aftale mellem
+Danmark og Færøerne om beskatning af indkomst for arbejde om bord på skibe i internationalt skibsregister.
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+
+Dagsorden
+1) Første behandling af lovforslag nr. L 47:
+Forslag til lov om forebyggende foranstaltninger
+mod hvidvask af udbytte og finansiering af terrorisme (hvidvaskloven).
+Af økonomi- og erhvervsministeren (Bendt
+Bendtsen).
+(Fremsat 9/11 2005).
+2) Første behandling af lovforslag nr. L 49:
+Forslag til lov om brugsmodeller.
+Af økonomi- og erhvervsministeren (Bendt
+Bendtsen).
+(Fremsat 9/11 2005).
+3) Første behandling af lovforslag nr. L 56:
+Forslag til lov om ændring af ligningsloven
+-m.m. (Justering af reglerne for medarbejderaktier).
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+4) Første behandling af lovforslag nr. L 55:
+Forslag til lov om ændring af spiritusafgiftsloven, øl- og vinafgiftsloven og emballageafgiftsloven. (Justering af tillægsafgift på alkoholsodavand).
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+5) Første behandling af lovforslag nr. L 54:
+Forslag til lov om ændring af registreringsafgiftsloven og skatteforvaltningsloven m.v. (Indførelse af motor ankenævn m.v.).
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+
+Meddelelser fra formanden";kl. 10.00
+1476;title_name;"Medlemmer af Folketinget Lone Dybkjær (RV),
+Elisabeth Arnold (RV), Marianne Jelved (RV) og
+Niels Helveg Petersen (RV) har meddelt mig, at
+de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om ophævelse af
+det danske forsvarsforbehold.
+(Beslutningsforslag nr. B 37).
+Medlemmer af Folketinget Per Clausen (EL),
+Jørgen Arbo-Bæhr (EL), Line Barfod (EL), Majbrit Berlau (EL) og Frank Aaen (EL) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om gratis og
+økologisk sund mad i skoler og daginstitutioner.
+(Beslutningsforslag nr. B 38).
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 47:
+Forslag til lov om forebyggende foranstaltninger mod hvidvask af udbytte og finansiering af
+terrorisme (hvidvaskloven).
+Af økonomi- og erhvervsministeren (Bendt
+Bendtsen).
+(Fremsat 9/11 2005).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+2402;name_party;":
+Siden begyndelsen af 1990'erne har pengeinstitutter i EU og de fleste øvrige vestlige lande haft
+
+(152)
+Fredag den 18. november 2005 (L 47)
+pligt til at give indberetning til politiet om transaktioner, hvis pengeinstitutterne har haft mistanke om, at transaktionerne har haft til formål
+at hvidvaske penge.
+Danmark har siden starten i 1989 været med i
+det, der hedder Financial Action Task Force on
+Money Laundring, forkortet FATF, som er et
+mellemstatsligt samarbejde. Formålet med FATF
+er netop at udvikle og fremskynde tiltag mod
+hvidvask af penge og terrorfinansiering, og det
+lovforslag, vi nu skal behandle, bygger bl.a. på
+anbefalinger fra FATF. Forslaget centrerer sig om
+to pligter: en opmærksorrihedspligt og en underretningspligt.
+Opmærksomhedspligten betyder, at de omfattede virksomheder og personer skal vurdere
+usædvanlige transaktioner og være opmærksom
+på kundeaktiviteter, som kan begrunde en mistanke. Underretningspligten udvides, så de omfattende virksomheder og personer ikke kun
+skal underrette statsadvokaten ved mistanke
+om, at en transaktion er en overtrædelse af straffeloven, men også hvis mistanken gælder andre
+lovovertrædelser, der kan straffes med fængsel i
+over 1 år.
+For at gøre det sværere at hvidvaske penge og
+finansiere terrorisme udvides anvendelsesområdet i den gældende hvidvasklov med en præcisering af, hvilke virksomheder og personer der
+er Qmfattet af loven. Det drejer sig om udbydere
+af tjenesteydelser til virksomheder samt forhandlere og auktionsholdere, der nu ikke kan
+modtage kontantbetaling på 15.000 euro eller
+derover. Det støtter vi i Venstre, da vi mener, det
+vil dæmme op for disse kanalers anvendelse til
+hvidvask af penge og terrorfinansiering, og det
+samtidig vurderes, at de færreste - i gåseøjne rene transaktioner på over 15.000 euro foregår
+kontant.
+Samtidig bidrager lovforslaget til, at Danmark lever op til vore internationale forpligtelser på området, herunder det tredje hvidvaskdirektiv. Det er vigtigt for Danmarks omdømme i
+almindelighed og de finansielle institutioners i
+særdeleshed.
+I Venstre støtter vi kampen mod terror, og
+dette forslag kan medvirke til, at finansieringsgrundlaget for terroraktivitet smuldrer, hvilket
+også vil være med til at få grundlaget for terrorvirksomhed til at smuldre. Venstre støtter derfor
+lovforslaget.
+
+1209
+
+(Kort bemærkning).";Jacob Jensen
+4758;name_party;":
+Jeg vil bare spørge: Venstre har behandlet lovforslaget i gruppen, har diskuteret det og har set
+henvisningen til straffelovens terrorbestemmelse, og burde det ikke give anledning til yderligere overvejelser? Vi ved jo, at terrorbestemmelsen
+siger, at enhver befrielsesbevægelse i virkeligheden kan kaldes for en terrororganisation, og derfor kan støtte til en befrielsesbevægelse i et andet land blive betegnet som støtte til terror.";Frank Aaen
+5204;Time;(Kort bemærkning).;Kl. 10.05
+5240;name_party;":
+Vi mener generelt set, at det er vigtigt, at Danmark overholder og lever op til de internationale forpligtelser på området, bl.a. det tredje hvidvaskdirektiv og de anbefalinger, vi får fra FATF.
+Derfor mener vi, at forslaget her er et godt forslag, som vi kan støtte.
+(Kort bemærkning).";Jacob Jensen
+5544;name_party;":
+Nu snakkede jeg ikke så meget om, at vi skal
+kontrollere støtte til terror og forhindre økonomisk støtte til terror, for det går alle naturligvis
+ind for.
+Men problemet er, hvordan man definerer
+terror, og som det er defineret i lovforslaget med
+henvisning til straffeloven, er det en så bred definition, at alle, der ønsker at lave et samfund
+om og ændre styringen af samfundet - det kan
+f.eks. være en befrielsesbevægelse - kan betegnes som en terrororganisation. Støtter man den
+befrielsesbevægelse, støtter man altså terror, og
+overfører en bank penge til en sådan befrielsesbevægelse, støtter den også terror. Bekymrer det
+ikke Venstre, at vi har en så bred terrordefinition, at folk helt uforvarende kan komme i uføre
+på grund af dette lovforslag?
+(Kort bemærkning).";Frank Aaen
+6335;name_party;":
+Forslaget siger jo netop, at der skal være mistanke om transaktioner, som giver en straf på over 1
+års fængsel, og det mener vi ikke er noget problem. Det er jo en specifik og klar afvejning af,
+hvor meget der skal til, og vi mener, at det er en
+balanceret afvejning.";Jacob Jensen
+6616;title_name;"Tak til hr. Jacob Jensen. Så er det hr. Frode Sørensen som ordfører.
+
+1210
+
+Fredag den 18. november 2005 (L 47)
+
+godt gå med til, men vi skal også passe på, at";Formanden
+6795;name_party;":
+Socialdemokratiet har for blot 2 uger siden frem- der er balance og rimelighed i loven. Her tænker
+jeg bl.a. på de bank/sparekassemedarbejdere,
+sat et forslag om bekæmpelse af terror i Danmark, og ministerens lovforslag ligger egentlig i som skal tage stilling til transaktionerne.
+Lovforslaget opererer med, at hvis straffen
+udmærket forlængelse af det.
+for en handling kan blive over 1 års fængsel,
+Vi har fokuseret på beredskab, og ministeren
+skal der ske en indberetning. Som tidligere spahar suppleret med forslag til at gennemskue og
+rekassemedarbejder kan jeg sige, at det er altså
+standse de illegale strømme af penge til udenen meget, meget vanskelig situation, når man
+landske grupper, hvis primære formål er at udskal vurdere, om det er tilfældet, og man skal
+føre terroraktioner overalt i verden. Vi har genaltså også sikre, at bank/sparekassemedarbejnem FN forpligtet os til at yde vort bidrag ifølge
+derne har ordentlige arbejdsforhold.
+FN's vedtagelse om stop for finansiering af terMedarbejderne skal også indberette atypiske
+ror, og derfor er det egentlig helt naturligt, at vi
+eksempler, men det er jo ganske forfærdeligt,
+følger pengenes vandring til terrorformål, også
+hvis det pludselig kommer til at gå ud over ganhvis det sker her fra landet.
+ske almindelige mennesker, der på en eller anDet er for nylig blevet påpeget af orienteden måde har fået en atypisk indtægt. Vi skal
+ringsredaktionen på P 1, at tamiler, som er bosat
+altså sikre, at det foregår på ordentlig vis, og vi
+i Danmark, mere eller mindre frivilligt har biskal også sikre, at de medarbejdere, der skal
+draget til massive opkøb af våben, som organihåndtere sagerne, har de naturlige forudsætninsationen De Tamilske Tigre har anskaffet sig i ly
+af den 2 år lange våbenhvile i Sri Lanka. EU har i ger for det. Her kan jeg godt være bange for, at
+den hurtighed, hvormed lovforslaget skal vedtaseptember meddelt, at det overvejes at optage
+ges, vil give problemer i den retning.
+organisationen på listen over terrororganisatioKl. 10.10
+ner, og derfor skærpes overvågningen af finanJeg
+har
+også
+bidt
+mærke
+i
+begrebet
+politisk
+sieringen af gruppen i Sri Lanka.
+Jeg nævner det kun for at problematisere lov- udsatte personer. Vil det sige, at vi folketingsmedlemmer også på en eller anden måde skal
+forslagets udformning, ikke for at drage dets
+gennemgå en risikoprofilvurdering og pludselig
+nytte i tvivl. Selv den mest fintmaskede lovgivning kan ikke alene på mistanke opsamle alle de risikerer, at vi og vores familier også bliver indbeløb, som bliver kanaliseret videre til terrorfor- berettet?
+Som sagt: Vi skal bekæmpe terror, og vi skal
+mål, og vi skal være varsomme med at drage
+den konklusion, at pengeoverførsler fra private i bekæmpe hvidvaskning, men jeg vil opfordre
+til, at vi tager os den fornødne tid under udVesten til tredjeverdenslande i hovedsagen går
+valgsarbejdet. Jeg har lidt svært ved at se, at vi
+til formål, der kan vendes mod os selv eller mod
+andre landes civilbefolkninger. Det har jo lige si- kan det, hvis forslaget skal hastes igennem inden 1960'erne været kutyme blandt indvandrer- den jul, men lad os bruge den fornødne tid til
+det. Der er jo lavet nogle bestemmelser om, at
+ne at sende penge hjem til forsørgelse af familider først skal sættes noget i gang den 1. januar
+en, og det må aldrig drages i miskredit.
+Vi har indtil nu haft en tet præcis og forment- 2007, så lad os bruge de første måneder af 2006
+lig også velfungerende lov, der skulle gøre hvid- . til en grundig bearbejdelse af forslaget, så vi skaber noget, der er i balance.
+vaskning af penge nærmest umulig. Jeg vil vige
+tilbage for at sige, at den ikke har fungeret, men
+Colette L. Brix (DF):
+nu ønsker ministeren altså at udvide lovgivninDanmark er det første land, der implementerer
+gen på en række aktuelle punkter. Ministeren
+de nye EU-regler, og det sker endda, før direktiskriver i sin begrundelse for lovforslaget, at der
+tilsyneladende fortsat er områder, som den eksi- vet er trådt i kraft. Dansk Folkeparti har en klar
+politik om at forbedre terrorbeskyttelse, og vi
+sterende lov ikke dækker, og hvor der er risiko
+ser også positivt på lovforslaget.
+for at kunne hvidvaske penge eller finansiere
+Loven udvides til også at omfatte udbydere
+terrorisme, og vi er enige i, at det selvfølgelig
+af tjenesteydelser til virksomheder, og det synes
+skal stoppes.
+vi er en rigtig god idé. Der stilles øgede krav til
+Ministeren foreslår at gøre loven bredere, så
+kundekendskabet i de omfattede virksomheder i
+også udbydere af tjenesteydelser omfattes af loven, og der indføres et loft over kontant betaling de forhold, hvor det drejer sig om de såkaldte
+politisk udsatte personer, og underretningspligfor auktionsgenstande. Det kan vi sådan set
+
+Fredag den 18. november 2005 (L 47)
+ten til statsadvokaten om særlig økonomisk kriminalitet udvides. Det gælder ikke kun den generelle opmærksomhedspligt, men underretningspligten udvides til ikke blot at omfatte
+straffelovovertrædelser, men også overtrædelser
+af særlovgivningen, såfremt strafferammen er 1
+års fængsel eller derover. Vi ønsker dog under
+udvalgsarbejdet at få et meget klart svar på,
+hvordan og hvorvidt medarbejderne i de omfattede virksomheder skal være bekendt med strafferammerne, for kan det forventes, at de enkelte
+medarbejdere ved, hvornår mistænkelig adfærd
+straffes med Vi, 1 eller 2 års fængsel?
+Det er et rimeligt led i beskyttelsen mod hvidvask og terrorfinansiering, at der indføres et forbud, så det ikke længere er lovligt at modtage
+kontant betaling i forbindelse med handler, hvor
+betalingen overstiger 15.000 euro. Det kunne nu
+lige så godt være omregnet til danske kroner, for
+vi er i Danmark, og vi har ikke euro i Danmark.
+Med disse kommentarer skal jeg meddele, at
+Dansk Folkeparti gerne går til udvalgsbehandlingen af dette forslag, og i den forbindelse vil
+jeg godt nævne, at der er nogle overgangsbestemmelser, vi gerne vil stille spørgsmål om.";Frode Sørensen
+12739;name_party;":
+Den internationale terrorisme er blevet en påtrængende trussel og udfordring for den civiliserede verden. I Det Konservative Folkeparti ser
+vi med største alvor på denne trussel og bakker
+hundrede procent op om den aktive linje, regeringen fører, for en klar og konsekvent linje er
+det bedste skjold mod terrortruslen.
+Dette lovforslag er med til at gøre livet surt
+for dem, der bidrager økonomisk til terror, og vi
+Konservative støtter forslaget, da en begrænsning af den terrorfinansiering, der finder sted,
+vil svække terroristerne i deres bestræbelser på
+at gennemføre deres grusomme handlinger.
+Nye erfaringer om terrorvirksomheden gør,
+at vi internationalt løbende må tilpasse vore lovgivninger. Vi ved, at en stor del af transaktionerne foregår via selskaber, hvor det kan være
+svært at identificere den reelle ejer. Der kan være
+tilfælde, hvor ejerne er dækket ind af en tredjemand, og der kan være tale om kontorhoteller.
+Endvidere ved vi, at juridiske personer og andre
+retlige arrangementer benyttes til at skjule den
+reelle ejer af ulovlige midler, og det er disse problemstillinger, dette lovforslag tager fat på.
+Lovforslaget rummer endvidere en præcisering af underretningspligten. Det er ikke tanken,
+at f.eks. bankansatte skal kende hele den danske
+
+1211
+
+lovgivning, men det bliver indskærpet, at hvis
+en ansat oplever forhold, der virker atypiske i
+forhold til normale kundeforhold og giver anledning til begrundet mistanke, har man pligt til
+at videregive sin viden til de relevante myndigheder - ikke for at skabe et angiversamfund,
+men fordi det er og må være en borgerpligt at bidrage til landets sikkerhed og medborgernes
+retssikkerhed, hvis man har begrundet mistanke
+om, at unormal opførsel har relation til hvidvask
+af penge eller finansiering af terroraktivitet.";Per Ørum Jørgensen
+14541;Time;"Nogle har skudt regeringen i skoene, at den
+vil haste dette lovforslag igennem, så man kan
+stå velfriseret som klassens pæne dreng, når Den.
+Internationale Valutafond aflægger besøg i februar. Den opfattelse må bero på en misforståelse, for sagen er jo, at disse anbefalinger faktisk
+skulle have været gennemført i sommeren 2004.
+Men for at man ikke skulle ændre loven to gange, har man ganske fornuftigt afventet det tredje
+og endelige hvidvaskdirektiv.
+Når det er sagt, har jeg i øvrigt også svært
+ved at se det negative i, at man sikrer Danmarks
+renommé som en aktiv medspiller i kampen
+mod terror bedst muligt, både af hensyn til nationéns sikkerhed og den finansielle sektors omdømme i udlandet.
+Vi Konservative støtter som sagt lovforslaget,
+og vi ser frem til at bidrage konstruktivt til udvalgsarbejdet.
+(Kort bemærkning).";Kl. 10.15
+15391;name_party;":
+Jeg vil gerne spørge den konservative ordfører,
+om det vejer tungest for hr. Per Ørum, at vi er
+klassens duks og de første, der gennemfører direktivet, når Den Internationale Valutafond
+kommer på besøg, eller det vejer tungest, at vi
+får den fornødne tid under udvalgsarbejdet til at
+gennemføre de nødvendige ting. Jeg går ud fra,
+at hr. Per Ørum ligesom jeg i går aftes har studeret høringssvarene, som jo påpeger mange problemstillinger, ikke mindst retsstillingen for de
+medarbejdere, som bliver berørt af forslaget.
+(Kort bemærkning).";Frode Sørensen
+15955;name_party;":
+Jeg synes egentlig, at vi har tilstrækkelig viden
+om, hvad det tredje hvidvaskdirektiv indeholder, og vi ved jo også, at det direktiv .,netop,bygger på de anbefalinger, som.vi skulle have gennemført allerede i 2004. Derfor har jeg svært.ved
+at se, at der er noget nyt, der gør, at man skal. ud-
+
+1212
+
+Fredag den 18. november 2005 (L 47)
+
+sætte processen yderligere. Det er nogle internationale regler, vi implementerer i Danmark, og
+jeg synes faktisk ikke, der er noget forkert i, at vi
+også internationalt har det renommé, at vi er
+helt i front, når det gælder terrorbekæmpelse, og
+at vi også, når vore virksomheder skal profilere
+sig i udlandet, har et renommé, vi kan være bekendt.
+(Kort bemærkning).";Per Ørum Jørgensen
+16681;name_party;":
+Vil det sige, at hr. Per Ørum har fuldt overblik
+over, hvordan man skal definere politisk udsatte
+personer, og hvordan der skal oprettes risikoprofiler af stort set alle kunder i bankerne? Mener hr. Per Ørum, vi har fuldt overblik over det,
+så vi kan gennemføre udvalgsarbejdet i løbet af
+2-3 uger?
+(Kort bemærkning).";Frode Sørensen
+17024;name_party;":
+Det, vi sætter her, er nogle rammer, men selvfølgelig skal vi bruge den tid, der skal til for at sikre, at alt står meget klart, også for f.eks. de medarbejdere i bankerne, der skal håndhæve loven.
+Det er selvfølgelig meget, meget væsentligt, at
+alle har den rette information.
+Men jeg tror nu også, vi skal passe på, at vi
+ikke overdramatiserer situationen. Vi har jo en
+straffelov i Danmark, som er baseret på, at der
+skal være tale om ond vilje, for at en handling er
+strafbar, og det mener jeg absolut gør, at der i
+Tivert fald ikke er grund til at overdramatisere
+situationen. Men at man har underretningspligt
+mener jeg faktisk er helt naturligt.
+(Kort bemærkning).";Per Ørum Jørgensen
+17713;name_party;":
+Ligesom jeg spurgte Venstres ordfører, vil jeg
+også gerne spørge den konservative ordfører,
+om der i gruppens overvejelser om støtte til lovforslaget er indgået, om det er en særlig god definition af terror, der er i forslaget.
+Vi er selvfølgelig alle sammen imod terrorister, der sprænger uskyldige mennesker ihjel,
+men det står der ikke noget om i den terrordefinition, lovforslaget bygger på. Enhver bevægelse - det kan være en frihedsbevægelse, der arbejder for at ændre sit lands styreform og måske
+i forbindelse hermed demonstrerer, så demonstrationen spærrer for den offentlige samfærdsel
+- kan efter lovforslaget blive erklæret som værende en terroristorganisation, og så er det forbudt at sende penge til dem. Har Det Konserva-
+
+tive Folkeparti overvejet, om det er en særlig
+klog definition, lovforslaget er baseret på, når vi
+skal snakke om, hvad terror er?
+(Kort bemærkning).";Frank Aaen
+18626;name_party;":
+Nu kan der jo være mange meninger om, hvad
+terror er, og hvad terror ikke er, og jeg synes faktisk, hr. Frank Aaen gav svaret ganske godt i sit
+spørgsmål: Hvis man vil fremme sine overbevisninger på bekostning af uskyldige menneskers
+liv, er vi ovre i noget, vi må definere som terror.";Per Ørum Jørgensen
+18923;Time;"Lovforslaget sætter ind mod kriminalitet, altså når der er tale om hvidvaskning af penge og
+penge, der går til terrorvirksomhed, og jeg mener egentlig ikke, det er så vanskeligt at se, hvad
+terror er. Jeg synes, vi har set nogle grusomme
+eksempler på det inden for de senere år, og derfor skal vi selvfølgelig også tage den trussel meget, meget alvorligt.
+(Kort bemærkning).";Kl. 10.20
+19314;name_party;":
+Jeg er sådan set helt enig med hr. Per Ørum Jørgensen i, at det er nemt at se, hvad der er terror.
+Det er f.eks. terror, når man bomber og dræber
+uskyldige mennesker, men problemet er bare, at
+den terrordefinition, lovforslaget bygger på,
+ikke lyder sådan. Gjorde den det, havde jeg ikke
+noget problem. Så kunne vi diskutere tekniske
+detaljer, og her er der nok nogle problemer, men
+så ville vi grundlæggende støtte lovforslaget.
+Problemet er, at der henvises til en terrordefinition, som gør, at enhver befrielsesbevægelse ja, i virkeligheden enhver organiseret bevægelse, der f.eks. ved demonstrationer ønsker at ændre sit lands styreform - kan udlægges som værende en terrororganisation. Dermed bliver det
+forbudt at overføre penge til den, og derfor
+kommer en bankfunktionær i problemer, hvis
+vedkommende er med til at overføre penge til
+en sådan organisation. Det er det, der er problemet, og det synes jeg altså man må forholde sig
+til. Vi er enige om, at der er tale om terror, når
+man slår uskyldige mennesker ihjel, og hvis der
+havde stået det, havde vi ikke haft noget problem.
+(Kort bemærkning).";Frank Aaen
+20446;name_party;":
+Jeg tror, hr. Frank Aaen ligesom undertegnede
+fuldt ud er klar over, at man kontinuerligt følger
+bevægelsernes gøren og laden for at fremme de-
+
+Fredag den 18. november 2005 (L 47)
+res mål, og at man selvfølgelig hele tiden må
+kigge på, hvordan de forskellige bevægelser
+agerer, og hvad det er for nogle midler, de tager i
+brug.
+Vi har en liste i EU, FN arbejder også med
+spørgsmålet, og jeg mener også, man skal støtte
+sig til de erfaringer, man har derfra, når. man
+skal vurdere, om der er tale. om terrorvirksomhed eller anden virksomhed. Det må være noget, vi kontinuerligt følger på baggrund af de
+forskellige bevægelsers gøren og laden.";Per Ørum Jørgensen
+21103;title_name;"Tak til hr. Per Ørum Jørgensen. Så er det hr. Poul
+Erik Christensen som ordfører.";Formanden
+21211;name_party;":
+Det Radikale Venstre støtter tiltag mod hvidvask
+af penge, og Det Radikale Venstre støtter også
+tiltag mod terrorisme. Men vi er meget betænkelige ved den sammenblanding, der sker i dette
+lovforslag.
+Selvfølgelig kan der være forhold, hvor hvidvaskning af penge er en del af terrortruslen, men
+vi skal passe på, at en mulig terrortrussel ikke
+resulterer i lovgivning, der hindrer fri bevægelse
+af penge og truer de udfoldelsesmuligheder for
+befolkningen, som et samfund egentlig har til
+opgave at beskytte.
+Danmark implementerer med dette lovforslag EF-direktivet, før det er trådt i kraft. Vi optræder som EU's pæne dreng, men det er vigtigt,
+at vi ikke går videre end de andre EU-lande, da
+det er afgørende, at der med direktivet sikres
+ensartet lovgivning og lovadministration.
+Lovforslaget ligger tæt op ad direktivet, men
+indeholder imidlertid en række kontroversielle
+emner og konsekvenser af samfundsmæssig karakter. Der er i lovforslaget krav om overvågning af kundeforhold og fastlæggelse af risikoprofil, og kunder og deres transaktioner skal løbende overvåges for at sikre, at de er i overensstemmelse med den pågældende kundes risikoprofil. Her ville det være interessant at vide, om
+risikoprofiler af privatpersoner kan eller skal indeholde foto af kunden.
+Der er endvidere vidtgående forpligtelser til
+at indberette kunder til politiet i tilfælde af mistanke om lovovertrædelser, hvor strafferammen
+er mindst 1 års ubetinget fængsel. Det kunne
+være spændende at vide, hvor mange af ordførerne på dette lovforslag der på stående fod kan
+vurdere, hvilke lovovertrædelser der har en
+strafferamme på 1 års ubetinget fængsel.
+
+1213
+
+Hvordan har ministeren tænkt sig, at det skal
+kunne lade sig gøre i praksis? Hvordan skal en
+bankelev kunne vurdere, om den pågældende
+kunde står til 1 års fængsel? En bankmedarbejder, der anonymt anmelder en kunde, pådrager
+sig dermed en personlig risiko for trusler og
+overgreb fra kundens side.
+Direktivet indeholder krav til medlemsstaterne om at sørge for at træffe de nødvendige foranstaltninger til beskyttelse af ansatte mod trusler og repressalier. Dette forhold er ikke berørt i
+lovforslaget, men henvises til en aktuel orientering fra Politimesterforeningen, og det er ikke
+godt nok. Vi skal have retssikkerhed for de medarbejdere, der udfører deres arbejde, og det skal
+skrives ind i lovforslaget og ikke bare være en
+aktuel orientering fra en brancheforening. Hvis
+medarbejderen ikke foretager anmeldelse på
+formodet mistanke, vil den pågældende medarbejder ellers principielt være medskyldig på
+samme niveau som en hæler.";Poul Erik Christensen
+23800;Time;"Også politisk eksponerede personer skal der
+ske overvågning af. Er vi nu på vej mod et overvågningssamfund? Med politisk eksponerede
+personer menes der højtstående personer, f.eks.
+parlamentsmedlemmer, EU-parlamentarikere
+og partiformænd i politiske partier, men ikke
+nok med det: også deres ægtefæller og nærtstående medarbejdere.
+Egentlig burde lovforslaget have været sendt
+tilbage til ministeriet allerede ved første korrekturlæsning, men da det ikke er sket, burde vi alle
+sammen i dag kunne blive enige om, at lovforslaget er noget juks, som bliver jasket igennem,
+og det kan vi ikke være bekendt over for de folk,
+der fremover skal arbejde med lovforslaget.
+Forslaget er ikke godt nok, .må jeg sige til ministeren, og der skal ske meget, før Det Radikale
+Venstre kan stemme for det.";Kl. 10.25
+24615;name_party;":
+På SF's vegne kan jeg sige, at hensigten - at
+stoppe hvidvaskning - er vi selvfølgelig helt
+med på, og terror har yi bestemt ikke på vores
+dagsorden som noget godt. Der skal gøres noget
+ved det.
+Men der er altså problemer i forslaget, og jeg
+kan følge den foregående taler i, at det bl.a. er et
+problem, hvor vi skal sætte grænsen for definitionen af terror. Der er problemer med hensyn til
+personer, som skal videregive oplysninger om .
+kunder med atypisk adfærd og vurdere, om der
+er tale om en forbrydelse, som straffes med
+
+1214
+
+Fredag den 18. november 2005 (L 47)
+
+mindst 1 års fængsel, og der lurer et skræmmebillede af et overvågningssamfund og et angiversamfund. Her er i hvert fald noget, vi skal
+undersøge meget mere, og vi bliver altså nødt til
+at tage vores tid til at få sat tingene ordentligt på
+plads.
+Når man ser lovforslaget, ser det ud, som om
+vi skal sørge for at være den pæne dreng i klassen. Vi skal sørge for at have-tingene på plads,
+når IMF kommer og skal kigge på os, men det er
+ikke noget argument for at køre forslaget hurtigt
+igennem - simpelt hen ikke. Vi skal være pæne
+over for vores egne borgere, før vi skal være
+pæne over for IMF.
+I første halvår af 2006 vil der, sådan som jeg
+læser forslaget, stadig ske tilretninger fra EU's
+side, og derfor kan jeg ikke se nogen grund til at
+implementere direktivet før tidligst medio 2006.
+Vi bør virkelig bruge den nødvendige tid på lovforslaget, så vi ikke havner i et overvågningssamfund, og så vi får ordentligt styr på, hvad
+der er en frihedsbevægelse, og hvad der er en
+terrorbevægelse. Vi kan risikere at lukke for meget af, og det er ikke ønskeligt.
+Vi vil altså gå lidt kritiske ind i arbejdet, men
+det overordnede formål, altså at imødegå hvidvaskning, er vi meget enige i.";Poul Henrik Hedeboe
+26391;name_party;":
+Vi er naturligvis alle sammen imod de terrorister, det være sig både enkeltpersoner, organisationer og stater, som med bomber og på anden
+vis slår uskyldige mennesker ihjel, og vi er naturligvis også fuldt indstillet på, at international
+finansiering af terrorisme så vidt muligt skal
+stoppes - ingen tvivl om det. Derfor er vi selvfølgelig som udgangspunkt positive over for et
+lovforslag som det foreliggende.
+En lang række ordførere har nævnt nogle problemer med hensyn til, hvordan ansatte i den finansielle sektor skal forvalte loven. Vi er enige i,
+at der er problemer her, men dem kunne vi måske nok løse. Det er nævnt, at der er alvorlig fare
+for, at almindelige menneskers overførsler af
+penge kan blive begrænset eller i hvert fald mistænkeliggjort. Det er vi enige i, men det kan måske også løses. Det er blevet sagt, at der også
+lægges op til en vidtgående udvidelse af adgangen til overvågning af almindelige borgere, og
+det tror jeg er korrekt. v";Frank Aaen
+27363;Time;"Der er mange betænkeligheder, men jeg tror,
+at vi kunne tage de betænkeligheder og løse
+dem en for en, særlig hvis vi gav os tid til det og
+
+arbejdede lovforslaget igennem. Det ville vi
+være positive over for.
+Men kæden hopper af for os, når lovforslagets § 5 henviser til den definition, der er i straffelovens § 114 a, som så i virkeligheden henviser
+til § 114 i straffeloven..
+Og i § 114 står der helt klart, at terror er bevægelser, der f.eks. ønsker at ændre deres lands ledelse - det kan jo være et ikke så særlig demokratisk styre, som man ønsker at få lavet om - og
+det gælder, hvis man i den forbindelse bruger
+aktiviteter som forstyrrelse af trafiksikkerheden,
+forstyrrelse i driften af almindelige samfærdselsmidler.
+Jamen det er jo i virkeligheden en helt demokratisk og legitim måde at arbejde på i et samfund, at man, hvis man er utilfreds med, hvad
+der foregår, demonstrerer på gaden. Og man
+kan i den forbindelse også stoppe trafikken, det
+er set mange steder.
+Jeg vil også godt give et helt aktuelt eksempel, som alle kunne høre lidt om her i morgenradioavisen, og som Enhedslisten har beskæftiget
+sig en del med i de senere måneder. Det er det,
+at CIA bruger fly til at transportere fanger rundt
+i verden, hvor de forsvinder, hvor de bliver tortureret, hvor vi ikke ved, hvor de ender: der er
+ikke nogen, der kender deres identitet. I strid
+med alle internationale konventioner flyver CIA
+rundt med fanger i hele verden og bruger også
+dansk luftrum. Der har også været et CIA-fly,
+der er landet i København.
+Hvis nu vi bliver opmærksomme på, at der
+igen lander sådan et CIA-fly i Københavns Lufthavn, og vi så i den forbindelse gør foranstaltninger til at forhindre, at det starter igen, ved at
+gå ud og demonstrere, ved at der måske er en
+lufthavnsfunktionær, der f.eks. siger, det vil vi
+ikke være med til at sende af sted, vi punkterer
+hjulene, så vil det i henhold til den her terror definition, som foreligger, kunne betragtes som en
+terrorhandling, som man bliver straffet for.
+Og hvis nogen så efterfølgende sender penge
+for at støtte de pågældende, eller hvis vi sender
+penge til, at man på Mallorca gør en lignende
+indsats, for der lander der også uafladelig fly fra
+CIA, så vil det efter den her terrordefinition
+være terrorisme, selv om vi i virkeligheden går i
+aktion for at stoppe terror i form af tortur.
+Det er derfor, jeg ikke kan forstå de partier,
+der støtter lovforslaget, og hvordan regeringen
+bare kan fremsætte det uden at overveje grundlaget, den grundlæggende definition af, hvad
+der er terror og dermed af, hvad det er forbudt
+
+Fredag den 18. november 2005 (L 47)
+at sende penge til, og hvad man skal sørge for at
+folk ikke sender penge til, altså at man ikke har
+mere styr på den definition, og at man bare gentager den, som vi også debatterede, da straffeloven blev lavet om på det her punkt.
+Det undrer mig, for det her er jo ikke bare en.
+ændring af en lov. Det er jo en helt ny lov, regeringen har valgt at fremsætte forslag til. Og når
+man har valgt at fremsætte forslag til en helt ny
+lov, som er skrevet, hvad skal man sige, helt fra
+scratch, jamen så er det da indlysende, at man
+lige overvejer, om selve den definition, som lovforslaget bygger på, er en god definition.
+Vi synes bestemt ikke, at det er en god definition, og derfor kan vi ikke støtte det her lovforslag, selv om vi inderligt og meget gerne vil støtte enhver form for modstand mod terrorisme,
+enhver form for indsats for at stoppe terrorisme
+og finansiering af terrorisme.";Kl. 10.30
+30868;title_name;"Tak til hr. Frank Aaen. Så er det økonomi- og erhvervsministeren.
+Økonomi- og erhvervsministeren (Bendt
+Bendtsen):
+Først tak til de ordførere, der har taget positivt
+imod lovforslaget.
+Jeg vil gerne sige, at der ikke skal hastes noget igennem. Jeg tror, at der var en enkelt ordfører, der sagde et eller andet om, at den her skulle
+klares, inden IMF kommer på besøg. Det skal
+den ikke. Vi har fremsat et lovforslag, der skal
+have nøjagtig den tid, det skal have til behandling i udvalget.
+Det er klart, at vi, når vi fremsætter et lovforslag nu, så selvfølgelig forventer, at det vedtages, inden vi går på sommerferie, for ellers havde vi jo ikke fremsat det. Men der er ikke noget,
+der skal jappes eller hastes igennem. Udvalget
+skal have lov til at stille alle de tekniske spørgsmål, det vil, så vi kan få sagen belyst. Det er sådan til beroligelse af nogle af de ordførere, der
+var en lille smule skeptiske.
+Det her drejer sig faktisk om, at det også på
+FN-plan støttes, at man går ind og ser på hvidvask og terrorfinansiering. Vi skulle have implementeret de her regler, hvor en række EU-lande
+igennem FATF, altså Financial Action Task Force, har været inde og få nogle regler ned på papiret. Dem er man blevet enig om, og de understøttes af FN. Danmark skulle egentlig have implementeret dem i sommeren 2004. Det sagde vi
+
+1215
+
+nej til, fordi vi vidste, at EU var på vej med det
+tredje hvidvaskdirektiv.";Formanden
+32287;Time;"Nu har vi fået indholdet af det direktiv godkendt, og vi går så i gang med en proces med at
+få en lovgivning på plads i Danmark. Og bekæmpelse af hvidvask og finansiering af terror
+er jo, som jeg har nævnt, et internationalt krav,
+og derfor følger vi op med lovgivning. Det er
+rigtigt, som hr. Poul Erik Christensen siger, at
+der er et par steder, hvor man kan sige, at det er
+en lille smule overimplementering i forhold til
+det direktiv, der ligger, men det er jo det, vi skal
+bruge udvalgsarbejdet til at komme igennem.
+Hr. Poul Erik Christensen spørger også, om
+det i praksis vil betyde, at den enkelte bankelev
+nu skal til at vurdere, om det er en handling, der
+kan give det ene eller det andet. Nej, bankeleven
+skal nok gå til en i pengeinstituttet, der får ansvar for det her i det enkelte pengeinstitut, og sige: Der er et eller andet her, der ser noget skævt
+ud, kan jeg få hjælp til at vurdere, om det er noget, der skal indberettes eller ikke indberettes?
+Det er noget af den dialog, vi nu skal have med
+finanssektoren i det hele taget for at sige: Hvordan skruer vi de her regelsæt sammen? Vi har jo
+også mulighed for i Erhvervsudvalget at gennemtrawle området og sige: Hvilke regelsæt er
+det egentlig, der skal gælde på det her område?
+Derfor mener jeg blot, at man godt kan hælde
+en skidtspand ud over det her lovforslag, men
+der er faktisk enighed blandt en række lande i
+den internationale verden, støttet op af FN, om
+at sige: Vi er nødt til at gøre noget, vi er nødt til
+at implementere de her regler for at få et værn
+mod terrorfinansiering, hvidvask og korruption.
+Det er så rigtigt, at vi også må få gennemgravet, hvad vi mener med politisk udsatte personer. Det kunne måske godt være en eller anden
+general fra et tidligere uland, der har opholdstilladelse i Danmark, som lige pludselig har nogle
+kæmpe transaktioner på sin konto. Det kan også
+være et parlamentsmedlem, der lige pludselig
+får vældige beløb væltende ind over sin private
+konto. Skal vi så sige: Det interesserer os overhovedet ikke i denne verden? Eller skal vi sige:
+Skal vi have mulighed for at holde øje med,
+hvad der foregår der? Det er sådan set det, der
+lidt er baggrunden for det her lovforslag. Og det
+er da helt klart, at vi i forbindelse med behandlingen af det her lovforslag skal gå ind og se på
+retssikkerheden for den enkelte.
+Der, hvor jeg så er enig med hr. Frank Aaen,
+og nu er det ikke, fordi lamperne lyser, er når
+
+1216
+
+Fredag den 18. november 2005 (L 47)
+
+han siger, at vi skal have god tid til at gennemar- det her område. Jeg er tilfreds med, at det internationale samfund går om bord i og tager anbejde det her. Jeg er meget enig. Men hvis man
+svar for det her.
+er bekymret over det, som hr. Frank Aaen har
+Det betyder jo ikke, at vi lige kører igennem
+spurgt flere ordførere om, må jeg jo henføre til
+lovens § 5. Det er jo sådan i straffelovens § 114 a, på 3 uger og klapper det her i. Det er der overhovedet ikke tale om, og det bliver der ikke tale
+at med fængsel indtil 10 år straffes den, som diom. Hvis der er ordførere her, der vil have mårekte eller indirekte yder økonomisk støtte til,
+neder i udvalget, bl.a. som det kommer fra SF's
+direkte eller indirekte tilvejebringer eller indsamler midler til eller direkte eller indirekte stil- side, så er jeg fuldstændig klar til det. Det er vi
+ler penge og andre formuegoder eller finansielle fuldstændig klar til.
+Vi har jo ikke alle svarene på alle de vejledeller andre lignende ydelser til rådighed for en
+ninger og de forhandlinger, der skal være med
+person, en gruppe eller en sammenslutning, der
+den finansielle sektor. Og der kan det også være,
+begår eller har til hensigt at begå terrorhandlinat udvalget undervejs kommer frem til, at vi er
+ger, der er omfattet af straffelovens § 114.
+nødt til at justere det lovforslag, der ligger. Så er
+Hvis vi så kigger en lille smule ned i § 114, så
+ministeren klar til at kigge på det.
+nævner man jo netop, at for terrorisme straffes
+Det er jo ikke sådan, at jeg siger alt eller intet,
+med fængsel indtil på livstid den, som med forog så kører vi igennem. For vi står her med et
+sæt - det betyder på almindeligt dansk »med
+meget indviklet område, der trækker på nogle
+vilje« - til at skræmme en befolkning i alvorlig
+følelser i forbindelse med retssikkerhed.
+grad eller uretmæssigt at tvinge danske eller
+Hr. Poul Erik Christensen siger, at det er dårudenlandske offentlige myndigheder eller en international organisation til at foretage eller und- ligt arbejde, sjusk og tilbage med det. Det mener
+lade at foretage en handling eller at destabilisere jeg faktisk er en rimelig grov kommentar til det
+arbejde, der er lagt i at implementere et EF-dieller ødelægge et lands eller en international orrektiv, der faktisk bygger på en international afganisations grundlæggende, politiske, forfatningsmæssige, økonomiske eller samfundsmæs- tale, som Danmark har tilsluttet sig. Det er det,
+vi gør det her for.
+sige strukturer begår en eller flere følgende
+Jeg ved ikke, hvem der har båret den vind ud,
+handlinger, når handlingen i kraft af sin karakter eller den sammenhæng, hvori den begås, kan at det her lovforslag skulle jaskes igennem, inden IMF kommer. Jo, det er korrekt, at IMF komtilføje et land eller en international organisation
+mer på besøg i Danmark. De har også været i
+alvorlig skade.
+Vi taler altså om manddrab eller straffelovens Norge, hvor Norge intet har foretaget sig, og
+hvor IMF er kommet med en kritik af Norge. Nu
+S 237: grov vold efter straffelovens bestemmelser i §§ 245-246: frihedsberøvelse efter § 261: for- sætter vi en proces i gang, og det her skal ikke
+gennemføres, inden IMF kommer på besøg.
+styrrelse af trafiksikkerheden efter straffelovens
+Jeg. vil gerne sige til hr. Frode Sørensen, der
+§ 184, retsstridig forstyrrelse af driften af samfærdselsmidler - det kan måske godt være, at hr. spurgte om, hvor hurtigt det går, og hvad vi gør
+med medarbejderne, at det er det, vi skal have
+Frank Aaen mener, at det skal være legalt at gå
+en diskussion om i udvalget. Erhvervsudvalget
+ind og punktere en flyvemaskine et eller andet
+må sætte sig ned og sige: Det er det regelsæt, vi
+sted, men sådan har vi altså nogle regler i dette
+vil have til at gælde, for at vi kan få et værn mod
+land i straffelovens bestemmelser - kapring af
+transportmidler efter straffelovens § 183 a: grove terrorfinansiering i Danmark.
+Det er muligt, at vi med den forhandling, der
+våbenlovsovertrædelser: brandstiftelse: sprængskal være med den finansielle sektor, får mere
+ning: spredning af skadevoldende luftarter, og
+syn for sagen, inden lovforslaget vedtages, så
+på samme måde straffes den, som nævnt fortsat
+politikerne her i Folketingssalen ved, hvad det
+transporterer våben, og så kommer truslerne
+er for en lov, og hvordan vejledningen skal udbagefter.";Kl. 10.35
+39073;Time;"færdiges. Den skal selvfølgelig udfærdiges, efter
+at der er en politisk beslutning om en sag. Det er
+Jeg vil da godt tage en diskussion med hr.
+sådan, verden er skruet sammen.
+Frank Aaen om, hvorvidt de bestemmelser, der
+Jeg tror, at jeg har forsøgt at fortælle ordførerstår i den danske straffelov, er nogle, vi hylder
+eller ikke hylder. Jeg vil gerne som ansvarlig mi- ne i den her sag, at ministeren er meget åben for
+en forhandling, og at vi bruger den tid, der er
+nister for det her sige, at jeg er tilfreds med de
+bestemmelser, der står i den danske straffelov på nødvendig i denne sag, men at jeg selvfølgelig
+
+(153)
+Fredag den 18. november 2005 (L 47)
+mener, at Danmark skal leve op til sine internationale forpligtelser, og mener, at Danmark også i
+den verden, vi lever i, må være med til at tage
+redskaber i brug. Jeg erkender selvfølgelig, at
+der er masser af ting, der skal afdækkes under
+det kommende udvalgsarbejde, inden vi kan
+sætte dette lovforslag til en endelig afstemning.
+Det er blot for at sige, at jeg ikke har haft nogen
+intentioner om, at så stort og så kompliceret ét
+lovforslag skulle vedtages inden jul. Det er aldrig kommet fra ministerens mund i hvert fald,
+at det var sådan, at tingene spillede.
+Vi fremsætter selvfølgelig det her lovforslag,
+fordi vi i indeværende samling gerne vil have
+det vedtaget, og om så det skal udvalgsbehandles lige frem til juni måned, er det fint nok for
+mit vedkommende. Men vi er selvfølgelig nødt
+til at afdække noget, der skal selvfølgelig også
+ske noget i udvalget, hvis det skal køre frem til
+juni måned.
+Men blot til almindelig notering: Jeg har ingen intentioner om, at det her forslag blot skal
+jaskes igennem.
+(Kort bemærkning).";Kl. 10.40
+40789;name_party;":
+Jeg skal da starte med at takke ministeren for at
+gå relativt grundigt ind i problemstillingen om
+definitionen af terror ved at læse de relevante
+paragraffer fra straffeloven op.
+Det lyder jo sådan set meget pænt. Problemet
+med de paragraffer, der lige blev læst op, er bare, at de er så bredt formuleret, at en organisation som ANC, der bekæmpede apartheidregimet
+i Sydafrika, falder ind under definitionen.
+Problemet er, at når-bestemmelsen er formuleret, som den er, vil civil ulydighed i en lufthavn for at forhindre et CIA-fly i at tage af sted,
+lette fra den lufthavn med en fange, der skal hen
+et sted og tortureres, være omfattet af terrorbestemmelsen.
+Jeg kan ikke forstå, at ministeren ikke kan se,
+at det er et problem, at vi baserer den her lov om
+en terrorbestemmelse på en definition af terror,
+som er så bred, at den omfatter befrielsesbevægelser eller en helt legitim indsats imod f.eks.
+CIA's ulovlige overflyvning og flyvninger med
+fanger, altså at man, hvis man prøver at stoppe
+det, bliver kaldt for terrorist.";Frank Aaen
+41831;Time;". 1217
+
+(Kort bemærkning).
+Økonomi- og erhvervsministeren (Bendt
+Bendtsen):
+Hr. Frank Aaen har de holdninger til den her
+sag, som der bliver givet udtryk for. Jeg mener
+mig fuldt dækket ind af FN's konventioner om
+finansiering af terrorisme, som det her bygger
+på.
+(Kort bemærkning).";Kl. 10.45
+42132;name_party;":
+Det er selvfølgelig fint, at man altid lige kan afværge ined: Nåh ja, men det er bare noget, Frank
+Aaen mener. Det her er faktisk noget, som fremtrædende jurister er enige i, som dommere og
+alle mulige andre har gjort opmærksom på flere
+gange, og som der verserer retssager om, fordi
+den her definition af terror er alt for bred, der er
+alt for mange grupper og alt for mange formål,
+alt for mange former for aktivitet. Det støtter vi i
+øvrigt, altså vi støtter da, at man kan aktionere,
+hvis man har en regering, der opfører sig fuldstændig forkert. Vi støtter da, at man aktionerer
+imod det, hvis man ser, at en regering f.eks. udfører terror.
+Derfor vil jeg foreslå, at man i stedet for at
+have så bred en definition af terror, som der står
+her, skulle gøre akkurat, som hr. Per Ørum Jørgensen var inde på, nemlig at skrive: Terror er,
+når man med vold slår uskyldige mennesker
+ihjel. Bum, færdig. Det var da en definition, der
+var til at forstå.
+Det her er alt for bredt, og derfor rammer det
+i flæng og kan bruges i flæng. Og derfor kan jeg
+ikke forstå, at ministeren ikke kan se, at det er
+meget betænkeligt at lave så præcis en lovgivning her, hvor det, som er ulovligt, er så bredt
+defineret.
+(Kort bemærkning).
+Økonomi- og erhvervsministeren (Bendt
+Bendtsen):
+Så må jeg blot sige til hr. Frank Aaen, at jeg så
+også må konstatere, at hr. Frank Aaen ikke er
+enig i straffelovens bestemmelser på det her område. Det er jo fair nok, det er en holdning hos
+Enhedslisten.
+(Kort bemærkning).";Frank Aaen
+43654;name_party;":
+Først vil jeg kvittere for ministerens positive tagen til sig, at vi gerne vil have lidt længere tid til
+at diskutere lovforslaget. Det er jeg meget glad
+for. Til gengæld synes jeg, at ministeren udviser
+
+1218
+
+Fredag den 18. november 2005 (L 47)
+
+for stor finfølelse, når han nævner, at der er
+hældt en skidtspand ud over lovforslaget. Jeg
+bad sådan pænt i min ordførertale egentlig blot
+om at få skidtet i spanden. Det var egentlig det,
+jeg bad om at få, og det er jo ikke helt det samme.
+Jeg kunne også tænke mig at få svar på et af
+de spørgsmål, jeg stillede: Skal der eller kan der
+være fotoer af personer i disse registre, som bankerne nu skal føre over deres kunder?
+Samtidig vil jeg også spørge: Hvorfor må
+bankrådgiveren ikke rådgive en eventuel kunde,
+som er ude på noget, der kunne gå hen og blive
+noget ulovligt? Hvorfor skal han tie og derefter
+blot anonymt anmelde det til politiet?
+(Kort bemærkning).
+Økonomi- og erhvervsministeren (Bendt
+Bendtsen):
+Nu er det jo sådan, at man giver mulighed for at
+opbevare den her billedlegitimation, og det gør
+man jo, fordi man mener, at det kan hjælpe. Det
+er jo ikke noget, man siger de skal, men der er
+mulighed for, at de kan gøre det. Og vi gør det jo
+i en god mening.
+Men lad os dykke ned i de her helt specifikke
+spørgsmål under udvalgsbehandlingen. Med
+hensyn til det at begynde at advare en person,
+der er ved at overføre x antal millioner kroner til
+et eller andet sted, om, at han hellere må holde
+op med det her, for ellers kommer politiet efter
+ham, så synes jeg vel, at det er fair nok, at vi har
+det regelsæt, som vi har, hvor der skal ske underretning. Det er jo den aftale, vi nu skal prøve
+at forhandle med de finansielle parter i sagen,
+altså om, hvordan vi håndterer det her. Jeg lægger op til, at der skal være en kontaktperson i ethvert pengeinstitut, der skal være indforstået
+med at påtage sig den her opgave med kontakt
+til politiet.
+(Kort bemærkning).";Poul Erik Christensen
+45613;name_party;":
+Nu forstår jeg, at ministeren har en tro på, at selve vurderingen af mulige lovovertrædelser bliver centraliseret i pengeinstitutterne. Det kræver
+jo stadig væk, at der i loven konkret bliver indskrevet, hvilke muligheder: hvilken sikkerhed
+man vil stille over for den pågældende medarbejder.
+Jeg kunne også tænke mig at vide, hvornår
+man så fjerner eventuelle uberettigede anmeldelser fra politiets arkiver. Politiets arkiver er jo
+
+ikke offentligt tilgængelige og ikke under nogen
+form for politisk kontrol.
+Det er så glædeligt, at ministeren i dag er glad
+for sin opposition, for hvis han havde støttet sig
+op ad Venstres og De Konservatives rygklapperi
+og retten ind, havde man fået det lovforslag,
+som ligger foran os, udmøntet i lov. Så jeg takker
+for ministerens ros.
+(Kort bemærkning).
+Økonomi- og erhvervsministeren (Bendt
+Bendtsen):
+Ja, nu vil jeg godt selv konkludere, hvad jeg selv.
+mener om den her sag. Jeg har lagt op til et
+åbent samarbejde, hvilket jeg faktisk prøver at
+have i de sager, jeg har i mit ministerium, for at
+skabe så brede flertal bag den lovgivning, vi
+gennemfører her i Folketinget.";Poul Erik Christensen
+46740;Time;"Det, jeg hører fra oppositionens side i dag, er,
+at man ønsker mere tid, at man ønsker flere muligheder for at grave sig ned i den problemstilling, der ligger, og det kan jeg jo som minister
+ikke have noget imod. Jeg synes, at det er fejlagtigt, når man prøver at pådutte regeringen, at vi
+ønsker at køre en sag hurtigt igennem. Og så er
+jeg da glad for den blidere tone.
+(Kort bemærkning).";Kl. 10.50
+47150;name_party;":
+Jeg vil gerne sige, at det egentlig er dejligt, at når
+der går rygter her på Christiansborg om, at noget af den ene eller anden årsag skal hastes igennem, at ministeren så en gang imellem så klart
+kan sige, at det skal det ikke, at der bliver den
+fornødne tid til udvalgsbehandlingen. Jeg har
+ingen intention om, at vi skal trække det her
+frem til juni måned, det skal selvfølgelig være en
+udvalgsbehandling, der starter nu, og som så får
+den tid, der er, om det så bliver til februar eller
+marts. Det synes jeg er fint og udmærket.
+Jeg er glad for ministerens positive tilkendegivelse om, at vi kommer ind bag ved ting som
+politisk udsatte, som det der med risikoprofil:
+Kan sådan en risikoprofil, som bankerne skal lave, stride mod anden gældende dansk lovgivning for ting, som man har? Det synes jeg virkelig vi skal have den fornødne tid til at komme
+ind på.
+Det gælder også spørgsmålet om den medarbejder, som ved skranken er den første, der bliver opmærksom på et eller andet, altså om,
+hvordan vedkommendes situation er i en rets-
+
+Fredag den 18. november 2005 (L 49)
+sag med hensyn til vidnepligt og sådan nogle
+ting.
+Men jeg er meget, meget tilfreds med ministerens svar på de her ting, og det er jo dejligt en
+gang imellem, at rygter ikke altid er korrekte.
+(Kort bemærkning).
+Økonomi- og erhvervsministeren (Bendt
+Bendtsen):
+Jeg vil godt takke for kvitteringen fra Socialdemokraterne. Jeg er selvfølgelig enig i, at vi ikke
+skal holde liv i denne her sag frem til juni måned. Vi bruger den fornødne tid, og så slutter vi
+af, når denne sag er gennemarbejdet.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Frode Sørensen
+48830;title_name;"Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse, betragter
+jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 49:
+Forslag til lov om brugsmodeller.
+Af økonomi- og erhvervsministeren (Bendt
+Bendtsen).
+(Fremsat 9/11 2005).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+49232;name_party;":
+Dette lovforslag omhandler det, man kunne kalde det lille patent. Loven er en håndsrækning til
+små og mellemstore virksomheder, da man ved
+denne lov kan beskytte mindre opfindelser og
+andre tekniske.frembringelser som f.eks. landbrugsredskaber, møbelkonstruktioner og lignende.
+Brugsmodellen er på samme måde som patenter en registreret: eneret til at udnytte en frembringelse erhvervsmæssigt.
+
+1219
+
+Dog adskiller brugsmodellen sig ved, at gyldigheden af en brugsmodel er maks. 10 år, mens
+den for patenter er 20 år. Brugsmodelloven er
+derfor anvendelig for produkter med en forholdsvis kort kommerciel levetid. Derudover er
+kravet til adskillelse fra kendt teknik mindre for
+brugsmodeller end for patenter.
+Brugsmodelloven kan således anvendes på
+alle mindre tekniske fremskridt eller forbedringer, som ikke kan patentbeskyttes, da de typisk
+ikke har den fornødne opfindelseshøjde, men
+som alligevel er beskyttelsesværdige. Fordelene
+ved brugsmodelloven er, at beskyttelsen af et
+produkt kan opnås nemt, hurtigt og billigt, hvilket er til gavn for især små virksomheder i Danmark.
+Formålet med dette lovforslag er en forenkling af reglerne, så loven bliver mere gennemskuelig. Herved får virksomhederne mulighed
+for at søge registrering på egen hånd uden bistand af rådgivere.
+Den nuværende brugsmodellovgivning er jo
+opbygget sådan, at den ofte henviser til bestemmelser i patentloven. Det er ikke særlig læseven- '
+ligt eller lovteknisk hensigtsmæssigt. Med dette
+forslag opnår man, at brugsmodelloven bliver
+én samlet, overskuelig lov.
+Derudover vil ændringsforslaget styrke retssikkerheden på området, idet det ikke længere
+skal være muligt for tredjemand at bede om udsættelse af en registreret brugsmodel alene på
+baggrund af eget indsendt materiale til Patentog Varemærkestyrelsen. Ændringsforslaget sikrer nemlig, at styrelsen skal foretage en tilbundsgående prøvelse af registreringen, en prøvelse,
+hvor de skal inddrage alt materiale af betydning
+for sagen, inden den slettes.
+Endelig medfører ændringsforslaget, at en
+virksomheds brugsmodelregistrering ikke længere skal bortfalde på grund af en undskyldelig
+fejl, f.eks. en ikke overholdt tidsfrist, da det nu
+bliver muligt at søge om at få den genoprettet,
+ligesom man kan med patenter. Dette har især
+betydning for mindre virksomheder, der ikke
+har den store erfaring med registrering af brugsmodeller.
+Venstre kan fuldt ud støtte lovforslaget.";Marion Pedersen
+51654;Time;;Kl. 10.55
+51666;title_name;"Tak til fru Marion Pedersen. Så er det hr. Niels
+Sindal som ordfører.
+
+1220
+
+Fredag den 18. november 2005 (L 49)";Formanden
+51797;name_party;":
+Dette lovforslag, L 49, bringer i princippet ikke
+noget nyt med sig, men er en forenkling og en
+præcisering af eksisterende lovgivning. Nu udskilles brugsmodelregistreringen i en ny lov, der
+selvstændigt skal sikre retten til at udnytte og
+beskytte en opfindelse erhvervsmæssigt. Det hilser Socialdemokratiet velkommen.
+Lovforslaget har været i høring og er blevet
+vel modtaget, og Socialdemokratiet er positiv
+over for forslaget og ser frem til udvalgsarbejdet.
+Jeg har dog allerede nu et spørgsmål i forbindelse med denne her, kan vi sige, patent lightmodel, som brugsmodellen måske egentlig kan
+kaldes. Det gælder den internationale sikring af
+brugsmodelregistreringen, altså et spørgsmål
+om, i hvor høj grad det er internationalt gældende, eller om det mere bliver sådan en regional
+foreteelse, for med patentloven, hvor det er
+mere vanskeligt at få patent, sikrer man sig også
+noget internationalt. I hvor høj grad er det internationalt dækket i dette nye lovforslag?";Niels Sindal
+52783;title_name;"Tak til hr. Niels Sindal. Så er det fru Colette L.
+Brix som ordfører.
+Colette L. Brix (DF):
+En af hjørnestenene i Dansk Folkepartis erhvervspolitik er beskyttelsen af og vilkårene for
+de mindre danske virksomheder. Derfor er vi
+også varme tilhængere af modeller og lovgivning, der fremmer innovation af mere brugsmæssig karakter. Derfor er vi selvfølgelig også
+positive over for det faktum, at brugsmodelbeskyttelsen kan blive brugt af flere enkeltpersoner end virksomheder, der søger patenter. Faldet
+i ansøgninger er selvfølgelig bekymrende.
+Dansk Folkeparti kan støtte dette lovforslag,
+hvis hovedelement blot er en ændring af loven,
+således at der ikke længere blot er tale om henvisninger til patentloven, men en selvstændig
+lov. Det er selvfølgelig selvstændigt vurderet en
+administrativ forenkling, at man i hovedtræk
+kun skal tage hensyn til én lov, når man skal
+søge brugsmodelbeskyttelsen.
+Jeg vil kort gøre det klart, at Dansk Folkeparti
+kan støtte de enkelte delelementer.
+Det vil gavne, at flere lande som følge af
+WTO-aftalen er omfattet af prioritetsreglerne.
+Det samme gælder de nye regler vedrørende en
+bedre beskyttelse af brugsmodelhaveren i de til-
+
+fælde, hvor tredjemand søger udslettelse, og
+ændringerne vedrørende genoprettelse.
+Med disse korte kommentarer skal jeg til forhåbentlig glæde for ministeren på denne skønne
+fredag meddele, at Dansk Folkeparti støtter forslaget.";Formanden
+54193;title_name;"Tak til fru Colette L. Brix. Så er det hr. Per Ørum
+Jørgensen som ordfører.";Formanden
+54292;name_party;":
+I Det Konservative Folkeparti ønsker vi at styrke
+innovationen og konkurrenceevnen i landets
+virksomheder, og det gælder ikke mindst i de
+små og mellemstore virksomheder. Dette lovforslag er en styrkelse af både innovation og kreativitet og dermed også af konkurrenceevnen og
+væksten i virksomhederne.
+Den nuværende lovgivning om brugsmodeller bliver flittigt benyttet i dag, men desværre
+ikke flittigt nok. Flere undersøgelser viser, at
+danske virksomheder kunne indsende op imod
+dobbelt så mange, som det er tilfældet.
+Vi Konservative håber og tror på, at dette lovforslag kan bidrage til at styrke antallet af ansøgninger i en positiv retning, først og fremmest
+fordi det med dette lovforslag bliver væsentlig
+nemmere at søge brugsmodelbeskyttelse. Loven bliver mere klar og overskuelig, ved at den
+bliver selvstændig og ikke er fyldt med henvisninger til den mere komplicerede patentlov.
+Desuden fjernes en række uhensigtsmæssige
+forhold og uklarheder.
+Målet er klart: Det handler om at styrke innovationen og forskningen i virksomhederne. Vi
+Konservative hilser derfor lovforslaget velkommen og ser frem til det videre arbejde med det.";Per Ørum Jørgensen
+55446;title_name;"Tak til hr. Per Ørum Jørgensen. Så er det hr. Poul
+Erik Christensen som ordfører.";Formanden
+55554;name_party;":
+En brugsmodel er ligesom et patent en eneret til
+at udnytte en opfindelse erhvervsmæssigt. En
+brugsmodel karakteriseres ofte som et lille patent. Modsat patentet tager brugsmodelregistreringen især sigte på beskyttelse af praktiske
+frembringelser af håndværksmæssig karakter,
+men også andre produkter - kemiske forbindelser, lægemidler, levnedsmidler m.v. - kan beskyttes ad denne vej.
+
+Fredag den 18. november 2005 (L 49)
+Mange af frembringelserne er altså skabt af
+brugerne, og beskyttelsen er dermed et vigtigt
+led i at stimulere brugerdreven innovation.";Poul Erik Christensen
+56124;Time;"For de mindre virksomheder er det yderst
+vigtigt, at rammerne for beskyttelse af deres innovation er optimale. Det er altafgørende, at
+virksomhederne kan forstå reglerne, hurtigt kan
+opnå beskyttelse, og at det frem for alt er billigt.
+Lovforslaget vil gøre det lettere at beskytte mindre opfindelser, det vil forenkle reglerne og forbedre mulighederne for at beskytte resultaterne
+af innovationen.
+Brugsmodelloven har tidligere været en del af
+patentloven.
+Med disse bemærkninger vil Det Radikale
+Venstre indgå positivt og venligt i den videre behandling.";Kl. 11.00
+56693;title_name;"Tak til hr. Poul Erik Christensen. Så er det hr.
+Poul Henrik Hedeboe som ordfører.";Formanden
+56800;name_party;":
+SF ser også positivt på dette lovforslag. Det er jo
+en slags ned på jorden-patent for praktiske brugere og lidt målrettet mod mindre og mellemstore virksomheder, og det kan vi fuldt ud støtte.
+Den forenkling, der ligger i, at det bliver en
+selvstændig lov, hvor man ikke skal over i patentloven og have en lidt større juridisk kompetence, er vi også store tilhængere af. Der kommer samtidig nogle tilretninger af nogle uklarheder, og det kan vi bestemt heller ikke have noget imod.
+Selv om jeg forsøgte på det, er det ikke rigtig
+lykkedes mig at finde nogen kritiske ting i forslaget, så umiddelbart kan vi fuldt ud støtte dette her lovforslag.";Poul Henrik Hedeboe
+57458;title_name;"Tak til hr. Poul Henrik Hedeboe. Så er det hr.
+Frank Aaen som ordfører.";Formanden
+57545;name_party;":
+Enhedslisten er også som udgangspunkt positiv
+over for dette lovforslag.
+Den største betænkning, vi har, er i virkeligheden, hvor stor virkning den vil have i virkelighedens verden. Hvis det er sådan, at de store
+selskaber ønsker at nappe et eller andet, hvis der
+sker en overtagelse af en god idé i et land langt
+
+1221
+
+væk herfra, hvor meget beskyttelse ligger der så
+i virkeligheden i det her?
+Men det skal ikke få os til at gå imod. Vi ser
+som sagt positivt på forslaget.";Frank Aaen
+58034;title_name;"Tak til hr. Frank Aaen. Så er det økonomi- og erhvervsministeren.
+Økonomi- og erhvervsministeren {Bendt
+Bendtsen):
+Jeg vil gerne sige tak for opbakningen til lovforslaget.
+Det er jo sådan, at med denne gennemskrivning af loven bliver det sådan, at almindelige
+mennesker kan forstå, hvad det drejer sig om.
+Det, jeg lige vil nævne her fra talerstolen, er,
+at ser vi på, hvordan denne her lovgivning bruges i andre lande, må vi se, om vi ikke kan få
+bedre oplysninger frem, for vi ved jo, at innovation og også beskyttelse af rettigheder betyder
+utrolig meget for dansk erhvervsliv.
+Jeg kan sige, at der i de seneste år årligt er registreret omkring 300 brugsmodeller. Der er i alt
+registreret mere end 2.000 brugsmodeller i Danmark, men det er altså mindre end i de lande,, vi
+kan sammenligne os med, f.eks. Tyskland og
+Finland, hvor antallet er større. 12004 blev der
+faktisk indleveret mere end 20.000 brugsmodelregistreringer i Tyskland, og i Finland er tallet
+ca. 500. Ser vi det i forhold til indbyggertallet,
+indleveres der i Tyskland en ansøgning pr. 3.700
+indbyggere, mens tallet i Finland er en for hver
+10.000, og i Danmark er vi helt oppe på en for
+hver 18.000. Så vi håber selvfølgelig, at det her
+lovforslag kan være med til, at der er flere små
+danske virksomheder, der vil bruge denne lovgivning.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Formanden
+59453;title_name;"Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse, betragter
+jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+1222
+
+Fredag den 18. november 2005 (L 56)
+
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 56:
+Forslag til lov om ændring af ligningsloven
+m.m. (Justering af reglerne for medarbejderaktier).
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+59945;name_party;":
+I Venstre ser vi medarbejderaktier som en fin aflønningsform mellem arbejdsgiver og arbejdstager, da medarbejderaktier vil give medarbejderen større incitament, større tilhørsforhold, større loyalitet over for virksomheden, ligesom en
+god indsats på arbejdspladsen også vil give en
+bedre aflønning i form af større aflønning via
+stigende aktiekurser.
+Vi er i Venstre glade for forslaget, som ligger
+her, da det indeholder en række forbedringer i
+brugen af medarbejderaktier som aflønningsform set i forhold til ordningen, som blev indført
+i 2003. Ligningsrådet har vurderet, at visse dele
+af 2003-ordningen ikke lever op til hensigten,
+hvilket forslaget her tager højde for.";Jacob Jensen
+60631;Time;"Der er bl.a. tale om en præcisering og justering af reglerne for, hvornår udnyttelseskursen
+for en købe- eller en tegningsret eller købskursen for en aktie i forskellige situationer skal anses for at ligge fast. Der er endvidere tale om en
+lempelse af datterselskabsdefinitionen, således
+at der anvendes den samme definition som i selskabsskattelovens betingelser for, at et moderselskab skattefrit kan modtage udbytte fra et
+datterselskab.
+Alt i alt giver forslaget her lempeligere og
+mere forenklede regelsæt på området for medarbejderaktier, og i Venstre mener vi, at det er vigtigt at give gode rammer for medarbejderaktier
+som aflønningsform. Engagerede og loyale medarbejdere giver større vækst og afkast til virksomhederne, hvilket i sidste ende vil betyde en
+højere aflønning til den dygtige medarbejder og
+større velstand i samfundet.
+Vi er selvfølgelig positive over for forslaget.
+
+(Kort bemærkning).";Kl. 11.05
+61562;name_party;":
+Nu vil jeg ikke gå ind i en lang diskussion om,
+hvor meget mere ulighed det her forslag skaber.
+Det er selvfølgelig klart, at regeringen har en
+gang lavet et forslag om medarbejderaktier som
+øgede uligheden, og nu udvider man yderligere
+adgangen, så man får uddybet skellene mere.
+Det tror jeg ikke at jeg får hr. Jacob Jensen med
+på at diskutere.
+Men jeg tror trods alt, at vi kan nå hinanden,
+når det drejer sig om forenkling af skattelovgivningen. Det har hr. Jacob Jensen jo gentagne
+gange gjort sig til fortaler for. Vil hr. Jacob Jensen
+ikke medgive, at vi alt andet lige har et forslag,
+som gør skattelovgivningen endnu mere kompliceret, som laver endnu flere små smuthuller
+og særregler, så det bliver sværere for almindelige mennesker at finde rundt i den?
+(Kort bemærkning).";Morten Homann
+62365;name_party;":
+Jeg vil gerne tage en diskussion om, hvorvidt
+det her skaber mere eller mindre ulighed. Den
+kan vi sagtens tage.
+Med hensyn til spørgsmålet fra hr. Morten
+Homann så mener jeg, at Ligningsrådet har været inde at vurdere, om den ordning, som blev
+lavet i 2003, var hensigtsmæssig, og om den virkede efter hensigten. De har så påpeget nogle
+steder, hvor de mener, at det kunne gøres bedre.
+Det er så det, forslaget her tager højde for, så vi
+får en ordning, der faktisk virker efter hensigten,
+og som ikke vil være for kompliceret at gennemføre. Så ordningen kommer til at virke med det
+her lovforslag, og det er vi selvfølgelig meget
+glade for.
+(Kort bemærkning).";Jacob Jensen
+63047;name_party;":
+Nu spurgte jeg jo ikke, om det efter hr. Jacob Jensens mening betyder, at lovforslaget kommer til
+at virke. Jeg spurgte, om det her betyder mere
+eller mindre komplicerede skatteregler.
+Jeg synes, at det må være indlysende for enhver, at med de yderligere ændringer, som sker
+med det her, som i øvrigt slet ikke er koordineret
+med de forenklinger, der trods alt sker på aktieavancebeskatningen gennem et andet fremsat
+lovforslag, bliver tingene mere og mere komplicerede.
+Kan hr. Jacob Jensen ikke medgive, at selv om
+det godt kan være ønskeligt at gennemføre det,
+vil det alt andet lige gøre tingene mere uigen-
+
+Fredag den 18. november 2005 (L 56)
+nemskuelige og mere komplicerede at have med
+at gøre?
+(Kort bemærkning).";Morten Homann
+63788;name_party;":
+Udgangspunktet må vel være, at regelsættet
+skal virke. Vi kan ikke have et regelsæt, som
+ikke virker efter hensigten. Og med de forslag,
+som Ligningsrådet kommer med, som bliver
+gennemført, kommer loven jo til at virke. Det
+må være udgangspunktet. Det er i hvert fald det
+udgangspunkt, som vi tager i Venstre, nemlig at
+loven skal virke efter hensigten, og det kommer
+den til med de ændringer, som nu ligger h e r .";Jacob Jensen
+64217;title_name;. Så er det hr. Frode Sørensen som ordfører.;Formanden
+64280;name_party;":
+Med skatteministerens forslag kan vi se frem til
+andre vilkår for beskatning af medarbejderak- .
+tier. Det kan sådan set være udmærket at holde
+fast i medarbejderaktieordningen, dels for at sikre virksomhederne risikovillig kapital, dels for
+at give medarbejderne adgang til at få del i virksomhedens økonomiske fremgang, for slet ikke
+at tale om, at medarbejderaktier naturligvis også
+kan medføre et større engagement i egen arbejdsplads.
+Men vi er altså ikke tilfredse, hvis virksomhederne lader større og større dele af medarbejdernes løn udbetale i form af aktier eller optioner.
+Vi er meget opmærksomme på, at med de skattebegunstigelser, som de her ordninger giver,
+unddrages statskassen for omkring 130 mio. kr.
+om året. Navnlig er vi modstandere af ordninger, som kun benyttes af et mindretal på det store flertals bekostning.
+Ministeren vil med forslaget korrigere nogle
+uforudsete virkninger af den sidste ordning for
+beskatning af medarbejderaktier fra 2003. Ifølge
+forslaget vil regulering af udnyttelseskursen og
+købe- og tegningsretten og købskursen for en
+medarbejderaktie fremover ikke have nogen betydning for, hvornår udnyttelseskursen foreligger. Det er jo teknisk temmelig indviklet at overskue det her, så det er nok noget, som vi skal
+kigge på i forbindelse med udvalgsarbejdet.
+Andre ændringer går ud på at udvide adgangen til at udstede medarbejderaktier ved at gøre
+det muligt for ansatte i datterselskaber at købe
+medarbejderaktier i moderselskabet. Kravene til
+revisor bliver også skærpet, så en revisor nu skal
+attestere de indgåede aftaler om medarbejderak-
+
+1223
+
+tier med klare oplysninger om bl.a. købs- og udnyttelseskurs. Det virker sådan set udmærket.";Frode Sørensen
+65978;Time;"Vi kan se, at der kun sker en begrænset egentlig udvidelse af mulighederne for at udbyde
+medarbejderaktier og medarbejderoptioner, og
+at resten af forslaget tager sigte på at udligne
+problematiske forhold i den oprindelige lov.
+Vi var ikke tilhængere af ordningen, da den
+blev vedtaget, og det er vi heller ikke i dag. Men
+vi er naturligvis tilhængere af, at hvis en lov udformes lidt ufornuftigt, må vi se på rettelserne.
+Det er for os vigtigt, at der skal være rimelige
+vilkår og gennemskuelige forhold, og da forslaget ikke synes at give noget direkte provenutab,
+vil vi overveje at tilslutte os forslaget. Men vi ser
+frem til, at vi får kigget på nogle af de her ting
+under udvalgsarbejdet.
+(Kort bemærkning).";Kl. 11.10
+66711;name_party;":
+Nu var Socialdemokraterne jo sammen med SF
+nogle af dem, som iværksatte en stor debat, da
+regeringen oprindelig udvidede medarbejderaktieordningen, og som var meget kritiske og havde - synes jeg - nogle gode argumenter imod
+ordningen. Nu kan jeg så forstå, at man i forhold
+til en udvidelse af ordningen er noget mere afslappet.
+Lad mig så spørge hr. Frode Sørensen: Hvis
+det nu viser sig i løbet af udvalgsarbejdet, at det
+her forslag yderligere udbygger den ulighed,
+medarbejderaktierne giver, vil Socialdemokraterne så ligesom SF stemme imod ved tredjebehandlingen af forslaget?
+(Kort bemærkning).";Morten Homann
+67332;name_party;":
+Vi vil kun stemme for disse ændringer, hvis det
+er ændringer, som sker i konsekvens af nogle
+uhensigtsmæssigheder. Hvis det er en udvidelse
+af mulighederne for det, vil vi som konsekvens
+af vores holdning til det oprindelige forslag
+stemme imod.
+(Kort bemærkning).";Frode Sørensen
+67617;name_party;":
+Nu ved hr. Frode Sørensen jo lige så godt som
+jeg, at diskussionen om, hvad der er uhensigtsmæssigheder, og hvad der er sådan politiske
+ændringer, også er lidt bestemt af, hvad det er
+for nogle briller, man ser med.
+Jeg vil derfor godt gentage mit spørgsmål:
+Hvis det nu viser sig, at de ændringer, som lig-
+
+1224
+
+. Fredag den 18. november 2005 (L 56)
+
+ger i det her lovforslag - uanset om man kalder
+dem uhensigtsmæssigheder eller udvidelser, eller hvad det måtte være - skaber endnu større
+ulighed, end medarbejderaktieordningen har
+skabt i forvejen, vil Socialdemokraterne så sammen med SF stemme imod ved tredjebehandlingen?
+(Kort bemærkning).";Morten Homann
+68287;name_party;":
+Jamen jeg synes, at det var det, jeg sagde i mit
+første svar. Nu er der jo for mit vedkommende
+kun et sæt briller at se på sagen med, og det er
+dem, jeg selv har på. Hvis det her viser sig at
+være tekniske ændringer, kan det meget vel være, at vi vil stemme for forslaget. Hvis det er en.
+udvidelse, er jeg helt sikker på, at vi vil stemme
+imod.";Frode Sørensen
+68646;title_name;"Tak til hr. Frode Sørensen. Så er det hr. Mikkel
+Dencker som ordfører.";Formanden
+68736;name_party;":
+For knap 3 år siden var vi i Dansk Folkeparti
+selv med til at vedtage den nye ordning om
+medarbejderaktier,, der lægges op til bliver revideret med dette lovforslag. I Dansk Folkeparti
+var vi godt tilfredse med det resultat, der blev af
+arbejdet dengang, og det er vores indtryk, at
+ordningen fungerer udmærket, som den er.
+Nu er loven så oppe til revision, og der foreslås en række mindre ændringer. I Dansk Folkeparti forholder vi os positivt til lovforslaget,
+men ønsker i løbet af udvalgsbehandlingen at
+dykke dybere ned i forslaget for til fulde at kunne overskue konsekvenserne af de foreslåede
+ændringer.
+På den baggrund skal jeg sige, at vores tilgang til lovforslaget absolut er positiv, men at vi
+ikke på nuværende tidspunkt vil give et endeligt
+tilsagn om at støtte forslaget, men jeg går stærkt
+ud fra, at den klarhed, som udvalgsbehandlingen vil skabe, vil give anledning til et endeligt ja
+på et senere tidspunkt.";Mikkel Dencker
+69677;title_name;Tak til hr. Mikkel Dencker. Så er det fru Charlotte Dyremose som ordfører.;Formanden
+69775;name_party;":
+I Det Konservative Folkeparti er der slet ingen
+tvivl om, at vi finder muligheden for at give
+
+medarbejderne medarbejderaktier meget positiv. Vi mener faktisk, at det er en rigtig god idé at
+have den mulighed, så virksomhederne på den
+måde kan inddrage deres medarbejdere, give
+dem et tilhørsforhold og et ejerforhold til virksomheden, så man er en del af den succes, som
+man selv er med til at skabe.
+Vi mener, det er en rigtig god forudsætning
+både for virksomheden, der på den måde binder
+medarbejderne til sig og sørger for gode, stabile
+medarbejdere, og for. den enkelte medarbejder,
+der får mulighed for at se frugterne af eget arbejde ved at kunne se et højere afkast af aktierne,
+når man gør en god indsats i virksomheden.";Charlotte Dyremose
+70517;Time;"Derfor er vi naturligvis også glade for, at skatteministeren med det her forslag lægger op til at
+udvide muligheden for at benytte de regler, der i
+dag er for medarbejderaktier, for problemet har
+jo været, at i nogle af de ordninger, der findes, er
+det meget svært på forhånd at se, om udnyttelseskursen bliver sådan, at man kommer til at
+leve op til de regler og begrænsninger, der nu
+engang er i lovgivningen, bl.a. det med, at det
+maks. må være 10 pet. af lønnen, der tildeles
+som medarbejderaktier.
+Derfor er vi meget glade for, at vi med det her
+forslag nu giver mulighed for også at kunne benytte ordningen med den slags medarbejderaktier, hvor man ikke kender udnyttelseskursen på
+forhånd. Derudover er der en række små justeringer, der også vil gøre det lettere at benytte
+medarbejderordningen, og dem kan vi ligeledes
+støtte.
+Når det så er sagt, ved vi også, at der, nu vi er
+i gang med at tale om medarbejderaktieordninger, er nogle problemer med hensyn til købsretten i virksomheder, der fusionerer, eller hvor en
+virksomhed opkøber en anden, hvor det simpelt
+hen i dag er sådan, at det bliver betragtet, som
+om man får ret til en anden aktie i et andet selskab. Det betyder så, at man ikke længere er
+inde under den almindelige ordning, og det er jo
+sådan set ikke medarbejderens skyld, for medarbejderen fortsætter bare i den samme arbejdsplads.
+Jeg vil derfor meget gerne bede ministeren
+om at se velvilligt på, om det muligvis i forbindelse med det her arbejde også kunne lade sig
+gøre at løse det problem.
+Men det korte af det lange er, at vi i hvert fald
+støtter det her forslag. >
+
+(154)
+Fredag den 18. november 2005 (L 56)";Kl. 11.15
+72172;title_name;"Tak til fru Charlotte Dyremose. Så er det hr. Poul
+Erik Christensen som ordfører.";Formanden
+72280;name_party;":
+Lovforslaget indeholder en række ændringer af
+skattereglerne for medarbejderaktier og ændringer af loven fra 2003. Der er tale om regler, der
+har til formål at forbedre vilkårene for aktieaflønning, herunder en præcisering af gældende
+regler.
+I mange innovative virksomheder er medarbejderaktier et godt og nødvendigt middel til
+fastholdelse af dygtige nøglemedarbejdere, ligesom det er et middel til omkostningsbegrænsning i perioder med megen videnopsamling og
+produktudvikling. Medarbejderne får med medarbejderaktier andel i en kommende værditilvækst i virksomheden, og mange medarbejdere
+har oplevet beskatning og administrativ praksis
+som en forhindring for at indgå i tilbudte ordninger.
+Lovforslaget har fået meget positive høringssvar, også fra administratorerne af loven, nemlig
+skatterevisoreme. Lovforslaget har kun begrænsede provenumæssige konsekvenser, og vi vil
+positivt indgå i udvalgsarbejdet, men selvfølgelig kritisk vurdere eventuelle muligheder for
+omgåelser af loven.";Poul Erik Christensen
+73284;title_name;"Tak til hr. Poul Erik Christensen. Så er det hr.
+Morten Homann som ordfører.";Formanden
+73379;name_party;":
+SF var imod, da regeringen udvidede de skattebegunstigede medarbejderaktieordninger for
+2-3 år siden, fordi de uddyber ulighederne i
+samfundet ganske betragteligt. Det er endnu et
+af de forslag, som regeringen har fremsat og fået
+gennemført, som udvider uligheden.
+Vi havde bl.a. en stor høring om det forslag
+med en lang række af de fremmeste eksperter i
+landet på det her område: som nærmest samstemmende sagde, at det her var et forslag, som
+ville uddybe ulighederne i samfundet. Så derfor
+var det selvfølgelig klart, at SF var imod det forslag.
+Nu er der så fremsat et forslag til udvidelse af
+denne her ordning, selvfølgelig ikke så stor en
+udvidelse som den første, men stadig væk en
+udvidelse, som giver de mest velstillede nogle
+yderligere muligheder for at nedsætte deres beskatning og dermed sende regningen videre til
+
+1225
+
+resten af befolkningen. Det skaber altså mere
+ulighed i samfundet, og det ønsker SF ikke at bidrage til. Derfor vil vi stemme imod det her forslag.";Morten Homann
+74376;title_name;"Der er et par korte bemærkninger til ordføreren,
+først fra hr. Jacob Jensen.
+(Kort bemærkning).";Formanden
+74488;name_party;":
+Vil hr. Morten Homann ikke medgive, at medarbejderaktieordninger betyder, at medarbejderen,
+som gør en god indsats, hvad der dermed betyder, at aktiekursen stiger, også skal have del i
+den gevinst, der opstår som følge af den indsats?
+(Kort bemærkning).";Jacob Jensen
+74762;name_party;":
+Jo, det er selvklart rigtigt, at hvis man får en
+medarbejderaktie og via sin indsats er med til, at
+aktiekursen stiger, så får man også en gevinst.
+Det er jo sådan set det, der er hele ideen i medarbejderaktieordningen.
+Det, der jo er interessant at se på, er, hvem der
+får de her medarbejderaktier. Der er to mønstre,
+som er interessante. For det første er det jo interessant, at det som udgangspunkt fortrinsvis er
+de højest placerede medarbejdere i hierarkiet,
+som får de her medarbejderaktieordninger. Og
+for det andet er det jo meget interessant med
+den ordning, som hr. Jacob Jensens parti, Venstre, har været med til at gennemføre, at det er
+særlig interessant for folk, der betaler topskat, at
+kunne slippe for beskatning på den her måde,
+mens folk, som betaler de lavere skattesatser og
+virkelig må knokle for at få en mere beskeden
+løn hjem, ikke har de samme fordele ud af det.";Morten Homann
+75662;Time;"Så det er en fordel for dem, som har i forvejen, og en knap så stor fordel for dem, som ikke
+har så høj en løn. Så uligheden stiger med det
+her forslag.
+(Kort bemærkning).";Kl. 11.20
+75851;name_party;":
+Uligheden stiger med det her forslag, siger hr.
+Morten Homann. Men er der ikke tale om, at
+den, som gør en indsats, får belønningen i kraft
+af medarbejderaktierne? Er det, som hr. Morten
+Homann her udtrykker, ikke det gode gamle socialistiske mantra om, at det, alle ikke kan få,
+
+1226
+
+Fredag den 18. november 2005 (L 56)
+
+skal ingen have? Er det ikke det, der faktisk er
+udtrykt i den ordførertale, som netop er holdt?
+(Kort bemærkning).";Jacob Jensen
+76312;name_party;":
+Hr. Jacob Jensen må komme ned til mig bagefter
+og prøve at opklare, hvornår det nogen sinde
+har været et socialistisk princip, at hvis ikke alle
+kan få noget, så er der ingen, der skal have det.
+Det har jeg ikke kunnet få opklaret, men det kan
+være, hr. Jacob Jensen ved mere om socialisme,
+end jeg gør. Det glæder jeg mig til at høre mere
+om.
+Hr. Jacob Jensen understreger jo meget tydeligt, hvad det her drejer sig om. Det drejer sig
+om, at folk, som typisk kan påvirke deres egne
+lønsammensætninger og kan påvirke aktiekursen på deres virksomhed, kan få nogle gevinster
+med skattebegunstigelse på den her måde, som
+der så er nogle andre, der skal betale. Og de, der
+skal betale, er jo selvfølgelig typisk kassedamen
+og pædagogmedhjælperen og skolelæreren, som
+ikke står til at få medarbejderaktier i deres supermarked, i deres børnehave eller deres folkeskole. Så de må betale de større regninger, som
+kommer ud af det, for at de velstillede kan få en
+skattelettelse på den her måde.
+(Kort bemærkning).";Morten Homann
+77346;name_party;":
+Vil hr. Morten Homann ikke anerkende, at det at
+fastholde nøglemedarbejdere i virksomheder
+også har en betydning for andre medarbejdere i
+samme virksomhed, det at viden ikke forsvinder?
+Samtidig kunne jeg også spørge hr. Morten
+Homann, om ikke også man mener, at det at
+give medarbejderaktier kan være med til at sprede ejerforholdet i danske virksomheder, således
+at også medarbejdere, der normalt ikke ville
+være ejere af den pågældende virksomhed, nu
+får et ejerforhold?
+(Kort bemærkning).";Poul Erik Christensen
+77859;name_party;":
+For at tage det sidste først, så jo, det er ud fra en
+strengt matematisk betragtning fuldstændig
+korrekt, at det spreder ejerforholdet, hvis man
+får flere til at eje aktier i selskabet. Jeg tror dog,
+at det er de færreste selskaber, hvor medarbejderaktierne tegner sig for en særlig stor del af
+den samlede aktiebeholdning, og derfor tror jeg,
+at det er en lidt langsom og ineffektiv strategi til
+at få bredt ejerforholdene ud.
+
+Til gengæld vil jeg godt anerkende, at det kan
+have værdi for en virksomhed - også værdi for
+de andre medarbejdere - at fastholde nogle af de
+højtlønnede medarbejdere, som man jo typisk
+gør med medarbejderaktieordninger.
+Der, hvor jeg synes problemet for alvor optræder, er i forbindelse med, hvorfor der oven i
+hatten, oven i, at man får den ekstra gevinst, det
+er at få medarbejderaktier, skal være en skattefordel forbundet med det, som ikke bare bliver
+betalt af de andre medarbejdere på virksomheden, men som også bliver betalt af alle andre
+skatteydere i det her land.
+Det er da med til at udvide uligheden. Det er
+da med til at gøre uligheden i det her land større, at man har en ordning, hvor den arbejdsløse,
+hvor pædagogmedhjælperen, hvor folkeskolelæreren ikke har nogen som helst chance for at
+få en medarbejderaktie, men hvor de alligevel
+skal være med til at betale regningen for, at topskatteyderen kan få en skattelettelse på det her
+punkt.
+(Kort bemærkning).";Morten Homann
+79292;name_party;":
+Jeg har da forstået hr. Morten Homanns redegørelse fot uligheden i samfundet, men vil hr. Morten Homann ikke også anerkende, at det også er
+en bekæmpelse af ulighed i samfundet at skabe
+arbejdspladser, også at skabe arbejdspladser til
+de personer, som måske ikke har den største viden i dette land, men som dog alligevel skal
+have et arbejde? Det arbejde skabes bl.a. ved, at
+man fastholder nøglemedarbejdere med stor viden om de produkter, der skal produceres i de
+pågældende virksomheder, som også medarbejdere, der ikke modtager aktierne, er en del af.
+(Kort bemærkning).";Poul Erik Christensen
+79887;name_party;":
+Det kan da sagtens tænkes, at det er rigtigt. Og
+jeg vil ikke et øjeblik stille mig i vejen for, at
+virksomheder vælger at tildele deres medarbejdere aktier.
+Der, hvor jeg synes, der er et alvorligt problem, er, når der er en skattebegunstigelse involveret i det, og det er jo det, der er tilfældet her,
+for det betyder, at der er en regning, der bliver
+sendt videre til resten af skatteyderne i det her
+land, sådan at kassedamen og pædagogmedhjælperen og folkeskolelæreren skal arbejde ekstra for at finansiere, at direktøren eller andre af
+de højtplacerede nøglemedarbejdere i en virksomhed kan få en skattelettelse.
+
+Fredag den 18. november 2005 (L 56)
+Det er jo det, det her drejer sig om. Det er at
+tage penge fra dem, som ikke får medarbejderaktier, dem, som ikke er i topskattekategorien,
+og så flytte pengene over til dem, som i forvejen
+tjener virkelig godt. Det synes jeg er en usympatisk måde at gøre tingene på, og det skaber i
+hvert fald mere ulighed i samfundet.";Morten Homann
+80876;Time;(Kort bemærkning).;Kl. 11.25
+80919;name_party;":
+Jeg synes jo, at hr. Morten Homann ganske godt
+illustrerede, at hr. Jacob Jensen fuldstændig havde fanget kernen i socialismen, nemlig at fordi vi
+her i Folketinget ikke kan få medarbejderaktier,
+så må man ude i dansk erhvervsliv ikke bruge
+det her instrument, hverken til at styrke virksomhederne eller til at styrke medarbejderne og
+engagementet og dermed gøre virksomheden
+bedre. Det vil jo ikke kun være til gavn for alle
+ansatte, men også til gavn for de nye medarbejdere, der så får mulighed for at få et job, fordi de
+nu har fået en styrket virksomhed, som beholder
+nogle arbejdspladser her i Danmark. Og det betyder jo så, at samfundet som sådan ikke skal
+betale kontanthjælp til de nye medarbejdere, der
+kommer ind i den her virksomhed, fordi den bliver styrket.
+Så er problemet ikke her, at man som socialist
+ganske enkelt ikke kan unde andre at få de medarbejderaktier, som vi ikke selv får herinde, og at
+man derfor ikke kan være med til at styrke
+dansk erhvervsliv og dermed sikre fremtidens
+velfærdssamfund?
+(Kort bemærkning).";Charlotte Dyremose
+81980;name_party;":
+Jeg tror faktisk, der er basis for g a n s k e interessant studiekreds om socialisme. Nu har jeg
+hørt, at hr. Jacob Jensen er interesseret og nu
+også fru Charlotte Dyremose, og jeg synes, det
+kunne være interessant sådan at diskutere det
+nærmere.
+Jeg vil sige til fru Charlotte Dyremose, at jeg
+for det første gerne vil se noget klar dokumentation for, at medarbejderaktier har betydet,, at der
+er blevet skabt flere arbejdspladser. Det synes
+jeg ikke har været tydeligt overhovedet. Og jeg
+vil godt slå fast: Jeg har ikke udtålt mig:imod, at
+~ medarbejdere må få aktier, det har jeg - s å d a n
+ingen problemer med. Det, jeg har problemer
+med, er, at vi skal give skattefordele'til. de. medarbejdere, som får aktierne, at vi på den:niåde
+udhuler skattegrundlaget, sådan at.-de, der ikke
+
+1227
+
+har medarbejderaktier, hvilket typisk er de lavtlønnede, hvilket er kassedamen, hvilket er folk,
+der er ansat til velfærdsopgaver i den offentlige
+sektor, skal være med til at betale en større regning for, at de højtlønnede i den virksomhed
+kan få den skattelettelse, som er forbundet med
+medarbejderaktierne.
+(Kort bemærkning).";Morten Homann
+83129;name_party;":
+Faktisk er noget af årsagen til, at vi overhovedet
+har et lovforslag til behandling i dag, jo, at der er
+en begrænsning for, hvor stor en del af sin løn
+man kan få på denne her måde. Så faktisk er det
+jo sådan, at der er taget hensyn til det, og selv i
+de situationer, hvor det måtte betyde særlig favorable vilkår, er der altså en grænse for det.
+Jeg har også hørt det sådan, at hr. Morten Ho- .
+mann anerkender, at det der med, at man lige
+får et ekstra skub, fordi man gør en indsats for
+sin virksomhed og bliver en del af teamet, godt
+kan styrke virksomheden. Så vil hr. Morten Homann ikke anerkende, at det godt kan være,
+man ideologisk er imod, at der er nogle, der kan
+få de her medarbejderaktier, når nu vi f.eks. ikke
+kan få dem herinde på Christiansborg, men at
+det ikke ændrer på, at det faktisk er med til at
+skabe en mere robust virksomhed og dermed
+også i sidste ende arbejdspladser her i landet?
+(Kort bemærkning).";Charlotte Dyremose
+84079;name_party;":
+Jamen det er fru Charlotte Dyremoses synspunkt. Jeg har jo efterlyst dokumentation for
+det, og mig bekendt er der hverken i den grundige proces, vi havde, da vi vedtog regeringens
+skattebegunstigede medarbejderaktieprogram,
+eller i øvrigt dokumentation for, at medarbejderaktieordninger skaber flere arbejdspladser. Så
+hvis fru Charlotte Dyremose ligger inde med
+den dokumentation, kunne det være spændende at se den.
+Jeg vil godt gentage for fjerde eller femte
+gang, at man som virksomhed for min skyld må
+uddele alle de medarbejderaktier, man vil. Der,
+hvor problemet opstår, er, når vi vil give skattebegunstigelse for at gøre det, og der dermed altså er andre mennesker i det her land, som skal
+'betale noget ekstra i skat for at finansiere, at de
+højt1ønnede kan få den skattelettelse. Det bety1der altså, at kassedamen, som typisk ikke får
+medarbejderaktier, at pædagogmedhjælperen
+-og:folkeskolelæreren, som ikke kan få dem, og at
+den arbejdsløse og pensionisten, som altså heller
+
+1228
+
+Fredag den 18. november 2005 (L 56)
+
+ikke kan få dem, må arbejde det hårdere, og at
+de må betale det mere i skat, for at højtlønnede,
+typisk ledere i det private erhvervsliv, kan få
+medarbejderaktieordninger.
+Det synes jeg er det grundlæggende problem
+her. Det skaber mere ulighed, og det er grundlæggende usympatisk, at de dårligst stillede, de
+mest lavt1ønnede skal betale, for at de højtlønnede kan få skattelettelser.";Morten Homann
+85510;title_name;"Tak til hr. Morten Homann. Så er det hr. Frank
+Aaen som ordfører.";Formanden
+85591;name_party;":
+Det er jo en meget interessant diskussion, der
+har været her mellem højresiden og SF. Det, jeg
+synes er mest interessant, og som jeg sådan set
+gerne vil gå ind i, er jo den fremhævelse, som er
+kommet fra højresiden, af, at det med at give aktier til medarbejderne er til fordel for virksomheden.
+Det synes jeg jo sådan set er en rigtig god tankegang. Den er jo meget i stil med det, jeg selv
+står for. Jeg synes, at det er dem, der arbejder i
+virksomheden, der også skal eje virksomheden,
+og jeg er helt sikker på, at det ville give bedre
+virksomheder end i dag, hvor man har en lille
+kreds af ejere, som dominerer, ejer og bestemmer i virksomhederne.";Frank Aaen
+86254;Time;"Derfor vil jeg da sige, at hvis det er rigtigt,
+som det bliver sagt, og man mener, at det er godt
+for en virksomhed, at medarbejderne har aktier i
+virksomheden, så bør vi jo lave det til en obligatorisk ordning.
+Så skal vi vist have fat i de gode gamle forslag, som venstrefløjen og Socialdemokratiet har
+haft fremme gennem tiderne, om at lave overskudsdeling og økonomisk demokrati, hvor
+virksomhederne forpligtes til at dele deres overskud med deres ansatte og gerne for min skyld i
+form af, at de forpligtes til at afgive en del af
+ejendomsretten, ved at de enten kollektivt - det
+foretrækker vi - eller individuelt giver medarbejderne aktier som en andel af overskuddet.
+Men altså som en obligatorisk ordning.
+Jeg synes, det lyder rigtig interessant. Og jeg
+kan jo forstå, at vi vil have opbakning til sådan
+en obligatorisk overskudsdeling, hvor medarbejderne får aktier, at vi vil få støtte til det fra
+højresiden.
+Men det er jo ikke det, det drejer sig om her.
+Det, det drejer sig om med den her lovgivning,
+
+vi behandler i dag, er muligheden for at kunne
+veksle løn til aktieavance og dermed til lavere
+skat, som er særlig til fordel for de højest placerede i virksomheden og dem, der betaler topskat.
+Derfor er det her en ulighedsskabende ordning, hvor regeringen jo bare kører den linje videre, den står for. I det her tilfælde er det altså
+en skattelettelse, der kun kommer en del af de
+privatansatte til gode, som ikke kommer offentligt ansatte til gode, men den generelle linje er i
+øvrigt, at der heller ikke er noget til de arbejdsløse, at der heller ikke er noget til pensionister,
+og at der heller ikke noget er til de uddannelsessøgende.
+Det er jo den linje, som Venstre og Konservative og Dansk Folkeparti har kørt siden 2001,
+hvor de kom til magten, nemlig at alle skattelettelser i særdeleshed skal forbeholdes dem, der
+har mest, hvorimod de, der har allermindst, ikke
+skal have noget. Det her er klart en lovgivning,
+der har med det at gøre, og som vil udvide den
+ulighed i samfundet, og den kan Enhedslisten
+naturligvis ikke være med til.";Kl. 11.30
+88350;title_name;":
+Jeg vil gerne starte med at takke det brede flertal
+af Folketingets partier, som har en positiv indstilling til lovforslaget her.
+Det er klart, at der under udvalgsarbejdet vil
+blive stillet spørgsmål af opklarende art omkring det tekniske, og jeg medgiver gerne, at det
+kan være nødvendigt, fordi det er et teknisk
+kompliceret lovforslag.
+Jeg vil gerne starte med at rose Socialdemokratiet for den pragmatiske tilgang, de har til
+spørgsmålet her, fordi det er ret væsentligt at få
+slået fast, at det, vi laver i dag, ikke er en stor
+udvidelse af et regelsæt. Det er så at sige et reparationsarbejde på det regelsæt, vi gennemførte,
+fordi vi, i den tid der er gået siden, bl.a. på baggrund af afgørelser fra Ligningsrådet har set, at
+der er behov for nogle afklaringer. Der er nogle
+problemer, der skal løses. Og derfor har vi valgt,
+godt nok et år før vi egentlig havde regnet med,
+at lave en revision af lovgivningen for på den
+måde at få rettet reglerne til.
+Hvis vi kigger rundt i verden omkring os, ser
+vi, at noget af det, som er utrolig vigtigt for at få
+skabt arbejdspladser, er viden. Og noget af det,
+som utrolig nemt kan flyttes, er viden i form af
+medarbejderes indsigt i virksomhed, produkter,
+udvikling og salg osv.
+
+Fredag den 18. november 2005 (L 56)
+Medarbejderaktier er en mulighed for at kunne knytte virksomhed og medarbejdere tættere
+på hinanden, for at holde personer, der kan være
+med til at give virksomheden det afgørende løft,
+fast i en længere periode.
+I Danmark var vi alle sammen glade, da det
+lykkedes at få en virksomhed som Giga frem.
+Giga er den virksomhed, der blev solgt for lige
+knap 10 mia. kr. Det, som direktøren i Giga sagde var hans største problem, var sådan set at
+holde på medarbejderne, for hans produkt, det,
+der gav de 10 mia. kr. i værdi, var ikke et stort
+varelager, var ikke et dyrt produktionsapparat,
+men den viden og indsigt, hans medarbejdere
+havde. Og en af de ting, som de netop fra Gigas
+side sagde, var: Kunne I ikke i regeringen prøve
+at kigge på, om mulighederne for at kunne holde på medarbejderne kunne gøres bedre.";Kristian Jensen
+90440;Time;"Det lykkedes på trods af de manglende muligheder dengang. Men vi valgte så i 2003 fra regeringens side at indføre reglerne om medarbejderaktier. Nu præciserer vi dem og gør dem
+bedre. Vi er af den klare overbevisning, at vi stadig væk vil være inden for den økonomiske
+ramme, som var forudsat i det første lovforslag.
+Jeg vil godt give tilsagn til fru Charlotte Dyremose om, at vi også vil prøve at kigge på den
+problemstilling, som den konservative ordfører
+rejste. Hvorledes vi kan lave en præcisering af
+det, er svært at give noget håndfast tilsagn om.
+Men lad os prøve at drøfte det i det udvalgsarbejde, der kommer nu.
+Og så vil jeg gerne give den indrømmelse til
+hr. Morten Homann, at det her ikke er enkle paragraffer. I forhold til det arbejde, vi gør med at
+forenkle lovgivningen, så er det ikke enkle paragraffer, vi arbejder med. Men det er altså værd at
+holde fast i, at vi i dag har et regelsæt, og at det
+er det regelsæt, der i bund og grund er kompliceret.
+Det, vi gør nu, er, at vi afklarer og præciserer
+det regelsæt, der er, og dermed mener jeg, at vi
+er med til at skabe en større forståelse og også
+med til at skabe nogle mere forståelige og præcise regler. Selv om det i udgangspunktet er komplicerede regler, så er lovforslaget her med til at
+gøre det enklere.
+Jeg kan ikke se hr. Frank Aaen i salen, men der var han - det lød for mig nærmest som en
+lidt sentimental tilbagevenden til de første spæde interesser, jeg havde for politik, at høre omtalen af ØD og tvunget økonomisk demokrati. Der
+er for mig at se ingen tvivl om, at det at kunne
+
+1229
+
+knytte medarbejdere og virksomheder tættere til
+hinanden og kunne få lavet et større fællesskab
+om det arbejde, der er i en virksomhed, vil være
+til gavn. Men det skal ske ad frivillighedens vej.
+Det skal ske, fordi man som virksomhedsejer
+har en interesse i og en lyst til at ville knytte
+medarbejderne til sig.
+Og derfor er det her et rigtig godt forslag til
+ad frivillighedens vej at kunne opnå det mål, at
+flere er med til at være virksomhedsejere, er
+med til at have del i produktionsapparatet og
+også ejer en del af produktionsapparatet. Og det
+her er faktisk den rigtige vej at gå, ikke den
+tvungne vej.
+Det sidste, jeg bare vil sige, er, at når det blev
+nævnt, at regeringens skattepolitik ikke skulle
+være til gavn for andre end folk, der er på arbejdsmarkedet, har det, at vi indførte et skattestop på afgifter fra den første dag, vi trådte til, i
+særlig høj grad været til gavn for dem med de
+laveste indkomster, fordi de stadig stigende afgifter, der var under den tidligere regering, i
+særlig høj grad ramte folk, der var uden for arbejdsmarkedet, pensionister, førtidspensionister,
+kontanthjælpsmodtagere m.v. Disse grupper, er
+blevet hjulpet markant af, at der er kommet et
+skattestop på afgifter, som har været med til at
+give dem et større råderum også økonomisk.
+(Kort bemærkning).";Kl. 11.35
+93328;name_party;":
+Ministeren kan snakke udenom alt det, ministeren ønsker. Sagen er, at hver eneste gang man laver ændringer af personskatterne, så har man
+møjsommeligt undladt at give skattelettelser til
+alle dem, der har mindst. Arbejdsløse, pensionister, uddannelsessøgende er holdt ude, hver
+gang man har ændret personskatten. Sådan er
+det.
+Men ellers vil jeg sige, at det der med at få
+medarbejderindflydelse er noget positivt. Det
+med at få delt overskuddet med medarbejderne
+er noget positivt, siger ministeren, men det skal
+være frivilligt. Frivilligt for hvem? Er det frivilligt for medarbejderne? Eller er det frivilligt for
+direktøren? Det er jo meget interessant. Det er jo
+lige præcis forskellen på Venstre og Konservative og Enhedslisten og venstrefløjen, at når førstnævnte snakker om frivillighed, så er det altid
+frivillighed for dem, der har, og i særdeleshed
+frivillighed for dem, der har magt, men ikke frivillighed for dem, der ikke har magt, og dem,
+der ikke har.
+
+1230
+
+Fredag den 18. november 2005 (L 55)
+
+(Kort bemærkning).";Frank Aaen
+94396;title_name;":
+Jeg kan fuldt ud bekræfte, at det er forskellen på
+hr. Frank Aaen og jeg selv, at jeg respekterer
+ejendomsretten, jeg respekterer folks ret til at bestemme over deres egen ejendom og også, hvorvidt de ønsker at dele ud af den i form af medarbejderaktier, hvor hr. Frank Aaen ikke har respekten for ejendomsretten, hvor hr. Frank Aaen
+mener, at det er hr. Frank Aaen og politikerne,
+der skal beslutte, hvordan værdier i samfundet
+skal fordeles, og ikke at de, der har ejerskabet til
+det, skal have retten til at fordele dem.
+Jeg og regeringen respekterer den private
+ejendomsret, og det er ikke nogen nyhed, at hr.
+Frank Aaen ikke har den respekt.";Kristian Jensen
+95054;Time;(Kort bemærkning).;Kl. 11.40
+95089;name_party;":
+Så tror jeg ikke, ministeren ved, hvad jeg har respekt for, og hvad jeg ikke har respekt for. Jeg
+ved bare, at det her samfund hovedsagelig styres af dem, der har penge, og jo flere penge, jo
+mere magt har man. Jeg synes også bare, man
+lige skal erkende, at det her samfund er opbygget sådan, at de, der har stor økonomisk magt,
+har stor magt i det her samfund.
+Det er også i orden, at man synes det. Så synes jeg bare lige, vi skal have med, at når vi
+snakker om frivillighed, så er frivilligheden altså
+overladt til nogle få, mens der ikke er frivillighed og frit valg for de mange. Det er sådan set
+bare det. Frivillighed for de få, men ikke for de
+mange, er regeringens politik.
+(Kort bemærkning).";Frank Aaen
+95827;title_name;":
+Nu er det hr. Frank Aaen, der snakker udenom.
+Det, hr. Frank Aaen sagde i det første indlæg,
+var, at hr. Frank Aaen ikke ville respektere den
+private ejendomsret. Hr. Frank Aaen ville beslutte, at man skulle dele ud af ejendomsretten,
+hr. Frank Aaen ville beslutte, at folk, der ejede en
+virksomhed, skulle dele ud af den til andre. Og
+det foreholdt jeg hr. Frank Aaen og sagde, at hr.
+Frank Aaen med det indlæg viste, at der ikke er
+respekt for den private ejendomsret.
+Det er sådan set ud over en masse sniksnak,
+der kommer indimellem, præcis det, hr. Frank
+Aaen gentog i den sidste sætning: Hr. Frank
+Aaen vil fordele folks ejendom til andre. I regeringen har vi respekt for ejendomsretten, og det
+
+er nok en af de største forskelle på hr. Frank
+Aaen og undertegnede.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Kristian Jensen
+96708;title_name;"Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 55:
+Forslag til lov om ændring af spiritusafgiftsloven, øl- og vinafgiftsloven og emballageafgiftsloven. (Justering af tillægsafgift på alkoholsodavand).
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+97208;name_party;":
+Da tillægsafgiften på alkoholsodavand blev indført i juni 2005, var formålet at hindre en tidlig
+alkoholdebut blandt unge. Forbruget af alkoholsodavand blandt de unge blev vurderet til at
+være særlig stort, og derfor antog man, at en tillægsafgift på netop disse produkter ville have
+den største effekt med henblik på at nå målet om
+at hindre en tidlig alkoholdebut.
+Der var imidlertid en fejl i forbindelse med
+afgrænsningen af det afgiftspligtige område,
+som medførte, at produkter som cider, frugtvin,
+likør og bitter blev omfattet af tillægsafgiften.
+Det var der så nogle, der blev bitre over. Løsningen blev, at Told og Skat udsendte et nyhedsbrev
+til samtlige i branchen, som sagde, at der ikke
+ville blive opkrævet afgift på disse produkter.
+Den manglende afgiftsopkrævning er naturligvis ikke i overensstemmelse med loven, og den
+fejl vil det her forslag så rette op på.
+
+Fredag den 18. november 2005 (L 55)
+Hensigten med lovforslaget er derfor, at cider,
+frugtvin, likør og bitter ikke omfattes af tillægsafgiften på alkoholsodavand.
+I Venstre mener vi, det er vigtigt, at vi i afgiftspolitikken skelner mellem produkter, som
+særlig appellerer til unge ved deres udformning
+og ved deres smag, og til produkter, som henvender sig til et mere voksent publikum. Vi støtter derfor forslaget om at rette loven til det, den
+oprindelig var tænkt som.";Jacob Jensen
+98575;title_name;"Tak til hr. Jacob Jensen. Så er det hr. René Skau
+Björnsson som ordfører.";Formanden
+98672;name_party;":
+Vi står jo med det her forslag på grund af en såkaldt afgrænsningsfejl, der er sket i Skatteministeriet. Vi er her, fordi skatteministeren kom til
+at inkludere cider og frugtvin og likør i betegnelsen alkoholsodavand, da der skulle indføres
+nye afgifter i forbindelse med finanslovaftalen
+for 2005.
+Det er der som udgangspunkt ikke noget underligt i, for sådan er definitionen på alkoholsodavand faktisk. Det står meget klart i de bemærkninger, der var til lovforslaget sidste år.
+Der står, at definitionen på alkoholsodavand
+omfatter samtlige blandinger af maltøl, vin,
+frugtvin, herunder cider eller spiritus med ikkealkoholholdige drikkevarer som sodavand, kakaomælk, mælk, frugt- eller grøntsagssafter eller most eller vand. Begrebet dækker dermed
+alle blandinger af gærede, destillerede drikkevarer med ikkealkoholholdige drikkevarer, uanset
+om blandingen er kulsyreholdig eller ej.
+Den her. meget brede definition på alkoholsodavand har altså hele tiden været tilgængelig,
+og planen var så, at man efter tysk eller fransk
+forbillede vil finde vej ud af den brede definition, så det kun kom til at dreje sig om afgift på de
+alkoholsodavand, som vi kun kender alt for
+godt, ,og som faktisk minder om sodavand.";René Skau Björnsson
+99897;Time;".I øvrigt har man jo ønsket at få denne her afgift, og det syntes vi var flot, for at forhindre en
+for tidlig brandert hos Danmarks unge. Det ville
+man faktisk have kunnet gøre helt lovligt, men
+skatteministeren sov i timen, så der i hvert fald
+på papiret alligevel kom afgift på fru Jensens
+kirsebærvin. Det kan man så mene om, hvad
+man vil, det er menneskeligt at fejle osv., men
+der er tale om en klokkeklar fortielse, en ulovlighed, når ministeren efter at have opdaget fejlen
+
+1231
+
+alligevel undlader at opkræve afgiften på hele
+den brede varebetegnelse og undlader at informere det danske Folketing.
+Filosofien har åbenbart været klar. Det er i orden at handle ud fra, hvordan loven skulle have
+set ud, i stedet for ud fra, hvordan den faktisk
+ser ud. Vi står ikke med det her ændringslovforslag, fordi ministeren ser et problem i den nuværende lovgivning, for hvis det var tilfældet, må
+man jo gå ud fra, at reaktionen havde været lidt
+mere prompte. Nej, vi er her, fordi ministeren er
+blevet grebet i en ulovlighed, som der nu skal
+rettes op på.
+Vi håber med det her forslag i dag, og vil meget gerne give ministeren en kraftig henstilling
+om det, at den slags ikke gentager sig, og at ministeren fremover orienterer Folketinget meget
+tidligere, hvis det alligevel skulle ske, at man
+kom i sådan en situation.
+Vi er positive over for det her ændringslovforslag, og det er ikke, fordi vi er specielt begejstrede for kirsebærvin, men fordi vi bilder os
+ind, at landets ministerier skal overholde Danmarks love.";Kl. 11.45
+101427;title_name;"Tak til hr. René Skau Björnsson. Så er det hr.
+Mikkel Dencker som ordfører.";Formanden
+101522;name_party;":
+Med finanslovaftalen for 2005, som blev indgået
+i november sidste år, aftalte Dansk Folkeparti og
+regeringen, at der skulle indføres en afgift på alkoholsodavand. I forbindelse med udmøntningen af denne aftale opstod der den fejl i lovgivningen, at cider, frugtvin og andre ting, som de
+foregående ordførere allerede har redegjort for,
+også blev belagt med denne tillægsafgift. Det
+var selvfølgelig en fejl, den er beklaget, og i
+Dansk Folkeparti beklager vi da også, at vi har
+været med til helt ubevidst at begå den fejl.
+Det rettes der jo op på med det her lovforslag,
+og jeg skal sige, at Dansk Folkeparti selvfølgelig
+støtter, at lovforslaget vedtages.";Mikkel Dencker
+102193;title_name;Tak til hr. Mikkel Dencker. Så er det fru Charlotte Dyremose som ordfører.;Formanden
+102291;name_party;":
+I Det Konservative Folkeparti var vi jo helt naturligt som en del af regeringen med til at lave
+sidste års finanslov, hvor intentionen netop var
+at indføre en afgift på de her såkaldte alkoholso-
+
+1232
+
+Fredag den 18. november 2005 (L 55)
+
+davand. Det har selvfølgelig også hele tiden været vores intention netop at ramme ned dér og
+ikke, som det viste sig at ministerens lovforslag
+gjorde, ramme f.eks. cider og likør, og derfor vil
+vi naturligvis også gerne både støtte ministeren
+og hjælpe med at få ændret den lille fejl, sådan
+at vi nu rent faktisk får en afgift på det, som det
+var hensigten at få en afgift på, nemlig alkoholsodavanden, og ikke på f.eks. cider og likør.
+Vi kan støtte lovforslaget.";Charlotte Dyremose
+103026;name_party;":
+Ved indførelse af tillægsafgiften på alkoholsodavand i 2005 blev der begået en fejl i forbindelse
+med afgræsningen af vareområdet. Hensigten
+med loven var at sende et klart signal til de unge
+om at undgå et tidligt alkoholforbrug, men lovændringen har imidlertid bevirket, at visse produkter utilsigtet også er blevet omfattet af loven.
+Man ønskede dengang at sende et signal til
+de unge om alkoholsodavand, og når nu loven
+alligevel skal laves om, så synes jeg, at skatteministeren burde overveje, om der ikke burde være
+yderligere afgift på såkaldt slikalkohol. Unge,
+der ikke kan lide smagen af alkohol, har med
+disse produkter fundet en vej til et alkoholforbrug, en indtagelse, det er meget svært at beregne virkningerne af.
+Da lovforslaget på det tidspunkt ikke gik
+imod regeringens skattestop, må det vel være
+det samme i år.
+Det var en fejl af ministeriet, idet det burde
+være forudset, at cider m.v. indeholder frugtsafter, og at disse ikke ændrer karakter i fremstillingsprocessen, som f.eks. alkoholsodavand.
+Positiv over for lovens afgift på alkoholsodavand er jeg, men jeg ønsker en yderligere stramning af afgiften på produktet. Jeg vil indgå positivt i udvalgsarbejdet.";Poul Erik Christensen
+104246;title_name;":
+Så er det hr. Morten Homann som ordfører.";Poul Nødgaard
+104308;name_party;":
+Det blev nævnt tidligere, at regeringen med det
+oprindelige lovforslag ønskede at sende et klart
+signal til de unge om, at de skulle holde sig fra
+alkoholsodavand. Så er det jo svært at opfatte
+det her lovforslag som andet end et klart signal
+til de unge om, at frugtvin til gengæld er o.k.";Morten Homann
+104610;Time;"Spøg til side. Det er jo stærkt kritisabelt, hvad
+ministeren har begivet sig ud i. Et er, at det er
+menneskeligt at fejle, noget andet er, at man så
+
+forsøger at dække over fejlen og derved kommer til at begå en ulovlighed. Den korrekte
+måde at gribe tingene an på havde jo været at
+fremsætte et forslag for Folketinget, hvor man
+ville have ændret denne her lov hurtigst muligt,
+og jeg er helt sikker på, at man ville have fået
+Folketingets forståelse for, at det var et lovforslag, som skulle behandles meget hurtigt. Men i
+stedet valgte man altså at forsøge at rette lovgivningsfejlen administrativt, og det finder jeg
+stærkt kritisabelt. Jeg synes også, at det er helt
+på sin plads at rette kritik mod denne her lovbehandling.
+Det er klart, at der er sket en fejl på det her
+område. SF har det principielle synspunkt, at
+der på en lang række punkter kan ske afgiftsstramninger på sådan noget som alkohol, men
+vi anerkender, at det her ikke er en større debat
+om, hvad der skal ske stramninger på eller ikke
+skal ske stramninger på, og vi vil derfor gå positivt ind i udvalgsarbejdet.";Kl. 11.50
+105731;title_name;":
+Så må det blive skatteministeren, jeg ser ikke hr.
+Frank Aaen i salen i øjeblikket.";Poul Nødgaard
+105851;title_name;":
+Undskyld! En helt uforbeholden undskyldning
+for det her, det er ikke godt nok. Det er ikke godt
+nok, at vi ikke får orienteret, og det er ikke godt
+nok, at vi ikke får lavet en praksis, som har været aftalt og afklaret i et politisk forum.
+Det er simpelt hen ikke godt nok, og det har
+vi naturligvis også taget konsekvensen af i ministeriet og har kigget på vores procedurer for at
+se, hvordan vi kan sikre, at noget som det her
+ikke gentager sig, både hvad angår det med, at
+man ikke får skaffet sig det korrekte grundlag,
+og naturligvis også spørgsmålet om, hvordan og
+i hvilket omfang vi orienterer Folketinget.
+Jeg har intet at sige til de kritiske bemærkninger, der er kommet. Jeg synes faktisk, at de er
+velvalgte og på sin plads, for det, vi har præsteret på det her område, har ikke været tilfredsstillende.
+Vi havde det oprindelige lovforslag i høring
+blandt brancheorganisationerne, for at de skulle
+kigge på, hvordan det var. Det var en relativt
+kort høring, det var jo en udløber af finanslovforhandlingerne fra sidste år, og der ved Folketingets partier jo godt, hvilket tidspres den slags
+kan være under. Vi fik ikke nogen tilbagemelding om, at det skulle være et problem, og i den
+periode, der gik, indtil loven trådte i kraft den 1.
+
+(155)
+Fredag den 18. november 2005 (L 54)
+juni, var der ikke nogen, der gjorde anskrig. Hen
+over sommerferien, da loven var trådt i kraft,
+fandt vi ud af, at den ramte bredere, end det
+egentlig var tiltænkt, og at de spiritustyper, som
+der blev nævnt, fejlagtigt var blevet pålagt en afgift.
+Det retter vi op på nu. Jeg er glad for, at der er
+en bred opbakning til at rette op på det, og jeg
+kan kun sige, at Skatteministeriet og jeg som minister må tage ansvaret for, at vi har lavet en lovgivning og en sagsgang, som ikke har været god
+nok.
+(Kort bemærkning).";Kristian Jensen
+107689;name_party;":
+Det er ikke, fordi jeg vil traske så meget rundt i
+det. Jeg er meget tilfreds med og glad for ministerens undskyldning til Folketinget i denne her
+sag.
+Men jeg vil gerne have, at ministeren lige
+kommer med et par ord om, hvordan der nu er
+strammet op i ministeriet, så den slags ikke længere sker.
+(Kort bemærkning).";René Skau Björnsson
+108042;title_name;":
+Det er bl.a. et spørgsmål om at have en større
+opmærksomhed på, at vi naturligvis uden tvivl
+skal sikre, at hvis der er et problem i forhold til
+den aktuelle lovgivning og i forhold til den
+praksis, der har været intentionen bag, får vi
+hurtigere givet både ministeren og også Folketinget en orientering og en redegørelse om, hvad
+problemstillingen er, og om, hvordan løsningsmulighederne må være.";Kristian Jensen
+108451;Time;"Det er et spørgsmål om, at vi også skal prøve
+at undersøge, hvad alternativerne kan være til at
+få benyttet de muligheder, der er i Folketinget,
+for at få lavet en politisk afklaring af spørgsmålene. Uanset at det er et vigtigt område, må man
+nok sige, at det at hasteindkalde Folketinget hen
+over sommerferien for at lave den her ændring
+måske ville have været vel meget.
+Så er der forelæggelse for Folketingets Finansudvalg og andet, som kunne have været en
+brugbar model, og det er vi naturligvis i gang
+med at gøre os overvejelser om. Men det vigtige
+er jo selvfølgelig, at vi skal sikre, at det her ikke
+sker en gang til.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+
+1233
+
+Afstemning";Kl. 11.55
+109216;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 54:
+Forslag til lov om ændring af registreringsafgiftsloven og skatteforvaltningsloven m.v.
+(Indførelse af motorankenævn m.v.).
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+109694;name_party;":
+Det er et lovforslag, der er grund til at være tilfreds med. Formålet er at effektivisere hele behandlingen af registreringen, og det er en forlængelse af strukturreformen, kan man roligt sige. Der foreslås altså en ændring, som for det
+første kunne styrke retssikkerheden for de mennesker, der nu skal have vurderet deres bil, og
+for det andet en effektivisering af hele systemet,
+som altså giver mulighed for en sænkning af
+den tid, det tager at få de her ting foretaget.
+Vi etablerer altså nu en række motorankenævn, fire, fem stykker, som betyder, at der bliver mulighed for en klageinstans. Det bliver altså mere effektivt, der bliver en større retssikkerhed og dermed en hurtigere sagsbehandling. Så
+der er faktisk bare grund til at sige, at her er et
+godt lovforslag, som ligger fint i forlængelse af
+den samling af skat, der skete ved sidste strukturomlægning.
+Venstre kan støtte lovforslaget.";Leif Mikkelsen
+110631;title_name;":
+Næste ordfører er hr. Frode Sørensen.";Poul Nødgaard
+110689;name_party;":
+Som bekendt er vurdering blot et finere ord for
+skøn, og skøn er naturligvis behæftet med megen usikkerhed. Derfor foreslår skatteministeren
+at ændre registreringsafgiftsloven, så brugerne
+
+1234
+
+Fredag den 18. november 2005 (L 54)
+
+kan få en højere grad af retssikkerhed ved, at
+den eksisterende ordning med vurderingsmænd, som afgør en række vurderingssager, afskaffes.
+Indtil nu har det ikke været muligt at klage
+over afgørelsen. Vurderingsmændene har altså
+afgivet den endelige afgørelse, og det er vel i offentlig forvaltning usædvanligt, at der ikke er
+ankemuligheder.
+Nu foreslår ministeren, at vurderingen lægges over til det, der siden 1. november hedder
+SKAT, og det sker for at koncentrere alle typer
+skatteforvaltning i SKAT.
+Ministeren følger op med en overbygning i
+form af højest fire motorankenævn, herfra vil afgørelsen kunne gå videre til Landsskatteretten.
+Der bliver således fuld adgang til at anke afgørelser hele vejen. Forslaget giver også adskillelse
+mellem de myndigheder, som man klager over,
+og de myndigheder, man skal klage til.
+Som en fodnote til forslaget foreslår ministeren at fritage visse biler for afgift, hvis de bruges
+til at transportere idrætsudstyr. Socialdemokraterne kan sådan set være meget enige i forslagets hensigt, især den styrkede retssikkerhed på
+området, og vi har noteret os, at ministeren
+skønner, at sagsbehandlingstiden kan halveres,
+hvad vi naturligvis er tilfredse med.
+Men vi kan jo også se af reaktionerne i høringssvarene, at det ikke er alle høringsparter,
+der er aldeles enige i forslagets udformning. De
+sætter spørgsmålstegn ved, om det nu også opfylder sin hensigt på alle punkter. Det skal vi naturligvis kigge på.
+Derudover kan vi af overslaget over merudgifter og merindtægter se, at besparelsen for
+SKAT stort set spises op af merudgifter til bl.a.
+Landsskatteretten, og det er endda usikkert, om
+der overhovedet bliver nogen besparelser, så lille er forskellen mellem udgifter og indtægter.
+Omvendt tæller det på plussiden for os, at borgerne forhåbentlig hurtigere end i dag kan få
+fastsat registreringsafgiften på deres bil. Men jeg
+skal ikke lægge skjul på min bekymring over
+alle de indvendinger, som høringssvarene indeholder, og vi vil under udvalgsarbejdet naturligvis se på de her ting.
+Egentlig har vi lidt svært ved at forstå, hvorfor ministeren smugler en lille afgiftslettelse for
+en lille gruppe køretøjer med i det her forslag. Vi
+er jo ikke tilhængere af tilfældige skattelettelser
+for mindre grupper, som skal finansieres af andre skatteydere, så må man hellere give dem et
+tilskud på anden vis.";Frode Sørensen
+113286;Time;"Socialdemokratiets udgangspunkt er, at man
+ikke skal føre idræts- eller anden kulturpolitik
+via skattepolitikken. Det vil sige, at skatter og afgifter ikke skal bruges til at fremme den slags
+ting. Vi mener fortsat, at erhvervskøretøjer skal
+beskattes anderledes end privatbiler, men vi er
+ikke glade for at fritage en ny gruppe for en afgift blot med den begrundelse, at idrættens vilkår skal fremmes. Dem vil vi gerne være med til
+at fremme, men det skal være på en helt anderledes og åben måde.
+Med de ord ser vi frem til at få et fornuftigt
+udvalgsarbejde og til at se på de kommentarer,
+der er i høringssvarene, og selvfølgelig også til
+at se på den her lille idrætsafgiftslettelse.";Kl. 12.00
+114008;title_name;":
+Næste ordfører bliver hr. Mikkel Dencker.";Poul Nødgaard
+114071;name_party;":
+Lovforslaget lægger op til at effektivisere den
+gældende ordning for vurderingen af brugte biler.
+Som det foregår nu, er vurderingen med henblik på beregning af registreringsafgift unødvendig tung og langsom. Det forsøges der med
+lovforslaget at rette op på, idet ambitionen er, at
+sagsbehandlingstiden skal nedbringes til det
+halve.
+Med lovforslaget indføres også, at de administrative vurderinger af biler skal kunne ankes til
+motorankenævnene, som vil blive oprettet til
+det samme formål. Dermed skulle det blive lettere at klage, og på den måde styrkes retssikkerheden for borgerne.
+I Dansk Folkeparti tilslutter vi os formålet
+med lovforslaget og ser frem til, at sagsbehandlingstiden kan blive nedbragt. På den baggrund
+skal jeg sige, at vi støtter lovforslaget, også det
+element, som hr. Frode Sørensen var inde på,
+med køretøjer til transport af idrætsudstyr. Vi
+betragter dog ikke den del af forslaget som en
+form for smugleri, men vi mener, at det står ærligt og åbent i lovforslaget.
+Med de ord skal jeg sige, at vi støtter lovforslaget.";Mikkel Dencker
+115155;title_name;":
+Næste ordfører bliver fru Charlotte Dyremose.";Poul Nødgaard
+115226;name_party;":
+I Det Konservative Folkeparti kan vi også støtte
+forslaget. Vi mener, det er yderst hensigtsmæs-
+
+Fredag den 18. november 2005 (L 54)
+sigt, at man adskiller den myndighed, man klager til, fra den myndighed, man klager over. Vi
+synes sådan set også, det er rigtig udmærket, at
+vi nu med den nye struktur får en hurtigere
+sagsbehandling og derudover altså det her motorankenævn, som man kan klage til med mulighed for at klage videre til Landsskatteretten. Så
+alt i alt betragter vi den del af forslaget som noget, der vil give en hurtigere og bedre service til
+borgeren samt give større retssikkerhed.
+Så bliver der talt om en lille fodnote, som er
+nederst i forslaget, og jeg vil da godt i den anledning - sagt til hr. Frode Sørensen - tage det fulde
+ansvar for denne såkaldte fodnote, som jeg absolut ikke betragter som noget småt og ubetydeligt.
+Situationen er nemlig den, at man f.eks. i noget af det, som jeg kender personligt, nemlig hesteverdenen, har nogle lastbiler, som man transporterer heste i. Men i det øjeblik man lægger en
+briks ind i den bil, så man kan sove tæt på sin
+hest om natten, når man er ude til stævne, eller
+hvad det måtte være, så betaler man fuld afgift
+for hele bilen.
+Det er der rigtig mange også inden for f.eks.
+sejlsport og motorsport, der har været meget
+kede af, for situationen er jo den, at man faktisk
+bruger lastbilen til transport og så blot ønsker at
+overnatte f.eks. på det sted, hvor man er ude til
+sit sejlsportstævne, eller der, hvor man har sin
+hest til stævne.
+Det her er derfor noget, som man meget længe har efterlyst inden for en række sportsgrene,
+og problemstillingen har ganske enkelt været
+den, at man ikke har haft mulighed for på lovlig
+vis at sove eller tage bad i nærheden af sin
+sportsaktivitet.
+Et andet konkret eksempel kan være muligheden for, når man er ude at dyrke motocross, at
+installere en lille bruser og en vanddunk, så man
+kan renses, inden man f.eks. kører 500 km hjem
+fra et stævne, hvor man er blevet godt svedig og
+godt mudret til, i den lastbil, hvor man transporterer motocrossbilerne. Det ved jeg at der konkret er nogle der har stort behov for.
+Det er altså et spørgsmål om at ændre det,
+man før har kaldt camping, så snart der var en
+lille briks eller en bruser inde i den her transportlastbil. Vi kan med denne lille beskedne fodnote gøre en stor forskel for en lang række
+sportsudøvere, der får en nemmere tilværelse på
+ganske lovlig vis.
+Den del af forslaget er vi altså utrolig glade
+for i Det Konservative Folkeparti, og vi mener,
+
+..
+
+1235
+
+at det er ganske rimeligt, at man kan få mulighed for at gøre det, og når vi taler om de her store biler på over 4 t, så taler vi om biler, der vil
+være så dyre at køre i til daglig, at det kun benyttes af de mennesker, der reelt har et transportbehov af heste, motocrosscykler, både til sejlads eller noget i den stil.";Charlotte Dyremose
+118086;Time;"Det skal dog også siges, at vi gerne så, at det
+bley muligt at gøre det med de lidt mindre biler
+på under 4 t, men der erkender vi jo, at der kan
+være nogle afgrænsningsproblemer, som gør det
+en lille smule svært at sikre, at der ikke kan snydes med det, så man på den måde får en afgiftslempelse på en bil, der reelt skal bruges til
+noget andet.
+Vi vil derfor meget gerne både under udvalgsarbejdet og også, hvis det ikke lykkes dér,
+arbejde videre på at sikre denne mulighed for
+dem, der reelt bruger de mindre biler på under 4
+t til transport af sportsrekvisitter, men vi anerkender også, at det ikke er så enkelt, som det er
+for de store biler.
+(Kort bemærkning).";Kl. 12.05
+118773;name_party;":
+Jeg er nødt til at beklage, at jeg har beskyldt
+skatteministeren for at have smuglet noget ind
+om idrætsudstyr, når det viser sig, at det er den
+konservative ordfører, der har smuglet sin hest
+ind i lovforslaget.
+Jeg vil gerne spørge, om fru Charlotte Dyremose ikke synes, at det er en lidt speciel sammenblanding af registreringsafgiftsvurdering,
+motorankenævn og så hestetrailere med indbygget soveplads eller for den sags skyld speedwayhytter.
+Lidt mere seriøst: Vil fru Charlotte Dyremose
+medvirke til, at vi nu får kigget det efter, så vi
+ikke risikerer, ligesom vi så med frugtvinen før,
+at vi får vedtaget et eller andet, der pludselig åbner for noget, som er helt anderledes end det, vi
+er inde på her? Fru Charlotte Dyremose er jo
+selv inde på, at hun godt kunne forestille sig, at
+også biler under 4 t kom med, men at det ville
+åbne en ladeport af muligheder, som ikke er
+hensigtsmæssige. Den ladeport kunne måske
+også være der for køretøjer over 4 t.
+(Kort bemærkning).";Frode Sørensen
+119779;name_party;":
+Jeg fornemmer det uden at vide det, at hr. Frode
+Sørensen faktisk nævner noget helt centralt, når
+han kommer til at sige trailere. For situationen
+
+1236
+
+Fredag den 18. november 2005 (L 54)
+
+Når nu låget er af afgifterne, så synes jeg,
+er faktisk den i dag, at hvis man bare har hesten
+skatteministeren skulle vurdere, om ikke man
+eller motorcyklerne i lastbilen og så har en traivia afgifter kunne ændre adfærden i den danske
+ler bagpå, hvor der er beboelse, er der også afgiftsfritagelse. Men det øjeblik, man samler det i befolknings bilkøb. Ligesom idrætsfolkene har
+behov for at få tilpasset afgiften i forhold til deen og samme lastbil, er der ikke.
+res kørsel, har en stor del af den danske befolkSituationen er derfor i dag, at man reelt ikke
+ning også et behov herfor. Der købes i dag utrobruger de her biler, eller at man snyder og gør
+det alligevel. Derfor er jeg slet ikke bekymret for, . lig mange biler ud fra, hvilken afgift der er på
+den pågældende bil, og ikke ud fra, hvilket reelt
+at det her vil blive udnyttet. Det vil betyde, at vi
+kørselsbehov den pågældende familie har.
+i Danmark bruger nogle biler, som man allerede";Charlotte Dyremose
+120932;Time;"i dag bruger i både Tyskland og i Sverige, i steDen
+nuværende
+lov
+bevirker,
+at
+man
+køber
+en
+det for at man laver et krumspring med en stor
+bil med firehjulstræk, og det er til skade for både
+lastbil med en anhængertrailer bagpå, som er
+trafiksikkerhed og miljø. Det er helt uantageligt
+det alternativ, man i dag har i Danmark.
+og helt forkert, at der på de københavnske gader
+Jeg er da meget enig med hr. Frode Sørensen
+i, at vi selvfølgelig skal sikre, at det her ikke mis- kører firehjulstrækkere rundt. De burde være
+bruges. Det er også derfor, at jeg i mit arbejde for ude i det mørke Jylland på markerne.
+Jeg er positiv over for lovforslaget, men jeg
+det netop har sagt, at det selvfølgelig skal være
+sådan, at det ikke bare bliver benyttet til alt mu- vil under udvalgsarbejdet vurdere, om der bør
+stilles ændringsforslag, der ændrer registreligt andet. Derfor anerkender jeg også, at der,
+ringsafgiften for andre biltyper.
+hvor det er nemt, er med de store biler, fordi de
+er for dyre at køre rundt i til daglig, og at det er";Kl. 12.10
+121999;title_name;":
+mere kompliceret med de mindre biler.
+Tak til ordføreren. Næste ordfører bliver hr.
+Morten Homann.";Poul Nødgaard
+122133;title_name;":
+Der er vist ikke flere spørgsmål. Tak til ordføreMorten Homann (SF):
+ren. Den næste ordfører er hr. Poul Erik ChriSF er som udgangspunkt positiv, hvis man kan
+stensen.
+lave nogle forenklinger og effektiviseringer, som
+nedbringer sagsbehandlingstiden på det her";Poul Nødgaard
+122422;name_party;":
+område. Så jeg vil sige, at i udgangspunktet er vi
+Formålet med lovforslaget er at styrke retssikkerheden og administrationen af registreringsaf- positive over for det lovforslag, som ligger her.
+Der er imidlertid en række problemer, som
+giftsloven. Det sker ved afskaffelse af den gælogså høringssvarene peger på, først og fremmest
+dende ordning med vurderingsmænd, der afgør
+problemer med, om skattemyndighederne har
+visse spørgsmål af skønsmæssig karakter efter
+den fornødne kompetence til at foretage de her
+registreringsafgiftsloven, de såkaldte vurdevurderinger. Det er selvfølgelig et meget centralt
+ringssager. Vurderingsmændenes afgørelser er
+spørgsmål. De provenuvurderinger, der ligger i
+med enkelte undtagelser endelige og giver ikke
+forslaget, giver i hvert fald en vis grund til bemulighed for klageadgang over afgørelser.
+I stedet foreslås en ordning, hvor alle afgørel- kymring for, om det i virkeligheden forholder
+sig sådan. Det er i hvert fald forhold, som SF vil
+ser i første instans træffes administrativt af toldundersøge nærmere under udvalgsbehandlinog skatteforvaltningerne. I ordningen indgår, at
+der etableres tre til fire motorankenævn til afgø- gen.
+Så peger høringssvaret fra Landsskatteretten
+relse af klager over afgørelse af vurderingssapå et andet lidt absurd punkt. i det her lovforgerne. Motorankenævnenes afgørelse vil kunne
+slag, nemlig at man af hensyn til skattestoppet
+påklages til Landsskatteretten, og ordningen
+forventes at kunne medføre en effektivisering af på netop dette punkt ikke kan indføre afgift på
+klager til Landsskatteretten, så klagere over lige
+administrationen af registreringsafgiftsloven.
+netop den her type sager stilles anderledes end
+Herudover foreslås nogle mindre justeringer
+alle andre klagere i det her land, som klager over
+af registreringsafgiftsloven, idet der stilles forslag om, at biler over 4 t, der er specielt indrette- deres sag til Landsskatteretten. Det er en lidt absurd konsekvens, at man ikke kan få en ligebede til erhvervsmæssige formål, afgiftsfrit kan
+handling på grund af skatteministerens selvanvendes til transport af idrætsudstyr og i forvalgte dogmer.
+bindelse hermed personbefordring og beboelse.
+
+Fredag den 18. november 2005 (L 54)
+
+1237
+
+Så vil jeg endelig sige, at da jeg sad og forberedte mig, var jeg også noget forundret over, at
+man havde valgt at tage et område ind og lave
+en skattelettelse, som overhovedet ikke har noget som helst med det øvrige forslag at gøre. Efter at have hørt den konservative ordførers indlæg, har jeg lidt større forståelse for, hvad det
+går ud på, men jeg vil stadig væk sige, at jeg
+ikke synes, det hører hjemme i den her sammenhæng, at man laver skattelettelser for folk, som
+gerne vil sove sammen med deres hest, båd eller
+motorcykel. Jeg har forståelse for, at idrætsudøvere kan føle sig så nært knyttet til deres nære
+samarbejdspartnere, men jeg er ikke helt sikker
+på, at det her er den rigtige måde at gøre det på.
+Under alle omstændigheder synes jeg, at det er
+at blande æbler og pærer sammen.
+Vi er i SF positive over for udgangspunktet i
+det her forslag, men ser en række problemer,
+som vi skal have belyst nærmere under udvalgsarbejdet.
+
+svare på spørgsmålene, vil de kunne hente ekspertbistand fra den konservative ordfører.
+
+(Kort bemærkning).";Poul Erik Christensen
+125735;name_party;":
+Jeg ønsker blot at rette den der lille misforståelse
+med, at det her skulle være sådan en skattelettelse for nogle, der gerne vil noget bestemt. Situationen er nemlig allerede i dag, bare til afklaring,
+at har man den her lastbil med, hvad det nu end
+er for en sportsrekvisit, en hest eller en sejlbåd,
+eller hvad der måtte være i den, og så en trailer
+bagpå til beboelse, er der afgiftsfritagelse. Men i
+det øjeblik beboelsen er i samme bil, får man den
+fulde afgift for hele rummet, også der, hvor man
+transporterer sin sportsrekvisit.
+Så situationen er sådan set bare, at vi nu får
+mulighed for at bruge nogle biler, hvor det hele
+er under ét tag, i stedet for at man skal have en
+bil med en trailer bagpå. Så det skulle ikke ændre så frygtelig meget afgiftsmæssigt.";Charlotte Dyremose
+126541;title_name;":
+Tak til ordføreren. Så er det skatteministeren for
+at komme med sine bemærkninger.";Poul Nødgaard
+126635;Time;(Kort bemærkning).;Kl. 12.15
+126674;name_party;":
+Jeg har den største respekt for den konservative
+ordførers viden og ikke mindst engagement på
+det her område, og derfor vil jeg slet ikke turde
+begive mig ind i en nærmere debat om detaljerne. Jeg vil blot sige, at jeg synes, at det for udenforstående umiddelbart virker som lidt af et
+fremmedelement i den her sammenhæng.
+Derfor vil jeg forbeholde mig ret til at spørge
+nærmere ind til det under udvalgsarbejdet. Jeg
+er helt sikker på, at i det omfang, Skatteministeriets embedsmænd ikke føler sig i stand til at";Morten Homann
+127224;title_name;":
+Så er det sat på plads. Tak til ordføreren. Så er
+det hr. Frank Aaen som ordfører.";Poul Nødgaard
+127324;name_party;":
+Selv om der er de just beskrevne besynderligheder i det her lovforslag, er vi også positive over
+for forslaget og vil med det udgangspunkt se på
+det under udvalgsarbejdet.
+Jeg vil nok sige, at den omsorg, der er for den
+unge, der kommer i klemme i vores skattesystem, tror jeg godt at jeg kunne finde andre områder, hvor den ville være mindst lige så velplaceret. Så jeg vil have i erindring, at både regeringen og den konservative ordfører viser meget
+stor omsorg, hvis der er nogen, der på en mærkelig måde kommer i klemme i vores skatteregler, så vi får det rettet.";Frank Aaen
+127930;title_name;":
+Jeg tror, at det i løbet af ordførerrækken blev
+klart, at jeg har ladet mig overtale til at lave en
+ændring af beskatningen af visse biler, der transporterer idrætsudstyr. Det har jeg faktisk valgt
+at tage med i den her lovgivning, for uanset at
+det er et stort og vigtigt projekt, der vil hjælpe
+mange idrætsudøvere, så mente jeg alligevel, at
+det måske var lige lille nok til et selvstændigt
+lovforslag.
+Jeg synes, det er rigtig godt, at vi kan.få løsnet
+op for det her, men det, der er hovedemnet i lovforslaget her, er jo at få givet et bedre, retssikkerhedsmæssigt korrekt grundlag, så bilejere, der
+vælger at importere deres biler, eller bilejere,
+som skal have eksporteret deres biler, kan få lavet et skøn over, hvad værdiansættelsen er, og
+dermed også, hvilken registreringsafgift der skal
+betales.
+I dag plages vi af alt for lange sagsbehandlingstider, og vi plages af, synes jeg, at det er et
+problem, at der ikke er mulighed for at klage
+over den afgørelse, der bliver truffet. I dansk
+retspraksis har vi en mulighed for, at man kan
+anke og få prøvet en myndighedsafgørelse. Det
+kan man i dag ikke på det område, vi diskuterer
+
+1238
+
+Fredag den 18. november 2005 (L 54)
+
+her, vedrørende vurdering af biler, men det får
+vi nu, og det synes jeg er meget glædeligt.
+Når låget nu er taget af - jeg tror, det var det
+udtryk, som hr. Poul Erik Christensen brugte kunne man så ikke også kigge på mange af de
+andre problemer, der er omkring bilbeskatningen? Jeg er enig i, at der er mange udfordringer i
+den danske bilbeskatning. Regeringen har faktisk også derfor skrevet i regeringsgrundlaget, at
+vi ønsker at få kigget på den samlede bilbeskatning under et.
+Nu er det sådan, at det ikke er første gang,
+kan jeg tilstå, at vi har ønsket at kigge på bilbeskatningen og på, om ikke den kunne laves om.
+Tidligere har man kigget på enten registreringsafgifterne eller de løbende afgifter sådan lidt adskilt, og de tidligere arbejder viser, at det altså
+ikke er nogen enkel ting blot at gå ind og lave en
+ændring, hvis man skal have både de provenumæssige hensyn, de trafiksikkerhedsmæssige
+hensyn, de sociale hensyn og de miljømæssige
+hensyn til at spille i en harmoni.
+Derfor har det været nødvendigt at prøve at
+kigge på det igen, og derfor er det et ønske, jeg
+sådan set kan følge langt hen ad vejen, at få kigget på den samlede bilbeskatning, men det er
+ikke muligt på nuværende tidspunkt, i hvert
+fald ikke for mig, at fremsætte et lovforslag, der
+lægger et snit ind, og som også tager de hensyn
+til både provenuet, miljøet, trafiksikkerheden og
+det sociale, som jeg synes er nødvendige.
+Hvis hr. Poul Erik Christensen har en model
+klar, vil jeg meget gerne se på den. Nogle af de
+modeller, der har været og er blevet præsenteret,
+har den store ulempe, at de i forhold til det provenu, vi får i dag, vil medføre et meget stort tab
+for statskassen. Hvis vi havde penge til at lave
+den slags lettelser af beskatningen, så jeg hellere,
+at vi lavede en lettelse af beskatningen af arbejdsindkomster i stedet for. Ikke desto mindre
+er der behov for at kigge på en omlægning, og
+det gør vi også, bare ikke med det her lovforslag.
+Til hr. Morten Homanns spørgsmål om kompetencer i administrationen, når de nu skal lave
+vurderingerne: Der er det jo sådan allerede i
+dag, at de ansatte i Skat laver det første arbejde
+for at lave et grundlag til de vurderingsmænd,
+der i dag arbejder med det, så vi har i organisationen kompetencerne til at lave vurderingen. Vi
+vedbliver med at have vurderingsankenævn og
+får dermed vurderingsmænd ind, og de kan
+være med til at have det, man kan sige, folkevalgte lægmandssyn på, om nu administratio-
+
+nen lægger det rigtige snit. Så vi har kompetencerne, og vi har samtidig bevaret en lægmandsinstitution, og dermed mener jeg, at vi har givet
+bilkøberne en meget bedre og stærkere administration, der også er hurtigere og mere retssikker.
+Jeg er glad for den brede tilslutning, og jeg
+håber, at vi under udvalgsarbejdet kan få afklaret de spørgsmål, der er, så vi kan få Folketinget
+samlet om at stemme den her forbedring igennem.
+(Kort bemærkning).";Kristian Jensen
+132043;name_party;":
+Jeg skal da gerne støtte ministeren med nogle
+gode råd og nogle gode forslag til, hvordan man
+kan ændre bilbeskatningen, og jeg kan da love
+ministeren, at det nok skal være blandt de julegaver, som ministeren får her om ikke så længe.
+Ministeren tager jo tilsyneladende fat i de forslag, som er enkle, nemlig hestetransporter, og
+ikke det, at familierne gerne vil transportere deres familiemedlemmer sikkert i bilerne.";Poul Erik Christensen
+132473;Time;"Jeg vil gerne spørge til den der specialbil, der
+nu bliver fritaget. Det er jo således, at hvad angår varevogne er der en størrelsesbegrænsning
+for kabinen i forhold til ladet, hvis man skal
+kunne få den med en rimelig afgift. Er det således, at der i forslaget også er en størrelsesbegrænsning af, hvor stor en plads der i bilen må
+bruges i beboelse, og hvor stor en plads der må
+bruges til hest? For hvis der ikke er en sådan, vil
+det åbne for muligheden for en ny biltype med
+hovedvægt på beboelse.
+(Kort bemærkning).";Kl. 12.20
+133029;title_name;":
+Det, der har været væsentligt for os, da vi skulle
+lave afgrænsningen af, hvilke biltyper der kan
+afgiftfritages, har netop været ikke at åbne for, at
+kreative sjæle vil benytte denne afgiftslempelse
+til et helt andet formål end det formål, vi har
+med det.
+Derfor har vi bl.a. alene lagt op til, at den ændring, vi gennemfører her, er for en bestemt type
+biler, og derfor har vi ikke kunnet fuldt ud imødekomme nogle af de ønsker, der har været, om
+også at få de lettere køretøjer ind under det her.
+Vi ville risikere, at nogle ville bruge de ændringer, vi har her, til at kunne skaffe sig en billigere
+bil, uden at det formål, som vi egentlig ønsker:at
+støtte, var til stede. Derfor er der lavet de afgrænsninger.
+
+Fredag den 18. november 2005 (L 57)
+Hvordan vi præcis skal lave vurderingen af
+rumstørrelse og andet, må jeg blankt tilstå at jeg
+ikke på stående fod kan sige.
+(Kort bemærkning).";Kristian Jensen
+133953;name_party;":
+Jeg synes, det er vigtigt, at der blev lavet en afgræsning, for det gode ved den danske befolk-.
+ning er jo, at den er meget kreativ, også når det
+handler om skattesager - nogle gange for kreativ.
+Men det er jo ikke således, at det i loven er afgrænset, hvilken type idrætsfolk der er tale om.
+Man kunne godt være så kreativ at forestille sig,
+at der var tale om en brevduemand, der havde
+en meget stor bil - en 4-tpn-bil - med en lillebitte
+plads til duen, og ellers med plads til de øvrige.
+(Kort bemærkning).";Poul Erik Christensen
+134501;title_name;":
+Jo, men man kunne også, hvis man nu f.eks. var
+bordtennisspiller, have en bold liggende bagved, hvis det var det, der var meningen.
+Jeg er enig i, at vi skal være meget nøjeregnende med, præcis hvordan vi laver afgrænsningen, og vi stiller os selvfølgelig til rådighed
+under udvalgsarbejdet for at lave præciseringer
+af, hvorledes man kan sikre, at der ikke er en
+misbrugsmulighed i det her.
+Men jeg synes, det ville være glædeligt at få
+gennemført den her lettelse, fordi der er nogle
+personer, der i dag har et klart problem, hvor de
+er nødt til at lave nogle ordninger med trailere
+eller andet for at få det løst. Dem kan vi give en
+meget enklere måde at få udøvet deres idrætsgren på ved at gennemføre den fritagelse, vi
+snakker om her. Og så håber jeg, at vi under udvalgsarbejdet kan få afklaret den usikkerhed,
+der måtte være, sådan at vi kan få et enigt Folketing bag de forbedringer, som lovforslaget lægger op til.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Kristian Jensen
+135558;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+1239
+
+Den sidste sag på dagsordenen var:
+6) Første behandling af lovforslag nr. L 57:
+Forslag til lov om indgåelse af aftale mellem
+Danmark og Færøerne om beskatning af indkomst for arbejde om bord på skibe i internationalt skibsregister.
+Af skatteministeren (Kristian Jensen).
+(Fremsat 9/11 2005).
+Lovforslaget sattes til forhandling.
+Forhandling";Poul Nødgaard
+136070;name_party;":
+Danmark og Færøerne har særlige skatteregler
+for personer, der arbejder om bord på et skib i
+henholdsvis Dansk Internationalt Skibsregister
+og Færøsk Internationalt Skibsregister. Reglerne
+skal sikre danske og færøske rederiers konkurrencemæssige stilling i forhold til rederier fra
+andre lande, idet de får mulighed for at nedsætte lønomkostningerne til deres søfolk.
+Forslaget her medfører, at Danmark ikke beskatter en sømand, der er bosat her i landet, af
+løn for arbejde på et skib i FAS, Færøsk Internationalt Skibsregister. Tilsvarende vil forslaget
+medføre, at Færøerne ikke beskatter en færøsk
+sømand for løn på arbejde på et skib i DIS,
+Dansk Internationalt Skibsregister.
+Forslaget vil således fjerne de skattemæssige
+barrierer for beskæftigelse på skibe og vil derfor
+have en positiv erhvervsøkonomisk effekt og
+konsekvens for rederierhvervet i henholdsvis
+Danmark og i Færøerne. Vi støtter således forslaget, som det ligger her.";Jacob Jensen
+137047;title_name;":
+Tak til ordføreren. Næste ordfører bliver hr.
+René Skau Björnsson.";Poul Nødgaard
+137139;name_party;":
+Vi har i Socialdemokratiet gennemgået forslagets rammer nøje, og vi anerkender de fordele,
+som lovforslaget rummer.
+Den konkurrencemæssige fordel er helt indlysende. Rederier under henholdsvis Dansk Internationalt Skibsregister og Færøsk Internationalt Skibsregister får bedre mulighed for at tiltrække arbejdskraft, og dermed styrkes den
+dansk-færøske søfarts fleksibilitet - en søfart,
+som også bliver bedre rustet over for udenlandske rederier. Især er den skattemæssige forenkling værd at hæfte sig ved.
+
+1240
+
+Fredag den 18. november 2005 (L 57)";René Skau Björnsson
+137703;Time;"Det er glædeligt, at vi ser på forenklinger og
+fleksibilitet inden for rigsfællesskabet med Færøerne, sådan at en dansk sømand om bord på et
+færøsk skib ikke skal betale dansk skat af lønnen
+og omvendt. Ud over at danske og færøske rederier får mulighed for at reducere lønomkostningerne, giver det også en velfortjent regelforenkling for de sømænd i Danmark og Færøerne, der
+nok har andet at bruge deres dyrebare tid på i
+land end på at granske de ganske komplicerede
+skatteregler.
+Med de bemærkninger går vi positivt ind i
+udvalgsarbejdet. Jeg har lovet at sige, at også
+Enhedslisten stiller sig positivt over for forslaget.";Kl. 12.25
+138364;title_name;":
+Tak til ordføreren. Hr. Mikkel Dencker er næste
+ordfører.";Poul Nødgaard
+138443;name_party;":
+Den korte version af det her lovforslag er, at
+fremover vil danske søfolk, der arbejder om
+bord på færøske skibe, være omfattet af de samme skatteregler, som hvis de havde været på et
+dansk skib, og det tilsvarende gælder for færinger, der arbejder på danske skibe.
+Dansk Folkeparti kan støtte lovforslaget.";Mikkel Dencker
+138786;title_name;":
+Tak til ordføreren. Det går stærkt nu. Fru Charlotte Dyremose som ordfører.";Poul Nødgaard
+138887;name_party;":
+I Det Konservative Folkeparti kan vi også støtte
+dette forslag, der jo giver mulighed for, at de
+særlige skatteregler, der er for personer på skibe,
+nu også kan benyttes på tværs i riget. Vi mener
+faktisk, at det er et ganske naturligt forslag, der
+giver en vis fleksibilitet og mobilitet inden for
+grænserne af det danske rige, så man naturligvis
+som færøsk sømand også kan benytte sig af at
+arbejde på et dansk skib under samme regler,
+som hvis man arbejdede på et færøsk skib og
+omvendt.
+Derfor giver det her altså en mulighed for, at
+mennesker, der nu formentlig holder sig til at arbejde på skibe af henholdsvis dansk og færøsk
+karakter, sådan at de kommer ind under skattereglerne, nu får lidt mere fleksibilitet i de muligheder, de har, når de skal vælge, hvilke skibe de
+vil arbejde på. Det finder vi ganske naturligt og
+ganske udmærket i et rigsfællesskab.";Charlotte Dyremose
+139789;title_name;":
+Vi siger tak til ordføreren. Næste ordfører er hr.
+Poul Erik Christensen.";Poul Nødgaard
+139891;name_party;":
+Formålet med lovforslaget er at gennemføre en
+dansk-færøsk aftale fra august 2005 om beskatning af indkomst for arbejde om bord på skibe i
+internationalt skibsregister som dansk lov. Aftalen vedrører beskatning af løn, som en person,
+der er hjemmehørende i den ene del af riget, oppebærer for arbejde om bord på et skib, der er
+registreret i det internationale skibsregister i den
+anden del af riget.
+Aftalen er en del af en nordisk dobbeltbeskatningsaftale. Danske rederier vil med denne aftale få bedre mulighed for at ansætte søfolk fra
+Færøerne til at arbejde på deres skibe.
+Aftalen har ingen negative administrative
+konsekvenser, ligesom der er ikke er nogen provenumæssig konsekvens. Det er en god aftale
+for rederierne, det er en god aftale for søfolkene,
+og der er modtaget mange positive tilkendegivelser, så jeg vil også deltage positivt i udvalgsarbejdet.";Poul Erik Christensen
+140794;title_name;":
+Tak til ordføreren. Hr. Morten Homann som sidste ordfører.";Poul Nødgaard
+140873;name_party;":
+SF har fra starten været stærkt skeptisk over for
+selve DIS-konstruktionen, men det skal jo ikke
+være til hinder for, at når man, som i det her tilfælde, har lavet en aftale, som er inden for rammerne - faktisk har lavet nogle forenklinger for
+de mennesker, den omfatter, som gør det nemmere at få det til at hænge sammen i dagligdagen - kan vi selvfølgelig også støtte den.
+Det vil vi også gøre i det her tilfælde, og vi
+kan altså stemme for forslaget.";Morten Homann
+141363;title_name;":
+Det glæder mig, at der er en bred opbakning til
+lovforslaget. Det er et godt forslag, som vil være
+med til at gøre beskatningsreglerne nemmere for
+de søfarere, som er beskæftiget med enten dansk
+eller færøsk arbejde, så man undgår dobbeltbeskatning. Det er en aftale, vi har indgået med
+Færøerne, og derfor er det ikke en ændring af
+hele DIS-ordningen eller andet, men blot et
+spørgsmål om, hvordan vi beskatter de søfolk,
+der er bosat i Danmark eller på Færøerne, og
+
+(156)
+Fredag den 18. november 2005 (L 57)
+som er beskæftiget med søfart inden for det her
+område.
+Jeg tror ikke, der er særlig meget mere at tilføje ud over de opbakkende kommentarer, som
+ordførerne har haft, og derfor håber jeg, at vi
+også på det her område kan få hele Folketinget
+til at bakke op om forslaget.";Kristian Jensen
+142157;Time;"Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Kl. 12.30
+142288;title_name;":
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+1241
+
+Meddelelser fra formanden";Poul Nødgaard
+142501;title_name;":
+Der er ikke mere på dagsordenen.
+Folketingets næste møde afholdes tirsdag den
+22. november 2005 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte ugeplan.
+Mødet hævet kl. 12.31";Poul Nødgaard

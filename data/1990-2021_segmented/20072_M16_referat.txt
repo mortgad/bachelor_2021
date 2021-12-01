@@ -1,0 +1,2789 @@
+split;reason;text;value
+0;;"Fredag den 11. januar 2008 (D)
+
+16. m ø d e";
+80;Time;"701
+
+7) 1. behandling af lovforslag nr. L 39:
+Forslag til lov om ændring af retsplejeloven.
+(Forsøgsordning med lydoptagelse af forklaringer i straffesager).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+
+Dagsorden
+1) Spørgsmål om fremme af forespørgsel nr.
+F 8:
+Forespørgsel til statsministeren [om Grønland].
+Af Søren Espersen (DF) m.fl.
+(Anmeldelse 08.01.2008).
+2) 1. behandling af lovforslag nr. L 34:
+Forslag til retsplejelov for Grønland.
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+3) 1. behandling af lovforslag nr. L 35:
+Forslag til kriminallov for Grønland.
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+4) 1. behandling af lovforslag nr. L 36:
+Forslag til lov om ophævelse af retsplejelov
+og kriminallov for Grønland og om ændring af
+forskellige lovbestemmelser i forbindelse med
+ikrafttræden af ny retsplejelov og kriminallov
+for Grønland. (Ændringer som følge af ny retsplejelov og kriminallov for Grønland m.v.).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+5) 1. behandling af lovforslag nr. L 37:
+Forslag til lov om ændring af kriminalloven og
+retsplejeloven for Grønland. (Fuldbyrdelse af
+anstaltsdomme i den øvrige del af riget og beskikkelse af pantefogeder).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+6) 1. behandling af lovforslag nr. L 38:
+Forslag til lov om sikkerhed ved bestemte
+idrætsbegivenheder.
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).";kl. 10.00
+1583;Time;Meddelelser fra formanden;Kl. 10:00
+1621;title_name;"Mødet er åbnet.
+Medlemmer af Folketinget Peter Skaarup (DF)
+m.fl. har meddelt mig, at de ønsker at stille følgende forespørgsel til justitsministeren:
+»Vil ministeren redegøre for voldskriminaliteten
+i det danske samfund?«
+(Forespørgsel nr. F 9).
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål om fremme af forespørgsel nr.
+F 8:
+Forespørgsel til statsministeren [om Grønland].
+Af Søren Espersen (DF) m.fl.
+(Anmeldelse 08.01.2008).";Formanden
+2064;Time;;Kl. 10:01
+2076;title_name;"Hvis ingen gør indsigelse mod fremme af denne
+forespørgsel, betragter jeg Tingets samtykke
+som givet.
+Det er givet.
+
+702
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+Det næste punkt på dagsordenen er:
+2) 1. behandling af lovforslag nr. L 34:
+Forslag til retsplejelov for Grønland.
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+Sammen med dette punkt foretages:
+3) 1. behandling af lovforslag nr. L 35:
+Forslag til kriminallov for Grønland.
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).
+4) 1. behandling af lovforslag nr. L 36:
+Forslag til lov om ophævelse af retsplejelov
+og kriminallov for Grønland og om ændring af
+forskellige lovbestemmelser i forbindelse med
+ikrafttræden af ny retsplejelov og kriminallov
+for Grønland. (Ændringer som følge af ny retsplejelov og kriminallov for Grønland m.v.).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).";Formanden
+2985;Time;Forhandling;Kl. 10:01
+3009;title_name;"Jeg skal gøre opmærksom på, at der til denne
+samlede behandling er dobbelt taletid til ordførerne.
+Forhandlingen er åbnet, og første ordfører er
+hr. Kim Andersen.";Formanden
+3181;Time;(Ordfører);Kl. 10:02
+3209;name_party;":
+De lovforslag, som vi her har til behandling fra
+justitsministeren, indeholder jo en meget, meget
+stor reform af det grønlandske retsvæsen - den
+største reform af det grønlandske retsvæsen i
+mere end 50 år. Lovforslagene og dermed reformen bygger på en betænkning fra Den Grønlandske Retsvæsenskommission - en kommission, som har arbejdet i mange år. Den blev nedsat i 1994 af Justitsministeriet efter aftale med
+hjemmestyret i Grønland.
+Reformen af det grønlandske retsvæsen tager
+udgangspunkt i at lave en nyordning, en modernisering, ajourføre mest muligt i forhold til gældende dansk ret på området og internationale
+aftaler. Samtidig er det en reform, som afspejler
+det grønlandske samfunds egenart, og som tager højde for de særlige historiske, kulturelle og
+geografiske forhold, som gælder i Grønland.
+Det er samtidig en reform, som bidrager til at
+overføre stadig flere sagsområder til det grøn-
+
+landske hjemmestyre, sådan som grønlænderne
+ønsker det, og sådan som vi ønsker det og bakker det op.
+Det er et meget komplekst sagsområde, vi har
+med at gøre her. Det er utrolig mange ting, der
+bliver reguleret på. Det kan for mig som ny retsordfører være vanskeligt fuldt ud at overskue,
+om hvert enkelt element i en så omfattende reform fra dag et vil falde ud, som det er tænkt og
+til alles tilfredshed. Men vi må tage som udgangspunkt, at der har været arbejdet grundigt
+og seriøst med tingene i alle disse år, og at der
+nu foreligger et resultat, der er enighed om fra
+hjemmestyrets og fra den danske regerings side
+og - så vidt jeg har forstået - også i et bredt politisk spektrum.
+Man må også tage udgangspunkt i, at reformen som nævnt stadig væk indeholder stor hensyntagen til særlige grønlandske forhold, og det
+tror jeg er vigtigt at skrive sig bag øret. Det er en
+forudsætning for, at det her bliver lykkeligt for
+alle parter.
+Lovforslaget baserer sig på, at der fortsat vil
+være 18 retskredse, og at vi stadig væk vil have
+kredsdommere i Grønland. De 18 retskredse kan
+måske umiddelbart synes at være mange i forhold til antallet af sager. Der lægges derfor også
+i lovforslaget op til, at det antal kan blive mindre, afhængigt af hvordan de igangværende forhandlinger om kommunestrukturen i Grønland
+falder ud. Der åbnes op for, at man med et lovforslag siden hen kan reducere antallet af retskredse.
+Men den problemstilling, jeg skitserer her, tages der i og for sig allerede højde for i det nuværende forslag, i og med at man kan lave såkaldte
+kontorfællesskaber: det vil sige, at man ad frivillighedens vej kan centralisere personalet og opgaverne. Det vil nok også være nyttigt for at få
+en hensigtsmæssig ressourceudnyttelse og for at
+sikre et fagligt niveau for medarbejderne.
+En del af forslaget her indebærer også, at der
+oprettes et Råd for Grønlands Retsvæsen. Jeg
+har forstået, at Råd for Grønlands Retsvæsen
+som noget af det allerførste vil blive anmodet
+om at tage spørgsmålet om den fremtidige
+struktur op i relation til kommunestrukturen.
+Det vil fortsat være sådan, at kredsdommerne
+ikke er jurister, men der etableres en uddannelse
+for kredsdommerne. Der etableres med forslaget
+her et dommerråd, som skal medvirke ved ansættelse og afskedigelse af kredsdommere. Vi får
+en ny juridisk domstol, Retten i Grønland, som
+skal behandle juridisk komplicerede sager i før-
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+ste instans. Grønlands Landsret vil fremover alene behandle appelsager, og Østre Landsret her
+vil ikke længere indgå som retsinstans i det
+grønlandske retsvæsen. Højesteret vil dog fortsat være den øverste domstol også for grønlandske sager.
+Man vil lægge vægt på, at det grønlandske
+sprog bruges hyppigere, og at den sigtede eller
+tiltalte kender det sprog, vedkommende bliver
+tiltalt på, og derfor vil flere dokumenter skulle
+oversættes til grønlandsk.";Kim Andersen
+7018;Time;"Reformen indeholder en lang, lang række
+andre ting. Bl.a. lægges der op til, at der oprettes en såkaldt hotline, hvor en advokat som forsvarer kan få vejledning i konkrete sager. Der
+lægges op til, at justitsministeren kan udpege en
+offentlig eller privat landsforsvarer. Der lægges
+op til, at retten i alvorlige sager kan beskikke en
+advokat som udenretlig rådgiver for den ikkejuridisk uddannede forsvarer. Samtidig lægges
+der op til, at reglerne ændres og lettes, sådan at
+grønlandske advokater lettere får mulighed for
+at opnå møderet i danske landsretter.
+Der sker endvidere i lovforslaget her en udbygning af eksisterende regler om tvangsindgreb og indgreb i meddelelseshemmeligheden,
+sådan at de kommer i overensstemmelse med
+den danske retsplejelovs regler. Der bliver mulighed for at beskikke en bisidder for den forurettede i visse kriminalsager. Der etableres et
+net af såkaldte offervagter i større byer, og det
+skal koordineres med hjemmestyrets socialdirektorat. Der etableres en forsøgsordning med
+konfliktmægling.
+Hvad angår de civile sager, laver man en retshjælpsordning efter dansk forbillede. Der indføres regler om fri proces, og man vil gøre øget
+brug af ny teknologi med videokonferencer.
+Kredsretterne overtager fra politiet såkaldt
+tvangsfuldbyrdelse i civile sager, altså opgaver
+som f.eks. fogedret, og det sker gennem en modernisering af reglerne herom. Og så indføres
+der en retsafgift.
+Også på kriminallovsområdet sker der en
+række ændringer. Der er tale om en generel revision af kriminallovens almindelige bestemmelser. Der vil kunne ske forsøg om juridiske personers ansvar. Der vil være en generel revision af
+bestemmelserne for de enkelte forbrydelsestyper, med henblik på at internationale forpligtelser, som Danmark har indgået, og som hidtil ikke har været gældende for Grønland, nu fremover vil blive det.
+
+703
+
+Endelig vil der ske en såkaldt nyordning af
+det særlige grønlandske foranstaltningssystem,
+hvor der bl.a. ikke er fastsat strafferammer for
+de enkelte forbrydelser.
+Et andet væsentligt element i reformpakken
+er inden for kriminalforsorgen. Der vil blive
+opført ti nye pladser i en lukket disciplinærafdeling i Nuuk i tilknytning til den nye forvaringsafdeling ved Anstalten i Nuuk. Der vil
+blive lavet en lukket forvaringsafdeling med
+20 pladser i forbindelse med Anstalten i Nuuk,
+og der vil blive etableret 10 afsoningssteder,
+5 åbne og 5 halvlukkede, i Tasiilaq i Østgrønland.
+Det betyder altså, at nogle af dem, der har
+fået domme, som man hidtil har skullet afsone i
+Herstedvester her i landet, fremover vil kunne
+afsone i Grønland. Det har man ønsket fra Grønlands side, og det er vel et menneskeligt hensyn,
+også for de dømte, at man kan afsone i sit hjemland. Det er tilfredsstillende.
+Det er også tilfredsstillende, at der oprettes et
+Råd for Grønlands Retsvæsen samt et kriminalpræventivt råd i Grønland. Vi synes i det hele taget, at det her meget omfattende lovkompleks,
+der er gennemarbejdet og som nævnt møder tilslutning både i Grønland og her, ser fornuftigt
+ud. Vi tilsiger det al mulig velvillig støtte i den
+videre udvalgsbehandling.
+Det er omfattende, det er komplekst, det er en
+stor opgave, der her overgår til Grønland. Vi vil
+følge det med interesse og støtte processen, så
+det bliver tilfredsstillende for allé parter.";Kl. 10:08
+10323;Time;;Kl. 10:13
+10335;title_name;"Tak til ordføreren.
+Jeg vil lige gøre opmærksom på, at punkt 5 på
+dagsordenen, første behandling af lovforslag nr.
+L 37, jo behandles særskilt, men jeg forstår godt,
+at det er svært at holde det adskilt. Hvis ordførerne kommer til at drage det med ind, gør det
+jo bare, at behandlingen af næste lovforslag måske efterfølgende går så meget hurtigere. Det må
+så være sådan, at hvis man føler det naturligt,
+kan man tage det med - og det var jo også det,
+hr. Kim Andersen her gjorde.
+Næste ordfører er fru Karen Hækkerup.";Formanden
+10863;Time;(Ordfører);Kl. 10:13
+10893;name_party;":
+Det er jo på en måde en festdag, nu hvor vi har
+fået lavet den her nye reformlov for det grønlandske retsvæsen færdig. Processen har været i
+gang i utrolig lang tid, og jeg har forgængere på
+
+704
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+min post som retspolitisk ordfører for Socialdemokraterne, der har arbejdet med det her i mange år, og som jeg ved har lagt hjerteblod i at få
+lavet en reformpakke, som blev god. Det er jo
+heldigvis det, vi kan konstatere, når vi kigger på
+det, der ligger i dag: Resultatet, som vi skal vedtage, er rigtig godt.
+Siden arbejdet blev sat i gang tilbage i 1994, er
+der gået 14 år. 10 år tog det kommissionen, som
+skulle forfatte reformen, at blive færdig, og derefter er de senere år gået med at få resultatet behandlet i det grønlandske hjemmestyre samt i
+det grønlandske lovudvalg. Nu, 14 år efter, står
+vi så her med det endelige, samlede arbejde, og
+det er virkelig grundigt gennemarbejdet.
+Processen med at få kommissionens konklusioner behandlet i Grønland har været god, og
+de ændringer, der er blevet foreslået af hjemmestyret, er blevet skrevet ind i den nye lovtekst.
+Grønland er en storslået del af det danske rige, men både i retspolitisk henseende og i så
+mange andre henseender et anderledes og ganske særligt sted, som kræver ekstraordinær hensyntagen til behovet for egne regler, og de afviger nogle gange en smule fra dem, vi benytter os
+af her i det øvrige kongerige. Men med reformen
+nærmer systemet i Grønland sig på visse stræk
+nu det, vi andre, der bor knapt så nordligt, bedre
+kender.
+Det vigtige i dag, ud over at glæde sig over
+resultatet af arbejdet, er at minde hinanden om,
+at det, som vi behandler nu - reformen - vil føre
+til en rigtig modernisering af det grønlandske
+retssystem, og dernæst at selve processen med
+at finde de rigtige punkter og formuleringer har
+fungeret så godt, som den har.
+Processen har jo allerede, som det har været
+nævnt flere gange, været lang, men til gengæld
+er resultatet blevet godt. Og det er jo ikke nødvendigvis sådan, at det altid hænger sådan sammen, men det gør det heldigvis i denne sag.
+Det grønlandske retsvæsen er anderledes
+end det danske, og det er nødvendigt, at det
+er sådan, fordi der er så stor forskel på de to
+samfund. For Socialdemokraterne har det været
+vigtigt, at de regler, vi nu er med til at indføre
+i Grønland, er holdbare, og at de er ønskede i
+Grønland. Derfor er det jo en sand fornøjelse, at
+det, som vi i dag behandler, er noget, man ønsker sig fra grønlandsk side.
+Lovforslagene, som vi nu behandler, omfatter
+både en total ophævelse af den gældende lov
+om rettens pleje i Grønland samt den gældende
+
+kriminallov, som erstattes af en ny retsplejelov
+og en ny kriminallov. Og her er der flere ting,
+som jeg synes bør nævnes. Det drejer sig både
+om de nyskabelser i loven, der lægges op til, og
+de anderledes former for sanktioner, som herefter vil gælde i Grønland. Her tænker jeg både på
+den nye form for organisering, som der lægges
+op til, samt de for grønlandske forhold nye former for foranstaltninger på den grønlandske
+sanktionsstige, som jo er anderledes end det system, vi kender fra Danmark.
+Af ting, jeg vil nævne, og som vi er rigtig glade for er med, er både forslaget om, at kredsdommerne i Grønland, som i parentes bemærket
+er lægmænd og dem, der behandler sagerne ved
+kredsretterne sammen med to domsmænd, nu
+skal ansættes på fuld tid og uddannes. Vi er også
+glade for, at de komplicerede sager fremover
+skal behandles i et andet og nyt regi, nemlig at
+der herefter oprettes en førsteinstansdomstol
+ved retten i Grønland, hvor det er en jurist, der
+er dommer, og ikke en lægmand.
+Noget andet, vi ønsker at fremhæve, er, at
+konfliktmægling bliver en del af grønlandsk lov,
+og at der oprettes et dommerråd, samt at det besluttes, at det grønlandske sprog skal styrkes.
+Det vil sige, at mere bliver oversat til grønlandsk, herunder også de bestemmelser i den
+danske retsplejelov, som regulerer forskellige
+forhold i Grønland, og som i dag ikke er oversat.
+Det synes vi bestemt er på tide de bliver.
+Vi synes også, det er utrolig godt, at der etableres en ny juridisk domstol, som skal varetage
+de svære sager, så det bliver nemmere for grønlandske advokater at give møde i danske landsretter og i Højesteret, og at der oprettes nye råd.
+Der oprettes både et råd, der skal fremme det
+kriminalpræventive arbejde, og et, som skal sørge for, at den modernisering og tilpasning af loven, som allerede er så godt i gang, fortsætter.
+Der er også forslaget om at etablere en landsdækkende retshjælpsordning, samt at samfundstjeneste nu er blevet et element på sanktionsstigen, og det synes vi rigtig, rigtig godt
+om.
+Jeg tror, jeg vil tage det næste, når vi når til
+lovforslag nr. L 37, så der er lidt at sige der, for
+ellers kan vi jo komme alt for hurtigt hjem.";Karen Hækkerup
+15700;Time;;Kl. 10:18
+15712;title_name;"Tak til ordføreren. Næste ordfører er fru Marlene Harpsøe.
+
+(89)
+Fredag den 11. januar 2008 (L 34 m.fl.)";Formanden
+15827;Time;(Ordfører);Kl. 10:18
+15859;name_party;":
+Tak for det. Dansk Folkeparti har gennemgået
+lovforslagene fra justitsministeren vedrørende
+en ny retsplejelov, kriminallov og nogle ændringer af de pågældende love for Grønland. Og i
+lovforslag nr. L 34 hæfter vi os ved flere ting. De
+18 retskredse bibeholdes, og det støtter vi. De
+geografiske forhold i Grønland gør det jo svært
+at lave færre og større retskredse. Kredsdommerne placeres nu med lovforslaget på nogle
+større og mere faste kontorsteder, hvilket vi anser for positivt på grund af den mangel på personale, der hersker.
+Den svære situation med mangel på kvalificeret arbejdskraft i Grønland gør det desværre stadig nødvendigt ikke at benytte rigtige jurister
+som kredsdommere. Vi mener, det er vigtigt, at
+vi i så høj grad som muligt gør disse kredsdommere så fagligt kvalificerede som overhovedet
+muligt ved uddannelse samt løbende videreuddannelse. Derfor støtter vi, at der etableres en
+egentlig uddannelse af kredsdommerne.
+Selve uddannelsen af domsmændene og retssekretærerne styrkes for at sikre et højt fagligt
+niveau, hvilket vi finder positivt. Desuden er det
+godt, at den juridiske vejledning i forhold til
+kredsretterne bliver forstærket.
+I forhold til kriminalloven for Grønland er
+der flere gode tiltag i lovforslaget. Den tidligere
+var mangelfuld på flere områder, og derfor synes vi, det er positivt, at der er kommet nogle
+nye tiltag: jeg kan bl.a. nævne paragrafferne om
+menneskehandel, ulovlig tvang mod vidner,
+seksualforbrydelser, terrorisme m.v.
+Vi blev for nogle måneder siden bekendt med
+den dyremishandling, som desværre finder sted
+over for slædehunde på Grønland, og derfor anser vi det også for positivt, at man med lovforslaget vedrørende kriminalloven for Grønland
+husker paragraffen for dyremishandling, sådan
+at personer, der misrøgter dyr, selvfølgelig kan
+blive straffet for det.
+På Østgrønland mangler der en anstalt, som
+man nu vil bygge med det her lovforslag. Det er
+godt, at der nu også bliver mulighed for at afsone sin straf i denne del af Grønland. Det er desuden positivt, at der nu lægges op til en åbning
+af en lukket anstalt, hvor de hårdeste kriminelle,
+der tidligere blev sendt til Herstedvester i Danmark, nu kan afsone straffen i Grønland og ikke
+sendes den lange vej til Danmark.
+
+705
+
+Grønland har tradition for et resocialiseringssystem, der lukker de kriminelle ud i samfundet
+i takt med deres afsoning: f.eks. ved at en seksualforbryder arbejder hos den lokale købmand.
+Det glæder os, at man nu vil have mulighed for
+at placere disse sædelighedsforbrydere i halvlukkede anstalter, hvor de ikke bliver lukket ud i
+lokalsamfundet. Det er vigtigt for retssikkerheden, at offeret ikke kan møde gerningsmanden i
+byen kort tid efter forbrydelsen. Derfor hilser vi
+selvfølgelig den her ændring velkommen.
+Problemerne med pædofili og seksuelle overgreb på børn i Grønland er velkendte. Tallene
+taler for sig selv: 12005 var der 66 sædelighedsforbrydelser pr. 10.000 indbyggere i Grønland,
+hvorimod der kun var 5 overtrædelser i Danmark pr. 10.000 indbyggere. Med lovforslaget
+stadfæster vi, at disse overgreb er helt uacceptable.
+Når man vil indføre en ny retsplejelov og kriminallov for Grønland, er det jo helt naturligt, at
+de tidligere bliver ophævet, og vi kan derfor i
+Dansk Folkeparti støtte, at de love bliver ophævet. Den danske retsplejelov ændres, så Grønlands Landsret indsættes som kollegial ret til de
+danske landsretter. Den ændring anser vi som
+positiv. Af hensyn til den enkelte advokat er det
+godt, at Grønlands Landsret sidestilles, for så er
+det nemmere for advokaten via prøven på procedure at opnå møderet for landsretten i ankesager. Forslaget gør det også nemmere for danske
+advokater at opnå møderet for Grønlands
+Landsret. Overordnet kan vi i Dansk Folkeparti
+godt støtte lovforslaget, der skal gøre Grønlands
+retssystem moderne og tidssvarende.";Marlene Harpsøe
+19703;Time;;Kl. 10:22
+19715;title_name;"Tak til ordføreren. Så er det fru Anne Baastrup
+som ordfører.";Formanden
+19786;Time;(Ordfører);Kl. 10:22
+19816;name_party;":
+Det er et stort øjeblik, vi står over for nu, hvor vi
+kan få afsluttet det arbejde, der blev startet i det
+sidste årtusind. Det har været et meget stort arbejde, som Den Grønlandske Retsvæsenskommission har lavet, og vi havde jo et håb i SF om,
+at vi kunne få lovforslaget på et tidligere tidspunkt. Det, vi jo ved, er, at lovforslaget og arbejdet i Den Grønlandske Retsvæsenskommission
+reelt har været færdigt i rigtig mange år, men på
+grund af skriveproblemer og på grund af oversættelsesproblemer har det taget, jeg ved ikke
+
+706
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+hvor mange år, før vi nu kan have den her festdag.
+SF støtter naturligvis de forskellige nye initiativer, som Retsvæsenskommissionen er kommet
+med, og vi er enige i de ændringer, som er en
+følge af Landsstyrets og Lovudvalgets arbejde.
+Det, der har været det helt centrale for os, når
+vi har været på besøg i Grønland, har været,
+hvordan man kunne sikre, at kredsdommerne
+rent faktisk havde et ordentligt fagligt niveau.
+Det er en rigtig, rigtig god idé, at man nu etablerer et grundlæggende uddannelsessystem, men
+det, vi så skal huske, er, at det uddannelsessystem i virkeligheden har været tænkt ind hos
+kredsdommerne gennem mange år, men vi har
+alt for tit hørt, at der ikke var penge til det. Da vi
+var i Tasiilaq i Østgrønland, fik vi at vide af
+kredsdommeren der, at hun rent faktisk havde
+søgt om at få uddannelse, men at der ingen penge var. Hun var deltidsansat, hun havde ikke
+nogen sekretær, og hun havde søgt om at få
+overført sekretærpengene, således at hun kunne
+arbejde noget længere tid, men det var der ikke
+penge til.
+Derfor skal vi huske, at de hensigtserklæringer, der i virkeligheden ligger i det her lovforslag, også skal udmøntes, således at vi ikke, når
+vi næste gang kommer til Grønland, hører, at
+hensigten om, at de skal have uddannelse, alligevel ikke rigtig blev ført ud i livet.
+Det andet problem, som vi også har oplevet,
+både da vi var i Tasiilaq og i Nuuk, er oversættelserne. Derfor er det naturligvis godt, at man
+lægger op til, at det er det grønlandske sprog,
+der på sigt skal være udgangspunktet i disse sager. Men det er et kæmpe projekt, man nu skal i
+gang med, og det kræver jo også uddannelse af
+de mennesker, som skal kunne oversætte, og det
+kræver en udvikling af det grønlandske sprog,
+således at man rent faktisk hele tiden kan forny
+den juridiske sprogbrug.
+Vi lægger også meget vægt på hensigtserklæringen om, at forsvarerne skal have uddannelse.
+I den bedste af alle verdener er der ingen tvivl
+om, at det ville være godt, hvis vi fik jurister.
+Men vi må også erkende med de særlige forhold, der er i Grønland, at dette ikke kan lade
+sig gøre, om end vi naturligvis støtter Advokatrådets ønske herom.
+Vi kan også se, at Advokatrådet har problemer vedrørende indførelsen af retsafgifter. Der
+skal vi naturligvis følge det her meget nøje, således at indførelsen af retsafgifter ikke kommer
+til at give en retsusikkerhed, fordi det jo ikke er
+
+sædvane i det grønlandske samfund, at man anvender retsafgifter, og derfor skal vi naturligvis
+være opmærksomme på, at det ikke kommer til
+at betyde, at folk ikke har den retssikkerhed,
+som man ellers måtte forvente.
+Vedrørende selve kriminalloven er det jo rigtig, rigtig godt, at spørgsmålet om en trappestige nu tages op, der betyder, at man får flere forskellige typer af muligheder for at sanktionere.
+Dermed er det også en perfekt udvikling, hvis vi
+kan se frem til mere konfliktmægling.
+Når alt det her er sagt, ved vi jo godt, at den
+interesse, der er i Danmark for hele det her lovkompleks, er den viden, vi har om de mennesker, der sidder i Herstedvester. Det er mennesker, der ikke har haft mulighed for at afsone i
+Grønland, fordi forholdene ikke har været til
+det. Det er mennesker, som dagligt ikke får mulighed for at bruge deres sprog eller får mulighed for at spise den mad, de er vant til. De udsættes for en dobbeltstraf. Vi ved også, at de har
+et stort ønske om at komme på besøg i hjemlandet. Det har de ikke mulighed for. Det er ikke
+nogle ordentlige betingelser, vi har givet disse
+mennesker, og alt for ofte får jeg henvendelser
+fra dem. Man må kunne forvente, at de med den
+resocialisering, der er sket under forvaringen,
+vil være i stand til at vende hjem. Ikke desto
+mindre har det ikke været tilfældet.
+Derfor tror jeg, at vi skal lægge pres på skiftende finansministre, så vi kan være helt sikre
+på, at vi rent faktisk får bygget den lukkede forvaringsanstalt i Nuuk. Ud over oversættelser og
+ud over at få det hele skrevet igennem har det
+altså også været den udgift, der er for det danske samfund i forbindelse med at få bygget den
+lukkede anstalt i Nuuk, der har været et af hovedproblemerne .";Anne Baastrup
+24520;Time;"Vi kan ikke andet end at presse på løbende.
+Det er vi nødt til. Vi hørte jo også, da vi havde
+besøg af Lovudvalget, at de også selv lagde megen vægt på, at de fik disse mennesker fra Herstedvester hjem til afsoning.
+Da vi var i Østgrønland, var det også helt tydeligt, at der var et behov for at få bygget anstaltspladser. Det er meget svært at skulle afsone
+i Nuuk, når man i øvrigt bor i Østgrønland, i Tasiilaq, og derfor hilser vi også velkommen, at
+man nu også får mulighed for at afsone der.
+Samlet set vil jeg ikke gentage de mange roser, som i øvrigt er kommet fra de andre ordførere. Dette er et velgennemtænkt, godt lovforslag.
+Der er naturligvis altid nogle ting, hvor man
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+kunne have valgt noget andet, men samlet set
+har det SF's støtte, og vi håber, at vi snart kan
+blive færdige med det.";Kl. 10:27
+25374;Time;;Kl. 10:29
+25386;title_name;"Tak til fru Anne Baastrup. Næste ordfører er hr.
+Tom Behnke.";Formanden
+25456;Time;(Ordfører);Kl. 10:29
+25483;name_party;":
+For første gang i mere end 50 år kommer der nu
+en omfattende samlet reform af det grønlandske
+retsvæsen. Det har jo længe været et ønske, og
+tilbage i 1994 lykkedes det at få nedsat en kommission med ligelig repræsentation fra Grønland og Danmark. Kommissionen brugte herefter 10 år, og i 2004 kom så den længe ventede betænkning. Efter en lang og grundig høringsfase
+blev lovforslagene klar til fremsættelse, og det
+betyder så, at lovforslagene er grundigt gennemarbejdede og i øvrigt i fuld overensstemmelse med de grønlandske ønsker.
+Med de her lovforslag gennemføres en tiltrængt modernisering af de grønlandske retsforhold, hvor man i respekt for netop de særlige
+forhold i Grønland har taget det bedste fra de
+gamle regler og det bedste fra de danske regler
+og samlet formået at få et moderne regelsæt: et
+regelsæt med en fortsat respekt for de særlige
+grønlandske forhold. For Grønland har jo nogle
+særlige forhold. I Grønland bor der stort set det
+samme antal mennesker, som der f.eks. gør i
+Hvidovre, men vel at mærke på et areal, der er
+100.000 gange større end Hvidovre. De meget
+store afstandé og de små lokalsamfund giver
+nogle særlige udfordringer for et retsvæsen.
+Det Konservative Folkeparti støtter lovforslagene og lægger i den forbindelse afgørende
+vægt på, at Grønland har været med i hele processen og er enig i lovforslagene.
+Kredsdommerne behøver fortsat ikke at være
+jurister, men det skal nu tilstræbes, at de ansættes på fuldtid, og der etableres samtidig en
+egentlig uddannelse, hvilket vil styrke kredsdommerne. Desuden foreslås det, at de 18 kredsdommere kan placeres på større og faste kontorsteder, så to eller flere kredsdommere kan sidde
+sammen og dermed opnå en større fleksibilitet
+og samtidig en bredere faglighed. Der sker altså
+en styrkelse af kredsdommerne og dermed en
+styrkelse af retssikkerheden.
+Retssikkerheden styrkes også ved, at en række væsentlige retlige dokumenter skal oversættes til et sprog, som den pågældende forstår, og
+
+707
+
+at der i øvrigt i øget omfang sker oversættelse af
+retlige dokumenter til grønlandsk. Desuden
+lægges der op til en telefonrådgivning med en
+advokat, som autoriserede forsvarere kan benytte for at få vejledning i en konkret sag, hvilket
+også er med til at styrke retssikkerheden.
+Retssystemet med domstolene bygges op på
+en måde, der ligner det nye danske system en
+hel del. Kredsretterne vil således være første instans i langt de fleste sager, men i de mere komplicerede juridiske sagér vil første instans være
+den nyoprettede Retten i Grønland. Det betyder
+samtidig, at Grønlands Landsret fremover alene
+skal behandle appelsager.
+Med forslagene gives der nogle flere forskellige sanktionsformer. Det bliver nemmere på den
+måde at finde og idømme den sanktion, som er
+bedst egnet i den konkrete sag til den konkrete
+person. Der indføres således nye foranstaltninger i form af advarsel, betinget dom med fastsat
+foranstaltningstid, dom til samfundstjeneste og
+dom til anstalt og tilsyn.
+Hvad angår anstalterne, skal der bygges en
+del nyt, idet der nu indføres såkaldte halvlukkede afsnit, hvor der i anstalten kan ske beskæftigelse i arbejdstiden og i fritiden med henblik
+på anbringelse af dømte, som har begået alvorlig personfarlig kriminalitet, og som derfor i en
+periode ikke må forlade anstalten. Der oprettes
+desuden en anstalt med ti pladser i Østgrønland, der oprettes i Nuuk en lukket disciplinærafdeling med ti pladser, således at de, der ikke
+kan opføre sig ordentligt, kan overføres dertil,
+og der oprettes en lukket forvaringsafdeling
+med 20 pladser ligeledes i Nuuk. Den lukkede
+forvaringsafdeling vil betyde, at de farlige kriminelle, som i dag sidder i Anstalten ved Herstedvester fremover kan afsone i Grønland. Det
+har jo været et udtalt grønlandsk ønske, at også
+disse farlige kriminelle kunne afsone i Grønland, og det kan altså lade sig gøre fremover.
+Det vil i dag ikke være muligt at komme ind
+på alle detaljerne i de meget omfattende lovforslag, men det samlede resultat er en styrkelse af
+det grønlandske retsvæsen, som fremover stort
+set vil kunne klare alle opgaver selv. Der bliver
+en langt bredere vifte af sanktionsmuligheder,
+og der sker en styrkelse af anklagerne, af kredsdommerne og af forsvarerne. Der sker en bygningsmæssig tilpasning, så alle grønlandske
+dømte i videst muligt omfang kan afsone i
+Grønland. Retssikkerheden styrkes, og der indføres flere nye ordninger i form af beskikkede
+bisiddere, et landsdækkende net af offervagter,
+
+708
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+mulighed for konfliktmægling, en landsdækkende retshjælpsordning, regler om fri proces og
+meget, meget mere.
+Afslutningsvis vil jeg lige nævne anvendelsen
+af videokonferenceudstyr, som efter min opfattelse er en genial ting, når afstandene er store, og
+som også burde bruges meget mere i Danmark.
+Med videokonferenceudstyr slipper rigtig mange for at skulle bevæge sig ofte meget langt for
+at deltage i retsmøder, og mange retsmøder kan
+nemt afvikles som videokonferencer. Så lad os
+se, om vi ikke bliver lige så heldige i Danmark,
+som de nu bliver i Grønland.
+Til sidst vil jeg sige, at jeg jo ikke ved, om det
+er mig, der skal gøre det, men ved gennemgangen af disse meget omfattende lovforslag og
+hele processen, som jeg har været med i, føler
+jeg et behov for at sige tak til de mange, som har
+knoklet med det her i rigtig mange år for at få
+disse forslag til at blive en realitet. Tak for det.";Tom Behnke
+30897;Time;;Kl.10:35
+30909;title_name;"Tak til hr. Tom Behnke. Og så er det hr. Simon
+Emil Ammitzbøll.";Formanden
+30982;Time;(Ordfører);Kl. 10:35
+31020;name_party;":
+Med de her tre lovforslag får vi en stor og vigtig
+revision af den grønlandske retspleje og den
+grønlandske kriminallov. Der er ikke bare tale
+om en revision, i virkeligheden er der jo tale om
+en helt ny lovgivning: der er tale om en kæmpe
+reform - den største i 50 år.
+Fra radikal side er vi jo - fuldstændig på linje
+med de øvrige partier - meget glade for de forandringer, der sker med de her lovforslag. Jeg
+vil kun nævne nogle stykker af de bedste eksempler, for der har jo allerede været en ret grundig
+gennemgang fra mange ordføreres side. Men
+nogle af de ting, som vi lægger vægt på, er for
+det første bl.a., at der i forhold til de her kredsretter sikres en større grad af formaliseret uddannelse af dommerne, og at man sikrer, at de
+kommer på fuld tid.
+Folketingets Retsudvalg var for noget tid siden et par gange oppe i Grønland og prøvede at
+have nogle møder med kredsretterne for at se,
+hvordan det fungerer osv. Og jeg tror i hvert
+fald, at det her vil have en utrolig gavnlig effekt
+på den måde, som det virker på.
+For det andet oprettes der nu en juridisk
+domstol i første instans, Retten i Grønland, der
+skal stå for de særlig komplicerede sager, sådan
+at de kan blive behandlet af juridisk personale,
+
+og sådan at man kan skelne de almindelige sager fra dem, som har en større kompleksitet. Det
+er der heller ingen tvivl om vil sikre retssikkerheden i Grønland.
+Et tredje eksempel, jeg gerne vil nævne, er, at
+der nu bliver mulighed for også at iværksætte
+en forsøgsordning med konfliktmægling. Det er
+noget, Det Radikale Venstre længe har presset
+på for at få i Danmark, hvor vi jo også stadig
+kun er på forsøgsordningsniveauet. Men vi er
+glade for, at man også får mulighed for det i
+Grønland, og jeg synes da, det gerne må blive
+permanent både i Danmark og i Grønland, når
+den tid kommer.
+En fjerde ting, som er med til at styrke retssikkerheden, er, at langt mere vil forefindes på
+grønlandsk i fremtiden. Man kan sige, at det
+burde det sikkert have gjort for rigtig mange år
+siden, da det vel kun er naturligt, at man har
+mulighed for at få indblik i de sager, der behandles, på ens eget sprog.
+For det femte vil jeg nævne hele området vedrørende anstalterne. For os er det vigtigt og
+egentlig meget prisværdigt, at man fastholder
+systemet med de åbne afdelinger, som man benytter sig meget af i Grønland. Men vi er også
+glade for, at der bliver mulighed for både at
+have et halvlukket regi, og at der også skabes et
+alternativ til placeringen af de allerværste, som
+man hidtil har placeret i Anstalten ved Herstedvester.
+Vi synes - og det er der vel bred enighed om at det har været et stort problem, at man har placeret folk mange tusind kilometer væk fra deres
+hjem og deres land. Det er ikke en ting, som vi
+kan være særlig stolte af her i Danmark hidtil at
+have gjort, så jeg synes, det er et virkelig stort
+fremskridt, at der nu bliver en lukket forvaringsafdeling i Nuuk.
+Som det sjette vil jeg nævne sådan en mindre
+ting, men det er bare for at få alle de tre lovforslag med, som der nu engang behandles her. I
+forhold til lovforslag nr. L 36 er vi glade for, at
+der nu bliver en forbedring af grønlandske advokaters mulighed for at opnå møderet i de danske landsretter og for Højesteret. Det er såmænd
+ikke, fordi det er nær så højt prioriteret som de
+andre fem punkter, jeg har nævnt, men det er
+mere for at få sammenhængen imellem, at vi behandler alle tre lovforslag.
+Når man ser overordnet på det, er der jo ingen tvivl om, at den her reform sørger for, at
+retssikkerheden styrkes, og at menneskerettighederne i langt større grad fremtræder tydeligt,
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+og det er ting, som ligger os i Det Radikale Venstre stærkt på sinde.
+Det har været en meget, meget lang proces
+for at komme frem til det her. Jeg har selv været
+med i de seneste 3 år af den her proces, som har
+varet nærmest uendeligt, kunne man jo mene.
+Nogle gange er det jo sådan, at man skal gå en
+meget lang vej, før man kommer frem til et resultat, som man så også i bred enighed kan være
+tilfreds med. Og det er jo det, som det ser ud til
+er tilfældet med det her. I hvert fald kan vi fra
+radikal side tilslutte os de ændringer, der er her,
+og vi er egentlig ret glade for, at vi endelig er
+kommet i hus med den reform af den grønlandske retspleje- og kriminallovgivning, således at
+vi kan styrke retssikkerheden i Grønland.";Simon Emil Ammitzbøll
+35392;Time;;Kl. 10:39
+35404;title_name;"Tak til ordføreren. Så er det hr. Naser Khader
+som ordfører.";Formanden
+35474;Time;(Ordfører);Kl. 10:40
+35503;name_party;":
+Et af de spørgsmål, jeg stillede mig selv, da jeg
+modtog disse lovforslag, var: Hvordan kan det
+være, at Folketinget fortsat skal lovgive om straf
+og retspleje for Grønland? Vi ved jo, at der inden
+længe kommer et forslag fra Grønlandsk-dansk
+selvstyrekommission, som vil betyde overførsel
+af mere kompetence til Grønland. Hjemmestyret
+vil blive til et selvstyre, og vil det så ikke være
+naturligt at overføre retspleje og straffelov til det
+kommende selvstyre?
+Heldigvis er disse spørgsmål behandlet i den
+betænkning fra Den Grønlandske Retsvæsenskommission fra august 2004, som de fremsatte
+lovforslag bygger på. På side 112 i resumeet til
+betænkningen står der bl.a., at kommissionen i
+enighed har besluttet at beskrive fordele og
+ulemper ved en eventuel overførsel, således som
+kommissionen ser dem, at udrede nuancerede
+argumenter for og imod overførsel, men ikke at
+fremsætte anbefalinger med hensyn til den endelige politiske afgørelse om overførsel eller
+ikke overførsel.
+Jeg har stor tillid til kommissionens arbejde
+og vurderinger, for den har bestået af de mest
+kyndige folk på området fra Grønland og Danmark. Og når kommissionen nu har besluttet
+ikke at komme med en anbefaling af en overførsel, og når hjemmestyret heller ikke har gjort
+det, må jeg gå ud fra, at den sag er i orden.
+Grønland fik sin første nedskrevne kriminallov i 1954, efter at tre danske jurister og sociolo-
+
+709
+
+ger sidst i 1940'erne havde gennemrejst Grønland på kryds og tværs for at undersøge, hvad
+der var Grønlands retspraksis. Loven er siden
+blevet hyldet som en af verdens mest humane.
+Australske og canadiske embedsmænd og politikere er blandt de mange, der har været i Grønland for at få inspiration til reformer i deres
+hjemlande.
+Den etablerede et retssystem, som i langt højere grad end andre landes havde som mål at få
+den kriminelle på ret køl igen, og den opererede
+kun i meget begrænset omfang med frihedsberøvelse som sanktion. Men i praksis har den ikke været helt let at administrere, bl.a. fordi embedsmændene hovedsagelig har været og er
+danskere, som kan mangle føling med den grønlandske retsopfattelse. Det erkender også den
+store kapacitet på området, juraprofessor Agnete Bentzon, der var med til at afdække den grønlandske retskultur på ekspeditionen sidst i
+1940'erne.
+Desuden er der sket en kolossal samfundsudvikling i Grønland siden 1950'erne. Samfundsforholdene er blevet mere komplicerede, og der
+er sket store sociale forandringer.
+De lovforslag, vi behandler i dag, skal sikre,
+at retssystemet tilpasses de ændrede vilkår, hvilket i realiteten vil indebære, at retstilstanden
+bringes nærmere til danske forhold. Det har vi
+nu eksperternes og hjemmestyrets ord for er
+nødvendigt, men jeg håber på, at det grønlandske folk i praksis opfatter den daglige udøvelse
+af retsplejen, politiarbejdet, kriminalforsorgen
+osv. som et grønlandsk anliggende og ikke som
+en rest af det gamle danske magtapparat. Det
+ville næsten også være uretfærdigt, når man
+tænker på, hvor omhyggeligt Danmark i sin tid
+forsøgte at udforme kriminalloven og retsplejeloven i respekt for grønlandsk kultur og historie.
+Til sidst vil jeg udtrykke min tilfredshed med,
+at ministeren foreslår, at der allerede den 1. juli i
+år - altså IV2 år før lovene træder i kraft - oprettes et fælles grønlandsk-dansk råd for grønlandsk retsvæsen. Det skal sørge for koordination mellem hjemmestyret og rigsmyndighederne, udvikling af lovgrundlag m.v., tage initiativ
+til forskning og følge de enkelte retsmyndigheders funktion og uddannelsesbehov.
+Jeg vil ikke gå nærmere ind i lovforslagenes
+detaljer, men blot tilkendegive, at vi i udvalgsarbejdet gerne vil høre nærmere om, hvordan ministeren har imødekommet de ønsker om ændringer, som det grønlandske Landstings lovudvalg er fremkommet med. Jeg henviser i den for-
+
+710
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+bindelse til den kommenterede høringsoversigt,
+som vi har fået tilstillet.
+Med disse ord kan Ny Alliance støtte ministerens lovforslag.";Naser Khader
+39495;Time;;Kl. 10:45
+39507;title_name;"Tak til ordføreren. Så er det fru Line Barfod som
+ordfører.";Formanden
+39576;Time;(Ordfører);Kl. 10:45
+39604;name_party;":
+Jeg vil gerne tilslutte mig hele den lange række
+af ordførere, der glæder sig over, at vi langt om
+længe er nået så langt. Det har været en ufattelig
+lang proces. Jeg vil også gerne støtte hr. Tom
+Behnkes tak til de mange, der har været med til
+at sikre, at vi kom så langt, både de mange, der
+har siddet i kommissionen, men bestemt også de
+mange, der har været med til at give dem alle de
+oplysninger, de har brug for, de mange i Grønland, der har lavet et stort stykke arbejde med at
+afklare, hvordan virkeligheden egentlig ser ud,
+og hvad der er brug for at gøre fremover for at få
+et mere tidssvarende system.
+Så jeg synes det er rigtig godt, at vi er kommet dertil i dag, og jeg håber, at vi får en proces
+med et tæt samarbejde med Lovudvalget, som
+vi også har aftalt med dem, omkring det at få det
+her lovkompleks på plads.
+Jeg vil så også sige, at noget af det, der glæder
+mig rigtig meget, er, at man i Grønland har valgt
+at være mere fremsynet end i Danmark, og at
+man derfor har fået igennem at lave forsøg med
+konfliktmægling. Jeg håber, at det bliver en stor
+succes i Grønland, og at vi så i Danmark kan rejse op og lære af det, så vi kan få det samme i
+Danmark. Jeg håber også, det kan være med til,
+at man i Grønland får lavet langt mere forebyggelse og dermed får nedbragt det meget store
+antal afsonere, der er i dag.
+Hvis man ser på forholdet mellem Grønland
+og de øvrige nordiske lande, vil man se, at man i
+Grønland har et meget markant højere antal afsonere end i de andre nordiske lande, hvorimod
+hvis man sammenligner Grønland med andre
+lande i samme situation som Grønland, vil man
+se, at det ikke er specielt højt. Jeg håber, at man i
+Grønland vælger at følge den nordiske model,
+og at det er den, man vil satse på for at få nedbragt antallet af afsonere.
+Så er det, som især fru Anne Baastrup var
+inde på, en meget stor glæde, at vi forhåbentlig
+om ikke alt for mange år kan lukke Grønlænderafdelingen i Herstedvester, og at man fremover
+
+ikke sender grønlændere til afsoning i Danmark.
+Det vil være et kæmpe fremskridt, især for de
+mennesker, det handler om, men også for opfattelsen af, at Grønland er et samfund, der er i
+stand til selv at tage hånd om sine borgere.
+Noget af det, der ikke har været særlig meget
+fokus på i hele processen omkring det her lovkompleks, er hele den civile retspleje. Det er mit
+indtryk, at der hverken i kommissionen eller i
+Grønland eller i Danmark har været særlig meget debat om, hvordan den civile retspleje skal
+indrettes, og om især de sager, der er mellem
+borgere og myndigheder, som der bliver flere og
+flere af, ikke kun i Grønland, men også i Danmark og i hele den vestlige verden. Det håber jeg
+det nye råd for grønlandsk retsvæsen også vil
+kunne tage fat på i de kommende år og se på,
+hvordan den civile retspleje skal udvikles, så
+man får nogle måder for det, der svarer til den
+måde, det grønlandske samfund fungerer på:
+Hvordan får man en civil retspleje, der også sikrer borgerne en god retssikkerhed over for myndighederne?
+I det hele taget håber jeg, at det nye råd for
+grønlandsk retsvæsen sammen med det nye kriminalpræventive råd vil kunne gøre en stor indsats for at sikre, at der ikke igen skal gå så mange år, før der sker ændringer, men at det er noget, der sker løbende. Det gælder også, når
+Grønland i forbindelse med det kommende
+selvstyre på et eller andet tidspunkt hjemtager
+det her område, nemlig at man så også der mere
+løbende vil kunne lave de ændringer, som man
+mener der er behov for.
+Så er der den anden del af det, som jo handler
+om alle de lovændringer, der nu bliver lavet. Det
+er meget fint, men der skal også være ressourcer
+til at føre dem ud i livet. Det er også det, som
+man peger på fra Lovudvalgets side i Grønlands
+Landsting. Jeg håber meget, at man ved fordelingen af midler på finanslovene de kommende
+år, både til politi, kriminalforsorg, Domstolsstyrelsen osv., vil sikre, at der løbende vil være de
+fornødne ressourcer i Grønland til at sikre uddannelse og efteruddannelse af de mange, der
+skal gøre en indsats på området, og sikre, at der
+er penge til en ordentlig løn, så folk kan tiltrækkes til både retsvæsen og kriminalforsorg og i
+det hele taget til at virke i det grønlandske retsvæsen. Herunder glæder det mig også, at jeg af
+den kommenterede høringsoversigt kan se, at
+man vil sikre, at kommunefogederne kommer til
+at få en mere tidssvarende aflønning. Det er noget af det, som virkelig har set grelt ud. Så må
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+man jo se på, hvad der kan gøres for at forbedre
+forholdene, også for kommunefogederne, så også den del af retsvæsenet kommer til at fungere.
+Så vil jeg så også sige, at der jo er mange af
+de paragraffer, der er i de her lovforslag, som
+Enhedslisten er dybt og inderligt imod. Der er
+taget en række bestemmelser af det, der er indført de senere år - jeg tænker her især på dem
+vedrørende terrorpakkerne - som bare er sat ind
+i lovforslagene for Grønland. Det gælder hele
+spørgsmålet om, hvordan selve terrorbestemmelserne skal være, hvor man har taget de danske bestemmelser, som er ufattelig vidtgående,
+og som kriminaliserer utrolig meget af det solidaritetsarbejde, som man traditionelt har, især
+med bevægelser i den tredje verden.";Line Barfod
+44826;Time;"Det gælder hele spørgsmålet om teleoplysning, altså logning, hvor man her sætter bestemmelsen ind om, at man også i Grønland skal
+gemme alle oplysninger om, hvad folk foretager
+sig, på internettet i 1 år.
+Jeg har ikke indtryk af, at det er noget, der
+har været særlig meget diskuteret, og jeg håber,
+det er noget af det, man vil diskutere i Grønland.
+Jeg vil selvfølgelig appellere til, ligesom jeg gør
+over for andre lande og i Danmark, at det er
+nogle bestemmelser, man får afskaffet igen. Men
+i Enhedslisten har vi jo det princip, at hvis man i
+Grønland ønsker at få nogle bestemte bestemmelser ind i sin lovgivning og der er enighed i
+Grønlands Landsting om, at man ønsker de bestemmelser, så er det ikke noget, vi vil modsætte
+os. Men jeg håber, vi kan få en dialog om, om
+man virkelig ønsker at gøre de samme ting med
+at undergrave retssikkerheden i Grønland, som
+man har gjort i Danmark, for jeg synes, det er et
+kæmpe problem.
+Men vi synes samlet set, at det er utrolig glædeligt, at vi nu får det her lovkompleks.";Kl. 10:50
+45859;Time;;Kl. 10:51
+45871;title_name;"Tak til fru Line Barfod. Så er det hr. Lars-Emil
+Johansen som ordfører.";Formanden
+45952;Time;(Ordfører);Kl. 10:51
+45988;name_party;":
+For 14 år siden nedsatte det daværende landsstyre i Grønland og den daværende regering i
+Danmark en Retsvæsenskommission. Det er resultatet af dens arbejde, vi behandler i dag. Derfor tilslutter jeg mig også ordene fra de ordførere, der har sagt, at dette er en glædens dag, og
+jeg deler også hr. Tom Behnkes ønske om at sige
+
+711
+
+tak til de mange mennesker, der har medvirket
+til det arbejde, hvis resultat vi har til behandling
+i dag.
+Jeg vil gerne have lov til at starte med et citat fra Landstingets behandling af lovforslagene
+- Landstingets konklusion efter behandling af
+lovforslagene. Landstingets konklusion lyder:
+Landstinget tilslutter sig, at det meddeles justitsministeren, at Grønlands hjemmestyre kan tiltræde, at lovforslagene fremsættes og vedtages
+af Folketinget med de ændringer, som de af
+Landstingets Lovudvalg i betænkningen afgivne
+opfordringer og indstillinger giver anledning til
+at indarbejde.
+Så klart og enkelt lyder Grønlands Landstings afsluttende tilkendegivelser af, at man fra
+Grønlands side i det store og hele støtter de lovforslag til ændring af den grønlandske retsplejelov og den grønlandske kriminallov, som vi behandler her i dag.
+Men bag disse få ord skjuler sig en lang og
+både særegen og spændende del af den grønlandske udviklings historie. For man kan næsten betegne de gamle love på disse områder
+som de første bevislige og bevidste forsøg på
+at finde grønlandske løsninger på grønlandske
+problemer i stedet for de ellers næsten bevidstløse forsøg på tilpasning af Grønland og grønlænderne til danske forhold, som ellers er foregået, i hvert fald frem til hjemmestyrets indførelse. Det var således et symbol på respekt for det
+grønlandske samfunds egenart og et udtryk for
+en sand vilje til at hjælpe Grønland ind i en ny
+tid på egne præmisser, at Danmark i 1950'erne
+efter en såkaldt juridisk ekspedition til landet
+bestående af retslærde folk gennemførte en helt
+særlig ordning for Grønland på det retslige område. Det var en ordning, der forsøgte at sikre, at
+et samfund med så små enheder og så sjælden
+en egentlig kriminalitet ikke ville lide unødig
+skade ved at indføre et retssystem baseret på
+europæiske normer i sin egen kultur.
+Man undlod begrebet straf og valgte i stedet
+at idømme foranstaltninger, der kunne genintegrere forbryderne i deres samfund. Man undlod
+egentlige fængsler og valgte i stedet åbne anstalter, hvor de dømte kunne afsone deres foranstaltning ved at arbejde ude i samfundet. Man
+valgte et lægdommersystem, der i langt de fleste
+sager kunne afgøre, hvilken moralsk holdning
+og hvilke indgreb der i den grønlandske verden
+passede bedst til de forbrydelser, der var begået,
+i stedet for at handle ud fra retsfilosofier og love,
+der hørte andre verdener og samfundsforhold
+
+712
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+til. Alt dette dog samtidig med, at der blev etableret en rigtig domstol med jurister og uddannede dommere, således at der også kunne føres sager efter normal dansk procedure, men samtidig
+kun dømmes efter den grønlandske kriminallov,
+der ikke indeholdt straf som begreb.
+Den overordnede styring af hele det retslige
+område forblev under den danske justitsminister og i sidste ende det danske Folketing. Men
+måden, retsforholdene i Grønland kunne forvaltes på, var og blev grønlandiseret.
+Der er derfor ingen tvivl om, at fædrene til
+dette særlige grønlandske retssystem var forud
+for deres tid i deres holdning til vores behov for
+en grønlandisering af vores samfund. De forstod
+det, som åbenbart i dag er vanskeligt for mange
+at forstå, nemlig at vi har brug for vores egen
+grønlandske grundlov i stedet for den danske,
+hvilket vi påpeger. De forstod nemlig, at de gode gamle danske ord fra Jyske Lov, som vi har
+liggende heroppe i Vandrehallen til daglig påmindelse om, at med lov skal land bygges, er
+evigt sande for ethvert folk, der ønsker at værne
+om sit eget land og sin egen identitet og sin egen
+selvbestemmelsesret.
+Men netop udviklingen af de love, der til enhver given tid passer til den udvikling, samfundet har, er naturligvis en dynamisk proces, der
+netop er afhængig af samfundets udvikling.
+Derfor blev det efter hjemmestyrets indførelse
+og særlig gennem 1980'erne og 1990'erne mere
+og mere klart, at det retssystem, der var progressivt og positivt for den grønlandske sikring af
+egen identitet og kultur i 1950'erne, ikke længere
+fungerede sådan.";Lars-Emil Johansen
+50362;Time;"Med det moderne industrisamfunds overtagelse af den gamle fangerkultur og med de store
+byers overvægt i forhold til de mindre bygdesamfund forandrede kriminaliteten i Grønland
+sig også og forblev desværre ikke længere så
+uskyldig, som da man lavede det grønlandiserede og straffrie retssystem for landet.
+Flere og flere grove forbrydelser medførte, at
+flere og flere grønlandske forbrydere måtte sendes til lukkede anstalter i Danmark for at afsone
+deres forbrydelse - dog stadig uden en strafudmåling, da dette ikke kunne finde sted ifølge
+grønlandsk lovgivning eller grønlandsk retssædvane. Flere og flere sager blev af en så indviklet karakter, at lægdommersystemet på mange måder og på mange områder ikke indeholdt
+de nødvendige ressourcer, vidensmæssigt eller
+
+personalemæssigt, til at håndtere sagerne. Det
+blev en af vore tidligere meget kendte og højt
+agtede kolleger og formand for dette høje Ting,
+hr. Erling Olsen, der i sin daværende egenskab
+af fremragende dansk justitsminister bandt denne knude op og efter aftale med det grønlandske
+landsstyre i 1994 nedsatte en fælles ekspertkommission mellem den danske og den grønlandske
+regering med henblik på at gennemgå og revurdere hele det grønlandske retssystem. Kommissionen, der som sædvanlig oprindelig skulle være hurtigarbejdende, har været ganske mange år
+om at nå til sine konklusioner og derefter oven i
+købet adskillige år om at få dem oversat til grønlandsk.
+Det skal ikke skjules, at i de senere år er situationen på retsområdet i Grønland desværre blevet en hel del værre, end den var i 1994. Specielt
+har problemerne omkring de grønlandske fanger i de danske fængsler uden tidsbestemte
+straffe udviklet sig til en skamplet for begge
+vore lande og da også bragt os i det internationale søgelys for krænkelse af menneskerettighederne.
+Dette forhold har jeg bragt op, efter jeg blev
+valgt til Folketinget, og jeg har indtil nu haft den
+glæde at se, at der i det mindste er kommet bedre forhold for de grønlandske indsatte i danske
+fængsler: bl.a. vil jeg nævne, at der er indført en
+misbrugsbehandling ved justitsministerens foranstaltning, som jeg gerne vil kvittere for. Det er
+en solstrålehistorie i et ellers mørkt kapitel i denne sag. Med planerne om at opføre en lukket
+forvaringsanstalt i Grønland tændes der et nyt
+lys i dette - som sagt - mørke kapitel.
+Derfor kan jeg også her kun udtrykke min
+glæde over, at hele det lovkompleks, som vi nu
+behandler, er et udtryk for en helt usædvanlig
+god aftale mellem det grønlandske landsstyre
+og den danske regering, der også indeholder en
+aftale om nu endelig at få etableret det lukkede
+fængsel i Grønland, der endegyldigt kan afslutte
+elendigheden for de grønlandske fanger i Herstedvester.
+Idet jeg skal henvise til Landstingets udtalelser, specielt Landstingets Lovudvalgs udtalelse,
+som jeg ved er tilgået Retsudvalget, skal jeg til
+slut udtrykke min støtte til de fremsatte lovforslag.";Kl. 10:57
+53285;Time;;Kl. 11:01
+53297;title_name;"Tak til hr. Lars-Emil Johansen. Så er det justitsministeren.
+
+(90)
+Fredag den 11. januar 2008 (L 34 m.fl.)";Formanden
+53414;Time;;Kl. 11:02
+53448;title_name;":
+Jeg vil gerne starte med at takke alle for den meget entydige opbakning, der har været til de tre
+lovforslag. Det er jo en sag, som har optaget rigtig mange i rigtig mange år. Folketingets Retsudvalg har været i Grønland og drøftet sagen med
+grønlandske politikere. Jeg har også selv personlig haft rigtig gode drøftelser i Grønland om
+denne sag, så vi kunne finde hinanden i en forståelse af, at Den Grønlandske Retsvæsenskommissions betænkning så hurtigt som overhovedet muligt kunne blive færdiggjort til lovgivningsproces.
+Det er gennemgående, at samtlige ordførere
+her i dag understreger, at det har været en meget
+lang proces, men at man også er meget, meget
+glad for det resultatet, der er kommet ud af det.
+Jeg vil egentlig starte med den sidste taler og
+sige tak til hr. Lars-Emil Johansen for talen. Jeg
+er helt enig med hr. Lars-Emil Johansen i, at en
+særlig tak naturligvis skal lyde til medlemmerne
+af Den Grønlandske Retsvæsenskommission.
+Der har jo været lidt udskiftninger undervejs,
+men det er et meget, meget godt og solidt stykke
+arbejde, der er blevet lavet. Det er klart, at der
+også skal lyde en tak til både grønlandske og
+danske politikere og ikke mindst til den grønlandske befolkning for at have haft tålmodighed
+i denne her sag.
+Vi har alle sammen ved selvsyn kunne se, at
+der har været et meget stort behov for de moderniseringer, som lovforslagene lægger op til, og
+som jeg også meget kort vil gennemgå, men der
+er for mig at se ingen tvivl om, at vi nu er nået til
+vejs ende, og at det nu er et spørgsmål om, at
+Folketinget gør sit arbejde og behandler lovforslagene, så de forhåbentlig kan blive vedtaget
+inden længe og også træde i kraft i overensstemmelse med de datoer, der er nedskrevet i lovforslagene.
+Som mange har været inde på, er der tale om
+en gennemgribende modernisering af reglerne,
+for så vidt angår dét grønlandske retsvæsen. Jeg
+er meget enig med hr. Lars-Emil Johansen i, at
+det har været en balancegang mellem at finde
+grønlandske løsninger til grønlandske problemer - den respekt gennemsyrer også de lovforslag, som vi her taler om - og samtidig også
+være åben over for, at man på nogle områder har
+ønsket at lade sig inspirere af andre ting, der
+også laves andre steder, og kopiere dem og få
+dem med i lovgivningen. Jeg synes, at den balancegang er lykkedes meget, meget fint.
+
+713
+
+Hvis vi skal tage det helt overordnede, er der
+på alle områder, der gælder retsvæsenet, tale om
+nye, spændende moderniseringer og nyskabelser. Det er helt korrekt - det er en af de ting, der
+har været rejst af mange, bl.a. af hr. Kim Andersen - at man lægger op til, at der som hidtil skal
+være 18 retskredse. Der har været - også i forbindelse med Landstingets behandling af betænkningen og lovforslagene - drøftelse af,
+hvorvidt de 18 retskredse var for mange. Men vi
+har valgt at sige, at det må afvente de drøftelser,
+der er om kommunesammenlægninger, og så
+bliver det Rådet for Grønlands Retsvæsen, der
+får mulighed for at overveje, om der i lyset af en
+ny kommunal struktur kan være behov for en
+yderligere regionalisering med færre retskredse.
+Kredsdommerne kan fortsat ikke være jurister, men det, som det er meget væsentligt at få
+understreget, er, at der nu kommer en egentlig
+uddannelse af kredsdommere og uddannelse af
+domsmænd og retssekretærer, samt at den juridiske vejledning i forhold til retskredsene styrkes. Der oprettes et dommerråd, der medvirker
+til at ansætte kredsdommere og behandler sager
+om afskedigelser af kredsdommere. Der etableres en ny juridisk domstol, Retten i Grønland,
+der skal behandle de juridisk komplicerede sager i første instans. Grønlands Landsret vil så
+fremover alene behandle appelsager, og Højesteret vil fortsat være den øverste domstol.
+Som mange har været inde på, bl.a. fru Anne
+Baastrup, er det også meget væsentligt at få understreget, at det grønlandske sprogs rolle i retsplejen styrkes. Det er en helt fundamental, man
+kan sige en helt elementær betingelse, at der naturligvis skrives på det sprog, som folk nu kan
+læse og forstå. Det lovfæstes, at en række væsentlige retlige dokumenter skal oversættes til
+det sprog, som den pågældende, f.eks. den sigtede eller tiltalte, forstår. I det ligger der, som fru
+Anne Baastrup var inde på, at der i øget omfang
+sker en oversættelse af retlige dokumenter til
+grønlandsk.
+Forsvarere i kriminalsager vil som udgangspunkt fortsat ikke være jurister, men også her vil
+der blive indført en forsvarerautorisation for
+personer, som har gennemført en ny formaliseret forsvarer uddannelse. Der lægges op til, at
+retten i alvorlige sager kan beskikke en advokat
+som udenretlig rådgiver for den ikkej uridisk uddannede forsvarer. Der lægges op til, at der etableres en hotline, en telefonrådgivning, fra en advokat, som en autoriseret forsvarer kan benytte
+for at få vejledning i konkrete sager. Advokaters
+
+714
+
+Fredag den 11. januar 2008 (L 34 m.fl.)
+
+forhold og virksomhed i Grønland vil også som
+noget nyt blive lovreguleret.
+Som bl.a. fru Marlene Harpsøe var inde på
+i sin ordførertale, er en af de andre væsentlige
+ting, at der sker en udbygning af gældende regler, f.eks. reglerne om kriminalprocessuelle
+tvangsindgreb såsom ransagning og indgreb i
+meddelelseshemmeligheden, så der sker en tilnærmelse til den danske retsplejelovs regler. Der
+etableres i de større byer et landsdækkende net
+af offervagter, og det koordineres med Grønlands hjemmestyres Socialdirektorat.
+Som mange af ordførerne har været inde på,
+er der på en lang række andre områder tale om
+et forsøg på at bruge ny moderne teknologi såsom videokonferenceudstyr til at afhjælpe de
+gener, der er, fordi Grønland er et meget stort
+land, hvor der er store geografiske afstande.
+For så vidt angår kriminalloven, sker der
+også her en generel revision af kriminallovens
+almindelige bestemmelser, både med hensyn til
+forsøgsregler og juridiske personers ansvar. Og
+som flere ordførere også var inde på, sker der
+også en revision med hensyn til bestemmelser
+om de enkelte forbrydelsestyper.
+Her må jeg med en vis anerkendelse til fru
+Line Barfod sige, at jeg synes, det er meget befriende at høre Enhedslisten fremhæve, at selv om
+der er ting, som Enhedslisten egentlig ikke rigtig
+bryder sig om, er lovforslaget som helhed et lovforslag, som de kan støtte. Jeg ved jo, at der i
+hvert fald er visse dele af det, der foreslås her,
+som fru Line Barfod har været meget inkarneret
+modstander af skulle gennemføres her i Danmark. Men jeg anerkender og har respekt for, at
+selv om det ikke er alt, der er Enhedslistens politiske synspunkter, bakker Enhedslisten alligevel
+op om hovedlovforslaget og accepterer altså, at
+ikke alt efter Enhedslistens opfattelse er lige
+kønt. Det mener vi andre jo nok det er.
+Som bl.a. hr. Lars-Emil Johansen var inde på,
+er foranstaltninger jo et af de områder, hvor det
+grønlandske system er meget anderledes end
+det danske, som vi kender. Her lægges der op til
+en nyordning af det særlige grønlandske foranstaltningssystem, hvor der ikke er fastsat strafferammer for de enkelte forbrydelser. Der er jo en
+såkaldt sanktionsstige, og det nye er, at foranstaltningerne advarsler, betinget dom med fastsat foranstaltningstid, dom til samfundstjeneste
+
+og dom til anstalt og tilsyn er nye foranstaltninger.
+Det er også væsentligt for mig her afslutningsvis at få understreget, som rigtig mange af
+ordførerne også har været inde på, at noget af
+det, der har været meget stor diskussion om, har
+været den forvaringsafdeling, der skulle etableres i Nuuk, og det har været diskussionen om de
+grønlændere, der sidder tidsubestemt i Anstalten ved Herstedvester, og så har der endelig været en generel drøftelse af hele spørgsmålet om
+kapacitetsproblemer og den manglende dækning og tilstrækkeligt med pladser, ikke mindst i
+Østgrønland. Alt dette sørger lovforslaget også
+for at tage hånd om.
+Personlig må jeg jo indrømme, som flere andre også har været inde på, at det, der har fyldt
+mest i den debat, som jeg har deltaget i, mens
+jeg har været justitsminister i de sidste 6 år, nok
+har været spørgsmålet om Anstalten ved Herstedvester. Det er der nu fundet en løsning på, i
+hvert fald en økonomisk løsning og lovgivningsmæssige rammer. Men jeg synes her på falderebet, at det måske også er fair at understrege,
+at det ikke betyder, at det er noget, der sker fra
+den ene dag til den anden. Det er klart, at der er
+nogle fysiske rammer, der skal op at stå, men det
+er også meget væsentligt, at der er det rigtige
+personale til at håndtere den her type meget farlige kriminelle. Her står vi altså over for en generel udfordring med at få rekrutteret de personer. Men nu er der nogle år til, at de nye bygninger står klar, så derfor er der også tid til at forberede dette.
+Jeg skal takke mange gange for Folketingets
+behandling af denne her sag og ser frem til udvalgsarbejdet.";Lene Espersen
+62249;Time;;Kl. 11:12
+62261;title_name;"Tak til justitsministeren.
+Der er ikke flere, der har bedt om ordet, så
+forhandlingen er sluttet.
+Jeg foreslår, at lovforslagene henvises til Retsudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Fredag den 11. januar 2008 (L 37)
+Det næste punkt på dagsordenen er:
+5) 1. behandling af lovforslag nr. L 37:
+Forslag til lov om ændring af kriminalloven og
+retsplejeloven for Grønland. (Fuldbyrdelse af
+anstaltsdomme i den øvrige del af riget og beskikkelse af pantefogeder).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).";Formanden
+62845;Time;Forhandling;Kl. 11:12
+62869;title_name;Forhandlingen er åbnet, og det er hr. Kim Andersen.;Formanden
+62930;Time;(Ordfører);Kl. 11:13
+62958;name_party;":
+Dette lovforslag, L 37, forslag til ændring af kriminalloven og retsplejeloven, er jo i virkeligheden, som formanden også tidligere nævnte, en
+del af den grønlandske retsreform, som vi netop
+her har haft til førstebehandling. Men der er et
+par elementer, som behandles særskilt i det her
+lovforslag, fordi der er et ønske om at kunne få
+gennemført disse ændringer hurtigere, end det
+måske bliver tilfældet for selve reformen.
+Det drejer sig om, at det modsat i dag skal
+være muligt for danskere, der er dømt i Grønland, og som efter gældende regler i dag skal afsone i Grønland, fremover at kunne udstå deres
+straf i Danmark. Det kan vi støtte. Det vil også
+være med til at løse nogle af de kapacitetsproblemer, der er for strafafsoning i Grønland.
+Et andet element i det her lovforslag er, at de
+grønlandske kommuners pantefogeder skal
+samles under hjemmestyret. Der er et ønske om,
+at pantefogedernes virksomhed bliver samlet
+under det grønlandske hjemmestyre for at få
+øget restanceinddrivelsen, styrket retssikkerheden og også for at opnå en bedre ressourceudnyttelse i forbindelse med pantefogedernes virksomhed.
+Der er for den samlede offentlige sektor i
+Grønland, både hjemmestyrets område og kommunernes, et udestående, der er ganske stort
+hos de grønlandske borgere, dobbelt så stort
+som det, vi kender til i Danmark, og man ønsker
+altså her at komme i gang med en effektivisering
+af inddrivelsessystemet, og det kan vi kun billige. Derfor støtter vi forslaget.
+
+715";Kim Andersen
+64446;Time;;Kl. 11:15
+64458;title_name;"Tak til hr. Kim Andersen. Så er det fru Karen
+Hækkerup som ordfører.";Formanden
+64536;Time;(Ordfører);Kl. 11:15
+64566;name_party;":
+Jeg synes, at den foregående ordfører fint forklarede, hvad de forandringer, der ligger i L 37,
+indbefatter, og jeg vil bare meddele, at Socialdemokraterne naturligvis også støtter, at vi kan tiltræde det, så man kan komme i gang hurtigt
+med bl.a. at få danskere hjem fra Grønland, som
+skal afsone her i stedet for at være i Grønland.
+Alt det andet om Herstedvester og anstalterne behandlede vi i det tidligere sagskompleks,
+og det vil jeg ikke komme ind på igen. Jeg vil
+bare sige, at vi støtter de ændringer her, så man
+kan få udnyttet kapaciteten i Kriminalforsorgens institutioner, og også de ændringer, der er i
+kriminalloven, så de kan træde i kraft tidligere
+end det oprindelige reformforslag.";Karen Hækkerup
+65278;Time;;Kl. 11:15
+65290;title_name;"Tak til ordføreren. Så er det fru Marlene Harpsøe
+som ordfører.";Formanden
+65363;Time;(Ordfører);Kl. 11:16
+65395;name_party;":
+Dansk Folkeparti har gennemgået det her korte
+lovforslag, L 37, og ændringen vedrørende § 127
+a anser vi for positiv, nemlig at justitsministeren
+nu får adgang til at bestemme, at en person, der
+i Grønland er idømt en dom til anstaltsanbringelse, kan afsone sin straf i den del af landet,
+hvor vedkommende har bopæl. Desuden anser
+vi det for positivt, da der jo er pres på de grønlandske anstalter, hvorfor det vil lette byrden på
+anstalterne f.eks. at anbringe personer fra Danmark i et fængsel i Danmark i stedet for i en
+grønlandsk anstalt.
+Med lovforslaget ønsker man desuden at
+samle pantefogedvirksomheden under landsstyret. Det er udmærket, at man herved bl.a. kan
+øge effektiviteten samt reducere forbruget af ressourcer.
+Dansk Folkeparti støtter overordnet lovforslaget.";Marlene Harpsøe
+66186;Time;;Kl. 11:16
+66198;title_name;"Tak til ordføreren. Så er det fru Anne Baastrup
+som ordfører.
+
+716
+
+Fredag den 11. januar 2008 (L 38)";Formanden
+66311;Time;(Ordfører);Kl. 11:17
+66341;name_party;":
+Nu har de foregående tre ordførere beskrevet
+lovforslagets indhold, og de synes, det er godt.
+Det synes SF også.";Anne Baastrup
+66465;Time;;Kl. 11:17
+66477;title_name;"Det takker vi for. Næste ordfører er hr. Tom
+Behnke.";Formanden
+66539;Time;(Ordfører);Kl. 11:17
+66566;name_party;":
+Det Konservative Folkeparti kan ligeledes støtte
+lovforslaget, og jeg skal ikke gentage, hvad der
+er sagt om forslagets indhold.";Tom Behnke
+66706;Time;;Kl. 11:17
+66718;title_name;"Tak for det. Så er det hr. Simon Emil Ammitzbøll
+som ordfører.";Formanden
+66790;Time;(Ordfører);Kl. 11:17
+66828;name_party;":
+Ja, så er det jo nærmest med at se, hvem der kan
+gøre det kortest. Det Radikale Venstre støtter
+også lovforslaget.";Simon Emil Ammitzbøll
+66954;Time;;Kl. 11:17
+66966;title_name;Tak. Så er det hr. Naser Khader som ordfører.;Formanden
+67021;Time;(Ordfører);Kl. 11:17
+67050;name_party;":
+Jeg vil ikke gå i detaljer, men sige, at vi også støtter forslaget.";Naser Khader
+67129;Time;;Kl. 11:17
+67141;title_name;"Tak for det. Og så er det fru Line Barfod som
+ordfører.";Formanden
+67206;Time;(Ordfører);Kl. 11:18
+67234;name_party;":
+Enhedslisten støtter også forslaget. Jeg vil bare
+sige, at jeg synes, det er glædeligt, at det kommer nu. Ombudsmanden påpegede jo for flere
+år siden, at det var et problem, at danskere ikke
+kunne overflyttes til danske fængsler, men skulle afsone i Grønland, så det glæder mig meget,
+at justitsministeren kommer med det her forslag
+nu.";Line Barfod
+67582;Time;;Kl. 11:18
+67594;title_name;"Tak for det. Hr. Lars-Emil Johansen glæder sig
+fra pladsen. Og så er det justitsministeren.";Formanden
+67696;Time;;Kl. 11:18
+67730;title_name;":
+Jeg havde heller ikke forestillet mig at forlænge
+debatten med en meget lang tale nu, så jeg vil
+blot sige tak for tilslutningen til det her lovforslag, som jo vil træde i kraft tidligere end de øvrige reformlovforslag.
+Det er jo korrekt, som flere har været inde på,
+at man kan sige, at det væsentligste element i
+det her lovforslag er, at personer, der har bopæl i
+den sydlige del af Danmark eller er hjemmehørende her, får en mulighed for at blive overført
+til fængsler her frem for at afsone i Grønland, og
+det er altså med til at afhjælpe nogle af de kapacitetsproblemer, der er p.t. i Grønland, men det
+er selvfølgelig også med til at forbedre mulighederne for resocialisering for de personer, der nu
+får mulighed for at afsone tættere på deres bopæl.
+Den anden del af lovforslaget handler om at
+effektivisere inddrivelsen, og derfor ændrer
+man reglerne vedrørende pantefogeder.
+For begge deles vedkommende er der tale om
+en hurtigere ikrafttræden, hvilket har været et
+ønske fra grønlandsk side.";Lene Espersen
+68744;Time;;Kl. 11:19
+68756;title_name;"Tak til justitsministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Retsudvalget, og hvis ingen gør indsigelse, betragter
+jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+6) 1. behandling af lovforslag nr. L 38:
+Forslag til lov om sikkerhed ved bestemte
+idrætsbegivenheder.
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).";Formanden
+69203;Time;Forhandling;Kl. 11:19
+69227;title_name;"Forhandlingen er åbnet. Hr. Kim Andersen.
+
+Fredag den 11. januar 2008 (L 38)
+
+717";Formanden
+69320;Time;"haft nogen som helst overvejelser om retssikker(Ordfører)
+hedsproblemerne ved, at man kommer folk, som";Kl. 11:20
+69440;name_party;":
+ikke er dømt, og som dermed jo altså kunne
+Vi vil gerne sige tak til justitsministeren, fordi
+være uskyldige, i et register?";Kim Andersen
+69576;Time;"hun er kommet med det her forslag, som vi synes er rigtig godt. Det kan være med til at hindre Formanden:
+unødig ballade i forbindelse med afviklingen af
+Ordføreren.";Kl. 11:22
+69752;Time;"store idrætsbegivenheder, særlig de store fodboldlandskampe, superligakampe og UEFAKim Andersen (V):
+kampe, som afvikles her i landet, hvor vi har set, Der er ikke tale om, at vi ønsker at afholde noat der har været ballademagere, der har formået
+gen fra at komme og overvære en stor og spænat ødelægge en sportslig oplevelse for rigtig
+dende sportsbegivenhed. Tværtimod vil vi germange mennesker og bringe tilskuernes sikkerne have, at alle de, som kommer og overværer
+hed i fare.
+sådan en begivenhed, også får en oplevelse ud
+Ministeren vil med det her forslag indføre en
+af det, og at de får det i ro og sikkerhed. Derfor
+ordning, som betyder, at hooligans og andre,
+ser vi os nødsaget til at acceptere, at vi indfører
+som ikke forstår at opføre sig ordentligt på en
+nogle regler, der gør, at de få - heldigvis relativt
+sportsplads som tilskuere, kan blive idømt en
+få - personer, som ikke kan holde sig i skindet
+karantæne på op til 2 år, hvor de ikke må komog opføre sig ordentligt, kan få en karantæne,
+me og overvære sådan en begivenhed. Vi synes,
+netop så de mange ikke får ødelagt deres opledet er yderst rimeligt, at man får lov til at bede
+velse under sikre forhold. Derfor har vi ingen
+sådan nogle ballademagere om at blive hjemme, problemer med at acceptere det forslag her fra
+når de ikke kan opføre sig ordentligt.
+justitsministeren.";Kl. 11:23
+71111;Time;"Derudover vil ministeren foreslå en autorisationsordning for kontrollører, sådan at kontrolFormanden:
+lører, der gennemgår en særlig uddannelse, kan
+Fru Line Barfod for yderligere en kort bemærkmodtage fortrolige oplysninger fra politiet og
+ning.";Kl. 11:23
+71368;Time;"administrere dem i forhold til personer, som må
+forudses ikke at ville kunne overholde alminde- Line Barfod (EL):
+lige spilleregler, i forbindelse med at der spilles
+Jeg spurgte ikke til resultatet af overvejelserne.
+en fodboldkamp - altså personer, som ikke vil
+Jeg er med på, at når man siger ja til forslaget, er
+kunne opføre sig ordentligt på offentlige steder
+man nået frem til det resultat, at man mener, at
+og vil lave ballade til gene for andre mennesker.
+det vejer tungest at kunne udelukke en masse
+Der vil disse kontrollører ud fra det register
+mennesker fra fodboldkampe. Jeg mener, at man
+kunne skride ind, bortvise dem og give dem en
+skal bruge en helt anden strategi, men det skal
+sådan karantæne.
+jeg nok komme ind på i min ordførertale.
+Fra Venstres side støtter vi lovforslaget. Vi syDet, jeg spurgte om, var, om Venstre ikke havnes, det er helt på sin plads, og det er med til at
+de en eneste overvejelse om retssikkerhed. Jeg
+dæmme op for den tiltagende vold og dårlige
+vil gerne høre, om hr. Kim Andersens svar skal
+opførsel og de tiltagende uroligheder, som vi
+forstås sådan, at man i Venstre overhovedet ikke
+har set i de senere år i forbindelse med afvikling har nogen overvejelser om retssikkerhed i foraf store sportsbegivenheder.
+hold til det her, at man overhovedet ikke mener,";Kl. 11:23
+72684;Time;at retssikkerhed er noget, der skal inddrages i;Kl. 11:22
+72744;title_name;overvejelserne om det her forslag.;Formanden
+72788;Time;Der er en kort bemærkning fra fru Line Barfod.;Kl. 11:24
+72845;Time;Formanden:;Kl. 11:22
+72873;name_party;":
+Ordføreren.";Line Barfod
+72896;Time;Jeg ville bare høre, om Venstres ordfører ikke;Kl. 11:24
+72960;name_party;":
+har en eneste overvejelse omkring retssikkerhed, ikke har bare én overvejelse. Det kan godt
+Vi har ingen problemer i den sammenhæng i
+være, at ens overvejelser ender med, at man me- forhold til det forslag her. Vi skal til hver en tid
+ner, at det er vigtigere at afskære en masse men- være opmærksomme på retssikkerhedsspørgsmålet, og vi skal være agtpågivende over for
+nesker fra at komme til fodbold end at holde
+den problemstilling, bestemt, men i den samretssikkerhedsfanen højt, men har man slet ikke
+
+718
+
+Fredag den 11. januar 2008 (L 38)
+
+menhæng her mener vi ikke, at det er en relevant risiko at inddrage.
+Det er jo klart, at hvis den pågældende ikke
+tages for nogen uregelmæssigheder i forbindelse
+med disse store sportsbegivenheder, kommer
+vedkommende ikke i registeret. Kommer man i
+registeret uretmæssigt, vil man naturligvis kunne kræve at blive fjernet derfra, medmindre man
+har modtaget en dom.";Kim Andersen
+73884;Time;;Kl. 11:25
+73896;title_name;Så er det fru Anne Baastrup for en kort bemærkning.;Formanden
+73957;Time;;Kl. 11:25
+73976;name_party;":
+Da vi i Folketinget behandlede forslaget om persondatabeskyttelsesloven, var det fra Venstres
+side et meget stort ønske, at man rent faktisk arbejdede ihærdigt for at beskytte personers intime, følsomme oplysninger. I den forbindelse
+dannede vi, SF og Venstre, en fælles front over
+for den daværende justitsminister, og det betød
+bl.a., at persondatabeskyttelsedirektivet blev
+strammet.
+Jeg vil godt høre, hvad den nuværende retsordfører fra Venstre mener, når man nu tilsyneladende ser stort på de beskyttelseshensyn, man
+dengang tog omkring persondata.";Anne Baastrup
+74542;Time;;Kl. 11:25
+74554;title_name;Ordføreren.;Formanden
+74575;Time;;Kl. 11:25
+74592;name_party;":
+Jeg mener ikke, at man ser stort på følsomme
+personoplysninger og persondata i forbindelse
+med det forslag, vi her har til behandling. Der er
+jo tale om, at det er særligt uddannede personer,
+som skal kunne modtage disse oplysninger, og
+de pågældende er pålagt fortrolighed. Så jeg mener ikke, at vi i den sammenhæng overskrider
+nogen grænser.";Kim Andersen
+74947;Time;;Kl. 11:26
+74959;title_name;Fru Anne Baastrup for yderligere en kort bemærkning.;Formanden
+75021;Time;;Kl. 11:26
+75040;name_party;":
+Hvilke overvejelser har Venstres retsordfører
+gjort sig, set i lyset af, at disse oplysninger kommer ud til i virkeligheden en usikker gruppe af
+kontrollanter, der på et usikkert grundlag får adgang til dem? Vi har haft problemer med dørmandsuddannelsen. Hvordan har Venstre sikret
+
+sig, at den uddannelse, disse kontrollører angiveligt skal have, rent faktisk kan bistå den tænkning, som Venstre oprindelig i hvert fald havde
+om, at følsomme personoplysninger ikke skal
+flyde over hele landet?";Anne Baastrup
+75546;Time;;Kl. 11:27
+75558;title_name;Ordføreren.;Formanden
+75579;Time;;Kl. 11:27
+75596;name_party;":
+Jeg er meget, meget enig i, at følsomme personoplysninger ikke skal flyde over hele landet. Bestemt skal de ikke det, og det kommer de heller
+ikke til med det forslag her. Men det er jo et valg
+mellem to onder: Vil vi acceptere hooligans og
+ballademagere i forbindelse med store idrætsbegivenheder, eller vil vi acceptere, at der er nogle
+regler, så man kan idømme de få, som laver ballade, en karantæne, og at der så er nogle kontrollører, som for politiet under fortrolighed og efter
+at have gennemgået et uddannelsesforløb skal
+administrere disse regler og disse oplysninger?
+Det er et valg mellem disse to yderpoler, og vi
+kan altså sagtens leve med det forslag, der her er
+fremsat. Vi synes, det er fornuftigt i situationen,
+og vi er ikke bange for, at der er nogle personlige
+oplysninger, som bliver trådt for nær.";Kim Andersen
+76428;Time;;Kl. 11:28
+76440;title_name;"Så er det hr. Simon Emil Ammitzbøll for en kort
+bemærkning.";Formanden
+76509;Time;;Kl. 11:28
+76536;name_party;":
+Det er lidt i forlængelse af det, fru Line Barfod
+spurgte om før. Det er jo fair nok, at man kan
+komme frem til forskellige vurderinger af, om
+det her er et godt eller et dårligt lovforslag, om
+man stemmer for eller imod, eller hvad man nu
+gør, men det, jeg hørte der blev efterlyst var:
+Hvilke overvejelser havde Venstres gjort sig, da
+partiet kom frem til, at man ville stemme for?
+Hvilke overvejelser har man gjort sig i forhold
+til de retssikkerhedsmæssige problematikker,
+som vel er i det her lovforslag, lige meget hvad
+man ender med at stemme?";Simon Emil Ammitzbøll
+77098;Time;;Kl. 11:28
+77110;title_name;Ordføreren.;Formanden
+77131;Time;;Kl. 11:28
+77148;name_party;":
+Jeg henviser til det svar, jeg lige har afgivet til
+fru Anne Baastrup.
+
+Fredag den 11. januar 2008 (L 38)";Kim Andersen
+77266;Time;;Kl. 11:28
+77278;title_name;"Hr. Simon Emil Ammitzbøll for yderligere en
+kort bemærkning.";Formanden
+77348;Time;;Kl. 11:28
+77375;name_party;":
+Jeg må indrømme, at jeg ikke helt forstår det. Vi
+har en lang række høringssvar, fra Institut for
+Menneskerettigheder, fra retssikkerhedsfolk, fra
+Advokatsamfundet, som alle sammen påpeger
+retssikkerhedsmæssige problemstillinger. Kan
+det så virkelig være rigtigt, at Venstre, som vel
+om noget er et retssikkerhedsparti, ikke har gjort
+sig overvejelser i den anledning? Det er mig helt
+uforståeligt.";Simon Emil Ammitzbøll
+77785;Time;;Kl. 11:29
+77797;title_name;Ordføreren.;Formanden
+77818;Time;;Kl. 11:29
+77835;name_party;":
+Som jeg netop har forklaret for en tidligere spørger, har vi gjort os mange overvejelser i den
+sammenhæng - nogle principielle overvejelser,
+en stillingtagen til aktuelle begivenheder - og
+det er altså endt med, at i valget mellem flere onder synes vi, at det her er et nødvendigt og et
+godt forslag, som kan være med til at dæmme
+op for den tiltagende vold og uro, der er i forbindelse med store sportsbegivenheder.
+Med den uddannelse, der skal gives til kontrollørerne, med den autorisation, de skal have,
+og med den fortrolighed, de pålægges, vil fortrolige, personfølsomme oplysninger ikke komme til at ligge og flyde rundtomkring i gaderne,
+og den personlige retssikkerhed er ikke trådt for
+nær.";Kim Andersen
+78547;Time;;Kl. 11:30
+78559;title_name;"Tak til hr. Kim Andersen. Så er det hr. Flemming
+Møller Mortensen som ordfører.";Formanden
+78648;Time;(Ordfører);Kl. 11:30
+78689;name_party;":
+Vi har her at gøre med et lovforslag, som signalerer en ny og anden tid, også i Danmark. For
+15 år siden var det et varemærke for landet at
+sende sympatiske, stille og rolige sportsfans, de
+såkaldte roligans, ud af landet for her at heppe
+på danske sportsudøveres præstationer - en adfærd, som i mange andre lande da var sjælden,
+grundet tiltagende vold i forbindelse med
+idrætsarrangementer.
+Nu fremsættes der her et forslag om, hvordan
+vi inden for landets grænser værner mod vold i
+
+719
+
+forbindelse med lignende arrangementer. Det er
+et forslag, som vi i Socialdemokratiet finder
+nødvendigt og derfor støtter. Det gør vi, fordi
+sport og idræt tager afsæt i meget positive værdier som det at have det rart og sjovt i en stemning omkring det at konkurrere, opnåelse af velvære, selvværd og selvtillid samt styrkelsen af
+det sociale liv gennem fællesskaber.
+Rigtig mange danskere i alle aldre deltager
+med stor glæde i idræt på den ene eller den anden måde, hvorfor sikkerheden i forbindelse
+med disse arrangementer vedkommer rigtig
+mange. Usikkerhed og utryghed må ikke ødelægge og overskygge glæden ved idræt.
+I Socialdemokraternes idrætspolitiske udspil,
+»Danmark i topform«, har vi tydeligt udtrykt
+holdningen til vold, hærværk og hooliganisme
+i forbindelse med afvikling af eksempelvis fodboldkampe. Vi vil bekæmpe disse tendenser,
+hvor der er dukket en understrøm af vold op for
+voldens egen skyld. P.eks. bruger mindre grupper boldspillet som et træfpunkt for større eller
+mindre organiserede slagsmål. Det koster ikke
+bare deltagerne blå øjne og løse tænder, det er
+også en alvorlig trussel mod de øvrige tilskuere,
+mod idrætsklubbernes kontrollanter samt modspillere og dommere. Det fremsatte forslag er et
+middel mod disse tendenser.
+Lovforslaget har været igennem en høring og
+er efterfølgende tilrettet, og fra socialdemokratisk side er vi meget tilfredse med tilretningerne
+på tre afgørende felter. Det er for det første, at
+loven nu også omfatter kampe i 1. og 2. division,
+for det andet, at personer, som skal varetage
+hooliganregisteret, uddannes, og for det tredje,
+at påbuddet om karantæne kan ankes. Dette betyder i praksis, at voldshandlingerne ikke bare
+eksporteres til lavere rangerende kampe, det betyder også, at autoriserede kontrollører gennem
+uddannelse lærer at overholde loven, og endelig
+betyder det, at en hurtig ankemulighed med efterfølgende hurtig sagsbehandling ved domstolene eksisterer.
+Man må gå ud fra, at ministeren også er villig
+til at finde det fornødne personale og de dermed
+forbundne merudgifter, som det uvægerligt vil
+medføre, og det vil også give en øget arbejdsbyrde for politiet.
+Idrættens organisationer inklusive fanklubberne har alle udtrykt en positiv indstilling til
+forslaget, hvilket er yderst vigtigt, for at loven i
+praksis bliver en succes. Skulle der trods retsinstansernes medvirken opstå tvivl om den generelle retssikkerhed frem mod lovforslagets ende-
+
+720
+
+Fredag den 11. januar 2008 (L 38)
+
+lige vedtagelse, vil vi meget omhyggeligt vurdere forholdene, for vi ønsker at bevare størst mulig retssikkerhed, samtidig med at vi får sat en
+stopper for fodboldvolden.
+Vi vil også under udvalgsbehandlingen nøje
+se på, hvilke erfaringer andre lande har med tilsvarende lovgivning: navnlig den engelske ordning synes at være meget stram, men de har jo
+altså også problemer med hooliganisme af helt
+andre dimensioner, end vi har her.
+Vi ønsker i sidste ende, at enhver idrætsbegivenhed kan afvikles uden politiets deltagelse. Vi
+vil også sende en appel til ministeren om at sikre
+en løbende evaluering af og orientering om loven.
+Jeg vil hermed erklære, at vi i Socialdemokratiet er enige i lovens hovedsigte, nemlig at få
+fodboldvolden bragt ned og tilskuernes sikkerhed bragt op.
+Sluttelig vil jeg gerne anmode ministeren om
+også at kigge på et målrettet arbejde i forbindelse med en fælles EU-indsats mod disse uromagere, som Socialdemokraterne i Europa-Parlamentet allerede ved flere tidligere lejligheder
+har gjort opmærksom på.";Flemming Møller Mortensen
+82695;Time;;Kl. 11:35
+82734;title_name;":
+Der er en enkelt kort bemærkning fra fru Line
+Barfod.";Helge Adam Møller
+82799;Time;;Kl. 11:35
+82816;name_party;":
+Når nu Socialdemokraterne er optaget af - hvilket vi vel alle er - at vi skal få fodbold til at være
+en god oplevelse, vil jeg gerne høre, om man så
+ikke også kunne overveje at støtte et krav om, at
+der skal ses på den forskning, der ligger internationalt.
+Vi har jo set en forskningsrapport, som Justitsministeriet har været med til at støtte, og
+som anbefaler, at der kommer noget forskning
+også i Danmark om, hvordan man ved en anden
+tilgang og ved dialog mellem nogle af fanklubberne og politiet faktisk kan få fodboldkampene
+til at glide på en helt anden måde og kan få en
+selvjustits blandt fansene osv. Dermed kan man
+bruge nogle metoder, som rent faktisk forebygger, at der kommer optøjer, og som samtidig
+ikke giver retssikkerhedsproblemer.
+Vil Socialdemokraterne støtte, at vi skal have
+en sådan forskning og nogle sådanne forsøg?";Line Barfod
+83668;Time;;Kl. 11:36
+83707;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+83741;Time;;Kl. 11:36
+83771;name_party;":
+Det er Socialdemokraternes helt klare holdning,
+at det her lovforslag er ét element med hensyn
+til at eliminere et problem, og Socialdemokraterne synes, at vi til hver en tid skal stræbe efter at
+sikre den bedst mulige forskning og dermed en
+underbygning af den lovgivning, vi har i Danmark.
+Om det på et senere tidspunkt måtte give resultater, som gør, at loven her skal gennem en
+revision, vil jeg ikke udelukke. Men vi er naturligvis medspillere i forhold til alle mulige forslag for at løse det aktuelle problem med uro i
+forbindelse med sportsaktiviteter.";Flemming Møller Mortensen
+84343;Time;;Kl. 11:37
+84382;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste ordfører er Dansk Folkepartis
+ordfører, fru Marlene Harpsøe.";Helge Adam Møller
+84519;Time;(Ordfører);Kl. 11:37
+84551;name_party;":
+Dansk Folkeparti har gennemgået lovforslaget
+vedrørende sikkerhed ved bestemte idrætsbegivenheder. Lovforslaget indeholder initiativer,
+der skal højne sikkerheden ved idrætsbegivenheder, primært fodboldkampe, og sørge for, at
+fodboldbøller eller hooligans holder sig væk fra
+disse steder.
+Her vil man gribe ind ved at give disse voldelige hooligans karantæne i en periode på 2 år,
+hvis de overtræder lovgivningen på bestemte
+områder eller opildner til at overtræde sikkerheden ved idrætsbegivenheder.
+Dansk Folkeparti har jo i årevis efterlyst et
+hooliganregister for effektivt at komme fodboldbøllernes hærgen til livs, og det er med glæde, at
+vi nu kan notere os, at regeringen har fulgt vores
+opfordring.
+Vi har gentagne gange set eksempler på fodboldkampe, der er endt i vold, fordi hooligans
+planlægger og udfører vold ved disse begivenheder. Det er begivenheder, som ellers kunne
+have været en dejlig oplevelse for de andre tilskuere og for idrætsudøverne.
+Netop dette element af planlagt vold er ganske forrykt. Mange af disse hooligans møder
+ikke op for at se fodbold, men først og fremmest
+for at uddele øretæver. Det er en tarvelig adfærd, når nogle på den her måde med vilje ødelægger de gode oplevelser for andre.
+Desuden er det fuldstændig uacceptabelt at
+gøre sig til gerningsmand for vold eller lignen-
+
+(91)
+Fredag den 11. januar 2008 (L 38)
+de, som måtte finde sted. Det glæder derfor
+Dansk Folkeparti, at justitsministeren har taget
+initiativ til dette lovforslag, da der har manglet
+en ordentlig indsats på området for at stoppe
+disse voldelige bøller, som gang på gang ødelægger det for andre og bruger vold, som om det
+var almindelige morsomheder.
+Vi noterer os, at der i lovforslaget henvises til,
+at der er gode erfaringer med lovgivning på området både fra Storbritannien og fra Schweiz.
+Desuden er vi glade for, at dette initiativ også vil
+have en kriminalpræventiv effekt, fordi mulige
+voldsforbrydere nu kender til risikoen ved at
+udføre denne systematiske vold ved idrætsbegivenheder, nemlig at blive forment adgang til lignende begivenheder.
+Vi hæfter os også ved, at dette kan være med
+til at skabe tryghed ved sportsbegivenheder for
+alle deltagere både inden for og uden for banen.
+Overordnet vil jeg sige, at Dansk Folkeparti
+godt kan støtte forslaget, og vi ser frem til den
+videre behandling i udvalget.";Marlene Harpsøe
+86901;Time;;Kl. 11:39
+86940;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og det er SF's ordfører, fru Anne Baastrup.";Helge Adam Møller
+87047;Time;(Ordfører);Kl. 11:40
+87077;name_party;":
+SF er jo en del af politiforliget, og under forhandlingerne om politiforliget fik Det Radikale
+Venstre gennemtrumfet sit krav om, at vi skulle
+have et hooliganregister. Nej, det er måske lidt
+voldsomt sagt, men det er jo en diskussion, som
+vi har haft kørende gennem flere år.
+Det, der er afgørende for SF, er, at vi får forhindret, at disse situationer opstår. Et eksempel
+kan være, at der pludselig under en helt stilfærdig fodboldkamp på Bornholm opstår nogle helt
+uforudsigelige kampe. Og det er jo den type eksempler, hvor vi har ønsket at få nogle forebyggende elementer. Men når man laver et hooliganregister, som rent faktisk kan bruges af kontrollanter ved de forskellige fodboldkampe, så
+bliver vi utrygge.
+Vi bliver også utrygge, når ministeren meget,
+meget smukt gør opmærksom på - Justitsministeriet er jo altid gode til at skrive sig ud af problemerne - at persondatabeskyttelsesdirektivet
+naturligvis overholdes. Ja, men vi var altså et
+par stykker, der i et par måneder sad på skødet
+af den daværende justitsminister hr. Frank Jensen og forsøgte at få ham til at forstå, at ét er per-
+
+721
+
+sondatabeskyttelsesdirektivet, noget andet er,
+hvad vi synes der skal gennemføres i dansk lov.
+Det førte til en række ændringer af persondatabeskyttelseslovforslaget, således at der kom
+nogle opstramninger.
+Jeg er usikker på, om SF er bundet så meget,
+at vi skal stemme for det her. Det mener jeg ikke
+at vi er - ikke, når det har fået den her udformning. Men det er jo en sag, som vi hen ad vejen
+skal diskutere i Folketingets Retsudvalg.
+Jeg har i hvert fald ikke som medlem af Retsudvalget og under de forhandlinger sagt ja til, at
+vi skal have etableret et register af den her karakter, hvor persondatabeskyttelsesloven efter
+min bedste overbevisning ikke er overholdt, og
+hvor Datatilsynet, Institut for Menneskerettigheder og andre siger, at proportionalitetsprincippet ikke er til stede.
+Så jeg er dybt, dybt skeptisk over for det her
+lovforslag, og jeg havde i og for sig håbet, at
+Venstres tidligere retsordfører stadig væk ville
+have været retsordfører, således at vi kunne
+have haft en grundig debat om, hvor retssikkerheden er henne for disse mennesker, der risikerer at lande i det her register.
+Men vi tager diskussionen i Retsudvalget.
+Umiddelbart er min indstilling, at det her altså
+skal udsættes for nogle ændringer. Men der skal
+ikke herske tvivl om, at vi ikke vil have, at der er
+kampe mellem tilskuerne ved fodboldkampe: de
+skal koncentrere sig om bolden og det, der foregår på banen, og ikke andet. Men det her er efter
+min bedste overbevisning at gå for langt.";Anne Baastrup
+89680;Time;;Kl. 11:43
+89719;title_name;":
+Tak til ordføreren. Næste ordfører er den konservative ordfører, hr. Tom Behnke.";Helge Adam Møller
+89811;Time;(Ordfører);Kl. 11:43
+89838;name_party;":
+Rigtig mange mennesker har stor glæde af at gå
+til idrætsbegivenheder, f.eks. fodboldkampe.
+Mange, mange familiefædre tager sønnen ved
+hånden og går ud og ser fodbold og har en rigtig
+hyggelig dag.
+Det er bare ikke så hyggeligt længere, som
+det har været. Igen og igen ser vi, at nogle synes,
+det er sjovere at lave ballade, arrangere slagsmål
+og angribe politiet. De ser stort på, at der er helt
+almindelige familier med børn til stede på stadion, for nu skal de have lov til at afreagere på
+hinanden, og det kan simpelt hen ikke være rigtigt. Det kan ikke være rigtigt, at vi er i en situation, hvor flere og flere beslutter at lade være
+
+722
+
+Fredag den 11. januar 2008 (L 38)
+
+med at tage til fodbold, af frygt for at de kommer i klemme, fordi der er nogle ganske få ballademagere, som ikke kan finde ud af at opføre sig
+ordentligt.
+Idrætsbegivenheder må ikke blive ødelagt af
+ballademagere, og derfor gør politiet i dag allerede meget for at være til stede og for at pågribe
+dem, der laver ballade. Men som spillereglerne
+er i dag, har en sådan ballademager altså mulighed for allerede næste weekend igen at dukke
+op til et idrætsarrangement og igen skabe sig og
+te sig - selvfølgelig med risiko for at blive pågrebet af politiet. Jo, den risiko løber man, men man
+har altså muligheden, og der er ikke nogen muligheder for politi eller kontrollører for at pille
+disse ballademagere ud, inden de når hen til stadion, eller i hvert fald senest når de står ved porten og skal ind på stadion.
+Det er utrygt, fordi systemet, sådan som det
+er i dag, er for langsomt til at håndtere den type
+kriminelle, og derfor er det nødvendigt, at vi nu
+får bedre mulighed for at meddele en karantæne
+- altså et forbud mod at overvære en bestemt
+idrætsbegivenhed eller opholde sig i nærheden
+af idrætspladsen, hvis man er ballademager - og
+vel at mærke en karantæne, som der efterfølgende er mulighed for at håndhæve. Det er jo helt
+afgørende, for hvis der ikke er mulighed for at
+håndhæve en karantæne, hvorfor så idømme
+ben?
+Angående ballademagerne - som jo er mit
+udtryk - er det selvfølgelig i forslaget juridisk
+beskrevet, at det er personer, som udøver vold,
+angriber politiet, indlader sig i slagsmål, kommer med trusler, udtrykker racisme, begår hærværk, overtræder våbenloven eller lovgivningen
+om euforiserende stoffer, overtræder loven om
+sprængstoffer osv. osv. Det er udtømmende beskrevet i forslaget, og det, det så går ud på, er
+altså, at denne person, der ikke kan finde ud af
+at opføre sig ordentligt, får en karantæne på indtil 2 år fra bestemte idrætsbegivenheder inden
+for et område af indtil 500 m fra idrætspladsen,
+gældende fra 6 timer før og til 6 timer efter begivenheden.
+Den meddelte karantæne kan prøves ved
+domstolene, og hvis en borger, der er meddelt
+en sådan karantæne, ønsker den prøvet ved
+domstolene, skal der ske en særlig hurtig behandling, dvs. inden for en uge. Meget, meget
+hurtigt kan man altså få afgjort, om det var berettiget eller ej, at man blev meddelt en karantæne, og det må siges at være retssikkerhed.
+
+Samtidig er der regler i forslaget, der gør, at
+karantænen rent faktisk kan håndhæves, og som
+jeg sagde tidligere, er det helt afgørende, at de,
+der står ved stadion og skal kontrollere, hvem
+der kommer ind, ikke behøver at spørge hver
+eneste gæst, om den pågældende hedder Jørgen
+Jørgensen eller Peter Petersen, for at finde ud af,
+om den pågældende har karantæne. Næh, kontrollørerne kan have en liste med billeder af de
+heldigvis få, der ikke må komme ind, og derfor
+kan de nøjes med at genere dem og sige: I må
+ikke komme ind, væk fra området! Det synes jeg
+er fint, specielt fordi kontrollørerne fremover
+bliver uddannet og autoriseret til denne ordning, fordi politiet ved hver eneste begivenhed
+konkret skal vurdere, hvem det er relevant at
+udlevere oplysninger om, og fordi det kun er
+specielle kontrollører, der kan få lov til at få disse informationer. Dermed burde retssikkerheden absolut være i orden, det er i hvert fald vores klare overbevisning.
+Forslaget her vil meget mere end så meget andet forebygge uroligheder og øge sikkerheden
+ved idrætsbegivenheder i fremtiden, for hvorfor
+skulle man rejse fra den ene ende af landet til
+den anden, vel vidende, at allerede når man
+nærmer sig stadion, vil man blive pågrebet og
+ikke bare afvist? Næ, så er det en overtrædelse
+af karantænen, og dermed bliver man altså pålagt en straf. På den måde kan vi sikre, at ballademagerne ikke weekend efter weekend ødelægger det for almindelige mennesker, og derfor
+er det her et supergodt forslag, som vi fra konservativ side giver fuld opbakning.";Tom Behnke
+94438;Time;;Kl. 11:48
+94477;title_name;":
+Der er en enkelt kort bemærkning. Fru Line Barfod.";Helge Adam Møller
+94539;Time;;Kl. 11:48
+94556;name_party;":
+Jeg vil gerne spørge hr. Tom Behnke angående
+de mere vidtgående retssikkerhedsmæssige
+konsekvenser af den tankegang, der ligger bag
+forslaget.
+Problemet er, at det ikke bare bliver sådan,
+som retstilstanden er i dag. Hvis man får en dom
+for at have gjort noget, kan domstolene også
+tage stilling til, om den skal følges op af en straf,
+f.eks. udelukkelse fra at deltage i nogle ting og
+forbud mod at komme på bestemte områder i en
+periode eller noget lignende. Her siger man
+tværtimod, at sigtede kan få karantæne, selv om
+de i princippet er uskyldige, indtil de bliver
+dømt, og at det, at de er mistænkt for at have
+
+Fredag den 11. januar 2008 (L 38)
+gjort noget, er nok til, at de kan få karantæne,
+selv om man ikke kan være sikker på, at de vil
+gøre noget fremover.
+Er det noget, hr. Tom Behnke mener vi også
+skal udvide til andre områder af samfundslivet,
+f.eks. ved koncerter eller ved butikscentre eller
+andre steder? Skal man også her på samme måde kunne udelukke en større og større del af befolkningen fra at deltage, fordi det er en nem
+måde at forebygge uroligheder på, eller hvad?";Line Barfod
+95661;Time;;Kl. 11:49
+95700;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+95733;Time;;Kl. 11:49
+95749;name_party;":
+Nu skal vi lige huske på, at den meget principielle diskussion har Folketinget sådan set taget
+for mange år siden. Her er det jo ikke første
+gang, man får en sådan mulighed.
+Hvad angår restaurationslovgivningen, er
+der mulighed for at idømme påbud om ikke at
+komme bestemte steder, allerede inden dommen
+er afsagt, altså allerede når personen er sigtet.
+Ifølge den tidligere politivedtægt var det også
+muligt, og det står jo også i de nye politilove, at
+pålægge folk, at de ikke må komme i et bestemt
+område, hvis de f.eks. handler med euforiserende stoffer eller driver ulovlig prostitution eller
+lignende. De kan simpelt hen få et påbud, allerede inden der er afsagt dom, så det er altså ikke
+noget nyt.
+Her gør vi det bare på et område, hvor det er
+nødvendigt. Når en ballademager weekend efter weekend laver slagsmål, angriber politiet
+osv. osv., kan vi jo ikke have, at fordi retssystemet kan være noget langsommeligt her i landet,
+så der kan gå et halvt eller et helt år, inden vedkommende får sin endelige dom, og før man
+kan give en karantæne, for i al den tid kan den
+ballademager altså blive ved og ved, og det vil
+vi altså ikke være med til. Ballademagere skal
+stoppes her og nu.
+.";Tom Behnke
+96953;Time;;Kl. 11:50
+96992;title_name;":
+Fru Line Barfod for endnu en kort bemærkning.";Helge Adam Møller
+97049;Time;;Kl. 11:50
+97066;name_party;":
+Vi bliver næppe enige på det her punkt, så lad
+mig prøve noget andet.
+Af nogle studier og også den rapport, der er
+fremlagt som baggrundsmateriale til i dag, og
+som er støttet af Justitsministeriet, kan man se,
+at nøjagtig de samme fangrupper opfører sig
+utrolig forskelligt ved fodboldkampe, alt afhæn-
+
+723
+
+gigt af hvilken strategi der bliver brugt fra politiets side, og om der er en dialog eller ej. Giver
+det ikke hr. Tom Behnke anledning til at overveje, om man ikke burde gå videre ad den vej og
+se, hvad vi kan gøre for indretningen af stadionerne, for den måde politiet agerer på, og for
+den måde de organiserede fangrupper prøver at
+forberede sig på osv., så man forebygger, at det
+overhovedet kommer dertil, at der er nogle optøjer, og at der er noget, som gør, at folk kommer
+ud i slagsmål eller andet, så man skal til at tage
+de redskaber i brug? Og vil hr. Tom Behnke støtte, at vi skal have noget mere forskning og udvikling på det her område?";Line Barfod
+98037;Time;;Kl. 11:51
+98076;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+98109;Time;;Kl. 11:51
+98125;name_party;":
+Det er fint, at der bliver spurgt igen, for tiden løb
+jo ud for mig før.
+Lad mig gøre det hurtigt og præcist. Med
+hensyn til at indrette stadioner er det jo så heldigt, at lovforslaget også indeholder bestemmelser om det, så den del er med, og med hensyn til
+forskning ligger der jo tonsvis af forskning til
+grund for lovforslaget. Vi har jo allerede set på,
+hvordan man har gjort i England, og det er jo
+netop det, man gjorde i England, som bevirkede,
+at antallet af overfald og slagsmål faldt.
+Lad mig så præcisere med hensyn til det forrige spørgsmål: Hvis man bliver pålagt en karantæne, kan man få den prøvet ved domstolene
+allerede inden for en uge. Når domstolen skal
+vurdere den, skal den jo vurdere den sigtelse,
+der ligger til grund for, at man er meddelt en karantæne, plus om forudsætningerne for karantæne er til stede - altså om der er risiko for, at
+vedkommende vil gøre det igen i fremtiden,
+hvis han ikke får en karantæne. Det vil blive afgjort af domstolen inden for en uge, og man kan
+da ikke få en større retssikkerhed:
+- Kl. 11:52";Tom Behnke
+99217;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og den næste ordfører er hr. Simon Emil
+Ammitzbøll.";Helge Adam Møller
+99332;Time;(Ordfører);Kl. 11:52
+99370;name_party;":
+I Det Radikale Venstre ser vi med stor alvor på
+den vold, der kan være i forbindelse med større
+sportsbegivenheder - og sådan set også på den
+vold, der kan være i forbindelse med mindre,
+
+724
+
+Fredag den 11. januar 2008 (L 38)
+
+men nu er det ikke det, det handler om her. Derfor er det jo rigtigt, som også fru Anne Baastrup
+var så venlig at gøre opmærksom på, at Det Radikale Venstre ved forhandlingerne om flerårsaftalen for politi- og anklagemyndighed var et af
+de partier, der, sammen med Dansk Folkeparti
+- æres den, der æres bør - mest kraftigt arbejdede for, at man skulle lave nogle tiltag for at komme den her vold til livs. Og det skammer jeg mig
+sådan set ikke over.
+Der er nemlig ved en del sportsbegivenheder
+problemer med en særlig hård kerne af fodboldbøller, de såkaldte hooligans. Og det er baggrunden for, at forligspartierne, som jo altså er seks
+ud af Folketingets otte partier, var enige om, at
+der skulle gøre noget ved det her uvæsen.
+I Det Radikale Venstre vil vi meget gerne
+være med til at løse problemerne. Og jeg synes
+sådan set, at man har givet en del indrømmelser
+i forbindelse med de høringssvar, der har været:
+jeg synes faktisk, at man fra Justitsministeriets
+side har været opmærksom på en del af de indsigelser, der er kommet til det her lovforslag.
+Men der er to forhold, som vi stadig væk godt
+kunne tænke os at se nærmere på i forbindelse
+med udvalgsbehandlingen.
+For det første handler det om hele det her
+spørgsmål om, hvem det er, der bliver udelukket. Vi talte jo oprindeligt for, at man skulle have
+et hooliganregister for dømte, her i forslaget har
+man stadig væk et hooliganregister for sigtede,
+men der er jo en eller anden form for forskel,
+som er afgørende i vores verden. Jeg synes dog,
+at det er positivt, at en sådan udelukkelse kan
+indbringes for domstolene. Men der kan jo stadig væk godt være en eller anden form for retssikkerhedsmæssig detalje i, om der er tale om
+dømte eller ikkedømte. Jeg kunne i hvert fald
+godt tænke mig, at vi under udvalgsbehandlingen gik lidt mere ind i at se på det. Man kan hurtigt bringe det for domstolene, men hvor hurtig
+vil behandlingen f.eks. være ved domstolene?
+Hvor lang tid kan det egentlig risikere at komme
+til at tage? Kan der være en problematik der,
+som vi eventuelt kunne se på?
+For det andet er der jo spørgsmålet om videregivelse af fortrolige oplysninger til de her autoriserede kontrollører, der nu kommer. Der kan
+jo godt sættes spørgsmålstegn ved, om det uddannelsesmæssige niveau så at sige er højt nok
+for den persongruppe, som ville få de her oplysninger. Bliver kredsen af ikkemyndighedspersoner, der får adgang til personfølsomme oplysninger, for stor? Der synes jeg også, at det er
+
+værd at tage en diskussion i udvalget om, hvad
+det er for en gruppe, og hvad det er for en form
+for uddannelse, de skal have, og hvad det præcis er for oplysninger, de skal have. Kan man
+gøre det på en måde, sådan at vidensniveauet
+om, hvad den enkelte har gjort, og hvem vedkommende er, bliver så lavt som muligt, samtidig med at det kan lade sig gøre at administrere
+det.
+Når det er sagt, vil jeg henlede opmærksomheden på, at vi jo også stadig væk kunne tage
+andre midler i brug over for det her. Det Radikale Venstre har jo tidligere været en meget kraftig
+fortaler for, at klubberne også kunne være med
+til at betale for det politiudbud, der skal bruges i
+forbindelse med det her hooliganuvæsen. Faktisk tror vi, at det er sådan, at hvis klubberne nu
+skulle være med til at betale for den politiindsats, der skal være, så kunne det jo godt være, at
+klubberne også var endnu mere aktive i det præventive arbejde. Det har vi foreslået. Vi har i øvrigt - igen i den her uhellige og mærkelige alliance - været glade for, at Dansk Folkeparti er
+det eneste parti, der, så vidt jeg husker, har støttet os i den sag. Så er vi faktisk også glade for, at
+Politiforbundet også har været ude og støtte tanken om, at klubberne kan være med til at betale.
+Men jeg håber faktisk, at det er en tanke, som vi
+også kunne dyrke lidt mere. For jeg tror faktisk,
+at den præventive effekt, det har på klubberne,
+kunne være mindst lige så god som det strammeragtige tiltag, som vi nu tager over for den
+enkelte bølle, om jeg så må sige.";Simon Emil Ammitzbøll
+103596;Time;;Kl. 11:57
+103635;title_name;":
+Tak til ordføreren. Vi går videre i ordførerrækken, og så er det Ny Alliances ordfører, og det er
+hr. Naser Khader.";Helge Adam Møller
+103762;Time;(Ordfører);Kl. 11:57
+103791;name_party;":
+Vold og sport hører ikke sammen. Sport er
+grundlæggende leg og underholdning, også selv
+om der på banen forekommer episoder, hvor fysiske aktiviteter overskrider spillets regler og
+udarter sig til vold mellem deltagerne. Det har
+vi bl.a. dommere, linjevogtere og idrætsklubberne selv til at tage sig af. Noget ganske andet er
+voldelige tilskuere, som opsøger sportsbegivenheder for bevidst og planlagt at udøve vold mod
+andre. Dem kalder vi hooligans, og deres voldsaktiviteter ødelægger fornøjelsen for et stort antal tilskuere og fredelige fans.
+
+Fredag den 11. januar 2008 (L 38)
+Det er naturligvis helt uacceptabelt, og derfor
+er det godt, at justitsministeren nu kommer med
+et udspil til at forebygge og bekæmpe hooliganisme. Udspillet har godt nok været længe undervejs, for det er næsten 3 år siden, en arbejdsgruppe inden for politiet afgav en rapport om
+bekæmpelse af hooliganisme i Danmark med en
+række konkrete anbefalinger. Men bedre sent
+end aldrig, og det var måske episoden med en
+tilskuer, som angreb en dommer under en fodboldkamp, der fik sat gang i tingene i Justitsministeriet.
+Lovforslaget indeholder forskellige muligheder for indgreb og reguleringer. Den foreslåede
+generelle karantæneordning er et ganske vidtgående indgreb i en persons frihedsrettigheder, så
+den må bruges med omtanke. Det beroliger mig
+dog i denne forbindelse, at afgørelsen om karantæne kan indbringes for domstolene. Samtidig
+har jeg noteret mig, at der øjensynligt har været
+gode resultater med den slags indgreb i Schweiz
+og i England. Det står der i bemærkningerne,
+men der står desværre ikke noget om erfaringerne fra Sverige. Det undrer mig lidt, at vi ikke har
+fået en vurdering fra myndighederne i vort naboland, men det får vi måske under udvalgsarbejdet.
+Jeg synes også, det er en god idé at autorisere
+og uddanne kontrollørerne ved idrætsbegivenheder, så de bliver bedre til at udføre deres arbejde. I den forbindelse er det naturligvis fornuftigt at forsyne dem med en række oplysninger om karantæneramte personer, herunder fotos, selv om der også her kan opstå problemer i
+forhold til den enkeltes retssikkerhed. Det er der
+en række høringspartnere, der har ytret kritik af,
+og deres synspunkter må naturligvis indgå i udvalgsarbejdet. For en sådan ordning taler dog, at
+det jo ikke vil være muligt for kontrollørerne at
+forhindre de karantæneramte i at få adgang til
+stadion, hvis de ikke kan identificere dem. Jeg
+må så gå ud fra, at man i den uddannelse, kontrollørerne skal have, gør meget ud af at sikre
+sig, at de forstår vigtigheden af, at personoplysninger skal behandles med omtanke, og at det er
+strafbelagt at overtræde tavshedspligten.
+Endelig åbner lovforslaget op for, at politiet
+kan komme med konkrete påbud om den sikkerhedsmæssige indretning af idrætsanlæg. Ministeren skal også kunne fastsætte regler om
+godkendelse af steder, hvor der afholdes idrætsbegivenheder. Det forekommer fornuftigt at tage dette aspekt med, så det kan vi i Ny Alliance
+støtte.
+
+725
+
+Lovforslaget indeholder mange bemyndigelser til ministeren, og det er naturligvis på den
+ene side helt i orden, at vi ikke skal detailregulere området direkte i lovgivningen, men det skaber på den anden side også et behov for, at vi får
+lidt mere at vide af ministeren om, hvordan hun
+har tænkt sig at bruge bemyndigelserne. Vi må
+også have mere at vide om, hvordan man tænker sig effektivt at håndhæve karantæneordningen, dels for at kunne holde urostifterne ude og
+dels for at sikre den størst mulige præventive effekt.
+Med disse ord kan vi i Ny Alliance støtte lovforslagets gennemførelse.";Naser Khader
+107381;Time;;Kl. 12:01
+107420;title_name;":
+Tak til ordføreren. Den sidste ordfører er Enhedslistens ordfører, og det er fru Line Barfod.";Helge Adam Møller
+107525;Time;(Ordfører);Kl. 12:01
+107553;name_party;":
+At gå til fodbold skulle jo helst være noget, der
+er sjovt og spændende, en god oplevelse, og derfor er det selvfølgelig dybt problematisk, hvis
+der opstår slagsmål, hvis der opstår voldsom
+chikane, hvis der, som vi har set flere gange, er
+grobund for stærkt højreorienterede grupper,
+som både på fodboldbanen og blandt de andre
+tilskuere prøver at chikanere folk med mørk
+hud, et andet navn, eller hvad det kan være. Så
+selvfølgelig er det her et område, hvor det er rigtig vigtigt at diskutere: Hvad er det vi kan gøre?
+Samtidig mener vi i Enhedslisten, at det er
+vigtigt at se på, hvad der er af retssikkerhedsmæssige forhold. Vi mener, at det er rigtig vigtigt, at det, vi gør, er retssikkerhedsmæssigt i orden - også i forhold til persondataloven.
+Derudover er vi optaget af at se på, hvad vi
+egentlig tror på virker for at få så få konflikter
+som muligt, så det kan være en god og fredelig
+oplevelse. Og der er vi altså meget betænkelige
+ved, om det her kommer til at føre til flere konflikter.
+Derfor vil jeg gerne høre, om ministeren har
+tænkt sig at bruge sin bemyndigelse til kravene
+til uddannelse af kontrollører til at sikre, at der
+også skal indgå konflikthåndtering i den uddannelse, de skal have, for jeg kan sagtens forestille
+mig, at der kommer til opstå masser af konflikter, når man står og skal kontrollere folk, der
+kommer ind.
+Som jeg har været inde på under de korte bemærkninger, tror jeg også, at det er rigtig vigtigt,
+at vi begynder at se på, hvordan politiet håndte-
+
+726
+
+Fredag den 11. januar 2008 (L 38)
+
+rer de forskellige situationer. Hvad er det, der
+gør, at man kan have to forskellige fodboldkampe med meget kort mellemrum og med de samme fangrupper, hvor den ene kamp bliver til store optøjer, og den anden - som Flemming Steen
+Munch fra Københavns Politi konstaterede bagefter - var en af de fredeligste fodboldaftner, vi
+har haft længe? Og hvor forskellen er altså bl.a.
+ligger i, hvordan politiet har valgt at køre deres
+strategi: Om de har valgt at lægge op til, at det
+skal være konfrontation, og er massivt til stede i
+kampdragter osv., eller de har valgt at lægge op
+til, at det her skal være en fredelig oplevelse, og
+derfor ikke er lige så synlige og slet ikke i kampdragter.
+Det er utrolig vigtigt at se på, hvordan psykologien er med hensyn til, om man gør folk
+bange og får optrappet konflikter eller man får
+det til at være fredeligt. Tilsvarende refereres der
+i den rapport, som Justitsministeriet har støttet
+er blevet udarbejdet, fra EM i Portugal, hvor
+man havde to forskellige politikorps, som håndterede situationen meget forskelligt, og hvor
+man derfor også kunne se, at resultatet blev meget forskelligt, afhængigt af hvad det var for et
+af de to politikorps, der tog sig af de forskellige
+fodboldkampe.
+Jeg tror også, at det rigtig vigtigt at gå ind i en
+meget tæt dialog med de organiserede fans og
+diskutere, hvordan de kan være med til også at
+have noget selvjustits: hvad de kan være med til
+at gøre.
+Og så tror jeg, at det er vigtigt også at se på,
+hvordan man kan få en dialog, og hvordan man
+kan sikre en hurtig opklaring af, hvad der er
+foregået i de situationer, hvor der så indimellem
+er gået noget galt.
+Det, vi har set i sagen med tilskuerne fra
+Malmø, hvor der blev vist nogle meget voldsomme billeder af tilskuere, der blev slået med
+knipler, og hvor der stort set ikke ser ud til at ske
+noget som helst i klagesagen - jeg tror, der gik
+1 Vi år, før man fra Sveriges side for alvor begyndte at spørge til, hvad der egentlig skete i
+den sag, og før, statsadvokaten for alvor begyndte at få nogle afhøringer af politiet osv. - er
+ikke med til at opbygge en tillid blandt tilskuerne til, at tingene bliver undersøgt og man får en
+afklaring af, hvad der egentlig er foregået. Det
+tror jeg også er vigtigt at tage fat i.
+Som forslaget ligger her kan vi ikke støtte det.
+Som jeg har været inde på, mener vi, at det er
+problem, at man tager folk, som kun er sigtede
+og ikke dømt, med i et register. Vi er usikre på,
+
+om et register ikke vil føre til mere konflikt frem
+for mindre. Og så mener vi altså, at det en helt
+anden tilgang, der skal til.
+Endelig har jeg et sidste spørgsmål vedrørende udveksling med andre lande: Vil de her oplysninger om, hvem der har fået karantæne,
+også kunne videregives til andre lande, både til
+deres myndigheder, men eventuelt også til kontrollører i andre lande? Og hvis det er sådan, at
+de kan videregives, hvilke krav vil der så være
+til, hvem de videregives til?";Line Barfod
+112032;Time;;Kl. 12:06
+112071;title_name;":
+Der er en enkelt kort bemærkning til fru Line
+Barfod, og det er fra hr. Tom Behnke.";Helge Adam Møller
+112166;Time;;Kl. 12:06
+112182;name_party;":
+Jeg kan forstå, at fru Line Barfod mener, at det er
+alle andre, der skal ændre adfærd. Politiet skal
+ændre adfærd, kontrollørerne skal ændre adfærd, de øvrige publikummer skal ændre adfærd, men det er, som om det er fuldstændig ligegyldigt med dem, der laver ballade. Hvis bare
+alle vi andre og hvis politiet ændrer adfærd, skal
+de her - nu er der grænser for, hvilke ord man
+må bruge i Folketinget, så jeg nøjes med at sige
+ballademagere - nok finde ud af at opføre sig ordentligt, for i virkeligheden er det alle andres
+skyld, at de bliver aggressive og føler behov for
+at komme af med nogle ting. Det er politiets
+massive tilstedeværelse, der gør, at de her publikummer flere uger før en fodboldkamp på mobiltelefonerne aftaler at mødes og slås. Det er,
+fordi de ved, at politiet vil være massivt til stede
+den pågældende dag. Det ved de jo ikke noget
+som helst om.
+Det, jeg vil høre, er: Vil fru Line Barfod slet
+ikke stille nogen krav til ballademagerne?";Tom Behnke
+113153;Time;;Kl. 12:07
+113192;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+113225;Time;;Kl. 12:07
+113242;name_party;":
+Jo, jeg mener bestemt, man skal stille krav om, at
+folk hverken begynder at slås med andre, kommer med racistiske tilråb eller på anden måde
+overtræder lovgivningen. Det er der krav om i
+lovgivningen allerede.
+Men min oplevelse, det, jeg kan se af forskningen, og det, jeg hører fra folk, der deltager, er,
+at det heldigvis er meget få af dem, der går til
+fodbold, som laver ballade. Det er ikke mange,
+der på forhånd planlægger, at de nu vil hen og
+slå nogle andre ned. Derfor er spørgsmålet:
+
+Fredag den 11. januar 2008 (L 38)
+Hvordan gør vi det bedst, når vi vil isolere de få,
+der laver ballade? Hvordan får vi bedre de andre tilskuere med på at isolere de få, der vil lave
+ballade? Det er det, jeg er optaget af.
+Selvfølgelig skal der være krav om, at man
+ikke må lave ballade.";Line Barfod
+114037;Time;;Kl. 12:07
+114076;title_name;":
+Hr. Tom Behnke for endnu en kort bemærkning.";Helge Adam Møller
+114132;Time;;Kl. 12:07
+114148;name_party;":
+Det er jo betryggende, at også fru Line Barfod er
+optaget af, hvordan vi forhindrer det her, men vi
+hører ikke nogen svar. Fru Line Barfod er bare
+optaget af det, men man må da have nogle alternative svar. Hvis ikke man støtter det foreliggende forslag fra regeringen, må man da have
+nogle andre ideer til, hvordan vi forhindrer, at
+ballademagerne weekend efter weekend efter
+weekend optræder voldeligt, angriber politiet
+osv. osv. Hvordan forhindrer vi det?
+Hvis man først skal sigte den pågældende for
+en forbrydelse og derefter til domstolene, som
+skal have tid til at behandle sagen, og hvis den
+sigtede så har en af de kendte forsvarere, kan
+der gå et helt år, inden vedkommende får sin sag
+for domstolen. Og først til den tid, når der er afsagt endelig dom, som selvfølgelig bliver appelleret til landsretten, som så igen skal bruge tid
+på at afsige den endelige dom, kan man meddele karantæne. Vedkommende kan altså weekend
+efter weekend optræde voldeligt og meget mere,
+uden at man kan sige til vedkommende, at han
+overhovedet ikke må komme i nærheden af stadion. Hvordan vil fru Line Barfod løse det problem, hvis ikke det netop er på den her måde?";Tom Behnke
+115317;Time;;Kl. 12:09
+115356;title_name;":
+Så er det ordføreren.";Helge Adam Møller
+115389;Time;;Kl. 12:09
+115406;name_party;":
+Jeg er helt med på, at vi er dybt uenige om,
+hvordan det her problem skal løses, men jeg har
+både i de korte bemærkninger og her i min ordførertale henvist til den rapport, der ligger, og
+som påviser meget store forskelle på, hvor meget ballade der er, afhængigt af hvilken strategi
+man vælger, ligesom indretningen af stadion og
+mange andre ting har betydning. Vi kunne også
+se på udskænkning af alkohol og andre ting. Der
+ligger klare eksempler på, at fodboldkampe med
+nøjagtig de samme fangrupper forløber vidt forskelligt, afhængigt af hvilken strategi man væl-
+
+727
+
+ger, og det er det, jeg mener vi skal se meget dybere på.
+Vi skal have en meget tættere dialog både
+med politiet og med de forskellige organiserede
+fangrupper og især med dem imellem om, hvordan vi kan prøve at isolere de få ballademagere,
+der er. Hvad kan vi konkret gøre for, at det ikke
+bliver noget, som mange deltager i, og der bliver
+et stort slagsmål, men at der kun er nogle få ballademagere, som man så kan tage fat i?";Line Barfod
+116417;Time;;Kl. 12:10
+116456;title_name;":
+Tak til ordføreren. Så er det justitsministeren.";Helge Adam Møller
+116516;Time;;Kl. 12:10
+116550;title_name;":
+Jeg vil gerne indlede med at takke for den ret
+store opbakning, der generelt er til det her lovforslag. Jeg fornemmede faktisk en opbakning
+blandt alle ordførerne, og her lyttede jeg bl.a.
+meget til, hvad hr. Kim Andersen på vegne af
+Venstre sagde, nemlig at vi i Danmark jo har en
+meget stor kærlighed til det at gå ind og se
+idrætsbegivenheder, f.eks. fodboldkampe. Det
+er en nationalsport i sig selv at være tilskuer, og
+det skulle gerne blive ved med at være sådan, at
+man trygt og roligt kan gå ind og nyde en fodboldkamp og have det hyggeligt.
+Desværre er der altså bare, som også flere har
+været inde på i dag, en tendens til, at der er en
+meget lille gruppe, der udgør et problem - og
+her taler jeg altså ikke om de store fanklubber,
+der gør et kæmpe stykke arbejde, bakker op om
+deres hold og kommer til kamp efter kamp, uanset hvordan deres hold spiller. Det er jo ikke
+dem, der udgør et problem, men der er altså en
+lille gruppe af folk, der har gjort det til deres
+speciale at møde op og lave ballade på fodboldstadioner - nogle gange, som hr. Tom Behnke
+påpegede for et øjeblik siden, simpelt hen for at
+deltage i organiserede slagsmål med andre
+grupper, andre gange bare for at genere alle andre. Nogle af de eksempler, som i hvert fald efter
+min opfattelse er dem, man må tage allermest
+afstand fra, er grupper, som har rene fremmed-,
+fjendske, racistiske motiver, og som benytter enhver lejlighed til at :fremture med disse på både
+den ene og den anden voldelige måde, når de
+møder op på fodboldstadioner.
+Det er klart, at samfundet over for det ikke
+bare kan sidde på hænderne og sige: Fy, fy, det
+må I ikke. Jeg skal ikke lægge skjul på, at jeg synes, at det ikke mindst har været vigtigt at skelne til de erfaringer, man har gjort sig i andre lande, der har endnu større problemer med hooli-
+
+728
+
+Fredag den 11. januar 2008 (L 38)
+
+ganisme, og hvad de har gjort for at dæmme op
+for de tendenser. For mig at se har det været helt
+afgørende, at vi fandt en model, der retssikkerhedsmæssigt selvfølgelig var fuldt ud ansvarlig,
+det skulle være en model, der var effektiv og
+velfungerende, og endelig skulle det være en
+model, der målrettede sig mod dem, der er et
+problem, ikke mod de titusindvis af fuldstændig
+fredelige mennesker, der går til fodbold hver
+eneste weekend, og som forholder sig i ro. Og
+det synes jeg at lovforslaget her i den grad medvirker til.
+Hr. Flemming Møller Mortensen spurgte til to
+ting, og jeg vil gerne takke for opbakningen fra
+Socialdemokratiets side til forslaget. Det ene
+spørgsmål gik på, om der er noget samarbejde i
+EU-regi på det her område, da der jo er kampe,
+der foregår på tværs af EU's grænser, og da det
+måske også har en relevans i et politimæssigt
+samarbejde. Til det vil jeg svare et rungende ja.
+Der er et rigtig godt samarbejde, der bl.a. bygger
+på rådskonklusioner, der har været i forbindelse
+med større sportsbegivenheder, for at sikre, at
+man samarbejder med hinanden - det gælder
+f.eks. afvikling af VM, EM osv. - så det lokale
+politi har viden om, hvilke personer man skal
+holde øje med og tage hånd om. Der er et godt
+samarbejde, og der er jo i det hele taget et meget
+velfungerende samarbejde mellem de politimæssige myndigheder i de forskellige lande.
+Det andet spørgsmål, som den socialdemokratiske ordfører stillede, gik på, hvad det kommer til at koste af ressourcer for politiet med den
+nye ordning, vi lægger op til. Det vil jeg sige jeg
+er rigtig glad for at kunne svare på, for de erfaringer, man har fra bl.a. England viser faktisk, at
+det her kommer til at spare på politiets ressourcer. Jeg kan henvise til afsnit 3.2.3. i lovforslagets
+bemærkninger.
+Jeg synes, det er meget illustrativt, at siden
+man i 2000 i Storbritannien indførte ordningen
+med banning orders, er fodboldrelaterede anholdelser faldet med 22 pct. de seneste 3 år, og
+43 pet. af de regulerede fodboldkampe afvikles
+nu helt uden politi. Der er årligt 38,6 millioner
+tilskuere til de regulerede fodboldkampe, men
+ved 80 pct. af kampene anholdes der kun én eller slet ingen personer, og anholdelser i forbindelse med fodboldrelateret vold er faldet med
+46 pet. i løbet af 3 fodboldsæsoner. Der er derfor
+ingen tvivl om, at det, at man går ind og får taget hånd om dem, der laver ballade, er noget af
+det, der fritager politiet fra at bruge en masse
+ressourcer på noget, de egentlig ikke skulle bru-
+
+ge ressourcer på, men det er altså også med til at
+skabe en langt bedre stemning for de mange,
+som møder op på fodboldstadioner for at se fodbold og ikke for at se på slåskampe.
+Til fru Marlene Harpsøe fra Dansk Folkeparti
+vil jeg sige, at jeg takker for den meget positive
+ordfører tale, og jeg kan så sige, at det er fuldstændig korrekt, at Dansk Folkeparti, faktisk
+lige siden det her er begyndt at ulme og blive et
+problem, har været meget optaget af, at vi fik
+nedsat en arbejdsgruppe og fik set på problemet,
+og at der også kom nogle løsninger til, hvordan
+vi så kunne håndtere problemet. Der kan man
+sige at lovforslaget i dag er en del af løsningen
+- med oprettelsen af den nationale database osv.
+- men det er klart, at det her jo ikke står alene.
+Ude i fanklubberne, ude i den enkelte klub, i
+DBU og i Divisionsforeningen er det her jo også
+et område, man arbejder målrettet med at gøre
+noget ved. Jeg vil i hvert fald sige, at jeg er fuldstændig enig med Dansk Folkeparti i, at det her
+er nødvendigt. Man kan sige, at det er lidt trist,
+at det er kommet så vidt, at vi inden for sportens
+verden nu skal til at sortere bestemte persontyper fra, fordi de ødelægger glæden for alle os
+andre, men ikke desto mindre er det nødvendigt.
+Til fru Anne Baastrup vil jeg sige - og det er
+sådan set også lidt et svar til hr. Simon Emil Ammitzbøll fra Det Radikale Venstre - at hvis man
+sådan skal være helt tro mod historien, er det
+fuldstændig korrekt, at det var Det Radikale
+Venstre og Dansk Folkeparti, der under vores
+forhandlinger om et nyt politiforlig var meget
+optaget af at gå ind og se på den her problemstilling: Hvad gør vi ved de problemer, der er på
+stadioner, og ved, at meget store politiressourcer
+bliver brugt på at opretholde ro og orden? Jeg
+skal ikke kunne sige, om Det Radikale Venstre
+og Dansk Folkeparti havde præcis den samme
+dagsorden, men der var i hvert fald fra hvert
+partis stol et ønske om at tage det med.
+Der var i politiforligskredsen enighed om, at
+der skulle ses på det, men jeg mener ikke, at
+man skal tolke det derhen, at der er en forpligtelse til at stemme for det her lovforslag. Hvis
+erfaringerne fra England også skulle vise sig at
+holde stik i Danmark, betyder det, at det frigør
+betjente til andet, men jeg mener ikke, at man er
+forpligtet til at stemme for det her lovforslag.
+Det synes jeg ville være at gå for vidt, og det betyder også, at SF selvfølgelig er frit stillet til at
+kunne tage endelig stilling til, om det er et forslag, som SF vil fremme ved tredjebehandlingen.
+
+(92)
+Fredag den 11. januar 2008 (L 38)
+Hr. Tom Behnke vil jeg også meget gerne takke mange gange for ordførertalen, ikke mindst
+for den fokusering, der var på, at det her altså
+handler om at få gjort noget effektivt ved problemet. Problemet er jo lidt, at det lidt er den samme gruppe, der bliver ved med at rende rundt
+og lave ballade. I dag har klubberne jo en mulighed for at sige til bestemte personer, at de ikke
+må komme på deres stadion. Men klubberne
+kan jo ikke sige, at de heller ikke må komme på
+stadionet i Randers eller et andet sted, og det er
+jo med til at vanskeliggøre tingene. Derfor er jeg
+helt enig med Tom Behnke i, at det her meget
+handler om at lave et system, som virker. Det
+kan også være med til at have en forebyggende
+effekt, at ballademagerne ved, at deres handlinger har konsekvenser.
+Fra hr. Simon Emil Ammitzbølls side hørte
+jeg en ordførertale, der svagt hældede mod et ja
+- og dog alligevel ikke helt, men det ville jo altså
+heller ikke være Det Radikale Venstre, hvis vi sådan fik en helt klar besked om den her slags
+ting. Nej, spøg til side, jeg er faktisk meget positivt overrasket over, at hr. Simon Emil Ammitzbøll anerkender, at der er blevet lyttet meget til
+den kritik, der har været efter høringsrunden, og
+jeg er helt overbevist om, at det bl.a. har været
+medvirkende til, at Det Radikale Venstre er blevet mere positivt indstillet over for lovforslaget
+nu, end da det forelå i sin oprindelige form.
+Nu var hr. Kim Andersen yderst beskeden, da
+hr. Kim Andersen skulle besvare spørgsmål fra
+nogle af ordførerne her i salen, men jeg vil sige,
+at der jo ingen tvivl er om, at der er foregået et
+meget intenst arbejde med at gå de kritiske høringssvar igennem. Her tænker jeg ikke mindst
+på høringssvarene fra Advokatrådet og Institut
+for Melmeskerettigheder, og der kan jeg i hvert
+fald sige, at såvel partiet Venstre som Det Konservative Folkeparti jo undervejs har været meget optaget af at sikre, at vi var imødekommende over for den kritik, der var, sådan at der ikke
+blev de store retssikkerhedsmæssige diskussioner, som det oprindelige lovforslag lægger op til.
+Jeg synes, sagt i al fairness, at hr. Kim Andersen
+skal have anerkendelse for det, og at det har været meget vigtigt.
+Som lovforslaget ligger nu, har vi faktisk forsøgt at imødekomme den kritik, der har været
+ikke mindst fra de to høringsberettigede parter,
+jeg lige har redegjort for. Men hr. Simon Emil
+Ammitzbøll havde så yderligere et par spørgsmål, og en af de ting, som jeg kunne forstå at Det
+Radikale Venstre fortsat er lidt bekymrede over,
+
+729
+
+er spørgsmålet om det her med, at sigtede kan
+blive idømt en karantæne, og hvordan den her
+hurtige domstolsprøvelse så vil komme til at virke.";Lene Espersen
+126146;Time;"Sådan som reglerne er opstillet, er der altså
+den her mulighed for, at en person, der er utilfreds med at blive idømt en karantæne, indsender en klage, og så skal politidirektøren inden
+1 uge efter modtagelsen sørge for at gå videre
+med sagen. Det betyder altså også, at det retsmøde, der efterfølgende skal afholdes, også forudsættes at blive afholdt hurtigst muligt, efter at
+politidirektøren har indbragt sagen for retten.
+Det fremgår også af lovforslagets bemærkninger
+på side 14, afsnit 3.5., vil jeg sige til hr. Simon
+Emil Ammitzbøll, hvordan der er tiltænkt et system, uden at man forlanger, at hverken politi
+eller Folketing skal til at dirigere domstolenes
+sagsbehandling, og hvilke sager der skal rykkes
+forrest, så det er altså forudsat, at der bliver en
+særlig hurtig domstolsprøvelse.
+I øvrigt vil jeg sige, da der er flere af ordførerne, der har ønsket ting uddybet under udvalgsbehandlingen, og der medvirker jeg naturligvis
+gerne.
+Til hr. Naser Khader vil jeg også sige tak for
+positive tilgang. Jeg har noteret mig, at det er
+meget væsentligt for Ny Alliance, at vi, når vi
+fastsætter uddannelseskravene, tager ekstra meget hensyn til, at vi har at gøre med følsomme
+personoplysninger, der skal behandles varsomt,
+og at det derfor stiller helt særlige krav til de
+kontrollører, der så får adgang til de oplysninger. Jeg har noteret mig, at Ny Alliance er positive over for forslaget, men altså med ønsket om
+ud fra sådan almindelige retssikkerhedssynspunkter at der så også sørges for, at de personer,
+som har adgang til det, er velkvalificerede. Så er
+jeg for øvrigt fuldstændig enig med hr. Naser
+Khader i, at det skal være fredeligt at gå til fodbold. Naturligvis skal det det. Man kan sige, at
+det, der har været vores varemærke - jeg tror,
+det var hr. Flemming Møller Mortensen, der
+nævnte det - nemlig roligans, er kendt i hele
+verden. Altså, det kan jo ikke være rigtigt, at det
+nu skal afløses af, at man i hvert fald i én fodboldkamp har oplevet en fodboldtosse, der løb
+ind på banen og forsøgte at slå ud efter en dommer. Det er jo ikke det billede, man ønsker skal
+efterlades i udlandet af Danmark. Derfor handler det også om at få roligankulturen op i højeste
+gear igen. Jeg tror faktisk, at det her kan være
+med til at understøtte det.
+
+730
+
+Fredag den 11. januar 2008 (L 38)
+
+Til fru Line Barfod vil jeg starte med at sige
+- og det er spændende, om vi nu får en drøftelse, der varer 2, 3 eller 4 timer - at det er fuldstændig rigtigt, at der er mange måder, hvorpå
+man kan løse en konflikt. Jeg er også enig med
+fru Line Barfod i, at en af de ting, der er væsentlige, er, at de kontrollanter, der kommer til at
+skulle stå og administrere de her regler og altså i
+sidste ende kan sige til en person, at vedkommende ikke kan få lov at komme ind her, fordi
+han har karantæne, naturligvis skal kende til
+konflikthåndtering. Det er jeg helt enig i. Det vil
+også være en del af uddannelsen, ligesom det er
+en del af dørmandsuddannelsen, at man skal
+kunne konflikthåndtere.
+Men jeg må sige til fru Line Barfod, at jeg er
+meget uenig i det billede - jeg ved ikke, om det
+var en uheldig vægtning i ordførertalen eller det
+var helt bevidst - der blev tegnet af, at det nærmest skulle være politiets skyld, at der opstår en
+masse optøjer og konflikter. Her taler jeg altså
+ikke om, at der er et par halvfulde mennesker,
+der står og tjatter til hinanden. Vi taler her om
+ballademagere, der møder op, kommer med racistiske udtalelser, kaster sten på folk, kaster sig
+over sagesløse mennesker. At sige, at det skulle
+være politiets skyld, at man reagerer på den måde, synes jeg simpelt hen er helt og aldeles urimeligt over for dansk politik. Ser man på andre
+lande, så skulle det åbenbart være en generel
+tendens, at der er problemer, når politiet møder
+op. Så altså, jeg er meget uenig i den der - kan
+man sige - offertilgang, som fru Line Barfod har
+til det med, at når folk. gør noget forkert, er det
+nok, fordi de er ofre. Nogle mennesker gør noget forkert, fordi de har en afstumpet moral, og
+det skal de betale prisen for.
+Så vil jeg sige til fru Line Barfod, at det jo ikke
+er sådan, at dansk politi, som med rette er det
+politi i verden, som befolkningen har mest tiltro
+til, ikke er klar over, hvordan politiet kan virke i
+forhold til nogle persongrupper. Jeg vil faktisk
+gerne rose ikke mindst Københavns politik for
+at forsøge at føre en strategi, der handler om, at
+man ikke møder for massivt frem ét sted: man
+møder op i mindre grupper og prøver ikke at
+virke provokerende og ligesom stille sig op og
+sige: Nå, er der nogen, der vil op og slås med os?
+Så vil der selvfølgelig måske være nogle tåber,
+der vil synes, det vil være sjovt. Jeg vil sige, at
+politiet faktisk gør sig store bestræbelser på at
+undgå at optræde i en sådan rolle, at de kan blive misforstået.
+
+Med hensyn til videregivelse af oplysninger
+vil jeg sige, at der ikke er nogen ændringer i de
+materielle regler på det punkt. Det følger de almindelige regler, vi har om videregivelse af oplysninger, og om, hvilke betingelser der skal være opfyldt for at kunne gøre det.
+Jeg vil gerne afslutte med at sige, at jeg synes,
+det har været en rigtig god debat i dag, og jeg er
+meget glad for, at Folketinget så bredt tilslutter
+sig det. Jeg ser frem til udvalgsbehandlingen.
+Jeg anerkender, at der kan være ting, man ønsker at få uddybet yderligere, men jeg ser frem
+til, at et forhåbentlig meget bredt flertal vil være
+med til at vedtage den nye lovgivning på det her
+område.";Kl. 12:20
+131628;Time;;Kl. 12:26
+131667;title_name;":
+Der er et par korte bemærkninger, og den første
+er fra hr. Flemming Møller Mortensen.";Helge Adam Møller
+131764;Time;;Kl. 12:26
+131794;name_party;":
+Jeg udtrykte i min ordførertale en appel, og jeg
+vil derfor gerne spørge ministeren om, hvilke
+overvejelser og tanker der set i forhold til loven
+foreligger med hensyn til evaluering og løbende
+orientering af udvalget fremover.";Flemming Møller Mortensen
+132033;Time;;Kl. 12:26
+132072;title_name;":
+Så er det ministeren.";Helge Adam Møller
+132105;Time;;Kl. 12:26
+132139;title_name;":
+Hr. Flemming Møller Mortensen må undskylde,
+at jeg var ude af stand til at læse, hvad jeg selv
+havde skrevet på mit papirstykke, men jeg kan
+godt se, at det er noteret. Jeg synes bestemt, at vi
+under udvalgsbehandlingen skal prøve at finde
+en ordning på det. På den ene side skal udvalget
+jo ikke overdynges med papirer og rapporter efter hver eneste fodboldkamp, men på den anden
+side vil jeg bestemt være indstillet på, at der bliver lavet en form for evaluering, så man kan se,
+hvordan'den nye lovgivning virker.";Lene Espersen
+132666;Time;;Kl. 12:26
+132705;title_name;":
+Den næste korte bemærkning er fra fru Line Barfod.";Helge Adam Møller
+132767;Time;;Kl. 12:26
+132784;name_party;":
+Det glæder mig meget, at justitsministeren anerkender, at Københavns Politi netop har forsøgt
+at lave en anden strategi, og det er jo det, jeg efterspørger. Det er, om ministeren vil være med
+til, at vi ser nærmere på, hvordan de forskellige
+strategier virker, for det, det handler om, er jo
+
+Fredag den 11. januar 2008 (L 38)
+ikke at udpege ofre - det mener jeg ikke vi kommer særlig langt med - men at se på, hvordan vi
+kan håndtere de her situationer både fra politiets side, fra stadions og arrangørernes side og
+fra de organiserede fanklubbers side. Hvad kan
+vi gøre, for at de her situationer ikke udvikler
+sig, altså, når der er nogle, der laver ballade,
+hvordan håndterer man så den situation, så det
+er så få som muligt, der bliver involveret i den?
+Og det er det, jeg efterspørger om ministeren vil
+være med til. Jeg har ikke nogen interesse i, at
+nogle skal udpeges til at være ofre, det synes jeg
+ikke vi kommer særlig langt med.";Line Barfod
+133738;Time;;Kl. 12:27
+133777;title_name;":
+Så er det ministeren.";Helge Adam Møller
+133810;Time;;Kl. 12:27
+133844;title_name;":
+Jeg vil sige til fru Line Barfod, at jeg faktisk synes, at dansk politi løbende gør det. Jeg vil faktisk vove den påstand, at der ikke er nogen, der
+er dygtigere end dansk politi til den slags konflikthåndtering.
+Hvis man ser på, hvordan topmøder, G8-møder og meget andet, er afviklet i andre lande, og
+ser på, hvordan dansk politi håndterede f.eks.
+det danske EU-formandskab, så er det jo forbilledligt, den måde dansk politi vælger at løse rigtig mange konflikter på - med varme, med humor, med anerkendelse og med samtale. Selvfølgelig skal man ikke blive selvfed og mene, at
+man har alle løsninger på alle problemer, men
+når det lige præcis gælder den her problemstilling, mener jeg faktisk, at det, som fru Line Barfod efterlyste i sin ordførertale, er politiet allerede i fuld gang med at gøre, og jeg synes såmænd
+bare, man skal anerkende, at politiet gør det.";Lene Espersen
+134723;Time;;Kl. 12:28
+134762;title_name;":
+Så er det fru Line Barfod for endnu en kort bemærkning.";Helge Adam Møller
+134829;Time;;Kl. 12:28
+134846;name_party;":
+Jeg brugte jo netop eksemplet med dansk politi i
+min ordførertale og sagde, at det har man gjort i
+nogle situationer, men det, jeg godt kunne tænke mig, var jo også at få noget kvalificeret forskning i det. Og det er muligt, at ministeren vil sige, at den forskningsrapport, som ministeriet
+selv har støttet, tager fejl, men der oplyses det, at
+der ikke er nogen forskning i Danmark på det
+her område. Der er forskning i andre lande, og
+der er de konkrete eksempler, hvor man har prøvet nogle gange, bl.a. fra Københavns Politis si-
+
+731
+
+de, at håndtere situationen anderledes. Derfor
+spørger jeg, om ministeren vil være med til at
+tage nogle initiativer, der sikrer, at der sker
+forskning, ,så vi også har en større viden om,
+hvad der egentlig foregår, så vi ikke bare skærer
+alle fodboldfans over én kam - det tror jeg så
+heller ikke at ministeren gør, det kan der nogle
+gange godt være en tendens til i mediedækningen - men rent faktisk også har en faktuel viden
+om: Hvad er det, der går galt i de situationer,
+hvor mange fans er der tale om, som laver ballade, hvad er det for en form for ballade, og hvordan udvikler situationerne sig osv.?";Line Barfod
+136004;Time;;Kl. 12:29
+136043;title_name;":
+Så er det ministeren.";Helge Adam Møller
+136076;Time;;Kl. 12:29
+136110;title_name;":
+Efter min opfattelse er der i forvejen rigtig meget forskning, når det gælder konflikthåndtering, og jeg vil godt sætte spørgsmålstegn ved,
+om der er behov for, at der nu skal igangsættes
+ny forskning, der alene handler om konflikthåndtering i forbindelse med fodboldkampe.
+Men jeg synes bestemt, at det er noget, der kan
+spørges ind til under udvalgsarbejdet, herunder
+også til, hvad det er for forskellige forskningsprojekter, der er igangsat i andre lande. Nu kan
+man sige, at man ikke altid kan sammenligne
+danske forhold helt med andre landes forhold,
+men derfor skal man alligevel skele til, hvad der
+gøres i udlandet, og selvfølgelig se, om man kan
+lære noget af det.
+Jeg mener som sagt, at dansk politi faktisk er
+temmelig gode til det her i forvejen, men selvfølgelig skal vi lytte til, om andre har gode erfaringer, og så må vi jo prøve at se på, om der skulle
+være noget relevans i at se på nye typer forskning. Jeg har ikke hørt, at der er udtrykt ønske
+om det, og at man har behov for det, men det
+kan jo blive undersøgt under udvalgsbehandlingen.";Lene Espersen
+137182;Time;;Kl. 12:30
+137221;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingerne sluttet.
+Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+732
+
+Fredag den 11. januar 2008 (L 39)
+
+Det sidste punkt på dagsordenen er:
+7) 1. behandling af lovforslag nr. L 39:
+Forslag til lov om ændring af retsplejeloven.
+(Forsøgsordning med lydoptagelse af forklaringer i straffesager).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 12.12.2007).";Helge Adam Møller
+137754;Time;Forhandling;Kl. 12:30
+137805;title_name;":
+Forhandlingen er åbnet. Den første ordfører er
+Venstres ordfører, hr. Kim Andersen.";Helge Adam Møller
+137900;Time;(Ordfører);Kl. 12:31
+137928;name_party;":
+Forslaget, vi her har til behandling, er et forslag
+fra justitsministeren om en ændring af retsplejeloven, og den ændring skal medføre, at det skal
+kunne lade sig gøre som en forsøgsordning at
+foretage lydoptagelser af forklaringer i straffesager. Det er meningen, at det skal gøres som en
+forsøgsordning med henblik på at erhverve erfaringer, således at man, hvis disse erfaringer falder så hensigtsmæssigt ud som forventet, kan
+permanentgøre en ordning, hvor man med lydoptagelse altså fastholder afgivne forklaringer
+for eftertiden og dermed er med til at lette proceduren i forbindelse med protokollering og føring af retsbøger. Det synes vi lyder fornuftigt.
+Det er en ny teknologi, en ny kommunikationsform, der indføres også her i retternes arbejde.
+Det synes vi skal prøves af som et tidssvarende
+forsøg og en mulighed for rationalisering og effektivisering, så vi er meget positive over for det
+forslag her og ønsker det god vind og håber det
+bedste for forsøget.";Kim Andersen
+138912;Time;;Kl. 12:32
+138951;title_name;":
+Den næste ordfører er den socialdemokratiske
+ordfører, og det er fru Karen Hækkerup.";Helge Adam Møller
+139047;Time;(Ordfører);Kl. 12:32
+139077;name_party;":
+Der er naturligvis også god vind til forslaget fra
+Socialdemokraternes side og håb om, at det vil
+forløbe godt, og at man vil kunne finde ud af,
+om det kunne være en metode, vi kan få indskrevet i den generelle lov. Så der er sådan set
+ikke noget at sige til det, andet end at det bare er
+at komme i gang, og at vi glæder os til at se resultaterne af det.
+
+Jeg har et enkelt spørgsmål, som jeg synes det
+kunne være rart at få ministeren til at svare på.
+Det er et spørgsmål, som kommer fra byretterne,
+som i deres høringssvar har skrevet, at de synes,
+det kunne være en god ting, når man nu skal til
+at lave de her lydoptagelser, at det ikke er dommeren, som skal agere tekniker.
+De anfører i deres høringssvar, at deres erfaringer fra lignende ting med videokonferencer
+viser, at det ikke er særlig hensigtsmæssigt, at en
+dommer både skal lede hovedforhandlingerne i
+en straffesag, være tekniker og samtidig være
+den, som sørger for at varetage alle de øvrige
+funktioner i retssalen. Det vil jeg egentlig gerne
+bede ministeren svare på.
+Ellers har jeg ikke andet at sige, end at vi støtter det her, og at vi synes, det er meget fornuftigt.";Karen Hækkerup
+140229;Time;;Kl. 12:33
+140268;title_name;":
+Tak til ordføreren. Den næste er Dansk Folkepartis ordfører, fru Colette L. Brix.";Helge Adam Møller
+140361;Time;"(Ordfører)
+Colette L. Brix (DF):
+Dansk Folkeparti lægger vægt på, at der løbende arbejdes med, hvordan retssystemet kan gøres mere effektivt og mindre ressourcebelastende under hensyntagen til retssikkerheden. Derfor er vi selvfølgelig også positive over for Retsplejerådets arbejde og ser som udgangspunkt
+positivt på de forslag, som rådet kommer med.
+Vi er derfor enige i hensigten - at vurdere, om
+den teknologiske udvikling har skabt en situation, hvor reglerne om protokollering med fordel kan revideres.
+Nærværende forslag er en forsøgsordning,
+hvorefter man vil lydoptage forklaringer under
+retssagers hovedforhandlinger og kun føre dem
+til protokols, hvis en part forlanger det, eller
+hvis sagen skal ankes.
+I og med at der er tale om et forsøg, der skal
+belyse fordelene og ulemperne ved metoden,
+har det selvfølgelig ligget Dansk Folkeparti på
+sinde at vurdere risikoen. Det må selvfølgelig
+ikke være sådan, at ens retssikkerhed potentielt
+bliver ringere, blot fordi man deltager i et forsøg, men det er Dansk Folkepartis klare opfattelse, at reglerne som anført i forslaget ikke udsætter parterne for nogen som helst risiko.
+Vi har noteret os, at en række parter har rejst
+spørgsmålet om, hvorvidt der reelt er tale om
+ressourcebesparelser, men pointen med forsøg
+er netop at afklare spørgsmål som dette.
+
+Fredag den 11. januar 2008 (L 39)
+Med disse kommentarer skal jeg meddele, at
+Dansk Folkeparti støtter forslaget.";Kl. 12:34
+141802;Time;;Kl. 12:35
+141841;title_name;":
+Tak til ordføreren. Så er det SF's ordfører, og det
+er fru Anne Baastrup.";Helge Adam Møller
+141926;Time;(Ordfører);Kl. 12:35
+141956;name_party;":
+De foregående ordførere har jo nøje beskrevet
+lovforslaget, og også i SF synes vi, at det er en
+god vej at gå, og vi ser frem til forsøgets resultater.";Anne Baastrup
+142119;Time;;Kl. 12:35
+142158;title_name;":
+Tak for det. Og så er det den konservative ordfører, hr. Tom Behnke.";Helge Adam Møller
+142238;Time;(Ordfører);Kl. 12:36
+142265;name_party;":
+Her er jo tale om en forsøgsordning med lydoptagelse af forklaringer i straffesager. Det er jo
+fagre nye verden: det er teknologi ved domstolene: og det er jo heldigvis kun en forsøgsordning,
+endda meget begrænset på et begrænset område
+og også ved et begrænset antal domstole, for vi
+skulle jo nødig komme til at hvirvle alt for meget støv op, når nu teknologien kommer ind i
+retssalene. Så lad os nu se, om ikke den her forsøgsordning med lidt forsigtighed alligevel kan
+gøre, at vi i fremtiden kommer til at se væsentlig
+flere forslag af lignende karakter, hvor vi udvider og bruger de teknologiske muligheder til at
+lave en masse tidsbesparende foranstaltninger
+ved domstolene.
+Jeg tror, at de fleste måske sidder og tænker:
+Jamen lydoptagelse af det her, hvad er det for
+noget, og kan det overhovedet spare noget tid,
+og hvorfor har man ikke gjort det noget før? Og
+der tror jeg, at det måske er relevant at vide,
+hvordan det foregår i dag, og hvorfor det her, til
+trods for at det er et meget lille område, alligevel
+er en meget, meget stor tidsmæssig besparelse.
+For det er jo sådan, at hvis man sidder som vidne i en sag i retten, så skal man først forklare sig,
+og man bliver afhørt af anklageren, man bliver
+afhørt af forsvareren, det kan endda være, at
+dommeren har nogle supplerende spørgsmål,
+og når det alt sammen er på pfads, så skal dommeren sidde og opsummere og resumere, hvordan han har tolket det, man har sagt som vidne,
+og det sidder dommeren så og taler ind på en
+diktafon - så langt er man dog nået. Når der så
+
+733
+
+er talt ind og man har spolet lidt frem og tilbage
+og ændret nogle passus, hvis der er behov for
+det, så kan dommeren spørge vidnet, om det så
+nogenlunde er det, man er enig om. Hvis man så
+er nogenlunde enig om det, kommer det her
+bånd til renskrivning, hvorefter det hele skal
+renskrives.
+Den procedure er meget langsommelig, og
+hele proceduren omkring det her varer ofte længere tid, end selve vidneforklaringen gør. Derfor
+er det altså ikke hensigtsmæssigt, og derfor er
+det supergodt, at vi nu får et lovforslag, hvor vi
+får lukket op for den her teknologi, så forklaringerne kører direkte ind på digitale bånd eller et
+andet medie, hvorpå det kan gemmes, og kun
+hvis nogle af parterne har behov for det, skriver
+man ud, hvad det var, der blev sagt. Men ellers
+får det lov til at ligge der i en digital udgave. Det
+er supertidsbesparende, og jeg håber, at domstolene tager godt imod det, og at vi snarest kommer til at se rigtig mange flere forslag af den her
+karakter.";Tom Behnke
+144792;Time;;Kl. 12:38
+144831;title_name;":
+Tak til ordføreren. Og så er det den radikale ordfører, hr. Simon Emil Ammitzbøll.";Helge Adam Møller
+144925;Time;(Ordfører);Kl. 12:38
+144963;name_party;":
+Det er jo et ganske fornuftigt lille lovforslag,
+som vi har her sidst fredag eftermiddag.
+Det er jo sådan, at man i dag tager skriftlige
+referater af vidneafhøringerne i danske retssale,
+og man vil nu lave en forsøgsordning med bare
+alene at optage lyden og så kun skrive det ud,
+når der er særlige årsager til det, enten hvis det
+bliver krævet af forsvarer eller anklager, eller
+hvis det skal bruges til en eventuel ankesag.
+Det spændende er jo: Vil det spare ressourcer, eller vil det ikke spare ressourcer? Det er vel
+sådan set det, som forsøget skal give svar på.
+Umiddelbart tror jeg, at de fleste af os har en
+mavefornemmelse af, at svaret er ja, men det
+kan jo godt være, at det viser sig, at der bliver alt
+for mange tilfælde, hvor man alligevel vil have
+det nedskrevet, og at der dermed bliver et så
+stort bureaukrati, at det i virkeligheden ender
+med at blive dyrere. Så jeg synes egentlig, det er
+en meget fornuftig tilgang, man har fra Justitsministeriets side, hvor man prøver at se på: Er
+det en god idé, eller er det ikke? Og er det en
+god idé, skal vi nok stemme for at gøre det permanent.
+
+734
+
+Fredag den 11. januar 2008 (L 39)";Simon Emil Ammitzbøll
+146122;Time;;Kl. 12:39
+146161;title_name;":
+Tak til ordføreren. Så er det Ny Alliance, og det
+er hr. Naser Khader, der er ordfører.";Helge Adam Møller
+146260;Time;(Ordfører);Kl. 12:40
+146289;name_party;":
+Det er et meget fornuftigt forslag. Jeg opfatter
+forslaget som en relativt beskeden bestræbelse
+på at modernisere nogle arbejdsgange i retsplejen, hvor man sikkert på helt betryggende vis vil
+kunne udnytte moderne teknologi i væsentlig
+højere grad end nu. Her kunne man måske lære
+noget af Folketinget, som sidste år revolutionerede produktionen af referatet af forhandlingerne i salen ved at gå over til et system med konvertering af tale til tekst via specielt udviklet
+software.
+Da der i øvrigt er tale om en forsøgsordning,
+som blot skal løbe et års tid, ser vi i Ny Alliance
+ikke noget problem i at støtte dette forslag.";Naser Khader
+146926;Time;;Kl. 12:40
+146965;title_name;":
+Så er det Enhedslistens ordfører, fru Line Barfod.";Helge Adam Møller
+147027;Time;(Ordfører);Kl. 12:40
+147055;name_party;":
+Enhedslisten kan også støtte forslaget og det her
+beskedne forsøg, man starter med. Men jeg vil
+gerne tilslutte mig, som andre også har været
+inde på, det med, at man skal sørge for, at der er
+nogle til at tage sig af teknikken. Dommere er
+ikke uddannede teknikere, og det er jo ret vigtigt, at man sørger for, at de her forklaringer
+kommer med på det medie, man nu optager på,
+så de ikke er væk, når man skal bruge dem senere.
+Så har Advokatrådet nogle betragtninger om,
+at hvis det er længere sager, er det måske et problem, at man har lydoptagelser. Jeg går ud fra, at
+det er noget af det, man vil se på under forsøget,
+og at man vil tilrettelægge at afprøve nogle måder gøre det på.";Line Barfod
+147753;Time;;Kl. 12:41
+147792;title_name;":
+Tak til ordføreren. Så er det justitsministeren.";Helge Adam Møller
+147852;Time;;Kl. 12:41
+147886;title_name;":
+Det er jo dejligt at slutte dagen af med en fuldstændig entydig opbakning til den her forsøgsordning. Nu er der måske nogle borgere, der
+sidder og følger debatten her i dag, som spørger:
+Kan det virkelig være så stor en revolution, at
+man går væk fra gammeldags protokollering og
+
+forsøger sig med lydoptagelser? Og jeg må
+blankt erkende, at da jeg første gang stødte på
+ønsket om en forsøgsordning, tænkte jeg, at det
+kan der da ikke være nogen der har noget som
+helst imod, det er da bare at følge lidt med tiden.
+Jeg vil dog sige - og det vil man også kunne
+se, hvis man gennemlæser høringssvarene - at
+der alligevel er betænkeligheder nogle steder.
+Det drejer sig både om lydkvalitet og de ting,
+som fru Line Barfod fremhævede, nemlig hvis
+der en sag, der kører over mange dage, hvor
+man gerne vil gå tilbage, og hvor man i dag kan
+gå tilbage i retsbogen og læse, hvad der skete i
+går osv.
+Der er nogle ting, der selvfølgelig skal gennemtænkes, om, hvordan man så kører det, for
+det er klart, at ved de fleste sager, der er kortvarige, er det sikkert en meget stor fordel at lave
+lydoptagelser. På den anden side kan der være
+sager, hvor der er et meget længere forløb, og
+hvor der er behov for løbende at have noget
+skriftlig dokumentation. Jeg synes, det er helt
+fair, at man i høringsfasen i mange af svarene
+har valgt at sige, at det er udmærket at lave en
+forsøgsordning, men at der er nogle problemstillinger, som man bliver nødt til at have udboret,
+inden der tages endelig stilling til, om ordningen skal gøres permanent.
+Fru Karen Hækkerup stillede lige præcis det
+spørgsmål, som flere har kredset om i dag, nemlig spørgsmålet om, hvem det er, der skal agere
+lydmand. Jeg tror, alle kan være enige om, at det
+nok ikke er en kernekompetence for juridisk uddannet personale, uden at det på den måde skal
+misforstås sådan, at embedsmændene fra Justitsministeriet ikke er teknisk kyndige. Men det
+er nok ikke en kernekompetence at være lydmand.
+Efter vores opfattelse - og det håber jeg at der
+er tilslutning til i Folketinget - er det heller ikke
+en kernekompetence for Folketinget at bestemme, hvem det er, der skal sidde og håndtere lydoptagelserne. Vi har lagt op til, at det er Domstolsstyrelsen, der sammen med byretterne finder ud af, hvordan man praktisk organiserer
+det, og hvem det er, der er bedst egnede til det,
+og jeg håber, der er tilslutning til, at det er måden, det kan gøres på.
+Så noterede jeg også på vegne af Dansk Folkeparti og fru Colette L. Brix, at der er nogle ting
+i høringsrunden, som viser, at der er en vis skepsis, fordi der er nogle, der ikke er så sprogligt
+godt formuleret, og bliver det så et problem for
+dem, hvis det er optaget på en måde, så man
+
+Fredag den 11. januar 2008 (L 39)
+ikke rigtig forstår, hvad de siger osv.? Som fru
+Colette L. Brix understregede, kører der et forsøg i cirka et års tid, og så må man opregne fordele og ulemper og finde ud af, om det er en
+ordning, man ønsker at gøre permanent, så man
+altså moderniserer domstolene på det område.
+Endelig vil jeg da også gerne takke hr. Naser
+Khader her til sidst - jeg tror, hr. Naser Khader
+er gået. Jeg synes, det var meget forfriskende at
+kunne få fortalt borgerne, at der altså er punkter,
+hvor Folketinget er meget langt fremme i skoene, og hvor man allerede har sørget for, at tingene bliver optaget og oversat, så de hurtigt kan
+blive offentliggjort. Jeg synes, det var dejligt, at
+det også var med under debatten.
+Ellers vil jeg takke for den store tilslutning til
+lovforslaget og ser frem til udvalgsbehandlingen.";Lene Espersen
+151434;Time;;Kl. 12:45
+151473;title_name;":
+Tak til justitsministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+
+735
+
+Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Helge Adam Møller
+151722;Time;Meddelelser fra formanden;Kl. 12:45
+151787;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag den
+15. januar 2008 kl. 13.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen. Jeg skal i øvrigt henvise til den omdelte
+ugeplan.
+Mødet er hævet. (Kl. 12.46).";Helge Adam Møller

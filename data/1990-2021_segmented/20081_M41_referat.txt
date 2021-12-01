@@ -1,0 +1,3080 @@
+split;reason;text;value
+0;;"2628
+
+Torsdag den 15. januar 2009 (D)
+
+41. m ø d e";
+88;Time;"Dagsorden
+1) Fortsættelse af forespørgsel nr. F 13 [afstemning]:
+Forespørgsel til finansministeren om 2015planen.
+Af Morten Helveg Petersen (RV) m.fl.
+(Anmeldelse 18.11.2008. Fremme 21.11.2008.
+Forhandling 13.01.2009. Forslag til vedtagelse
+nr. V 23 af Morten Helveg Petersen (RV), Morten
+Bødskov (S) og Ole Sohn (SF). Forslag til vedtagelse nr. V 24 af Peter Christensen (V), Kristian
+Thulesen Dahl (DF), Mike Legarth (KF) og Anders Samuelsen (LA)).
+2) 1. behandling af lovforslag nr. L 94:
+Forslag til lov om ændring af lov om valg til Folketinget. (Folkeafstemninger om grundlovsændringer).
+Af velfærdsministeren (Karen Jespersen).
+(Fremsættelse 11.12.2008).
+3) 1. behandling af lovforslag nr. L 92:
+Forslag til lov om ændring af lov om leje af almene boliger, lov om leje og forskellige andre love. (Initiativer for at forhindre udsættelser af lejere som følge af manglende betaling af husleje
+m.v.).
+Af velfærdsministeren (Karen Jespersen).
+(Fremsættelse 11.12.2008).
+4) 1. behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af lov om ligestilling
+af kvinder og mænd. (Kønssammensætning i offentlige udvalg m.v.).
+Af ministeren for ligestilling (Karen Jespersen).
+(Fremsættelse 11.12.2008).";kl. 10.00
+1306;Time;;Kl. 10:00
+1318;title_name;"Mødet er åbnet.
+
+Det første punkt på dagsordenen er:
+1) Fortsættelse af forespørgsel nr. F 13 [afstemning]:
+Forespørgsel til finansministeren om 2015planen.
+Af Morten Helveg Petersen (RV) m.fl.
+(Anmeldelse 18.11.2008. Fremme 21.11.2008.
+Forhandling 13.01.2009. Forslag til vedtagelse
+nr. V 23 af Morten Helveg Petersen (RV), Morten
+Bødskov (S) og Ole Sohn (SF). Forslag til vedtagelse nr. V 24 af Peter Christensen (V), Kristian
+Thulesen Dahl (DF), Mike Legarth (KF) og Anders Samuelsen (LA)).";Formanden
+1821;Time;Afstemning;Kl. 10:01
+1844;title_name;"Forhandlingen er sluttet, og vi skal til afstemning om de stillede forslag til vedtagelse. Der
+foreligger to forslag.
+Der stemmes først om forslag til vedtagelse
+nr. V 24 (se side 2553) af Peter Christensen (V),
+Kristian Thulesen Dahl (DF), Mike Legarth (KF)
+og Anders Samuelsen (LA), og der kan stemmes. Hvis man er i salen, slutter vi ikke afstemningen, før man i god ro og orden er nået hen på
+sin plads - altså, man skal bare være i salen, når
+afstemningen begynder.
+Afstemningen slutter.
+For stemte: 57 (V, DF, KF og LA), imod stemte:
+48 (S, SF, RV og EL), hverken for eller imod
+stemte: 0.
+Forslag til vedtagelse nr. V 24 er vedtaget.
+Herefter er forslag til vedtagelse nr. V 23 (se side
+2550) af Morten Helveg Petersen (RV), Morten
+Bødskov (S) og Ole Sohn (SF) bortfaldet.
+Hermed er forespørgslen afsluttet.
+
+Det næste punkt på dagsordenen er:
+2) 1. behandling af lovforslag nr. L 94:
+Forslag til lov om ændring af lov om valg til
+Folketinget. (Folkeafstemninger om grundlovsændringer).
+Af velfærdsministeren (Karen Jespersen).
+(Fremsættelse 11.12.2008).
+
+Torsdag den 15. januar 2009 (L 94)
+, ' 홢
+Forhandling";Formanden
+2971;Time;;Kl. 10:02
+2984;title_name;"Næste punkt på dagsordenen - som finder sted i
+god ro og orden - er første behandling af lovforslag nr. L 94.
+Forhandlingen er åbnet, og den første ordfører, der får ordet, er hr. Erling Bonnesen. Vi forsøger, om det ikke er nok, at ordføreren har ordet, og at man så lytter til ordføreren. Så hvis vi,
+får lidt mere ro, siger jeg værsgo til hr. Bonnesen.";Formanden
+3349;Time;(Ordfører);Kl. 10:03
+3380;name_party;":
+Tak for det. Med lovforslag nr. L 94 fastsættes
+der regler om afholdelsen af folkeafstemninger
+om grundlovsændringer. Lovforslaget sikrer det
+retlige grundlag for den folkeafstemning, der
+skal afholdes, når Folketinget forventes endeligt
+at vedtage lovforslaget om ændring af tronfølgeloven, som er fremsat under behandlingen her i
+Folketinget, samt for fremtidige folkeafstemninger om grundlovsændringer.
+Lovforslaget indebærer, at folketingsvalglovens regler om folkeafstemninger i det væsentlige kommer til at gælde for folkeafstemninger
+om grundlovsændringer.
+Venstre støtter forslaget.
+Kl, 10:04";Erling Bonnesen
+3994;title_name;"Tak. Der er ingen, der har bedt om korte bemærkninger. Den næste ordfører er hr. Thomas
+Jensen.
+,";Formanden
+4101;Time;".
+.
+.
+(Ordfører)";Kl. 10:04
+4136;name_party;":
+Socialdemokraternes ordfører på lovforslaget,
+fru Lene Hansen, er desværre forhindret i at deltage i dag, så jeg har påtaget mig at oplæse ordI. førerens tale. , 홢홢.
+, v
+Den 2. juni 2006 vedtog det daværende Folketing et forslag fremsat af statsministeren om æn-r
+dring af tronfølgeloven, der skal sikre fuld ligestilling mellem kønnene i arvefølgen til tronen.
+Tronfølgeloven har grundlovsrang, og derfor
+skal ændringen vedtages i uændret form af det
+nu siddende Folketing. Forslaget om ændring af
+tronfølgeloven blev derfor fremsat igen den 7.
+oktober 2008. Hvis det vedtages, skal det ifølge
+grundlovens § 88 sendes til folkeafstemning inden for 6 måneder, og forslaget vedtages kun,
+hvis 40 pet. af samtlige stemmeberettigede stem-
+
+2629
+
+mer for. Afstemningen omfatter også Grønland
+og F æ r ø e r n e . .
+Reglerne for, hvordan en folkeafstemning
+gennemføres, er beskrevet i lov om valg til Folketinget, men folkeafstemninger, der angår
+grùndlovsændringer, er ikke omfattet af disse
+regler. I grundlovens § 88 står der, at reglerne for
+gennemførelse af en folkeafstemning, der vedrører en grundlovsændring, fastlægges ved lov.
+Det er så det, som dette lovforslag går ud på,. *
+nemlig at fastsætte de nærmere regler for at gennemføre en folkeafstemning, der angår en
+grundlovsændring.
+Det foreslås, at de regler, der er beskrevet i
+folketingsvalglovens kapitel 12 om folkeafstemninger, også finder anvendelse på folkeafstemninger om grundlovsændringer efter grundlovens § 88. De regler, der i fremtiden også skal
+gælde for folkeafstemninger, der vedrører
+grundlovsændringel"" er altså i vidt omfang de
+samme som folketingsvalglovens almindelige
+bestemmelser om folkeafstemninger. Dermed
+vil der i det væsentligste gælde de samme regler
+for folkeafstemninger om grundlovsændringer i
+alle dele af riget.
+Det foreslås, at loven træder i kraft den 1.
+marts 2009, fordi afstemningen om tronfølgeloven planlægges afholdt samme dag som valget
+til Europa-Parlamentet, der afholdes den 7. juni,
+og man skal efter folketingsvalglovens bestemmelser kunne brevstemme 3 måneder før. Det
+foreslås endvidere, at loven finder anvendelse
+på folkeafstemninger, der afholdes den 1. marts
+2009 eller senere, uanset at der i forvejen er truffet beslutning om tidspunktet for folkeafstemitingen.
+Socialdemokraterne finder ikke anledning til:
+at kritisere dette lovforslag: vi støtter de ændringer, der er lagt op til, og finder dem hensigtsm æ s s i g e . . 홢
+'Kl. 10:06
+: I";Thomas Jensen
+6605;title_name;"Tak til hr. Thomas Jensen. Der er ikke ønsker om
+korte bemærkninger. Næste ordfører er hr. Hans
+Kristian Skibby.";Formanden
+6727;Time;".
+(Ordfører)";Kl. 10:06
+6766;name_party;":
+Tak. Hvis man ønsker en stor, spændende og livlig debat her i Folketinget om det her lovforslag,
+så er det måske det forkerte lovforslag, man i
+dag har valgt at satse på skulle have en underholdningsværdi. Dermed ikke sagt, at det ikke
+er et vigtigt lovforslag, for det er naturligvis
+
+2630
+
+Torsdag den 15. januar 2009 (L 94)
+
+utrolig vigtigt, at vi i Danmark har et sigte, der
+går ud på, at vi skal modernisere det danske demokrati, og som sikrer, at det også virker alle andre steder end bare i Folketinget, så vi har sikkerhed for, at der eksempelvis i kongehuset er
+lige ret til tronen - om man så må sige. Da vi i
+1953 havde den seneste ændring af tronfølgeloven, gav det dengang anledning til en større debat, end det gør i dag, når vi her i Folketinget
+diskuterer den her form for ligestilling.
+Dansk Folkeparti er naturligvis positivt indstillet over for at stemme ja til det her forslag. Vi
+vil ikke kunne finde anledning til at stemme
+imod, i og med at det jo sådan set er med til at
+sikre, at det lovforslag om ligestilling mellem
+kønnene i forbindelse med arvefølgen i det danske kongehus, som statsministeren fremsatte
+den 7. oktober, kan vedtages, så det kan blive
+gennemført i virkelighedens verden.
+Så Dansk Folkeparti kan tilslutte sig forslaget,
+og jeg synes også, at det i den anledning er værd
+at præcisere, at de høringsparter, som vi har
+sendt det til, både Danske Regioner og kommunerne, som jo står for selve valghandlingen, ikke
+har haft anledning til at komme med indvendinger imod det fremsatte lovforslag, og det har
+Dansk Folkeparti heller ikke. Vi kan støtte lovforslaget.";Hans Kristian Skibby
+8382;Time;;Kl. 10:08
+8394;title_name;Tak til ordføreren. Næste ordfører er så hr. Flemming Bonne.;Formanden
+8464;Time;(Ordfører);Kl. 10:08
+8495;name_party;":
+Formålet med lovforslaget er at fastsætte de regler, der skal gælde for en folkeafstemning, der
+skal afholdes, for at en grundlovsændring vedtaget af Folketinget kan træde i kraft.
+Den konkrete anledning til forslaget er lovforslaget om ændring af tronfølgeloven, som
+blev fremsat den 7. oktober 2008. Vedtages dette
+af Folketinget, hvad det jo nok gør, skal det ifølge grundloven til folkeafstemning. Ifølge grundlovens § 88 skal de nærmere regler for folkeafstemningen fastsættes ved lov, og det er det, der
+sker med L 94.
+Lovforslaget indebærer, at folketingsvalglovens regler om folkeafstemninger i det væsentlige også kommer til at gælde for folkeafstemninger om grundlovsændringer.
+I øvrigt planlægges afstemningen om tronfølgeloven at skulle finde sted sammen med stemmeafgivning til europaparlamentsvalg den 7.
+
+juni i indeværende år. Ændringen i tronfølgelo-.
+ven skal sikre ligestilling i kongehuset, således
+at majestætens førstefødte er tronfølger uanset
+køn.
+SF har ingen bemærkninger til lovforslaget,
+men vil dog fremhæve timingen, idet sammenfaldet med europaparlamentsvalget formentlig
+vil have en gavnlig virkning på den samlede
+stemmeprocent, og det glæder vi os til.";Flemming Bonne
+9693;Time;;Kl. 10:10
+9705;title_name;Tak til hr. Flemming Bonne. Så er det fru Henriette Kjær som ordfører.;Formanden
+9785;Time;(Ordfører);Kl. 10:10
+9816;name_party;":
+Vi konservative kan naturligvis også støtte denne lov, for der er behov for, at vi får moderniseret reglerne, så de passer til de afstemningsmetoder, vi bruger i dag. Det er jo lang tid siden, vi
+har haft en ændring af grundloven - her af tronfølgeloven - og heldigvis for det. Det er ikke noget, vi går rundt og vil have hver anden dag.
+Men naturligvis skal reglerne tilpasses, så det
+bliver nemt og smidigt at afholde den her afstemning ude i kommunerne. Så fuld opbakning
+fra Det Konservative Folkeparti.";Henriette Kjær
+10335;Time;;Kl. 10:10
+10347;title_name;"Tak for det. Næste ordfører er hr. Niels Helveg
+Petersen.";Formanden
+10414;Time;(Ordfører);Kl. 10:11
+10452;name_party;":
+Dette lovforslag vil gøre det muligt at holde en
+folkeafstemning om ændringen af tronfølgeloven. Det er et nødvendigt lovforslag, for at denne folkeafstemning kan afholdes. Og Det Radikale Venstre støtter dette forslag.";Niels Helveg Petersen
+10683;Time;;Kl. 10:11
+10695;title_name;Tak. Og så er det hr. Frank Aaen som ordfører.;Formanden
+10751;Time;(Ordfører);Kl. 10:11
+10778;name_party;":
+Enhedslisten støtter selvfølgelig også det her
+lovforslag, selv om vi vil gøre opmærksom på,
+at det, som så er det første, der kommer til afstemning efter denne lov, nemlig tronfølgeloven,
+er vi lodret imod, forstået på den måde, at tronfølgeloven jo indeholder nogle mærkelige bestemmelser om tvangsægteskab. Det er sådan, at
+hvis en tronfølger vil gifte sig, skal mor spørges
+først, og det er vi sådan set imod i alle andre af
+
+Torsdag den 15. januar 2009 (L 92)
+livets forhold, men her skal det altså opretholdes
+og vedtages ved lov, at sådan er det. Det er også
+en lov, der opererer med ægte og uægte børn, for
+hvis børnene er født uden for ægteskab, er de
+uægte, og så kan de ikke arve ifølge tronfølgéloven. Det er også en mærkelig bestemmelse at have. Og det er også en del af et lovkompleks, der
+siger, at man skal have en tvangsreligion, nemlig
+at hvis man vil være omfattet af tronfølgeloven,
+altså vil kunne arve tronen, skal man være medlem af folkekirken. Jeg troede faktisk, at Folketinget vår imod, at man på den måde lovgiver
+om, hvad mennesker skal tro eller ikke tro på.
+Så det er en mærkelig lov, der kommer til afstemning, men det er ikke den, vi tager stilling
+til i dag. Det, vi tager stilling til i dag, er, hvordan den skal afgøres, nemlig om det skal ske
+ved en folkeafstemning.inden for bestemte tidsfrister, og det går vi selvfølgelig ind for.";Frank Aaen
+12161;Time;;Kl. 10:12
+12173;title_name;Ja tak. Og så er det velfærdsministeren.;Formanden
+12223;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg kan jo kun takke for den brede tilslutning.
+Det er jo fuldstændig rigtigt, som sidst hr. Frank
+Aaen, men også andre ordførere har sagt, at det
+her simpelt hen handler om at sikre reglerne for
+en folkeafstemning, når Folketinget har vedtaget, at der er en ændring af grundloven, de gerne vil høre befolkningen om.";Kl. 10:12
+12588;Time;;Kl. 10:13
+12600;title_name;"Tak.
+Der er ikke flere, der har bedt om ordet i denne sag, og forhandlingen er sluttet.
+Jeg foreslår, at lovforslaget henvises til Kommunaludvalget. Hvis ingen gør indsigelse, så er det
+vedtaget.
+Det er vedtaget.
+
+2631
+
+Det næste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 92:
+Forslag til lov om ændring af lov om leje af almene boliger, lov om leje og forskellige andre
+love. (Initiativer for at forhindre udsættelser af
+lejere som følge af manglende betaling af husleje m.v.).
+Af velfærdsministeren (Karen Jespersen).
+(Fremsættelse 11.12.2008).";Formanden
+13175;Time;Forhandling;Kl. 10:13
+13199;title_name;"Forhandlingen er åbnet. Første ordfører er fru
+Louise Schack Elholm.";Formanden
+13277;Time;(Ordfører);Kl. 10:13
+13313;name_party;":
+Undersøgelser har vist, at et stadig stigende antal mennesker desværre bliver sat på gaden, fordi de ikke er i stand til at betale deres husleje.
+Det er en rigtig kedelig udvikling, som vi i Venstre vil gøre meget for at bremse. Vi mener, at
+det er utrolig vigtigt at hjælpe mennesker i samfundet, som rent faktisk har brug for en ekstra
+hånd, frem for at hjælpe dem, der godt kan selv.
+Derfor er jeg da også meget positiv over for
+det arbejde, som den tidligere socialminister, fru
+Eva Kjer Hansen, iværksatte, hvor Det Nationale Forskningscenter for Velfærd, tidligere kaldet
+Socialforskningsinstituttet, fik til opgave at klarlægge, hvem de udsatte lejere typisk er, og hvorfor de bliver udsat. Disse tilbagemeldinger har
+vi i Venstre nøje studeret. Vi har efterfølgende
+vurderet, at dette område skulle have en central
+og høj prioritering i satspuljeforhandlingerne.
+I Venstre har det været vores ambition, at vi
+skulle indgå en holdbar, stabil og ikke mindst
+bred politisk aftale, som effektivt ville komme
+lejerne i risikogruppen til undsætning. Heldigvis kan jeg i dag konkludere, at vores mission er
+lykkedes til fulde. Der er nemlig blevet indgået
+en god og holdbar aftale, som er bredt politisk
+forankret-i satspuljen.
+Lovforslaget består helt konkret af syv forskellige redskaber, der tilsammen skal sikre en
+forebyggende hjælp til de udsætningstruede lejere, og som kan hjælpe lejerne med at få deres
+økonomi på ret kurs igen. SFI's undersøgelse viste, at de primære årsager til, at lejerne blev
+smidt ud, ofte var, at de ikke kunne administrere
+deres privatøkonomi, og at de simpelt hen sad
+
+2632
+
+Torsdag den 15. januar 2009 (L 92)
+
+alt for dyrt, dog uden at de rent faktisk havde
+råd til at flytte til en ny bolig.
+Derfor åbner lovforslaget op for, at det fremover skal være muligt, at kommunerne kan give
+flyttehjælp til lejere, der er i denne situation, ligesom det skal være muligt at kunne yde dem et
+nyt lån, selv om det tidligere lån ikke er afbetalt.
+Disse forslag skal hjælpe de udsætningstruede
+lejere med at få boliger, som de rent faktisk har
+råd til at leve i. Samtidig sikrer vi, at kommunerne får information om de udsætningstruedes
+økonomi på et tidligere tidspunkt, så de hurtigt
+kan gribe ind.
+Vi ved, at kommunerne har efterspurgt dette,
+og i Venstre lytter vi gerne til, hvilke løsningsmuligheder man ønsker ude lokalt. Vi siger til
+kommunerne, at de nøje skal overveje administrationen af udsætningstruede lejeres økonomi,
+hvis det er åbenlyst for alle, at disse ikke selv er i
+stand til at styre deres økonomi. Endelig giver vi
+dem længere frist til at reagere, før de pågældende lejere bliver sat ud.
+Giv en sulten mand en fisk, og han bliver
+mæt i dag, giv ham en fiskestang, og han vil
+kunne forsørge sig selv. Problemet for disse lejere er, at de ikke kan administrere deres økonomi.
+Det er derfor vigtigt, at kommunerne er opmærksomme på de pågældende lejere og hjælper dem med at få styr på økonomien. Ud over
+at vi giver kommunerne en vejledning i, hvordan de kan hjælpe de udsætningstruede lejere,
+skal vi give kommunerne de rigtige rammer til ,
+at løse disse opgaver. Det gør vi med denne lov.
+Lovforslaget kommer godt omkring problemet og giver de rigtige rammer samt vejledning
+til kommunerne, og Venstre kan derfor støtte
+lovforslaget.";Louise Schack Elholm
+16609;Time;;Kl. 10:16
+16621;title_name;"Tak til ordføreren. Der er ikke nogen, der har
+bedt om korte bemærkninger. Næste ordfører er
+hr. Thomas Jensen.";Formanden
+16742;Time;(Ordfører);Kl. 10:16
+16771;name_party;":
+Når en børnefamilie eller en enlig bliver tvangsudsat af sit hjem som følge af manglende huslejebetaling, er det en meget, meget ulykkelig situation at stå i. Derfor synes Socialdemokraterne,
+at det er beskæmmende at se, at udviklingen i
+antallet af tvangsudsættelser er steget så markant, mens VK-regeringen har haft magten.
+Danmark har indtil for få måneder siden befundet sig i en højkonjunktur, hvor man kunne
+
+forvente, at der ikke ville være flere, men derimod færre, som ikke ville have mulighed for at
+kunne betale huslejen. Men så er antallet af
+tvangsudsættelser desværre steget stødt år for
+år, lige siden VK-regeringen kom til magten.
+Holder tendensen i antallet af udsættelser fra
+første halvår af 2008, så er antallet af tvangsudsættelser næsten fordoblet på bare 4 år, fra 2004
+til til2008. 12008 nærmer tallet sig 4.000 tvangsudsættelser.
+Det er derfor positivt, at vi under satsforhandlingerne fik afsat midler og aftalt tiltag,
+som har til formål at forhindre udsættelse af lejere som følge af manglende betaling af husleje.
+Der er afsat midler frem til 2012, og effekten af
+ordningen skal undersøges i 2010. Velfærdsministeriet vil årligt følge udviklingen i Domstolsstyrelsens offentliggørelse af fogedsager. Her vil
+jeg så lige bemærke, at Domstolsstyrelsen efter
+mine oplysninger går over til halvårlige opgørelser, og derfor ville det være ønskeligt, hvis
+Velfærdsministeriet også følger op hvert halve
+år.
+Spørgsmålet er så, om det her lovforslag løser
+problemet for de mennesker, som ender i den
+ulykkelige situation at stå over for at blive
+tvangsudsat. Nej, det gør det desværre ikke.
+Lovforslaget løser udelukkende det problem, at
+familier eller enlige, der ikke har betalt husleje
+til tiden, får længere frister til at bringe betalingen i orden. Derudover er der en række andre
+tiltag, der skal hjælpe med at bringe lejere i
+stand til at betale deres husleje fremover.
+Billedlig talt er nærværende lovforslag kun
+brandslukning af økonomiske problemer, når
+branden allerede har hærget i længere tid, og det
+udstiller jo velfærdsministerens borgerlige såkaldte velfærdspolitik, som har mere fokus på
+brandslukning og symptombehandling end på
+at skabe en solid og forebyggende velfærdspolitisk indsats, som vi Socialdemokrater er garanter for. For vi skal jo gå et skridt tilbage og se på,
+hvorfor folk og familier kommer i en situation,
+hvor de kan blive smidt ud af deres hjem. Når vi
+ved det, kan vi sætte konstruktivt og målrettet
+ind og forebygge, at familier kommer i den situation. SFI-undersøgelsen fra marts 2008 viser
+som forventet, at omkring 30 pet. af de tvangsudsatte lejere var kontanthjælpsmodtagere. Socialdemokraterne mener, at regeringen skulle
+tage fat ved nældens rod og fjerne kontanthjælpsloftet, starthjælpen og 450-timers-reglen i
+stedet for blot at symptombehandle.
+
+(330)
+Torsdag den 15. januar 2009 (L 92)
+Vi Socialdemokrater har allerede taget initiativ til at fjerne de ordninger, fordi de ikke virker,
+og fordi de bidrager til at øge uligheden i Danmark. Men regetingen og Dansk Folkeparti er
+tilsyneladende ligeglade med, at i øvrigt velfungerende familier med børn kommer i en situation, hvor de ikke har råd til at betale huslejen.
+Her synes jeg, man skal huske på, at det jo ikke
+kun er i den alleryderste situation, hvor huslejen
+ikke bliver betalt, at de her familier må lide under kontanthjælpsloftet, starthjælpen og 450timers-reglen. Nej, det er en lang og nedbrydende proces, hvor familierne har meget, meget få
+penge til at betale de vigtigste udgifter til mad,
+tøj og andre daglige fornødenheder. Stille og roligt har familien ikke råd til det ene og det andet,
+og til sidst har de ikke mulighed for at betale
+huslejen. De tossede ordninger skal afskaffes
+hurtigst muligt. Hvis vi afskaffede ordningerne
+nu i 2009, ville det betyde en reduktion i tvangsudsættelser på 30 pet., og det vil sige, at det var
+1.000 familier, som ville undgå at blive tvangsudsat.
+Afsluttende vil jeg sige, at jeg synes, at vi skal
+bemærke, at ordningen kun gælder for lejere i
+almene boliger og ikke i privatudlejning. Der er
+problemer forbundet med at udbrede ordningen
+til også at gælde private udlejningsejendomme,
+men vi skal tage fat på det, og derfor ser jeg frem
+til de undersøgelser, der skal laves i 2010, for at
+imødegå det her.
+Lovforslaget er formuleret på baggrund af
+satsaftalen, så Socialdemokraterne kan støtte
+forslaget, og vi ser frem til udvalgsbehandlingen, hvor der er et par uklarheder, som bør præciseres.";Thomas Jensen
+21260;Time;;Kl. 10:20
+21272;title_name;"Tak. Der er ønske om en kort bemærkning fra
+fru Louise Schack Elholm.
+'";Formanden
+21353;Time;;Kl. 10:21
+21378;name_party;":
+Hr. Thomas Jensen rejser debatten om kontanthjælp, og det synes jeg er meget interessant at .
+ordføreren gør i den her sammenhæng.
+I den undersøgelse, der er blevet foretaget af
+SFI, og som ordføreren ofte gerne selv bruger, er
+det helt klart konkluderet, at indkomstkilden ingen betydning har for, om en lejer bliver sat ud
+af sin bolig. Så hvorfor i alverden melder Socialdemokratiet ikke bare klart ud? Man er politisk
+imod kontanthjælpsloftet: det har ikke en disse
+at gøre med, om den har en betydning for, om en
+
+2633
+
+lejer bliver sat ud. Den her pakke, vi har, og som
+man selv er med i, tager fat på de problemer, der
+rent faktisk er, og som SFI påpeger. Så vil Socialdemokraterne ikke bare melde klart ud, nemlig
+at man er imod kontanthjælpsloftet, og at det
+ikke er, fordi der som sådan er belæg for at påstå, at det er det, der er årsagen til det?
+홢
+홢Kl. 10:21";Louise Schack Elholm
+22263;title_name;"Ordføreren.
+:";Formanden
+22286;Time;;Kl. 10:21
+22304;name_party;":
+Jeg er af den holdning, at enhver familie, der bliver tvangsudsat, er en familie for meget, og Venstres ordfører vil derfor også vide, hvis hun lige
+genlæser SFI-rapporten, at 30 pet. af de familier,
+der bliver udsat af deres bolig, rent faktisk er på
+kontanthjælp, og at det, hvis vi omregner det til
+et tal, som formentlig kommer til at foreligge her
+i løbet af foråret 2009, hvis vi ser på tallene for.
+2008, måske vil komme til at dreje sig om 1.000
+familier, som nødvendigvis vil blive tvangsudsat. Og der vil jeg da spørge Venstres ordfører,
+om hun ikke synes, at det er lige i òverkanten, at
+1.000 familier kan blive tvangsudsat som følge
+af en dårlig kontanthjælpslov.";Thomas Jensen
+22992;Time;;Kl. 10:22
+23004;title_name;Så er det fru Louise Schack Elholm.;Formanden
+23049;Time;;Kl. 10:22
+23074;name_party;":
+Kan ordføreren belyse over for mig, om kontanthjælpsmodtagere er den største gruppe, der bliver ramt af udsættelser, eller om der er en gruppe, der er større, f.eks. på 40 pct.?
+Kt 10:22";Louise Schack Elholm
+23274;title_name;Ordføreren.;Formanden
+23295;Time;;Kl. 10:22
+23313;name_party;":
+Der er en gruppe på 30 pet., som man med en
+enkel og let lovændring kan gå ind og forhindre
+bliver tvangsudsat: Det er kontanthjælpsmodtagere. Derudover er der en gruppe på 40 pet.,
+folk, der er inde på arbejdsmarkedet, som også
+bliver udsat. Men hvordan vil man gå ind og regulere det med et enkelt snuptag? Næ, det kan
+man ikke.
+Vi kan her - med en enkelt lovændring - gå
+ind og forhindre, at der er 1.000 familier, der bliver tvangsudsat hvert år, og det synes jeg også
+Venstre skulle se på, hvis man virkelig vil føre
+en forebyggende socialpolitik i Danmark.
+
+2634
+
+Torsdag den 15. januar 2009 (L 92)";Thomas Jensen
+23931;Time;;Kl. 10:23
+23943;title_name;Der er yderligere et ønske om en kort bemærkning fra fru Ellen Trane Nørby.;Formanden
+24028;Time;;Kl. 10:23
+24050;name_party;":
+Ja tak. Jeg er da glad for, at den socialdemokratiske ordfører nu erkender, at udsættelser ikke
+kun er noget, som kan henføres til folk, der er på
+overførselsindkomster, men at 40 pet. sådan set
+er mennesker, der er i arbejde. Derfor vil jeg høre, om den socialdemokratiske ordfører virkelig
+vil fastholde, at det er kontanthjælpsloftet, der
+er det største problem, når vi taler om udsættelser af mennesker i det her land.";Ellen Trane Nørby
+24484;Time;;Kl. 10:23
+24496;title_name;Ordføreren.;Formanden
+24517;Time;;Kl. 10:23
+24535;name_party;":
+Ja, den socialdemokratiske ordfører vil fastholde, at hvis man ser på et forslag til en ændring,
+der kan gøre, at en stor del af de folk, der bliver
+tvangsudsat, ikke bliver det, så er det kontanthjælpsloftet, ja.";Thomas Jensen
+24760;Time;;Kl. 10:24
+24772;title_name;Fru Ellen Trane Nørby.;Formanden
+24804;Time;;Kl. 10:24
+24826;name_party;":
+Det er meget interessant, at den socialdemokratiske ordfører siger det, når vi har en SFI-rapport
+fra sidste år, som netop viser, at det i højere grad
+er et stort forbrug, en høj gæld, forkert låneoptagning, at det i det hele taget er en dårlig bevidsthed om, hvordan en privatøkonomi skrues
+sammen, som meget ofte fører til, at mennesker
+desværre bliver sat ud af deres boliger. Der synes jeg jo nok, at det er temmelig forenklende, at
+den socialdemokratiske ordfører bliver ved med
+at fastholde, at det er kontanthjælpsloftet, der
+fører til udsættelser, når vi ved, at 40 pet. faktisk
+er på arbejdsmarkedet.
+Jeg vil derfor høre, om den socialdemokratiske ordfører på den baggrund heller ikke støtter
+op bag regeringens mange initiativer for netop
+at sikre en frivillig gældsrådgivning til familierne, så vi sikrer, at der egentlig kommer fokus på,
+hvordan man anvender sine penge, i stedet for
+at tingene skrider, som vi jo kan se i SFI-rapporten er tilfældet.";Ellen Trane Nørby
+25800;Time;;Kl. 10:24
+25812;title_name;Ordføreren.;Formanden
+25834;Time;;Kl. 10:25
+25852;name_party;":
+Som fru Ellen Trane Nørby nok har bemærket,
+bakker Socialdemokratiet selvfølgelig op bag
+det her lovforslag. Det er en del af satspuljeforliget. Men jeg vil godt gentage:
+Skal man årligt gå ind og løfte 1.000 familier
+ud af en tvangsudsættelse, forhindre, at folk bliver sat på gaden, bliver smidt ud af deres bolig,
+er der én ordning, vi kan gå ind og ændre på, og
+det er kontanthjælpsloftet. Vi kan sikre, at de her
+familier ikke kommer i den situation.
+Jeg kan så høre, at Venstre ikke vil være med
+til at forebygge, at de her mennesker bliver sat
+på gaden. Venstre vil hellere kun fokusere på, at
+vi skal tage fat i de her familier, når skaden faktisk er sket, når de økonomisk er kommet så
+langt ud, når de har levet i fattigdom i længere
+tid og er kommet dertil, at de ikke længere kan
+betale deres husleje. Så er det først, at Venstre vil
+gå ind og lave noget symptombehandling.
+Hvorfor ikke gå ind meget tidligt i processen og
+se på, hvad det er, der gør, at de her folk ikke
+kan betale deres husleje? Det er kontanthjælpsloftet, og det må Venstre bare erkende.";Thomas Jensen
+26933;Time;;Kl. 10:25
+26945;title_name;Så er det hr. Karsten Lauritzen for en kort bemærkning.;Formanden
+27010;Time;;Kl. 10:25
+27032;name_party;":
+Jeg vil sige til ordføreren for Socialdemokraterne, at det jo ikke er Venstres politik, der er noget
+i vejen med. Det er Socialdemokraternes, for der
+er simpelt hen ikke sammenhæng i det, som Socialdemokraternes ordfører for det her lovforslag siger. Ordføreren sagde, sådan som jeg hørte det, og nu kan vi jo få det gentaget, at det største problem er kontanthjælpsloftet.
+Men faktum er jo, og det har vi jo også hørt
+ordføreren bekræfte - jeg ved ikke, om det var
+en fejl, at ordføreren kom til at bekræfte det - at
+ifølge Socialforskningsinstituttet og deres undersøgelse er 40 pet. af dem, som bliver udsat,
+ude på arbejdsmarkedet, og det vil sige, at det så
+er personer, som ikke kan finde ud af at forvalte
+deres privatøkonomi. Det er den største gruppe
+af dem, som bliver udsat, og dermed er det største problem så, at der er en del mennesker, som
+ikke kan finde ud af at forvalte deres privatøkonomi, og altså ikke kontanthjælpsloftet, som er
+en mindre årsag. Er det korrekt opfattet?
+
+Torsdag den 15. januar 2009 (L 92)";Karsten Lauritzen
+28073;Time;;Kl. 10:26
+28085;title_name;Ordføreren.;Formanden
+28107;Time;;Kl. 10:26
+28125;name_party;":
+Jeg kan forstå, at man i den yngre del af Venstres
+folketingsgruppe har holdt studiekreds om SFI-'
+rapporten, og derfor overrasker det mig, at man
+ikke er kommet frem til en større erkendelse af,
+at hvis man virkelig vil forebygge, at folk bliver
+tvangsudsat, er der ét enkelt område, hvor man
+kan gå ind og regulere en lov og sørge for, at 30
+pet. af dem, der bliver tvangsudsat, ikke bliver
+tvangsudsat. Det er ved at gå ind og regulere
+kontanthjælpsloven. Så enkelt er det.";Thomas Jensen
+28613;Time;;Kl. 10:27
+28625;title_name;"Så er det hr. Karsten Lauritzen for yderligere en
+kort bemærkning.";Formanden
+28701;Time;;Kl. 10:27
+28723;name_party;":
+Jeg kan så forstå, at der er en indrømmelse fra
+Socialdemokraternes ordfører på det her område, nemlig at ordføreren jo ikke har ret, når han
+siger, at det største problem er kontanthjælpsloftet. Det største problem er ikke kontanthjælpsloftet, det er jeg glad for at ordføreren lige har
+indrømmet, og det vil jeg bare kvittere for. Det
+største problem er altså, at der er 40 pet., som
+ikke kan finde ud af at forvalte deres privatøkonomi, og det er jo nu engang de her 40 pct. s egen
+skyld og altså ikke statens ansvar og statens problem. Derfor sker der så en tvangsudsættelse af
+dem. Det er den største gruppe og den største
+enkeltstående årsag, og det var jeg glad for at
+ordføreren bekræftede. Tak.";Karsten Lauritzen
+29438;Time;;Kl. 10:27
+29450;title_name;O r d f ø r e r e n . .;Formanden
+29483;Time;;Kl. 10:27
+29501;name_party;":
+Jeg tror, at hr. Karsten Lauritzen måske er nået
+dertil, hvor han har brug for et høreapparat. Jeg
+har ikke sagt, at det største problem er kontanthjælpen. Jeg har sagt, at der, hvor man kan gå
+ind og regulere for den største gruppe, som bliver sat ud, sådan at de ikke bliver tvangsudsat
+af deres bolig, er kontanthjælpen. Det er det, jeg
+har sagt. Jeg har kommenteret SFI-rapporten,
+men jeg siger, at det er ved at regulere kontanthjælpen, man kan sørge for, at 1.000 familier
+ikke hvert år bliver sat ud. Så enkelt er det. - ,
+
+2635";Thomas Jensen
+30049;Time;;Kl. 10:28
+30061;title_name;"Så er det hr. Torsten Schack Pedersen for en kort
+bemærkning.";Formanden
+30132;Time;;Kl. 10:28
+30160;name_party;":
+Det er en lidt besynderlig form for argumentation, som den socialdemokratiske boligordfører
+må opfinde til lejligheden, for det virker, som
+om at man, hvis man er omfattet af kontanthjælpsloftet, nærmest helt automatisk ryger ud
+af sin lejlighed. Der er jo altså også folk, der er
+omfattet af kontanthjælpsloftet, som ikke bliver
+sat ud af deres lejlighed, fordi de har styr på deres økonomi.
+Når hr. Thomas Jensen siger, at hvis bare man
+fjerner kontanthjælpsloftet, så ville alle dem, der
+modtager kontanthjælp og bliver sat ud, ikke
+blive sat ud. Det passer jo ikke med, at vi oplever, at den største del af dem, der bliver sat ud,
+er folk, der er på arbejdsmarkedet. Det vidner jo
+om, at det i høj grad er personer, der har problemer med at styre deres økonomi. Det er sådan
+set også det, SFI-rapporten siger, altså at der er
+problemer med for stor gæld og med at sørge
+for, at de beløb, der kommer ind hver måned,
+altså også afspejler sig i ens forbrug.
+Så vil hr. Thomas Jensen ikke indrømme, at
+det her bare er endnu en anledning for Socialdemokratiet til at fremhæve sin modstand mod
+kontanthjælpsloftet, mere end at det er en reel
+årsag i forbindelse med det problem, vi behandler?";Torsten Schack Pedersen
+31362;Time;;Kl. 10:29
+31374;title_name;Ordføreren.;Formanden
+31395;Time;;Kl. 10:29
+31413;name_party;":
+Nu, hvor jeg allerede har bemærket, at der vist
+er studiekredse om SFI-rapporter i Venstres
+gruppe, vil jeg henlede opmærksomheden på en
+anden SFI-rapport, nemlig den, der omhandler,
+hvorvidt kontanthjælpsloftet virker. Den synes
+jeg at man skulle tage at læse.
+Hvad er formålet med kontanthjælpsloftet?
+Er det at bringe folk i arbejde? Ja, men det virker
+så heller ikke. Så der er mange gode argumenter
+for at gå ind og fjerne kontanthj ælpsloftet, og
+det kunne man måske tage op i studiekredsen i
+Venstres folketingsgruppe.
+Derudover vil jeg gentage: Jeg har ikke bekræftet, at kontanthjælpsloftet er den største årsag. Jeg har sagt, at kontanthjælpsloftet er den
+enkeltlovgivning, man kan gå hen og regulere
+
+2636
+
+Torsdag den 15. januar 2009 (L 92)
+
+på og dermed sørge for, at rigtig mange mennesker - mange børnefamilier, mange skæbner ikke vil blive tvangsudsat hvert år.";Thomas Jensen
+32303;Time;;Kl. 10:30
+32315;title_name;Hr. Torsten Schack Pedersen.;Formanden
+32353;Time;;Kl. 10:30
+32381;name_party;":
+Det kunne være, hr. Thomas Jensen skulle lade
+sig inspirere og drøfte problemstillingen med
+nogle af sine gruppekolleger. Det kunne jo være,
+at det kunne øge forståelsesniveauet her.
+Jeg er jo nødt til at sige, at det bare er en gentagelse af, at Socialdemokratiet ikke bryder sig
+om, at det skal kunne betale sig at arbejde. Socialdemokratiet mener, at det er et fornuftigt system, hvor man, hvis man er et ægtepar på kontanthjælp, skal ind at tjene 27.000 kr. om måneden, for at det skal kunne betale sig at komme i
+arbejde. Det er det, hr. Thomas Jensen mener at
+vi skal tilbage til.
+Mener hr. Thomas Jensen virkelig ikke, at den
+bedste socialpolitiske foranstaltning, vi gør, er,
+at folk kommer i arbejde? Det gør vi jo altså ved,
+at det kan betale sig at arbejde, og det må da
+være det, der er det ultimative udgangspunkt
+for folk på kontanthjælp. Men hr. Thomas Jensen forsvarer altså en ordning, der vel entydigt
+gør det mindre attraktivt at komme på arbejdsmarkedet og fastholder folk på kontanthjælp.
+Det burde da være et oplagt tema for en socialdemokratisk studiekreds at analysere det paradoks.";Torsten Schack Pedersen
+33499;Time;;Kl. 10:31
+33511;title_name;Ordføreren.;Formanden
+33532;Time;;Kl. 10:31
+33550;name_party;":
+Nu er jeg rimelig overbevist om, at forståelsesrammen i Venstres studiekreds om kontanthjælpsloftet sådan er mere ideologisk, end at
+den ser på, hvordan det virkelig forholder sig
+ude i virkeligheden. SFI-rapporten dokumenterer, at kontanthjælpsloftet ikke virker. Med andre ord: Den får ikke folk i arbejde.
+Socialdemokraterne vil gerne have, at folk
+kommer i arbejde. Hvis man virkelig vil have
+folk i arbejde i Danmark, så har nogle af de her
+folk, der er på kontanthjælp, måske behov for en
+lidt anden indsats for at komme ind på arbejdsmarkedet. Og derfor synes jeg også bare, at man
+skal se på, hvad konsekvensen af kontanthjælpsloftet er: Det virker ikke, det får ikke folk i
+arbejde, og det holder folk nede i fattigdom.
+
+Det er med andre ord en af de ordninger, der
+socialpolitisk er med til at holde folk fast i fattigdom, og jeg tror ikke på, at det får folk i arbejde,
+at man holder dem fast i fattigdom. Jeg tror, at
+det dag for dag bringer folk længere og længere
+væk fra arbejdsmarkedet, og derfor er kontanthjælpsloftet en rigtig, rigtig dårlig løsning, hvis
+man virkelig gerne vil have folk i arbejde.
+. . . Kl. 10:32";Thomas Jensen
+34698;title_name;Så er det hr. Knud Kristensen for en kort bemærkning.;Formanden
+34761;Time;;Kl. 10:32
+34782;name_party;":
+Jeg synes, at hr. Thomas Jensen virkelig kritiserede lovforslaget meget inderligt, og det synes
+jeg i og for sig ikke er rimeligt. Hr. Thomas Jensen kører meget omkring det med kontanthjælp
+osv. Er hr. Thomas Jensen ikke enig i, at uanset
+hvordan man er bemidlet, handler det om, at
+man lejer en lejlighed, der passer til ens egen
+økonomi? Er det ikke det, der er omdrejningspunktet? Jeg synes, der ligger mange gode elementer i lovforslaget her om, hvordan man netop kan hjælpe den enkelte til at få den lejlighed,
+som passer til den pågældendes økonomi. Er det
+ikke hr. Thomas Jensens indstilling, at det må
+være den enkeltes ansvar?";Knud Kristensen
+35429;Time;;Kl. 10:33
+35441;title_name;Ordføreren.;Formanden
+35462;Time;;Kl. 10:33
+35480;name_party;":
+Hvis den konservative ordfører fulgte med i min
+ordfører tale, vithan også vide, at Socialdemokratiet støtter lovforslaget - det er en del af
+satspuljen. Det, jeg går ind og kritiserer, er, at
+lovforslaget ikke tager fat om nældens rod, nemlig at se på, hvorfor det egentlig er, at folk kommer i den ulykkelige situation, at de bliver
+tvangsudsat af deres bolig. Og der påpeger jeg,
+at der er nogle socialpolitiske ting omkring kontanthjælpsloftet, som gør, at der er alt, alt for
+mange, som kommer i den her situation. Og det
+er det, jeg er inde at tage fat om for ligesom at
+skabe en debat, der gør, at vi måske fremadrettet
+kan komme til at føre en forebyggende politik i
+Danmark, der ikke bringer folk i den her situation.
+Derudover vil jeg sige, at folk selvfølgelig
+skal betale deres husleje, sådan er det, men man
+kan også presse folk så langt ud økonomisk, at
+de simpelt hen stille og roligt ikke har økonomi
+til at betale deres husleje. Det kan man gå ind og
+
+Torsdag den 15. januar 2009 (L 92)
+regulere ved at ændre på kontanthjælpsloftet, og
+det synes jeg ville være en rigtig god idé at gøre.
+Vi har fremsat forslag om det i forbindelse med
+finansloven - i et ændringsforslag - men det
+blev ikke vedtaget, fordi Venstre: Konservative
+og Dansk Folkeparti ikke bakkede op om det.";Thomas Jensen
+36782;Time;;Kl. 10:34
+36794;title_name;"Hr. Knud Kristensen.
+Kl, 10:34
+Knud Kristensen, (KF):
+Jeg hørte udmærket hr. Thomas Jensens ordfø.,
+rertale. Af ordførertalen fremgik det faktisk også, at hr. Thomas Jensen og Socialdemokratiet
+kun støtter lovforslaget, fordi man er med i
+satspuljeforliget. Er det virkelig korrekt forstået?
+Det vil jeg gerne have at hr. Thomas Jensen lige
+underbygger.";Formanden
+37157;Time;;Kl. 10:34
+37169;title_name;Ordføreren.;Formanden
+37190;Time;;Kl. 10:34
+37208;name_party;":
+Nej, det er ikke korrekt forstået. Vi støtter forslaget, fordi det trods alt går ind og giver nogle
+bedre fremtidsudsigter for de folk, der er kommet i den situation, at de står over for en tvangsudsættelse. Man kan med andre ord sørge for, at
+der er nogle, der ikke ender med at blive tvangsudsat, og det er selvfølgelig positivt, ingen tvivl
+om det. Men vi skal gå skridtet tilbage og se på,
+hvorfor folk bliver tvangsudsat, og der har vi jo i
+længere tid diskuteret kontanthjælpsloftet. Det
+er ét område at gå ind på. Der er også starthjælpen, der er 450-timers-reglen, der er flere steder,
+vi kan gå ind og sørge for, at folk ikke bliver
+tvangsudsat eller kommer i den situation, hvor
+de ikke kan betale deres husleje og derfor skal
+tvangsudsættes. Det synes jeg vi skal tage fat på,
+og det håber jeg også at Det Konservative Folkeparti en dag vil være med til.";Thomas Jensen
+38085;Time;;Kl. 10:35
+38097;title_name;"Tak til hr. Thomas Jensen. Der er ikke flere, der ,
+har bedt om korte bemærkninger - jo, det har
+fru Özlem Sara Cekic (formanden udtaler »Cekic«
+med »s«), som så får ordet for en kort bemærkning. Og så vil jeg lige bede ordføreren blive stående, så han også får mulighed for at svare.
+Værsgo.";Formanden
+38399;Time;;Kl. 10:35
+38421;name_party;":
+Tak, jeg hedder Cekic (taleren udtaler det med »tj«)
+til efternavn.
+
+2637
+
+Altså, der er jo tradition for, at den blå blok
+altid tager rapporter med, men tit er det jo sådan, at de glemmer at læse rigtigt. Så jeg vil bare
+lige læse op og høre, om ordføreren vil bekræfte,
+at ordføreren også har læst de ting, som står her.
+Jeg læser op fra side 11 i SFI's rapport »Hvorfor lejere bliver sat ud af deres bolig«:
+»Der er dog en overrepræsentation af lejere,
+der modtager kontanthjælp«. På side 21 står der:
+»Endelig er kontanthjælpsmodtagere en særligt
+sårbar gruppe. De er både overrepræsenterede
+blandt udsatte lejere og har en lavere indkomst
+end lejere generelt.«";Özlem Sara Cekic
+39098;Time;;Kl. 10:36
+39110;title_name;Ordføreren.;Formanden
+39131;Time;;Kl. 10:36
+39149;name_party;":
+Ja, jeg er selvfølgelig enig i det, der bliver læst
+op, og det viser jo med al tydelighed, at hvis
+man laver en tværpolitisk studiekreds, vil det
+måske gå op for selv Venstres ordfører og de øvrige medlemmer af Venstres gruppe, som er i
+Folketingssalen i dag, at det rent faktisk er omkring kontanthjælpsloftet, vi kan gå ind og ændre på de her tvangsudsættelser. Så jeg siger tak
+til SF's ordfører og vil bide mig fast i, at vi kan
+gå ind og skabe en bedre hverdag for folk, som
+har problemer med at betale huslejen, hvis ellers
+der er en vilje og et hjerte hos Venstres folketingsgruppe.
+K.I. 10:36";Thomas Jensen
+39763;title_name;"Der er ikke flere korte bemærkninger. Tak til hr.
+Thomas Jensen. Og så er det fru Anita Knakkergaard.";Formanden
+39874;Time;(Ordfører);Kl. 10:37
+39909;name_party;":,
+Formålet med lovforslaget er at forhindre de
+mange udsættelser af lejere fra deres bolig på
+grund af manglende betaling af husleje, hvilket
+vi i Dansk Folkeparti selvfølgelig er enige i er
+ønskeligt. Forslaget er. en udmøntning af satspuljeaftalen for 2009, og baggrunden har været
+en SFI rapport, hvoraf det fremgår, at knap 2.600
+lejere blev udsat af deres bolig i 2006.
+Den indsats, der skal gøres, skal ifølge
+satspuljeaftalen for 2009 og ordførerne på det
+sociale område ske på følgende områder:
+Almene boligorganisationer forpligtes til at
+underrette kommunen, når en sag om huslejerestancer oversendes til fogedretten: en forlængelse af lejelovgivningens påkravsfrist fra 3 dage til
+
+2638
+
+Torsdag den 15. januar 2009 (L 92)
+
+14 dage: tidligere vurderingspligt for kommuner
+ved udsættelsessager: udvidelse af mulighederne for flyttehjælp til lejere, der flytter fra en dyr
+til en billigere bolig: mulighed for nyt beboerindskudslån trods uafviklet tidligere beboerindskudslån: vejledning af kommunerne i at bruge
+diverse eksisterende og nye værktøjer, der kan
+hjælpe udsættelsestruede lejere. Herforuden har
+ministeren indsat en ændring af påkravsgebyret.
+Kommunen får mulighed for at gribe ind, ved
+at de almene boligorganisationer underretter
+kommunen i sager om udsættelse, og kommunalbestyrelsen forpligtes til at foretage en helhedsvurdering af behovet for hjælp. Hvis borgeren ikke er berettiget til at få hjælp fra kommunen, skal afgørelsen træffes senest 14 dage efter
+boligorganisationens underretning, hvilket for
+Dansk Folkeparti er betryggende.
+Med forslaget justeres kriteriet for tildeling af
+flyttehjælp, så der kan gives flyttehjælp i situationer, hvor der flyttes fra en forholdsvis dyr bolig til en bolig med en husleje, der bedre passer
+til lejerens eller familiens indkomst. Den samme
+begrundelse gør sig gældende, hvor der ydes et
+nyt beboerindskudslån, selv om husstanden har
+uindfriet gæld fra tidligere beboerindskudslån.
+Så det er alt i alt gode tiltag, som Dansk Folkeparti kan tilslutte sig.
+Men med hensyn til en forlængelse af lejelovgivningens påkravsfrister fra 3 til 14 dage har vi
+svært ved at tilslutte os, efter at vi har læst høringssvarene - det vil jeg komme ind på lidt senere. 12005 blev der nemlig nedsat et udvalg bestående af bl.a. lejer- og udlejerorganisationer,
+der skulle se på en forenkling af hele lejeloven.
+Udvalget kom med et forslag til ændring af lejeloven i slutningen af oktober 2008, og disse ændringer skal selvfølgelig ses som en samlet løsning. Organisationen blev ifølge Ejendomsforeningen Danmarks høringssvar enig om, at påkravsfristen i lejelovens § 93, stk. 2 forlænges fra
+de nuværende 3 dage til 7 dage, mod at det nuværende påkravsgebyr på 129 kr. plus 2 pet. af
+det skyldige beløb over 1.000 kr. forhøjes til et
+nyt påkravsgebyr på 2 pet. af det skyldige beløb,
+dog minimum 300 kr.
+Af høringssvaret fra Boligselskabernes
+Landsforening fremgår det klart, at de 14 dage
+skal forkortes til 1 uge eller maksimalt 10 dage.
+Dansk Folkeparti mener, at den forlængede frist
+fra 3 til 14 dage kan få mange til at glemme, at
+de ikke har betalt husleje, og bruge pengene på
+andre ting, og SFI-rapporten angiver netop, at
+
+tre ud af fire udsættelser af lejere skyldes disses
+manglende evne til at administrere deres økonomi. Vi kan frygte, at der bliver endnu flere udsættelsessager, hvis påkravsfristen bliver 14 dage. De private udlejere får for det meste et depositum på 3 måneders husleje plus en måneds
+forudbetalt husleje.
+Når fogedretten sætter lejere ud, har mange
+lejere brugt hele depositummet til husleje, så der
+ingen penge vil være til renovering af lejligheden, og så udlejeren mister depositummet, og da
+lejligheden skal renoveres med maling m.v., vil
+der gå endnu en måned med renovering, så tabet for de private udlejere vil blive omkring
+25.000 kr., bl.a. på grund af den lange ventetid i
+fogedretten.
+Som det fremgår af BL's høringssvar, vil det
+samme ske med beboerindskuddet. Beboerindskuddet vil for de nye lejligheder udgøre omkring 25.000 kr. Også her bliver der tale om en
+ekstra måneds mistet husleje, hvis påkravsfristen ændres til 14 dage. Her er det ikke udlejer,
+der betaler, men det er lejerne i det almene boligbyggeri, man pålægger at betale de udgifter. Vi
+har derfor svært ved at stemme for forslaget i
+sin helhed og ønsker, at velfærdsministeren stiller ændringsforslag i enighed med de partier,
+der er med i satspuljeforliget. Så umiddelbart vil
+jeg gerne have, at vi kigger på det i udvalgsarbejdet, da jeg selvfølgelig mener, at man er nødt
+til at se på de høringssvar, der er givet bl.a. fra
+BL.";Anita Knakkergaard
+44522;Time;;Kl. 10:42
+44534;title_name;"Tak. Der er ønske om en kort bemærkning fra hr.
+Frank Aaen.";Formanden
+44603;Time;;Kl. 10:42
+44619;name_party;":
+Det er bare et spørgsmål om, hvordan Dansk
+Folkeparti har det med finansieringen af det her
+forslag. For finansieringen af det her forslag,
+som i alt væsentligt er fornuftig, er jo penge taget fra landets pensionister, fra landets arbejdsløse, fra de syge, fra kontanthjælpsmodtagere,
+fra alle dem, der har allermindst at leve for. Er
+det ikke en underlig ting, at noget, der skal lappe på økonomiske problemer for familier, skal
+finansieres ved, at man tager penge fra præcis
+de samme familier?";Frank Aaen
+45126;Time;;Kl. 10:42
+45138;title_name;"Ordføreren.
+
+Torsdag den 15. januar 2009 (L 92)";Formanden
+45196;Time;;Kl. 10:42
+45220;name_party;":
+Hr. Frank Aaen ved jo godt, at vi har svært ved
+det. Jeg kan jo se, at de 16 mio. kr., der bruges
+her, bruges som DUT-midler til kommunerne.
+Jeg vil sige, at det har jeg det også lidt svært
+med, og det har vi også i Dansk Folkeparti. Men
+hr. Frank Aaen ved jo, hvad vores indstilling er.";Anita Knakkergaard
+45519;Time;;Kl. 10:43
+45531;title_name;Hr. Frank Aaen.;Formanden
+45556;Time;;Kl. 10:43
+45572;name_party;":
+Det hørte vi jo ikke noget om i ordførertalen. Jeg
+synes jo, det er mærkeligt: at hvis man påstår, at
+man er et socialt parti og vil gøre noget for de
+dårligst stillede i samfundet, så bliver man ved
+med år efter år at være med i et system, der udhuler pensionerne til folkepensionister, til efterlønnere, til dem, der er på førtidspension, til arbejdsløse og syge.
+Altså, hvordan kan Dansk Folkeparti på den
+ene side sige, at man gør noget og gerne vil gøre
+noget for de svage i samfundet og så på den anden side blive ved med at være en del af et system, der systematisk tager fra de svageste i
+samfundet og øger uligheden i samfundet?";Frank Aaen
+46221;Time;;Kl. 10:43
+46233;title_name;Ordføreren.;Formanden
+46254;Time;;Kl. 10:43
+46278;name_party;":
+Som hr. Frank Aaen ved, har Dansk Folkeparti
+tidligere stået uden for satspuljen og set, hvad
+de andre brugte pengene til. Vi valgte så at være
+med i satspuljen og medbestemmende over,
+hvad midlerne skulle bruges til. I det her tilfælde er der en del af dem, der bliver brugt til at
+hjælpe udsættelsestruede lejere. Det er vi sådan
+set tilfredse med.";Anita Knakkergaard
+46640;Time;;Kl. 10:44
+46652;title_name;"Tak. Der er ikke flere, der har bedt om korte bèmærkninger. Tak til fru Anita Knakkergaard.
+Næste ordfører er fru Özlem Sara Cekic.";Formanden
+46793;Time;(Ordfører);Kl. 10:44
+46826;name_party;":
+Jeg vil starte med at fortælle om en kvinde, jeg
+mødte, da jeg blev socialordfører. Hun kontaktede mig. Hun havde kæmpe problemer. Hun led
+af angst, og det havde hun gjort i 13 år. Hendes
+mand var død i en trafikulykke, og hun havde to
+børn, som hun var alene med. Hun var ramt af
+
+2639
+
+loftet over kontanthjælp. Det, som var sket, var,
+at hendes elregning var steget med 200 kr., så
+hun havde valget mellem at betale sin elregning
+eller huslejen i maj måned. Hun valgte elregningen. I juni havde hun valget mellem at betale sin
+husleje og mad til børnene, og hun sagde, at hun
+havde valgt maden. I juli blev hun sat på gaden.
+I dag sms'er jeg tit med hende, og hun ved
+også godt, at det her forslag er på.i dag, så jeg
+har lovet hende, at jeg vil stille nogle spørgsmål
+til jer, som synes, at det her virkelig er meget
+forebyggende og et hurraforslag.
+Hun bor på et krisehjem sammen med et af
+børnene, der er ikke plads til det andet. Det andet bor et andet sted. Muligvis får hun tilbudt en
+lejlighed, og med stor sandsynlighed - som hun
+selv siger - kommer hun nok ikke til at betale
+huslejen efter 3 måneder, fordi hun simpelt hen
+ikke har råd til det.
+Jeg vil gerne starte med at sige, at det her projekt, det her forslag, er et lappeløsningsprojekt.
+Det sagde vi også til ministeren under satspuljeforhandlingerne. Det gør ikke noget reelt for de
+mennesker, som ikke kan betale deres husleje,
+fordi de har en økonomi, der gør, at de simpelt
+hen ikke kan skrabe de penge sammen. Der er
+det klart at jeg ikke snakker om direktøren, der
+bliver skilt fra sin kone, har en svær periode,
+kommer til at drikke lidt for meget og bliver
+hjemløs. Jeg snakker om de 30 pet. af lejerne,
+som har en kontanthjælpsbaggrund - de er
+overrepræsenteret - som har en økonomi efter at
+være ramt af loftet over kontanthjælp, som får
+starthjælp eller er ramt af 300-timers-reglen, der
+gør, at de ikke har mulighed for at betale deres
+husleje.
+Derfor så vi jo selvfølgelig gerne fra SF's side,
+at man gik ind og lavede forebyggende arbejde.
+Man forebyggede, at folk blev sat på gaden, fordi de ikke havde økonomi til at betale. SFI-rapporten, som jeg selvfølgelig har husket at tage
+med - de borgerlige sidder sikkert også og bladrer i diverse sider i den - siger jo også, at en fjerdedel af dem, der bliver sat på gaden, stadig er
+hjemløse, efter at der er gået et år. Bemærk venligst, at mange af dem har en social slagside og,
+en etnisk slagside. Det er de mennesker, som har
+rigtig svært ved at komme tilbage til livet.
+Alt i alt er forslaget et lille skridt i den rigtige
+retning, og vi støtter det jo, selv om det kun er
+små skridt i den rigtige retning, fordi der ikke er
+et andet flertal.
+Jeg vil gerne afslutningsvis sige, at det selvfølgelig er enormt beklageligt, at vi har en
+
+2640
+
+Torsdag den 15. januar 2009 (L 92)
+
+satspulje, som bliver finansieret af folk på overførselsindkomster. Der så vi gerne fra SF's side,
+at det ikke var kontanthjælpsmodtagere og førtidspensionister, de allerfattigste, der skulle betale for, at vi skal tage vare på de mest udsatte
+grupper i Danmark, men at det var energiafgifterne og os alle sammen, der var med til at skabe
+en solidarisk finansiering af satspuljen.
+Så regner jeg med, at det vil vælte ind med
+spørgsmål. Jeg er færdig, hr. formand.
+.";Özlem Sara Cekic
+50118;Time;;Kl. 10:47
+50130;title_name;"Tak. Der er ønske om en kort bemærkning fra
+fru Louise Schack Elholm.";Formanden
+50209;Time;;Kl. 10:47
+50234;name_party;":
+Tidligere brugte ordføreren det at læse noget op
+fra rapporten og så få det konfirmeret, og jeg vil
+nu bruge den samme tilgang. På side 11 under
+en gennemgang af rapporten, står der:
+»Indkomstkilden har ikke betydning for, om
+en lejer bliver sat ud af sin bolig.«
+Kan ordføreren bekræfte, at det er det, der
+står i den her rapports konklusion?";Louise Schack Elholm
+50589;Time;;Kl. 10:48
+50601;title_name;Ordføreren.;Formanden
+50622;Time;;Kl. 10:48
+50644;name_party;":
+Det har jeg ikke nogen problemer med. Jeg læser
+bare videre efter den sætning, som fru Louise
+Schack Elholm læste, og der står:
+»Der er dog en overrepræsentation af lejere,
+der modtager kontanthjælp, idet ca. 30 pet. er
+kontanthjælpsmodtagere, mens andelen af kontanthjælpsmodtagere blandt lejere generelt er 5
+pct.«
+Lad os dog lade være med at lave det, vi laver. Det er simpelt hen så usmageligt, at den ene
+slår ned på en sætning, og den anden på en anden sætning. Det her handler om mennesker.
+Det her handler om mennesker, der kræver, at
+der er ansvarlige politikere herfra, som tager deres problemer alvorligt, og som gør noget for at
+løse dem. Der er 2.500 husstande, der er blevet
+sat på gaden alene siden sidste år. Vi snakker her
+om husstande, og det vil sige, at det drejer sig
+om langt flere mennesker. I PI sagde man jo, at
+det svarede til 100 mennesker om dagen. Kan
+det virkelig passe, at vi skal bruge taletiden her
+til at slås om den ene eller den anden sætning?
+Vi snakker om mennesker, vi snakker om børn,
+som ikke har de samme muligheder som os.";Özlem Sara Cekic
+51722;Time;;Kl. 10:49
+51734;title_name;"Ja, og der er igen en kort bemærkning fra fru
+Louise Schack Elholm.";Formanden
+51811;Time;;Kl. 10:49
+51836;name_party;":
+Jamen jeg synes, det er fint, at vi gennemgår hele
+resumeet. Vi kan også fortsætte:
+»Den største gruppe blandt udsatte lejere udgøres af lønmodtagere: næsten 40 pet. af de udsatte lejere er lønmodtagere.
+Ud over, at lav indkomst kendetegner udsatte
+lejere, er de også kendetegnet ved en høj gældsakkumulering.«
+Kan ordføreren bekræfte over for mig, at tre
+fjerdedele af alle udsætninger sker på grund af
+en dårlig økonomi, og at det, vi går ind og kigger på her i forbindelse med den her satspuljeaftale, netop er at prøve at hjælpe dem med at blive bedre til at administrere deres økonomi? For
+det er der, de rent faktisk har problemet.
+Endelig vil jeg gerne høre, om ordføreren kan
+fortælle mig, om SF rent faktisk vil støtte op om
+den satspuljeaftale, de har været med til at indgå, for ud fra den ordførertale, der blev holdt,
+kunne man godt forledes til at tro, Eit SF ikke kan
+bakke op om den aftale, de selv har været med
+til at indgå. Det ved jeg ikke om er en ny politik,
+de nu fører, men det vil jeg bare gerne lige bekræftet.";Louise Schack Elholm
+52884;Time;;Kl. 10:50
+52896;title_name;Ordføreren.;Formanden
+52917;Time;;Kl. 10:50
+52939;name_party;":
+Altså, jeg gentager gerne. Gentagelse fremmer
+forståelsen, siger man hos Nokia. Vi sagde jo, at
+små skridt er bedre end ingen skridt, og da det
+her er et lille skridt, siger vi selvfølgelig ja til aftalen. Vi sidder selv med ved det her forlig. Jeg
+sagde jo også til ministeren under forhandlingerne, at det er og bliver et lappeløsningsprojekt, for det gør ikke noget reelt ved det problem, at der er en gruppe af mennesker, der ikke
+har økonomien i orden, og at det er dem, der bliver sat på gaden. Og der er mange af dem, som
+efter et år stadig væk ikke har den tilstrækkelige
+indtægtskilde til at betale en lejlighed.
+Der var også et andet spørgsmål, jeg rigtig
+gerne ville svare på. Jo, det var det her med, at
+den største gruppe er lønmodtagere. Det svarer
+jo meget godt til det antal lønmodtagere, der generelt er lejere, så der er ikke en overrepræsentation. Jeg synes, det er enormt vigtigt, at vi gør
+
+(331)
+Torsdag den 15. januar 2009 (L 92)
+noget ved, at der er en kæmpe overrepræsentation af kontanthjælpsmodtagere. Det burde da i
+det mindste skabe en lille smule barmhjertighed,
+også blandt Venstre, Konservative og DF. Det er
+den gruppe, vi skal gå ind og gøre en forskel for.
+Det er jo ikke nogen hemmelighed, at de borgerlige enormt gerne vil gøre noget for de ressourcestærke. Det har vi da altid vidst.";Özlem Sara Cekic
+54273;Time;;Kl. 10:51
+54285;title_name;"Så er der en kort bemærkning fra hr. Thomas
+Jensen.";Formanden
+54346;Time;;Kl. 10:51
+54364;name_party;":
+Jeg sidder her ovre på min plads og synes, at det
+er beskæmmende, som Venstres ordfører ikke
+kan finde ud af at læse sammenhængende op fra
+den her i SFI-rapport, så jeg vil lige læse et kort
+stykke op - det er godt nok blevet læst op tidligere, men nu kommer det her:
+»Der er dog en overrepræsentation af lejere,
+der modtager kontanthjælp, idet cirka 30 pet. er
+kontanthjælpsmodtagere, mens andelen af kontanthjælpsmodtagere blandt lejere generelt er ca.
+5 pct.«
+Jeg vil derfor spørge SF's ordfører, om det
+ikke er korrekt, at hvis man skulle gå ind og ændre på én lov, der ville kunne sikre, at de 30 pet.
+ikke blev tvangsudsat, så var det kontanthjælpsloftet, man kunne gå ind og regulere på og således få hjulpet disse mennesker en gang for alle.";Thomas Jensen
+55125;Time;;Kl. 10:51
+55137;title_name;Ordføreren.;Formanden
+55158;Time;;Kl. 10:52
+55180;name_party;":
+Det er meget fedt, at du (Formanden: Hr. Thomas
+Jensen) - hr. Thomas Jensen, skal jeg huske at sige, og ikke du - og jeg sidder med samme rapport, for det står der også i min.
+Det er rigtigt, at hvis vi gjorde noget ved de
+her fattigdomsydelser, som består af loftet over
+kontanthjælpen, starthjælpen og 300-timers-reglen, som oppositionen i øvrigt her i januar måned fremsætter et samlet forslag om at afskaffe,
+så ville vi da gøre en kæmpe forskel og forebygge, at de her mennesker blev sat på gaden, at deres børn blev isoleret, og at de selv blev marginaliseret fra det omkringliggende samfund. Ja,
+så ville det da være en forebyggende indsats og
+ikke en lappeløsning, som vi ser med det her
+forslag.
+
+2641
+
+: , 홢, Kl. 10:52";Özlem Sara Cekic
+55922;title_name;"Tak. Der er ønske om en kort bemærkning fra
+fru Ellen Trane Nørby.
+Kl.,10:52";Formanden
+56020;name_party;":
+Tak. Nu er det jo åbenbart blevet sådan, at man
+skal læse hele SFI-rapporten op her i Folketingssalen, så derfor synes jeg da også, at vi skal have
+nogle af de andre relevante citater med. F.eks.
+står der på s. 11:
+. »Ud over, at lav indkomst kendetegner udsatte lejere, er de også kendetegnet ved en høj
+gældsakkumulering. Risikoen for, at lejere bliver
+sat ud af deres bolig, forstærkes markant, hvis
+de har en stor gæld. Blandt udsatte lejere vokser
+gælden hurtigere end for lejere generelt.«
+I det her forslag, som jeg også går ud fra at SF
+støtter, for SF er jo en del af satspuljen, går vi jo
+netop ind og sikrer, at der bliver en bedre gældsrådgivning for familier, som er på nippet til at
+blive sat ud: vi går ind og tjekker deres privatøkonomi og kontrollerer, at de ikke har uhensigtsmæssige lån, sådan at vi kan sikre, at det
+her problem ikke opstår igen et halvt år efter,
+fordi privatøkonomien ikke er blevet bedre, fordi fordelingen af udgifter ikke har ændret sig.
+Derfor vil jeg høre fra SF's ordfører, om det
+virkelig kan passe, at SF står her og siger, at det
+forslag, vi debatterer i dag, bare er en lappeløsning, som ikke betyder noget som helst.
+홢";Ellen Trane Nørby
+57200;Time;;Kl. 10:53
+57212;title_name;Ordføreren.;Formanden
+57233;Time;;Kl. 10:53
+57255;name_party;":
+Ja, jeg siger, at det er en lappeløsning i forhold til
+de 30 pet., som bliver sat på gaden, fordi de ikke
+har økonomien til at betale.
+Hvis man spørger Karina, som jeg nævnte her
+i starten af mit indlæg, som bor på et krisehjem i
+dag, så ville hun sige, at det har været rigtig, rigtig dyrt at være fattig. Sådan er det. Det er da
+rigtigt, at man da har gæld op til halsen, når
+man konstant ikke er i stand til at betale sine :
+regninger, og der kommer gebyrer, og man får
+lov til at dele regningerne op, og så stiger gebyrerne yderligere.
+Altså, sidste gang vi debatterede det her, sagde Dansk Folkepartis ordfører jo, at det er et
+spørgsmål om, hvorvidt man kan prioritere mellem cigaretter og ugeblade og at betale sine regninger. De her mennesker står ikke over for det
+valg, som ordføreren og jeg gør, om vi skal tage
+
+2642
+
+Torsdag den 15. januar 2009 (L 92)
+
+til Thailand eller til Kina - de står med det valg,
+som jeg nævnte at Karina også stod med: Skal
+jeg betale min husleje, eller skal jeg betale min
+elregning? Det er det, der er virkeligheden for
+dem.";Özlem Sara Cekic
+58333;Time;;Kl. 10:54
+58345;title_name;Fru Ellen Trane Nørby.;Formanden
+58377;Time;;Kl. 10:54
+58399;name_party;":
+Ja, det er netop derfor, at det her lovforslag er
+rigtig, rigtig godt, for her går vi ind og kigger på
+de familier, og SFI-rapporten siger klart, at det
+er tre fjerdedele af de mennesker, der bliver udsat, som har problemer med at administrere deres privatøkonomi.
+Her får de en håndsrækning til at gå ind og
+få styr på, om der er gæld, der ligger uhensigtsmæssigt, om der er blevet optaget lån, hvor man
+betaler alt for meget i rente, om der er ydelser,
+der kunne ligge anderledes, om man kunne prioritere anderledes, om man kunne sikre sig, at
+홢man havde en bolig, der svarede bedre til det behov, man havde, i forhold til de udgifter, man
+havde til boligen. Det er jo netop det, det her
+lovforslag lægger op til.
+Så som svar på det, SF's ordfører fremdrager
+om en person, der er kommet i klemme, er det
+her jo netop løsningen. Derfor kan jeg ikke forstå, at SF's ordfører gør sig til talsmand for at stå
+og nedgøre det her lovforslag, som sådan set går
+ind og hjælper netop den gruppe, som SF's ordfører har fremdraget her i dag.";Ellen Trane Nørby
+59443;Time;;Kl. 10:55
+59455;title_name;Ordføreren.;Formanden
+59476;Time;;Kl. 10:55
+59498;name_party;":
+Altså, det er da utroligt at konkludere ud fra det,
+jeg har sagt, at det her lovforslag vil hjælpe sådan en som Carina, som er ramt af loftet over
+kontanthjælpen. Hun kan jo ikke få ekstra ydelser, når hun er ramt af det loft. Det ved ordføreren for Venstre bedre end jeg. Man kan da ikke
+dukke op i Socialforvaltningen og sige: Ved du
+hvad, nu falder sneen, og jeg skal have støvler til
+mine børn. Altså, det skal være et eller andet
+helt ekstraordinært. Det vil ikke ændre hendes
+økonomi. Og derfor synes jeg, det virkelig er bemærkelsesværdigt at sige, at det her forslag vil
+gøre en forskel for dem, der hører til de mest udsatte.
+Jeg siger jo, at små skridt er bedre end ingen
+skridt. Det er derfor, vi støtter forslaget. Men det
+
+er rigtigt, at hvis vi havde et flertal, som jeg håber vi får næste gang, så ville man jo ikke se sådan nogle lappeløsninger. Så ville vi da gå ind
+og forebygge, så folk ikke bliver sat på gaden i
+det hele taget.";Özlem Sara Cekic
+60458;Time;;Kl. 10:56
+60470;title_name;"Så er der en kort bemærkning fra fru Anita
+Knakkergaard.";Formanden
+60536;Time;;Kl. 10:56
+60560;name_party;":
+Jeg vil godt lige sige noget om det postulat, der
+kom før, om, at jeg som ordfører skulle have sagt
+noget om, at man bare kunne lade være med at
+bruge pengene til ugeblade og cigaretter. Det vil
+jeg godt lige have at ordføreren tager i sig igen,
+for det har jeg aldrig sagt.";Anita Knakkergaard
+60846;Time;;Kl. 10:56
+60858;title_name;"Ordføreren.
+Kl..10:56";Formanden
+60901;name_party;":
+Jeg sagde, at det var socialordføreren for Dansk
+Folkeparti, hr. Christian H. Hansen, som sagde
+det, sidste gang vi debatterede det her. Han har i
+både radio og tv, ja, samtlige medier sagt, at det
+handlede om en prioritering mellem ugeblade
+og smøger, og at det var derfor, folk ikke var i
+stand til at betale deres regninger. Det er vi lodret uenige i, for de her menneskers største problem er ikke, om de skal købe ugebladet Alt for
+Damerne, deres største problem handler om, at
+de skal skaffe tre måltider sund mad til deres
+børn.";Özlem Sara Cekic
+61447;Time;;Kl. 10:57
+61459;title_name;"Der er ikke flere, der har bedt om korte bemærkninger. Tak til fru Özlem Sara Cekic. Og så er det
+hr. Knud Kristensen som ordfører.";Formanden
+61600;Time;(Ordfører);Kl. 10:57
+61632;name_party;":
+Det er jo nok på nuværende tidspunkt svært at
+komme med ret meget nyt om lovforslaget, men
+alligevel synes jeg, at lovforslaget fortjener at få
+en velvillig og sober behandling, da det netop
+sætter fokus på de mange boliglejere, som bliver
+sat ud af deres bolig: udgangspunktet i 2006 var
+jo ca. 2.600 udsættelser. Jeg synes, at velfærdsministeren fortjener ros for at have taget hånd om
+det her og for at have fremsat dette lovforslag,
+som netop tager vare på den problemstilling.
+Der ligger mange, mange gode elementer i
+lovforslaget, for vi må jo nok erkende, at mange
+
+Torsdag den 15. januar 2009 (L 92)
+af dem, som bliver sat ud af deres bolig, netop
+ikke har været i stand til at foretage en beregning af deres egen økonomi. Der er jo bl.a. mu-,
+lighed for, at man kan henvende sig til kommunen og få en vejledning om den økonomi, der vil,
+være til rådighed - huslejen er sådan, og de øvrige omkostninger er sådan og sådan. Det synes
+jeg er en fantastisk service at kunne give de af
+landets boliglejere, som har lyst til og behov for
+netop at få en sådan vejledning.
+Der er ligeledes lagt op til, at man kan få flyttehjælp, og der er også lagt op til, at man kan få
+yderligere et beboerindskudslån, selv om det viser sig, at det gamle beboerindskudslån ikke er
+tilbagebetalt. Jeg synes, der ligger mange, mange gode elementer i det her forslag, og det synes
+jeg bestemt at vi skal glæde os over, for uanset
+hvordan økonomien er, er det jo altafgørende, at
+man netop lejer en bolig, der passer til den økonomi, som er til rådighed.
+:
+Jeg vil meget rose det fremsatte lovforslag, og
+et underkendende udtryk som en lappeløsning
+vil jeg ikke på nogen måde bruge. Jeg mener, at
+det reelt er et fremadrettet lovforslag, som tager
+hånd om de problemstillinger, der er. Derfor kan
+Det Konservative Folkeparti fuldt og helt støtte
+lovforslaget.
+홢
+홢Kl. 11:00";Knud Kristensen
+63501;title_name;"Tak: Der er ønsker om korte bemærkninger, og
+den første korte bemærkning er fra fru Özlem
+Sara Cekic.
+,";Formanden
+63614;Time;;Kl. 11:00
+63636;name_party;":
+Nu hører jeg ordføreren sige, at det her ligefrem
+er et fantastisk forslag - altså det der med, at det
+er fantastisk, at man kan rådgive, og at man på
+den måde får løst nogle af problemerne - men
+lad os lige kigge ud i fremtiden. Betyder det så,
+at vi om et år - fordi man har lavet det her fantastiske forslag - ikke vil se 2.500 husstande blive
+sat på gaden? Kan ordføreren garantere, at det
+her forslag er nok til, at vi kan forebygge, at folk
+bliver hjemløse?";Özlem Sara Cekic
+64111;Time;;Kl. 11:00
+64123;title_name;"Ordføreren.
+홢'
+: . :
+Kl. ii:oo";Formanden
+64174;name_party;":
+Nu er det jo et meget fantastisk spørgsmål, der
+bliver stillet her af ordføreren. Jeg gik ind i byggebranchen i stedet for at blive fremtidsforsker,
+og når vi nu har taget udgangspunkt i den pro-
+
+2643
+
+blemstilling, vi har her, så synes jeg, at det meget
+beskriver, at der er blevet draget omsorg for, at
+vi kan forhindre de mange udsættelser netop
+med de parametre, der ligger i det lovforslag
+her. Hvordan det vil udvikle sig fremover er det
+klart at vi som politikere vil følge meget nøje og
+finde ud af, om det her er tilstrækkeligt, om det
+er det rigtige. Og sådan tror jeg for øvrigt det er
+med alle de lovforslag, der bliver fremlagt her
+på Christiansborg.";Knud Kristensen
+64850;Time;,;Kl. 11:01
+64864;title_name;Fru Ozlem Sara Cekic.;Formanden
+64895;Time;;Kl. 11:01
+64917;name_party;":
+Tak fordi ordføreren synes, at det var et fantastisk spørgsmål. Det har vi jo ry for at komme
+med fra SE Men det var desværre ikke et fantastisk svar, må jeg skuffe med at sige. Nu, hvor
+ordføreren siger, at det her er et fantastisk forslag og at vi nu virkelig kan skabe mirakler, så
+vil jeg ikke spørge, om vi skal følge det - det var
+ikke det, jeg spurgte om, for jeg ved godt, at vi
+skal følge alle love og se, hvad der sker om et år
+- men nu, hvor forslaget bliver betragtet som så
+fantastisk fra konservativ side, er det så nok til,
+at man kan forebygge, at 2.500 husstande bliver
+sat på gaden? Hvis ordføreren har mod til at sige
+nej, det er det ikke, hvad synes ordføreren så,
+der ekstra skal til, for at folk ikke bliver sat på
+gaden?";Özlem Sara Cekic
+65672;Time;;Kl. 11:02
+65684;title_name;"Ordføreren.
+: 홢";Formanden
+65709;Time;;Kl. 11:02
+65730;name_party;":
+Det, der lå i mit tidligere svar, som ikke var så
+fantastisk, var ganske enkelt, at når vi kommer
+et år frem, så er jeg meget parat til, at vi netop
+analyserer, hvor meget dét her egentlig har været en hjælp til at undgå de mange udsættelser,
+for jeg er meget enig i, at vi skal forsøge at få
+dem nedbragt til nul, så vidt det overhovedet er
+muligt. Men det kræver noget af såvel lejer som
+udlejer, og her er der lagt det element ind, at netop udlejer/boligorganisationerne, skal rette henvendelse til den enkelte kommune, så man på
+den måde netop får draget omsorg for problemet, for der er også boligtilskud og andre forskellige ting. Det er et spørgsmål om, at det bliver prioriteret på en homogen facon i forhold til
+den enkelte boliglejer.
+
+2644
+
+Torsdag den 15. januar 2009 (L 92)";Knud Kristensen
+66530;Time;Knud;Kl. 11:04
+66551;name_party;:;Kristensen
+66564;title_name;"Så er det hr. Thomas Jensen for en kort bemærk- Altså, det er nok sjældent at se, at et lovforslag,
+der bliver gennemført, løser alle problemer, at
+ning.";Formanden
+66727;Time;"politikerne har været så fremsynede, at de har
+kunnet se de elementer, der netop kunne opstå i";Kl. 11:03
+66840;name_party;":
+den sammenhæng.
+Det her lovforslag går ind og hjælper de folk,
+Men til spørgsmålet her vil jeg sige, at hvis .
+som er kommet i den ulykkelige situation, at de
+det viser sig, at alle, som har problemer med deikke kan betale deres husleje.
+res husleje og er udsætningstruede, netop også
+Derfor er mit korte og klare spørgsmål til hr.";Thomas Jensen
+67191;title_name;"Forebygger det her lovforslag, vil erkende de problemstillinger, så tror jeg på,
+at vi løser en stor del af det. Det her er jo ikke
+at folk ikke kan betale deres husleje? Forebygger
+blot Folketingets problem og kommunernes prodet her lovforslag, at man kommer i huslejereblem, men den enkelte lejer er så sandelig også
+stance?";Knud Kristensen
+67527;Time;"afhængig af og har også et ansvar for at løse sin
+egen opgave.";Kl. 11:03
+67602;title_name;;Formanden
+67611;Time;Ordføreren.;Kl. 11:05
+67633;Time;"Formanden:
+Tak. Der er ikke flere, der har bedt om korte beKnud Kristensen (KF):
+Det her lovforslag er med til at forebygge, at no- mærkninger. Tak til hr. Knud Kristensen. Så er
+det hr. Jørgen Poulsen som ordfører.
+gen kommer i den situation, at de skal sættes ud";Kl. 11:03
+67908;Time;"af deres lejlighed. Hvis de kommer i den situa(Ordfører)
+tion, at de skal sættes ud af deres lejlighed, så
+har de den kommunale hjælp i beredskab til net- Jørgen Poulsen (RV):
+I Det Radikale Venstre er vi glade for at kunne
+op at være med til at løse opgaven, sådan at de
+bliver flyttet til en anden lejlighed. Og der ligger tilslutte os det her lovforslag. Det er nok muligt,
+at det ikke løser alle problemer, men vi ser det 홢
+også det element i lovforslaget her, at man kan
+som et skridt i den rigtige retning, et skridt i retfå hjælp til den flytning.";Kl. 11:06
+68473;Time;"ning af at få en mere rimelig beskyttelse af de lejere, som af en eller anden grund kommer i reFormanden:
+stance med deres husleje og dermed trues af at
+Hr. Thomas Jensen for en kort bemærkning.";Kl. 11:04
+68678;Time;"blive sat ud af deres hjem.
+Forslaget om, at påkravsfristen forlænges fra";Kl. 11:04
+68770;name_party;":
+3 til 14 dage, håber vi naturligvis vil have den
+Som jeg hører hr. Knud Kristensens svar: lyder
+dét næsten, som om hr. Knud Kristensen tror på, virkning, at unødige udsættelser kan undgås, og
+at alle problemer bliver løst, så snart det her lov- dermed synes vi også det er et gode for både lejeren og for samfundet.
+forslag er vedtaget.
+Vi hilser det også velkommen, at regeringen
+Tror hr. Knud Kristensen virkelig på, at vi i
+ud over de konkrete tiltag, som sættes i værk,
+2009 eller fra 2010, når loven for alvor er komogså forpligter sig til løbende at følge antallet af
+met til at virke, ikke vil have nogen tvangsudsættelser i Danmark? Går det her virkelig ind og fogedsager og i 2010 iværksætte en undersøgelse af effekten af de redskaber, som her tages i
+løser problemet en gang for alle? Løser det problemet for de kontanthjælpsmodtagere, som bli- brug for at nedbringe antallet af udsættelser.
+Ligeledes ser vi frem til, at man så også vil
+ver tvangsudsat? Vi har jo før hørt her i salen, at
+kunne undersøge, om den pligt, som almene boop til 30 pet. af de folk, der bliver tvangsudsat,
+ligselskaber får til at underrette kommunerne
+er kontanthjælpsmodtagere. Tror hr. Knud Krisenest samtidig med, at de manglende huslejer
+stensen på, at det her lovforslag virkelig går ind
+overdrages til fogedretten, også kan komme til
+og forebygger, at de folk bliver tvangsudsat af
+at omfatte private udlejere af større ejendomme.
+deres bolig?";Thomas Jensen
+70221;Time;"Endelig finder vi det positivt, at man vil gøre
+noget for at udbrede kendskabet til kommunerFormanden:
+nes særlige muligheder for at hjælpe udsætOrdføreren.
+ningstruede lejere.";Kl. 11:04
+70408;Time;"Torsdag den 15. januar 2009 (L 92)
+Jeg vil også godt sige om det problem, som
+har været rejst af bl.a. fru Knakkergaard, med, at
+de 14 dage'kan betyde en ekstra måneds husleje,
+at det synes jeg man må kunne få behandlet i
+udvalget, så man kan se, hvad der er op og ned i
+den sag.
+Men vi er meget positive over for det her forslag.
+, .
+:
+,";Kl. 11:03
+70759;Time;;Kl. 11:08
+70771;title_name;"Tak til hr. Jørgen Poulsen. Den næste ordfører er
+hr. Frank Aaen.
+i";Formanden
+70848;Time;(Ordfører);Kl. 11:08
+70875;name_party;":
+Det er et lille forslag, som vi er positive over for.
+Men jeg vil altså også sige, at den måde, forslaget er finansieret på, mildest sagt er bizart. Det,
+at man giver en hjælp til folk, som er fattige, som
+er kommet ud i økonomiske problemer, som har
+det hårdt, med penge, som man har taget fra akkurat de samme folk, er da fuldstændig bizart:
+Først tager man penge fra mennesker, der ikke
+har ret meget at leve for, og når de så får problemer, bruger man nogle af de penge til at hjælpe
+de pågældende. Det er simpelt hen uforståeligt
+for mig, at der kan være et så massivt flertal i
+Folketinget fra SF og over til Dansk Folkeparti,
+som synes, at det er en god ordning, og at de kan
+stå her og være så glade for den. Vi har fået at vide, at det er et fantastisk forslag, at man først
+hugger penge fra dem, der har mindst, og så giver man nogle almisser til dem,' der har mindst,
+for at hjælpe dem!
+Jeg kan ikke forstå, at det ikke kan laves om.
+Jeg ved godt, at SF og Dansk Folkeparti siger, at
+de gerne vil lave det om, men det ændrer jo ikke
+ved, at partierne gladelig år efter år deltager i
+den her manøvre, som nu har eksisteret i 15 år,
+hvor man altså tager penge fra folk og deler dem
+ud som almisser. Og det er jo ikke småpenge,
+det drejer sig om. Det er i år alt i alt 9 mia. kr.,
+der er taget fra landets arbejdsløse, fra dem på
+efterløn og førtidspension, fra folkepensionister, de syge osv. - 9 mia. kr. er der taget fra de
+grupper og delt ud med rund hånd til forskellige trængende og til fornuftige formål. Jeg erkender gerne, at det normalt er fornuftige formål,
+der gives penge til, men det er da bare usmageligt, at man tager pengene fra dem, der har
+mindst.
+\
+Lad mig give nogle eksempler. Det drejer sig
+om en folkepensionist, der i år har mistet 5.500
+kr. på grund af satspuljen. Det drejer sig om en
+
+2645
+
+kontanthjælpsmodtager, som har mistet 6.500 kr.
+Det drejer sig om en arbejdsløs eller en syg, der
+bare i år har mistet 8.600 kr. Sidste år var det cirka samme beløb, og året før var det cirka samme
+beløb, og samlet set er der altså i år taget 9 mia.
+kr. fra de grupper, der i forvejen har allermindst
+at leve for.
+Jeg synes, at man bør skamme sig over at synes, at det er en rigtig god ordning, og over at <
+stå her og prale med, at man nu gør noget for
+dem, der risikerer at blive udsat af deres bolig,
+I
+når man samtidig er med til at skabe og forværre de problemer, der gør, at folk bliver udsat af
+deres bolig, hvilket er en kæmpestor social katastrofe. Vi skal så også høre, at der også er'lønmodtagere, der bliver smidt ud af deres boliger/
+og at det ikke kun er kontanthjælpsmodtagerne.
+Men gør det det bedre? Gør det det bedre, at der
+også er fattige lønmodtagere, der ikke kan betale
+deres husleje?
+Det kommer oven i købet fra partier, som var
+med til at sige under valgkampen, at nu måtte vi
+også gøre noget for de lavtlønnede inden for social- og sundhedssektoren. De lavtlønnede kvinder var dem, der blev lovet 5 miq. kr. til - det var
+ikke noget problem, var der en del af de partier,
+der i dag støtter det her forslag, der sagde. De
+skal bare have 5 mia. kr., så deres løn kan blive
+hævet. Det var altså under valgkampen, men
+dagen efter valget var det glemt, og nu er der
+lige pludselig ikke råd til det.
+Det er de partier, der i dag siger: Vi må nok
+hellere give bankerne 100 mia. kr., for de stakkels bankdirektører er kommet i uføre, og derfor
+må vi hjælpe den lidt, så vi tager lige 100 mia.
+kr., som vi forærer til dem. Men der er ikke råd .
+til at sørge for, at de, der har de laveste lønninger, får et lønløft. Der er'ikke råd til den-velfærd,
+som vi alle sammen har brug for, og som vi alle
+sammen er klar over har brug for noget ekstra.
+Det er der ikke råd til. Men i samme sekund, en
+bankdirektør kommer i sit fine mørke tøj og siger: at de har et problem, sidder pengene løst.
+Jeg ved, at der i øjeblikket forhandles om, om
+vi skal betale 20.000 kr. pr. dansker, eller om det
+måske kun er 17.000 kr. pr. dansker. Det er der
+råd til, men at sørge for, at almindelige mennesker får en anstændig løn, som de kan leve af og
+betale deres husleje med, er der ikke råd til. Og
+så står man her og praler med, at man har stjålet
+penge fra dem, der har allermindst, for at lave
+en lille lappeløsning. Men lappeløsningen er et
+lille fremskridt, og det støtter vi, men finansieringen er vi lodret imod.
+
+2646
+
+Torsdag den 15. januar 2009 (L 92)";Frank Aaen
+75274;Time;;Kl. 11:13
+75286;title_name;"Tak. Der er ikke ønske om korte bemærkninger.
+Så er det velfærdsministeren..";Formanden
+75372;Time;"Velfærdsministeren (Karen Jespersen):
+Tak for opbakningen til forslaget. Som stort set
+alle ordførere har været inde på, bygger det også
+på et fælles forarbejde og en aftale som led i aftalen om fordeling af satspuljen her for 2009.
+Heldigvis er der jo stor enighed om, at det er
+et uacceptabelt fænomen, at der er mennesker,
+der bliver sat ud af deres lejlighed. Når Socialdemokratiets ordfører siger, at tallene har været
+stigende her over de sidste 5-6 år, er det jo rigtigt, men man skal lige huske på, at det først var
+i 2002, at Domstolsstyrelsen overhovedet begyndte at opgøre de her tal, så det er ikke noget
+med, at folk ikke tidligere har været sat på gaden. Det er sådan, at den største stigning kom
+det første år, og det har også været vurderingen,
+at det afspejler, at der altid går nogen tid, inden
+der kommer tilstrækkeligt styr på tallene. Men
+det ændrer ikke ved, at det er for mange mennesker, og at der har været en stigning, og det er
+ikke acceptabelt.
+Filosofien her er jo, at kommunen skal have
+en mulighed for at komme tidligere på banen for
+at bistå de mennesker, det handler om, og hjælpe dem med at komme ud af deres klemme, og
+her er det jo vigtigt også at se på, hvad årsagerne
+er til, at der er mennesker, der havner i den her
+situation. Det har flere været inde på, og nogle
+har talt om, at det handler om kontanthjælpen
+og kontanthjælpsloftet. Det er rigtigt, at der er
+en overrepræsentation af mennesker på kontanthjælp, men SFI har ikke været i stand til at påvise, at det er mennesker, der er omfattet af kontanthjælpsloftet. Men det, vi jo har aftalt, er, at
+det er noget, vi skal følge meget tæt for at få afdækket, hvad årsagerne er.
+Når man spørger folk selv, er noget af det, de
+jo peger på, at de har problemer med at styre
+økonomien. Det er 75 pet. af dem, der er i den situation, der svarer sådan. Det er klart, at jo færre
+penge, man har, jo vanskeligere er det selvfølgelig også at få det hele til at hænge sammen. Men
+der er noget, der tyder på, at noget af det, der
+også kan være brug for, er at sætte ind med en
+indsats der, der ruster folk til bedre at kunne
+tage hånd om deres tilværelse. Det kan jo afspejle, at der er mange ting, der kan gøre sig gældende: der kan være folk her, der drikker for
+meget, der tager stoffer, og der er rigtig mange,
+
+der har gæld. En vigtig del af det er jo, hvordan
+vi får styr på det.
+Vi har jo også i fællesskab taget hul på en
+gældsrådgivning baseret på frivillige organisationer og frivillig indsats fra bankverdenen og
+finansverdenen. Det tegner foreløbig til at blive
+en succes, når der er mange, der gerne stiller op.
+Det handler også om en indsats, som går ud på
+at få afdækket, hvad årsagerne er til, at folk havner i den her ulykkelige situation, og hvad vi
+gør for at hjælpe dem ud af den. Det er ikke den
+eneste indsats, der skal til, men jeg tror, det er en
+vigtig del af det. Man kan se, at en stor del af
+dem, der bliver sat på gaden eller er i risiko for
+det, er relativt unge mennesker, altså nogle, der
+kommer ud og for første gang skal få det til at
+fungere i en bolig med de omkostninger, der nu
+er.
+Så jeg er helt med på, at det er en vigtig del af
+aftalen, at vi er enige om at følge det meget nøje
+og komme nærmere ind på, hvad årsagerne er
+med henblik på at kunne sætte ind. For én ting
+er jo, at vi får forebygget, at folk ender på gaden,
+men derfor kan de jo godt have en række andre
+problemer, som gør, at de har et belastet liv og
+ikke mindst noget, der går ud over de børn, som
+en del af dem har.
+Så jeg glæder mig til at få det her forslag omsat til virkelighed og også til at få arbejdet videre
+med hele den problemstilling og den gruppe af
+mennesker, som det handler om. Der har været
+nogle spørgsmål undervejs om private udlejere,
+og det vil jeg foreslå vi ser nærmere på under
+udvalgsarbejdet.";Kl. 11:13
+79192;Time;;Kl. 11:18
+79204;title_name;"Der er ønske om korte bemærkninger. Først hr.
+Frank Aaen.";Formanden
+79271;Time;;Kl. 11:18
+79287;name_party;":
+Der var en bemærkning om, hvordan forslaget
+her er finansieret, som ministeren ikke havde tid
+til at komme ind på i sin besvarelse, og derfor
+synes jeg, ministeren skal have en chance mere.
+Er det ikke snart på tide, vi holder op med
+igen at tage i det omfang, som jeg beskrev før,
+altså i alt 9 mia. kr.? Man tager flere tusinde kroner fra hver enkelt arbejdsløs og hver enkelt
+pensionist og kontanthjælpsmodtager, de penge
+putter man ned i den sukkerskål, man kalder
+satspuljen, og så deler man nogle milde gaver
+ud. Er det ikke på tide, vi holder op med at finansiere forbedringer for nogle af de svageste i
+
+Torsdag den 15. januar 2009 (L 92)
+samfundet ved at tage fra dem, der er svagest i
+samfundet?";Frank Aaen
+80005;Time;;Kl. 11:18
+80017;title_name;Ministeren.;Formanden
+80038;Time;"Velfærdsministeren (Karen Jespersen):
+Nu er det jo ikke loven om ,satspuljen, vi behandler her i dag, og den hører jo heller ikke under Velfærdsministeriet. Men forudsætningen
+for, at vi har den lov, er jo, at et flertal bakker op
+om den, og så er der altså en mulighed for at disponere over de penge, og det er altså det, et meget bredt flertal har gjort.";Kl. 11:18
+80405;Time;;Kl. 11:19
+80417;title_name;Hr. Frank Aaen.;Formanden
+80442;Time;;Kl. 11:19
+80458;name_party;":
+Ja, men nu er det jo velfærdsministeren, der står
+på talerstolen, og lovforslaget her handler om
+det område, der hedder at hjælpe folk, der er
+kommet i klemme med deres husleje, og give
+dem lidt mere velfærd - ikke ret meget, men en
+lillebitte smule. Derfor mener jeg også, velfærdsministeren bør kunne tage stilling til, at vi altså
+har en systematisk udhuling af indkomster for
+arbejdsløse, for syge, for pensionister, for førtidspensionister og for efterlønnere. Der sker en
+systematisk udhuling af deres indkomster, og
+det er sammen med andre mærkelige regler som
+kontanthjælpsloftet med til at bringe folk i den
+situation, at de ikke kan betale deres husleje, så
+hvis man er velfærdsminister, må man da have
+en holdning til det, og det var den holdning, jeg
+spurgte til.";Frank Aaen
+81245;Time;;Kl. 11:19
+81257;title_name;Ministeren.;Formanden
+81278;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg bakker op om loven om satspuljen: den går
+jo, som hr. Frank Aaen også siger, 15 år tilbage,
+og har med undtagelse af Enhedslisten hele Folketinget bag sig. Og når man samlet set ser på de
+ting, der er blevet gennemført, også større reformændringer som ændringen af hele førtidspensionssystemet, er der i hvert fald kommet en
+hel masse godt ud af de penge.";Kl. 11:20
+81686;Time;,;Kl. 11:20
+81699;title_name;"Så er det hr. Thomas Jensen for en kort bemærkning.
+
+2647";Formanden
+81767;Time;;Kl. 11:20
+81785;name_party;":
+For Socialdemokraterne er det jo vigtigt, at man
+forebygger, at folk overhovedet kommer en økonomisk situation, hvor de ikke har råd til at betale huslejen og derfor bliver sat ud. Derfor vil
+jeg spørge velfærdsministeren, om ministeren
+mener, at lovforslaget her forebygger, at folk
+kommer i den situation, at de ikke kan betale deres husleje.";Thomas Jensen
+82141;Time;;Kl. 11:20
+82153;title_name;Ministeren.;Formanden
+82174;Time;"Velfærdsministeren (Karen Jespersen):
+Ja, jeg mener i allerhøjeste grad, at lovforslaget
+her forebygger, at folk kommer i den situation,
+og det gør det på den måde, at kommunen kommer tidligere i kontakt med de mennesker, det
+handler om, og derfor også kan sætte ind på et
+tidligere tidspunkt. Det er jo sådan set kernen i
+en forebyggende indsats.";Kl. 11:20
+82532;Time;;Kl. 11:21
+82544;title_name;Hr. Thomas Jensen.;Formanden
+82572;Time;;Kl. 11:21
+82590;name_party;":
+Kernen i en forebyggende indsats vil jo være, at
+kommunen ikke skal ind i sagen. Det vil være, at
+folk selv kan betale deres husleje, så kommunen
+slet ikke skal involveres - med andre ord: at vi
+sørger for, at folk har penge, så de selv kan betale deres husleje og ikke bliver sat i den situation,
+at de skal have hjælp af kommunen til at undgå
+at blive sat ud af deres bolig.
+Nu har Venstres medlemmer jo siddet og læst
+op fra SFI-rapporten, og ministeren har selv
+nævnt den. Jeg citerer igen fra rapporten:
+Der er dog en overrepræsentation af lejere,
+der modtager kontanthjælp, idet ca. 30 pet. er
+kontanthjælpsmodtagere, mens andelen af kontanthjælpsmodtagere blandt lejere generelt er 5
+pet. Citat slut.
+Mit spørgsmål til ministeren er kort og klart:
+Hvis man fjernede kontanthjælpsloftet, ville det
+så ikke være noget, hvormed man med et snuptag kunne forebygge, at 30 pet. af de, der bliver
+tvangsudsat, ikke ville blive tvangsudsat? Man
+kunne simpelt hen fjerne kontanthjælpsloftet og
+sørge for, at de her mennesker slet ikke kommer
+i en situation, hvor de bliver tvangsudsat. Er ministeren ikke enig i det?
+
+2648
+
+Torsdag den 15. januar 2009 (L 92)";Thomas Jensen
+83759;Time;;Kl. 11:22
+83770;Time;"Velfærdsministeren (Karen Jespersen):
+Nu hører kontanthjælpen jo ikke under VelKl. 11:22 færdsministeriet, så det er ikke nogle regler, jeg
+Velfærdsministeren (Karen Jespersen):
+kan gå ind og ændre på.
+Jamen det bygger jo på den forkerte forudsætJeg har oplevet, at der var en bred tilslutning
+ning, at de 30 pet., der får kontanthjælp, er ramt
+til, at det her var en god måde at få hjulpet de
+af kontanthjælpsloftet. Der er ikke en helt præcis mennesker, der er i den situation, på et tidligere
+opgørelse af det, men sådan som jeg har forstået
+tidspunkt, og at vi så for at blive klogere på,
+SFI, og som det også blev drøftet ved den offent- hvad der er årsagen til, at de kommer i den der
+lige forelæggelse, er der ikke noget, der tyder
+situation, skal følge det nøjere.
+på, at det er nogen stor del af de kontanthjælpsDet var jo lige præcis det, vi aftalte, og det symodtagere, der er ramt af kontanthjælpsloftet,
+nes jeg er en rigtig god ramme for at komme det
+så hvis man fjernede kontanthjælpsloftet, ville
+her uvæsen til livs.";Kl. 11:24
+84814;Time;"det derfor kun påvirke en mindre del.
+Jeg kender ikke det præcise tal, og det er netFormanden:
+op det, vi har besluttet at forfølge. Men jeg har
+Fru Özlem Sara Cekic.";Kl. 11:25
+84991;Time;"ikke hørt, at Socialdemokratiet er gået ind for at
+hæve kontanthjælpen generelt, og det her hand- Özlem Sara Cekic (SF):
+ler bl.a. om en del af de unge mennesker, der er
+Det er jeg da enig med ministeren i. Jeg spørger
+på kontanthjælp, og dem hjælper man altså ikke ikke, hvilken minister der har ansvaret for konved at fjerne kontanthjælpsloftet.
+tanthjælp. Altså, jeg synes, at vi skal passe på, at";Kl. 11:25
+85402;Time;"vi ikke gør de her mennesker til kastebold melFormanden:
+lem forskellige ministerier.
+Så er der en kort bemærkning fra fru Özlem Sara
+Jeg spørger ministeren for velfærd, om hun
+Cekic.
+synes, at det her forslag er med til at hjælpe den";Kl. 11:23
+85647;Time;"kvinde, som i valget mellem at betale mad, elÖzlem Sara Cekic (SF):
+regning og husleje i maj måned valgte elregninDu er blevet rigtig god til at sige mit navn, Thor. gen: som i valget mellem at betale mad til sine
+Vi er enige om, at SFI-rapporten ikke går ind
+børn og husleje i juni måned valgte maden, og
+og udpensler, hvorvidt de 30 pet., der modtager
+som bliver sat på gaden i juli måned.
+kontanthjælp og er ramt, falder ind under 300Det er det, jeg vil spørge om. Jeg ved da godt,
+timers-reglen, loftet over kontanthjælpen eller er at det ér Claus Hjort, der har ansvaret for konpå starthjælp. På den baggrund besluttede vi i
+tanthjælp, og så kan vi hive ham ind næste gang,
+forbindelse med satspuljeaftalen, at der skulle
+og så vil han sige: Jamen fattigdom hører under
+følges op på det. Man var sådan lidt hurtig til at fru Karen Jespersen. Og sådan kan vi blive ved.
+sige: Vi ved ikke, hvem det drejer sig om, og helJeg vil bare gerne vide, hvad ministerens
+ler ikke, hvor stor den gruppe er. Men selv om
+holdning til det her er. Hun har vel en holdning,
+den gruppe er lille - lad os antage, at det drejer
+og den kan vi i det mindste godt høre om.";Kl. 11:23
+86812;Time;"sig om 100 mennesker - så har vi vel stadig væk
+en forpligtelse i forhold til de mennesker.";Kl. 11:25
+86916;title_name;"Derfor vil jeg rigtig gerne spørge ministeren
+Man kan ikke hive Claus Hjort ind i salen. Man
+om det eksempel, jeg gav med Carina, der ikke
+kan måske bede beskæftigelsesministeren om
+var i stand til at betale sin husleje, fordi hun var
+det. (Özlem Sara Cekic (SF): Beskæftigelsesminiramt af loftet over kontanthjælpen. Helt ærligt,
+steren Claus Hjort). Man er ikke på fornavn med
+hånden på hjertet, mener ministeren, at det her
+hverken formand eller ministre.
+forslag vil hjælpe Carina?
+Velfærdsministeren.";Formanden
+87431;Time;;Kl. 11:24
+87441;Time;;Kl. 11:26
+87453;title_name;"Velfærdsministeren (Karen Jespersen):
+Ministeren.
+Det er helt klart min opfattelse, at det her forslag
+vil kunne hjælpe den kvinde, fordi de sociale
+myndigheder jo vil kunne komme i kontakt med
+hende på et tidligere tidspunkt. Og viser det sig,
+at der så er nogle åbenbare problemer, hvor det";Formanden
+87757;title_name;"Ministeren.
+
+(332)
+Torsdag den 15. januar 2009 (L 93)
+offentlige har et ansvar, er det jo lige præcis aftalen, at vi skal se på, hvordan vi kan blive mere
+præcise med den hjælp, vi giver borgetne.";Formanden
+87964;Time;;Kl. 11:26
+87976;title_name;"Tak til velfærdsministeren.
+Der er ikke flere, der har bedt om korte bemærkninger, og hermed er forhandlingen sluttet.
+
+2649
+
+der skal lægges vægt på. Alting spiller ind og giver en sammenhæng, en sum, som man så træffer beslutninger ud fra.
+I Venstre har vi altid arbejdet for, at alle talenter kommer i spil. Det gælder indvandreren med
+en ingeniøruddannelse, som i dag kører taxa.
+Det gælder også kvinden, der har såvel evner
+som kompetencer til at få en lederpost. Vi skal,
+som vidensamfund have alle talenter i spil. Alt
+andet er samfundsøkonomisk og menneskeligt
+Jeg foreslår, at lovforslaget henvises til Boliguduholdbart. Vi skal som samfund sikre, at alle kan
+valget. Hvis ingen gør indsigelse, er det vedtafå lov til at bruge de evner og muligheder, de
+get.
+har, og udleve de drømme, de har.
+Det er vedtaget.
+I Venstre anerkender vi dog, at mange udpegninger bygger på vaner og også på sikre kort.
+Det er helt naturligt, for man har jo aldrig fået
+erfaring, før man har været udpeget én gang.
+Det er sådan set først, når man bliver udpeget
+for tredje gang, at man er en garvet. Hvis vi som
+Det sidste punkt på dagsordenen er:
+samfund skal sikre mangfoldigheden i råd og
+4) 1. behandling af lovforslag nr. L 93:
+nævn og fremme ligestilling, forudsætter det, at
+Forslag til lov om ændring af lov om ligestilvi nogle gange bryder med vanetænkning, at vi
+ling af kvinder og mænd. (Kønssammensætsimpelt hen scanner samfundet for de kompening i offentlige udvalg m.v.).
+tente mænd og kvinder, der kunne sidde i et ofAf ministeren for ligestilling (Karen Jespersen).
+fentligt råd eller nævn, at vi ryster posen og kig(Fremsættelse 11.12.2008).
+ger på, om der ikke er nogen af dem, som vi ikke
+har udpeget før, som måske egentlig har kompeKl. 11:26 tencerne, og som næste gang vil være det sikre
+Forhandling
+kort.
+Folketinget og de offentlige myndigheder har";Formanden
+89848;title_name;"den opgave, at vi skal sikre, at de offentlige råd
+Forhandlingen er åbnet, og første ordfører er fru
+og nævn er bredt sammensat. Det er vores forEllen Trane Nørby.
+pligtelse, fordi de varetager samfundets fælles";Formanden
+90069;Time;"interesser. De varetager vores interesser i Det
+(Ordfører)
+Kongelige Teater, de varetager vores interesser i";Kl. 11:27
+90200;name_party;":
+tilsyn, de varetager vores interesser i nævn, og
+I Venstre går vi ikke ind for kønskvotering. Som derfor påhviler det også os at sikre en mangfolparti har vi altid kæmpet for det enkelte indidig sammensætning af de offentlige råd og '
+vids ret til at udleve sine drømme og til at afprø- nævn.
+ve sine ideer, sine evner, sine muligheder og sine
+Vi bakker i Venstre op om L 93, fordi det netkompetencer. Det gælder såvel karrierekvinop er et lovforslag, som lægger op til, at ligestilden, som stræber efter en post i toppen af samlingen i samfundet er et fælles ansvar. Siden
+fundet, som manden, der har ønsket og har,
+Schlüterregeringen indførte den del af ligestilvalgt at gå hjemme og se børnene vokse op.
+lingsloven, som siger, at organisationer altid
+Jeg er jyde, jeg er ung, og jeg er kvinde. Folke- skal indstille såvel en mand som en kvinde, når
+tingets formand er mand, nordsjællænder, og
+de har en udpegningsret, har vi jo været i gang
+man tør vil ikke sige, at han stadig er alt for ung.
+med at bryde vanetænkningen. Siden da har vi
+Det er den mangfoldighed, det er den her brede
+været med til at sikre en mere mangfoldig samsammensætning, som sikrer, at Folketinget også mensætning af offentlige råd og nævn.
+i dag opfattes som repræsentativt - altså sumMen som det er i dag, er det jo sådan, at hvis
+men af personer, partier, ideologier, kompetenorganisationerne ikke gør, det, kan man lade en
+cer, evner og baggrund, men også af køn. Alle
+plads stå tom. L 93 lægger op til, at ministeren
+de her ting spiller ind. Ingen af tingene har en
+fremover skal lade pladsen stå tom, hvis der
+enkeltfaktorværdi, som gør, at det er det eneste,
+ikke er en saglig begrundelse for, at man ikke
+
+2650
+
+Torsdag den 15. januar 2009 (L 93)
+
+har indstillet både en mand og en kvinde til en
+post. Dermed understreger L 93 alles ansvar for
+ligestilling, og også at der skal være saglige begrundelser, hvis man afviger fra den lov, der
+blev vedtaget tilbage i 1980'erne.
+Dermed understreger vi også, at ligestilling
+og mangfoldighed i sammensætning af råd og
+nævn er vores alle sammens ansvar og ikke kun
+et ansvar, som påhviler ministeren, som tidligere
+altid har været den, der har skullet få kabalen til
+at gå op. Nu indikerer vi klart over for organisationerne, at ansvaret også er deres, at det er et
+fælles ansvar, og derfor bakker Venstre op om
+L 93 som et lille, men godt initiativ til at sikre et
+fælles ansvar, for at ligestilling såvel som mangfoldighed i råd og nævn kommer i fokus.";Ellen Trane Nørby
+92696;Time;;Kl. 11:31
+92708;title_name;"Der er ønsker om korte bemærkninger, først fra
+fru Pernille Vigsø Bagge.";Formanden
+92790;Time;;Kl. 11:32
+92816;name_party;":
+Ja tak. Vi ved jo alle sammen godt, at det er en
+historisk dag, fordi det er det første ligestillingsforslag, en ligestillingsminister i Foghregeringen
+har fremsat.
+Ordføreren siger: I Venstre anerkender vi, at
+mange udpegninger bygger på vaner og på sikre
+kort. Men nu ved ordføreren jo også godt - og vi
+andre har kunnet læse det i aviserne hen over julen og nytåret - at Venstres gruppe har været
+splittet på det her lovforslag. Derfor vil jeg bare
+gerne spørge ordføreren: Er ordføreren personligt enig med formanden for Folketinget og
+medlem af Venstres gruppe og de andre medlemmer af Venstres gruppe, som har udtalt sig
+meget skarpt imod det her forslag, eller er ordføreren personligt enig med ligestillingsministeren?";Pernille Vigsø Bagge
+93554;Time;;Kl. 11:32
+93566;title_name;Ordføreren.;Formanden
+93587;Time;;Kl. 11:32
+93609;name_party;":
+Som jeg sagde i min tale, går Venstre ikke ind for
+kønskvotering. Jeg opfatter, at Folketingets formand og jeg såvel som øvrige medlemmer af
+Venstres gruppe er fuldstændig enige om, at vi
+ikke går ind for kønskvotering i samfundet, og
+det var jo det, debatten i høj grad handlede om.
+Den handlede om kønskvotering i forhold til ansættelsesforhold. Det var jo en debat, som kom
+til at handle om langt mere og meget andet, end
+hvad det her lovforslag handler om. Derfor sy-
+
+nes jeg, at det er rimelig fortegnet at forsøge at
+opstille det her modsætningsforhold. Jeg tror sådan set, at det er et modsætningsforhold, som på
+mange måder er falsk, fordi det er en større debat.
+Hvis det er den store principielle debat, ved
+jeg jo, at der er meget stor forskel på, hvad SF
+mener, og hvad Venstre mener, for vi går ikke
+ind for kønskvotering. Vi går ikke ind for den
+norske model, hvor man tvinger virksomhederne til, at en vis procentdel af medlemmerne af
+bestyrelsen skal være kvinder, ellers opløser
+man den ved lov. Der opfatter jeg slet ikke at der
+er forskel på det, Venstres medlemmer mener.";Ellen Trane Nørby
+94713;Time;;Kl. 11:33
+94725;title_name;Fru Pernille Vigsø Bagge.;Formanden
+94760;Time;;Kl. 11:33
+94786;name_party;":
+Nu er det her lovforslag jo noget helt andet, og
+det var lige præcis det her lovforslag, som Folketingets formand, hr. Thor Pedersen, som også
+er medlem af Venstres gruppe, var ude at kommentere, og han fik i øvrigt opbakning af både
+hr. Kim Andersen og hr. Preben Rudiengaard i
+Berlingske Tidende, hvor formanden netop kritiserede det her lovforslag for at være for vidtgående. Derfor spørger jeg igen, om ordføreren for
+lige præcis det her lovforslag, L 93, som vi diskuterer nu, personligt er enig med de herrer fra
+Venstres gruppe eller med ligestillingsministeren om lige præcis det her lovforslag.";Pernille Vigsø Bagge
+95401;Time;;Kl. 11:34
+95413;title_name;Ordføreren.;Formanden
+95434;Time;;Kl. 11:34
+95456;name_party;":
+Som jeg klart sagde i min tale, bakker Venstre op
+bag om L 93. Jeg tror, der vil være mange nuancer i, hvad man lægger vægt på i en gruppe.
+Venstre er ikke nogen lille folketingsgruppe,
+som kan være inden for et lille rums vægge. Vi
+er en stor folketingsgruppe, som består af forskellige personligheder, og jeg tror, at vi lægger
+vægt på forskellige ting. De nuancer skal der
+være plads til.
+Men som jeg sagde i min ordførertale, bakker
+Venstre op om L 93, og vi mener også, at det er
+et vigtigt skridt at tage, fordi det her gør ligestilling til vores alle sammens ansvar og ikke kun
+noget, der ligger på den enkelte fagministers
+bord, når ministeren skal sørge for, at kabalen
+går op, og sørge for, at vores offentlige råd og
+nævn er mangfoldigt sammensat.
+
+Torsdag den 15. januar 2009 (L 93)
+
+2651
+
+Kl, 11:35 foregår ikke her ved den her talerstol: det foreFormanden:
+går ude i virksomhederne, det foregår ude i børSå er det fru Johanne Schmidt-Nielsen for en
+nehaverne, hvor man er bevidst om, at der ikke
+kort bemærkning.
+bare er drenge og piger, men at der sådan set er";Ellen Trane Nørby
+96544;Time;nogle, der skal udfordres på deres opfattelse af,;Kl. 11:35
+96623;name_party;":
+om man både kan lege og klatre i træer, samtidig
+Da jeg forberedte mig til debatten i dag, kom jeg med at man også kan lege med dukker. Det er
+til at tænke på, hvad der ellers har været forslag
+der, ligestillingsdebatten rykker noget.
+fra ligestillingsministeren på ligestillingsområDet her lovforslag er en lille ændring, som
+det, og det viste sig jo, at der ikke har været noforhåbentlig vil sikre, at ansvaret ikke længere
+gen. Altså, det, vi behandler i dag, er simpelt
+kun hviler på ministerens skrivebord, når kabahen ligestillingsministerens første forslag på lilen skal gå op, men at organisationerne i deres
+gestillingsområdet. Hvad er årsagen til det? Det udpegninger vil være mere opmærksomme på
+kunne jeg rigtig godt tænke mig at få ordføreat sikre en saglig udpegning og en mangfoldig
+rens svar på. Mener Venstre ikke, at der er nogen og ligestillet udpegning til råd og nævn.
+problemer på ligestillingsområdet, vi kan tage";Johanne Schmidt-Nielsen
+97571;Time;fat i? Det var den ene del af spørgsmålet.;Kl. 11:37
+97626;title_name;"Den anden del, jeg gerne vil spørge om, er,
+Fru Johanne Schmidt-Nielsen.
+om ordføreren slet ikke kan se, at det er et proKl. 11:37
+blem, at Folketingets formand faktisk går ud og";Formanden
+97833;name_party;":
+siger, at et så banalt og simpelt lillebitte ligestilDet er korrekt, at der er meget stor forskel på
+lingsforslag som det, vi behandler i dag, er for
+Enhedslistens og Venstres ligestillingspolitik, og
+vidtgående. Vi har faktisk en formand for Folke- en af de primære forskelle er nok, at vi rent faktinget, der advarer imod forslaget. Kan ordføretisk mener, at der skal mere end ord til. Vi mener
+ren forstå, at man som opposition bliver forvirfaktisk, at der skal handling på bordet, og lige
+ret og har svært ved at forstå, hvad regeringens
+præcis handling er noget, vi virkelig har mangholdning er, hvad Venstres holdning er, når Follet fra regeringens og fra Venstres side. Men ikke
+ketingets formand altså advarer, samtidig med
+desto mindre er det jo så dejligt, at vi i dag kan
+at ligestillingsministeren fremsætter sit forslag.
+fejre ligestillingsministerens første lovforslag.";Johanne Schmidt-Nielsen
+98728;Time;"Jeg kunne godt tænke mig, at ordføreren svaFormanden:
+rer på den anden del af mit sidste spørgsmål,
+Ordføreren.
+nemlig om ordføreren ikke kan forstå, at det er";Kl. 11:36
+98898;Time;"meget forvirrende og svært at forstå, hvad VenEllen Trane Nørby (V):
+stres holdning til ligestilling egentlig er, når vi
+Jeg tror netop, det her understreger den meget
+altså har et forholdsvis prominent medlem af
+store forskel, der ligger i Enhedslistens ligestilVenstres folketingsgruppe, oven i købet forlingspolitik og Venstres ligestillingspolitik: at
+mand for Folketinget, som advarer imod det forEnhedslisten tror, man kan lovgive sig ud af alle slag, vi behandler i dag - går ud i pressen, skaproblemer i det her samfund, hvorimod vi tror
+ber overskrift og siger, at vi går for langt i kampå, at det her handler om at ændre den måde, vi pen for ligestilling nu - samtidig med at jeg kan
+tænker på i samfundet, at det handler om at få
+høre ordføreren altså forsvare forslaget. Er det
+os alle sammen til at tage et ansvar.
+ikke problematisk for ligestillingen i vores samLigestillingsministeren har fremlagt et meget
+fund, at der kommer så tvetydige budskaber fra
+stort charter, som skal sikre flere kvinder på leVenstres folketingsgruppe?
+delsesposter i Danmark. Ligestillingsministeren,";Kl. 11:36
+100002;Time;også den tidligere, har fremlagt et meget stort;Kl. 11:38
+100062;title_name;"arbejde, som handler om, hvad det er for nogle
+Ordføreren.
+kønsroller, man bliver undervist i både i børneKl. 11:38
+haverne og i folkeskolerne. Hele kønsbevidsthe- Ellen Trane Nørby (V):
+den er en del af de læringsplaner i børnehaverJeg tror ikke, debatten om ligestilling i det her
+ne, som Enhedslisten er meget imod.
+samfund nogen sinde havde rykket sig, hvis der
+Meget af den ligestillingsdebat, der foregår,
+ikke også var plads til at tage en debat om, hvilog meget af det, der sikrer, at alle kompetencer
+ke metoder og hvilke midler vi tager i brug.
+og alle talenter kommer i spil i det her samfund,
+
+2652
+
+Torsdag den 15. januar 2009 (L 93)
+
+Jeg sagde i min ordførertale, at Venstre ikke
+bakker op om kvoter, at vi ikke tror, at lovgivningens vej er den eneste vej til at fremme ligestillingen. Jeg ved godt, at Enhedslisten tror, at
+det er vejen frem. Det gør vi ikke. Det gør vi ikke, fordi vi tror, at ligestillingen kommer af, at vi
+alle sammen har en bevidsthed, at vi alle sammen tager et ansvar: at vi sikrer, at alle de evner
+og kompetencer, vi har ude i samfundet, kommer i spil: at vi søger rundt, når der skal ansættes folk og ser, om der både er mænd og kompetente kvinder: at vi tager et ansvar, når det handler om, at der mangler mandlige børnehavepædagoger, afsøger, om vi ikke kan gøre noget målrettet: at vi i hæren og forsvaret har et stort program, som forsøger at rekruttere flere kvinder.
+Det opfatter vi som en del af den vigtige ligestillingsdebat.
+Og nej, jeg synes sådan set ikke, der var noget
+som helst uklart i det, jeg sagde i min tale, og jeg
+synes sådan set overhovedet ikke, der er noget
+uklart i regeringens engagement for at sikre et
+mere ligestillet samfund, et vidensamfund, hvor
+alle talenter kommer i spil.";Formanden
+101823;Time;;Kl. 11:39
+101835;title_name;Så er det fru Lone Dybkjær for en kort bemærkning.;Formanden
+101895;Time;;Kl. 11:39
+101913;name_party;":
+Tak. Jeg vil da gerne takke ordføreren for, at ordføreren støtter sin egen ministers forslag. For i
+lyset af den debat, der har været, kunne man jo
+godt være nervøs for noget andet.
+Og så vil jeg lige, inden jeg kommer til mit
+egentlige spørgsmål, sige til Venstres ordfører:
+Jeg tror ikke, at der er nogen, der tror på, at kvoter løser ligestillingsproblemerne. Jeg tror ikke,
+der er nogen, der er uenige i, at det selvfølgelig
+er en ændring af kønsrollemønstre og -opfattelser etc., der skal til. Derfor synes jeg, det ville
+være rart, hvis vi kunne få en diskussion om det
+egentlige, nemlig hvad vi bedst kan gøre for at
+fremme ligestilling, og ikke ligesom tage en
+falsk debat. Der er ingen, der har nævnt spørgsmålet om kvoter - det har jeg faktisk heller ikke
+- som tror, at det er den endelige løsning.
+Spørgsmålet er, om det kan være et hensigtsmæssigt middel. Det er jo f.eks. det, man tror i
+Norge, og Norge er altså trods alt ikke et helt tåbeligt land i enhver sammenhæng.
+Da man jo ikke kan stille spørgsmål direkte til
+Folketingets formand, vil jeg gerne spørge om,
+hvad argumentationen i Venstres gruppe har
+
+været imod det her forslag. En sådan argumentation må vi jo af debatten i aviserne forstå der
+har været. Hvad er det for argumenter, der har
+været bragt frem, der betyder, at sådan et lille
+ord som »kan« ændres til et »skal«? Der er også
+et par andre ændringer - som jeg støtter. Hvad
+er det, der gør, at man lige pludselig mener, at
+hele ligestillingsdebatten er gået for vidt med
+det her forslag?";Lone Dybkjær
+103447;Time;;Kl. 11:41
+103459;title_name;Ordføreren.;Formanden
+103480;Time;;Kl. 11:41
+103502;name_party;":
+Nu er det jo sådan, at Venstres gruppemøder er
+Venstres gruppemøder, hvor vi heldigvis kan
+drøfte alt det, vi har lyst til at drøfte.
+Jeg tror, at det, der har forplumret hele debatten, er diskussionen om, at kvoter er blevet en
+del af den store diskussion - at man er bange for,
+at folk bliver kvoteret ind på baggrund af deres
+køn og ikke ud fra deres kompetencer. Og det
+synes jeg er en helt relevant diskussion at tage,
+og som kvinde synes jeg, den er endnu mere relevant, fordi jeg ikke ønsker at være udpeget til
+noget, på baggrund af at jeg er kvinde. Jeg ønsker at være udpeget til noget på baggrund af
+mine kompetencer. Jeg tror i høj grad, det er der,
+vi har behov for at tage en diskussion, og jeg
+markerede også klart i min ordførertale, hvad
+Venstres holdning er.
+For det her lovforslag handler om en meget
+lille ændring i loven, nemlig fra en »kan«-løsning til en »skal«-løsning, som egentlig påbyder,
+at det ikke kun er ministeren, der har et ansvar
+for, at kabalen går op, men at det også er organisationerne. Og så er der en lang række undtagelser i forhold til regionsloven og kommunalstyrelsesloven, selvfølgelig fordi det der er forholdstalsvalg og nogle andre mekanismer, som
+træder i kraft. 홢
+홢
+홢
+홢";Ellen Trane Nørby
+104734;Time;;Kl. 11:42
+104746;title_name;"Fru Lone Dybkjær for en kort bemærkning.
+, Kl. 11:42";Formanden
+104816;name_party;":
+Nu er det altså ikke kvotelov, vi diskuterer. Det
+er et simpelt lille lovforslag fra velfærdsministeren. Men jeg vil da bare sige, at der jo i dag sker
+utallige besættelser af bestyrelsesposter på
+grund af køn - det er bare ikke det kvindelige
+køn, der normalt er dominerende. Men det er en
+snak for sig.
+
+Torsdag den 15. januar.2009 (L 93)
+
+2653
+
+Jeg respekterer selvfølgelig, at Venstres gruptage Dagbladet Børsen, som hver fredag har rupemøder er lukkede, og at man er i stand til at
+brikken »Nye i bestyrelserne«, hvor der bydes
+lægge anderledes låg på, end det altid lykkes for velkommen til Svend og Henrik og Bjørn og Pemit eget parti - det må jeg jo også indrømme.
+ter og Ole. I fredags var det 34 mænd og 1 kvinMen det er jo også derfor, jeg interesseret spørde, som man kunne sige velkommen til i danske
+ger til, hvad argumenterne mod det her lille for- bestyrelser. Det viser jo meget tydeligt probleslag har været. Det var jo på baggrund af det, at
+mets omfang. , . .
+Venstremedlemmer gik ud og sagde, at det nu
+Derfor - i lyset af den signalpolitik og den:
+var gået for vidt, at velfærdsministeren var gået
+signalværdi, der er i det - kunne jeg godt tænke
+for vidt med det her forslag. Og så er det bare,
+mig at høre, om ordføreren kan være enig i den
+jeg stilfærdigt spørger til det her forslag - ikke til kritik, som bl.a. DJØF har fremført i deres høen generel kvotediskussion, det er jo ikke en
+ringssvar, hvor de siger, at der skal være en nærkvotediskussion, det her lovforslag indebærer:
+mere præcisering af de fravigelsesbestemmelser,
+Hvad er det for argumenter, der har været frem- som er i lovforslaget. Jeg kunne godt tænke mig
+sat? Det er mere til min egen oplysning, for jeg
+at høre, om det er noget, der skal kigges på i udforstår det ikke.
+홢valgsarbejdet.";Lone Dybkjær
+106612;Time;;Kl. 11:43
+106622;Time;;Kl. 11:45
+106634;title_name;;Formanden
+106645;title_name;"Ordføreren.
+Ordføreren.";Formanden
+106678;Time;;Kl. 11:43
+106688;Time;;Kl. 11:45
+106710;name_party;:;Ellen Trane Nørby
+106733;name_party;":
+Jamen det må fru Lone Dybkjær jo spørge de .
+Jeg tror, der er mange ting, som der skal kigges
+personer om, som fru Lone Dybkjær mener måt- på i udvalgsarbejdet - sådan er det vel altid, når
+te have en anden holdning. Jeg siger bare, at jeg
+vi har et lovforslag herinde.
+:
+tror, at noget af det, der har givet anledning til
+I forhold til den kritik, der har været - at der
+en masse forvirring, er en diskussion om kvoter,
+er nogle, der ikke har ønsket, at der skulle være
+og det synes jeg ikke har været frugtbart for dis- en mulighed for saglig begrundelse her - vil jeg
+kussionen. For jeg tror sådan set, at der er nogle
+sige, at jeg synes, at der kan være mange saglige
+partier, der ønsker kvoter og ser det som et godt begrundelser for, hvorfor der skal være en undmiddel. I Venstre ønsker vi ikke kvoter> vi ser
+tagelse. Der nævnes nogle meget klare eksemdet ikke som et godt middel. Vi tror sådan set, at pler i forbindelse med dommerudnævnelser,
+det vil skade ligestillingen, hvis folk bliver udhvor det skal være en enstemmig beslutning.
+peget på baggrund af en kvotering. Der er forDer nævnes også meget ,klart:nogle andre steder,
+skellige opfattelser: det er jo den store principiel- hvor man kan have en saglig begrundelse. Der
+le debat.
+kan jo være mange saglige begrundelser. Tager,
+Med hensyn til det konkrete forslag er vi i
+vi LO, tager vi nogle af arbejdstagerorganisatioVenstre enige om at bakke op om L 93. Vi synes,
+nerne, kan vi se, at der jo vil være kommissionsdet er et godt initiativ, som ministeren har taget,
+sammensætninger, hvor man ville ønske at senog hvad enkeltpersoner måtte have af andre
+de en formand. Er dét en saglig begrundelse?
+holdninger, må fru Lone Dybkjær spørge dem
+Jeg synes, der skal være den her mulighed
+om.
+홢
+for, at man kan gå ind og vurdere, om der. kan
+. Kl. 11:44 være en saglig begrundelse i nogle tilfælde, og";Ellen Trane Nørby
+108611;title_name;"lade det være op til henholdsvis regionsråd og
+Så er det hr. Benny Engelbrecht for en kort bèkommunalbestyrelser, men også ministre, når
+mærkning.
+det ligger der, om det er en saglig begrundelse,
+. ' ,Kl. 11:44 der er givet, og den dispensationsmulighed ønBenny Engelbrecht (S):
+sker vi sådan set ikke at ændre på. For jeg tror,
+Tak hr. formand. Det er jo et meget lille forslag i
+det er vigtigt at have den mulighed, sådan at det
+forhold til et meget stort problem, og derfor er
+her ikke bliver et millimeterprincip, men sådan
+det også meget vigtigt, at vi er helt tydelige i den set bliver en indikation på det fælles ansvar, vi
+signalpolitik, som skal gives. Det er også det,
+har for at sikre ligestilling og en mangfoldig
+som ordføreren er inde på.
+sammensætning af offentlige råd og nævn.
+Hvis man skulle være i tvivl om problemets
+omfang i det private erhvervsliv, kan man jo
+
+2654
+
+Torsdag den 15. januar 2009 (L 93)";Formanden
+109545;Time;;Kl. 11:46
+109558;title_name;Hr. Benny Engelbrecht.;Formanden
+109591;Time;;Kl. 11:46
+109613;name_party;":
+Med dette forslag er det jo ikke den store vægt,
+vi er i gang med, vi er ikke ved at veje lastbiler.
+Det er nærmest atomvægten, vi skal have fundet
+frem i forhold til nuancerne i det, og derfor er
+det også nødvendigt at være meget, meget præcis med hensyn til nuancerne og de signaler,
+man får sendt. Så spørgsmålet er derfor, om ordføreren ikke kan se en nødvendighed i måske at
+få tydeliggjort netop de her bestemmelser, så der
+i det mindste er noget vejledning i forbindelse
+med det i den lovgivning, som skal laves.";Benny Engelbrecht
+110144;Time;;Kl. 11:47
+110156;title_name;Ordføreren.;Formanden
+110177;Time;;Kl. 11:47
+110199;name_party;":
+Jamen der vil jo altid blive udstedt en vejledning, og jeg er også helt sikker på, at ministeren
+vil tage en dialog med både regionsrådene og
+kommunalbestyrelserne om, hvor deres ansvar
+ligger: sådan vil det jo være i forbindelse med
+enhver lovgivning.
+Der, hvor jeg ikke ønsker at file, er i forhold til
+hele tanken om den saglige begrundelse. For jeg
+er helt sikker på, at Socialdemokraterne også ville have svært ved at forsvare over for Harald
+Børsting, hvis LO ikke måtte sende deres formand, uden at de også skulle udpege en anden.
+Der kan jo være tilfælde, hvor der er saglige begrundelser, og det skal der selvfølgelig være
+mulighed for. Men det ændrer ikke ved, at det
+vigtige her i lovforslaget jo er, at vi alle sammen
+pålægger os selv ansvaret for at scanne, sørge
+for, at der også er en ligestilling i de udpegelser,
+der bliver foretaget, og at man sådan set bryder
+med vanetænkning, og at man sikrer, at råd og
+nævn er repræsentative og ligestillede og dermed så også det bedste fundament for, at de
+egentlig repræsenterer hele den danske befolkning.";Ellen Trane Nørby
+111275;Time;;Kl. 11:48
+111287;title_name;"Tak til fru Ellen Trane Nørby. Der er ikke flere,
+der har bedt om korte bemærkninger, og den
+næste ordfører er hr. Benny Engelbrecht.";Formanden
+111431;Time;(Ordfører);Kl. 11:48
+111464;name_party;":
+Som det er tydeligt for enhver, er jeg ikke fru Julie Rademacher, som er den socialdemokratiske
+ligestillingsordfører. Men jeg er da utrolig glad
+for, at jeg på hendes vegne kan fremsætte vores
+synspunkter i forhold til dette lovforslag og ikke
+mindst samtidig signalere, at ligestillingspolitik
+ikke er et spørgsmål, som alene interesserer
+kvinder, men også er noget, vi mænd interesserer os for.
+Tak til ministeren for at fremsætte et forslag
+om kønssammensætning i offentlige udvalg. Fra
+Socialdemokraternes side er vi positive over for
+ministerens initiativ på området, og af høringssvarene fremgår det også tydeligt, at der er bred
+opbakning til forslaget. Der er ingen tvivl om, at
+ligestillingen stadig halter gevaldigt bagefter i
+Danmark, og vi savner reformer med dertil hørende lovgivningsmæssige ændringer, hvis vi
+skal have et samfund med lige muligheder for
+kvinder og for mænd.
+Selv om vi Socialdemokrater ser forslaget
+som et fornuftigt skridt ad den vej, som vi gerne
+vil gå, har vi dog en række punkter, som vi gerne vil debattere. For det første er vi ikke sikre på,
+om man forsøger at holde en bagdør åben ved at
+skrive i forslaget, at man kan nøjes med at give
+en saglig begrundelse for undladelse, hvis man
+ikke indstiller både en mand og en kvinde. Det
+handler selvfølgelig om tillid til forslagets intentioner og til de organisationer, der efterfølgende
+skal handle på baggrund af loven, men vi har på
+ligestillingsområdet gentagne gange set eksempler på, at regeringen har store armbevægelser,
+men at de egentlige handlinger kan ligge på et
+meget lille sted. Jeg skal ikke på partiets vegne
+gå så langt som til at tale om pseudolovgivning
+eller varm luft, men jeg vil da indrømme, at vi
+har vores bekymringer, og vi vil naturligvis gerne have indflydelse på disse detaljer.
+På den anden side er vi selvfølgelig klar over,
+at der kan være tilfælde, hvor der for en organisation eller en myndighed ikke er mulighed for
+at indstille både en mand og en kvinde, f.eks. i
+forhold til revisorer og dommere, som Økonomi- og Erhvervsministeriet også gør opmærksom på i deres høringssvar. Vi vil derfor ikke opfordre til, at man udelader formuleringen, men
+blot opfordre til, at man præciserer det, så det
+bliver klart, hvad der menes med saglig begrundelse, så det ikke kan bruges som en bekvem
+
+Torsdag den 15. januar 2009 (L 93)
+bagdør for organisationer, der ikke vil ligestillingen.
+For det andet vil vi gerne have afdækket,
+hvordan ministeren forholder sig til udvælgelsen efter indstillingen. Det er et skridt hen ad vejen, at man indfører lovgivning, der sikrer, at der
+er indstillet både mænd og kvinder, men hvordan kommer udvalgene til at se ud i praksis?
+Flere steder i høringssvarene tales der om kvoter, men i dette forslag er der jo på ingen måde
+en garanti for, at vi i praksis får udvalg med lige
+mange mænd og kvinder. Der er alene tale om
+paritet, ikke kvotering. Der er alene tale om rekrutteringsdelen og ikke om en reel sikring af ligestillingen i udvalgene.
+Fra Socialdemokraternes side er vi klar til at
+tage det fulde skridt og indføre kvoter. Ordet
+kvote har for mange en negativ klang, selv om
+det i flere lande i forskellige sammenhænge er
+blevet bevist, at det er det, der skal til for at rykke noget. Det er et værktøj . Så selv om vi er positive over for forslaget, vil jeg gerne benytte lejligheden til at sige, at vi gerne så, at regeringen
+var mere visionær.
+Som det tredje og sidste håber vi, at en forenklet indberetningsprocedure vil bidrage til, at
+det bliver lettere at lave statistik på området, og
+fordi der i forslaget alene er tale om lovgivning i
+forhold til indstillingsproceduren, er vi meget
+spændt på, hvordan området vil udvikle sig i
+praksis med den pågældende lovgivning.
+Alt i alt ser vi altså forslaget her som et skridt
+i den rigtige retning. Der er stadig lang vej at gå,
+før der er tale om reel ligestilling i Danmark. Vi
+har eksempelvis stadig væk et løngab på ca. 20
+pet. mellem kvinder og mænd. Kvinderne har
+stadig et væsentligt pensionsefterslæb, og mændene har som bekendt kun 2 ugers barsel, der er
+øremærket til os. Men man skal starte et sted, og
+regeringens forslag er et acceptabelt sted at starte.
+: Kl. 11:52";Benny Engelbrecht
+115670;title_name;"Tak til hr. Benny Engelbrecht. Der er ingen, der
+har bedt om korte bemærkninger, og den næste
+ordfører er fru Marlene Harpsøe.";Formanden
+115806;Time;(Ordfører);Kl. 11:53
+115838;name_party;":
+Dette lovforslag, som regeringen har fremsat,
+kan vi i Dansk Folkeparti ikke støtte, hvilket jeg
+som Dansk Folkepartis ligestillingsordfører nu
+vil begrunde.
+
+2655
+
+Forslaget lægger i høj grad op til kønskvotering, idet organisationer tvinges til at indstille
+både en mand og en kvinde til en plads i et udvalg nedsat af ministeren. Hvis de ikke gør det,
+ja, så får de ganske enkelt ikke nogen plads i det
+pågældende udvalg. Dansk Folkeparti er modstander af kønskvotering. Vi mener, at personer
+skal indstilles ud fra det, de kan, og det, som de
+enkelte organisationer mener de er egnede til.
+Man skal ikke indstilles på baggrund af, om
+man er mand eller kvinde.
+Der hersker tilsyneladende en myte i dette
+land om, at ligestilling handler om, hvor mange
+af hvert køn der sidder i et udvalg, er medlem af
+en bestyrelse, er ledere i erhvervslivet m.m. Det
+er et totalt forvrænget syn, ikke kun på dette
+samfund, men også på vores køn. Ægte ligestilling handler netop om, at der ikke tages hensyn
+til køn. Ægte ligestilling er, at man vurderes ud
+fra de evner og styrker, man har, og ikke ud fra,
+om man er mand eller kvinde. Hvis man sætter
+procenter på, hvor mange af hvert køn der skal
+indstilles til et udvalg, ja, så er der ganske enkelt
+ikke længere tale om ligestilling.
+Kvinder og mænd er lige. Vi har en høj grad
+af ligestilling i vores samfund. I Dansk Folkeparti hylder vi denne ligestilling, men det er en
+skrøne, at ligestilling handler om 50 pet. mænd
+og 50 pet. kvinder overalt i vores samfund. Ligestilling handler ikke om procenter: ligestilling
+handler om, at køn er ligegyldigt. Det, du kan,
+er det væsentlige, og det skaber netop ligestilling, at der ikke tages hensyn til dit køn. Kvinderne er i disse år ved at indtage de højere læreanstalter og vil med tiden komme i flertal blandt
+akademikere, så mon ikke tingene stille og roligt
+løser sig selv hen ad vejen? Men det bliver under ingen omstændigheder med min eller Dansk
+Folkepartis tilslutning, at der skal bruges tvang
+til at gennemføre en forestilling om, hvem der
+skal arbejde hvor.
+Mænd er ikke bedre end kvinder, og kvinder
+er ikke bedre end mænd. Jeg siger det, som det
+er. I Dansk Folkeparti er vi trætte af at høre på,
+at man i det danske samfund skal ydes særlige
+fordele, fordi man har et bestemt køn. Det er et
+nedsættende syn, bl.a. på kvindekønnet, som vi
+i Dansk Folkeparti ikke bryder os om. Derfor
+kan vi i Dansk Folkeparti heller ikke støtte det
+fremsatte lovforslag.";Marlene Harpsøe
+118308;Time;;Kl. 11:55
+118320;title_name;"Tak. Der er ønsker om korte bemærkninger.
+Først fru Pernille Vigsø Bagge.
+
+2656
+
+Torsdag den 15. januar 2009 (L 93)";Formanden
+118447;Time;;Kl. 11:55
+118473;name_party;":
+Jeg har to spørgsmål.
+Er det ifølge ordføreren sådan, at alle de steder i Danmark, hvor der ikke er nogen regulering i forhold til ligestilling, bliver man altid
+vurderet efter evner og kvalifikationer og aldrig
+efter køn? Og hvorfor har Dansk Folkeparti en
+ligestillingsordfører her i Folketinget, hvis
+Dansk Folkeparti ikke er interesseret i, at regeringen eller Folketinget overhovedet skal foretage sig noget på ligestillingsområdet?";Pernille Vigsø Bagge
+118922;Time;;Kl. 11:56
+118934;title_name;Ordføreren.;Formanden
+118955;Time;;Kl. 11:56
+118976;name_party;":
+For først at svare på det sidste spørgsmål, fru
+Pernille Vigsø Bagge kom med: Jeg vil sige, det
+er noget pladder, når fru Pernille Vigsø Bagge siger, det er underligt, at Dansk Folkeparti overhovedet har en ligestillingsordfører. Selvfølgelig har vi en ligestillingsordfører, for der er mange problemer i det danske samfund, som vi selvfølgelig skal tage hul på. Men i dette tilfælde,
+hvor det drejer sig om at indstille personer til
+udvalg, mener vi nu engang, at ligestilling ikke
+handler om, hvor mange personer der er af et
+bestemt køn. Det handler om de muligheder,
+man har, og det handler også om, at organisationerne selv vælger, hvilke personer de ønsker at
+indstille, og hvem der er bedst i organisationerne til at repræsentere dem i de ministernedsatte
+udvalg. Det mener vi er det vigtigste i denne
+sammenhæng.
+Så kan jeg måske nå at svare på det andet
+spørgsmål, efter at fru Pernille Vigsø Bagge igen
+har rejst sig op og spørger igen.";Marlene Harpsøe
+119934;Time;;Kl. 11:57
+119946;title_name;"Fru Pernille Vigsø Bagge.
+. Kl. 11:57";Formanden
+120009;name_party;":
+Tak. Jeg vil gerne spørge igen: Er det sådan i
+Danmark, at man altid bliver vurderet efter sine
+kvalifikationer og sine evner og aldrig efter sit
+køn, når man bliver indstillet til noget, eller man
+bliver ansat til noget? Er det efter ordførerens
+opfattelse sådan, tingene foregår, og vil det så
+dermed sige, at når der f.eks. kun er omkring 30
+pet. kvinder i kommunalpolitik, er der ikke flere
+kvinder, der har evner til at føre kommunalpolitik? Er det ordførerens opfattelse?
+
+Så vil jeg også godt spørge: Hvis det er DF's
+ligestillingsordførers opfattelse, at der er nogle
+ligestillingsproblematikker, der skal rejses i samfundet og måske endda også her i Folketinget,
+hvornår kan vi så forvente, at der kommer et
+forslag fra Dansk Folkepartis ordfører gennem
+Det Politisk-Økonomiske Udvalg, som behandler ligestillingssager hér i Folketinget?";Pernille Vigsø Bagge
+120867;Time;;Kl. 11:58
+120879;title_name;Ordføreren.;Formanden
+120900;Time;;Kl. 11:58
+120921;name_party;":
+Jeg tror bestemt, kønnet kan have en indflydelse, og jeg tror bestemt også, at f.eks. det, at jeg er
+kvinde, har været med til at sikre, at jeg er kommet i Folketinget. Jeg tror helt klart, at det har
+haft en indflydelse.
+Til det med, at Dansk Folkeparti ikke stiller
+forslag på ligestillingsområdet, vil jeg sige, at
+det jo netop ikke handler om, at vi ikke gør det,
+for det gør vi. Men det handler jo om, at vi fremsætter nogle forslag, som fru Pernille Vigsø Bagge og Socialistisk Folkeparti ikke er enig i, og
+som Socialistisk Folkeparti ikke mener handler
+om ligestilling. Men det gør de for os i Dansk
+Folkeparti, så derfor vil vi selvfølgelig blive ved
+med at sørge for at fremsætte forslag, også på ligestillingsområdet, som kan give mere ligestilling i det danske samfund. Men det handler jo
+også meget om, hvad kvinder og mænd selv ønsker, for kvinder skal jo også selv ønske at indgå
+i en bestyrelse, ønske en erhvervskarriere osv.
+osv., og det skal man ikke tvinge ned over hovedet på folk. Det skal man ikke.";Marlene Harpsøe
+121954;Time;;Kl. 11:59
+121966;title_name;"Jeg har noteret, at fru Johanne Schmidt-Nielsen
+og fru Ellen Trane Nørby ønsker korte bemærkninger. Det er noteret, og det vil blive husket, for
+jeg skal her udsætte mødet. Mødet genoptages i
+dag kl. 13.00.
+Mødet er udsat. (Kl. 11:59).";Formanden
+122212;Time;"Tredje næstformand (Holger K. Nielsen):
+Mødet genoptages.
+Det er først fru Johanne Schmidt-Nielsen for
+en kort bemærkning.
+
+(333)
+Torsdag den 15. januar 2009 (L 93)";Kl. 13:00
+122388;Time;;Kl. 13:00
+122417;name_party;":
+Ordføreren sagde i sin ordførertale, at vi i Danmark har ligestilling. Derfor kunne jeg godt tænke mig at spørge ordføreren, om hun mener, at
+18 pct.s lønforskel - for det er det, vi har i Danmark, hvor mænd i gennemsnit tjener 18 pet.
+mere i løn end kvinder - er et udtryk for ligestilling.";Johanne Schmidt-Nielsen
+122720;Time;"Tredje næstformand (Holger K. Nielsen):
+Ordføreren.";Kl. 13:00
+122782;Time;;Kl. 13:00
+122803;name_party;":
+Jeg synes helt klart og i høj grad, at vi har ligestilling i Danmark. Som Enhedslisten også anfører, er der jo stadig områder, hvor vi kan gøre en
+forskel og gøre mere i kampen for at opnå ligestilling.
+Men i forhold til det, vi taler om i dag, netop
+at man skal indstille både en mand og en kvinde
+for overhovedet at kunne få besat en plads i et
+udvalg, mener vi ikke, at der er tale om ligestilling. Tværtimod mener vi i Dansk Folkeparti, at
+man skal indstilles på baggrund af ens kompetencer, på grund af det, man kan, og ikke ud fra,
+om man er mand eller kvinde. Det mener vi i
+bund og grund er noget pladder.";Marlene Harpsøe
+123428;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Johanne Schmidt-Nielsen.
+.
+홢";Kl. 13:01
+123511;Time;;Kl. 13:01
+123540;name_party;":
+Der var ikke svar på spørgsmålet. Jeg spurgte:
+Er det et udtryk for ligestilling, at mænd i Danmark tjener 18 pet. mere end kvinder? Det var
+det ene spørgsmål.
+Så vil jeg gerne spørge til det, som fru Pernille
+Vigsø Bagge spurgte til inden frokostpausen, for
+nu står ordføreren igen og siger, at det her forslag er pladder - jeg tror, det var det ord, ordføreren brugte. Mener ordføreren, at det i dag er
+sådan, at der i forbindelse med de personer, der
+bliver indstillet til bestytelser og udvalg, slet
+ikke bliver skævet til kønnet?
+홢
+Altså, mener ordføreren, at den procedure,
+der er i dag, alene er et udtryk for, hvilke kvalifikationer de personer, der bliver indstillet, har?
+For vi kan jo se, at mænd er stærkt overrepræsenteret: det er årsagen til, at der er brug for det
+her forslag, så vi kan sørge for, at man tænker
+sig om og får indstillet både mænd og kvinder.
+Men er det det, ordføreren siger: at vi i dag er
+i en situation, hvor der overhovedet ikke bliver
+
+2657
+
+kigget på køn, når der bliver indstillet kandidater til udvalg og bestyrelser?";Johanne Schmidt-Nielsen
+124610;Time;"Tredje næstformand (Holger K. Nielsen):
+Ordføreren.";Kl. 13:02
+124672;Time;;Kl. 13:02
+124693;name_party;":
+Med hensyn til udvalg og bestyrelser og organisationernes indstillingsret, tror jeg bestemt, at
+mange medlemmer af Folketinget har tillid til, at
+de enkelte organisationer selv kan finde ud af,
+hvem de ønsker at indstille. I Dansk Folkeparti
+har vi også tillid til, at organisationerne selv kan
+finde ud af det.
+Jeg må igen sige, at jeg synes, det her er en,
+meget, meget mærkelig debat. Når jeg måske en
+dag skal ud og have et job, fordi Folketinget ikke
+længere trækker, jamen så vil jeg da helst ansættes på baggrund af mine kvalifikationer. Og sådan bør det vel egentlig også være, hvis man
+skal indstilles til ét udvalg, altså at man så bliver
+indstillet på baggrund af de kvalifikationer, man
+har.
+Det er nu engang de enkelte organisationer,
+der selv vælger, der selv dømmer, hvem der har
+de kvalifikationer, der skal til for at repræsentere
+organisationen i de enkelte udvalg.";Marlene Harpsøe
+125588;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Ellen Trane Nørby for en kort bemærkning.";Kl. 13:03
+125684;Time;;Kl. 13:03
+125706;name_party;":
+Tak. Det sidste, ordføreren konkluderer, er jo så,
+at organisationerne indstiller inkompetente
+mennesker. Det er nu ikke den opfattelse, jeg
+har.
+Ordføreren for Dansk Folkeparti har lige sagt,
+at Dansk Folkeparti er imod, at organisationerne
+skal indstille både en mand og kvinde. Det er jo
+sådan, loven er i dag. Derfor vil jeg gerne spørge
+DF, om de er imod den ligestillingslov, der er i
+dag, og som har eksisteret siden Schlüterregeringen i 1980'erne.";Ellen Trane Nørby
+126173;Time;"Tredje næstformand (Holger K. Nielsen):
+Ordføreren.";Kl. 13:03
+126235;Time;;Kl. 13:03
+126256;name_party;":
+I Dansk Folkeparti er vi ikke imod loven om ligestilling, men vi synes, det er mærkeligt, at
+man på nogle punkter er nødt til at lovgive om,
+at man skal indstille en mand og en kvinde til et
+udvalg. Vi mener ikke, at der er tale om ligestilling i de her tilfælde. Vi mener, at der er tale om
+
+2658
+
+Torsdag den 15. januar 2009 (L 93)
+
+kvotering, når der skal være en ligelig fordeling
+af begge køn, når der skal indstilles. Jeg vil endnu en gang på Dansk Folkepartis vegne mene, at
+man ikke skal indstilles på baggrund af, om man
+er en mand eller en kvinde. Man skal indstilles
+på baggrund af det, man kan, de styrker og evner, man har.";Marlene Harpsøe
+126905;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Ellen Trane Nørby.";Kl. 13:04
+126978;Time;;Kl. 13:04
+127000;name_party;":
+Så bekræfter ordføreren fra Dansk Folkeparti jo,
+at DF er imod lovgivningen, som den ser ud i
+dag. Sådan som lovgivningen ser ud i dag, skal
+organisationerne indstille en mand og kvinde.
+Det eneste, det her lovforslag ændrer ved, er, om
+ministeren kan lade deres plads stå tom eller skal
+lade deres plads stå tom. Det vil sige, at det her
+lovforslag på ingen måde ændrer det, som DF's
+ordfører står og taler om. Derfor vil jeg bare igen
+spørge DF's ordfører: Er DF imod ligestillingslovgivningen, som den er i dag, pligten for organisationerne til at indstille både mænd og kvinder, sådan som det har været i dansk lovgivning
+siden 1980'erne?";Ellen Trane Nørby
+127654;Time;"Tredje næstformand (Holger K. Nielsen):
+Ordføreren.";Kl. 13:05
+127716;Time;;Kl. 13:05
+127737;name_party;":
+Jeg kan bekræfte Venstres ordfører i, at Dansk
+Folkeparti finder det problematisk, at man skal
+indstille en person af hvert køn. Vi mener, at
+man skal indstilles på baggrund af kompetencer.
+Det siger jo sig selv, at man ikke nødvendigvis
+har en kompetence, fordi man er en kvinde, eller
+fordi man er en mand. Det handler om uddannelse, det handler om kvalifikationer, al den erfaring, man har opbygget, og mange andre ting.
+Det handler ikke om, hvorvidt man er det ene
+køn eller det andet køn.";Marlene Harpsøe
+128242;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak til ordføreren. Fru Pernille Vigsø Bagge som
+ordfører.";Kl. 13:05
+128351;Time;(Ordfører);Kl. 13:05
+128388;name_party;":
+Jeg vil gerne starte med at sige: Af hjertef tillykke! Det er jo lidt af en historisk dag, kan man sige. Det er ikke så tit, at SF lykønsker regeringen,
+men det er jo, fordi det er første gang under
+Foghregeringen, at der bliver fremsat et lovfor-
+
+slag af en ligestillingsminister. Det er næsten,
+som om regeringen i dag får taget sin mødom.
+Fru Henriette Kjær gjorde det ikke, fru Eva Kjer
+Hansen gjorde det heller ikke, men nu gør fru ligestillingsminister Karen Jespersen det, og mange, mange tak for det.
+Der bliver simpelt hen fremsat et lovforslag,
+der skal fremme ligestillingen her til lands for
+første gang i 8 år. Nej, det skal dog siges, at der
+er andre ressortministre, der har prøvet at fremsætte noget, som skulle forestille at fremme ligestillingen. Beskæftigelsesministeren har fremsat
+forslag om kønsopdelte lønstatistikker. Det var
+godt nok en væsentlig forringelse af den eksisterende lovgivning. Der er også blevet vedtaget en
+længere barselorlov, som fuldstændig entydigt
+har forringet kvinders muligheder både i livsløn, i jobkarriere osv., og så er der godt nok også
+blevet lavet et ligestillingsklagenævn, men det
+var ifølge et EU-direktiv, så det var ikke rigtig
+noget frit valg for regeringen: det skulle regeringen indføre. Og stadig væk har vi jo så ikke noget ligestillingsombud her til lands, og vi mangler også et ligestillingsudvalg her i Folketinget,
+men det skal nok komme, for nu er starten gået.
+Mange tak for det.
+I forhold til det her lovforslag har vi hørt flere
+gange i dag, at det jo bare er en præcisering af en
+lov fra 1985. Det er altså 24 år siden, at det her
+regelsæt blev indført, og nu vil man så også have, at det ligesom skal effektueres for alvor. Det
+er meget, meget glædeligt, og SF støtter ubetinget det her lille forslag.
+Der er nogle høringssvar, der peger på nogle
+problemer i forslaget. Bl.a. finder DJØF det problematisk, at der fortsat er mulighed for at fravige kravet om indstilling af lige mange mænd og
+kvinder, hvis der foreligger særlige grunde, og
+disse særlige grunde er imidlertid ikke nærmere
+præciseret, som DJØF og flere andre i deres høringssvar i øvrigt anfører. Det kunne vi godt
+tænke os i SF at vi kunne kigge på i udvalgsbehandlingen.
+Så fremfører DJØF også, at det kunne være
+fint, når der nu i lovforslagets bestemmelse § 13
+om indberetning fra ressortministrene hvert andet år i forbindelse med ligestillingsredegørelsen skal fremstilles en oversigt og gives en monitorering af, hvordan det går med ligestillingsarbejdet, at det så ikke kun gælder for de statslige bestyrelser, men også kunne komme til at
+gælde for de kommunale og regionale udvalg
+og bestyrelser, så der altså også kommer indbe-
+
+Torsdag den 15. januar 2009 (L 93)
+
+2659
+
+retninger herfra. Det vil vi også gerne arbejde vi- hængigt organ. Det har beskæftigelsesministedere med i udvalgsarbejdet.
+ren bestemt ikke tænkt sig at gøre noget ved, og
+Men altså tak for at starten er gået. Jeg har et
+derfor har han også en sag kørende med Komom end spinkelt håb om, at det kunne være bemissionen. Nu har Europa-Parlamentet jo helgyndelsen til noget stort i forhold til at indføre
+digvis sat fokus på det her område, og det håber
+reel ligestilling i Danmark, men jeg må da også
+jeg kan være med til at påvirke det/selv om jeg
+sige, at jeg, fordi jeg nu har hørt, at Venstres
+nu ikke har de store forhåbninger, når det komgruppe er så splittet i spørgsmålet, har mine
+mer til stykket.
+tvivl.
+Det andet sted, hvor der også er tale om fodKl. 13:09 slæberi, er inden for det område, der drejer sig
+Tredje næstformand (Holger K. Nielsen):
+om at indføre ensartede pensioner for mænd og
+Tak til ordføreren. Fru Helle Sjelle som ordfører.
+kvinder. Der er jo et direktiv på det her område,";Pernille Vigsø Bagge
+132124;Time;"som faktisk siger, at lovgivningen skal være gen(Ordfører)
+nemført inden 2007. Så er der selvfølgelig forHelle Sjelle (KF):
+skellige overgangsordninger, som der altid vil
+Det havde jo været vidunderligt, hvis det her
+være ved så komplicerede sager som pensionsforslag havde været overflødigt, altså hvis det
+ordninger. Men man har en særlig mulighed for
+ikke havde været nødvendigt at gøre mere for at at udskyde forslaget til 2009, og det har regerinskabe ligestilling her i Danmark. Men jeg vil ger- gen selvfølgelig gjort. Det er altså lidt surt, at det
+ne starte med at slå fast, at det her forslag simer sådan.
+pelt hen er nødvendigt. Det er nødvendigt at
+Jeg håber stadig væk, at ministeren fra talergøre en ekstra indsats for at få skabt ligestilling i stolen måske vil bekræfte, at vi i det mindste får
+bl.a. offentlige udvalg.
+handicapkonventionen op til ratifikation, og at
+Der har igennem flere år været problemer
+ikke også den bliver udskudt. For den handler jo
+med kønssammensætningen i udvalgene, og,
+dybest set også om ligestilling.
+derfor er vi også positive over for, at ministeren
+Ellers vil jeg sige, at vi støtter forslaget, og at
+f.eks. nu skal lade en udvalgspost stå åben, hvis
+vi synes, at det er et godt forslag. Venstres ordføindstillende organisationer eller myndigheder
+rer, fru Ellen Trane Nørby, sagde, at det var
+ikke indstiller både en mand og en kvinde eller
+Schlüterregeringen, der indførte det her. Ja, men
+ikke giver en saglig begrundelse for ikke at gøre
+der er jo en lille pointe. Nu sad jeg lige og studedet. Det synes vi kun er ganske rimeligt. Det kan rede historien, og det er faktisk på basis af et raforhåbentlig være med til at skabe en mere ef- : dikalt forslag, at Schlüterregeringen gennemførfektiv regulering af kønssammensætningen og
+te det. Nu konfererede jeg lige med min davædermed også mere ligestilling i disse udvalg.
+rende gruppeformand, hr. Niels Helveg PeterDet er også derfor, at vi støtter det her forslag.
+sen, som faktisk var ordfører på det, og vi blev";Kl. 13:09
+134151;Time;"enige om, at det måske nok i meget høj grad var
+Tredje næstformand (Holger K. Nielsen):
+Lisbeth Schlüter, der var med til at vride armen
+Tak til ordføreren. Fru Lone Dybkjær som ordfø- om på sin ægtefælle, sådan at det her lovforslag
+rer.
+kom igennem. Der var altså også et flertal i FolKl. 13:10 ketinget, og dét er selvfølgelig ikke uvæsentligt.
+(Ordfører)
+Men jeg tror faktisk, at hvis vi går tilbage i histoLone Dybkjær (RV):
+rien, så må vi sige, at Lisbeth Schlüter havde sin
+Tak, hr. formand. Også Det Radikale Venstre
+meget væsentlige andel i det, og det er jo da
+støtter forslaget. Jeg vil lade være med at kritise- også lidt historisk interessant - synes jeg.
+re ligestillingsministeren for ikke at have lavet
+Men dengang lovforslaget blev vedtaget,
+70 andre forslag, men blot komme med den geskulle vi nedsætte Teknologinævnet, og det var
+nerelle bemærkning, at det dog er glædeligt, at
+så der, der skulle udpeges en mand og en kvinder er et enkelt regeringsmedlem, som ikke er
+de. Det gjorde organisationerne, undtagen LO
+totalt fodslæbende, når det drejer sig om ligestil- og DA. Vi skrev adskillige skrivelser til dem. Det
+ling. Når jeg mener det, er det jo, fordi vi har set var mig, der var formand for det udvalg, der bebeskæftigelsesministeren være mere end fodslæ- handlede det, og Ritt Bjerregaard var næstforbende, når det f.eks. drejer sig om at etablere et
+mand, så det var jo en duo, der ville noget. Vi
+institut for ligestilling eller i det mindste få defi- skrev til dem og sagde: Nu må I udpege. Jeg sineret, hvor ligestilling kan behandles i et uafger det, for der er jo unge medlemmer til stede,
+
+2660
+
+Torsdag den 15. januar 2009 (L 93)
+
+som ikke nødvendigvis kender hele den her historie. Facit blev, at LO sagde: Når det skal være
+på den måde, udpeger vi altså også en kvinde når det skal være på den måde. DA, Dansk Arbejdsgiverforening - eller også var det Dansk Industri - skulle også udpege. Det var nok Dansk,
+Industri, der skulle udpege. Facit er det samme.
+De ville ikke udpege nogen. Så gik jeg på fjernsynet og sagde, at hvis Dansk Industri ikke havde nogen kvinde, de kunne udpege, så var de
+sådan set ikke kvalificeret til at deltage i Teknologinævnet, så nu ville vi lave loven om, så de
+ikke havde en indstillingsret. Og så kom der
+selvfølgelig en kvinde. Jeg tror også, ligestillingsministeren kan huske den historie.
+Det er selvfølgelig derfor, vi er ret glade for
+det »skal«, for det giver alligevel noget i forhold
+til, hvordan det er i dag. Man kan også sige, at vi
+har bebrejdet ministeren, at hun ikke er efter alle
+de der organisationer, der faktisk ikke udpeger
+både mænd og kvinder, men nu kan man sige, at
+nu behøver man ikke at være efter dem, nu er
+der en lov, og så må der være nogle andre, der er
+efter dem. Men de skal overholde loven, og derved kan vi måske alligevel komme et skridt videre, end vi er i dag.
+Så jeg synes faktisk, det er et net lille forslag,
+som vi af mange gode grunde - også historiske er ret glade for.";Kl. 13:10
+137147;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak til ordføreren. Fru Johanne Schmidt-Nielsen
+som ordfører.";Kl. 13:15
+137259;Time;(Ordfører);Kl. 13:15
+137299;name_party;":
+Først og fremmest vil jeg gerne komme med et
+stort, stort tillykke til ligestillingsministeren. Og
+årsagen er naturligvis, at det er det første lovforslag, ministeren kommer med i sin tid som ligestillingsminister. Vi er mange, der har ventet
+meget, meget utålmodigt.
+Der er nogle, der har fortalt mig, at ligestillingsministeren engang var rødstrømpe. Jeg ville sådan ønske, at ministeren ville huske på det
+der med de røde strømper lidt oftere, så derfor
+har jeg taget en gave med. Når man siger tillykke, er det jo også udtryk for meget god stil at
+komme med en gave, så jeg har et par røde
+strømper med til ministeren. (Ordføreren fremviser et par røde strømper fra talerstolen). Det har jeg
+for at sige tillykke, og jeg håber meget, at vores
+ligestillingsminister vil gå med dem, for vi kunne godt tænke os, at der fremover går lidt korte-
+
+re tid, før der kommer et nyt forslag på ligestillingsområdet. Så jeg har en gave til vores minister, som forhåbentlig vil huske hende på, at hun
+engang var rødstrømpe.
+Enhedslisten støtter selvfølgelig det her lovforslag. Vi har tænkt os at stemme for, for selv
+om der er tale om en lille forbedring, er der dog
+tale om en forbedring, og enhver forbedring
+støtter vi naturligvis i Enhedslisten.
+Ligestilling er ikke noget, der bare kommer af
+sig selv, det er blevet sagt tidligere i dag. Der er
+brug for handling, vi kan ikke bare slappe af og
+lave ingenting, for så kommer vi til at vente og
+vente og vente. Selv om vi i Danmark har formel
+ligestilling mellem kønnene, og selv om vi alle
+sammen er enige om, at vi ikke vil acceptere diskrimination på baggrund af køn, hører enigheden altså som regel op, når det kommer til det
+der med, at der skal handles. Det en skam, for
+det er lige præcis handling, der er rigtig, rigtig
+meget brug for.
+Det er efterhånden et anerkendt faktum, at ligestilling i Danmark kun eksisterer på papiret.
+Vi ved, at der er forskel på formel ligestilling og
+reelle muligheder. Vi ved, at kvinder i Danmark
+tjener 18 pet. mindre end mænd, på trods af at
+loven om ligeløn altså blev vedtaget i 1976. Vi
+ved også, at der er under 12 pet. kvindelige professorer i Danmark, og at andelen af kvindelige
+ledere er markant lavere end andelen af mandlige ledere. Vi ved, at kvinder tager langt, langt
+størstedelen af barselorloven. Det var bare nogle
+af eksemplerne.
+Derfor vil jeg gerne gentage, at der er grund
+til at rose vores minister, for der er brug for
+handling, og det her forslag er altså et lille skridt
+i den rigtige retning.
+I virkeligheden er der jo altså tale om en minimal ændring af den eksisterende lovgivning. For
+selv om det for nogle kan lyde voldsomt, at man
+ændrer kan til skal, er der altså hverken tale om
+kvotering eller tvang. Pointen er kun, som det
+tidligere er sagt, at man i forbindelse med en
+indstilling skal sørge for, at der både bliver indstillet mænd og kvinder. Og man kan sige, at det
+set i det lys jo ærlig talt virker helt ude af proportion, at Folketingets formand har været ude
+at sige: Nu går regeringen for vidt, nu er det for
+meget med al den her ligestilling. Man kan godt
+blive meget, meget bekymret for, om det virkelig
+er udtryk for Venstres folketingsgruppes holdning til ligestilling, at et så lillebitte forslag som
+det, vi behandler i dag, skulle være at gå for vidt
+i forbindelse med ligestilling.
+
+Torsdag den 15. januar 2009, (L 93)
+Selv om man sådan umiddelbart kan grine af,
+at formanden for Folketinget kan finde på at
+sige sådan noget, er der grund til at blive bekymret, når man ser det i et lidt større perspektiv. For lige præcis den slags automatreaktioner,
+som den, formanden, hr. Thor Pedersen, er kommet med i det her tilfælde, er det, der gør, at der
+absolut intet sker på ligestillingsområdet i Danmark. For i modsætning til hvad formanden for
+Folketinget siger, er ligestilling altså ikke bare
+noget, der kommer af sig selv. >
+I den videre behandling af lovforslaget ser vi
+meget gerne, at det bliver præciseret, hvad det
+er for nogle særlige grunde, der kan berettige til,
+at man fraviger kravet om at indstille personer
+af begge køn. Jeg synes, at KVINFO er kommet
+med en meget god formulering i deres høringssvar. Af det fremgår det tydeligt, at dispensationsgrunden bør være, at det simpelt hen ikke
+har været muligt at finde kvalificerede og kompetente personer, og at den udpegende organisation eller institution bliver tvunget til at dokumentere, hvorfor man ikke er i stand til både at
+indstille en mand og en kvinde.
+Vi støtter også det ønske, som har været fremme i høringssvarene, om, at der skal være åbenhed om begrundelserne for at give dispensation
+og selvfølgelig også åbenhed om begrundelserne for ikke at give dispensation.
+Men vi støtter altså forslaget. Og endnu en
+gang vil jeg sige tak til vores ligestillingsminister. Jeg håber meget, at det her med de røde
+strømper vil blive gældende praksis. (Ordføreren
+forsøger at række strømperne til ministeren for ,liges t i l l i n g ) . . .
+'
+홢 Kl.13:19
+Tredje næstformand (Holger K. Nielsen):
+Hov hov! Tak til ordføreren.";Johanne Schmidt-Nielsen
+142338;Time;"Johanne Schmidt-Nielsen (EL) i
+Undskyld. Jeg skulle bare give ministeren gav
+e
+n
+.
+.
+.
+홢
+^
+, Kl. 13:19
+Tredje næstformand (Holger K. Nielsen):
+Jamen for en god ordens skyld skal jeg sige, at
+det ikke ligger inden for rammerne af forretningsordenen at medtage gaver på Folketingets
+talerstol - hverken julegaver, røde strømper eller
+madpakker.
+.
+,";Kl. 13:19
+142695;Time;;Kl. 13:20
+142724;name_party;":
+Men det er høfligt.
+
+2661";Johanne Schmidt-Nielsen
+142762;Time;"Tredje næstformand (Holger K. Nielsen): :
+Tak til ordføreren. Det er ministeren.
+'";Kl. 13:20
+142855;Time;"Ministeren for ligestilling (Karen Jespersen):
+Jeg vil sige tak til fru Johanne Schmidt-Nielsen
+for de røde strømper. Jeg vil, når jeg forlader talerstolen, straks gå ned og give dem videre til
+fru Johanne Schmidt-Nielsen, for hun har nemlig meget, meget mere brug for dem, end jeg har.
+Hun har aldrig været rødstrømpe, og hun er det
+bestemt heller ikke i dag. For fru Johanne
+Schmidt-Nielsen har allieret sig med nogle af de
+mest reaktionære kræfter i vores samfund, n å r ,
+det gælder kvinder, nemlig de islamiske kræfter,
+som bl.a. Asmaa Abdol-Hamid tilhører, og som
+står for en meget skræmmende holdning til
+kvinder som underordnede mænd. Så længe
+man har de holdninger, er der i allerhøj esté grad
+brug for nogle røde strømper for at minde en
+om, hvad det er for et værdigrundlag det danske
+samfund bygger på, og hvad det er for et værdigrundlag rødstrømpebevægelsen bygger på,
+nemlig frie og lige forhold for alle kvinder.
+Når det er sagt, vil jeg godt takke for tilslutningen, også fra Enhedslisten, til forslaget her,
+Vi kan jo se, at der i løbet af de 20 år, der er gået,
+siden forslaget første gang blev vedtaget i Folketinget, som fru Lone Dybkjær beskrev det, er
+sket en ændring i en positiv retning.
+Der er bestemt stadig væk meget, der skal gøres, men jeg synes, at det er vigtigt at huske på,
+at man langtfra alene ændrer vilkårene gennem
+ligestillingsloven. Når vi eksempelvis vedtager
+ændringer og forbedringer for kvinder på krisecentre, drejer det.sig jo også om en vigtig del af
+ligestillingen. Når jeg mener, at unge enlige
+mødre på kontanthjælp uden uddannelse er
+nogle af dem, vi skal have langt større opmærksomhed på, er det, fordi vi kan se, at det er nogle
+af dem, der har sværest ved at udnytte mulighederne i vores samfund. Så der er bestemt mange
+ting at tage fat på, men jeg er selvfølgelig glad
+for, at der er tilslutning til det lovforslag, vi her
+behandler.
+:i . '
+홢 . Kl. 13:22
+Tredje næstformand (Holger K. Nielsen):
+Tak til ministeren. Der er en kort bemærkning til
+fru Johanne Schmidt-Nielsen.
+:, ,
+. :";Kl. 13:20
+144906;Time;;Kl. 13:22
+144935;name_party;":
+Jeg ved godt, at vores ligestillingsminister interesserer sig vældig meget mere for islam end for
+ligestilling. Jeg har også bemærket, at vores lige-
+
+2662
+
+Torsdag den 15. januar 2009 (L 93)
+
+stillingsminister bruger enhver given lejlighed
+til at prædike ligestilling for vores danske muslimer. Men den prædiken klinger jo ærlig talt temmelig hult, når vi ved, at ministeren altså ikke i
+al den tid, ministeren har været øverst ansvarlig
+for ligestillingen i Danmark, har været i stand til
+at komme på en eneste idé til, hvordan man kan
+forbedre ligestillingssituationen i Danmark. Vi
+har at gøre med en minister, og det skal vi jo altså huske på. Hun er vores ligestillingsminister,
+og det betyder, at hun er den øverst ansvarlige
+for ligestillingen i Danmark. Alligevel har ministeren ikke formået at komme med et eneste forslag til, hvordan vi forbedrer situationen omkring ligestilling i Danmark. F.eks. sagde ministeren ikke et kvæk, i forbindelse med at de
+mange offentligt ansatte var ude at strejke for
+rent faktisk at få ligeløn i Danmark.
+Jeg kunne godt tænke mig at høre ministerens
+svar på dette: Hvad er årsagen til, at ministeren
+ikke har været i stand til at fremsætte et eneste
+forslag i sin tid som ligestillingsminister - før i
+dag?";Johanne Schmidt-Nielsen
+146199;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 13:23
+146261;Time;"Ministeren for ligestilling (Karen Jespersen):
+Vi har en udmærket ligestillingslov, og det her
+lovforslag ændrer jo ikke grundlæggende ved
+den ligestillingslov, forslaget skærper den og
+forbedrer den.
+Men der er jo en lang række andre punkter,
+hvorpå det også handler om at sikre ligestilling.
+Jeg har bl.a. nævnt kvindekrisecenterområdet og
+unge enlige mødre uden uddannelse og på kontanthjælp, om hvem vi ved, at deres børn også er
+i risiko for at klare sig dårligt, og hvor det jo i høj
+grad for mig også er ligestilling at prøve at yde
+en indsats for at hjælpe de kvinder.
+Så er der hele spørgsmålet om at komme det
+reaktionære kvindesyn til livs, som trives i de
+mest ortodokse muslimske kredse. Jeg ved godt,
+at Enhedslisten ikke betragter det som et problem. Det er derfor, at det er noget af det, jeg er
+meget, meget uenig i, for jeg mener simpelt hen,
+at Enhedslisten lukker øjnene for en meget farlig
+udvikling i vores samfund.";Kl. 13:23
+147209;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Johanne Schmidt-Nielsen.";Kl. 13:24
+147289;Time;;Kl. 13:24
+147318;name_party;":
+Enhedslisten vil gerne de reaktionære kvindesyn til livs, både det reaktionære kvindesyn, der
+kan være at finde blandt nogle muslimske grupper i vores samfund, og det reaktionære kvindesyn, der er at finde på formandsposten i Folketinget. Det skal der ikke være tvivl om, det er en
+meget, meget vigtig sag for Enhedslisten.
+Men endnu en gang vil jeg spørge: Hvad er
+årsagen til, at ministeren altså ikke har formået
+at fremsætte et eneste forslag til, hvordan man
+kan forbedre situationen? Fra oppositionens
+side har vi både rigtig mange ideer til, hvordan
+man kan få fordelt barslen bedre, og til, hvordan
+man kan få nogle ligelønsstatistikker, som er
+væsentlig bedre end dem, der er i dag. Jeg synes,
+at vi er kommet med mange, mange ideer.
+Ministeren har et helt ministerium til at hjælpe sig, og alligevel er der altså ikke kommet nogen ideer. Hvad er årsagen til det, plus hvad vil
+ministeren gøre for at udrydde det reaktionære
+kvindesyn, den reaktionære ligestillingsopfattelse, som åbenbart gør sig gældende i Venstres folketingsgruppe?";Johanne Schmidt-Nielsen
+148374;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 13:25
+148436;Time;"Ministeren for ligestilling (Karen Jespersen):
+Nu er det sådan, at både loven om barsel og loven om lønstatistikker ikke er Velfærdsministeriets område, så det er andre steder, man skal
+tage den debat om, om der skal ske ændringer.
+Jeg bakker fuldt og helt op om det grundlag, der
+ligger, og jeg mener, at de regler, vi har, samlet
+set er en del af forklaringen på, at Danmark er et
+af de lande, der ligger i spidsen, når det gælder
+ligestilling. Det kan man også se, når man ser på
+den benchmarking, der er i EU mellem de forskellige lande.
+Men der, hvor jeg kan se et helt nyt, reaktionært kvindesyn, er blandt nogle af indvandrerne
+med ortodoks muslimsk baggrund. Det er, fordi
+det jo ikke bare handler om regler i vores samfund, det handler også om, hvad det er for
+grundlæggende holdninger man har. Og der har
+et medlem af Enhedslisten, Asmaa AbdolHamid, jo været aktiv - og er det vist stadig væk
+- i Muslimer i Dialog, som f.eks., når de arrangerer møder, gør det, at mænd og kvinder sidder
+adskilt. Det er for mig et hårrejsende kvindesyn,
+som Enhedslisten på den måde bakker op om.
+
+Torsdag den 15. januar 2009 (L 93)";Kl. 13:25
+149574;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak. Det her lovforslag handler om ligestilling
+mellem mænd og kvinder for bare lige at gøre
+opmærksom på det.
+Fru Marlene Harpsøe for en kort bemærkning.";Kl. 13:26
+149779;Time;;Kl. 13:26
+149800;name_party;":
+Tak. Jeg vil gerne høre ligestillingsministeren
+om noget, for ligestillingsministeren står jo også
+her som repræsentant for partiet Venstre. Partiet
+Venstre går meget op i frihed - det er i hvert fald
+det, man ofte hører - at man går op i, at frihedsrettigheder og frihed i det danske samfund er
+utrolig, utrolig vigtigt.
+Jeg vil gerne høre ligestillingsministeren,
+hvordan den her ideologi om frihed egentlig
+hænger sammen med det forslag, som er fremsat i dag fra regeringens side, om, at man skal
+tvinge organisationer til at indstille både en
+mand og en kvinde. Tvang er jo ikke frihed.";Marlene Harpsøe
+150402;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 13:27
+150464;Time;"Ministeren for ligestilling (Karen Jespersen):
+Når man siger, at alle skal indstille en mand og
+en kvinde, hvis det er muligt, er det jo ikke noget, der ligger i det her lovforslag, det er faktisk
+noget, der har været gældende i over 20 år. Og
+der står det jo en frit for at fremsætte et lovforslag om at ophæve den bestemmelse,. men det
+har Dansk Folkeparti mig bekendt ikke gjort.
+Jeg mener da, at det er trist, at det har været
+nødvendigt at have en sådan bestemmelse, men
+det ser jo ud til, at der trives nogle mønstre i vores samfund, som både handler om dem, der
+skal indstille, og om nogle mønstre hos kvinder
+selv. Kvinder skal søge de jobs, der også kan føre
+til pladser i de råd og nævn, de skal også gå efter
+nogle af de pladser, gå efter lederstillinger.
+Så det drejer sig om nogle mønstre, som både
+trives blandt mænd og kvinder, og man kan sige, at der er brug for at få dem brudt op. Og det
+kan man bl.a. gøre ved at lave nogle regler, der
+får synliggjort de kvinder, der er.";Kl. 13:27
+151465;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Marlene Harpsøe.";Kl. 13:28
+151536;Time;;Kl. 13:28
+151557;name_party;":
+Det, jeg inderst inde hører, lyder, som om der i
+det her forslag rent faktisk er tale om tvang, og
+
+2663
+
+at det dermed også går imod Venstres ideologi
+om frihed? Kan ministeren bekræfte det?";Marlene Harpsøe
+151760;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 13:29
+151822;Time;"Ministeren for ligestilling (Karen Jespersen):
+Jamen altså, mig bekendt indeholder hvert eneste lovforslag, vi vedtager i det her Folketing, et
+element af tvang - det kan godt være, at man
+ikke kan sige det om hvert eneste forslag.
+Det handler netop om at opstille nogle regler
+for borgerne. Men her handler det jo simpelt hen
+om, at man skal komme med to navne, og hvis
+man ikke gør det, skal man komme med en begrundelse. Det er ikke noget, der ligger i det her
+lovforslag, det er altså noget, der har været gældende i over 20 år.";Kl. 13:29
+152365;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Pernille Vigsø Bagge for en kort bemærkning.";Kl. 13:29
+152464;Time;;Kl. 13:29
+152490;name_party;":
+Tak. Når ministeren nu siger, at hun gerne vil
+bekæmpe et reaktionært kvindesyn, gælder det
+så også det kvindesyn, der gør sig gældende,
+når Folketingets formand, hr. Thor Pedersen, siger, at det her forslag er alt for vidtgående, og at
+han personligt ville blive rasende, hvis han pænt
+måtte vente, til der også blev indstillet en kvinde?
+Det andet spørgsmål går på - det er lidt en
+vurderingssag - om ligestillingsministeren overhovedet tror, at hr. Thor Pedersen, ht. Jens Kirk,
+hr. Preben Rudiengaard og hr. Kim Andersen
+vidste, at der var en lov fra 1985, der sagde, at
+man skulle indstille mænd og kvinder til råd og
+nævn, når de kan udtale sådan noget som: Jeg
+kan egentlig ikke forstå, at vi skal lave love for
+den slags ting?
+Tror ministeren, at de disse herrer fra Venstres
+folketingsgruppe overhovedet var klar over, at
+der fandtes en lov, der så sådan ud?";Pernille Vigsø Bagge
+153369;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 13:30
+153431;Time;"Ministeren for ligestilling (Karen Jespersen):
+Jeg vil sige, at 99,9 pet. af de udtalelser og kritiske røster, jeg har hørt i forbindelse med det her
+forslag, har beroet på misforståelser. Det samme
+gælder Dansk Folkepartis ordfører, fru Malene
+Harpsøe, for det, hun står her og argumenterer
+
+2664
+
+Torsdag den 15. januar 2009 (L 93)
+
+imod, er jo ikke det lovforslag, vi behandler. Og
+meget af det, hr. Thor Pedersen har sagt, er også
+blevet misforstået - det har jo heller ikke handlet
+om det, lovforslaget faktisk handler om.
+Det, jeg hører, er, at der er en grundlæggende
+tillid til, at kvinder er nøjagtig lige så gode til at
+bestride hverv som mænd. Jeg synes, at det også
+er meget vigtigt i denne debat at holde fast i, at
+der helt grundlæggende er et ønske om ligestilling, og så kan der være forskellige holdninger
+til, hvad det er for redskaber, vi skal bruge til at
+fremme den. Men det er da også et udtryk for,
+hvor langt vi er nået i Danmark, at der er det
+grundlæggende syn på kvinder, hvilket jeg oplever at der er blandt stort set alle.";Kl. 13:30
+154494;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Pernille Vigsø Bagge.";Kl. 13:31
+154570;Time;;Kl. 13:31
+154596;name_party;":
+Jeg skal altså forstå, at det, Bjarne Steensbeck og
+Morten Henriksen har skrevet i Berlingske Tidende, er fuldstændig forkert, for her står, at hr.
+Thor Pedersen synes, at ligestillingen er gået for
+vidt, og at han opfordrer regeringen til at droppe et fremsat ligestillingsforslag. Han siger oven
+i købet, at kvinder ingen forskel gør.
+Så er jeg bare nødt til at spørge ministeren: Er
+ministeren fuldstændig enig i, at kvinder ingen
+forskel gør? Er ministeren fuldstændig enig i, at
+dette forslag er vidtgående, sådan som hr. Thor
+Pedersen refererer til det som? For det er det her
+forslag, det handler om. Der er ikke kommet andre ligestillingsforslag fra den her regering, så
+derfor må vi formode, at det er det her forslag,
+der er tale om.
+Jeg vil gerne spørge igen: Tror ligestillingsministeren overhovedet, at de fire personer fra
+Venstres folketingsgruppe, der har udtalt sig om
+det her, anede, at loven fra 1985 så ud, som den
+gjorde, og at man altså allerede fra 1985 har
+skullet indstille både mænd og kvinder til udvalg?
+: Kl. 13:32
+Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Pernille Vigsø Bagge
+155703;Time;"Ministeren for ligestilling (Karen Jespersen):
+Lige præcis den artikel i Berlingske Tidende vil
+jeg holde mig langt fra, for jeg ved, at der var en
+embedsmand i ministeriet, der snakkede med
+journalisten og forklarede ham, hvad forslaget
+gik ud på, og som jeg husker den artikel, mener
+jeg ikke, at den afspejler det. Jeg husker den '
+
+også sådan, at det, hr. Thor Pedersen kommenterer, ikke er det reelle lovforslag, men et andet
+forslag om kvoter og hist op og herned: Derfor
+synes jeg, det er meningsløst at diskutere ud fra
+den artikel.";Kl. 13:32
+156254;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Frank Aaen for en kort bemærkning.";Kl. 13:33
+156343;Time;;Kl. 13:33
+156359;name_party;":
+Tak. Når nu vi er færdige med førstebehandlingen, bliver forslaget her jo sendt til Det Politiskøkonomiske Udvalg - som jeg er formand for for det er der, ligestillingsarbejdet er placeret i
+Folketinget. Det arbejder vi gerne med i vores
+udvalg og har også lagt mere energi i det, end vi
+har gjort tidligere, og det er jo det, der har været
+baggrunden for, at vi har været lidt tvivlende
+over for, hvor arbejdet skulle være. Jeg vil alligevel godt spørge ministeren, om ministeren ikke
+synes, det er på tide, at vi nu får et ligestillingsudvalg i Folketinget, så borgerne helt præcis
+ved, hvor de skal henvende sig, hvis de har ønsker om at få fremmet ligestillingsarbejdet i Folketinget.";Frank Aaen
+157059;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 13:33
+157121;Time;"Ministeren for ligestilling (Karen Jespersen):
+Altså, hr. Frank Aaen ved selvfølgelig godt, at
+jeg som regeringsmedlem hverken kan eller skal
+blande mig i det: det er et anliggende for Folketinget at beslutte, hvad det er for udvalg, man
+vil have i Folketinget. Men jeg påskønner selvfølgelig i allerhøjeste grad, hvis Det PolitiskØkonomiske Udvalg ligesom har mere opmærksomhed rettet på ligestilling: det bidrager jeg
+meget gerne til.";Kl. 13:33
+157568;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Frank Aaen.";Kl. 13:34
+157634;Time;;Kl. 13:34
+157650;name_party;":
+Nu har vi jo ytringsfrihed her i landet. Og jeg synes jo, at ministeren sagtens kan udtale sig på
+egne vegne, og det kan jeg da give anledning til i
+det her opfølgende spørgsmål, nemlig om ministeren ikke har den opfattelse, at det, at vi fik
+etableret et ligestillingsudvalg, hvor vi både
+samlede dem, der arbejder mest med ligestilling
+i Folketinget, i ét udvalg, og at vi samtidig sendte et signal til befolkningen om, at nu har Folketinget opprioriteret ligestillingsarbejdet, og at
+
+(334)
+Torsdag den 15. januar 2009 (L 93)
+det er her, man kan henvende sig, hvis man har
+et ønske om at få fremmet ligestillingen, kunne
+være en hjælp til ministeren ved på den måde at
+få et egentligt udvalg til at bakke op på det her
+vigtige område.";Frank Aaen
+158400;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+. Kl. 13:34
+Ministeren for ligestilling (Karen Jespersen):
+Jeg står her jo som repræsentant for en regering
+med nogle bestemte beføjelser og begrænsninger. Det er jo også derfor, at selv hr. Frank Aaen
+- havde jeg nær sägt - må acceptere at bruge betegnelsen minister: det er jo for ligesom at pointere, i hvilken egenskab jeg står her. Og i den
+egenskab kan jeg altså ikke begynde at blande
+mig i Folketingets beslutninger om, hvilket udvalg de vil have. Men jeg er kun glad for, at Det
+Politisk-Økonomiske Udvalg opprioriterer arbejdet, og jeg glæder mig til at samarbejde om
+forslaget her.";Kl. 13:34
+159055;Time;"Tredje næstformand (Holger K. Nielsen):
+Der er ikke flere korte bemærkninger. Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Det Politisk-Økonomiske Udvalg. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+2665";Kl. 13:35
+159393;Time;"Meddelelser fra formanden
+Tredje næstformand (Holger K. Nielsen):
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen) har meddelt mig, at han ønsker i
+henhold til forretningsordenens § 19, stk. 4, at
+give Folketinget en skriftlig:
+Redegørelse om beslutningsgrundlag for et
+dansk slutdepot for lav- og mellemaktivt affald.
+(Redegørelse nr. R 4).
+Eksemplarer vil blive omdelt og redegørelsen
+optaget i Folketingstidende.
+Redegørelsen vil komme til forhandling torsdag
+den 29. januar 2009.
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag den
+20. januar 2009 kl. 13.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen. Jeg skal i øvrigt henvise til den omdelte
+ugeplan.
+Mødet er hævet. (Kl. 13:36).";Kl. 13:35

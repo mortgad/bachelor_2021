@@ -1,0 +1,2054 @@
+split;reason;text;value
+0;;"11367
+
+18/9 92: Dagsorden
+
+11368
+
+(Fremsat 17/9 92. Første behandling 17/9
+92. Betænkning 18/9 92).
+Der var stillet 2 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+
+100. møde";
+260;Time;"Dagsorden:
+
+Ændringsforslagene sattes først til forhandling.
+Forhandling
+
+Eventuelt: Anden (sidste) behandling af beslutningsforslag nr. B 95:
+Forslag til folketingsbeslutning om at stille
+en dansk militær styrke til rådighed for De
+Forenede Nationer.
+Af udenrigsministeren (Ellemann-Jensen).
+I
+Meddelelser fra formanden:";kl. 10.00
+594;title_name;"Da Forsvarsudvalget endnu ikke har afgivet
+betænkning, skal jeg udsætte mødet. Det genoptages i dag kl. 13.00.
+Mødet udsat kl. 10.01
+Mødet genoptaget kl. 13.00
+Samtykke til behandling:";Formanden
+790;title_name;"Den eneste sag på dagsordenen kan kun
+med Tingets samtykke behandles i dette møde,
+men hvis ingen gør indsigelse, betragter jeg
+samtykket som givet. (Ophold). Det er givet.
+Man gik da til:
+Anden (sidste) behandling af beslutningsforslag
+nr. B 95:
+Forslag til folketingsbeslutning om at stille en
+dansk militær styrke til rådighed for De Forenede Nationer.
+Af udenrigsministeren (Ellemann-Jensen).";Formanden
+1204;name_party;":
+For SF har det været afgørende, at det hovedtema, som vi diskuterer her, er spørgsmålet
+om denne aktions hensigtsmæssighed, om afsendelsen af denne styrke i det hele taget, men
+i debatten har spørgsmålet om frivillighed eller
+ej spillet en ganske betydelig rolle, endog en så
+betydelig rolle, at det har overskygget den
+principielle diskussion om betimeligheden af
+og det fornuftige i overhovedet at sende denne
+styrke af sted.
+Når det har spillet en så væsentlig rolle, er
+det naturligvis, fordi det danske forsvar og det
+danske forsvars personel har været ganske
+uforberedt på en sådan situation. Det skyldes,
+at der er masser af folk i det danske forsvar i
+dag, som ikke i deres vildeste fantasi for 3, 4
+eller 5 år siden, da de gik ind i forsvaret, kunne
+forestille sig, at de skulle sættes ind i kampoperationer i Bosnien.
+Da det nu ser ud til, at flertallet i Folketinget
+ønsker at gennemføre denne aktion, så må det
+være et helt elementært krav, at vi i denne specielle situation giver militært personel den mulighed, der ligger i en egentlig frivillighedsordning. Vi er altså ikke tilfredse med den konstruktion, der lægges frem, og hvorefter en enhed kan udpeges til denne opgave, og så kan
+man droppe ud af enheden, ud af gruppen,
+med de konsekvenser, det indebærer for den
+enkelte. Vi forestiller os, at hvis folk dropper
+ud af det foreslåede kompagni og siger, at de
+ikke vil deltage - jeg forstår oven i købet, at
+flertallet mener, at det skal ske med en særlig
+begrundelse - så vil sorteper gå videre til den
+næste militærperson, indtil man finder en eller
+anden, som ikke er villig til at sætte sin fremtidige karriere i forsvaret over styr på denne måde.
+
+11369
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Pelle Voigt
+2979;title_name;"Vi synes, at det er utilfredsstillende i en situation, hvor det faktisk har været umuligt for
+disse mennesker, da de indgik deres forpligtelser over for forsvaret, at forudse den situation,
+at de skulle sættes ind i kampoperationer så
+langt borte. Derfor har vi stillet et ændringsforslag, som understreger, at den kampstyrke,
+som et folketingsflertal måske imod SF's råd
+og indstilling vil sende af sted, udelukkende
+skal bestå af frivillige.
+Jeg kan meddele, at vi også vil være i stand
+til i givet fald at stemme for det af Det Radikale Venstre stillede ændringsforslag. Vi synes, at
+det er vigtigt, at der kommer en understregning
+af frivillighedsprincippet ind i selve forslagsteksten, og at dette ikke blot nævnes i betænkningen. Når vi opererer med et beslutningsforslag, er det i forvejen uklart, hvilken lovskraft
+et sådant beslutningsforslag har, og en betænkning til et beslutningsforslag er ikke et særlig
+stærkt juridisk bindende dokument. Vi går
+imidlertid ud fra, at de aftaler, som måtte være
+indgået mellem nogle partier, om ikke juridisk
+så i hvert fald politisk er holdbare.
+Vi foretrækker med fremsættelsen af vores
+ændringsforslag at gøre det helt klart, at vi ikke i denne situation lægger presset på den enkelte, at kravet ikke er, at man skal nægte at
+efterkomme en udsendelse som enkeltperson,
+men at styrken udtages blandt folk, som aktivt
+ønsker at deltage i dette efter vores mening
+meget, meget dårligt gennemtænkte og dybt
+betænkelige projekt.";Pelle Voigt
+4465;name_party;":
+Jeg skal blot på Socialdemokratiets vegne sige, at vi gennem aftale med regeringspartierne
+- og andre partier har tilsluttet sig aftalen - har
+sikret, at ingen imod deres vilje kan sendes ud
+i den mission, som beslutningsforslaget òmtaler.
+Vi har i Socialdemokratiet rejst fem punkter
+under førstebehandlingen af denne sag. Vi er
+blevet imødekommet på disse punkter, og vi er
+tilfredse med den aftale, vi har indgået.
+Jeg vil under den generelle debat nærmere
+begrunde vores indstilling, og med denne begrundelse skal jeg kort meddele, at vi stemmer
+imod de stillede ændringsforslag.";Trøjborg
+5065;name_party;":
+Helt isoleret betragtet lyder det naturligvis
+
+11370
+
+mærkeligt, at man vil stemme imod to ændringsforslag, der er så kønne som dem, der er
+stillet her. I debatten i går henviste jeg imidlertid til, at vi måtte kunne finde hinanden vedrørende frivillighedsprincippet, som var det store
+diskussionsobjekt i går.
+Vores ønsker om, at det skulle være muligt
+for forsvarsministeren at bære ansvaret for, at
+opgaven blev løst sådan, at den var mindst muligt farlig for de mennesker, der frivilligt skulle
+sendes af sted, og at man så langt, som det var
+muligt, tilgodeså frivillighedsprincippet, er
+blevet opfyldt. Jeg vil gerne udtrykke min tilfredshed med det stykke arbejde, der blev lavet
+i nattens løb mellem repræsentanter for Socialdemokratiet og regeringspartierne, og som vi
+andre fulgte fra sidelinjen. Jeg synes, det er et
+for Folketinget værdigt resultat, man er nået
+frem til.
+(Kort bemærkning).";Glønborg
+5986;name_party;":
+Jeg må sige, det var med forundring, at jeg
+lyttede til hr. Trøjborgs indlæg. Jeg kan måske
+godt forstå, at Socialdemokratiet efter alle sine
+krumspring har svært ved at stemme for SF's
+ændringsforslag, der jo ret klart udtrykker et af
+de standpunkter, Socialdemokratiet i denne
+lange, besværlige proces har indtaget, i hvert
+fald en del af dagen i går. Det, der er helt umuligt for mig at forstå, er, hvordan hr. Trøjborg
+og regeringspartierne har tænkt sig at begrunde deres afstandtagen fra Det Radikale Venstres ændringsforslag, der jo tekstmæssigt i
+helt forbløffende grad ligner det betænkningsbidrag, som regeringen og Socialdemokratiet
+er nået frem til.
+Kan man få forklaret af en eller anden - en
+minister, den socialdemokratiske ordfører eller
+en anden - hvorfor dette her ikke må stå i selve
+beslutningsforslagets tekst, men skal lægges
+ned i en underordning i form af et betænkningsbidrag? Er der nogen som helst fornuft i
+det? Hvad er det for en forskel, der er imellem
+betænkningsbidraget fra regeringen og Socialdemokratiet og så vedtagelse af det radikale
+ændringsforslag? Hvad er det for en forskel,
+der er så - om jeg så må sige - radikal, at man
+endog agter at stemme det radikale ændringsforslag ned? Det synes jeg ville være overordentlig interessant at få oplyst.
+
+11371
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Pelle Voigt
+7376;title_name;"Hermed sluttede forhandlingen om ændringsforslagene.
+Afstemning
+Ændringsforslag nr. 1
+forkastedes, idet 9 stemte for, 85 imod: 5 stemte hverken for eller imod.
+Ændringsforslag nr. 2
+forkastedes, idet 14 stemte for, 84 imod.
+Forslaget som helhed sattes derefter til forhandling.
+Forhandling";Pelle Voigt
+7678;name_party;":
+I debatten i går var ledetråden for Socialdemokratiet, at vi måtte imødekomme FN's anmodning: som bl.a. hr. Anker Jørgensen udtrykte det fra talerstolen: »Det må kunne lykkes at finde en løsning. Det er ikke alene Socialdemokratiets, det er Danmarks FN-politik,
+det handler om.« Alternativet til, at vi fandt
+hinanden her i Folketinget i denne sag, ville
+være et nej til FN's anmodning, et nej til, at
+FN prøver at gøre noget for de hundredtusinder af indesluttede uskyldige, krigens civile
+ofre i Bosnien-Herzegovina. Og uanset hvor
+ansvaret for, at der ikke ville blive nogen
+dansk deltagelse, ville blive placeret - jeg ville
+ikke selv være i tvivl om, hvor det burde placeres - så ville det ikke være en værdig udgang
+på denne sag.
+Imidlertid var det vigtigt for Socialdemokratiet at få fastslået fem punkter: at der var tale
+om humanitær indsats for at få nødhjælpsforsyninger frem til befolkningen, at der var tale
+om fredsbevarende aktioner under FN-kommando, at der var tale om frivillighed også for
+officerer og nøglepersonel, at der udtrykkeligt
+var tale om en konkret beslutning, der alene
+omhandlede denne mission i Bosnien-Herzegovina, hverken mere eller mindre, og at de
+problemer, der var rejst af forsvarets personelorganisationer om forsikringsmæssige forhold,
+blev løst på en tilfredsstillende måde.
+Det er klart, at af disse punkter påkaldte frivilligheden sig en særlig politisk interesse, og
+derfor er det vigtigt for os at få slået fast, at der
+lægges vægt på, at den danske styrke udsendes
+
+11372
+
+på frivillig basis. Vi har heldigvis gode erfaringer med at sende FN-styrker af sted på frivillig
+basis - vi har kun måttet beordre syv af sted til
+aktionen i Kroatien ud af de næsten 2.000, der
+har været af sted - men det er vigtigt for os ved
+denne udvidede mission at slå fast, at ingen
+kan tvinges af sted imod sin vilje.
+Det er vigtigt for os, at ingen, heller ikke officerer eller specialister, kan beordres af sted
+imod deres vilje. Det er rigtigt, at hvis der peges på nøglepersoner, som er vigtige for styrken, f.eks. en læge, en officer eller en telegrafist, så er det således, at den pågældende i givet
+fald skal begrunde, hvorfor vedkommende ikke ønsker at deltage i missionen, men det er
+vigtigt at pointere, at der ingen særlige krav
+stilles til denne begrundelse. Det er også vigtigt at understrege, at det ikke har konsekvenser for de pågældende at melde fra. Der er altså ikke nogen, der bliver beordret til aktion i
+Bosnien-Herzegovina imod deres egen vilje.
+Dermed blev vi imødekommet på et meget væsentligt og centralt punkt, dér optog den politiske debat og den politiske interesse. Det er vi
+naturligvis tilfredse med.
+Vi hilser med tilfredshed, at det lykkedes at
+lave en aftale mellem et flertal af Folketingets
+partier. Vi er tilfredse med, at det er lykkedes:
+alternativet havde næsten ikke været til at bære. Vi har i forhandlingerne slidt for at få bred
+opbakning, et robust flertal bag beslutningen.
+Det mener vi er lykkedes. Vi havde naturligvis
+meget gerne af hensyn til Danmarks FN-politik set, at flertallet havde været endnu bredere,
+end det er blevet. Det er ikke helt lykkedes,
+men vi er kommet så langt, som det overhovedet var muligt. Vi mener som sagt, at det var
+den eneste værdige udgang på sagen. Vi fik
+imødekommet vores fem punkter, og vi kan
+derfor med god samvittighed stemme for forslaget.
+(Kort bemærkning).";Trøjborg
+11072;name_party;":
+Jeg kan forstå, at hr. Trøjborg det sidste
+døgns tid har været involveret i forhandlinger
+på allerhøjeste plan, så jeg har forståelse for,
+hvis hr. Trøjborg ikke har haft mulighed for på
+tilsvarende vis som vi andre at følge med i
+dagspressen og de elektroniske medier. Men
+jeg vil spørge hr. Trøjborg, om det ikke har
+gjort indtryk på hr. Trøjborg og påvirket Soci-
+
+11373
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Kim Behnke
+11542;title_name;"aldemokratiets holdning til denne mission, at
+de hjælpeorganisationer, som man nu altså
+skal ned at eskortere og beskytte, klart og aldeles utvetydigt har meddelt, at de faktisk slet ikke ønsker, at der kommer disse FN-tropper?
+Som de meget malerisk udtrykker det: I det
+øjeblik det for dem, de kan være oppe imod,
+får karakter af en egentlig militæraktion, vil
+deres egen sikkerhed blive bragt i fare. Eller
+sagt på en anden måde: I det øjeblik soldater
+eskorterer en bil, så er man ikke sikker på, selv
+om der er malet nok så mange røde kors på
+den, at det vil blive respekteret i samme omfang, som hvis man deltog alene og helt slap
+for den militære eskorte.
+Derfor er mit spørgsmål til hr. Trøjborg:
+Hvordan har de meldinger fra hjælpeorganisationerne påvirket Socialdemokratiets indstilling til helhjertet - som jeg kan forstå på hr.
+Trøjborg - at sende danske soldater i døden?
+(Kort bemærkning).";Kim Behnke
+12461;name_party;":
+Jeg vil gerne i et indlæg i ordførerrækken senere komme ind på spørgsmålet om den tvang,
+man tilsyneladende påfører nødhjælpsorganisationerne ved dette forslag, men i denne omgang vil jeg opholde mig ved det, som synes at
+være Socialdemokratiets hovedærinde i hele
+denne sag, nemlig den i og for sig mindre detalje i forhold til principperne i det: spørgsmålet om, hvordan man skal forvalte et frivillighedsprincip.
+Det, vi altså ser her, er et system, hvor det
+bliver tilladt at droppe ud og sige nej til udstationering. Hr. Trøjborg forklarer os, at det ikke
+får nogen som helst konsekvenser, hvis man
+gør det, og hr. Trøjborg siger, at der overhovedet ikke stilles nogen krav til den begrundelse,
+man skal aflevere, når man meddeler, at man
+ikke vil med. Må jeg så spørge hr. Trøjborg:
+Hvorfor er det da så magtpåliggende, at der
+skal gives en begrundelse? Hvorfor er det overhovedet taget med i denne konstruktion som
+noget væsentligt og som en væsentlig del af
+den aftale, der er indgået, hvis det er ligegyldigt, hvad der står i begrundelsen? Det synes
+jeg er et interessant spørgsmål, som jeg meget
+gerne vil have belyst.
+Og så vil jeg gerne spørge hr. Trøjborg, om
+han er bekendt med det, som hedder forsvarets
+personalebedømmelsessystem? Igennem en-
+
+11374
+
+hver militærpersons militære karriere skrives
+der hvert år rapporter, og der foretages for
+hver enkelt ansat i det danske forsvar en bedømmelse, der ligger til grund for den pågældendes videre forløb i systemet, udstationering, forfremmelsesmuligheder og det ene og
+det andet. Vi har i tidens løb set dette system
+misbrugt på skræmmende vis. Vi har set folk,
+der var utilfredse med det militære system, blive stemplet som psykisk ustabile. Hvordan vil
+man i dette system stemple folk, der siger nej
+til at deltage i denne her aktion, måske oven i
+købet med den begrundelse, at de synes, den er
+lidt forkert?
+(Kort bemærkning).";Pelle Voigt
+14375;name_party;":
+Hr. Kim Behnke vil atter have, at man skal
+have lyttet til de elektroniske medier og læst
+aviserne. Det er selvfølgelig en udmærket beskæftigelse, men det var nok så vigtigt at følge
+forhandlingerne i Folketinget, herunder de
+svar, der er afgivet under udvalgsarbejdet. Det
+fremgår helt klart deraf, at ingen humanitær
+transport får påtvunget nogen form for uønsket eskorte. Det modsatte er faktisk tilfældet:
+de pågældende hjælpeorganisationer skal selv
+anmode om at få den. Derfor er den oplysning,
+som hr. Kim Behnke fremførte fra talerstolen
+for et øjeblik siden, ikke 5 flade øre og ikke 5
+sekunders opmærksomhed værd.
+(Kort bemærkning).";Arne Melchior
+15035;name_party;":
+Det synspunkt fra hr. Arne Melchior er jeg
+sikker på at man med interesse har noteret sig i
+de pågældende hjælpeorganisationer. Der er
+ingen grund til at nævne dem. Vi er alle klar
+over, hvilke hjælpeorganisationer der er, for de
+har stort set hele dagen været refereret og ikke
+bare refereret, men direkte citeret for deres
+synspunkt, nemlig at de decideret frabeder sig
+den militære assistance.
+Hvis hr. Arne Melchiors synspunkt - nemlig
+at denne her militæraktion jo i øvrigt kun vil
+blive sat ind, såfremt der kommer en anmodning fra disse hjælpeorganisationer - skal tillægges nogen som helst vægt, kan vi lige så
+godt stoppe mødet nu, så er der ingen grund til
+at fortsætte, for så er der ingen mening med at
+sende soldater derned - i og med, at hjælpeor-
+
+11375
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Kim Behnke
+15900;title_name;"ganisationerne har meddelt, at de ikke ønsker
+den assistance. Hvis der er nogen, der har problemer i argumentationen, så er det da hr. Arne Melchior.
+Et andet af de svar, der foreligger, går jo på,
+at man ikke engang har hørt disse organisationer, men bare går ud fra som noget givet, at
+disse organisationer selvfølgelig vil leve op til
+vedtagelser i FN's Sikkerhedsråd. Det er også
+en måde at slippe for det ubehagelige i at skulle spørge disse organisationer, hvor man godt
+på forhånd kender svaret, nemlig at de frabeder sig denne indsats, som et flertal i Folketinget nu er ved at påtvinge dem.
+(Kort bemærkning).";Kim Behnke
+16536;name_party;":
+Blot til hr. Trøjborg, som siger, at det er sådan en stor gevinst, at Socialdemokratiet nu
+har fået igennem, at man blot ved at give en
+lille begrundelse kan få lov til at blive fri for at
+blive udstationeret til Bosnien, hvis man er en
+militærperson: Nu er forsvaret jo ikke en
+BUPL-organisation. Forsvaret er rent faktisk
+en organisation, der tager ikke blot sig selv,
+men også befolkningen og ordene rimelig bogstaveligt, og når forsvaret beder om en begrundelse, så beder det altså om en saglig begrundelse. Det kan ikke være nok blot at sige: »Jeg
+er bange for at dø.« Den tror jeg ikke på. Og i
+hvert tilfælde vil jeg meget gerne have det udbygget, hvis det kan være nok at sige: »Jeg er
+bange for at blive skudt«, om man fra Socialdemokratiets side tror, at den mand, som i sin
+militærkarriere har skrevet som begrundelse
+for, at han ikke ville deltage i en kamp, at han
+var bange for at blive skudt, stadig har en karriere inden for forsvaret.
+(Kort bemærkning).";Annette Just
+17527;name_party;":
+Selv om jeg er ked af at skulle bidrage til en
+stime af korte bemærkninger, som forhindrer
+den egentlige debat, skal jeg dog lige anføre to
+konkrete oplysninger til hr. Kim Behnke. Al
+respekt for Dansk Flygtningehjælp - gid hr.
+Kim Behnke og hans parti ville lytte til den
+som væsentlig autoritet noget oftere og vel at
+mærke i sager, som den har ekspertise i - men
+jeg skal henlede hr. Kim Behnkes opmærksomhed på to svar afgivet til udvalget og ikke
+bestridt af nogen i udvalget.
+
+11376
+
+Det er svaret på spørgsmål nr. 41, som lyder:
+»Hvad har nødhjælpsorganisationernes holdning været til at skulle operere under militær
+eskorte?« Svaret er: »Det fremgår af generalsekretærens rapport af 10. september 1992, at
+FN's flygtningehøjkommissær blev konsulteret og er enig i, at UNPROFOR yder eskorte til
+nødhjælpskonvojerne.«
+Endvidere lød spørgsmål nr. 67 - ad svaret
+på det just citerede: »Har ministeriet været i
+kontakt med nødhjælpsorganisationerne i området, og i bekræftende fald, hvad har holdningen været?« Dér lyder svaret: »Så vidt det er
+regeringen bekendt, vil de nødhjælpsorganisationer, der opererer i området, arbejde videre
+under de betingelser, der er angivet i Sikkerhedsrådets resolution, og hvorefter UNHCR
+tager stilling til, hvilke konkrete nødhjælpstransporter der skal have militær eskorte.« Det
+er altså FN's flygtningehøjkommissær alene,
+der kan bestemme, hvilke transporter der skal
+have eskorte.
+Derfor er al den snak - det er længe siden,
+jeg har været så fristet til at bruge et uparlamentarisk udtryk, men jeg holder mig selvfølgelig på måtten.
+(Kort bemærkning).";Arne Melchior
+19137;name_party;":
+Når hr. Kim Behnke har været så travlt optaget af at finde ud af de meningstilkendegivelser, som kommer, så ville det have været dejligt, hvis hr. Kim Behnke også havde gjort sig
+klart, hvad det er, vi er i gang med at vedtage
+her. Det er jo ikke en isoleret dansk beskyttelse
+af en isoleret dansk indsats. Bare hr. Kim
+Behnke ville gøre sig klart, at vi indgår som en
+del af en helhed under FN's ledelse, og at der
+lykkeligvis i det jugoslaviske område arbejder
+hjælpende mennesker, hjælpeorganisationer
+fra mange, mange lande, og at de danske styrker, som vi sender derned, skal indgå i den helhed for at være med til at hjælpe dem alle til at
+få hjælpen frem og redde de mennesker, som
+er i dyb nød. Derfor er det en total overspilning af et par udtalelser fra et par repræsentanter i et par danske organisationer, hr. Kim
+Behnke her har lagt for dagen.
+(Kort bemærkning).";Glønborg
+20030;name_party;":
+
+11377
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Kim Behnke
+20133;title_name;"Hr. Arne Melchior tager grundigt fejl, hvis
+det er hr. Arne Melchiors opfattelse, at vi ikke
+lytter til de organisationer, hr. Arne Melchior
+citerede og refererede, men dermed være ikke
+sagt, at vi er enige i de konklusioner, de pågældende organisationer drager.
+Det spørgsmål, jeg stillede her fra talerstolen, og som indledte denne debat, var et
+spørgsmål til Socialdemokratiets ordfører, hr.
+Trøjborg, om, hvilket indtryk det har gjort på
+ham, at de pågældende organisationer har advaret imod denne aktion. Det var et spørgsmål
+til hr. Trøjborg, og der var ingen som helst tilkendegivelse om min holdning til de forskellige organisationer: det er dér, hr. Arne Melchior tager grundigt fejl.
+(Kort bemærkning).";Kim Behnke
+20862;name_party;":
+Jeg har ikke svært ved at forstå, at FN's
+flygtningehøjkommissær føler sig foranlediget
+og forpligtet til at optræde i overensstemmelse
+med en resolution fra FN's Sikkerhedsråd, det
+er ikke særlig besynderligt, og derfor synes jeg
+ikke, at hr. Arne Melchiors indlæg er særlig
+overbevisende i forhold til de nødhjælpsorganisationer, der er spurgt til i de to spørgsmål.
+Hr. Glønborg fortæller, at det bare er nogle
+få sådan lidt tilfældige danske organisationer,
+der har udtalt sig på denne måde. Jeg forstår,
+at det er Dansk Røde Kors og Dansk Flygtningehjælp, der er paraplyorganisation for de 12
+danske nødhjælpsorganisationer, det drejer sig
+om her. Jeg har set, at tilsvarende organisationer i andre lande har givet udtryk for præcis
+den samme bekymring. Men da jeg ved, at hr.
+Glønborg er et ordentligt og redeligt menneske, og da hr. Glønborg tilsyneladende ikke tillægger dette her stor værdi, vil jeg gerne stille
+hr. Glønborg et spørgsmål: Kan hr. Glønborg
+pege på en eneste nødhjælpsorganisation - ud
+over naturligvis FN selv - som har ønsket militær eskorte i Bosnien?";Pelle Voigt
+21955;title_name;Vi vender os til talerrækken.;Formanden
+22007;name_party;":
+Det er et stærkt og rigtigt og nødvendigt signal, Folketinget i dag sender til krigens parter i
+Bosnien-Herzegovina og til FN, når vi om kort
+
+11378
+
+tid med et bredt flertal vedtager beslutningsforslaget.
+Det er stærkt, fordi det viser, at vi hverken
+kan eller vil acceptere, at uskyldige mennesker
+lider og dør, uden at vi forsøger at hjælpe dem.
+Det er rigtigt, fordi vi lever op til den holdning,
+som et stort flertal i Folketinget altid har haft
+og følt at der påhvilede os som fuldgyldige
+medlemmer af FN. Og det er endelig nødvendigt, fordi Danmark derved ikke kun i tale og i
+skrift viser, at vi har den rigtige holdning, men
+også er villig til at drage konsekvensen, den
+praktiske og sandsynligvis farlige eller risikable konsekvens af de holdninger, vi har.
+Et af de emner, der har optaget debatten meget i de sidste 24 timer, har været spørgsmålet
+om frivillighed kontra muligheden for, at forsvarsministeren opstillede den styrke, der skal
+sendes af sted. Jeg vil godt understrege i hvert
+fald fire - og efter min mening de afgørende
+fire - nøgleord i den aftale, og det vil sige det
+betænkningsbidrag, som et bredt flertal af Folketingets partier er med i.
+Der står for det første, at flertallet - og det er
+altså Socialdemokratiet, De Konservative,
+Venstre, CD og Kristeligt Folkeparti - lægger
+vægt på, at der opnås den højeste grad af professionalisme. For det andet at personellets
+sikkerhed skal tilgodeses i videst muligt omfang. Den tredje nøglesætning er, at forsvarsministeren opstiller styrken. Og endelig den
+fjerde nøglesætning: at enhver, der måtte blive
+udpeget, har lejlighed til at melde fra med angivelse af en begrundelse.
+Og hvad betyder så det? Ja, det betyder
+klart, føler jeg, at det var en meget stærk og
+saglig argumentation, som i går kom fra hr. Arne Melchior fra CD, hr. Glønborg fra Kristeligt Folkeparti og selvfølgelig fra regeringen
+repræsenteret ved forsvarsministeren om, hvor
+vigtigt det var, at man i størst muligt omfang
+kunne vælge hele enheder og dermed sammensætte den samlede styrke på 150 eller 175
+mand, altså enheder, som til daglig og måske
+gennem måneder eller år har arbejdet sammen,
+kender hinandens styrker og også kender til
+det, hvis der er enkelte svagheder. Det betyder
+kolossalt meget for den opgave, der skal løses,
+og for den sikkerhed, vi giver de 175 mand, der
+skal derned, at de i størst muligt omfang kender hinanden og ved, hvordan de hjælper hinanden også under farlige vilkår.
+
+11379
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Helge Adam Møller
+24569;title_name;"Jeg synes også, man her skal bemærke, at
+denne idé om, at man i størst muligt omfang
+sender enheder, der til daglig arbejder sammen, til Bosnien-Herzegovina, er en tankegang, som alle de faglige organisationer har tilsluttet sig. Hvad enten det er konstabler eller
+sergent- eller officersorganisationer, så har al
+militær ekspertise peget på, at det er den bedste og stærkeste mulighed, og det vil nu være
+grundelementet i udsendelsen.
+Og så den tredje ting, jeg gerne vil gøre lidt
+ud af, selv om det har været diskuteret meget
+under de korte bemærkninger, nemlig spørgsmålet om nødhjælpen - og måske specielt det,
+at det har været fremme i pressen, at enkelte
+siger: Jamen det har vi slet ikke lyst til. Vi har
+ikke brug for militær eskorte.
+Hr. Arne Melchior og andre har fremhævet
+et par af de svar, der er givet til Forsvarsudvalget, men jeg kan ikke lade være med at sige
+først og fremmest til hr. Kim Behnke, at hvis
+hr. Kim Behnke havde brugt lidt af den megen
+tid, vi har haft de sidste 24 timer, til at læse i
+stedet for at stille et par og fyrre spørgsmål,
+hvoraf det store flertal var komplet irrelevante,
+så ville hr. Kim Behnke måske have fået læst
+svarene på de relevante spørgsmål, der var stillet.
+Ud over de to svar, som hr. Arne Melchior
+har citeret, vil jeg godt fremhæve det efter min
+mening allervigtigste svar, der er kommet. Det
+er givet på bilag 12, besvarelsen af spørgsmål
+8, og det er en kopi på fem sider af FN-generalsekretærens rapport af 10. september, altså
+for knap en uge siden, hvor han meget nøje
+beskriver, hvad det er, der skal ske i BosnienHerzegovina. Det er den, Sikkerhedsrådets resolution er vedtaget ud fra. Og dér fastslår generalsekretæren for FN, Boutros-Ghali, følgende :
+For det første siger han, at det er UNHCR,
+altså FN's flygtningehøjkommissær, som har
+ansvaret for at organisere nødhjælpskolonnerne. Han siger derefter, at flygtningehøjkommissæren skal forhandle med hver enkelt humanitær organisation, om denne organisation
+ønsker at indgå i en eskorteret kolonne eller
+ikke. Derefter skal han sammen med den lokale FN-general bestemme, om konvojen skal
+have militær beskyttelse eller der ikke er behov
+for militær beskyttelse: det kan jo skifte fra
+område til område. Så skal han sikre sig, at be-
+
+11380
+
+skyttelsen kun gives, hvis det er nødvendigt.
+Og endelig understreger generalsekretæren og det står altså i det svar, vi fik i nat - at ingen
+organisation eller kolonne vil få beskyttelse,
+hvis den ikke selv beder om det. Det synes jeg
+er så krystalklart, at man burde have kunnet
+forvente, at også hr. Kim Behnke havde læst
+det.
+Og så en sidste bemærkning, nu da situationen er den forholdsvis usædvanlige for Folketinget, at der er så mange samlet i presselogen
+- også repræsentanter for dagbladet Politiken.
+Nu skal man jo ikke korrigere alle fejltagelser,
+der står i pressen, men alligevel: Man kan i
+dag i dagbladet Politiken læse, at den konservative miljøminister, Per Stig Møller, i går på
+et konservativt gruppemøde tog afstand fra, at
+der skulle være mulighed for eventuelt at beordre styrker derned, og at han var helt enig med
+Socialdemokratiet og De Radikale. Bare af
+hensyn til historien vil jeg godt sige, at miljøministeren overhovedet ikke tog ordet på det
+konservative gruppemøde i går.
+(Kort bemærkning).";Helge Adam Møller
+27871;name_party;":
+I betragtning af hr. Helge Adam Møllers
+grundighed, hvad angår de historiske fakta,
+burde hr. Helge Adam Møller vide, at jeg ikke
+er medlem af Folketingets Forsvarsudvalg og
+således ikke har medvirket ved formuleringen
+af nogen af de mange spørgsmål, jeg er vidende om at der har været stillet i udvalget. Så
+meget om det.
+Men det, der jo også er tydeligt i hr. Helge
+Adam Møllers behandling af spørgsmålet om
+de berørte organisationer, er, at man er ikke i
+stand til - og det er hr. Helge Adam Møller
+heller ikke - at komme med nogen som helst
+danske referencer. Nej, man skal over og have
+fat i FN's generalsekretær og FN's flygtningehøjkommissær osv. Men ærlig talt, for de danske mænd og kvinder, der nu skal ned i et
+krigshelvede og kæmpe med risiko for livet, er
+det da komplet uinteressant, hvad disse internationale herrer, der sidder i New York, mener
+om denne sag. Det er da meget mere relevant,
+hvad den danske befolkning mener om det her.
+Det var udenrigsministeren, der efter at være presset til, at vi overhovedet skulle have
+denne debat i går og i dag, sagde, at nu skal vi
+have en folkelig debat om det her. Og når så
+
+11381'
+
+18/9 92: 2: (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Kim Behnke
+29109;title_name;"den debat kommer, er det eneste, man kan referere til, udtalelser fra folk placeret i New
+York.
+Det er eftet min mening et forsøg på at få det
+her fejet af banen hurtigst muligt, så man kan
+se at komme hjem Og hygge sig. Og så kan vi
+ellers få sendt nogle soldater af sted med risiko
+for at miste liv og lemmer.
+Det er simpelt hen for sølle.
+
+11382
+
+Så meget har jeg altså heller ikke taget på i
+sommerferien.";Kim Behnke
+29532;name_party;":
+Venstre er tilfreds med, at vi nu i eftermiddag med stort flertal kan vedtage det beslutningsforslag, vi drøftede i går.
+Jeg kan give dem ret, der har sagt, at debatten måske fokuserede lidt for meget på, hvem
+der skulle derud, frem for på det, at vi nu med
+(Kort bemærkning).
+stort flertal kan vedtage, at vi sender danske";Sønderby
+29881;name_party;":
+styrker ud til rådighed for FN.
+Det, som generalsekretæren har skrevet unJeg sagde i går på Venstres vegne, at det er
+der på den 10. september, er baseret på de en alvorlig beslutning, vi skal træffe. Det er det
+hundreder af medarbejdere, som i mange må- både i forhold til det danske folk og i forhold
+neder har befundet sig i Bosnien-Herzegovina, til omverdenen, men ikke mindst i forhold til
+og som i øjeblikket er dem, der har organiseret den tillid, som vi dermed viser FN. Vi har jo i
+langt den største del af den nødhjælp, der går mange år ventet på, at FN skulle blive mere
+ind til Sarajevo og andre steder. Så er der hel- aktivt. Vi lærte i folkeskolen om Folkenes Fordigvis også et antal private nødhjælpsorgani- bund, og det blev jo egentlig ikke til andet end
+sationer fra mange lande, der deltager.
+Folkenes Forbund. Der skete ikke noget. I de
+Det er altså folk, der har været der, siden senere år har FN heldigvis vist, at det har styrurolighederne startede. Det er i kontakt med ke bag sig, og derfor er det godt, at der er så
+disse mennesker på stedet og de lokale FN- mange, der vil støtte det forslag, som regerinsoldater i det forhenværende Jugoslavien, man gen har lagt frem for at hjælpe mennesker i
+her har fastsat, at et antal af konvojerne efter iiød.
+bedste overbevisning har brug for eskorte for
+Vi har hjulpet FN mange gange, men denne
+overhovedet at komme frem, og man siger lige gang er det jo, som flere har sagt, mere alvorså klart, at andre konvojer ikke har brug for ligt, og det er også mere farligt. Men som
+det. Og derfor giver man kun de konvojer, der udenrigsministeren sagde i går, er det de andre
+efter en praktisk vurdering ude på stedet - lande, der tager de mere farlige opgaver: men
+hvad er det for et område, de skal igennem, og det at være hovedkvarteret er selvfølgelig også
+hvad er den lokale situation? - eskorte, og hvis farligt.
+de ikke vil have eskorten, så får de den ikke.
+Jeg sagde også i går, at det så vidt muligt
+Det er svaret, hr. Kim Behnke.
+skulle ske på frivillig basis, og det er også det,
+Og selv om man ikke er medlem af Forsvars- der nu står i betænkningsbidraget. Det er slået
+udvalget, ville det nok være en fordel, hvis fast. Men vi er også tilfredse med, at det bliver
+man blander sig i en debat, at man havde bedt slået fast, at styrken skal have højeste grad af
+et af de tre medlemmer fra Fremskridtspartiet professionalisme. Det vil sige, at det skal være
+om at få det relevante materiale.
+nogle, der er sammenarbejdede, nogle, der kan
+deres kram, og også nogle, der kan fungere
+(Kort bemærkning).
+som en helhed. Jeg tror, det var forsvarsminiAnnette Just (FP):
+steren, der sagde, at det også var det, vi brugte
+Blot til hr. Helge Adam Møller: Jeg ved i forbindelse med udsendelsen af »Olfert Figodt, det blev sent i går aftes, og jeg ved godt, scher«: det var nogle folk, der kendte hinanat der er nogle af os, der ikke har fået sovet nok den.
+Vi er også tilfredse med, at det er forsvarsmii nattens løb. Men ligefrem at få talt to medlemmer op til tre medlemmer i Forsvarsudval- nisteren, der udpeger styrken. Når vi i dag har
+get er immervæk ret imponerende, og det siger vedtaget det, så er det forsvarsministerens anen hel del om sagligheden i hr. Helge Adam svar, hvem der skal sendes ud, og derfor er det
+Møllers argumentation. Han kan altså ikke en- også ham, der skal udpege styrken: det er også
+blevet bekræftet.
+gang se forskel på, om vi er to eller tre.
+
+11383
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN
+11384";Helge Adam Møller
+33425;title_name;"Vi har sagt, at vi for at undgå en lignende begyndte at bruge den slags argumentationer i
+debat i fremtiden vil føre forhandlinger med debatten.
+henblik på at fastsætte retningslinjer for deltaNu sender vi altså i eftermiddag et positivt
+gelse i en militær styrke med internationale signal til FN, til hele verdens befolkning, til
+opgaver. Verden er jo blevet anderledes. FN er den danske befolkning om, at vi tager vort anogså blevet mere aktivt, men der er også andre svar. Men jeg mener også, vi sender et signal til
+opgaver på internationalt plan, vi skal løse, og de danske soldater: Vi tror på jer. Vi tror på, at
+derfor vil vi gå ind til de forhandlinger positivt. I kan løse den opgave, som I nu skal til. Det
+Venstre beklager, at ikke hele Folketinget blev engang sagt, at »Olfert Fischer« sejlede i
+står bag denne støtte til FN, og vi forstår må- vejen. Folketinget fortæller i dag, at vi tror på,
+ske i særdeleshed ikke Det Radikale Venstre, at I kan løse den opgave, som vi om lidt vil
+der om nogen har peget på værdien af et stærkt vedtage.
+Med disse ord vil jeg sige, at Venstre er tilFN, men også har peget på værdien af et samarbejdende folkestyre, altså at vi skulle samar- freds med dette forslag, tilfreds med det bebejde herinde. Så burde man egentlig efter de tænkningsbidrag, der er, og vi stemmer ja.
+forhandlinger og møder, vi havde i morges,
+kunne have sagt: Så må vi også være med til
+(Kort bemærkning).
+det forslag her, så der bliver endnu flere, der";Sønderby
+34921;name_party;":
+står bag det. Men nu vil man altså sammen
+Hr. Sønderby undrede sig over og bebrejdemed SF og Fremskridtspartiet sige nej.
+Jeg lagde mærke til, at hr. Jørgen Estrup i de vel nærmest Det Radikale Venstre, at vi ikdebatten i går sagde, at Det Radikale Venstre ke kunne stemme for beslutningsforslaget her i
+»så vidt muligt« ville sige ja til FN. Det er så dag. Jeg vil så gerne tilføje, at vi beklager, at vi
+vidt som muligt, man er kommet her i dag, og ikke kan stemme for det. Men jeg tror, hr. Sønså siger man altså nej. Og det, som hr. Jørgen derby ville hjælpe os og Folketinget og offentEstrup sagde for 2 år siden, tæller altså heller ligheden med en forklaring i denne sag, for
+ikke, nemlig at FN er vores sikkerhed for, at hvis hr. Sønderby kunne forklare, hvorfor remagten i givet fald anvendes i fredens tjeneste. geringspartierne ikke var villige til at give Det
+Jeg skal ikke bruge mange ord på Frem- Radikale Venstre den indrømmelse, som det
+skridtspartiet, men dog sige, at når man stiller ville være at stemme for vores ændringsforslag
+til beslutningsforslaget, hvis hr. Sønderby kun30-40 spørgsmål, så er det egentlig forståeligt,
+ne forklare os og andre, hvori forskellen ligger
+at man ikke har fået læst svarene på dem alle
+mellem
+beslutningsforslaget og det ændringssammen.
+forslag, vi stillede, og som regeringspartierne
+Vi har også oplevet - som vi diskuterede det
+nu har stemt ned, så ville vi også kunne nå
+i går - at Fremskridtspartiet har skiftet holdnærmere til en forståelse af, hvorfor det ikke er
+ning. Fra at være meget aktiv i »Olfert Fimuligt for os at være med i denne beslutning.
+scher«-debatten siger man nu her nej - altså
+Jeg beklager det, men jeg vil også godt sige,
+det modsatte synspunkt. Jeg skal ikke sige, at hvis hr. Sønderby og andre havde taget initihvorfor man har skiftet standpunkt: det tror ativ til at få drøftet dette spørgsmål - og det
+jeg at alle efterhånden er ved at blive klar over. drejer sig jo om frivilligheden for dem, der skal
+Hr. Køpke Christensen gik i går på talersto- sendes ud, det er det, debatten har centreret sig
+len og sagde: »... også som sønderjyde mener omkring - på et meget tidligere tidspunkt,
+jeg, at vi kan tale med om, hvilke dyrekøbte f.eks. i kredsen af forsvarsforligspartier, så
+erfaringer Danmarkshistorien har givet os.« havde vi måske ikke stået i denne situation i
+Jeg ved ikke, hvor meget hr. Køpke Christen- dag.
+sen kender til Sønderjyllands historie. Jeg kender i hvert fald så meget til den, at hvis vi hav(Kort bemærkning).
+de haft FN i 1864, var det nok muligt, at FN
+havde sikret, at tyskerne ikke havde taget Køpke Christensen (FP):
+landsdelen, og så havde vi været fri for at være
+Det, der får mig herop, er hr. Sønderbys beunder tysk overherredømme fra 1864 til 1920. mærkninger om det, der blev debatteret i går.
+Men jeg synes bare, det var lidt søgt, at man Jeg synes, det er fint, at man måske ikke på den
+
+11385
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN
+11386";Jørgen Estrup
+37943;title_name;"pågældende dag kan gå op og argumentere
+Jeg er nødt til at sige, at man omtaler Folkeimod de synspunkter, man hører, men skal ha- tingets medlemmer ved navn og ikke som
+ve en dag, en overnatning, til at finde ud af, »denne herre«.
+hvad det reelt er, man vil sige i forhold til det,
+der er blevet sagt. Det er helt fair.
+Men jeg vil godt sige til hr. Sønderby med Pelle Voigt (SF):
+hensyn til, om jeg kender til historien, at naturSelv om jeg kender og respekterer også forligvis kender jeg til historien. Måske har jeg
+mandens
+geografiske baggrund, vil jeg vove at
+ikke på samme måde som hr. Sønderby viden
+bevæge
+debatten
+bort fra det sønderjyske et
+om historien, men jeg er sønderjyde i bund og
+øjeblik
+og
+prøve
+at rette opmærksomheden
+grund, og dermed kan man selvfølgelig få en
+viden, uden at man absolut har været til stede mod det forslag, vi diskuterer her i dag, og sipå det tidspunkt, hvor begivenhederne fandt tuationen i Jugoslavien.
+Vi har tidligere i dag diskuteret, hvordan de
+sted.
+Det, jeg sagde i går - og jeg beklager, for jeg nødhjælpsorganisationer, som skal have hjælp
+tror ikke, at hr. Sønderby helt har hørt, hvad af disse eskorter, stiller sig til at få militæresder blev sagt - var, at det siden 1864 altid har korte i Jugoslavien. Jeg har spurgt hr. Glønværet kutyme, at vi holdt os uden for kamp- borg - det synes jeg var et godt bud - om han
+handlinger uden for landets grænser. Det er en kunne komme med blot ét eksempel på en
+politik, der er blevet ført både af borgerlige og nødhjælpsorganisation et eller andet sted, der
+af socialdemokratiske regeringer. Det er den havde ønsket en sådan militæreskorte. Det har
+holdning, man stopper nu. Vi snakkede om hr. Glønborg ikke hørt om. Vi har heller ikke
+NATO-lande. Det er ikke et NATO-land, vi ta- hørt om det i svarene på de spørgsmål, vi i Forler om i denne forbindelse, og dér er der en svarsudvalget har stillet til ministeren. Det er
+stor, stor forskel i forhold til det, Peder Søn- tilsyneladende lidt svært at finde eksempler af
+denne art.
+derby står for.
+Derimod har vi hørt det argument, at når
+FN
+vedtager et eller andet, når FN's SikkerFormanden:
+hedsråd vedtager et eller andet, så bør vi autoHr.!
+matisk gå ind for det. Men det er jo ikke et
+argument, Danmark selv overholder. I den";Køpke Christensen
+40239;name_party;":
+fuldstændig tilsvarende situation i Somalia,
+Hr. Peder Sønderby. Undskyld, hr. formand. hvor man nu sætter yderligere tropper ind for
+Hr. Sønderby var samtidig inde på, at det at beskytte nødhjælpsindsatsen, har både Svenaturligvis var kedeligt, at der ikke stod et helt rige og Danmark sagt nej til at deltage i den
+Folketing bag netop den holdning, hr. Sønder- militære indsats, og såvel i Somalia som i Juby havde. Nu kender jeg jo hr. Sønderby fra goslavien giver internationale nødhjælpsorgadet sønderjyske område, og det er åbenbart nisationer udtryk for, at de ikke ønsker denne
+hans facon, at den mening, denne herre har, militæreskorte. Jeg skal citere fra det Ritzauteabsolut også skal deles af de andre, der debat- legram af 16. september, som hr. Arne Melterer med hr. Sønderby.
+chior prøvede at hemmeligstemple i debatten
+Jeg vil godt sige til hr. Sønderby, at det, her i går, og hvori det hedder:
+Fremskridtspartiet i dag har udtalt, er det sam»Den franske nødhjælpsorganisation »Læme, som FN's vicegeneralsekretær har udtalt, ger uden grænser« mener på linje med Sverige,
+nemlig at det, der sker ved at sende danske sol- at indsættelsen af i alt 4.500 FN-soldater i Sodater ned til Bosnien-Herzegovina, er, at man malia i stedet for de oprindelige 500, der først
+optrapper situationen. Jeg vil ikke den dag, da var planlagt, unødigt vil øge den spændte situder virkelig er optrapninger dernede, høre alle ation i landet.«
+de undskyldninger, der vil komme fra de partiVi har altså på det internationale plan, så
+er, der er gået ind for denne beslutning. Jeg gør vidt vi kan konstatere det, en interessemodsætbare opmærksom på, at det er det, der er sagt. ning mellem dem, der skal hjælpes, og dem,
+der siger, de gerne vil hjælpe, mellem de miliFormanden:
+tære organer og nødhjælpsorganisationerne.
+
+11387
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Køpke Christensen
+42155;title_name;"Jeg har forstået først af nogle halvkvædede
+viser og siden af den forklaring, udenrigsministeren ganske redeligt gav i diskussionen i går,
+at vi her taler om et NATO-projekt, omendskønt ordet NATO slet ikke forekommer i beslutningsforslagets tekst. Vi har altså her et ønske fra NATO om som entrepenør at komme
+ud at spille en rolle for FN, at komme ud at
+deltage i det, som hr. Glønborg i sit indlæg i
+går omtalte som »en redningsaktion«, og som
+hr. Glønborg sammenlignede med de heroiske
+redningsaktioner, vi kender fra den stormomsuste jyske vestkyst.
+Men halter sammenligningen ikke derved,
+at de folk, som skal hjælpes, faktisk helst ser
+hjælpen langt væk? At man i dag fra Dansk
+Flygtningehjælps side oven i købet siger, at
+dette projekt vil mindske nødhjælpskonvojernes sikkerhed? Det gør tilsyneladende intet
+som helst indtryk på flertallet her. Man har tilsyneladende sat sig i hovedet, at militære løsninger på dette problem er det eneste saliggørende.
+Vi er i SF enige med nødhjælpsorganisationerne. Vi ønsker ikke, at nødhjælp og nødhjælpsorganisationerne udsættes for den fare,
+som en aktion af denne art kan indebære. Vi
+frygter også for, hvad der kan ske med FNstyrkerne, hvis de involveres i skyderier, i provokationer, hvis de bliver angrebet og må besvare ild fra uidentificerede fjender, og hvis
+styrkerne lider tab. Jeg tænker her ikke bare på
+de menneskelige tab, styrkerne kan komme til
+at lide, jeg tænker også på det politiske prestigetab, det vil være for FN at besvare den slags
+angreb. For er det ikke nærliggende at antage,
+at FN kun kan besvare den slags angreb på én
+måde, nemlig ved at sende flere og mere velbevæbnede tropper ind i en situation, hvor man
+ikke klart ved, hvem fjenden er, hvor man ikke
+klart kender omfanget af den militære opgave,
+der skal løses, hvor vi derved har skabt en i
+praksis uløselig situation, der kun kan eskalere
+til det værre? Jeg synes, den fare i høj grad består.
+Det er ikke sikkert, det automatisk går på
+den måde, men jeg føler mig foruroliget over,
+at ingen af de partier, der støtter dette beslutningsforslag, har taget stilling til de risici og til
+den mulighed, som ligger her. Jeg føler mig
+foruroliget over, at ingen af de partier, som står
+bag dette beslutningsforslag, har overvejet,
+
+11388
+
+hyad en sådan situation vil kunne komme til at
+betyde for FN's fredsbevarende styrker i det
+tidligere Jugoslavien, hvilken betydning det
+f.eks. konkret vil få for de danske fredsbevarende styrker i Kroatien, hvis FN indlader sig i
+ildkampe med kroatiske, serbiske, muslimske
+og andre grupper i Bosnien-Herzegovina.
+I de offentlige ytringer, udenrigsministeren
+er kommet med som en art svar på de spørgsmål, vi har stillet fra SF's side, har udenrigsministeren giyet udtryk for, at man jo ikke kan
+vide, hvad der vil ske i fremtiden, og at danskere er sådan nogle sjove folk, der har den besynderlige idé, at inden de foretager sig noget, vil
+de kende alle konsekvenserne af deres handlinger. Det kan godt være, at vi danskere er sådan, men helt så slemt synes jeg nu ikke det çr.
+Jeg synes, det er rimeligt, at man, før man beslutter sig for at støtte en militær aktion og indsætte tropper, har gjort sig de konkrete overvejelser over, hvad man vil gøre, når forskellige
+situationer opstår, og hvis der opstår den øgede spænding og den fare for nødhjælpskonvojerne, som f.eks. nødhjælpsorganisationerne
+helt entydigt peger på kan opstå.
+Jeg synes også, det er forundrende og foruroligende, at partierne bag dette forslag ikke
+har set på alternative muligheder for at sikre
+nødhjælpen og ikke i tide seriøst har drøftet de
+forslag, der har været fremme i så henseende.
+Fra SF's side har vi for lang tid siden rejst det
+alternative forslag, at man internationalt forsøgte at sikre nødhjælpsforsyningerne gennem
+en luftbro, som ville have to muligheder: dels
+det, at man kunne flyve yderligere mængder af
+nødhjælp ind, dels det, at man i uvejsomme og
+utilgængelige områder ville kunne nedkaste
+nødhjælp. Men vi har ikke fået nogen ordentlige svar på, hvorfor man ikke kan gribe aktionerne an på denne måde.
+Af en eller anden grund synes det at være
+ideen om en landstyrke, der har taget over i
+tankegangen hos de partier, der står bag beslutningsforslaget. I den hårde vinter, der nu
+nærmer sig, foretrækker man i et uvejsomt terræn fortsat ensidigt at satse på en indsats over
+land. Vi mener, at den eksisterende luftbro
+kunne udbygges meget, meget betydeligt, og at
+det ville være en sikrere måde at få nødhjælpen frem på - en sikrere måde også i den forstand, at det ikke indebærer de samme farer
+for en militær eskalation som det forslag, vi
+har at gøre med her.
+
+11389
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Pelle Vpjgt
+46889;title_name;"Jeg skal til sidst gentage mine spørgsmål til
+hr. Trøjborg, selv om jeg ikke tror, det nytter
+særlig meget. Det har jo været vanskeligt at få
+Socialdemokratiets holdning helt klart defineret i denne situation, og synspunkterne har været mangfoldige og skiftende. Men lad mig da
+så omadressere mine spørgsmål til forsvarsministeren:
+Hvad vil et afslag på deltagelse i aktionen i
+Bosnien betyde for en militærperson for så vidt
+angår bedømmelsen i forsvarets personelbedømmelsessystem? Vil det komme til at fremgå
+af de militære papirer, at den pågældende har
+sagt nej til at lade sig udstationere i en sådan
+aktion? Hvis det vil fremgå af papirerne, vil
+det så fremgå af papirerne, at det i øvrigt ikke
+er noget, der skal tillægges nogen vægt i den
+pågældendes fremtidige karriere i militæret?
+Med de erfaringer, vi har med dette personelbedømmelsessystem, må jeg sige, at jeg finder det meget vanskeligt at tro på. Jeg vil også
+sige, at vi stadig i desperat grad savner svar på
+de spørgsmål, hr. Jørgen Estrup har stillet heroppefra om Det Radikale Venstres ændringsforslag.
+(Kort bemærkning).";Pelle Voigt
+47997;name_party;":
+Hr. Pelle Voigt gør sig skyldig i en meget alvorlig begrebsforvirring, når hr. Pelle Voigt
+står og siger, at de mennesker, der skal hjælpes, frabeder sig det, vi nu vil vedtage her. Er
+det ikke gået op for hr. Pelle Voigt, at de mennesker, der skal hjælpes, ikke er hjælpeorganisationerne. De mennesker, der skal hjælpes, er
+de tusinder af ulykkelige uskyldige mennesker,
+som er spærret inde og ramt af en borgerkrig,
+som huserer i deres land, fordi ondskaben er
+sluppet løs. Det er disse mennesker, der skal
+hjælpes. Det, vi taler om her, det, vi forsøger at
+lave med dette beslutningsforslag, er at sikre,
+at den hjælp, som der lykkeligvis er stor enighed om skal frem, gøres så effektiv som muligt
+ved, at så meget som muligt kan nå igennem.
+Hr. Pelle Voigt spurgte mig direkte, om jeg
+havde hørt fra nødhjælpsorganisationer, som
+havde bedt om hjælp. Nej, de skriver ikke til
+mig, så stor en person er jeg ikke, og derfor har
+jeg selvfølgelig ikke breve af den art. Men vi
+går her ind i et samarbejde under FN's ledelse,
+og vi gør det på den måde, som FN beder os
+om. Og, ja, hr. Pelle Voigt må undskylde, men
+
+11390
+
+jeg har så stor tillid til FN-systemet, at jeg tror,
+de ved, hvad de taler om, bedre end både hr.
+Pelle Voigt og jeg tilsammen.
+(Kort bemærkning).";Glønborg
+49283;name_party;":
+Betyder hr. Glønborgs ubegrænsede tillid til
+FN-systemet i disse sammenhænge også, at hr.
+Glønborg er uenig i den danske regerings afvisning af at deltage i aktionerne i Somalia,
+hvor man jo har meddelt - ligesom Sverige og
+andre - at vi ikke har kapacitet til det? Svenskerne har givet en mere hæderlig begrundelse, nemlig at situationen med hensyn til en militær optrapning er så farlig, at man ikke ønsker at bidrage til det. Eller lad mig spørge hr.
+Glønborg på en anden måde: Er det ikke sådan, at det er vores pligt selvstændigt at tage
+stilling til de forslag og anbefalinger, der kommer fra FN? Er det ikke sådan, at vi ikke bare
+kan pantsætte vores dømmekraft og vores samvittighed i en international organisation?
+Og må jeg så sige til hr. Glønborg, at jeg er
+en anelse skuffet over, at hr. Glønborg prøver
+at stikke mig i skoene, at jeg ikke ved, at det er
+de sultende og nødlidende, der skal hjælpes.
+Det går jeg ud fra at vi alle udmærket er klar
+over. Men det, der er tale om her, er ikke, at de
+sultende og nødlidende skal eskorteres frem og
+tilbage ad landeveje i Bosnien. Det, der er tale
+om her, er, at nødhjælpsforsyninger, som køres
+og ledes af konkrete nødhjælpsorganisationer,
+skal eskorteres frem og tilbage. Det er de nødhjælpsorganisationer, der skal forhandles
+med: det er dem, der skal tage stilling til, om
+de vil hjælpes med militær eskorte eller ej. Det
+er ikke de sultende indesluttede flygtninge det
+ene eller det andet sted.
+Jeg synes, hr. Glønborg skulle holde sig for
+god til - jeg synes på lidt demagogisk vis - at
+sige, at det slet ikke er nødhjælpsorganisationerne, vi skal hjælpe, næ, det er de sultende,
+frysende og lidende mennesker rundt omkring.
+Vi ved begge udmærket, hvordan situationen
+er. Det kan godt være, nødhjælpsorganisationerne ikke skriver til hr. Glønborg, men jeg
+havde dog det håb, at hr. Glønborg, da han tog
+stilling til det her, gjorde det på baggrund af, at
+han måske et eller andet sted havde hørt om en
+nødhjælpsorganisation, der syntes, det var en
+god idé.
+
+11391
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN
+
+(Kort bemærkning).";Pelle Voigt
+51427;name_party;":
+Hvis min argumentation er demagogi, så
+skyldes det, at hr. Pelle Voigt har tvunget mig
+til at bruge den samme metode, som han selv
+har brugt. Jeg var jo nødt til at udtale mig, som
+jeg gjorde, fordi hr. Pelle Voigt forsøgte at pille
+min argumentation i debatten i går fra hinanden gennem det ordvalg, som hr. Pelle Voigt
+brugte. Derfor skal hr. Pelle Voigt ikke gå herop og pibe over, at jeg faktisk replicerer på det,
+som han selv siger, og den argumentation, som
+han selv bruger imod mig.
+Naturligvis så jeg meget gerne, at vi også
+kunne hjælpe i Somalia. Og hvis vi skulle stille
+de to opgaver op imod hinanden, altså om vi
+kan hjælpe i Jugoslavien eller vi kan hjælpe i
+Somalia, så ville jeg måske endda have ønsket,
+at vi havde valgt Somalia, for jeg synes, at behovet dér er umådelig stort, og nogle af de problemer, som vi har omkring Jugoslavienindsatsen, ville vi ikke have haft i Somalia. Derfor
+kunne det menneskeligt set være en skønnere
+opgave at gå ind og hjælpe i Somalia. Hjælpeopgaven i det tidligere Jugoslavien er meget
+ubehagelig. Men vi må jo erkende, at vi ikke
+kan løse alle opgaver, ligesom vi ikke kan deltage alle steder.
+FN prøver at koordinere det hele, og FN har
+bedt os om først at påtage os opgaven i det
+tidligere Jugoslavien. Vi er nu kommet så langt
+med den, at vi kan sige: Her mener vi at have
+et mandskab, som vi kan stille til rådighed for
+den opgave, og så må vi bede om, at andre tager fat på Somaliaopgaven.";Glønborg
+52889;title_name;Vi er tilbage ved ordførerrækken.;Formanden
+52940;name_party;":
+Ingen bør på noget tidspunkt være i tvivl
+om, at Fremskridtspartiet også slutter op om
+FN's fredsbevarende missioner, men det er ikke det, vi diskuterer i dag. Det er måske nærmere, hvad vi kunne kalde en fredsskabende
+mission. Men det er det såmænd heller ikke,
+for 6.000 mand kan ikke gøre særlig meget i en
+borgerkrig som den, der foregår i BosnienHerzegovina. Ikke desto mindre er der altså nu
+samlet et politisk flertal, som vil sende danske
+jenser ned til en total borgerkrig, hvor man så
+
+11392
+
+sent som i dag har set det største angreb på
+deres hovedstad nogen sinde i krigens forløb.
+Det er en borgerkrig, hvor vi har etniske
+problemer, religiøse problemer og mange andre problemer. Det er en borgerkrig, som ingen har kunnet se hvordan man skulle løse på trods af, at man har lavet utallige forsøg, og
+på trods af, at man har lavet utallige aftaler.
+Ingen af dem er blevet holdt. Så har FN sagt:
+Jamen vi må gøre noget for at få nødhjælpen
+frem. Lad os nu gå ud og rekognoscere i området og finde ud af, hvordan man gør det. Den
+danske regering er lynhurtig og siger: Jamen vi
+skal nok give tilsagn. Det fik vi da heldigvis
+forhindret så meget, at det i hvert fald kom i
+salen først, og så viser det sig, at rekognosceringseksperterne i Bosnien først om cirka en
+måned kommer med deres meddelelse om,
+hvorledes man overhovedet skal kunne klare
+disse problemer med at få konvojerne frem fra
+Split til Zagreb. Man har altså endnu ikke
+skaffet det, man på militærsprog kalder et
+komplet billede af, hvordan man vil løse problematikken.
+Udenrigsministeren ser ud, som om han vil
+begynde at ryste lidt på hovedet, men så må jeg
+sige, at jeg bruger de svar, vi har fået i Forsvarsudvalget. Og jeg går ud fra, at de svar, vi
+får i Forsvarsudvalget, er korrekte, ellers står
+det da helt galt til.
+Men selv om vi tager for givet, at disse oplysninger er korrekte, varer det altså en måned,
+før vi ved, hvorledes man vil fremføre disse
+konvojer med soldater, der overhovedet ikke
+kender noget som helst til det tidligere Jugoslaviens problemer - med soldater, som ikke er
+uddannet til at gå ind og splitte op i en borgerkrig, med soldater, som ikke kender terrænet,
+med soldater, der skal ned i et helt nyt område.
+Vi har også i Forsvarsudvalget gennem de,
+som hr. Helge Adam Møller sagde, utallige
+spørgsmål prøvet at danne os et indtryk af: Jamen har, regeringen da gjort sig begreb om,
+hvad det vil koste? Vi har det i Fremskridtspartiet med også at se på omkostningerne, for vi
+ved, hvem der får regningen bagefter. Det har
+man ikke, rigtig dannet sig noget begreb om i
+regeringen. Det sluger Socialdemokratiet selvfølgelig, for de er vant til at regne på den måde: Jamen det kan man jo klare ved en tillægsbevilling senere! Det har man aftalt i forsvarsforliget, at sådan gør man det. Og så ved vi i
+
+11393
+
+(713)
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN
+
+11394";Annette Just
+55864;title_name;"Fremskridtspartiet udmærket godt, hvem det kan ligne fredsskabende soldater til Somalia.
+kommer til at gå ud over i den sidste ende. Det Det er helt sikkert.
+er de gamle, de svage og de syge. Hvor vil man
+ellers hente pengene?";Annette Just
+56109;name_party;":
+Hvis man ser på den rent militære side, hvor
+Jeg skal først opholde mig lidt ved begrebet
+står vi så? Militæret har rent faktisk frarådet,
+og
+systemet omkring - frivillighed. Som beat Danmark skulle gå ind i denne sag. Nødkendt er der intet nyt under solen, det står i
+hjælpsorganisationerne har også frarådet, at
+Prædikerens Bog. Og derfor vil jeg ty til en
+man gik ind i sagen. Men Danmark skal jo væendnu ældre bog, nemlig Bibelen, Det Gamle
+re i spidsen.
+Testamente, Femte Mosebog, det tyvende kaDerfor har jeg bedt om i betænkningsbilaget
+pitel. Jeg skal skåne Folketinget for at læse det
+at få optrykt svaret på spørgsmål nr. 30, hvor
+på originalsproget, men benytter her oversætder i bilag 1 er en oversigt over antallet af soltelsen, som er godkendt af Det Danske Bibeldater, som FN-deltagerlande har på nuværenselskab, udgave 1983. Og jeg citerer altså fra
+de tidspunkt i det tidligere Jugoslavien. Når tyvende kapitel, begyndende med vers numman ser på disse antal, altså mand til mand, ja, mer fem. Situationen er den, at der gives regler
+så opdager man pludselig, at Danmark ligger for, når der skal være krig, og der står, at der så
+klart i spidsen med det antal, vi allerede har skal ske følgende:
+udsendt. Men den danske regering vil sammen
+»Og tilsynsmændene skal tale således til folmed Socialdemokratiet ligge langt foran de an- ket: »Er der nogen, som har bygget et nyt hus
+dre, og derfor taler man nu om at sende et par og endnu ikke indviet det, må han have lov at
+hundrede ekstra mand derned, et par hundre- vende hjem til sit hus, for at ikke en anden skal
+de ekstra mand, som vil være med til at for- indvi det, om han falder i slaget.
+vandle dansk udenrigspolitik fra på FN-områOg er der nogen, som har plantet en vingård
+det at have været fredsbevarende til at være og ikke taget den i brug, må han have lov at
+noget mere ildsprudende, noget, der kan ligne vende hjem til sit hus, for at ikke en anden skal
+det, som udenrigsministeren selv har frarådet tage den i brug, om han falder i slaget.
+så kraftigt, nemlig fredsskabende.
+Og er der nogen, som har trolovet sig med
+Vi har i dagens debat fra Fremskridtspartiets en kvinde, men endnu ikke taget hende til huside prøvet at trygle hr. Trøjborg om at svare stru, må han have lov at vende hjem til sit hus,
+på, om Socialdemokratiet overhovedet har lyt- for at ikke en anden skal tage hende til hustru,
+tet til, hvad nødhjælpsorganisationerne siger. om han falder i slaget.«
+Desværre har det ikke hidtil været muligt at få
+Og tilsynsmændene skal fremdeles tale til
+hr. Trøjborg op på talerstolen for blot at svare folket og sige: »Er der nogen, som er bange og
+ja eller nej. Altså enten må man tage det som forsagt, må han have lov at vende hjem til sit
+udsagn for, at Socialdemokratiet er ophøjet li- hus, for at ikke hans brødre skal blive forsagte,
+geglad med nødhjælpsorganisationerne i Dan- som han selv er det!««
+mark, eller også mener de blot i SocialdemoOg så siger vers ni: »Når så tilsynsmændene
+kratiet, at de i den grad er alvidende, at man er færdige med at tale til folket, skal der sættes
+ikke behøver at lytte til noget så ligegyldigt høvedsmænd i spidsen for folket.«
+som nødhjælpsorganisationer. Det havde jeg
+Jeg er sikker på, at forsvarsministeren og
+dog aldrig turdet tro om Socialdemokratiet. den militære stab nok skal vide at handle i
+Til sidst vil jeg godt spørge Kristeligt Folke- overensstemmelse med disse 3.500 år gamle
+parti, om man virkelig mener, som hr. Gløn- regler, og her drejer det sig altså om, at man
+borg udtrykte det lige før, at det ville være skulle i krig, hvor vi jo her taler om, at vi skal
+langt skønnere, om vi kunne sende danske sol- eskortere en humanitær hjælpetjeneste. Så medater til Somalia end til Jugoslavien. Jamen er get mere vil man naturligvis anvende disse regdet vanskeligt at sende danske soldater til Bos- ler, således som de er tænkt, og som de vedtanien, så er det dog for intet at regne mod at ges herinde i dag.
+Jeg vil så gerne beskæftige mig et par minutsende dem til Somalia, og jeg kan godt love hr.
+Glønborg, at Fremskridtspartiet vil gå om mu- ter med det, der er foregået under udvalgsarligt endnu stærkere imod at sende noget, der bejdet siden i går eftermiddags. For det første
+
+11395
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Arne Melchior
+60445;title_name;"vil jeg gerne henlede opmærksomheden på,
+hvad det var for delegationer, der opsøgte udvalget. Der var i alt fire, og jeg kan fortælle,
+hvem de var, for ikke alle medlemmer har jo
+behøvet at læse betænkningen. Der var en delegation fra Byggefagenes Samvirke ved Harry
+Osborne, der var en delegation fra Dansk Metal, Lyngby afdeling 12 og 13, så var der en
+delegation fra Kommunistisk Forum, og endelig var der en person fra Samarbejdskomiteen
+for Fred og Sikkerhed - hvad det så måtte være
+for noget.
+Se, det var dem, der mødte op. Det var det
+folkelige Danmark. Det var alle dem, der interesserer sig for, hvad vi foretager os herinde, og
+for danskeres liv og lemmer. Der var ikke andre end disse, og al ære dem: enhver kan komme med sin mening, og de var lige så velkomne
+som enhver anden. Men der var ikke en repræsentant for de mennesker, det direkte kommer
+til at angå, og der var ikke nogen som helst
+virkelig repræsentativ kreds for danske borgere, danske familier og danske vælgere. Jeg havde da set frem til, at der måske havde været en
+delegation fra Centralforeningen for Stampersonel. Det var der ikke. Har de da sovet tiden
+væk? Nej, det har de aldeles ikke. De ved faktisk udmærket godt, hvad det er, der er ved at
+foregå - det er jo dem, det drejer sig om. Jeg
+skal citere fra et brev, der er optrykt i betænkningen som bilag 2, et brev, som Centralforeningen for Stampersonel, der præsenterer sig
+som faglig organisation for det ansatte stampersonel i flyvevåbnet, søværnet og sergentgruppen i hæren, skrev den 28. august 1992 og
+stilede til Folketingets Forsvarsudvalg. I dette
+brev skriver de bl.a, at de er opmærksomme
+på, at der er tale om udsendelse af danske soldater til Jugoslavien, hvor disse vil komme til
+at udføre andre end de hidtidige fredsbevarende opgaver. Og i henhold til de oplysninger,
+Centralforeningen for Stampersonel har, vil
+det så have de og de forsikringsmæssige følger
+for det personel, der sendes ud. Og så anmoder
+de i resten af brevet om, at man skal tage hensyn og sørge for at bringe forsikringerne i orden for folk, der kommer til at drage af sted
+efter den dengang forventede vedtagelse i FN's
+Sikkerhedsråd. Ikke et ord om: Vi vil tages
+med på råd. Ikke et ord om: Vi advarer. Ikke et
+ord om: Vi stiller de og de betingelser. Jeg
+nævner det her, for jeg synes, det tjener Cen-
+
+11396
+
+tralforeningen for Stampersonel, dens medlemmer og værnenes personel til stor hæder, at
+de tænker på deres familier, som kan komme i
+vanskelige situationer. Men de ønsker ikke noget for sig selv, og de har ikke til dette minut
+sendt nogen advarsel eller nogen indvending
+til Folketinget.
+Så skal jeg endelig fra udvalgsarbejdet citere
+svarene på tre spørgsmål, som forekommer
+mig vigtige, også i lyset af den behandling og
+den debat, vi havde i går. Dels spørges der i
+spørgsmål nr. 52 om den statsretlige vurdering
+af, hvordan man kan udskrive danske soldater
+på den måde, som det sker på her. Og hertil
+svarer ministeren, at der i § 11 i lov om forsvarets personel, lovbekendtgørelse nr. 822 af 8.
+december 1986, står følgende:
+»Personellet har efter forsvarsministerens
+nærmere bestemmelse pligt til at forrette tjeneste uden for landets grænser.«
+I spørgsmål nr. 61 spørges der, om personellet ved det. Kan ministeren garantere, at dette
+professionelle personel også er blevet gjort bekendt med de internationale forpligtelser, FNpagten m.v., som indebærer, at der kan blive
+tale om udsendelse som følge af disse forpligtelser? Og dér svarer forsvarsministeren:
+»Professionelt personel bliver i forbindelse
+med den løbende uddannelse i forsvaret gjort
+bekendt med de opgaver, der kan blive pålagt
+forsvaret som følge af Danmarks internationale forpligtelser.«
+Altså renhed, oplysning, viden hele vejen
+igennem.
+Og så skal jeg endelig citere det korte svar
+på spørgsmål nr. 59, fordi det blev rejst under
+debatten i går: der spørges: >>Har alle parter i
+Londonkonferencen tilsluttet sig, at den humanitære bistand bringes frem under militær
+eskorte?« Hertil svarer forsvarsministeren ja.
+Jeg synes, at jeg meget gerne ville have disse
+tre besvarelser med i protokollen over dagens
+anden og sidste behandling af beslutningsforslaget.
+Til sidst skal jeg forholde mig til denne, og
+jeg viger ikke tilbage for at betegne den hvad
+kan det nytte-mentalitet, som har præget en
+del af debatten det sidste par dage: Jamen det
+kan jo nok ikke lykkes. Hvor ved vi fra, at de
+kan komme frem? Mon ikke der bliver slået
+flere ihjel, end vi kan komme til at hjælpe?
+Nej, hvor vi dog kender det fra 1930'erne! På
+
+11397
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Arne Melchior
+65085;title_name;"nogle få hundrede kilometers afstand herfra er
+der mennesker, der sulter, mennesker, der dør
+på grund af mangel på læger, medicin osv. Og
+så skal man ikke engang forsøge at hjælpe! Det
+er muligt, det ikke lykkes - hvem kan vide det
+på forhånd - men hvordan vil vi have det med
+os selv og hinanden, hvis vi om nogen tid, når
+blodbadet er blevet endnu mange gange større,
+skal sige: Vi forsøgte end ikke, om vi kunne
+komme igennem. Det kunne dog tænkes, at det
+vil lykkes. Alt redningsmandskab ved - i går
+var der også tale om både brandmænd og søredningsfolk - at bliver det umuligt at nå frem
+til de forulykkede, ja, så holder man selvfølgelig inde. Men end ikke at have forsøgt! Kan hr.
+Jørgen Estrup, kan fru Marianne Jelved leve
+med det? Kan fru Lone Dybkjær leve med det?
+End ikke at have forsøgt at række den hjælpende hånd ud, når der oven i købet er frivillige, som vil påtage sig at lægge arm og krop til?
+Jeg vil gerne slutte med at sige tak til Socialdemokratiet, fordi man sammen med regeringen fandt et kompromis, som begge parter kan
+leve med. Jeg synes, det er fornemt natte- og
+morgenarbejde, der er udført, gudskelov for
+det.
+Jeg vil også gerne give en kompliment til hr.
+Glønborg, som jeg synes både i går og i dag
+har talt fornemme ord, og for ham som for os
+andre, inklusive mig selv, er det slet ikke nogen
+let eller bagatelagtig sag at tage det standpunkt. Men hr. Glønborg har gjort det på en
+måde, der gør ham og hans parti ære, og som
+jeg er sikker på også gør Danmark ære.
+(Kort bemærkning).";Arne Melchior
+66618;name_party;":
+Jeg tror, hr. Arne Melchior og jeg deler en
+dyb interesse for Bibelen, og hr. Arne Melchior begyndte sit indlæg med at henvise til
+Prædikerens Bog. Jeg synes, at en bestemt betragtning fra Prædikerens Bog må rinde én i hu
+i dag, når man lytter til hr. Arne Melchiors udtalelser. Når man hører det, som nødhjælpsorganisationerne har frabedt sig, skildret som
+hjælp, så kommer man uvilkårligt til at tænke
+på Prædikerens Bog, kapitel 7, vers 29, hvor
+Prædikeren siger - og man skulle tro, det var
+møntet på hr. Arne Melchior:
+»Dog se, det fandt jeg, at Gud har skabt
+menneskene, som de bør være: men de har så
+mange sære ting for.«
+
+11398";Pelle Voigt
+67276;name_party;":
+Debatten i går og i dag har i høj grad drejet
+sig om frivillighed i forbindelse med den danske FN-styrke til Bosnien-Herzegovina, frivillighed, fordi dette er en ny situation og en ny
+type opgave, men også frivillighed, fordi vi i
+Det Radikale Venstre anser det for afgørende,
+at de danske soldater, som sendes af sted for
+FN, tror på værdien af deres indsats: de skal
+selv have valgt opgaven.
+Frivillighed er ikke det letteste at forene
+med militær disciplin og forsvarets opfattelse
+af nødvendige kommandosystemer. Heri ligger
+nok hovedårsagen til, at de seneste timers politiske diskussion og forhandlinger har været så
+besværlige. Det er normalt inden for forsvaret
+at forvente og kræve ordrer efterkommet, men
+udsendelsen til Bosnien-Herzegovina er ikke
+nogen normal situation, det har alle vist været
+enige om i den forløbne debat, derfor kravet
+om frivillighed i denne situation.
+Der er altså en indbygget modsætning mellem det, Folketingets flertal ønsker i denne
+særlige situation, og så forsvarets normale
+praksis. Derfor er det afgørende vigtigt, at Folketinget gør det så klart som overhovedet muligt, på hvilke betingelser FN-styrken kan udsendes. Når Folketinget har stemt, er det overladt helt og aldeles til forsvaret og ministeren
+at administrere beslutningen. Enhver tvivl vil
+skulle fortolkes med de briller, som forsvaret
+normalt anvender på sit arbejde.
+Som jeg gjorde det klart i min ordførertale
+ved førstebehandlingen i går, finder Det Radikale Venstre, at den klareste understregning af
+kravet om frivillighed ville være en tilføjelse til
+selve beslutningsforslagets tekst: det stillede vi
+derfor ændringsforslag om. Og det fremgår også af bemærkningerne til det ændringsforslag,
+at vi accepterer, at den måde, frivilligheden
+kan komme til udtryk på, er gennem en adgang
+til at sige nej. Vi insisterer altså ikke på, at man
+positivt skal melde sig til den kommende styrke. Det fremgår lige så vel, at vi er indforstået
+med, at det er forsvarsministeren, som opstiller
+styrken, og at der altså derigennem kan tages
+de nødvendige hensyn til kvalifikationer, effektivitet etc., når blot det i praksis sikres, at
+den enkelte står fuldstændig frit i sin afgørelse.
+Hvis dette ændringsforslag var blevet vedtaget, var vi også parate til at stemme for beslutningsforslaget, men samtalerne viste jo allere-
+
+11399
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Jørgen Estrup
+69706;title_name;"de i går, at der nok ikke var større udsigt til det,
+og det har vi så nu konstateret heller ikke er
+tilfældet. Vi forstår det faktisk ikke, vi har ikke
+fået en eneste meddelelse om, at ændringsforslaget rummede problemer, og jeg bemærkede
+før, at på mit direkte spørgsmål blev hr. Sønderby siddende. Det er muligt, at vi nu kan få
+en forklaring fra udenrigsministeren eller fra
+forsvarsministeren.
+Vi må blot konstatere, at der ikke er nogen
+forklaring på, hvorfor dette forslag, som vi stillede som et ændringsforslag, og hvis sprogbrug
+er identisk med regeringspartiernes og Socialdemokratiets, ikke kunne indarbejdes. Det
+giver selvfølgelig en fornemmelse af, at der er
+en afstand mellem det, der ligger i vort klare
+ændringsforslag, og det, der i praksis vil ligge i
+den vedtagelse, som regeringen og Socialdemokratiet er blevet enige om.
+Regeringspartierne og Socialdemokratiet
+har forhandlet sig frem til en anden løsningsmodel, hvor ønsket om frivillighed er formuleret i et betænkningsbidrag. Af de nævnte grunde synes vi altså ikke, at det er klart nok, men
+vi bryder os bestemt heller ikke om den betingelse, der er knyttet til muligheden for at melde fra. Når man tvinger den enkelte til formelt
+at levere en begrundelse for at sige nej, udstiller man vedkommendes beslutning på en måde, som muligvis åbner for menings- og holdningskontrol. Vi føler, at Folketinget så at sige
+kunne komme til at legitimere et gruppepres
+på dem, der måtte blive udpeget. Det ønsker vi
+ikke at være med til, og af disse grunde har vi
+altså ikke kunnet tilslutte os betænkningsbidraget, og det får så de konsekvenser for vores
+stillingtagen, som jeg skal vende tilbage til.
+Jeg vil samtidig godt understrege, at vi i Det
+Radikale Venstre anerkender det resultat, som
+Socialdemokratiet har opnået under forhandlingerne. Det, der nu ligger på bordet, er klart
+et fremskridt i forhold til regeringens eget forslag. Derfor skal der ikke fra vores side knyttes
+nogen form for negative kommentarer til, at
+Socialdemokratiet har valgt at acceptere denne
+løsning. Vi har vurderet den anderledes, sådan
+må det være en gang imellem, men det kan naturligvis ærgre, at det ikke er lykkedes at nå
+den brede enighed, som vi gerne havde deltaget i: det er jo ikke ligegyldigt i en sag, der
+vedrører FN's indsats.
+
+11400
+
+For Det Radikale Venstre betyder det altså,
+at vi vil stemme imod beslutningsforslaget. I
+en så vigtig sag som denne ønsker vi ikke at
+benytte muligheden for at undlade at stemme.
+Det havde ikke behøvet at gå således. Den 13.
+august vedtog FN's Sikkerhedsråd resolution
+770, som giver mulighed for at iværksætte den
+operation, som vi nu er i færd med. Det er 5
+uger siden. Hvad er de 5 uger blevet brugt til?
+Ingenting, så vidt vi kan se! Havde det ikke
+været naturligt, om regeringen havde taget et
+initiativ til at skaffe sig parlamentarisk dækning for den beslutning, som kunne forudses?
+F.eks. kunne man have taget initiativ til en
+drøftelse mellem forsvarsforligspartierne, så
+havde vi også på et tidligere tidspunkt fået
+fastslået, at der var et problem om frivilligheden, og vi ville have haft tid til at løse det. Det
+havde betydet, at regeringen med ro i sindet
+kunne fortælle FN, hvad Danmark var i stand
+til at yde, og vi havde undgået pinlige situationer.
+Det er ikke sidste gang, vi kommer til at tage
+stilling til noget i denne stil, og derfor gælder
+det altså først og fremmest fremtiden, hvorfor
+vi også er meget enige i den del af det betænkningsbidrag, som regeringspartierne og Socialdemokratiet har lavet i fællesskab, og som vedrører igangsætning af et arbejde om vilkårene
+for udsendelse under FN, for det synes vi er
+vigtigt og nødvendigt. Det er vores faste overbevisning, at Danmark så vidt muligt skal bakke FN's beslutninger op, men vi ønsker altså
+ikke at gøre det med bind for øjnene. Ingen,
+heller ikke FN, kan fratage det danske Folketing og dets enkelte medlemmer ansvaret for
+selv at tage stilling.";Jørgen Estrup
+73650;name_party;":
+Selv om nogle har en anden opfattelse, vil
+jeg gøre opmærksom på, at det ikke er os fra
+Kristeligt Folkeparti, der er mest flittige til at
+citere bibelsteder fra denne talerstol, men det
+betyder ikke, at vi ikke forsøger at tænke i den
+ånd og i de baner, som Bibelen er skrevet i, og
+at vi ikke handler på grundlag af det menneskesyn, som er beskrevet deri, for det er faktisk
+det, vi gør. Det menneskesyn betyder først og
+fremmest, at vi har et ansvar for hinanden, og
+at vi har et ansvar for det, vi gør. Der ligger
+nemlig dybest set deri, at mennesket er noget
+særligt, fordi mennesket er skabt med evnen til
+
+11401
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Glønborg
+74363;title_name;"at skelne mellem godt og ondt. Derfor har vi et
+særligt ansvar, og jeg er egentlig meget glad
+for, at hr. Pelle Voigt fandt det ord frem, han
+gjorde, for det siger netop, at menneskene har
+så mange sære ting for.
+Vi har friheden til at vælge det forkerte, men
+vi har også muligheden for at vælge det rigtige,
+og det er lige netop det, sagen drejer sig om.
+Der er noget ondt i gang i verden, der er nogle
+mennesker, som er kommet i nød, og de mennesker skal vi hjælpe. Så kan vi vælge at deltage i at gøre det onde endnu mere ondt, end det
+er i forvejen, vi kan også ved ikke at gøre noget
+vælge at gøre det forkerte, men jeg gør opmærksom på, at en ond handling ikke bare er
+en direkte aktiv handling, men også kan være
+at vende ryggen til og sige, at det her gør vi
+ikke noget ved.
+Når vi ser problemerne på baggrund af ondskaben i verden, kan metoderne til at løse dem
+være vidt forskellige. Jeg vil gerne have lov til
+at sige, at jeg personlig ikke har så megen tillid
+til, at vi når ret meget ved brug af våben. Det er
+en løsningsmodel, som jeg egentlig ikke har
+megen tillid til, og jeg har altid syntes, at det
+største problem ved at skulle være med i en
+militær operation var, at man skulle skyde løs
+på et andet menneske, hvis eneste fejl var, at
+vedkommende var født på den anden side af
+en streg, som nogle politikere engang havde
+trukket på landkortet. Det synes jeg må være
+meget, meget svært, men jeg respekterer de
+mennesker, som vælger den løsning og siger, at
+det er en nødvendighed, og at vi derfor må have et militær. Jeg respekterer også meget de
+mennesker, som har valgt det som deres livsgerning at ville være til rådighed for militæret,
+når det bliver nødvendigt at løse sådanne opgaver, som kan indebære, at man kommer til at
+skulle skyde på mennesker, blot fordi de er
+født på den anden side af en streg.
+Så må jeg sige, at jeg har meget svært ved at
+forstå, at de mennesker, som frivilligt har valgt
+den gerning, skulle nægte at være med til med
+våben i hånd at beskytte en hjælpeindsats,
+hvor den, som man kan komme til at åbne ild
+imod, er en, som helt klart ikke angriber, fordi
+han er født på den forkerte side af en streg,
+men for at gøre ondt imod den hjælpeaktion,
+der er i gang, og dermed imod de mennesker,
+som hjælpeaktionen skal komme til gode, og
+det er min baggrund for at kunne acceptere, at
+
+11402
+
+til mennesker, der frivilligt har påtaget sig den
+tjeneste, må man også stille det krav, at de så
+er villige til at udføre den, når der er brug for
+den. Men naturligvis har det skabt nogle problemer, at man ikke havde helt klare aftaler, og
+derfor vil jeg som en række andre ordførere
+udtrykke min store tilfredshed med, at vi i vort
+betænkningsbidrag har opfordret regeringen
+til for fremtiden at få helt klare aftaler med disse folk. Jeg kan godt forstå, at vi har haft debatten om frivillighedsprincippet.
+Lad mig så forlade den og vende mig til det
+helt principielle, nemlig om man nu kan stemme ja eller nej til forslaget, sådan som det foreligger. Det drejer sig om en nødvendig hjælp
+ydet af de midler, det personale og de materialer, som vi har til rådighed, og jeg mener, at vi
+må sætte det hele ind for at yde hjælpen. Vi
+kan have forskellig holdning til, hvordan det
+skal gøres, og den debat har vi haft i går, i udvalget og under forhandlingerne, og de fleste
+af os har fundet frem til nogle formuleringer,
+som vi synes vi kunne leve med, og som kan
+tilgodese de synspunkter, vi har om, hvordan
+man handler ret i denne sag.
+Ingen af os har vel fået det, som vi ønskede,
+og jeg er også lidt for ikke at sige meget skuffet
+over, at Det Radikale Venstre, som jeg meget
+ofte har stået sammen med i arbejdet for at få
+FN tydeligere ind i billedet, få kapitel 7 i FNpagten realiseret, vælger at sige nej på grund af
+en - synes jeg - så lille forskel på vores ønsker
+om, hvordan teksten skulle være. Jeg hørte
+godt, at hr. Jørgen Estrup vendte det sådan, at
+han ikke kunne forstå, at vi andre ikke kunne
+følge De Radikales forslag, men hvis man skal
+skrive sig sammen til noget fælles, er man altså
+nødt til at gå ind på fællesskriveriet, og så kan
+man ikke forlange, at en bestemt udformning
+af ordene skal være den, vi alle sammen skal
+bevæge os hen imod. Derfor vil jeg sige til Det
+Radikale Venstre: Det er endnu muligt at undlade at begå den fejl at lade være med at tage
+ansvar for den handling, som man jo dybest set
+er indstillet på skal udføres, blot på grund af
+en uenighed om ordvalget.
+(Kort bemærkning).";Glønborg
+78842;name_party;":
+Jeg har bestemt ikke ønske om at starte en
+polemik med hr. Glønborg, men jeg synes dog,
+at jeg gerne vil føje den bemærkning til det, hr.
+
+11403
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Jørgen Estrup
+79086;title_name;"Glønborg sagde vedrørende min manglende
+forståelse af, hvorfor Det Radikale Venstres
+ændringsforslag ikke kunne være gået igennem, at det ikke var et spørgsmål om lige præcis den tekst, for vi kunne godt have fundet en
+anden tekst, men det, jeg efterlyste, var en begrundelse. Hvad var der overhovedet galt?
+Hvad kunne der udsættes på ændringsforslaget? Jeg er helt enig med hr. Glønborg i, at
+man ikke kan insistere på sin tekst: men man
+kan godt insistere på en begrundelse.
+(Kort bemærkning).";Jørgen Estrup
+79599;name_party;":
+Efter at have hørt hr. Glønborgs hjertegribende forklaring på, hvorfor Kristeligt Folkeparti vil stemme, som det vil, vil jeg gerne have
+lov til måske at brodere lidt videre på den redegørelse, hr. Glønborg kom med. Det blev
+sagt, at det at undlade at gøre noget kan være
+at gøre ondt. Jeg erindrer ikke, at der er noget
+parti i dette Folketing, som har sagt, at vi skal
+undlade at gøre noget. Så sent som i dag er der
+blevet sagt ja til 120 mio. ecu ekstra i fødevarehjælp til det tidligere Jugoslavien.
+Jeg tror, at alle partier har gjort og gør, hvad
+de mener er menneskeligt muligt, for at bøde
+på den katastrofe, borgerkrigen i Jugoslavien
+er. Vi har sendt danske tropper til Kroatien,
+hvor der var en fred at bevare, men Fremskridtspartiet ønsker ikke så brændende at gøre noget, at vi gør ondt, og jeg føler, at Kristeligt Folkeparti er på vej til at gøre noget, som
+vil gøre ondt på de danske soldater, som skal
+stå i en militærenhed midt i en borgerkrig,
+midt i noget, som alle eksperter har frarådet.
+Kristeligt Folkeparti mener altså, at det at risikere danske liv og lemmer er at gøre godt.
+(Kort bemærkning).";Annette Just
+80737;name_party;":
+Hvis ikke det onde var i verden og mennesker aldrig gjorde ondt mod hinanden, behøvede vi ikke det, som vi desværre skal til her,
+men ud fra en realistisk erkendelse af, at det
+onde er der, og at der derfor må gribes ind på
+en eller anden måde, har vi nogle værn mod
+det. Vi kan da håbe, at alene det, at vi sender
+disse styrker og går ind i et samarbejde i FN
+om at etablere dette værn om hjælpeorganisationerne, vil være tilstrækkeligt - på samme
+
+11404
+
+måde som vi kan håbe, at det har en god virkning i en by, at der trods alt er en politistation,
+hvor der sidder nogle, som er klar til at tage fat
+på dem, der begår ondt mod andre, og det er
+uomtvisteligt, at det har en vis virkning, blot
+politiet er til stede.
+Vi kan altså håbe, at vor tilstedeværelse vil
+være tilstrækkelig, men vi må desværre erkende, at det ikke altid er nok, og lige så svært som
+jeg har ved at se, at det skulle være ondt at
+have en politistation med nogle politifolk til
+stede, når der er mulighed for, at der sker overgreb på andre, lige så svært har jeg ved at se, at
+det skulle være ondt at vedtage det, som vi her
+vil vedtage. Jeg føler det som ansvarsbevidsthed, og derfor stemmer vi for det.";Glønborg
+81934;name_party;":
+Jeg kan helhjertet støtte beslutningsforslaget
+i den form, det nu foreligger i, og konstaterer,
+at de 5 punkter, Socialdemokratiets ordfører i
+går stillede op, fuldt ud er opfyldt. For mig er
+det afgørende det, som også udenrigsministeren betonede i går, at FN - ikke bare Sikkerhedsrådet, men også generalsekretæren - har
+opfordret os til at yde et bidrag til at løse den
+meget vanskelige opgave, det drejer sig om.
+Jeg tror, at udenrigsministeren har ret i, at hvis
+ikke Danmark er blandt de første til at melde
+sig, når der skal løses den slags vanskelige opgaver for verdenssamfundet, er det svært at få
+øje på de lande, der så kan gøre det.
+Det rejser naturligvis et spørgsmål, som flere
+var inde på under debatten i går, om de gange,
+vi har sagt nej til at medvirke, og jeg synes på
+basis af debatten, at der kan være grund til
+igen at tage nogle af de afslag, Danmark hidtil
+har meddelt på medvirken i FN-aktioner, op
+til overvejelse. Det er klart, at der er en kapacitetsmæssig grænse for, hvor meget vi orker,
+men i princippet bør vi deltage, når FN beder
+os om det.
+Jeg er også glad for, at denne sag havnede i
+folketingssalen, og at det er os 179 medlemmer, der skal træffe denne vanskelige afgørelse. Det er ikke en sædvanlig fredsbevarende
+mission, det drejer sig om, men en ny type indsats fra verdenssamfundets side, og det kan ikke være rigtigt, at det alene er regeringen, der
+træffer afgørelsen efter forelæggelse i Det
+Udenrigspolitiske Nævn. Den må ned i folketingssalen, og jeg er glad for, at det skete. Også
+
+. 11405
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Svend Auken
+83571;title_name;"af hensyn til befolkningen er det vigtigt, at Folketinget bliver inddraget. Vi skal ikke skjule
+for hinanden, at vi på mange af disse områder
+må erkende, at der er en afstand mellem den
+drøftelse, der foregår i Folketinget, og de holdninger, der findes i befolkningen, og den afstand kan vi ikke mindske ved hemmeligholdte
+forhandlinger, men kun overvinde ved åbenhed i folketingssalen.
+Jeg tror, at det er utrolig vigtigt, at der er
+meget bred enighed i Folketinget om den slags
+vanskelige sager, ikke bare i antallet af mandater, men også i antallet af partier, og det kan
+ikke andet end ærgre mig, at det ikke er lykkedes at få alle de partier, som har en positiv
+holdning over for dansk deltagelse i FN-aktioner, med i denne beslutning. Jeg tror, at hvis
+regeringen havde taget dette spørgsmål op i
+god tid i forhandlinger med Folketingets partier, havde det været muligt at finde en løsning,
+som en bredere kreds af partier kunne tilslutte
+sig. Når man udmærket godt ved, at der vil
+komme en sådan anmodning, er det ikke rimeligt over for Folketinget, at man venter næsten
+en måned med at rette henvendelse til Det
+Udenrigspolitiske Nævn. Vi må have mulighed
+for at drøfte det i god tid, og jeg tror, at det
+ville have ført til en endnu bredere enighed om
+beslutningen.
+Udenrigsministeren var i går med rette inde
+på de nye udfordringer, Danmark og resten af
+verdenssamfundet står over for i kølvandet af
+ophøret af den kolde krig. Øst-Vest-konfrontationen blev desværre ikke efterfulgt af en ny
+verdensorden. Vi har set nye vanskelige konflikter, nye udfordringer til verdenssamfundet,
+og der kan - ikke blot i forbindelse med denne
+konkrete opgaves løsning - være god grund til,
+at vi her i Folketinget giver os tid til at drøfte
+de mange og vanskelige spørgsmål, som dette
+rejser for dansk udenrigs-, sikkerheds- og bistandspolitik i fremtiden. Socialdemokratiet
+vil meget gerne tage initiativ til, at en sådan
+drøftelse finder sted allerede her i efteråret, og
+vi går ud fra som givet, at andre partier vil støtte os i det ønske, sådan at vi ved en debat i
+Folketinget kan give startskuddet til en. mere
+gennemgribende omprøvning af hovedlinjerne
+i vores udenrigs-, sikkerheds- og bistandspolitik i kølvandet af ophøret af den kolde krig.
+Endelig er der ingen tvivl om, at det bliver
+nødvendigt at drøfte dansk forsvars indretning
+
+11406
+
+med henblik på de mange opgaver, som vi ved,
+at dansk forsvar vil blive stillet over for i forbindelse med kommende FN-aktioner. Selv
+om man ikke skal overdrive betydningen af militær indgriben som instrument til løsning af
+disse konflikter, er der ingen tvivl om, at en af
+de allervigtigste opgaver for dansk forsvar i
+fremtiden bliver at kunne deltage i sådanne internationale aktioner, og derfor er der også på
+dette punkt grund til i tide i Folketinget at tage
+den dybtgående drøftelse.
+Jeg kan altså konkludere, at jeg og - håber
+jeg - et meget bredt flertal i Folketinget kan
+støtte det foreliggende beslutningsforslag, men
+at der i høj grad er behov for, at vi også på
+denne foranledning tager en bredere debat om
+de store problemer.";Svend Auken
+86696;title_name;":
+En stor del af debatten i dag har drejet sig
+om påstande om, at de private nødhjælpsorganisationer slet ikke ønsker, at der skal gennemføres en indsats som den, der nu lægges op til,
+og det er jo rigtigt, at når man ser på den debat,
+der har været i medierne, er der en hel del enkeltpersoner og også enkelte organisationer,
+der har udtrykt skepsis og har sagt, at de ikke
+mente, det var rigtigt at yde en militær indsats
+til beskyttelse af konvojer m.v. Men jeg er nødt
+til at sige, at det er der ikke noget usædvanligt
+i, og at det er en diskussion, vi kender så udmærket. Vi ved, at der er nogle af de private
+nødhjælpsorganisationer, der rent principielt
+og som et led i hele deres arbejdsgrundlag
+helst er fri for enhver sammenhæng med regeringer og enhver sammenblanding med militære indsatser. Det er der ikke noget nyt i, og det
+er der heller ikke i, at mange og specielt enkeltpersoner, der står dybt i arbejdet, foretager en
+vurdering, som i høj grad bygger på deres ofte
+isolerede indsats.
+Hr. Pelle Voigt var inde på, at der også i Somalia høres røster, om, at man ikke ønsker den
+militære beskyttelse, som FN nu lægger op til
+dér. Til illustration af den problemstilling, der
+har været diskuteret i dag, kan jeg berette om
+en oplevelse,jeg havde i Mogadiscio for 14 dage siden, hvor jeg besøgte en af de lejre, som
+en privat nødhjælpsorganisation havde oprettet for at modtage børn, der kom til byen, og
+sørge for, at de fik mad. Under besøget var der
+en diskussion mellem lederen af det private
+
+11407
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Ellemann-Jensen
+88316;title_name;"nødhjælpsarbejde og FN's repræsentant i Somalia, hvor lederen sagde: »Hvis I begynder at
+komme først med de pakistanske FN-tropper,
+der nu er på vej, og senere med de belgiske, vil
+det vanskeliggøre vores arbejde og vores sikkerhedssituation her.« De havde indrettet sig
+på den måde, at de havde købt lidt beskyttelse
+af de bander, der holdt til i den del af byen: de
+havde fundet en eller anden balance midt i det
+morads af usikkerhed, vold og opløsning, som
+eksisterer i den by. FN-repræsentantens svar
+var: »Det kan jeg godt forstå, når det gælder
+jeres indsats på jeres område i denne og i andre lejre, men jeg er nødt til at se på helheden
+og på indsatsen på længere sigt.«
+Vi må træffe et valg, som er svært, ganske
+som FN-repræsentanten måtte, nemlig et valg
+mellem en isoleret, måske kortsigtet indsats og
+så det, der kræves, hvis man vil nå de skridt
+videre, som vi forventer at FN skal kunne nå,
+men som vi ikke forventer at private nødhjælpsorganisationer skal kunne nå. Det anbringer også Folketinget i den meget vanskelige valgsituation: Hvem skal vi lytte til? Skal vi
+lytte til de private nødhjælpsorganisationer,
+hvis indsats vi har respekt og beundring for,
+eller skal vi lytte til FN's Sikkerhedsråd, der
+trods alt har det overordnede ansvar for en
+langsigtet og også politisk indsats? Det kan
+man vælge hver for sig. Jeg er ikke i tvivl om,
+hvad en regering skal lytte til. En regering skal
+selvfølgelig lytte til FN's Sikkerhedsråd og gøre, hvad det mener er nødvendigt og fremmende også for den politiske indsats, man vil gennemføre på længere sigt.
+Men samtidig beder jeg om, at man lægger
+mærke til, at det er et tilbud til også de private
+nødhjælpsorganisationer. Hvis ikke de ønsker
+den beskyttelse, der lægges op til, kan de blive
+fri: det er et tilbud. Men jeg undrer mig over,
+at Socialistisk Folkepartis ordfører så stærkt
+går ind på, at vi først og fremmest skal lytte til
+disse ofte meget spredte røster fra de private
+nødhjælpsorganisationer, og at de skal veje
+tungere end FN's Sikkerhedsråd. Jeg mener ikke, det kan være i overensstemmelse med en
+politik, der i øvrigt søger at give FN en stadig
+stærkere rolle, når det gælder nødhjælpsindsats.
+Regeringen er meget tilfreds med den brede
+opbakning bag beslutningsforslaget, og vi er
+også meget tilfredse med, at det lykkedes at
+
+11408
+
+finde en løsning på de problemer, der skilte os
+i går. Det betyder, at regeringen kan forsvare at
+tilbyde FN at gennemføre den indsats, man
+har bedt os om, for det var jo det afgørende
+spørgsmål: Kan den gennemføres på en måde,
+som regeringen finder forsvarlig?
+Men jeg kan ikke undlade at udtrykke skuffelse over, at vi i dette brede flertal mangler de
+to partier, som plejer at sige, at de mere end
+mange andre har interesseret sig for FN igennem mange år. Jeg er især skuffet og uforstående over Det Radikale Venstres holdning. Når
+man tænker på, hvor dybt Det Radikale Venstre har været engageret i FN-arbejdet lige fra
+verdensorganisationens start, hvordan en lang
+række personligheder i Det Radikale Venstre
+gennem årene har gjort en stor og stærk indsats for at give verdensorganisationen en mere
+central placering, er det uforståeligt for mig, at
+man med en - set med mine øjne - forholdsvis
+spinkel og meget teknisk begrundelse vælger
+ikke at være med, når det gælder en så historisk afgørelse som den, der skal træffes her i
+dag. For det er jo en historisk afgørelse, at der
+nu lægges op til dansk deltagelse og støtte til
+en indsats under henvisning til FN-pagtens kapitel 7, en indsats, der kan være med til at bane
+nye veje for FN som fredsbevarende faktor.
+Her burde Det Radikale Venstre have været
+med.
+Jeg kan heller ikke acceptere den forklaring,
+hr. Svend Auken forsøgte at give om, at regeringen kom for sent på banen. Jeg må minde
+om, at vi har diskuteret dette emne i mange
+måneder, både offentligt, i Folketinget, i Det
+Udenrigspolitiske Nævn og andre steder. Vi
+har diskuteret de muligheder, som vi håbede
+ville vise sig, så FN kunne gøre en mere effektiv indsats, vi har diskuteret nogle meget vidtgående tanker, der har været fremme og er blevet skrinlagt igen, efter at det har vist sig, at de
+såkaldt fredsskabende indsatser ikke kan gennemføres. Men det har dog været vurderet, det
+har været diskuteret, så det er jo ikke nogen ny
+diskussion.
+Det, der pludselig konkretiserede sagen, var
+jo, at det omsider lykkedes Sikkerhedsrådet at
+blive enigt om den resolution, der blev vedtaget i mandags. Herefter var vi nødt til at reagere meget hurtigt på den konkrete opfordring, vi
+fik. Man kan sige, at det er udviklingen, der i
+høj grad har sat tempoet, men debatten har vi
+
+11409
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Udenrigsministeren
+93043;title_name;"haft, vi har alle sammen haft mulighed for at
+forberede os på det, og derfor må jeg gentage,
+at jeg er dybt skuffet over, at vi savner Det Radikale Venstres støtte til forslaget i dag.
+Jeg er også skuffet over SF, for selv om vi så
+sandelig står hinanden fjernt på mange områder, har jeg da ofte fornemmet, at netop når
+det drejer sig om FN, har der været en hel del
+berøringsflader mellem regeringspartierne og
+Socialistisk Folkeparti. Og det undrer mig specielt, at partiets ordfører er kørt frem med en
+argumentation, der gik på, at man altså er
+grundlæggende uenig i det, som FN's Sikkerhedsråd har besluttet. Og så skal man endda
+høre bebrejdelser for, at vi ikke har undersøgt
+nogle alternative ideer fra SF og taget dem alvorligt, bl.a. noget med at kaste forsyninger
+ned med faldskærm. Jeg synes, jeg vil tage sagen så alvorligt, at jeg ikke vil kommentere
+denne tanke, som for øvrigt har været drøftet
+og kommenteret engang i sommer i Det Udenrigspolitiske Nævn.
+Jeg vil også sige, at selvfølgelig skal vi da
+aldrig pr. automatik godtage alt, hvad der
+kommer fra FN, hvilket hr. Jørgen Estrup også
+var inde på. Vi skal selvfølgelig diskutere det
+her i Tinget, og jeg vil da: ikke på forhånd sige,
+at jeg selv eller regeringen altid vil være enig i
+alt, hvad der bliver vedtaget i FN's Sikkerhedsråd. Men i denne sag, som har været diskuteret så grundigt i så lang tid, og hvor det er
+lykkedes at skabe enighed i Sikkerhedsrådet,
+skal der altså meget, meget stærke argumenter
+til, hvis et parti, der ellers hævder at støtte FN,
+vælger ikke at være med nu, hvor det gælder.
+Men som sagt er der bred opbakning, selv
+om vi savner et par partier, og beslutningen i
+dag er en vigtig milepæl i dansk udenrigs- og
+sikkerhedspolitik. Jeg er enig med hr. Svend
+Auken, når han understreger, at der her er tale
+om en ny form for indsats, og jeg mener, det er
+meget rimeligt, at vi tager en bred debat om
+FN's nye muligheder og vore egne muligheder
+for at yde aktiv støtte til fremtidige FN-indsatser så hurtigt som muligt efter, at Folketinget
+er indkaldt på normal vis. Det foreslog hr.
+Svend Auken, og regeringen deltager meget
+gerne og positivt i en sådan debat.
+Denne milepæl peger samtidig fremad, for
+nu vil vi opleve, at i en periode, hvor vi kan
+forudse mange og nye konflikter, får FN mulighed for at spille den rolle, som man fra star-
+
+11410
+
+ten havde tiltænkt verdensorganisationen. I
+mange år kunne det ikke lade sig gøre på
+grund af den lammelse, som var skabt af supermagtskonfrontationen, men efter den kolde
+krigs ophør kan vi se verdensorganisationen
+spille en ny rolle, og vi kan bruge nogle af vore
+egne kræfter til at støtte denne nye rolle. Derfor er det lykkeligt, at vi efter den afstemning,
+vi skal have om lidt, kan melde tilbage til FN,
+at selvfølgelig medvirker Danmark til, at verdensorganisationen kan løse denne nye opgave.";Udenrlgsmlnlsteren
+95925;title_name;":
+Jeg synes, det er godt, at vi har haft en så
+bred debat, som tilfældet har været både i dag
+og i går. Jeg finder, at en stor del af diskussionen i de foregående uger har været præget af
+en række overdrivelser, og jeg tror, det er godt,
+at en række ting er blevet sat på plads.
+Jeg vil også takke udvalget for dets arbejde,
+og jeg takker i særdeleshed de partier, som har
+lagt øre til de bemærkninger, som jeg kom med
+i går om alvoren i den indsats, som forestår, og
+de vilkår, som efter min mening er væsentlige
+for, at vi kan skabe den bedst mulige sikkerhed
+for dem, der deltager i opgaven.
+Socialdemokratiet har vist god forståelse for
+de synspunkter, jeg fremførte, og vi har haft
+nogle gode drøftelser gennem ikke så få timer
+om disse temaer. Det vil jeg gerne kvittere for,
+lige så vel som jeg vil takke CD og Kristeligt
+Folkeparti, som har sluttet op om det resultat,
+der fremgår af betænkningen i dag.
+Jeg er imidlertid samtidig lidt skuffet over,
+at Det Radikale Venstre har valgt at sætte et
+ganske vist velment og smukt princip over hensynet til professionalisme og dermed til den
+enkelte soldats sikkerhed. Jeg har noteret mig,
+at hr. Jørgen Estrup var skuffet over, at han
+ikke i højere grad var inde i forløbet, men så
+skal jeg da sige, at det kan der vel repareres på.
+Der er vel mulighed for, at forsvarsforligspartierne en anden gang kan have en tættere dialog,
+end det var tilfældet i denne sag.
+Jeg vil dog minde om, at udgangspunktet jo
+var, at hr. Jørgen Estrup lagde ud med nogle
+meget markante synspunkter. De kom frem i
+medierne meget hurtigt og med en sådan klarhed, at jeg i hvert fald ikke har været i tvivl om
+- med den karakterstyrke, som er egen for hr.
+Jørgen Estrup - at han også mente det fuldt og
+
+11411
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Enggaard
+97767;title_name;"helt. Han kan vel en overgang oven i købet have glædet sig over, at det tilsyneladende var
+muligt at samle et flertal uden om regeringen
+for sine synspunkter. Det kom ikke til at gå
+helt på den måde, men hvis hr. Jørgen Estrup
+møder kritik fra den unge generation på Det
+Radikale Venstres landsmøde i weekenden,
+hvis man kræver, at han markerer sig stærkere,
+kan han hilse fra mig og sige, at der har ikke
+manglet noget i den radikale markering i denne sag. Den har måske ikke helt fået det forløb,
+som var tilsigtet, men det er jo så en anden sag.
+Viljen ser Vorherre som bekendt på.
+I forbindelse med debatten har der været
+nævnt et par enkelte ting, som jeg kort vil kommentere. Hr. Helge Adam Møller beskrev så
+rigtigt princippet om, at man så vidt gørligt
+sender enheder af sted, der kender hinanden,
+at det skal være udgangspunktet ved udvælgelsen. Jeg tror også, det er vigtigt for kvaliteten
+af en sådan indsats, at man kender hinanden,
+har arbejdet sammen og derigennem har de
+bedste muligheder for at få det rigtige resultat
+frem.
+I den sammenhæng er der også blevet spurgt
+om retten til at vælge fra, og jeg vil gerne be-,
+kræfte her, som det også fremgår af betænkningen, at det får ingen konsekvenser for den
+pågældende. Det betyder imidlertid også, at
+man ikke kan se væk fra, at hverdagen vil forme sig lidt anderledes efter et fravalg, fordi
+den pågældende enhed for en periode befinder
+sig et andet sted. Hverdagen bliver ikke fuldstændig uændret, men jeg skal igen bekræfte,
+at betænkningens ordlyd er gældende i aftalen
+om muligheden for at vælge fra.
+Endelig vil jeg sige, at det glæder mig, at diskussionen omkring forsikringsdækning, som
+har været ført i nogen tid, har resulteret i mit
+tilsagn om, at i forbindelse med det aktstykke
+om de bevillingsmæssige forhold, som vil blive
+fremlagt senere, vil forsikringsdækningen i forbindelse med ulykker og lign. blive forbedret
+ganske væsentligt. Jeg er også tilfreds med, at
+det kommer til at omfatte samtlige forsvarets
+personelgrupper i FN's tjeneste.
+(Kort bemærkning).";Forsvarsministeren
+99825;name_party;":
+Jeg synes, det var med god ret, at udenrigsministeren spurgte mig, hvorfor SF i denne situation tilsyneladende lægger større vægt på,
+
+11412
+
+hvad nødhjælpsorganisationerne mener om
+den forestående aktion, end hvad FN's Sikkerhedsråd siger.
+Vi vil ikke altid foretage denne prioritering,
+det er jeg helt enig med udenrigsministeren i.
+Men når vi lægger afgørende vægt på, hvad
+nødhjælpsorganisationerne mener i denne situation, skyldes det, at vi har fået forklaret, at
+hele formålet med aktionen er at bistå Røde
+Kors og andre humanitære organisationer og
+nødhjælpsorganisationer i området.
+Det nævnes i forslaget, at der måske senere
+kan komme andre opgaver til, bevogtningsopgaver osv. Men det er understreget helt fra begyndelsen, at her taler vi om en rent humanitær aktion, som udelukkende tilsigter at hjælpe disse nødhjælpsorganisationer. Når det er
+tilfældet, må det også indgå som noget fuldstændig centralt, om disse nødhjælpsorganisationer synes, det er en god idé. Det må vi lægge
+afgørende vægt på i vores vurdering af sagen,
+ligesom vi i øvrigt må indhente andre oplysninger for at foretage en selvstændig vurdering
+af hensigtsmæssigheden af denne aktion. Det
+står lysende klart, at de humanitære organisationer frygter, at denne bevogtning vil genere
+og besværliggøre deres arbejde og gøre det farligere, og det er en væsentlig grund til, at vi
+vender os imod forslaget.
+Når udenrigsministeren herudover fortæller,
+at denne indsats kan bane nye veje, må det også betyde, at styrken skal foretage sig noget i
+fremtiden, som ligger ud over det, der er foreslået her, og som vi ikke engang kender indholdet af.";Pelle Voigt
+101487;title_name;":
+Jeg forstår, at hr. Pelle Voigt mener, at denne operation først og fremmest har til formål at
+støtte de private humanitære nødhjælpsorganisationer. Det er ikke korrekt, og jeg kan henvise til, at i den relevante sikkerhedsrådsresolution, som blev vedtaget i mandags, står der
+udtrykkeligt, at der er tale om at stille militært
+personel til rådighed for at gøre det muligt at
+få forsyninger frem fra relevante humanitære
+organisationer under FN og andre - jeg understreger »og andre«. Det primære formål er at
+sikre FN's egen humanitære indsats, dernæst
+andres, hvis man ønsker det - og det er fra disse »andre«, vi har hørt enkelte kritiske røster.
+
+11413
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN
+
+(Kort bemærkning).";Ellemann-Jensen
+102263;name_party;":
+Jeg vil gerne kvittere for forsvarsministerens
+venlige og humoristiske kritik, og jeg vil gerne
+tilføje, at jeg har en helt klar opfattelse af, at
+når det kommer til stykket, har forsvarsministeren en usædvanlig evne til altid at få sin vilje i den sidste ende. Det vil jeg til gengæld gerne kvittere for.
+Men forsvarsministeren sagde bl.a., at Det
+Radikale Venstre havde sat princippet om frivillighed over professionalisme, og det synes
+jeg ikke er rigtigt. Jeg synes heller ikke, det
+fremgik af kommentarerne til vort ændringsforslag eller af det, jeg selv sagde her fra talerstolen. Jeg understregede klart, at forsvarsministeren udpeger styrken. Og det kan jo godt
+igen understrege det mærkelige forløb, der har
+været tale om her, hvor vi ikke har været i
+stand til at få en forklaring på, hvor vort ændringsforslag skaber problemer.
+Udenrigsministeren havde mange overvejelser på Det Radikale Venstres vegne om vores
+holdning til FN, og det kvitterer jeg også for.
+Udenrigsministeren opfattede det som en strid
+om detaljer, at vi ikke kunne støtte beslutningsforslaget. Ja, for udenrigsministeren er
+det sikkert en strid om detaljer, for udenrigsministeren ønskede jo ikke frivillighed, det ved
+vi alle sammen. Jeg tror, udenrigsministeren
+havde det ligesom hr. Sønderby, der tidligere
+under debatten sagde »så vidt muligt«.
+Det kan godt være, det kun er detaljer, men i
+så fald er det meget vigtige detaljer for os. Det
+er nemlig spørgsmålet, om de, der faktisk udsendes til at deltage i FN's opgaver på Danmarks vegne, også er så motiverede og tror så
+meget på opgaven, at de selv har valgt det.
+Dette er faktisk ganske afgørende for os.
+(Kort bemærkning).";Jørgen Estrup
+103946;name_party;":
+Jeg har tidligere givet udtryk for - og det er
+et svar til udenrigsministeren - at jeg ikke finder det overraskende, at FN's organisationer
+synes, at det, der vedtages af Sikkerhedsrådet,
+er en god idé. Sådan fungerer organisationslivet nu engang, også på internationalt plan.
+Til gengæld har alle de uafhængige organisationer, der ikke automatisk er underlagt Sikkerhedsrådets eller generalsekretærens myn-
+
+11414
+
+dighed, udtalt sig kritisk, så vidt vi har fået oplyst. De er nervøse for, at tilstedeværelsen af
+militæreskorter kan gøre deres arbejde vanskeligere og farligere, at eventuelle angribere ikke
+vil kunne skelne mellem nødhjælpstransporter
+og andre transportkolonner. Det problem løses jo ikke, fordi den ene eller den anden konkrete transport har militæreskotte eller ej.
+Som jeg har forstået kritikken fra Det Internationale Røde Körs og fra Dansk Flygtningehjælp, vil selve tilstedeværelsen af bevæbnede
+militæreskorter i forbindelse med nødhjælpen
+skabe problemer, fordi det er, vanskeligt for de
+forskellige deltagere i den jugoslaviske borgerkrig at skelne, hvad der er hvad, i de som regel
+meget kaotiske situationer.
+Jeg har tidligere nævnt det heroppefra, og
+jeg skal endnu en gang minde om, at presseattaèheen ved Røde Kors' hovedkvarter i Genéve, Jette Sørensen, i går sagde til Kristeligt
+Dagblad, at hvis FN eskorterer Røde Korstransporterne, vil man løbe en større risiko. De
+stridende parter vil ikke kunne se, om der er
+tale om bevæbnede FN-soldater, der har ret til
+at besvare skydningen. Og i dag siger vicegeneralsekretæren for Dansk Flygtningehjælp ifølge Ritzau, at i det kaos, der i øjeblikket hersker
+i Jugoslavien, vil der nemt kunne opstå misforståelser, så de stridende parter tror, at nødhjælpsorganisationerne er en del af en militær
+operation, og det gælder jo, uanset öm de rent
+faktisk bliver eskorteret eller ej.";Pelle Voigt
+105826;name_party;":
+Vi står nu efter næsten et par døgns dramatisk debat foran færdigbehandlingen af en sag,
+som er af historisk rækkevidde, hvilket udenrigsministeren også har været inde på.
+Der har været en del presseomtale af sagen
+undervejs, og det er vel forståeligt. Der har også været skarpsindige indlæg i debatten, og det
+er vel også noget helt sædvanligt. Der har også
+været udfoldet betragtelige anstrengelser fra
+alle parter, inklusive regeringen, for at vi kunne nå frem til et resultat i denne vigtige historiske situation.
+Jeg er glad for, at det er lykkedes. Jeg er glad
+for det, fordi vi hermed faktisk har formået og det er bestemt ikke til nogen skade for det
+politiske system - at løse den gordiske knude.
+På den ene side vedstår vi vort fundamentale
+ansvar over for FN, når man beder os om en
+
+11415
+
+18/9 92: 2. (sidste) beh. af f. t. beslutn. vedr. dansk militær styrke til FN";Nyrup Rasmussen
+106728;title_name;"indsats: vi lever op til vore forpligtelser. På
+den anden side tager vi konsekvensen af, at situationen lige nu i Jugoslavien er ny, anderledes og ulykkeligvis indledningen til en række
+konflikter i verdenssamfundet, som kræver en
+ny form for indsats, som vi nu beslutter at tage
+del i.
+I lyset heraf er det også vigtigt, at vi fandt en
+løsning på spørgsmålet om den ekstra risiko,
+der uomgængeligt knytter sig til denne nye
+indsats. Derfor måtte Socialdemokratiet lægge
+megen vægt på, at ingen enkeltperson i en
+dansk FN-styrke - i Jugoslavien kan udsendes
+mod sin vilje. Jeg er meget glad for, at vi har
+kunnet enes om en afslutning på denne sag, så
+vi sammen med forsvarsministeren kan sige til
+den danske befolkning, at udsendelsen sker på
+et professionelt og sikkert grundlag, som også
+er i overensstemmelse med de grundlæggende
+hensyn, der naturligvis skal tages til det danske
+forsvar og dets videre opgaver i lyset af de nye
+FN-udfordringer.
+Der har været megen debat om, hvad frivilligheden egentlig går ud på. Jeg synes nu, det
+står relativt klart, jeg synes egentlig, at hr. Anker Jørgensen satte tingene på deres rette plads
+i går, da han sagde, at det ligger klart, at der
+under ingen omstændigheder kan blive tale
+om, at værnepligtige skal deltage i disse aktioner. Det ligger lige så klart, at stampersonellet
+under alle omstændigheder er omfattet af den
+frivillighed, vi allerede havde i udspillet. Tilbage var en række befalingsmænd, officerer og
+specialister, og her har vi også løst problemet
+ved den udformning af frivillighedsprincippet,
+som jeg netop har redegjort for.
+Jeg synes, Folketinget har gennemført en
+overordentlig værdig debat, og jeg spørger mig
+selv: Hvis vi ikke skulle lave fundamentalt om
+på sammensætningen af FN-styrkerne og samtidig tage hensyn til den nødvendige professionalisme og helhed, kunne der så overhovedet
+findes andre modeller for en løsning af spørgsmålet om frivillighed end netop den, det lykkedes os at finde frem til? Jeg tror det ikke, og
+derfor tror jeg, det var vigtigt, at vi nåede frem
+til den.
+Jeg vil gerne her til slut kvittere for det samarbejde, der har været. Når tiden trækker ud,
+kan det jo ofte ske, at tålmodigheden ikke slår
+til, men det synes jeg ikke har været tilfældet i
+denne sag. Jeg vil også gerne kvittere for CD's
+
+11416
+
+imødekommenhed og venlige bemærkninger i
+dag, jeg vil sige tak for Det Radikale Venstres
+bemærkninger og naturligvis også - det skal jo
+ikke glemmes - for de synspunkter, regeringen
+har givet udtryk for. Jeg tror, det er værdigt for
+Folketinget, vigtigt for Danmark og vigtigt for
+de personer, der skal prøve at leve op til det
+ansvar, der er forbundet med opholdet dernede.
+Tak for en god debat, og tak til regeringen
+for dens imødekommenhed over for hr. Svend
+Aukens forslag om, at vi meget tidligt i dette
+efterår må tage en mere principiel debat om
+FN's fremtidige rolle.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslaget til folketingsbeslutning
+vedtoges med 95 stemmer (S, KF, V, CD og
+KRF) mod 28 (SF, FP, RV, Hans Erenbjerg
+(S), Helen Jørgensen (S), Lissa Mathiasen (S)
+og Kaj Poulsen (S)): 2 (Pernille Forchhammer
+(S) og Else Marie Mortensen (S)) stemte hverken for eller imod.";Nyrup Rasmussen
+109933;title_name;"Dette vil blive meddelt udenrigsministeren.
+Meddelelser fra formanden:";Formanden
+110015;title_name;"Der er ikke mere på dagsordenen.
+Fra statsministeren har jeg modtaget følgende skrivelse:
+»Statsministeriet, den 8. september 1992.
+Ved allerhøjeste resolution af 28. august
+1992 er det bestemt, at visse sager vedrørende
+handlingsplanen for et bæredygtigt landbrug:
+1) bemyndigelsen til at udstede regler i henhold til miljøbeskyttelseslovens § 12, stk. 1,
+2) bemyndigelsen i miljøbeskyttelseslovens §
+67 vedrørende tilsyn med overholdelse af
+regler efter § 12, stk. 1, og
+3) bemyndigelsen til at udstede regler i henhold til § 38 c i lov om kemiske stoffer og
+produkter for så vidt angår landbrugsejendomme, hvorpå der erhvervsmæssigt anvendes bekæmpelsesmidler,
+
+11417
+
+18/9 92: Meddelelser fra formanden";Formanden
+110736;title_name;"overføres fra Miljøministeriet til Landbrugsministeriet.
+Folketinget bedes underrettet herom.
+(signeret) Poul Schlüter
+/ A. Lund-Sørensen«
+Den socialdemokratiske folketingsgruppe
+har meddelt mig, at den med virkning fra den
+27. september 1992 har udpeget medlem af
+Folketinget Svend Auken til at indtræde i den
+danske delegation til Europarådets rådgivende
+forsamling som medlem i stedet for Erik B.
+Smith og medlem af Folketinget Hjortnæs til
+at indtræde som ny stedfortræder for Ole Espersen i stedet for medlem af Folketinget
+Frank Jensen.
+De pågældende er herefter valgt.
+Der er foretaget ændringer i følgende udvalg:
+
+11418
+
+Ny stedf.: Hanne Thanning Jacobsen (SF)
+Udtræder: Hanne Thanning Jacobsen (SF)
+Nyt medl.: Lilli Gyldenkilde (SF)
+Erhvervsudvalget (31/8 92):
+Udtræder: Kirsten Jacobsen (FP)
+Ny stedf.: Annette Just (FP)
+Erhvervsudvalget (1/9 92):
+Udtræder: Kim Behnke (FP)
+Nyt medl.: Annette Just (FP)
+Udtræder: Annette Just (FP)
+Ny stedf.: Kim Behnke (FP)
+Finansudvalget (1/9 92):
+Udtræder: Mimi Jakobsen (CD)
+Nyt medl.: Duetoft (CD)
+
+Det Udenrigspolitiske Nævn (20/8 92):
+Udtræder: Peter Brixtofte (V)
+Nyt medl.: Sønderby (V)
+
+Udvalget for Forretningsordenen (1/9 92):
+Udtræder: Arne Jensen (S)
+Nyt medl.: Ritt Bjerregaard (S)
+Udtræder: Jørn Pedersen (S)
+Nyt medl.: Torben Lund (S)
+
+Erhvervsudvalget (20/8 92):
+Udtræder: Kim Behnke (FP)
+Ny stedf.: Kirsten Jacobsen (FP)
+
+Sundhedsudvalget (1/9 92):
+Udtræder: Kirsten Jacobsen (FP)
+Ny stedf.: Pia Kjærsgaard (FP)
+
+Det Udenrigspolitiske Nævn (21/8 92):
+Udtræder: Sønderby (V)
+Nyt medl.: Peter Brixtofte (V)
+
+Uddannelsesudvalget (1/9 92):
+Udtræder: Niels Højland (FP)
+Ny stedf.: Annette Just (FP)
+
+Trafikudvalget (24/8 92):
+Udtræder: Poul Nødgaard (FP)
+Nyt medl.: Ole Donner (FP)
+Erhvervsudvalget (25/8 92):
+Udtræder: Annette Just (FP)
+Nyt medl.: Kim Behnke (FP)
+Det Udenrigspolitiske Nævn (25/8 92):
+Udtræder: Pelle Voigt (SF)
+Nyt medl.: Gert Petersen (SF)
+Kommunaludvalget (27/8 92):
+Udtræder: Lilli Gyldenkilde (SF)
+Nyt medl.: Pernille Frahm (SF)
+Socialudvalget (27/8 92):
+Udtræder: Pernille Frahm (SF)
+
+Det Udenrigspolitiske Nævn (1/9 92):
+Udtræder: Annette Just (FP)
+Nyt medl.: Pia Kjærsgaard (FP)
+Udtræder: Pia Kjærsgaard (FP)
+Ny stedf.: Annette Just (FP)
+Det Politisk-Økonomiske Udvalg (3/9 92):
+Udtræder: Henning Rasmussen (S)
+Nyt medl.: Erling Olsen (S)
+Det Politisk-Økonomiske Udvalg (4/9 92):
+Udtræder: Erling Olsen (S)
+Nyt medl.: Henning Rasmussen (S)
+Det Energipolitiske Udvalg (7/9 92):
+Udtræder: Duetoft (CD)
+Nyt medl.: Sonja Albrink (CD)
+Retsudvalget (14/9 92):
+
+11419
+
+18/9 92: Meddelelser fra formanden";Formanden
+113331;title_name;"Udtræder: Arne Melchior (CD)
+Ny stedf.: Svend Aage Jensen (CD)
+Socialudvalget (14/9 92):
+Udtræder: Hans Jørgen Jensen (S)
+Ny stedf.: Hanne Andersen (S)
+Landbrugs- og Fiskeriudvalget (15/9 92):
+Udtræder: Annette Just (FP)
+Ny stedf.: Ernst B. Schmidt (FP)
+jSocialudvalget (15/9 92):
+Udtræder: Hanne Andersen (S)
+Ny stedf.: Hans Jørgen Jensen (S)
+Det Udenrigspolitiske Nævn (15/9 92):
+Udtræder: Pia Kjærsgaard (FP)
+Nyt medl.: Kim Behnke (FP)
+
+11420
+
+Udvalget for Forretningsordenen (17/9 92):
+Udtræder: Marianne Jelved (RV)
+Nyt medl.: Niels Helveg Petersen (RV)
+Forsvarsudvalget (17/9 92):
+Udtræder: Kofod-Svendsen (KRF)
+Nyt medl.: Glønborg (KRF)
+Sundhedsudvalget (17/9 92):
+Udtræder: Pia Kjærsgaard (FP)
+Ny stedf,: Kirsten Jacobsen (FP)
+Hvis det skulle blive nødvendigt at indkalde
+Folketinget til flere møder i dette folketingsår,
+vil meddelelse herom blive tilstillet medlemmerne.
+Mødet hævet kl. 15.26";Formanden

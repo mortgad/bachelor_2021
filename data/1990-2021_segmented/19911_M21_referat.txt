@@ -1,0 +1,2976 @@
+split;reason;text;value
+0;;"2625
+
+l
+
+(165)
+22/11 91: Dagsorden
+
+2626
+
+Af Kim Behnke (FP) m.fl.
+
+Meddelelser fra formanden:
+21. møde";
+142;Time;"Dagsorden:
+1) Første behandling af lovforslag nr. L 108:
+Forslag til lov om ændring af lov om landinspektørvirksomhed. (Landinspektørselskaber).
+Af boligministeren (Svend Erik Hovmand).
+2) Første behandling af lovforslag nr. L 109:
+Forslag til lov om ophævelse af lov om statens bygge- og boligfond.
+Af boligministeren (Svend Erik Hovmand).
+3) Første behandling af lovforslag nr. L 86:
+Forslag til lov om ændring af lov om midlertidig regulering af boligforholdene. (Præcisering af regler for benyttelse af helårsboliger).
+Af Pia Gjellerup (S) m.fl.
+4) Første behandling af lovforslag nr. L 102:
+Forslag til lov om ændring af lov om markedsføring. (Ophævelse af markedsføringsforbud).
+Af Michael Kock (FP) m.fl.
+5) Første behandling af lovforslag nr. L 103:
+Forslag til lov om ændring af lov om markedsføring. (Forbud mod mængdebegrænsning).
+Af Jes Lunde (SF) m.fl.
+6) Første behandling af beslutningsforslag nr.
+B 3:
+Forslag til folketingsbeslutning om privatisering af Dansk Olie og Naturgas A/S.
+Af Kim Behnke (FP) m.fl.
+7) Første behandling af beslutningsforslag nr.
+B 4:
+Forslag til folketingsbeslutning om stop for
+tvangstilslutning til kollektiv energiforsyning.";kl. 10.00
+1325;title_name;"Boligministeren (Svend Erik Hovmand) har
+meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring a f lov om
+lejeregulering i erhvervslokaler m.v., lov om leje
+og lov om retsafgifter. (Erhvervslejemål).
+(Lovforslag nr. L 122).
+Medlemmer af Folketinget Svend Auken
+(S), Ritt Bjerregaard (S), Ole Espersen (S),
+Hjortnæs (S), Hans Hækkerup (S), Anker Jørgensen (S) og Risgaard Knudsen (S) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om oprettelse
+af et Østersøråd.
+(Beslutningsforslag nr. B 26).
+Medlemmer af Folketinget Kim Behnke
+(FP), Ole Donner (FP), Kirsten Jacobsen (FP)
+og Poul Nødgaard (FP) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om stop for
+indfrielse a f en statsgaranti på 547 mio. kr. for
+en række almennyttige boligselskabers ubebyggede grunde.
+(Beslutningsforslag nr. B 27).
+Skriftlig fremsættelse afforslag:
+Boligministeren (Svend Erik Hovmand):
+Jeg tillader mig herved for Folketinget at
+fremsætte:
+Forslag til lov om ændring af lov om
+lejeregulering i erhvervslokaler m.v., lov om leje
+og lov om retsafgifter. (Erhvervslejemål).
+(Lovforslag nr. L 122).
+På baggrund af forårets debat om erhvervslejeloven bad jeg repræsentanter for lejere og
+udlejere om sammen at drøfte, hvilke ændringer det kunne være hensigtsmæssigt at gennemføre i den gældende lovgivning.
+Da det ikke lykkedes parterne at opnå enighed om et fælles udspil, er det hensigten med
+
+2627
+
+22/11 91: Skriftlig fremsættelse af forslag";Formanden
+2873;title_name;"nærværende lovforslag at skabe ro på området
+og derved give bedre mulighed for en stabil og
+positiv udvikling for erhvervsbyggeriet.
+Lovforslaget indeholder følgende hovedelementer:
+1. For eksisterende lejemål indføres der parallelitet med hensyn til den periode, hvor
+hverken lejer eller udlejer kan kræve lejen reguleret under henvisning til det lejedes værdi.
+Perioden foreslås fastsat til 4 år.
+2. Ved genudlejning foreslås som ovenfor en
+gensidig fredning på 4 år samt mulighed for, at
+parterne ved aftale kan forlænge den periode,
+hvor der ikke kan kræves lejeforhøjelse eller
+lejenedsættelse under henvisning til det lejedes værdi, med yderligere 4 år.
+3. For nybyggeri foreslås indført aftalefrihed.
+4. Det foreslås, at alle lejeforhøjelser og alle
+lejenedsættelser fordeles over 4 år med en fjerdedel årligt.
+Herudover indeholder forslaget nogle præciseringer og ændringer vedrørende lejens regulering og det lejedes værdi samt kontraktens
+indhold. De foreslåede ændringer af kravene
+til kontraktens udformning vil give erhvervslejere og -ejere bedre mulighed for at overskue
+og vurdere konsekvenserne af en lejeaftale.
+Endelig indeholder forslaget en ophævelse
+af retsafgiftsfritagelsen i lejenedsættelsessager,
+hvorved der skabes parallelitet mellem lejer og
+udlejer.
+Idet jeg i øvrigt henviser til lovforslaget og
+de bemærkninger, der ledsager det, skal jeg anbefale forslaget til Tingets velvillige behandling.";Boligministeren
+4312;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om oprettelse
+a f et Østersøråd.
+(Beslutningsforslag nr. B 26).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager beslutningsforslaget, og anbefaler
+det til Tingets velvillige behandling.";Svend Auken
+4629;name_party;":
+Som ordfører for forslagsstillerne skal jeg
+hermed tillade mig at fremsætte:
+Forslag til folketingsbeslutning om stop for
+indfrielse af en statsgaranti på 547 mio. kr. for
+
+2628
+
+en række almennyttige boligselskabers ubebyggede grunde.
+(Beslutningsforslag nr. B 27).
+Jeg skal i øvrigt henvise til forslagets tekst og
+de bemærkninger, som ledsager det, samt ikke
+mindst aktstykkets tekst.
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 108s
+Forslag til lov om ændring af lov om landinspektørvirksomhed. (Landinspektørselskaber).
+Af boligministeren (Svend Erik Hovmand).
+(Fremsat 14/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Kim Behnke
+5317;name_party;":
+I dag kan landinspektører kun arbejde i enkeltmandsvirksomheder, og nu foreslår boligministeren, at landinspektører også skal have
+lov til at slutte sig sammen i selskaber. Det har
+andre grupper, f.eks. advokaterne, allerede fået lov til, og hvis man går ind for at gøre det, er
+forslaget sådan set udformet fornuftigt nok.
+Men Socialdemokratiet vil i dag hverken sige ja eller nej til forslaget. Vi vil først have undersøgt, især om det har konsekvenser for
+statskassen. Der står ganske vist i forslaget, at
+det ikke har provenumæssige konsekvenser,
+men vi er ikke sikre på, at det er rigtigt. Selskabsformen har nemlig givet advokaterne adgang til en række fradrag, og forslaget her vil
+give landinspektørerne samme mulighed.
+Derfor vil vi først have undersøgt, hvordan
+det er gået med skatteprovenuet fra advokaterne, og vi vil have undersøgt, hvad dette vil betyde for landinspektørernes skattebetaling, inden vi giver vores endelige tilsagn eller det
+modsatte.";Karen Jespersen
+6303;name_party;":
+Det Konservative Folkeparti kan støtte dette
+lovforslag. Vi finder, at det er et naturligt led i
+tilpasningen til vort stadig mere specialiserede
+samfund, hvor der stilles stigende krav også til
+landinspektører.
+Efter vores opfattelse er det fornuftigt at
+vælge den model, der gælder for advokater, så-
+
+2629
+
+22/11 91: 1. beh. af f. t. 1. vedr. landinspektørvirksomhed";Pernille Sams
+6693;title_name;"ledes at landinspektørerne trods selskabsformen beholder det personlige professionsansvar. Vi finder, det er helt afgørende, at landinspektørers uafhængighed ikke sættes over styr.
+Det er helt essentielt for den rolle, landinspektørerne skal udfylde, og den tillid, erhvervet
+bredt skal nyde, men vi mener heller ikke, at
+der sker en udtynding af uafhængigheden med
+denne ændring, og vi skal gøre vores til en hurtig udvalgsbehandling.";Pernille Sams
+7145;name_party;":
+Lovforslag nr. L 108 handler om at give
+landinspektørerne flere muligheder for at drive
+deres virksomhed. Den tid, vi lever i, kræver
+mere viden, mere teknik og en hurtig sagsbehandling også for landinspektører, og derfor er
+det nødvendigt at ændre den virksomhedsform, landinspektørerne hidtil har haft, nemlig
+enkeltmandseje, til at være og kunne mere. Det
+er derfor hensigten at give mulighed for at danne selskaber, så der lettes adgang til kapitalfremkaldelse og stordriftsfordele, så man kan
+imødekomme de stigende krav, både når man
+taler om erhvervsliv og samfund.
+Venstre vil gerne anbefale lovforslaget med
+de bemærkninger i lovforslaget, der sikrer
+landinspektørernes uafhængighed af forskellige interesser. Vi er også indforstået med boligministerens bemyndigelse til at fastsætte de
+nærmere regler for at udøve landinspektørvirksomhed i selskabsform.";Bodil Thrane
+8027;name_party;":
+SF vil gerne medvirke til en positiv behandling af dette forslag i Folketingets Boligudvalg.
+Vi har set, at der er tale om et ønske fra landinspektørerne selv om at få en sådan ændring til
+forbedring af virksomheden, og det vil vi meget gerne være med til at se nøjere på og sandsynligvis også gerne være med til at gennemføre.";Pelle Voigt
+8372;name_party;":
+Vi har fuld forståelse for, at landinspektørerne ønsker frihed til selv at afgøre, hvilken organisationsform deres virksomhed skal have, og
+derfor støtter vi selve den del af det. Vi har også fuld forståelse for, at man er nødt til, netop
+når det drejer sig om virksomheder som landinspektørvirksomheder, at have reglen om, at
+der er en personlig hæftelse ud over selskabsformen.
+
+2630
+
+Derimod kan vi ikke se, hvorfor aktier og
+anparter i selskaberne kun skulle kunne ejes af
+landinspektører med beskikkelse. Der tales
+grundigt i bemærkningerne om behovet for at
+få tilført ny kapital, for at få nye organisationsformer, at man sammenslutter sig, at man gør
+sig bedre, både økonomisk og driftsmæssigt.
+Hvis det skal kunne lykkes, må der være brug
+for også at få tilført kapital udefra, og derfor
+har vi svært ved at forstå, hvorfor andre ikke
+skal have lov til at købe aktier eller anparter i
+disse selskaber.
+Vi kan heller ikke forstå, hvorfor det er boligministeren, der skal bestemme, hvad der
+sker, når en af disse landinspektører dør og aktierne skal afhændes. De må efter vores mening efter ganske normale regler kunne indgå i
+boopgørelseme.
+Vi har også svært ved at forstå, at boligministeren skal bestemme, hvad disse virksomheder må have lov til at hedde. Om det skal hedde Pedersens eller Jensens landinspektørvirksomhed, er tilsyneladende noget, som boligministeren skal bestemme. Det har vi svært ved at
+forstå. Der er slet ikke samme regler, når man
+sammenligner med det, der henvises til, nemlig
+f.eks. advokatvirksomhederne. Det er ikke justitsministeren, der bestemmer, hvilket navn
+advokatvirksomhedeme skal have. Derfor kan
+vi slet ikke finde belæg for det ønske fra boligministeren.
+Endvidere er der spørgsmålet om, hvorvidt
+en landinspektør må være bestyrer af mere end
+ét kontorsted. Der er heller ikke samme regler
+om, at en advokat, som laver filialer rundt omkring, skal have en bestemt uddannet advokat
+til at bestyre det pågældende kontor. Vi kan da
+i hvert fald ikke forstå, hvis landinspektørerne
+selv har bedt om de regler. Det er regler, der
+kun er til for reglernes skyld, og for at man i
+Boligministeriet kan have en masse embedsmænd til at sidde og se, om reglerne nu bliver
+overholdt.
+Når vi når til nr. 3, kommer der en anden
+interessant sag, nemlig at det er sådan, at hvis
+landinspektøren ikke selv vil påtage sig en
+given opgave, kan boligministeren simpelt hen
+pålægge en landinspektør at påtage sig opgaven, og det kan vi heller ikke forstå, når man
+tænker på, at boligministeren samtidig er minister for Kort- og Matrikelstyrelsen, og at man i
+Kort- og Matrikelstyrelsen har landinspektører ansat.
+
+2631
+
+22/11 91: 1. beh. af f. t. 1. vedr. landinspektørvirksomhed";Kim Behnke
+11096;title_name;"Altså hvis der skal foretages landinspektørarbejde, når ingen af de private ønsker at foretage det arbejde, hvorfor i alverden skal ministeren så ud og pålægge en af de private at gøre det, når ministeren samtidig er minister for
+Kort- og Matrikelstyrelsen? Så kunne man da
+sende en mand eller en dame fra Kort- og Matrikelstyrelsen ud og gennemføre det pågældende stykke arbejde, frem for at ministeren
+skal til at pålægge en privat virksomhed at udføre et bestemt stykke arbejde.
+Derfor må vi sige, at selve det, forslaget sælges under, nemlig spørgsmålet om at landinspektører skal have lov til at operere i anpartsog aktieselskabsform, støtter vi, men alle disse
+ministerielle beføjelser til at gribe ind i en ellers fri næring kan vi ikke støtte, og derfor vil
+vi under det udvalgsarbejde, der nu skal i
+gang, forsøge, eventuelt gennem ændringsforslag, at få disse vildskud pillet ud, så vi kan
+ende med et forslag, der giver landinspektørerne den frihed, de selv har ønsket.";Kim Behnke
+12099;name_party;":
+Centrum-Demokraterne er enige i hensigten
+med det fremsatte lovforslag, der tager sigte på
+at tillade dannelse af landinspektørvirksomhed i selskabsform. Flere liberale erhverv har i
+dag denne mulighed, f.eks. statsautoriserede
+revisorer og advokater, så CD finder det helt
+rimeligt, at også landinspektørvirksomhed kan
+drives i selskabsform.
+Til hr. Kim Behnke vil jeg gerne sige, at jeg
+finder det helt rigtigt, at landinspektørvirksomhed kun må drives af landinspektører og
+således, at ejerskabet alene er landinspektørens: det samme gælder for advokatvirksomheder og statsautoriserede revisorer, hvor der
+heller ikke må komme anden form for kapital
+ind i billedet.
+CD vil medvirke til en hurtig udvalgsbehandling.
+Vibeke Grønbæk (RV):
+Da mit partis ordfører ikke kan være til stede i dag, vil jeg gerne komme med følgende
+bemærkninger til lovforslaget:
+Efter at Folketinget i 1990 traf den principielle beslutning om at tillade advokater at drive
+virksomhed i selskabsform, er der ikke noget
+mærkeligt i, at denne mulighed nu også åbnes
+for andre liberale erhverv, der arbejder på
+
+2632
+
+grundlag af en autorisation. Det Radikale Venstre kan derfor principielt tilslutte sig, at der
+gives landinspektører mulighed for at drive
+virksomhed i form af enten aktie- eller anpartsselskab.
+I betragtning af den øgede internationale
+konkurrence, som kan forudses i de kommende år, er en sådan modernisering af lovgivningen formentlig helt nødvendig.
+Som det er klart understreget i ministerens
+bemærkninger til lovforslaget, er det imidlertid
+nødvendigt at stille en række betingelser for
+udøvelsen af landinspektørvirksomhed i selskabsform. Uafhængigheden af uvedkommende interesser og det nære tillidsforhold mellem
+landinspektør og kunde må også kunne bevares fremover. Det vil være helt uholdbart, hvis
+der på landinspektørområdet skabes forhold,
+der minder om den uklarhed og tendens til interessesammenblanding, som i nogen tid har
+kendetegnet ejendomsmæglermarkedet. Det er
+derfor godt, at lovforslaget fastholder den
+praktiserende landinspektørs personlige og solidariske ansvar, og det er godt, at der er klare
+bestemmelser om, hvem der kan eje aktier og
+anparter, og hvem der kan sidde i bestyrelse og
+direktion.
+Om der stadig mangler en enkelt sikkerhedssele hist og her til at sikre den nødvendige uafhængighed og tillid, må udvalgsarbejdet jo vise, men umiddelbart virker det, som om boligministeren har haft en heldig hånd med det foreliggende lovforslag. Vi kan derfor fra radikal
+side tilsige lovforslaget en hurtig og positiv behandling.";Svend Aage Jensen
+14677;name_party;":
+Fra Kristeligt Folkepartis side kan vi også
+tilslutte os hovedtanken i dette lovforslag. Vi
+synes, det er rigtigt og fornuftigt, at landinspektører nu får mulighed for at praktisere deres arbejde i selskabsform. Om man så i lovforslaget helt tilstrækkeligt har sikret ansvarsområdet, må vi have opklaret i udvalget, men
+umiddelbart synes vi, det ser fornuftigt ud, og
+vi kan støtte lovforslaget.
+Boligministeren (Svend Erik Hovmand):
+Jeg vil gerne sige tak for en generelt positiv
+modtagelse af dette forslag, som jo er fremsat
+på baggrund af den samfundsmæssige udvikling, vi oplever både herhjemme og i relation
+
+2633
+
+22/11 91: 1. beh. af f. t. 1. vedr. landinspektørvirksomhed";Lysholm Christensen
+15380;title_name;"til EF. Der er brug for en udvikling af dette
+erhvervs muligheder i retning af ny teknologi,
+større specialisering, uddannelsesmuligheder
+osv.
+Men det er også klart, at når vi gør det, som
+landinspektørerne selv har bedt om, og som vi
+naturligvis lægger megen vægt på, er det vigtigt, at vi sikrer, at den uafhængighed og interesse, som jo er et overordentlig væsentligt
+grundlag for det tillidsforhold, som landinspektørerne arbejder under, også kan sikres i
+tilstrækkeligt omfang.
+Jeg har mærket mig de synspunkter og konkrete spørgsmål, som hr. Kim Behnke gjorde
+opmærksom på, og andre var også inde på helt
+konkrete, detaljerede spørgsmål, som jeg meget gerne vil have lejlighed til at uddybe mere
+under udvalgsarbejdet. Det skal ikke skorte på
+min vilje også til at vise fleksibilitet ud fra de
+grundlæggende hensyn, som jeg her har skitseret.
+Jeg tror på, at vi har fundet den rigtige model med dette lovforslag, men lad os nu se på
+de konkrete spørgsmål i udvalgsarbejdet.";Boligministeren
+16375;name_party;":
+Jeg vil ikke sige, at jeg er tilfreds med boligministerens indlæg. Boligministeren fremsætter et lovforslag og ønsker Folketingets stillingtagen til det. Når man så stiller spørgsmål
+til de enkelte punkter - det er jo et relativt
+overskueligt forslag - må man da kunne forvente under førstebehandlingen at få svar på
+sine spørgsmål.
+Jeg kan da godt forstå, at nogle kan være
+bekymret - det er ikke en bekymring, jeg deler,
+men jeg kan forstå, at nogle kan været bekymret for, om disse aktier sådan bliver spredt ud
+og bliver ejet af japanske skrothandlere og
+sydafrikanske gullaschbaroner, og hvem man
+ellers kunne frygte pludselig ejede aktierne i et
+dansk landinspektørselskab, men som paragrafferne er formuleret, og det er jo det, vi skal
+tage stilling til, betyder det rent faktisk, at hvis
+en landinspektør, som har en andel i et selskab, går hen og dør, så må ægtefællen ikke
+overtage hans aktier, for det kræver, at ægtefællen selv så i givet fald skal være landinspektør. Det er jo nogle helt urimelige regler, som
+slet ikke gælder på andre områder.
+Endvidere tog ministeren slet ikke stilling til
+spørgsmålet om, hvorvidt ministeren ikke bare
+
+2634
+
+kan sende Kort- og Matrikelstyrelsen ud de
+steder, hvor de private ikke ønsker at udføre en
+konkret opgave. Og endelig er der spørgsmålet
+om, at der kun må være ét kontorsted. Jamen
+har man da hørt mage: at det for andre brancher gælder, at der kun må være ét kontorsted?
+Hvorfor må man ikke have filialer rundt omkring, hvis man har behov for det?
+Sidst, men ikke mindst, hvorfor skal boligministeren sidde og bestemme, hvad den enkelte virksomhed skal hedde, når den enkelte
+virksomhed bliver navngivet? Tilsvarende regler eksisterer jo hverken for advokater, revisorer, ejendomsmæglere eller nogen som helst
+andre. De afgør da selv, hvilket navn de vil have.
+Boligministeren (Svend Erik Hovmand):
+Jeg skal såmænd ikke forlænge debatten væsentligt. Jeg vil bare pege på, at en række af de
+spørgsmål, som hr. Kim Behnke har fremhævet her, har jeg stillet mig åben for at redegøre
+for og diskutere baggrunden for i udvalget.
+Når jeg ikke synes, at der er baggrund for at
+gå ind i en detaljeret diskussion, er det, fordi
+der selvfølgelig bag hvert enkelt initiativ ligger
+grundige overvejelser, f.eks. i spørgsmålet om
+navn. Det er min oplevelse af de erfaringer,
+man har gjort i andre brancher - også på baggrund af det, man har oplevet omkring advokater - at man skal passe på ikke at skabe en
+monopolmulighed for en enkelt virksomhed
+ved at fastlægge et bestemt f.eks. geografisk
+navn. Der har været problemer om det spørgsmål i andre sammenhænge, og jeg vil gerne have lejlighed til at vise hr. Kim Behnke eksempler på, hvordan disse problemer i virkeligheden er opstået, og hvad der er baggrunden for,
+at vi helt konkret har foreslået det, vi har.
+Jeg vil igen understrege, at jeg er ganske
+åben for, at vi tager en diskussion i udvalget
+om en række af disse detaljer. Jeg vil gerne
+fremlægge de erfaringer, vi har, og de begrundelser, vi har, og jeg er naturligvis parat til at
+drøfte de konsekvenser, det må give.";Kim Behnke
+19476;name_party;":
+Jeg vil gerne sige, at netop hr. Kim Behnkes
+indvendinger kunne være et meget godt udtryk
+for, at det i virkeligheden er en dårlig idé at
+vedtage dette forslag. Grunden til, at man ikke
+bare laver landinspektørvirksomhed til en al-
+
+2635
+
+22/11 91: 1. beh. af f. t. 1. vedr. landinspektørvirksomhed";Karen Jespersen
+19797;title_name;"mindelig forretning, er jo, at de matrikulære
+opgaver er meget følsomme opgaver, der bl.a.
+handler om udstykning osv. De hviler på et
+ekstremt tillidsforhold, og det betyder, at man
+altså ikke bare kan lave det til ren business.
+Derfor er man nødt til at belægge denne selskabsform med en masse fiksfakserier og begrænsninger, som skal til for at sørge for, at
+disse opgaver bliver udført på en fornuftig måde.
+Derfor må man også spørge sig selv, om det
+ikke også er et meget godt udtryk for, at den
+eneste grund til, at man vil lave disse selskaber, er for at udnytte nogle skattemæssige fordele, og jeg kan altså ikke se, at vi i denne tid
+ligefrem har behov for at bidrage til at tømme
+den slunkne statskasse med nogle ekstra skattefordele for denne gruppe. Derfor vil det stadig væk være vores indstilling, at vi skal se på i
+udvalgsarbejdet, om dette lovforslag ikke kommer til at betyde et provenutab for statskassen.
+Boligministeren (Svend Erik Hovmand):
+Må jeg på baggrund af det sidste indlæg gøre en for mit vedkommende sidste tilføjelse:
+Det sidste indlæg afslører jo med al ønskelig
+tydelighed behovet for, at vi ser nærmere på
+detaljerne i udvalgsarbejdet, for hvad er det,
+der er ved at ske her? Vi oplever, at Socialdemokratiet ud fra en, skal vi sige konservativ
+holdning, et ønske om at styre fra samfundets
+side og en klar modstand mod den frihed, som
+landinspektørerne ønsker sig, er meget tøvende over for at gå ind for dette lovforslag. Det
+var jo det, vi hørte her fra talerstolen: Nej, vi
+skal endelig ikke lave om på noget, vi skal endelig bevare det statslige system, vi skal endelig passe på ikke at give nogen som helst form
+for øget frihed på dette område.
+Og på den anden side oplever vi så hr. Kim
+Behnke med de betænkeligheder, han giver
+udtryk for. I mellemgruppen er vi en række
+partier, en række liberale og socialistiske partier, som har en anden opfattelse. Jeg mærkede
+mig det indlæg, som hr. Pelle Voigt kom med,
+hvor han sagde: Jeg er principielt enig i dette
+forslag, jeg synes, det er et godt forslag, men
+der kan være nogle detaljer, o.k. Det er milevidt fra den holdning, som Socialdemokratiet
+giver udtryk for. Jeg synes, det er meget interessant.
+
+2636
+
+For nu ikke at gøre denne lille sag til en stor
+ideologisk sag, sådan som jeg næsten fornemmer at der er lagt op til, vil jeg bare sige stille
+og roligt, at jeg tror, at mange af de spørgsmål,
+der har været rejst, vil være bedst tjent med, at
+vi stille og roligt redegør for dem under udvalgsarbejdet og ser på, hvilke saglige begrundelser der er for den opbygning, som forslaget
+nu har fået.
+(Kort bemærkning).";Karen Jespersen
+22427;name_party;":
+Nu er der vel stadig væk en del opgaver i
+samfundet, som ministeren ikke uden videre
+vil lægge ud til fri selskabsdannelse. Og så vil
+jeg lige gøre opmærksom på, at man jo sagtens
+kan gøre det, at man siger, at der er en række
+opgaver, landinspektørerne har, som de kan
+udøve i selskabsform: det handler jo lige præcis om, hvorvidt de meget følsomme matrikulære opgaver også skal lægges over i selskabsform. Her synes vi stadig væk at samfundets og
+kundernes tarv skulle sættes over landinspektørernes tarv.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Karen Jespersen
+23060;title_name;"Jeg foreslår, at lovforslaget henvises til Boligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 109:
+Forslag til lov om ophævelse af lov om statens
+bygge- og boligfond.
+Af boligministeren (Svend Erik Hovmand).
+(Fremsat 14/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling
+
+2637
+
+22/11 91: 1. beh. af f. t. 1. vedr. statens bygge- og boligfond";Formanden
+23567;name_party;":
+Socialdemokratiet kan give sin tilslutning til
+dette lovforslag.
+Hvis oprettelse af fonden og anvendelse af
+fondens midler efter deres formål var alternativet, var det en anden sag, men som fonden er
+blevet administreret, er det kun et bureaukratisk æskesystem. Bevilling af penge fra fondens
+midler er jo helt parallel med bevilling fra
+statskassen. Fonden, som den bliver administreret, sikrer ikke på nogen måde en særlig
+indsats på bygge- og boligområdet. Hvis den
+havde gjort det, havde det været en anden sag.
+Derfor kan vi tilslutte os lovforslaget, der ophæver fonden.
+Jeg vil imidlertid gerne tilføje, at vi lægger
+afgørende vægt på, at kommunerne ikke stilles
+økonomisk dårligere. Det har boligministeren
+også givet udtryk for i de bemærkninger, der er
+knyttet til lovforslaget, at de ikke gør.
+Vi mener også, at det må slås helt fast, at
+fondens ophævelse ikke påvirker Boligministeriets totalrammer og altså ikke vil påføre
+Boligministeriet besparelser. Jeg vil egentlig
+gerne have, at boligministeren vil bekræfte, at
+sådan forholder det sig.
+Vi kan også give tilslutning til, at en del af
+fondens midler anvendes til indfrielse af den
+statsgaranti, som er givet for en række ubebyggede grunde. Hermed har vi ikke taget stilling
+til, hvordan resten af midlerne skal anvendes,
+men alene til, at de midler, som denne garanti
+kræver, kan tages fra denne fond med de obligationer, der ligger i den.
+Hermed vil jeg gerne give tilslutning til forslaget.";Baadsgaard
+25048;name_party;":
+Jeg kan meget kort give Det Konservative
+Folkepartis tilsagn om, at vi ophæver statens
+bygge- og boligfond, det har vi ingen indvendinger imod.
+Desværre kan vi jo anstændigvis ikke her i
+dag ændre de tidligere givne tilsagn om statsgarantier, som en del af pengene skal anvendes
+til at dække. For mig er det helt grotesk, at almennyttige boligselskaber blot har kunnet opkøbe i massevis af grunde, mens staten automatisk skal dække det underskud, der derved
+er opstået.
+Men det viser jo med al ønskelig tydelighed,
+at det er nødvendigt at binde kompetencen til
+
+2638
+
+at handle tæt sammen med det økonomiske
+ansvar for handlingerne, ellers går det galt, ikke kun som det her er gået, men også andre
+steder, hvor man lader andre spekulere for
+skatteydernes penge. Det er værd at skrive sig
+bag øret, også med henblik på andre af de sager, vi behandler herinde.
+Vi støtter altså, at fonden ophæves, således
+som lovforslaget indebærer.";Pernille Sams
+25999;name_party;":
+Dette lovforslag handler om at ophæve statens bygge- og boligfond. Som der står i boligministerens anbefaling, har hensigten med loven i første omgang i sin tid været at yde lån til
+beboerindskud gennem kommunerne. Da loven om individuel boligstøtte nu imødekommer det behov, er der ikke længere basis for
+denne mulighed.
+Det andet punkt, som loven om statens bygge- og boligfond har handlet om, har været en
+garantiordning for nogle grunde, der er købt af
+almennyttige boligselskaber i 1970'erne til en
+alt for høj pris. Et flertal i Folketinget fandt det
+på det tidspunkt nødvendigt at gå ind med en
+garanti for 14 af 21 arealer til en vurderingssum af 510 mio. kr.
+Det, der nu står tilbage, er 8 ubebyggede
+grunde og 2, der er i en venteposition, og i bedste fald vil det udløse 547 mio. kr. for fonden
+eller for staten. Når de to tal ikke er sammenlignelige, skyldes det naturligvis, at statens garanti har omfattet både renter og skatter af de
+almennyttige boligselskabers investeringer.
+Med forslaget anbefales, at staten overtager
+denne forpligtelse, som forfalder til betaling
+den 31. december 1991. Til gengæld betyder
+forslaget, at den oprindelige statsreserverede
+obligationsbeholdning på 1 mia. kr. lægges tilbage i statskassen med tak for lån.
+Da Venstre arbejder for forenklinger og mere gennemsigtighed, anbefaler vi lovforslaget
+fra boligministeren.";Bodil Thrane
+27383;name_party;":
+I SF er vi faktisk af den opfattelse, at statens
+bygge- og boligfond burde have været aktiveret for længe siden og sat til at gøre det, som
+den i sin tid blev oprettet for, og det, at det
+ikke er sket på grund af politiske tilstande i
+Boligministeriet, synes vi ikke er det bedst
+tænkelige argument for nu at ophæve den: ej
+
+2639
+
+22/11 91: 1. beh. af f. t. 1. vedr. statens bygge- og boligfond";Pelle Voigt
+27796;title_name;"heller det, at riget stander i våde, og at man i
+den øjeblikkelige situation mangler nogle midler til at indfri garantiforpligtelser, der ikke i
+sig selv har meget med det her at gøre.
+Vi vil senere få lejlighed til i folketingssalen,
+har jeg forstået, at diskutere aktstykket om de
+afgivne garantier til en række almennyttige boligselskaber, og det ser jeg frem til. Jeg synes
+sådan set ikke, der er nogen grund til at tage
+denne debat nu, men jeg vil godt til boligministerens orientering sige, at når vi får debatten
+om aktstykket, vil jeg på SF's vegne udtrykke
+nogen undren over den utrolige passivitet, Boligministeriet har udfoldet i de sidste 10 år i
+forhold til det, vi i sin tid vedtog i de to aktstykker i 1982 og 1983, og udtrykke stor undren over, at den nuværende eller tidligere boligministre øjensynlig ikke på noget tidspunkt
+har overvejet at anvende den bemyndigelse,
+som lå i aktstykkerne, til at kræve disse grundstykker afhændet, da det stod klart, at de aldrig ville blive bebygget. Den diskussion får vi
+på et senere tidspunkt, når vi skal behandle
+aktstykkerne her i folketingssalen, og det ser
+jeg som sagt frem til.
+Jeg ser også frem til, at vi måske i udvalget
+kan få en grundig orientering og drøftelse om,
+hvorfor denne bygge- og boligfond aldrig nogen sinde har kunnet fungere efter sin hensigt.";Pelle Volgt
+29137;name_party;":
+Igennem årene har Fremskridtspartiet ved
+mange lejligheder argumenteret for, at statens
+bygge- og boligfond skulle nedlægges. Den cigarkasseøkonomi, som disse mange fonde,
+man har rundt omkring i staten, er udtryk for,
+er vi inderligt imod. Vi ser ikke noget formål
+med disse fondsdannelser, så hvis vi skal tage
+stilling til selve lovteksten, er der ingen tvivl
+om, at efter Fremskridtspartiets opfattelse bør
+denne bygge- og boligfond nedlægges, jo før jo
+hellere.
+Vi har igennem årene ved flere lejligheder
+foreslået, at i hvert fald afkastet af bygge- og
+boligfonden blev anvendt bedre, end tilfældet
+hidtil har været. Det fremgår jo også af bemærkningerne til forslaget, at fonden blev oprettet i 1967 med det formål, at når der var behov for en særlig indsats på en række felter inden for bygge- og boligområdet, havde man
+denne formue til rådighed. Ikke mindst, da vi
+for ca. halvandet år siden havde de store de-
+
+l 2640
+
+batter her i Folketinget om, hvad man kunne
+gøre for de mange tvangsauktionstruede familier, pegede vi gang på gang på, at man kunne
+bruge de næsten 2 mia. kr., der står i fonden,
+men forslaget blev jo grundigt afvist uden særlig begrundelse. Nu har den seneste udvikling
+jo vist, hvorfor man ikke kunne anvende de
+penge. Man har ganske enkelt brugt dem til at
+kautionere for en statsgaranti, så de hverken
+likvidt eller reelt er til stede.
+Og så kommer vi til et meget væsentligt
+punkt i bemærkningerne til forslaget, nemlig
+spørgsmålet om, hvorvidt en del af det indestående skal bruges til at indfri denne statsgaranti. Jeg ér ganske enig med hr. Pelle Voigt i, at
+den diskussion er der ingen grund til at tage i
+dag. Jeg har foranlediget, at vi får diskussionen
+en anden dag, så hele spørgsmålet om den garantiforpligtelse vil jeg lade ligge. Men når de
+ærede medlemmer får nærlæst Fremskridtspartiets forslag, vil man opdage, at det i hvert
+fald er Fremskridtspartiets opfattelse, at staten
+ikke skal bruge penge på disse garantiforpligtelser. Disse 547 mio. kr. må udredes et helt,
+helt andet sted, nemlig dér, hvor ansvaret ligger, og det er altså ikke hos de danske skatteydere.
+Derfor mener vi, at denne fond skal nedlægges, og at pengene skal anvendes fornuftigt. De
+skal anvendes til det oprindelige formål, nemlig til forbedringer på bygge- og boligområdet,
+og her er der jo rigeligt at tage fat på. Så i stedet for at kaste pengene i et sort hul, som man
+foreslår for de 547 mio. kr.s vedkommende,
+mener vi, at midlerne skal anvendes til noget,
+der er perspektiver i, noget, der er fremtid i.
+Kan vi få en aftale om en sådan anvendelse af
+midlerne, medvirker vi gerne til at ophæve fonden. Hvis der ikke foreligger en sådan aftale,
+hvis det bare er meningen, at pengene mere eller mindre skal kastes i grams, ser vi derimod
+ikke nogen grund til at nedlægge fonden. Så
+må vi hellere lade den bestå, indtil et flertal er
+parat til at anvende pengene til noget fornuftigt.";Kim Behnke
+32074;name_party;":
+Centrum-Demokraterne har forståelse for
+forslaget, bl.a. på baggrund af den garantiforpligtelse, som staten skal indfri ved årsskiftet
+vedrørende de ubebyggede grunde, som en
+række almennyttige boligselskaber har indkøbt. Vi vil deltage positivt i udvalgsarbejdet.
+
+2641
+
+22/11 91: 1. beh. af f. t. 1. vedr. statens bygge- og boligfond
+
+Vibeke Grønbæk (RV):
+Det Radikale Venstre ser positivt på dette
+lovforslag. Tiden synes at være løbet fra statens bygge- og boligfond.
+Som det fremgår af bemærkningeme til lovforslaget, er der faktisk ikke ydet lån siden
+1981 på en række af de områder, fonden har
+mulighed for at støtte, og samtidig er der enten
+via lov om individuel boligstøtte eller ad anden vej skabt mulighed for, at primærkommuner og amtskommuner kan yde disse lån. Samtidig bliver statens garantier for en række almennyttige selskabers fejldispositioner ved
+grundkøb i 1960'erne og 1970'erne aktuelle her
+ved årsskiftet, og en løsning af dette problem
+ved at lade bygge- og boligfondens cigarkasse
+lindre lidt på finansministerens lommesmerter
+forekommer oplagt.";Svend Aage Jensen
+33176;name_party;":
+Jeg skal straks meddele, at Kristeligt Folkeparti gerne medvirker til gennemførelse af dette lovforslag om ophævelse af statens byggeog boligfond.
+Jeg kan dog ikke undlade at nævne, at da
+Finansudvalget behandlede dette aktstykke i
+1981, var Kristeligt Folkeparti ikke med i den
+kreds af partier, som støttede aktstykket. Men
+nu står vi beklageligvis med en stor garantiforpligtelse, som skal indfries, og man kan jo ikke
+gøre meget andet end at sige, at som sagerne
+står nu, er det fornuftigt at ophæve fonden, at
+få den garanti indfriet og finde en fornuftig anvendelse for de resterende midler.
+Boligministeren (Svend Erik Hovmand):
+Jeg vil gerne sige tak for en overvejende positiv tilslutning til lovforslaget om nedlæggelse
+af statens bygge- og boligfond.
+Jeg skal ikke gå ind i nogen omfattende diskussion om fondens oprettelse, dens formål
+osv., men kun sige, at forpligtelserne over for
+kommunerne i forbindelse med indskudslån
+fortsat vil bestå, som der er mulighed for gennem lov om individuel boligstøtte.
+Jeg bemærkede, at hr. Kim Behnke og hr.
+Pelle Voigt ønsker, at diskussionen om de ubebyggede grunde bør udsættes, til vi får det konkrete forslag til behandling her i salen, og hertil skal jeg kun gøre den ene bemærkning, at
+når hr. Pelle Voigt spørger, hvorfor der ikke er
+sket noget mere på dette område, hænger det
+
+2642
+
+bl.a. sammen med, at da jeg tiltrådte for 10-11
+måneder siden, var jeg noget optaget af denne
+garantiforpligtelse - som i parentes bemærket
+absolut ikke var en blomst, som groede i mit
+partis have - hvad ville den resultere i, hvilke
+konsekvenser ville den få for fondens provenu?
+Gennem forhandlinger fandt vi frem til et
+beløb på over Vi mia. kr. Det siger jo en del
+om, at der virkelig var noget at bruge nogle af
+pengene til, og derfor synes jeg, at dette forslag
+anviser en hensigtsmæssig måde at løse tingene på.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+35163;title_name;"Jeg foreslår, at lovforslaget henvises til Boligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 86:
+Forslag til lov om ændring af lov om midlertidig regulering a f boligforholdene. (Præcisering
+af regler for benyttelse af helårsboliger).
+Af Pia Gjellerup (S) m.fl.
+(Fremsat 5/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling
+Boligministeren (Svend Erik Hovmand):
+Hensigten med dette lovforslag er ifølge bemærkningerne at gøre den gældende bestemmelse i lovens § 50 vedrørende anvendelse af
+boliger til andet end helårsbeboelse mere klar,
+tilgængelig og formålstjenlig.
+Det foreslås i den forbindelse, at begrebet
+sommerbenyttelse eller lignende midlertidig
+benyttelse erstattes af »andet end bopæl«.
+Imidlertid synes denne ændring ikke at skabe
+
+2643
+
+22/11 91: 1. beh. af f. t. 1. vedr. regler for benyttelse af helårsboliger";Formanden
+36160;title_name;"større klarhed end den eksisterende formulering, idet begrebet bopæl ikke bruges, ikke
+kendes inden for lejelovgivningen og derfor ikke er tillagt en afgrænset, præcis betydning på
+området.
+At der i bemærkningerne henvises til, at ordet skal forstås i folkeregistermæssig henseende, gør ikke afgrænsningen lettere, idet begrebet i folkeregisterloven anvendes til bestemmelse af, hvor en person skal tilmeldes folkeregistret. I en vejledning til loven er begrebet defineret som det sted, hvor en person regelmæssigt tager sin døgnhvile og opbevarer sit bohave. Sådan står der faktisk. Man kan så spørge,
+hvad der forstås ved »regelmæssigt«, hvor meget bohave der skal være tale om, osv. osv.
+Man kunne faktisk rejse et utal af spørgsmål.
+Denne fastlæggelse af begrebet er imidlertid
+kun en hovedregel, idet der findes en række
+undtagelser, som alt i alt medfører, at begrebet
+ikke nødvendigvis stemmer overens med det i
+lejelovgivningen anvendte begreb helårsbeboelse. På denne baggrund kan man frygte, at en
+ændring som den foreslåede snarere vil resultere i uklarhed på området, i hvert fald indtil
+der er foretaget en nærmere fastlæggelse af begrebets indhold.
+Herudover indeholder forslaget en bestemmelse, som giver kommunalbestyrelsen pligt til
+at fastsætte formaliserede retningslinjer for,
+hvilke kriterier der vil blive lagt til grund ved
+afgørelse af ansøgning om samtykke. Heller ikke dette forslag er jeg begejstret for, idet der
+herved bliver tale om en meget høj grad af detaljering på bekostning af kommunernes mulighed for at skønne under hensyn til den aktuelle lokale boligsituation.
+Uden at dette direkte fremgår af ordlyden,
+tilsigter forslaget efter min opfattelse at skabe
+større parallelitet mellem begrebet helårsbolig
+og regleme om folkeregistertilmelding og ligningskommune. Hvis dette er hensigten, synes
+det umiddelbart mere nærliggende at foretage
+ændringer i disse regler.
+Men ud over alt dette meget konkrete, substantielle, må jeg indrømme, at jeg føler i og
+for sig ikke, at det er noget større problem for
+kommunerne at administrere denne lovgivning, og derfor har jeg i virkeligheden lidt
+svært ved at se, hvorfor vi overhovedet skal
+lovgive på området. Så på denne baggrund
+samt under hensyn til, at en ændring som den
+
+2644
+
+foreslåede ikke bør ske isoleret, men må ses i et
+større perspektiv, kan jeg ikke tilslutte mig lovforslaget.";Boligministeren
+38549;name_party;":
+Det er med et lidt overbærende smil, jeg på
+mit partis vegne afviser at støtte dette forslag.
+Forhistorien til lovforslaget gør det svært at
+tage det helt alvorligt. Det er jo i virkeligheden
+et internt socialdemokratisk problem, som
+man forsøger at gøre til et generelt problem.
+Det er indbegrebet af en hovsaløsning, og det
+er svært at tage helt seriøst, ikke mindst fordi
+en ledende socialdemokrat allerede på forhånd har meddelt, at vedkommende ikke selv
+vil følge loven, hvis den skulle blive vedtaget.
+Men uanset et forslags forhistorie og tilblivelsesvilkår skal man selvfølgelig give indholdet en chance, hvis det er fornuftigt, men det er
+det ikke efter vores opfattelse. Man opfinder et
+stört problem, som i virkeligheden kun er et
+lille københavnsk problem, hvis det da overhovedet eksisterer, og man vil pålægge hele landet nye restriktioner, mere papirarbejde, flere
+reguleringer, selv om enhver må kunne forvisse sig om, at det er det eneste, der i hvert fald
+ikke er behov for: der er behov for det stik
+modsatte.
+De eksisterende regler fungerer i det store
+og hele fint, og efter vores opfattelse er der ingen grund til at gøre dem mere restriktive på
+nuværende tidspunkt på grund af en enkelt
+sag, når der i øvrigt generelt ikke er de store
+forståelsesproblemer. Desuden er det generelt
+ikke flere nye restriktioner, vi efterlyser i boliglovgivningen, men færre.";Pernille Sams
+39947;name_party;":
+Lovforslag nr. L 86 handler om ændring af
+lov om midlertidig regulering af boligforholdene, og når jeg læser lovforslaget igennem, kan
+jeg godt tilslutte mig de gode ord om at skabe
+klart tilgængelige regler, som borgerne kan være tjent med. Det er faktisk også Venstres mål,
+når vi taler boligpolitik og lejelov.
+Men som jeg læser lovforslaget, bliver der
+hverken mere klarhed eller mere lejer- eller
+borgervenlighed, end det hidtil har været muligt at give. Lejeloven giver jo i dag kommunerne mulighed for at udarbejde regler for lejeforholdene, og det har Københavns Kommune
+også gjort brug af, så derfor finder vi ikke an-
+
+2645
+
+22/11 91: 1. beh. af f. t. 1. vedr. regler for benyttelse af helårsboliger";Bodil Thrane
+40676;title_name;"ledning til at stramme reglerne herindefra. Om
+København og andre kommuner vil ændre
+praksis efter den seneste tids oplevelser, skal
+jeg ikke kunne forudsige, men jeg synes, det er
+beklageligt, at en enkelt boligsag kan medføre
+et nyt lovindgreb, når kommunerne som sagt
+har mulighed for at regulere forholdene i dag.
+Samtidig ved vi udmærket, at de alt for massive reguleringer, der er indført i lejeloven siden slutningen af 1930'erne, har medført stribevis af uhensigtsmæssige udlejninger. Lad os
+derfor hellere finde sammen om en lejelov, der
+letter nogle af de mange restriktioner og uigennemsigtige krav og giver proportional sammenhæng mellem priser og rettigheder, så vil
+store dele af boligmarkedet nemlig regulere sig
+selv på en rigtig og for os naturlig måde.
+Med disse bemærkninger vil jeg gerne på
+Venstres vegne afvise lovforslaget.
+
+2646
+
+ge en generel overgrænse for, hvor stort et
+bruttoetageareal et samtykke efter stk. 1 berettiger en ansøger til at råde over.«
+Vi synes, det er en overordentlig interessant
+betragtning, som måske ikke bare skulle stå i
+bemærkningerne til et lovforslag, men måske
+burde indsættes i boligreguleringsloven. Det
+problem, der har fremkaldt hele denne diskussion og ligger til grund for denne forhandling i
+dag, er jo ikke blot et spørgsmål om, hvordan
+man definerer en midlertidig bolig eller lignende, eller hvordan man definerer begrebet bopæl. Det handler jo i vid udstrækning om, at
+billige, store, attraktive lejligheder, først og
+fremmest i hovedstaden, fordeles og er blevet
+fordelt på en måde, som store dele af befolkningen anser for at være dybt uigennemsigtig
+og dybt betænkelig.
+Derfor synes vi, at dette forslag er en vældig
+god anledning til, at vi i udvalget tager fat på at";Bodil Thrane
+42431;name_party;":
+undersøge, om der ikke er behov for en stramSF er altid villige til at se på muligheder for mere kommunal styring af boliganvisningen
+at stoppe ubehagelige huller i lovgivningen af og en mere retfærdig fordeling af boliger, både
+den ene eller den anden art og forsøge at afkla- med hensyn til størrelse og pris. De forhold,
+re uklarheder, også på baggrund af enkeltsa- som har ført til hele denne diskussion, handler
+ger. SF har heller aldrig været et parti, der har jo i vid udstrækning om, hvorvidt det er rimehenvist den slags arbejde til den store, altom- ligt, at velbeslåede personer gennem forbindelfattende lejelovsrevision, som vi er blevet un- ser og uden om alle boligkøer kan sikre sig boderholdt med i så mange år, og som hidtil kun liger, der er både større, billigere og bedre end
+har frembragt ét forslag fra SF, som har haft for eksempel dem, der stilles til rådighed for
+vanskeligt ved at få en seriøs behandling her i mindrebemidlede, enlige forsørgere eller børFolketinget.
+nefamilier. Det er jo den baggrund, denne disMed hensyn til det foreliggende forslag er kussion skal ses på, det er hele dette uigenSF af den opfattelse, at på baggrund af igang- nemsigtige net, som skaber en uretfærdig forværende retssager og andre ting må vi konsta- deling af de gode og ordentlige boliger, der er
+tere, at der er uklarhed omkring den nuværen- knaphed på i København.
+de lov og den måde, den kan fortolkes på. Vi
+På baggrund af dette forslag synes vi derfor,
+synes også, det er en god ting, at Socialdemo- at udvalget skal gennemgå alle disse forhold.
+kratiet har fremsat dette forslag, for det giver Vi vil meget gerne se på, hvordan især de atos lejlighed til at drøfte, hvordan vi kan få lo- traktive lejligheder i København egentlig er
+ven gjort klarere, og det er en spændende og blevet fordelt, hvilke mekanismer der gør sig
+interessant betragtning, Socialdemokratiet gældende, hvor mange af lejlighederne der anfremkommer med, når man anvender bopæls- vendes til helårsbeboelse, og hvor mange der
+begrebet i denne sammenhæng i et forsøg på anvendes til andre formål, uanset hvem der
+en præcisering af lovens bestemmelser.
+måtte være tale om. Så vidt jeg kan se, kan der
+Der er også andre ting i forslaget, som er både være tale om enkeltpersoner, institutiooverordentlig interessante, ikke mindst når ner, kommuner og andre. Det er overordentlig
+man tager den reelle baggrund for forslaget i vigtigt, at Boligudvalget i forbindelse med bebetragtning. Jeg tænker på det punkt i be- handlingen af forslaget får en grundig gennemmærkningerne til forslaget, hvor man skriver: gang af alle disse forhold.
+»Kommunalbestyrelsen kan i forbindelse
+Da forslagsstillerne mener, at forslaget først
+med fastsættelse af regelsættet vælge at vedta- skal træde i kraft den 1. januar 1992, mener jeg
+
+2647
+
+22/11 91: 1. beh. af f. t. 1. vedr. regler for benyttelse af helårsboliger";Pelle Voigt
+45334;title_name;"at kunne konstatere, at Boligudvalget både har
+god tid og gode muligheder for at høre de forskellige instanser og få et indblik i, hvordan
+disse ting hænger sammen. Og ikke mindst af
+den grund er det godt, at lovforslaget er blevet
+fremsat.";Pelle Volgt
+45590;name_party;":
+Som fredagsordfører skal jeg også komme
+med et par bemærkninger til dette forslag.
+Det burde jo egentlig hedde »Lov om ændring af lov om forhold vedrørende fru Ritt
+Bjerregaard«, for Socialdemokratiets formand,
+hr. Svend Auken, har jo over for den store og
+mægtige presse for længst bebudet, at dette
+forslag netop var en direkte udløber af sagen
+vedrørende fru Ritt Bjerregaard. Men det skal
+man jo ikke lade sig skræmme af: man skal
+vurdere det præcise indhold.
+Det kommer næppe som nogen overraskelse
+for Socialdemokratiet, at Fremskridtspartiet
+ikke kan støtte dette forslag, al den stund vi i
+denne samling har fremsat et forslag, der for
+længst har været til første behandling og går i
+præcis den modsatte retning.
+Jeg forstår udmærket de ordførere, der morer sig lidt over, at vi nu i over 50 år har haft en
+midlertidig reguleringslov. Men det er jo som
+bekendt i et ganske andet forum, vi i givet fald
+skal tage fat på at få ændret de ting, ikke i forbindelse med det foreliggende forslag. Og vi så
+da gerne, at det kunne resultere i, at vi får et
+friere og mere liberaliseret boligmarked.
+Men så er der selve det konkrete indhold i
+forslaget. Hvis jeg ønsker at købe én bolig i
+Århus, én i København, én i Frederikshavn, én
+i Nakskov og én i Odense, så kan jeg, i det
+omfang pengepungen rækker til det, købe alle
+de boliger, jeg vil, og der er ingen kommunale
+embedsmænd, der skal sidde og tælle op og
+vurdere, om jeg nu også har brug for disse
+mange eller få kvadratmeter, som hr. Pelle
+Voigt lagde op til. Jeg har med andre ord frihed til at købe lige så mange boliger, som jeg
+selv vurderer at jeg har brug for, f.eks. hvis jeg
+har et arbejde, som gør det nødvendigt for mig
+at bo disse mange steder med jævne mellemrum.
+Ganske anderledes skal det åbenbart være,
+når det drejer sig om lejeboliger, så skal der
+ikke længere være frihed til at indgå lejemål
+forskellige steder i landet. Og som forholdene
+
+2648
+
+er i øjeblikket, opstår der jo i dag helt absurde
+situationer. Militærpersoner, der i tjenstligt
+øjemed bliver udkommanderet til Grønland,
+kommer ud for, at når de vender tilbage, har
+Københavns Kommune genudlejet deres tidligere bolig. Det er disse absurde forhold, hvor
+kommunerne skal vurdere hver enkelt sag, vi
+ønsker at ændre med vort forslag, som jeg
+nævnte tidligere, vi ønsker i hvert fald ikke, at
+de forhold skal fortsætte.
+Lovforslag nr. L 86, som vi behandler her,
+lægger op til en udvidelse af kommunalbestyrelsernes og de kommunale embedsmænds adgang til at undersøge disse ting, og det ønsker
+vi endnu mindre. Næh, vi ønsker et fuldstændig frit marked, hvor enhver kan indgå alle de
+lejemål, man måtte have lyst til, og selvfølgelig
+uden begrænsninger af størrelsen af de enkelte
+lejemål.
+Der er altså intet som helst i Socialdemokratiets forslag, vi kan støtte. Tværtimod kan vi
+kun anbefale, at man i stedet støtter Fremskridtspartiets forslag, som er under behandling i øjeblikket.";Kim Behnke
+48537;name_party;":
+Centrum-Demokraterne har fuld forståelse
+for Socialdemokratiets lovforslag, og vi vil da
+heller ikke afvise, at der måske er huller i det
+nugældende regelsæt, som man kunne ønske
+at få fyldt op.
+CD's stillingtagen til det foreliggende lovforslag vil blive afklaret under udvalgsarbejdet, men umiddelbart kan CD ikke støtte forslaget.
+Vibeke Grønbæk (RV):
+Forslaget indebærer en ændring og en opstramning af boligreguleringslovens regler om
+benyttelse af flere helårsboliger, specielt en
+ændring af § 50.
+Det er muligt, at der er brug for en ændring
+af § 50, men vi ved det faktisk ikke på nuværende tidspunkt. Københavns Kommune, som
+frem for nogen har brug for at have indseende
+med en socialt retfærdig fordeling af boligreserven, påstår således, at § 50 er et fuldt tilstrækkeligt instrument, hvorimod andre hævder, at kommunen bruger § 50 på en måde, der
+ikke er hjemmel for i lovgivningen. Hvem der
+har ret, kan kun afgøres af domstolene, og vi
+venter alle spændt på resultatet af denne styr-
+
+2649
+
+22/11 91: 1. beh. af f. t. 1. vedr. regler for benyttelse af helårsboliger";Svend Aage Jensen
+49638;title_name;"keprøve. Men indtil det eventuelt viser sig, at
+Københavns Kommune er ude, hvor man ikke
+kan bunde, er det svært at se begrundelsen for
+en ændring af boligreguleringslovens § 5 0 . .
+Derimod kunne der være al mulig grund til
+at foretage en kulegravning af lovens kapitel 7,
+som § 50 er en del af. Reglerne om beboelse i
+dette kapitel 7 er lovteknisk og administrativt
+noget af et morads. Fortolkningen er omstridt,
+og en betydelig del af regelsættet - f.eks. reglen
+om tvangsmæssig genudlejning af enhver bolig, som har stået tom i mere end 6 uger - anvendes ikke i praksis.
+Efter Det Radikale Venstres opfattelse er det
+kapitel 7 som helhed, man skal tage fat på, hvis
+man vil gå sagligt til værks, og det burde Socialdemokratiet vel egentlig også være motiveret
+for, eftersom man for tiden netop drøfter en
+ændring af lejelovgivningen under de såkaldte
+fase 2-forhandlinger med boligministeren. Det
+ville oven i købet være i fin overensstemmelse
+med den melding, som Socialdemokratiet gav
+ved førstebehandlingen af ministerens forslag
+om huslejefastsættelse i nyt privat udlejningsbyggeri, hvor man kraftigt opfordrede boligministeren til ikke at lave om på små hjørner af
+lejelovgivningen.
+Det Radikale Venstre vil altså ikke på forhånd afvise dette lovforslag, men vi kan ikke
+på nuværende tidspunkt se, at der er behov for
+det, og først og fremmest synes vi, at det skal
+indpasses i en langt større lejelovssammenhæng.";Vibeke Grønbæk
+51087;name_party;":
+Lovforslag nr. L 86 er jo et af de forslag, der
+appellerer til både smil og overbærenhed, for
+debatten får en interessant undertone i lyset af
+den uskrevné og usagte baggrund for fremsættelsen af forslaget.
+Jeg kan egentlig godt være enig med Socialdemokratiet i, at vi skal skabe klarhed i lovgivningen på boligområdet, men for mig at se opfylder forslaget ikke den målsætning. Jeg tror
+hverken det skaber mere klarhed, eller at vi får
+tydeligere regler på området.
+Kristeligt Folkeparti så meget hellere, at vi
+fik et friere boligmarked med naturlig prisdannelse, for så ville mange problemer være løst
+efter vores mening. Det var bedre at tage fat et
+andet sted og skabe en mere liberal boliglovgivning, hellere regelsanering end flere regler.
+
+2650
+
+Vi afviser forslaget.";Lysholm Christensen
+51882;name_party;":
+Det kunne være fristende at gøre det, som
+nogle ministre gør, når de er oppe at svare, efter at en række ordførere er kommet med bemærkninger til deres forslag, nemlig gennemgå
+forslaget i detaljer, for der har i hvert fald været nogle enkelte ordførere, som har beskrevet,
+dels hvad der er gældende i dag, og dels hvad
+forslaget vil give anledning til, på en måde, der
+hverken på det ene eller andet punkt stemmer
+overens med virkeligheden.
+Men jeg vil gribe fat i to synspunkter, som
+har været gennemgående, og som er væsentlige. Det ene er spørgsmålet om, hvorvidt der vil
+skabes mere klarhed, og her lagde boligministeren faktisk ud med at læse små sentenser op
+fra lovforslaget. Jeg vil gerne spørge boligministeren: Har boligministeren lettere ved at definere »og lignende midlertidig benyttelse« i
+forhold til, om boligministeren kan fortælle,
+hvor han har sin folkeregisteradresse? Jeg er
+helt sikker på, at han ved det sidste meget bedre end det første. Det er faktisk et af kernepunkterne i lovforslaget. Bopælen ved man
+hvor er, og i folkeregisterlovgivningen - og ikke alene i loven, men selvfølgelig også i den
+vejledning, der hører til om registrering af bopæl - er der nogle meget nøje afgrænsninger
+af, hvad det er, man er forpligtet til at have
+som sin bopæl. Så jeg vil tro, at mange af dem,
+der ikke er helt sikre på, om det nu vil skabe
+mere klarhed, vil blive overbevist under udvalgsarbejdet.
+Det andet emne, som har været berørt, og
+som er meget centralt, er spørgsmålet om kommunernes ret til at bestemme. Debatten har
+lidt antydet, at der skulle være flere regler. Det
+er der faktisk ikke tale om: der er tale om, at
+der kommer en klarere regel, og at kommunerne i modsætning til, hvad der står i loven i dag,
+selv får opgaven og retten til at definere, hvad
+det er, de vil give iilladelse til, og så gøre det på
+en sådan måde, at de borgere, det berører, også er vidende om det, så man på den måde søger at skabe en vis retssikkerhed, også for dem,
+der ansøger hos de kommunale myndigheder.
+Det er i det hele taget noget, som vi gennemgående er optaget af, at kommunerne får en ret
+til at bestemme nogle ting, der er knyttet til de
+enkelte områder og de enkelte kommuner,
+
+2651
+
+22/11 91: 1. beh. af f. t. 1. vedr. regler for benyttelse af helårsboliger";Pia Gjellerup
+54182;title_name;"men at det bliver gjort på en sådan måde, at
+man sikrer borgerne en optimal retssikkerhed.
+Når det er vigtigt at give kommunerne selvbestemmelsesret i dette spørgsmål, skyldes det,
+at lovgivningen i dag faktisk kun rummer mulighed for, at man alene tager hensyn til de boligsociale forhold. Men sådan som udviklingen sker i det danske samfund, er det ret væsentligt at skabe et instrument for kommunerne til også at inddrage erhvervsudøvelse og erhvervsudvikling, så kommunen i sin planlægning og sin anvendelse af instrumentet kan få
+en afbalancering mellem løsningen af de boligsociale forhold og de formål og ønsker, man
+har i forhold til erhvervsudviklingen.
+Når man ser lidt dybere i teksten og i bemærkningerne, vil man kunne se, at kommunerne selv kan vælge sig helt ud af reglerne og
+sige: Vi giver fuldstændig frit løb: der er, set
+med vores øjne, ikke noget problem i vores
+område, vi har boliger nok. Nogle steder ved vi
+jo at man desværre endda har boliger i overskud, som man gerne vil have bliver lejet ud.
+Men de uklarheder, der måtte være, tror jeg
+bliver afklaret under udvalgsarbejdet, og jeg
+tror også, at vi får en bedre belysning, når vi
+drøfter i Boligudvalget, hvad det så er, kommunerne får ret til, og hvordan borgernes retsstilling bliver. Jeg kan tolke ordførerne derhen,
+at der er interesse for at se på det netop for at
+skabe denne klarhed.
+Så er der et par ordførere, der fortjener et
+par bemærkninger, og »fortjener« er ikke særlig positivt ment. Hr. Kim Behnke - ja, nok er
+han fredagsordfører, men selv en fredagsordfører bør vide, at dette lovforslag lige så vel
+som den gældende lovgivning omfatter både
+lejeboliger og ejerboliger. Så hr. Kim Behnke:
+Lad være med at købe boliger rundt i hele landet og tro, at de kan stå tomme! Det kan de
+ikke i dag efter lovgivningen. Det bliver betydelig klarere i den nye lovgivning: på det
+punkt kan vi da i hvert fald få understreget, at
+det bliver klarere.
+Et andet punkt, som hr. Kim Behnke var inde på - og det er noget, der sådan er lidt en
+myte her i folketingssalen, at bare det bliver
+sagt tilstrækkelig mange gange, er det en sandhed - det er det dér med, at lov om midlertidig
+regulering af boligforholdene er over 50 år
+gammel: det er den altså ikke, men det lyder
+meget morsomt. Den er gammel, men den er
+
+2652
+
+absolut ikke over 50 år gammel. Den er, så vidt
+jeg husker, fra engang i 1970'erne. Men det er
+blevet sagt så mange gange her, at det er, som
+om det er en sandhed.
+Jeg skal takke for den forholdsvis åbne og
+positive modtagelse, der har været af lovforslaget, når der henses til, at man gerne vil skabe
+klarhed, for jeg er nemlig overbevist om, at vi
+vitterlig kan få skabt denne klarhed under udvalgsarbejdet.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Pia Gjellerup
+57013;title_name;"Jeg foreslår, at lovforslaget henvises til Boligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 102:
+Forslag til lov om ændring af lov om markedsføring. (Ophævelse a f markedsføringsforbud).
+Af Michael Kock (FP) m.fl.
+(Fremsat 7/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling
+Industriministeren (Anne Birgitte Lundholt):
+Fremskridtspartiet foreslår i sit lovforslag en
+ændring af markedsføringsloven, hvorefter
+forbudsbestemmelser om tilgift, rabatmærker,
+præmiekonkurrencer og rentefri konto ophæves.
+Det kan ikke overraske, at jeg og dermed regeringen i princippet er positive over for forslaget, fordi forslaget stort set svarer til en del
+af det forslag til ændring af markedsføringsloven, som regeringen fremsatte i januar 1990.
+De tilsvarende bestemmelser i regeringens forslag udgik som bekendt i forbindelse med behandlingen af lovforslaget i Folketinget, da det
+
+2653
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Formanden
+58135;title_name;"under udvalgsarbejdet blev konstateret, at der
+var et flertal imod en ophævelse.
+Der var modstand imod forslaget fra såvel
+erhvervslivet som forbrugerorganisationerne.
+Organisationerne fandt bl.a., at en regulering
+efter markedsføringslovens generalklausul var
+utilstrækkelig, og at en afskaffelse af bestemmelserne bl.a. ville føre til et øget bureaukrati
+og et øget ressourceforbrug. Disse betænkeligheder delte jeg ikke dengang, og jeg deler dem
+fortsat ikke.
+Forbrugerombudsmanden gav på daværende tidspunkt ligeledes udtryk for, at han fandt,
+at en ophævelse af bestemmelserne ville føre
+til mindre bureaukrati og ressourceforbrug, og
+at bl.a. generalklausulen i markedsføringsloven kunne anvendes til at opretholde et tilstrækkeligt værn for såvel forbrugere som erhvervsliv.
+Efter at det nævnte forslag var blevet trukket
+tilbage - af mig selv - meddelte forbrugerombudsmanden i oktober 1990 brancheforeninger
+og detailhandel, at administrationen af forudbestemmelserne ville blive skærpet, og at sagerne umiddelbart ville blive overgivet til politiet, når der forelå klare eller gentagne overtrædelser af markedsføringsloven. Af præventive årsager ville man også forsøge at få bødeniveauet hævet og sørge for, at offentligheden
+blev bekendt med domme og bøder. Den skærpede administration krævede betydelige ressourcer. Den større håndhævelse af bestemmelserne og den systematiske offentliggørelse
+af domme og bøder gav stor presseomtale og
+mulighed for at udbrede kendskabet til de
+nævnte bestemmelser.
+Forbrugerombudsmanden har dog alligevel
+konstateret, at overtrædelserne fortsætter i
+samme omfang som tidligere, og at den præventive effekt beklageligvis synes begrænset.
+Dette faktum får mig til at sætte spørgsmålstegn ved, om såvel erhvervsorganisationerne
+som Forbrugerrådet virkelig udtrykker deres
+medlemmers ønske, hvis de fortsat så kraftigt
+går ind for at bibeholde bestemmelserne.
+Man kunne få det indtryk, at både de enkelte repræsentanter for erhvervslivet og forbrugerne i vidt omgang opfatter tiltag som de regulerende som naturlige, og det er næppe tilfældet. Denne opfattelse skyldes sikkert i høj
+grad en stigende tendens i såvel uge- som
+dagspressen og i andre medier til at anvende
+
+2654
+
+lignende foranstaltninger, specielt konkurrencer. Det må også for menigmand være svært at
+se nogen fornuftig sammenhæng i, at det er tilladt at spille på kasinoer og lotto og have gevinstopsparingskonti i pengeinstitutter, mens
+det ikke er tilladt at deltage i den lokale købmands lotteri, når det er forbundet med et varekøb.
+Jeg finder derfor ikke, at det er hensigtsmæssigt i en besparelses- og afbureaukratiseringsperiode fortsat at håndhæve forbud, som
+befolkningen ikke forstår nødvendigheden af.
+Men ved en ophævelse af de nævnte bestemmelser vil konsekvensen være, at sådanne
+salgsfremmende foranstaltninger vil være lovlige, medmindre de gennemføres på en sådan
+måde, at de strider mod god markedsføringsskik eller er utilbørlige eller vildledende, og i
+disse tilfælde vil forbrugerombudsmanden også efter en ophævelse kunne gribe ind.
+For så vidt angår forbudet mod rentefri kredit i § 8 a findes der ikke længere noget argument for at bibeholde bestemmelsen, efter at vi
+har ophævet renteafgiftsloven. Det har jeg også tidligere givet udtryk for.
+Samtidig kan jeg oplyse, at bestemmelsen
+kun giver anledning til et meget lille antal sager hos forbrugerombudsmanden. Derfor kan
+jeg som nævnt indledningsvis udtrykke regeringens positive holdning til lovforslaget.";Industrlmlnlsteren
+61648;name_party;":
+Det er ikke mere end knap to år siden, at
+Folketinget behandlede markedsføringsloven
+sidst. Der blev dengang konstateret et flertal
+for, at markedsføringslovens §§ 6-8 a, som forslagsstillerne nu ønsker ophævet, skulle fastholdes i loven, og det mener vi i Socialdemokratiet fortsat at de skal. Det er hverken en fordel for forbrugerne eller for erhvervslivet at
+slippe tilgift, rabatmærker eller præmiekonkurrencer løs. Vi foretrækker det rene forbud,
+og vi mener ikke, at generalklausulen i § 1 om
+god markedsføringsskik er tilstrækkelig.
+I den nuværende udformning er §§ 6-8 a klare og generelle og giver et enkelt grundlag for
+forvaltning af dem hos myndigheder og forbrugerombudsmand, domstole og erhvervsliv.
+Derfor fører en ophævelse af disse paragraffer
+ikke til nogen afbureaukratisering, men fører,
+tror jeg, i stedet til langt flere sager for forbrugerombudsmanden at behandle i fremtiden.
+
+2655
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Lotte Henriksen
+62648;title_name;"Forslagsstillerne kalder markedsføringsloven for skadelig og anvender det som argument for nu at ændre loven. Jeg vil da gerne
+have uddybet, hvem det er, loven med disse
+paragraffer skader. For mig at se beskytter den
+forbrugerne mod unødige omkostningsforhøjelser, som de kommer til at dække, og den
+gavner rent faktisk også erhvervslivet.
+Til forbudet mod tilgift vil jeg sige, at såfremt det åbne marked i EF ifølge forslagsstillerne nu betyder, at varer skal ompakkes, arbejder vi for, at det problem skal løses på EFplan ved at forbedre forbrugerpolitikken og ikke kun for at beskytte danske forbrugere, men
+også for at give EF-forbrugerne beskyttelse og
+rettigheder, som vi kender det i Danmark. Der
+er nemlig behov for, at forbrugernes rettigheder bliver prioriteret langt højere i det indre
+marked.
+Forbudet mod rabatmærker indebærer i
+henhold til lovgivningen, at rabatmærker kun
+kan indløses her i landet, og kun såfremt de er
+påtrykt den pålydende værdi. Den gældende
+lov mener jeg er mere end fleksibel på nuværende tidspunkt. Som småbarnsmor klipper
+jeg jævnligt små bamser og legende småbørn
+ud af bleemballagen og gemmer dem for siden
+at kunne få refunderet 15 eller 20 kr. pr. pakke
+bleer, som jeg har købt. Det næste må vel ifølge forslagsstillerne være, at jeg også skal til at
+klippe mærker af franske oste og hollandske
+tomater. Jeg foretrækker i stedet at få bleerne
+20 kr. billigere, måske endda 25 kr. billigere,
+såfremt administrationen af alle disse mærker
+ikke skal finansieres af forbrugeren.
+Forbudet mod fordeling af præmier ved lodtrækning indebærer, at danskernes spillelyst
+adskilles fra danskernes dagligvareindkøb, og
+det giver således en grænse mellem forlystelsesaktiviteter, om man vil, og fornødenheder,
+som ikke kan undværes. Den adskillelse finder
+vi i Socialdemokratiet er fin og helt nødvendig.
+Så kan den enkelte forbruger nemlig selv bestemme, om familiens penge skal gå til spil og
+lodtrækning eller til mad.
+Hvad angår indførelsen af ratefri konti, mener vi, at det vil betyde både en konkurrenceforvridning for detailhandelen og en omkostningsforhøjelse for forbrugeren, der køber
+kontant. Derfor mener vi i Socialdemokratiet,
+at de nuværende paragraffer 6-8 a skal fastholdes i loven.
+
+2656
+
+(Kort bemærkning).";Lotte Henriksen
+64922;name_party;":
+Nu kunne jeg forstå på fru Lotte Henriksen,
+at Socialdemokratiets holdning var, at med det
+puritanske syn, man har omkring danske forbrugere, og den måde, man i Socialdemokratiet opfatter forbrugerbeskyttelse på, betyder
+det, at i forbindelse med EF's indre marked
+skal de samme regler gælde for alle de andre
+EF-lande.
+Er det ikke en ekstremt egoistisk holdning at
+have? Og spørgsmålet er: Er der overhovedet
+nogen udsigt til, at det går på den måde? Er
+situationen ikke nærmere den, at de andre EFlande har et langt mere liberalt syn på disse
+ting, og at man fra de andre EF-landes side vil
+sige: Vi er da fuldstændig ligeglade med, om
+danskerne har det puritanske syn, for det er
+kun noget, der skader dem selv? Og vil de danske forbrugere dermed ikke blive væsentlig
+dårligere stillet end deres, havde jeg nær sagt,
+forbrugerkollegaer i andre lande?
+Lad mig nævne nogle eksempler: Der er ingen tvivl om, at i EF's indre marked vil postordrebesørgelse på tværs af landegrænserne blive meget udbredt. Forestiller fru Lotte Henriksen sig så, at den tyske forbruger gerne må
+kunne indløse rabatmærker og præmier ved
+lodtrækning, mens den danske forbruger af en
+statskommissær udnævnt af fru Lotte Henriksen skal have forbud mod den slags? Vil fru
+Lotte Henriksen sidde ved landegrænsen og
+åbne alle kuverter med skriftlige tilbud fra vareleverandører i Tyskland, Holland, Belgien
+og Frankrig, eller hvordan vil man opretholde
+den kontrol? Og betyder det så ikke netop bare, at det er danske virksomheder, der får en
+misstilling i forhold til deres udenlandske EFkonkurrenter?
+Endelig et andet eksempel, det er vedrørende rabatmærkerne: En række af benzinselskaberne leverer benzin rundt omkring i alle EFlandene. Det giver et misforhold for de danske
+forbrugere, at de ikke kan udnytte de samme
+rabatordninger, som deres medborgere rundt
+om i EF kan.
+(Kort bemærkning).";Kim Behnke
+66813;name_party;":
+Nu gav jeg udtryk for, at vi arbejder for, at
+forbrugerbeskyttelse skal indarbejdes i det in-
+
+2657
+
+(167)
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Lotte Henriksen
+67012;title_name;"dre marked. Jeg er godt klar over, at prioriteringen af forbrugerbeskyttelse p.t. ikke er særlig høj i de forhandlinger, der foregår om det
+kommende indre marked, men faktisk har vi
+det meget højt på vores prioriteringsliste, og vi
+så også gerne, at den danske regering gjorde
+mere for at prioritere forbrugerne højere i EFregi.
+Det er rigtigt, at der på nuværende tidspunkt
+er forskel i de forskellige lande på dette lovgivningsområde, og jeg har vist givet udtryk for,
+hvad jeg mener om f.eks. rabatmærkerne. Jeg
+så ikke gerne, at jeg skulle til at samle rabatmærker fra alle de øvrige EF-lande. Det bliver
+et fuldstændig uoverskueligt system for den
+enkelte forbruger, hvis man skal til at samle
+rabatmærker for det ene, det andet, det femte
+og det tyvende produkt. Det så jeg faktisk helst
+at vi undgik.
+(Kort bemærkning).
+Michael Kock (FP):
+Fru Lotte Henriksen mener, at dette vil slippe præmier, rabatkuponer og tilgiftsmarkedsføring løs. Sådan er det jo allerede i dag, den
+eneste forskel er, at der er meget skrappe restriktioner for, hvorledes det må passere. Og
+de restriktioner er absolut ikke klare, det vidner de p.t. 120 verserende sager hos forbrugerombudsmanden om.
+Så mener fru Lotte Henriksen også, at dette
+skal være et EF-politisk ærinde. Det nærmeste
+EF-land, Tyskland, har en langt mere liberal
+politik. Hvorfor så ikke på dette område lægge
+sig op ad vores største samhandelspartner frem
+for at prøve at føre en mere restriktiv linje inden for EF? Vi er trods alt kun omkring 5 millioner mennesker her i Danmark.
+Så spurgte fru Lotte Henriksen også, hvorledes det kunne skade erhvervslivet og forbrugerne. Jamen det skader det danske erhvervsliv
+derved, at man ikke har samme kreative muligheder for at lave markedsføring i Danmark,
+som man har i andre EF-lande. Og det skader
+forbrugerne derved, at de danske markedsføringskampagner bliver langt dyrere, i og med
+at de henvender sig til et langt mindre publikum i Danmark, frem for at man henvender sig
+til et internationalt forum.
+Endelig mener fru Lotte Henriksen, at hun
+hellere vil have penge end rabatmærker. Men
+sådan er virkelighedens verden jo ikke. Typisk
+
+2658
+
+har man en tommelfingerregel om, at man bruger omkring 5 pct. af omsætningen på markedsføring. Hvis man ikke laver rabatmærker,
+laver man annoncer, og så får fru Lotte Henriksen slet ikke noget ud af det.
+(Kort bemærkning).";Lotte Henrlksen
+69397;name_party;":
+Fru Lotte Henriksen får ikke pligt til at klippe kuponer af franske oste og belgiske produkter. Men netop eksemplet med benzinselskaberne betyder jo, at hvis fru Lotte Heririksen er
+på ferietur rundt i de andre EF-lande og tanker
+benzin hos selskaber, som også har afdelinger i
+Danmark, er de rabatkuponer, fru Lotte Henriksen samler sammen, intet værd, når fru Lotte Henriksen kommer hjem. Men hvis derimod
+benzinselskabets afdeling i Danmark også
+havde mulighed for at være med i ordningen,
+havde de pågældende rabatmærker en værdi,
+også efter at fru Lotte Henriksen var kommet
+hjem.
+Med fru Lotte Henriksens puritanske holdning betyder det, at de andre EF-borgere flittigt vil kunne samle disse rabatmærker sammen og opnå en værdi for dem. Men det kan
+fru Lotte Henriksen ikke, og det kan den danske befolkning ikke, fordi man vil have disse
+restriktive begrænsninger.
+Noget helt andet er, at Socialdemokratiets
+ønske om at opretholde de stramme danske
+regler og udvide dem til at gælde alle de andre
+EF-lande ikke hører hjemme i realiteternes
+verden. Realiteternes verden er, at de andre
+EF-lande ikke engang vil overveje at se på de
+absurde regler, vi har her i landet. Så den verden, fru Lotte Henriksen befinder sig i, er ikke
+virkelighedens verden.
+(Kort bemærkning).";Kim Behnke
+70694;name_party;":
+For mig er virkelighedens verden den, jeg
+står i som forbruger nede i supermarkedet. Og
+den verden siger, at hvis jeg skal til at samle
+rabatkuponer på mange forskellige produkter
+for at kunne få del i disse rabatordninger og
+dermed billigere produkter, kan jeg stort set ikke bestille andet end at samle rabatkuponer.
+Det kan godt være, at vi har mange arbejdsløse herhjemme, som har tid til at rende rundt i
+forskellige butikker og samle rabatkuponer på
+
+2659
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Lotte Henriksen
+71249;title_name;"forskellige produkter. Jeg har ikke tid, og det
+tror jeg heller ikke at ret mange andre i den
+arbejdende del af befolkningen har.
+Så vil jeg gerne rette spørgsmålet, om det
+skader det danske erhvervsliv, tilbage til Fremskridtspartiet. Det var et argument fra Fremskridtspartiet, men jeg vil gerne sige, at tilsyneladende gælder det ikke den del af erhvervslivet, som er detailhandel. Detailhandelen har
+nemlig på et tidligere tidspunkt, da dette lovforslag var til behandling, rettet henvendelse
+til Erhvervsudvalget, og man støttede faktisk
+ikke forslaget, som det så ud på daværende
+tidspunkt. Og jeg regner da også den del af erhvervslivet for lige så vigtig at forholde sig til
+som den del, Fremskridspartiet åbenbart omtaler.
+(Kort bemærkning).";Lotte Henriksen
+72020;name_party;":
+Jeg har min ordførertale til gode. Jeg skal
+senere komme med mit partis stillingtagen til
+lovforslaget, og det vil ikke være noget, der
+kommer til at overraske nogen, kan jeg hilse og
+sige.
+Men til hr. Kim Behnke vil jeg nu alligevel
+gerne sige noget om dette med rabatmærker.
+Hr. Kim Behnke nævner benzinselskaberne og
+siger, at det var rart, hvis man kunne samle
+nogle kuponer sammen, når man kører ned
+igennem Europa. Og det er rigtigt, det er sikkert rart for nogle, hvis man synes, det er sjovt.
+Men jeg synes, det er mere fair - hvis jeg må
+sige det direkte - det, som eksempelvis Shell
+gør. Man får 15 øres rabat, uanset hvor man
+handler i Europa, og det bliver fratrukket på
+notaen. Det virker mere sympatisk på mig, end
+at jeg skal rende og spille fransk klovn og samle rabatmærker.
+(Kort bemærkning).
+Michael Kock (FP):
+Igen til fru Lotte Henriksen: Fru Lotte Henriksen behøver ikke at være så bekymret for
+denne situation, for det vil regulere sig selv.
+Det er jo ikke sådan, at alle firmaer vil lave den
+samme markedsføring med rabatkuponer: det
+ville endog være meget dårlig markedsføring,
+hvis det var til irritation for forbrugerne.
+Tilsvarende forstår jeg heller ikke erhvervslivets eller detailhandelens bekymring, for hvis
+
+2660
+
+detailhandelen er imod den form for kampagner, ville der jo ikke være nogen virksomheder,
+der ville benytte en sådan markedsføring. Man
+er jo ikke interesseret i hverken at irritere eller
+skade detailhandelen eller forbrugeren. Det vil
+simpelt hen regulere sig selv, så der er ingen
+grund til den store nervøsitet.";Flemming Hansen
+73605;name_party;":
+I den konservative folketingsgruppe er vi
+helt enige med industriministeren, og vi bakker dette lovforslag op, vi vil se positivt på det
+under udvalgsbehandlingen.
+Men jeg vil gerne sige, at jeg betragter udvalgsbehandlingen som ganske væsentlig, fordi dette er et lovforslag, der kommer fra et ikkeregeringsparti. Derfor kan det være lige
+godt, men det er ikke sikkert, det har været til
+udtalelse i organisationerne. Jeg lægger megen
+vægt på at høre, hvad organisationerne mener,
+og jeg går da også ud fra, at de vil benytte lejligheden til at komme i samråd.
+Men som sagt, vi er positive over for det, vi
+glæder os til udvalgsarbejdet, fordi det er en
+sag, som optager en meget stor del af befolkningen, både erhvervslivet og forbrugerne. Vi
+vil lytte meget intenst til, hvad der bliver sagt
+til os, men vores grundholdning er altså, som
+ministerens også var, positiv.";Flemming Hansen
+74501;name_party;":
+Venstre støtter industriministeren.
+Anders Laubjerg (SF):
+Som det allerede er fremgået af debatten,
+var et lignende forslag til behandling i dette
+høje Ting så sent som i foråret 1990, så om ikke
+andet kan forslagets genfremsættelse i dag give
+os lejlighed til at repetere argumenterne fra
+dengang. Vi kan så håbe, at repetitionen kan
+bringe nye synsvinkler frem.
+Jeg vil medgive Fremskridtspartiet og hr.
+Michael Kock så meget, at vi med disse fire
+forbudsparagraffer i markedsføringsloven er
+ude i en grå zone, hvor de handlende ofte bryder loven, uden at det afføder højlydte forbrugerprotester. Et opkald til forbrugerombudsmanden overbeviste mig dog om, at bemærkningen til lovforslaget om, »at loven brydes
+dagligt uden væsentlige indsigelser«, ikke holder stik i virkelighedens verden. I Forbrugerstyrelsen får man faktisk mange klager, i reglen
+
+2661
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Charlotte Antonsen
+75453;title_name;"fra andre handlende, og der er tale om så mange klager, at man dårligt har tid til at behandle
+de mange sager.
+Men det, at loven brydes, og det, at de administrerende myndigheder tilsyneladende ikke
+har ressourcer til at sikre lovens overholdelse,
+kan aldrig for os blive et argument for, at loven
+helt skal ophæves. Det reelle spørgsmål for os
+er, om forbudsbestemmelserne er med til at
+sikre forbrugerens interesser. Det mener vi i SF
+at de er, og derfor går vi fortsat ind for, at de
+fire konkrete forbud bevares, idet vi ikke føler
+os tilstrækkeligt dækket ind af den generelle
+bestemmelse om god markedsføringsskik.
+Heroverfor lyder så modargumenterne: at
+forbrugeren nok selv kan administrere sit forbrugsvalg, at forbrugeren nok er klog nok til at
+gennemskue reklametilbudene, at forbrugeren
+ikke behøver nogen formynderisk reklamebeskyttelse, at vi skal give forbrugeren den fulde
+frihed, at vi skal have tillid til forbrugeren.
+Nu er vi jo alle forbrugere, og når jeg som
+forbruger ikke er interesseret i hverken tilgift
+eller modgift, rabatmærker, præmiekonkurrencer eller rentefri konti, er det ikke, fordi jeg
+mangler tillid til mig selv, men fordi mine interesser som forbruger ikke herved bliver varetaget. Som forbruger er jeg interesseret i en reklame, der giver reel forbrugeroplysning om
+varens kvalitet og pris: jeg har ikke brug for
+prisslørende foranstaltninger, og jeg er ikke interesseret i at betale for en reklame, som ikke
+er forbrugeroplysende.
+Alle de omtalte forbud er rettet mod de markedsføringstilbud, der skal få mig til at tro, at
+jeg får noget forærende, at noget er gratis, og
+det tænder jo julelysene i enhver forbrugers øjne. Men det er og bliver et bedrag, for det er
+forbrugeren selv, der i sidste instans kommer
+til at betale. Danskernes næsten ufattelige spillelidenskaber skal tilfredsstilles - ingen tvivl
+om det - men det forhold, at vi er en nation af
+lykkelige lottojægere, behøver jo ikke at udfolde sig, når den daglige indkøbskurv skal fyldes
+op. Hvorfor skal jeg betale for at deltage i en
+konkurrence om en smart sportsvogn, når jeg
+kun er interesseret i at købe en pose vaskepulver?
+Til slut argumentet om, at dansk erhvervsliv
+vil tabe markedsandele til udenlandske konkurrenter, hvis porten ikke åbnes for tilgift og
+lodtrækninger. Argumentet er ikke ubetinget
+
+2662
+
+velbegrundet. Et dansk forbud på området
+kunne omvendt tilskynde reklamebureauernes
+og marketingafdelingernes kreativitet til at gå i
+retning af konkurrence på reel forbrugeroplysning, beskrivelse af varens kvalitative data,
+miljøprofil m.m. En sådan konkurrence vil nok
+i højere grad være i forbrugernes interesse og
+også konkurrencedygtig på det internationale
+marked, idet jeg tror, at såvel tyske som franske forbrugere er interesseret i en sådan reel
+forbrugeroplysning.";Anders Laubjerg
+78267;name_party;":
+Jeg vil gerne tage mit udgangspunkt i den
+opfattelse, vi har, nemlig at inden for enhver
+form for detailhandel og -salg er det forbrugerne, der har den absolutte suverænitet. Det er
+forbrugerne, der afgør, om de vil købe produkt
+A eller produkt B, og den afgørelse, de træffer,
+er et meget kraftigt signal tilbage til producenten om, hvorvidt han kan sælge. Forbrugerne
+snyder man kun én gang. Hvis man sælger et
+produkt på en smart måde, ved at folk deltager
+i lodtrækninger eller andre ting, og det viser
+sig, at produktet er elendigt, så vil det være i
+folks erindring næste gang, de skal gøre indkøb, og derfor vil det altid være forbrugernes
+suveræne valg, der bestemmer, hvilke produkter og hvilke firmaer der overlever.
+Det, der gør os mest bekymret i øjeblikket,
+er, at vi kan se en tendens i retning af, at i EF's
+indre marked vil særlig postordresalg og tilsvarende betyde, at danske virksomheder får en
+helt forvrænget konkurrencesituation. Vi kunne ikke tidligere få fru Lotte Henriksen til at
+fortælle, hvilke kommissærer der skal åbne kuverter for at se, om de postordretilbud, der
+kommer fra udlandet, tilbyder danske forbrugere at medvirke i konkurrencer, eller om de
+får rabatmærker. Det er selvfølgelig ikke muligt i det praktiske liv, og derfor vil de danske
+virksomheder få deres konkurrenceforhold
+forværret.
+Hvis vi først tager spørgsmålet om tilgift, så
+er de eksisterende regler også absurde. Hvis
+man ønsker at sælge et produkt, må man i dag
+gerne skrive på pakningen: Køb 4, betal for 3.
+Men skriver man i stedet: Køb 3, og få I gratis,
+så er det ulovligt. Jeg kan ikke se, hvad forskellen er. Med hensyn til, hvad forbrugerne egentlig kommer til at betale for, er der heller ingen
+forskel dér, for situationen er altså den, at man
+
+2663
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Kim Behnke
+80119;title_name;"får en mængderabat. Mængderabatten skal
+være formuleret på en ganske bestemt måde,
+som er fastlagt i nogle emsige lovparagraffer,
+ellers falder hammeren, og forbrugerombudsmanden kommer, og så skal man til at slæbes
+for domstolene, og så skal dommere spilde deres tid med at afgøre, hvorvidt der er tale om
+korrekt markedsføring.
+Med hensyn til rabatmærker er situationen
+den, at man gerne må klippe - hvilket fru Lotte
+Henriksen havde problemer med - små bamser af børnebleerne, eller hvad der var tale om,
+og samle dem sammen og lægge dem i en kuvert og, når man har 10, sende dem ind og samtidig svare på, hvad det produkt hedder, man
+har købt. Så deltager man i konkurrencen om
+at vinde denne bamse. Det må man gerne, men
+man må ikke klippe ud, hvor der står 30 øres
+rabat, og så samle dem sammen og opnå en
+økonomisk gevinst.
+Endelig er det med hensyn til de forskellige
+lodtrækninger lidt absurd, at der skal være dette konkurrencemoment. Man bliver stillet
+spørgsmålet: Hvad hedder den danske udenrigsminister? Så er der 3 muligheder, man kan
+krydse af: Johnny Reimar, Uffe Ellemann-Jensen eller Saddam Hussein. Når man så sender
+svaret ind, deltager man i konkurrencen om en
+krydstogttur rundt om Indien, eller hvad der
+ellers måtte være. Det må man gerne gøre i
+ugeblade og alle mulige andre steder, og man
+må gerne - hvad de forskellige fabrikanter også gør - lave slogankonkurrencer. Lav et sjovt
+slogan og deltag i konkurrencen om dette eller
+hint! Det må man altså gerne, men hvis man
+laver en regulær lodtrækning nede hos købmanden, så kommer forbrugerombudsmanden
+med hammeren og slår ned og siger, at det må
+man ikke.
+Så er der den rentefri konto, som har givet så
+mange administrative besværligheder også for
+forbrugerne, som skal rende rundt og huske på
+kontoudtog, der skal med på selvangivelsen.
+Den giver besvær for virksomhederne, som har
+kunder, der kun køber for 50 kr. om året og så
+skal have konti med løbende rentetilskrivning.
+Og endelig giver den besvær for skattemyndighederne, som skal holde rede på alverdens små
+konti, folk har rundt omkring, hvor der er købt
+for ganske ubetydelige beløb. Derfor gælder
+det om at få disse bestemmelser afskaffet hurtigst muligt og give et langt friere forbrugsvalg
+
+2664
+
+for den enkelte kunde og langt friere forhold
+for virksomhederne til at markedsføre på den
+måde, de mener deres produkt bør markedsføres på. Viser det sig, at man markedsfører på
+en måde, hvor man snyder forbrugerne, er forbrugernes suverænitet efter vores mening så
+udtalt, at de nok skal hævne sig ved i fremtiden
+ikke at købe det pågældende produkt.
+Jeg skal selvfølgelig på vegne af Fremskridtspartiet anbefale lovforslaget.
+(Kort bemærkning).";Kim Behnke
+82825;name_party;":
+Jeg kan høre på hr. Kim Behnke, at han i
+hvert fald ikke er en af dem, der køber bleer og
+samler rabatkuponer, for systemet er faktisk
+ikke, som hr. Kim Behnke siger. Udgangspunktet er, at man faktisk godt kan få penge
+for de mærker, man klipper ud, fordi det faktisk, som loven tilsiger, er påtrykt, hvor meget
+rabatkuponen gælder for, og så kan man få
+den indløst.
+Det interessante i det, hr. Kim Behnke sagde, var bemærkningerne om, at det i dag er
+skattemyndigheder, erhvervsliv og lign., der
+har meget besvær med de gældende regler.
+Med det forslag, som Fremskridtspartiet har
+fremsat, flyttes det roderi ud til forbrugerne, og
+det er faktisk derfor, at Socialdemokratiet ikke
+vil være med. Et sådant forslag vil medføre, at
+det nu bliver forbrugerne, der skal sidde med
+roderiet, samle rabatkuponer, og hvad ved jeg,
+fra forskellige systemer, lodtrækninger og alt
+muligt for at få del i de billigere produkter. Det
+er faktisk årsagen til, at vi ikke kan være med.";Lotte Henriksen
+83815;name_party;":
+Som tidligere ordførere har sagt, har vi før
+diskuteret lov om markedsføring.
+Da vi sidst havde debatten om markedsføring, var CD imod at ophæve §§ 6, 7, 8 og 8a,
+og det er vi stadig væk.
+Jeg vil slutte med at sige, at vi er villige til at
+se på disse ting under udvalgsbehandlingen,
+og vi håber, at vi får noget materiale på bordet,
+som kan belyse problemerne, men indtil da er
+vi imod lovforslaget.";Sonja Albrink
+84235;name_party;":
+Flertallet tegner sig selvfølgelig rimelig klart
+allerede, og så kan man diskutere, om man al-
+
+2665
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Lone Dybkjær
+84426;title_name;"ligevel skal give udtryk for sin mening, men
+det er jo skik og brug herinde, at man gør det,
+og det vil jeg også gøre af flere forskellige
+grunde, som vil fremgå af det, jeg siger.
+Det Radikale Venstre stod bag det oprindelige forslag, som KVR-regeringen fremsatte,
+men jeg vil også godt sige, og det er ingen hemmelighed, at på en række punkter af denne type var der ganske stor uenighed mellem KV og
+R. Jeg tror ikke, jeg begår nogen fejl, når jeg
+siger, at det ikke var det, der bandt regeringen
+sammen. Jeg vil godt lige med det samme, også
+fordi det er fredag eftermiddag, sige, at jeg ikke vil svare på det spørgsmål, der så kan blive
+stillet, nemlig hvad det så var, der bandt regeringen sammen. Det vil jeg på forhånd afvise
+overhovedet at kommentere.
+Eftersom der i forvejen er et flertal imod lovforslaget, synes jeg, jeg står lidt friere og sådan
+set lige så godt kan sige min mening: det har
+jeg så i sinde at gøre.
+Jeg er simpelt hen imod enhver form for lotteri og markedsføring af en type, der fører til et
+øget forbrug. Det handler i den vestlige verden
+om at få et mindre forbrug. Så alene ud fra
+nogle miljømæssige betragtninger vil jeg gå
+imod denne type forslag.
+Men så vil jeg godt sige lidt mere principielt:
+Jeg kan ikke fatte, at der er nogen, der tror,
+man får noget gratis i denne branche. Der er
+ingen, der får noget gratis. Det, som nogle måske vinder lidt på, skal andre betale, og eftersom jeg er imod alt lotteri af denne type og
+aldrig vil deltage i det, bliver resultatet, at jeg
+kommer til at betale, fordi andre skal have lov
+til at deltage i tåbeligt lotteri. Så jeg er også
+imod af rent egoistiske grunde.
+Overordnet sagligt vil jeg sige, at sådan som
+jeg ser det, bliver det de store supermarkedskæder, som i øjeblikket fører sig enormt frem,
+der kommer til at vinde på dette. Man kan meget groft sige, at de 2 pet. af kæderne kommer
+til at slå de andre 98 pct. ud, og det vil sige, at
+de får en endnu større markedsandel, og med
+de tendenser, der er i supermarkederne, synes
+jeg ikke om det. Jeg er faktisk tilhænger af en
+udvikling i retning af, at vi får flere af de små
+butikker tilbage.
+Jeg synes, det kan være udmærket med supermarkeder i nogle sammenhænge, og jeg
+handler også selv i dem, men jeg synes bestemt
+også, at vi skal holde liv i de små butikker og
+
+2666
+
+give dem muligheder. Det skal vi bl.a. gøre,
+fordi de har noget, de store butikker slet ikke
+har, men jeg mener også, vi skal gøre det af
+samfundsmæssige grunde. Jeg tror, det er
+uklogt at slå de små butikker ihjel, for når vi
+fremmer den struktur, der hedder kun-de-store-supermarkedskæder, fremmer vi også andre
+ting i samfundet. Jeg har f.eks. ingen bil, og det
+er stort set umuligt for mig at handle, fordi alt
+er koncentreret uden for byen.
+Skidt med det, jeg kan nok finde ud af det,
+for jeg kan trods alt stadig væk bevæge mig
+med den kollektive trafik, men hvad med folk i
+landsbyerne? Hvad med alle de mennesker,
+der gerne vil bo i landsbyerne måske i en lidt
+senere alder end den, jeg repræsenterer på nuværende tidspunkt? De er tvunget til at have
+en bil, fordi vi ødelægger alle småbutikkerne i
+nærmiljøet, og det tror jeg også af menneskelige grunde er uklogt.
+Derfor er jeg også af samfundsmæssige
+grunde imod, at man støtter tendensen i dette
+forslag, og derfor afviser Det Radikale Venstre
+forslaget, men jeg vil da godt se, om der er
+nogle ting, som man kan forestille sig kan blive
+gennemført, sådan som også andre har sagt. Vi
+vil naturligvis på almindelig vis deltage konstruktivt i udvalgsarbejdet.
+(Kort bemærkning).";Lone Dybkjær
+87991;name_party;":
+Fru Lone Dybkjær har ret i den betragtning,
+som lidt frit oversat til dansk lyder, at der ikke
+findes noget, som er en gratis frokost. Det er
+rigtigt, at der selvfølgelig er nogle, der betaler
+for det, men fru Lone Dybkjær har som forbruger den suverænitet, at i det øjeblik fru Lone
+Dybkjær konstaterer, at en bestemt fabrikant
+benytter sig af rabatordninger og tilbud om
+lodtrækninger, ekstra gevinster osv., kan fru
+Lone Dybkjær straffe denne leverandør ved at
+handle hos en anden. Denne forbrugersuverænitet er stadig væk til stede, og den gør, at fru
+Lone Dybkjær ikke behøver at komme til at
+betale gildet. I og med at man skifter til en anden leverandør, slipper man for at betale for
+den form for markedsføring, som jeg kan forstå fru Lone Dybkjær ikke bryder sig om.
+Lad mig spørge helt konkret: Som det er i
+øjeblikket, og som jeg nævnte for lidt siden,
+må man gerne sælge under følgende slogan:
+Køb 4, betal for 3! Det er lovligt, men man må
+
+2667
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Kim Behnke
+89038;title_name;"ikke skrive: Køb 3 og få 1 gratis! For forbrugeren er der ingen forskel, men kan fru Lone
+Dybkjær fortælle mig forskellen? For leverandøren er der heller ingen forskel, han kommer
+til at aflevere 4 og får kun penge hjem for 3.
+Rent markedsføringsmæssigt har vi altså disse
+absurditeter, som betyder langvarige retssager
+QSV. om fortolkningen af den måde, tilbudet
+konkret er formuleret på. Kan fru Lone Dybkjær ikke godt se, at det er absurd, og at der er
+grund til at få ændret de regler?
+(Kort bemærkning).";Kim Behnke
+89564;name_party;":
+Hvis ikke jeg svarer ja til det, hr. Kim
+Behnke spurgte om til sidst, vil andre end hr.
+Kim Behnke i hvert fald også betragte mig som
+rimelig idiotisk, så det kan jeg da godt se, og
+derfor sagde jeg også, at det da godt kan være,
+der er nogle ting, vi kan ændre på, hvis ikke
+det medfører en lang række andre konsekvenser, som jeg så ikke kan gå ind for, for sådan er
+det somme tider i dansk politik. Man kan ikke
+bare køre i det populære, som Fremskridtspartiet gerne vil, for en masse af det, der bliver
+sagt, får nogle andre konsekvenser, som man
+så ikke har gjort opmærksom på.
+Hr. Kim Behnke siger, at jeg kan straffe ved
+at lade være at købe. Det er jeg sådan set selv
+opmærksom på, eftersom jeg har en husholdning, men det forudsætter, at den, jeg gerne vil
+købe hos, ikke er slået ihjel forinden, og jeg
+ville prøve at sige, at vi risikerer, at der ikke er
+noget alternativ, fordi vi har slået de små ihjel.
+I modsætning til hr. Kim Behnkes filosofi er
+det for os ganske afgørende ikke bare at gå efter, hvad flertallet mener. Vi har som et grundlæggende princip, at det drejer sig om mindretalsbeskyttelse i dette samfund, sådan at det
+store flertal, 98 pct., ikke bare kan brage af sted
+på de 2 pct.s bekostning eller de 75 pct. kan
+brage af sted på de 25 pct.s bekostning. Sådan
+er vores holdning og vores filosofi, og det er
+også i det lys, vi ser et forslag som dette. Selv
+om noget lyder populistisk fornuftigt, er det ikke altid sikkert, at det er populistisk rigtigt,
+hvis man gennemtænker konsekvenserne. Det
+er nok deri, en af forskellene mellem vores partier ligger.";Lone Dybkjær
+91177;name_party;":
+Fremskridtspartiet foreslår med dette - for-
+
+2668
+
+slag, at forskellige markedsføringsforbud bliver ophævet.
+Jeg vil straks sige, at. Kristeligt Folkeparti
+overordnet mener, at det er helt nødvendigt, at
+vi har en vis form for forbrugerbeskyttelse, og
+med denne bemærkning siger jeg altså, at vi
+ikke går ind for en ubetinget ophævelse af loven, således som det er foreslået.
+Der er på dette område som på så mange
+andre en svag part, der skal beskyttes. Man
+kan kalde det formynderi, eller hvad man vil,
+men der er nogle, som vi godt vil være med til
+at holde hånden over, og det er, som fru Lone
+Dybkjær nævnte, f.eks. de små forretninger,
+men vi tænker måske især på de kunder, som
+har behov for en vis beskyttelse.
+Kreativiteten er stor, når det gælder kampen
+om kundernes gunst, profitten skal sikres, og
+pengene skal hjem. Man skal ikke regne med,
+der er noget, der er gratis. Det er her som så
+mange andre steder, at hvad man sætter til på
+gyngerne, må man vinde ind på karrusellerne.
+Så vi mener helt sikkert, at der er behov for
+forbrugerbeskyttelse.
+Specielt er vi bekymrede ved den omsiggribende underskov af lotterier, for det har nemlig fået den virkning, at de små sportsklubber
+og almennyttige organisationer, som tidligere
+har fået en væsentlig del af deres indtægt gennem lotterier, nu har vanskeligt ved at sælge
+deres lodder, og det går ud over et vældig godt
+stykke arbejde, der gøres af vores idrætsorganisationer og sociale hjælpeorganisationer.
+Derfor er vi principielt imod at stimulere til
+yderligere lotterier.
+Nu kan det godt være, at virkeligheden overhaler idealismen, det sker af og til, og jeg er
+ikke blind for, at der sker en øget handel over
+vore grænser i form af postordrer, og vi rejser
+også mere, så derfor er det måske lidt vanskeligt at opretholde de nugældende regler, når
+man ser, hvad udenlandske konkurrenter tilbyder.
+Vi lukker derfor ikke af for en drøftelse af de
+forskellige forhold, og det er da muligt, de skal
+modificeres lidt, så de passer til virkeligheden,
+men vi vil i hvert fald ikke være med til en ubetinget ophævelse af reglerne, specielt ikke
+hvad angår de rentefri konti, for vi mener helt
+sikkert, at det er nødvendigt at sætte en bremse
+på, så vi ikke får et lånefinansieret forbrug. Vi
+mener også, der er mange forbrugere, ligegyl-
+
+2669
+
+22/11 91: 1. beh. af f. t. 1. vedr. ophævelse af markedsføringsforbud";Lysholm Christensen
+93577;title_name;"digt hvor godt man markedsfører sådanne ting,
+der bliver overrasket over den ekstra omkostning, der ligger på et lånefinansieret forbrug.
+Der er i hvert fald nogle, som kommer til at
+betale.
+Det var nogle udmærkede tanker, som SF's
+ordfører kom frem med om markedsføring, det
+var måske bedre at tilskynde vores reklamebureauer og marketingsfolk til at satse på en anden form for markedsføring. Jeg er helt enig i,
+at vi skal markedsføre på en alternativ måde
+frem for på de felter, som er foreslået her.
+Vi kan altså ikke støtte lovforslaget, men vil
+da godt være med til at kigge på, om der kan
+moderniseres på nogle af felterne.
+Michael Kock (FP):
+Først til Kristeligt Folkeparti. Jeg vil lige
+præcisere, at der ikke er tale om ophævelse af
+loven, men alene om forbudsparagrafferne i
+loven.
+Både SF og Kristeligt Folkeparti var også
+inde på, at Folketinget skulle pådutte markedsføringsfolk i Danmark, hvordan de skulle
+markedsføre deres produkter, og at forbrugerne nok ville se mere positivt på yderligere miljøinformation og produktinformation. Den
+form for styring finder jeg ganske utilstedelig,
+og jeg tror afgjort, at danske marketingsfolk er
+bedre i stand til selv at afgøre, hvorledes de
+udformer deres markedsføring. Vi skal også
+tænke på, at landet har brug for international
+eksport, og Danmark skal ikke lægge yderligere restriktioner på, hvorledes marketingsbranchen i Danmark udformer sin markedsføring.
+Jeg forstår ikke, hvorledes CD med sit meget
+positive syn på det indre marked kan være
+imod en ophævelse af disse restriktioner. I
+kraft af den tiltagende internationalisering,
+som er sket gennem de seneste år, er international markedsføring blevet stadig mere almindelig, og et element i den er såkaldte salespromotions, hvor man har færdige kampagnepakker, som bliver solgt i hele EF's indre marked.
+Med de nuværende restriktive danske love er
+man ikke i stand til at sælge samme produkter i
+alle lande, og man er ikke i stand til at sælge
+dem i Danmark, det vil sige, at varerne ikke
+kan transporteres over den danske grænse fra
+f.eks. Tyskland og blive solgt i Danmark. Jeg
+forstår ikke, at CD kan støtte sådan et restriktivt forbud.
+
+2670
+
+Ellers vil jeg takke regeringspartierne for deres tilslutning til forslaget, og jeg vil også takke
+De Radikale og CD for, at de trods alt er åbne
+over for at diskutere den nærmere udformning
+af en eventuel liberalisering af markedsføringsloven.
+Desværre kom en ophævelse af markedsføringsforbudene ikke til afstemning for to år siden, og mange ting har ændret sig, som industriministeren var inde på: forbrugerombudsmandens skærpede kurs, en større bevidsthed i
+befolkningen om, hvad markedsføringsforbudene egentlig gik ud på, internationaliseringen, som jeg var inde på, kasinoer, lykkehjul
+og mange andre ting. Derfor mener jeg også, at
+der på nuværende tidspunkt er basis for en
+nærmere drøftelse af den danske markedsføringslov.
+Man har nævnt, at forbrugerne og detailhandelens organisationer skulle være imod en
+liberalisering af markedsføringsloven. Jeg kan
+ikke tro, at de udtalelser er kendetegnende for,
+hvordan forbrugerne og detailhandelen ser på
+disse spørgsmål. Hvis nogle forbrugere er
+imod den form for markedsføring, kan de altså
+bare lade være med at købe de pågældende
+produkter, sværere er det ikke, og hvis detailhandelen er imod den form for markedsføring,
+kan den lade være med at købe de pågældende
+kampagner. Det må være meget dårlige markedsføringsfolk, der laver markedsføring, som
+hverken forbrugerne eller detailhandelen er interesseret i, så der er ikke nogen grund til en
+lovgivning imod det, det regulerer helt sig selv
+ved, at ingen vil markedsføre sig på den måde.
+Vi beder om lidt mere frihed til dem, der gerne vil benytte sig af friheden inden for markedsføringen.
+De pågældende love bliver omgået daglig. I
+et hvilket som helst supermarked vil man se, at
+der er forbrugerkonkurrencer bag på stort set
+alle morgenmadspakkerne. Det er de samme
+temmelig kedelige forbrugerkonkurrencer, der
+går ud på, at man skal lave en tegning, og så er
+der en dommerkomité, som afgør, hvorvidt
+disse tegninger er gode nok til at blive præmieret.
+I aktuelle kampagner, som kører i øjeblikket
+for Solgryn og for Guldkorn, udvælger man de
+bedste 1.400 henholdsvis 400 tegninger. Jeg
+kan ikke tro, at afgørelsen af, hvilken tegning
+der er nr. 1.400 eller nr. 1.401, bliver særlig sag-
+
+2671
+
+22/11 91: 1. beh. af f. t. L vedr. ophævelse af markedsføringsforbud";Lysholm Christensen
+98038;title_name;"lig, altså af, hvilken tegning der skal belønnes.
+I det tilfælde ville det være langt mere retfærdigt at foretage en tilfældig udvælgelse ved
+lodtrækning, men det er ulovligt.
+Tidligere havde man spændende konkurrencer, hvor man kunne gå på skattejagt. Der var
+indlagt skattekort i morgenmadspakningerne,
+som man kunne putte i vand og så se, om man
+havde vundet. I dag er den slags forbudt, fordi
+der er tale om tilfældigheder. Jeg kan ikke se,
+hvorfor man skal forbyde mere, kreativitet inden for dansk markedsføring, hvorfor man
+skal have disse dødssyge slogankonkurrencer
+eller tegnekonkurrencer, for konkurrencerne
+og promotions bliver lavet under alle omstændigheder.
+Jeg forstår heller ikke, hvorledes man i TV 2
+kan have Lykkehjulet, hvis udfald også helt eller delvis beror på tilfældet. Formålet med den
+udsendelse er at skaffe mange seere til TV 2,
+for mange seere gavner salget af annoncer for
+TV 2. Jeg forstår ikke, hvorfor detailhandelen
+ikke også må krydre sin markedsføring på tilsvarende vis, når der er kasinoer, millionærkonti, konkurrencer i periodiske tidsskrifter og
+masser af andre undtagelser fra markedsføringsforbudene.
+De eneste, der ikke må fordele præmier tilfældigt, er de erhvervsdrivende detailhandlere,
+og det er på længere sigt til skade for dansk
+marketing og reklame. Man er slet ikke gearet
+til at lave den spændende form for reklame,
+som man laver i udlandet, og det vil også komme til at skade vores eksport og internationalisering.
+Jeg synes, man skal fjerne forbudene, og
+hvis man ikke vil være med til det, synes jeg,
+man skal liberalisere dem. Hvis der endelig er
+nervøse sjæle, som er bange for markedsføring
+til skade for forbrugerne, kan de sætte deres lid
+til generalklausulen i markedsføringsloven,
+hvorefter der ikke må foretages handlinger, der
+strider mod god markedsføringsskik.
+Jeg ser frem til en positiv udvalgsbehandling, og så må vi se, hvor langt vi kan nå med
+forslaget.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+
+2672
+
+vedtoges uden afstemning.";Michael Kock
+100125;title_name;":
+Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 103:
+Forslag til lov om ændring af lov om markedsføring. (Forbud mod mængdebegrænsning).
+Af Jes Lunde (SF) m. fl.
+(Fremsat 7/11 91).
+Lovforslaget sattes til forhandling.
+Forhandling
+Industriministeren (Anne Birgitte Lundholt):
+Det fremsatte lovforslag fra Socialistisk Folkeparti om at ændre markedsføringsloven og
+indføre et generelt forbud mod mængdebegrænsning indeholder specielt i bemærkningerne nogle sympatiske tanker, men i den brede form, det foreligger her, kan regeringen ikke
+umiddelbart acceptere det.
+Det er min opfattelse, at der i mange tilfælde
+ikke mindst i de små butikker kan være gode
+grunde til at acceptere, at. erhvervsdrivende
+fastsætter mængdemæssige begrænsninger i
+forbindelse med favorable tilbud. Et totalt forbud mod mængdebegrænsninger vil derfor efter min vurdering indebære en nærliggende risiko for utilsigtede bivirkninger, som er imod
+lovens i øvrigt sympatiske hensigt. Jeg erkender imidlertid, at der kan være visse typer af
+varer, hvor helt særlige forhold gør, at et forbud mod mængdebegrænsning kan forekomme hensigtsmæssigt. Det vil f.eks. kunne være
+tilfældet i den omlægning af tobakspriserne,
+som vi på anden vis har været nødsaget til at
+tage fat på. På det punkt vil vi meget gerne
+drøfte SF's forslag.
+Et generelt forbud mod mængdebegrænsning i markedsføringsloven ville også være
+temmelig umuligt at administrere og kontrollere. Forbrugerombudsmanden ville ganske vist
+af sig selv eller efter anmeldelse kunne se, om
+der ved annoncering med mængdebegræns-
+
+2673
+
+22/11 91: 1. beh. af f. t. 1. vedr. forbud mod mængdebegrænsning
+
+2674";Henning Rasmussen
+101973;title_name;"ning ligesom ved anden annoncering og rekla- støtte det på grund af bivirkningerne. Men
+mering sker overtrædelse af markedsføringslo- som sagt kunne en mængdebegrænsning måven. Om der i detailforretningerne sker mæng- ske være acceptabel med hensyn til tobak og
+debegrænsning ved, at sælgeren nægter at sæl- muligvis også øl.
+ge mere end et vist antal eller siger, at lageret
+er udtømt, og så alligevel sætter flere frem, vil- Lotte Henriksen (S):
+le derimod i praksis være umuligt at kontrolleIntentionen med dette lovforslag er at forbyre. Ligeledes ville skelnen mellem udsalgs- og de den mængdebegrænsning, der i dag finder
+tilbudsvarer næsten være umulig at kontrolle- sted ved butikkernes slag- eller lokkevaretilre. En eventuel gennemførelse af en straffesag bud. Oftest er det kapitalstærke butikssamom overtrædelse af forbudet ville tillige være menslutninger, der sælger varer under sædvanvanskelig at gennemføre, da det ville være lig indkøbspris, og for at kunne styre afsætninnødvendigt at føre forbrugerne som vidner. gen af de varer, der sælges meget billigt, beI bemærkningerne til lovforslaget skal jeg li- grænser butikken det antal enheder, som den
+ge anholde en enkelt ting, fordi forslagsstiller- enkelte forbruger kan købe.
+Det betyder i dag, at ikke så kapitalstærke
+ne anfører, at et lignende forbud som det nu
+foreslåede er indført i Tyskland. Jeg har gen- butikker udkonkurreres og butiksnettet udtynnem det tyske justitsministerium fået oplyst, at des. Det giver på længere sigt forbrugerne fordet i Tyskland er tilladt en detailsælger at be- ringede indkøbsmuligheder. Med lokkevarergrænse antallet af de varer, han vil sælge til nes mængdebegrænsning sættes prismekanisden enkelte forbruger, han må blot ikke an- men ud af kraft, og den vigtigste konkurrencenoncere med mængdebegrænsningen. Der er parameter for forbrugerne, nemlig prisen, får
+således i tysk ret en klar sondring mellem for- dermed mindsket sin betydning.
+Vi mener, at med et vareantal på op til
+bud mod at annoncere med mængdebegræns200-300
+varenumre i samme butik er dette proning og en mulighed for at sælge en begrænset
+mængde, og det er efter min mening heller ikke blem efterhånden af et sådant omfang, at det er
+en hensigtsmæssig lovgivning. Det er faktisk nødvendigt at gribe ind lovgivningsmæssigt. Vi
+ser positivt på SF's forslag og vil gerne medvirdet, vi har ændret for nogle år siden herhjemke til et positivt udvalgsarbejde, og jeg vil derme.
+for også give Socialdemokratiets tilslutning til
+Ligeledes kan jeg sige, at i de øvrige nordeu- dets vedtagelse.
+ropæiske lande findes der efter det for mig oplyste ikke regler, der forbyder mængdebe- Flemming Hansen (KF):
+grænsning i markedsføringen. ForbrugeromDen konservative folketingsgruppe er helt
+budsmanden i de øvrige nordiske lande admienig med ministeren i ministerens tale og holdnistrerer denne afsætningsform på ganske
+ning til spørgsmålet. Vi synes, der er mange
+samme måde som den danske forbrugerom- gode intentioner i lovforslaget fra SF, som jeg
+budsmand. Hvis lovforslaget derfor vedtages - også forstår regeringen kan støtte. Det kan vi
+vel at mærke i den forelagte meget brede form også, men vi synes ikke, det er godt nok. Det er
+- vil den danske markedsføringslov herefter på korrekt, at det er, som om vi næsten kun bedette punkt komme til at adskille sig væsentligt handler tobaksafgifter osv.
+fra tilsvarende nordiske love og dem syd for
+Jeg opfordrer til, at vi får en meget grundig
+os.
+udvalgsbehandling af sagen, fordi det er en
+Jeg er bekendt med, at Det Danske Handels- sag, som har ligget og ulmet længe, og vi trænkammer, De Samvirkende Købmandsforenin- ger til en god debat om den i Folketingets Erger, Foreningen af Dagligvaregrossister og hvervsudvalg, som den formentlig bliver henForbrugerrådet støtter intentionerne med lov- vist til. Vi bakker som sagt ministerens tale op.
+forslaget. Det gør regeringen i og for sig også.
+Vi støtter intentionerne med lovforslaget og vil Charlotte Antonsen (V):
+meget gerne medvirke til, at disse intentioner i
+Venstre støtter ministeren, men Venstre ønlovforslaget kan udformes anderledes, således sker ikke at indskrive et generelt forbud mod
+at vi også i den sidste ende kan støtte lovforsla- mængdebegrænsning i markedsføringsloven,
+get, for i den her forelagte form kan vi ikke og derfor er vi imod det fremsatte forslag.
+
+2675
+
+22/11 91: 1. beh. af f. t. 1. vedr. forbud mod mængdebegrænsning";Industrlmlnlsteren
+106424;title_name;"For det første vil et sådant forbud jo medføre, at de små detailbutikker ikke længere kan
+lokke med slagvarer: de vil simpelt hen ikke
+have råd til at købe de store mængder.
+Dernæst vil et generelt forbud medføre et
+administrativt kaos, hvis myndighederne skal
+til at rende rundt og vurdere, om en given slagvare er en egentlig udsalgsvare, som det jo
+hedder i § 6 a, stk. 2, i forslaget.
+Michael Kock (FP):
+Som vi var inde på under behandlingen af
+forrige punkt på dagsordenen, ønsker Fremskridtspartiet at afskaffe markedsføringsforbudene i markedsføringsloven. Som i så mange
+andre forhold står Fremskridtspartiet og SF
+derfor som diametrale modsætninger.
+SF foreslår en udvidelse af de gældende fire
+markedsføringsforbud med endnu et forbud, et
+forbud mod mængdebegrænsning. Forslagsstillerne vil begrebet slagvarer til livs ved at
+sikre, at butikker skal sælge lige så mange varer til den enkelte kunde, som denne ønsker at
+købe, så længe lager haves.
+Det vil rigtignok sætte en effektiv stopper
+for begrebet slagvarer, ligesom SF også vil afskaffe åbningstilbud, køtilbud og andre tilbud,
+hvor der er mængdegrænser for, hvad hver enkelt må købe.
+Men hvorfor skal det være så trist alt sammen? Hvis en virksomhed ønsker at markere et
+jubilæum eller åbningen af en ny forretning eller blot åbne et udsalg på en farverig måde,
+hvorfor i alverden må den så ikke mere tilbyde
+varer til spotpris til f.eks. de første 100 kunder?
+Fremover skal den første kunde have lov til at
+købe hele oplaget, hvis det står til SF. Fremskridtspartiet finder, at det er et groft indgreb i
+den personlige frihed. Selvfølgelig skal forretninger have lov til at begrænse deres gode tilbud, så de kan komme flest muligt til gode: det
+manglede da bare.
+Vi finder SF's holdning formynderisk og blireaukratisk også på dette område. Det offentlige kan ikke med rimelig grund tillade sig àt
+blande sig i virksomhedernes markedsføring.
+Det er big brother is watching you-manerer, og
+vi finder det usmageligt og krænkende for erhvervslivets frihed. Den slags restriktiv lovgivning, der blander sig i borgernes gøren og laden helt ud i detaljerne, burde være faldet med
+Berlinmuren. Det er kommunistisk tankegang
+af værste skuffe.
+
+2676
+
+Mærkværdigvis indeholder forslaget et stk.
+2, der fuldstændig tager brodden af stk. 1, og
+som i det hele taget giver dette forslag et komisk skær: Egentlige udsalgsvarer skal således
+ikke omfattes af forslaget. Hvordan forslagsstillerne skelner mellem slagvarer og udsalgsvarer, det hører vist til de mere forfinede tolkninger.
+Én ting er sikkert, nemlig at dette forslag vil
+skaffe mere arbejde til Forbrugerombudsmanden.
+Vi finder forslaget fuldstændig håbløst og
+indstiller det til forkastelse.";Charlotte Antonsen
+109150;name_party;":
+Jeg skal på CD's vegne sige, at vi finder
+mange gode intentioner i SF's lovforslag nr. L
+103. I Skatteudvalget behandles der for tiden
+et andet forslag, som hænger lidt sammen med
+dette, og vi håber, at vi får en god og grundig
+udvalgsbehandling, hvor vi kan få belyst disse
+ting.
+Om det skal være dette forslag, der skal
+fremmes, eller det andet lovforslag, det vil vi
+kigge på til den tid.";Sonja Albrink
+109561;name_party;":
+Det Radikale Venstre kan støtte SF's forslag. Efter vor opfattelse har det en nær sammenhæng med lovforslag nr. L 102, som vi diskuterede tidligere i dag, og jeg skal henvise til
+mine bemærkninger i forbindelse med behandlingen af dette forslag, idet jeg dog skal undtage bemærkningerne om KVR-regeringen og
+deslige.
+Men jeg vil specielt sige, at det ene punkt
+drejer sig om, hvorvidt de store skal have lov
+til at overleve på bekostning af de små. Det
+andet punkt drejer sig om, hvor fortjenesten så
+skal ligge.
+Hvis man kigger på slagvaretilbudene, kan
+man med det samme konstatere, at der er en
+række andre produkter, der ikke er helt så populære, og som derfor ikke får tilsvarende muligheder, og alt andet lige kommer de så til at
+koste mere. Det vil sige, at dette sandsynligvis
+kommer til at forvrænge i en retning, som også
+miljømæssigt og på anden vis - måske oven i
+købet sundhedsmæssigt - er uheldig. Under alle omstændigheder er cigareteksemplet en klar
+illustration af, at det trækker i retning af noget
+mere usundt.
+
+2677
+
+22/11 91: 1. beh. af f. t. 1. vedr. förbud mod mængdebegrænsning";Lone Dybkjær
+110682;title_name;"Man kan også tage eksemplet med de store
+sodavandsflasker - ikke fordi man skal forhiiidre folk i at drikke sodavand, men det mest
+sunde er det vel heller ikke - det vil være den
+type af varer, som vil blive udbudt, og den type
+af varer, som vil komme til at koste mindre,
+hvor andre typer af varer så vil komme til at
+koste mere.
+Det handler om de store og de små. Det
+handler om, hvor de høje priser endet med at
+være, og derfor støtter vi dette lovforslag, som
+imødegår den tendens.";Lone Dybkjær
+111193;name_party;":
+Det er med stor bekymring, vi i Kristeligt
+Folkeparti har modtaget Konkurrencerådets
+afgørelse om ophævelse af fastprissystemet for
+tobaksvarer. Det er tanken, at dette fastprissystem skal ophøre pr. 31. december 1991.
+Vi ser heri endnu et frontalt angreb på de
+små butikker og kiosker. Nu bliver det umuligt
+for dem at hamle op med de store, når de kommer med slagtilbud også på dette område. Der
+findes mange små butikker og kiosker, som
+handler med tobaksvarer og har den væsentligste del af deres omsætning netop på dette område, så det handler om de små butikker igen.
+Det er virkelig ikke nemt at være en lille butiksindehaver i vore dage.
+Der er også et sundhedsaspekt i det. Vi finder det noget uforståeligt, at man på dette
+punkt nu går imod alle andre bestræbelser på
+at begrænse det skadelige tobaksforbrug i vort
+land. Det er ikke, fordi vi vil være overformynderisk på dette punkt heller, men vi har nogle
+benhårde kendsgerninger om sundhedsfaren
+ved at ryge tobak: vi kan se det i vort sundhedsvæsens budgetter, og derfor finder vi det
+helt uforståeligt, at vi ikke kan arbejde sammen hen imod en begrænsning af tobaksforbruget også på dette punkt.
+Vi så helst, at Konkurrencerådets afgørelse
+blev omstødt, så vi igen fik fastprissystemet
+indført, og vi arbejder i øvrigt med et forslag,
+som tager sigte på at opfylde dette ønske.
+Med dette lovforslag kommer SF med en anden løsningsmodel, og jeg vil straks sige, at
+den har vi sympati for. Det kunne være en måde at løse problemet på. Men vi får ikke dermed løst det sundhedsmæssige problem, altså
+en begrænsning af mængden. Nu vil man næsten tilskynde til, at man køber lidt mere af
+
+2678
+
+denne vare, end man egentlig havde tænkt sig,
+og dermed måske får et endnu større forbrug af
+tobak.
+Men vi er enige med SF i, at dette er en løsningsmodel, som måske kan bruges, hvis vi ikke kan komme igennem på anden måde, for i
+og med at man kan købe ubegrænset, vil man
+dæmpe lysten til at bruge tobak som slagvare.
+Til Fremskridtspartiets ordfører kunne jeg
+godt tænke mig at sige, at det er åbenbart ubegrænset, hvad man kan bruge det kommunistiske system til, når man skal argumentere. Jeg
+tror egentlig ikke, at der er nogen sammenhæng mellem hverken mur eller kommunisme
+og så det problem her, men det er nogle interessante bemærkninger selvfølgelig.
+Jeg skal sige, at vi støtter forslaget i dets formål, og vi vil gerne arbejde konstruktivt for en
+løsning af dette problem.
+(Kort bemærkning).
+Michael Kock (FP):
+Blot for at tydeliggøre, at min sammenligning med kommunisme ligger i, at dette forslag
+ønsker at regulere borgernes forhold helt ude i
+detaljerne, og jeg mener også, at det er tankegangen bag det kommunistiske system.";Lysholm Christensen
+113905;name_party;":
+Jeg skal takke for en meget velvillig modtagelse fra de fleste partier, og specielt skal jeg
+takke Socialdemokratiet og Det Radikale Venstre for en umiddelbar tilslutning til lovforslaget, så jeg nu kan konstatere, at der er flertal
+for at gennemføre lovforslaget.
+Jeg kan se, at regeringen er med noget af vejen, idet man vil overveje det for tobak og måske også for øl. Men når jeg kan se, at der er
+flertal for at gennemføre det helt og for alle
+varegrupper, tager jeg selvfølgelig det flertal.
+Regeringen må så gøre op med sig selv, om de i
+sidste ende vil stemme for eller ej.
+Jeg synes, det er glædeligt, at vi får alle varegrupper med, fordi det her ikke kun drejer sig
+om tobak og spiritus, men også om andre varer, som det så udmærket blev beskrevet af fru
+Lone Dybkjær. Jeg kan ikke holde bedre taler
+end dem, der har været holdt af andre ordførere om de gode intentioner med forslaget.
+Jeg skal gå lidt ind på de kritiske bemærkninger, der har været. Industriministeren mente, at det kunne være svært at kontrollere en
+
+2679
+
+22/11 91: 1. beh. af f. t. 1. vedr. forbud mod mængdebegrænsning";Jes Lunde
+115023;title_name;"sådan lovgivning. Det tror jeg ikke. Kontrollen
+ligger hos forbrugerne: kontrollen ligger simpelt hen i, at hvis et stort varehus udbyder en
+vare meget billigt, f.eks. tobak til en utrolig lav
+pris, så er det den lille købmand, der vil ud og
+opkøbe hele lageret og køre det hjem på sin
+trailer, så er det ham, der er kontrolfunktionen
+simpelt hen.
+Jeg forestiller mig ikke, at prisinspektører
+skal tage rundt og kontrollere, om det her foregår. Jeg stoler på, at det er noget, som den lille
+købmand, der bliver nægtet adgang til at opkøbe det parti, vil reagere på og tage de initiativer, der skal til, for at få standset den lovovertrædelse.
+Fremskridtspartiet mente, at det var en voldsom krænkelse af den personlige frihed, at varehuset ikke kunne nægte at sælge sine varer.
+Ja, det ved jeg ikke. Man kunne også sige, at
+det var en krænkelse af den lille købmand at
+sige, at han ikke måtte have lov at købe, hvad
+han havde lyst til af den vare, som man solgte i
+varehuset. Det synes jeg kan gå nogenlunde lige op. Jeg kan ikke se den store principielle
+forskel på det.
+Kristeligt Folkeparti var betænkelig ved, om
+en ophævelse af mængdebegrænsningen betød, at folk så ville købe meget mere tobak og
+meget mere spiritus end ellers. Sådan tror jeg
+ikke det vil virke. Det vil tværtimod virke på
+den måde, at man overhovedet ikke vil se disse
+varer som slagvarer, fordi fortjenesten er meget lille på tobaksvarer i øjeblikket. Det betyder, at selv en lille prissænkning vil betyde, at
+man går under indkøbspris. Så snart man går
+under indkøbspris, vil der være andre handlende, som vil se en fordel i at opkøbe hele partiet. Jeg tror derfor, at forslaget simpelt hen vil
+blokere for, at man bruger tobak og lignende
+varer som slagvarer, og det er også en del af
+intentionen.
+Den overordnede intention med lovforslaget
+er at sikre en god butiksstruktur i Danmark, så
+vi kan blive ved med at have en detailhandel
+også ude omkring i de små samfund, således at
+også mennesker, der ikke er så mobile, kan
+fortsætte med at handle ind i de små butikker
+uden at være tvunget til at følge bilstrømmen
+på den ene eller den anden måde hen til de
+store varehuse.
+Jeg synes, det er .meget glædeligt, at der har
+vist sig et flertal for dette lovforslag. Det er et
+
+2680
+
+gennembrud, som er meget glædeligt for dem,
+der handler i de små butikker. Det er også meget glædeligt for landsbyerne i Danmark, at vi
+får gennemført det her, ligesom det er glædeligt for sundhedspolitikken og miljøpolitikken.
+Alt i alt er der grund til at glæde sig over det.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Jes Lunde
+117708;title_name;":
+Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+6) Første behandling af beslutningsforslag nr. B 3:
+Forslag til folketingsbeslutning om privatisering af Dansk Olie og Naturgas A/S.
+Af Kim Behnke (FP) m.fl.
+(Fremsat 22/10 91).
+Forslaget sattes til forhandling.
+Forhandling
+Energiministeren (Anne Birgitte Lundholt):
+Spørgsmålet om muligheden for en privatisering af det statslige aktieselskab Dansk Olie
+og Naturgas A/S har været genstand for betydelig interesse fra mange sider inden for den
+seneste tid. Spørgsmålet er ikke mindst blevet
+koblet sammen med den forventede udvikling
+inden for EF i retning af et mere konkurrencepræget energimarked.
+Jeg vil gerne indledningsvis fastslå, at regeringen principielt er positivt indstillet over for
+en privatisering af DONG A/S, men det er
+samtidig min opfattelse, at en privatisering ikke står lige for døren. Det er min opfattelse, at
+DONG-koncernen i dag drives effektivt og
+med en betydelig kommerciel handlefrihed.
+Jeg finder det også glædeligt, at der nu er en
+positiv udvikling i koncernens økonomi. Men
+
+2681
+
+22/11 91: 1. beh. af f. t. beslutn. om privatisering af Dansk Olie og Naturgas A/S
+2682";Henning Rasmussen
+119032;title_name;"det er også nødvendigt at erkende, at naturgasEn privatisering af DONG-koncernen vil
+selskaberne endnu ikke kan klare sig uden den forudsætte ændringer i dette system. Det vil
+store indirekte støtte, der ligger i, at naturgas således være nødvendigt, at der findes en aner fritaget for energiafgifter. En privatisering af den måde at løse naturgasprojektets økonomiDONG A/S og dets datterselskaber vil således ske problemer på. I den forbindelse er det væikke i sig selv fjerne de økonomiske problemer sentligt ikke at glemme hensynet til kommui forbindelse med gennemførelsen af naturgas- nerne, der hæfter for de betydelige gældsforprojektet.
+pligtelser i de regionale selskaber. Som jeg sagJeg mener derfor ikke, at der er grund til at de indledningsvis, vil en privatisering af
+træffe forhastede beslutninger om koncernens DONG ikke i sig selv fjerne disse væsentlige
+fremtid, og jeg vil gerne uddybe baggrunden økonomiske problemer.
+for denne opfattelse.
+Udviklingen i EF har også som nævnt acceSom forslagsstillerne selv har påpeget, må lereret debatten om, hvorvidt den nuværende
+det forudses, at rammerne for koncernens virk- organisering af energisektoren er hensigtsmæssomhed vil ændres væsentligt i de kommende sig, eller om der findes andre løsninger. Enerår ikke mindst som følge af udviklingen på giselskabernes overvejelser om de fremtidige
+energiområdet i EF i retning af et mere kon- selskabs- og samarbejdsstrukturer præges nakurrencebetonet energimarked. Det er imidlerturligvis heraf. En privatisering af DONG må
+tid endnu langtfra afklaret, hvorledes og i hvilogså ses i lyset af disse overvejelser. Jeg tror,
+ken takt denne liberalisering af energimarkedet vil være hensigtsmæssigt, at konturerne i
+derne i EF vil finde sted.
+den fremtidige struktur på energimarkedet tegJeg er enig med forslagsstillerne i, at også
+ner sig lidt tydeligere, inden der træffes afgødenne udvikling nødvendiggør overvejelser
+rende beslutninger.
+om koncernens fremtid. Jeg er også enig med
+I den forbindelse kan jeg oplyse, at DQNG's
+forslagsstillerne i, at en privatisering naturligt
+bestyrelse forventer i løbet af det kommende
+må indgå i disse overvejelser.
+Når dette er sagt, vil jeg imidlertid gerne slå års tid at kunne fremlægge en strategi for den
+fast, at jeg mener, at det vil være fornuftigt at fremtidige virksomhed. Jeg ville finde det ønskeligt, at også disse overvejelser kunne indgå i
+se tiden lidt an.
+Der er således en række uafklarede spørgs- en samlet beslutning.
+Det er væsentligt også at være opmærksom
+mål af betydning for koncernens fremtidige
+virksomhed, som taler for at udskyde tids- på, at DONG rummer betydelige værdier og
+fremtidsperspektiver, der i dag kan være vanpunktet for en beslutning om privatisering.
+Også naturgasprojektets økonomiske situ- skelige at værdisætte, f.eks. naturgasnettets
+ation taler herfor. Ved udgangen af 1990 havde strategiske velbeliggenhed i forhold til de
+Dangas således en gæld på 6,5 mia. kr., mens svenske og norske gassystemer, de nye østeude regionale selskabers samlede gæld beløber ropæiske markeder og efterforskningssiden,
+der på længere sigt kan vise sig at være af besig til 17, jeg gentager 17 mia. kr.
+Som bekendt er en fornuftig afvikling af na- tydning for DONG-koncernen. Hvis f.eks.
+turgasselskabernes gæld imidlertid fortsat af- Amaliefeltet besluttes udbygget, vil DOPAS
+hængig af det indirekte statstilskud til projek- som partner i konsortiet således få mulighed
+tet i form af energiafgiftsfritagelsen for natur- for at deltage i produktion af kulbrinter.
+Endvidere er det vigtigt, at en eventuel prigas. Værdien af afgiftsfritagelsen var i 1990 1,5
+mia. kr. for de fem regionale selskaber og Dan- vatisering gennemføres på en sådan måde, at
+gas under ét.
+det sikres, at de offentlige interesser, der hidtil
+I den forbindelse må også Dangas' særlige er blevet varetaget her og i datterselskaberne,
+rolle i naturgasprojektet tages i betragtning. I kan sikres på anden måde. Umiddelbart er der
+den aftale, der i dag regulerer forholdet mel- nogle funktioner, som ikke vil kunne overlades
+lem de regionale naturgasselskaber og Dangas, til private selskaber, og det skal der naturligvis
+yder Dangas de regionale selskaber en vis ga- også tages stilling til.
+ranti for indtjeningen, bl.a. bærer Dangas næDet må forudses, at en øget EF-retlig regulesten hele risikoen for ændringerne i energiaf- ring af energisektoren vil forudsætte ændringifterne.
+ger i den offentlige regulering og kontrol af
+
+2683
+
+22/11 91: 1. beh. af f. t. beslutn. om privatisering af Dansk Olie og Naturgas A/S";Energiministeren
+123617;title_name;"energisektoren for at sikre konkurrence. Derfor er det vigtigt, at dette også tages med.
+Afslutningsvis vil jeg sige, at der kommer et
+tidspunkt, hvor det vil være naturligt at overveje at privatisere DONG A/S. Men som situationen er i dag, hvor naturgasselskaberne ikke kan klare sig uden en ganske væsentlig
+statsstøtte, ligger en privatisering ikke ligefor.
+I den forbindelse vil jeg ikke undlade at påpege noget, som jeg er sikker på at forslagsstillerne også er enige i, nemlig at tidspunktet for
+en privatisering ikke er uden betydning for den
+pris, et eventuelt salg vil kunne indbringe. Jeg
+vil derfor ikke finde det rimeligt, hvis staten
+skulle blive tvunget til et tidligt salg og dermed
+ikke opnå den rigtige pris for aktierne i forbindelse med en privatisering af selskabet.
+Sammenfattende er det min vurdering, at
+der ikke på nuværende tidspunkt er et endeligt
+beslutningsgrundlag for, hvornår og under
+hvilke forudsætninger en privatisering af
+DONG-koncernen bør gennemføres.
+Selv om jeg principielt er positivt indstillet
+over for tanken om en privatisering, vil jeg på
+regeringens vegne anbefale, at det foreliggende
+forslag forkastes.";Energiministeren
+124785;name_party;":
+Socialdemokratiet er enig med energiministeren i konklusionen. Vi finder, at der er
+grund til at have yderligere præmisser med,
+men når konklusionen er den samme, er det jo
+tilstrækkeligt i dag.
+Vi ser ikke en nødvendig sammenhæng mellem den udvikling, der kan blive tale om med
+hensyn til EF's indre energimarked, og så
+spørgsmålet om ejerformen for DONG A/S.
+Når man ser sig om i Europa og også her i
+landet, er der mange statsejede virksomheder,
+der fungerer. Alle kan huske, at vores forslag og det arbejde, der var i gang i 1982 - om, at
+DONG-koncernen skulle købe sig ind i et raffinaderi i Danmark, blev affejet med bemærkningen: Vi skal ikke have statslige olieraffinadèrier i Danmark.
+Nu har vi to statslige olieraffinaderier i Danmark ejet af henholdsvis Kuwait og Norge,
+fuldt statsligt ejede selskaber. Det siger lidt
+om, at ejerformen ikke er svaret på alt vedrørende spørgsmålet om kommerciel handlefrihed. Det er en national interesse, at vi har en
+koncern af denne karakter til vores rådighed i
+
+2684
+
+energipolitikken. Vi mener yderligere, at år
+2012 er så nær, at det vil være tåbeligt grænsende til det forbryderiske, hvis vi fjerner muligheden for, at et samfundsejet foretagende
+kan være direkte med i stor skala, og derfor
+skal vi passe meget pA, ikke at ødelægge den
+mulighed.
+Ministeren antydede en mere aktiv rolle for
+DQPAS i forbindelse med Amaliefundet. Det
+er jo en antydning af det perspektiv, der samlet
+kan blive tale om i fremtiden.
+Det er den kommercielle handlefrihed, der
+er afgørende, og på det punkt er Socialdemokratiet bestemt ikke restriktiv. Jeg skal minde
+om, at PONG's repræsentantskab i sin redegørelse til Folketinget 8. november 1990 udtrykker følgende:
+»Repræsentantskabet har ikke på nuværende tidspunkt grundlag for at udtale sig om mulige privatiseringstiltag. Det er vor opfattelse,
+at koncernen driver virksomheden efter klare
+forretningsmæssige principper og bør have til""
+svarende overordnede kommercielle disposi""
+tionsmuligheder.«
+Det var en enig repræsentantskabsudtalelse,
+der var formuleret på den måde, og i Socialdemokratiet synes vi, det på glimrende vis udtrykker, hvordan den virksomhed skal drives.
+Vi er enige med ministeren i beskrivelsen af,
+at det er en veldrevet virksomhed, vi har at gøre med, og vi ser ikke nogen som helst grund til
+at stille os positivt an over for beslutningsforslag nr, B 3.";Poul Nielson
+127176;name_party;":
+Da mit partis ordfører, hr. Per Tærsbøl, ikke
+har mulighed for at være til stede, skal jeg på
+Det Konservative Folkepartis vegne læse hans
+tale op:
+I den konservative folketingsgruppe er vi
+principielt interesseret i at diskutere privatisering af offentlig virksomhed, hvis det synes formålstjenligt.
+Et væsentligt krav er imidlertid, at en privatisering ikke skaber flere problemer, end den
+løser. I relation til forslaget om at privatisere
+DONG A/S synes der i øjeblikket at være så
+mange uafklarede problemstillinger, at en privatisering ikke forekommer realistisk.
+Det er således svært at se, hvordan en privatisering skal kunne løse de store økonomiske
+problemer, der findes i forbindelse med natur-
+
+2685
+
+22/11 91: 1. beh. af f. t. beslutn. om privatisering af Dansk Olie og Naturgas A/S
+2686";Flemming Hansen
+127997;title_name;"gasprojektet, bl.a. er der tale om meget store
+Jeg skal ikke undlade først at kommentere
+gældsforpligtelser, som ministeren sagde, for- ministerens bemærkninger om, at der vil kompligtelser, som også kommunerne hæfter for me et tidspunkt, hvor man skal privatisere
+via de regionale selskaber. Modsat rummer na- DONG A/S. Det må forudsætte, at regeringen
+turgasprojektet også store værdier med et bety- bliver siddende ganske mange år endnu, og det
+deligt potentiale, som det kan være svært at regner jeg ikke med bliver tilfældet, så jeg tror,
+værdifastsætte.
+vi kan tage den bemærkning rimelig afslappet.
+DONG A/S rummer en lang række probleMen bortset fra det er jeg enig i den socialmer, som ikke uden videre lader sig løse gen- demokratiske ordførers mere principielle benem privatisering, og derfor afviser vi beslut- tragtninger. Der er jo faktisk forskel på at sælningsforslag nr. B 3.
+ge olie og naturgas og så at sælge gulerødder
+og kartofler, og derfor er det jo ikke sikkert, at
+privat virksomhed i alle tilfælde er en fordel i";Flemming Hansen
+129057;name_party;":
+Jeg kan på Venstres vegne tilslutte mig den denne sektor. Det er også derfor, som hr. Poul
+forrige taler. Vi må sige, det er et rigtigt forslag Nielson var inde på, at der andre steder i Eupå et forkert tidspunkt. Det er mit udgangs- ropa og i Mellemøsten er tradition for, at det
+punkt, når vi skal diskutere Fremskridtsparti- offentlige er stærkt engageret i energisektoren,
+ets beslutningsforslag, der som sagt rummer og det har mange årsager. Der er tale om et
+nogle gode ideer og tanker, men som efter min marked med få købere og få sælgere i engrosopfattelse er fremsat på et for tidligt tidspunkt. leddet, og der skal tages meget store samfundsDet er den samme problematik, som vi ser om- mæssige hensyn.
+Derfor er det for os at se fornuftigt, at det
+kring C02-afgiftsforslagene, nemlig dårlig
+offentlige
+engagerer sig i energiforsyningspolitiming og for staten en dårlig forretning.
+tikken
+og
+man
+i den sammenhæng også har et
+Danmark har i dag en række private energiforsyningsselskaber. Vi har nogle selskaber, statsligt selskab, hvad DONG jo er. Som hr.
+der i princippet er private, men hvor det of- Poul Nielson anførte, er der i andre lande erfafentlige har meget stor indflydelse, og så har vi ring for, at statslige selskaber kører overornaturgasselskaberne, der både ejes og drives af dentlig godt: f. eks. er Statoil et også på komoffentlige myndigheder. Staten har stillet na- merciel vis meget veldrevet selskab og har stoturgasselskaberne visse afsætnings- og indtje- re overskud. Og jeg er også sikker på, at
+ningsmuligheder i udsigt, og disse løfter er vi DONG er på vej ind i en meget positiv udvikling. Danmark får faktisk en større rolle at spilmoralsk forpligtet til at fastholde.
+Når man skal prissætte en vare, er det natur- le i olie- og gasforsyningerne, og derfor er jeg
+ligt at have gjort sig nogle tanker om varens helt sikker på, at DONG kan komme til at spilfremtid - her om naturgasprojektets fremtidige le en meget vigtig rolle, ikke på samme niveau
+indtjeningsevne. Det er imidlertid på dette som Statoil, men alligevel en ganske vigtig roltidspunkt umuligt at spå om, hvordan det vil le. Det er vores helt principielle opfattelse, at
+man i den sammenhæng skal arbejde for, at
+gå med økonomien i projektet.
+Hr. Kim Behnke samt potentielle købere af DONG får større handlefrihed, større manøvDONG A/S er velorienteret om, at man i EF- rerum i stedet for at tale om privatiseringer,
+regi arbejder støt og roligt med en afvikling af der, som ministeren sagde, ikke løser noget
+monopoler og i denne forbindelse også energi- som helst i forbindelse med de aktuelle økonomonopoler samt en liberalisering af hele el- og miske problemer, der eksempelvis er i naturvarmemarkedet, hvilket som også bekendt in- gasprojektet.
+Derfor vil vi afvise det foreliggende forslag.
+debærer en opdeling af producenter og distributører.
+Det må derfor i den nuværende uoverskueli- Michael Kock (FP):
+ge situation være udtryk for god forretningsStaten overdrev endnu en gang sin rolle i
+sans at vente på en afklaring i EF.
+samfundsøkonomien, da den i 1979 foranlediVenstre kan derfor ikke støtte forslaget.
+gede, at Venstre i samarbejde med Socialdemokratiet besluttede at indføre statsdirigeret
+Holger K. Nielsen (SF):
+naturgasforsyning af Danmark. Tvangstilslut-
+
+2687
+
+22/11 91: 1. beh. af f. t. beslutn. om privatisering af Dansk Olie og Naturgas A/S";Peter Hansen-Nord
+132443;title_name;"ninger og subsidiering for akkumuleret 30-40
+mia. kr. er fulgt i kølvandet på den på mange
+måder skæbnesvangre beslutning. Hvis man
+havde lyttet til fagkundskaben, herunder
+Fremskridtspartiet, dengang, så havde man
+solgt naturgassen til udlandet frem for at binde
+milliardinvesteringer i etableringen af et naturgasnet.
+Lige siden har man søgt at lappe på skaden
+med politiske forlig om omlægning af energiafgifter og andre tiltag, der alene har haft til formål at privilegere naturgas på bekostning af
+andre energiformer som olie og el, der er blevet gjort kunstigt dyrere. Taberen i spillet er
+som sædvanlig forbrugeren og dermed skatteyderen.
+Naturgasprojektet er et levende eksempel på
+planøkonomiens ulyksaligheder, og hvor galt
+det går, når staten forsøger at drive virksomhed. Med de udsigter, der er for naturgasprojektet i det indre marked, er den eneste fornuftige løsning en privatisering. En privat virksomhed, der driver andre gasaktiviteter, vil have den administrative baggrund for med fordel
+at kunne udnytte DONG's aktiver og kundenet.
+DONG har ingen fremtid i det indre marked. Energiafgiftsharmoniseringen vil udhule
+naturgasprojektets avance i kraft af lavere
+salgspriser, mens liberaliseringen af brugen af
+naturgasrørnettet vil koste kunder til udenlandske gasudbydere.
+Ekspansion og internationalisering kunne
+være en løsning, men må frarådes DONG. Det
+vil blot gøre skaden værre. Og en likvidation
+vil koste skatteyderne milliarder.
+Fremskridtspartiet foreslår derfor med dette
+forslag, at Folketinget lægger denne kedelige
+sag bag sig, og at vi for en gangs skyld er på
+forkant med udviklingen. En privatisering er
+derfor den eneste farbare vej for en ordentlig
+udgang på denne 12 år gamle misere.";Michael Kock
+134195;name_party;":
+Først vil jeg takke CD's og De Radikales
+ordførere, fordi jeg må komme til nu.
+Dernæst skal jeg på Kristeligt Folkepartis
+vegne tilsige en positiv udvalgsbehandling. Ikke sådan at vi tilslutter os forslaget, sådan som
+det foreligger, men vi mener, at nogle af de
+tanker og spørgsmål, der er rejst i det, er meget
+væsentlige at få set på, ikke mindst hvad frem-
+
+2688
+
+tiden angår. Det, der ligger bag - og jeg synes,
+det er meget fint, at Fremskridtspartiet har fået
+opregnet hele historien - kan vi jo ikke gøre så
+meget ved nu. Nu gælder det om at finde den
+rigtige vej fremover, og det vil vi gerne være
+med til at drøfte i udvalget.
+Da jeg desværre ikke kan være til stede senere, skal jeg gøre opmærksom på allerede nu,
+at vi også vil se positivt på og være med til at
+drøfte det andet Fremskridtspartiforslag, der
+er opført som sidste punkt på dagsordenen.";Inger Stilling Pedersen
+135078;name_party;":
+Da mit partis ordfører i denne sag ikke kan
+være til stede, skal jeg fremføre CD's synspunkter.
+Fremskridtspartiets forslag om privatisering
+af Dansk Olie og Naturgas kan CD ikke støtte.
+Vi mener nok, at privatisering er en god ting,
+men ikke for enhver pris. Der har været problemer med økonomien i DONG, men de er
+ved at være overstået nu. Derfor synes CD ikke, at det er en god idé at privatisere selskabet.
+Jeg skal derfor afvise forslaget.";Sonja Albrink
+135542;name_party;":
+Det Radikale Venstre afviser forslaget, men
+jeg skal i øvrigt lade være med at gå ind i en
+mere principiel energipolitisk eller DONGpolitisk debat ved denne lejlighed.";Lone Dybkjær
+135727;name_party;":
+Jeg vil gerne indlede med at takke ministeren for det principielle tilsagn om, at man bør
+se på en privatisering af Dansk Olie og Naturgas. Om tidspunktet er det rigtige, er noget,
+kun historikerne kan afgøre om 100 år.
+Hvorom alting er, er det vores opfattelse, at
+Folketinget i alt for mange situationer kommer
+haltende bagefter. Vi har i form af dette forslag
+søgt at komme på forkant med udviklingen, og
+der er næppe tvivl om, at udviklingen i de andre EF-lande - vi kan selvfølgelig godt sammenligne os med Norge og Kuwait, som der
+var tendenser til, men i denne forbindelse er
+det mere relevant, at vi sammenligner os med
+de andre EF-lande - går klart i retning af, at
+statsejede energiselskaber bliver privatiseret.
+Af hr. Poul Nielsens indlæg kunne jeg forstå, at Socialdemokratiet opfatter det som i national interesse, at det er staten, der driver
+DONG. Hr. Poul Nielson var også så ærlig at
+
+(169)
+2689
+22/11 91: 1. beh. af f. t. beslutn. om privatisering af Dansk Olie og Naturgas A/S
+2690";Kim Behnke
+136745;title_name;"afsløre, hvad planerne er for Socialdemokrati- skulle være i stand til at foretage sådanne været. Jeg tror nok, jeg citerer korrekt, når jeg cite- diansættelser. Vi har jo netop i denne tid set
+rer hr. Poul Nielson for at sige, at det ville være uhyggelig mange eksempler på, at det offentli»tåbelig grænsende til det forbryderiske«, hvis ge, når man skulle vurdere, hvad noget var
+man privatiserede DONG på denne side af år værd, end ikke har været i stand til at finde ud
+2012. Deri ligger jo en direkte og udtalt inter- af, hvad et stykke jord egentlig var værd.
+esse fra Socialdemokratiet i, at akkurat lige så
+Langt mere positiv var Venstres ordfører, og
+snart nytårsklokkerne ringer år 2012, ønsker det er jo da glædeligt, i og med at Venstre med
+man at smide DUC ud af Nordsøen og lade hensyn til dette at skulle vedgå arv fra DONG
+det statsejede DONG-selskab eller et af datter- måske havde mindre grund til at være så posiselskaberne overtage alle interesser i Nordsø- tiv, i og med at det jo var en SV-regering, der i
+en.
+sin tid startede dette naturgaseventyr.
+Venstres ordfører mener, at situationen i
+I den forbindelse vil jeg gerne sige til Venstres ordfører, at det bl.a. er derfor, Frem- øjeblikket er ganske uoverskuelig. Så håber
+skridtspartiet har følt det nødvendigt, at vi ta- jeg, at dette forslag kan medvirke til, at vi får
+ger debatten op nu, for det skal ikke være i en gjort situationen mindre uoverskuelig, for det
+sen nattetime op til jul i år 2011, at Folketinget er jo ikke særlig betryggende, hvis et regeringsskal til at finde ud af, hvad der nu skal ske, når parti mener, at situationen for Dansk Olie og
+der er eller ikke er et rødt flertal eller et borger- Naturgas er uoverskuelig. Det kunne tyde på,
+ligt flertal, som henholdsvis vil gennemføre hr. at der er et par ting, vi skal have undersøgt.
+Lad mig derefter lige vende tilbage til noget,
+Poul Nielsons planer eller forhåbentlig stoppe
+som flere har været inde på, nemlig spørgsmådem.
+Under alle omstændigheder er det vores op- let om, hvad der vil ske for de regionale selskafattelse, at Dansk Olie og Naturgas skal priva- ber, og jeg er også blevet mødt med den betiseres, og at staten under ingen omstændighe- brejdelse fra mennesker uden for dette hus, at
+der skal udvide sit engagement i Nordsøen i år vi i beslutningsforslagets punkt 5 siger, at vi
+2012. Men den diskussion tager vi til den tid, tager ikke stilling til de regionale selskabers
+og så må vi se, om hr. Poul Nielson eller un- fremtid.
+Det kan vi imidlertid ikke. De regionale seldertegnede kan få fornøjelsen af at deltage i
+skaber er organiseret som interessentskaber,
+debatten.
+I øvrigt citerede hr. Poul Nielson fra en re- der ejes af kommunerne. Det ville være særdepræsentantskabsudtalelse fra 1990 og under- les betænkeligt, hvis Folketinget lovgav om
+stregede, at det var et enigt repræsentantskab. ejerforholdene i de kommunalt ejede interessentskaber. Derfor lægges der op til, at de
+Hr. Poul Nielson skylder nok Folketinget at
+tværtimod får en større frihedsgrad, i og med
+oplyse, at der også var en mindretalsudtalelse.
+at de skal fritages for deres pligt til at aftage
+»Jeg ved det, for jeg var der selv«, som det
+naturgas fra DONG-koncernen, så de altså
+hedder i en sang.
+eventuelt kan gå ud og købe billigere gas og
+Så til den konservative ordfører. Det undre- dermed forbedre deres økonomi frem for at
+de mig egentlig, at hr. Flemming Hansen ikke være underlagt monopolstillingen i forhold til
+vedgår arv i større omfang. Situationen er jo Dansk Olie og Naturgas.
+den, at Det Konservative Folkeparti i sin tid
+SF argumenterede for, at der i en lang række
+stemte imod ved etableringen af DONG. Det andre lande er offentlig deltagelse i energiseksynes jeg godt hr. Flemming Hansen kunne ha- toren, og at vi derfor også skal have det i Danve afsløret for Folketinget ved denne lejlighed mark. Men det, der er kendetegnende, er jo, at
+og måske have været en anelse mere positiv. det har været en politisk faktor, at staterne har
+Hr. Flemming Hansen var også tvivlende involveret sig i energisektoren. Det viser sig jo
+over for, hvorvidt eventuelle købere ville kun- allertydeligst i eksemplet med Kuwait.
+ne forstå at værdiansætte det potentiale, der
+Men derudover er det altså også en historisk
+ligger i DONG og i naturgasnettet. Jeg har forkert oplysning, i og med at udviklingen i
+imidlertid langt større tiltro til, at private, kom- øjeblikket overalt på Jorden går i retning af, at
+mercielle selskaber er i stand til at vurdere, end det offentliges engagement netop i energisekat statsansatte embedsmænd eller politikere toren bliver aftrappet.
+
+2691
+
+22/11 91: 1. beh. af f. t. beslutn. om privatisering af Dansk Olie og Naturgas A/S";Kim Behnke
+141473;title_name;"Lad mig i flæng nævne lande som Tyrkiet,
+Canada, Singapore., Malaysia, Australien,
+Sydafrika og endelig England, som alle er lande, hvor man er ved at privatisere eller har privatiseret energiselskaber. I England har man
+som en kæmpesucces fået privatiseret British
+Petroleum, som det vist hedder på dansk, BP,
+og man har oven i købet haft politisk mod til
+også at privatisere elværker.
+Så kunne man trække Sovjetunionen frem
+og sige: Jamen dér har man jo haft den totale
+statslige kontrol, og hvad har man fået ud af
+det? Man har fået det ud af det, at det er kollapset, og nu tigger og beder man udenlandske
+private firmaer om at komme og hjælpe Sovjetunionen med at få genoprettet deres energisektor. Så der er bestemt ikke gode argumenter for, at staten skal være en del af dette her.
+Jeg skylder også tak til Kristeligt Folkepartis
+ordfører. Det kom ikke som nogen overraskelse, for som der også refereres til i bemærkningerne til beslutningsforslaget, har Kristeligt
+Folkepartis formand jo tidligere udtalt sig positivt om sagen.
+Vi vil nu i Folketingets Energiudvalg forsøge at få nogle af disse spørgsmål belyst grundigere, og så glæder vi os over, at vi har fået bogført synspunktet. Det kan godt være, at tidspunktet efter nogles mening er for tidligt, men
+hellere være for tidligt på den end være for
+sent på den.
+(Kort bemærkning).";Kim Behnke
+142833;name_party;":
+Lad mig først sige til hr. Kim Behnke, at det
+er fuldstændig rigtigt, at Fremskridtspartiet
+var uden for det gode selskab. Men det interessante i øvrigt i repræsentantskabsudtalelsen
+var, at alle andre end Fremskridtspartiet altså
+var enige om den tekst.
+Dernæst føler jeg mig nødsaget til at sige et
+par ord om perspektivet frem mod 2012, fordi
+jeg er nødt til at forholde mig til hr. Kim
+Behnkes udlægning af, hvad der kunne ligge i
+mine udtalelser. Vi ser i Socialdemokratiet ikke det billede for os, at det er en enten-eller-,
+alt eller intet-situation for så vidt angår
+DONG-koncernens placering, når der skal laves en nyordning med hensyn til de tilladelser,
+som den nuværende eneretsbevillingshaver tilbage fra 1962 har.
+
+2692
+
+Vi ser tværtimod, at det giver en række
+handlefriheder for staten til at lave udbudsrunder, til at sammensætte konsortier osv. nogenlunde ud fra den filosofi, som vi har haft hidtil
+i de afholdte udbudsrunder. Det kan gøres på
+mange måder til den tid, og vi er på ingen måde forhåndsbundet til, at det hele skal være
+DOPAS eller noget i den stil. Det ser vi i øvrigt
+heller ikke noget som helst efterforskningsfagligt og forretningsinteressevaretagelsesmæssigt
+argument for fra statens synspunkt. Vi mener,
+det er en fordel at have en flerhed af olieselskaber engageret i en eller anden blanding, og
+i den blanding vil DOPAS, DONG-koncernen,
+indgå som en komponent, vi er nødt til at have
+som partner. Det er perspektivet i det.
+(Kort bemærkning).";Poul Nielson
+144339;name_party;":
+Hr. Kim Behnke refererede mig for at sige
+»de nuværende uoverskuelige situationer«, og
+det var helt korrekt. Jeg vil gerne sige, at
+uoverskueligheden har særlig adresse til udviklingen i EF. Og hvad det angår, mener jeg,
+en række spørgsmål i de kommende år vil falde på plads, således at vi kan få værdiansat
+DONG til den rigtige pris og dermed gavne
+både statens og alles interesser, ved at vi får så
+mange penge fra DONG som overhovedet muligt.
+Det var denne tvivlens nådegave, jeg blev
+ramt af midlertidigt.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Peter Hansen-Nord
+145008;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Det Energipolitiske Udvalg.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det
+er vedtaget.
+Den sidste sag på dagsordenen var:
+7) Første behandling af beslutningsforslag nr. B 4:
+
+2693 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2694
+Forslag til folketingsbeslutning om stop for
+tvangstilslutning til kollektiv energiforsyning.
+Af Kim Behnke (FP) m.fl.
+(Fremsat 22/10 91).
+Forslaget sattes til forhandling.
+Forhandling
+Energiministeren (Anne Birgitte Lundholt):
+Hvad angår det beslutningsforslag om stop
+for tvangstilslutning til kollektiv energiforsyning, som vi nu skal drøfte, vil jeg sige, at jeg
+bestemt er positivt indstillet over for det sigte,
+der er beskrevet i forslaget, for ligesom forslagsstillerne er jeg heller ikke tilhænger af
+unødvendige tvangsbestemmelser over for borgerne. En fornuftig planlægning og en fornuftig anvendelse af markedsøkonomien er den
+allerbedste måde at udbrede forskellige energiformer på.
+Det er mit synspunkt, at vi her i Tinget så
+vidt muligt skal holde os til de generelle linjer
+og tilvejebringe rammerne for en fornuftig
+overordnet planlægning. Detailstyring og konkret udmøntning af planlægningen bør vi i videst muligt omfang overlade til de lokale myndigheder og de enkelte borgere.
+Forslagsstillerne ønsker først og fremmest
+fem paragraffer i varmeforsyningsloven ophævet. Det drejer sig om bestemmelser, som gør
+det muligt for kommunalbestyrelserne at påbyde tilslutningspligt eller tilslutningsbidrag til et
+kollektivt varmeforsyningsanlæg, og det drejer
+sig om kommunernes adgang til at tinglyse den
+kollektive forsyning på den enkelte ejendom
+og til at forbyde visse opvarmningsformer,
+f.eks. elvarme i kollektive områder.
+Disse bestemmelser om tilslutningspligt og
+bidragspligt osv. blev fastlagt, da varmeforsyningsloven blev vedtaget i 1979, og igen indgående drøftet her i Folketinget i forbindelse
+med behandlingen af forslaget til den nye varmeforsyningslov i 1989. Og der var ikke ved
+denne lejlighed flertal for at ændre bestemmelserne.
+Når det dengang blev besluttet ikke at ophæve tvangsbestemmelserne, skyldtes det ikke
+mindst, at der i dag er et betydeligt kommunalt
+engagement i fjernvarme- og naturgasforsyningen. Engagementet finder sted, enten ved at
+forsyningsvirksomheden umiddelbart er en del
+
+af den kommunale forvaltning, eller ved kommunal deltagelse i selskabsdannelser som interessenter og andelshavere osv. eller ved økonomisk garantistillelse for især lån til finansiering af anlægsopgaver.
+Med vedtagelsen af den nye varmeforsyningslov blev det kommunale engagement og
+ansvar yderligere øget. I medfør af loven skal
+kommunerne drage omsorg for, at en lang række fjernvarmeværker omstilles til kraftvarme
+og til anvendelse af naturgas og renere
+brændsler. Samtidig er der fastsat lånerammer
+for de regionale naturgasselskaber.
+I de kommende år står mange kommuner
+derfor i en situation, hvor der skal investeres
+flere penge i varmeforsyningen, og hvor en
+øget afsætning af fjernvarme og naturgas er
+nødvendig, hvis økonomien i projekterne skal
+kunne hænge sammen, og hvis underskuddet i
+de regionale naturgasselskaber ikke skal dækkes gennem en øget skatteudskrivning til borgerne.
+Sagen er, at kommunerne er blevet pålagt
+store økonomiske forpligtelser og et stort økonomisk ansvar for den kollektive varmeforsyning. Det er derfor også vigtigt, at kommunerne har både det nødvendige incitament og de
+nødvendige redskaber til at kunne styre økonomien i de kollektive systemer. Muligheden
+for at indføre tilslutningspligt og tilslutningsbidrag og for at forbyde bestemte energiformer i
+kollektive forsyningsområder kan derfor være
+et vigtigt middel i en sådan økonomistyring.
+Jeg ser helst, at en øget tilslutning til de kollektive systemer sker frivilligt. Men i den nuværende situation lægger jeg samtidig overordentlig stor vægt på, at det er den enkelte kommune, som har afgørelsen. Det er kommunerne, der er pålagt ansvaret for og har indsigten i
+de økonomiske forhold for den kollektive forsyning. Derfor er det også de lokale myndigheder og beboerne i lokalområdet og dermed
+vælgerne, som skal have mulighed for at diskutere og tage beslutning om eventuelt at indføre
+tilslutningspligt, tilslutningsbidrag osv.
+Jeg vil samtidig fremhæve, at der i lovgivningen er bestemmelser, som betyder, at ikke
+al eksisterende bebyggelse kan kræves tilsluttet et kollektivt opvarmningssystem eller kan
+pålægges at betale bidrag. F.eks. gælder det, at
+bygninger, hvis energiforbrug for mere end
+halvdelens vedkommende dækkes med solvar-
+
+2695 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2696";Henning Rasmussen
+149804;title_name;"me, halmfyr, biogas eller lignende, ikke kan
+pålægges en sådan tilslutningspligt eller -bidrag. Samme bestemmelse gælder for bygninger, der ikke har installeret et vàndbåret opvarmningssystem, og det er jo typisk elvarmeområder. Generelt gælder i øvrigt, at der skal
+gives en frist på ni år ved krav om omstilling til
+kollektiv opvarmning.
+Jeg kan som konsekvens af ovennævnte
+synspunkter ikke gå ind for at ophæve kommunernes adgang til at tinglyse tilslutningspligt på de ejendomme, som er omfattet af en
+sådan. Af hensyn til nye ejere eller lejere af en
+ejendom finder jeg det tværtimod væsentligt,
+at der ikke hersker tvivl om, hvorvidt ejendommen er pålagt tilslutningspligt eller ej.
+Men på ét punkt er jeg parat til at støtte forslaget, nemlig med hensyn til det forbud mod
+etablering af elvarme i områder med kollektiv
+forsyning, som Energiministeriet i 1988 pålagde kommunerne at gennemføre, og det er af
+den simple grund, at det i dag er unødvendigt.
+Kommunalbestyrelserne kan allerede i dag,
+hvis det skønnes nødvendigt til gennemførelse
+af varmeplanlægning, bestemme, at elvarme
+ikke må etableres i bestemte områder. Det generelle forbud forekommer mig derfor at være
+uden betydning og kan som led i en afbureaukratisering afskaffes.
+Jeg er derfor parat til at ophæve dette cirkulære om elvarmeforbud, hvis der kan samles et
+flertal for det her i Folketinget, mens jeg på
+baggrund af mine bemærkninger her i øvrigt
+nok må afvise resten af beslutningsforslaget på
+trods af den positive holdning til intentionerne.";Energiministeren
+151349;name_party;":
+Dette beslutningsforslag afviser vi fra Socialdemokratiets side at støtte, for det første fordi vi sammen med et flertal i Folketinget har
+indgået en aftale med regeringen, som udmøntede sig i lov nr. 382 af 13. juni 1990 om varmeforsyning. Og sådan nogle aftaler står vi selvfølgelig ved. Loven er jo i øvrigt ikke ændret
+siden 1979, som ministeren også sagde. For det
+andet fordi Fremskridtspartiets forslag ikke tager hensyn til forbrugerne, som de selv siger.
+Det er ikke et spørgsmål om frit valg, men om
+egoisme, der arbejder direkte imod alle miljøhensyn, uanset hvad alle andre ønsker.
+
+Der er heller ikke tale om et brud på ejendomsretten, som Fremskridtspartiet er så bekymret for, men en fornuftig forholden sig til
+problemerne vedrørende udlejerne, som ikke
+skal kunne blive ved med at udleje gammeldags, utidssvarende petroleumsopvarmede boliger.
+Kommunernes ret til at pålægge ejendomme
+tvangstilslutning er samfundsøkonomisk og
+miljømæssigt hensigtsmæssig.
+Vi støtter altså ikke forslaget.";Ingrid Rasmussen
+152376;name_party;":
+Da mit partis ordfører i denne sag, hr. Per
+Tærsbøl, ikke kan være til stede, skal jeg på
+hans vegne udtrykke, at vi er fuldstændig enige
+i de betragtninger, ministeren har fremsat, og
+derfor ikke kan støtte forslaget.";Flemming Hansen
+152618;name_party;":
+Fremskridtspartiets beslutningsforslag er med fare for, at jeg kommer til at gentage mig
+selv fra forrige forslag - en god idé med det
+rigtige mål, som godt kan ses i forlængelse af
+beslutningsforslag nr. B 3: Kan man ikke få
+solgt DONG, kan man jo prøve at ødelægge de
+bagvedliggende afsætningsmuligheder.
+Det er vigtigt for mig at få fastslået med det
+berømte kig i bakspejlet, at skiftende energipolitiske forlig siden 1979 har bragt naturgasproblematikken ud i en svært forståelig jungle af
+love, bekendtgørelser og cirkulærer.
+Det positive, man kan sige om denne situation, er, at vi herinde fra Folketinget har tilstræbt at få uddelegeret og decentraliseret en
+række beslutninger til kommunerne, således at
+de ubehagelige elementer i varmeforsyningsloven behandles lokalt og så tæt på borgerne
+som muligt.
+Det må være rigtigt, at vi ikke fratager kommunerne, som jo er ansvarlige for de regionale
+selskabers økonomi, og lokale fjernvarmeværker nogle muligheder, som vi har givet dem, og
+som nogle allerede har disponeret efter. Det
+må være vores vigtigste opgave at udstikke
+rammerne og ikke blande os i detailstyring,
+som vi ofte forfalder til her i Folketinget.
+Endelig finder jeg det ligesom ministeren
+unødvendigt med det eksisterende generelle
+forbud mod etablering af elvarme i områder
+med kollektiv forsyning, idet kommunerne
+som sagt allerede har disse beføjelser i medfør
+af varmeforsyningsloven.
+
+2697 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2698";Peter Hansen-Nord
+154160;title_name;"Venstre støtter derfor ministerens forslag og eller fjernvarme, selv om han måske kunne væafviser i øvrigt beslutningsforslaget.
+re selvforsynende med solvarme eller anden
+miljøvenlig alternativ energi. Dette forhold gør
+Holger K. Nielsen (SF):
+sig specielt gældende med hensyn til kravet om
+Da man i sin tid indgik den første naturgas- tilslutning til den kollektive energiform ved
+leveringsaftale mellem DUC og DONG, var udstedelse af byggetilladelser, som fra start af
+det faktisk en underliggende forudsætning, at skyder eventuelt gode alternative ideer til opder skulle være tilslutningspligt. En af grunde- varmning ned.
+En anden grov ufrihed er den tidligere enerne til, at man fik en meget dårlig aftale ud af
+det med en alt for hurtig opbygningsprofil, var, giministers, hr. Bilgrav-Nielsens, cirkulære,
+at man havde denne bagvedliggende forudsæt- der påbyder kommuner at forbyde elvarme.
+ning. Så gik den i stykker på grund af Venstres Fremskridtspartiet ønsker cirkulæret ophævet:
+deltagelse i SV-regeringen, og derfor fik man der er tale om en urimelig og ubegrundet indden kommunale ordning, som nu er gennem- skrænkning i forbrugsvalget.
+Vi forstår i Fremskridtspartiet, at sigtet med
+ført, og som er en af grundene til, at naturgasprojektet har været ude i meget store vanske- denne umyndiggørende lovgivning er, at samfundets interesser skal gå forud for den enkelte
+ligheder.
+Det er hævet over enhver tvivl, at havde man forbrugers frie valg. Forskellen på vores indgennemført tilslutningspligten allerede den- stilling og denne er imidlertid, at vi betragter
+gang, da man påbegyndte gasprojektet, havde samfundets interesser som summen af forbrudet ikke voldt alle de meget store økonomiske gernes interesser udtrykt ved forbrugernes frie
+problemer. Nu har vi trods alt en kommunal valg og ikke som et udfald af et politisk kommulighed, og visse kommuner udnytter den. promis.
+Men den mulighed vil Fremskridtspartiet også
+fjerne helt, og det kan vi naturligvis ikke støtte, Sonja Albrink (CD):
+så vi skal afvise dette forslag.
+Da CD's ordfører i denne sag ikke kan være
+til stede, skal jeg fremføre CD's synspunkter.
+Michael Kock (FP):
+CD er imod unødvendig tvang over for borFremskridtspartiet ønsker et frit samfund gerne, men bestemmelsen om tilslutning til
+med frihed til at vælge for landets borgere. kollektiv energiforsyning er lagt ud til kommuDerfor ønsker vi selvfølgelig også, at danske nerne, og dér mener CD den skal blive.
+Vi mener, det er rimeligt, at kommuner ved
+forbrugere frit skal have lov til at vælge, hvilet
+nyt byggeri og nye udstykninger kan forlanken energikilde de ønsker at bruge til opvarmning af deres ejendom. Vi vender os derfor na- ge tilslutning til kollektiv varmeforsyning. Det
+turligvis også imod varmeforsyningslovens pa- er den eneste mulighed for, at forsyningsanragraffer, der tvinger boligejere til at tilslutte læggene kan blive rentable.
+Vi må derfor afvise Fremskridtspartiets forsig et kollektivt forsyningsanlæg.
+Vi ønsker at fjerne de meget kraftige mani- slag.
+pulationsmuligheder, der i dag står til rådighed for offentlige myndigheder, der ønsker at Lone Dybkjær (RV):
+tvinge boligejerne til at tilslutte sig den kollekDet Radikale Venstre kan ikke tilslutte sig
+tive energiforsyning. Ud over ufriheden ved forslaget.
+dette magtmisbrug kan der også være tale om
+Skal jeg komme med et par supplerende beat pålægge boligejere relativt betragtelige og tragtninger til det, jeg allerede har sagt, så er
+ganske urimelige omkostninger, som det bl.a. vores grundlæggende opfattelse naturligvis ikfremgår af henvendelser til Folketingets Ener- ke, at man i enhver sammenhæng skal kræve
+giudvalg.
+tvangstilslutning og tvang over for de danske
+Offentlig tvang og styring inden for energi- borgere, men der er altså en lang række sampolitikken kvæler det private frie initiativ til menhænge, hvor det er hensigtsmæssigt, at vi
+udnyttelse af alternative energiformer. Mange alle sammen er med på nettet.
+energibesparende foranstaltninger går tabt,
+Engang i 1800-et-eller-andet startede man
+når forbrugeren tvinges til at vælge naturgas de store kloaknet. Der var nærmest revolution
+
+2699 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2700";Peter Hansen-Nord
+158422;title_name;"i København på det tidspunkt og andre steder,
+da det skete, fordi der var tale om tvang. Det
+kan man læse i de gamle historiebøger og beskrivelser fra dengang. Det var jo en utrolig
+fremadskuende ting, der blev lavet dengang i
+1870'erne, eller hvornår det var, og i dag ville
+enhver jo mene, at det ville være dybt godnat,
+hvis ikke der var tale om, at vi alle sammen
+hang på det kloaknet af sundhedsmæssige og
+miljømæssige og samfundsøkonomiske grunde.
+Om den kollektive energiforsyning vil jeg
+gerne sige, at problemet faktisk ikke er, at der
+er for megen tvangstilslutning. I realiteten er
+problemet, at der er for lille tvangstilslutning,
+fordi det er en fuldstændig oplagt kendsgerning og dokumenterbart, at jo flere der er på
+nettet, jo bedre er det for miljøet, og jo bedre
+er det for samfundsøkonomien, og jo bedre er
+det dermed også for de enkelte forbrugere og
+os alle sammen tilsammen. Og derfor er det en
+fuldstændig gal retning, Fremskridtspartiet bevæger sig i, når det drejer sig om den type af
+samfundsmæssige investeringer.";Lone Dybkjær
+159478;name_party;":
+Jeg kan ikke lade være med lige at tage fat i
+det sidste indlæg, nemlig fru Lone Dybkjærs,
+med betragtningen om, at det jo er, fordi det er
+i alle borgeres interesse, at alle er tilsluttet det
+samme kollektive forsyningsanlæg. Så er det
+vel egentlig også i alle borgeres interesse, at
+der kun er én købmand i hver by og kun én
+butik osv., for hvis den købmand omsætter så
+meget mere, så er det meget mere rationelt, og
+hvor kan det blive billigt for forbrugerne. Der
+er historisk og empirisk bevis for, at fru Lone
+Dybkjær tager fejl.
+Lad mig så starte fra den anden ende, nemlig med at gøre opmærksom på, hvad forslaget
+i øvrigt også grundigt beskriver, at vi intet har
+imod fjernvarme, at vi intet har imod naturgas,
+og at vi faktisk mener, at særlig fjernvarme en
+lang, lang række af de steder, hvor fjernvarme
+allerede eksisterer, er så godt og billigt og fornuftigt et alternativ til andre ting, at forbrugerne helt af sig selv sagtens kan finde ud af at
+koble sig på. Men hvis nu naturgas eller fjernvarme ikke er godt nok eller er for dyrt, så mener et politisk flertal her i huset altså, at man
+skal tvinge dem på.
+
+Ministeren siger, at sigtet er i orden: man
+understreger det kommunale engagement, og
+at det er kommunerne, der har afgørelserne.
+Ja, og jeg husker det udmærket, for jeg var også medlem af det høje Ting under daværende
+energiminister Svend Erik Hovmand, som
+dengang havde meget svært ved at få strikket
+en formulering sammen, som betød, at Venstre
+i Folketinget slap for at skulle pålægge nogen
+at aftage enten fjernvarme eller naturgas, og
+derfor lavede man det, jeg vil kalde en, jeg tillader mig udtrykket krysterløsning, hvor man
+skubbede ansvaret ud, så det var kommunalbestyrelserne, der kunne få vrøvlet med borgerne, når de bliver tvunget med på energinettene.
+Det var det, man gjorde dengang, så det er,
+hvad vi har fået ud af den såkaldte decentralisering.
+Det glæder mig selvfølgelig, hvis ministeren
+vil være med til at ophæve et cirkulære, men
+jeg forstod på ministeren, at det udelukkende
+var, fordi det var et led i en afbureaukratisering, og sådan set ikke, fordi det for forbrugerne ville få nogle praktiske konsekvenser, for
+som ministeren forklarede, har kommunerne
+allerede indført sådanne regler i deres varmeforsyningsplaner. Men o.k., vi skal da selvfølgelig også afbureaukratisere de steder, hvor
+det kan være fornuftigt.
+Venstres ordfører sagde, at når man ikke
+kunne få privatiseret selskaberne, så kunne
+man selvfølgelig altid ødelægge afsætningsmulighederne. Det er ikke det, der er hensigten
+med det her. Hensigten er at give forbrugerne
+en mulighed for at vælge, og så er jeg - med
+mine egne ord - overbevist om, at fjernvarme
+og naturgas sagtens kan konkurrere med andre
+energiforsyninger. Men det, der altså går galt,
+er, når man har disse snævre bestemmelser og
+trækker dem ned over hovedet på alle.
+Lad mig citere fra Industrirådets publikation, der hedder Industriens Ugebrev af 4. november 1991, hvor man under overskriften
+»Fri os for fjernvarme« fortæller, at fjernvarmetvang øger varmeudgifterne med op til 700
+pct., og det vil industrien ikke finde sig i, og
+man opfordrer derfor industriministeren til at
+gribe ind. Der er så en række konkrete eksempler, alle sammen fra Ålborg, hvor fjernvarmepligt for en række virksomheder har betydet
+stigninger i energiudgifterne. Nogle stigninger
+er mindre, men alle ligger fra 145 pct. og op til
+752 pct. i stigninger i energiudgifterne.
+
+2701 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2702";Kim Behnke
+163044;title_name;"Det er alt sammen noget, der gøres i kollektivets navn, fordi det er til gavn for alle forbrugerne. Det er i hvert fald ikke til gavn for de
+virksomheder, der totalt får smadret deres
+konkurrencesituation, når deres energiudgift
+lige pludselig stiger med over 700 pct.
+Et andet eksempel er fra Erhvervsbladet den
+11. oktober 1991, hvor det også er Industrirådet, der fortæller, denne gang om forhold i
+Kolding, hvor 100 virksomheder er blevet
+mødt med krav om overgang til naturgas, og
+hvor det så viser sig, at nogle af de virksomheder, der gerne vil og hidtil gerne har villet være
+med, dem var naturgasselskaberne ikke interesseret i at få med, hvorimod virksomheder,
+som måske ikke ønsker at komme med, dem vil
+man tvinge med. Det er en lidt absurd situation, man har på det her område.
+En by på Djursland, Rønde, har i øjeblikket
+ikke fjernvarme, men man har igennem flere år
+i byrådet behandlet spørgsmålet om at tvangstilslutte hele byen til fjernvarme, og der er en
+meget, meget stor procentdel af byens borgere,
+der med underskriftsindsamling osv. har sagt:
+Nej tak, vi ønsker ikke at blive tvangstilsluttet
+til fjernvarme. Men med de lovparagraffer, vi
+nu søger at få ophævet, er det altså muligt for
+byrådet at tvinge de pågældende med, uanset
+om de vil eller ej.
+Vi har i Folketingets Energiudvalg på bilag
+2, alm. del, fået en henvendelse fra en københavnsk virksomhed, der hedder Linatex, som
+fortæller, at de nu skal kassere et faktisk nyt
+oliefyr. Dér kan man så spørge om det fornuftige rent ressourcemæssigt i, at virksomheden
+skal smide et næsten nyt oliefyr ud. Derefter
+skal de foretage nyinvesteringer på 300.000 kr.,
+og endelig kan de konstatere, at deres årlige
+driftsudgifter til energi stiger med 73 pct., svarende til næsten 120.000 kr.
+Konsekvenserne af, at vi har denne lovgivning, er, at vi på alle mulige måder generer private og erhvervsmæssige forbrugere. Det er
+det, vi ønsker at gøre op med.
+Vi ønsker at gøre forsyningen med energi til
+noget, hvor man har et forbrugsvalg. Præcis på
+samme måde som man selv afgør, hvorvidt
+man ønsker at handle i Bilka eller Brugsen,
+skal man også have lov til at afgøre, om man
+vil have fjernvarme, om man vil have naturgas,
+om man vil bruge elopvarmning eller have et
+oliefyr. Og hvad vigtigere er - og så kommer
+
+jeg til fru Lone Dybkjærs indlæg - fakta er, at
+fjernvarmetvangen en lang række steder rundt
+omkring i landet netop har betydet, at alternative energikilder er blevet totalt tilsidesat, for
+nok er der nogle forblommede bestemmelser
+og bemærkninger i loven osv., som den eksisterer i dag, der siger, at hvis man har vindmøller
+osv., så slipper man, men det gælder bare ikke
+ude i det virkelige liv, for ude i det virkelige liv
+er det sådan, at hvis en kommune først har
+tinglyst pligt på en byggegrund til, at når der
+bygges på den, så skal man aftage naturgas, eller så skal man aftage fjernvarme, så fanger
+bordet.
+Fru Lone Dybkjær vil i bemærkningerne til
+forslaget kunne finde et eksempel, som jeg desværre selv kender alt for godt, fordi det er fra
+den by, hvor jeg selv bor, nemlig Lystrup ved
+Århus. I konsekvens af energikrisen i 1979 bad
+man arkitekterne, der skulle tegne et nyt indkøbscenter, om at tænke sig om. Kunne vi ikke
+tage varmen fra kølediskene i supermarkederne og i stedet for at sende den ud til gråspurvene så via varmluftskanaler sende den ind til
+opvarmning af banken og damefrisøren og
+kiosken, og hvad pokker der ellers er af butikker? Jo, sagde arkitekterne, og så gik man i
+gang. Men da man havde bygget indkøbscenteret først i 1980'erne, så kom fjernvarmecentralen rendende: Jamen hov! Der er tinglyst
+pligt til at aftage fjernvarme på denne byggegrund. Jamen, sagde man, I kan da nok se, at
+energipolitisk er det da fornuftigt. Vi bruger
+overskudsvarmen fra kølediskene. Men ak nej,
+og den dag i dag stikker der et rør op til evig
+skam og skændsel ude på parkeringspladsen,
+hvor der er sat en studs på. Man bruger ikke af
+fjernvarmen, men man er tvunget til at betale
+et månedligt anslået forbrug, og man er tvunget til at betale faste afgifter til fjernvarmecentralen, for det er jo i alles interesse! Vel er det
+ej! Det er kollektivisering, det er socialisme,
+det er tvang, og det er statskontrol.
+Den slags eksempler er der til fru Lone Dybkjærs oplysning ikke bare hundreder, men tusinder af rundt omkring i landet, hvor folk gerne og ærligt måske vil benytte sig af jordvarme,
+de vil måske sætte en solfanger op på taget.
+Det eneste, de får ud af at gøre det, er, at man
+kommer rendende fra det lokale fjernvarmeværk med straf og bål og brand.
+
+2703 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2704";Kim Behnke
+167731;title_name;"Så er der hele spørgsmålet om den måde,
+man afregner fjernvarme på, som jo heller ikke
+er særlig smart. Jeg har selv oplevet i en beboelsesejendom i Århus, at alle 10 lejemål går
+sammen og siger: Denne vinter strammer vi
+ballerne sammen og bruger så lidt energi som
+overhovedet muligt. Da så foråret kom og vi
+ventede den store check med tilbagebetalingen
+fra Århus Kommunale Værker, hvad fik vi så i
+stedet? Vi fik en regning, fordi man sagde, at
+med så lille et energiforbrug, som vi havde haft
+i den ejendom, var man nødt til at anslå os til
+et højere energiforbrug, for ellers ville økonomien i det kommunale fjernvarmeværk ikke
+hænge sammen.
+Resultatet af den besparelsesrunde var, at
+samtlige 10 beboere satte sig ned og rystede på
+hovedet og sagde: Det er jo galimatias, det her.
+Vi har sparet hele vinteren, og så får vi kniven i
+ryggen. Derfor må vi have disse tvangsbestemmelser i vores lovgivning ophævet. Det kan
+godt være, de ikke bliver ophævet denne gang
+- det ser det jo desværre ikke ud til - men vi
+skal vende tilbage ved passende lejlighed, når
+der ikke længere er så mange socialister i det
+danske parlament.
+(Kort bemærkning).
+Peteir Hansen-Nord (V):
+På grund af tidspunktet i ugen vil jeg nøjes
+med lige ganske kort at kommentere hr. Kim
+Behnkes udlægning af tidligere energiministres løsninger og deltagelse i det demokratiske arbejde herinde. Jeg bryder mig bestemt
+ikke om at sidde og høre, at en tidligere energiminister her fra talerstolen bliver kaldt for en
+kryster. Jeg håber, at hr. Kim Behnke vil trække det tilbage med det samme. Så kan vi snakke om det, han i øvrigt gerne vil snakke om.
+(Kort bemærkning).";Kim Behnke
+169389;name_party;":
+Jeg føler næsten, at jeg er nødt til at sige noget til hr. Kim Behnke, selv om tidspunktet
+egentlig burde forhindre mig i det. Men jeg vil
+godt sige til hr. Kim Behnke, at med mit mangeårige kendskab til Fremskridtspartiets politik i almindelighed og miljøpolitik i særdeleshed kommer det naturligvis ikke bag på mig, at
+mit udsagn får hr. Kim Behnke til at henvise til
+købmandsområdet. Alt andet ville selvfølgelig
+
+være unaturligt, for en saglig diskussion og en
+saglig forholden sig til mit indlæg bliver der
+ikke tale om. Der var faktisk nogle principielle
+betragtninger, som var forskellige fra hr. Kim
+Behnkes, og jeg synes i og for sig, det er en
+forholdsvis uanstændig henvisning. Det er ikke, fordi det undrer mig, at man henviser til
+købmandsområdet og så Østeuropa.
+Om de konkrete sager, hr. Kim Behnke nævner, vil jeg godt sige, at det da ikke er alle kollektive foranstaltninger, der udføres hensigtsmæssigt. Der er da en masse, som vi opregner
+for tiden, hvor der er ting, der er gået galt. Det
+er ingen garanti for, at der ikke sker noget galt,
+men det, at det er kollektivt, er dog heller ingen garanti for eller noget bevis for, at det hele
+er fuldstændig skævt, hverken administreret
+eller gennemført - og at alt andet er administreret og gennemført rigtigt.
+Men så vidt jeg kan følge hr. Kim Behnke, er
+det, det drejer sig om i de eksempler, hr. Kim
+Behnke nævner, at der er tale om en uhensigtsmæssig fordeling mellem de faste udgifter og
+de løbende. Det er jo en generel problemstilling, som vi har en lang række steder. Vi vil
+også kunne se det i forbindelse med en hel del
+af vandafledningsafgifterne, hvor der er meget
+høje investeringsomkostninger og relativt lavt
+løbende forbrug og dermed lave løbende udgifter, og hvor man så, hvis man sparer på forbruget, faktisk ikke mærker det særlig meget,
+fordi investeringsudgifterne er det, der virkelig
+tonser i budgettet.
+Det synes jeg man kan kigge på i nogle forskellige sammenhænge, for det er naturligvis
+vigtigt, at man sender det signal til forbrugerne, at når de sparer, så skal de også kunne
+mærke det. Men det er ikke noget, man bare
+kan sige fuldstændig generelt. Det er faktisk et
+spørgsmål om en konkret vurdering af de enkelte områder, hvor man skal prøve at finde ud
+af forholdet mellem den faste investeringsudgift og så den løbende driftsudgift.
+(Kort bemærkning).";Lone Dybkjær
+171758;name_party;":
+Det var ikke en tidligere Venstreenergiminister, hr. Svend Erik Hovmand, som var en kryster. Nej, det var faktisk hele partiet Venstre,
+fordi man ikke her i Folketinget ville stå ved
+det, man gjorde. Det, man gjorde, var at lægge
+det ud, så man lod kommunerne gøre den ube-
+
+2705 22/11 91: 1. beh. af f. t. beslutn. om stop for tvangstilslutning til kollektiv energiforsyning 2706";Kim Behnke
+172155;title_name;"hagelige del af arbejdet: være dem, der fik Den fg. formand (Helge Sander):
+vrøvlet med kunderne, frem for herindefra at
+Jeg bliver nødt til at gøre hr. Peter Hansensige: Vi pålægger nogle at aftage energi. Jeg Nord opmærksom på, at medlemmerne ikke
+var selv ordfører på sagen i sin tid, og jeg hu- må tiltales direkte.
+sker udmærket debatten, der var her i Folketinget.
+Hermed sluttede forhandlingen.
+Venstres nuværende ordfører vil i Folketingets arkiver kunne forvisse sig om, at det var
+Afstemning
+det korrekte hændelsesforløb.
+Så til fru Lone Dybkjær. Jeg tror faktisk, at
+Forslagets overgang til anden (sidste) befru Lone Dybkjær og jeg i langt højere grad,
+handling
+end fru Lone Dybkjær tror, deler det synspunkt, at vi skal spare på ressourcerne. Hvis vi vedtoges uden afstemning.
+er enige om det som udgangspunkt, hvorfor
+skal en kommunalbestyrelse så tinglyse pligt til Den fg. formand (Helge Sander):
+at aftage f.eks. fjernvarme på en bestemt bygJeg foreslår, at forslaget til folketingsbeslutgegrund, når den tinglysning betyder, at det så ning henvises til Det Energipolitiske Udvalg.
+ikke er muligt at forsyne sig med alternative Hvis ingen gør indsigelse mod dette forslag,
+energiformer: solfangere, jordvarmeanlæg, betragter jeg det som vedtaget. (Ophold). Det
+vindmøller, og hvad det ellers kan være, så re- er vedtaget.
+sultatet bliver, at man er tvunget til at koble sig
+på det kollektive forsyningsanlæg, hvad enten
+det er naturgas eller fjernvarme? Så er man Meddelelser fra formanden:
+tvunget til at aftage en bestemt energiform. Så
+har vi fjernvarmeværket - eller kraftvarmevær- Den fg. formand (Helge Sander):
+ket, bliver det jo i fremtiden - som står og hoDer er ikke mere på dagsordenen.
+ster og brænder energi af med det formål at
+levere varmt vand, frem for at man selv i form
+Der er foretaget ændringer i følgende udaf f.eks. en solfanger kunne have dækket en del
+af sit forbrug og dermed været med til sam- valg:
+fundsøkonomisk og energi- og miljøpolitisk at
+have opført sig korrekt. Det er det, vi beder Kulturudvalget (21/11 91):
+om, og det er det, den nuværende lovgivning Udtræder: Elisabeth Arnold (RV)
+forhindrer.
+Nyt medl.: Marianne Jelved (RV)
+Med de synspunkter, fru Lone Dybkjær har,
+i hvert fald på det miljøpolitiske, burde fru LoFolketingets næste møde afholdes tirsdag
+ne Dybkjær støtte dette forslag på det energi- den 26. november 1991 kl. 13.00.
+politiske.
+(Kort bemærkning).";Kim Behnke
+174599;name_party;":
+Hr. Kim Behnke, det bliver altså ikke bedre
+af, at hele partiet bliver krystere. Jeg kan altså
+ikke acceptere de udtryk, du bruger her om et
+parti, der arbejder seriøst og har et ansvar. Du
+må altså efter min bedste overbevisning finde
+nogle andre udtryk i din ordbog.
+
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte
+ugeplan.
+Mødet hævet kl. 13.21";Peter Hansen-Nord

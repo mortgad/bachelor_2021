@@ -1,0 +1,2903 @@
+split;reason;text;value
+0;;"496
+
+Tirsdag den 31. oktober 1995 (D)
+Forslag til folketingsbeslutning om en særlig
+fædreorlov.
+(Beslutningsforslag nr. B 33).
+10. m ø d e";
+177;Time;"Dagsorden
+
+1) Første behandling af lovforslag nr. L 31:
+Forslag til lov om ændring af lov om byfornyelse og boligforbedring og lov om midlertidig
+regulering af boligforholdene m.v. (Forbedring
+af finansieringsgrundlaget i Byggeskadefonden
+vedrørende Byfornyelsesforanstaltninger m.v.).
+Af boligministeren (Ole Løvig Simonsen).
+(Fremsat 11/10 95).
+2) Første behandling af lovforslag nr. L 32:
+Forslag til lov om ændring af lov om boliger for
+ældre og personer med handicap, lov om individuel boligstøtte, lov om leje og lov om boligbyggeri. (Plejeboliger m.v.).
+Af boligministeren (Ole Løvig Simonsen).
+(Fremsat 11/10 95).
+3) Første behandling af lovforslag nr. L 37:
+Forslag til lov om ændring af lov om social
+bistand og lov om social pension. (Indførelse af
+ældreråd og af klageråd på hjemmehjælpsområdet m.v.).
+Af socialministeren (Karen Jespersen).
+(Fremsat 11/10 95).
+4) Første behandling af beslutningsforslag nr.
+B 22:
+Forslag til folketingsbeslutning om Folketingets
+Ombudsmands beretning for året 1994.
+Af Retsudvalget.
+(Fremsat 12/10 95).
+
+Meddelelser fra formanden";kl. 13.00
+1287;title_name;":
+Medlemmer af Folketinget Anne Baastrup (SF),
+Aage Frandsen (SF) og Steen Gade (SF) har
+meddelt mig, at de ønsker skriftligt at fremsætte:
+
+Forslag til folketingsbeslutning om oprettelse af
+et Ligestillingsombud og ændring af Ligestillingsrådet.
+(Beslutningsforslag nr. B 34).
+Medlemmer af Folketinget Anders Mølgaard
+(V), Hanne Severinsen (V), Ulla Tørnæs (V),
+Frank Dahlgaard (KF), Jens Jørgensen (KF) og
+Eva Møller (KF) har meddelt mig, at de ønsker
+at stille følgende forespørgsel til undervisningsministeren:
+»Hvad agter regeringen at gøre for at styrke
+de tekniske skoler og handelsskolerne?«
+(Forespørgsel nr. F 10).
+Medlemmer af Folketinget Anders Mølgaard
+(V), Charlotte Antonsen (V), Ulla Tørnæs (V) og
+Henning Urup (V) har meddelt mig, at de
+ønsker at stille følgende forespørgsel til undervisningsministeren og arbejdsministeren:
+»Hvordan vil regeringen sikre, at børn og
+unge også i fremtiden får mulighed for at have
+et fritidsjob?«
+(Forespørgsel nr. F 11).
+Medlemmer af Folketinget Anders Mølgaard
+(V), Ulla Tørnæs (V), Henning Urup (V), Frank
+Dahlgaard (KF), Jens Jørgensen (KF) og Eva
+Møller (KF) har meddelt mig, at de ønsker at
+stille følgende forespørgsel til undervisningsministeren:
+»Hvad agter regeringen at gøre for at styrke
+befolkningens internationale erfaringer, viden
+og kompetence gennem alle dele af vort uddannelsessystem?«
+(Forespørgsel nr. F 12).
+Medlemmer af Folketinget Ole Donner (DF),
+Kristian Thulesen Dahl (DF), Pia Kjærsgaard
+(DF) og Poul Nødgaard (DF) har meddelt mig,
+at de ønsker at stille følgende forespørgsel til
+trafikministeren:
+»Hvad kan ministeren oplyse om, hvorledes
+man agter at sikre den frie kokurrence i Helsingør Havn med lige vilkår for alle rederier og
+således efterkomme Europa-Kommissionens
+ønske?«
+(Forespørgsel nr. F 13).
+
+(63)
+Tirsdag den 31. oktober 1995
+Medlemmer af Folketinget Frank Aaen (EL) og
+Søren Søndergaard (EL) har meddelt mig, at de
+ønsker at stille følgende forespørgsel til skatteministeren:
+»Hvad vil regeringen gøre for at afklare diskussionen om lovligheden af de skattefradrag,
+der er givet i forbindelse med bankredninger, og
+hvad er regeringens planer for at få placeret et
+politisk ansvar i denne forbindelse?«
+(Forespørgsel nr. F 14).
+Skriftlig fremsættelse af forslag";Henning Grove
+3564;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig hermed at fremsætte:
+Forslag til folketingsbeslutning om en særlig
+fædreorlov.
+(Beslutningsforslag nr. B 33).
+Jeg henviser til de bemærkninger, der ledsager
+forslaget, og anbefaler det til Tingets velvillige
+behandling.";Anne Baastrup
+3856;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig hermed at fremsætte:
+Forslag til folketingsbeslutning om oprettelse af
+et Ligestillingsombud og ændring af Ligestillingsrådet.
+(Beslutningsforslag nr. 34).
+Jeg henviser til de bemærkninger, der ledsager
+forslaget, og anbefaler det til Tingets velvillige
+behandling.
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 31:
+Forslag til lov om ændring af lov om byfomyelse og boligforbedring og lov om midlertidig
+regulering af boligforholdene m.v. (Forbedring af finansieringsgrundlaget i Byggeskadefonden vedrørende Byfomyelsesforanstaltninger m.v.).
+Af boligministeren (Ole Løvig Simonsen).
+(Fremsat 11/10 95).
+
+497
+
+Lovforslaget sattes til forhandling.
+Forhandling";Anne Baastrup
+4620;name_party;":
+Jeg vil godt indlede med at sige, at vi kan støtte
+det af boligministeren fremsatte lovforslag, som
+primært har til hensigt at forbedre finansieringsgrundlaget i Byggeskadefonden vedrørende Byfornyelsesforanstaltninger.
+Men når det er sagt, synes jeg også, det bør
+siges, at det ikke undrer os, at dette lovforslag
+kommer. Dengang man vedtog at lave Byggeskadefonden vedrørende Byfornyelsesprojekter,
+var vi meget skeptiske fra Socialdemokratiets
+side. Skeptiske, fordi, vi ikke mente, man havde
+et ordentligt grundlag at gøre det på. Skeptiske,
+fordi vi mente, at det ville blive meget svært at
+udskille renovering fra den bestående bygning.
+Skeptiske, fordi vi mente, at den individuelle
+bygningsmæssige løsning, som typisk fremkommer, når vi taler om byfornyelsesprojekter,
+også ville blive noget, der kunne spille ind her.
+Derfor stillede vi mange kritiske spørgsmål,
+var meget betænkelige ved det og havde faktisk
+store problemer med at sige ja til forslaget, som
+det forelå på daværende tidspunkt.
+Vi var bekymrede for, at det her ville være en
+ret uoverskuelig opgave at tage fat på. Vi var
+bekymrede for, at den ene procent ikke ville
+komme til at slå til. Vi kunne ikke få styr på,
+hvad det ville komme til at beløbe sig til, når
+man skulle klare tre opgaver: eftersyn, skadedækning og forvaltning.
+Vi må også konstatere, at med det, der nu ligger små 5 år efter, og med de prøveeftersyn, der
+allerede er foretaget, var vores bekymring dengang ikke helt ved siden af.
+Jeg kan så glæde mig over, at boligministeren
+her kommer med et veldokumenteret grundlag
+og har fundet en løsningsmodel, som meget
+gerne også for fremtiden skulle vise, at der nu er
+styr på det, og samtidig ærgre mig lidt over, at
+vi dengang så et ikke særlig velbearbejdet forslag - et typisk produkt fra den tidligere borgerlige regering - blive kørt igennem.
+Men det af boligministeren fremsatte forslag
+med de halvanden procent kan vi støtte, som
+det ligger her.
+
+498
+
+Tirsdag den 31. oktober 1995 (L 31)";Lissa Mathiasen
+6626;name_party;":
+§ 1 i det lovforslag, der nu foreligger, har Venstre ikke noget imod, og jeg har derfor ikke
+mange bemærkninger til denne bestemmelse.
+Vi synes, at en forhøjelse fra 1 til 172 pet. af
+byggeudgifterne er moderat, og merudgiften for
+staten og kommunerne på ca. 32 mio. kr. i tidsrummet 1996-99 svarende til godt en halv snes
+millioner kroner om året er jo småpenge i forhold til den samlede beløbsramme på 2,8 mia.
+kr.
+Man kunne så diskutere, hvorfor det er det
+offentlige - stat og kommune - som deler denne
+ene procent, der nu skal være halvanden, som
+skal betale. Men det skal ses i forbindelse med,
+at hele byfornyelseslovgivningen er om offentlig
+støtte til byggeri, som er blevet utidsvarende, så
+derfor kan man vel ikke indvende noget imod
+det, og denne udgift er som sagt også forholdsvis overskuelig.
+Man kan nærmest sammenligne denne udgift
+med en slags forsikringspræmie for kommunen,
+som derved er med til at sikre, at pantet er i
+orden, at disse forbedringsarbejder og navnlig
+istandsættelsesarbejder nu også er i orden, og
+det er jo det, der koster - både eftersynet, administrationen af det og selve udbedringen - så det
+kan jeg ikke sige så meget imod.
+Derimod bryder vi os ikke om § 2, som fru
+Lissa Mathiasen ikke sagde noget om, idet man
+her indfører en bindingspligt for det, vi ellers
+troede nu skulle liberaliseres, nemlig småhusene med seks lejligheder og derunder. Vi kan
+ikke forstå, at man nu vil tage dem med her.
+Man siger godt nok i den skriftlige fremsættelse,
+at der ellers ikke er særlige ændringer, kun nogle småting, der har relation til Grundejernes
+Investeringsfond. Men vi synes, det her er en
+ubehagelig bestemmelse, og derfor vil vi ikke
+kunne stemme for den. Den må vi forhandle om
+i udvalget.
+Derimod er vi indforstået med alle de forbedringer for Grundejernes Investeringsfond, som
+der er forslag om, både med hensyn til at give
+lån til Byggeskadefonden - spørgsmålet er, om
+den hidtidige garanti overhovedet har været
+lovlig, men det er jo ligegyldigt nu, hvor der bliver skaffet lovhjemmel - og at man kan låne
+større beløb ud. Det synes vi er udmærket.
+Vi synes også, det er udmærket, at det fra nu
+af bliver Hypotekbanken, der alene har administrationen af disse lån, og at det er til Finansministeriet, man klager - ikke fordi jeg tror, man
+får en dårlig behandling i Boligministeriet, men
+det er dog finansielle spørgsmål.";Erling Oxdam
+9016;name_party;":
+Ligesom den socialdemokratiske ordfører var
+noget skeptisk, er Det Konservative Folkeparti
+også noget skeptisk, særlig når det drejer sig om
+øgede udgifter for det offentlige.
+Da Byggeskadefonden blev etableret i 1990,
+gik man ud fra, at fondens økonomi kunne løbe
+rundt inden for samme beløbsramme som
+Nybyggefonden, nemlig med 1 pet.
+Byggeskadefonden skal anvendes til afhjælpning af byggeskader i forbindelse med ombygningsarbejder på byfornyelseslovens område.
+Det siger derfor sig selv, at der er tale om mange
+flere enkeltsager, som ministeren også angiver i
+bemærkningerne til lovforslaget. Af den grund
+kræves også mere administration, som det er et
+problem at finansiere inden for den gældende
+ene procent af ombygningsarbejdernes størrelse.
+Loven om Byggeskadefonden står for et
+5-års-eftersyn, og skal fonden fortsat opretholdes, taler meget for, at beløbsrammen skal
+hæves til 1,5 pet.
+Med hensyn til administration af fonden har
+jeg nogle spørgsmål under udvalgsarbejdet. Vi
+vil selvfølgelig gerne have belyst, hvordan midlerne fordeles, og om det rent faktisk er en nødvendighed med øgede udgifter. Det Konservative Folkepartis endelige stillingtagen må derfor
+afvente udvalgsarbejdet, idet det dog bemærkes, at vi er meget positive over for ændringen.
+Det er en sag, der skal være i orden.
+Hvad angår forslaget om Grundejernes Investeringsfonds mulighed for at yde lån til Byggeskadefonden, kan vi støtte dette. Det lyder fornuftigt, at fonden fremover også kan støtte
+andre formål end dem, der er nævnt i den tidligere lov.
+Derimod er vi ligesom Venstres ordfører
+meget skeptiske over for forslaget om ændring
+af boligreguleringslovens § 18 b, så denne fremover omfatter ejendomme med mere end to
+beboelseslejemål frem for de tidligere seks. For
+den ejer, der har en meget lille udlejningsejendom, er der tale om betydeligt øgede administrative opgaver, og det synes ikke at være nødvendigt, så den del af lovforslaget kan vi heller
+ikke støtte. Men lad os se på det samlede lovforslag under udvalgsarbejdet.";Gitte Seeberg
+11061;name_party;":
+Det er et ret så teknisk lovforslag, vi behandler,
+som skal sikre, at der er midler til rådighed,
+både til at forestå 5-års-eftersyn, til at afhjælpe
+byggeskader, til at formidle erfaringer og til at
+dække skader.
+
+Tirsdag den 31. oktober 1995 (L 31)
+Vi kan også læse i lovforslagets bemærkninger, at midlerne i dag tilvejebringes ved at betale 1 pet. af de godkendte ombygningsudgifter til
+fonden, og at kommunerne i første omgang
+betaler, men at halvdelen derefter dækkes af
+staten. Det har nu vist sig at være for lidt, hævdes det i bemærkningerne til lovforslaget, og det
+foreslås derfor hævet til 1,5 pet.
+Jeg skal sige, at vi ikke opfatter det som det
+store kontroversielle forslag. Men vi vil under
+udvalgsarbejdet specielt være optaget af at få,
+besvaret nogle mere teknisk betonede spørgsmål bl.a. vedrørende administrationsudgifterne.
+Vi noterer os, at Grundejernes Investeringsfond skal bidrage for at sikre, at der er nogle
+midler, der her og nu stilles til rådighed. Vi har
+kigget meget efter, hvad forrentningen er, og vi
+kan se, at det er noget, der senere skal aftales.
+Da vi har forstået, at Grundejernes Investeringsfond er forholdsvis kapitalholdig forstået på den
+måde, at den også finansierer godgørende virksomhed over for interesseorganisationer på
+boligområdet, vil vi specielt være optaget af,
+hvilken rentesats man fastsætter på dette område. For det er klart, at man sagtens kan udøve
+godgørende virksomhed over for organisationer
+rundt omkring, hvis det er staten, der i øvrigt
+betaler renterne.
+Vi har i modsætning til Venstre og De Konservative slet ingen problemer med at regulere
+boligmarkedet, tværtimod, om man så må sige.
+Nu skal vi ikke tage den store generelle debat
+om boligregulering, men jeg synes nok, man
+ganske stilfærdigt kan konstatere, at de steder,
+hvor man igennem 1980'erne og 1990'erne har
+afreguleret boligmarkedet, har det medført så
+store stigninger i boligudgifterne, at det dels
+betyder, at nogle mennesker bliver ramt på huslejen, dels at boligstøtteudgifterne i samfundet
+stiger dramatisk, fordi boligspekulationen i dette samfund er stigende.
+Jeg synes egentlig, det er lidt overraskende,
+hvis både Venstre og De Konservative er villige
+til under alle forhold og helt uden regnestykker
+at sige: Boligspekulationen går vi ind for, det er
+noget, der ikke behøver at blive dokumenteret,
+det er vi af princip tilhængere af.
+Elsebeth Gemer Nielsen (RV):
+Da vores ordfører desværre ikke kan være til
+stede, skal jeg på ordførerens vegne sige, at Det
+Radikale Venstre kan støtte det fremsatte lovforslag.
+
+499";Villy Søvndal
+13647;name_party;":
+Som flere ordførere allerede har sagt, er dette
+lovforslag jo mest et udtryk for en masse tekniske reguleringer af nogle allerede eksisterende
+regelsæt. Det synes jeg udvalgsarbejdet egner
+sig bedst til at få opklaret, så derfor vil jeg ikke
+bruge tid på at trække detaljer frem. Jeg vil
+meget hellere prøve på at give udtryk for nogle
+principper.
+På dette område, hvor det drejer sig om byggeskader, står vi i en situation, hvor vi i hvert
+fald i de næste mange år fremover vil få voldsomme byggeskader, som skal udbedres.
+Enhver ved, at vi har været igennem en periode,
+hvor byggeriet har været for dårligt, og det
+kommer regningen for senere. Derfor synes jeg,
+at man skulle prøve at tage en debat om, hvordan det er mest rimeligt, at man klarer byggeskader i fremtiden.
+Er det ikke sådan, at den, der udfører arbejdet, den, der opfører bygningen, påtager sig et
+ansvar for, at det arbejde er i orden? Var det
+derfor ikke meget mere rimeligt at forlange en
+lovpligtig ansvarsforsikring for de byggefirmaer, som opfører de bygninger, og som skulle
+være bundet i eksempelvis 10, 15 eller 20 år,
+hvor den skulle kunne komme til udbetaling?
+Vi ved jo, at utrolig mange private andelsboliger er bygget i de her 80.000 kr.s-selskaber
+med det ene formål for øje: Når nu bygningen er
+færdig, lukker vi selskabet, og så er der 2 kr. og
+40 øre tilovers til at dække eventuelle byggeskader. Det var det, som gjorde, at vi fik denne
+byggeskadefond, og det betød så, at staten og
+kommunen med 50 pet. hver skal dele det
+ansvar, som i bund og grund påhviler den bygherre eller det entreprenørfirma, som har opført
+bygningen.
+Det synes jeg der var perspektiv i at begynde
+at diskutere i stedet for at vikle rundt på nogle
+skruer og hver eneste gang sende regningen til
+dem, der er helt uskyldige, nemlig alle skatteyderne i Danmark. Det kan ikke være skatteyderne i Lemvigs ansvar, at der er nogle bygherrer, der har lavet betonsjusk på nogle ejendomme i Brøndby Strand. Det kan det ikke
+være.
+Men når de principielle betragtninger nu er
+fremført - og jeg mener, det er rigtigt, at vi på et
+tidspunkt begynder at tage stilling til det - vil
+jeg også sige, at når det drejer sig om § 2, om
+bindingspligten i § 18 b, er jeg også noget
+betænkelig. Jeg synes, at Folketingets målsætning har været at afregulere boligområdet, og
+
+500
+
+Tirsdag den 31. oktober 1995 (L 31)
+
+her gør vi så det modsatte. Men jeg kan selvfølgelig godt se det hykleriske i, at når et folketingsflertal har vedtaget bindingspligt og regulering på en bestemt type ejendomme, skal de så
+være afreguleret, fordi man har glemt dem. Men
+jeg har den principielle opfattelse, at vi skal
+afregulere, vi skal ikke lave mere regulering.
+Med hensyn til Grundejernes Investeringsfond er Fremskridtspartiets principielle opfattelse den, at lige så lidt som om centrale fondsdannelser i fagforeningsregi eller andre steder
+bryder vi os om centrale fondsdannelser, når det
+er på den anden side af vejen. Derfor mener vi,
+at midlerne i Grundejernes Investeringsfond
+burde udbetales og komme grundejerne til
+gode, og derfor skal vi ikke have flere bestyrelsesposter og flere bestyrelseshonorarer, som
+man kan udbetale til de grundejere, som er så
+heldige at kunne få del i dem. Det er vores principielle opfattelse, når det drejer sig om Grundejernes Investeringsfond.
+Jeg synes, det er et mærkeligt synspunkt, som
+hr. Oxdam gav udtryk for: at de garantier, man
+har givet, sikkert ikke har været lovlige - det
+tvivler jeg faktisk også på - men skidt nu med
+det, for nu bliver de jo lovlige. Det er et lidt
+underligt synspunkt at høre fra en advokat.
+Det er faktisk den stilling, Socialdemokratiet
+og boligministeren har indtaget, når det gjaldt
+hele den almennyttige sektor. Når den havde
+opført sig ulovligt hele vejen og i årevis, og man
+havde afdækket ulovlighederne, så gik man hen
+og lovliggjorde alt det, der havde været ulovligt,
+og så sagde man: Nu går det nok. Nu deler Venstre åbenbart det synspunkt. Det er jeg overrasket over.
+(Kort bemærkning).";Kirsten Jacobsen
+17666;name_party;":
+Det var naturligvis ikke min mening at udtale
+mig til fordel for, at en ulovlig handling skulle
+blive lovlig, når den nu senere hen bliver lovliggjort. Det var nærmest lidt drilleri over for
+boligministeren, som jeg ville sætte på prøve,
+for hidtil har det kun været i forbindelse med
+lov om boligregulering, at man har kunnet yde
+forskellige tilskud. Det har man ikke hidtil haft
+ret til i Grundejernes Investeringsfond - men
+det er jo noget af et skøn.
+Men selve loven om byfornyelse og boligforbedring er i så nær familie med det øvrige lejelovskompleks, at jeg vil sige, at det er i hvert
+fald en meget lille fejl, hvis det overhovedet er
+en fejl. Det er det, jeg har spurgt boligministeren
+
+om, og der er ikke nogen, der har noget imod, at
+man har udøvet et skøn og altså har givet denne
+garanti på 15 mio. kr. over for Byggeskadefonden.
+Til gengæld kunne jeg så drille fru Kirsten
+Jacobsen med, at hun tilsyneladende blandede
+Byggeskadefonden her i privat udlejning efter
+lov om byfornyelse og boligforbedring sammen
+med den byggeskadefond, man har inden for
+lov om boligbyggeri, og som jo er noget helt
+andet, der kun eller i væsentlig grad tager sigte
+på nybyggeri, hvor det i denne lovgivning er
+med hensyn til reparationsarbejder.";Erling Oxdam
+18930;name_party;":
+Det er korrekt, at der i fru Kirsten Jacobsens
+indlæg var en vis sammenblanding af de to fonde, men der er selvfølgelig det fælles problem og det kan vi ikke se bort fra, når vi diskuterer
+en sag som denne - at vi med offentlige midler
+faktisk er med til at løse en opgave, som industriens ejere rettelig burde have ansvaret for.
+Det er endnu et af de tilfælde, hvor man kan
+sige, at arbejdsgivere og industriorganisationer
+får stukket snabelen i de offentlige kasser. Det er
+der jo desværre mangfoldige eksempler på.
+Ikke desto mindre vil vi fra Enhedslistens side
+tilkendegive, at sådan som de ting nu er skruet
+sammen, er det klart, at de problemer, der er
+med disse byggeskader, skal løses. Så må vi
+prøve, om vi kan få mere rimelige principper
+igennem over for byggeindustrien på længere
+sigt. Men det skal naturligvis løses, og så må det
+offentlige være med til at gå ind, som landet ligger nu.
+Jeg vil godt i den forbindelse komme lidt ind
+på det spørgsmål, som også fru Kirsten Jacobsen
+var inde på, nemlig hvordan man grundlæggende forhindrer byggeskader. Det gør man
+grundlæggende ved, at vi får finansieringsordninger for den offentlige byfornyelse og for det
+almennyttige nybyggeri, der gør det muligt at
+bygge i en ordentlig kvalitet.
+Vi har f.eks. det problem, at rammebeløbet for
+almennyttigt byggeri i øjeblikket er blevet en
+spændetrøje, der faktisk gør det meget vanskeligt især i hovedstadsområdet at opføre byggeri,
+der har den tilstrækkelige kvalitet, så der er flere
+ting, der spiller ind, og som skal med, hvis vi på
+længere sigt skal forhindre disse byggeskadeproblemer.
+Til det konkrete lovforslag vil jeg ydermere
+tilslutte mig det, som hr. Villy Søvndal spurgte
+om, og som vi også meget gerne vil have belyst i
+
+Tirsdag den 31. oktober 1995 (L 31)
+udvalget: niveauet for disse administrationsudgifter. Det kunne være muligt at stille det
+spørgsmål, om ikke administrationen på dette
+område er noget dyr. Vi skal huske, at Grundejernes Investeringsfond forvalter lejernes midler, godt nok under forhold, som lejerne ikke har
+nogen indflydelse på, men sådan er det jo som
+regel her i samfundet: at lejernes forhold på det
+private område forvaltes af andre end dem selv,
+og det er altså også tilfældet med Grundejernes
+Investeringsfond.
+Som hr. Søvndal var inde på, har investeringsfonden et generøst forhold til nogle af de
+organisationer, der repræsenterer ejersiden på
+boligmarkedet. Det er ikke tilfredsstillende, og
+det er især ikke tilfredsstillende, hvis man nu
+giver fonden ret til selv at fastsætte renteindtægter, som fonden så kan, om jeg så må sige,
+berige sig på.
+Derfor vil jeg meget tilslutte mig de spørgsmål, som hr. Villy Søvndal har stillet, så vi får
+belyst, om det rent faktisk er rimeligt, at administrationsudgifterne hober sig op, om Grundejernes Investeringsfond gør det godt nok, og
+om der f.eks. kunne være brug for lejerindflydelse for at få lidt mere kontrol med udgifterne.
+Der er også spørgsmålet om rentefastsættelsen om det virkelig kan være rigtigt, at det skal
+være Grundejernes Investeringsfond, som får
+tilbudt at kunne udlåne penge og så derefter
+selv kan fastsætte betalingen for det. Sådan har
+jeg opfattet lovforslaget, og det kan vist ikke
+være rigtigt, at vi skal vedtage en lov på den
+måde.
+(Kort bemærkning).";Keld Albrechtsen
+22232;name_party;":
+Det er jo somme tider lidt sjovt at konstatere, at
+Fremskridtspartiet og Enhedslisten og SF i og
+for sig meget ofte ser de samme problemer. Vi
+kommer som regel ud for, at vi har forskellige
+løsningsmodeller, men jeg kunne godt tænke
+mig at spørge hr. Keld Albrechtsen om et par
+ting.
+Hr. Keld Albrechtsen gav udtryk for, at
+ansvaret for byggeskader bør placeres dér, hvor
+ansvaret rettelig hører hjemme. Kunne man ikke
+forestille sig, at vi med Enhedslistens hjælp kom
+frem til en ordning for fremtidigt byggeri, hvor
+man lavede en lovpligtig ansvarsforsikring? Så
+ville man i hvert fald spare skatteyderne for at
+deltage i det, vi bygger fremover.
+Og så kan jeg ikke lade være med at undre
+mig over, at hr. Keld Albrechtsen med den ind-
+
+501
+
+sigt, han har i boligsammenhænge i både den
+almennyttige sektor og formentlig også i den
+private, er så overrasket over, at denne konstruktion med Grundejernes Investeringsfond
+har været et spørgsmål om, at hvis man vil have
+lidt for sig selv, må man også give de andre
+noget. Mere saglig begrundelse tror jeg såmænd
+ikke, der ligger i det.
+Boligministeren (Ole Løvig Simonsen):
+Først vil jeg gerne takke for de tilsagn, der er
+kommet under behandlingen af dette lovforslag.
+Som jeg har forstået udtalelserne - selv om
+jeg må have lov til at sige, at man er kommet lidt
+vidt omkring i forhold til selve lovforslaget, men
+det kan jo også skyldes, at det er det første lovforslag fra Boligministeriet, der er til behandling
+i denne folketingssamling - vil jeg gerne sige, at
+det, jeg har forstået, er, at både Venstre, De
+Konservative, SF og andre er indstillet på, at vi
+skal have dette lovforslag igennem.
+Der er selvfølgelig stillet visse spørgsmål. SF
+og Enhedslisten har stillet spørgsmål om administrationen. Det kan vi afklare under udvalgsarbejdet. Det gælder også spørgsmålet om renten, som Boligministeriet i øvrigt skal være med
+til at fastsætte. Så er der endelig bindingspligten
+i § 2, som først og fremmest vedrører ejerlejlighedsejendomme. Jeg tror, vi skal afklare nogle
+af disse misforståelser under udvalgsarbejdet,
+så vi ved nøjagtig, hvad det er, det drejer sig om.
+Det, som jeg synes er vigtigt at komme med af
+principielle betragtninger med hensyn til dette
+lovforslag, ér for det første, at det er tilkendegivet, at vi gerne vil have, at Byggeskadefonden
+dækker de udgifter, der vitterlig er for de mennesker, der bor i byggeriet. Det tror jeg at vi alle
+kan være enige i, og det er det, der er baggrunden for, at vi skal hæve fra 1 til 1,5 pet.
+Det andet er selvfølgelig - og det er korrekt at det er en offentlig udgift, som skal ydes af
+hensyn til den nødvendige standard.
+Så kommer vi til fru Kirsten Jacobsens principielle bemærkninger, og her vil jeg gerne sige, at
+jeg er enig i det spørgsmål, og det kan vel ikke
+undre så meget. Jeg vil gerne sige til fru Kirsten
+Jacobsen, at jeg på mange møder rundt omkring
+i landet præciserer, at det er et ansvar, som både
+entreprenøren, bygherren og den tilsynsførende
+har, og det kunne man godt præcisere på forskellig vis i stedet for at skubbe ansvaret fra den
+ene til den anden. Når man ser på Byggeskadefonden, er der jo forskel på, om det er en byggeskade, som er kommet på forskellig vis, eller om
+
+502
+
+Tirsdag den 31. oktober 1995 (L 31)
+
+Det er også et svar til fru Kirsten Jacobsen:
+det er byggesjusk. Og det er først og fremmest
+Dér er Enhedslisten med, hvis det skulle vise sig
+byggesjusket, jeg er ude efter, det kan jeg godt
+muligt at få et gennembrud på det punkt.
+hilse og sige.
+Så skal jeg blot sige til boligministeren, at de
+Jeg vil altså godt sige til fru Kirsten Jacobsen,
+bemærkninger, han efterlyste fra Enhedslistens
+at mange af de tanker, som hun har gjort sig på
+dette område, er mig ikke fremmede. Derfor vil- og SF's side vedrørende byøkologien osv., skal
+han naturligvis have i hvert fald fra Enhedsle det være interessant, om vi så lidt mere på
+listens side, men utvivlsomt også fra SF's side.
+ansvarsfordelingen og præciseringen af ansvaret for at undgå det antal byggeskader, som vi i
+Hermed sluttede forhandlingen.
+hvert fald indtil nu har set. Det gælder for både
+andelsboligforeninger og det almennyttige byggeri, at mange af de ting kunne være undgået
+Afstemning
+ved et forøget og fornødent tilsyn. Jeg behøver
+ikke engang at sige forøget, nej, et fornødent tilLovforslagets overgang til anden behandling
+syn. Det var det ene.
+vedtoges uden afstemning.
+Dernæst har der også været spørgsmål af
+mere principiel karakter, som jeg synes skal
+med. Det er i det hele taget spørgsmålet om";Kirsten Jacobsen
+26799;title_name;":
+administrationen. Skal den nu være så dyr, som
+Jeg foreslår, at lovforslaget henvises til Boligudden ser ud til at være? Vi må undersøge, om der
+valget. Hvis ingen gør indsigelse mod dette forer nogle ting, der skal rettes. Men som det også
+er præciseret i bemærkningerne, drejer det sig slag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+først og fremmest om, at det er mange småsager, der skal bedømmes, og som dermed også
+skal behandles.
+Endelig skal jeg sige til sidst, at der er en ting,
+der faktisk undrer mig lidt. Jeg er enig med hr.
+Keld Albrechtsen og hr. Villy Søvndal i, at det er
+Den næste sag på dagsordenen var:
+lejernes penge. Det ved vi godt. Så skal man jo
+2) Første behandling af lovforslag nr. L 32:
+også glæde sig over, at de går til et godt formål.
+Jeg synes, det er lidt mærkeligt, at man fra SF og Forslag til lov om ændring af lov om boliger
+for ældre og personer med handicap, lov om
+Enhedslisten ikke havde nogen som helst
+individuel boligstøtte, lov om leje og lov om
+bemærkninger til, at den udvidede ramme, der
+skal være for udlån, bl.a. går til bevaringsværdi- boligbyggeri. (Plejeboliger m.v.).
+Af boligministeren (Ole Løvig Simonsen).
+ge bygninger - det er for øvrigt også en hjertesag for Venstre, som man måske har overset i (Fremsat 11/10 95).
+forbifarten - og til byøkologiske tiltag.
+Lovforslaget sattes til forhandling.
+Jeg synes, man skal tage det hele med. Det er
+da ikke alting i et lovforslag, man kan lide, men
+et lovforslag er jo også en helhed. Og det, jeg har
+Forhandling
+bemærket fra de forskellige ordføreres side, er,
+at sigtet er man enig i, og så kan der være delelementer, som skal diskuteres. Misforståelserne Jørn Pedersen (S):
+Vi har her at gøre med et lovforslag, der har en
+klarer vi op under udvalgsarbejdet.
+meget smuk målsætning, nemlig at der skal
+opføres flere moderne plejeboliger, og det vil
+(Kort bemærkning).
+altså sige ældreboliger med tilhørende serviceKeld Albrechtsen (EL):
+arealer, hvor der er tilknyttet personale.
+Jeg nåede ikke at få givet fru Kirsten Jacobsen et
+Man ønsker med forslaget at gøre to ting: for
+svar i første omgang, og nu er ministeren kommet med, synes jeg, en meget positiv melding det første at modernisere de utidssvarende plejehjem og omdanne disse til ældreboliger, for
+om ansvarsspørgsmålet, som jo åbenbart de
+det andet at øge antallet af ældreboliger med tilallerfleste her i salen er enige om rettelig til syvknyttede servicearealer.
+ende og sidst hører hjemme hos byggeselskaLovforslaget består af følgende hovedeleberne. Jeg synes, det er meget spændende, om vi
+menter:
+kunne komme videre ad den vej.
+
+Tirsdag den 31. oktober 1995 (L 32)
+For det første mulighed for lånefinansiering
+af den kommunale grundkapital ved ombygning af plejehjem og beskyttede boliger. Dér får
+kommunerne adgang til lånefinansiering efter
+ansøgning til Indenrigsministeriet, der i den
+konkrete sag bevilger dispensation inden for en
+særlig lånepulje, der oprettes til formålet.
+Det næste vigtige element er udvidelse af
+bygherrekredsen, hvor amtskommunerne kan
+lave ældreboliger til personer med vidtgående
+fysiske eller psykiske handicap, faktisk et længe
+næret ønske hos vore handicaporganisationer.
+Det tredje punkt er støtte til etablering af servicearealer. Der bliver nu fremover forhåbentlig
+mulighed for en statslig støtte til etablering af
+servicearealer i nye ældreboliger samt inden for
+en kvote på 500 årligt til de eksisterende ældreboliger. Tilskuddet kan maksimalt udgøre 4.000
+kr. årligt pr. bolig i en boligenhed. Tilskuddet
+strækker sig over 5 år, og derefter aftrappes det
+over 10 år.
+Ud over disse tre punkter indføres en decentral klageadgang over anvisning til ældreboliger
+- de ældre stilles altså stærkere - samt ret til
+refusion af individuel boligstøtte fra den tidligere kommune, hvis der er tale om flytning over
+kommunegrænser. Det er et forslag, vi tidligere
+har vedtaget her i Folketinget, men hvor vi har
+erfaret, at der kan være lidt uklarhed om reglerne. Det bliver nu strammet op, og det hilser vi
+med tilfredshed. Der er desuden ændrede regler
+for bortfald af boligydelse ved flytning til plejehjem m.v., sådan at fraflytningsdagen bliver
+skæringstidspunkt.
+Vi må generelt sige, at siden ældreboligreformen i 1987 blev vedtaget, har ældreområdet
+udviklet sig meget. Der er bygget meget nyt,
+primært ældreboliger, og der er blevet nedlagt
+en hel række plejehjem.
+SBI-undersøgelsen, der blev offentliggjort her
+i foråret, viste, at omkring 20.000 plejehjemspladser og beskyttede boliger ikke opfylder
+nutidens krav med hensyn til, hvad man kan
+forvente af moderne plejeboliger. Der er især
+behov for at etablere muligheder for de svageste
+ældre. og der er behov for et tilbud med samme
+omsorg og tryghed som i de traditionelle plejehjem. Derfor er det uhyre vigtigt at opprioritere
+servicearealerne med tilknyttet personale. Det er
+jo derved, disse adskiller sig fra, hvad man normalt forstår ved ældreboliger.
+Ombygningen af de utidssvarende pladser er
+nødvendig både af hensyn til beboerne og til det
+personale, der skal betjene dem. Det er en kendt
+
+503
+
+sag, at mange, der arbejder inden for ældresektoren, er langt mere udsat for arbejdsskader og
+ryglidelser end folk, der arbejder i andre
+erhverv, bl.a. fordi bomulighederne er så dårlige, at også de, der skal hjælpe, bliver mærket af
+det.
+Det her er et godt forslag, der helt klart går i
+den rigtige retning. Der er både tale om større
+selvstændighed og flere valgmuligheder og tale
+om større tryghed for den ældre. Det er et skridt
+i den retning, vi ønsker at gå i Socialdemokratiet. Det er ikke det hele på én gang, men som det
+jo så ofte er her i landet, tager man små skridt og
+når alligevel meget langt frem.
+Vi vil gerne have lov til at anbefale det her
+forslag meget varmt.";Henning Grove
+32590;name_party;":
+Venstre finder, at det er af største vigtighed, at
+de ældre selv og i god tid kan vælge deres egen
+bolig. Vi tror, at fremtidens ældre vil blive særdeles krævende og servicebevidste, men vi tror
+også, at fremtidens ældre selv både vil og kan
+yde noget såvel socialt som økonomisk, når det
+drejer sig om boligvalg og aktiviteter.
+Der bliver flere ældre: det kan ikke komme
+bag på nogen. Derfor går vi ind for en ændring
+af vor ældreboliglov, som sikrer, at der bliver
+bygget og ombygget flere forskellige boformer.
+Vi er enige i, at der fortsat er mange utidssvarende plejehjemsb oliger. De skal moderniseres.
+Kommunerne er i gang, men opgaven er så stor,
+at kommunernes økonomiske muligheder bør
+forbedres.
+Men hertil kommer, at flere ældreboliger kan
+ombygges med servicearealer, og at der kan
+nybygges ældreboliger med servicearealer. Det
+er en rigtig god politik. Den sikrer, at vi hurtigt
+kan komme i gang med opgaven og få plejeboliger i de eksisterende boligområder, uden at de
+nødvendigvis skal opføres som mammutinstitutioner.
+I almindelighed skal man passe på med
+byfortætning, men det må hilses velkommen, at
+kommunerne nu får en bedre mulighed for at
+bruge den eksisterende bygningsmasse til at
+indrette plejeboliger i de aktive bykerner, dér,
+hvor der sker noget, frem for blot at placere de
+ældre langt ude på landet ved en sø eller en
+skrænt.
+Loven giver bedre mulighed for at indrette
+meget små enklaver af ældreboliger med tilknyttede servicearealer, og det vil være et godt
+tilbud til nogle af de mest plejekrævende ældre,
+
+504
+
+Tirsdag den 31. oktober 1995 (L 32)
+
+f.eks. de senildemente. De kræver langt mere
+rolige og stabile omgivelser end det, et stort
+plejehjem kan tilbyde i dag.
+Vi har også noteret os, at amterne får mulighed for at bygge ældreboliger til de mest handicappede og psykisk syge. Det er lovens indhold,
+og jeg vil så hertil føje, at det er o.k. for Venstres
+vedkommende, at der bliver en decentral klageadgang.
+Alt i alt er det en lovgivning, som Venstre kan
+støtte - i hvert fald en grundtanke, som Venstre
+kan støtte - men vi har fire reservationer.
+For det første finder vi det ikke indlysende, at
+etablering af servicearealer til nybyggede plejehjem sker uden kvote, mens etablering af servicearealer til eksisterende ældreboliger sker
+med kvote. Det, der giver mest her og nu for
+pengene, er indretning af servicearealer i tilknytning til de eksisterende ældreboliger. En
+kvote på 500 rækker jo ikke ret langt i forhold til
+forslagets mange spændende tanker. Det er den
+ene reservation.
+For det andet finder vi det ikke umiddelbart
+indlysende, at det kun er kommuner og amter,
+der kan eje servicearealer. Andre aktører må
+også kunne være med.
+Den tredje reservation angår amternes mulighed for at bygge ældreboliger. Vi forstår det
+godt - det er på grund af de meget handicappede, vi har i dag i amtsinstitutionerne - men det
+ville være bedst, hvis muligheden blev udnyttet
+på den måde, at man fik en planlægning, således at kommunerne var med til at udføre det
+her.
+Den fjerde reservation, vi har, drejer sig om
+den aktuelle debat om beskæringen af boligydelsen til pensionisterne: Vi finder det hamrende uretfærdigt, hvis de ældre, som har sparet
+op, og som har vilje til og mulighed for at indrette sig boligmæssigt, skal straffes ved en
+beskæring af boligydelsen. Hvis boligydelsen
+skal beskæres, skal det i det mindste ske ud fra
+en lighedsbetragtning og ikke som en straffeaktion over for dem, som f.eks. har indrettet sig i
+egen ejerbolig eller andelsbolig. Det er der mange ældre der i disse år flytter ind i.
+Vi ved godt, at det ikke er en del af denne
+debat, men vi er nødt til at vide, i hvilken politisk sammenhæng dette forslag indgår, for ellers
+får vi med dette forslag et meget, meget stærkt
+pres på en meget lille gruppe nye ældreboliger.";Flemming Oppfeldt
+36412;name_party;":
+Også Det Konservative Folkeparti ser med velvilje på sigtet og intentionerne i dette lovforslag.
+Vi er enige i, at der er et klart behov for at skabe
+incitamenter for kommunerne til at gå i gang
+med den store opgave, det er at modernisere
+den store masse af utidssvarende plejehjemsboliger, som vi nu engang har.
+Vi er også enige i, at det er nødvendigt at
+igangsætte etableringen af flere ældreboliger
+med tilknyttede servicearealer. Jeg har noteret
+mig, at specielt SF i den offentlige debat har
+gjort sig til eksponent for det synspunkt, at de
+mål, der er opstillet med dette lovforslag, slet
+ikke er ambitiøse nok.
+Det er da en fuldstændig legitim holdning, og
+jeg tror, vi alle kan udtrykke et ønske om at få
+sat mere gang i det her, end lovforslaget lægger
+op til, men det er nu engang sådan, at der skal
+være en eller anden form for samfundsøkonomisk ansvarlighed i det. Der skal trods alt findes
+penge til de ting, der skal iværksættes. Jeg tror
+også, man skal passe på ikke at presse byggebranchen mere, end godt er.
+Derudover er det et vægtigt argument for os,
+at dette område er kommunernes ansvar, og at
+det også i fremtiden skal være et kommunalt
+anliggende. Det vil sige, at det primært skal
+være kommunerne, der er drivkraften i opførelsen af ældreboliger.
+Men selv om vi ser meget positivt på intentionerne og sigtet i dette lovforslag, så er der
+også en række tidsler:
+Den ejerkreds, der skal kunne få støtte til servicearealer, er begrænset til kommuner og
+amter. Jeg synes, at boligministeren her har stirret sig meget blind på, hvilken kreds af aktører
+det er, der løfter denne opgave. Tilsyneladende
+har man ganske set bort fra, at selvejende institutioner og andre er med til at løfte denne opgave, og jeg stiller mig ærlig talt noget undrende
+over for, hvorfor de ikke på nogen måde skal
+tilgodeses med dette tilskud. Det ønsker vi i
+hvert fald fra De Konservatives side.
+Så til spørgsmålet om amterne. Forslaget lægger op til, at amterne nu også skal have mulighed for at opføre ældreboliger til brug for personer med store psykiske og fysiske handicap. Om
+end det på papiret ser meget smukt og rigtigt
+ud, vil vi fra konservativ side have lov til at betvivle, at det er hensigtsmæssigt og ønskeligt, at
+vi i den situation, vi er i i dag, giver amterne flere opgaver. For at sige det meget pænt er amternes fremtidige opgaver jo sat til offentlig debat,
+
+Tirsdag den 31. oktober 1995 (L 32)
+og spørgsmålet er, om det nu også er det rigtige
+tidspunkt at fremføre dette på.
+Så er der spørgsmålet om økonomien i forslaget. Der er jo nogle meget omfattende bemærkninger om de økonomiske konsekvenser. Her er
+der nogle tabeller. Tabel 4 viser de samlede økonomiske konsekvenser for det offentlige. Det ser
+jo meget godt ud, at man sådan kan udvide
+aktiviteterne og så samtidig spare penge. Netop
+den betragtning burde vække de flestes mistænksomhed.
+Hvis man går ned i detaljen i de økonomiske
+bemærkninger, hænger det heller ikke sammen.
+Hvis man tager tabel 4, er der i 1999 eksempelvis alene budgetteret med en offentlig udgift på
+7,5 mio.kr. Hvis man sammenholder det med
+tabel 2 og 3, så giver de en offentlig udgift på
+33,3 mio.kr. En difference på 26 mio.kr. er dog til
+at få øje på!
+Så jeg vil foreslå, at ministeren bruger lidt tid
+på at forklare de økonomiske konsekvenser, og
+hvis ikke ministeren er i stand til det under denne førstebehandling - og det forventer jeg sådan
+set ikke - så må vi have dyrket det lidt nærmere
+under udvalgsbehandlingen.
+Endelig skal jeg bemærke - og det fremgår
+også af bemærkningerne til lovforslaget - at der
+er finansloveffekter indbygget i dette lovforslag,
+og derfor må det nu engang være sådan, at
+vores endelige stillingtagen og den endelige
+udformning af loven i allerhøjeste grad må
+afhænge af, hvordan finanslovforhandlingerne
+spænder af.
+Men summa summarum er vi positivt indstillet, men der er en række tidsler, og der er en
+række økonomiske betragtninger, der skal
+afklares, inden vi kan give vores endelige stillingtagen.";John Vinther
+40429;name_party;":
+Det er et ret omfattende lovforslag, der blev
+fremsat før sommerferien - af regeringen
+benævnt plejehjemsreformen. Blandt andre SF
+har som rigtigt hørt af hr. John Vinther kritiseret
+regeringen for at være meget lidt ambitiøs på
+det område, der hedder plejehjems-/ældreboligområdet.
+Det her forslag er heller ikke specielt ambitiøst. Både Venstres ordfører og De Konservatives ordfører sagde, at nu skulle der bygges
+mere. Jeg vil bede om, at man nærlæser tabellen
+på side 12 i bemærkningerne til lovforslaget.
+Den gør rede for det, der er interessant for dem,
+der venter, nemlig nettotilvæksten.
+
+505
+
+Jeg ser, at der er megen forkærlighed for at
+ombygge utidssvarende plejehjem. Det synes
+jeg er rigtigt tænkt, men for dem, der venter på
+en ældrebolig, er der ikke nogen trøst at hente,
+tværtimod. Regeringens egen tabel siger, at før
+1994 blev der bygget 1.500 om året, at man i
+1994 var oppe på 1.900 ældreboliger om året i
+tilgang, og at man med lovforslaget her kommer
+ned på 1.500 ældreboliger.
+Jeg vil godt sige, at jeg tror, Folketinget skal
+være utrolig forsigtigt med at rejse nogle forventninger i befolkningen om, at det nu bliver
+gode tider, og så faktisk lave noget, der går i
+svagt modsat retning.
+Det, der er hovedbestemmende for regeringens ambitionsniveau på det her område, synes
+at være to ting: dels at passe på de offentlige
+udgifter - det skal jeg vende tilbage til - dels at
+undgå en ophedning af byggesektoren. Jeg
+synes, det er ærgerligt, at de ældre skal betale
+for tilstanden i byggesektoren, og jeg vil egentlig godt spørge:
+Er der ikke andre områder, hvor det var mere
+nærliggende at tage fat, hvis det er et reelt problem? Var det så ikke rimeligere at sætte behovet for ældreboliger over f.eks. behovet for
+motorveje i Vendsyssel? Man kunne spørge i en
+fri samfundsdebat, hvor behovet egentlig er
+størst. Er det rigtigt, at det er de motorveje, der
+er så påtrængende et problem, at de også skal
+efterspørge byggesektorens kapacitet? Eller for
+den sags skyld de store indkøbscentre. Hvis
+man vil regulere samfundsøkonomien, er det så
+givet, at det er de ældres og børnenes mest
+ømme behovsområder, man skal gå ind og
+regulere på?
+Jeg kan godt sige, at det er vi i SF ikke enige i.
+Vi vil karakterisere ambitionsniveauet som
+utilstrækkeligt. Vi foreslog sidste år et ældreboligbyggeri på mindst 5.000 boliger om året i en
+årrække. Det skal sammenholdes med, og nu
+citerer jeg nogle tal fra regeringens eget lovforslag:
+Der er i dag et hul på ældreområdet på
+12.000-13.000 ældreboliger, hvis vi skulle have
+samme dækning, som vi havde i midten af
+1980'erne. Det er det første hul.
+Det andet hul er, at der er 10.000 ældre med
+gangbesvær, der i dag bor i uhensigtsmæssige
+boliger.
+Det tredje hul er, at vi har de to store grupper
+af sindslidende og psykisk udviklingshæmmede, der også mangler et sted at bo. Hertil kommer, at vi står over for den største stigning
+
+506
+
+Tirsdag den 31. oktober 1995 (L 32)
+
+nogen sinde i antallet af helt gamle. Så bliver det
+sammenlagt katastrofalt, at regeringen sigter så
+lavt, som den gør. Det vil betyde, at en række af
+de forhold, vi i dag synes er utilfredsstillende,
+vil være endnu mere utilfredsstillende, når vi
+runder årtusindskiftet.
+Jeg siger de her kritiske ting, selv om der
+selvfølgelig også er positive ting i regeringens
+lovforslag. Renoveringen er positiv. Lånefinansieringen er positiv. Vi er undrende over for,
+hvorfor man stiller private bygherrer anderledes
+med hensyn til servicearealer. Vi forstår det
+ikke, men det vil vi godt gå videre med.
+Det understreges i øvrigt i bemærkningerne,
+at forslaget ikke indeholder initiativer, der indebærer en statslig styring af initiativerne på
+ældreboligområdet.
+Jeg vil godt spørge ministeren: Regeringens
+ambitionsniveau er i forvejen meget lavt. Hvis
+det nu ikke engang bliver opfyldt, hvor er så
+regeringens smertegrænse over for det kommunale selvstyre? Kan vi tænke os en situation,
+hvor man griber ind og siger: Nu går I for vidt i
+kommunerne i retning af ikke at tilfredsstille
+grundlæggende behov for sindslidende, for
+psykisk udviklingshæmmede, for senildemente
+og for stærkt plejekrævende ældre? Eller er det
+kommunale selvstyre højere i prioritet for regeringen?
+Jeg skal runde af. SF fremsatte sidste år et
+lovforslag om at bygge 5.000 ældreboliger og
+lade de nødvendige ansatte følge med. Det er
+også en del af det. Det er den dyre del, når man
+ibrugtager nye plejecentre. Det nu foreliggende
+lovforslag dokumenterer til fulde det behov på
+mindst 5.000 kr. om året, vi pegede på sidste år,
+og derfor genfremsætter vi vores forslag. Det
+betyder modsat, at ambitionsniveauet i regeringsforslaget skal hæves betragteligt efter SF's
+opfattelse.";Villy Søvndal
+45141;name_party;":
+På Det Radikale Venstres ordførers vegne vil jeg
+gerne fremføre følgende:
+Lovforslaget skal afhjælpe den akutte mangel
+på plejeboliger og beskyttede boliger, som er
+opstået i kølvandet af ældreboligloven fra 1987.
+Formålet er specielt at få moderniseret den
+bestand af plejeboliger, der findes, og få øget
+antallet generelt.
+Undersøgelser har vist, at der er graverende
+kvalitetsproblemer i de eksisterende plejeboliger, idet knap 20.000 boliger ikke er tidssvarende: Der mangler bad og toilet, eller der mangler
+
+én af delene. Miseren er opstået, fordi man
+ændrede vægtningen i ældreindsatsen, sådan at
+»længst muligt i eget hjem« blev ledetråden og
+den tungere plejeindsats blev forsømt. I mellemtiden kan vi sige at vi er blevet klogere: Der
+er brug for plejeboliger i helt traditionel forstand.
+Lovforslaget lægger særlig vægt på, at der
+etableres såkaldte servicearealer såvel i forbindelse med nybyggede plejeboliger som i den
+eksisterende bestand. Derved vil man specielt
+kunne tilgodese meget plejekrævende ældre
+mennesker, herunder senildemente. Fra radikal
+side har vi ikke mindst gjort en betydelig indsats for at tilgodese hensynet til de senildemente, og her ved vi, at skærmede enheder og skærmede aktiviteter er fantastisk vigtige, hvis vi
+skal yde en ordentlig indsats over for de senildemente.
+For at fremme etableringen af servicearealer
+indføres et statsligt tilskud på 4.000 kr. pr. boligenhed over en periode på 14 år. Tilskuddet kan
+dog være lavere, hvis servicearealets etablering
+koster mindre end 10 pet. af opførelsessummen.
+Tilskuddet omfatter såvel nybyggede plejeboliger som ombygning af eksisterende plejeboliger,
+men for ikke at bremse nybyggeriet af plejeboliger har man besluttet, at der alene lægges en
+kvote på tilskud til ombygninger, og kvoten er
+på 500 boliger om året, og jeg kan godt give SF
+ret i, at det ikke er et stort antal.
+Til gengæld kan jeg ikke være enig med Venstres ordfører i, at det ikke er her, vi skal have
+kvoten. Vi er nødt til at styre økonomien, og da
+det vil være vanvittigt at sætte en kvote for
+nybyggeriet, altså videreføre de problemer, vi
+allerede kender, så er vi nødt til at lade kvoten
+omfatte renovering af ældreboliger.
+Som noget nyt gives der også amtskommunen adgang til at opføre plejeboliger for den
+kreds af personer med betydelige fysiske og
+psykiske handicap, som i dag er omfattet af
+bistandslovens § 112, og dermed yder vi en
+væsentlig indsats i forhold til ikke mindst de
+psykisk handicappede.
+Under udvalgsarbejdet vil vi i Det Radikale
+Venstre være indstillet på at se på bl.a. bygherreproblematikken, altså hvem det er, der kan
+være bygherre i den her sammenhæng.
+På den baggrund vil jeg sige, at Det Radikale
+Venstre støtter det fremsatte lovforslag.
+
+Tirsdag den 31. oktober 1995 (L 32)";Elsebeth Gerner Nielsen
+47938;name_party;":
+Det her lovforslag er efter Fremskridtspartiets
+mening et udtryk for, at man fortsætter med det
+kinesiske æskebygningssystem, som overhovedet ikke opfylder de behov, der rent faktisk ligger foran os. Og det er jo ikke et pludselig
+opstået behov: det er ikke en akut mangel, som
+den radikale ordfører sagde: det er et behov,
+som man har kunnet læse sig til i årevis. Og hvis
+man gennemfører forslaget, som det foreligger
+nu med en kvote på 500 pr. år, og vi ved, at der
+mangler mindst 15.000 boliger, kan enhver regne ud, at så varer det 30 år, inden behovet er
+opfyldt.
+Man taler meget om, at dette forslag retter sig
+efter de svage ældre, men det gør det efter
+Fremskridtspartiets mening ikke. De svage
+ældre har brug for noget, der er meget mere
+ambitiøst end at få en ældrebolig med et serviceareal i den ene ende. De rigtig svage ældre
+har meget mere brug for plejen, end de har brug
+for kvadratmeterne og murstenene, og plejen er
+der ingen garanti for følger med. Efter Fremskridtspartiets mening gør man det, at man
+erstatter gamle mursten med pleje med nogle
+nye mursten uden sikkerhed for pleje.
+Vi synes, det er ynkværdigt, at det, vi tilbyder
+vore ældre i dag, er, at mange af dem skal ligge
+på gangene på hospitalerne og vente på at få en
+plejehjemsplads. De psykisk syge kan få lov at
+gå for lud og koldt vand rundt i gaderne. Og
+det, vi taler om, det er, at nu skal kommunerne
+have lov til at lånefinansiere det hele, uden at vi
+samtidig herinde er villige til centralt at fastsætte, hvad det er for et behov, kommunerne skal
+opfylde.
+Folketinget syntes ikke, at der var noget
+underligt i, at man vedtog, at der skulle være en
+pasningsgaranti for børn til daginstitutioner.
+Men jeg tror ikke, at Folketinget vil være villigt
+til at vedtage, at det var noget mere nødvendigt,
+at der var en pladsgaranti for optagelse på plejehjem. Jeg synes, at det er sørgeligt, at familier
+kan gå ned, blot fordi selv en akut plads, en
+aflastningsplads, ikke kan findes, før problemet
+er helt uløseligt.
+Det, der skal til, er noget meget, meget mere
+omsiggribende end det her. Ældreboliger er
+godt for de raske ældre, ældreboliger med servicearealer ér godt for de lidt svagere, og så
+kommer den gruppe, som har allermest behov,
+de rigtig svage, de senildemente. Dér er vi altid
+nødt til som samfund at påtage os den opgave,
+det er at sørge for dem, der slet ikke kan sørge
+
+507
+
+for sig selv, og det gør man altså ikke på denne
+her måde. Dér er man nødt til at sikre, at det er
+helt, helt andre enheder med en helt, helt anden
+pleje.
+Og for at det skal være sagt, støttede Fremskridtspartiet også sidste år SF's forslag, for det
+har engang været Fremskridtspartiets forslag,
+og vi vil gerne gøre det igen. Men vi vil meget
+gerne under udvalgsarbejdet appellere om, at
+man også prøver at se på, hvordan man kan løse
+opgaven.
+Vi er meget optaget af at gøre det billigst
+muligt, hvis niveauet ellers er holdt. Vi er også
+meget optaget af at få nogle garantier fra regeringen om, at hvis kommunerne nu igen viser, at
+de ikke vil, så er man parat til at fortælle dem, at
+det skal de, så er man parat til at se på erfaringer
+fra Sverige, hvor man har kunnet nedsætte
+omkostningerne, og så er man parat til én gang
+for alle at garantere for, at de senildemente nu
+inden for en overskuelig fremtid kan se frem til,
+at de ikke skal gå rundt om natten eller være
+ulovligt fikserede.
+Det er utålelige forhold for de aller-, allersvageste, og så hjælper det altså ikke noget, at man
+slår om sig med nogle flotte paragraffer.
+Hvad angår bemærkningerne om servicearealerne, kan jeg jo godt se, hvor boligministeren
+har fået inspiration til det - jeg kan se, at boligministeren ryster på hovedet - men jeg glæder
+mig da over, at kommunen i det mindste skal eje
+arealer, skal have skøde på arealer. Det vil sige,
+at der skal væsentlige ændringer til oppe i Aalborg, før man kan lave det, man laver.
+Når vi kommer til besparelserne på boligstøtten senere hen, kan jeg bare sige, at det småpjatteri, man kan spare dér, har vi ikke tænkt os at
+deltage i. Hvis boligministeren ville love, at den
+boligstøttelovgivning, som Folketinget har vedtaget, tvang man kommunerne til at overholde,
+så kunne man spare det tidobbelte beløb, og det
+ved boligministeren godt. Og det er simpelt hen
+for sølle, at man lader kommunerne tildele sig
+selv ekstraordinære bloktilskud ved at overtræde landets love.";Kirsten Jacobsen
+52333;name_party;":
+Inden jeg kommenterer indholdet i selve forslaget, vil jeg godt starte med at kommentere en
+bemærkning, som den konservative ordfører
+kom med, og som vedrører noget helt principielt
+om samarbejdsmulighederne i Folketinget.
+Det var en påstand om, at hvis der blev et
+finanslovforlig mellem regeringen og Venstre og
+
+508
+
+Tirsdag den 31. oktober 1995 (L 32)
+
+De Konservative, så skulle detaljerne i dette her
+forslag selvfølgelig ligge inden for, hvad man så
+havde aftalt med Venstre og De Konservative.
+Det er jo et krav, som vi også har hørt på andre
+områder: grønne afgifter osv.
+Dér vil jeg bare give regeringen det råd at se
+bort fra sådanne signaler fra Venstre og De
+Konservative. Jeg synes, at vi i mange henseender på boligområdet har haft et godt samarbejde
+mellem regeringen og venstrefløjen her i Folketinget, og det vil jeg meget ønske at vi kan fortsætte med at have.
+Men det kan vi ikke have, hvis der i et kommende finanslovforlig mellem Venstre, De Konservative og regeringen sættes rammer for, hvad
+der i den konkrete boliglovgivning kan blive
+mulighed for at gennemføre i Folketinget ved
+åbne og frie forhandlinger mellem partierne.
+Det er blot, så regeringen ved, hvor Enhedslisten står på dette område, og hvis der aftales
+noget, som for os andre bliver et diktat, er
+Enhedslisten ikke at finde blandt dem, der skal
+bære en konkret lovgivning som f.eks. det her
+igennem.
+Til selve lovforslaget vil jeg sige, at jeg synes,
+det er en bedre ramme og nogle gode målsætninger for ældreboligbyggeriet, som regeringen
+har fremsat forslag om, men problemet med
+lovforslaget er, at der ikke er penge nok til at
+virkeliggøre de smukke tanker. Der er ifølge
+forslaget 20.000 utidssvarende ældreboliger,
+som bør bygges om, og derudover opstår der et
+stort behov, fordi der bliver flere ældre.
+Lægger man de to ting sammen, må man
+konstatere, at det byggeniveau, som der er planlagt i dette forslag, sammenholdt med den
+decentralisering, der fandt sted for et par år
+siden, og som jeg bliver mere og mere overbevist om var en fejltagelse, medfører altså, at
+antallet af uløste problemer på ældreboligområdet vil vokse i de kommende år, hvis der ikke
+sker en kraftig forbedring af økonomisiden i
+dette forslag. Det må vi se i øjnene.
+Jeg synes i den forbindelse, at det er noget
+meget dårligt, vi kommer ind på, hvis det fremover skal være sådan, at den øjeblikkelige kapacitet i byggesektoren skal bestemme, hvor meget
+der skal bygges her i samfundet. Det er meget
+forkert, hvis man lader markedsøkonomien
+bestemme i stedet for at lade samfundets behov
+bestemme, og jeg er bange for, at det, der sker i
+øjeblikket, er, at en markedsøkonomi, der ikke
+fungerer, vil få lov til at blokere for løsningen af
+samfundets problemer på længere sigt.
+
+Man må i stedet gå den modsatte vej og sige,
+at vi under alle omstændigheder har brug for et
+byggeri - og jeg vil gerne være med til at diskutere hr. Søvndals forslag om de 5.000 - af en
+væsentlig størrelse og mere, end der ligger i dette forslag. Men det kan ikke være rigtigt, at hvis
+man henviser til, at byggesektoren i øjeblikket
+fungerer dårligt, fordi den er kapitalistisk organiseret, må samfundet se i øjnene, at det ikke
+kan få løst problemerne for dem, der står og
+mangler en ordenlig bolig. Det samme kunne
+man sige om rammebeløb i almennyttigt byggeri osv.: det er blot en principiel betragtning.
+Der er mange detaljer i det, og jeg synes, der
+er mange gode ting, som ikke skal forsvinde i
+kritikken, f.eks. hvordan man både formelt og
+reelt kan få sin egen ældrebolig, som man har
+sin egen lejekontrakt på, og som man reelt
+bestemmer over, samtidig med at der er et servicetilbud. Det synes jeg er det fine ved det forslag, der foreligger her, og jeg vil gerne sige, at
+vi i Enhedslisten anerkender, at dér har man
+nogle visioner om udvikling af ældreboligbyggeri.
+Boligministeren (Ole Løvig Simonsen):
+Også denne gang vil jeg gerne have lov til at
+takke for de indlæg, der er kommet. Jeg forstod,
+at i hvert tilfælde både hr. Flemming Oppfeldt
+fra Venstre og hr. John Vinther fra De Konservative var enige i sigtet. Det er meget tilfredsstillende, for det er jo det, vi skal tage vores
+udgangspunkt i. Jeg forstod også, at der var
+nogle enkelte tidsler eller nogle ting, man tog
+forbehold over for, men som jeg altid siger, er
+der er jo ingen roser uden torne.
+Jeg vil gerne have lov til at kommentere nogle
+af de ting. For det første er der et spørgsmål om
+kvoten. Det, det drejer sig om, er en kvote for
+servicearealer til eksisterende ældreboliger, og
+det er simpelt hen, fordi man skal have ældreboliger, hvor man populært sagt kan få den pleje og omsorg, man ikke kan få i dag. Derfor er
+der en kvote for det, men ikke for de andre boliger, for jeg kan ikke forestille mig ældreboliger
+uden servicecentre, når vi skal gøre en indsats
+for de svageste ældre. Det hænger ikke sammen,
+men det kan vi tage op, når vi kommer dertil.
+Så er der også et spørgsmål om, hvem der må
+eje de servicearealer. Det spørgsmål blev også
+rejst af andre, og jeg vil da gerne sige, at man
+skal lægge mærke til, at der også står, at man
+gerne må administrere. Det er jo det vigtigste,
+og det er simpelt hen af hensyn til en afbureau-
+
+Tirsdag den 31. oktober 1995 (L 32)
+kratisering, således at de tilskud, der kommer,
+går direkte til kommuner og til amter i stedet for
+igennem et mellemled.
+Det er ganske enkelt, men det afgørende er, at
+de gerne må administrere, og så kan jeg ikke se,
+der skulle være de store problemer i det.
+Endelig er det da rigtigt, at når vi taler om
+amter, så er det givet, at de skal samarbejde med
+kommunerne. Men jeg vil da også nok sige, at
+hvis jeg må være helt ærlig, synes jeg, at nogle af
+disse institutioner i amterne trænger til en fornyelse, så det vil kun glæde mig, at man også
+kan se på det.
+Jeg lagde også mærke til, at både hr. Flemming Oppfeldt og hr. John Vinther nævnte
+finansloven. Det må være, fordi man er godt i
+gang med at behandle den, men lad nu være
+med at binde det for hårdt op, for dette er et
+lovforslag, hvor man skal diskutere, om man vil
+være med til at lave nogle forbedringer for de
+ældre og svage og give dem øgede muligheder.
+Jeg lagde mærke til, at også hr. Keld
+Albrechtsen gav mig det gode råd, at jeg skulle
+tage det stille og roligt. Det gør jeg selvfølgelig
+også, men samtidig er hr. Keld Albrechtsen ikke
+bleg for at gøre opmærksom på, at hvis vi gjorde
+det, ville han ikke være med. Hvad er det så for
+nogle forhandlinger, man får? Man må også feje
+for sin egen dør og sige, at det, der er afgørende
+for os, er dette lovforslags indhold. Det er det, vi
+ser på, og det andet holder man så udenfor. Når
+det gælder for den ene part, gælder det også for
+den anden part, og jeg vil gerne opfordre til, at
+vi i det udvalgsarbejde, vi nu kommer i gang
+med, tager fat på de konkrete ting og får diskuteret dem.
+Er det nu rigtigt, at amterne får det her? Er
+det det rigtige tidspunkt at komme med det på?
+Dér vil jeg gerne sige til hr. John Vinther, at jeg
+ikke ser så meget på amternes position: jeg tænker mere på deres indbyggere, og jeg kan anbefale hr. John Vinther at besøge et par af institutionerne. Så tror jeg nok, han vil skifte mening,
+også selv om det ikke er den store kvote, vi får
+igennem i første omgang.
+Selvfølgelig er vi enige om, at vi skal gennemgå de økonomiske overslag. Nu skal jeg
+ikke udgive mig for at være statistiker eller økonom - det vil jeg meget gerne have mig frabedt
+- men jeg ved, at tal kan stilles op på forskellig
+måde og også kan fortolkes på forskellig måde.
+Det skal jeg komme lidt tilbage til under den
+tekniske gennemgang, og som man ved, har jeg
+. inviteret til teknisk gennemgang allerede i morgen, således at vi kan få gang i udvalgsarbejdet.
+
+509
+
+Hr. Villy Søvndal fra SF sagde: For lidt ambitiøs. Det har jeg jo hørt, og det var fru Kirsten
+Jacobsen i øvrigt også inde på med den kinesiske æske og alle de ting. Fru Kirsten Jacobsen
+sagde, at det afgørende er pleje og omsorg, men
+det har jeg ikke sagt at det ikke er. Jeg skal fortælle fru Kirsten Jacobsen, at hvis man besøger
+nogle af disse plejehjem, som ikke er bygget om,
+møder man altså folk på 93 år i en rullestol, der
+bor på et værelse på under 15 kvadratmeter, og
+de har ikke engang adgang til bad og toilet, og
+jeg må sige, at jeg har den opfattelse, at det er en
+menneskeret at have adgang til eget bad og toilet, uanset hvor svag man er. Så fru Kirsten
+Jacobsen skal ikke fortælle mig, at det, vi laver
+med plejeboliger, ikke er fuldgyldigt for de svageste, for det er det.
+Der var en lang diskussion - fru Elsebeth
+Gerner nævnte det også - vedrørende mindre,
+skærmede afsnit til senildemente. Det er jo
+sådan, vi gerne vil have det, og vi har set mange
+eksempler på det ude i landet, og det vil vi gerne følge op, således at den enkelte får pleje og
+omsorg på det sted, hvor vedkommende er.
+Men man skal også bo under ordentlige forhold,
+og hvis man spurgte de mennesker - det kunne
+man jo godt gøre, og det har fru Kirsten Jacobsen gjort - kan jeg forsikre for, at så vil svaret
+være: Vi har ét ønske. Kan vi få vort eget bad og
+toilet? Sådan ser det også ud.
+Jeg vil så gerne vende tilbage til hr. Villy
+Søvndal, men jeg skal overhovedet ikke gå ind
+på diskussionen om ældreboliger og motorveje:
+jeg skal forholde mig til ældreboliger. Spørgsmålet var, hvor meget der nu bliver bygget, og
+det var ikke ambitiøst nok.
+Må jeg have lov til i så henseende at henvise
+til Politiken af 13. september i år, der på baggrund af orientering om vort lovforslag havde
+lavet en rundspørge til kommunerne. Den viste
+helt nøjagtigt, at kommunerne i 1996 vil igangsætte 4.890 stk. ældreboliger. Det kunne jo være,
+hr. Villy Søvndal og andre skulle vente for at se
+effekten af det, for fakta er, at det er kommunernes ansvar at bygge det tilstrækkelige antal
+ældreboliger og plejeboliger.
+Det er vort ansvar herindefra at give dem
+nogle fornuftige økonomiske incitamenter, og
+rundspørgen viser klart forventningerne til
+vores økonomiske incitamenter. Jeg kunne også
+- bare for at gøre det færdigt - henvise til Det
+Fri Aktuelt, som jeg går ud fra de herrer læser,
+af 26. oktober 1995, hvor man gør opmærksom
+på, at kommunernes anlægsbudget næste år vil
+
+510
+
+Tirsdag den 31. oktober 1995 (L 32)
+
+stige fra 6,6 mia. kr. i indeværende år til 7,7 mia.
+kr., hvor man især præciserer, at det er til børneinstitutioner og ældreboliger.
+Skulle vi ikke lige prøve at se tiden an? Det er
+kommunernes ansvar, og det synes jeg gerne jeg
+vil holde fast i. Det er os, dér kommer med de
+økonomiske incitamenter, og jeg mener, at de
+tal, jeg her har læst op - jeg kan jo ikke garantere for dem - i hvert tilfælde viser, at man ude i
+kommunerne klart vil være opmærksom på
+dem. Skulle vi så ikke holde op med denne lille
+jammer og vente og se, om kommunerne ikke
+også lever op til deres forpligtelser? Det kunne
+man da gøre i første omgang.
+Så skal jeg sige til hr. Keld Albrechtsen, idet
+jeg jo faktisk har sagt noget til fru Kirsten Jacobsen om det udvalgsarbejde, vi skal have i gang,
+at det er så igen et spørgsmål om decentralisering og markedsøkonomi. Det er rigtigt - og jeg
+synes, vi skulle glæde os over det i fællesskab at der faktisk ikke har været så god gang i byggeriet som nu. Beskæftigelsestallet viser det
+klart, og det skal vi glæde os over, men der er
+nok heller ikke nogen herinde - jeg går heller
+ikke ud fra, at det gælder Enhedslisten - der
+ønsker en overophedning af økonomien, så vi
+ikke har styr på inflationen.
+Men det indebærer ikke, at vi ikke kan få et
+tilstrækkeligt antal ældreboliger med de økonomiske incitamenter, vi kommer med her. Så jeg
+håber på, at vi får afklaret misforståelserne
+under udvalgsarbejdet, og jeg håber også på, at
+man vil gå til lovforslaget uden fordomme, således at det af hensyn til de ældre, der har brug
+for den håndsrækning og de boliger, som vi gerne vil have sat i gang, ikke altid skal kæde det
+sammen med andre politiske tiltag.
+(Kort bemærkning).";Keld Albrechtsen
+64265;name_party;":
+Boligministeren sagde det i og for sig så tydeligt: Det er kommunernes ansvar, og vi håber,
+kommunerne lever op til det. Det håb har Folketinget haft i alt for mange år, men det har kommunerne ikke gjort. Det er såmænd derfor, at vi
+ikke tvivler på, at de heller ikke vil gøre det nu.
+Den gulerod, man har givet dem, har de ikke
+været tilfreds med, og så må man altså have fat i
+pisken. Andet er der ikke at sige til det.
+Jeg vil gerne sige til boligministeren, at jeg har
+bestemt ikke den holdning, at der ikke bør være
+eget bad og toilet. Det var ikke det, der var min
+melding, men det var blot, at et ældre plejehjem
+for de allersvageste grupper med den nødven-
+
+dige omsorg og pleje og med et fast normeret
+personale nok er den bedste løsning frem for at
+få nogle mursten, hvor der ikke er den nødvendige pleje og omsorg. Det var i og for sig det, jeg
+sagde.
+Men jeg har et direkte spørgsmål til boligministeren, som jeg gerne vil have at boligministeren besvarer. Boligministeren sagde med hensyn til tilskuddene til servicearealerne, at det da
+er lige meget, hvem der ejer dem, og at det drejer sig om, at kommunen får lov at administrere
+dem, for når kommunen administrerer dem,
+kommer tilskuddet direkte til kommunen.
+Så kommer mit spørgsmål: Vil det med andre
+ord sige, at den ulovlige ordning i Aalborg nu
+bliver lovliggjort på den måde, at det serviceareal, som PFA's Pensionskasse, KP's Pensionskasse osv. ejer, men som kommunen administrerer, kan fortsætte, så kommunen alligevel
+kan få andel i de 4.000 kr. pr. enhed, og den ordning om, at man indregner fællesboligarealet i
+bruttoetagearealet alligevel kan køre videre?
+Var det det, boligministeren sagde lige før?
+(Kort bemærkning).";Kirsten Jacobsen
+65984;name_party;":
+Boligministeren holdt en tale med overskriften:
+»Vent nu og se, om det ikke går«, og boligministeren berettede så om en tur, hvor boligministeren havde været rundt på plejehjemmene.
+Det havde jeg noteret mig i pressen, men jeg
+syntes måske, det var lidt ærgerligt, at boligministeren ikke tog én dag mere og så resten af billedet, som det her forslag ikke giver et svar på,
+nemlig forholdene for dem, der venter derhjemme.
+Dette lovforslag - og det har jeg kvitteret for leverer et svar til dem, der bor i en utidssvarende plejebolig, men man fremsætter et lovforslag,
+der med regeringens egne tal netto ikke overstiger det, der i dag bliver bygget, og derfor har vi
+så også været fri for i dag at blive beskyldt for
+overbud, der viser, at der er 12.000-13.000 i
+underskud, hvis vi skulle have samme situation
+som i midten af 1980'erne.
+Vi ved, at de psykisk udviklingshæmmede og
+de sindslidende står i kø for at få deres rimelige
+andel. Vi ved, at ældrebefolkningen, antallet af
+over 85-årige, vil stige ganske meget i de kommende år osv., og så viser en almindelig udregning da, at tallene ikke når hinanden, medmindre man er villig til at acceptere, at dette skal
+løses over et spænd på 10-20 år. Hvis man ikke
+har den tålmodighed, at de ældre skal vente
+
+Tirsdag den 31. oktober 1995 (L 32)
+10-20 år, er plejehjemsreformen ikke et svar for
+de mange, der venter, heller ikke med boligministerens argumentation, og det konstaterer jeg
+bare.
+Jeg vil så slutte af med igen at advare regeringens ministre mod at tage på ture, hvor de lover,
+at de nu løser problemet for de sindslidende,
+der mangler bofællesskab, og løser problemet
+for de psykisk udviklingshæmmede, og nu klarer de det for de senildemente, når de ikke er
+villige til at betale regningen for de løfter, de
+udsteder, for de efterlader et afgrundsdybt hul
+af utroværdighed på dette område.
+(Kort bemærkning).";Villy Søvndal
+67880;name_party;":
+Jeg kan forstå, at ministeren har været ude og
+supplere sit eget ministeriums beregninger med
+forskellige undersøgelser, som er fremlagt i
+dagspressen, og de er jo uden tvivl rigtige, i
+hvert fald for så vidt angår kommunernes forhåbninger.
+Men jeg vil godt spørge ministeren, om vi på
+den baggrund kan få sendt en beregning over til
+Folketingets Boligudvalg, der viser, om man fra
+ministeriets side finder, at de tal, prognoser, der
+står i bemærkningerne til lovforslaget, skal
+ændres, for det vil vi da så selvfølgelig kigge på.
+Jeg har det lidt ligesom fru Kirsten Jacobsen:
+Det er mange gange varslet, at det nu skulle gå
+den rigtige vej, men hvornår sker det?
+Derfor synes jeg fortsat, at vi bliver nødt til at
+overveje kvoteordningen, og jeg forstår på hr.
+Villy Søvndal, at der kommer et konkret forslag,
+som vi kan tage udgangspunkt i.
+Det bliver vi efter min mening nødt til at
+overveje, for vi står med et område med så stort
+et uopfyldt behov, og det ville være rigtigst at
+omsætte samftmdets ønske om en planmæssig
+løsning af disse ting i en konkret kvote.
+Jeg vil gerne spørge ministeren: Hvad nu,
+hvis det imod de forventninger, ministeren har
+lige i øjeblikket, ikke går sådan i kommunerne?
+Hvad nu, hvis det går den modsatte vej, så vi
+risikerer at få alle disse ombygninger af plejehjem, som vitterligt er nødvendige - ingen tvivl
+om det - men ikke får den anden side, nemlig
+nybyggeriet? Hvad så med de pladser, som går
+tabt? Hvad så med de konkrete personer og de
+problemer, som opstår i det øjeblik, boligerne
+nedlægges? For vi nedlægger så løbende boliger. Det kan jo gå galt. Derfor vil jeg godt spørge, om ministeren vil svare på, hvad vi gør i den
+situation, hvor vi får ombygningerne, men ikke
+nybyggeriet.
+
+511
+
+Boligministeren (Ole Løvig Simonsen):
+Først til fru Kirsten Jacobsen: Jeg er faktisk glad
+for at høre, at fru Kirsten Jacobsen er enig med
+mig i, at der jo også hører en anstændig bolig til.
+Så er det klaret af. Det er vi enige om.
+Jeg sagde, at det også drejer sig om pleje og
+omsorg: jeg lytter jo også, når jeg er ude og
+snakke med mennesker, og derfor ved jeg godt,
+at begge tingene hører sammen. Når det så drejer sig om et specielt tilfælde i Aalborg, som ligger fru Kirsten Jacobsen meget stærkt på hjertet,
+så ved vi godt, at vi stadig skylder et svar: det
+beklager jeg, men det skal nok komme. Jeg forstod det sådan på fru Kirsten Jacobsen, at det
+var PFA, der ejede det, men det var kommunen,
+der administrerede. Dette lovforslag omhandler
+det omvendte: Det er kommunen, der ejer, men
+det er de andre, der administrerer. Det er lige
+omvendt.
+Til hr. Villy Søvndal og hr. Keld Albrechtsen.
+Jeg er da glad for, at hr. Villy Søvndal har
+bemærket, at vi har været rundt i landet. Det er
+altid rart, for derved har vi også selv mulighed
+for at se, hvad en minister beskæftiger sig med.
+Så var der hr. Villy Søvndals jammerklage
+over, at vi nu skulle vente og se. Det var vel ikke
+nogle tal, jeg var kommet med, men nogle, jeg
+henviste til, som en uafhængig avis har lavet.
+Jeg ved udmærket godt, at hvis jeg var kommet
+med sådan nogle tal, så ville man have sagt: Nå,
+nå. Er det så en undersøgelse? Hvad kan vi se af
+den bog? Man kan da selv læse, og hr. Villy
+Søvndal, der er socialudvalgsformand, ved jo
+udmærket, hvordan kommunerne laver budgetter. Han ved udmærket godt, at når man først
+har et anlægsbudget, er det det, der er godkendt, og det, der skal sættes i gang. Anderledes
+har det jo ikke været. Det kan da godt tænkes, at
+der sker en udskydelse hen ad vejen, men det,
+som byrådet har bestemt i sit budget for 1996, er
+de tal, som KL har offentliggjort.
+Jeg har for øvrigt bedt KL om at tilkendegive,
+hvordan det fordeler sig med de enkelte ting.
+Det var rart nok at vide. Det kan jeg ikke få at
+vide nu: det får vi senere hen, og så kan man jo
+selv forholde sig til det.
+Jeg tror bestemt, at de herrer er blevet uddannet på Journalisthøjskolen: Altid hvis og hvis og
+hvis. Hvis det ikke går sådan, hvad så? Det er da
+rigtigt, at det kan være et spørgsmål, om vi gør
+det på den ene eller anden måde. Det, vi har
+gjort her, sådan som rundspørgen viser, er, at vi
+har givet nogle øgede økonomiske incitamenter,
+der viser, at det tal, som man regner med for
+
+512
+
+Tirsdag den 31. oktober 1995 (L 32)
+
+1995, nemlig 2.000-2.400 ældreboliger, forventer
+kommunerne næste år at fordoble, og det er det,
+jeg forholder mig til.
+Selvfølgelig kan vi lave beregninger over,
+hvordan det kommer til at se ud, men det, der
+virkelig er det afgørende, må jeg sige til hr. Keld
+Albrechtsen, er, at vi har et decentralt system,
+hvor det er kommunernes ansvar, og det har jeg
+pointeret - det står for øvrigt også i lovforslagets bemærkninger - og at det så er os, der giver
+de økonomiske incitamenter.
+Hr. Keld Albrechtsen siger, at vi nu skal have
+kvoteordninger, således at forstå, at Folketinget
+eller regeringen i det tilfælde, at de blev vedtaget, hvad de ikke gør, så skulle bestemme, hvor
+meget den enkelte kommune skulle bygge.
+Hvis hr. Keld Albrechtsen var meget interesseret i at bygge flere, skal jeg fortælle, at der er
+mulighed for i det almennyttige boligbyggeri at
+bygge om til ældreboliger. Dér kunne man nok
+gøre noget. Men det harmonerer faktisk ikke så
+godt med, hvad hr. Keld Albrechtsen tidligere
+sagde om, at der var nogle problemer med hensyn til rammebeløb, og dér ville man i og for sig
+gerne have mere decentralisering. Man skal holde tingene adskilt, og det, jeg siger, er, at de initiativer, vi kommer med, i hvert tilfælde er et
+stort skridt i den rigtige retning.
+(Kort bemærkning).";Keld Albrechtsen
+73448;name_party;":
+Det er vigtigt, at vi citerer hinanden korrekt for
+at blive uenige om det rigtige. Jeg holdt ikke en
+tale bygget op over »hvis og hvis og hvis«. Jeg
+holdt faktisk en tale, der for at undgå den situation byggede på regeringens egne oplysninger.
+Regeringen konstaterer, at der er et underskud
+på 12.000-13.000 boliger, hvis vi bare skulle
+have den samme situation som under den borgerlige regerings brutale periode midt i
+1980'erne. Hvis vi skulle løse problemet med de
+sindslidende og de psykisk udviklingshæmmede, hvis forhold regeringens ministre tager
+rundt og siger at plejehjemsreformen afhjælper,
+opfylde det behov, der er for bofællesskaber,
+løse det problem, som regeringen selv peger på i
+lovforslagets bemærkninger, at der er 10.000
+gangbesværede ifølge en undersøgelse fra 1990,
+der i dag bor uhensigtsmæssigt, hjælpe nogle af
+de 20.000 senildemente, som ikke alle sammen
+har brug for en ældrebolig, og så har regeringen
+ikke medtaget, at vi står over for en meget stor
+stigning i antallet af ældre, men er formentlig
+enig i det, og det her ikke skal tage mere end 10
+
+år, så er det ikke noget tilfælde, at formanden
+for Pensionisternes Samvirke, Ivar Nørgaard, og
+han gør det formentlig ikke af kammerateri over
+for SF, siger, at SF har mest ret i sit skøn.
+Jeg vil også godt spørge igen: Hvis boligministeren ikke har ret i sin meget optimistiske vurdering af fremtiden - og det er der ikke noget
+underligt i, sådan er boligministre formentlig hvor er smertegrænsen så i forhold til kommuner, der ikke foretager sig noget med hensyn til
+byggeri for senildemente, for sindslidende, for
+psykisk udviklingshæmmede, eller er der slet
+ingen smertegrænse?
+Boligministeren (Ole Løvig Simonsen):
+I hr. Villy Søvndals sidste indlæg anerkender
+han jo, hvis jeg ikke har misforstået det, at det
+vil tage 10 år. Det er faktisk det, vi gør opmærksom på i vores eget lovforslag. Det var det første.
+Det næste er, som det også blev tilkendegivet
+i lovforslaget, at det først og fremmest er beregnet på de svage ældre. Nogle af de andre ting,
+som vi har beskæftiget os med, f.eks. de gangbesværede, kan klares i almennyttige boliger
+ved, at man får bygget elevatorer og andre ting,
+så man skal se det som en helhed.
+Dette drejer sig om plejeboliger, der erstatter
+eksisterende plejehjem for de svageste ældre,
+men det betyder jo ikke, at der ikke inden for
+den almennyttige boligsektor kan laves lejligheder, der svarer til den standard, som ældre
+har behov for. Det vil jeg gerne lige gøre
+opmærksom på, for der sidder også nogle her i
+salen, der ved, at vi beskæftiger os med almennyttige boliger.
+Jeg vil gerne sige til hr. Villy Søvndal: Lad os
+nu få det udvalgsarbejde i gang. Jeg håber, at hr.
+Villy Søvndal også vil medvirke positivt til de
+tiltag, der kommer. Jeg har forstået, at hr. Villy
+Søvndal ikke mener, det er ambitiøst nok, men
+vi får i hvert fald nogle tal hen ad vejen, som
+måske kan bekræfte, at ministeren har mere ret i
+sin antagelse, end hr. Villy Søvndal har. Det
+håber jeg vi ønsker begge to.
+Hermed sluttede forhandlingen.,
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+
+(65)
+Tirsdag den 31. oktober 1995 (L 32)";Villy Søvndal
+76653;title_name;":
+Jeg foreslår, at lovforslaget henvises til Boligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 37:
+Forslag til lov om ændring af lov om social
+bistand og lov om social pension. (Indførelse
+af ældreråd og af klageråd på hjemmehjælpsområdet m.v.).
+Af socialministeren (Karen Jespersen).
+(Fremsat 11/10 95).
+Lovforslaget sattes til forhandling.
+Forhandling";Henning Grove
+77169;name_party;":
+Her skal vi jo til at behandle et forslag, der har
+haft en meget lang forhistorie. Vi har i Socialdemokratiet i flere år været optaget af, om man
+skulle lovgive på dette område. På et tidspunkt
+for et par år siden fik vi det råd af nogle af vores
+samarbejdspartnere blandt pensionisterne, at
+man burde lade tiden vise, om der blev store
+problemer, og lade frivilligheden prøve. Det
+viste sig så, at de samme organisationer, de
+samme mennesker nu kommer og siger: Vi har
+fået mange ældreråd, det virker bare ikke altid
+efter hensigten.
+Hvad er det så, der er målsætningen i dette
+forslag? Det er en flot målsætning, synes jeg.
+Ældreomsorgen skal i videst muligt omfang tilrettelægges efter de ældres behov. Næppe mange kan være uenige i det. Og for det andet: De
+ældre skal have størst mulig indflydelse på egne
+forhold. Også noget, som jeg tror kan samle
+bred tilslutning.
+Hvis vi kigger på indholdet i forslaget, foreslås det, at der etableres ældreråd i alle kommuner, og at ældrerådene skal høres om alle forslag, der har betydning for ældre. Ældrerådet
+kan udbygge kontakten mellem kommunernes
+ældre og kommunalbestyrelsen samt rådgive
+kommunen i ældrepolitiske spørgsmål. Valgret
+og valgbarhed til ældreråd har ifølge forslaget
+alle borgere på 60 år og derover. Desuden står
+
+513
+
+der, at kommunen kan, hvis den finder det formålstjenligt, også sige, at førtidspensionister,
+altså sociale pensionister under 60 år, kan have
+sæde i rådet plus valgret og valgbarhed, dog
+efter drøftelser med ældrerådet.
+I forslaget står der, at der skal være valg til
+ældrerådet mindst hvert fjerde år, men det er jo
+en minimumsgaranti. Det kan godt være oftere,
+hvis man i kommunen føler, det er mere formålstjenligt.
+Man lægger op til vide rammer for kommunerne. Ældrerådet består af mindst fem medlemmer. Igen udtryk for det samme: Finder man
+en anden størrelse mere hensigtsmæssig, f.eks.
+syv, ni - det kan også være andre tal - har kommunen også mulighed for at vælge den løsning.
+Det ligger imidlertid fast, at udgifterne til
+ældrerådet, til lokaler, til sekretariatsbistand, og
+hvad der nu måtte være, betales af kommunen.
+Samtidig, og det er noget nyt i forhold til det
+forslag, der blev fremsat før sommerferien, er
+der nu ønske om nedsættelse af et uafhængigt
+landsdækkende organ, også kaldet Landsældrerådet, der er sammensat af brugere og eksperter.
+Hensigten med det er, at de mere overordnede
+ældrepolitiske problemer har et sted, hvor de
+også kan finde et diskussionsforum, der ikke
+altid er forankret i lokale problemstillinger.
+Det næste punkt i lovforslaget er, at der i hver
+kommune etableres et klageråd til at behandle
+klager over hjemmehjælpsområdet. Dette klageråd kan modtage og behandle klager og komme
+med kritik og forslag til ændringer i kommunens ældrepolitik. Sammensætningen er fem
+personer: to fra kommunalbestyrelsen, tre fra
+ældrerådet, altså et brugerflertal, og desuden
+lægger forslaget op til, at formanden skal vælges blandt ældrerådets repræsentanter.
+Det tredje og afgørende element er, at kommunalbestyrelsens beslutninger på hjemmehjælpsområdet skal meddeles skriftligt til brugerne. Kommunen skal i forbindelse med visitationen anvende et skema, og det er afgørende
+for os i Socialdemokratiet, at der også står, at
+brugerne skal med ind i beslutningsprocessen.
+Skemaet kan være forskelligt fra kommune til
+kommune, men igen er der her nogle minimumskrav: Det skal indeholde en beskrivelse af,
+hvad der er formålet med hjælpen, hvilke opgaver der ydes hjælp til, og hvornår hjælpen bliver
+revurderet. Skemaet laves som sagt i et samarbejde med brugeren: jeg synes, det er vigtigt, at
+man her har underskriften inde, og jeg synes
+også, det er vigtigt, at det nævnes - og det skal
+
+514
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+vi måske dyrke lidt yderligere i udvalget - at en
+bisidder bør kunne inddrages.
+Skemaet bliver i det hele taget en vigtig del i
+klagerådenes vurdering og deres arbejde, bl.a.
+med at kontrollere og vurdere, om kommunerne
+lever op til deres egne målsætninger. Derudover
+påpeges det, at kommunerne bør overveje at
+sende flere oplysninger skriftligt ud til brugerne
+- en god idé.
+Tidsfølgen i det her er også meget fornuftig,
+når man siger, at senest den 1. juli 1996 skal den
+skriftlige del være på plads, senest den 1. januar
+1997 skal der være etableret ældreråd og klageråd i alle kommuner, og de steder, hvor man har
+ældreråd i øjeblikket, er tidsterminen den 1.
+januar 1999. Man går altså ikke ind og siger, at
+de steder, hvor tingene kører til stor tilfredshed,
+skal man lave om midt i en valgperiode: dér skal
+man have tid til at finde ud af, hvordan man så
+vil gøre det fremover.
+Jeg synes, det her er et fremragende forslag:
+det vil jeg gerne understrege. Det har været en
+opgave, dette Ting har diskuteret i mange år,
+hvor der har været modstridende opfattelser
+blandt brugere og kommuner. Nu har vi en situation, hvor vi tilsyneladende har ramt det, som
+både brugerne og kommunerne synes er fornuftigt og er et fremskridt, som går i den rigtige retning, så derfor anbefaler vi.
+(Kort bemærkning).";Jørn Pedersen
+82246;name_party;":
+Hr. Jørn Pedersen betonede i sit afsluttende indlæg, at det her var et fremragende forslag. Jeg
+tror, det er vigtigt, at hr. Jørn Pedersen betonede
+det kraftigt, for jeg tror, at det er en opfattelse,
+der har behov for at blive kraftigt betonet, hvis
+den skal trænge igennem.
+Jeg brugte en stor del af sommeren og efteråret på sagen. Senest var jeg til et møde i går
+med et af de socialdemokratiske folketingsmedlemmer og med repræsentanter for alle ældreråd, handicaporganisationer og DSI i Sønderjyllands Amt. Jeg skulle hilse og sige, at de er af
+den modsatte opfattelse. De synes ikke, det her
+er et fremragende forslag.
+De synes, at det er et forslag, som man vil
+kunne betegne med ordet en narresut på den
+måde, at man får et klageråd, der ingen kompetence har til at omgøre sager, og det understreges jo i bemærkningerne. Det betyder: I den
+kommune, der behandler sine borgere dårligt der er også eksempler på det modsatte, men nu
+tager jeg det eksempel, for det er jo det, der er
+
+interessant her - har den ældre ingen styrket
+retsstilling i forhold til i dag, hverken i den
+enkelte sag eller i forhold til en generel beslutning om at skære 10 mio. kr. af hjemmehjælpen.
+Det er derfor, man gør det samme, som vi talte om også ved sidste lovforslag, nemlig at man
+rejser en række forventninger om, at nu skal de
+ældres retsstilling styrkes. For at tilgodese også
+stærke interesseorganisationer, der ikke er de
+ældres organisationer, så laver man noget, der
+er hverken/både/eller/og, og derfor er der ikke
+stor begejstring for det her forslag rundt om i
+landet. Der er formentlig langt større begejstring
+i Kommunernes Landsforening.
+(Kort bemærkning).";Villy Søvndal
+83924;name_party;":
+Jeg vil gerne have lov at sige i forhold til hr.
+Villy Søvndals rejsevirksomhed, at jeg er meget
+imponeret over, at hr. Søvndal har haft et møde
+i Sønderjylland. Nu er det jo også tilpas tæt på
+bopælen, så det er jo ikke så langt at bevæge sig.
+Jeg kan så sige, at modsat hr. Søvndal har jeg
+været mange steder i landet, og jeg har mærkværdigvis haft en komplet modsat reaktion end
+den, hr. Søvndal her refererer. Det er dog interessant.
+Jeg forstår ikke hr. Søvndals eksempel: Hvis
+nu kommunalbestyrelsen beslutter sig for at
+skære 10 mio. kr. af hjemmehjælpen, hvor er
+klagerådet så henne? Hr. Villy Søvndal må have
+et forvaltningskursus om de kommunale forhold, og efter det vil hr. Søvndal jo vide, at hvis
+f.eks. Kolding Kommune - for nu at tage en helt
+tilfældig kommune i landet - beslutter sig for
+med et flertal i byrådet, at nu vil man skære 10
+mio. kr., så kan ikke engang dette høje Ting gå
+ind og ændre den beslutning, medmindre man
+siger - og dér synes jeg at hr. Søvndal er ved at
+gøre sig nogle interessante betragtninger - at
+det kommunale selvstyre styres fra denne sal.
+Under det sidste forslag hørte vi noget om
+tvungne kvoter: sådan lyttede jeg mig til det. Nu
+lytter jeg mig til, at det kommunale selvstyre
+skal sættes om på bagsædet, og så er det også
+herfra, det besluttes, hvad man i X-købing eller
+en anden tilfældig kommune ellers vil bruge det
+politisk valgte flertal til.
+Jeg savner fra hr. Villy Søvndal netop det, at
+alle over en bestemt aldersgruppe har valgret og
+ret til at blive opstillet, altså anerkendelsen af
+det demokratiske, der ligger i det. Jeg må sige til
+hr. Søvndal: Jeg har rundt omkring i landet
+mødt stor anerkendelse for det blandt brugerne,
+
+Tirsdag den 31. oktober 1995 (L 37)
+blandt pensionister, blandt efterlønsmodtagere,
+og det anser jeg for at være mindst lige så vigtigt, som at man har et godt forhold til de organisationer, hvor hr. Søvndal jo tidligere var dybt
+forankret.
+(Kort bemærkning).";Jørn Pedersen
+85902;name_party;":
+Jeg har jo den fornøjelse at være formand for
+LO's faglige seniorer, som tæller 75.000 ældre
+over 60 år i 450 klubber og i 15 amtsorganisationer, og jeg kan sige til hr. Søvndal, at jeg har
+været ude over landet i sommer og her i efteråret, og man kan sige, at man altid kan ønske
+tingene anderledes, men vi ser det som et meget
+stort fremskridt, at vi nu får mulighed for at
+udtale os om de kommunale budgetter på
+ældreområdet, inden de bliver behandlet i kommunalbestyrelsen, hvor man før i tiden jo var
+spist af med, at man bare fik en kop kaffe af
+socialudvalgsformanden - jeg ved ikke om det
+var sådan i Kolding Kommune, denne her helt
+tilfældige kommune - og så bestemte kommunerne ellers selv, hvad de ville gøre.
+Derfor kan jeg sige til hr. Søvndal, at vi
+betragter det her som et meget stort fremskridt.
+Derudover betragter vi det også som et fremskridt, at til det klageråd, der nu kommer, er der
+et skema, der går forud som et grundlag, således at man har et stykke papir, man kan bruge
+til at klage over tingene med. Derfor kan jeg
+sige, at det er et væsentlig fremskridt i forhold
+til tidligere. Så derfor kan jeg ikke rigtig forstå,
+at SF skulle være imod - kan man sige - de
+mange ældre, og jeg har dog også i ældremobiliseringen, som tællér 440.000 medlemmer, hørt
+mange, mange gode bemærkninger - faktisk af
+samme karakter, som hr. Jørn Pedersen gav
+udtryk for i sit indlæg.
+(Kort bemærkning).";Hans Jørgen Jensen
+87333;name_party;":
+Nu skal jeg ikke tage SF i forsvar, men jeg synes
+nok, at den socialdemokratiske ordfører, hr.
+Jørn Pedersen, var temmelig hård i sin kritik af
+det, der er blevet fremført fra SF's side. Jeg vil
+sige, at jeg deler en hel del af den opfattelse, som
+hr. Søvndal gav udtryk for.
+Borgerne i dette land har det jo sådan, at når
+man klager over et eller andet til en instans, så
+regner man også med, at den instans kan tage
+stilling til den klage, man indgiver. Lad os tage
+sådan et par kommunale afgørelser, der indankes fra amtets tilsynsråd. Der kommer en afgør-
+
+515
+
+relse fra amtets tilsynsråd, der siger, om kommunen har handlet ret eller forkert. Jeg tror, de
+mange ældre der eventuelt vil indgive en klage
+over hjemmehjælpsområdet, vil have utrolig
+svært ved at forstå, at der sidder sådan et organ,
+som kun kan udtale et eller andet bredt formuleret omkring deres klage. Fru Jensen, der er ked
+af, at hun kun får 2 timers hjemmehjælp og gerne vil have 3/4 - hvis det er det, der klages over
+- regner med, at når hun får stillet en sådan klage op, så får hun fra det organ, som denne lov
+omtaler, også et konkret svar på, hvordan stillingen er til det.
+Det er jo ikke det, der er tale om her, og derfor
+synes jeg ikke, Socialdemokratiet skal gå så højt
+op i omdrejninger, men se positivt på den kritik,
+der fremkommer på dette område, og jeg synes,
+at man under udvalgsbehandlingen skulle dreje
+tingene en lille smule her og så se på, om man
+ikke kunne give dette 5-mands-udvalg - to
+kommunalpolitikere og tre fra ældrerådet - en
+form for besluttende kompetence til at omgøre
+en eventuel afgørelse, der jo i mange tilfælde
+ikke er truffet af politikere, men af embedsmænd i kommunerne.
+Så vil jeg sige en anden ting vedrørende
+ældrerådet. Det er mere et spørgsmål til hr. Jørn
+Pedersen. Jeg har læst det her forslag i toget ind
+i morges: og jeg kan ikke rigtig se, hvordan valget af ældrerådet skal foregå. Der står, at der
+skal mindst være fem medlemmer. Der kan også
+være flere, men jeg vil gerne spørge, for det er jo
+regeringspartiet, Socialdemokratiet, der har
+lavet dette lovforslag: Skal det forstås sådan, at
+man kan vælge dem, man stort set vil, og også
+hvordan man vil vælge dem?
+I vores kommune, i Ringsted, har vi haft
+ældreråd i mange år. Vi har et fortrinligt samarbejde med det. De sørger selv for distriktsvis at
+vælge folk ind i ældrerådet, og jeg går ud fra, at
+det er ikke noget med kampvalg og lignende,
+hvis man i en kommune som vores er enig om,
+hvordan ældrerådet skal vælges. Så jeg går ikke
+ud fra, at denne lov bliver til hinder for det. Det
+er et spørgsmål, jeg gerne vil have afklaret.
+(Kort bemærkning).";Poul Nødgaard
+89987;name_party;":
+Jeg kan sige, at jeg i hvert tilfælde er enig med
+hr. Poul Nødgaard om nogle af de kritikpunkter, han kommer med. Jeg synes også, det er lidt
+for let, at hr. Jørn Pedersen afviser nogle af de
+kritikpunkter, der er. Blandt andet har ældrerådene ikke nogen egentlig forhandlingsret. Det
+
+516
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+ville være en mindre sag, synes jeg, hvis man
+prøvede at tilkende dem en faktisk forhandligsret i forhold til spørgsmål, der har med dem selv
+at gøre. Jeg synes også som hr. Poul Nødgaard,
+at det er et problem med klagerådet, at det ikke
+er nogen egentlig ankeinstans, men en instans,
+som refererer tilbage igen til dem, der har
+besluttet det. Det refererer tilbage igen til kommunalbestyrelsen. Det vil sige, at vi får samme
+problem, som vi har haft med klager over politiet, hvor det er sådan, at klager over politiet
+behandles af politiet. Så jeg synes, at man burde
+tænke lidt mere over den model, man skruer
+sammen.
+
+individ over for det system, der hedder kommunen og det offentlige, og udstyrer det enkelte
+individ med en handlingsmulighed og en myndighed, det individ ikke har i dag.
+
+(Kort bemærkning).";Bruno Jerup
+91147;name_party;":
+Nu var der jo tre indlæg, jeg skal forsøge at
+besvare, så det må blive kort.
+Jeg må sige til hr. Poul Nødgaard, der spørger: Når man klager, får man så ikke svar? Jo,
+naturligvis gør man det. Selvfølgelig skal man
+have svar på sine klager. Det er indlysende.
+Hvordan kan man vælge? Jamen der er sådan
+set kun to betingelser. Det er direkte valg, og det
+er, at alle over 60 år er valgbare. Det er meget
+(Kort bemærkning).
+enkelt. Forslaget er så åbent, at kommunerne";Jørn Pedersen
+91633;name_party;":
+kan skrue de systemer sammen, de synes er
+Jeg skal bare konstatere i forhold til diskussionen med hr. Jørn Pedersen, at vi så kommer i bedst, men de to krav er ufravigelige, og det er
+det, der kendetegner demokratiet. Ellers kan
+forskellige forsamlinger. De Jyske Pensionistman sige, at man kan have valgregler på mange
+sammenslutninger afholdt et årsmøde i Dronmåder. Altså, man kan finde regler på forskellininglund i juli, hvor de vedtog en meget skarp
+resolution imod forslaget her. Nu kan man selv- ge partiers landsmøder og andre steder for at
+følgelig mene, hvad man vil, men det er trods alt sige, at sådan gør vi her. Det er sådan set ligeikke en virksomhedsorganisation på ældreom- gyldigt for mig at se. Det afgørende er, at alle
+har stemmeret.
+rådet. Jeg antager, at den resolution også er tilSå taler hr. Bruno Jerup om forhandlingsretflydt den socialdemokratiske folketingsgruppe.
+ten og ældrerådet. Jamen det er jo netop det,
+Det, de anker over, er jo lige præcis - og det
+man giver ældrerådet, når man siger, at det skal
+behøver jeg såmænd ikke at komme på forvalthøres om alle forslag - og det er, så vidt jeg ved,
+ningsretskursus for at forstå: Hvad har det
+organ af kompetence overhovedet? Ingen. Det uden undtagelser - der vedrører de ældre. Jeg
+understreges, at man ikke kan omgøre enkelt- ved ikke, hvor det er, der mangler forhandlingsmulighed med sådan en formulering. Det er jo
+afgørelser. Det vil sige, at i den kommune, der
+giver en borger en dårlig behandling, og hvor ikke kun et spørgsmål om hjemmehjælp. Det er
+et spørgsmål om hundredvis af andre ting også,
+sådan et organ kunne være et værn, er der ikke
+som vedrører ældre mennesker, og hvor man
+noget som helst i det her lovforslag, der tilgodemå forvente, at de har en interesse.
+ser borgerne.
+Så taler hr. Villy Søvndal om tilliden til demoVil hr. Jørn Pedersen ikke godt bekræfte, at
+det er rigtigt? Er det ikke rigtigt, at det er under- kratiet. Man bliver jo næsten rørt til tårer, for
+dette forslag indeholder tillid til demokratiet,
+streget i lovforslagets bemærkninger, at man
+ikke kan omgøre en beslutning? Og det er jo det, også det demokrati, der indebærer, at der i en
+kommune er en kommunalbestyrelse, som har
+der er det afgørende. Det er den forventning,
+et ansvar. Jeg ved ikke, om hr. Søvndal forestilman har været ude at rejse i den her debat, og
+ler sig, at vi har en eller anden overdommer i
+det er det ønske, SF havde. Jeg synes, hr. Jørn
+kommunen, der inden for et felt sidder og
+Pedersen fokuserer fantastisk meget på kun det
+omgør de ansvarliges afgørelser. Det er lidt
+kommunale selvstyre som vejen fremad. Jeg
+synes egentlig, man skulle være optaget af noget svært at få øje på, hvordan det skal fungere. Jeg
+ved godt, at hr. Villy Søvndal kender en model.
+andet, nemlig den enkelte borgers retsstilling i
+Den kommer nok om lidt. Det andet er, at hr.
+et samfund. Når der sker et sammenstød mellem en borger og et system, så har jeg noteret Villy Søvndal tillægger de to kommunale
+repræsentanter meget ringe indflydelse på,
+mig, at der er et parti, der har vedtaget et prohvad der foregår i det klageråd. Der sidder to
+gram om mennesket frem for systemet. Men det
+fra kommunalbestyrelsen. Det er velvalgt, at de
+er jo lige præcis det, det her drejer sig om. Det
+skal være der.
+her drejer sig om, om man sætter det enkelte
+
+Tirsdag den 31. oktober 1995 (L 37)";Villy Søvndal
+95027;name_party;":
+Dette lovforslags første halvdel vedrører jo specielt den del af hjemmehjælpen, som Folketinget
+har været meget optaget af. Det har været sagt
+tidligere fra denne talerstol, og det er da også et
+spørgsmål, vi i Venstre er optaget af at få løst
+bedre, end det er sket i dette lovforslag. Det er
+også et forslag, der har været lang tid undervejs.
+Jeg kan i hvert fald se noget af begyndelsen til
+nogle konturer fra en tidligere periode. Den del,
+der vedrører hjemmehjælpen, synes jeg er et
+godt forslag.
+Dermed har jeg ikke taget stilling til det samlede lovforslag, vil jeg godt sige. Der er kommet
+et indhold i, der bedre passer til det samfund, vi
+har i dag. Der er kommet ord med som forebyggelse, og der er kommet ord med om aktivering
+kædet sammen med omsorg, og det kan da ikke
+være bedre.
+Det er sådan - uden at jeg skal stå og referere
+fra lovforslaget: det har vi jo hver især kunnet
+læse os frem til - at man sætter ord på, hvad det
+er for nogle funktioner, den ældre ikke kan
+udføre, og som er det, man får hjælp til. Det tror
+jeg også kan give en større forståelse for, hvad
+det er, man får hjælp til, og hvad det er, man
+ikke får hjælp til. De skriftlige aftaler er et fremskridt så stort, så jeg ikke fatter, at vi ikke har
+lavet det for mange år siden. Jeg synes, det er
+godt, at vi nu får sat på tryk, hvad det er, der
+bliver aftalt, både fra kommunens side - altså
+hvad det er, man tilbyder - og da også, hvad
+den ældre siger ja til. Den ældre får derved også
+at vide: Hvad får jeg hjælp til, hvornår får jeg
+det og hvorfor - og får dernæst et svar. Det tror
+jeg for øvrigt vil komme til at give meget ro om
+hjemmehjælpen. Vi vil ikke se de mange spørgsmål, som der har været tidligere.
+Jeg vil godt stille et spørgsmål til ministeren
+med det samme, og hvis ikke jeg kan få svar i
+dag, så gør det ingenting: jeg vil så rejse det i
+udvalget. Det er vedrørende afsnittet om betaling for midlertidigt ophold på plejehjem. Det
+ser jeg der bliver ændret på nu, og det vil jeg
+bede om at få en redegørelse for. Men det kan
+udmærket godt vente, til vi kommer til udvalgsarbejdet.
+Det var så den gode del, men så kommer vi jo
+over til at skulle snakke om at oprette ældreråd.
+Jamen hvorfor skal vi gå ind og lovgive for,
+hvordan kommunerne skal oprette ældreråd?
+Hvorfor kan kommunerne ikke selv fortsætte
+den udvikling, som er gået i gang? Nogle kalder
+det ældreråd, nogle kalder det brugerråd, og
+
+517
+
+nogle kommuner kalder det noget helt andet.
+Men her får man da noget, der lige nøjagtig passer til de lokale behov.
+Jeg synes for øvrigt også, det er meget problematisk, at vi nu går ind og lovgiver om,ældreråd. Næste gang bliver det vel et ungdomsråd.
+Vil det sige, at vi på tværs skal til at have et
+samfund, der ikke får tingene til at hænge sammen, men laver noget, der er lagdelt? Det synes
+jeg i hvert fald ikke modsat den socialdemokratiske ordfører, der syntes, at det var fremme af
+demokratiet. Nej, jeg er ved at synes, det her er
+et minus for demokratiet, for vi har trods alt
+valgt nogle byrødder til at tage sig af det arbejde
+i de forskellige kommunalbestyrelser, og det
+synes jeg vi skulle støtte i stedet for.
+Så kan jeg altså heller ikke forstå, at man, fordi man bliver 60 år, pludselig kan vælges eller
+være valgbar. Jamen bliver der nu pludselig sat
+ord på, at når man bliver 60 år, så er man ved at
+blive gammel? Det vil jeg da begynde at overveje lidt i forhold til min dåbsattest. Jeg har lidt
+mistanke til den socialdemokratiske ordfører,
+der slog så hårdt på, at det var så god en idé.
+Det er måske, fordi Socialdemokratiet har en
+øvre grænse for, hvor længe man kan være valgt
+til noget, og så skal man have noget her i stedet
+for. Det kunne jeg da godt mistænké ordføreren
+lidt for.
+Men i bund og grund siger vi om ældrerådet:
+Lad kommunerne selv bestemme, det skal vi
+ikke gå ud og blande os i, det er de bedst til selv.
+Vedrørende klagerådet: Kommunen står og
+skal etablere et klageråd. Jamen, hvorfor det?
+Kan vi ikke overlade det til kommunerne selv at
+prøve, at gå ind og organisere det her? Havde
+man så da i lovforslaget taget med, at de, der er
+brugere af hjemmehjælpen, også var dem, der
+sad i det klageråd. Det har man jo ikke.' Det er
+det, man gør på dagsinstitutionsområderne, på
+dagplejeområderne, og dér havde det passet, for
+så havde det været i tråd med noget, der hang
+sammen.
+Hvis vi så yderligere skal begynde at snakke
+om et centralt ældreråd, hvor man derfra skal til
+at begynde at bestemme, hvad det er, der skal
+være den gældende ældrepolitik her i landet, så
+må jeg godt nok sige fra. Men lad brugerne selv
+være med til at oprette det her i kommunerne,
+og lad ...
+
+518
+
+Tirsdag den 31. oktober 1995 (L 37)";Else Winther Andersen
+99734;title_name;":
+Taletiden er 5 minutter.";Henning Grove
+99786;name_party;":
+Undskyld.
+Jeg vil gøre mig færdig og sige, at den første
+del af lovforslaget synes vi er helt fin, men ikke
+den sidste del.
+Undskyld, hr. formand.
+(Kort bemærkning).";Else Winther Andersen
+99972;name_party;":
+Ja, nu er det jo ktm 2 minutter, så jeg skal fatte
+mig i yderste korthed.
+Jeg vil godt lige sige til Venstres ordfører, fru
+Else Winther Andersen, at langt hen ad vejen er
+Dansk Folkeparti enig i spørgsmålet vedrørende
+ældreråd, for vi finder også som i vores kommune, at kommunen udmærket kunne klare den
+ting selv, så jeg håber og tror på, at det bliver
+nogle meget lempelige regler og ikke sådan
+nogle diktatkrav, men det vender vi tilbage til,
+når nu lovforslaget skal behandles videre.
+Det, jeg synes, jeg har svært ved at forstå i fru
+Else Winther Andersens indlæg, var spørgsmålet om det klageråd over hjemmehjælpen. Er
+Venstre helt imod det dér klageråd? Og hvis
+man er enten for eller imod, vil jeg gerne have
+oplyst, om Venstre går ind for, at det skal være
+det klageråd, der også har en beslutningskompetence.
+Dér synes jeg, det er utrolig vigtigt, at vi får
+Venstre og senere også De Konservative ud af
+busken og får at vide: Hvis det klageråd kommer, hvilket indhold skal det klageråd så have?
+For det er noget totalt topcentralt, og jeg synes,
+det var helt talt ved siden af fra den socialdemokratiske ordfører, der ingen svar havde på hele
+spørgsmålet, for selvfølgelig får folk svar på
+deres klage, men de skulle gerne have et svar,
+hvor man enten får en afgørelse på det ene eller
+andet. Man får bare en gang æhbæhbuh, og nu
+skal vi se på det og eventuelt snakke med
+socialudvalgsformanden, om du nu er behandlet rigtigt, osv. osv.
+Hvis vi skal have et sådant klageråd, så vil jeg
+også godt være med til at udstyre de to kommunalbestyrelsesmedlemmer og de tre fra ældrerådet med en beslutningskompetence. Det være
+sagt lige ud ad landevejen. Hvis vi tror på de
+kommunale forhold og på det kommunale selvstyre osv., så må vi også tro på, at de fem mennesker, der er valgt til det råd, også kan træffe
+nogle beslutninger. Selvfølgelig kan de det. Lad
+os tro på vores medmennesker.
+
+(Kort bemærkning).";Poul Nødgaard
+101908;name_party;":
+Jeg synes, vi er ved et afgørende punkt i forhold
+til de forskellige politiske partiers opfattelse af
+demokrati. Fru Else Winther Andersen siger, at
+Venstres opfattelse af demokrati er, at vi har
+valgt nogle byråd, og lad så byrådene selv
+bestemme.
+Det er et synspunkt, der burde give anledning
+til en overskrift på et partiprogram, der hed:
+Systemet frem for mennesket. Det er jo det, man
+siger, nemlig at systemet forstået som det valgte
+byråd altid har ret. Over for det står der et principielt andet synspunkt. Det hedder: Mennesket
+frem for systemet. Og det betyder, at mennesket
+skal sikres en retsstilling, der er bedre, end den
+er i dag.
+Jeg vil derfor godt spørge fru Else Winther";Villy Søvndal
+102610;title_name;"Vil Venstre - i medfør af partiprogrammet, for ellers er det jo meningsløst at skrive sådan et langt værk - være med til, at mennesker faktisk udstyres med større myndighed,
+sikres en retsstilling, de ikke har i dag, over for
+den kommune, der behandler de ældre på en
+måde, der ikke er acceptabel ud fra synspunktet
+om den enkeltes ret og ikke systemets ret, og at
+det menneske får en ret og en myndighed, det
+ikke har i dag? Ellers vil jeg bede Venstre om at
+bytte om på ordene i partiprogrammet, så man
+skriver det, som man mener: Systemet frem for
+mennesket!
+(Kort bemærkning).";Andersen
+103208;name_party;":
+Jeg vil holde mig til fru Else Winther Andersen,
+hvis indlæg vi nu diskuterer. Hr. Nødgaard må
+vente til en senere lejlighed: den kommer jo
+inden så længe her i eftermiddag.
+Det undrer mig, at Venstres ordfører siger,
+det ikke skal være obligatorisk, for vi skal ikke
+blande os. Det undrer mig nemlig ud fra den
+betragtning, at det jo ikke er første gang, vi her i
+dette Ting diskuterer ældreråd, hvor det vel nok
+tidligere har været en udbredt opfattelse: Lad
+dem nu selv prøve.
+Men jeg gjorde netop i mit første indlæg rede
+for, at den funktion ikke lever op til, hvad vi
+havde forventet. Der er stadig væk omkring 80
+kommuner, der ikke har ældreråd, og så føler vi,
+at vi må gøre noget.
+Så vil jeg sige omkring 60-års-grænsen: Man
+kan altid diskutere aldersgrænser. Hvorfor er
+valgsretsalderen i Danmark f.eks. 18 år? Der
+kunne siges meget om det, og det er der selvføl-
+
+Tirsdag den 31. oktober 1995 (L 37)
+gelig også blevet gjort. Men vi føler faktisk, at
+ved 60-års-alderen er der mange, der forlader
+arbejdsmarkedet, f.eks. fordi de skal på efterløn
+osv. og vel på det tidspunkt af deres liv har en
+stor interesse i, hvad der foregår efterfølgende.
+Så vil jeg godt bede fru Else Winther Andersen om ikke at blande ældreråd og klageråd
+sammen, for de to ting har overhovedet intet
+med hinanden at gøre. Sådan hørte jeg det ligefrem. Klageråd det er jo relateret til brugerne, og
+dér kan man sige, at det er hjemmehjælpsbrugerne, der har en interesse, hvorimod ældrerådet er alt, hvad der vedrører den ældre del af
+befolkningen. Det er også kulturtilbud, det er
+trafiktilbud, det er stort set alt! Og et ældreråd kan man sige - er et organ, hvor man kan drøfte
+ældrepolitiske tiltag ud fra en meget, meget vid
+horisont, hvorimod klagerådets opgaver er centreret om at behandle klager på hjemmehjælpsområdet. Jeg mener, det er indlysende, at der
+må være forskel på, hvordan de to organer skal
+arbejde.
+Så jeg er lidt ked af, hvis der har været en
+misforståelse dér, og jeg er i særdeleshed ked af,
+hvis Venstre ikke vil være med til at tage det
+sidste skridt, når vi alligevel laver en lov, der
+har så vide rammer omkring det kommunale
+selvstyre. Dér synes jeg Venstre burde have
+været med.
+(Kort bemærkning).";Jørn Pedersen
+105440;name_party;":
+Det er præcis omkring aldersgrænserne, for nu
+blev der stoppet for korte bemærkninger til hr.
+Jørn Pedersens indlæg, men også her under fru
+Else Winther Andersens indlæg kommer aldersgrænserne frem. Så spørgsmålet er, om det er
+rimeligt, at man sætter en aldersgrænse, der
+hedder 60 år i ældrerådet vel vidende, at det er
+ældrerådet, som skal udpege dem, der skal sidde i klagerådet, vel vidende, at der er personer
+her i landet, der er under 60 år, som modtager
+hjemmehjælp. Hvilken repræsentation har de
+personer i den her forbindelse?
+(Kort bemærkning).";Tom Behnke
+106024;name_party;":
+Jeg vil allerførst gerne svare den socialdemokratiske ordfører, der spørger, om jeg har misforstået noget med ældrerådet og klagerådet. Nej,
+det har jeg overhovedet ikke: det blev yderligere
+understreget af den måde, det blev fremlagt på
+med ældreråd, at det er sådan et socialpolitisk
+ældretiltag, hvor man kan diskutere noget over
+
+519
+
+en kop kaffe. Jamen hvorfor skal vi lovgive om
+det herinde? Lad da kommunerne selv gå ind og
+bestemme, hvordan de vil have deres ældreråd
+eller brugerråd, eller hvad det er, de kalder det.
+Jeg har fuldstændig forstået, hvordan klagerådet skal sammensættes, men bestemt også,
+hvordan man havde tænkt sig, det skulle bruges. Jeg tror nemlig slet ikke - liu, hvor vi får de
+visitationsskemaer, hvor vi får nogle ordentlige
+skriftlige aftaler, og hvor vi får talt tingene
+ordentligt igennem, inden hjemmehjælpen starter - at man får brug for et klageråd med det
+indhold, der er lagt op til her.
+Derved kommer den til at falde helt i tråd
+med, at Venstre siger, at det er mennesket frem
+for systemet.
+Vi vil nemlig ikke have, at vi skal gå ind og
+systemsætte tingene herindefra. Det vil vi overlade til kommunalpolitikerne, for det er dem,
+der er valgt til at tage sig af disse ting, og der
+har borgeren trods alt en mulighed for at få dem
+udskiftet, når der er gået en 4-års-periode. Så
+det kommunale selvstyre har også et ord at
+skulle have sagt her, og det er samtidig dem, der
+har ansvar for at lave en ansvarlig ældrepolitik.";Else Winther Andersen
+107510;name_party;":
+Jeg skal starte med at sige, at jeg vil undlade at
+underholde Folketinget med mine rejseaktiviteter i forbindelse med lovforslaget, der er en genfremsættelse af L 264, som vi ikke nåede at
+behandle før Folketingets sommerferie.
+Det er som sagt et lovforslag, der har været
+debatteret ganske kraftigt ude i organisationer
+og hos andre med tilknytning til det her område. Fra konservativ side vil vi sige, at lovforslaget, som det ser ud på nuværende tidspunkt,
+indeholder noget, der er godt, og så noget, vi
+overhovedet ikke kan gå ind for, for det er jo et
+forslag, der griber dybt ind i kommunernes
+beslutningskompetence.
+Med hensyn til ældrerådene kan vi sige, at
+der i dag er indført ældreråd i over 200 kommuner, og de fungerer efter hensigten hovedparten
+af stederne. Det bør Folketinget som sagt være
+meget tilfreds med. Spørgsmålet, der rejser sig,
+er, om det er nødvendigt at gå ind og lovgive på
+det her område og fastsætte nogle centrale regler for ældrerådene, for det kan betyde, at vi
+fastsætter nogle regler for nogle ældreråd, der i
+dag fungerer udmærket med et helt lokalt regelsæt, og som man ude i den enkelte kommune er
+meget tilfreds med, så derfor skal vi vare os for
+lovgivning med for fastsatte regler. Det er et
+
+520
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+område, som udvikler sig både kraftigt og positivt i disse år.
+Jeg har også noteret mig, at Kommunernes
+Landsforening i et høringssvar har skrevet, at de
+havde foretrukket, at der ikke samtidig indføres
+en forpligtelse for kommunerne til at indføre
+ældreråd i forbindelse med hele loven.
+Det, der kan bekymre en lille smule ved
+aldersgrænsen på de 60 år, er, at vi jo vitterlig
+ved, at der er mange mennesker, der i en årrække har udført et godt og konstruktivt stykke
+arbejde i ældrerådene, og som i dag ikke er 60
+år. Hvad vil man gøre ved dem?
+Fra konservativ side ser vi frem til forhandlinger på dette område. Vi er meget enige i, at de
+ældre skal have størst mulig indflydelse på egne
+forhold. Derfor er det også glædeligt, at mange
+ældre allerede har kastet sig ud i de her ældreråd.
+Et andet punkt i lovforslaget, som vi er imod
+fra konservativ side, er nedsættelsen af et
+offentligt finansieret centralt organ, som efter
+det foreliggende kan bidrage til - som der står i
+bemærkningerne til lovforslaget - at øge forståelsen for betydningen af at se ældrepolitikken i
+en større sammenhæng med brugerens øjne.
+Hvad er det, man ønsker? Er det at oprette et
+Ældre Sagen 2 for offentlige midler? Jeg er nødt
+til at spørge ministeren, om pengene ikke kan
+bruges bedre. Ældre Sagen 1 lever som bekendt
+i bedste velgående med flere hundrede tusinde
+betalende medlemmer og har ansat eksperter.
+Jeg ved ikke, om det er dét, man ønsker at overføre til det offentlige, for så må vi fra konservativ side sige klart fra.
+Når vi kommer til den anden halvdel af lovforslaget, så er vi positive, når vi taler om indførelse af klageråd. Vi har den holdning, at det vil
+blive til gavn for brugerne - altså de ældre og de
+handicappede. Vi er helt tilfredse med den
+model, som ministeren har skitseret for klagerådet. Vi har aldrig troet på et central amtsankenævn - eller hvad man kunne finde på - når der
+er tale om skønsmæssige ydelser.
+Vi har den opfattelse i den konservative
+gruppe, at de skriftlige samarbejdsaftaler mellem brugere og kommune vil betyde, at vi kan
+minimere klagerne over hjemmehjælpen. Vi
+trænger til at få tydeliggjort, hvad man egentlig
+har krav på. Er dét tydeliggjort for begge parter,
+så ved man i et langt større omfang end i dag,
+hvad man egentlig skal rette sig efter.
+I forbindelse med klageråd bliver jeg nødt til
+at sige, at det ligger os på sinde, at de handicappede også får mulighed for indflydelse i disse.
+
+Alt i alt et omfattende forslag, hvor der er
+positive sider, men der trænger til at blive luget
+noget ud i forslaget.";Bendt Bendtsen
+111363;name_party;":
+Retsstillingsmæssigt er de ældre dårligt stillede i
+dag, hvis de ikke får en rimelig behandling i forbindelse med hjemmehjælpen eller offentlige
+serviceydelser. Regeringens forslag går ud på at
+oprette ældreråd og klageråd, at oprette skriftlighed i sagerne og at anvende et skema, der
+indeholder de punkter, der er aftalt mellem
+kommune og hjemmehjælpsmodtager.
+Det afgørende for os er, at de nye klageråd
+ikke får nogen juridisk kompetence til at omgøre
+beslutninger, og at de ikke kan behandle enkeltsager. Dermed får vi efter SF's opfattelse ikke
+noget af det, som vi havde ønsket.
+SF foreslog som bekendt i sidste folketingssamling at sikre de ældres retsstilling ved at sikre de ældre en ankemulighed. Det vil sige en
+juridisk sikkerhed for, at afgørelser kunne
+omgøres, og at enkeltsager kunne behandles.
+Jeg skal kort prøve at skitsere forskellen på de
+to modeller. Hvis X-købing vil skære et millionbeløb af de ældres hjemmehjælp, så er der overhovedet ingen retssikkerhed for de ældre i det,
+som regeringen nu foreslår. Det kan en kommune stadig væk slippe af sted med.
+Der er derimod en retssikkerhed i SF-modellen. Den går nemlig ud på, at de aftaler, der er
+indgået, skal overholdes. Det er der intet i regeringens forslag der tvinger et organ udefra, som
+har kompetence, til at gøre. Det er det alvorlige.
+Og det er derfor, man med det her forslag rejser
+nogle forventninger, som man ikke har nogen
+som helst midler til efterfølgende at indfri.
+Jeg kan også tage et andet eksempel, nemlig
+hvis den ældre i en enkeltsag får en dårlig
+behandling. Jeg er ked af at trætte Folketinget
+med mine rejseaktiviteter, men virkeligheden er
+nu indimellem inspirerende også i det her hus.
+Jeg mødte i en sjællandsk kommune en scleroseramt, der sad i kørestol. Vedkommendes samlever blev pensionist, og kommunen kvitterede
+med at tage hjemmehjælpen til rengøring væk,
+for nu havde ægtefællen jo fået mere tid.
+En sådan trafik ville ikke overleve i et system,
+hvor der var en retssikkerhed for den ældre. Der
+ville et udefra kommende organ med garanti
+sige: Det er ikke en rimelig afgørelse: det er ikke
+en afgørelse, vi kan leve med. Og det er den
+retsstilling for den ældre, vi godt vil, og det er
+den retsstilling, de ældre ikke får med regeringens forslag.
+
+Tirsdag den 31. oktober 1995 (L 37)
+Jeg synes meget tyder på, at regeringens lovforslag er skrevet i helt tæt kontakt til Kommunernes Landsforening, der i øvrigt af grunde, jeg
+ikke forstår, i den her runde har valgt altid at
+støtte den kommune, der har den dårligste service. Man kunne jo fra Kommunernes Landsforenings side i stedet for have valgt at pege på
+det gode eksempel.
+Regeringen har valgt ikke at lytte til SF. Jeg
+skal sige, at det er der vist også tidligere historiske eksempler på. Men det, jeg synes er mere
+alvorligt, er, at regeringen har valgt at se væk
+fra de massive tilkendegivelser fra pensionisternes egne organisationer, fra ældreorganisationer, fra DSI, der siger: Vi ønsker et juridisk
+system med omgørelseskompetence. Det er
+bemærkelsesværdigt.
+På de møder, jeg har deltaget i, blev det her
+forslag en række steder betegnet som en narresut. Jeg er for så vidt enig, for jeg tror, skuffelsen
+bliver stor, når man finder ud af, hvor lille
+betydning det her lovforslag vil få for de ældres
+retsstilling. Det bliver et samtaleforum.
+Med hensyn til klageråd finder jeg, at der er
+flere problemer i det. Jeg synes, det er underligt
+at sætte byrådsmedlemmer ind, som først er
+med til at vedtage en bestemt standard på et
+område og bagefter skal behandle de klager, der
+kommer over den standard, de selv har været
+med til at fastsætte. Det er en underlig dobbeltrolle at tildele mennesker. Endelig behøver man
+- hvis det skal være - ikke lovgivning for at
+oprette klageråd. Det kan man allerede i dag.
+Der er jo ikke noget juridisk, der flytter noget i
+det her lovforslag.
+Med hensyn til ældrerådene vil jeg sige, at jeg
+vil advare imod det kunstige skel, man laver
+mellem ældre over 60 år og andre pensionister. I
+en række kommuner har man i dag ældre- og
+handicapråd, og man er med det her med til at
+lave et kunstigt skel, hvilket er blevet kritiseret
+meget.
+Jeg skal konkludere med at sige, at det her
+lovforslag efter min opfattelse er et eksempel på,
+hvad der sker, når man forsøger at tilgodese
+uforenelige interesse, nemlig et både/hverken/
+eller/og.
+Man kunne have valgt at tilgodese en anden
+interesse, nemlig de ældres - den har SF fremført - men det har man ikke gjort. Så hvis der
+ikke ændres betydeligt i mange af detaljerne, vil
+SF ikke støtte lovforslaget.
+
+521
+
+(Kort bemærkning).";Villy Søvndal
+115962;name_party;":
+Jeg noterer mig med stor interesse, at hr. Villy
+Søvndal ved andre festlige lejligheder jo altid er
+en af de fremmeste, når man taler om de små
+samfunds store rettigheder. Her hører vi én lang
+beklagelse over, at kommunerne har noget at
+sige!
+Jeg vil godt i forhold til forslaget sige, at det,
+hr. Villy Søvndal siger mange ønsker, nemlig at
+etablere et kombineret ældre- og handicapråd,
+er der ved nærlæsning af lovforslaget mulighed
+for, idet der jo står, at det kan kommunerne
+gøre, hvis de synes.
+Jeg synes faktisk, det er lidt kedeligt at høre
+en person, der - som hr. Søvndal - har været
+engageret i det kommunale system: have så lille
+en tillid til, at folkene i det kommunale system
+varetager de opgaver, de er sat til at varetage.
+Man har næsten en fornemmelse af, at hr. Villy
+Søvndal ønsker en slags politisk politi, der
+sådan kan gå rundt og løfte dyner og kigge ind
+ad vinduer osv. samt tjekke, om nu også kommunerne og det valgte byråd lever op til det,
+borgerne har valgt dem til. Det undrer mig faktisk.
+Jeg forstår godt mange af hr. Villy Søvndals
+argumenter om retssikkerheden. Men jeg vil
+godt advare imod, at man, når man står i en
+situation, hvor der er fundet et kompromis
+imellem det, hr. Søvndal kaldte modsatrettede
+opfattelser - hvor det efter hr. Søvndals udsagn
+skulle være umuligt at finde en fornuftig løsning - så som udgangspunkt vælger at sige ligesom hr. Søvndal: Det vil vi for øvrigt være imod.
+Jeg efterlyser stadig væk nogle positive tilkendegivelser fra hr. Søvndal til det her forslag,
+for ellers har vi ikke været de samme steder i
+landet.
+(Kort bemærkning).";Jørn Pedersen
+117583;name_party;":
+Når vi hører SF's ordfører på området, så kan
+man få de tanker, at de ønsker at centralisere
+endnu mere. Det fremgår jo også af mange af de
+forslag, som SF fremkommer med i denne samling. Jeg vil nok sige, at hr. Søvndal måske nok
+lige så godt kunne sige rent ud, at det er manglende tillid og tro på det kommunale selvstyre.
+Hr. Poul Nødgaard sagde også, at vi skal tro
+på vores medmennesker. Det er folk, der står til
+regnskab for deres handlinger hvert 4. år ude i
+
+522
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+kommunerne. Jeg kender ikke den politiker, der
+ikke ønsker at behandle sine medmennesker
+ordentligt.
+Men at tro på, at man kan lave et amtsligt
+eller centralt organ, der skal have mulighed for
+at ændre de afgørelser, der er truffet, tror vi ikke
+på, for det er skønsmæssige ydelser, vi taler om.
+Vi tror på, at det, der er indeholdt i lovforslaget
+om den skriftlige del af skemaerne, gør, at vi
+kommer til undgå de klager, som vi ser i dag.
+Alt i alt må jeg sige, at jeg synes, det er foragt
+over for de lokalt valgte mennesker, som varetager opgaverne ude i kommunerne.
+(Kort bemærkning).";Bendt Bendtsen
+118702;name_party;":
+Hr. Jørn Pedersen er inde på noget helt centralt i
+det her forslag. Hr. Jørn Pedersen siger, at der jo
+netop lægges op til, at der er en mulighed for, at
+man kan inddrage de handicappede og dem
+under 60 år, som modtager hjemmehjælp. Der
+ligger en mulighed, for der står nemlig, at kommtmalbestyrelsen efter at have talt med ældrerådet kan beslutte. Det betyder, at det er kommtmalbestyrelsen og ældrerådet, der bestemmer, om de handicappede skal være med, og
+dermed kan de handicappede være med af
+nåde. Hvis man vil lovgive på det her område,
+hvorfor så ikke inddrage de personer, som er
+relevante, og lade dem være med fra starten af?
+Enten lovgiver vi, eller også lovgiver vi ikke.
+(Kort bemærkning).";Tom Behnke
+119426;name_party;":
+Først til hr. Bendt Bendtsen der opfatter det at
+give mennesker større myndighed som centralisme. Jeg tror - sagt til De Konservatives ordfører - at vi på et tidspunkt har brug for en længere debat her i Folketinget om positioner og
+borgerlige grundrettigheder. Jeg opfatter det
+som gedigent vrøvl, at det skulle være udtryk
+for centralisme at give det enkelte menneske
+større myndighed ude omkring. Det er ret beset
+udtryk for det yderste led af decentralisering,
+som man overhovedet kan komme til.
+Min opfattelse af, hvor vi skal passe på i forhold til det kommunale selvstyre, er den samme, som den altid har været. Og det er så et svar
+til hr. Jørn Pedersen, som antydede min despekt
+for det kommunale selvstyre, hvilket jeg ikke
+har, for jeg har altid ment - også på det tidspunkt, hvor jeg sad i kommunale organisationer
+- at der var behov for retssikkerhedsmæssigt at
+styrke svage grupper, hvad enten det var svage
+
+ældre, eller det var sindslidende, eller det var
+psykisk udviklingshæmmede. Jeg har ikke konverteret standpunkt, fordi jeg har skiftet forum.
+Det har jeg altid ment.
+Jeg synes, at det må bekymre også de herrer,
+der har været fortalere for det ubegrænsede
+gode ved det kommunale selvstyre, at møde
+nogle af dagligdagens eksempler. Jeg kan f.eks.
+huske, at socialministeren på det sidste SOSAmøde, vi havde i Aalborg, kvitterede med, at
+hun havde en smertegrænse i forhold til kommuner, der ikke gjorde noget i forhold til sindslidende. Det synes jeg var lidt flot at høre, men
+går det kommunale selvstyre virkelig derud,
+hvor en kommune kan fravælge en opgave? Og
+så vil man kunne høre ordførerne fra De Konservative og Socialdemokratiet holde en flot tale
+om det kommunale selvstyre! Hvem tror man,
+det gør indtryk på?
+Jeg vil også bede hr. Bendt Bendtsen om at
+lade være med at fordreje standpunkterne, når
+vi diskuterer. Vi har ikke foreslået ét centralt
+organ. Vores beslutningsforslag fra sidste år gik
+ud på, at man skulle kunne anke, f.eks. hvis man
+var lovet 4 timer og konsekvent kun fik 2 timer,
+og hvis man var blevet udsat for et åbenlyst
+urimeligt skøn. Det er ikke noget centralt
+system, vi har foreslået.";Villy Søvndal
+121598;name_party;":
+På vegne af vores ordfører på det her område
+har jeg lovet at sige følgende:
+Som det fremgår af lovforslagets bemærkninger, er det her stort set en genfremsættelse af et
+lovforslag fra forrige samling. Lovforslaget skal
+ses som et led i regeringens bestræbelse på at
+tilrettelægge en ældreomsorg, der tager
+udgangspunkt i de ældres behov. For at kunne
+gøre det foreslås det, at der etableres et ældreråd i alle kommuner. Formålet er at udbygge
+kontakten mellem de ældre og kommunalbestyrelsen. I tilknytning til ældrerådene skal der
+nedsættes et centralt organ, der kan virke til at
+øge forståelsen for den førte ældrepolitik.
+Endelig foreslås det også, at der oprettes et
+klageråd på hjemmehjælpsområdet. Rådet skal
+kunne komme med forslag, kritik og henstillinger på hjemmehjælpsområdet, hvilket vil sige, at
+klagerådet skal kunne følge og se kommunen
+over skulderen og i øvrigt bidrage til en forbedring af hjemmehjælpen.
+Jeg tror, at det, der er vigtigt både i forhold til
+ældrerådet og klagerådet, er, at vi får sat en diskussion i gang om, hvad det er for en ældrepoli-
+
+Tirsdag den 31. oktober 1995 (L 37)
+tik, vi ønsker her i landet som sådan, og hvad vi
+ønsker ude i de enkelte kommuner.
+Nu har der været en del diskussion om forholdet mellem det enkelte menneske og systemet. Som jeg ser det, så er det, vi gør her, at vi
+indskyder et socialt led mellem det enkelte
+menneske og systemet. Dermed sikrer vi det
+enkelte menneske større myndighed, og samtidig udviser vi tillid til systemet.
+I Det Radikale Venstre er vi glade for, at der
+er et flertal af brugere i klagerådet. Vi tror også,
+det er en god idé, at der er kommunalbestyrelsesmedlemmer med i rådet, for dermed sikrer
+vi, at der er en ordentlig samtale mellem klagerådet og kommunalbestyrelsen, så kommunalbestyrelsen hele tiden kan tilrettelægge sin politik efter de ønsker, der er i ældrebefolkningen.
+Men det, at der er et flertal af brugere, gør jo, at
+det ikke er sådan, at kommunalbestyrelsen kan
+sætte sig på klagerådet.
+I Det Radikale Venstre er vi glade for, at det
+med lovforslaget fastslås, at afgørelser om
+hjemmehjælp skal meddeles skriftligt, for der er
+ofte nogle misforståelser, fordi system og menneske går fejl af hinanden i de mundtlige diskussioner, der ofte udspiller sig, inden en hjemmehjælpsordning iværksættes. Vi finder det
+også vigtigt og rigtigt, at brugeren inddrages,
+når grundlaget for sagsbehandlingen skal udarbejdes. Endelig finder vi det vigtigt, at personsammensætningen sker ved direkte valg. Det vil
+sige, at det ikke er organisationsrepræsentanter,
+der skal besætte pladserne.
+Vi synes også, at lovforslaget på en fin måde
+lægger op til mere medindflydelse på ældreomsorgsområdet, og vi tror på, at det i sidste ende
+vil føre til en bedre omsorg.
+På den baggrund kan vi tilslutte os det fremsatte lovforslag.";Elsebeth Gerner Nielsen
+124433;name_party;":
+Vi er i Fremskridtspartiet tilhængere af ældrerådene, men spørgsmålet er, om det er nødvendigt
+at lovgive om det. Vi ved, at ældreråd allerede i
+dag eksisterer i langt de fleste kommuner, og vi
+ved også, at i de kommuner, hvor der i dag ikke
+er ældreråd, er de såmænd ved at være på vej.
+Spørgsmålet er, om det er nødvendigt, at vi
+her i Folketinget ved lov fastsætter, at der skal
+være ældreråd. Det fungerer jo rimeligt og fornuftigt ude i kommunerne med frivillighed. Så
+det er en vinkel, jeg synes vi skal være opmærksomme på, og som vi i hvert fald skal have
+afklaret, inden vi begynder at lovgive på området.
+
+523
+
+Vi er også meget varme tilhængere af, at der
+bliver lavet skriftlige aftaler mellem modtagerne
+af hjemmehjælpen og kommunen - dvs. hvad
+det er, der er aftalt helt konkret - således at man
+efterfølgende kan se, om kontrakten bliver
+opfyldt. Jeg vil sige, at det faktisk er det bedste,
+der ligger i det her forslag, og det er så også det
+pæneste, vi kan sige om det.
+Når vi kommer til klagerådene, så er det efter
+vores opfattelse det rene blændværk. Vi har her
+hørt en diskussion om, hvilken aldersgruppe
+der skal have indflydelse på, hvem der skal
+være med i ældrerådet og dermed også have
+indflydelse på, hvem der skal sidde i klagerådene.
+Til trods for at jeg har forsøgt at få provokeret
+den socialdemokratiske ordfører til at komme
+med nogle svar på nogle af de spørgsmål, jeg
+stillede, så er det ikke lykkedes endnu. Med
+hvilken begrundelse skal de handicappede ikke
+med fra starten af, når vi nu alligevel - som
+regeringen lægger op til 홢skal til at lovgive på
+det her område? Hvorfor skal det være en
+nådessag, om en kommunalbestyrelse kan aftale
+med et ældreråd, at de handicappede skal være
+med? Hvorfor er de ikke med fra starten af?
+I Fremskridtspartiet har vi den holdning - det
+har vi stillet et forslag om, som SF på et tidspunkt adopterede og genfremsatte, og så har
+regeringen jo så forsøgt sig - at det, der er behov
+for, er et uvildigt ankenævn, som er i stand til at
+ændre de kommunale skønsafgørelser om
+hjemmehjælp.
+Det er ikke et spørgsmål om, at vi underkender eller har mistillid til kommunerne, for hvis
+kommunerne gør det godt nok, så vil det jo vise
+sig, at et sådant uvildigt ankenævn vil blive
+arbejdsløst - det ville være skønt - og hvis det
+bliver tilfældet, så kan jeg ikke se, at regeringen
+kan have noget imod, at vi gør det. Men det er
+klart, at hvis det giver problemer med et ankenævn, så kan man have sine bekymringer og
+overvejelser om, hvorvidt vi nu også skal gøre
+det. Det er det, jeg i hvert fald for øjeblikket
+hører at regeringen har sine bekymringer om:
+Går det nu også så godt ude i kommunerne,
+som regeringen egentlig prøver at give udtryk
+af?
+Vi ved jo, at vi sommerferie efter sommerferie
+har den ene historie efter den anden fra alverdens kommuner rundt om i landet, at hjemmehjælpsmodtagerne ikke får den hjælp, som de
+har krav på. Så jeg tror ikke på, at det fungerer
+ude i kommunerne, og jeg tror ikke på, at de
+lever op til deres forpligtigelse på det område.
+
+524
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+Det er derfor nødvendigt med et uvildigt
+ankenævn, så modtagerne i hvert fald har en
+mulighed for at få prøvet, om det, de får, er tilstrækkeligt, og om det er det rigtige. Og det skal
+være et ankenævn, der er i stand til at ændre de
+kommunale skønsafgørelser. Alt andet vil være
+bluff, og det vil være unødigt bureaukrati at
+have et eller andet klageråd siddende, som ikke
+kan foretage sig noget som helst andet end at
+kigge på papirerne og flytte dem fra én bunke til
+en anden bunke og så sende dem retur til klageren.
+Når vi ser på de høringssvar, der allerede er
+kommet, så fremgår det jo også tydeligt, at retstilstanden for hjemmehjælpsmodtagerne overhovedet ikke er blevet ændret, så spørgsmålet
+er: Hvad er det for et forslag, vi står med? Hvad
+er formålet med det?
+De mest positive ting er noget, man kan gøre
+allerede i dag, og dér, hvor det virkelig gælder,
+tør regeringen ikke tage fat om nældens rod. Så
+forslaget om klageråd kan vi ikke støtte i den
+form, som det foreligger i for øjeblikket.
+Vi håber selvfølgelig på - også med de tilkendegivelser, der har været i dag fra de forskellige
+partier - at vi under udvalgsarbejdet kan komme i gang med nogle forhandlinger. Fremskridtspartiet deltager gerne i nogle forhandlinger, hvor vi får styrket den her side, så det bliver
+nogle uvildige ankenævn, der har mulighed for
+at gå ind og ændre de afgørelser, som kommunerne træffer.
+(Kort bemærkning).
+Elsebeth Gemer Nielsen (RV):
+Jeg vil sige til hr. Tom Behnke, at Det Radikale
+Venstre vil være indstillet på at se på, hvordan
+vi kan sikre, at også de handicappede grupper
+kan gøre deres indflydelse gældende i klagerådene. Så det vil vi se på i forbindelse med
+udvalgsarbejdet.
+(Kort bemærkning).";Tom Behnke
+129241;name_party;":
+Jeg vil sige til hr. Tom Behnke, at jeg er så høflig,
+at jeg venter med at svare på spørgsmål fra hr.
+Tom Behnke, til det er hr. Tom Behnkes indlæg,
+det drejer sig om. Det er vi så kommet til nu.
+Jeg vil gerne i forlængelse af hr. Tom Behnkes
+snak om relevante personer sige, at jeg forstår
+på hr. Behnke, at han ikke er tryg ved, at man
+kommunalt kan forhandle sig frem til, hvem der
+er de relevante personer. Men jeg vil gerne sige
+til hr. Behnke, at for mig at se hører en 18-årig
+
+handicappet ikke hjemme i et ældreråd. Det er
+jeg nødt til at understrege.
+Så jeg mener, at hr. Tom Behnke blander to
+ting fuldstændig sammen, nemlig det relevante
+i, hvad skal vi sige, at storforbrugere af hjemmehjælp kan have interesse i et klageråd: jeg
+mener, at det er to forskellige problemstillinger.
+Den udformning af klagerådsmodellen ligger
+ikke i regeringens forslag, men det er jo så noget
+af det, vi måske kunne diskutere under
+udvalgsarbejdet. Hvis vi ikke tror på, at kommunerne er gode nok, hvad gør vi så?
+Om sommerferieproblematikken vil jeg sige,
+at der er for mig at se ingen som helst tvivl om,
+at alle klageråd vil komme til at behandle i stribevis af klager over manglende hjemmehjælp i
+sommerferien, hvis det er tilstanden i kommunen. Det er jeg rimelig overbevist om.
+Jeg synes, at der i mange af de bemærkninger,
+man hører her i dag, er en meget ringe respekt
+for andre menneskers situationsfornemmelse og
+deres evne til at opfylde de opgaver, de er blevet valgt eller udpeget til. Det er ikke tilfældigt,
+at der sidder to repræsentanter fra kommunalbestyrelsen i klagerådet. Det er med velberåd
+hu, nemlig for at sikre, at kommunalbestyrelsen
+ikke er uvidende om, hvilke forhold der er i
+dens kommune.
+Og eftersom de repræsentanter, der yderligere sidder i klagerådet, er nogle, der er valgt og
+er på valg, er det for mig at se helt indlysende, at
+lever de ikke op til forventningerne hos brugerne, så bliver de skiftet ud næste valgdag, ligesom folketingspolitikere bliver.
+(Kort bemærkning).";Jørn Pedersen
+131264;name_party;":
+Jeg skal takke for tilsagnet fra Det Radikale
+Venstre om, at man er villig til at se på, at vi
+allerede fra starten får de handicappede med
+ind i ordningen.
+Hr. Jørn Pedersen sagde, at jeg ikke var helt
+tryg ved, at kommunen skulle træffe afgørelse
+om, hvorvidt de handicappede skulle med eller
+ej. Det er ikke et spørgsmål om, hvad jeg er tryg
+ved, og hvad jeg ikke er tryg ved. Overhovedet
+ikke. Det her er et spørgsmål om at vise lidt
+anstændighed over for de mennesker, som det
+her forslag handler om, nemlig de mennesker,
+der modtager hjælp fra kommunen. Og det var i
+den forbindelse, at jeg sagde, at det ikke mindst
+af hensyn til de handicappede ville være hensigtsmæssigt - når man absolut vil lovgive på
+det her område på den måde, som man vil - at
+de relevante grupper var med fra starten.
+
+Tirsdag den 31. oktober 1995 (L 37)
+Lad mig så om det kommunale selvstyre sige,
+at det er vi i Fremskridtspartiet meget store tilhængere af, men kun så længe kommunerne
+kan styre sig selv. Hvis de ikke kan finde ud af
+det, så må vi hjælpe dem på den ene eller den
+anden måde: men kommunalt selvstyre som
+udgangspunkt er vi da tilhængere af, og det ved
+hr. Jørn Pedersen også godt.";Tom Behnke
+132465;name_party;":
+Hvis man alene forholder sig til overskriften på
+dette lovforslag, så ser den formelt rimelig ud,
+og den kunne godt svare til, hvad Enhedslisten
+ved flere lejligheder har forsøgt at gøre
+opmærksom på, nemlig et forslag, der indebærer, at de ældre får bedre indflydelse på deres
+dagligdag og på f.eks. de hjemmehjælpsressourcer, som kommunen tildeler.
+Men lovforslaget er desværre ikke det svar,
+som vi fra Enhedslistens side havde ønsket os.
+Det er muligt, at vi i forbindelse med udvalgsbehandlingen vil være i stand til at forbedre
+indholdet, så loven i højere grad modsvarer de
+ønsker og krav, som vi og de ældre har stillet på
+det her område.
+Det ser jo ikke godt ud, hvis loven blot bliver
+en afledningsmanøvre i forhold til nogle berettigede ønsker fra de ældre. Det vil helt sikkert
+vende sig som en boomerang imod Folketinget.
+Jeg vil prøve at tage nogle af de enkelte punkter
+under behandling.
+Det første spørgsmål handler om visitationen
+og mulighederne for at få nogle egentlige skriftlige nedfældninger af, hvad den ældre har ret til.
+Det er helt klart et stort fremskridt, og det er
+også positivt, at man stiller krav om skriftlig
+meddelelse, visitationsskema og minimumsregler som grundlag for hjælpen.
+Det er vigtigt at fremhæve det, der står i
+bemærkningerne om, at den enkelte modtager
+skal medinddrages i beslutningsprocessen, og vi
+synes også, at det er et gode, at man tillader
+muligheden for bisidder i forbindelse med visitering.
+Men det er nødvendigt med en overvejelse af
+de manglende godkendelser. Hvis en modtager
+af hjælp ikke vil skrive under, må det føre til, at
+sagen automatisk forelægges en anden instans,
+f.eks. et ankenævn. Det er også vigtigt at holde
+øje med kommunerne, så det ikke bliver almindelig praksis, at kommunerne lever med, at en
+betragtelig del af de ældre og hjemmehjælpsmodtagerne ikke skriver under, simpelt hen fordi de får et for dårligt tilbud.
+
+525
+
+Der er også en ændring omkring forholdet for
+samlevende. Man forsøger på at fremstille det,
+som om man nu laver en ligestilling mellem
+folk, der lever i ægteskab, og samlevende. Vi er
+ueriige i, at samlevendes indtægter skal have
+indflydelse på opgørelsen af indkomstgrundlaget. Det er vi dels ud fra, at der ikke er nogen
+gensidig forsørgelsespligt for samlevende, dels
+fordi vi mener, at hvert enkelt individ skal
+betragtes selvstændigt uden hensyn til ægteskabelig eller anden status. Den foreslåede bestemmelse medfører ulighed dels økonomisk, dels i
+forhold til at afgrænse, hvem der er samlevende,
+og hvem der ikke er det. Det kan skabe formynderiske dyneløfterier og snagen.
+Om ældrerådene: Høringsretten skal præciseres yderligere, for at det ikke blot bliver en indholdsløs, formel procedure. Dette kan ske ved,
+at man tager udgangspunkt i Ældre Sagens forslag: at alle forslag forelægges ældrerådet i god
+tid, før de kommer til behandling i kommunalbestyrelsen. Ældrerådets indstilling skal være
+en del af de sagsakter, der forelægges for kommunalbestyrelsen, og endelig skal ældrerådet
+tildeles egentlig forhandlingsret samt ret til at
+tage sager op af egen drift.
+I den forbindelse vil jeg også nævne diskussionen om stemmeret. Her er jeg helt i overensstemmelse med hr. Tom Behnke, og jeg mener,
+at det må kunne inddrages i lovgivningen, hvis
+der også fra regeringens side er en åbning i forhold til dette spørgsmål. Det er muligt, at man
+så kan sige, at navnet ældreråd i denne forbindelse kan være lidt misvisende, men det må
+trods alt være sådan, at de folk, der har noget at
+gøre med de ting, som ligger inden for ældrerådets sagsområder, også har stemmeret dertil.
+Med hensyn til klagerådene: Først og fremmest skal klagerådet have beføjelse som en
+egentlig ankeinstans i stedet for som foreslået
+blot at indstille til kommunalbestyrelsen om at
+omgøre sin egen forvaltnings beslutning. Forvaltningen er jo ansat til at føre kommunalbestyrelsens beslutninger ud i livet. Det er en alt
+for svag konstruktion. Det kommer til at ligne
+en gentagelse af klagemulighederne i forhold til
+politiet, hvor dem, man klager over, selv
+behandler klagen. Der kommer ikke nogen reel
+neutral kontrol med den enkelte kommunalbestyrelse og dens forvaltning ud af det forslag.
+Klagerådene skal netop være uafhængige og
+skal have kompetence til at behandle konkrete
+sager om hjemmehjælp, og det pågældende råd
+skal inden for visse rammer have lovhjemmel til
+
+526
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+at omgøre disse sager med bindende virkning.
+Om det muligvis kunne formuleres som en central amtsinstans er noget, jeg synes man skulle
+overveje, men det er vigtigt, at den ankemtùighed, der ligger i forhold til hjemmehjælpen, bliver reel og ikke blot bliver en narresut.
+Der er også nogle andre problemer omkring
+det formelle uddannelseskrav for hjemmehjælpere. Man kan selvfølgelig godt overveje, om
+man for visse gruppers vedkommende kan
+sænke uddannelseskravet, f.eks. for folk, som
+har langvarige erfaringer inden for området
+eller fra deres eget liv, og som derfor kun behøver en mindre grad af kurser eller uddannelse,
+men en generel afskaffelse af uddannelseskravet
+ser vi som en åbning i forhold til de aktiverede
+bistandsklienter, som nu uden uddannelse skal
+presses ud i denne type arbejde, og det betyder,
+at de ældre ikke kan være sikre på, hvad de får.
+Til sidst i forhold til ophævelsen af § 80: Vi
+synes, at der åbnes en dør for, at ISS kan komme
+ind og overtage kommunale omsorgsopgaver i
+forhold til ældre, men det kan være, ministeren
+vil forklare Enhedslisten, hvad det betyder.";Bruno Jerup
+138004;title_name;":
+Nu kunne man måske ved en overfladisk
+betragtning forfalde til at høre en masse problemer, en masse uenighed i den debat, der har
+været om dette lovforslag. Men jeg vil egentlig
+vælge at høre debatten anderledes, for jeg
+mener, at det, man også kan høre, er et utrolig
+stort engagement i det spørgsmål, vi snakker
+om her - nemlig bedre indflydelse for de ældre
+medborgere og en større retssikkerhed.
+Det, jeg hører af den debat, vi har haft her, er
+også en vilje til at diskutere en lang række
+spørgsmål, om hvilke man med en vis ret kan
+diskutere, om det nu skal være på den ene eller
+den anden måde. Så jeg synes, det er vigtigt, at
+vi ikke her under første behandling begynder at
+grave nogle grøfter dybere, der ikke behøver at
+være dybere, men at vi ser frem til en udvalgsbehandling, hvor jeg faktisk tror, vi kan få slået
+bro over noget af den uenighed, der har været i
+dag.
+Det er min generelle oplevelse, at vi i dag står
+i en situation, hvor ikke bare de ældre, men hvor
+borgere i det hele taget stiller krav om, at de folkevalgte politikere lytter til dem og bruger deres
+erfaringer, og at de bliver medinddraget i
+beslutningerne på et så tidligt tidspunkt som
+muligt. Det er også min erfaring, at når det sker,
+får man i virkeligheden nogle meget ansvarlige
+
+beslutninger, der bygger på en helhedsopfattelse i et lokalsamfund, eller hvad område det nu
+drejer sig om, hvor vi jo har den situation - og
+det kan også være en slags bieffekt af det lokale
+selvstyre - at vi har et samfund, hvor særinteresserne blomstrer, og hvor det tit kan være
+svært at sætte sin egen situation ind i en større
+sammenhæng.
+Men jeg oplever, at dér, hvor man har velfungerende ældreråd og lytter til de ældre og til
+andre borgergrupper, får man tit nogle meget
+holdbare og ansvarlige beslutninger, fordi de
+bygger på en helhedsbetragtning og på, at man
+kan se, at de behov, man som borger ikke får
+opfyldt i dag, kan man få opfyldt på lidt længere sigt. Man får simpelt hen en tidsplan, en sammenhæng, der gør, at man kan acceptere, at det
+hele ikke kan løses fra den ene dag til den
+anden, og det tror jeg er noget, der er utrolig
+sundt og nyttigt for beslutningsprocesserne og
+for, at vi får truffet nogle ordentlige beslutninger.
+Der har været meget bred tilslutning til den
+del af lovforslaget, der handler om en skriftlig
+aftale, og det er der også almindelig tilfredshed
+med de steder, hvor en sådan skriftlig aftale
+allerede er indført. Om der er nogle hjørner, der
+skal finpudses, må vi se på under udvalgsarbejdet.
+Når det drejer sig om klagerådene, er det jo
+som bekendt en sag, vi har diskuteret meget
+længe i Socialudvalget. På et tidsptmkt foreslog
+jeg, at man kunne bruge den eksisterende ankeadgang, dvs. at der faktisk var en mulighed for
+en regulær anke et sted, hvor man kunne henvende sig med sin klage og på den måde også til
+et organ, der var i stand til, havde kompetence
+til at omstøde beslutningen. Men sådan som jeg
+oplevede reaktionerne dengang, blev det massivt afvist både af Folketingets partier, af de
+ældre og af kommunerne: en af begrundelserne
+var, at det var en instans, der lå for langt væk fra
+dem, beslutningen og klagen vedrørte.
+Man kunne så lave et lokalt organ og give det
+en kompetence, men det vil jo være en overordentlig vidtgående beslutning at begynde at
+lave et helt syttende organ i det i forvejen lidt
+uoverskuelige system, vi har, og så tillægge det
+en kompetence. Jeg synes, dette her er et
+ualmindelig godt eksempel på de små skridts
+forslag: Vi har her en form for organ, et klageråd, der har været afprøvet i andre kommuner
+med et vist held, og vi har her en mulighed for
+at se, hvordan det fungerer.
+
+Tirsdag den 31. oktober 1995 (L 37)
+Så vidt jeg ved fra de erfaringer, man allerede
+har, er det også sådan, at for det første sker der
+det, at der ikke kommer særlig mange klager,
+fordi man bliver meget bedre til at løse de problemer, der vil kunne udløse en klage, men på et
+tidligt tidspunkt, så man faktisk ikke har så
+meget at klage over. Desuden sker der også det,
+at med de klager, der får medhold i klagerådet,
+sker der faktisk også noget, og jeg gad også nok
+se den kommunalbestyrelse, der vil sidde en
+henvendelse fra et flertal i et klageråd overhørig
+og bare smide den i papirkurven og sige, at det
+retter vi os ikke efter. Jeg oplever faktisk, at
+langt, langt de fleste kommunalbestyrelser er
+overordentlig lydhøre over for borgerne i deres
+lokalområder.
+Når det drejer sig om det andet spørgsmål,
+når vi diskuterer klageråd, - de handicappedes
+repræsentation i klagerådet - så er det et
+spørgsmål, der kan diskuteres, og der kan være
+forskellige betragtninger inde i billedet. Når
+klagerådene er kombineret med ældrerådene, er
+det også, fordi vi på den måde får en systematisk måde at besætte pladserne i klageråd på.
+Men jeg synes, det er en dårlig idé, at vi siger, at
+der skal være både ældreråd og handicapråd i
+alle kommuner. Det er dér, vi siger, at lokale
+forhold må afgøre, om det skal være ældre- og
+handicapråd eller kun ældreråd, for mange
+ældre føler sig faktisk majoriseret, domineret af
+meget aktive, yngre handicappede. Jeg synes
+egentlig også, at for yngre handicappede er det
+ikke nogen ønskværdig sammenblariding af
+ældre og yngre handicappede. Men derfor kunne man jo godt sige, at de kunne være repræsenteret i klagerådet, men dels er det faktisk en
+ganske lille del af de yngre pensionister, der får
+hjemmehjælp - der er jo en meget stor andel
+yngre pensionister, og af dem er der altså kun
+en lille del, der får hjemmehjælp - dels kan man
+jo sige, at der også er mange handicappede over
+60 år, sådan at man kunne vælge at tilsigte at
+lade de handicappede, der kommer til at sidde i
+klagerådet, være blandt dem over 60. Men det er
+nogle overvejelser, vi har gjort os, og jeg synes bestemt, det er noget, der skal diskuteres, om vi
+kan finde en mere hensigtsmæssig model under
+udvalgsarbejdet.
+Så til det sidste spørgsmål: Hvorfor skal der
+lovgives om ældreråd? Her har det især været
+Venstres og De Konservatives ordførere, der har
+været skeptiske. Den ene grund er, som jeg har
+sagt, at det er en måde at sørge for, at pladserne
+i klagerådet bliver besat på samme vis i alle
+
+527
+
+kommuner. En anden grund er, at vi så får de
+sidste kommuner med.
+Jeg kan sige til hr. Tom Behnke, at jeg faktisk
+kender nogle kommuner, der er ret halsstarrige,
+når det gælder om at oprette ældreråd, og hvor
+jeg næsten vil sige, at det får vi altså aldrig i de
+kommuner, hvis ikke der bliver lovgivet om det
+på trods af et stort ønske hos de ældre og på
+trods af egentlig utrolig gode erfaringer fra
+kommuner, hvor man har ældreråd. Jeg synes,
+det er en skam, når vi ellers har sådan et godt
+system, der er ved at være landsdækkende, at
+der så skal være nogle huller rundt omkring, vi
+ikke får fyldt ud. Og, som jeg også allerede har
+sagt, så mener jeg faktisk, det er en god grund,
+fordi vi vil få et net, der giver nogle tilbagemeldinger om, hvad de ældres holdninger til ældrepolitik er.
+Jeg har faktisk mange eksempler på kommuner, hvor ældrepolitikken er blevet klart forbedret, fordi man har givet de ældre indflydelse og
+har lyttet til og brugt deres ideer. Den model
+synes jeg egentlig fortjener at blive udbredt til
+hele landet, også fordi jeg tror, det bliver en
+mere ansvarlig og mere velfungerende ældrepolitik, der så bliver ført i kommunerne.
+Jeg vil holde mig til det og ikke gå mere i
+detaljer, men sige, at jeg ser frem til et udvalgsarbejde, som jeg tror vi kan få stor glæde af.
+(Kort bemærkning).";Karen Jespersen
+145504;name_party;":
+Jeg vil gerne takke ministeren for tilsagn om at
+ville slå bro: man kan så altid spørge: Bro til
+hvad? Derfor er der i hvert fald ét spørgsmål,
+som jeg er nødt til at stille igen. Det er i forhold
+til de reelle ankemuligheder. Er ministeren fuldstændig lukket af i forhold til den tanke, at man
+sikrer en reel ankeinstans på hjemmehjælpsområdet og ikke kun laver en høringsinstans, som
+jeg vil kalde det? Det er den ene ting.
+Den anden ting er endnu en gang: Hvad er
+substansen i ophævelsen af § 80, som betyder, at
+kommunerne ikke længere kan stille krav om, at
+de ting, som ikke varetages af kommunen, varetages af selvejende institutioner? Betyder det, at
+man åbner op for, at f.eks. ISS kunne overtage
+dele af dette område?
+Hermed sluttede forhandlingen.
+
+528
+
+Tirsdag den 31. oktober 1995 (L 37)
+
+Afstemning
+
+Hermed sluttede forhandlingen.
+
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+
+Afstemning";Bruno Jerup
+146469;title_name;":
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Forslagets tekst vedtoges uden afstemning.
+Forslagets overgang til anden (sidste) behandling vedtoges uden afstemning.
+
+Meddelelser fra formanden
+
+Den sidste sag på dagsordenen var:
+4) Første behandling af beslutningsforslag nr.
+B 22:
+Forslag til folketingsbeslutning om Folketingets Ombudsmands beretning for året 1994.
+Af Retsudvalget.
+(Fremsat 12/10 95).
+Forslaget sattes til forhandling.
+Forhandling";Henning Grove
+147054;name_party;":
+Ombudsmandens beretning bliver hvert år taget
+til efterretning af et flertal i Folketinget minus
+Fremskridtspartiet. Ligeledes er det kun Fremskridtspartiet, der kommer med et betænkningsbidrag efter at have læst Ombudsmandens
+beretning, og sjældent sker det, at Ombudsmandens beretning resulterer i en egentlig debat her
+i salen. Lad mig i den forbindelse først henvise
+til Fremskridtspartiets betænkningsbidrag til
+Ombudsmandens beretning for 1994 og ligeledes henvise til de tidligere år, hvor Fremskridtspartiet har stemt imod en godkendelse af
+Ombudsmandens beretning.
+En væsentlig årsag til, at Fremskridtspartiet
+tidligere har talt imod beretningen og tidligere
+har været negative i vores betænkningsbidrag
+og stemt imod beretningen, er, at Fremskridtspartiet ganske enkelt ikke har haft den fornødne
+tillid til den nuværende ombudsmand, som vi
+ikke mener lever op til de ædle egenskaber, som
+der i sin tid blev lagt op til, at en ombudsmand
+skal besidde. Den tillid har vi fortsat ikke, og
+Fremskridtspartiet vil derfor igen stemme imod
+beretningen.";Tom Behnke
+148148;title_name;":
+Der er ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Det Politisk-Økonomiske Udvalg (26/10 95):
+Udtræder: Anne Birgitte Lundholt (KF)
+Nyt medl.: John Vinther (KF)
+Udtræder: Frank Aaen (EL)
+Nyt medl.: Keld Albrechtsen (EL)
+Udtræder: Uffe Ellemann-Jensen (V)
+Nyt medl.: Thor Pedersen (V)
+Retsudvalget (26/10 95)
+Udtræder: Helge Adam Møller (KF)
+Nyt medl.: Bendt Bendtsen (KF)
+Folketingets Økontaktudvalg (26/10 95):
+Udtræder: Jørn Jespersen (SF)
+Nyt medl.: Tommy Dinesen (SF)
+Det Politisk-Økonomiske Udvalg (27/10 95):
+Udtræder: Keld Albrechtsen (EL)
+Nyt medl.: Frank Aaen (EL)
+Udtræder: John Vinther (KF)
+Nyt medl.: Anne Birgitte Lundholt (KF)
+Retsudvalget (30/10 95)
+Udtræder: Bendt Bendtsen (KF)
+Nyt medl.: Helge Adam Møller (KF)
+Folketingets næste møde afholdes i morgen,
+onsdag den 1. november 1995, kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 15.47";Henning Grove

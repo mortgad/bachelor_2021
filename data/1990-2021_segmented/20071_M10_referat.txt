@@ -1,0 +1,258 @@
+split;reason;text;value
+0;;"Onsdag den 24. oktober 2007 (D)
+
+10. m ø d e
+Onsdag, den 24. oktober 2007 kl. 13.00
+Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+(Se nedenfor).
+3)1. behandling af L11:
+Forslag til lov om ændring af retsplejeloven, lov
+om retsafgifter og arveloven. (Retsmægling
+m . v . ) . . .
+:,
+Af justitsministeren (Lene Espersen):
+(Fremsættelse 03.10.2007).
+4) 1. behandling af L 12:
+Forslag til lov om ændring af straffeloven og forskellige andre love. (Dansk straffemyndighed).
+Af justitsministeren (Lene Espersen).
+(Fremsættelse 03.10.2007).
+
+1) Til finansministeren af:";
+679;name_party;":
+Er ministeren enig i, at konsekvensen af at gribe
+ind over for kommunernes behov for at lade
+skatterne stige mere end 750 mio. kr. vil være, at
+kommunerne vil være nødsaget til at forringe
+servicen på de centrale velfærdsområder som
+f.e,ks. børn, skoler, ældre, handicappede og udsatte borgere?
+(Spm. nr. S 150).
+2) Til finansministeren af:";Lise von Seelen
+1041;name_party;":
+Vil ministeren oplyse, om og i givet fald hvordan ministeren agter at gribe ind over for de
+kommuner, der har set sig nødsaget til at lade,
+skatten stige til næste år, så skatten samlet set
+stiger mere end de 750 mio. kr., der blev aftalt i
+forbindelse med kommuneaftalen for 2008? : 홢
+(Spm. nr. S 152).
+
+563
+
+3) Til finansministeren af:";Lise von Seelen
+1405;name_party;":
+Agter finansministeren at inddrage de skatteforhøjelser, som overskrider kommuneaftalen?
+(Spm. nr. S 176).
+홢
+>
+홢
+홢
+홢
+.
+4) Til finansministeren af:";Ole Vagn Christensen
+1573;name_party;":
+Kan ministeren forsvare, at transport- og energiministeren på tv kalder de afsatte midler i regeringens forslag til finanslov for 2008 til renove-,
+ring af broer for »mere, end vi nogen sinde har
+afsat«?
+:
+(Spm: nr. S 182).
+5) Til socialministeren af:";Magnus Heunicke
+1850;name_party;":
+Mener ministeren, at det er rimeligt, at mennesker med udviklingshæmning risikerer at få et
+girokort i stedet for deres lønseddel, fordi transportudgifterne er fratrukket deres løn ved beskyttet beskæftigelse?
+(Spm. nr. S 130).
+6) Til socialministeren af:";René Skau Björnsson
+2124;name_party;":
+Vil ministeren indføre gratis offentlig gældsrådgivning, som man har i andre nordiske lande, og
+sikre, at der er penge til gældsrådgivning?
+(Spm. nr. S 169).
+7) Til socialministeren af:";Line Barfod
+2328;name_party;":
+Mener ministeren, at gæld er et samfundspro- '
+blem, der ligesom alkohol, narko m.v. både kan
+skyldes og kan føre til sociale problemer, og at
+samfundet derfor bør sætte ind over for gæld, ligesom man gør over for alkohol og narko? .
+(Spm. nr. S 170).
+8) Til socialministeren af:";Line Barfod
+2631;name_party;":
+Hvordan vil ministeren sikre, at mennesker ikke
+bliver sat ud af deres bolig som følge af, at de
+ikke har råd til huslejen?
+(Spm. nr. S172).
+9) Til ministeren for ligestilling af:";Jørgen Arbo-Bæhr
+2834;name_party;":
+Vil ministeren tage initiativ til en kampagne i
+Danmark som den norske »kampagne mod sexkøb og menneskehandel«?
+(Spm. nr. S 174).
+
+564
+
+Onsdag den 24. oktober 2007 (D)
+
+10) Til beskæftigelsesministeren af:";Jørgen Arbo-Bæhr
+3062;name_party;":
+Er ministeren enig i, at det ligner en molbohistorie, når ministeren et år efter oprettelsen af et
+supportcenter med 18 arbejdspladser ved arbejdsformidlingen i Aalborg nu vil flytte det
+tilbage til hovedstadsområdet?
+(Spm. nr. S 183).
+11) Til transport- og energiministeren af:";Bjarne Laustsen
+3359;name_party;":
+Kan ministeren forsvare, at et stort antal broer i
+Danmark ikke bliver renoveret omgående på
+trods af anbefalinger fra Vejdirektoratets eksperter?
+(Spm. nr. S 185).";Rasmus Prehn
+3536;Time;Meddelelser fra formanden;Kl. 13:00
+3574;title_name;"Beskæftigelsesministeren (Claus Hjort Frederiksen) har meddelt mig, at han ønsker skriftligt at
+fremsætte:
+<
+Forslag til lov om Arbejdsretten og faglige voldgiftsretter.
+(Lovforslag nr. L 28).
+Skatteministeren (Kristian Jensen) har meddelt
+mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om indskud på
+etableringskonto. (Forbedrede afskrivnings-"" og
+fradragsmuligheder).
+(Lovforslag nr. L 30).
+Kulturministeren (Brian Mikkelsen) har meddelt
+mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af teaterloven. (Godkendelse af kollektive overenskomster for visse
+teatre).
+홢
+(Lovforslag nr. L 31) og
+Forslag til lov om ændring af lov om pligtaflevering af offentliggjort materiale. (Forlængelse af
+revisionsklausul).
+(Lovforslag nr. L 32).";Formanden
+4370;Time;"Statsministerens udtalelse af særlig karakter
+i henhold til FFO § 19, stk. 3";Kl. 13:01
+4459;title_name;"Inden vi nu går til spørgetimen, har jeg lovet
+statsministeren, at han må få en udtalelse af særlig karakter. Værsgo til statsministeren.";Formanden
+4606;Time;;Kl. 13:02
+4646;title_name;":
+f
+Folketinget står over for et betydeligt arbejde i
+den kommende tid. Regeringen har fremlagt et
+omfattende program, bl.a. en omfattende kvalitetsreform, en storstilet plan for at skaffe mere
+arbejdskraft, en ambitiøs klima- og energiplan,
+forslag til finanslov for 2008 og en økonomisk
+plan frem til 2015.
+Med kvalitetsreformen lægger regeringen op
+til en omfattende fornyelse og udvikling af den
+offentlige sektor til glæde for brugerne af de offentlige ydelser, til glæde for medarbejderne og
+til glæde for hele samfundet. For en moderne og
+velfungerende offentlig sektor er en forudsætning for en konkurrencedygtig privat sektor og
+dermed en forudsætning for vækst, velstand og
+velfærd i Danmark.
+Kvalitetsreformen er blevet forberedt grundigt med inddragelse af brede grupper. Et væsentligt element i reformen er omfattende trepartsaftaler med fagbevægelsen, aftaler, som
+skal sikre medarbejderne bedre arbejdsvilkår.
+Det er regeringens ønske, at kvalitetsreformen
+kan blive gennemført i Folketinget med det bredest mulige flertal og inden for en økonomisk
+ansvarlig ramme.
+Regeringen har fremlagt en kvalitetsreform
+og en finanslov, som sikrer, at den offentlige sektor og den offentlige velfærd får sin rimelige andel af den økonomiske fremgang i det danske
+samfund. Vi går til grænsen af, hvad der er
+plads til, fordi vi finder, at det offentlige forbrug
+skal følge udviklingen i samfundsøkonomien.
+Men regeringen vil ikke deltage i en overbudspolitik, der kan true den solide danske økonomi.
+Det er afgørende for regeringen at holde fast i en
+ansvarlig økonomisk politik.
+Det er regeringens opfattelse, at vi behøver et
+klart mandat til at arbejde videre på dette
+grundlag. Der er vigtige beslutninger at træffe i
+den kommende folketingssamling, og efter vores opfattelse vil det være ødelæggende for arbejdet og for stabiliteten, hvis hele denne folketingssamling skal være præget af spekulationer
+om et kommende valg. Allerede nu kan vi kon-
+
+Onsdag den 24. oktober 2007 (D)
+statere, at sådanne spekulationer præger det politiske billede, og det kan have skadelige virkninger på det daglige arbejde i Folketinget.
+Jeg ftygter, at det kan gøre det unødig svært
+at træffe de nødvendige beslutninger, og der er :
+risiko for, at valgspekulationer fører til en konkurrence om økonomiske overbud - en økonomisk uansvarlighed, som risikerer at sætte den
+økonomiske stabilitet over styr, stoppe den økonomiske fremgang og true beskæftigèlsen. Derfor er det bedst at afvikle et folketingsvalg nu, så
+vi kan tage fat på arbejdet i en mere rolig atmosfære med bedre chancer for at: skaffe brede flertal bag langsigtede reformer og inden for økonomisk ansvarlige rammer.
+Jeg har derfor indstillet til Hendes Majestæt
+Dronningen, at der udskrives valg til Folketinget til afholdelse tirsdag den 13. november 2007.
+Jeg skal tilføje, at det valg, der nu skal afholdes,
+også er et led i den videre procedure efter
+grundlovens § 88 med henblik på at ændre tronfølgeloven.
+For god ordens skyld skal jeg oplyse, at regeringen ikke træder tilbage i forbindelse med valgets udskrivelse. Tværtimod går Venstre og De
+Konservative til valg med en fælles appel til
+vælgerne om at forny og forlænge VK-regeringens mandat for yderligere en periode.
+Siden 2001 har den danske befolkning oplevet en periode med stabil og rolig fremgang. Beskæftigelsen er rekordhøj, arbejdsløsheden er rekordlav, og der er skabt mere tryghed om de enkelte familiers økonomi, fordi skattestoppet beskytter mod pludselige overraskelser med nye
+skatter og afgifter. Det er denne fremgang, det er
+denne stabilitet, og det er denne tryghed, som
+det gælder om at holde fast i.
+Samtidig har regeringen stået i spidsen for
+omfattende reformer: strukturreformen, velfærdsreformen, globaliseringsreformen og uddannelsesreformer. Alle sigter de på-at ruste
+det danske samfund bedre til at klare fremtidens
+udfordringer. Alle er de blevet forberedt grundigt med inddragelse af brede grupper i det
+danske samfund.
+Venstre og De Konservative beder nu om befolkningens opbakning til at fortsætte denne rolige forandring, som kan gå hånd i hånd med
+tryghed.
+Samtidig beder vi om opbakning fra befolk. ningen til at fortsætte en fast og fair lldlændingepolitik: en udlændingepolitik, hvor vi fortsat
+har stramme regler for adgangen til Danmark
+via familiesammenføring, men samtidig åbner
+
+565
+
+for en kontrolleret indvandring af udlændinge
+med de kvalifikationer, som vi har brug for i det
+danske samfund: én flygtningepolitik, hvor vi
+giver asyl til flygtninge, som er reelt forfulgte,
+men som samtidig sikrer, at de, der får afvist deres asylansøgning, hurtigst muligt vender tilbage til deres hjemland: en integrationspolitik,
+hvor danskere med indvandrerbaggrund kommer i arbejde i samme omfang som andre danskere, og en målrettet indsats for at forebygge
+ekstremisme og radikalisering ved at styrke den
+værdimæssige integration..
+Vi ønsker et samfund med en stærk sammenhængskraft, et samfund med et stærkt fællesskab om de principper, som det danske folkestyre bygger på.
+Siden 2001 er der kommet styr på indvandringen til Danmark. Venstre og De Konserva- :
+tive beder om befolkningens opbakning til at
+fortsætte denne ansvarlige udlændingepolitik.,
+Gennem 6 år har Venstre og De Konservative
+haft et fantastisk godt og stærkt samarbejde i regeringen - 6 år med solide resultater, stærk økonomi og politisk stabilitet. Nu beder vi i fællesskab vælgerne om opbakning til at fortsætte dette arbejde.";Anders Fogh Rasmussen
+10111;Time;Meddelelser fra formanden;Kl. 13:09
+10149;title_name;"Tak til statsministeren.
+Når folketingsvalg er udskrevet, er det praksis, at Tingets almindelige virksomhed standses,
+og jeg skal derfor afbryde mødet.
+Skulle det blive nødvendigt at indkalde Folketinget til flere møder inden valget, vil meddelelse om tidspunkt og dagsorden blive tilstillet
+medlemmerne skriftligt.
+Jeg ønsker alle en god valgkamp. Jeg ved jo,
+at der er en række medlemmer, der ikke genopstiller til valget, og til dem vil jeg gerne have lov '
+til at rette en varm tak for den indsats, de har
+gjort i folkestyrets tjeneste. Jeg lader også denne
+tak omfatte dem, der af andre grunde ikke vender tilbage efter valget. Ingen er jo sikret en
+plads på forhånd, når vi har frie valg, og derfor:
+En rigtig god valgkamp.
+Personligt vil jeg gerne benytte lejligheden til
+at sige tak for 20 år på denne fantastiske arbejdsplads i et godt samarbejde med kolleger og an-
+
+566
+
+Onsdag den 24. oktober 2007 (D)
+
+satte. Og en helt speciel tak til Folketinget for
+den tillid, der er blevet vist mig i de sidste næsten 5 år, hvor jeg har fået lov til at være formand for Folketinget. Det har været spændende.
+Tak. [Klapsalver fra salen].
+Nu skulle jeg jo med henvisning til Folketingets forretningsordens § 30 have grebet ind, men
+jeg vil sige tak.
+Mødet er hævet. (Kl. 13.12).
+
+Skriftlige meddelelser fra formanden";Formanden
+11477;title_name;"Fra statsministeren har jeg modtaget følgende
+Åbne Brev angående udskrivning af nyvalg til
+Folketinget:
+
+»VI MARGRETHE DEN ANDEN
+AF GUDS NÅDE DANMARKS DRONNING
+Gør vitterligt:
+Da det af hensyn til lovgivningsarbejdet i Folketinget samt til fremme af det den 2. juni 2006 i
+Folketinget vedtagne forslag til lov om ændring
+af tronfølgeloven i henhold til grundlovens § 88
+må anses for ønskeligt, at der afholdes nyvalg til
+Folketinget, bestemmer Vi herved, at nyvalg til
+Folketinget afholdes i hele riget tirsdag den 13.
+november 2007:
+Givet på Amalienborg den 24. oktober 2007
+UNDER VOR KONGELIGE HÅND OG
+SEGL
+Sign.: Margrethe R.
+I I
+: ,
+/ Anders Fogh Rasmussen«";Formanden

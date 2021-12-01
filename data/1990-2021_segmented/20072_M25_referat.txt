@@ -1,0 +1,2544 @@
+split;reason;text;value
+0;;"(157)
+Tirsdag den 29. januar 2008 (D)
+
+25. m ø d e";
+88;Time;"Dagsorden
+1) 3. behandling af lovforslag nr. L 28:
+Forslag til lov om ændring af lov om valg til menighedsråd. (Elektronisk berigtigede valglister
+og elektronisk brevstemmeafgivning m.v.).
+Af kirkeministeren (Birthe Rønn Hornbech).
+(Fremsættelse 29.11.2007.1. behandling
+07.12.2007. Betænkning 16.01.2008. 2. behandling 24.01.2008).
+2) 3. behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om indskud på
+etableringskonto. (Forbedrede afskrivnings- og
+fradragsmuligheder).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008. 2. behandling 22.01.2008).
+3) 3. behandling af lovforslag nr. L 12:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Østrig.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008. 2. behandling 22.01.2008).
+4) 3. behandling af lovforslag nr. L 14:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Kroatien.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008. 2. behandling 22.01.2008).
+5) 1. behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om valg til Folketinget. (Indførelse af prioriteret sideordnet opstilling).
+Af Lone Dybkjær (RV), Hans Kristian Skibby
+(DF) m.fl.
+(Fremsættelse 14.12.2007).
+
+1249
+
+6) 1. behandling af lovforslag nr. L 50:
+Forslag til lov om ændring af lov om valg til Folketinget. (Valg på personlige stemmer).
+Af Lone Dybkjær (RV) m.fl.
+(Fremsættelse 14.12.2007).
+7) 1. behandling af lovforslag nr. L 55:
+Forslag til lov om ændring af lov om C02-kvoter. (Nedsættelse af grænsen for virksomheders
+anvendelse af kreditter).
+Af klima- og energiministeren (Connie Hedegaard).
+(Fremsættelse 16.01.2008).";kl. 13.00
+1929;Time;Meddelelser fra formanden;Kl. 13:01
+1967;title_name;"Mødet er åbnet.
+Fra medlem af Folketinget Søren Pind (V) har
+jeg modtaget meddelelse om, at han ikke som
+tidligere anmeldt ønsker orlov fra og med den
+29. januar 2008.
+Medlemmer af Folketinget Colette L. Brix (DF)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om forenkling af
+reglerne for gulpladebiler.
+(Beslutningsforslag nr. B 39).
+Medlemmer af Folketinget Per Clausen m.fl. har
+meddelt mig, at de ønsker at stille følgende forespørgsel til miljøministeren:
+»Vil ministeren redegøre for, hvilke initiativer
+han vil tage på baggrund af OECD's kritik af
+den danske miljøindsats?«
+(Forespørgsel nr. F 13).
+
+1250
+
+Tirsdag den 29. januar 2008 (L 28)
+
+Det første punkt på dagsordenen er:
+1) 3. behandling af lovforslag nr. L 28:
+Forslag til lov om ændring af lov om valg til
+menighedsråd. (Elektronisk berigtigede valglister og elektronisk brevstemmeafgivning m.v.).
+Af kirkeministeren (Birthe Rønn Hornbech).
+(Fremsættelse 29.11.2007.1. behandling
+07.12.2007. Betænkning 16.01.2008. 2. behandling 24.01.2008).";Formanden
+3034;Time;Forhandling;Kl. 13:02
+3058;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Formanden
+3296;Time;Afstemning;Kl. 13:03
+3319;title_name;"Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemning slutter.
+For stemte: 107 (V, S, DF, SF, KF, RV og NY),
+imod stemte: 2 (EL), hverken for eller imod: 0.
+Det betyder, at lovforslaget er vedtaget og nu vil
+blive sendt til statsministeren.";Formanden
+3597;Time;Afstemning;Kl. 13:02
+3620;title_name;"Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemning slutter.
+For stemte: 111 (V, S, DF, SF, KF, RV og NY),
+imod stemte: 0, hverken for eller imod stemte: 2
+(EL).
+Det betyder, at lovforslaget er vedtaget og nu vil
+blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+3) 3. behandling af lovforslag nr. L 12:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og
+Østrig.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008. 2. behandling 22.01.2008).";Formanden
+4210;Time;"Forhandling
+
+Det næste punkt på dagsordenen er:
+2) 3. behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om indskud
+på etableringskonto. (Forbedrede afskrivnings- og fradragsmuligheder).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008. 2. behandling 22.01.2008).";Kl. 13:03
+4565;Time;Forhandling;Kl. 13:02
+4589;title_name;"Jeg kan her oplyse, at kirkeministeren er fungerende skatteminister, så ministeren er til stede,
+så vi kan behandle det.";Formanden
+4722;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Formanden
+4845;Time;Afstemning;Kl. 13:03
+4868;title_name;"Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemning slutter.
+For stemte: 108 (V, S, DF, SF, KF, RV, NY og EL),
+imod stemte: 0, hverken for eller imod stemte: 0.
+
+Tirsdag den 29. januar 2008 (L 14)
+Det betyder, at lovforslaget er vedtaget og nu vil
+blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+4) 3. behandling af lovforslag nr. L 14:
+Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Kroatien.
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 28.11.2007.1. behandling
+04.12.2007. Betænkning 16.01.2008. 2. behandling 22.01.2008).";Formanden
+5496;Time;Forhandling;Kl. 13:04
+5520;title_name;"Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Formanden
+5643;Time;Afstemning;Kl. 13:04
+5666;title_name;"Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemning slutter.
+For stemte: 109 (V, S, DF, SF, KF, RV, NY og EL),
+imod stemte: 0, hverken for eller imod stemte: 0.
+Det betyder, at lovforslaget er vedtaget og nu vil
+blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+5) 1. behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om valg til
+Folketinget. (Indførelse af prioriteret sideordnet opstilling).
+Af Lone Dybkjær (RV) og Hans Kristian Skibby
+(DF) m.fl.
+(Fremsættelse 14.12.2007).
+
+1251
+
+Sammen med dette punkt foretages:
+6) 1. behandling af lovforslag nr. L 50:
+Forslag til lov om ændring af lov om valg til
+Folketinget. (Valg på personlige stemmer).
+Af Lone Dybkjær (RV) m.fl.
+(Fremsættelse 14.12.2007).";Formanden
+6444;Time;Forhandling;Kl. 13:05
+6468;title_name;"Forhandlingen er åbnet.
+Velfærdsministeren.";Formanden
+6522;Time;"Velfærdsministeren (Karen Jespersen):
+Vi har i dag to lovforslag om ændring af folketingsvalgloven til behandling her i Folketinget.
+I det ene lovforslag, L 49, bliver det foreslået,
+at et parti med sideordnet opstilling får mulighed for at bestemme den rækkefølge, partiets
+kandidater i storkredsen skal anføres i på stemmesedlen i de enkelte opstillingskredse: det er
+det, forslagsstillerne kalder prioriteret sideordnet opstilling.
+Det andet lovforslag, L 50, giver mulighed
+for, at et parti, der har fuldstændig sideordnet
+opstilling i en storkreds, kan anmelde, at partistemmerne i storkredsen ikke skal tilfalde nogen kandidat. Herefter vil udvælgelsen af, hvilke kandidater et parti får valgt på de mandater,
+der er tilfaldet partiet i storkredsen, alene ske på
+grundlag af de pågældende kandidaters personlige stemmer i hele storkredsen.
+Det er regeringens holdning, at begge spørgsmål er bedst egnede til at blive afgjort i grupperne på grund af Folketingets medlemmers særlige interesse i spørgsmålene. Regeringen vil derfor ikke fremkomme med nogen holdning til
+lovforslagene her i dag.";Kl. 13:06
+7630;Time;;Kl. 13:07
+7642;title_name;"Tak til ministeren. Der er ingen, der har bedt om
+ordet for en kort bemærkning.
+Så går vi over til ordførerrækken, og det er hr.
+Erling Bonnesen som ordfører.";Formanden
+7810;Time;(Ordfører);Kl. 13:07
+7841;name_party;":
+L 49 og L 50 er lovforslag, der er fremsat om
+henholdsvis indførelse af prioriteret sideordnet
+opstilling ved et folketingsvalg og om personlige stemmer uden anvendelse af partilistestemmer ved kandidatudvælgelsen ved et folketingsvalg.
+
+1252
+
+Tirsdag den 29. januar 2008 (L 49)
+
+Det blev forud for sidste folketingsvalg gennemført en valgkredsreform, og vi har således
+kun haft erfaringer med den nye reform fra ét
+folketingsvalg.
+Vi skal altid lytte opmærksomt og vurdere
+tingene grundigt, når der stilles forslag om ændring af valgloven. Det er vigtigt, at alle relevante spørgsmål bliver stillet, besvaret og vurderet,
+inden det konkluderes, om der er grundlag for
+ændringer.
+De fremsatte forslag kan ved første øjekast
+synes tilforladelige, men der melder sig også
+spørgsmål om, hvordan de vil virke i praksis, og
+hvilken betydning kredsene vil få som følge af
+en eventuel vedtagelse af disse lovforslag. Det
+vil der sandsynligvis være en række forskellige
+vurderinger af og synspunkter om i de forskellige kredse rundtom i landet. Hvad der måske synes ligetil ét sted, behøver ikke at være det et andet sted.
+Som følge af, at vi netop har overstået det første folketingsvalg med den nye valgkredsreform, har vi endnu ikke haft mulighed for grundigt at drøfte erfaringerne med vores organisatoriske bagland og heller ikke haft mulighed for
+grundigt at drøfte de foreliggende lovforslag i
+denne sammenhæng.
+Det er vigtigt, at vi ikke med en eventuel ny
+ændring hurtigt efter den seneste reform risikerer at vedtage noget, der kan virke eroderende
+på det, vi netop har gennemført, og her tænker
+jeg bl.a. på kredsenes betydning.
+I Venstre ønsker vi således at drøfte de rejste
+spørgsmål grundigt med vores organisation og
+bagland, således at vi kan få analyseret tingene
+bedst muligt med henblik på efter næste folketingsvalg at tage stilling til, om der skal foretages ændringer i valgloven, og i givet fald hvilke
+ændringer.
+Venstre kan derfor ikke støtte de fremsatte
+lovforslag.";Erling Bonnesen
+9839;Time;;Kl. 13:09
+9851;title_name;"Der er en kort bemærkning, først fra hr. Kristian
+Thulesen Dahl.";Formanden
+9925;Time;;Kl. 13:09
+9953;name_party;":
+Ja, nu har vi jo, vil jeg sige til hr. Bonnesen, i fællesskab lavet den her valgkredsreform, og jeg
+har selvfølgelig altid meget sympati for, at man
+gerne vil have erfaringer. Men helt ærligt: Kan
+hr. Bonnesen ikke sige lidt mere konkret, hvad i
+alverden den valgkredsreform har med de her
+forslag at gøre? De her forslag kunne have været
+
+fremsat før valgkredsreformen, de kunne have
+været fremsat efter: de er jo fuldstændig uafhængige og ligegyldige i forhold til valgkredsreformen.
+Det, de her forslag handler om, er jo alene et
+spørgsmål om, hvorvidt man som parti må få en
+ekstra mulighed i forhold til den måde, man opstiller på. Og hvorfor vil hr. Bonnesen i virkeligheden afvente nogle erfaringer i Venstres organisation for at vurdere, om Dansk Folkeparti eller
+andre partier må få den her ekstra mulighed,
+hvor jo altså i udgangspunktet noget af det allervæsentligste, vi diskuterer i dag, er, at det er de
+personlige stemmer, der afgør, hvem der bliver
+valgt?";Kristian Thulesen Dahl
+10936;Time;;Kl. 13:10
+10948;title_name;Ordføreren.;Formanden
+10969;Time;;Kl. 13:10
+10989;name_party;":
+Jeg starter ikke med at kritisere de fremsatte lovforslag hårdt. Tværtimod. Jeg stiller mig sådan
+en lille smule afventende og siger, at vi skal have
+sat os ind i og også have en vurdering af det. Jeg
+synes også, det er rimeligt, at man seriøst får
+overvejet, hvilke virkninger det her kan få specielt i forhold til kredsene. Det er i hvert fald et
+vigtigt spørgsmål for os i Venstre. Derfor må det
+også være rimeligt, at vi så beder om at få tid til
+at få det vurderet, om det så har sammenhæng
+med valgkredsreformen eller ej: der blev diskuteret mange ting i forbindelse med valgkredsreformen.
+Det, der er kernen i det for os i Venstre, er, at
+vi gerne vil have det her analyseret igennem, således at vi får en vurdering af, hvordan det kunne tænkes at virke på kredsene, og så efterfølgende vende tilbage til det efter næste valg.";Erling Bonnesen
+11834;Time;;Kl. 13:11
+11846;title_name;Det er hr. Kristian Thulesen Dahl for en yderligere kort bemærkning.;Formanden
+11924;Time;;Kl. 13:11
+11952;name_party;":
+Tak. Det lyder jo som en debat, hr. Bonnesen må
+tage i Venstre, med sin organisation og sit bagland, om, hvilke opstillingsmuligheder Venstre
+ønsker at benytte sig af. Det har jeg fuld respekt
+for, og det kan være, man skal bruge tre-fire valg
+på at diskutere det. Jeg ved ikke, hvor lang tid
+sådan noget tager i Venstre.
+Det, vi taler om her, er noget helt, helt andet.
+Det er, om Dansk Folkeparti eller Det Radikale
+Venstre eller SF må få en mulighed mere i den
+
+Tirsdag den 29. januar 2008 (L 49)
+måde, man stiller op på. Venstre kan jo bare lade
+være. Venstre kan bare sige, at man gør det, som
+man kender det i dag, indtil man har draget erfaringer af, hvordan udviklingen er i Afghanistan. Det er fuldstændig ligegyldigt. Det kan hr.
+Bonnesen jo sige.
+Men hvorfor vil hr. Bonnesen og Venstre fratage os andre muligheden for at få det, vi opfatter som en mere demokratisk opstillingsform?
+Altså, det er det, som jeg nævner som noget af
+det vigtigste ved det, vi diskuterer i dag, nemlig
+det her med, at det er antallet af personlige
+stemmer, der afgør, hvem det bliver valgt til Folketinget.";Kristian Thulesen Dahl
+13061;Time;;Kl. 13:12
+13073;title_name;Ordføreren.;Formanden
+13094;Time;;Kl. 13:12
+13114;name_party;":
+Jeg synes, det er fair og fint, at ethvert parti har
+en holdning til eventuelle forslag til ændring af
+valgloven. Det er fair nok og fint nok. Og jeg
+starter også med at sige, at vi lytter opmærksomt til, hvad det er, der bliver sagt, og vi har
+også forsøgt at sætte os ind i det forslag, der bliver fremsat. Men det må også være rimeligt, at
+vi får en mulighed for at vurdere virkningerne
+at det, som vi ser det. Spørgeren har fuldstændig
+ret i, at det, jeg lægger op til nu, først og fremmest også er en intern debat i vores parti. Jeg
+står her for at redegøre for, hvordan Venstres ser
+på sagen. Så må vi se, hvad der til sidst bliver tilslutning til i Folketinget, når vi når til tredjebehandlingen, hvis der også er andre holdninger.
+Der er noget, der kunne tyde på, at der er det.
+Jeg står her for at redegøre for vores synspunkter og er enig i, at vi skal have vores interne debat om det, det har vi ikke haft nogen rigtige
+chancer for. Det er jo også rigtigt, at det her blev
+diskuteret i sidste samling, og så skulle vi vende
+tilbage til sagen, og det er sådan set det, vi tager
+hul på nu.";Erling Bonnesen
+14224;Time;;Kl. 13:13
+14236;title_name;Det er fru Lone Dybkjær for en kort bemærkning.;Formanden
+14293;Time;;Kl. 13:13
+14311;name_party;":
+Altså, hr. Kristian Thulesen Dahl har sådan set
+lavet den hovedargumentation, der er, nemlig:
+Kunne man ikke bare give muligheden for de
+partier, der har lyst til at gøre noget andet end
+det, der er i dag? Og jeg er glad for, at hr. Erling
+Bonnesen har sagt, at de gerne vil gå tilbage og
+
+1253
+
+drøfte det: jeg kan ikke helt forstå det. Der er jo
+tror jeg, at statsministeren vil sige, længe til næste valg. Så synes jeg, at der vil blive rig lejlighed
+til at drøfte det, sådan at det her kunne gennemføres inden næste valg.
+Nu vil jeg gerne sige, at jeg slet ikke synes, hr.
+Erling Bonnesen tog stilling til det med den alfabetiske rækkefølge. Der er jo to forslag. Det ene
+er, om partiet har lov til at opstille på anden
+måde end bare A, B, C, D osv. Det andet forslag
+er, at man opgør efter personlige stemmer. Det
+er muligt, at jeg slet ikke hørte hr. Bonnesen, jeg
+sad ellers og hørte godt efter og lod mig ikke
+forstyrre af andre, mig bekendt, men jeg hørte
+slet ikke, at hr. Erling Bonnesen sagde noget om
+den alfabetiske rækkefølge. Hvorfor skal det
+være en fordel at hedde f.eks. Bonnesen eller
+Dybkjær?";Lone Dybkjær
+15436;Time;;Kl. 13:14
+15448;title_name;Ordføreren.;Formanden
+15469;Time;;Kl. 13:14
+15489;name_party;":
+Jeg vil ikke afvise, at vi efter den grundige proces, hvis det står til os i Venstre, vender tilbage
+engang efter næste folketingsvalg, hvis det skulle gå sådan, at proceduren og processen bliver
+således, at der kan foretages ændringer i rækkefølgen, hvorpå man opstiller. Det vil jeg ikke afvise, men vi har bare behov for at få det her diskuteret grundigt. Og så er jeg også med på,
+hvorfor det er fremsat som to forskellige lovforslag i forlængelse af den debat, vi har haft tidligere i sidste samling.";Erling Bonnesen
+16006;Time;;Kl. 13:14
+16018;title_name;"Det er fru Lone Dybkjær for en yderligere kort
+bemærkning.";Formanden
+16086;Time;;Kl. 13:14
+16104;name_party;":
+Det er præcis netop for at få den opdelt og få to
+adskilte diskussioner, for det er selvfølgelig to
+principielle forslag og nye tiltag. Men igen vil
+jeg bare bede Venstre om at sætte processen i
+gang allerede nu. Hvis der nu er 31h år til næste
+valg, så synes jeg da godt, at man måske kunne
+håbe på, at det her kunne vedtages før næste folketingsvalg. Så lang tid burde det dog ikke være
+nødvendigt at have. Jeg kan ikke se andet, end
+at i hvert fald prioriteret sideordnet opstilling,
+bare for at tage det, alt andet lige vil give større
+muligheder for partiet for at prioritere, frem for
+at det er en eller anden tilfældig rækkefølge, der
+afgør, hvem der bliver valgt.
+
+1254
+
+Tirsdag den 29. januar 2008 (L 49)";Lone Dybkjær
+16830;Time;"skal også lige have et blik for, at vi stiller spørgsmål, fordi vi gerne vil have vurderet, hvordan
+det her i givet fald, hvis det blev vedtaget, kunKl. 13:15 ne tænkes at få indflydelse på kredsenes betydErling Bonnesen (V):
+ning og stilling i lidt bredere sammenhæng, og
+Jeg skal ikke kunne tage stilling til at vurdere,
+det har ikke noget at gøre med, at det kun er en
+hvem der bliver valgt i de forskellige givne situ- intern debat i Venstre.
+ationer, og det er også derfor, vi gerne vil have
+Når nogle forsøger at rejse en debat om valgdrøftet lige præcis det her med vores bagland,
+loven, skal man altid tage det seriøst, og jeg forsom af gode grunde selvfølgelig også interessesøgte også at signalere, at vi netop tager det alrer sig en del for det. Om der så går kort eller
+vorligt og i givet fald også tager debatten op hos
+lang tid, inden det bliver aktuelt, er der jo ingen
+os. Men vi skal også se det i sammenhæng med,
+af os, der kan vide, og derfor har vi lagt den linje hvilken betydning kredsene kan tænkes at få eli Venstre, at vi simpelt hen foreslår, at vi nu tager ler ikke få.";Kl. 13:15
+17938;Time;"en intern debat, og hvis vi kan få tilslutning til
+det, vender vi her i Folketinget tilbage til sagen";Kl. 13:18
+18052;title_name;"efter næste folketingsvalg med henblik på at
+Hr. Hans Kristian Skibby for en sidste kort betage sagen op til endelig vurdering og stillingta- mærkning.";Formanden
+18213;Time;"gen til, om der skal foretages nogle ændringer.
+Det gælder for begge lovforslagene.";Kl. 13:18
+18323;name_party;:;Hans Kristian Skibby
+18334;Time;Med hensyn til det andet lovforslag, L 50, er det;Kl. 13:16
+18396;title_name;"jo sådan, at det er en klar forbedring med henSå er det hr. Hans Kristian Skibby for en kort be- syn til, hvordan det skal beregnes, hvem der får
+mærkning.
+mandaterne. Nu får partierne mulighed for at";Formanden
+18606;Time;sikre, at den kandidat, der på en given liste får;Kl. 13:16
+18682;name_party;":
+flest personlige stemmer fra vælgerne i storJeg synes jo, det er ret interessant, at Venstres
+kredsen, også bliver den person, som får lov til
+ordfører på lovforslagene tilsyneladende mener,
+at repræsentere partiet på Christiansborg.
+at der skal en intern debat til i Venstre om, hvorJeg vil gerne spørge hr. Erling Bonnesen: Mevidt eksempelvis Dansk Folkeparti eller Det Ra- ner hr. Erling Bonnesen ikke, det er et forkert
+dikale Venstre skal have lov til at opstille på en
+signal at give, at man tilsyneladende holder hångiven måde. Jeg kan faktisk ikke rigtig se, hvad
+den over en valgregel, som gør, at der nu sidder
+det kommer Venstres lokalforeningsformænd
+folk i parlamentet, som har fået flere hundrede
+ved, om Dansk Folkeparti opstiller på en sidefærre personlige stemmer end andre kandidater
+ordnet liste, så man ikke bare teknisk set autopå den samme valgliste, der ikke er blevet valgt,
+matisk har en fordel eller ulempe, alt efter hvad
+blot fordi deres personlige stemmer er blevet afman hedder til efternavn. Det burde jo sådan set givet et andet sted i den store valgkreds?";Hans Kristian Skibby
+19782;Time;"være op til partierne selv ud fra en stor valglov
+at opstille de kandidater, der stiller sig til rådigFormanden:
+hed for valg.
+Ordføreren.";Kl. 13:19
+19931;Time;"Jeg vil gerne spørge hr. Erling Bonnesen:
+Hvordan kan det være, at Venstre har den holdErling Bonnesen (V):
+ning her i salen i dag, at det skal være et internt
+Jeg mener ikke, at vi holder hånden over nogen
+emne i Venstre, hvordan valgloven skal være for bestemte regler, tværtimod. Vi tager sådan set
+forslaget op og prøver at modtage det positivt til
+alle Folketingets partier?";Kl. 13:19
+20321;Time;en drøftelse af, om tingene skal fortsætte, men vi;Kl. 13:17
+20384;title_name;"kan altså bare konstatere, at nu har det fungeret
+i rigtig mange år på den facon.
+Ordføreren.";Formanden
+20487;Time;Så kan man spørge: Hvor ligger den højere;Kl. 13:17
+20549;name_party;":
+retfærdighed i det? Det kunne være en muligEthvert parti må naturligvis tilrettelægge sit eget hed at ændre det til det, der bliver foreslået her.
+arbejde, sådan som det finder rigtigst. Men det,
+Men vi skal også lige være opmærksomme på,
+at sådan som det er i dag, tæller de personlige
+der er vigtigt, er jo også at få sagt, at det selvfølstemmer jo også med ved fordelingen af partiligelig ikke kun er af hensyn til os i Venstre. Man";Erling Bonnesen
+20998;title_name;"Ordføreren.
+
+Tirsdag den 29. januar 2008 (L 49)
+
+1255";Formanden
+21063;Time;"stestemmerne, så vi skal også have en vurdering
+af: Hvis dette her i givet fald måtte blive realite(Ordfører)";Kl. 13:21
+21189;name_party;":
+ten en dag, hvilken betydning vil det så få for
+kredsene, hvis man anvender et sæt regler et
+Selv om de to lovforslag, som vi har på dagsorsted, et andet et andet sted og et tredje et tredje
+denen i dag, ved første øjekast kan virke som to
+sted? Det er derfor, vi også beder om at få tid til
+meget tekniske forslag, er formålet med dem at
+at få det tacklet igennem efter de traditioner, vi
+justere valgreglerne og dermed finmekanikken i
+nu engang har i vores parti, og det er det, jeg har
+det danske demokrati, og det kræver efter Soredegjort for med respekt for, at forslagsstillerne
+cialdemokraternes mening en særlig grundig
+selvfølgelig har andre synspunkter.
+behandling. Samtidig er det forslag, der ikke";Lene Hansen
+21910;Time;"kan stå alene, men som skal ses i en større samFormanden:
+menhæng.
+Hr. Flemming Bonne har bedt om ordet.
+Lad mig starte med at kommentere L 49 om";Kl. 13:19
+22066;Time;indførelse af prioriteret sideordnet opstilling.;Kl. 13:20
+22135;name_party;":
+Det Radikale Venstre og Dansk Folkeparti ønJa, det er første gang, jeg prøver det her, så und- sker med dette lovforslag at give de politiske
+skyld at jeg stod på en forkert plads.
+partier mulighed for at vælge endnu en opstilJeg vil gerne spørge ordføreren, om ordførelingsform til valg til Folketinget ud over de, fire,
+ren ikke kan bekræfte, at hvis man vedtager det
+vi allerede i dag kan vælge imellem. I dag har
+forslag, der ligger til behandling her i dag, står
+partierne mulighed for at vælge sideordnet opstilling, enten med og uden nominering: den
+det Venstre frit for at vælge opstillingsform. Og
+kan jeg få ordføreren til at bekræfte, at forslaget
+kredsvise opstilling er den tredje mulighed, og
+her absolut ingen betydning har for mandatforpartilisteopstillingen er den fjerde.
+delingen ude i storkredsene? Og hvad er så proVed sideordnet opstilling med nominering er
+blemet?
+opstillingskredsens egen kandidat tildelt den";Flemming Bonne
+23080;Time;øverste plads på stemmesedlen, og resten af;Kl. 13:20
+23136;title_name;kandidaterne følger herefter i alfabetisk rækkefølge. Ved sideordnet opstilling uden nomineOrdføreren.;Formanden
+23248;Time;"ring har alle kandidater plads på listen i alfabeErling Bonnesen (V):
+tisk rækkefølge. Den kredsvise opstilling har
+Med hensyn til den første del af spørgsmålet
+alle kandidater opstillet i alfabetisk orden undkan jeg godt bekræfte, at det jo så at sige er en
+tagen opstillingskredsens egen kandidat, der al»kan«- og ikke en »skal«-bestemmelse, hvis man tid står øverst, og endelig er der partilisteopstilskal sige det helt kort.
+lingen, som er partiets prioriterede liste over
+Med hensyn til om forslaget så har betydning
+dets kandidater i en storkreds - altså fire forskelfor mandatfordelingen vil jeg sige, at det tror jeg lige måder at opstille kandidater til valg til Folda ikke, og det har jeg heller ikke antydet på no- ketinget på.
+get tidspunkt. Men det, der er vigtigt for os i
+Lovforslag nr. L 49 vil indføre en femte muVenstre at få diskuteret, drøftet og belyst, er lige
+lighed, som kaldes prioriteret sideordnet opstilling. Det vil sige, at alle kandidater opføres sidepræcis, hvilken betydning det vil have for kredsene - ikke kun for den enkeltes situation, men,
+ordnet på listen i en prioriteret rækkefølge, som
+partiet selv har foretaget, dog stadig væk med
+om jeg så må sige, for kredsenes betydning og
+stilling i det hele taget set i et bredere perspektiv.
+den enkelte opstillingskreds' egen kandidat
+Det må da være et rimeligt spørgsmål at få drøf- øverst. Det skulle fjerne den fordel, der kunne
+tet og belyst i forbindelse med et forslag som det være i at have et efternavn, der begynder med et
+her, og det tror jeg da også må være i spørgernes
+af de første bogstaver i alfabetet, hvis opstilog forslagsstillernes interesse at få på plads.
+lingslisten er sideordnet.";Kl. 13:20
+24947;Time;"Det er muligvis sympatisk at udvide partierFormanden:
+nes muligheder for at vælge mellem forskellige
+Der er ikke flere, der har bedt om korte bemærk- opstillingsformer. Dog tror vi ikke på, at ænninger til hr. Erling Bonnesen, så vi siger tak, og
+dringen vil få den store betydning, hvis den
+den næste i ordførerrækken er fru Lene Hansen. vedtages, for vi mener ikke, det har så stor betydning, hvor på listen man er placeret, hvis
+man ikke lige netop har den øverste plads. Væl-
+
+1256
+
+Tirsdag den 29. januar 2008 (L 49)
+
+gerne er generelt i stand til at finde den kandidat, de vil give deres stemme, uanset om de måske skal lede lidt efter navnet.
+Når vi ser på det næste forslag, L 50, er der
+her tale om et forslag, der potentielt kan ændre
+Folketingets sammensætning.
+I et svar til folketingsmedlem Magnus Heunicke fra Socialdemokratiet gør velfærdsministeren rede for, hvor mange kandidater der ved
+valget i november 2007 blev valgt med færre
+personlige stemmer end en af partiets andre
+kandidater i storkredsen, der ikke opnåede valg
+på grund af reglerne om fordelingen af listestemmer. Det viste sig, at ni sideordnet opstillede kandidater opnåede valg på trods af et lavere
+personligt stemmetal end en af partiets øvrige
+kandidater i storkredsen, der ikke opnåede valg.
+Ved valget i 2005 var dette antal nede på fire,
+og i et andet svar til Magnus Heunicke giver ministeren udtryk for, at det efter hendes mening
+ikke kan afvises, at dette faktum kan have sammenhæng med valgkredsreformen fra 2006, men
+at det er alt for tidligt at kunne udtale sig endegyldigt herom i dag, hvor vi jo kun har haft ét
+valg efter den store reform.
+Vi er positive over for at evaluere valgkampen: vi er på mange måder i gang, og også på
+denne front vil vi gerne evaluere valgkampen.
+Men vi mener, at vi skal se begge lovforslag i en
+større sammenhæng og afvente, at vi får større
+erfaring og mere indsigt i eventuelle problemer,
+når de næste par valg er overstået. Valgloven er
+en indviklet størrelse, enhver ændring af et system, vi har haft siden 1953, fortjener en grundig
+analyse, og L 50 kan muligvis give anledning til,
+at et sådant analysearbejde kan påbegyndes.";Kl. 13:21
+27118;Time;;Kl. 13:27
+27130;title_name;Ja tak. Der er en kort bemærkning fra hr. Kristian Thulesen Dahl.;Formanden
+27205;Time;;Kl. 13:27
+27233;name_party;":
+Man kan sige, at ordføreren vel næsten gør teknisk indviklede spørgsmål endnu mere tekniske
+og indviklede. Man kan jo også tage det her på
+en anden måde og sige: Vi har i dag lov til at
+have partilisteopstillinger, dvs. at vi har lov til at
+køre vælgerne delvis ud på et sidespor og sige,
+at partiet hovedsagelig bestemmer, hvem der
+bliver valgt. Det har man lov til i dag - altså at
+køre vælgerne delvis ud på et sidespor. Det tror
+jeg vi er enige om. Det var en, af de opstillingsformer, der fint blev redegjort for i ordførerindlægget.
+
+Så spørger vi: Må vi ikke godt få lov til at køre
+vælgerne fuldstændig ind som dem, der bestemmer? Må vi ikke, hvis vi synes om det i vores
+parti, sikre, at det altid er vælgernes dom, der er
+endelig, ved at sige, at det er de personlige stemmer, der afgør, hvem der bliver valgt til Folketinget?
+Så er der behov for en masse udredninger,
+evalueringer og vurderinger. Altså, hvordan kan
+det egentlig være? Det er jo ret enkelt. Hvorfor
+må man i dag lave partilisteopstilling og køre
+vælgerne delvis ud på et sidespor, mens vi ikke
+må få lov til at lade vælgernes dom være endelig
+ved at sige, at det alene er de personlige stemmer, der afgør, hvem der bliver valgt til Folketinget? Hvorfor skal det være så svært?";Kristian Thulesen Dahl
+28498;Time;;Kl. 13:28
+28510;title_name;Ordføreren.;Formanden
+28531;Time;;Kl. 13:28
+28547;name_party;":
+Hvis hr. Kristian Thulesen Dahl lagde mærke til
+min ordførertale, ville han bemærke, at vi er indstillet på at tage hele valgloven op på et tidspunkt og se på, hvilke konsekvenser den her
+nye valgkredsreform har haft for sammensætningen i Folketinget. Det er vi ikke afvisende
+over for, men vi mener på nuværende tidspunkt,
+at ét folketingsvalg altså er lige rigelig lidt at gå i
+gang med sådan en efterforskning ud fra.
+Der er også en anden ting, som jeg egentlig
+synes at Erling Bonnesen gjorde så glimrende
+rede for lige før, nemlig at det lokale medlemsdemokrati skal have sin tid til at diskutere så
+gennemgribende en ændring af en valglov.
+I Socialdemokratiet har vi den tradition, at vi
+ønsker, at debatten gror nedefra. Jeg er klar over,
+at Dansk Folkeparti er utrolig topstyret og med
+et snuptag kan ændre tingenes tilstand. Sådan
+har vi det ikke i Socialdemokratiet.";Lene Hansen
+29435;Time;;Kl. 13:30
+29447;title_name;"Der er yderligere en kort bemærkning fra hr.
+Kristian Thulesen Dahl.";Formanden
+29525;Time;;Kl. 13:30
+29553;name_party;":
+Der kom ordføreren vist lidt langt ud. Det her
+handler jo ikke om, om man i Socialdemokratiet
+og Venstre de næste 20 år skal have lov til at diskutere, hvordan man vil stille op. Man kan jo
+stille op, nøjagtig som man gør det i dag. Jeg håber, at forslagene er fuldstændig krystalklare på
+det punkt. Jeg vil så bede om at få bekræftet, at
+det, selv om de her forslag bliver vedtaget, er
+
+(158)
+Tirsdag den 29. januar 2008 (L 49)
+korrekt, at man efterfølgende i både Socialdemokratiet og Venstre vil kunne få al den debat,
+man vil have, om, hvorvidt man så skal gøre
+nytte af de forslagsmuligheder for at ændre opstillingsform, og at man kan afvise dem, og sige,
+at det vil man ikke. Er det ikke korrekt? Så det
+med medlemsdemokrati og med at gro nedefra
+og sådan noget kan man leve ud for fuld styrke.
+Det andet, jeg bliver nødt til at spørge til, er:
+Hvad i alverden har det her med valgkredsreformen at gøre? Jeg har selv været med til at lave
+den reform, og jeg kan ikke se, at det direkte
+vælgerstyre - altså at det er vælgerne, der bestemmer, hvem der bliver valgt via de personlige stemmer - har noget som helst at gøre med
+valgkredsreformen. Det er jo et principielt
+spørgsmål, om man er tilhænger af, at vælgernes dom er endelig, og at fordelingen af de personlige stemmer afgør, hvem der bliver valgt.
+Det kan man jo have en mening om totalt uafhængigt af valgkredsreformen.";Kristian Thulesen Dahl
+30949;Time;;Kl. 13:31
+30961;title_name;Ordføreren.;Formanden
+30982;Time;;Kl. 13:31
+30998;name_party;":
+Det lyder meget sympatisk, sådan som hr. Kristian Thulesen Dahl fremstiller sagen, men lovforslaget er jo fremsat med ønske om, at det skal
+have virkning allerede her fra denne sommer, og
+det giver sammenlagt 3-4 måneder til en drøftelse i vores lokale demokratiske partiforeninger.
+Sådan er fakta, hvis hr. Kristian Thulesen Dahl
+vil læse, hvad der står i lovforslaget.
+Med hensyn til det andet punkt, som hr. Kristian Thulesen Dahl vil have bekræftet, kan jeg
+da godt bekræfte, at sådan ville det være. Men vi
+mener bare, at en så væsentlig ændring skal ses i
+en større sammenhæng, og når ministeren selv
+siger, at hun ikke kan afvise, at valgkredsreformen kan have en eventuel sammenhæng med
+antallet af valgte, der opnår valg, selv om man
+har fået et lavere personligt stemmetal - altså at
+de to ting har noget med hinanden at gøre - så
+skal jeg ikke stå her og være klogere. Tværtimod. I respekt for den analyse, ministeriet har
+foretaget, er vi med på, at der skal en større,
+grundigere gennemgang af hele valgloven til set
+i et større perspektiv.";Lene Hansen
+32063;Time;;Kl. 13:32
+32075;title_name;"Så er det fru Lone Dybkjær for en kort bemærkning.
+
+1257";Formanden
+32142;Time;;Kl. 13:32
+32160;name_party;":
+Altså, jeg forstår helt ærligt ikke, hvad Socialdemokraterne er bange for. Der er ingen tvivl om,
+at den reform, vi netop har gennemført, var en
+revolution. Det er hævet over enhver tvivl. Og
+man tog faktisk beslutningen om reformen rimelig hurtigt, vil jeg vove at påstå. Det var jo ikke
+sådan, at man brugte hundrede år på denne reform, som dramatisk ændrede hele billedet - for
+det har den selvfølgelig gjort med indførelsen af
+storkredse: det ved enhver, der har beskæftiget
+sig med politik i mere end 5 minutter.
+Derfor synes jeg, at det er helt absurd, at Socialdemokratiet, i den argumentation, de fremfører nu, siger, at der bare er blevet lavet sådan
+en stor valgkredsreform. Jeg mener ikke, at den
+har været drøftet i detaljer alle mulige steder
+med alle mulige involverede, og at man har
+kunnet sige, hvad de fulde konsekvenser af det
+ville være.
+Det her forslag er jo en detalje i forhold til det,
+der netop er blevet gennemført. Jeg fatter ikke,
+hvordan man kan bruge den argumentation.
+Man kan godt sige: Vi vil ikke have flere muligheder. Det er i orden, det kan jeg acceptere. Men
+at man skal bruge så lang tid på noget, der er så
+lille en del i forhold til det andet, forstår jeg ikke.";Lone Dybkjær
+33374;Time;;Kl. 13:33
+33386;title_name;Ordføreren.;Formanden
+33407;Time;;Kl. 13:33
+33423;name_party;":
+Vi er ikke sikre på, at den ændring af valgloven,
+som man foreslår her, er så lille endda. Der er jo i
+forslaget ikke lavet nogen form for konsekvensanalyse af, hvad de her ting vil komme til at betyde. Hvis der havde været en grundig konsekvensanalyse, så havde vi kunnet tage debatten
+på et mere sagligt og oplyst grundlag.
+Hvad angår den hastighed, hvormed valgkredsreformen blev indført, så skal jeg da fortælle fru Lone Dybkjær, at de ansvarlige ordførere
+fra vores parti rejste landet tyndt for at diskutere
+med alle partiforeninger, der overhovedet ytrede interesse for det.";Lene Hansen
+34016;Time;;Kl. 13:34
+34028;title_name;Fru Lone Dybkjær for en sidste kort bemærkning.;Formanden
+34085;Time;;Kl. 13:34
+34103;name_party;":
+Jamen så går jeg også ud fra, at man vil kunne
+gøre det i det her tilfælde, hvis man ved, hvad
+
+1258
+
+Tirsdag den 29. januar 2008 (L 49)
+
+det er, man rejser rundt med, og det er jo derfor,
+at det ville være rart, hvis forslaget så var vedtaget. Nu handler det jo ikke om, at det skal være
+vedtaget til sommer eller næste sommer - det er
+jo ikke det, vi snakker om. Jeg synes også, at det
+her forslag på grund af valget selvfølgelig er
+kommet senere, end det ellers ville være kommet. Så det er vel ikke det, der skiller os ad.
+Jeg synes også, det ville være dejligt, hvis vi
+kunne bidrage med konsekvensanalyser, og jeg
+kan godt oplyse, at Folketinget ville komme til
+at se anderledes ud. Folketinget er fuldstændig
+skævt fordelt i forhold til alfabetet, og det synes
+jeg vi skal få undersøgt. Det er jo en relativt nem
+undersøgelse. Det er ikke så nemt for folk at finde dem, der ligger længere nede på listen, og det
+er da også en fordel at hedde Dybkjær. Så det er
+sådan set ikke min egen sag, jeg taler. Det er en
+endnu større fordel at hedde Andersen, men det
+er så, hvad det er. Men det synes jeg er vigtigt.
+Det andet er, at det selvfølgelig også ville
+have den konsekvens, at det kun var de personlige stemmer, der talte, og det ville lige nu betyde, at vistnok syv af de nuværende folketingsmedlemmer ikke ville være kommet ind i Folketinget, fordi pladserne ville være gået til nogle
+andre. Så det kan vi jo hurtigt finde ud af.
+Derfor vil jeg bare gerne have at vide, hvad
+det er for andre konsekvensanalyser, som ordføreren på Socialdemokratiets vegne mener, at der
+er brug for, siden der skal gå mange folketingsvalg - og det var det, der chokerede mig lidt mange folketingsvalg, før man kan forestille sig
+sådan en lillebitte reform. Jeg tror, at det var hr.
+Erling Bonnesen, der talte om højere retfærdighed, men jeg mener nu ikke, man kan sige, at alfabetet just er udtryk for en højere retfærdighed.";Lone Dybkjær
+36032;Time;;Kl. 13:36
+36044;title_name;Ordføreren.;Formanden
+36065;Time;;Kl. 13:36
+36081;name_party;":
+Jeg synes, fru Lone Dybkjær peger på nogle faktorer, som kunne være værd at undersøge nærmere. Det var jo præcis det, jeg egentlig var inde
+på i min ordførertale.
+Vi afviser ikke, at der skal ses på sammenhængen mellem personlige stemmer, listestemmer, opstillingsformer og valgkredsinddeling,
+men vi mener kun, at det er for tidligt endnu.
+Det er ikke sikkert, at der skal gå mange folketingsår, det tror jeg ikke der skal. Nu har vi overstået et valg, og lad os dog høste erfaringen fra i
+hvert fald det næste og måske det næste igen, og
+
+så kan vi tage alle de problemer op, der viser sig.
+Valgloven er ikke noget, man går og ændrer på
+sådan tjuhej i løbet af 3 måneder.";Lene Hansen
+36766;Time;;Kl. 13:37
+36778;title_name;Så er det hr. Hans Kristian Skibby for en kort bemærkning.;Formanden
+36846;Time;;Kl. 13:37
+36872;name_party;":
+Det er en meget interessant debat, og jeg må da
+indrømme, at det overrasker mig noget, at man i
+dag skal opleve Socialdemokraterne i den grad
+springe let og elegant hen over det, der hedder
+demokrati og demokratiopfattelse. Der er her
+tale om, at fru Lene Hansen var inde på, at hun
+ikke mente, at hr. Kristian Thulesen Dahl havde '
+læst lovforslaget. Jamen har ordføreren overhovedet selv læst, at der i begge lovforslag udtrykkeligt indtil flere steder står, at partierne kan blive opstillet. Det er faktisk et ekstra valg, det er et
+tilbud, det er noget, man kan tage i hånden og
+sige ja til, eller man kan vælge at forkaste det. Vil
+ordføreren ikke bekræfte, at der faktisk er tale
+om to tilbud, som man kan vælge at tage imod
+eller lade være med at tage imod?";Hans Kristian Skibby
+37648;Time;;Kl. 13:37
+37660;title_name;Ordføreren.;Formanden
+37681;Time;;Kl. 13:37
+37697;name_party;":
+Det er jo lidt muntert at høre en repræsentant fra
+Dansk Folkeparti udtale sig om demokratiopfattelse. Når jeg står på talerstolen i dag og plæderer for, at det er nødvendigt med mere tid, er det
+i respekt for det lokale medlemsdemokrati. Vi
+har et parti, der ikke er topstyret, og som derfor
+har krav på en grundig drøftelse. Det er det, jeg
+siger.
+Hvis vi en dag skulle vedtage det, der ligger
+her, så er det fuldstændig korrekt, at man så ville
+kunne indføre det omtalte forslag. Det er ikke en
+pligt, det er en mulighed, og det anser vi for positivt. Det er derfor, vi ikke fuldstændig har afvist forslagene.";Lene Hansen
+38321;Time;;Kl. 13:38
+38333;title_name;"En supplerende kort bemærkning fra hr. Hans
+Kristian Skibby, værsgo.";Formanden
+38411;Time;;Kl. 13:38
+38437;name_party;":
+Man må i hvert fald konkludere, at med den
+indfaldsvinkel, ordføreren har til det her, så har
+man i hvert fald hos Socialdemokraterne besluttet, at man vil afskære andre partier fra at have
+
+Tirsdag den 29. januar 2008 (L 49)
+en række muligheder. Det er da en sjov måde at
+gøre det på.
+Men jeg vil gerne stille ordføreren et spørgsmål. Nu var ordføreren jo lidt kæk vedrørende
+noget, der hedder topstyring i andre partier osv.,
+og ordføreren var også inde på demokratiopfattelse. Jeg vil erindre ordføreren om, at dengang
+George Bush blev præsident i USA og faktisk ud
+fra det samlede antal stemmer, der blev afgivet i
+USA, fik færre stemmer end Al Gore fra Demokraterne, som jo ligger sådan nogenlunde på linje med ordførerens eget parti, Socialdemokratiet
+i Danmark, sagde flere Socialdemokrater: Der
+kan man bare se, der er ikke så stor en demokratiopfattelse i USA, som der måske burde være,
+når listen med færrest stemmer, render med
+præsidentposten, og de, der har fået flest, ikke
+får den. Er det ikke nogenlunde det samme her?
+Vi har faktisk nogle, der bliver valgt med færre
+stemmer, og så har vi nogle, der får flere stemmer til valget, men de bliver ikke valgt. Og det
+er så noget, som ordføreren og Socialdemokraterne har i sinde at forsvare.";Hans Kristian Skibby
+39704;Time;;Kl. 13:40
+39716;title_name;Ordføreren.;Formanden
+39737;Time;;Kl. 13:40
+39753;name_party;":
+Nej, det forsvarer vi ikke. Det eneste, vi kritiserer, er den snævre tidsramme, som man ønsker
+de her ændringer indført med.
+Tidligere sagde fru Lone Dybkjær, at det jo
+ikke skulle være tiden, der adskilte os, men jeg
+tror, det lige netop er det, der adskiller os, fordi
+selve indholdet i forslagene kan være meget
+sympatisk, men vi skal have mere tid til at drøfte, hvilke konsekvenser de her forslag vil få. Og
+så længe man ikke ulejliger sig med at udarbejde forslag til love, der indeholder konsekvensanalyser, så kan man vel dårligt tro på, at man
+kan få vedtaget lovforslaget efter en hurtig gennemgang her i salen.";Lene Hansen
+40386;Time;;Kl. 13:41
+40398;title_name;"Så er der ikke ønsker om flere korte bemærkninger. Vi siger tak til fru Lene Hansen. Den næste i
+ordførerrækken er hr. Hans Kristian Skibby.";Formanden
+40548;Time;(Ordfører);Kl. 13:41
+40585;name_party;":
+De to lovforslag, som vi har behandling i Folketinget i dag, drejer sig om folketingsvalg. Det
+drejer sig om et valg, og det drejer sig om et valg
+for den enkelte borger, og det drejer sig om et
+
+1259
+
+valg for de partier, som er demokratisk opstillet
+jævnfør de valgregler, der er for at opnå mulighed for at være på stemmesedlerne ved det
+kommende folketingsvalg. Ordet valg går igen
+og igen, det er et valg for borgeren, hvem man
+vil stemme på personligt, og hvilket parti man
+vil stemme på, og det er, som det skal være.
+Det, vi så bare må konkludere ud fra debatten
+om de her lovforslag, er jo så, at nogle her i salen
+har i sinde at tage valget fra andre og så ellers
+negligere, at der faktisk er en skævhed i den her
+valglov - og det er så for at blive ved nr. 2 af de
+her lovforslag, nemlig L 50. Problemstillingen
+ved skævheden går på, at man kan blive valgt til
+Folketinget med færre personlige stemmer end
+en fra sit eget parti, hvis man ellers er lidt mere
+og lidt ekstra kendt uden for sin egen primære
+valgkreds, for så får man tilgang af listestemmer
+fra andre områder i storkredsen. Det er en problemstilling, som vi i Dansk Folkeparti synes er
+værd at bruge lidt tid på at vurdere.
+Det er jo ikke en nedgørelse af dem, der er
+valgt til det eksisterende Folketing. Socialdemokraternes ordfører brugte meget tid på at beskrive, hvor mange der blev valgt på de her præmisser ved valget i 2005, og hvor mange der blev
+det i 2007. Det er sådan set et supplement, og
+der synes jeg, at det er vigtigt, at vi i dag pointerer, at de her to lovforslag er lovforslag, som er
+supplement til den gældende valglov. Det er
+ikke noget, som giver begrænsninger i Socialdemokratiet, det giver ingen begrænsninger hos
+Venstre, det giver ingen begrænsninger nogen
+som helst steder organisatorisk eller andet, det
+er et valg, som de enkelte opstillingsberettigede
+partier kan træffe i forbindelse med planlægningen af deres valg.
+Jeg synes som ordfører for Dansk Folkeparti,
+at det er betænkeligt, at man i Folketinget vil
+skyde det til hjørnespark, at folk, der faktisk har
+fået mange personlige stemmer og har fået flere
+personlige stemmer end andre på listen, bliver
+vraget, selv om vælgerne faktisk har givet en tilkendegivelse af, at det er ham eller hende, som
+de helst ser på det mandat for partiet. Det er den
+ene side af det. Det var L 50.
+L 49 drejer sig om den tekniske hindring, der
+er i, at man har enten en fordel eller en ulempe,
+alt efter hvilket efternavn man har. Og der må vi
+da - hånden på hjertet - ikke skulle bruge ret
+meget tid på det, som er blevet sagt tidligere fra
+ordførere, nemlig at vi skal have undersøgt noget nærmere, at vi skal have nogle erfaringer og
+et større grundlag, og at vi skal bruge nogle år
+
+1260
+
+Tirsdag den 29. januar 2008 (L 49)
+
+på at kigge på evaluering af det her område. Det
+behøver vi altså ikke, for det her er et supplement til den gældende valglov, og det betyder,
+at hvis et parti ønsker, at det skal være dem, der
+deltager i et opstillingsmøde, som skal bestemme, hvilken rækkefølge partiets kandidater skal
+stå i, så er det vælgerne, medlemmerne af partierne, som bestemmer rækkefølgen. Det skal ikke
+bare være det, at man hedder Andersen eller
+Åbrink, som gør, at man får en teknisk fordel eller en teknisk ulempe ved at kandidere. Derfor
+synes Dansk Folkeparti naturligvis, at vi bør
+støtte begge lovforslag. Vi er medforslagsstillere
+på L 49, og vi kunne såmænd også godt have
+været det på L 50, men for at bevare spændingen
+synes vi, at det var interessant at være med i det
+ene af dem.";Hans Kristian Skibby
+44145;Time;;Kl. 13:45
+44157;title_name;"Ja tak. Så er der en kort bemærkning fra fru Lene
+Hansen.";Formanden
+44224;Time;;Kl. 13:45
+44240;name_party;":
+I min ordfører tale gjorde jeg meget ud af at efterlyse, hvilke konsekvenser de her forslag ville
+få på bl.a. Folketingets sammensætning, og der
+er også kommet nogle lidt svævende svar fra
+både den ene og den anden af forslagsstillerne.
+Nu vil jeg gerne høre ordføreren, om ordføreren kan oplyse mig om, hvorvidt der er en sammenhæng mellem den store valgkredsreform og
+det faktum, at der er flere medlemmer, der er
+valgt med lavere personlige stemmetal efter dette valg, end der var i 2005. Kan ordføreren fortælle mig, om der er en sammenhæng mellem
+de to ting?";Lene Hansen
+44815;Time;;Kl. 13:46
+44827;title_name;Ordføreren.;Formanden
+44848;Time;;Kl. 13:46
+44874;name_party;":
+Der vil jo altid være en sammenhæng, i og med
+at der er blevet færre storkredse. Det betyder
+selvfølgelig også, at der i de enkelte storkredse
+er flere kredse, og dermed konkurrerer man jo i
+partierne med flere kandidater fra sin egen liste.
+I Østjylland eksempelvis, hvor jeg er valgt til
+Folketinget, har man 11 kredse, og det havde
+man ikke tidligere. Derfor kan der selvfølgelig
+ligge en fordel - skråstreg - ulempe i, at kredsene er blevet større, og at der er blevet flere kredse inde i den enkelte storkreds. Men det er jo
+ikke noget, jeg skal stå og kloge mig på.
+
+Det, jeg sådan set bare appellerer til, er, at
+man med de her to lovforslag giver en større demokratisk opfattelse af og en større demokratisk
+indsigt i, hvordan valget til Folketinget foregår. I
+dag er det jo altså desværre sådan, at man kan
+blive valgt med færre stemmer end en, der får
+flere, og det synes jeg og Dansk Folkeparti virker underligt. Det virker underligt, at man, når
+der eksempelvis er 262 flere vælgere, der stemmer på den ene kandidat i forhold til den anden,
+så kan se, at den, der bliver valgt, er den, der har
+fået færrest stemmer. Det plejer jo at være sådan
+i et demokrati, at den, der får flest stemmer, er
+den, der bliver valgt.";Hans Kristian Skibby
+46114;Time;;Kl. 13:47
+46126;title_name;Fru Lene Hansen for yderligere en kort bemærkning.;Formanden
+46186;Time;;Kl. 13:47
+46202;name_party;":
+Kan ordføreren oplyse om, hvorvidt det også
+har været tilfældet før i tiden, at det kunne forekomme, at der blev valgt folketingsmedlemmer
+med et lavere personligt stemmetal end andre i
+samme kreds?
+Med hensyn til den lidt åbenlyse uvidenhed,
+som ordføreren lægger for dagen om sammenhængen imellem valgkredsreformen og den ændring, der nu er foreslået, mener ordføreren så
+ikke, at det kunne være rigtigt og rimeligt at
+lægge til grund, at man skal have et lidt større
+analysearbejde, der kan afdække alle de konsekvenser, valgkredsreformen har haft? Og i den
+forbindelse hvilke konsekvenser ændringer af
+opstillingsformer m.v. vil få for sammensætningen af Folketinget. Kunne det ikke være en rimelig analyse at foretage?";Lene Hansen
+46937;Time;;Kl. 13:48
+46949;title_name;Ordføreren.;Formanden
+46970;Time;;Kl. 13:48
+46996;name_party;":
+Jeg vil gerne indlede med at sige, at når ordføreren kommer op i det toneleje, og man kalder andre her i Folketinget for uvidende, så er det som
+regel et godt tegn på, at man selv har en meget
+dårlig argumentation for de påstande, som man
+vælger at drage ind i debatten. Men lad det nu
+være.
+Det er jo ikke nogen hemmelighed, at der
+også har været eksempler på det her tidligere. I
+2001 har vi også folk, der bliver valgt til Folketinget på baggrund af, at man faktisk fik flere af
+sine stemmer uden for sin egen primære valg-
+
+Tirsdag den 29. januar 2008 (L 49)
+kreds. Det er ikke noget nyt. Men det er jo klart,
+at når valgkredsene bliver større, er der selvfølgelig også en større risiko for, at det vil kunne
+opstå. Det kan man jo ikke afvise.
+Det her er jo faktisk alle tiders forslag, fordi
+det er med til at gøre den måde, som partierne
+har mulighed for at stille op til valg på, mere demokratisk.
+Så vil jeg gerne endnu engang appellere til
+ordføreren om lige at lytte til mine ord om, at
+det her er to »kan«-love. Der er ingen »skal«love i det her, det er »kan«-love. Det er et tilbud
+til partierne, som er opstillet jævnfør vores
+valglov. Derfor betyder det altså også, at man sådan set bare får flere nøgler til at stikke i instrumentbrættet.";Hans Kristian Skibby
+48262;Time;;Kl. 13:49
+48274;title_name;Hr. Rasmus Prehn for en kort bemærkning.;Formanden
+48324;Time;;Kl. 13:49
+48341;name_party;":
+Vi hører jo Dansk Folkepartis ordfører her virkelig svinge sig op på den store, demokratiske
+hest. Men har ordføreren slet ikke sympati for, at
+man simpelt hen gør sig den ulejlighed lige at
+undersøge lidt nærmere, hvad det rent faktisk
+kan få af konsekvenser, inden man vedtager noget? Kunne det ikke være en idé, inden man bruger demokratiet til at vedtage noget, at man så
+lige sætter sig lidt ind i det og prøver at få det
+undersøgt?
+Det sidste, jeg vil spørge om, er: Har ordføreren slet ikke sympati for det lokaldemokratiske
+element, der ligger i, at vi i Socialdemokratiet siger, at der kan være spændende elementer i det
+her, men vi vil også gerne have lejlighed til at
+diskutere det med vores bagland i de enkelte
+kredse? Der er tusindvis af mennesker, som lægger et frivilligt stykke arbejde i det demokratiske
+arbejde, det er at opstille folketingskandidater,
+og i at lave andet politisk arbejde. Er der ikke
+noget sympatisk i at inddrage dem og høre,
+hvad de synes om det her, inden man bare trumfer det igennem her fra Folketingets side?";Rasmus Prehn
+49404;Time;;Kl. 13:50
+49416;title_name;Ordføreren.;Formanden
+49437;Time;;Kl. 13:50
+49463;name_party;":
+Tænk, at man skal høre fra hr. Rasmus Prehn, at
+man gennemtrumfer noget her i Folketinget,
+som er en »kan«-lov. Det er et ekstra supplement, det kan da ikke være at gennemtrumfe
+noget.
+
+1261
+
+Socialdemokraterne har her i dag sagt: Jamen
+vi vil gerne have det til studiekreds i vores vælgerforeninger. Vi vil gerne have analyser og evalueringer osv. For min skyld - og for Dansk Folkepartis skyld - må Socialdemokraterne evaluere, hvordan de vil opstille til næste valg og næste valg, alt det, de vil. Men det forhindrer altså
+ikke, at man vedtager den her lov, som gør to
+ting.
+Nu nævnte hr. Rasmus Prehn jo selv ordet
+konsekvenser og spurgte, om der var nogle konsekvenser. Ja, det er der. Der er to konsekvenser.
+Den ene er, at partierne får en ekstra mulighed
+for at stille op og eliminere en valgteknisk forskelsbehandling af kandidaterne, som går på,
+hvad for et forbogstav de har i deres efternavn,
+set i alfabetisk sammenhæng. Den anden er, at
+partierne får mulighed for, at det er de personlige stemmer, som afgør, hvem der bliver valgt.
+Det er vælgerne, der bestemmer, hvem der bliver valgt, hvorimod det i dag er sådan, at det er
+partilistestemmerne, der afgør, hvem der bliver
+valgt - i visse tilfælde. Det er to af de konsekvenser, som det her lovforslag medfører.";Hans Kristian Skibby
+50751;Time;;Kl. 13:51
+50763;title_name;Hr. Rasmus Prehn for yderligere en kort bemærkning.;Formanden
+50824;Time;;Kl. 13:51
+50841;name_party;":
+Det er jo lidt sjovt, at ordføreren lægger så meget
+vægt på det her med, at partierne få lov til at bestemme noget. Nu er det jo sådan i Danmark desværre - at det, at partierne får lov til at bestemme noget, ikke nødvendigvis er ensbetydende med mere demokrati.
+Vi kender i hvert fald til et parti, som er i Folketinget - nemlig ordførerens eget - hvor der
+ikke er tradition for, at man i de enkelte opstillingskredse har nogen som helst demokratisk
+proces. Det er meget mere topstyret, hvem det
+er, der får de enkelte kredse. I hvert fald er det
+ikke noget, der foregår i den enkelte kreds: det
+er noget, der sker på storkredsniveau.
+Derfor kunne jeg godt tænke mig at høre,
+hvordan Dansk Folkeparti vil håndtere det her,
+hvis det var, det kom igennem. Det kunne jo så
+blive en oplagt anledning til rent faktisk at indføre demokrati i Dansk Folkeparti, sådan at man
+i stedet for bare at give de bedste kredse til de
+mest magtfulde personer internt i partiet sagde:
+Nu vil vi faktisk give mulighed for, at man
+blandt medlemmerne - det deltagende demokrati - kan være med til at bestemme noget her.
+
+1262
+
+Tirsdag den 29. januar 2008 (L 49)
+
+Er det en overvejelse, som Dansk Folkepartis
+ordfører har gjort sig?";Rasmus Prehn
+52063;Time;;Kl. 13:52
+52075;title_name;Ordføreren.;Formanden
+52096;Time;;Kl. 13:52
+52122;name_party;":
+Ordføreren har i hvert fald lige gjort sig overvejelse om, hvorvidt han er lidt i tvivl om, hvilken
+indsigt hr. Rasmus Prehn har i interne forhold i
+Dansk Folkeparti. Personligt vil jeg selvfølgelig
+glæde mig over, at hr. Rasmus Prehn tænker på
+vores velbefindende og vores demokratiske sindelag i Dansk Folkeparti, men det er jo altså sådan, at vi har en organisation, og der har vi årsmøder, og vi har kongresser, vedtægter, valgudvalg osv. Sådan er det i alle partier, og mig bekendt er der ikke den store forskel på, hvordan
+man gennemfører de her kandidatvalg.
+Det er jo sådan, at det er medlemmerne i
+Dansk Folkeparti, som bestemmer, hvem der
+skal på vores liste. Så skal jeg ikke gøre mig klog
+på, hvordan det er i Socialdemokraterne, men
+jeg har da en opfattelse af, at det også burde
+være sådan i Socialdemokraterne.
+Det er mere end en gang, vi har oplevet, at
+fagbevægelsen går ind og blander sig lidt i,
+hvem Socialdemokraterne skal stille op de forskellige steder, og hvem der skal have de vigtige
+kredse. Jeg husker f.eks. engang i Vejlekredsen,
+hvor fru Karen J. Klint heldigvis fik mandatet,
+men hvor man kom fra København med en anden kandidat, som kom fra fagbevægelsen, og
+man mente, at her var lige den, der skulle til i
+Vejle, og vedkommende måtte så tage med toget
+hjem igen. Sådan kan det jo også gå, og det er
+altså medlemsdemokrati.";Hans Kristian Skibby
+53490;Time;;Kl. 13:53
+53502;title_name;Det er hr. Erling Bonnesen for en kort bemærkning.;Formanden
+53562;Time;;Kl. 13:53
+53582;name_party;":
+Min fulde respekt for forslagsstillernes synspunkter og holdninger, og jeg tror også, jeg har
+forstået ordførerens argumenter for det.
+Jeg vil godt lidt nærmere ind på det her med
+kredsenes betydning igen og spørge ordføreren:
+Har ordføreren og partiet gjort sig nogen overvejelser om, hvilken betydning - såfremt de her
+to forslag bliver vedtaget - det kan få for kredsene, og overvejelser om forslagenes betydning sådan i den samlede valgmaskine og ikke kun i
+
+den enkelte situation, men sådan den samlede
+betydning?";Erling Bonnesen
+54112;Time;;Kl. 13:54
+54124;title_name;Ordføreren.;Formanden
+54145;Time;;Kl. 13:54
+54171;name_party;":
+Man behøver jo ikke det store analysearbejde eller kartotek for at kunne vurdere, at de kredse,
+der har mange vælgere, selvfølgelig også er de
+kredse - for en kandidat, som gerne vil vælges hvor man måske har den største interesse i at
+lade sig opstille. Sådan har det været ved alle de
+foregående valg, som jeg kan huske, i hvert fald
+siden jeg begyndte at interessere mig for politik,
+og sådan er det jo selvfølgelig også med de nye
+valgkredse, hvor vi, til trods for at vi har gjort
+nogle af de mindre valgkredse større, har oplevet, at nogle af de store så til gengæld er blevet
+halveret - eksempelvis er Randers, Kolding og
+Vejle nogle af de kommuner, hvor man jo faktisk
+ødelagde nogle store, gode valgkredse og så fik
+to små i stedet for. Sådan er det gået nogle steder, men jeg vil selvfølgelig ikke gøre mig klog
+på, hvordan det vil gå for Venstres kandidater
+ved et folketingsvalg. Det tilkommer jo ikke
+mig. Det synes jeg faktisk er en sag mellem vælgerne og kandidaterne, som stiller sig til rådighed.";Hans Kristian Skibby
+55196;Time;;Kl. 13:55
+55208;title_name;"Ønsker nogen yderligere korte bemærkninger?
+Hr. Erling Bonnesen.";Formanden
+55282;Time;;Kl. 13:55
+55302;name_party;":
+Jeg spurgte sådan set ikke om, hvilken betydning det ville få i forhold til vores parti. Jeg
+spurgte faktisk om ordførerens holdninger, meninger, vurderinger i forhold til kredsene, men
+dem synes han ikke sådan rigtig at ville foretage, og så vil jeg da godt prøve at præcisere det
+lidt og spørge, om ordføreren og partiet har gjort
+sig nogle overvejelser om betydningen af forholdet mellem den enkelte opstillingskreds og storkredsen i den samlede valgmaskine, hvis man
+skal sige det således. Det er der, jeg vil hen.";Erling Bonnesen
+55832;Time;;Kl. 13:55
+55844;title_name;Ordføreren.;Formanden
+55865;Time;;Kl. 13:55
+55891;name_party;":
+Jeg synes egentlig, jeg har gjort mig stor ulejlighed med at svare på det her indtil flere gange.
+Det her er et tillæg til den eksisterende valglov.
+
+Tirsdag den 29. januar 2008 (L 49)
+Der er ikke noget, der ryger ud. Der er ikke nogen ting, der ryger ud af valgloven om opstillingsmåden. Jeg har stadig væk de fire andre opstillingsmåder med partilister og sideordnet
+med nominering og alt muligt andet. De ligger
+der stadig væk. Her kommer bare et femte tilbud til de partier, som er opstillet, og det her
+femte tilbud er så det, hvor der tilsyneladende
+her i Folketinget er et flertal, som synes, at man
+ikke skal have det. Man mener så stadig væk, at
+det er helt efter bogen, at man har en teknisk fordel ved at stille op som Andersenkandidat og
+har en tilsvarende ulempe som Åbrinkkandidat,
+og det kan vi ikke tilslutte os i Dansk Folkeparti.
+Vi mener faktisk, at det er politikernes evner, der
+skal til for at blive valgt, og ikke vedkommendes
+efternavn.";Hans Kristian Skibby
+56864;Time;;Kl. 13:56
+56876;title_name;"Der er ikke flere korte bemærkninger. Vi siger
+tak til hr. Hans Kristian Skibby, og så er det hr.
+Flemming Bonne i ordførerrækken.";Formanden
+57016;Time;(Ordfører);Kl. 13:56
+57047;name_party;":
+Jeg må jo konstatere, at det ikke er i dag, der er
+tid til de store forandringer. Jeg undrer mig såre
+over, at der udvises sådan en fodslæbende holdning af både Venstre og Socialdemokratiet i den
+her sag. Jeg forstår det ganske enkelt ikke. Men
+nu skal jeg så fortælle, hvad jeg som ordfører har
+med fra min egen gruppe, og fra Enhedslisten
+for den sags skyld.
+Indholdet i lovforslag nr. L 49 betyder, at de
+nuværende opstillingsformer suppleres, så der
+kan skabes mulighed for en politisk prioriteret
+opstillingsliste og ikke som i dag en tilfældig alfabetisk. Det er, hvad det forslag drejer sig om,
+hverken mere eller mindre, og det er en udvidelse af partiernes muligheder for at udøve medlernsdemokrati, når man skal tage stilling til opstillingslisterne.
+I lovforslag nr. L 50 handler det ganske enkelt
+om, at man supplerer med endnu en opstillingsform, nemlig således at der lægges op til, at man
+kan fravælge listestemmerne, således at det alene er de personlige stemmer, der afgør, hvem
+der skal vælges.
+SF synes, at det her er en klar fordel, der ligger i begge forslagene, og hos os glæder vi os da
+meget til at skulle diskutere det her hjemme
+med medlemmerne, når der skal laves opstil-
+
+1263
+
+lingslister ved kommende valg. Så jeg skulle hilse og sige, at både SF og Enhedslisten støtter forslagene.";Flemming Bonne
+58371;Time;;Kl. 13:58
+58383;title_name;"Tak til hr. Flemming Bonne. Der er ikke nogen,
+der har bedt om korte bemærkninger, så den
+næste i ordførerrækken er hr. Mike Legarth.";Formanden
+58526;Time;(Ordfører);Kl. 13:58
+58555;name_party;":
+Det Konservative Folkeparti har forholdt sig til
+L 49 og L 50, og vi har også den opfattelse, at det
+her er en drastisk ændring af valgloven. Vi synes, at der er mange gode elementer i forslagene, men vi vil gerne have lov til at debattere dem
+med vores bagland, inden vi tager endelig stilling til dem.
+Hvad angår L 49, som handler om prioriteret
+opstilling, kan vi godt se, at der kan være gode
+argumenter for en anden opstillingsform, men
+vi synes, at det er vigtigt, at vi har vores bagland
+med på råd. Vi har jo også hørt fra debattørerne i
+dag, at det her ikke er et kardinalpunkt, at den
+valglov, vi har, fungerer udmærket, så vi skal
+sammen med vores bagland tage stilling til, om
+der findes en bedre opstillingsmåde end den eksisterende, og om partiet skal kunne prioritere
+listen fra partiet eller fra et opstillingsmøde.
+Men inden vi tager stilling til det, vil vi som
+nævnt gerne have det her sendt i høring i vores
+eget bagland.
+Med hensyn til L 50, hvor vi skal forholde os
+til, om man alene skal vælges på personlige
+stemmer, eller om listestemmerne skal tælle
+med, synes vi også, at det er relevant, at vores
+bagland, som jo er dem, der yder en stor indsats
+i valgkampen og også har en vis indflydelse på,
+hvem der bliver valgt, bliver hørt, sådan at vi
+kan tage stilling til, om det altså er de enkelte
+stemmer, der skal belønnes med en kandidatur
+eller et medlemskab, eller om det også skal belønnes, at man yder en bred indsats og på den
+måde får andel i listestemmerne, så det er det,
+der bliver udslagsgivende.
+Vi synes, der er mange positive elementer i
+forslagene, men som sagt er konklusionen, at vi
+vil debattere dem med vores bagland, og så foreslår vi i lighed med Venstre og Socialdemokratiet, at vi udsætter den endelige beslutning til efter næste valghandling. Derfor kan vi ikke støtte
+forslagene.
+
+1264
+
+Tirsdag den 29. januar 2008 (L 49)";Mike Legarth
+60439;Time;;Kl. 14:00
+60451;title_name;"Der er en kort bemærkning fra hr. Hans Kristian
+Skibby.";Formanden
+60516;Time;;Kl. 14:00
+60542;name_party;":
+Det er jo sådan med de to lovforslag her, hvilket
+jeg også selv nævnte i min ordførertale, at det
+ikke er en begrænsning for nogen, men det er et
+tilbud til alle. Det er sådan set det, der er formålet med begge de to lovforslag. Der noterede jeg
+mig, at ordføreren sagde i sin ordførertale, at det
+her var en så stor, drastisk ændring af den gældende valglov, at man så sig nødsaget til at sende den til vurdering i sit bagland.
+Jeg vil gerne spørge ordføreren, hvor den drastiske ændring ligger i noget, når man overhovedet ikke ændrer et komma. Man laver faktisk
+blot et tillæg, som giver flere muligheder. Hvordan i himlens navn kan det dog være drastisk?";Hans Kristian Skibby
+61212;Time;;Kl. 14:01
+61224;title_name;Ordføreren.;Formanden
+61245;Time;;Kl. 14:01
+61263;name_party;":
+Det er vores opfattelse, at eftersom vi synes, det
+er nødvendigt at debattere det her med vores
+bagland, inden vi lægger os fast på, hvad vores
+holdning præcis er til det her, går vi også ud fra,
+at det er hensigtsmæssigt for andre. I hvert fald
+er vi sikre på, at der kan være en konsekvens, og
+det vil vi gerne afklare om der er. Vi er jo meget
+pragmatiske. Vi siger, at vi ikke ved, præcis hvilke høringssvar vi vil få, men vi vil være sikre på,
+at den beslutning, vi træffer, er rigtig, og derfor
+vil vi gerne være i tråd med vores bagland.";Mike Legarth
+61819;Time;;Kl. 14:01
+61831;title_name;"Der er yderligere en kort bemærkning fra hr.
+Hans Kristian Skibby.";Formanden
+61907;Time;;Kl. 14:01
+61933;name_party;":
+Nu vil jeg jo ikke drille hr. Mike Legarth alt for
+meget med det der med pragmatisme, som ordføreren har brugt lidt tid på, men ordføreren har
+jo ikke været så længe i Folketinget, at erfaringerne med den her slags lovforslag kan være
+særlig store. I det her tilfælde bliver det nærmest
+skudt ikke bare til hjørnespark, men faktisk
+sparket helt ud fra Christiansborgs område, og
+derfor synes jeg måske også, at ordføreren efterfølgende skulle tænke lidt over det med pragmatisme.
+
+Nu har ordføreren brugt meget tid på at sige,
+at det her skal i høring i det konservative bagland osv., fordi det er noget, der har betydning
+for baglandet og for strukturer osv., så jeg vil
+gerne stille ordføreren et ret ukompliceret
+spørgsmål:
+Vi ved, at ordføreren selv er kommunalordfører og næstformand, mens jeg jo er formand, i
+Kommunaludvalget. Vi har mange lovforslag i
+Folketinget, som også vedrører kommunerne,
+og som kan have betydning for baglandet, altså
+de konservative byrådsmedlemmer, de konservative regionsrådsmedlemmer eller andre, som
+måske lever af mere eller mindre direkte tilskud
+fra statsfinanserne, så jeg vil gerne spørge, om
+der ikke er en masse andre lovforslag, hvor man
+også i Det Konservative Folkeparti vil kunne risikere at få gevaldig travlt med at skulle indhente evalueringer, feedback, svarskrivelser osv.?";Hans Kristian Skibby
+63271;Time;;Kl. 14:03
+63283;title_name;Ordføreren.;Formanden
+63304;Time;;Kl. 14:03
+63322;name_party;":
+Næ, det synes jeg overhovedet ikke. Jeg synes, at
+Det Konservative Folkeparti står krystalklart på
+de holdninger og synspunkter, vi har, men vi synes, at præcis det her forslag griber ind i vores
+baglands arbejde. Det har meget at gøre med det
+kommunale arbejde, med kredsene osv., og så
+synes vi også, at det er rimeligt at høre dem.";Mike Legarth
+63668;Time;;Kl. 14:03
+63680;title_name;"Der er ikke flere, der har bedt om korte bemærkninger her. Så siger vi tak til hr. Mike Legarth, og
+den næste er fru Lone Dybkjær som ordfører for
+forslagsstillerne.";Formanden
+63855;Time;(Ordfører for forslagstillerne);Kl. 14:04
+63905;name_party;":
+Ja, undskyld. Det er ikke, fordi jeg skulle have
+mange papirer med, men når jeg kun skulle
+have to papirer med og ikke får det ene med, er
+det jo en dramatisk procentdel, jeg ikke har fået
+med mig.
+Jeg vil gerne takke for debatten. Jeg synes måske, at det er ganske prisværdigt, at regeringen
+som regering vælger ikke, om jeg så må sige, at
+blande sig. Jeg håber ikke, at det er ensbetydende med, at ministeren ikke vil svare på spørgsmål. Det går jeg umiddelbart ud fra at det ikke
+er ensbetydende med, sådan at vi kan få afklaret
+alle de spørgsmål, som medlemmerne her i Fol-
+
+(159)
+Tirsdag den -29. januar 2008 (L 49)
+ketinget - i hvert fald fra visse partier - åbenbart
+mener der er. Fint nok med det.
+Jeg vil gerne starte med at takke først og
+fremmest medforslagsstillerne, Dansk Folkeparti. Det er jo ikke hver dag, vi fremsætter forslag
+sammen, men jeg er da glad for, at vi har kunnet
+være sammen om det. Det har undret mig meget, at Dansk Folkeparti kun er med på det ene
+og ikke på det andet, men efter en kort snak med
+formanden forstår jeg, at det måske var mere eller mindre tilfældigt - eller også var det, fordi
+man ikke skulle demonstrere alt for stor forbrødring.
+I betragtning af hvor få gange det sker, mener
+jeg ikke, at der sker noget ved det, og da det her
+jo helt øjensynligt ikke får nogen nem gang på
+jorden og derfor skal genfremsættes, kan det jo
+være, at vi kan få flere partier, både Dansk Folkeparti og måske også SF og Enhedslisten, med,
+næste gang det kommer. I hvert fald må jeg forstå på ordføreren fra SF, som også talte på Enhedslistens vegne, at man egentlig gerne vil
+være med til at gennemføre det her. Det vil jeg
+takke for, og så synes jeg også, det vil være rimeligt, at vi næste gang kører videre med det i fællesskab.
+Så har der været talt meget om tiden. Altså,
+der er jo to tidsrammer. Den ene er, at der skal
+gå mange folketingsvalg, og den anden er, som
+fru Lene Hansen sagde, 3 måneder, fordi det
+skal træde i kraft i juli 2008. Det er så en helt anden yderlighed. Det handler ikke om, om det
+bliver 2008 eller 2009: medmindre statsministeren griber til ganske dramatisk at udskrive hyppige valg, vil det jo stadig være inden for den
+her periode. Derfor håber jeg ikke, at det er det,
+der er til diskussion. Vi kan bare genfremsætte
+det og fortsætte diskussionen.
+Jeg synes derimod, at det ville være utrolig
+ærgerligt, hvis der skulle gå flere folketingsvalg.
+Socialdemokratiet sagde nærmest, at der kunne
+gå adskillige folketingsvalg, og det synes jeg
+måske er for lang tid trods alt. Men det, som jeg
+slet ikke kan forstå, er, hvad det er, man er så
+bange for. Jeg kan simpelt hen ikke fatte, hvad
+angsten for det her forslag består i. Jo, for nogle
+ganske konkrete steder og nogle ganske bestemte medlemmer kan jeg godt forstå det, men jeg
+kan ikke forstå, at et parti generelt er så bange
+for det her. Derfor håber jeg meget, at Socialdemokratiet, som specielt bad om konsekvensanalyser, og Venstre og Konservative vil prøve på at
+stille alle de spørgsmål, som man gerne vil have
+belyst, sådan at vi kan få gang i udvalgsarbejdet
+
+1265
+
+og måske også på et tidspunkt nå frem til, hvad
+den her reform egentlig betyder.
+Vi, der arbejder med det, har selvfølgelig undersøgt: hvad det er, den betyder, og vi ved, at
+den betyder noget helt konkret, og det er jo derfor, vi fremsætter forslagene. Det er ikke ligegyldige forslag, men de er ikke dramatiske - det
+skal jeg vende tilbage til - i forhold til valgkredsreformen. Valgkredsreformen var jo en pligt,
+den blev gennemført her i Folketinget. Jeg er
+godt klar over, at der var en hel del, der talte
+med deres bagland, det var vi sådan set mange
+der gjorde, men til syvende og sidst skulle vi
+også nå frem til noget, der var stor enighed bag,
+og derfor var det jo et kompromis på forskellige
+punkter, og det var dramatisk. Valgkredsreformen var dramatisk.
+Vi var mange, der godt vidste, at den ville
+være dramatisk. I det øjeblik man har større
+kredse, har man større kendiseffekt for at sige
+det sådan meget kort og meget banalt, og det
+har vi også set. Det vil sige, at de store stemmesamlere, som er i enkelte storkredse, betyder
+frygtelig meget for deres eget parti, fordi kampen om de næste pladser bliver meget mere på
+marginalerne, end hvis ikke der er stemmeslugere. Det kan næsten ikke undgås, at der er
+stemmeslugere, når vi taler om storkredsene, og
+derfor er det en dramatisk reform. Det kan vi
+sagtens analysere, og det synes jeg vi skal, men
+vi vidste på forhånd, at sådan ville det gå. Man
+behøvede, som jeg sagde, ikke have været ret
+meget mere end 5 minutter i politik eller have
+oplevet et par valg for at vide, at det var en dramatisk reform, og det var en reform, vi alle sammen måtte lægge os ind under. Der var ikke nogen valgmulighed.";Lone Dybkjær
+68678;Time;"Så kommer jeg sådan set til de her forslag.
+Som det er blevet understreget gang på gang,
+specielt af Dansk Folkeparti, er det her et tilbud.
+Der er ingen pligt. Socialdemokratiet kan diskutere, Venstre kan diskutere, Konservative kan
+diskutere stolpe op og stolpe ned i hundrede år
+og finde frem til, at de synes, at det er en dårlig
+idé. Så er det en dårlig idé, og de kan fastholde
+deres hidtidige system, fuldstændig som de vil.
+Vi ved jo godt, at opstillingsformerne siden tidernes morgen har undergået en forandring.
+Oprindelig var det kun partierne, der talte. Senere begyndte man at tale om de personlige
+stemmer, og folk tror i dag, at det er de personlige stemmer, der afgør det, men det er det ikke.
+Det er ikke de personlige stemmer, der afgør
+
+1266
+
+Tirsdag den 29. januar 2008 (L 49)
+
+det, det er også fordelingen på de enkelte kredse. Så man kan bare vælge at sige, at det vil man
+ikke.
+Enhedslisten har valgt at have en partilisteopstilling, og det er vel den oprindelige og mest
+gammeldags facon. Andre partier har forskellige opstillingsformer, og det går udmærket, det
+er jo fint. Derved har de politiske partier jo også
+på et kerneområde meget stor indflydelse på selve opstillingen. Vi synes bare, det er rimeligt, at
+vælgerne også har indflydelse. Vælgerne tror i
+dag, at det er personlige stemmer, der afgør det,
+og ikke alt muligt andet tilfældigt, men det er jo
+alt muligt andet.
+Jeg skal så vende tilbage til det første tilbud,
+nemlig det, at man ikke opstiller alfabetisk, og
+jeg vil gerne sige, at jeg også synes, at vi skal
+bede Folketingets sekretariat om at lægge tallene
+sammen. Jeg har lagt tallene så nogenlunde
+sammen, og det er altså faktisk sådan, at hvis
+man deler alfabetet op sådan midt over med 14
+til den ene side og 14 til den anden side, ja, så er
+der altså 131, der er valgt fra A til N. Venstre og
+Konservative var på den måde ikke så præcise,
+de sagde bare, at de ville diskutere det med deres bagland, og det er også i orden. Men hvis
+man lægger det sammen, er der altså 131, der er
+valgt fra A til N, og 48 - nu har vi så taget 179,
+men det kan ændres til 175 - der er valgt på den
+nederste halvdel.
+Så det er altså ikke sådan, at det er ligegyldigt. Vælgerne går ikke nødvendigvis ned for at
+finde en person, og det skyldes selvfølgelig også, at så stort er antallet af personlige stemmer,
+når det kommer til stykket, trods alt ikke. Sådan
+er det ikke, og derfor synes vi, at der ingen - og
+det er specielt til hr. Erling Bonnesen og Venstre
+- højere retfærdighed er i, at man bruger alfabetet. Jeg taler til hr. Thomas Adelskov og hr. Erling Bonnesen, men det er de ligeglade med,
+(formanden: Hr. Rasmus Prehn) hr. Rasmus
+Prehn, undskyld. Det siger jeg hele tiden forkert,
+og nu gjorde jeg det igen, men det var, fordi jeg
+var sur.
+Jeg prøver at sige noget til ordføreren fra Venstre, hr. Erling Bonnesen, mere for at forkorte
+debatten. Ja, nu har jeg næsten glemt, hvad det
+var, jeg ville sige. Men det, som hr. Erling Bonnesen sagde, var noget om den højere retfærdighed, og det, jeg ikke har fået noget svar på fra
+Venstre - jeg forlanger ikke, at man skal komme
+med det i dag, for det tror jeg ikke at man kan er, hvad den højere retfærdighed ved alfabetet
+er. Det forstår jeg simpelt hen ikke. Jeg synes ik-
+
+ke, at der i alfabetet som sådan ligger en højere
+retfærdighed, men faktum er, at man vælges efter sin placering på listen, som i dag er alfabetisk. Derfor vil jeg meget bede om - det er også
+derfor, forslagene er delt i to - at man i det
+mindste kunne tage fat på, om den alfabetiske
+rækkefølge ikke kunne ændres. Det ville i hvert
+fald give en anden retfærdighed, kan man sige,
+og det ville jo alt andet lige give partierne større
+indflydelse, end de her i dag. Og det ville måske
+ikke være så dårligt endda.
+Når det drejer sig om det andet tilbud, er det
+et spørgsmål om, om man skal optælle efter
+storkredse eller kredse. Her er det klart, at det
+valgteknisk set og valgkredsmæssigt set er en
+større reform - det medgiver jeg gerne - ikke så
+meget fordi man skal optælle på storkredse,
+men det er selvfølgelig to forskellige principper,
+om man skal vælges bredt, eller man kan nøjes
+med at være valgt lokalt. Det er da en større
+drøftelse værd, som jeg også synes vi skal tage.
+Men jeg synes trods alt, at det eneste rigtige er,
+når man render rundt og siger til vælgerne, at
+det er de personlige stemmer, der afgør det, at
+det så også er de personlige stemmer, der afgør
+det, for det er ikke tilfældet i dag. Det er ikke de
+personlige stemmer, der afgør det. Det tror vælgerne, og derfor synes jeg, det ville være rigtigt,
+at man så i det mindste holdt op med den snak
+om, at det er de personlige stemmer, der afgør
+det, men sagde, at det er et meget mere kompliceret system.
+Jeg synes, det er vigtigt, at man diskuterer det
+med sit bagland, selvfølgelig. Det synes jeg vi
+alle sammen skal gøre, men jeg synes også, at
+det er meget vigtigt, at man diskuterer det med
+sit bagland på den præmis, at det overhovedet
+ikke er noget, man behøver at gennemføre. Det
+kan være, at der er nogle fjollede partier som
+Det Radikale Venstre og Dansk Folkeparti og sådan nogle, der gennemfører det. SF og Enhedslisten gør det næppe. Det kan være, at vi gør det,
+men det behøver ikke at berøre de store partier,
+de veletablerede partier i den forstand, og derfor
+synes jeg da godt, at man kunne vise den largesse, at de andre partier kunne få lov til at opstille, som de vil, og i hvert fald sige, at man synes, det skal være de personlige stemmer, der afgør det, og bestemt ikke, at det skal være alfabetet, der afgør det.
+Derfor vil jeg meget appellere til, at man stiller de spørgsmål, som man har, og laver de analyser, som man gerne vil have - jeg er meget
+spændt på, hvad det er for nogle, for jeg kan
+
+Tirsdag den 29. januar 2008 (L 49)
+ikke regne sådan det helt dramatiske analysearbejde ud - og så i øvrigt viser den largesse at sige: Hvad er der i vejen med, at der er nogle partier, der får nogle ekstra tilbud? Det må også
+være muligt for de partier, der ikke vil have det,
+at argumentere for, at de ikke vil have det, men
+at de bare vil fortsætte, som de altid har gjort, og
+så lade nogle andre partier finde nogle andre
+veje til, hvordan de engagerer deres medlemmer
+og deres vælgere. Så det vil jeg opfordre til, og
+jeg vil sige, at selvfølgelig er det med 2008 ikke
+afgørende, men at vi på den anden side ikke behøver hundrede år og en sommer og mange folketingsvalg, før vi kan gennemføre så relativt
+små reformer, som der her er tale om.";Kl. 14:09
+75199;Time;;Kl. 14:15
+75211;title_name;Der er en kort bemærkning fra fru Lene Hansen.;Formanden
+75267;Time;;Kl. 14:15
+75283;name_party;":
+Fru Lone Dybkjær taler, som om vi fuldstændig
+har afvist alt, hvad der ligger i de to forslag.
+Hvis det er ordførerens opfattelse, så bliver jeg
+nødt til at sige, at så har jeg enten udtrykt mig
+utydeligt, eller også har ordføreren opfattet det
+forkert. Vi er bestemt med på, at vi skal have undersøgt de her problemer, og vi er sådan set allerede startet ved at stille forskellige spørgsmål til
+velfærdsministeren, f.eks. om problemerne med
+de personlige stemmer. Så vi er i gang med den
+proces, men det er noget, der tager tid. Det er
+ikke noget, jeg mener vi kan gøre meget hurtigt.
+Det er noget, medlemmerne ude i partiforeningerne har krav på at blive engageret i, og det vil
+jo altså betyde, at vi skal bruge en rum tid. Jeg
+tror ikke, jeg har sagt, at der skal gå adskillige
+valg, men jeg mener, at det vil være ret og rimeligt, at vi i hvert fald får en lille smule mere erfaring for valgets afholdelse, inden vi ændrer på
+valgloven efter den store valgkredsreform.";Lene Hansen
+76268;Time;;Kl. 14:16
+76280;title_name;Ordføreren.;Formanden
+76301;Time;;Kl. 14:16
+76319;name_party;":
+Men igen kan jeg ikke få ind i mit hoved, at man
+kan lave så kæmpestor en valgkredsreform, som
+man har gjort, og så bede om at skulle have hundrede år og en sommer til det her.
+Jeg vil gerne sige, at jeg selvfølgelig ikke skal
+blande mig i Socialdemokratiets prioritering af.
+deres politiske arbejde, men jeg synes ærlig talt,
+at det er relativt simpelt at forklare sine kredse:
+Ved I hvad, synes I, at det er retfærdigt med en
+
+1267
+
+alfabetisk opstilling, ja eller nej? Og hvis ikke,
+skulle vi så ikke gå over til en prioriteret opstilling?
+Det kender man jo godt i forvejen, for man
+prioriterer altid én kandidat.
+Det andet er: Skulle vi ikke tage en diskussion
+- det synes jeg også er en diskussion værd - om
+det skal være storkredsen og de personlige
+stemmer, altså dermed opgjort på storkreds, der
+skal afgøre, hvem der bliver valgt?
+Det kan jeg altså ikke se skulle tage hundrede
+år og en sommer, men o.k., selvfølgelig. Jeg kan
+bare ikke forstå, at der skal gå adskillige valgperioder. Det mener jeg faktisk var det ordføreren,
+fru Lene Hansen, sagde. Men jeg kan selvfølgelig have hørt forkert eller misforstået det og alt
+det der, og jeg skal da kun være glad, hvis det er
+tilfældet.";Lone Dybkjær
+77524;Time;;Kl. 14:17
+77536;title_name;Fru Lene Hansen for en yderligere kort bemærkning.;Formanden
+77596;Time;;Kl. 14:18
+77612;name_party;":
+Vi har ikke lagt os fast på, i hvor høj hastighed
+de her ændringer eventuelt skal gennemføres,
+men vi er bare usikre på, hvilke konsekvenser vi
+vil kunne aflæse af at gennemføre de her foreslåede ændringer. Det er ikke et område, hvor jeg
+mener vi som lægfolk umiddelbart kan stille os
+op og sige: Det har den og den konsekvens. Jeg
+mener altså rent faktisk, at der bør komme nogle
+eksperter ind at kigge på valgloven efter valgkredsreformen, og i den sammenhæng kunne
+man jo udvide den analyse og medtage de to
+forslag her og fortælle os, hvad det så ville komme til at betyde rent teknisk. Det er altså i dag
+ikke almindelig kendt blandt vores medlemmer,
+hvad forskellen er på partiliste og sideordnet
+opstilling med og uden nominering. Det er da
+noget, som de specielt interesserede ved noget
+om.";Lene Hansen
+78423;Time;;Kl. 14:19
+78435;title_name;Ordføreren.;Formanden
+78456;Time;;Kl. 14:19
+78474;name_party;":
+Så kan man måske også forestille sig, at det kun
+er de specielt interesserede, man skal diskutere
+det her med, hvis ikke det er alment kendt, hvad
+de der opstillingsformer går ud på. Jeg indrømmer gerne, at det ikke nødvendigvis er derfor, at
+man måske melder sig ind i et parti. Men så
+kunne man jo overlade det til dem, der beskæfti-
+
+1268
+
+Tirsdag den 29. januar 2008 (L 49)
+
+ger sig med det. For da er det ret simpelt. Alfabetet er reelt en prioriteret liste, selvfølgelig ikke
+formelt, i den forstand, at man ikke kan gøre noget ved det. Hvis man hedder Andersen, så står
+man efter al sandsynlighed øverst osv. Derfor er
+det jo ret enkelt at sige: Vi har fem forskellige
+medlemmer, hvis vi stiller dem op anderledes,
+så tyder alt på, at rækkefølgen af valgene også
+blive anderledes. Det er jo derfor, partierne prioriterer.
+Det andet er spørgsmålet om storkredse. Det
+er også ret enkelt at diskutere. Man kan godt
+gøre det indviklet, hvis man begynder at hive op
+i alle de former, der eksisterer i øjeblikket, som
+folk pludselig skal til at forholde sig til, og som
+de aldrig har forholdt sig til. Jeg indrømmer, at
+det så er et lidt større arbejde. Men hvis man i
+øvrigt kender opstillingssystemet i forvejen, så
+er det altså ikke specielt indviklet. Analyserne
+kan vi godt få nogle eksperter til at lave, bare vi
+får spørgsmålene. De er ret simple.";Lone Dybkjær
+79842;Time;;Kl. 14:20
+79854;title_name;Det er hr. Rasmus Prehn for en kort bemærkning.;Formanden
+79911;Time;;Kl. 14:20
+79928;name_party;":
+Vi kan jo høre på fru Lone Dybkjær, at hun går
+stærkt op i det med alfabetet, i hvert fald når det
+handler om forslaget her, måske knap så meget,
+når det handler om de navne, som vi har. For
+det, man kan sige, er, at fru Lone Dybkjær før fik
+sagt, at jeg var hr. Thomas Adelskov. Jeg tror, at
+fru Lone Dybkjær simpelt hen bliver så stærkt
+optaget af det her, så hun tror, at når hr. Rasmus
+Prehn kan have den holdning, han har, og være
+imod det her forslag, så må det være, fordi han
+hedder Adelskov, så han har en fordel. Jeg har
+faktisk en kæmpestor ulempe ved at hedde
+Prehn, så jeg er langt nede på listen.
+Men kunne man forestille sig - det er sådan
+set det, der er mit spørgsmål - at det forhold, at
+man nu skal til at prioritere i den enkelte kreds,
+hvem man vil have i hvilken rækkefølge, simpelt hen tager værdien ud af den kreds, man har,
+sådan at det, der kunne anspore en til at lægge
+et stykke arbejde i en større kreds for at få en
+god kandidat der, simpelt hen bliver udhulet,
+ved at man lige pludselig ikke længere har værdien i den kreds, fordi man så skal til at prioritere, altså at man sådan set undergraver betydningen af de enkelte kredse, hvis det er sådan, at
+man lige pludselig begynder at skulle til at prioritere på en måde.
+
+Har ordførerrækken gjort sig overvejelser i
+den retning?";Rasmus Prehn
+81249;Time;;Kl. 14:21
+81261;title_name;Ordføreren.;Formanden
+81282;Time;;Kl. 14:21
+81300;name_party;":
+Det med, at jeg nu skylder ikke bare én kvajebajer, men adskillige kvajebajere til hr. Rasmus
+Prehn, det tror jeg jeg vil tage bagefter, for jeg er
+lidt optaget af spørgsmålet. Men jeg skylder virkelig meget. Men jeg troede faktisk, jeg havde
+sådan en dispensation, men selvfølgelig ikke fra
+Folketingets talerstol, det indrømmer jeg gerne,
+men kun privat.
+Men jeg vil gerne sige: Ja, selvfølgelig har vi
+overvejet tingene, men jeg synes bare, at det er
+lige modsat - nu vil jeg gerne gå ind og kigge på
+det - for stadig væk har man jo mulighed for at
+få en kandidat øverst. Det har man fortsat. Så er
+der kun spørgsmålet, om Prehn skal stå nederst
+eller højere oppe eller hvad. Og jeg mener, at
+man da selvfølgelig skal tage diskussionen, og
+jeg synes også, at man som parti må spørge: Er
+det specielt retfærdigt, at det er alfabetet, der får
+så stor betydning, som det får i dag, eller skulle
+man hellere lade det være op til partiet at bestemme, hvordan rækkefølgen skal være? Det
+synes jeg selvfølgelig også bliver mere interessant, også når det opgøres på storkreds, for der
+er forskel på, hvordan ens valgkamp skal lægges
+til rette: om man skal lægge den til rette mere
+snævert og kan gamble på det, eller om man
+skal ud i bredden. Det går jeg også ud fra man
+drøfter i dag i partierne, men der er jo meget forskellige regler for, i hvilket omfang man må gå
+over grænserne. Jeg har i hvert fald forstået, at
+der er store restriktioner hos nogle partier.";Lone Dybkjær
+82771;Time;;Kl. 14:23
+82783;title_name;Hr. Rasmus Prehn for en yderligere kort bemærkning.;Formanden
+82844;Time;;Kl. 14:23
+82861;name_party;":
+Jeg kan i hvert fald forsikre fru Lone Dybkjær
+om, at de her ting i hvert fald er noget, der ville
+optage mange socialdemokratiske kredse, og det
+er jo derfor, at vi bl.a. er lidt forbeholdne og gerne vil have lejlighed til at diskutere det med vores bagland. Det er, fordi vi hører den her form
+for bekymringer. Derfor kan vi ikke bare haste
+noget igennem, selv om vi måske godt kan have
+en vis form for sympati for det.
+
+Tirsdag den 29. januar 2008 (L 49)
+Med hensyn til navneombytningen er der
+fuldstændig fri dispensation til fru Lone Dybkjær. Hun kan kalde mig hvad som helst, så kan
+det også være, at jeg får en bedre chance for at
+blive genvalgt næste gang.
+Men noget andet, jeg gerne vil spørge ind til,
+er følgende: Hvis det er sådan, at vi vedtager det
+her forslag, så vil der jo stadig væk være den situation, at man i én storkreds kan blive valgt
+med et lavere antal personlige stemmer end i en
+større storkreds. Det har såmænd noget at gøre
+med, at der simpelt hen er forskel på geografien
+på de forskellige storkredse, men jo også, fordi
+vi har valgt at lave en eller anden form for geografisk gearing, så udkantsområdet bliver bedre
+repræsenteret end de store byer.
+Har ordføreren gjort sig nogen overvejelser
+over, hvordan man skal forklare vælgerne det
+her med, at det altid giver mening at stemme
+personligt, at de personlige stemmer altid har
+betydning, når det er sådan, at man så alligevel
+ser nogle forskelle? For selv om man vedtager
+det her forslag, så vil der simpelt hen være mulighed for at nogle bliver valgt i København med
+et lavere personligt stemmetal end folk i f.eks.
+Sjællands Storkreds.";Rasmus Prehn
+84496;Time;;Kl. 14:24
+84508;title_name;Ordføreren.;Formanden
+84529;Time;;Kl. 14:24
+84547;name_party;":
+Jeg indrømmer gerne, at vores parti altså ikke
+har drøftet at lave en ny valgkredsreform. Vi kan
+have en hel del kommentarer til den valgkredsreform, der blev gennemført. Jeg tror, man må
+sige, at den selvfølgelig ikke i enhver sammenhæng er super retfærdig, sådan er det. Det, som
+jeg synes man godt kan forklare vælgere, er, at
+inden for det område, du har indflydelse på,
+spiller det en rolle at stemme personligt. Det,
+der chokerer folk, er, når man så fortæller dem når de tror, man er valgt, fordi man har flest personlige stemmer - at man så ikke er valgt alligevel. Det chokerer folk, for der føler de faktisk, at
+vi, undskyld udtrykket, snyder dem, fordi vi
+render rundt og siger: De personlige stemmer er
+afgørende. Og så opdager de lige pludselig, at
+ja, det er de, men ikke helt afgørende. Der er faktisk nogle andre ting, der kommer ind over. Det
+synes jeg sådan set er et demokratisk problem,
+og derfor synes jeg også, at det ville være vigtigt
+at tage med.
+Igen vil jeg bare til allersidst understrege, at
+det, jeg synes man skal se på med det her, ikke
+
+1269
+
+er, at Socialdemokraterne skal tage den her reform på den måde, at de skal indføre den. Det
+må de helt selv om. Hvis de synes, at det, de har
+i øjeblikket, er rigtig godt, så kan de bevare det.
+Men nogle af os synes ikke, at det er rigtig godt,
+og det kan jo godt være, at det måske specielt
+gælder de mindre partier. Vi kan så få lov at indføre det, fordi det altså har betydning for os, og
+det ødelægger ikke noget for andre partier. Jeg
+vil bare bede Socialdemokraterne om at overveje, om det ikke er sådan.";Lone Dybkjær
+86145;Time;;Kl. 14:26
+86157;title_name;Det er hr. Erling Bonnesen for en kort bemærkning.;Formanden
+86217;Time;;Kl. 14:26
+86237;name_party;":
+Allerførst i fuld respekt for forslagsstillernes
+holdning og synspunkter mener jeg, at jeg også
+sådan nogenlunde har forstået meningen og
+hensigten med det, men jeg vil godt tættere ind
+på, om ikke også ordføreren kan se en fordel sådan rent demokratisk i, at vi i et parti med forholdsvis mange medlemmer har behov for også
+at få det vendt der. Det er faktisk en af grundstenene i demokratiet. Jeg har fuld respekt for, at
+man som forslagsstiller, hvor man næsten har
+ført pennen så at sige, selv synes, at det nu er, ligesom det skal være. Men vi ønsker at få foldet
+det ud og få det diskuteret, og det må være et rimeligt synspunkt at have.";Erling Bonnesen
+86892;Time;;Kl. 14:27
+86904;title_name;Ordføreren.;Formanden
+86925;Time;;Kl. 14:27
+86943;name_party;":
+Det er da klart, og jeg kan også godt love hr. Erling Bonnesen, at hvis jeg sagde noget andet, ville jeg have problemer med baglandet. Jeg har en
+landsformand, der sidder og hører debatten, og
+han skulle meget nødig have sig frabedt, at det
+ikke blev diskuteret i baglandet. Vi har så bare
+diskuteret det i baglandet, og det er der jo ikke
+noget mærkeligt i, for det er os, der fremsætter
+forslaget.
+Det, jeg bare meget beder om, er, at når man
+tager den diskussion - vil jeg sige til hr. Erling
+Bonnesen - at man så siger, at det er et ekstra tilbud. Det er bestemt ikke noget, man behøver at
+gøre på den facon i Venstre. Mellem de fire muligheder, der er i dag, har man jo også i Venstre
+valgt en. Vi siger bare, at vi vil give en femte
+mulighed eller en sjette, hvordan man nu vil fortolke det.
+
+1270
+
+Tirsdag den 29. januar 2008 (L 49)";Lone Dybkjær
+87796;Time;;Kl. 14:27
+87808;title_name;"Hr. Erling Bonnesen har en sidste mulighed for
+at stille spørgsmål.";Formanden
+87885;Time;;Kl. 14:27
+87905;name_party;":
+Jeg har også forstået muligheden sådan, at det
+skal betragtes som et ekstra tilbud, og det er lige
+præcis de virkninger, det kan have i forhold til
+kredsene og andet, som vi godt vil have en vurdering af. Det kan vi ikke forvente kun at få om jeg så må sige - fra embedsmænd og ministeriet. Det er vi jo lige præcis nødt til tilbage i
+vores eget politiske, demokratiske bagland at få
+nogle meninger og holdninger til. Det er i hvert
+fald sådan, vi fungerer, andre kan fungere på en
+anden facon. Så det er da klart, at vi selvfølgelig
+i udvalgsbehandlingen vil prøve at stille spørgsmål sådan af mere teknisk afklarende karakter.
+Men så har vi jo altså - og det er sådan set det
+store issue i det - behov for at komme ud og få
+det vendt med vores medlemmer.
+Jeg vil også godt lige præcisere, at vi jo rent
+faktisk lige så vel som andre partier signalerer,
+at vi ikke fra starten går ind og kritiserer de
+fremsatte forslag sådan sønder og sammen. Vi
+har sagt, at nogle af dem jo kan se tilforladelige
+ud, men vi har et behov for at få dem analyseret
+nærmere.
+For at få lidt hold på det, så det ikke sådan
+nærmest bliver et hurtigt hækkeløb, har vi sagt,
+at en rimelig tidsramme ville være efter næste
+folketingsvalg, og så vender vi tilbage til sagen.
+Dermed har vi jo også så at sige på forhånd givet
+et tilsagn om, at vi ikke kun har skudt det her ud
+over hegnet, men agter at gennemføre en saglig
+og seriøs proces om det. Det vil jeg godt lige
+have at forslagsstillerne tager med i bagagen også.";Erling Bonnesen
+89413;Time;;Kl. 14:29
+89425;title_name;Ordføreren.;Formanden
+89446;Time;;Kl. 14:29
+89464;name_party;":
+Jo, jo, men jeg kan bare ikke forstå, hvorfor man
+ikke kan prøve at diskutere det i hvert fald inden næste folketingsvalg. Jeg tror, der er 3 år til
+næste folketingsvalg. Det er der i hvert fald
+mange der håber at der er. Jeg tror, statsministeren måske planlægger efter det. Det er jo ret lang
+tid.
+Min erfaring også med diskussioner i baglandet af den her art er, at det interesserer nogle, det
+interesserer ikke alle, og den diskussion kan
+
+man jo lige så godt tage nu. Hvis man udskyder
+det her til efter næste folketingsvalg, bliver der
+overhovedet ingen diskussion før efter næste
+folketingsvalg, og så kender jeg partierne så
+godt, at så vil de igen stå og sige: Nej, det kan
+ikke nytte noget. Nu skal vi diskutere det med
+vores bagland, så lad os tage det efter næste folketingsvalg. Så kommer det ikke igennem. Det
+er ikke ordentlig snak. Jeg synes, man skal diskutere med baglandet, men jeg synes, at man
+skal sige, at 1 eller 2 års diskussion ligesom må
+være nok, skulle man tro.";Lone Dybkjær
+90466;Time;;Kl. 14:30
+90478;title_name;"Tak til fru Lone Dybkjær. Der er ikke flere, der
+har bedt om ordet. Undskyld, hr. Mike Legarth,
+så er der alligevel en.";Formanden
+90607;Time;;Kl. 14:30
+90625;name_party;":
+Jeg kan forstå, at ordføreren, fru Lone Dybkjær,
+taler om retfærdighed og mener, at det er mere
+retfærdigt, at partiet kan prioritere på opstillingslisten - ifølge lovforslag nr. L 49 - end at
+man følger den alfabetiske rækkefølge. I den forbindelse har jeg to spørgsmål.
+Hvor stor en procentdel ud af de vælgere, der
+stemmer radikalt, er medlem af partiet og kan
+vælge den prioritering? Og mener ordføreren, at
+det er mere retfærdigt end at følge den alfabetiske rækkefølge?";Mike Legarth
+91112;Time;;Kl. 14:31
+91124;title_name;Ordføreren.;Formanden
+91145;Time;;Kl. 14:31
+91163;name_party;":
+Jeg kan overhovedet ikke acceptere, at alfabetisk
+rækkefølge er nogen form for retfærdighed. Det
+må jeg sige.
+Men det er da selvfølgelig rigtigt, at det er sådan, at det er partiet, der beslutter, hvem der
+skal opstilles, og hvordan de skal opstilles. Det
+gør partiet også i øjeblikket, men nu giver vi
+bare en ekstra mulighed, så det ikke er tilfældigt, i hvilken rækkefølge man bliver opstillet,
+og vi siger, at det må være de personlige stemmer, der afgør det.
+Det er jo det vigtigste element - sammen med
+politikudviklingen - i et parti: de vigtigste elementer er politikudviklingen og så opstillingen
+til de forskellige valg. Og hvis man som vælger
+ønsker at influere på det, må man melde sig ind
+i et parti.
+Men hvis man endelig skal tale om retfærdighed, kunne man jo godt sige, at når vælgerne
+
+Tirsdag den 29. januar 2008 (L 55)
+tror, at det er de personlige stemmer, der afgør
+det, så var det måske også rigtigt, hvis det sådan
+set var det, der var tilfældet. Det er det ikke i
+dag.";Lone Dybkjær
+92168;Time;;Kl. 14:32
+92201;title_name;":
+Hr. Mike Legarth.";Svend Auken
+92230;Time;;Kl. 14:32
+92248;name_party;":
+Tak for svaret, som jeg måske nok synes var lidt
+svævende, eftersom der ikke rigtig var argumenter for den ene eller den anden model.
+Jeg synes, vi skal lægge vægt på, at der er
+mange gode elementer i de her forslag, og vi vil
+nu gå ud og debattere dem med vores bagland
+for at se, om der kan skabes et flertal for opbakning til det her, og det ser vi frem til at deltage i.";Mike Legarth
+92634;Time;;Kl. 14:32
+92667;title_name;":
+Ordføreren.";Svend Auken
+92689;Time;;Kl.14:32
+92707;name_party;":
+Så vil jeg gerne sige tak for det. Jeg synes selvfølgelig, at jeg svarede temmelig præcist på, hvad
+jeg syntes partiets rolle var: politikudvikling og
+opstilling.
+Som vælger har man nu engang i det demokratiske system, vi har i dag - jeg ser væk fra Jacob Haugaard og enkelte andre - sådan set overladt det til partierne. Og hvis man vil have indflydelse på det, må man melde sig ind i et parti.
+Det er jo det danske demokratiske system.
+Det har jeg sådan set syntes vi skulle fastholde, vi har bare gerne villet lave nogle små, små
+justeringer, som er meget små i forhold til valgkredsreformen.
+Men tak for tilsagnet om, at man vil gå ud
+med det. Jeg oplever det også sådan, at man vil
+gå ud med det i dag og ikke om 5 år.";Lone Dybkjær
+93442;Time;;Kl. 14:33
+93475;title_name;":
+Tak til ordføreren for forslagsstillerne.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen afsluttet.
+Jeg foreslår, at lovforslagene henvises til Kommunaludvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+1271
+
+Det sidste punkt på dagsordenen er:
+7) 1. behandling af lovforslag nr. L 55:
+Forslag til lov om ændring af lov om CO2-kvoter. (Nedsættelse af grænsen for virksomheders anvendelse af kreditter).
+Af klima- og energiministeren (Connie Hedegaard).
+(Fremsættelse 16.01.2008).";Svend Auken
+94017;Time;Forhandling;Kl. 14:33
+94062;title_name;":
+Den første er hr. Henrik Høegh.";Svend Auken
+94106;Time;(Ordfører);Kl. 14:33
+94134;name_party;":
+Tak for det. I anledning af hr. Lars Christian Lilleholts fravær fremfører jeg hans tale ved forslagets første behandling.
+Med det foreliggende lovforslag reduceres
+danske kvotebelagte virksomheders muligheder
+for at anvende de såkaldte JI- og CDM-kreditter,
+således at loftet for køb af disse kreditter reduceres fra 19 pet. til 17 pet. af den gratis kvote, der
+er tildelt den enkelte kvotevirksomhed. Som
+konsekvens af det er det nødvendigt at reducere
+virksomhedernes mulighed for at købe JI- og
+CDM-kreditter med en tilsvarende mængde for
+at få Europa-Kommissionens godkendelse af
+den danske allokeringsplan. Det betyder, at det
+gennemsnitlige loft for virksomhedernes brug af
+JI- og CDM-kreditter reduceres med 2 pet.
+Dermed er virksomhederne henvist til enten
+at reducere udledningerne af C02 eller at købe
+kvoter. Hvor stor konsekvensen af dette bliver
+for de danske virksomheder, er svært helt konkret at forudsige. Det vil afhænge af både C02kvote-prisen og prisen på JI- og CDM-kreditter.
+Men med de nuværende kvotepriser og prisen
+på JI- og CDM-kreditter vil de samlede omkostninger blive mellem 15 og 20 mio. kr.
+Det skal også understreges, at det her lovforslag viser behovet for, at der snart opnås enighed om en energistrategi med tiltag, der kan reducere udslippet af CO2.
+Med de bemærkninger kan vi fra Venstres
+side støtte lovforslaget.";Henrik Høegh
+95500;Time;;Kl. 14:35
+95533;title_name;":
+Vi siger tak til ordføreren og går videre i ordførerrækken. Den næste ordfører er fru Mette
+Gjerskov.
+
+1272
+
+Tirsdag den 29. januar 2008 (L 55)";Svend Auken
+95690;Time;(Ordfører);Kl. 14:36
+95720;name_party;":
+Tak til formanden. Jeg vil på Socialdemokraternes vegne gerne komme med et lille hurtigt historisk rids over den her sag. For det her startede jo med, at Danmark skulle komme med en allokeringsplan til EU om, hvordan vi egentlig
+havde tænkt os at forholde os til klimakrisen
+fremover, hvordan vi ville sørge for at reducere
+vores C02-niveau. Der besluttede regeringen så
+at lave en allokeringsplan uden forhandlinger
+med os. Den lavede en allokeringsplan, som betød, at man altså skulle opnå en stor del af vores
+C02-reduktion i Danmark ved hjælp af køb af
+kvoter og kreditter i alle mulige andre lande og
+ikke gøre tilstrækkeligt i Danmark - altså basere
+sin fremtidige klimaindsats på, at alle andre lande gjorde noget, og at vi så bare købte os fra det.
+Det var vi ikke enige i. Det betød, at regeringen
+fremsatte et lovforslag, som vi ikke var enige i i
+Socialdemokratiet, så vi stemte imod. Efterfølgende sagde Kommissionen så, at den heller
+ikke var helt enig med regeringen, og at der
+måtte laves nogle justeringer. Det er de justeringer, vi står med i dag.
+Så er jeg færdig med min historiske redegørelse på det her område.
+Det er altså de justeringer, vi står med i dag.
+Det er altså nogle krav, som Kommissionen har
+stillet til os i Danmark, fordi vores oprindelige
+lov ikke var god. Så står man jo som socialdemokrat og gerne vil have, at vi rent faktisk gør noget i Danmark for at forbedre klimaet, at vi reducerer C02, at vi får mere vedvarende energi,
+at vi får nogle flere vindmøller og nogle færre
+kulkraftværker.
+Nu står vi med en ændring, som gør noget
+rigtig skidt til noget lidt mindre skidt. Hvad gør
+man så? Det, vi er blevet enige om i Socialdemokratiet, er, at vi vil undlade at stemme for det her
+forslag. Vi anerkender, at der er tale om en forbedring af en elendig lov, men det er dog trods
+alt ikke en forbedring, der er så stor, at vi kan gå
+fuldt og helt ind for lovforslaget. Dermed stemmer vi blankt. Forklaringen er altså, at det her
+juks er noget, regeringen har lavet, og det må re- .
+geringen selvstændigt stå til ansvar for.";Mette Gjerskov
+97793;Time;;Kl. 14:38
+97826;title_name;":
+Tak til ordføreren. Så er det hr. Morten Messerschmidt som ordfører.";Svend Auken
+97907;Time;(Ordfører);Kl. 14:38
+97944;name_party;":
+I Dansk Folkeparti deler vi hensigtserklæringen
+om, at Danmark skal gøre, hvad der står i vores
+magt for at gøre os uafhængige af olie og andre
+fossile brændstoffer. Særlig henset til, hvordan
+netop energipolitik i de her år bliver brugt som
+magtpolitik på den globale scene, er det kun god
+fornuft, at Danmark lægger sig i en ambitiøs liga, når det gælder at efterleve vores internationale forpligtelser, herunder altså også de forpligtelser, vi har over for EU's allokeringsplan.
+Jeg synes, det er fuldstændig fornuftigt, at vi på
+den måde, som det her forslag lægger op til, får
+justeret de målsætninger, vi har, sådan at vi fuldt
+ud kan leve op til de internationale forpligtelser,
+som vi har påtaget os.
+Derfor kan vi uden videre bemærkninger tilslutte os forslaget.";Morten Messerschmidt
+98727;Time;;Kl. 14:39
+98760;title_name;":
+Tak til hr. Morten Messerschmidt. Vi går videre i
+ordførerrækken, og den næste er fru Anne Grete
+Holmsgaard. Der står Ida Auken her på min liste, men jeg kan se, at ordføreren er kommet
+hjem fra Bruxelles. Velkommen til.";Svend Auken
+98992;Time;(Ordfører);Kl. 14:39
+99030;name_party;":
+Det her forslag handler om en lille, men ikke
+ubetydelig ændring af den danske kvoteallokeringsplan, og det er formentlig sort snak for rigtig mange mennesker, så jeg vil lige starte med
+at forklare, hvad det egentlig går ud på. Det drejer sig om reguleringen af, hvordan vi får vores
+C02-udslip i Danmark ned fra det, det var på i
+1990, til det, det skal være nede på i perioden
+2008 til 2012, dvs. de 5 år i gennemsnit.
+Hvis man nu går tilbage til 1990, kan man se,
+at vi på det tidspunkt havde et udslip på ca. 13 t
+per indbygger i Danmark. Det, vi skal ned på, er
+ca. 101 tper indbygger. Det her siger jeg, fordi der
+ofte bliver jamret over, at Danmark skal gøre så
+meget, men i realiteten er det sådan, at selv om
+vi gør en hel del og måtte gøre en hel del her, ligger vi stadig væk oppe i den høje ende på globalt plan, når vi ser på udslippet af CO2 pr. indbygger. 10 t per indbygger er faktisk væsentlig
+mere end gennemsnittet i EU, så vi ligger i den
+dårlige ende. Det gør vi, bl.a. fordi vi har et meget stort kulforbrug, og det gør vi også, fordi vi
+ikke har fået styr vores olieforbrug - det gælder
+
+(160)
+Tirsdag den 29. januar 2008 (L 55)
+ikke bare i transportsektoren, men også uden for
+transportsektoren.
+Vi har så som de andre lande i EU forpligtelse
+til at indsende sådan en national allokeringsplan, altså en kvoteplan for den ene halvdel af
+vores energiforbrug, nemlig det, der er omfattet
+af energiproduktion, og de største virksomheder. Det er det, vi kalder kvotesektoren.
+Så er der ikkekvotesektoren, og det er alt det
+andet: Det er transport og olieforbrug ude i
+landdistrikterne og på landbrug osv.
+Energiforbruget i begge halvdele skal ned,
+men det her lovforslag regulerer kun den ene
+del. Danmark var meget bagud med sin kvoteplan sidste år, da den skulle indsendes, og det
+skyldtes bl.a. striden om basisåret, som handler
+om de 5 mio. t ud af de 15 mio. t, vi skal skære
+ned.
+Regeringen skulle redegøre for, hvordan den
+kunne hente 1,3 mio. t ude i den ikkekvotelagte
+sektor, og der havde den satset på et meget kompliceret afgiftsforslag, kan man sige, som på
+overfladen lyder vældig godt, fordi det handler
+om COTafgift, og hvem vil ikke gerne have det,
+hvis man skal have udslippet ned. Sagen er bare,
+at det forslag i virkeligheden går ud på, at man
+betaler de mindste decentrale kraft-varme-anlæg for ikke at producere kraft-varme, men kun
+at producere varme, sådan at de ikke længere
+producerer el på naturgas, der er væsentligt
+mere miljøvenligt end kul.
+Den elektricitet bliver så produceret alligevel:
+den bliver bare produceret af de store kuldrevne
+værker, men de er jo kvotebelagt. Og trylle, trylle: Så er den CO2 ude af verden.
+Så indebærer afgiftsforslaget også lige, at biobrændstoffer af første generation bliver lidt billigere igen, så vi får flere af dem, uden en klar
+strategi for det, der hedder anden generation,
+som ellers må være hele formålet med det.
+Vi sagde dengang nej til det her afgiftsforslag,
+og vi gjorde det klart, at det var omfattet af en
+aftale fra 2004. Regeringen meldte det derfor
+ikke ind til EU, men lavede så - lidt i panik, mener jeg - en anden løsning, nemlig at melde ind,
+at man ville tilsætte 5,75 pet. biobrændstoffer til
+benzin og diesel inden 2010, igen uden en klar
+plan for, hvordan man bruger begrænsede
+mængder førstegenerationsbrændstof til at
+komme over til anden generation.
+Vi tilbød gennem hele foråret at forhandle
+med regeringen, men der var ingen interesse for
+det, og derfor blev lovforslaget stemt igennem
+
+1273
+
+med Dansk Folkepartis og regeringens stemmer
+alene.
+Nu kommer regeringen så med et lille forslag
+her, som er blevet nødvendigt, fordi EU har sagt,
+at man ellers ikke kan få godkendt sin plan. Det
+betyder, at man gør det hul, hvor de kan handle
+uden for EU, lidt mindre for virksomhederne,
+og det er jo sympatisk i sig selv, men sagen er
+bare, at det, man så samtidig gør, er, at man siger, at staten så kan handle mere uden for EU.
+Problemet med det er ikke, at vi er imod, at man
+bruger CDM - og altså kalder det at handle med
+tredjeverdenslande og lave investeringer i vedvarende energi for en dårlig ting: det er udmærket, hvis man gør det i begrænset omfang - men
+her er CDM, altså det at handle med kvoter i
+den tredje verden og i øvrigt også i andre industrilande, blevet større og større. Det synes vi er
+et problem. Det er simpelt hen helheden i forslaget, når man tager ændringsforslaget og det
+samlede lovforslag, vi har store problemer med.
+Jeg har regnet lidt på det, og jeg har kigget på,
+at hvis man nu bruger alle de muligheder, der er
+for at handle med CDM og JI, som det hedder,
+altså at købe kvoter uden for EU, og man tager
+det, der ligger i planen, om, at man laver lidt
+bogholderiøvelse med optag i skov og jord,
+kommer jeg frem til, åt man næsten kan klare 10
+mio. t ud af de 15 mio. t på den måde. Det er
+ikke sikkert, at det kommer til at gå sådan, men
+jeg vil gerne have, at ministeren forklarer tallene: Hvor meget vil man i værste fald kunne
+komme op på?
+Jeg siger ikke, at det nødvendigvis bliver sådan, men sådan som jeg læser det, er det »i værste fald«. Og hvis vi gør det, er det jo ikke et supplement længere, så er det faktisk en meget stor
+del af vores samlede forpligtelse, hvor det jo er
+helt afgørende også for den internationale troværdighed, at vi påtager os at reducere rigtig
+meget, og at det, vi gør i den tredje verden, så
+bliver et supplement og ikke det bærende.";Anne Grete Holmsgaard
+104460;Time;;Kl. 14:45
+104493;title_name;":
+Vi beder ordføreren om at blive bestående, da
+der kommer en meget sen anmodning om en
+kort bemærkning fra hr. Per Ørum Jørgensen.";Svend Auken
+104634;Time;;Kl. 14:45
+104658;name_party;":
+Det skal jeg beklage - bedre sent end aldrig.
+Jeg er nødt til lige at komme med et par bemærkninger til SF's ordfører, før hun taler Danmark fuldstændig ned i bunden af ranglisten
+over nationernes klimaindsats, for jeg synes ik-
+
+1274
+
+Tirsdag den 29. januar 2008 (L 55)
+
+ke, det er acceptabelt. Hvis vi ser den forpligtelmelig opgave. Tværtimod er det jo en opgave,
+se, vi har indgået i forbindelse med Kyotoaftasom den nuværende regering har overtaget fra
+len, vil jeg egentlig gerne bede SF's ordfører om
+den tidligere regering, og som man har påtaget
+at bekræfte, at med en reduktionsforpligtelse på
+sig ansvaret for at leve op til. Det er også det,
+21 pet. er vi helt i front, når det gælder.
+som allokeringsplanen er et udtryk for: HvorJeg vil egentlig også gerne bede SF's ordfører
+dan man så vil nå helt i mål i 2012. Det synes jeg
+om at bekræfte, at de klimaudfordringer, vi står
+er meget, meget klart, og jeg vil i hvert fald gerover for, er globale problemer, og derfor skal de
+ne have det rettet, hvis nogen skulle have fået
+jo ses i en global sammenhæng. Når vi samlet
+det indtryk, at jeg som konservativ mente, at det
+set bidrager ved at reducere med 21 pet. i forvar en uoverkommelig opgave.
+hold til Kyotoaftalen, bidrager vi også meget,
+Men vil SF's ordfører ikke give mig ret i, at
+meget ambitiøst i forhold til de globale udfornår vi påtager os en forpligtelse på en reduktion
+dringer, vi står over for, uanset om det er inden- på 21 pet. i forhold til 1990, er vi stadig væk helt
+landsk eller det er udenlandsk.
+i front, når det gælder den forpligtelse, og at det";Per Ørum Jørgensen
+106254;Time;selvfølgelig skal ses i et globalt perspektiv, hvor;Kl. 14:46
+106339;title_name;":
+stor en effekt den forpligtelse nu engang bringer
+Ordføreren.
+med sig?";Svend Auken
+106421;Time;;Kl. 14:46
+106431;Time;;Kl. 14:48
+106458;name_party;:;Anne Grete Holmsgaard
+106492;title_name;":
+Det er korrekt, at Danmark har en forpligtelse til Ordføreren.";Svend Auken
+106566;Time;"at nedbringe sit udslip med 21 pet. set i forhold
+til 1990, og en del af det handler om det såkaldte";Kl. 14:48
+106694;name_party;":
+basisår - altså hvad tallet var i 1990. Det er til
+Jo, på papiret er vi helt i front, hvad angår forgengæld ikke rigtigt, at det er en uoverkommepligtelse. Men der er pokkers til forskel på,
+lig opgave at gøre det. Det er faktisk en opgave,
+hvordan man indfrier sin forpligtelse: Gør man
+som man godt kan påtage sig, og som man har
+det især ved at gøre noget selv, eller gør man det
+mulighed for at løse på en rimelig måde.
+mest ved at betale nogle andre for at gøre det?
+Det, der er vigtigt ved at gøre det sådan, at
+Der mener vi at det er helt klart at vi skal gøre
+det meste bliver gjort herhjemme, er, at man der- det meste selv, og jeg vil egentlig gerne have hr.
+ved viser, at et højt industrialiseret land med en
+Per Ørum Jørgensen til at svare på, hvor meget
+han synes vi selv skal reducere ud af de 15 mio.
+høj levestandard, men også med et meget højt
+udslip af C02, rent faktisk påtager sig og formår
+t, vi skal nedbringe udslippet med. Det er det
+at løse den her opgave. Og der er det vores syns- ene.
+punkt, at den største del af reduktionen skal
+Det andet er, at set på globalt plan er det afgørende ikke antallet af ton i Danmark: det afgøforegå i Danmark, og det har vi sagt hele tiden.
+Derfor er det min bekymring, at man nu i vir- rende er, at Danmark viser, at der er et land med
+en høj levestandard, en god økonomi, et stort
+keligheden har lavet en plan, hvor alt for meget
+af det bliver hentet, ved at man køber sig til det i udslip, som rent faktisk vil gennemføre det her
+ved at sige: Vi kan klare langt det meste af den
+den tredje verden eller andre steder, sådan at
+her opgave selv. For så bliver man en progressiv
+man faktisk kommer til at udgøre en dårlig rolkraft i forhold til de internationale klimaforlemodel i stedet for at blive en god rollemodel.
+Og det er til trods for, at vi har enorme mulighe- handlinger, hvor vi godt ved, at Kina og Indien
+har brug for at kunne have et større udslip for at
+der for både at sænke vores energiforbrug uden
+at fryse, uden at få dårligere lys, og for at udbyg- komme op i omdrejninger med økonomien.
+ge den vedvarende energi.
+Hvis det er sådan, at man i virkeligheden baseKl. 14:47 rer sig mest på at lade nogle andre gøre det, så";Anne Grete Holmsgaard
+108928;title_name;":
+bliver man en dårlig rollemodel.";Svend Auken
+108972;Time;Hr. Per Ørum Jørgensen for en kort bemærkning.;Kl. 14:49
+109052;title_name;:;Svend Auken
+109063;Time;Tak til ordføreren. Så er det faktisk hr. Per Ørum;Kl. 14:47
+109138;name_party;":
+Jørgensen selv, der er den næste i ordførerrækJeg tror ikke, at jeg i min kommentar og i mine
+ken. Værsgo.
+spørgsmål sagde, at det her var en uoverkom-
+
+Tirsdag den 29. januar 2008 (L 55)
+
+1275";Per Ørum Jørgensen
+109345;Time;;Kl. 14:50
+109355;Time;(Ordfører);Kl. 14:52
+109393;name_party;:;Anne Grete Holmsgaard
+109418;name_party;":
+Når nu hr. Per Ørum Jørgensen taler om, at DanTak for det. Nu brugte SF's ordfører for ganske
+mark er i verdenseliten, vil hr. Per Ørum Jørgenfå sekunder siden udtrykket dårlig rollemodel.
+sen så ikke lige starte med at bekræfte, at korriJeg tror, man vist skal være placeret på venstregeret for import og eksport og korrigeret for klifløjen i Danmark for at kunne konkludere det
+ma steg Danmarks C02-udslip fra 2005 til 2006?
+om Danmarks rolle, når det gælder de udforDet steg, det faldt ikke, og jeg synes, det ville
+dringer, vi står over for på klimaområdet. For
+være fornuftigt lige at få det med. Er det ikke
+der er ingen tvivl om, at da vi i sin tid tiltrådte
+korrekt?";Per Ørum Jørgensen
+110104;Time;"Kyotoaftalen med verdens mest ambitiøse mål,
+nemlig en reduktion af CO2 på 21 pet. i forhold";Kl. 14:53
+110230;title_name;":
+til 1990, trådte vi absolut ind i verdenseliten.
+Ordføreren.";Svend Auken
+110302;Time;"Man kan også konkludere fremadrettet på
+baggrund af de meldinger, vi har fået fra EuroPer Ørum Jørgensen (KF):
+pa-Kommissionen så sent som i onsdags om vo- Det kan jeg fuldt ud bekræfte at det gjorde, og
+res fremtidige forpligtelse, at Danmark på alle
+det var der mange faktorer der var medvirkende
+fronter - på alle fronter - stadig væk vil være
+til. Men jeg mener også, at når man ser på de
+helt i verdensklasse.
+ting, skal de naturligvis ses i en større sammenSå vi har ikke noget at skamme os over. Men
+hæng og over en længere årrække, for tingene
+der er sådan en lidt underlig tilgang til det her.
+bevæger sig jo op og ned, og det ved fru Anne
+Man siger, at man gør så og så meget i Danmark,
+Grete Holmsgaard jo også udmærket.
+og at man gør så og så meget i udlandet, men
+Hvis vi ser på f.eks. vores energispareindsats,
+det, der jo er væsentligt i relation til den klimakan vi jo se, at det er et faktum, at vi lige siden
+udfordring, vi står over for, er den samlede indoliekrisen i 1970'erne og frem til i dag har fulgt
+sats,, hvor meget vi kan nedbringe CO2 med i
+en lige linje, hvor vi trods meget voldsom økoforhold til de klimaudfordringer, som vi står
+nomisk vækst har været i stand til at holde enerover for. Der er vi jo helt i front, og det synes jeg
+giforbruget i ro. Nu vil jeg ikke foregribe begier værd at fremhæve.
+venhedernes gang i relation til energiforhandlinJeg vil gerne benytte lejligheden til at rose
+gerne, men det, der er lagt op til, er faktisk, at
+både ministeren og regeringen for, at det er lykden linje vil vi fortsætte ad frem mod 2025. Det
+kedes at lave en allokeringsplan med så få bevil altså sige, at gennem 50 år har Danmark væmærkninger og med så få ønsker fra Kommissiret et land, hvor man trods stor økonomisk
+onens side om rettelser. Der er spørgsmålet om,
+vækst har været i stand til at holde energiforbruhvor stor en andel af kreditterne virksomhederget i ro. Det er verdensklasse!";Kl. 14:53
+112240;Time;"ne kan anvende. Det er faktisk det eneste, som
+man har bedt den danske regering og FolketinFørste næstformand (Svend Auken):
+get om at ændre. Det synes jeg faktisk er ganske
+Fru Anne Grete Holmsgaard for en kort beimponerende set i lyset af, at ud af de første 11
+mærkning.";Kl. 14:53
+112524;Time;"ansøgninger fra de øvrige EU-lande røg de 10
+ansøgninger faktisk retur til medlemsstaterne,";Kl. 14:53
+112643;name_party;":
+fordi der var ting, der skulle ændres. Det synes
+Først om COTudslippet: Hvis jeg ikke husker
+jeg i hvert fald er meget, meget positivt.
+helt forkert, var det faktisk første gang siden
+Grundlæggende kan vi støtte dette lovforslag
+1990, at C02-udslippet steg, og jeg vil gerne
+og igen rose regeringen for, at man har ramt ski- have at vide, om hr. Per Ørum Jørgensen er enig
+ven så godt, som man nu har.
+med mig i, at det skete fra 2005 til 2006. Hr. Per";Anne Grete Holmsgaard
+113107;Time;Ørum Jørgensen siger, at C02-udslippet går jo;Kl. 14:52
+113186;title_name;":
+op og ned, men her snakker vi om det korrigereSå er der forskellige korte bemærkninger. Det er
+de, og så er det faktisk ret interessant, at det altlettere at aflevere sin korte bemærkning, hvis
+så steg og ikke faldt, som det skulle.
+man sidder på sin plads. Fru Anne Grete HolmsDet andet er, at hr. Per Ørum Jørgensen siger,
+gaard som den første.
+at vi har haft et stort set uændret bruttoenergiforbrug, altså det, vi stopper ind i systemerne,
+siden 1980. Altså, det er faktisk sådan, at det de
+
+1276
+
+Tirsdag den 29. januar 2008 (L 55)";Svend Auken
+113736;Time;seneste 3 år er steget. Betragter hr. Per Ørum Jørgensen det som et tegn på, at der er noget galt,;Kl. 14:56
+113868;title_name;":
+eller som et tegn på, at det går rigtig godt med
+Ordføreren.";Svend Auken
+113940;Time;klima- og energipolitikken?;Kl. 14:56
+113978;Time;;Kl. 14:54
+114002;name_party;":
+Jeg synes, det er meget vanskeligt at komme";Per Ørum Jørgensen
+114080;title_name;":
+med et konkret bud på, hvordan denne fordeOrdføreren.";Svend Auken
+114145;Time;"ling vil blive, for det kan vi selvsagt ikke vide
+her på forhånd. Men jeg vil sige til hr. Per ClauPer Ørum Jørgensen (KF):
+sen, at det, der er væsentligt, jo er, at Danmark
+Man fristes til at sige, at det går ufattelig godt på
+har tilsluttet sig en aftale, hvor Danmark har pådet her felt, specielt når man ser de ambitioner,
+taget sig den allerstørste byrde i verden, nemlig
+regeringen har på området, og i de energifor21 pct.s reduktion i forhold til 1990.
+handlinger, som fru Anne Grete Holmsgaard jo
+Med hensyn til diskussionen om klimaet kenogså deltager i, er der jo lagt op til, at vi styrker
+der klimaet jo ingen grænser. Men ved at leve op
+energispareindsatsen yderligere.
+til den målsætning, og det har vi klart sagt at vi
+Så synes jeg, det er forkert at plukke enkelte
+år ud. Det er rigtigt, at vi her taler om korrigere- vil - det er allokeringsplanen jo også udtryk for
+- har vi også den positive indvirkning på klimade tal, men hvis vi ikke taler om korrigerede tal,
+et, som er hele meningen med en sådan allokehar vi jo faktisk fra 1990'erne mange, mange eksempler på, at C02-udslippet var meget højt. Og ringsplan og med Kyotoaftalen.";Kl. 14:54
+115307;Time;sådan ændrer det sig jo fra år til år,-men det er;Kl. 14:57
+115390;title_name;":
+klart, at vi tager det signal alvorligt.
+Hr. Per Clausen, en kort bemærkning.
+Men fru Anne Grete Holmsgaard er jo også";Svend Auken
+115520;Time;udmærket klar over, at med den plan, der er lagt;Kl. 14:57
+115586;name_party;":
+frem, og som forligspartierne på energiområdet
+Jeg kan forstå, at hr. Per Ørum Jørgensen mener,
+forhandler i øjeblikket, er der en masse virkeat det er lige meget, om vi lever op til det, der
+midler, som vil præge udviklingen i den rigtige
+retning, og det ligger også helt fast, at vi når vo- var den oprindelige hensigt, nemlig at det, man
+købte sig til, skulle være et supplement, og at
+res Kyotomålsætning om 21 pct.s reduktion inden 2012. Så jeg synes egentlig, at fru Anne Gre- det, vi gjorde i Danmark, skulle være det grundte Holmsgaard måske har behov for at smile no- læggende og det vigtigste og det største. Nu er
+det lige meget for hr. Per Ørum Jørgensen, fordi
+get mere og være lidt mere optimistisk.";Per Clausen
+116311;Time;han er nødt til at erkende, at de tal, der ligger, viser, at vi godt kan ende med, at over halvdelen,;Kl. 14:56
+116446;title_name;":
+at det, vi opnår i henhold til 21-pct.-målsætninHr. Per Clausen for en kort bemærkning.";Svend Auken
+116545;Time;"gen, er ting, som vi køber os til.
+Så vil jeg bare spørge hr. Per Ørum Jørgensen,";Kl. 14:56
+116644;name_party;":
+Jeg synes, det er dejligt med optimisme i politik. om han tror, det virker overbevisende, når vi siger internationalt, at vi mener, man kan reduceHr. Per Ørum Jørgensen erkender, at det unre C02-udslippet, vi mener, vi kan reducere voder denne regering er gået den gale vej med
+res energiforbrug, vi mener, vi kan satse på vedC02-udslippet, det er gået den gale vej med
+varende energi, og det burde I andre også gøre,
+energiforbruget, og så siger hr. Per Ørum Jøreller om han tror, det virker svagt.
+gensen, at det er verdensklasse. Ja, det må man";Per Clausen
+117203;Time;sige! Det minder jo om en tidligere konservativ;Kl. 14:58
+117284;title_name;":
+statsministers udtalelser.
+Ordføreren.
+Men lad mig så stille dette spørgsmål til hr.";Svend Auken
+117380;Time;;Kl. 14:58
+117401;title_name;Realiteten er altså, at det;Per Ørum Jørgensen
+117452;name_party;":
+ikke går så godt, men det skal nok gå godt i
+Der er jo ingen tvivl om, at vi faktisk står meget,
+fremtiden. Men er sagen ikke, at det regner man
+meget stærkt, også i relation til at præge den vimed, fordi man har tænkt sig, at over halvdelen
+dere proces. Jeg tænker på, at Kyotoaftalen foraf den reduktion, der skal ske af C02-udslippet,
+håbentlig afløses af en Københavnaftale i 2009.
+skal vi købe os til? Det er jo det, der fremgår af
+I EU-sammenhæng har vi jo på alle fronter
+det, som forslaget her er en del af.
+den største forpligtelse. I EU-tal skal vi op på 30
+
+Tirsdag den 29. januar 2008 (L 55)
+pet. vedvarende energi i 2020, og vi skal reducere C02-udslippet med 20 pet. i forhold til 2005,
+så vi står med de største forpligtelser på alle
+fronter. Men hr. Per Clausen må da give mig ret
+i, at klimaet kender ingen grænser. De udfordringer, vi står over for, er jo grænseoverskridende, og derfor er det jo den samlede indsats
+globalt set, der gør udslaget og er afgørende for,
+om vi får løst de klimaudfordringer, vi står over
+for, eller ej.";Per Ørum Jørgensen
+118515;Time;;Kl. 14:59
+118548;title_name;":
+Så er det fru Mette Gjerskov for en kort bemærkning.";Svend Auken
+118612;Time;;Kl. 14:59
+118631;name_party;":
+Jeg tænkte, at jeg nok hellere måtte bede om ordet, inden hr. Per Ørum Jørgensen pudser sin
+glorie helt færdig oppe på talerstolen, hvor han
+siger, at det ikke bare går godt, det går ufattelig
+godt. Så er det bare, at hr. Per Ørum Jørgensen
+lever i en fuldstændig anden virkelighed end
+den virkelighed, jeg lever i. For når vi taler om
+de korrigerede tal, så har vi et stigende energiforbrug, vi har en stigende COTudledning, plus
+at vi lige nu har fået de seneste tal for udbygningen af vindmøller. Udviklingen af vindmøller
+har stort set været nul i de seneste 4 år, og søreme om ikke der ifølge de seneste tal for 2007 er
+blevet pillet mere vind ned, end der er sat op.
+Er hr. Per Ørum Jørgensen fuldstændig sikker
+på, at han synes det går ufattelig godt på klimaområdet Danmark?";Mette Gjerskov
+119425;Time;;Kl. 15:00
+119458;title_name;":
+Ordføreren.";Svend Auken
+119481;Time;;Kl. 15:00
+119505;name_party;":
+Jamen jeg vil faktisk holde fast i, at det går ufattelig godt på klimaområdet. Vi har meget at
+være stolte af på det her felt, og den her regering
+har faktisk rigtig meget at være stolt af, når det
+gælder den vedvarende energi, når det nu er
+det, fru Mette Gjerskov bringer frem. Jeg vil således gøre opmærksom på, at stigningen i vedvarende energi år efter år, hvis man tager gennemsnittet under den tidligere regering, var på
+0,6 om året. Under den nuværende regering er
+stigningen reelt 0,9. Det fortæller jo faktisk, at
+der sker noget.
+Så er man meget fokuseret på vindmøller. Det
+er jo ikke sådan, at alt ligger ned, og at der ikke
+noget, som snurrer på det felt. Men tænk på den
+udvikling, der har været med hensyn til biomas-
+
+1277
+
+se og på en lang række andre felter. Det synes
+jeg fru Mette Gjerskov skylder os og de aktører,
+der er i energibranchen, at give kredit for.";Per Ørum Jørgensen
+120397;Time;;Kl. 15:01
+120430;title_name;":
+Så er det fru Mette Gjerskov for en kort bemærkning.";Svend Auken
+120494;Time;;Kl. 15:01
+120513;name_party;":
+Jeg anerkender meget gerne, at der er rigtig
+mange gode kræfter i det her land, som forsøger
+at lave vedvarende energi. Det, der bare er problemet, er, at vi har en regering, som er så fodslæbende på det her område, at det gør det utrolig svært at se frem mod klimatopmødet København i 2009 og sige, at vi skal være foregangsland, når vi halter bagefter. For det er jo det, vi
+gør.
+Jeg hørte slet ikke ordføreren forholde sig til
+et stigende energiforbrug, en stigende COTudledning eller den manglende opsætning af vindmøller, og at vi faktisk - målt i megawatt - tager
+flere vindmøller ned, end vi sætter op. Jeg kan
+slet ikke forstå, at ordføreren ikke bliver bare en
+lille bitte smule bekymret, og at han kan mene,
+at det går ufattelig godt i Danmark. Det går i
+den forkerte retning.
+Jeg har stor respekt for, hvis ordføreren ville
+sige: Okay, nu har vi lært af vores fejl, vi kan
+godt se, at det her ikke er så godt: vi må gøre en
+ny indsats.
+Det er det, jeg håber på at også regeringen vil
+vise i energiforhandlingerne. Men det holder da
+ikke at sige - med de tal, vi har nu - at det går
+ufattelig godt i Danmark. Det må ordføreren da
+give mig ret i.";Mette Gjerskov
+121680;Time;;Kl. 15:02
+121713;title_name;":
+Så er det ordføreren.";Svend Auken
+121746;Time;;Kl. 15:02
+121770;name_party;":
+Jeg har sådan set tidligere svaret på det spørgsmål. Men jeg vil godt gentage, at når man måler
+de her ting, så skal man selvfølgelig se det over
+en længere årrække og ikke bare plukke et enkelt år ud. Jeg synes i hvert fald, og det er da
+indtil videre min oplevelse med de energiforhandlinger, vi har, og hvor Socialdemokraterne
+deltager, at der er mange konstruktive og gode
+ønsker, både fra socialdemokraternes side, fra
+de øvrige oppositionspartiers side og fra regeringens og Dansk Folkepartis side. Derfor er jeg
+helt overbevist om, at der virkelig kommer skub
+i en udvikling, som er danmarkshistorisk, og det
+
+1278
+
+Tirsdag den 29. januar 2008 (L 55)
+
+er også på den baggrund, at jeg har en del optiikke, at vi fra dansk side bringer os i spidsen
+misme hos mig endnu.
+med hensyn til at finde virkemidlerne til at løse
+Vi har gjort det rigtig godt frem til dato, vi
+de globale problemer fremover. Og det er det afkan gøre det endnu bedre, og det er jo egentlig
+gørende.
+også det, energiforhandlingerne går ud på. Jeg
+Derfor kan man jo også ud fra teoribogen,
+håber, at vi kan få en bred aftale, hvor også Sosom nogle bruger i den her klimadiskussion, sicialdemokraterne fortsat bidrager konstruktivt.
+ge, at det slet ikke kan betale sig at udvikle vedKl. 15:03 varende energi og al den slags ting, fordi vi måFørste næstformand (Svend Auken):
+ske i nogle situationer kan købe os billigere til
+Vi går videre i ordførerrækken, og den næste
+C02-reduktioner på et udenlandsk marked.
+ordfører er hr. Johs. Poulsen.
+Men når vi siger, at vi alligevel skal investere i";Per Ørum Jørgensen
+123349;Time;"VE, at vi alligevel skal udvikle vedvarende ener(Ordfører)
+gi og satse på vind og biomasse og på de ting,
+Johs. Poulsen (RV):
+som på den lange bane er det, der skal være med
+Det har været ganske spændende at høre de sid- til at løse problemerne i verden i forhold til kliste ordvekslinger her under debatten om L 55 maudfordringerne, så er det jo, fordi historien
+ikke mindst, fordi uanset hvordan man vender
+har vist, at det både kan betale sig - det er fakog drejer det, og hvad man lægger til og trækker tisk en stor del af det, vi lever af i dag - og så forfra, så er der jo en eneste grund til, at vi behand- di det er vigtigt, som fru Anne Grete Holmsgaler L 55, nemlig at Kommissionen om regerinard var inde på, at et rigt land som Danmark,
+gens udspil har sagt, at der er et alt for stort ønsom jo på en række områder har store probleske om bruge kreditter. Man vil i alt for stort om- mer, fordi vi pr. indbygger har et meget højt
+fang forsøge at skubbe forpligtelsen af sig i forC02-udslip, har brug for at vise, at et moderne
+hold til den indenlandske indsats og købe den
+samfund som Danmark også godt selv kan gå i
+andre steder. Det synes vi er problematisk. Det
+spidsen med egne virkemidler og vise, hvordan .
+synes vi også var problematisk, da man fra rege- det her skal løses. Det er jo det afgørende.
+ringens side sammen med Dansk Folkeparti laTilbage til udgangspunktet: L 55 behandler vi
+vede allokeringsplanen. Der er en for stor brug
+kun, fordi Kommissionen har sagt til regeringen,
+af - for den sags skyld - gratis C02-kvoter, og
+at den ønsker at købe al for store kreditter i indder også en for stor brug af kreditter og en for
+satsen. Fru Anne Grete Holmsgaard har jo ret i,
+lille sikring af en indenlandsk indsats.
+at hvis man tager det allermest negative scenaUd fra en teoretisk tilgang kan man jo spørge
+rie, så kan man faktisk nå frem til, at kun om- som også hr. Per Ørum Jørgensen har været
+kring en tredjedel af den danske reduktionsforinde på flere gange - om det så gør noget, at vi
+pligtelse opnås ved indenlandsk indsats: resten
+køber os til den alle andre steder i verden end
+kan man købe sig til.
+hos os selv, hvis blot vi får en reduktion. Der kan
+Jeg tror ikke det sker fuldt ud på den måde,
+man jo godt ud fra en teoretisk tankegang sige:
+men regnestykket viser, at det desværre kunne
+Nej, det er selvfølgelig udmærket. Men efter vo- være sådan, og det viser jo, at regeringen i al for
+res opfattelse har vi også en meget høj grad af
+høj grad lægger vægt på at købe sig til reduktioforpligtelse til at videreføre den linje, vi i Dannen.";Kl. 15:03
+125936;Time;"mark lagde i 1980'erne og især i 1990'erne, hvor
+vi viste, at man på en lang række områder, også i Første næstformand (Svend Auken):
+Tak til hr. Johs. Poulsen. Så går vi videre i ordføpraksis op på anden måde end med teoribogen,
+var i stand til at føre noget ud i livet, der rent
+rerrækken, og den næste og sidste ordfører inden ministeren er hr. Per Clausen
+faktisk gav resultater på området for vedvarenKl. 15:07
+de energi og dermed i forhold til en fornuftig
+(Ordfører)
+klimapolitik. For det er jo det afgørende i den
+her sag.";Kl. 15:06
+126483;name_party;":
+Det er også det afgørende, når man kigger
+Sådan set kunne debatten i dag jo godt give anfremad, for også på nuværende tidspunkt kan vi ledning til fornyet begejstring og fornyet optimisme, fordi vi endnu en gang hørt historien om
+teoretisk set købe os til stort set, hvad vi vil,
+uden for Danmark og uden at lade være med at
+disse perspektivrige energiforhandlinger, hvor
+foretage os noget særligt selv. Og det kan vi også alle partier har masser af gode ideer og i løbet af
+godt få en reduktion på, men det betyder bare
+ganske kort tid vil afslutte forhandlingerne med
+
+Tirsdag den 29. januar 2008 (L 55)
+et gunstigt resultat. Og hvis der så er nogle
+blandt dem, der lytter til den her debat, der tænker, at det synes de da at de har hørt før, og at
+det er sært, at det ikke er blevet til noget, så må
+vi jo tage det som udtryk for, at det må være de
+oppositionspartier, der er med i forhandlingerne, som besværliggør opnåelsen af de her fantastiske nye resultater.
+Når man hører den Konservative ordfører,
+kan man ikke forestille sig andet, end at De Konservative er drivende i at sørge for, at vi pålægger os selv så store opgaver som overhovedet
+muligt for at sikre udviklingen af vedvarende
+energi og en reduktion af C02-udslippet. Og så
+er der åbenbart en strid mellem den konservative ordfører og den konservative klimaminister
+om det her spørgsmål, for klimaministeren var
+jo ikke var så ivrig efter at påtage sig store forpligtelser i forhold til EU, som man skulle tro på
+den konservative ordfører.
+Men lad det nu være. Vi ser jo stadig frem til
+at se resultatet af disse forhandlinger, der jo kun
+kan hensætte os alle i begejstring, når det foreligger: det er der næppe nogen tvivl om.
+Det andet er så det her lovforslag, som jo ganske rigtigt handler om, at EU har påpeget over
+for Danmark, at det, som man havde i gang,
+ikke gik. Og det synes jeg er rigtig sørgeligt. Jeg
+synes, at det er sørgeligt for vores regering, at
+den bringer sig i en sådan situation. Det er i
+grunden også lidt trist, at det bringer os, der er
+noget skeptiske over for EU, i den situation, at vi
+kan konstatere, at vores regering er i stand til at
+have mindre ambitioner, end man har i EU. Det
+synes jeg ærlig talt er lidt langt ude.
+I grunden repræsenterer det her lovforslag jo
+et lille fremskridt i forhold til den situation, som
+regeringen havde bragt sig selv i, med hensyn til
+hvor stor en del af opfyldelsen af klimaforpligtelserne man vil købe sig til i udlandet. Derfor
+kunne man godt bruge det som argument for at
+stemme for lovforslaget.
+Nu er der jo grænser for, hvilken situation
+man skal bringe sig selv i og så forvente, at Enhedslisten ligefrem hjælper lovforslaget igennem bagefter. Så vi vil ikke stemme for det her
+lovforslag, men vi vil heller ikke stemme imod.
+Jeg vil bare sige, hvad jeg synes er en vigtig
+pointe i diskussionen, at den situation, vi står i
+nu, er, at som konsekvens af regeringens politik
+er C02-udslippet begyndt at stige. Energiforbruget er steget. Vi hiver mindre energi ud af vindmøller, end vi gjorde tidligere. Det er jo konsekvensen af den politik, regeringen har ført. Og
+
+1279
+
+så hjælper det ikke noget, at den Konservative
+ordfører holder en tale, der er baseret på resultater, der er skabt for 15-20 år siden. Det er realiteten, og det er den udfordring, vi står over for,
+nemlig at få vendt den politiske udvikling. Det
+gør man i hvert fald ikke ved at fokusere yderligere på at købe sig ud af sine forpligtelser. Og
+der er det jo en sørgelig kendsgerning, at det, regeringen har lagt op til, åbner op for, at mellem
+en tredjedel og halvdelen af vores reduktionsforpligtelse i forhold til de 21 pet. er det, vi kommer til at yde ved en selvstændig indsats i Danmark i kraft nogle energireduktioner og nogle
+omstillinger til vedvarende energi. Resten klarer
+man ved opkøb i udlandet - i øvrigt i et C02kvote-system, som alle vist efterhånden har erkendt er uigennemskueligt, og hvor det i hvert
+fald indtil nu har været vanskeligt at konstatere,
+at det har spillet nogen som helst positiv rolle.
+Fordi det her lovforslag, som indeholder en
+lille forbedring i forhold til, hvordan det så ud,
+men er baseret på, at regeringen bliver sat på
+plads af Europa-Kommissionen og er udtryk for,
+at man bygger videre på et C02-kvote-system
+og et køb og salg-princip, med hensyn til hvordan man løser klimaproblemerne - som efter vores opfattelse er helt utilfredsstillende - vil vi så
+tilslutte os den gruppe af partier, der undlader
+at stemme.";Per Clausen
+130970;Time;;Kl. 15:10
+131003;title_name;":
+Tak til ordføreren. Så det ministeren.";Svend Auken
+131053;Time;"Klima- og energiministeren (Connie Hedegaard):
+Tak for at jeg kan konstatere, at der er et klart
+flertal for det her, som - jeg tror, det var fru
+Anne Grete Holmsgaard, der sådan set meget
+præcist kaldte det sådan - man kan kalde for et
+lille teknisk forslag.
+Vi har været lidt igennem det her med, at
+Danmark ikke bare er et af de lande, der har haft
+den højeste C02-reduktions-forpligtelse, nemlig
+på de 21 pet. Men vi er altså faktisk også et af de
+lande, hvis godkendelse af allokeringsplanen
+gik mest smertefrit igennem EU. Det er ikke,
+som hr. Per Clausen lige sagde det, sådan, at regeringen er sat på plads. Man kan simpelt hen
+sætte sig wned, kan jeg sige til hr. Per Clausen,
+og finde ud af, hvordan det gik med alle de andre allokeringsplaner. Det er et overordentlig
+svært og teknisk kompliceret stof, og det her er
+altså faktisk en mindre justering. Det eneste
+krav, som Kommissionen stillede til Danmarks
+
+1280
+
+Tirsdag den 29. januar 2008 (L 55)
+
+kvotetildelingsplan, var, at grænsen for virksomhedernes anvendelse af kreditter skulle nedsættes ganske lidt. Og da grænsen er slået fast i
+COTkvote-loven, så fremgår det altså af grundloven, at vi er nødt til at lave den her tekniske justering, fordi det jo indirekte er en omkostning,
+dvs. en slags skat på virksomhederne.
+Jeg skal lige sige til fru Mette Gjerskov, at fru
+Mette Gjerskov jo godt ved - bl.a. fordi vi havde
+samråd om det forleden dag i udvalget - at hovedparten af det, som Danmark har foretaget sig
+siden 1990, når det gælder C02-reduktion, er
+sket ved hjemlige reduktioner. Men det behøver
+vi ikke at tage den store komplekse diskussion
+om her, for det materiale, jeg præsenterede for
+udvalget i sidste uge, sørger vi selvfølgelig for at
+sende over til udvalget, og så har vi det at diskutere videre ud fra.
+Men jeg er som sagt glad for, at der er en bred
+opbakning til forslaget. Jeg kan også sige, at når
+man læser høringssvarene, kan man jo også se,
+at det ikke har givet anledning til protester fra
+virksomhederne, og det understreger vel også,
+at der er tale om en mindre korrektion.
+Så er der til sidst bare at sige, at alt vedrørende klimapolitikken, herunder altså også denne
+kvotelov, efter regeringsomdannelsen blev samlet hos klima- og energiministeren, og derfor er
+der nogle konsekvensrettelser af sådan mere juridisk karakter, og de indgår selvfølgelig også
+her. Så jeg håber, at man er indforstået med, at
+de her tekniske ændringsforslag fremsættes som
+
+ændringsforslag i udvalgets betænkning til lovforslaget.
+Tak for de positive bemærkninger: jeg håber,
+vi kan få en let gang gennem udvalget.";Kl. 15:11
+133657;Time;;Kl. 15:13
+133690;title_name;":
+Jeg siger tak til ministeren.
+Da der ikke flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at forslaget bliver henvist til Det
+Energipolitiske Udvalg. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.";Svend Auken
+133950;Time;Meddelelser fra formanden;Kl. 15:13
+134009;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen,
+onsdag den 30. januar 2008, kl. 13.00.
+Jeg henviser til den dagsordenen, der er opslået i salen.
+Mødet er hævet. (Kl. 15.14).";Svend Auken

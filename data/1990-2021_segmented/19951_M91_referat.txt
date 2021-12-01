@@ -1,0 +1,3238 @@
+split;reason;text;value
+0;;"7032
+
+Fredag den 24. maj 1996 (D)
+
+91. m ø d e";
+80;Time;"Dagsorden
+1) Tredje behandling af lovforslag nr. L 98:
+Forslag til lov om ændring af lov om arbejdsmiljø. (Unge under 18 år).
+Af arbejdsministeren Gytte Andersen).
+(Fremsat 29/11 95. Første behandling 7/12 95.
+Betænkning 17/4 96. Anden behandling 26/4
+96. Tillægsbetænkning 15/5 96).
+2) Tredje behandling af lovforslag nr. L 181:
+Forslag til lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.
+Af arbejdsministeren Gytte Andersen)-0217065
+så man kun så på det.
+(Fremsat 17/1 96. Første behandling 26/1 96.
+Betænkning 24/4 96. Anden behandling 10/5
+96. Tillægsbetænkning 15/5 96).
+3) Tredje behandling af lovforslag nr. L 172:
+Forslag til lov om ændring af lov om tilskud til
+produktudvikling af jordbrugs-, skovbrugs- og
+fiskeriprodukter m.m. (Udskillelse af skov og
+udvidelse med markedsføring).
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+4) Tredje behandling af lovforslag nr. L 173:
+Forslag til lov om offentliggørelse af kontrolresultater og om ændring af visse love under
+Landbrugs- og Fiskeriministeriet.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+5) Tredje behandling af lovforslag nr. L 174:
+Forslag til lov om administration af Det Europæiske Fællesskabs forordninger på fiskeriets
+område og administration af produktionsafgifter m.v.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+
+6) Tredje behandling af lovforslag nr. L 175:
+Forslag til lov om strukturforanstaltninger vedrørende fiskerisektoren.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+7) Anden behandling af lovforslag nr. L 109:
+Forslag til lov om støtte til jordbrugets strukturudvikling og til økologisk jordbrug m.v.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 6/12 95. Første behandling 10/1 96.
+Betænkning 15/5 96).
+8) Anden behandling af lovforslag nr. L 159:
+Forslag til lov om ændring af lov om Dansk
+Landbrugs Realkreditfond. (Ophævelse af eneretten).
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 16/1 96. Første behandling 30/1 96.
+Betænkning 21/5 96).
+9) Anden behandling af lovforslag nr. L 42:
+Forslag til lov om ændring af lov om vederlag
+og pension m.v. for ministre.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 25/10 95. Første behandling 30/11 95.
+Betænkning 15/5 96).
+10) Anden behandling af lovforslag nr. L 138:
+Forslag til lov om ændring af lov om almen voksenuddannelse. (Skolesamarbejde, værkstedsundervisning, uddannelsesvejledning, støtteundervisning, sammenlægning).
+Af undervisningsministeren (Ole Vig Jensen).
+(Fremsat 13/12 95. Første behandling 11/1 96.
+Betænkning 14/5 96).
+11) Anden behandling af lovforslag nr. L 247:
+Forslag til lov om Danmarks Journalisthøjskole.
+Af undervisningsministeren (Ole Vig Jensen).
+(Fremsat 17/4 96. Første behandling 26/4 96.
+Betænkning 21/5 96).
+12) Første behandling af beslutningsforslag nr.
+B 129:
+Forslag til folketingsbeslutning om resultatstyrede bevillinger til arbejdsformidlingen.
+Af Tom Behnke (FP) m.fl.
+(Fremsat 30/4 96).
+
+Fredag den 24. maj 1996 (D)
+13) Første behandling af beslutningsforslag nr.
+B 131:
+Forslag til folketingsbeslutning om videregående uddannelser i tyndt befolkede egne af landet
+og om oprettelse af samfundsvidenskabelige
+bacheloruddannelser ved Sydjysk Universitetscenter.
+Af Kjeld Rahbæk Møller (SF) og Ulla Tørnæs (V)
+m.fl.
+(Fremsat 7/5 96).
+
+Den første sag på dagsordenen var:
+1) Tredje behandling af lovforslag nr. L 98:
+Forslag til lov om ændring af lov om arbejdsmiljø. (Unge under 18 år).
+Af arbejdsministeren Gytte Andersen).
+(Fremsat 29/11 95. Første behandling 7/12 95.
+Betænkning 17/4 96. Anden behandling 26/4
+96. Tillægsbetænkning 15/5 96).
+Der var stillet 3 ændringsforslag i tillægsbetænkningen.
+Uden for tillægsbetænkningen var der ikke stillet ændringsforslag.
+Ændringsforslagene sattes først til forhandling.
+Forhandling";kl. 10.00
+4262;name_party;":
+Vi står nu i en situation, hvor vi skal til at tredjebehandle implementeringen af et EF-direktiv
+vedrørende børns arbejde. Da vi under førstebehandlingen behandlede det af regeringen oprindelig fremsatte lovforslag, havde vi jo en diskussion omkring lovforslagets indhold, først og
+fremmest spørgsmålet om, hvorvidt der var tale
+om en ren implementering, eller om der var tale
+om en overimplementering. Det oprindelige
+forslag indeholdt en bestemmelse, som gik
+videre end EF-direktivet, en bestemmelse om, at
+alle arbejdsgivere skulle indberette til forældrene, hvad deres børn går og laver, når de er i job,
+og hvad de er beskæftiget med af maskiner,
+stoffer, materialer osv.
+i
+Den socialdemokratiske gruppe udtrykte ved
+den lejlighed tilfredshed med, at man fik denne
+generelle indberetningspligt, og det var selvfølgelig set på baggrund af, at vi igennem årene
+
+7033
+
+har indhøstet nogle erfaringer i de mange sager,
+de mange arbejdsskader, der har været omkring
+børn og unge, hvor man efterfølgende har konstateret, at når børn havde pådraget sig en eller
+anden skade, vidste forældrene rent faktisk
+ikke, hvad deres børn havde gået og beskæftiget
+sig med.
+Det oprindelige forslag ville have løst op for
+dette problem, og derfor kvitterede vi netop for
+denne indberetningspligt, og det gjorde vi selvfølgelig set i lyset af, at nok er det arbejdsgiveren, der først og fremmest har pligten til at sikre
+et godt og et sundt arbejdsmiljø, men forældrene har selvfølgelig også en forpligtigelse til at
+følge med i, hvad deres børn går og beskæftiger
+sig med.
+Nu står vi så i en situation, hvor vi skal
+behandle to ændringsforslag, som betyder, at
+regeringens oprindelige forslag om den generelle indberetningspligt for arbejdsgivere, når de
+beskæftiger børn under 15 år, bliver indført, og
+derudover er vi i den situation, at vi faktisk går
+et lille skridt videre, og det er vi tilfredse med i
+den socialdemokratiske gruppe, i og med at vi
+nu kommer i den situation, at hvis en arbejdsgiver beskæftiger børn eller unge under 18 år på
+fuld tid i mere end 3 måneder, er det sådan, at
+arbejdsgiveren skal indberette til kommunen, at
+man har sådan en ung beskæftiget.
+Når jeg udtrykker tilfredshed med dette, er
+det selvfølgelig set i lyset af, at vi gerne ser, at
+disse unge mennesker udfører erhvervsarbejde,
+og såmænd også at de arbejder på fuld tid, men
+vi har en interesse i, at disse unge mennesker får
+muligheden for at gå i gang med en uddannelse.
+Vi har en interesse i, at de bliver rådet, og at de
+bliver vejledt til at gå i gang med en uddannelse.
+Det er så op til dem selv, om de vil, men med
+det ændringsforslag, der ligger, sikrer vi, at man
+i hvert fald tager fat om dem og siger: Er det nu
+en god idé, at du går her og arbejder på fuld tid?
+Er det ikke bedre, at du går i gang med en
+uddannelse? Vi får muligheden for at sige dette
+til de unge mennesker.
+Vi synes, det er et ganske udmærket forslag.
+Det går et skridt videre end det, vi oprindelig
+havde fremsat, men det er en god vinkel på
+denne sag og et godt udgangspunkt også for
+sagens afslutning.
+(Kort bemærkning).";Poul Erik Dyrlund
+7367;name_party;":
+Hr. Poul Erik Dyrlund gjorde sig skyldig i en
+forvrængning af debatten ved i sin indledning at
+
+7034
+
+Fredag den 24. maj 1996 (L 98)
+
+sige, at vi nu stod over for implementeringen af
+et EF-direktiv. Det er faktisk ikke rigtigt. Vi står
+over for en diskussion af dansk lovgivning, og
+netop essensen af alt det, der er foregået i dette
+meget lange forløb, er, at det er lykkedes at dreje
+debatten fra at handle om, hvorvidt man skulle
+implementere et EF-direktiv eller ej, til at handle
+om dansk lovgivning om børns og unges arbejde, og den udvikling har jeg været overordentlig tilfreds med.
+Så er det rigtigt, at regeringen selvfølgelig
+som en sidegevinst har fået, at det er lykkedes at
+få deres direktiv implementeret, men det er ikke
+noget, der vedkommer mig.";Jette Gottlieb
+8151;name_party;":
+For snart mange år siden fik vi nedsat et udvalg
+vedrørende børns arbejde, bl.a. på SF's foranledning. Det udvalg barslede med en betænkning for et par år siden, som bl.a. anbefalede at
+sætte den nedre aldersgrænse op, som anbefalede, at forældrene fik lov til at få at vide, hvad
+det var for et arbejde, børnene og de unge havde, og som især tog fat om den gruppe, der
+kommer i gang med en ungdomsuddannelse,
+men som dropper ud på grund af for meget
+erhvervsarbejde. Dertil kommer den gruppe af
+unge, som mister kontakten med uddannelsessystemet, fordi de får et erhvervsarbejde.
+Alle disse enkeltelementer har vi nu via disse
+ændringsforslag fået indarbejdet i lovforslaget.
+Det finder SF er utrolig centralt. Vi kan ikke
+længere blive ved med at se på, at der er store
+grupper af unge, for hvem uddannelse bliver en
+by i Rusland.
+SF vil naturligvis stemme for samtlige
+ændringsforslag plus stemme for lovforslaget til
+slut.";Anne Baastrup
+9099;name_party;":
+I det meget lange forløb, der har været omkring
+dette lovforslag, har debatten jo i hovedsagen
+koncentreret sig om spørgsmålet om, hvorvidt
+bladselskaberne skulle have avisbude på 10, 11,
+12 eller 13 år. I virkeligheden har det ikke været
+den store, tunge del af dette lovforslag.
+Det, der hele tiden har bekymret Enhedslisten
+meget væsentligt, har netop været spørgsmålet
+om de 15-18-åriges arbejdsvilkår, fordi det, der
+er ved at ske, er en meget voldsom eksplosion i
+væksten af de unges arbejde.
+Det har to effekter. Den ene effekt er, at mange af dem glider ud af skolen, og den anden
+effekt er, at de på en eller anden facon har fun-
+
+geret som en meget billig arbejdskraftreserve.
+Alle kender jo den situation, at en 16-årig bliver
+ansat, får stadig flere timer og derefter bliver
+sparket ud den dag, han fylder 18 år. Den situation har vi prøvet at tage hul på meget seriøst
+ved at sikre, at der i forbindelse med det arbejde, som de unge udfører, bliver givet en mulighed for, at der tilknyttes uddannelse.
+Vi havde helst set en mere vidtgående måde
+at gøre det på. Vi havde gerne set, at det blev
+pålagt, at der foregik uddannelse som en integreret del af arbejdsprocessen. Det har ikke
+været muligt at komme igennem med det, men
+vi er blevet bragt et godt stykke på vej, og først
+og fremmest får vi nu en meget bedre oversigt
+over, hvordan hele dette arbejdsmarked udvikler sig.
+Derfor er vi tilfredse med den proces, der har
+fundet sted, og derfor stemmer vi selvfølgelig
+også for de ændringsforslag, der nu er blevet
+stillet til lovforslaget, og også for den endelige
+lov.
+Hermed sluttede forhandlingen om ændringsforslagene.
+Afstemning
+Ændringsforslag nr. 1-3 vedtoges uden afstemning.
+Lovforslaget som helhed sattes derefter til forhandling.
+Forhandling
+Arbejdsministeren Gytte Andersen):
+Jeg er glad for, at et flertal i Folketinget nu om
+lidt kan vedtage dette forslag, men jeg vil også
+godt beklage, at visse partier - Venstre og De
+Konservative - fastholder, at aldersgrænsen for
+lettere arbejde ikke skal sættes op fra 10 år til
+13 år, og dermed er imod en beskyttelse af børn,
+som der internationalt er enighed om, og som
+Danmark i EU har forpligtet sig til.
+Fra starten af behandlingen af lovforslaget det vil jeg ikke lægge skjul på - forventede jeg
+faktisk, at Venstre og De Konservative ville
+være positive over for gennemførelsen af et
+EF-direktiv og dermed også positive over for
+lovforslaget. Tilmed ville Danmark jo kunne
+ratificere ILO-konvention nr. 138 om mindstealder for adgang til beskæftigelse.
+
+Fredag den 24. maj 1996 (L 98)
+Både Venstre og De Konservative tilkendegav
+under førstebehandlingen, at de kunne gå ind
+for et lovforslag, der ikke gik længere, end
+direktivet foreskrev. Jeg imødekom det synspunkt ved at fremsætte ændringsforslag, så lovforslaget kun indeholdt det, som Danmark har
+pligt til at gennemføre ifølge EF-direktivet.
+Stor var min overraskelse ved andenbehandlingen, hvor jeg med nogen undren kunne konstatere, at Venstre og De Konservative som
+EU-ansvarlige partier alligevel ikke ville stemme for ved lovforslagets tredje behandling, også
+selv om der er tale om en ren gennemførelse af
+et EF-direktiv. Det synes jeg var beklageligt.
+Tilsyneladende havde Venstre fuldstændig
+glemt, hvad Venstres ordfører, fru Charlotte
+Antonsen, havde tilkendegivet ved førstebehandlingen, og desværre kunne eller turde - det
+ved jeg ikke rigtig - Det Konservative Folkeparti
+ikke foretage sig en selvstændig handling i denne sag. Pinligt, synes jeg, at Det Konservative
+Folkeparti tilsyneladende havde deponeret sin
+beslutningskraft i Venstres baglomme.
+Regeringen er imidlertid EU-ansvarlig og
+forhandlede derfor et forlig hjem med SF og
+Enhedslisten: et forlig, der har ført til forbedringer for de unge.
+Det drejer sig om det, vi lige har vedtaget. For
+det første at arbejdsgiveren har en forpligtelse til
+at underrette kommunen med henblik på vejledning og bistand til uddannelse af unge under
+18 år efter 3 måneders fuldtidsarbejde, og for
+det andet at underretningspligten for de
+13-14-årige gennemføres som oprindelig foreslået. Herudover har jeg jo tilkendegivet i aftalen med SF og Enhedslisten, at jeg vil kontakte
+arbejdsmarkedets parter med henblik på at få
+søgt fremmet, at de unge faktisk deltager i
+uddannelsestilbud som en del af arbejdsprocessen.
+Som det fjerde vil jeg rette henvendelse til Det
+Tværministerielle Børneudvalg med henblik på
+at få analyseret sammenhængen mellem de
+15-17-åriges erhvervsarbejde og så deres frafald
+fra uddannelse, og så vil jeg bede udvalget om
+at sikre, at der ikke sker det store frafald af
+unge, der er startet på en uddannelse.
+Jeg er glad for og tilfreds med, at lovforslaget
+nu kan vedtages med et flertal i Folketinget, og
+jeg anerkender meget den konkrete og konstruktive tilgang til lovforslagets indhold, der
+har været fra SF's og Enhedslistens side - et
+indhold, som jo handler om beskyttelse af børn
+og unge på arbejdsmarkedet.
+
+7035
+
+(Kort bemærkning).";Jette Gottlieb
+14080;name_party;":
+Jeg vil til arbejdsministeren sige, at jeg naturligvis også var dybt skuffet oyer, at Venstre og De
+Konservative ikke ville være med til at beskytte
+børn og unge i arbejdsprocessen. Men jeg synes,
+at der til gengæld er en politisk sidegevinst i det,
+fordi det nu viser sig, at vi har en slags præcedens for, at Venstre og De Konservative fremover vil vurdere indholdsmæssigt, inden de går
+i gang med en diskussion om implementering af
+et direktiv: det vil ikke mere være en automatik.
+Vi vil nu se en situation, hvor man altså vurderer, om indholdet i de direktiver, man taler
+om, har nogen værdi for det danske samfund,
+har nogen værdi som dansk lovgivning. Det
+synes jeg er en meget, meget glædelig situation
+at stå i: en meget glædelig præcedens at se
+udvikle sig.
+(Kort bemærkning).";Jette Gottlieb
+14890;name_party;":
+Det var jo sådan, at vi på ganske normal vis
+behandlede dette forslag i Folketinget. Der var
+kritik, der var forbehold, der blev fremført krav
+om ændringer, og først og fremmest blev der
+fremsat krav fra Venstres og De Konservatives
+side, som stillede krav om ændringer. Man stillede betingelser for at støtte forslaget undervejs
+i udvalgsbehandlingen.
+Det er min klare opfattelse, at de betingelser
+og de krav, som man havde stillet fra Venstres
+og De Konservatives side, var blevet opfyldt.
+Men da vi nåede frem til andenbehandlingen,
+oplevede Folketinget et par markante ting. For
+det første at Venstre og De Konservative løb fra
+tidligere givne tilsagn - det er der nu ikke så
+meget nyt i, det er set før - og for det andet
+bragte man noget helt nyt ind i dansk politik.
+Venstre og De Konservative, som påberåber sig
+at være EU-bærende partier, nægtede at være
+med til at bære dette forslag igennem Folketinget: man meddelte, at man agtede at stemme
+imod.
+End ikke det rene direktiv, som man var
+kommet frem til på baggrund af de krav, som
+Venstre og De Konservative stillede under førstebehandlingen, ønskede man at være med til
+at vedtage. Man løber hermed fra Danmarks
+internationale forpligtelser. Derfor er det godt at
+konstatere, at andre partier trods deres skeptiske holdning til EU vil være med til at bære dette igennem Folketinget til gavn for børnene i
+Danmark og til gavn for børnene i Europa.
+
+7036
+
+Fredag den 24. maj 1996 (L 98)
+
+Vi får slået fast, at den sociale dimension også
+gælder for børnene.
+(Kort bemærkning).";Poul Erik Dyrlund
+16453;name_party;":
+Først til arbejdsministeren, der er overrasket
+over, at Venstre er imod direktivet om børnearbejde. Det overrasker mig meget, at arbejdsministeren har denne overraskelse. Hvis
+arbejdsministeren i stedet for at have lyttet til
+HK havde lyttet til Europaudvalget, hvor
+arbejdsministeren jo har hentet sit mandat, havde arbejdsministeren naturligvis vidst, at Venstre hele vejen igennem har været imod dette
+direktiv. Vi mener ikke, at Folketinget er gummistempel for EU.
+Til sidst vil jeg sige: Arbejdsministeren taler
+om EU-ansvarlighed. Må jeg minde arbejdsministeren om, hvem det var, der i 1986 nægtede at
+ratificere en ny traktat, Fællesakten, i EU. Jeg
+synes, at arbejdsministeren skal glemme den
+slags beskyldninger.
+(Kort bemærkning).";Charlotte Antonsen
+17214;name_party;":
+Det er sjældent, at jeg bliver rystet over noget fra
+talerstolen. Det er jeg vist ikke blevet i mange år,
+men det er jeg blevet for ca. et minut siden af fru
+Charlotte Antonsen. At Venstre, hvis formand
+jeg respekterer meget højt, og hvis formand jeg
+deler EU-synspunkter med, nu stiller sig op og
+siger, at implementeringen af EF-direktiver for
+fremtiden vil være afhængig af, om Venstre
+synes, at det er noget, der gavner eller ikke gavner, og at arbejdsministeren ikke skal være
+overrasket over, at fordi man var imod at give et
+mandat i Europaudvalget, og fordi et flertal derefter i EU gennemfører et direktiv, så føler Venstre sig ikke forpligtet til, at Danmark skal leve
+op til vores forpligtelse!
+Jeg vil godt spørge hr. Uffe Ellemann-Jensen,
+som jeg som sagt sætter meget stor pris på,
+hvordan hr. Uffe Ellemann-Jensen for fremtiden
+i den EU-debat, som han og jeg forhåbentlig kan
+køre videre i en EU-positiv linje, vil forklare italienerne, grækerne, spanierne og portugiserne,
+som vi jo plejer i EU-debatten om ikke at håne,
+så dog at kritisere for at have implementeret
+væsentlig færre direktiver, end vi praler af at
+gøre i Folketinget, at vi i Danmark med den
+holdning, Venstre giver udtryk for i dag, stadig
+væk betragter EU som et retssamarbejde. For
+det, der jo er det afgørende i EU, er, at nok kan
+vi være uenige i det, der bliver vedtaget der-
+
+nede, fordi vi har stemt imod et direktiv, men vi
+har derefter forpligtet os til, når et flertal på lovlig vis har vedtaget et direktiv, så også at gennemføre det i Danmark.
+Og den diskussion er for mig meget, meget
+vigtigere i dag end et eller andet fiksfakseri
+omkring børns arbejde i forbindelse med aviser,
+og det er jo den diskussion, der lidt populistisk
+er blevet kørt. Jeg vil gerne spørge hr. Uffe Ellemann-Jensen: Hvor er EU's retsside henne med
+den holdning, som fru Charlotte Antonsen lige
+har givet udtryk for?
+(Kort bemærkning).";Peter Duetoft
+19146;name_party;":
+Jeg vil gerne stille et spørgsmål til fru Charlotte
+Antonsen eller til hr. Uffe Ellemann-Jensen. Det
+er jo en meget interessant situation, der opstår,
+når vi nu fra Venstres side har fået en tilkendegivelse af, at hvis der her i Folketinget sker en
+ændring af flertallet, således at vi ikke længere
+er indstillet på at gennemføre et EF-direktiv, så
+er Venstre med på, at vi her i Folketinget kan
+vedtage, at det pågældende direktiv ikke skal
+gennemføres. Det synes jeg er et synspunkt, der
+fortjener al mulig anerkendelse.
+Jeg vil godt spørge, om det er den konsekvens, som Venstres politik nu vil få, for så er
+der jo tale om en demokratisk forbedring her i
+Folketinget. Så er der jo tale om, at hvis der
+f.eks. ved et folketingsvalg sker en ændring af
+sammensætningen her i Folketinget, og vi dermed får skabt et flertal imod et EF-direktiv, og
+Venstre i øvrigt er imod direktivet, ja, så har vi
+faktisk mulighed for at lave det om, som er sket,
+og sige: Dette direktiv skal ikke gennemføres
+her i Danmark.
+Det vil give nogle muligheder for at styrke
+demokratiet, og jeg synes, hvis det er det, der er
+meldingen fra Venstre, at det er en utrolig god
+ting. Det giver os jo nogle muligheder i forhold
+til arbejdet i Folketingets Europaudvalg, for så
+kan en regering jo ikke længere være sikker på,
+at hvis den har fået et mandat, så kan det ikke
+senere hen blive lavet om. Så har befolkningen
+en mulighed for via stemmeafgivningen ved et
+folketingsvalg at få en reel indflydelse på tingene, selv om toget er kørt nede i EU's Ministerråd. Så det er en demokratisk forbedring af
+systemet, der lægges op til fra Venstres side
+med det signal, som er givet i dag.
+
+Fredag den 24. maj 1996 (L 98)
+7037
+i
+(Kort bemærkning).
+Så alt i alt må vi sige, at sagen i dag tilsiger, at";Keld Albrechtsen
+20943;name_party;":
+arbejdsministeren - og det vil jeg også gerne
+Jeg må sige til det, hr. Albrechtsen lige har sagt,
+sige til De Radikale og CD - bør tænke lidt over
+at det er der jo ikke noget som helst nyt i. Et fler- tingene, når man skal have sine mandater i
+tal i Folketinget kan da altid bestemme lige præ- Europaudvalget. Dette her var for smalt: det
+cis, hvad det vil. Hvad det eventuelt giver af
+viser det.
+problemer i forhold til internationale retsinstanser, er så en helt anden sag, men der er jo ikke
+(Kort bemærkning).
+noget nyt i, at et flertal kan bestemme, hvad det";Uffe Ellemann-Jensen
+21530;name_party;":
+vil.
+Det, der egentlig fik mig til at bede om ordet,
+Til de spørgsmål, hr. Duetoft rejser, må jeg
+var hr. Uffe Ellemann-Jensens mistillid til
+sige, at Venstres stemmeafgivning i denne sag arbejdsministeren. Det er stærke ord her lige før
+ikke er udtryk for mistillid til EU. Den er udtryk
+pinse, og jeg kunne da godt tænke mig, om vi
+for mistillid til arbejdsministeren og den måde,
+kunne få hr. Uffe Ellemann-Jensen til nærmere
+arbejdsministeren har håndteret denne sag på. at uddybe, hvad den mistillid går på.
+Jeg skal også sige til hr. Bendt Bendtsen, der";Poul Erik Dyrlund
+22111;name_party;":
+nu var inde på spørgsmålet om børnene, der
+Nu behøver man ikke at gentage alt, hvad der er mister deres arbejde: Javel, det er der en meget
+sagt i denne sag under hverken første behandlille gruppe af børn under 13 år, der gør. Jeg har
+ling eller anden behandling, men jeg vil da gerden klare opfattelse, at det er arbejdsgivernes
+ne gentage: Vi mener, det er et elendigt lovforansvar, at børnene nu står i den situation.
+slag, at det er et elendigt direktiv, og at vi bør se
+Man har i arbejdsgiverkredse, i organisatiopå, at der er forskel på børnearbejde i Portugal
+ner og hvor ved jeg, været klar over, at denne
+og i Danmark.
+regel har været på vej i de sidste 2 år. Det er 2 år
+Nu har Enhedslisten, som man også har rede- siden, at Ministerrådet diskuterede denne sag,
+gjort for her fra talerstolen i dag, virkelig fået
+og vi har haft en implementeringstid, så alle har
+indflydelse på dette forslag, og SF muntrer sig
+vidst, at dette ville komme. Og det er rent fakogså over deltagelsen i ændringsforslagene. Det
+tisk arbejdsgiverne, man skal sende det budskab
+giver så det, man ovre i Jylland kalder bøvl for
+til.
+erhvervslivet. Man pålægger erhvervslivet endnu nogle byrder i denne henseende.
+(Kort bemærkning).
+Jeg må sige, at dette her må være et vink med";Bendt Bendtsen
+23394;name_party;":
+en vognstang både til arbejdsministeren, til CD
+Til hr. Uffe Ellemann-Jensen: Det var for nemt,
+og til De Radikale om, at et så snævert og smalt
+for det var jo ikke det, spørgsmålet gik på. Hr.
+flertal i Europaudvalget, når man skal ned at
+Uffe Ellemann-Jensen kan have al den tillid eller
+forhandle, ikke er særlig gavnligt. Det er selvmangel på samme til arbejdsministeren, han vil,
+følgelig årsagen til, at man i dag står i den situdet skal jeg ikke blande mig i. Men det, spørgsation, at man fra arbejdsministerens side har
+målet gik på, var: Når EU i Ministerrådet lovligt
+været nødt til at give efter på dette område.
+har vedtaget et direktiv med eller mod de danOg så ved jeg ikke, hvem der har deponeret
+ske stemmer, føler hr. Uffe Ellemann-Jensen sig
+deres dømmekraft et eller andet sted, men jeg så ikke forpligtet til for fremtiden, at Danmark
+må sige, at den underliggende dagsorden fra SF
+skal implementere det direktiv?
+og Enhedslisten selvfølgelig er helt klar i denne
+Og i modsat fald, hvis hr. Uffe Ellemannsag. Man ønsker hellere unge mennesker på
+Jensen ikke føler sig forpligtet til det, så vil jeg
+overførselsindkomst, end at de kan gå ud og tje- gerne spørge: Betyder det ikke, at det, at EU er
+ne deres penge selv. Det er sådan, sagen hænger et retssamarbejde, dermed er brudt sammen, og
+sammen.
+at det for fremtiden vil være umuligt for danske
+Så må jeg sige til hr. Poul Erik Dyrlund, når
+politikere at argumentere over for de lande, der
+han nu siger, at dette lovforslag er til gavn for
+i dag har vanskeligheder ved at implementere?
+børnene i Danmark: Jeg ved ikke, om alle de
+Det har intet at gøre med tillid til arbejdsmiunge avisbude, reklamebude m.v., der nu mister nisteren eller ej. Det har noget at gøre med tillid
+deres arbejde, har den samme opfattelse som hr. til EU - spørgsmålet om, hvorvidt beslutninger i
+Poul Erik Dyrlund.
+EU skal gennemføres i medlemslandene eller ej
+- og derfor vil jeg gerne bede om svar på dette:
+
+7038
+
+Fredag den 24. maj 1996 (L 98)
+
+Er det ikke fortsat et retssamarbejde, hvor Danmark er nødt til, hvis vi vil være med, at forpligte os til at gennemføre de direktiver, der lovligt
+bliver vedtaget i Fællesskabet? Det var det, mit
+spørgsmål til hr. Uffe Ellemann-Jensen gik på.
+(Kort bemærkning).";Peter Duetoft
+25670;name_party;":
+Det er naturligvis korrekt, når hr. Uffe Ellemann-Jensen siger, at dette Folketing kan vedtage, hvad det vil, eller for den sags skyld nægte
+at vedtage, hvad det vil. Men spørgsmålet er jo,
+om det er klogt. Spørgsmålet er, om Danmark
+ikke står sig bedst ved at gennemføre de direktiver, der bliver vedtaget i EU. Dette her er jo ikke
+det første elendige direktiv, som det blev kaldt.
+Der har været en stribe før det, også en stribe,
+hvor Socialdemokratiet har medvirket til at gennemføre dem, på trods af at vi måske ikke har
+stået bag mandatet i Europaudvalget.
+Jeg tror, det er en meget farlig vej at slå ind
+på. Én ting er, at nogle lande af sløseri ikke rigtig får gennemført direktiverne, men dette her er
+jo mere. Dette her er jo en bevidst vægring, og
+hvis man vil køre den linje, så vil det blive vanskeligere og vanskeligere for Danmark at påpege, at andre lande også skal gennemføre vedtagne direktiver.
+Og helt ironisk bliver det jo, når det i sidste
+ende er Enhedslisten, der er kendt for at have en
+temmelig EU-skeptisk holdning, der redder
+dette direktiv igennem i Danmark.
+(Kort bemærkning).";Ove Fich
+26800;name_party;":
+Hr. Ove Fich kan spare sig sin tak til Enhedslisten. Det, Enhedslisten er med til at bære igennem, er et dansk lovforslag, som vi har forhandlet til rette sammen med regeringen. Vi har sagt
+til regeringen, at det rene EF-direktiv ville vi
+stemme ned sammen med et flertal i Folketinget, ligesom Venstre ønskede det.
+Det rene direktiv ville vi stemme ned, og jeg
+er glad for, at hr. Uffe Ellemann-Jensen så klart
+har markeret, at han ikke accepterer hr. Peter
+Duetofts syn på EU som en maskine, vi bare
+skal bøje os for. Hr. Uffe Ellemann-Jensen sagde
+ganske klart: Hvis der er et flertal i Folketinget,
+der ønsker at lave tingene om, så skal det flertal
+bruges. Den her sag har dokumenteret, at der
+var et flertal her i Folketinget, som ville have
+nedstemt det rene direktiv, hvis regeringen havde holdt fast på, at det rene direktiv skulle have
+været gennemført som dansk lov.
+
+Det vil sige, at der er et flertal i Folketinget,
+som undervejs i denne sag har markeret, at vi
+her i Danmark ikke behøver at gennemføre
+EF-direktiver, hvis et flertal her i Folketinget
+ikke ønsker det. Det synes jeg er et godt resultat
+af den del af debatten, og det er dejligt at se, at
+hr. Uffe Ellemann-Jensen står ved denne linje: at
+et EF-direktiv, som Folketinget ikke vil have,
+heller ikke skal gennemføres.
+(Kort bemærkning).";Keld Albrechtsen
+28140;name_party;":
+Med fare for, at forbrødringen når et excentrisk
+omfang, vil jeg gerne takke hr. Albrechtsen for
+det indlæg, han lige har holdt, for derved præciserer han nemlig, hvad det er, Venstre stemmer
+imod.
+Venstre stemmer imod et dansk lovforslag.
+Venstre stemmer imod regeringens, arbejdsministerens måde at implementere direktivet på.
+Venstre mener selvfølgelig, at Danmark er forpligtet af de direktiver, der er vedtaget, men vi
+er altså ikke forpligtet til at gennemføre dem på
+den måde, arbejdsministeren vil. Vi stemmer
+imod, og hvis det lykkes at få et flertal imod det,
+så skal vi nok komme med et forslag til, hvordan direktivet kan gennemføres.";Uffe Ellemann-Jensen
+28822;title_name;":
+Hr. Poul Erik Dyrlund for en kort bemærkning,
+og nu nærmer vi os snart tiden, hvor vi kan gå
+videre i ordførerrækken.
+(Kort bemærkning).";Henning Grove
+28982;name_party;":
+Jeg skal endnu en gang minde hr. Uffe Ellemann-Jensen om, hvad der rent faktisk skete
+ved andenbehandlingen af det her lovforslag.
+Da lå der præsenteret for Folketinget og for
+Venstres folketingsgruppe - inldusive hr. Uffe
+Ellemann-Jensen - en ren implementering af
+direktivet. Der var på ingen områder tale om
+overimplementering. Derfor var vi, som jeg sagde i min ordførertale, meget chokerede over, at
+Venstre vil løbe fra det ansvar, at Danmark ikke
+skulle kunne implementere et klokkerent
+EF-direktiv.";Poul Erik Dyrlund
+29524;title_name;":
+Hr. Steen Gade for en kort bemærkning, og så
+går jeg videre i ordførerrækken. Er der yderligere korte bemærkninger, så må de komme bagefter.
+
+Fredag den 24. maj 1996 (L 98)
+(Kort bemærkning).";Henning Grove
+29734;name_party;":
+Jeg synes, diskussionen om implementeringen
+af et EF-direktiv kan vise, at vi måske skal have
+flere debatter i Folketingssalen om EU-sager,
+men det er nu ikke derfor, jeg vil tage en
+bemærkning nu.
+Det er til Venstres leder, for det er vel at slippe for billigt om ved Venstres position. Jeg
+synes således ikke, at det interessante er, om
+man implementerer et EF-direktiv. Det interessante er det politiske indhold.
+Vi har i Danmark nogle borgerlige partier,
+som i en sag om børnearbejde ikke ønsker, at EU
+skal have en social dimension. Det er jo det, der
+er realiteten, og det er et klart højresynspunkt,
+som jeg ikke vil lykønske de partier med. Jeg
+synes, det er trist, at de borgerlige partier placerer sig så meget til højre i en europæisk sammenhæng, som de gør i dag. Men det er en
+realitet.
+Også EU-politikken er et valg mellem højre
+og venstre, og de borgerlige partier har i dag
+klart markeret, at de i en række sager, hvis det
+partitaktisk passer, kan lokkes til at placere sig
+lige så langt til højre som de engelske konservative.
+Det er ikke så godt for den danske position,
+men det er godt for klarheden i Europapolitikken. Det tror jeg bliver meget vigtigere i de
+kommende år, end vi har set indtil nu, og det
+synes jeg ikke skal skjules i en diskussion, der
+handler om, hvorvidt lovforslaget skal implementeres eller ej. EU-politik er også et valg mellem højre og venstre, og hr. Uffe EllemannJensen er klart placeret til højre i dag.";Steen Gade
+31206;name_party;":
+Jeg er enig med hr. Uffe Ellemann-Jensen i, at
+man skal forholde sig til indholdet af et lovforslag, der er fremsat her i Folketingssalen. Det
+har da heller ikke undret mig, at Venstre er
+imod det her lovforslag, for Venstre har jo deponeret sin stemme i forhold til lovforslaget i
+SALA's lomme, og SALA var jo voldsomt imod
+forslaget fra Kommissionen vedrørende børns
+arbejde.
+Derimod undrer Det Konservative Folkepartis holdning til lovforslaget mig voldsomt.
+Sagen er jo i al sin enkelhed, at det var en konservativ arbejdsminister, som havde ansvaret
+for direktivudkastet, da det oprindeligt kom.
+Det var først på et meget sent tidspunkt og efter
+et voldsomt arbejde fra fagbevægelsens side, at
+
+7039
+
+man rent faktisk fik et direktiv, der kom til at
+ligne det, som Kommissionen vedrørende børnearbejde her i Danmark anbefalede. Så jeg vil
+sige, at Det Konservative Folkepartis holdning i
+denne sag undrer mig voldsomt.
+Så siger hr. Bendt Bendtsen, at det er overbudspolitik. Han siger, at det er et angreb på de
+unge og på arbejdsgiverne, og han siger, at SF
+og Enhedslisten nu lægger op til, at de unge
+bare skal på overførselsindkomst.
+Hvad er det, der er karakteristisk for mennesker, der kommer på overførselsindkomst? Det
+er, at det er mennesker, som ingen uddannelse
+har. Hvad er det, vi lægger op til med de her
+ændringsforslag, der nu er blevet vedtaget? Vi
+lægger rent faktisk op til, at kommunerne kan
+gennemføre den vejledningsforpligtelse, de altid
+har haft, og at de får et overblik over, hvad det
+er for unge, der er i gang med et fuldtidsarbejde,
+vel vidende at de så aldrig kommer i gang med
+en uddannelse, medmindre kommunen giver
+dem en vejledning om, hvilke muligheder der
+er.
+Hvis det, at man får den slags tilbud, skulle
+føre direkte til overførselsindkomster, så ved jeg
+ikke, hvad hr. Bendt Bendtsen har af videnskabelig baggrund for dét.
+(Kort bemærkning).";Anne Baastrup
+33113;name_party;":
+Det er jo utroligt, at vi gentagne gange her fra
+denne talerstol skal høre, at den tidligere konservative minister, Knud Erik Kirkegaard, skulle
+have stået fadder til alt det her. Det, der ligger
+koldt, klart og kontant i denne sag, er, at
+Det Konservative Folkeparti i det daværende
+Markedsudvalg stemte imod det. Sådan ligger
+tingene nu engang fast.
+Det er som sagt også derfor, at man, når man
+har valgt at basere sit forhandlingsmandat på et
+meget smalt flertal, selvfølgelig også må bruge
+det flertal, når det skal køres igennem i forbindelse med implementeringen.
+Jeg må altså fastholde de postulater, jeg er
+kommet med, om den underliggende dagsorden, for det er jo dét, SF og Enhedslisten ønsker.";Bendt Bendtsen
+33839;name_party;":
+Vi har fået et samlet lovforslag, som er ganske
+godt. Det er ikke ideelt, men vi har fået taget hul
+på et stort og voksende problem med børns og
+unges alt for omfattende og tit også for farlige
+arbejde.
+
+7040
+
+Fredag den 24. maj 1996 (L 98)
+
+Hr. Bendt Bendtsen hører en hel del forkert,
+når han tror at høre en undertone hos SF og
+Enhedslisten om, at de unge hellere skal på
+overførselsindkomst end tjene deres penge selv
+- helt forkert. Det, vi har ønsket at sikre, er, at
+børn ikke bliver udnyttet på det danske arbejdsmarked.
+Det, en arbejdsgiver får ud af at ansætte en
+17-årig i stedet for en 18-årig, er, at hun kan
+udbetale det halve i løn. Det, den unge får ud af
+det, er alt for ofte en fyreseddel den dag, han
+fylder 18 år.
+Det, som vi med den her lovgivning har prøvet at sikre, er, at den unge derudover også får
+nogle kundskaber med i posen, og at den unge i
+forbindelse med det arbejde, som han gerne vil
+være med til at udføre, også får nogle kundskaber, der kan bruges i det senere arbejdsliv. Det
+er meget svært at forstå, hvad man kan have
+imod det, men det er altså dét, som i hvert fald
+Venstre og De Konservative finder det meget
+vigtigt at stemme imod.
+Nu har vi jo haft en debat om denne lovgivning. Vi har haft en andenbehandling, og vi har
+haft forskellige faser, hvor lovforslaget har set
+meget forskelligt ud, men det står dog fuldstændig fast, at ved andenbehandlingen var såvel
+Venstre som De Konservative fuldstændig klar
+til at stemme imod det lovforslag, der forelå, et
+lovforslag, som var en ren oversættelse af et rent
+EF-direktiv. Så processen er afprøvet.
+Det er da klart, at for Enhedslisten kunne det
+have været ganske fristende at se, hvad der ville
+ske, hvis det lykkedes at stemme et direktiv ned.
+Det kunne have været ganske fristende med den
+holdning, som vi har til EU-spørgsmålet, men
+det havde nok ikke været særlig sagligt, for den
+lovgivning, der nu kommer ud af det, er en stor
+forbedring for børns og unges vilkår på arbejdsmarkedet.";Jette Gottlieb
+35853;name_party;":
+I modsætning til det, som fru Jette Gottlieb netop har sagt, så må jeg på Dansk Folkepartis vegne sige, at vi finder det her forslag endog utrolig
+dårligt. Vi finder ikke, at lovforslaget på nogen
+måde er blevet spor bedre efter de ændringsforslag, som netop er vedtaget. Derfor stemte vi
+imod, og vi vil selvsagt også stemme imod, når
+vi kommer til den endelige afstemning om vedtagelse af forslaget.
+Vi mener i bund og grund - og det er rigtigt,
+hvad hr. Steen Gade sagde - at det er fuldstændig tåbeligt, at EU blander sig på det område. Vi
+
+mener, at EU skulle holde fingrene væk. Vi
+mener ikke, at der er noget som helst problem i,
+at vi i Danmark selv varetager arbejdsmiljøet for
+unge under 18 år. Og derfor mener vi, at EU helt
+skulle holde fingrene væk fra det her område.
+Men det er ikke rigtigt, som hr. Steen Gade vil
+give udtryk for, at det så betyder, at vi slet ikke
+ønsker, at der skal være nogen som helst regulering af unges arbejdsmiljø, men vi finder, at det
+er et anliggende, som Folketinget burde være
+ansvarligt nok til selv at tage hånd om. Vi finder
+ikke, at det er nødvendigt, at der sidder nogle
+bureaukrater i Bruxelles og diskuterer det på
+vores vegne.
+Til den diskussion, der udspandt sig her for et
+øjeblik siden, vil jeg sige, at det egentlig er utroligt, at partier - hr. Peter Duetofts eksempelvis kan synes, det er fantastisk forkert, at man
+debatterer indholdet i en sag som den her, for
+det er jo dét, der er tale om, når der er nogle
+partier, der tillader sig at udtrykke holdningen
+til det indhold, som direktivforslaget og
+udmøntningen af det får i det her lovforslag.
+Må jeg ikke minde om, at Danmarks officielle
+holdning til de forskellige EF-direktiver fastlægges på lukkede Europaudvalgsmøder. Det
+vil sige, at det eneste sted, hvor partierne i virkeligheden har mulighed for at diskutere indholdet af de forskellige ting i offentlighed og
+dermed mulighed for, at offentligheden kan
+høre med, er her i Folketingssalen, når direktiverne skal udmøntes i dansk lovgivning.
+Når tingene endelig kommer til debat herinde, så må man altså ifølge hr. Peter Duetoft og
+måske også hr. Ove Fich, arbejdsministeren osv.
+ikke lade sin holdning til det direktivforslag, vi
+skal implementere, komme til udtryk gennem
+sin stemmeafgivning her i Folketingssalen. Hvis
+man gør det, så kommer forargelsen, og den når
+simpelt hen nye højder. Jeg synes, det er ganske
+utroligt.
+I Dansk Folkeparti kunne vi have set det her
+som et gennembrud for EU-diskussionen, et
+gennembrud, der gjorde, at partierne tog stilling
+til indholdet i stedet for en bevidstløs ja-nejdiskussion, hvor man bevidstløst skulle sige ja
+til alt, hvad der kom i form af et EF-direktiv,
+hvor man ikke havde lov til at sige nej og sige:
+Nu er det nok. Nu skal EU ikke blande sig i
+mere. Så langt kommer vi nok ikke med denne
+sag bl.a. på grund af hr. Peter Duetofts forargelse.
+Men jeg vil godt sige, at jeg ikke finder, det er
+rimeligt, at der er personer i det her Folketing,
+
+(881)
+Fredag den 24. maj 1996 (L 98)
+der mener, at der skal være partier, som skal
+være gummistempel for et snævert flertal i
+Europaudvalget. Og må jeg ikke også minde
+om, at i Europaudvalget er det ikke engang
+nødvendigvis et flertal, der står bag regeringens
+holdning: det kan sagtens være et mindretal.
+I Europaudvalget konstaterer man, om der er
+et flertal imod regeringens holdning, og det kan
+f.eks. betyde, at hvis der er nogen, der er fraværende, så er der måske ikke flertal dén dag. Hvis
+hr. Haugaard ikke er til stede i et Europaudvalgsmøde, så kan det med den nuværende
+konstellation komme til at betyde, at der ikke
+kan konstateres et flertal imod regeringen, et
+flertal, der måske egentlig er til stede i Folketingssalen.
+Det vil igen sige, at selv om der måske er et
+flertal repræsenteret her i Folketinget, som er
+valgt af befolkningen, der går imod et EF-direktiv, så kan der ikke mønstres et flertal i Europaudvalget imod det pågældende direktiv.
+Skulle det så betyde, at de partier, som ikke står
+bag regeringen, når sagen kommer til debat her
+i Folketingssalen, skal være gummistempel for
+den uansvarlige regering, der altså gennemfører
+EF-direktiver med yderst smalle, ja, måske endda ikke engang med et flertal - blot fordi man i
+Europaudvalget konstaterede, at der ikke kan
+mobiliseres et flertal imod?
+Jeg synes simpelt hen, at den måde at formulere EU-debatten på - dvs. forsøge at fremprovokere sådan en automatisk afstemning i salen,
+når der er vedtaget et EF-direktiv - er ganske
+uanstændigt, hvis man ser diskussionen i folkestyres lys, og det synes jeg faktisk vi af og til
+burde gøre, specielt når vi diskuterer EU-sager.
+(Kort bemærkning).";Kristian Thulesen Dahl
+40517;name_party;":
+Jeg kan konstatere, at hr. Thulesen Dahl stort set
+ikke har forstået, hvad diskussionen går ud på.
+Forskellen er, om man er for lov og orden, som
+CD er, eller om man er anarkist, som hr. Thulesen Dahl er.
+Altså, jeg bryder mig ikke om hastighedsgrænser på motorvejene, og hvis jeg kommer til
+at overtræde dem en dag og bliver standset af
+politiet, så kan det altså ikke hjælpe noget, at jeg
+begynder at diskutere med betjentene om, hvorvidt jeg synes, den lov er rimelig at implementere eller ikke er rimelig at implementere. Jeg er
+ret overbevist om, at betjentens girokortbog er
+kommet frem allerede på det tidspunkt, hvor jeg
+begynder at diskutere, om man skal følge en
+
+7041
+
+lovlig beslutning, og det er jo det, det drejer sig
+om her.
+Det drejer sig om, at EU, som er et retmæssigt
+samarbejde, helt lovligt har vedtaget et direktiv,
+der også er gældende for Danmark, og derfor
+har vi en forpligtelse til at implementere det.
+Det, hr. Thulesen Dahl er fortaler for, er jo det,
+som italienere og grækere og andet godtfolk
+gør, når de siger: Ih, hvor vi træffer alle mulige
+fine beslutninger i det store fællesskab - og så i
+øvrigt bagefter undlader at gennemføre dem.
+Det kan man måske tillade sig, hvis man som
+hr. Thulesen Dahl er anarkist, men det kan man
+altså ikke, hvis man faktisk tror på, at der skal
+være regler i et retssamfund. Det er dér, skillelinjen går, og derfor skal diskussionen om
+direktivet foregå, inden beslutningen træffes i
+Ministerrådet. Folketinget har så en forpligtelse
+til at implementere direktivet, når det kommer
+tilbage, for gør vi ikke det, så har vi fuldstændig
+hæmningsløst undergravet EU.
+Da jeg ikke tog ordet som ordfører, vil jeg nu i
+øvrigt sige, at vi støtter lovforslaget. Vi er også
+tilhænger af, at unge får lov til at prøve at arbejde, men jeg må i al stilfærdighed sige, at vi ikke
+har betragtet det som en hellig politisk kamp at
+sørge for, at 10-årige kan gå med aviser. For os
+er det altså vigtigere, at man faktisk i Fællesskabet kunne nå til enighed om et direktiv.
+Jeg vil da godt til sidst minde om, at i det
+oprindelige direktivforslag havde Fællesskabet
+faktisk en aldersgrænse, der var højere end de
+13 år, det er blevet til, og at den danske arbejdsminister, som hr. Uffe Ellemann-Jensen har så
+lidt tillid til, faktisk var medvirkende til, at den
+aldersgrænse blev sat ned, så noget godt arbejde
+har arbejdsministeren da gjort.
+(Kort bemærkning).";Peter Duetoft
+42949;name_party;":
+Jeg synes, hr. Thulesen Dahl påpeger et meget
+væsentligt aspekt ved forløbet af denne sag,
+som man kan lære noget af, nemlig at det er
+utrolig vigtigt, at vi får sådanne direktivforslag
+til en åben behandling i Folketingssalen, inden
+de bliver vedtaget i EU. Det var måske noget,
+som et flertal her i Folketingssalen inklusive hr.
+Uffe Ellemann-Jensen og hr. Ove Fich kunne
+have god mulighed for at overveje én gang til,
+inden de siger nej til åbne folketingsdebatter.
+Så vil jeg i forlængelse af det, hr. Thulesen
+Dahl sagde, præcisere, at Enhedslisten er enig
+med Dansk Folkeparti på ét punkt: at EU ikke
+skal vedtage lovgivning om social- og arbejds-
+
+7042
+
+Fredag den 24. maj 1996 (L 98)
+
+markedspolitik. Derfor har vi også hele vejen
+igennem dette forløb sagt, at det, der måtte være
+afgørende for, om der skulle vedtages en dansk
+lov, måtte være holdningen i Folketinget. Det
+blev så til en holdning, hvor vi så til gengæld er
+fundamentalt uenig med Dansk Folkeparti i
+indholdet af den danske lov, der nu er vedtaget.
+Det afgørende er imidlertid, at det undervejs i
+forløbet blev klart fastslået, at et flertal ville
+nedstemme en gennemførelse af det rene
+EF-direktiv, og jeg tror, hr. Uffe EllemannJensen for lidt siden i debatten gjorde sig skyldig i en misforståelse af forløbet.
+Jeg tror, at han troede, at Venstre havde tænkt
+sig at stemme for det rene direktiv, men kendsgerningen er jo, at Venstre under forløbet ved
+andenbehandlingen klart sagde nej også til det
+rene direktiv, og at det altså klart blev fastslået,
+at der er et flertal, som ville have stemt det rene
+direktiv ned og dermed fastslået det princip, at
+vi her i Folketinget, når der er flertal for det, kan
+beslutte, at vi ikke gennemfører et EF-direktiv.
+
+slagene. Dér bør det bestemt også foregå, og det
+er jeg enig med hr. Peter Duetoft i. Men vil hr.
+Peter Duetoft så medvirke til - bl.a. i Europaudvalget - når der er direktivforslag, som nogle
+i Europaudvalget ønsker skal diskuteres i
+offentlighed og ikke kun i lukkethed, at dette er
+muligt?
+Ministerrådet er lukket, og møderne i Europaudvalget er lukkede for offentligheden. Når
+der så er nogle mennesker, der ønsker at bringe
+de her direktivforslag frem i offentligheden og
+til debat her i Folketingssalen, vil hr. Peter Duetoft og Centrum-Demokraterne så medvirke til
+det? Det, vi har set i Europaudvalget indtil nu,
+er nemlig det modsatte: at hr. Peter Duetoft og
+den regering, hr. Peter Duetoft støtter, arbejder
+for at fastholde, at tingene bliver i Europaudvalget og ikke kommer til en åben offentlig debat
+her i Folketingssalen. Hvis det var tilfældet, var
+det jo en anden sag, for så havde vi en mulighed
+for at komme med vores indvendinger, også
+offentligt, før direktiverne blev vedtaget.
+
+(Kort bemærkning).";Keld Albrechtsen
+45735;name_party;":
+Nej, til hr. Peter Duetoft, Thulesen Dahl er ikke
+anarkist, og Dansk Folkeparti går ikke ind og
+forsøger at argumentere for anarkismen. Dansk
+Folkeparti ønsker rent faktisk et retssamfund.
+Det ønsker vi. Det ønsker vi i Danmark, og vi
+tror også, at det er godt at have retssamfund i
+andre lande, men der er altså nogle ting, hvor vi
+siger, at vi sætter en grænse for EU-lovgivning,
+og siger, at her er vi inde på et område, som
+Danmark kan klare selv.
+Derfor har vi hele tiden været imod det her
+direktivforslag, og derfor har vi også været
+imod implementeringen af direktivforslaget i
+dansk lovgivning.
+Vi mener ikke, som hr. Peter Duetoft åbenbart
+mener, at fordi der måske ikke kan konstateres
+et flertal imod et direktivforslag i Europaudvalget, så er Dansk Folkeparti forpligtet til her i
+Folketingssalen at trykke på de grønne knapper,
+når direktivforslaget skal omsættes til dansk
+lov. Der er jo det, hr. Peter Duetoft mener. Der
+er nogle partier, som åbenbart skal fungere som
+gummistempler for den regering, der har fået
+gennemført et EF-direktiv, og som bare skal
+stemme for. Sådan mener vi ikke det hænger
+sammen.
+Hr. Peter Duetoft nævner, at diskussionen bør
+foregå i forbindelse med arbejdet i Ministerrådet
+og i forbindelse med arbejdet med direktivfor-
+
+Arbejdsministeren (Jytte Andersen):
+Jeg vil gerne sige til hr. Uffe Ellemann-Jensen,
+der har mistillid til mig som arbejdsminister, at
+jeg som valgt socialdemokratisk folketingsmedlem og minister faktisk betragter det som en tillidserklæring: den vil jeg gerne takke for.
+Så vil jeg godt minde hr. Uffe EllemannJensen om, hvordan direktivet så ud i den periode, hvor hr. Uffe Ellemann-Jensen var udenrigsminister. Sagen var jo den, at der var et forbud
+mod, at børn og unge arbejdede, når de var
+under 15 år. Det opfattede jeg som en alt, alt for
+høj alder, og derfor brugte jeg faktisk på regeringens vegne - og også på vegne af et flertal i
+Europaudvalget - mange kræfter på at få sat
+den grænse ned.
+Det er måske værd at kigge lidt i annalerne og
+se, hvordan VK-regeringen med en konservativ
+arbejdsminister, hr. Knud Erik Kirkegaard, og
+med hr. Uffe Ellemann-Jensen som udenrigsminister, afleverede direktivet med en 15-årsaldersgrænse.
+Jeg vil godt sige, at jeg synes, det er beskæmmende, når Venstre og De Konservative giver
+det signal til Europa, at man ikke vil være med
+til at bære udviklingen i Europa med en social
+profil og en social dimension, og det er jo vitterligt det signal, som Venstre og De Konservative
+har valgt at give Europa, når de om lidt trykker
+på de røde knapper.
+
+Fredag den 24. maj 1996 (L 98)
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslaget vedtoges med 62 stemmer (S, SF,
+RV, EL og CD) mod 50 (V, KF, FP og DF).";Kristian Thulesen Dahl
+48492;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+
+Den næste sag på dagsordenen var:
+2) Tredje behandling af lovforslag nr. L 181:
+Forslag til lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.
+Af arbejdsministeren (Jytte Andersen).
+(Fremsat 17/1 96. Første behandling 26/1 96.
+Betænkning 24/4 96. Anden behandling 10/5
+96. Tillægsbetænkning 15/5 96).
+Der var stillet 1 ændringsforslag i tillægsbetænkningen.
+Uden for tillægsbetænkningen var der ikke stillet ændringsforslag.
+Ændringsforslaget sattes først til forhandling.
+Forhandling";Henning Grove
+49067;name_party;":
+Det skal jo ikke være nogen hemmelighed, at vi i
+Venstre som sådan ikke kan støtte den lovgivning, der er lagt op til her. Vi har naturligvis den
+holdning, at enhver form for forskelsbehandling
+af de grunde, der er nævnt i § 1 i lovforslaget, er
+forkert, og at alle barrierer for beskæftigelse af
+den bedst kvalificerede arbejdskraft skal fjernes,
+men vi mener ikke, at lovgivningen er det middel, der skal foretrækkes her. Vi er i øvrigt ikke
+enige i, at Danmark ved internationale forpligtigelser skulle være forpligtet til lovgivning.
+Men hvis et flertal i Folketinget ønsker at lovgive omkring forskelsbehandling, så er det en
+åbenlys mangel, at spørgsmålet om den negative foreningsfrihed ikke er medtaget. Det er jo en
+uomtvistelig kendsgerning, at netop forskelsbehandling med baggrund i et forkert for-
+
+7043
+
+eningsmæssigt tilhørsforhold på arbejdsmarkedet er den mest veldokumenterede form for forskelsbehandling, der i øjeblikket finder sted i
+Danmark, og på den baggrund skal man se
+ønsket om, at hensynet til den negative foreningsfrihed medtages.";Lars Løkke Rasmussen
+50149;name_party;":
+Når vi i dag har fremsat et ændringsforslag
+sammen med Venstre, er det, fordi det må være
+helt klart - når man nu ønsker en lovgivning på
+det her område - at foreningsmedlemskab skal
+medtages som et ulovligt kriterium for forskelsbehandling. Når personer på grund af manglende medlemskab af en bestemt fagforening forhindres i at opnå ansættelse, så mener vi, når vi
+nu vil ind og lovgive, at vi helt klart må have det
+punkt med.";Bendt Bendtsen
+50596;name_party;":
+Den her sag har med al tydelighed vist, hvor
+fuldstændig grotesk tankegangen er i Arbejdsministeriet, hos arbejdsministeren. Vi troede, da
+vi så forslaget, at vi endelig fik et forslag, som
+ville sikre, at man ikke lavede diskrimination på
+arbejdsmarkedet på grund af politisk tilhørsforhold. Vi troede på forslaget. Vi troede på de
+internationale konventioner, Danmark har skrevet under på. Vi troede, at arbejdsministeren
+endelig ville leve op til de internationale forpligtigelser, men det har ved spørgsmål til ministeren vist sig, at det ikke er tilfældet.
+Når der i forslaget står, at der ikke må diskrimineres på grund af politisk anskuelse, så er de
+ord fuldstændig uden indhold. De er fuldstændig uden betydning. Ministeren har over for
+udvalget tilkendegivet, at det, at man er tvunget
+til at være medlem af en socialistisk fagforening
+for at få et bestemt arbejde, ikke er politisk forskelsbehandling.
+På visse virksomheder, hvor der er indgået
+overenskomst om det og der er en eksklusivaftale, er det et klart krav, at man skal være
+medlem af en socialistisk fagforening, som i sin
+formålsparagraf klart og tydeligt skriver, at man
+vil arbejde for et socialistisk samfund, der via
+kontingentkronerne giver direkte støtte til de
+socialistiske partier. Hvis man ikke ønsker at
+støtte den ideologi, og hvis man ikke ønsker at
+støtte de partier via sit fagforeningskontingent,
+så er man afskåret fra at få det pågældende
+stykke arbejde. Det er alt andet lige en politisk
+diskrimination.
+
+7044
+
+Fredag den 24. maj 1996 (L 181)
+
+Derfor er det her forslag reelt intet værd,
+medmindre det ændringsforslag, som er stillet
+af Venstre og De Konservative, bliver vedtaget,
+og det vil vi gøres vores til.
+Vi vil stemme for ændringsforslaget, og vi
+regner med som en selvfølge, at regeringen også
+støtter det. Vi kan slet ikke forestille os andet,
+end at man i et demokratisk samfund som det
+danske støtter et ændringsforslag, der bevirker,
+at man ikke er tvunget til at støtte socialismen,
+til at støtte socialismens fremme, for at få et
+arbejde. Enhver regering, som har holdt den
+moralske fane højt lige fra den dag, hvor den tiltrådte, burde støtte et sådant ændringsforslag,
+og derfor skal vi appellere til, at regeringen støtter ændringsforslaget, således at vi i hvert fald
+får rettet noget op på lovforslaget.
+(Kort bemærkning).";Tom Behnke
+52952;name_party;":
+Jeg blev helt grebet af hr. Tom Behnkes tale, og
+jeg opdagede, at der måtte være sket et eller
+andet i Folketinget inden for de seneste par dage
+eller timer, som jeg ikke rigtig har opdaget, for
+jeg er enig med hr. Tom Behnke i, at det da er
+synd for folk, hvis de er tvunget til at støtte den
+socialistiske ideologi og alt det dér. Det ville jeg
+da også synes var synd for dem, og jeg kunne da
+heller aldrig drømme om at gøre det.
+Mig bekendt er det stadig væk sådan i Danmark, at hvis man ikke ønsker at give politisk
+støtte til f.eks. et politisk parti, så kan man faktisk melde fra. Så er der faktisk en blanket, man
+kan udfylde og sende ind, og så kommer man
+ikke til at betale til det.
+Mig bekendt er den regel ikke blevet fjernet
+inden for de sidste par timer, men det lød på hr.
+Tom Behnke, som om den aldrig havde eksisteret, og det undrer mig lidt. Så jeg synes for
+historieskrivningens skyld, at det bør bemærkes, at hr. Tom Behnke har løftet sig så højt op i
+de ideologiske faner, at han ikke rigtig kan nå
+jorden med fødderne.
+(Kort bemærkning).";Peter Duetoft
+54028;name_party;":
+Det er simpelt hen utroligt, at selv så dygtig og
+kompetent en politiker som hr. Duetoft er hoppet på den limpind. Tænk sig, at et parti som CD
+har købt den holdning. Hvordan søren kan hr.
+Duetoft stå heroppe og forsvare det? Sagen er jo,
+at selv om man på en blanket skriver under på,
+at man ikke vil støtte f.eks. Socialdemokratiet
+via sit fagforeningskontingent, skal man stadig
+
+betale nøjagtig lige så mange penge i kontingent. Altså er der ingen forskel i det. Det eneste,
+der sker, er jo blot, at fagforeningen så justerer
+lidt på det ørebeløb, der skal gå til Socialdemokratiet, og resultatet er nøjagtig det samme. Det
+medlem, der melder fra, er så bare med sit kontingent med til at betale en større del af administrationen end de andre medlemmer, og dermed
+er resultatet fuldstændig det samme.
+Nej, det, man skulle tale om, hvis det var, var
+for det første, at der ikke skulle være tale om en
+negativ accept, altså at man er nødt til at melde
+fra, men at man lavede det om, sådan at man
+skulle melde til, hvis man ønskede at støtte, og
+de, der så meldte til og ville støtte, skulle betale
+ekstra i kontingent til støtten.
+Men det er jo ikke det eneste, vil jeg gerne
+sige til hr. Duetoft. Hr. Duetoft overser fuldstændig formålsparagraffen hos f.eks. SiD: at
+man skal støtte et socialistisk samfund, man skal
+sikre, at udviklingen i dette samfund går i retning mod et socialistisk samfund. Det gør fagforeningen jo. Uanset om man giver tilskud af
+den ene eller den anden størrelsesorden til Socialdemokratiet, er det jo sådan, at i hele fagforeningens virke, i hele dens arbejde, i dens
+annoncekampagner, i dens meget, meget store
+annoncekampagner op til folketingsvalg og lign.
+bliver medlemmernes kontingent brugt til det,
+også selv om de har skrevet på en blanket, at de
+ikke vil støtte Socialdemokratiet.
+Så det er sørgeligt, at et parti som CD er hoppet på den limpind. Jeg troede, at hr. Duetoft var
+bedre til at gennemskue tingene.
+(Kort bemærkning).";Tom Behnke
+56017;name_party;":
+Jeg vil gerne starte med at takke hr. Tom Behnke
+for de pæne ord om mig, og jeg vil gerne kvittere med at sige, at jeg også har stor respekt den
+anden vej.
+Men når det så er sagt, vil jeg bare i al stilfærdighed sige til hr. Tom Behnke, at det ikke var et
+forslag, CD købte: det var et forslag, CD stillede.
+Faktisk er tanken om, at man kan melde fra med
+hensyn til den politiske støtte, et forslag, som
+Erhard Jakobsen i sin tid for mange år siden stillede, og som efterhånden kom igennem. Derfor
+er det ikke noget, vi har købt: det er noget, vi
+har fået, og det synes vi er meget godt.
+Må jeg så godt til hr. Tom Behnke bare sige og det er en diskussion, jeg synes vi skal tage
+gennem sommeren, for jeg har meget lyst til at
+tage den uden for disse mure også - at jeg fak-
+
+Fredag den 24. maj 1996 (L 181)
+tisk synes, at hr. Tom Behnke rejser et væsentligt
+problem, nemlig det, at hvis man er politisk
+uenig i formålsparagraffen for en forening, man
+er medlem af, kunne man så ikke prøve at lave
+den om?
+Jeg vil i al stilfærdighed godt sige, at jeg er
+dødtræt af det borgerlige Danmark, der overlader det til venstrefløjen at snakke miljø og snakke social retfærdighed og snakke arbejdsmarkedspolitik, for det, de borgerlige har gjort inklusive CD'erne - er jo, at vi har ladet de
+andre løbe med det i stedet for at sige, at det vel
+også må kunne afspejle sig i de diskussioner, at
+det borgerlige Danmark er en stor del af den
+danske befolkning. Men det har man ikke
+beskæftiget sig med, og derfor er der også af og
+til yderliggående venstrefløjspartier, som har
+kunnet tage patent på nogle af de her ting, og
+det synes jeg egentlig er synd for Danmark.
+Så hvis hr. Tom Behnke og jeg og andre i fællesskab i sommerens løb kan lave en borgerlig
+oprustning på de områder, som gør, at de, der
+tænker borgerligt, også bliver aktive og deltager
+i de her debatter i stedet for at overlade det til
+nogle ideologer på venstrefløjen, så synes jeg,
+det ville være en fordel for det danske samfund.
+
+7045
+
+pæiske socialpagt, medmindre vi tager den
+bestemmelse med, som Venstre og De Konservative her foreslår.
+Man har nu frygtelig travlt med at omsætte en
+konvention, som blev ratificeret for 24 år siden,
+men den europæiske socialpagt, som beskytter
+den negative foreningsfrihed, ser man derimod
+stort på, den tramper man på.";Peter Duetoft
+58357;name_party;":
+Jeg skal bare kort berette om Dansk Folkepartis
+holdning til det her forslag.
+Og så kan jeg ikke undlade at sige til hr. Peter
+Duetoft, der bemærkede, at han var dødtræt af
+det borgerlige Danmark, at det jo også kunne
+være, at det omvendte var tilfældet for mange
+sagers vedkommende, når det gælder CentrumDemokraterne.
+Men naturligvis går Dansk Folkeparti imod
+det her forslag. Det er ganske urimeligt, at man
+nu ønsker at lovgive om forskelsbehandling på
+arbejdsmarkedet. Jeg skal henvise til de
+bemærkninger, jeg kom med under forslagets
+anden behandling, og sige, at vi i Dansk Folkeparti har fået et svar, der viser, at ministeren
+ikke har meget at have sit lovforslag i, heldigvis.
+Så vi skal tilslutte os det ændringsforslag, der
+er fremsat af et mindretal, og i øvrigt også tilslutte os de bemærkninger, der er til ændringsforslaget.
+
+(Kort bemærkning).";Pia Kjærsgaard
+59245;name_party;":
+Jeg må sige, at hr. Peter Duetoft snakker udenom. Dette handler ikke om, hvorvidt den ene
+eller den anden eller den tredje fagforening
+(Kort bemærkning).
+giver et beløb af en eller anden størrelsesorden";Lars Løkke Rasmussen
+59469;name_party;":
+til et politisk parti. Det her handler om, at loven
+Det, der kalder mig herop, er hr. Duetofts
+øjensynlig tager sigte på at forhindre enhver
+bemærkning om, at han er træt af det borgerlige
+form for forskelsbehandling bl.a. med baggrund Danmark. CD skulle jo egentlig være garanterne
+i politisk anskuelse.
+for, at man ikke skulle ryge helt ud til venstre.
+Og så citerer jeg fra SiD's formålsparagraf Men jeg kan godt genkende hr. Peter Duetofts
+det er § 2, stk. 6, - hvor der står:
+bemærkning om »træt af det borgerlige Dan»At arbejde for indførelse af arbejdsplads-,
+mark«. Det viser afstemningen om børnearbejøkonomisk og kulturelt demokrati, at sikre en de, og det viser forliget omkring hjemmeservice,
+rimelig repræsentation af fagbevægelsens medså det er vi helt klar over.
+lemmer i Europa-Parlamentet, Folketinget samt
+amts- og kommunale organer med det sigte at
+(Kort bemærkning).
+skabe et demokratisk, socialistisk samfund.«";Bendt Bendtsen
+60424;name_party;":
+Det er formålet med SiD. Hvis man ikke støtDet er til hr. Lars Løkke Rasmussen, der nævnte
+ter dette formål, risikerer man, at man ikke kan
+den ILO-konvention, som jo delvis ligger til
+tiltræde et job. Man forskelsbehandles altså på
+grund for den lovgivning, der ligger her.
+baggrund af politisk anskuelse.
+j
+Det er rigtigt, at den ILO-konvention, som jo
+Jeg vil hævde, at det er i strid med den euro- j er en trepartsøvelse, kan man sige, i og med at
+pæiske socialpagt, og jeg vil gerne spørge
+j arbejdsgivere, lønmodtagere og staten i forening
+arbejdsministeren, om arbejdsministeren ikke
+har ratificeret den, har været gældende i alle de
+deler det synspunkt, at vi krænker den negative
+år. Men meningen med den var jo, at arbejdsforeningsfrihed, at vi ikke lever op til den euromarkedets parter, som hr. Lars Løkke Rasmusi
+
+7046
+
+Fredag den 24. maj 1996 (L 181)
+
+sens parti ved enhver given lejligheden siger
+skal have lov at bestemme, skulle have gjort
+noget for det her. Men de har ingenting gjort, og
+derfor bliver man altså nødt til at gøre det ved
+lov.
+(Kort bemærkning).";Vibeke Peschardt
+61525;name_party;":
+Specielt fru Pia Kjærsgaard benyttede sin gammelkendte metode med at manipulere med citater.
+Jeg sagde ikke, at jeg var træt af det borgerlige Danmark, jeg sagde, jeg var træt af det borgerlige Danmarks passivitet. Jeg var dødtræt af,
+og det er jeg stadig væk, at man overlader socialpolitikken, arbejdsmarkedspolitikken og miljøpolitikken til venstrefløjen og lader dem stå
+med alle bannerne i stedet for at lade det borgerlige Danmark komme i front. Det var det, jeg
+sagde, og at en Konservativ og en Folkepartidame ikke kan finde ud af at lytte efter, hvad
+der bliver sagt fra talerstolen her, er jo bare trist.
+Så vil jeg godt bare lige kvittere til De Konservative og sige: Nu kan det måske i øjeblikket
+være svært at se, hvor det borgerlige Danmark
+er. Mig bekendt er det Venstre, De Konservative, Fremskridtspartiet og Dansk Folkeparti, der
+sammen med Enhedslisten og SF tvinger regeringen til en fuldstændig usaglig og urimelig
+indsats omkring transporten for de studerende:
+mig bekendt var det de samme partier, der i går
+i fællesskab stod bag en dagsorden: og mig
+bekendt har vi senere i dag et forslag til behandling, hvor den nye flotte alliance i dansk politik,
+nemlig Venstre og SF, har fremsat fælles forslag.
+Så kan man godt komme til os andre og brokke sig over, hvad det er, vi går rundt og gør,
+men jeg synes nu nok, at mønsteret i de seneste
+måneder, hvor det er vigtigere at drille regeringen og vigtigere at samle venstrefløjen og Venstre og De Konservative i angreb på regeringen,
+er en linje, som må få det borgerlige Danmark til
+at ryste på hovedet.
+Så er der nogen her, der dyrker partipolitik,
+og er der nogen her, der sælger det borgerlige
+Danmark til fordel for nogle små gevinster ved
+at drille en regering, så er det Venstre og De
+Konservative, for de vil gå med til hvad som
+helst, bare de kan komme til at drille en minister.
+
+(Kort bemærkning).";Peter Duetoft
+63422;name_party;":
+Da jeg hørte hr. Tom Behnke sige, at han gik ud
+fra, at regeringen ville stemme for det her lovforslag, besluttede jeg, at der hellere måtte siges
+et par ord. I hvert fald kan Socialdemokratiet
+ikke stemme for ændringsforslaget.
+Jeg undrer mig lidt over den argumentation,
+der anvendes fra i hvert fald Venstres og De
+Konservatives side, for husker jeg førstebehandlingen ret, var det et væsentligt argument
+imod lovforslaget, at det var noget, som
+arbejdsmarkedets parter burde regulere.
+Men så går man på jagt efter noget, der kan
+bringe os andre, der har hæderlige formål med
+det her lovforslag, lidt i miskredit, og udvælger
+sig foreningsbestemmelsen som kampområde.
+Og så brister logikken, for man udvælger sig
+det, der af hr. Lars Løkke Rasmussen kaldes det
+væsentligste forskelsbehandlende område på
+arbejdsmarkedet, nemlig foreningsspørgsmålet,
+som det største, og det vil man gerne lovgive
+om. Men når det drejer sig om at forsøge at forebygge og modvirke diskrimination af etnisk
+karakter og i en række andre situationer, som
+givet forekommer i et hav af tilfælde på landets
+arbejdspladser, så nøjes man med at overlade
+det til arbejdsmarkedets parter.
+Jeg forstår ikke logikken, og jeg er tilbøjelig til
+at give hr. Peter Duetoft ret i, at man forfølger
+andre formål end de hæderlige og de seriøse,
+der er lagt ind i det lovforslag.
+(Kort bemærkning).";Jan Petersen
+64806;name_party;":
+Jeg vil da godt genoptage den lettere afsporing
+af debatten, som hr. Peter Duetoft kom ind på.
+Jeg ved ikke rigtig, hvad formålet fra hr. Peter
+Duetofts side er, men der er da ikke nogen tvivl
+om, at hvis et flertal i fornuftige sammenhænge
+kan få regeringen i mindretal, jamen så er det da
+ganske fint. Hvis man kunne komme så langt, at
+regeringen måtte gå af, så ville det være helt fint
+efter Dansk Folkepartis opfattelse.
+Men tilbage til forslaget. Jeg skal blot henvise
+til, at ministeren dels i svar på skriftlige spørgsmål, dels i svar fra Folketingets talerstol har
+udtalt, at en arbejdsgiver principielt kan foretrække en dansk statsborger frem for en udenlandsk statsborger ved ansættelse af en medarbejder. Sådan er det, og sådan vil det åbenbart
+blive ved med at være, selv om det her forslag
+bliver vedtaget, og det kan man jo slet ikke være
+utilfreds med.
+
+Fredag den 24. maj 1996 (L 181)
+(Kort bemærkning).";Pia Kjærsgaard
+65755;name_party;":
+Det var et interessant indlæg, hr. Peter Duetoft
+holdt for et øjeblik siden, hvor han jo nærmest
+tog hul på afslutningsdebatten. Interessant at
+beskylde os for passivitet på socialpolitikkens
+område og så bagefter forarges over, at det i går
+rent faktisk lykkedes os at formå regeringen til
+at stemme for et stort socialpolitisk fremskridt,
+der giver de handicappede et frit valg. Vi er
+bestemt ikke passive.
+Det, der kaldte mig herop, var nu formuleringen om, at vi er ude på at drille en minister. Jeg
+ved ikke, hvem det er, der vil drille hvem. Jeg
+vil gerne understrege, at Venstre vender sig
+imod enhver form for forskelsbehandling.
+Det, der er til diskussion, er, om det mål nås
+bedst gennem lovgivning eller gennem holdningsbearbejdelse, og dér har vi faktisk den
+holdning, at den form for detaljeret lovgivning,
+der er lagt op til her, vil rejse en lang række
+enkeltsager, som vil være tvivlsomme, som vil
+skabe fnidder og fnadder, og som i virkeligheden vil have den modsatte konsekvens i forhold
+til det, der er lovens flotte sigte, nemlig den
+konsekvens, at forskelsbehandling trives, og at
+de holdninger, der skulle medvirke til, at der
+kom integration på arbejdsmarkedet, ikke dukker frem, men at det er det modsatte, man
+opnår.
+Vi oplever faktisk, at det er ministeren og
+regeringen, der driller os. Hvis man ville noget
+alvorligt med det her, burde man jo starte en
+debat omkring forskelsbehandling ikke med et
+lovgivningsinitiativ, men med en bred, holdningsmæssig debat.
+Vi er også indstillet på, at man satte arbejdsmarkedets parter stolen for døren og sagde: Nu
+forlanger vi, at der fra fagbevægelsens side og
+fra arbejdsgiverside vises initiativer på det her
+område: og vises der ikke initiativer, ja, så er det
+klart, at man på et tidspunkt kan risikere at
+skulle skride til lovgivning.
+Men der er intet belæg for, at lovgivning er
+nødvendig i situationen, og det er baggrunden
+for, at vi ikke kan støtte forslaget.
+(Kort bemærkning).";Lars Løkke Rasmussen
+67734;name_party;":
+Jeg må jo så sige til hr. Lars Løkke Rasmussen,
+at det drejer sig om gennemførelse af ILO-konvention nr. 111, og når man gør det ved lov, så
+er det jo altså, som jeg sagde før, fordi arbejdsmarkedets parter ikke har gjort noget som helst
+
+7047
+
+ved det her i alle de år: problemerne er bare
+vokset og vokset.
+Når så hr. Lars Løkke Rasmussen siger, at det
+her kan vi nok ordne ved en bred holdningsdebat eller ved at true - sådan måtte jeg forstå
+det - arbejdsmarkedets parter med lovgivning,
+så må jeg sige, at det tror jeg ikke man får noget
+ud af.
+Og endelig for det tredje: Det var jo faktisk
+sådan, at der i hvert fald i pressen var forlydender - og det er måske det, der har bragt arbejdsministeren på banen - om, at Danmark ville blive indbragt for ILO's særlige retssystem og dér
+ville kunne blive trukket igennem en sag, og det
+var altså nok til, at man sammen med Justitsministeriet lavede denne her lovgivning. Det er jo
+ikke morsomt, at Danmark bliver hængt ud i
+internationale organisationer, fordi arbejdsmarkedets parter ikke gør deres arbejde ordentligt.
+Derfor den lovgivning, og derfor er det ufatteligt, at V og K ikke kan stemme for den.
+(Kort bemærkning).";Vibeke Peschardt
+68930;name_party;":
+Det, der bringer mig herop, er hr. Lars Løkke
+Rasmussens udtalelse om, at vedtagelsen af
+denne her lovgivning vil give fnidder og fnadder, og at det vil være meget vanskeligt overhovedet at få en ordentligt forvaltning af lovgivningen.
+Sagen er jo i al sin enkelhed den, at lovgivningen er lavet svarende til lov om ligebehandling
+mellem mænd og kvinder på arbejdsmarkedet,
+og det betyder, at vi kan bygge videre på den
+praksis, som vi har via den lovgivning, som blev
+vedtaget i 1978. Det er det ene.
+Det næste er, at jeg synes, det er utroligt useriøst, at Venstre ag De Konservative kommer
+med et ændringsforslag af den her karakter
+mellem anden og tredje behandling. Hvis det
+var sådan, at Venstre og De Konservative ville
+noget, hvis det var sådan, at Venstre og De Konservative rent faktisk var gået ind i en seriøs
+behandling af det her lovforslag, havde man på
+et langt tidligere tidspunkt rejst den her debat.
+Det her er et slag i luften. Samtidig kommer de
+med et ændringsforslag og vil stemme lovforslaget ned, uanset om ændringsforslaget måtte
+blive vedtaget. Det er useriøst lovgivningsarbejde, og det er noget pjat.
+Arbejdsministeren (Jytte Andersen):
+Jeg vil gerne give de ordførere, som har tilkendegivet, at det er vigtigt med nogle holdnings-
+
+7048
+
+Fredag den 24. maj 1996 (L 181)
+
+ændringer, ret. Selvfølgelig er der ikke tale om,
+at vi alene gennem lovregulering kan sikre reel
+ligestilling på arbejdsmarkedet, men i en kombination af lovregulering, som vi sådan set føler
+os forpligtet til at gennemføre også i henhold til
+internationale konventioner, og initiativer, der
+skal nedbryde holdninger, kan vi komme et
+stykke vej, så vi får et arbejdsmarked, der
+behandler folk ordentligt, uanset om de kommer
+fra kulturer, som er anderledes end vores, altså
+etniske minoriteter, eller har andre politiske
+eller religiøse anskuelser, og det synes jeg faktisk er et moderne arbejdsmarked værdigt.
+Jeg vil godt henvise hr. Lars Løkke Rasmussen, som er så optaget af holdninger - den del af
+det er jeg sådan set enig med hr. Lars Løkke
+Rasmussen i - til den redegørelse, jeg netop har
+fremlagt for Folketinget, om, hvilke initiativer
+regeringen har taget på baggrund af satspuljeforliget, som Venstre og De Konservative jo
+også er med i, for på en lang række områder, på
+uddannelsesområdet, på vejledningsområdet og
+på arbejdsmarkedsområdet, at få nedbrudt nogle af de barrierer, som findes dér.
+Men jeg vil godt sige til både Venstre og De
+Konservative, at det ikke ændrer ved, at det er
+nødvendigt med en lovregulering, og det, det
+her lovforslag handler om, har jo ikke noget
+med foreningsfrihed at gøre. Det har noget at
+gøre med, at vi faktisk lovgiver for at implementere ILO-konvention nr. 111 og FN's racediskriminationskonvention i dansk ret.
+Det spørgsmål, som Venstre og De Konservative er så optaget af, er faktisk noget, der reguleres i en helt anden ILO-konvention, nemlig nr.
+87, som Danmark jo efterlever i kraft af lov om
+beskyttelse mod afskedigelse på grund af foreningsforhold.
+Jeg har nu ikke desto mindre en fornemmelse
+af, at det, Venstre og De Konservative i virkeligheden går efter, er spørgsmålet om eksklusivaftaler. Og dér vil jeg godt - og det har jeg også
+gjort over for Folketingets Arbejdsmarkedsudvalg - for en sikkerheds skyld gentage, at den
+konvention, nemlig nr. 87, der regulerer foreningsspørgsmålet, fortolkes i ILO sådan, at den
+ikke regulerer spørgsmålet om eksklusivaftaler.
+Altså lever vi op til konventionerne, både når
+det drejer sig om foreningsfrihed, og når det
+drejer sig om muligheden for at træffe aftaler på
+arbejdsmarkedet om eksklusivaftaler.
+Det, vi tager hul på her, er racediskriminationskonventionen, og den synes jeg faktisk vi
+skylder det danske arbejdsmarked at efterleve
+
+og vise, at vi heller ikke går ind for diskrimination under nogen omstændigheder og under
+nogen former.
+Med de ord vil jeg godt tilkendegive, at regeringen ikke kan støtte det ændringsforslag, som
+er blevet stillet. Og jeg er meget enig med fru
+Anne Baastrup i, at det er en noget særpræget
+tilgang til behandlingen, som Venstre og De
+Konservative har haft, nemlig at man kommer
+løbende imellem anden og tredje behandling og
+for mig at se ikke har været voldsomt aktive i
+det hidtidige forløb. Det kan jo selvfølgelig
+være, man har været optaget af andre sager.
+Men det borger altså ikke for en seriøs udvalgsbehandling og behandling her i Folketinget af et
+meget vigtigt spørgsmål.
+Folketingets Ombudsmand, Hans Gammeltoft-Hansen, har jo også, som fru Vibeke
+Peschardt sagde, påpeget, at der er et hul i vores
+lovgivning, fordi arbejdsmarkedets parter ikke i
+deres aftalegrundlag har implementeret den del
+af konventionen.
+Birthe Rønn Hombech (V):
+Da jeg er udlændingepolitisk ordfører for Venstre og i den egenskab holder en del foredrag og
+får en del spørgsmål, er der nogle spørgsmål, jeg
+godt vil have svar på her, så jeg ved, hvad jeg
+skal svare, når jeg holder foredrag f.eks. i
+erhvervslivet. Jeg vil stille tre klare spørgsmål,
+og de to af dem er hentet fra virkeligheden.
+Der er en del erhvervsfolk, der fortæller mig,
+at de mener, at f.eks. en ansat ved receptionen,
+der er iført slør, og som er muslim, kan sende
+nogle signaler til eksportvirksomhedens kunder, som de ønsker skal sendes. De anser altså
+det at være muslim og iklædt slør for en særlig
+kvalifikation. Jeg kan forstå, at de i henhold til
+forslaget ikke kan blive ansat mere, for man må
+ikke spørge, hvilken tro de har. Det vil jeg godt
+have et svar på.
+Det næste er, at jeg som formand for Folketingets Kirkeudvalg, der kun varetager folkekirkens interesser, finder det helt naturligt, at min
+private sekretær på Christiansborg er medlem af
+folkekirken og kan kommunikere med dem, der
+ringer.
+Jeg vil gerne spørge ministeren, om jeg ikke
+har lov at spørge den sekretær, jeg ansætter, om
+den pågældende er medlem af folkekirken.
+Lad os forestille os, at jeg bliver sparket ud af
+Folketinget og vil begynde at studere det, der
+interesserer mig utrolig meget, religionshistorie,
+og sammenligne forskellige religioner. Kan jeg
+
+Fredag den 24. maj 1996 (L 181)
+så ikke få lov at ansætte en jøde, fordi hun er
+jøde, og en muslim, fordi hun er muslim, hvis
+jeg gerne vil have nogen at diskutere de andre
+verdensreligioner med?
+Jeg vil godt have at vide fra ministeren, om
+ikke ministeren kan indse, at det, at man ikke
+må spørge, af hvilken herkomst folk er, forhindrer os i at bruge disse særlige kvalifikationer,
+som vores udlændinge har, som et tilskud til
+vores egen kultur. Kan ministeren ikke se, at det
+er det, ministeren gør nu?
+Hermed sluttede forhandlingen om ændringsforslaget.
+
+7049
+
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget vedtoges med 104 stemmer (S, V,
+KF, SF, RV, EL og CD) mod 5 (FP og DF).";Anne Baastrup
+75712;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+Afstemning
+Ændringsforslaget forkastedes, idet 45 stemte
+for, 60 imod.
+Lovforslaget som helhed sattes derefter til forhandling.
+Ingen bad om ordet.
+Afstemning
+
+Den næste sag på dagsordenen var:
+4) Tredje behandling af lovforslag nr. L 173:
+Forslag til lov om offentliggørelse af kontrolresultater og om ændring af visse love under
+Landbrugs- og Fiskeriministeriet.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+
+Lovforslaget vedtoges med 61 stemmer (S, SF,
+RV, EL og CD) mod 46 (V, KF, FP og DF).
+
+Der var ikke stillet ændringsforslag.";Formanden
+76419;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+Ingen bad om ordet.
+
+Lovforslaget sattes til forhandling.
+
+Afstemning
+Lovforslaget vedtoges enstemmigt med 110
+stemmer.
+
+Den næste sag på dagsordenen var:
+3) Tredje behandling af lovforslag nr. L 172:
+Forslag til lov om ændring af lov om tilskud til
+produktudvikling af jordbrugs-, skovbrugsog fiskeriprodukter m.m. (Udskillelse af skov
+og udvidelse med markedsføring).
+Af landbrugs- og fiskeriministeren (Henrik
+Danj Kristensen).
+j
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+Der var ikke stillet ændringsforslag.";Formanden
+77047;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+7050
+
+Fredag den 24. maj 1996 (L 174)
+
+Den næste sag på dagsordenen var:
+5) Tredje behandling af lovforslag nr. L 174:
+Forslag til lov om administration af Det Europæiske Fællesskabs forordninger på fiskeriets
+område og administration af produktionsafgifter m.v.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget vedtoges med 105 stemmer (S, V,
+KF, SF, RV, EL og CD) mod 5 (FP og DF).";Formanden
+77718;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+Den næste sag på dagsordenen var:
+6) Tredje behandling af lovforslag nr. L 175:
+Forslag til lov om strukturforanstaltninger
+vedrørende fiskerisektoren.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 17/1 96. Første behandling 25/1 96.
+Betænkning 8/5 96. Anden behandling 15/5 96).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget vedtoges med 103 stemmer (S, V,
+KF, SF, RV, EL og CD) mod 5 (FP og DF).";Formanden
+78278;title_name;"Lovforslaget vil nu blive sendt til statsministe- ,
+ren.
+
+Den næste sag på dagsordenen var:
+7) Anden behandling af lovforslag nr. L 109:
+Forslag til lov om støtte til jordbrugets strukturudvikling og til økologisk jordbrug m.v.
+Af landbrugs- og fiskeriministeren (Henrik
+Dam Kristensen).
+(Fremsat 6/12 95. Første behandling 10/1 96.
+Betænkning 15/5 96).
+Der var stillet 6 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene
+og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under ét.
+Forhandling";Formanden
+78917;name_party;":
+Nu står vi ved anden behandling af L 109, og
+dér er et mindretal, nemlig Venstre og Det Konservative Folkeparti, kommet med et betænkningsbidrag.
+Jeg vil gerne sige til landbrugsministeren, at
+vi har gjort os store anstrengelser for at skrive
+dette betænkningsbidrag således - da vi jo
+ender med at stemme for denne her lov - at det
+også var et betænkningsbidrag, som regeringspartierne kunne anvende og tiltræde. Og da jeg
+ikke inden fristens udløb i tirsdags har fået
+nogen tilbagemelding om, at det kan lade sig
+gøre, så vil jeg da gerne tillade mig at høre enten
+den socialdemokratiske ordfører eller landbrugsministeren - hvem der måtte finde anledning til at svare - med hvilken begrundelse man
+ikke er i stand til at tiltræde dette betænkningsbidrag.";Peter Hansen-Nord
+79698;name_party;":
+Hr. Peter Hansen-Nord efterlyste, hvorfor vi
+ikke havde reageret på det betænkningsbidrag,
+som Venstre og De Konservative var kommet
+med. Jeg må sige, at en hel del af de ting, der
+
+Fredag den 24. maj 1996 (L 109)
+står i betænkningsbidraget kunne vi godt tilslutte os, nemlig al rosen.
+Det, vi måske kan sætte spørgsmålstegn ved,
+er Venstres og De Konservatives betænkeligheder ved bemyndigelsen. Dér har vi fuld tillid til
+de bemyndigelser, som vi tillægger fiskeri- og
+landbrugsministeren. Ydermere står der, at
+amterne udpeger i alt 350.000 ha for landet som
+helhed. Vi er lidt betænkelige ved at blive hængt
+op på et helt eksakt tal på det her område.
+(Kort bemærkning).";Peter Christensen
+80397;name_party;":
+Jeg vil gerne straks kvittere med at sige, at når vi
+taler om bemyndigelse, er det ikke nødvendigvis påmøntet denne landbrugsminister som
+sådan, men det er bemyndigelser til ministre i
+almindelighed. Så kan man sige, at det kan misforstås, som det er skrevet. Det er en mindre
+ting i denne her sag.
+Med hensyn til det andet, som hr. Peter Christensen nævner omkring de 350.000 ha, kunne
+jeg da godt foranlediges til at spørge, når vi
+tænker på alle de områder, der nu på den ene
+eller den anden måde har mulighed for at blive
+udpeget af det åbne land og det danske landbrugsareal: Hvilke arealstørrelser opererer man
+med til disse såkaldte SLF-områder? Og kan vi
+få en nærmere forklaring på, hvad det så er for
+et antal hektarer, vi skal til at tale om?
+(Kort bemærkning).";Peter Hansen-Nord
+81193;name_party;":
+Hr. Peter Hansen-Nord gav jo selv svaret, nemlig at det var vanskeligt at se, hvor mange hektarer det kom til at dreje sig om, fordi der jo er
+så mange problemer inden for det her område
+om, hvor store disse ressourcer er. Så derfor kan
+man ikke svare helt eksakt på, hvor mange hektarer det er.
+Hermed sluttede forhandlingen.
+Afstemning
+§§ 1 og 2, ændringsforslag nr. 1, § 3, således
+ændret, §§ 4-12, ændringsforslag nr. 2, § 13,
+således ændret, §§ 14 og 15, ændringsforslag nr.
+3, § 16, således ændret, §§ 17 og 18, ændringsforslag 4 og 5, § 19, således ændret, ændringsforslag nr. 6, § 20, således ændret, og §§ 21-25
+vedtoges uden afstemning.
+
+7051
+
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Peter Christensen
+81931;title_name;"Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Den næste sag på dagsordenen var:
+8) Anden behandling af lovforslag nr. L 159:
+Forslag til lov om ændring af lov om Dansk
+Landbrugs Realkreditfond. (Ophævelse af
+eneretten).
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 16/1 96. Første behandling 30/1 96.
+Betænkning 21/5 96).
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslaget og
+spørgsmålet om lovforslagets overgang til tredje
+behandling sattes til forhandling under ét.
+Forhandling";Formanden
+82686;name_party;":
+Jeg skal blot sige, at vi beder om, at L 159 bliver
+sendt tilbage til udvalget, da Venstre ønsker at
+foretage en teknisk ændring af vores betænkningsbidrag.
+Hermed sluttede forhandlingen.
+Afstemning
+§ 1, ændringsforslaget om en ny affattelse af § 2
+og § 2 i den nye affattelse vedtoges uden
+afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.
+
+7052
+
+Fredag den 24. maj 1996 (L 159)";Jens Hald Madsen
+83114;title_name;"Lovforslaget går herefter til fornyet behandling i
+udvalget.
+
+Den næste sag på dagsordenen var:
+9) Anden behandling af lovforslag nr. L 42:
+Forslag til lov om ændring af lov om vederlag
+og pension m.v. for ministre.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 25/10 95. Første behandling 30/11 95.
+Betænkning 15/5 96).
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslaget og
+spørgsmålet om lovforslagets overgang til tredje
+behandling sattes til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§ 1, ændringsforslaget og § 2, således ændret,
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+83866;title_name;"Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelser mod dette forslag,
+betragter jeg det som vedtaget (Ophold). Det er
+vedtaget.
+
+Den næste sag på dagsordenen var:
+10) Anden behandling af lovforslag nr. L 138:
+Forslag til lov om ændring af lov om almen
+voksenuddannelse. (Skolesamarbejde, værkstedsundervisning, uddannelsesvejledning,
+støtteundervisning, sammenlægning).
+Af undervisningsministeren (Ole Vig Jensen).
+(Fremsat 13/12 95. Første behandling 11/1 96.
+Betænkning 14/5 96).
+Der var stillet 3 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene
+og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under ét.
+Forhandling";Formanden
+84702;name_party;":
+SF og Enhedslisten har stillet nogle ændringsforslag, og det har selvfølgelig været vores håb,
+at disse ændringsforslag var blevet vedtaget.
+Det kan vi forudse nok ikke sker.
+Til gengæld er der så i betænkningen fra
+udvalget tilkendegivet forskellige synspunkter,
+som undervisningsministeren har givet udtryk
+for over for udvalget. Jeg vil derfor gerne have
+bekræftet af undervisningsministeren, om det
+betyder, i det omfang amtskommuner i fremtiden opfører sig, som amtskommuner har opført
+sig tidligere, hvor de har opført sig i modstrid
+med lovens intentioner, at gør de det igen, så er
+ministeren villig til ved førstkommende lejlighed, selvfølgelig afhængigt af hvor stor forseelsen er, at gribe ind i form af en justering af både
+AVU-loven og hf-loven. Det er for at få det helt
+på det rene, og det er en advarsel til amtskommunerne om, at hvis ikke de opfører sig pænt,
+hvad de ikke har gjort hidtil, så er ministeren
+der næste gang.";Aage Frandsen
+85685;title_name;":
+Jeg kan kun bekræfte, hvad hr. Aage Frandsen
+her siger, og der er den ekstra styrke i udtalelsen, at det ikke bare er et synspunkt, jeg selv
+har, men det er et synspunkt, der er meget
+udbredt blandt de partier i Folketinget, som
+slutter op om denne lovgivning i øvrigt. Og det
+er jo ikke forkert at sige på den måde, som hr.
+Aage Frandsen gjorde, at dette er et budskab til
+
+Fredag den 24. maj 1996 (L 138)
+dem, der administrerer i det daglige, om at søge
+at leve op til lovens intentioner, nemlig at sikre
+gode voksenundervisningsmiljøer de pågældende steder.
+
+7053
+
+Afstemning
+i
+§ 1 vedtoges uden afstemning.
+
+Hermed sluttede forhandlingen.
+
+Ændringsforslag nr. 1 forkastedes, idet 9 stemte
+for, 95 imod: 4 stemte hverken for eller imod.
+
+Afstemning
+
+Ændringsforslag nr. 2 forkastedes uden afstemning.
+
+Ændringsforslag nr. 2 forkastedes, idet 13 stemte for, 96 imod.
+Ændringsforslag nr. 3 forkastedes uden afstemning.
+§§ 1 og 2 vedtoges uden afstemning.
+Ændringsforslag nr. 1 til titlen forkastedes uden
+afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Ole Vig Jensen
+86788;title_name;"Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Den næste sag på dagsordenen var:
+11) Anden behandling af lovforslag nr. L 247:
+Forslag til lov om Danmarks Journalisthøjskole.
+Af undervisningsministeren (Ole Vig Jensen).
+(Fremsat 17/4 96. Første behandling 26/4 96.
+Betænkning 21/5 96).
+Der var stillet 2 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene
+og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under ét.
+Ingen bad om ordet.
+
+§§ 2-12 vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+87617;title_name;"Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse mod dette forslag,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Den næste sag på dagsordenen var:
+12) Første behandling af beslutningsforslag nr.
+B 129:
+Forslag til folketingsbeslutning om resultatstyrede bevillinger til arbejdsformidlingen.
+Af Tom Behnke (FP) m.fl.
+(Fremsat 30/4 96).
+Forslaget sattes til forhandling.
+Forhandling
+Arbejdsministeren (Jytte Andersen):
+Arbejdsformidlingen har to opgaver: at servicere ledige og beskæftigede inden for rammerne
+af lov om aktiv arbejdsmarkedspolitik og at servicere virksomhederne i forhold til at opfylde og
+imødekomme behovet for kvalificeret arbejdskraft. For at kunne løfte opgaven i forhold til
+virksomhederne foretager arbejdsformidlingen
+virksomhedsbesøg med det formål at afdække
+virksomhedernes aktuelle og fremtidige behov
+for arbejdskraft og også for at afdække, hvilke
+kvalifikationer arbejdskraften forventes at skulle have.
+
+7054
+
+Fredag den 24. maj 1996 (B 129)
+
+Når forslagsstillerne i bemærkningerne til folketingsbeslutningen, vi behandler, beskriver
+den ønskede arbejdsformidling således, at
+arbejdsformidlingen må foretage virksomhedsbesøg, at arbejdsformidlingen i forbindelse med
+konjunktursvingninger skal kunne kanalisere
+arbejdskraften derhen, hvor der er brug den, og
+at arbejdsformidlingen skal kunne forudse konjunktursvingningerne, så kan jeg kun sige, at
+arbejdsformidlingen allerede fungerer sådan,
+som forslagsstillerne ønsker sig det.
+Jeg kan tilføje, at der forud for formidlingen
+anvendes betydelige ressourcer i form af virksomhedskontakt, konjunktur overvågning og
+opkvalificering af de ledige, hvilket ikke betyder, at arbejdsformidlingen har nedprioriteret
+formidlingen af job.
+Et af succeskriterierne for arbejdsformidlingen og den førte arbejdsmarkedspolitik er i
+øvrigt at undgå flaskehalsproblemer på arbejdsmarkedet. Som det klart fremgår af den seneste
+flaskehalsredegørelse, vi har, er det selv i en
+økonomisk opgangstid stort set lykkedes os
+at undgå flaskehalse, hvilket i meget høj grad
+må tages til indtægt for, at arbejdsformidlingen
+faktisk fungerer udmærket.
+Rent finansieringsmæssigt er det sådan, at der
+på finansloven afsættes dels en bevilling til
+arbejdsmarkedsindsatsen, som fordeles til de
+regionale arbejdsmarkedsråd efter indstilling fra
+rådene, og dels en bevilling til arbejdsformidlingens drift, som fordeles efter indstilling fra
+Landsarbejdsrådet bl.a. efter følgende objektive
+kriterier: antallet af personer i arbejdsstyrken,
+antallet af virksomheder i regionen og så det
+gennemsnitlige antal af ledige. Det er således
+ikke rigtigt, når forslagsstillerne påstår, at bevillingerne blot følger antallet af ledige.
+Hvis vi skal følge forslaget om, at finansieringen alene skal følge antallet af formidlinger, ville arbejdsformidlingens øvrige opgaver, som er
+grundlaget for formidlingen, blive ufinansieret.
+Må jeg så i øvrigt til forslagets bemærkninger
+sige, at det er rigtigt, at jeg i forbindelse med
+behandlingen af flaskehalsredegørelsen gav
+udtryk for, at arbejdsgiverne også har et medansvar for at undgå flaskehalse. Dette synspunkt står jeg fast ved. Arbejdsgiveren må i tæt
+samarbejde med arbejdsformidlingen bidrage
+til, at der i tide tages højde for konjunkturudsving.
+Forslagsstillerne bruger meget krudt på at
+beskrive den seneste tids kritik af AF-Storkøbenhavn. Som det jo vil være forslagsstillerne og
+
+andre bekendt, har jeg igangsat en undersøgelse
+af arbejdsformidlingen i Storkøbenhavn, så vi
+enten kan få problemerne frem i lyset eller en
+gang for alle få aflivet myter og rygter om fusk
+og den slags. Der er altså god grund til at afvente den rapport, som jeg har igangsat, og som jeg
+annoncerede igangsættelsen af i forbindelse
+med vores diskussion om flaskehalsredegørelsen.
+Da den foreslåede ændring af finansiering i
+dette forslag ikke vil lette, smidiggøre eller på
+anden måde gavne arbejdsformidlingen i det
+daglige arbejde, skal jeg hermed tilkendegive, at
+regeringen ikke kan stemme for og ikke kan
+støtte beslutningsforslaget.";Formanden
+91752;name_party;":
+Med baggrund i en række avisartikler i Politiken
+har Fremskridtspartiet fremsat et beslutningsforslag vedrørende resultatstyrede bevillinger
+til arbejdsformidlingen.
+Økonomi til arbejdsformidling skal således
+tildeles efter, som Fremskridtspartiet skriver i
+beslutningsforslaget, reelt formidlede antal job job formidlet ved opsøgende virksomhed.
+Fremskridtspartiets beslutningsforslag og
+især bemærkningerne hertil viser med al mulig
+tydelighed, at Fremskridtspartiet har en utrolig
+forsimplet opfattelse af det at formidle arbejde
+og af arbejdsformidlingen.
+Først og fremmest baserer Fremskridtspartiet
+ifølge bemærkningerne til forslaget sin generelle
+opfattelse af arbejdsformidlingen på en række
+artikler i dagbladet Politiken, idet Politiken har
+haft artikler om arbejdsformidlingens virksomhed og især arbejdsformidlingens virksomhed i
+København. Ja, bemærkningerne til lovforslaget
+kan vel nærmest karakteriseres som en direkte
+afskrift af Politikens artikler. Det kan selvfølgelig være en måde at fabrikere beslutningsforslag
+på, hvis man ikke selv har indsigt i et område og
+i øvrigt ikke selv vil søge de oplysninger, der er
+tilgængelige.
+Hvad angår Arbejdsformidlingen i København oplyste arbejdsministeren ved behandlingen af flaskehalsredegørelsen den 27. marts
+1996, at hun med baggrund i de oplysninger,
+der var kommet frem, ville foranstalte en uvildig undersøgelse af AF-Storkøbenhavns virksomhed. Ministeren oplyste også til Folketinget,
+at var der noget om de oplysninger, der var
+kommet frem, ja, så skulle der selvfølgelig gøres
+noget ved det.
+
+Fredag den 24. maj 1996 (B 129)
+Når jeg indledningsvis giver udtryk for, at
+Fremskridtspartiet har en forsimplet opfattelse
+af det at formidle arbejdskraft til et dynamisk
+arbejdsmarked, skal det ses i sammenhæng med
+de mange opgaver, som Folketinget har besluttet at det er vigtigt at få udført, herunder først
+og fremmest opgaven at formidle ordinært
+arbejde.
+Lad mig nævne, at arbejdsformidlingen i 1989
+formidlede 113.000 job, i 1995 formidlede
+arbejdsformidlingen 211.000 job, en stigning i
+perioden på 86 pet. Heraf var den overvejende
+del, 63 pet., almindelige jobordrer, og 37 pet. var
+åbne ordrer, som det hedder.
+Er der i øvrigt noget galt med åbne ordrer?
+Det mener jeg rent faktisk ikke. Det var vel netop kritisabelt, hvis ikke arbejdsformidlingen
+sørgede for, at alle job, der var på arbejdsmarkedet, blev gjort bekendt for de ledige. Det
+mener arbejdsmarkedets parter i Landsarbejdsrådet faktisk også. Det er altså ikke noget,
+arbejdsmarkedets parter selv har bestemt, og
+også uanset at arbejdsmarkedschef i Arbejdsgiverforeningen til Politiken siger, at AF's produktion stiger på grund af de åbne ordrer, så er
+sagen, at alle oplysninger om AF's formidlingsvirksomhed er tilgængelige i Landsarbejdsrådets arbejdsmarkedspolitiske redegørelse og i
+Arbejdsministeriets arbejdsmarkedspolitiske
+årbog. Dér kan man i øvrigt også gøre sig
+bekendt med de mange andre opgaver, som AF
+udfører: vejledning, formidling af jobtræningspladser, uddannelse af ledige, der er afgørende
+for at undgå flaskehalse, osv. osv. Man kan også
+gøre sig bekendt med jobrotation.
+Når Fremskridtspartiet skriver, at arbejdsformidlingens succeskriterium er at have flest
+muligt ledige i stald frem for at skaffe ledige
+beskæftigelse, så må det være, fordi Fremskridtspartiet ikke har lyst til at sætte sig ind i,
+hvad der produceres af arbejdsformidlingen.
+Det har selvfølgelig den fordel for Fremskridtspartiet, at man kan udtale sig uden at have
+bekymringer om, hvorvidt det nu er rigtigt eller
+forkert, det, man siger.
+Fremskridtspartiet skriver også i bemærkningerne, at det er pinligt for regeringen, at der stadig er 250.000 ledige. Fremskridtspartiet overser
+åbenbart, at det er lykkedes at skaffe 60.000
+arbejdspladser bare i 1994-95, og at de mange
+aftaler på arbejdsmarkedet skaber en bedre fordeling af arbejdet, så det bliver langt lettere for
+ledige at få et job.
+
+7055
+
+Det kommer vel ikke bag på nogen, at Socialdemokratiet afviser forslaget, og jeg skal også
+på vegne af Det Radikale Venstre afvise forslaget.
+(Kort bemærkning).";Jens Peter Vernersen
+95870;name_party;":
+Jamen det var jo vældigt at høre, at hr. Jens Peter
+Vernersen har læst bemærkningerne. Det ville
+måske også have været lidt gavnligt, hvis hr.
+Jens Peter Vernersen også havde læst selve forslaget og måske havde kommenteret, hvad det
+var, der stod i selve forslaget og ikke kun i
+bemærkningerne, som jo er en støttepædagog til
+sådan nogle socialdemokrater, som ikke kan
+finde ud af, hvad det hele drejer sig om. Derfor
+har man tilmed brugt citater fra Politiken.
+Er det dog ikke velsignet? Vi gik ud fra, at der
+var nogle socialdemokrater, der også læste Politiken, og dér stod det jo helt klart og tydeligt,
+hvor galt det var. Forslaget går rent faktisk ud
+på at få resultatstyr ede bevillinger til arbejdsformidlingen, for vi må i dag erkende, at det ikke
+fungerer i arbejdsformidlingen. Der er faktisk
+ikke så forfærdelig meget, der fungerer. Indimellem kommer det op i nogle aviser, at nogle
+områder ikke fungerer, men det generelle indtryk er: Det gør det faktisk ikke.
+Så til hr. Jens Peter Vernersen: Det er ikke
+bemærkningerne, vi skal diskutere, det er faktisk beslutningsforslaget som sådan. Det er et
+spørgsmål, om man kan lave resultatstyret løn
+til arbejdsformidlingerne, og dér mener vi faktisk, at regeringen har vist vejen. Det kan man.
+Skatteminister Carsten Koch har jo vist vejen.
+Man kan sagtens lave resultatstyret løn, og derfor mener vi også, at det er på tide, at arbejdsministeren tager handsken op og viser, at de skal
+kunne gøre noget, de skal kunne vise resultater,
+før de kan få den løn, som de forhåbentlig gør
+sig fortjent til.
+(Kort bemærkning).";Annette Just
+97473;name_party;":
+Jeg ved ikke, om jeg yderligere skal kommentere, hvem der har læst forslaget mest og bedst.
+Det, man taler om, og som vi afviser, er disse
+reslùtatstyrede bevillinger, som der rent faktisk
+står i forslaget. Jeg hører, at det ikke er det, fru
+Annette Just taler om her fra Folketingets talerstol. Nu tales der om resultatstyret løn.
+Jeg vil også sige, at det jo rent faktisk er
+sådan, at bevillinger til arbejdsformidlingen tildeles efter objektive kriterier, efter hvor mange
+
+7056
+
+Fredag den 24. maj 1996 (B 129)
+
+ledige man har, hvordan arbejdskraften er sammensat i området, hvor mange virksomheder
+der er i området. Det er det, man tildeler midler
+til arbejdsformidlingen efter.
+Man kan ikke sige - og det er dér, jeg hæfter
+mig ved bemærkningerne - at man bør have en
+særlig interesse i at have mange ledige på
+arbejdsformidlingen for at få flest mulige bevillinger. Det vil jeg godt karakterisere som noget
+sludder.
+(Kort bemærkning).";Jens Peter Vernersen
+98436;name_party;":
+Jeg ville jo egentlig først have sagt det i min ordførertale, men jeg kan jo gøre det nu, og så kan
+jeg slippe for at holde den senere, for nu kommer fru Annette Just og forklarer, hvad det hele
+går ud på.
+Jeg må sige, at jeg synes, det er et grundlæggende underligt forslag. Et grundlæggende
+underligt forslag, fordi det bygger på, at jo færre
+ledige, man har, jo mere skal man have i løn.
+Hvis man er aktiv i sin formidling, får man mere
+i løn, for så har man opnået succes, og det betyder jo i praksis, at de områder, der har mange
+ledige, skal have lav løn, og det er jo i virkeligheden dem, der har mest travlt, og de, der så
+hurtigt kan få formidlet nogle job, får så høj løn,
+for de kan jo vise resultater. For mig at se gør
+man nøjagtig det modsatte af, hvad enhver logik
+tilsiger.
+Det må da være de områder, der er mest
+udsatte, og hvor det er sværest at formidle, der
+skal have de bedste økonomiske rammer, mens
+de, der hurtigt får folk i formidling, måske kan
+mindske nogle af deres rammer. Jeg synes simpelt hen, at det er at vende alting på hovedet, og
+det lykkedes ikke fru Annette Just at gøre det
+klarere i den grundlæggende indvending her i
+sit indlæg, for det er altså at gøre det modsatte
+af, hvad der i virkeligheden skal til.
+Men nu kan jeg så lige så godt benytte lejligheden til at sige - for så sparer jeg Tingets tid
+senere - at vi er selvfølgelig imod det her forslag. Så det behøver jeg jo så ikke at underholde
+med om et eller andet antal minutter.";Peter Duetoft
+99939;name_party;":
+Det er jo ikke første gang i denne folketingssamling, at vi diskuterer arbejdsformidling, men det
+er så formentlig nok sidste gang, vi gør det, i
+hvert fald omkring et konkret beslutnings- eller
+lovforslag.
+
+Det har været til debat i flere omgange, og det
+har jo ikke været uden grund: i Venstre er vi
+faktisk glade for, at Fremskridtspartiet med dette beslutningsforslag igen sætter fokus på
+debatten omkring effektiviteten eller måske
+snarere den manglende effektivitet i vores
+arbejdsformidlingssystem. Det er nemlig på
+tide, at vi får gjort noget ved den måde, vi formidler arbejde på i Danmark, hvis vi mener
+noget seriøst med at nedbringe ledigheden.
+Jeg synes, at man har set mange vidnesbyrd i
+den seneste tid på, at arbejdsformidlingen ikke
+fungerer fuldt ud tilfredsstillende. Senest har vi
+jo hele historien fra AF-Storkøbenhavn, hvor vi
+i Venstre med spænding afventer resultatet af
+den undersøgelse, som arbejdsministeren har
+lovet skulle være færdig her med udgangen af
+maj måned.
+Vi betragter forslaget fra Fremskridtspartiet
+som et godt og konstruktivt bud på, hvordan
+man kunne bringe nogle incitamenter ind i
+AF-systemet, som kunne gøre det mere effektivt, men jeg tror ikke, at det kan stå alene. Det
+er jo heller ikke nogen hemmelighed, at vi i
+Venstre hellere så nogle mere radikale bud på,
+hvordan arbejdsformidlingssystemet kunne
+bringes til at være mere effektivt.
+Vi så gerne, at vi i Danmark fik lavet et
+enstrenget system, hvor det var kommunerne,
+der blev servicested for alle ledige, hvad enten
+de er forsikrede eller ikkeforsikrede, fordi det er
+ude omkring lokalt i kommunerne, man har det
+bedste kendskab både til de mennesker, der bor
+der, og til de arbejdspladser, der er i lokalområderne. Der er faktisk kommuner, der har haft
+held med at bruge det, der er hovedtanken i
+forslaget her, ikke omkring bevillinger, men
+omkring løn. Jeg kan da nævne GræstedGilleleje Kommune, som har indgået en aftale
+om bonusløn med sine medarbejdere omkring
+formidlingen af arbejde til kontanthjælpsmodtagere, og det har haft en ønsket effekt.
+Så hvorfor skulle dette system, denne tankegang om, at man får midlerne i forhold til nogle
+resultater, man leverer, ikke også kunne finde
+anvendelse i forhold til AF-systemet? Det tror
+jeg at der er meget rigtigt i.
+Vi er derfor i Venstre, selv om det her ikke
+rækker langt nok, positive over for beslutningsforslaget. Vi synes, at det er et spændende forslag, og vi er parat til at kigge nærmere på det.
+Det er det tilsagn, jeg kan give fra vores side her
+i dag.
+
+(883)
+Fredag den 24. maj 1996 (B 129)";Lars Løkke Rasmussen
+102526;name_party;":
+Når vi læser bemærkningerne til beslutningsforslaget, kan man se, at en artikelserie i Politiken har været stærkt medvirkende årsag til
+beslutningsforslagets fremsættelse. Nu var det
+ikke just et flot og effektivt billede, man tegnede
+af AF-Storkøbenhavn i Politiken. Det medførte
+da også, at arbejdsministeren iværksatte en
+undersøgelse, som vi nu går og venter på. Man
+lovede dengang, at undersøgelsen ville komme
+ultimo maj 1996, så den må jo være lige på trapperne.
+Fra konservativ side kan vi være enige i, at vi
+skal afskaffe overflødigt bureaukrati, som
+Fremskridtspartiet omtaler i bemærkningerne til
+forslaget, men vi kan ikke støtte beslutningsforslaget. Vi mener, der er valgt en løsning, som
+måske er lige let nok, og vi vil godt se på bl.a.
+den kommende rapport, inden vi begynder at
+fælde dommen. Derimod siger vi ikke, at vi ikke
+vil være med til at lave om på AF hen ad vejen:
+vi mener bare ikke, at forslaget, som det er skruet sammen, er det rigtige.
+Hvis selve konstruktionen fra Fremskridtspartiet med, at forslaget skal indebære, at bevillingssystemet for arbejdsformidlingen laves om,
+så man direkte kan se på det enkelte arbejdsformidlingskontors bevilling, om man formidler en
+tilstrækkelig mængde arbejde, sådan lige skal
+stå til troende, vil det betyde, at i en tid, hvor
+samfundet er i lavkonjunktur, hvor arbejdsløsheden stiger, og hvor det er sværere at formidle
+og skaffe job, skal AF have færre bevillinger, og
+i tider, hvor det er uhyre let at besætte og formidle job, stiger bevillingerne. Det hænger ikke
+sammen.
+Fra konservativ side er vi tilfredse med det
+store regionale ansvar, som er udlagt til arbejdsmarkedsrådene. Arbejdsmarkedets parter har
+fået stor indflydelse på midlerne, og fra konservativ side anser vi det for positivt. Her findes
+repræsentanterne fra arbejdslivet, og de sidder
+tæt på problemerne derude: det gælder flaskehalse og andre problemstillinger på arbejdsmarkedet.
+I beslutningsforslagets bemærkninger står
+der, at Venstre og Det Konservative Folkeparti
+vil lægge arbejdsformidlingen ud til kommunerne. Det vil jeg gerne her fra Folketingets
+talerstol dementere. Det ønsker vi ikke i Det
+Konservative Folkeparti. Vi ønsker ikke at kommunalisere arbejdsformidlingen. Vi frygter, at
+det vil være de offentlige job, som vil blive foretrukket, og vi har den holdning, at arbejdsmar-
+
+7057
+
+kedets parter er bedre til at løse denne opgave
+end nogle kommunalt ansatte embedsmænd,
+selv om en hel del gør et udmærket stykke
+arbejde.
+Når det er sagt, er vi klar til at give AF et
+eftersyn. Vi mener, som vi har sagt det adskillige gange, at der bør være en tilsynsenhed, som
+ser AF efter i sømmene nøjagtig på samme
+måde som i det konservative krav, som blev
+gennemført ved det seneste finanslovforlig, om
+tilsynsenheden, der har som opgave bl.a. at se
+på arbejdsløshedskassernes forvaltning af det
+på området gældende regelsæt.
+Vi er godt klar over, at det ikke er noget, man
+jubler over i venstre side af salen, men jeg vil nu
+gøre opmærksom på, at det er holdningen i Det
+Konservative Folkeparti.
+Afslutningsvis vil jeg gøre opmærksom på, at
+vi fra konservativ side venter på en udmøntning
+af det, som vi fik igennem i finanslov 1996, når
+vi taler om et incitament til at fremme privat
+jobtræning i AF. I bemærkningerne til betænkningen over forslag til lov om ændring lov om
+en aktiv arbejdsmarkedspolitik, lovforslag nr.
+L 15, fik vi fra konservativ side indført:
+»Den arbejdsmarkedspolitiske indsats skal
+dog primært rettes mod den private sektor med det sigte, at omfanget af jobtræning i den
+private sektor øges. I lyset af finanslovaftalen
+bliver der iværksat et analysearbejde, som skal
+udvikle incitamenter f.eks. i form af præmieringsordninger eller særlige vederlag, der kan
+bringes i anvendelse i forhold til den enkelte
+AF-medarbejder, AF-medarbejdergrupper,
+AF-regionen etc. Den endelige udformning af
+incitamentordningen vil bl.a. bero på resultatet
+af analysearbejdet ...«.
+Jeg kan sige til almindelig oplysning, at det
+venter vi stadig væk på. Vi mener, at vi her har
+hånd i arbejdsministeren omkring incitamenterne til den private jobtræning.
+Det viser også vores holdning i Det Konservative Folkeparti: Vi vil noget på det her område, og vi får også noget igennem, og det er, kan
+man sige, måske lidt af en resultatstyret bevilling, som vi her har fået hjem.
+Med disse bemærkninger må jeg sige, at vi
+ikke kan tilslutte os beslutningsforslaget.";Bendt Bendtsen
+106964;name_party;":
+Vi kan være enige i den sætning i Fremskridtspartiets beslutningsforslag, hvor der står, at det
+at flytte papirbunker ikke er et succeskriterium.
+Dermed stopper vores enighed stort set også.
+
+7058
+
+Fredag den 24. maj 1996 (B 129)
+
+Vi er imod forslaget, fordi det hverken på den
+ene eller den anden måde afhjælper de problemer, der eventuelt er i arbejdsformidlingen. Det
+hjælper ikke noget at sige som det eneste kriterium, at man skal have penge i forhold til de job,
+man formidler, for hvis det er tilfældet, kan det
+jo være, at der er nogle job, det er sværere at formidle.
+Der er nogle mennesker, som har svært ved at
+få job, fordi de mangler uddannelsesmæssig
+baggrund. Det kræver noget mere arbejde, det
+kræver en større indsats. Det, der let kunne ske,
+er, at man i arbejdsformidlingen, hvor man jo
+skal anlægge et succeskriterium, der alene går
+ud på at formidle job, lader disse menneskers
+ansøgninger ligge. Det er risikoen ved forslaget,
+og derfor kan vi under ingen omstændigheder
+støtte det.
+Det er selvfølgelig glimrende, at forslagsstillerne har benyttet sig af dagbladenes oplysninger, men jeg synes nok, at man må sige, at i stedet for bare at tage alle oplysninger ukritisk
+kunne det godt være, at man selv kunne have
+formuleret, hvad det er, man mener, som
+begrundelse for forslaget.
+Vi er klart imod beslutningsforslaget.";Aage Frandsen
+108328;name_party;":
+Jeg så faktisk helst, at man helt kunne undvære
+arbejdsformidlingen. Jeg tror virkelig, at den
+bedste situation er, at jobsøgere og arbejdskraftsøgere finder hinanden uden mellemled.
+Med tiden har arbejdsformidlingen fået tillagt
+så mange opgaver foruden arbejdsformidling,
+f.eks. arbejdsanvisning, uddannelsesvejledning,
+handlingsplaner og ikke mindst et omfattende
+kontrolsystem, at der er en masse funktioner,
+som skal varetages.
+Arbejdsformidlingen fungerer ikke upåklageligt, men det er en helt anden type gennemgang
+af opgaver og deres udførelse, der er brug for.
+Helt grundlæggende må man huske, at det stadig er umuligt at formidle job, der ikke er der.
+Så meget om det. Om selve forslaget: Målet
+for succes kan jo ikke måles på antallet af formidlede job. Alene regionale forskelle i arbejdsløshedsprocenter, i typen af arbejdsløse og i
+typen af job gør det jo fuldstændig umuligt.
+Hvis man gjorde lønnen afhængig af resultatet,
+ville det for den enkelte arbejdsformidler svare
+til, at man gjorde lønnen for folketingsmedlemmer afhængig af, hvor mange lovforslag de fik
+vedtaget. Det tror jeg ikke fru Annette Just ville
+være glad for.";Jette Gottlieb
+109494;name_party;":
+Når man læser dette beslutningsforslag, er man
+faktisk umiddelbart forholdsvis positiv over for
+det, for på papiret ser det sådan set vældig godt
+ud, at man skal have resultatstyring. Men jeg
+kunne godt tænke mig at spørge, hvordan man
+vil lave den måling. Det har jo også noget at
+gøre med det samfund, vi er i, i hvilken
+udstrækning der er behov for arbejdskraft i
+relation til, om det kan lykkes arbejdsformidlingen at formidle nogle job ud.
+Man kunne næsten vende spørgsmålet på
+hovedet og sige, at vi også kunne lave en resultatstyring af Folketingets arbejde og så måle det,
+måske endda i de enkelte partier. Jeg tror, det er
+utrolig svært, men det ser godt ud.
+Jeg kunne godt tænke mig at se, om der overhovedet kunne opbygges et system, som kunne
+administreres, for hvis det bliver sådan et
+system, hvor vi skal ansætte et utal af mennesker for at kontrollere denne resultatstyring, er
+der jo ikke noget formål med forslaget.
+Jeg vil ikke være negativ over for det. Nu kan
+det heller ikke nå at blive færdigbehandlet i år,
+men jeg synes, det er udmærket, at det bliver
+fremsat, og at vi får det drøftet her. Så kunne vi
+eventuelt prøve at se på i Arbejdsmarkedsudvalget i næste folketingssamling, om der er nogle ideer i det her. Det kunne også være, at der
+måske var en anden konstruktion end lige den,
+som dette forslag lyder på. Der er noget spændende i det, men det må bare ikke være noget,
+der får administrationen til at svulme op, og jeg
+er stadig væk utrolig interesseret i at vide, hvordan man vil lave en sådan resultatstyring, så
+den kan fungere i praksis. Men vi ser, hvad der
+sker.";Poul Nødgaard
+111116;name_party;":
+Jeg tror, jeg vil starte med at sige tak til hr. Lars
+Løkke Rasmussen fra Venstre for hans meget
+positive melding om, at det selvfølgelig er rigtigt, at der skal ske noget, at vi skal have lavet
+om på måden, arbejdsformidlingen rent faktisk
+fungerer på på nuværende tidspunkt. For den
+fungerer ikke, og det er jeg meget enig med hr.
+Lars Løkke Rasmussen i.
+Jeg er også enig i, at det her ikke kan stå alene, men vi har jo også taget mange initiativer i
+årets løb. Dette er blot et af de skridt, der skal til,
+og jeg håber på, at vi i næste samling kan finde
+ud af at få lavet en samlet løsning og så se på,
+om vi kan få overtalt resten af salen til noget
+mere fornuftigt.
+
+Fredag den 24. maj 1996 (B 129)
+Til hr. Bendt Bendtsen: Det kan også godt
+være, at vi, når ministeren nu endelig kommer
+med sin redegørelse - den må hun jo komme
+med på et eller andet tidspunkt, så har jeg ikke
+sagt for meget, men lad os da håbe, det bliver
+inden vi starter op igen til efteråret - skal se på,
+hvordan vi kan få rettet det op, så vi kan få
+arbejdsformidlingen til at fungere. For som jeg
+har hørt det, er der faktisk flertal for at erkende,
+at arbejdsformidlingen ikke fungerer i dag.
+Den fungerer ikke efter hensigten, og det er
+ikke kun i København, den ikke fungerer efter
+hensigten, det er faktisk på landsplan, og det er
+en pinlig historie, for det er en frygtelig masse
+penge, der bliver brugt på den måde.
+Så vil jeg gå tilbage til, hvad arbejdsministeren sagde. Arbejdsministeren sagde rent faktisk,
+at alt det, der står i selve beslutningsforslaget,
+har vi jo i forvejen, så det er der overhovedet
+ingen grund til at tage op.
+Jeg er ked af at måtte sige til arbejdsministeren: Det kan godt være, at arbejdsministeren
+tror, vi har det i forvejen, men det er der ingen
+andre der ved noget om, og rent faktisk fungerer det ikke. Det er det eneste, man kan konstatere. Hver gang der bliver sat en undersøgelse i
+gang, må vi konstatere, at det ikke fungerer, at
+der bliver svindlet med, hvor mange virksomhedsbesøg der rent faktisk bliver foretaget, og at
+den servicering, der skulle ske, rent faktisk ikke
+fungerer. Derfor så er det nødvendigt, at vi får
+strammet op.
+Og så praler arbejdsministeren med, at flaskehalsene i hvert er fald væk. Jeg tror nok, at
+der er en hel del arbejdspladser rundt omkring i
+landet, som ville være glade for, hvis det var
+rigtigt, men som har måttet konstatere, at sådan
+er det ikke. Jeg behøver vel ikke at sige meget
+mere end sygehuse og sygeplejersker og lignende. Der er masser af steder, der stadig er flaskehalse - bare for at ministeren ikke skal tage på
+sommerferie og tro, at den tid er ovre.
+Til hr. Aage Frandsen vil jeg sige, at det i
+hvert fald er glædeligt, at vi kan være enige så
+langt, at arbejdsformidlingens personale ikke
+skal bruge penge og tid på bare at flytte papirbunker, men at de skal i gang med at lave noget.
+De skal ud og finde job, de skal ud og motivere
+til, at der bliver flere job. Så langt kan vi da i
+hvert fald blive enige. At det så kneb med enigheden længere fremme, må vi acceptere på
+nuværende tidspunkt.
+Fru Jette Gottlieb sagde, at hun helst slet
+ingen arbejdsformidling så. Det kan jeg sådan
+
+7059
+
+set være meget enig i, men som fru Jette Gottlieb
+også sagde: Vi skal jo have en eller anden form
+for arbejdsanvisning. Der findes mange andre
+former, men her taler vi ikke om, om jeg så må
+sige, at lave det fuldstændig radikalt om. Vi
+siger bare: Hvordan får vi den arbejdsformidling, som vi har kunnet konstatere der stadig er
+et flertal for, til at fungere noget bedre?
+Til hr. Poul Nødgaard vil jeg sige med hensyn
+til, hvordan det skal måles: Det er såmænd ikke
+så svært for den enkelte medarbejder at skrive
+op, hvilke resultater han eller hun har fået ud af
+de arbejdsopgaver, som rent faktisk er blevet
+udført. Derved kan man ved månedens udgang
+se, hvordan hele arbejdsformidlingen i det kontor har virket. Så jeg tror ikke, det er dér, problemet bliver.
+Problemet bliver, om vi kan få flertal for at
+lave en anden fordeling af arbejdsformidlingspengene, således at arbejdsformidlingen bliver
+resultatstyret, som vi har set det andre steder
+inden for den offentlige virksomhed. På den
+måde kan man måske animere til at gå bort fra
+bare at flytte papirer og bare lave statistikker, så
+man rent faktisk også får et reelt stykke arbejde
+fra hånden.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling vedtoges uden afstemning.";Annette Just
+115574;title_name;"Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Arbejdsmarkedsudvalget. Hvis
+ingen gør indsigelse mod dette forslag, betragter
+jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+7060
+
+Fredag den 24. maj 1996 (B 131)
+
+Den sidste sag på dagsordenen var:
+13) Første behandling af beslutningsforslag nr.
+B 131:
+Forslag til folketingsbeslutning om videregående uddannelser i tyndt befolkede egne af
+landet og om oprettelse af samfundsvidenskabelige bacheloruddannelser ved Sydjysk
+Universitetscenter.
+Af Kjeld Rahbæk Møller (SF) og Ulla Tørnæs (V)
+m.fl.
+(Fremsat 7/5 96).
+Forslaget sattes til forhandling.
+Forhandling";Formanden
+116244;title_name;":
+Forslaget til folketingsbeslutning fra forslagsstillerne hr. Kjeld Rahbæk Møller, hr. Aage
+Frandsen, fru Ulla Tørnæs og fru Hanne Severinsen opfordrer mig til at nedsætte et udvalg,
+der skal analysere mulighederne for en bedre
+koordinering af de videregående uddannelsesinstitutioner i tyndt befolkede egne af landet
+med henblik på en bedre ressourceudnyttelse og
+derudover i samarbejde med uddannelsesinstitutionerne at undersøge barriererne for lettere
+meritoverførsel med henblik på at opnå et mere
+smidigt uddannelsessystem og endelig at optage forhandlinger med Sydjysk Universitetscenter om oprettelse af et antal bacheloruddannelser inden for det samfundsvidenskabelige
+område.
+Målet med forslaget er bl.a. at sikre alle egne
+af landet en bedre betjening med uddannelsespladser og en bedre forsyning med færdiguddannede.
+Forslagsstillerne mener, at det kan ske ved en
+sammenlægning eller i hvert fald en bedre koordinering mellem uddannelsesinstitutionerne i
+de egne af landet, hvor der ikke findes universiteter, samt ved at give Sydjysk Universitetscenter lov til at uddanne bachelorer inden for
+samfundsvidenskab.
+Desuden skal øget fleksibilitet i meritspørgsmål sikres ved, at det foreslåede udvalg sammen med institutionerne skal gennemgå de barrierer, der er for meritoverførsel fra én uddannelsesinstitution til en anden.
+Jeg vil gerne her til indledning konstatere, at
+fleksibilitet og sammenhæng i uddannelsessystemet også står højt på min dagsorden, og
+det gør det både ud fra hensynet om at sikre
+
+optimal udnyttelse af uddannelsesressourcerne
+og for at give de studerende varierede uddannelsesmuligheder til gavn for dem selv og for
+samfundet.
+Målet er jeg altså enig med forslagsstillerne
+om, men ikke om de midler, som foreslås.
+Lad mig først tage forslaget om at lade Sydjysk Universitetscenter udbyde bachelorer inden
+for samfundsvidenskab.
+Spørgsmålet, om SUC, som vi også siger, skal
+kunne udbyde uddannelser, er blevet rejst et
+antal gange. 11994 svarede jeg på et spørgsmål
+her i Folketinget om en eventuel åbning for studerende på SUC. Jeg svarede, at Danmark ikke
+har behov for nye universiteter, og at der ikke i
+det sydjyske område skønnes at være behov for
+optagelsespladser i et omfang, der berettiger til
+oprettelse af en ny uddannelsesinstitution, idet
+de eksisterende uddannelsesinstitutioner alle
+har ledige pladser bortset fra lærer- og pædagogseminarierne.
+Disse grunde gælder lige fuldt i dag. Handelshøjskole Syd, der udbyder erhvervsøkonomiske og erhvervssproglige uddannelser på
+både bachelor- og kandidatniveau, har i perioden 1991-95 haft et fald i optagelsestallet på
+over 60 pet. Efter ministeriets prognoser er der
+intet, der tyder på stigende optag i de kommende år. En eventuel godkendelse af SUC til, at de
+kan udbyde samfundsvidenskabelige bacheloruddannelser, vil derfor være medvirkende til at
+forringe HHS' muligheder yderligere. Derfor
+mener jeg, at det er en dårlig idé og en dårlig
+udnyttelse af ressourcerne at gøre SUC til en
+uddannelsesinstitution.
+Forslagsstillerne har ud over det sydjyske
+område også peget på Midt- og Vestjylland og
+Sydsjælland/Lolland-Falster som steder, der
+har behov for en bedre forsyning med uddannelsesinstitutioner.
+Situationen for handelshøjskoleafdelingerne i
+disse områder, der her er nævnt, dvs. Storstrøms Handelshøjskolecenter, Vestsjællands
+Handelshøjskolecenter og Handels- og
+Ingeniørhøjskolen i Herning, er præcis den
+samme som beskrevet for Handelshøjskole Syd.
+Handelshøjskoleafdelingerne har i situationen
+med faldende optag valgt en ekspansionsstrategi for at tiltrække flere unge, f.eks. HA-grene
+med særlige faglige toninger, men det er ikke
+lykkedes for centrene at tiltrække flere studerende af den grund.
+De kommende faldende ungdomsårgange vil
+først slå igennem på blandt andet de erhvervs-
+
+Fredag den 24. maj 1996 (B 131)
+økonomiske og de sproglige uddannelser, da
+disse jo er karakteriseret af, at de studerende
+typisk påbegynder videregående uddannelser
+umiddelbart efter gymnasiet i modsætning til
+situationen for eksempel på det pædagogiske
+område.
+Der er en helt klar tendens til, at de studerende foretrækker uddannelsesinstitutionerne i de
+store byer. Selv om der bliver udbudt flere pladser på flere uddannelsesinstitutioner i tyndt
+befolkede egne af landet, ville det ikke skabe
+større søgning. Det viser erfaringerne dér, hvor
+søgningen i øjeblikket i virkeligheden er størst,
+nemlig læreruddannelsen, hvor der er meget
+stor søgning til seminarierne i de store byer,
+mens der er ledige pladser på seminarier i tyndt
+befolkede egne af landet.
+På den baggrund og med disse fremtidige
+perspektiver mener jeg ikke, at det er relevant at
+oprette flere uddannelsesinstitutioner i tyndt
+befolkede egne, hvor der jo allerede er en række
+uddannelsesinstitutioner.
+Jeg er enig i, at det er vigtigt, at uddannelsesinstitutionerne samarbejder om uddannelsesudbud og i givet fald også fusionerer. Der er
+allerede gennemført en fusion mellem Esbjerg
+Teknikum og Aalborg Universitet, og der er
+besluttet en fusion mellem HHS og Sønderborg
+Teknikum med virkning fra september i år.
+Jeg støtter principielt en yderligere styrkelse
+af koordineringen af uddannelsesudbudet i det
+sydjyske område. Men jeg er ikke overbevist
+om, at det gøres bedst ved at nedsætte et udvalg
+om sagen, frem for at uddannelsesinstitutionerne samarbejder direkte og forelægger ministeriet løsningsforslag. Under alle omstændigheder
+skal man se alle videregående uddannelser
+under ét, fra korte videregående uddannelser til
+mellemlange og lange uddannelser.
+Hvad angår fleksibilitet i uddannelsessystemet, har jeg jo tilkendegivet mig enig heri. Forrige år udsendte jeg en rapport om barrierer i
+uddannelsessystemet til inspiration for blandt
+andet uddannelsesinstitutionerne, og jeg har
+også i det, jeg kalder 10-punkts-planen om tilbageværende uddannelse, understreget behovet
+for, at der skabes større sammenhæng og gennemsigtighed via et udbygget meritsystem og
+friere adgang på eget ansvar.
+Der er da også forskellige initiativer i gang
+bl.a. med at udvikle særlige suppleringsforløb,
+der skal kunne give adgang til videreuddannelse på!bl.a. kandidatniveau. Ministeriet har også
+bedt Rektorkollegiet om at pege på initiativer,
+
+7061
+
+der kan fremme meritoverførsel mellem uddannelsesinstitutionerne og give de studerende
+bedre vejledning om, hvilke meritmuligheder
+der er.
+Det er meget muligt, at disse initiativer ikke
+vil være fyldestgørende og sikre en tilstrækkelig
+smidig adgang til vandring mellem uddannelsesinstitutioner og også niveauer. Vi befinder os
+i den situation, at den fleksibilitet, vi fra politisk
+hold har givet uddannelsesinstitutionerne til at
+beslutte på uddannelsesområdet, samtidig kan
+hindre fleksibilitet på tværs af fag- og institutionsgrænser.
+Jeg vil vurdere de iværksatte initiativer og de
+aktiviteter, som nu er i gang, med hensyn til
+fleksibilitet, og jeg finder dem i hvert fald på
+nuværende tidspunkt tilstrækkelige til at kunne
+vurdere, om vi har nået det, vi gerne vil. Jeg er
+som sagt enig med forslagsstillerne i den del af
+det, og det er noget, vi vil være meget opmærksomme på også i den kommende tid.";Ole Vig Jensen
+123388;name_party;":
+SF og Venstre har fundet sammen og fremsætter
+i fællesskab et beslutningsforslag, der generelt
+handler om placering af videregående uddannelser i tyndere befolkede egne af landet og
+nedbrydning af meritbarrierer og meget specifikt om oprettelse af samfundsvidenskabelige
+bacheloruddannelser ved Sydjysk Universitetscenter.
+Vi er i Socialdemokratiet meget bevidste om
+den betydning, det har for et område og ikke
+mindst et tyndere befolket område, at der er
+vidtfavnende uddannelsestilbud. De unge skal
+gives et reelt uddannelsesvalg, og dette gælder
+også de videregående uddannelser.
+I gamle dage, hvor alle de videregående
+uddannelser var placeret i hovedstaden, var det
+som at bestige et bjerg, hvis man for eksempel
+boede i det, man dengang kaldte det mørke
+Jylland, og gerne ville læse videre.
+I dag har vi en langt bedre geografisk fordeling af uddannelsesinstitutionerne, men der er
+dog fortsat ikke ligestilling geografisk set. Dette
+har blandt andet praktiske og økonomiske
+grunde, men vi skal naturligvis løbende være
+meget opmærksomme på at revurdere disse.
+Det kan være frugtbart at søge inspiration
+også uden for landets grænser, og dagens forslagsstillere er tydeligvis blevet inspireret, da en
+partirepræsentativ gruppe fra Uddannelsesudvalget var på et kortere studiebesøg i Sverige.
+Vi blev her præsenteret for en slags univer-
+
+7062
+
+Fredag den 24. maj 1996 (B 131)
+
+sitetsanneksmodel, en udpræget decentral organisering af de videregående uddannelser.
+Som en opfølgning på Sverigesturen besøgte
+vi dernæst Sydjysk Universitetscenter i Esbjerg.
+Esbjerg er en pænt stor provinsby, men beliggende i et tyndere befolket område, og SUC's
+situation er derfor ikke umiddelbart sammenlignelig med de forhold, vi oplevede i Sverige.
+Tidligere forslag om undervisningstilbud på
+SUC er blevet afvist af Folketinget. Der har her
+været tale om oprettelse af et nyt universitet, og
+denne model er ej heller realistisk i dag. Dette
+udelukker dog ikke, at det kunne være givtigt at
+undersøge, om der kan findes modeller, der på
+anden måde udnytter den ekspertise, der befinder sig på SUC og andre sydjyske institutioner
+på universitetsniveau.
+Vi har ikke i Socialdemokratiet problemer
+med første del af dagens beslutningsforslag, der
+drejer sig om at analysere og undersøge. Vi er
+nemlig godt klar over, at det ud over at tilgodese de unges uddannelsesvalgmuligheder er af
+stor betydning, at områder i Danmark ikke
+affolkes af akademikere, fordi de unge søger
+væk for at tage en uddannelse og ikke vender
+tilbage, bl.a. fordi der ikke eksisterer et akademisk miljø i området.
+Jeg tror ikke, at det ene og alene er af faglige
+grunde, at det er svært at bevæge læger ud til de
+små sygehuse. Omvendt skal man naturligvis
+ikke naivt tro, at man blot ukritisk kan spredstrø
+den videregående uddannelse ud over landet.
+Tilstrækkelige faglige tilbud, et inspirerende
+studiemiljø og det nødvendige befolkningsunderlag er også vigtige faktorer, og disse problemer er der ved tidligere analyser sat fokus på.
+Når vi i dag må udmelde, at vi ikke kan tilslutte os beslutningsforslaget, skyldes det dog
+primært forslagets anden del. Ganske vist
+afslutter forslagsstillerne deres bemærkninger
+med, at oprettelsen af bacheloruddannelser bør
+indgå i udvalgets overvejelser. Men der peges
+helt specifikt på et udstukket mål, nemlig oprettelse af et antal samfundsvidenskabelige
+bacheloruddannelser ved SUC.
+Handelshøjskole Syd har en afdeling i
+Esbjerg, der tilbyder bacheloruddannelser inden
+for samfundsfag og sprog. Der udestår derfor
+overvejelser om, hvorvidt man netop inden for
+disse fagområder bør komme med nye parallelle
+tilbud. Det er ikke nok bare at få den første studerende til at gå ind ad SUC's dør, hvis det i virkeligheden også bliver den sidste.
+
+Vi vil i Socialdemokratiet gerne se åbent på de
+gennembearbejdede udspil, der måtte vise sig i
+tiden fremover, og som kan være med til at forbedre uddannelsestilbud og være til gavn for de
+tyndere befolkede områder af Danmark. Vi melder os som positive medspillere i det videre
+vurderingsarbejde, der forestår, men vi mener,
+at dagens beslutningsforslag kan risikere at skabe flere barrierer, end det kan nedbryde.";Lis Greibe
+127571;name_party;":
+Når venner ser på Danmarks kort, og for den
+sags skyld også andre ser på Danmarks kort,
+opdager man straks, at der i Danmark ikke er
+lige forudsætninger for den geografiske udvikling. Forudsætningeme for udvikling på en
+række områder er efter vores opfattelse særdeles skæve.
+Denne skævhed gælder specielt, når vi ser på
+fordelingen af uddannelsespladser i Danmark,
+og det er netop denne urimelige skævhed, vi
+med dette beslutningsforslag ønsker at sætte
+fokus på.
+Hvis vi f.eks. trækker en linje fra Hirtshals i
+nord til Kruså i syd, vil vi opdage, at vest for
+denne linje findes stort set intet samlet videregående uddannelsestilbud til de unge, der bor i
+denne del af landet. Der findes rent faktisk mange unge i denne del af landet. Det betyder, at
+mange af disse unge tvinges bort fra deres fødeegn, hvis de ønsker en videregående uddannelse.
+Det er der for så vidt intet galt i. Hvorfor er
+det så netop så vigtigt, at det er muligt at gennemføre en videregående uddannelse, og hvorfor er det så vigtigt for en region at kunne tilbyde videregående uddannelser?
+Det er det først og fremmest, fordi alle tal
+viser, at de unge, der tvinges væk for at få en
+videregående uddannelse, ofte ikke vender tilbage. Det har efterfølgende stor negativ effekt
+på eksempelvis besættelsen af en række akademiske stillinger inden for såvel det offentlige
+som det private arbejdsmarked. Disse stillinger
+besættes ganske enkelt ikke, og det er selvsagt
+til stor gene for udviklingen, ikke mindst den
+erhvervsmæssige udvikling. Man kan ligefrem
+sige, at det i mange tilfælde virker som en bremseklods for udviklingen i disse områder.
+Men også den offentlige service rammes af
+dette. Tænk bare på de vanskeligheder, der er
+med at få besat f.eks. lægestillinger i de områder, der ligger langt fra universitetsbyerne.
+Også inden for en lang række andre områder
+
+Fredag den 24. maj 1996 (B 131)
+viser det sig særdeles vanskeligt at tiltrække
+højtuddannet arbejdskraft til regioner langt fra
+de videregående uddannelsesinstitutioner.
+Det skyldes mange forskellige ting, men det
+er et faktum, at en videregående uddannelsesinstitution i mange sammenhænge er en erhvervspolitisk dynamo. Den dynamo mener vi også at
+andre egne end de traditionelle universitetsbyer
+bør have glæde af.
+Regeringen har selv ved flere lejligheder
+påpeget vigtigheden af en veluddannet befolkning. Således har regeringen bl.a. i »Universiteter i vækst« tilbage i juli 1994 beskrevet, hvorledes de eksisterende - jeg understreger de eksisterende - videregående uddannelsesinstitutioner skal udbygges. Vi finder det forkert, at denne udbygning udelukkende skal foregå ved at
+udbygge de eksisterende institutioner. Det vil
+sige, at disse massive offentlige udgifter ikke tilgodeser hele Danmark.
+For Venstre handler det ikke om en udbygning af uddannelseskapaciteten, men derimod
+om en bedre og mere hensigtsmæssig fordeling
+af uddannelsespladserne i Danmark, en fordeling, der i højere grad tilgodeser hele Danmark.
+Endelig har regeringen også senest i den netop offentliggjorte budgetredegørelse påpeget,
+hvor vigtig netop uddannelse er for erhvervsudviklingen i Danmark.
+Uddannelsesudvalget har, som også fru Lis
+Greibe var inde på, for nylig været på en særdeles interessant studietur til Sverige, hvor vi blev
+gjort bekendt med, hvordan man i Sverige med
+stor succes har formået at gennemføre en meget
+vellykket decentralisering af uddannelsessystemet. Det er dog vel at mærke sket, uden at man
+er gået på kompromis med kvaliteten i uddannelsernes indhold. Noget lignende burde vi med
+lige så stor succes kunne gennemføre i Danmark.
+Derfor opfordrer vi som sagt med dette forslag ministeren til at nedsætte et udvalg, der
+skal analysere mulighederne for en bedre synergieffekt af de uddannelses- og også gerne forskningsmæssige institutioner, der allerede findes i
+de tyndt befolkede egne. Herunder ønsker vi, at
+ministeren skal undersøge mulighederne for lettere at kunne få meritoverførsel fra én institution til en anden.
+Det virker på os meget paradoksalt, at det i
+visse tilfælde kan være nemmere at få meritoverførsel fra et studieophold i udlandet, end
+det er at få meritoverførsel fra én dansk institution til en anden. Endelig har vi foreslået, at
+
+7063
+
+ministeren bør optage forhandlinger med Sydjysk Universitetscenter i Esbjerg.
+Men lad mig med det samme slå fast med
+syvtommersøm, at Venstre hermed ikke foreslår, at der skal oprettes noget sjette universitet.
+Jeg vil gerne have lov til at understrege, at det er
+en misforståelse, såfremt det skulle være blevet
+opfattet således. Vi ønsker derimod at åbne op
+for muligheden for, at de institutioner, der findes i området - her kan jeg pege på Handelshøjskole Syd, som også ministeren var inde på, og
+så Sydjysk Universitetscenter - gennem et øget
+samarbejde netop kan varetage et samlet tilbud
+eller udbud af videregående uddannelsespladser i Vestjylland.
+Men jeg kan se, at knappen lyser, så lad mig
+slutte med at takke ministeren for anerkendelsen af, at det trods alt er vigtigt at sikre, at der er
+fleksibilitet og effektivitet i uddannelsessystemet, hvilket jo også er et af de andre punkter i
+vores beslutningsforslag.
+(Kort bemærkning).";Ulla Tørnæs
+132754;name_party;":
+Når fru Ulla Tørnæs har gjort sig den ulejlighed
+at lave et beslutningsforslag om videregående
+uddannelser i tyndt befolkede egne af landet og
+i beslutningsforslaget remser forskellige områder af Danmark op - i Jylland og på Sjælland kan jeg undre mig lidt over, at fru Ulla Tørnæs
+ikke har gjort sig den ulejlighed at kontakte sine
+partikolleger rundt omkring i landet. Jeg er bl.a.
+vidende om, at Venstres amtsborgmester på
+Bornholm har et stort ønske om at lave et universitet på Bornholm a la en model fra Gotland.
+Man har nemlig også på Bornholm været på
+udlandsrejser, men Venstre mener måske ikke,
+at Bornholm har brug for en bedre forsyning af
+videregående uddannelser?
+(Kort bemærkning).";Eva Fatum
+133468;name_party;":
+Mig bekendt er fru Eva Fatum medlem af Socialdemokratiet. Jeg ved ikke, om jeg skal forstå
+dette her som en underkendelse af Socialdemokratiets ordførertale, som vi har hørt tidligere,
+eller om det skulle forstås som et personligt indlæg, men jeg har da bestemt ikke noget imod,
+hvis man kunne samarbejde med en anden
+uddannelsesinstitution, at også Bornholm kunne
+komme ind i denne sammenhæng.
+Den række af områder, der er nævnt i beslutningsforslaget, er på ingen måde udtømmende,
+men det er vigtigt, at der er en række forudsæt-
+
+7064
+
+Fredag den 24. maj 1996 (B 131)
+
+ninger, som er opfyldt, og det er da selvfølgelig
+først og fremmest, at det ikke går ud over kvaliteten i de uddannelsestilbud. Så hvis man på
+Bornholm på en eller anden måde kunne lave et
+samarbejde med - ja, det mest nærliggende ville
+måske være Københavns Universitet, men
+måske også en anden videregående uddannelsesinstitution af de eksisterende, er jeg bestemt
+åben over for det. Og det har absolut intet at
+gøre med, hvad Knud Andersen på Bornholm
+måtte mene om det.";Ulla Tørnæs
+134537;name_party;":
+Jeg skal prøve at gøre det rimelig kort. Det Konservative Folkeparti er positivt indstillet over for
+den første del af forslaget om at koordinere de
+videregående uddannelser, om at sørge for, at
+der er sammenhæng og fleksibilitet i tingene og
+om at nedbryde de barrierer, der måtte være
+med hensyn til meritoverførsel, for at få et mere
+smidigt uddannelsessystem. Der er jo allerede,
+som ministeren sagde det, tiltag i gang, men
+som sagt er vi klart positive over for det.
+Men når man i første del af forslaget taler om
+de tyndt befolkede egne, så må jeg minde om, at
+Danmark jo ikke er noget stort land, og når man
+i lovforslagets bemærkninger henviser til Sverige og Norge, jamen herre gud, det er jo nogle
+kæmpemæssige lande i udstrækning, og de er
+meget tyndt befolkede over meget store egne.
+Det er de øvrige nordiske lande i det hele taget.
+Vi er specielle i den henseende. Vi er et tæt
+befolket land, og i de områder af Danmark, hvor
+der er tyndtbefolket, skal man jo kun køre en
+halv time eller tre kvarter f.eks. på de jyske
+motorveje, som der er rigeligt af - trafikken er
+der ikke så meget af, så det går hurtigt dér - så
+er man på Odense Universitet eller Aarhus Universitet, så problemet med hensyn til uddannelsesinstitutioner i tyndt befolkede egne er altså et
+problem, som jeg ikke synes vi skal bruge alt for
+megen tid på her i Folketinget.
+Dermed er jeg ovre i forslagets anden del,
+som går ud på at optage forhandlinger med
+Sydjysk Universitetscenter om oprettelse af et
+antal bacheloruddannelser inden for det samfundsvidenskabelige område. Her har jo altså en
+underafdeling af den jyske mafia slået til, og jeg
+er lige ved at sige, at jeg også ønsker et universitet oprettet på Nørrebro - det er dér, hvor jeg er
+valgt - og i øvrigt, hvad med Ærø og med Samsø og med Læsø? Der er mange steder, vi kan
+lave uddannelsesinstitutioner. Man skulle tro, at
+det var SF's afdeling af forslaget, men det er vist
+
+nok Venstres, og jeg synes, at det er en lille smule - ja, komisk.
+Så vi er velvillige over for første del af forslaget, uden at vi dog på forhånd vil tilslutte os, at
+der skal nedsættes et udvalg på området, men
+det er klart, at der skal være en bedre koordinering og sammenhæng i uddannelserne. Den
+anden del synes vi ikke om.
+(Kort bemærkning).";Frank Dahlgaard
+136827;name_party;":
+Jeg er ked af at måtte sige til den konservative
+ordfører, hr. Frank Dahlgaard, at han stort set
+ikke har forstået indholdet af dette forslag, men
+lad nu det være.
+Når så hr. Frank Dahlgaard bl.a. sammenligner med Sverige, vil jeg bare gøre hr. Frank
+Dahlgaard opmærksom på, at det faktisk er i
+Sydsverige, man har formået at lave disse satellituniversiteter i tilknytning til andre universiteter, og mig bekendt er Sydsverige meget sammenlignelig med danske forhold, hvad angår
+befolkningstætheden.
+Så nævner hr. Frank Dahlgaard, at han er
+valgt på Nørrebro og da gerne vil have et universitet på Nørrebro. Men dér vil jeg så bare
+gøre hr. Frank Dahlgaard opmærksom på, at det
+har han stort set allerede i dag, så jeg kan ikke
+forstå, hvis han vil have yderligere et universitet. Så jeg er meget uforstående over for det.
+Men mig bekendt ligger en række af Københavns Universitets institutter særdeles tæt på
+Nørrebro. Det handler bl.a. om Institut for
+Legemsøvelser, det handler i og for sig også om
+Panuminstituttet, som ganske vist ligger på
+grænsen mellem Østerbro og Nørrebro, men
+altså, jeg er ked af at sige til hr. Frank Dahlgaard, at det krav tror jeg nok allerede er
+opfyldt for hr. Frank Dahlgaards vedkommende.
+(Kort bemærkning).";Ulla Tørnæs
+138092;name_party;":
+Jeg skal ikke forlænge debatten, men det er da
+rigtigt nok, at der ligger uddannelsesinstitutioner tæt på Nørrebro, men store dele af dagen er
+trafikken så tæt, at det tager stort set den samme
+tid at komme fra Nørrebro til uddannelsesinstitutionerne, som det tager at komme fra fru Ulla
+Tørnæs' såkaldte tyndtbefolkede egne af Sønderjylland og så til uddannelsesinstitutionerne
+på Fyn og i Århus. Det er realiteten.
+Derfor er det et pjattet forslag, og vi skal ikke
+have flere universiteter. Jeg tror, jeg har forstået
+budskabet i det forslag.
+
+Fredag den 24. maj 1996 (B 131)
+(Kort bemærkning).
+Ulla Tømæs (V):
+Jeg må endnu en gang med beklagelse konstatere, at hr. Frank Dahlgaard tilsyneladende ikke
+har forstået forslaget. Jeg sagde oven i købet
+også i min ordførertale, at det netop ikke handler om at oprette yderligere et universitet. Det
+handler om at skabe mulighederne for at tilgodese visse egne af landet, som ikke har de samme muligheder, som man har på Nørrebro, og
+det gælder i øvrigt både trafikmæssigt og
+uddannelsesmæssigt, som er det, vi taler om
+her, så lad os nu holde os til det.
+Det handler netop om at skabe muligheder,
+lige muligheder i Danmark for unge mennesker,
+og det handler også i høj grad om erhvervsudviklingen i en række egne af Danmark, som ikke
+bliver tilgodeset med den nuværende fordeling
+af uddannelsespladser.
+Elisabeth Amold (RV):
+Jeg skal på Det Radikale Venstres vegne, da
+vores ordfører ikke kan være til stede i øjeblikket, komme med en høflig, men venlig og
+bestemt afvisning af beslutningsforslaget.
+Jeg vil godt knytte et par kommentarer til forslagets tekst for at forklare fru Ulla Tørnæs, at
+jeg har læst og forstået forslaget.
+Men indledningsvis vil jeg sige, at det da var
+godt, at fru Ulla Tørnæs sagde, det ikke var
+meningen at oprette et nyt universitet, for den
+tidligere undervisningsminister fra Venstre,
+som jo sad i mange år, var jo indædt imod, at
+der var så mange forskellige universiteter i landet, og ville faktisk gerne nedlægge nogle af
+dem, der allerede var, fordi han mente, at det
+var dårlig ressourceanvendelse at have så mange uddannelsessteder.
+Derfor vil jeg godt tage udgangspunkt i det,
+der står i pkt. 1 a) i dette beslutningsforslag. Der
+står, at man vil have en bedre koordinering med
+henblik på en bedre ressourceanvendelse. Jeg
+tror, hvis man kiggede fuldstændig ressourceteknisk på det og overhovedet ikke på andre
+ting, at det formentlig ville være nok - landets
+størrelse taget i betragtning osv. - at have tre
+universiteter i Danmark og overhovedet ikke
+andet. Så kunne man nedlægge en del af de
+øvrige uddannelsesinstitutioner for mellemlange uddannelser, som lå rundt omkring, og centralisere dem yderligere - så man kun så på det.
+Men vi har jo i Danmark været interesseret i
+at sprede uddannelsesmulighederne ud også til
+
+7065
+
+egne, som ikke havde store uddannelsesinstitutioner i forvejen.
+Jeg savner derimod et par bemærkninger om
+begrebet talentudnyttelse. Jeg synes, det ville
+være mere interessant at tage med i betragtning,
+at der måske er unge, som gerne vil have en
+uddannelse, som ikke orker at tage ret langt
+væk fra dér, hvor de bor, og som ikke har
+mulighed for det. Og det kunne være en vinkel,
+som jeg ville være mere lydhør over for, i stedet
+for det med ressourceanvendelsen, for det er
+klart, at det er dyrt at have et meget decentralt
+uddannelsessystem, men det giver en bedre
+talentudnyttelse, fordi alle, der har talent til at få
+en uddannelse, ikke vil blive stillet urimeligt
+ringe.
+Så fra Det Radikale Venstres side kan vi sige,
+at vi faktisk mener, der er en ret god spredning
+af uddannelsesinstitutioner i landet, og det skal
+ikke være for de tyndt befolkede egnes
+erhvervslivs skyld, at vi opretter uddannelsesinstitutioner i de pågældende byer. Det skal
+være for at give de unge en mulighed for at få
+en uddannelse, og det mener jeg faktisk vi har
+tilgodeset ret godt, som fordelingen er nu.
+Men når det er sagt, vil jeg selvfølgelig sige, at
+vi da er klar over, at en bedre koordinering og
+mulighed for at kombinere deluddannelser fra
+nogle steder med deluddannelser fra andre steder selvfølgelig i så vidt omfang som muligt
+skal etableres, så man kan udnytte alle de
+muligheder, der er også i lokalområdet, for at få
+dele af en uddannelse.
+Til sidst vil jeg godt sige noget pænt om Sydjysk Universitetscenter, som det jo er lykkedes
+at skabe en fin profil, gode forskningsmæssige
+resultater og et meget godt renommé, og jeg
+synes i hvert fald ikke, det skal komme dem til
+last, at der ikke bliver oprettet disse samfundsvidenskabelige bacheloruddannelser her. Det er
+et godt arbejde, der foregår på Sydjysk Universitetscenter, men yderligere uddannelser tror jeg
+ikke vil løse de problemer, der er i lokalområdet.
+(Kort bemærkning).";Frank Dahlgaard
+142868;name_party;":
+Jeg vil bare sige til fru Elisabeth Arnold, at ressourceanvendelse jo godt kan være på en anden
+måde. Når man allerede har institutioner, f.eks. i
+Esbjerg, så kan de jo ved at arbejde sammen i
+virkeligheden være med til at skabe nogle miljøer på tværs, og det, vi taler om, er jo netop nogle
+af de uddannelser, der findes mange steder i
+
+7066
+
+Fredag den 24. maj 1996 (B 131)
+
+landet. Hvorfor skal de så alle sammen hobe sig
+sammen i København, når der allerede er og kan
+blive miljøer andre steder i landet?
+Der er ikke tale om, at vi vil klatte noget
+rundt, men det kunne jo godt tænkes, at man
+ved at tænke, som man har gjort i Sverige,
+måske kan opnå nogle helt andre ting, end vi
+har tænkt i Danmark, og det er netop den svenske model, som vi meget gerne vil have undersøgt.";Hanne Severinsen
+143668;name_party;":
+Da mit partis ordfører desværre ikke kan være
+til stede, skal jeg prøve at fremføre, hvad Fremskridtspartiet mener om dette udmærkede forslag.
+Til pkt. 1 a): Vi er, som så mange andre har
+sagt det, fuldstændig enige i, at en yderligere
+koordinering og fleksibilitet kun kan være af det
+gode, og det er der jo heldigvis heller ingen der
+er uenige i.
+Til pkt. 1 b): Det handler om, at man skal kunne lave en mere smidig meritoverførsel mellem
+uddannelsessystemerne. Deri er vi et hundrede
+procent enige, og jeg er da også glad for, at
+undervisningsministeren allerede har givet sit
+tilsagn til disse to ting.
+Så kommer det, som alle springer vældig
+over, og det er selvfølgelig optagelse af forhandlinger med Sydjysk Universitetscenter om
+oprettelse af et antal bacheloruddannelser inden
+for det samfundsvidenskabelige fagområde. Jeg
+har været meget glad for at lytte til, hvad der er
+blevet sagt, for det står ikke helt lysende klart i
+beslutningsforslaget, hvad det er, Venstre og SF
+har ment med dette her, men når der er tale om
+den, som det blev udtrykt, satellituniversitetsagtige måde, hvor man ikke skal bruge øgede
+ressourcer og lignende, men hvor man faktisk
+skal bruge de ressourcer, man har, men bare
+udnytte dem bedre, så kan jeg ikke se andet, end
+at vi i Fremskridtspartiet er meget, meget positive over for denne indstilling. Selvfølgelig skal
+der også være mulighed for, når man bor i det
+syd- og sønderjyske, at kunne videreuddanne
+sig.
+Hånden på hjertet, så er en bacheloruddannelse en pragtfuld uddannelse, men de er altså
+stadig væk unge. Det er jo ikke uddannelsessøgende i så høj en alder, der i virkeligheden når
+dertil. Så jeg synes, at der kan ligge meget,
+meget positivt i, at de ikke absolut skal verfes til
+Århus eller København.
+
+Hr. Frank Dahlgaard kan jeg hilse og sige, at
+det tager mere end en halv time at køre fra
+Esbjerg til Odense eller Århus for slet ikke at
+tale om København, altså medmindre man flyver med 250 km i timen hen over de veje, hvilket
+jeg ikke vil tilråde hr. Frank Dahlgaard, for man
+har også opfundet politiet på de strækninger
+dér.";Annette Just
+145773;name_party;":
+Enhedslisten kan i altovervejende grad støtte
+det fremsatte beslutningsforslag. Vi finder overvejelserne om koordinering af de videregående
+uddannelser rundt om i landet fornuftige. Der er
+flere steder uden for de større byer behov for et
+uddannelsesmæssigt løft.
+Enhedslisten finder det dog vigtigt, at eventuelle sammenlægninger ikke presses ned over
+enkelte institutioner. Med hensyn til, hvilket
+niveau et eventuelt nyt regionalt uddannelsescenter skal tilbyde, mener vi, at man bør være
+opmærksom på, hvorvidt man opretter B-institutioner, der alene fører frem til et bachelorniveau. Inden for mange universitetsfag har
+bacheloruddannelsen vist sig at føre ind i
+beskæftigelsesmæssige blindgyder.
+Enhedslisten er enig med forslagsstillerne i, at
+det vil være en god idé at bruge den samfundsfaglige ekspertise, der igennem årene er opbygget på Sydjysk Universitetscenter, ved at lade
+universitetscentret optage studerende. Men jeg
+mener som sagt, at der bør ske en videre drøftelse af, hvorvidt det vil være hensigtsmæssigt
+alene at tilbyde bacheloruddannelse på SUC.
+Det er en god idé at analysere mulighederne
+for at forbedre de videregående uddannelser,
+bl.a. med hensyn til meritoverførsel og lignende.
+I det nuværende system kan det ofte være svært
+for studerende at få overført merit fra én institution til en anden, da den enkelte institution kan
+have en tendens til alene at opfatte institutionens eget faglige program som det eneste
+anvendelige.
+Enhedslisten finder det tilfredsstillende, at
+man i et analysearbejde forsøger at angive en ny
+balance mellem den faglige kompetence, der er
+vigtig i de videregående uddannelser, og en
+fleksibilitet til gavn for den enkelte uddannelsessøgende.
+Men som udgangspunkt er vi positive over
+for det fremsatte beslutningsforslag.
+
+Fredag den 24. maj 1996 (B 131)";Bruno Jerup
+147610;name_party;":
+I CD mener vi, at der er fornuftige ting i SF's og
+Venstres fælles beslutningsforslag. F.eks. bedre
+muligheder for meritoverførsel og tanken om
+mere smidighed i systemet kan vi gå ind for.
+Men modsat er det bestemt ikke CD's opfattelse, at der er plads til flere universiteter i et
+land på Danmarks størrelse. Forslaget om i første omgang at lade Sydjysk Universitetscenter
+uddanne inden for samfundsfagene til bachelorniveau går vi ikke ind for.
+Der er formentlig ingen tvivl om, at der fremover vil komme en løbende debat om universitetsstrukturen, og ser vi lidt ud i fremtiden og
+tager hensyn til stigende internationalisering og
+voksende konkurrence om at tiltrække de bedste forskere, tror jeg, at det kan blive helt andre
+mønstre, der skal diskuteres. I hvert fald må der
+ikke ske nogen udtynding af forskningsressourcerne, hverken når det gælder penge eller personer.
+Kandidatniveauet og kvaliteten i de videregående uddannelser må under ingen omstændigheder forringes, tværtimod. Også af den
+grund tror jeg, at man skal afholde sig fra drømmerier om decentralisering og fra at åbne for
+den slags amputerede uddannelsesinstitutioner
+på universitetsområdet.
+Endelig er det da også en bagvendt tankegang at ville uddanne flere bachelorer for at finde ud af, om de kan bruges. Bemærkningerne
+taler ligefrem om at opdyrke et arbejdsmarked
+for dem ad den vej. I mine ører lyder det kunstigt. Det normale er vel, at det er arbejdsmarkedets behov, der styrer efterspørgslen på uddannelser, og ikke omvendt.
+CD kan ikke støtte forslaget.";Addi Andersen
+149168;name_party;":
+Hvis ikke jeg hørte helt forkert, så fik jeg det
+indtryk, at fru Addi Andersen var inde på, at
+der skulle bygges et universitet mere. Sådan forstod jeg det i hvert fald, og det går forslaget i
+hvert fald ikke ud på. Nå, lad det ligge.
+Når det er sagt, synes jeg da, at der er nogle
+gode intentioner i dette her, men jeg må så sige
+- ikke for at gøre fru Ulla Tørnæs ked af det - at
+jeg måske ikke lige synes, at det er en sag for
+Folketinget at beskæftige sig med.
+Vi har en universitetspolitik her i Danmark,
+der er lagt overordnet, og som Folketinget har
+lagt, og vi har ministre osv., der sørger for inden
+for de rammer, der er lagt, at se på disse ting.
+Hvis der er mulighed for inden for eksisterende
+
+7067
+
+lovgivning at gøre nogle af de ting, der står i
+forslaget, så går jeg ud fra, at enhver ansvarlig
+minister vil sørge for, at det sker fyldest.
+Jeg har også nogle store ønsker omkring
+Ringsted, hvor jeg bor, men jeg har altså ikke
+nogen planer om at fremsætte nogen konkrete
+lovforslag om det. Jeg vil hellere prøve at se lidt
+bredere på det.
+Så støtte forslaget vil jeg ikke sige at jeg kan,
+for jeg synes, at dette forslag er lidt for lokalt.
+Selv om jeg godt kan se nogle rigtige intentioner
+i det, synes jeg nok, vi må se det i et lidt større
+perspektiv i relation til alt det, der foregår
+omkring vores universiteter og de afdelinger, de
+har rundt omkring. Jeg må gå ud fra, at de inden
+for de økonomiske rammer, der er stillet til
+rådighed, også søger at imødekomme sådan
+nogle ting, hvis der er behov for det. Der skal
+ses sådan lidt afbalanceret på denne sag, tror
+jeg.";Poul Nødgaard
+150784;name_party;":
+Der har været talt en del om, hvor stort vores
+land egentlig er. Det er jo rigtigt, at vi da ikke er
+så spredt som i Norge og Sverige, og der er da
+ikke så langt fra Holstebro til Århus og Aalborg
+eller fra Maribo til Roskilde og København.
+Men erfaringerne viser nu, at der faktisk er så
+stor afstand, at der er væsentlig færre i de tyndt
+befolkede egne, der faktisk får en uddannelse.
+Enhver erfaring viser, at en lokal uddannelsesinstitution giver en bedre udnyttelse af talentmassen - for at bruge fru Elisabeth Arnolds
+udtryk.
+En anden erfaring er, at hvis folk f.eks. fra
+Holstebro begynder at læse i Århus eller Aalborg, ja, så flytter de fornuftigvis dertil - det vil
+jeg da også råde dem til - men så er tendensen
+altså også, at når de har gået der en årrække, så
+har de fået venner og har etableret sig i byen, og
+så vender de ikke tilbage. Derfor er erfaringen
+også, at såvel private som offentlige arbejdsgivere i de tyndt befolkede egne har langt sværere ved at få uddannet arbejdskraft. Det synes
+jeg også vi skal se på. Selv om der var nogle, der
+syntes, det ikke var et problem, opfatter jeg, at
+det er det.
+Derfor mener jeg, at det er et godt formål at se
+på: Kan vi sprede vores uddannelsestilbud lidt
+bedre, end de er i forvejen? De områder, vi taler
+om, der har store problemer, er, som det har
+været sagt - det står også i forslaget - MidtVestjylland, Lolland-Falster og Sydsjælland og
+endelig det sydlige Jylland. Bornholm blev også
+
+7068
+
+Fredag den 24. maj 1996 (B 131)
+
+nævnt, og når vi ikke har nævnt det i beslutningsforslaget, er det ikke, fordi vi ikke kan lide
+Bornholm eller Samsø, men det er et spørgsmål
+om, at befolkningsgrundlaget er mindre. Derfor
+tror jeg også, vi skal se på Bornholm, det skal
+udvalget også gøre, men det kan ikke være helt
+samme model i et område med Y2million indbyggere som i et område med 50.000 indbyggere. Der er ikke basis for det samme, det må man
+se i øjnene med det samme.
+Hvad angår det sydlige Jylland, så står de jo i
+en særlig situation. For det første har de faktisk
+et universitet, nemlig HHS, en af de 12 institutioner, der har lov til at kalde sig universitet, og
+det er en forskningsbaseret ph.d.-givende institution. Men lad os begrænse os til det erhvervsøkonomiske og erhvervssproglige område. Så
+har de SUC, som er en forskningsinstitution,
+som er bred, men som altså ikke må uddanne
+studenter, men de har nogle forudsætninger,
+der burde udnyttes lidt bedre, end de udnyttes i
+dag. Det gælder for så vidt også de andre områder, der er nævnt.
+Der findes mange uddannelsesinstitutioner
+både i Midt- og Vestjylland, i Sydsjælland og på
+Lolland-Falster, men problemet er, at de alle
+sammen er specialiserede. Derved kommer vi
+ind på det problem, som ministeren nævnte som
+argument mod forslaget: Vi har de dér specialiserede institutioner - hvad så, når søgningen
+f.eks. til handelshøjskolerne falder, som den gør
+i disse år? Jà, det naturlige ville være, hvis vi
+havde en bredere institution, at så flyttede man
+de lærerressourcer, der er, derover, hvor der er
+større søgning, for at prøve at udnytte de lærerressourcer, de kræfter, man nu har, til at give
+den uddannelse, der nu efterspørges. Det kan vi
+ikke: HHS er begrænset til at udbyde handelsskoler, højskoler, og det samme er handelshøjskoleafdelinger i Slagelse og i Herning osv.
+Ingeniørskolerne kan uddanne ingeniører, og
+lærerseminarierne kan uddanne lærere.
+Det gode ville være at prøve at se de ressourcer, vi har, i sammenhæng, for det er det, der er
+intentionen i forslaget. Det er ikke at åbne et
+sjette universitet eller at åbne en hel masse
+andre universiteter rundt omkring i landet: det
+er at sikre en bedre uddannelsesforsyning for
+landets borgere, også i tyndt befolkede egne,
+uden at sprede forskningsressourcerne og ved
+bedst mulig udnyttelse af de kræfter, vi har i
+fdrvejen, ved bedre samarbejde.
+' Hr. Bruno Jerup var inde på, at det ikke skal
+presses ned over hovederne på institutionerne.
+
+Det synes jeg heller ikke det skal, men jeg tror,
+det ville være godt, hvis der var nedsat sådan et
+udvalg, der kunne komme med forslag, gå ind i
+en dialog med de lokale om: Hvad gør vi?
+Måske var det en idé at sammenlægge det her
+teknikum, det her seminarium, den her handelshøjskoleafdeling, den dér terapeutskole osv. og
+lave noget nyt, der dels kan udbyde uddannelse
+inden for alle de områder, dels kan imødekomme nye behov og flytte vægten mellem de forskellige grene, efterhånden som efterspørgslens
+behov svinger. Det er det, der er intentionen.
+Jeg skal i øvrigt sige, at lige præcis når vi taler
+om Handelshøjskole Syd og SUC, er der jo et
+samarbejde i gang - der er faktisk planer om en
+sammenlægning. Jeg håber i øvrigt, at vi når til
+en sammenlægning mellem HHS og SUC og de
+andre institutioner, der er inde i billedet, først
+og fremmest social- og højskoler, så vi får et
+universitet - et bredt universitet - i det sydjyske
+område.
+Det er ikke intentionen, at vi alene vil lave
+SUC til et sjette traditionelt universitet, uden at
+det indgår i en større enhed, for der kommer
+ikke to universiteter i det sydjyske område. Som
+bekendt har vi i dag 12 institutioner i Danmark,
+12 universiteter i Danmark, hvoraf de syv godt
+nok ligger i Storkøbenhavn, og fem er spredt
+ude i landet, herunder et i det sydlige Jylland.
+Der kommer ikke to i det sydlige Jylland, sådan
+har jeg hørt alle ordførerne, at det er vi enige
+om, og det er jeg glad for.
+Så har jeg en bemærkning til ministeren, som
+misforstod forslaget på nogle punkter. Jeg har
+argumenteret imod, at han brugte nogle af de
+argumenter, som for mig er argumenter for forslaget, imod forslaget, netop at vi har de specialiserede institutioner. Jeg håber, vi kan blive enige om i udvalget at skrive en beretning om, at
+det nok er en god idé at kigge nærmere på det,
+for selve den grundlæggende problemstilling
+mener ministeren jo også var der.
+Fru Lis Greibe gentog naturligvis nogle af de
+ting, ministeren har sagt - det er naturligt - men
+jeg forstod, at fru Lis Greibe ville være en positiv medspiller i udvalget, det skrev jeg ned. Det
+er jeg glad for, og jeg håber, vi kan nå frem til en
+eller anden form for beretning, der kan bruges i
+det videre arbejde med at sørge for en bedre
+dækning.
+Til hr. Frank Dahlgaard: Jeg har kommenteret
+det! dér med det tyndt befolkede. Jeg har lige en
+bemærkning om, hvem der er fædre og mødre
+til det dér med SUC. Det, der skete, er såmænd
+
+Fredag den 24. maj 1996 (B 131)
+rent historisk, at Venstre læste SF's universitetsog forskningspolitiske program og opdagede, at
+der var ting, vi var fælles om. Og jeg kan da kun
+råde hr. Frank Dahlgaard til at lave samme
+øvelse. Det viser sig - og det gælder forhåbentlig også hr. Frank Dahlgaard - at det bliver man
+ikke dummere af: der står mange gode ting dér.
+Fru Elisabeth Arnold har jeg sådan set svaret
+indirekte. Hun kom med en høflig afvisning,
+men så nævnte hun en hel masse ting, der i virkeligheden imødekom forslaget, så jeg opfatter
+også, håber da også, at Det Radikale Venstre vil
+være en positiv medspiller, ligesom Socialdemokraterne lovede at være det.
+Fru Annette Just var overvældende positiv,
+og det gjaldt også hr. Bruno Jerup, der dog var
+modstander af, at man åbnede uddannelser
+inden for bachelorer.
+Når vi har begrænset SUC's muligheder for at
+give basisuddannelser, er det netop, fordi vi
+ikke vil åbne en trettende universitetsinstitution
+i Danmark. Vi vil åbne en mellemlang uddannelse i det håb, at der ud fra den institution og
+fra HHS, og hvad der i øvrigt findes, vil opstå et
+nyt egentligt universitet, så vi får et bredt universitet i det sydjyske område. Men det bliver så
+den tolvte institution: vi får ikke en trettende
+institution, et trettende universitet, ikke med
+vores vilje -12 universiteter er nok i Danmark.
+Fru Addi Andersen var meget afvisende, men
+havde også misforstået det, for bemærkningen
+om, at der ikke er plads til flere universiteter, er
+jeg fuldkommen enig i: vi skal ikke have en
+udtynding af forskerressourcerne osv. Så jeg er
+såmænd enig i de argumenter, hun brugte om
+forslaget: jeg kan bare ikke se, det rammer vores
+forslag.
+Hr. Poul Nødgaard var positiv, sådan forstod
+jeg det, i hvert fald over for intentionerne, så vi
+forventer også et positivt medspil fra dem.
+Det har været væsentligt både for SF og Venstre ikke at at gøre forsøg på at skrue et flertal
+sammen mod regeringen: det er ellers fristende
+for oppositionspartier. Det gør vi også en gang
+imellem, og det kunne vi da godt have forsøgt
+ved at spørge: Hvad vil Det Konservative Folkeparti, hvad vil Enhedslisten osv.? Derefter kunne vi tælle mandater og nå op på 90. Det har vi
+helt bevidst undladt at gøre, for vi synes, at den
+her sag trænger mest til en åben dialog.
+Der var så mange ordførere, der var åbne
+over for mange af intentionerne i forslaget, at vi
+kan se frem til en fortsat god dialog i Uddannelsesudvalget og forhåbentlig på et eller andet
+
+7069
+
+tidspunkt skrive en meningsfuld beretning, der
+kan tage fat på det, som i hvert fald de fleste
+ordførere opfatter som et problem, nemlig forsyningen af uddannelsesmuligheder i de tyndere befolkede egne af landet.
+(Kort bemærkning).";Kjeld Rahbæk Møller
+159915;name_party;":
+Nu nævnte hr. Kjeld Rahbæk Møller, at der allerede er ganske kraftige initiativer i gang ovre i
+det sydvestjyske ved Sydjysk Universitetscenter, Handelshøjskole Syd og Den Sociale Højskole. Jeg kunne da godt tænke mig at høre, om
+ministeren her i dag vil komme med en kommentar til det, der foregår. Hvad er regeringens
+og ministerens holdning til de forskellige initiativer, der er taget på lokalt plan derovre?";Ulla Tørnæs
+160370;title_name;":
+Jeg vil ikke tage stilling til de konkrete ting, men
+jeg har faktisk selv bidraget til, at man i det
+område søger et tættere samarbejde og søger at
+koordinere og bruge de ressourcer, man har til
+rådighed, maksimalt. Jeg har i øvrigt haft gode
+drøftelser med repræsentanter fra det sydjyske
+område også fra de institutioner, der netop er
+nævnt her. Så det kan jeg sådan set kun bekræfte.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling vedtoges uden afstemning.";Ole Vig Jensen
+160888;title_name;"Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Uddannelsesudvalget. Hvis ingen
+gør indsigelse mod dette forslag, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+
+Meddelelser fra formanden";Formanden
+161116;title_name;"Der er ikke mere på dagsordenen.
+i
+Der I er foretaget ændringer i følgende udvalg:
+
+7070
+
+Fredag den 24. maj 1996
+
+Sundhedsudvalget (22/ 5 96):
+Udtræder: Martin Glerup (S)
+Ny stedf.: Dorte Bennedsen (S)
+Erhvervsudvalget (23/ 5 96):
+Udtræder: Jens Hald Madsen (V)
+Ny stedf.: Kristian Thulesen Dahl (DF)
+Uddannelsesudvalget (23/5 96):
+Udtræder: Poul Nødgaard (DF)
+Nyt medl.: Kristian Thulesen Dahl (DF)
+Udtræder: Anne-Marie Meldgaard (S)
+Nyt medl.: Tom Behnke (FP).
+Udtræder: Tom Behnke (FP)
+Ny stedf.: Anne-Marie Meldgaard (S)
+Uddannelsesudvalget (24/5 96):
+Udtræder: Kristian Thulesen Dahl (DF)
+Nyt medl.: Poul Nødgaard (DF)
+
+Erhvervsudvalget (24/5 96):
+Udtræder: Kristian Thulesen Dahl (DF)
+Ny stedf.: Jens Hald Madsen (V)
+Folketingets næste møde afholdes tirsdag den
+28. maj 1996 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte ugeplan.
+Mødet hævet kl. 13.03";Formanden

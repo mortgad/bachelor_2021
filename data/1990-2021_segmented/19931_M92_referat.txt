@@ -1,0 +1,3096 @@
+split;reason;text;value
+0;;"11595
+
+20/5 94: Dagsorden
+
+92. møde";
+69;Time;"Dagsorden:
+1) Tredje behandling af lovforslag nr. L 223:
+Forslag til lov om ændring af kildeskatteloven m.v. (Finansieringsgaranti for 1994 og ophævelse af finansieringsgaranti for 1992).
+Af indenrigsministeren (Birte Weiss).
+2) Tredje behandling af lovforslag nr. L 224:
+Forslag til lov om kommunal udligning og
+generelle tilskud til kommuner og amtskommuner.
+Af indenrigsministeren (Birte Weiss).
+3) Anden (sidste) behandling af beslutningsforslag nr. B 23:
+Forslag til folketingsbeslutning om nedbringelse af ventetider for hjertepatienter, der er visiteret til operation.
+Af Jørgen Winther (V) m.fl.
+4) Anden (sidste) behandling af beslutningsforslag nr. B 88:
+Forslag til folketingsbeslutning om garanti
+for ventetid på maksimalt tre måneder på permanente plejehjemspladser.
+Af Kirsten Jacobsen (FP) m.fl.
+5) Anden behandling af lovforslag nr. L 171:
+Forslag til lov om ændring af lov om landbrugsejendomme.
+Af landbrugsministeren (Bjørn Westh).
+6) Anden behandling af lovforslag nr. L 172:
+Forslag til lov om ændring af lov om statsgaranti og rentetilskud m.m. ved udlån til yngre
+jordbrugere.
+Af landbrugsministeren (Bjørn Westh).
+7) Anden behandling af lovforslag nr. L 244:
+
+11596
+
+Forslag til lov om ændring af lov om social
+pension, lov om social bistand og den sociale
+styrelseslov m.v. (Tilkendelseskompetence
+m.v.).
+Af socialministeren (Yvonne Herløv Andersen).
+8) Anden behandling af lovforslag nr. L 245:
+Forslag til lov om sociale ydelser på Færøerne.
+Af socialministeren (Yvonne Herløv Andersen).
+9) Anden behandling af lovforslag nr. L 246:
+Forslag til lov om ændring af lov om delpension. (Ændringer som følge af indførelse af
+delefterløn m.v.).
+Af socialministeren (Yvonne Herløv Andersen).
+10) Anden behandling af lovforslag nr. L 108:
+Forslag til lov om ændring af lov om apoteksvirksomhed. (Større fleksibilitet i apoteksstrukturen, oprettelse af sygehusapotek m.m.).
+Af sundhedsministeren (Torben Lund).
+11) Anden behandling a f lovforslag nr. L 230:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension og lov om
+Lønmodtagernes Dyrtidsfond. (Investeringsgrænser).
+Af arbejdsministeren (Jytte Andersen).
+12) Anden behandling af lovforslag nr. L 248:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. (Indførelse af delefterløn m.v.).
+Af arbejdsministeren (Jytte Andersen).
+
+Meddelelser fra formanden:";kl. 10.00
+2462;title_name;":
+Socialministeren (Yvonne Herløv Andersen) har meddelt mig, at hun ønsker skriftligt
+at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand.
+(Lovforslag nr. L 261).
+
+11597
+
+20/5 94: Meddelelser fra formanden";Ivar Hansen
+2705;title_name;"Undervisningsministeren (Ole Vig Jensen)
+og arbejdsministeren (Jytte Andersen) har
+meddelt mig, at de ønsker i henhold til forretningsordenens § 19, stk. 4, at give Folketinget
+en skriftlig
+Redegørelse om voksenuddannelse.
+(Redegørelse nr. 21).
+Eksemplarer vil blive omdelt, og redegørelsen vil blive optaget i Folketingstidende.
+Socialministeren (Yvonne Herløv Andersen) har meddelt mig, at hun ønsker at tage
+følgende forslag tilbage:
+Forslag til lov om sociale ydelser på Færøerne.
+(Lovforslag nr. L 245).
+Ønsker nogen at optage dette forslag? (Ophold). Da det ikke er tilfældet, er lovforslaget
+bortfaldet, og dermed udgår punkt 8 på dagsordenen for mødet i dag.
+Skriftlig fremsættelse af orslag:";Første næstformand
+3447;title_name;":
+Jeg skal tillade mig at fremsætte:
+Forslag til lov om ændring af lov om social
+bistand. (Adgang for kommunerne til at differentiere det supplerende tilskud til forældre på
+orlov til børnepasning).
+(Lovforslag nr. L 261).
+Forslaget er begrundet i et ønske fra kommunerne om i højere grad at kunne differentiere og graduere de kommunale tilskud, som
+kommunerne kan yde til forældre, der holder
+orlov til børnepasning.
+I nærværende forslag gives der kommunerne frihed til at beslutte, hvorvidt alene forældre til en bestemt aldersgruppe skal modtage
+tilskud samt den øvre grænse for det tilskud,
+forældre til de forskellige aldersgrupper kan
+modtage.
+Idet jeg i øvrigt henviser til bemærkningerne
+til lovforslaget, skal jeg anbefale forslaget til
+Folketingets hurtige og velvillige behandling.
+Skriftlig redegørelse:
+Redegørelse af 19/5 94 om voksenuddannelse.
+(Redegørelse nr. R 21).
+
+11598
+
+Arbejdsministeren (Jytte Andersen) og undervisningsministeren (Ole Vig Jensen):
+1. Indledning
+En massiv forøgelse af voksenuddannelsesindsatsen er en af forudsætningerne for vækst i
+beskæftigelsen og et væsentligt bidrag til et
+smidigere og mere konkurrencedygtigt arbejdsmarked. Regeringen har derfor lagt op til
+en udbygning af voksenuddannelsesindsatsen
+frem mod år 2000. Målet for 1994 er 10.000
+pladser.
+Uddannelsesaktiviteter må være med til at
+sikre, at den store del af de voksne, der har
+behov for supplerende (efter)uddannelse, har
+mulighed herfor. Den enkelte har behov for
+dels at kvalificere sig i forhold til arbejdslivet
+og herunder medvirke i en produktion under
+hensyntagen til en miljømæssigt bæredygtig
+udvikling, dels at kunne klare de menneskelige
+udfordringer i et omskifteligt samfund.
+Der bør gives særlig prioritet til en indsats
+over for de kortuddannede og herunder skabe
+særlige incitamenter for denne gruppe med
+henblik på at nedbringe den strukturelle ledighed og undgå marginalisering.
+Der skal lægges vægt på et efterspørgselsstyret udbud og en ligestilling af de erhvervsrettede, almene og folkeoplysende undervisningstilbud. Et fleksibelt uddannelsessystem med en
+bred vifte af uddannelsestilbud, der inddrager
+hele vort voksenuddannelsesfelt, skal kunne
+tage højde for individuelle behov og sikre en
+relevant kvalificering.
+Med henblik på at forberede beslutningsgrundlaget for udbygningen af voksenuddannelsesindsatsen har regeringen nedsat et udvalg med arbejdsmarkedets parter og kommunale organisationer. Udvalget skal på baggrund af kortlægnings- og analysearbejde opstille og analysere modeller til finansiering og
+behandle samspil og incitamentsstruktur mellem de forskellige ordninger.
+2. Regeringens lovgivningsinitiativer på voksenuddannelsesområdet
+For at muliggøre den planlagte væsentlige
+aktivitetsudvidelse er der gennemført en række
+reformer på arbejdsmarkeds- og uddannelsesområdet med virkning fra 1. januar 1994.
+Disse reformer har bl.a. medvirket til en
+samordning af den erhvervsrettede voksenuddannelsesindsats. Vilkårene for udbudet af
+
+11599
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+[Arbejdsministeren og undervisningsministeren]
+voksenuddannelse kan nu på en mere fleksibel
+måde spille sammen med vilkårene for uddannelsesorlov og initiativer som led i en aktiv arbejdsmarkedspolitik. Mulighederne for tværsektorielle uddannelsesforløb er styrket. Orlovsreformen, der bl.a. sikrer lettere adgang til
+uddannelse, bidrager til en perspektivrig omfordeling af arbejdet.
+AMU-reformen.
+Et af formålene med AMU-reformen er en
+ajourføring af arbejdsmarkedsuddannelserne
+under Arbejdsministeriet: De stive faggrænser
+er blevet opblødt, således at der nu er ét program for de kompetencegivende arbejdsmarkedsuddannelser. Det betyder langt bedre muligheder for at give relevante uddannelsestilbud i forhold til jobfunktioner på tværs af
+medarbejdergrupper og uddannelsesmæssig
+baggrund. Og målgruppen er blevet udvidet,
+således at der kan udvikles kurser specielt til
+offentligt ansatte.
+Et andet - og væsentligt - formål er en samordning mellem Undervisningsministeriets og
+Arbejdsministeriets erhvervsrettede uddannelsesindsats for voksne.
+For det første sikres koblingen mellem
+grund- og efteruddannelse nu ved erhvervsområdeudvalg, som dækker erhvervsrettet uddannelsesaktivitet for voksne inden for det pågældende erhvervsområde på tværs af ministerområder. Udvalgene skal være fora for fællesudvikling og drøftelse af uddannelsesindsatsen
+bl.a. med henblik på at forhindre overlappende udviklingsinitiativer.
+For det andet ligestilles AMU-centre og erhvervsskoler således, at de kan godkendes til
+at udbyde både arbejdsmarkedsuddannelser
+og erhvervsuddannelser. Det vil kunne betyde
+optimal udnyttelse og et mere fleksibelt uddannelsesudbud.
+Ved gennemførelsen af en ensartet institutionslovgivning for AMU-centre og erhvervsskoler er det blevet lettere for institutionerne at
+samarbejde. Det understøttes ved etablering af
+lokale skolefællesskaber, som skal fremme et
+samarbejde i forhold til brugerne - virksomhederne, de arbejds- og uddannelsessøgende
+m.fl. - og være med til at sikre den bedst mulige udnyttelse. I april 1994 har Arbejdsministeriet og Undervisningsministeriet udsendt en
+fælles vejledning om skolesamarbejde i lokalområdet.
+
+11600
+
+Åben uddannelse
+Et væsentligt formål med at ændre lov om
+åben uddannelse (erhvervsrettet voksenuddannelse) var ønsket om at fremme mulighederne
+for, at uddannelsessøgende med voksenuddannelsesstøtte (VUS), personer på uddannelsesorlov efter lov om orlov og ledige som led i en
+individuelt tilrettelagt handlingsplan kan deltage inden for normal arbejdstid i erhvervsrettede uddannelsestilbud for voksne, der tidligere fortrinsvis blev udbudt uden for arbejdstiden.
+Hertil kommer ønsket om bedre muligheder
+for at kombinere erhvervsrettet undervisning
+med de almene og folkeoplysende undervisningstilbud.
+Der kan nu udbydes særligt tilrettelagte uddannelsesforløb af op til I års varighed omregnet til heltid, og deltidsuddannelser kan tilrettelægges på heltid inden for 1-års-rammen.
+Der kan veksles mellem perioder med arbejde
+og perioder med uddannelse på heltid.
+Der gives tilskud til deltagerbetaling for deltagere med støtte efter VUS-loven og til ledige,
+der får tilbud om åben uddannelse som led i en
+handlingsplan efter lov om en aktiv arbejdsmarkedspolitik.
+Kredsen af udbydere er udvidet og består af
+erhvervsskoler, videregående uddannelsesinstitutioner under Undervisningsministeriet,
+AMU-centre og de amtslige social- og sundhedsskoler.
+Der er nye muligheder for at tilrettelægge
+tværsektorielle uddannelsesforløb. I de særligt
+tilrettelagte forløb af op til 1 års varighed kan
+der indgå op til 1/3 almen voksenuddannelse,
+der er rekvireret hos f.eks. et voksenuddannelsescenter, en folkehøjskole, en daghøjskole eller et oplysningsforbund.
+Voksenuddannelsesstøtte (VUS)
+Lov om støtte til voksenuddannelse (VUS)
+har vist sig at være et godt uddannelsespolitisk
+redskab i bestræbelserne på at motivere de
+kortest uddannede i arbejdsstyrken til at deltage i uddannelse i arbejdstiden. Hertil kommer
+ordningens beskæftigelsesmæssige relevans
+som led i adskillige uddannelses- og jobrotationsprojekter. Loven blev ændret for at skabe
+mere hensigtsmæssige rammer herfor.
+VUS-ordningens ligestilling af de almene,
+folkeoplysende og erhvervsrettede uddannel-
+
+11601
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+[Arbejdsministeren og undervisningsministeren]
+ser har medvirket til at etablere helt nye uddannelsestilbud, der er udformet i et tæt samspil mellem de uddannelsessøgende, deres arbejdsgivere og uddannelsesinstitutionerne.
+Med lovændringen er den maksimale støtteperiode udvidet fra 16 uger til 40 uger for derved at fremme kortuddannedes deltagelse i
+længerevarende uddannelsesforløb, f.eks. i
+form af voksenerhvervsuddannelse eller som
+led i uddannelsesforløb tilrettelagt inden for
+rammerne af de nye muligheder efter lov om
+åben uddannelse.
+Ved at kombinere VUS med uddannelsesorlov i henhold til lov om orlov har kortuddannede således fået mulighed for økonomisk
+støtte til uddannelse i arbejdstiden i ca. 2 år.
+Da en forholdsvis høj deltagerbetaling til
+visse uddannelser har udgjort en barriere for
+VUS-kursisternes deltagelse, er der med den
+nye lov skabt mulighed for tilskud til gruppens
+deltagerbetaling ved åben uddannelse samt
+daghøjskolernes, folkehøjskolernes og oplysningsforbundenes undervisningstilbud.
+Uddannelsesstøtten uddeles nu efter objektive kriterier fastsat i loven for derved at skabe
+større klarhed omkring VUS-kursisternes rettigheder. Den frivillighed, der har kendetegnet
+ordningen, VUS, som et tilbud til såvel uddannelsessøgende som virksomhederne, det frie
+uddannelsesvalg og den aftalebaserede orlovsog tilbagegangsret, er videreført.
+Orlov til uddannelse
+Et hovedformål med orlovsordningerne efter lov om orlov er at skabe jobrotation på arbejdsmarkedet. »Hullerne« efter orlovspersonerne kan udfyldes med bl.a. ledige, der på
+denne måde får chancen i et normalt job på
+normale vilkår.
+Personer over 25 år med tilknytning til arbejdsmarkedet kan med orlovsreformen bl.a.
+opnå orlov til uddannelse, som udgangspunkt
+i ned til 1 uge og op til 1 år. Dagpengeberettigede ledige kan få uddannelsesorlov i op til 2
+år i forbindelse med den 7-årige ydelsesperiode efter lov om arbejdsløshedsforsikring m.v.
+Med uddannelsesorloven kan der ske en
+dobbelt opkvalificering, idet både den ledige
+afløser og den person, der i en periode kommer på uddannelse, bliver opkvalificeret. Derfor er støttesatsen for netop uddannelsesorloven højere end på de andre orlovsformer.
+
+11602
+
+Støttesatsen er frem til 1. april 1995 op til
+den maksimale dagpengesats. For orlov, der
+påbegyndes efter denne dato, går den ned til
+80 pet. Regeringen ønsker, at arbejdsmarkedets parter vil satse så meget på uddannelsesorloven, at de vil indgå aftaler, der supplerer
+den offentlige støtte.
+Uddannelsesorloven kan anvendes til alle
+godkendte offentlige uddannelser bortset fra
+de lange og mellemlange videregående uddannelser. Og hvis der er tale om en uddannelse,
+der følges som åben uddannelse eller der i øvrigt er ledige pladser på uddannelsen, kan også
+lange og mellemlange videregående uddannelser følges under uddannelsesorlov.
+Uddannelsesmuligheder i loven om en aktiv arbejdsmarkedspolitik
+Uddannelse er et vigtigt redskab i lov om en
+aktiv arbejdsmarkedspolitik og kan tilbydes
+både ledige og beskæftigede. I forhold til ledige betyder loven, at indsatsen gøres fleksibel i
+forhold til den enkelte lediges ønsker og forudsætninger og arbejdsmarkedets behov. Ledige
+kan få uddannelsesgodtgørelse under deltagelse i ordinære uddannelser eller i særligt tilrettelagte forløb. Godtgørelsen ydes til de samme
+uddannelsesvalg som nævnt under uddannelsesorlov. AF har mulighed for at dispensere fra
+begrænsningerne i uddannelsesvalget.
+Særligt tilrettelagte forløb kan f.eks. være
+forløb, der retter sig til personer, som har vanskeligt ved at opnå eller bevare tilknytningen
+til arbejdsmarkedet, eller forløb, der sigter på
+at forebygge eller afhjælpe særlige omstillingsog tilpasningsproblemer på det regionale arbejdsmarked.
+Det ordinære uddannelsessystem bør dog så
+vidt muligt foretrækkes frem for et særligt tilrettelagt forløb. En uddannelsesplads kan enten tilvejebringes ved, at den ledige selv finder
+den, eller ved, at Arbejdsformidlingen eller
+kommunerne skaffer den, eventuelt ved køb.
+De regionale arbejdsmarkedsråd får i øvrigt
+tildelt frie midler, som kan anvendes til yderligere tilbud givet efter mere individuelle vurderinger i lokalområdet. Disse midler kan f.eks.
+anvendes til fremme af rotationsaftaler og uddannelsesplanlægning i virksomhederne og til
+køb af uddannelsespladser i forbindelse med
+sådanne aftaler.
+
+11603
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+11604
+
+[Arbejdsministeren og undervisningsministeren]
+senuddannelsespulje (se bilag). Disse uddanDagelever på højskolerne
+nelsestilbud,
+der i øjeblikket evalueres, har væFolkehøjskolerne, husholdningsskolerne og
+ret
+igangsættende
+og inspirerende med hensyn
+håndarbejdsskolerne er relevante tilbud for
+til
+udnyttelse
+af
+mulighederne
+i lov om åben
+voksne, der bl.a som led i udnyttelsen af de ny
+muligheder for uddannelsesorlov ønsker at uddannelse, etablering af jobrotationsprojeksupplere deres almene kundskaber. Mulighe- ter, styrket lokalt skolesamarbejde og pædagoderne for voksnes deltagelse i de frie kostsko- gisk metodeudvikling på uddannelsesinstitulers uddannelsestilbud er blevet lettet med tionerne.
+På trods af disse nye initiativer og forbedringennemførelsen af en ny højskolelov fra 1. ja1
+ger
+er der fortsat brug for initiativer, der yderlinuar 1994, hvorved der er åbnet for, at højskogere
+kan forbedre den samlede voksenuddanlerne i højere grad end tidligere kan optage danelsesindsats og gøre den endnu mere samgelever.
+menhængende, fleksibel og brugerrelevant.
+Sammenfatning af regeringens initiativer
+Arbejdsmarkedsreformen forudsætter store
+omstillinger for AF-systemet, som er i fuld
+gang. Men trods en koncentreret informationsindsats tager det tid, før kendskabet til de nye,
+mere fleksible muligheder i den nye lovgivning
+slår fuldt igennem og viser sig i form af nye
+udbud og øget efterspørgsel.
+Med aktivitetsudvidelsen i 1994 med 10.000
+pladser lægges der vægt på, at det bliver efterspørgslen fra brugerne, der bestemmer det
+konkrete uddannelsesudbud. Derfor er det på
+nuværende tidspunkt vanskeligt at vurdere,
+hvordan aktiviteten vil fordele sig på de enkelte uddannelsesområder. I forbindelse med et
+ønske om en løbende registrering af udbudet
+og efterspørgslen vil søgningsmønstret blive
+afdækket. Regeringens lovgivningsinitiativer
+mv. på voksenuddannelsesområdet har betydet,
+- at der er meget mere fleksible uddannelsesmuligheder til alle målgrupper inden for en
+bred vifte af erhvervsrettede og almene voksenuddannelser,
+- at bevillingeme til uddannelserne er blevet
+forøget,
+- at der er bedre muligheder for tværsektorielle uddannelsesforløb og samarbejde mellem
+de forskellige uddannelsesinstitutioner,
+- at flere af uddannelses- og støttemulighederne spiller bedre sammen, og
+- at flere af uddannelsesordningerne medvirker til at skabe større rotation på arbejdsmarkedet og styrker den samlede arbejdsstyrkes kvalifikationsniveau.
+I 1993 og 1994 er der igangsat en lang række
+nye tværsektorielle uddannelsesforløb, der
+kombinerer almene og erhvervsrettede uddannelsestilbud med støtte fra den såkaldte Vok-
+
+3. Særlige indsatsområder
+Styrkelse af det lokale skolesamarbejde, vejledning m.v.
+De lokale fællesudvalg giver mulighed for et
+forbedret samarbejde mellem de forskellige
+skoleformer på en række nye områder, ikke
+mindst i bestræbelserne på at fremme uddannelser på tværs af uddannelsesområder.
+Det er vigtigt, at både de deltagende aktører
+og samarbejdets indhold fastlægges lokalt.
+Målsætningen er, at alle skoler, der udbyder
+erhvervsrettet og almen voksenuddannelse,
+deltager i det lokale skolesamarbejde.
+Den fremtidige indsats må derfor fokusere
+på at styrke det lokale samarbejde, f.eks. om
+bedre koordinering af informationsindsatsen,
+jf. nedenfor, om bedre udnyttelse af skolernes
+ressourcer, om samarbejde med de regionale
+arbejdsmarkedsråd, AF og kommunerne og
+om at imødekomme lokale behov, der går på
+tværs af de traditionelle uddannelsesområder.
+I dag gives der information og uddannelsesvejledning hos en lang række arbejdsmarkedsog uddannelsesinstitutioner. Det er vigtigt, at
+der er et samarbejde lokalt mellem de forskellige former for vejledning. Dette kunne forbedres dels ved forsøgsvirksomhed, dels ved en
+kobling til det lokale skolesamarbejde.
+Af hensyn til vejledningsindsatsen og af
+hensyn til de enkelte virksomheders og uddannelsessøgendes anvendelse af voksenuddannelsesmulighederne er der behov for en information om udbudene, der er tilstrækkelig,
+overskuelig og tilgængelig. En fælles uddannelsesdatabase vil kunne danne grundlag for
+regionale databaser med henblik på at skabe
+overblik over udbudet.
+
+11605
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+[Arbejdsministeren og undervisningsministeren]
+Voksne i erhvervsuddannelserne og AMU
+De mange kortuddannede på det danske arbejdsmarked og strukturledigheden udgør en
+væsentlig udfordring for det samlede voksenuddannelsessystem i de kommende år. En
+større fleksibilitet såvel internt i virksomhederne som på arbejdsmarkedet er vigtig for at
+undgå, at ubalancer mellem virksomhedernes
+behov for arbejskraft og arbejdsstyrkens kvalifikationer fører til flaskehalse. Både erhvervsuddannelserne og AMU kan bidrage hertil.
+Voksenerhvervsuddannelser
+Erhvervsuddannelser skal kunne udbydes
+på nye måder, der passer til voksnes behov og
+med merit for forudgående erhvervs- og kursuserfaring, men med samme kompetence som
+for unge. De skal kunne udbydes både af erhvervsskoler og af AMU-centre, der er godkendt til at udbyde erhvervsuddannelse, og
+gerne i samarbejde med andre institutionstyper.
+Samtlige uddannelsesbekendtgørelser på
+området revideres løbende med indarbejdelse
+af voksenuddannelsesforløb. Der arbejdes ud
+fra to grundmodeller med afkortet uddannelsestid (og skoletid), begge baseret på vekseluddannelsesprincippet: særlige moduliserede
+voksenforløb tilpasset den enkelte elev og beskrevne meritordninger ved deltagelse i de ordinære forløb.
+Udviklingsarbejde med tilrettelæggelse af
+særlige moduliserede voksenforløb inden for
+de kendte erhvervsuddannelser skal gives høj
+prioritet.
+En vejledning om merit er under udarbejdelse. Den vil også omfatte merit på tværs af
+uddannelsessektorerne.
+Udvikling af AMU-uddannelserne
+Arbejdsmarkedsuddannelserne
+består
+grundlæggende af kortere kurser, som hver for
+sig giver faglig kompetence. Men kursusstrukturen rummer inden for flere brancher mulighed for at opnå en samlet og anerkendt kompetence via kombination af kurser og praktisk
+erfaring. En række AMU-kurser giver automatisk merit inden for de enkelte erhvervsuddannelser.
+De sammenhængende AMU-kursusmuligheder skal også kunne udvikles og gennemføres i fremtiden. Der kan også under AMU
+
+11606
+
+iværksættes længerevarende uddannelsesforløb, der f.eks. kombinerer erhvervsrettede og
+almene elementer, og som bl.a. vil være relevante i forbindelse med uddannelsesorlov og
+jobrotation.
+Det er vigtigt, at de mange og gode uddannelsesmuligheder for voksne udnyttes optimalt
+i forbindelse med tilrettelæggelse af de forskellige voksenforløb, og at der samarbejdes mellem de forskellige uddannelsesområder herom.
+Der er allerede igangsat et betydeligt udviklings- og forsøgsarbejde, hvor både faglige udvalg, efteruddannelsesudvalg og uddannelsesinstitutioner deltager.
+Med henblik på at imødekomme en varieret
+efterspørgsel er det vigtigt, at der løbende sker
+en udvikling af de enkelte uddannelsesmoduler og kursuslinjer, ligesom der må sikres udvikling af moduler på nye beskæftigelsesområder.
+Et særligt indsatsområde vil efter sammenlægningen af de tidligere programmer til ét
+program for kompetencegivende arbejdsmarkedsuddannelser være udvikling af uddannelsestilbud på tværs af medarbejdergrupper og
+uddannelsesmæssig baggrund.
+Teknologistøttet undervisning (fjernundervisning)
+Der skal satses mere på teknologistøtte i
+voksenuddannelserne. Dermed vil der bl.a.
+kunne tilbydes en bredere vifte af uddannelsesmuligheder på et højt kvalitetsniveau også i
+mere tyndt befolkede områder. Undervisningsformen giver også svage elevgrupper mulighed
+for individuel undervisningsstøtte og fortrolighed med anvendelsen af ny teknologi, som også vil forbedre deres generelle jobkvalifikationer. Der kan søges om støtte til udvikling, forsøg mv.
+Voksenpædagogisk udvikling og læreruddannelse
+En fortsat aktivitetsudvidelse på voksenuddannelsesområdet stiller store krav til pædagogisk nytænkning, herunder ikke mindst inden
+for det voksenpædagogiske område.
+Det må sikres, at lærerne kan tage de pædagogiske udfordringer op, der er en konsekvens
+af,
+- at der er nye målgrupper på voksenuddannelsesområdet,
+
+11607
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+[Arbejdsministeren og undervisningsministeren]
+- at deltagerforudsætningerne i stigende grad
+vil være forskellige,
+- at flere uddannelsesforløb vil bestå af kombinerede forløb på tværs af instutionstyper
+og derfor kræve lærersamarbejde såvel inden for som mellem institutioner,
+- at der er kommet nye og flere samarbejdspartnere (enkeltpersoner, organisationer og
+virksomheder), der hver især har forskellige
+ønsker til uddannelserne, og
+- at lærerne i stigende grad bliver involveret i
+pædagogisk udviklingsarbejde.
+Der er taget initiativ til at sikre alle voksenundervisere den fornødne efteruddannelse, således at de kan tage de nye udfordringer op.
+Der kan ligeledes på nogle områder være behov for en egentlig voksenpædagogisk uddannelse for nye voksenundervisere.
+Ændring af lov om støtte til folkeoplysning
+Oplysningsforbundene og de folkeoplysende kredse bidrager i stadig stigende omfang til
+det rigt varierede udbud af voksenuddannelser. Den seneste ændring af VUS-loven, der
+har indført mulighed for offentlige tilskud til at
+nedbringe deltagerbetalingen ved de folkeoplysende uddannelsestilbud, har styrket denne
+tendens. Oplysningsforbundenes tilbud - enten i form af selvstændige tilbud eller som led i
+længere uddannelsesforløb - benyttes også i
+stigende grad af personer på uddannelsesorlov
+og af personer, der får uddannelsesgodtgørelse
+efter arbejdsmarkedsreformens regler.
+Den forestående revision af lov om støtte til
+folkeoplysning vil bidrage til, at udviklingen
+fortsætter.
+Voksenuddannelsescentre (VUC)
+Udviklingen på voksenuddannelsescentrene
+(VUC) har i de seneste år været præget af en
+stærkere orientering af kursusudbudet mod
+grupper på arbejdsmarkedet. Det har navnlig
+været tilfældet for udbudet af fag inden for almen voksenuddannelse (AVU), men vil i stigende grad også gælde udbudet af hf-enkeltfag. Denne udvikling forstærkes af arbejdsmarkedsreformen og mulighederne i de nye love om VUS og åben uddannelse. Derfor vil udviklingen af fleksibilitet i tilrettelæggelserne og
+et tættere lokalt skolesamarbejde være højt
+prioriteret.
+
+11608
+
+Styrings- og finansieringsmæssigt adskiller
+VUC sig fra samarbejdspartnere som AMUcentre og erhvervsskoler. VUC er amtskommunale institutioner. Amtskommunerne afgør antallet og placeringen af VUC og fastsætter på
+grundlag af behovet og lovfæstede udbudsforpligtelser årlige budgetrammer for de enkelte
+centre. For at sætte VUC bedst muligt i stand
+til at indgå i det lokale/regionale skolesamarbejde overvejes principperne for kapacitetsstyringen og kompetencefordelingen mellem det
+statslige, amtslige og institutionelle niveau.
+Desuden overvejes, hvordan sammenhængen mellem AVU og hf kan styrkes. Uden for
+VUC-institutionen vil der være behov for at
+overveje at godkende andre udbydere af AVU.
+Særlig indsats for læsesvage grupper
+For den store gruppe af voksne med svære
+læse/stave/skrivevanskeligheder gennemføres
+der allerede i dag en betydelig indsats i henhold til lov om specialundervisning for voksne.
+Også inden for AMU arbejdes der med at sikre
+læsesvages muligheder for at deltage i kurserne. Indsatsen bør styrkes, bl.a gennem folkeoplysning og daghøjskolevirksomhed tilrettelagt for særlige grupper for at opnå eller bevare denne gruppes tilknytning til arbejdsmarkedet.
+Forskning i læsning, gennemførelse af forsøg på området, uddannelse af lærere og afprøvning og videreudvikling af metoder og
+teknikker med inddragelse af bl.a edb-teknologi og spredning af indhøstede erfaringer er
+prioriterede områder.
+Ny daghøjskolelov
+Med omlægningen af aktiveringen af såvel
+dagpengeberettigede og kontanthjælpsmodtagere er der sket afgørende ændringer i finansieringen af daghøjskolerne. Det nuværende
+lovgrundlag matcher ikke længere med den
+udvikling, der er sat i gang inden for den aktive
+arbejdsmarkedspolitik og den kommunale aktivering.
+Desuden er der behov for at udvide daghøjskolernes uddannelsestilbud til også at omfatte
+beskæftigede, der uddanner sig i arbejdstiden.
+Hertil kommer, at udbygningen af voksenuddannelserne stiller nye krav til daghøjskolerne ikke blot vedrørende styring og finansiering, men også med hensyn til et bedre sam-
+
+11609
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+[Arbejdsministeren og undervlsnlngsmlnlsteren]
+spil med andre voksenuddannelser, ikke
+mindst voksenuddannelsescentrenes almene
+voksenuddannelsestilbud og indvandrerundervisningen for voksne.
+Alt i alt er tiden kommet til en nyvurdering
+af daghøjskolernes lovgrundlag med henblik
+på en mere hensigtsmæssig placering af daghøjskolerne i det samlede voksenuddannelsesbillede.
+Grønt islæt i voksenuddannelserne
+Inden for en række områder bør uddannelsernes indhold i højere grad tilrettelægges sådan, at den enkelte bliver i stand til at deltage i
+udvikling og gennemførelse af en produktion
+baseret på en bæredygtig udvikling.
+I forbindelse med grønne afgifter og miljøstyringsprojekter i virksomhederne vil der herudover være et stigende behov for kurser/moduler, der går på tværs af den enkeltes uddannelsesbaggrund. Initiativer til udvikling af sådanne kurser/moduler kunne eksempelvis tages i erhvervsområdeudvalgene under AMUloven, ligesom der kan udvikles sådanne særligt tilrettelagte forløb og korte kurser inden
+for lov om åben uddannelse. Inden for de folkeoplysende skoler vil der også fortsat blive
+iværksat initiativer, som vedrører en samfundsmæssig bæredygtig udvikling.
+Principper for et forenklet støtte- og godtgørelsessystem
+Der eksisterer i dag en række forskellige
+godtgørelses- og støtteordninger for voksne
+under uddannelse. Orlovsydelse, voksenuddannelsesstøtte, AMU-godtgørelse, uddannelsesgodtgørelse, dagpenge, kontanthjælp nævnes her som nogle af de vigtigste.
+Ordningerne, der henvender sig til såvel ledige som beskæftigede, forsikrede som ikkeforsikrede, administreres af en række forskelligartede centrale, regionale eller lokale instanser.
+De mange forskellige, delvis overlappende,
+godtgørelses- og støtteordninger er vanskelige
+at overskue for brugerne. Ikke mindst fordi
+målgrupper, støttemuligheder og vilkår, uddannelsesmuligheder, administrative vilkår
+m.v. på flere punkter adskiller sig fra hinanden.
+Der er således behov for forenkling på området, der kan medvirke til en mere hensigts-
+
+11610
+
+mæssig anvendelse af uddannelsesstøtten til
+voksne og skabe administrative forenklinger.
+Muligheden for økonomisk støtte er en væsentlig motiverende faktor for voksnes deltagelse i fortsat uddannelse.
+Det er vigtigt i særlig grad at motivere de
+kortest uddannede til at supplere deres kundskaber og derigennem opnå en styrket position
+på arbejdsmarkedet. Hertil kommer behovet
+for et bredspektret uddannelsestilbud omfattende almene, folkeoplysende og erhvervsrettede uddannelser, baseret på den enkeltes frie
+valg.
+En mulighed kunne være en fælles/samlet
+og forenklet støttemodel med mulighed for
+graduering af ydelsesniveau og støtteperiode
+for særligt prioriterede grupper, f.eks. afhængig af deltagernes uddannelsesniveau.
+En administrativ forenkling kunne opnås
+ved at henlægge administrationen til én institutionstype, f.eks. a-kasserne, SU-styrelsen eller AER/ATP-huset, som i forvejen har erfaring med administrationen af uddannelses- og
+arbejdsmarkedsordninger, der henvender sig
+til såvel enkeltpersoner som virksomheder.
+Udformningen af et sådant støtte- og godtgørelsessystem kræver en grundig forberedelse
+for at sikre, at der opnås den ønskede forenkling. Et nyt system vil derfor i givet fald tidligst
+kunne træde i kraft den 1. januar 1996.
+Forenklingen af de eksisterende støtte- og
+godtgørelsesordninger for voksne indgår i
+overvejelserne i regeringens 4-parts-udvalg om
+voksen- og efteruddannelse.
+4. Afslutning
+Hensigten er, at de mange initiativer, som
+enten er sat i gang eller bliver det i nær fremtid, skal være til gavn for brugerne og deres
+meget forskelligartede ønsker og behov for uddannelse.
+En øget satsning på voksenuddannelse skal
+kunne understøtte den aktuelle erhvervsudvikling, dels med hensyn til at forbedre produktivitet som forudsætning for en øget beskæftigelse, dels med hensyn til at styrke innovation og
+dynamik i erhvervsudviklingen. Det er også i
+denne sammenhæng, man skal se regeringens
+ønske om, at arbejdsmarkedets parter indgår
+aftaler, der supplerer de offentligt finansierede
+godtgørelser.
+
+11611
+
+20/5 94: Skriftlig redegørelse om voksenuddannelse
+
+[Arbejdsministeren og undervisningsministeren]
+Det er vigtigt, at såvel den enkelte uddannelsessøgende som den enkelte virksomhed kan
+få opfyldt deres behov for voksenuddannelse
+både på kort og på lang sigt. Samtidig skal det
+sikres, at indsatsen tager de fornødne samfundsøkonomiske hensyn.
+Det har endelig været målet at skitsere nogle
+principper for et forenklet godtgørelses/støttesystem, som skal gøre det lettere for såvel brugere som institutioner at benytte de forskellige
+voksenuddannelsestilbud.
+Det er i dette lys, at denne fælles redegørelse
+om voksenuddannelse fremlægges for Folketinget.
+
+11612
+
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 67 stemmer (S, SF, CD, RV og
+KRF) mod 46 (KF, V og FP).";Yvonne Herløv Andersen
+32562;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+
+Den første sag på dagsordenen var:
+1) Tredje behandling af lovforslag nr. L 223:
+Forslag til lov om ændring af kildeskatteloven
+m.v. (Finansieringsgaranti for 1994 og ophævelse af finansieringsgaranti for 1992).
+Af indenrigsministeren (Birte Weiss).
+(Fremsat 24/3 94. Første behandling 6/4 94.
+Betænkning 6/5 94. Anden behandling 10/5
+94).
+Der var ikke stillet ændringsforslag.
+
+Den næste sag på dagsordenen var:
+3) Anden (sidste) behandling af beslutningsforslag
+nr. B 23:
+Forslag til folketingsbeslutning om nedbringelse af ventetiderfor hjertepatienter, der er visiteret til operation.
+Af Jørgen Winther (V) m.fl.
+(Fremsat 17/11 93. Første behandling 9/12
+93. Betænkning 11/5 94).
+
+Lovforslaget sattes til forhandling.
+
+Der var ikke stillet ændringsforslag.
+
+Ingen bad om ordet.
+
+Forslaget sattes til forhandling.
+
+Afstemning
+
+Forhandling
+
+Lovforslaget
+vedtoges med 66 stemmer (S, SF, CD, RV og
+KRF) mod 46 (KF, V og FP).";Ivar Hansen
+33570;name_party;":
+Noget af det mest groteske, vi i Danmark er
+vidne til, er de uhyggeligt lange ventelister, vi
+har. Det beslutningsforslag, vi her i dag skal
+tage stilling til, er kun en lille del af et samlet
+stort emne, idet beslutningsforslaget kun foreslår at fjerne ventelisterne på et lille område.
+Da Fremskridtspartiet selv har fremsat forslag om at nedsætte ventelisterne til maksimalt
+3 måneder på alle områder, er vi naturligvis
+også tilhængere af at hjælpe netop hjerteområdet. Venstres forslag er som sagt en del af
+Fremskridtspartiets tidligere forslag, som vil
+komme til behandling i næste uge, og derfor
+kan vi da ikke stemme imod det.
+Jeg må nok sige, at det er den rigtige vej, det
+er gået for Venstre. I den tidligere regerings tid
+havde Fremskridtspartiet fremsat tilsvarende";Jan Køpke Christensen
+34384;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+2) Tredje behandling af lovforslag nr. L 224:
+Forslag til lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner.
+Af indenrigsministeren (Birte Weiss).
+(Fremsat 24/3 94. Første behandling 6/4 94.
+Betænkning 6/5 94. Anden behandling 10/5
+94).
+
+11613 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11614";Ivar Hansen
+34868;title_name;"forslag, som også af Venstre blev afvist, men
+det er kun positivt, at Venstre, De Konservative og Fremskridtspartiet nu i enighed kan arbejde intenst på at få disse uhyggelige ventelister fjernet. Det skal ingen kritik være af Venstre, at man tidligere har haft en anden holdning, tværtimod byder vi Venstre hjertelig velkommen i denne gruppe, der nu ønsker at fjerne ventelisterne. Så må vi bare håbe, at det holder til efter valget, hvor alt jo tyder på, at vi får
+et VKZ-flertal.
+Jeg er lidt ked af diskussionen med CD. Under behandlingen var CD meget positive over
+for forslaget. CD er ikke længere så positive,
+ser det ud til, når de ikke stemmer for forslaget,
+men all right, den sunde fornuft kan gå op for
+CD lige til det sidste, så de kan ændre holdning til dette beslutningsforslag.
+Vi skal naturligvis endnu en gang understrege, at vi synes, det er fornuftigt, at vi nu gør
+noget ved det, særlig i betragtning af den diskussion, vi har fået i den sidste tid, fordi mennesker dør, mens de står på venteliste til hjerteoperationer. Så vi hilser forslaget velkomment,
+og Fremskridtspartiet giver naturligvis sin fulde støtte til det.";Jan Køpke Christensen
+36028;name_party;":
+Forslaget støttes både af De Konservative,
+Fremskridtspartiet og Venstre. Sagen er, at der
+sandsynligvis bliver folketingsvalg i Danmark
+om 4 måneder, den 20. september, og at vi så
+får et VKZ-flertal, det vil så sige, at det forslag,
+vi nu behandler, kan blive en realitet, når der
+er gået godt 4 måneder.
+Men jeg har især et par ord til CD. CD havde nogle kommentarer til dette forslag ved førstebehandlingen og har tidligere været meget
+positive - også i ordførertalen - over for dette
+forslag. Dengang CD endnu havde nogle amtsrådsmedlemmer og kommunalbestyrelsesmedlemmer, var de meget positive over for dette
+forslag, men nu er Centrum-Demokraterne
+endnu en gang blevet banket på plads af den
+socialdemokratisk ledede regering. Atter en
+gang er CD i færd med at svigte sit valggrundlag, og her svigter CD både sine vælgere og
+patienterne.
+CD har i de amtsråd, hvor de havde medlemmer, været en varm, varm tilhænger af privathospitalerne og også af, at patienterne skulle have en hurtig behandling. Jeg kender per-
+
+sonligt CD'eren Erik Svensson fra Århus
+Amtsråd - der var to CD'ere i Århus Amtsråd
+- og med hud og hår var de meget, meget ivrige
+for alt samarbejde mellem privathospitaler og
+det offentlige sygehusvæsen.
+Men hvad sker nu i Folketinget? CD siger
+nej til dette forslag! CD burde være en varm
+tilhænger, men CD svigter efterhånden også i
+Folketinget det grundlag, de gik til valg på, og
+når CD svigter de holdninger, de tidligere har
+haft, mister CD selvfølgelig også mandaterne i
+Folketinget. Det ved jeg ikke om der efterhånden er nogen der beklager, for det er meget
+svært at kende CD's oprindelige politik.
+Angående Kristeligt Folkepartis holdning er
+det sådan, at fru Inger Stilling Pedersen gang
+på gang har sagt, at hun ville stemme for dette
+forslag, men Kristeligt Folkepartis gruppe er
+også banket på plads af statsminister Poul Nyrup Rasmussen og sundhedsminister Torben
+Lund. Jeg kan godt forstå, at CD og Kristeligt
+Folkeparti har meget svært ved at have et
+grundlag i vælgerbefolkningen, når de gang på
+gang svigter deres valgprogram i folketingssalen.
+Men det glæder mig, at vi snart får det valg,
+vi trænger meget til, så får vi mulighed for at
+samarbejde med privathospitalerne.
+(Kort bemærkning).";Jørgen Winther
+38283;name_party;":
+CD's ordfører på området er desværre optaget andetsteds. Jeg tager imidlertid ordet for at
+besvare hr. Jørgen Winthers ophidsede angreb
+vedrørende at blive banket på plads. Selv om
+hr. Jørgen Winther er en junior her i huset i
+forhold til mig, kunne han nok vide, at hans
+parti, Venstre, har været medlem af koalitionsregeringer en halv snes år, hvor Venstre ofte
+har været med til at banke nogle på plads, som
+det så smagfuldt er blevet udtrykt, eller selv er
+banket på plads.
+Jeg har selv været med til at banke Venstre
+på plads, da vi havde 15 mandater og Venstre
+havde 19, i sagen om en fast forbindelse over
+Storebælt. Da blev Venstre grundigt - og det
+var også en meget stor og vigtig national sag banket på plads til at rette sig efter det flertal,
+der var i regeringen.
+På nuværende tidspunkt er der nogle få måneder til et forestående folketingsvalg, og det
+siger sig selv, at som medlem af en koalitions-
+
+11615 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11616";Arne Melchior
+39324;title_name;"regering kan man ikke i alle spørgsmål få sin
+vilje eller være obsternasig, man er nødt til at
+indgå nogle kompromiser, men dermed har
+man ikke solgt ud eller svigtet sine holdninger.
+Ting, der er uden for regeringsgrundlaget, kan
+man altså ikke banke igennem imod et flertal i
+en regering. Det har hr. Jørgen Winthers kolleger oplevet masser af gange - både som objekter og som subjekter - og derfor er der ikke
+spor mening i dette forsøg på forhånelse. Men
+hvis det er i hr. Jørgen Winthers interesse at
+skubbe CD fra sig, må jeg bare sige til lykke
+med det: det bliver hans problem.
+(Kort bemærkning).";Arne Melchior
+39950;name_party;":
+Jeg tror desværre, det er karakteristisk for
+hr. Jørgen Winthers mission herinde, at han
+nævner, at der er 4 måneder til valget, og hr.
+Jørgen Winther fortsætter med at sige, at når
+VKZ-flertallet kommer til efter valget, vil der
+ske helt anderledes ting for hjertepatienterne.
+Til det kan man kun gentage spørgsmålet:
+Hvad gjorde den regering, som bestod af Venstre og De Konservative, for hjertepatienterne? Hr. Jørgen Winther har selv indrømmet, at
+det var helt utilstrækkeligt.
+Når hr. Jørgen Winther slår så meget på privathospitalernes indsats, vil jeg godt sige, at
+der jo er ret stor kapacitet på privathospitalerne til hjerteoperationer, og at den kapacitet,
+der er, overhovedet ikke kan gå ind i uddannelse af læger.
+Uddannelse af læger er en af de flaskehalse,
+vi har haft på dette område, og om det siger hr.
+Jørgen Winther heller ingenting. Jeg synes
+nok, at hr. Jørgen Winthers mission på dette
+område er en meget, meget beklagelig mission,
+hvor hr. Jørgen Winther skyder de patienter,
+der er lagt en plan for, foran sig, selv om der
+allerede nu er sket en betragtelig udvidelse af
+antallet af operationer, hvilket vi er glade for.
+Vi vil følge opfyldelsen af den plan meget nøje,
+og hvis der sker svigt eller opstår problemer,
+vil vi selvfølgelig fra SF's side gribe ind, og vi
+vil sørge for, at der bliver bevilget de penge,
+der er nødvendige, og hvis der ikke gør det, vil
+vi råbe højt.
+(Kort bemærkning).";Birgitte Husmark
+41401;name_party;":
+Ofte har vi hørt i denne sal, at når man sid-
+
+der i regering - og det er særlig CD, der har
+udtalt det - bliver man nødt til at tage hensyn
+til sine regeringspartnere. Det er der så nogle,
+der kan forstå, mens andre ikke kan forstå det.
+Hr. Arne Melchior nævnede eksemplet med
+den faste forbindelse over Storebælt, men det
+har intet med denne sag at gøre. At nedsætte
+ventetiden til maksimalt 3 måneder vil virkelig
+kommer borgerne til gode.
+Storebæltsforbindelsen er fuldstændig ligegyldig i denne sag, og jeg fatter ikke, at den
+sammenlignes med det rent menneskelige.
+Dette har noget med ens menneskesyn at gøre,
+for der er tale om, at vore borgere dør, mens de
+står på venteliste til en hjerteoperation.
+Jeg synes, det er at drage debatten ned på et
+ganske simpelt niveau at blande Storebæltsforbindelsen ind i denne diskussion, der drejer sig
+om, at der her i landet virkelig er mennesker,
+der trænger til hjælp.
+Så vil jeg sige til fru Birgitte Husmark, der
+bliver ved at se tilbage på, hvor dårligt Venstre
+har opført sig, da det sad i regering, at Venstre
+har erkendt, at det ikke gjorde det godt nok:
+man har fået et nyt syn på dette område, og det
+skal man da kun være lykkelig for. Hvorfor
+skal man blive ved at rive op i de gamle ting,
+der er sket tidligere? Hvis Venstre har fået et
+fornuftigt syn på dette forslag, som også SF
+burde støtte, må vi da se fremad. Det centrale
+er, at det drejer sig om at hjælpe de stakkelse
+mennesker, der dør, mens de står på venteliste.
+Jeg synes stadig væk, at fru Birgitte Husmark skulle tænke sig grundigt om og så støtte
+et forslag, der er så fornuftigt som det foreliggende.";Jan Køpke Christensen
+43046;name_party;":
+Socialdemokratiet er mange gange fra denne
+talerstol blevet beskyldt for at hindre amterne i
+at benytte sig af privathospitaler: man er endda gået så langt, at man næsten har kaldt os for
+de sidste stalinister.
+Derfor er svaret fra Amtsrådsforeningens
+formand, Venstremanden Kresten Philipsen,
+om benyttelse af privathospitaler lidt bemærkelsesværdigt og måske netop værd at nævne
+fra denne talerstol.
+Jeg tillader mig at citere fra betænkningen,
+hvor man har bedt om amternes udtalelse:
+»I den anledning skal Amtsrådsforeningen
+bemærke, at det er foreningens opfattelse, at
+
+(727)
+11617 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11618";Lone Møller
+43751;title_name;"det må være op til det enkelte amt, hvorvidt
+man ønsker at bruge privathospitaler til løsning af amtets sygehusopgaver.«
+Og så en væsentlig bemærkning:
+»Hertil kommer, at den hjertekirurgiske kapacitet på de private hospitaler er for lille til at
+kunne bidrage væsentligt til nedbringelse af
+ventelisterne på området, og at privathospitalerne i givet fald må hente den lægefaglige kapacitet fra de offentlige hjertecentre.«
+Det er dét, Socialdemokratiet har gentaget
+gang på gang, nemlig at hvis vi skal udbygge
+de private hospitaler, vil ventelisterne i det offentlige sundhedsvæsen vokse.
+Jeg kan helt tilslutte mig Amtsrådsforeningens sidste bemærkning i svaret i betænkningen:
+»Kræfterne bør i stedet samles omkring en
+udbygning af den hjertekirurgiske kapacitet
+inden for det offentlige sygehusvæsen i overensstemmelse med aftalen mellem regeringen
+og Amtsrådsforeningen herom.«
+Socialdemokratiet kan ikke støtte forslaget.";Lone Møller
+44698;name_party;":
+Først en kommentar til hr. Arne Melchior:
+Jeg har til en vis grad forståelse for, at man i
+nogle mindre sager kan blive banket på plads,
+som CD er blevet her, men for at være helt sikker vil jeg gerne have at vide her fra talerstolen: Hvis CD var et frit parti og kunne stemme
+efter sin overbevisning, ville CD så stemme ja
+til dette forslag? Det synes jeg CD skylder både Venstre og sine vælgere, hvis der stadig væk
+er nogle få stykker tilbage, at svare på.
+Over for Fremskridtspartiets ordfører, hr.
+Jan Køpke Christensen, vil jeg også fra talerstolen erkende, at Fremskridtspartiet hele vejen igennem - også for nogle år siden - har
+haft en særdeles fornuftig holdning til behandlingen af hjertepatienterne og samarbejdet
+med privathospitalerne.
+Til fru Birgitte Husmark vil jeg gerne sige, at
+hverken den nuværende eller den tidligere regering har gjort det godt nok, men vi kan alle
+sammen blive klogere og gøre det bedre. Det,
+der er situationen nu, er, at vi har to udmærkede privathospitaler, som i alt kan klare 1.200
+hjertepatienter til operation hvert eneste år.
+Det er ikke en forsvindende kapacitet, det er
+en stor kapacitet, og det er faktisk sådan, at
+hvis man bruger privathospitalerne, vil man
+
+kunne løse hele hjerteventelisteproblematikken på 4-5 måneder. Bare kig på tallene, så ses
+det ganske klart!
+Så vil jeg gerne sige til fru Lone Møller, som
+nævnte amtsborgmester Kresten Philipsen, at
+det er rigtigt, at han som formand for interesseorganisationen Amtsrådsforeningen i Danmark skullet udtale sig om denne sag og har
+haft den holdning, som han nu har givet udtryk for. Men samtidig kan jeg oplyse, at selv
+socialdemokrater i Fyns Amt har stemt ja til at
+bruge privathospitalerne. Det synes jeg er flot,
+men det er også de eneste socialdemokrater i
+hele Danmark, der har villet gøre det: ingen
+andre har sagt ja til at bruge dem inden for
+hjerteområdet.
+Når fru Lone Møller siger, at amterne har
+mulighed for at bruge privathospitalerne, er
+det rigtigt, men den enkelte patient har ikke
+mulighed for at blive henvist til et privathospital for det offentliges regning, og det er deri,
+forskellen er. I Venstre vil vi gerne have, at den
+enkelte patient selv kan vælge.
+Så vil jeg gerne slutte af med at sige, at efter
+Sundhedsstyrelsens opfattelse døde der sidste
+år omkring 70 patienter på venteliste. Efter
+professor Torsten Toftegaard Nielsens opfattelse døde der omkring 130-140, men hvad der
+er værre: Samme professors vurdering er, at
+der vil dø cirka lige så mange i indeværende år,
+og en af grundene er, at vi ikke bruger privathospitalerne. Så de, der ikke er med til at løse
+problemet, har alle et medansvar for, at der er
+mange hjertepatienter, der afgår ved døden i
+ventetiden. Det er barsk sagt, men det er den
+barske kendsgerning.
+(Kort bemærkning).";Jørgen Winther
+47514;name_party;":
+Jeg er lige ved at tro, at man skal have en
+bekendt eller et familiemedlem i en uacceptabel situation på venteliste for at få en helt anden grundholdning til et forslag som dette.
+Desværre tror jeg, det er således, og vi har også
+foreslået, at ventetiden skal nedsættes på alle
+områder.
+Man var inde på, hvorfor man skulle benytte
+privathospitaler, og Socialdemokratiet sagde,
+at det bare ville gå ud over de offentlige hospitaler. Vi ved i dag, at f.eks. »Hamlet« har mange udenlandske patienter, og det virker jo grotesk, når vi har folk på venteliste, at se alle de
+
+11619 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11620";Jan Køpke Christensen
+48217;title_name;"udenlandske patienter, der kommer på »Hamlet«. Jeg synes selvfølgelig, at man primært
+burde bruge vore indenlandske privathospitaler/-klinikker, eller for den sags skyld har jeg
+heller ikke noget imod, at man går til udenlandske hospitaler.
+Det, det handler om for os, er - som Socialdemokratiet også var enig med Fremskridtspartiet i under en tidligere regering - at det er
+alt, alt for kostbart også for samfundet, at vi
+har disse uacceptable ventelister. Tænk på
+f.eks sygedagpenge! Et svimlende millionbeløb bruger man på sygedagpenge, og det er
+uacceptabelt. Socialdemokratiet - og jeg kan
+citere spalte op og spalte ned - har tidligere
+været ganske enig med Fremskridtspartiet i det
+synspunkt.
+Der skal gøres noget. Jeg ved, at regeringen
+siger, at den også gør noget, for den forhandler
+med amterne, men vi ser den ene gang efter
+den anden, at man fra amternes side ikke opfylder det, man har forhandlet sig frem til. Derfor er det, vi siger fra Fremskridtspartiets side,
+at vi heller ikke denne gang tror på, at det, man
+har forhandlet på plads, vil hjælpe de patienter, der står på venteliste.
+Det er uacceptabelt, og vi vil ikke længere
+tro på amterne. Vi har ikke noget at have det i,
+og derfor mener vi, at vi må give amterne et
+pålæg og sige, at de simpelt hen skal benytte
+privatklinikker, -hospitaler eller udenlandske
+hospitaler, og så kan man ikke komme ind på
+diskussionen om, hvorvidt der er kapacitet til
+rådighed, for det er der jo, når man benytter
+f.eks. udenlandske hospitaler.
+(Kort bemærkning).";Jan Køpke Christensen
+49756;name_party;":
+Hr. Jørgen Winther fremturer efter min mening i smagløshed, når han spørger, hvordan
+CD ville stemme, hvis CD var et frit parti. Jeg
+skal oplyse hr. Jørgen Winther om, at CD er et
+frit parti, nøjagtig lige så frit, som Venstre var i
+årene 1982-93, hvor der foruden overbevisninger og holdninger også var andre hensyn for et
+ansvarsbevidst parti at tage. Vi er nøjagtig lige
+så frie og nøjagtig i samme situation.
+Nu kunne hr. Jan Køpke Christensen ikke
+lide, at jeg tog en sag, som han kaldte en mindre sag, nemlig den faste forbindelse over Storebælt. Lad os så tage lejeværdien. Det er måske også en mindre sag? Venstre og De Kon-
+
+servative har flere gange, mens de var i regering, stemt imod CD's forslag om nedsættelse
+af lejeværdien, skønt deres politikere ude i landet og i aviserne meddelte, at de var for. Det er
+bare for at ramme en pæl igennem denne dumme udtalelse om ufrihed eller banke på plads.
+Hr. Jørgen Winther skulle spørge lidt i sin
+gruppe og blandt sine tidligere ministre, hvad
+det betyder at være et ansvarsbevidst og troværdigt regeringsparti.
+Ingen kan klandre CD for ikke at have forståelse for sygdom og besværligheder. CD's
+indsats rent praktisk og konkret på handicapområdet og på området vedrørende psykisk syge ved hr. Jørgen Winther udmærket besked
+om, og han ved godt, at vi er nøjagtig lige så
+kærlige og lige så nænsomme om hjertepatienter og andre patienter, som hr. Jørgen Winther
+selv er det. Så fordi han er ude af sin metier,
+skal han ikke gøre sig til fra Folketingets talerstol af at være mere næstekærlig over for de
+syge.
+Jeg henviser til fru Lone Møllers bemærkninger, og jeg vil, skønt jeg altså ikke er sagkyndig på området, påstå, at der ikke foreligger noget bevis for, at den metode, vi har i øjeblikket, stiller de hjertesyge i en dårligere situation, end hvis dette forslag blev vedtaget.
+(Kort bemærkning).";Arne Melchior
+51634;name_party;":
+Det er dog utroligt, at hr. Jørgen Winther
+gang på gang fra denne talerstol kan påstå, at
+hjertepatienter dør, fordi vi ikke benytter privathospitaler. Det er utroligt, at man som et
+rimelig fornuftigt menneske kan få sig selv til
+at komme med sådan nogle påstande.
+Hjertepatienter er meget syge mennesker, og
+derfor kan de altså risikere at dø af en sygdom.
+Det er, som om hr. Jørgen Winther har en eller
+anden mission om, at Folketinget skal vedtage
+et forslag, som fremover gør, at ingen i dette
+land må have et naturligt liv, nemlig ved på et
+tidspunkt at blive født og på et tidspunkt at dø.
+Det er så usmageligt, at det ikke kan beskrives, og derfor vil jeg gerne have en klar dokumentation for, at patienterne dør, fordi vi ikke
+benytter privathospitaler.
+Regeringen har til forskel fra den tidligere
+regering virkelig taget fat på det her. Vi har udbygget kapaciteten, vi har lavet en aftale, vi gør
+alt, hvad vi overhovedet kan, for at få nedbragt
+
+11621 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11622";Lone Møller
+52715;title_name;"de ventelister, men at påstå, at folk dør, fordi
+vi ikke benytter privathospitaler, er usmageligt.
+Så vil jeg godt henvise til, at det ikke er Socialdemokratiet, som siger det, Amtsrådsforeningen i sit svar har givet udtryk for, men at vi
+er enige med Amtsrådsforeningen, og vi har
+gentagne gange sagt, at der ikke er kapacitet i
+det offentlige til at udbygge privatklinikker eller -hospitaler, fordi vi ikke har uddannet personale til det. Hvis vi udbyggede, ville det eneste, der kom ud af det, være - bortset fra at der
+selvfølgelig kom nogle penge ned i lommerne
+på aktionærerne - at ventelisterne til det offentlige sygehusvæsen ville stige, og det ønsker
+Socialdemokratiet ikke. Vi ønsker at udbygge
+et godt offentligt sundhedsvæsen, og til forskel
+fra den tidligere regering med en Venstresundhedsminister gør vi alt, hvad vi overhovedet
+kan.
+(Kort bemærkning).";Lone Møller
+53605;name_party;":
+Endnu en gang må jeg sige, at jeg synes, det
+er utrolig beklageligt at skulle føre en debat på
+det grundlag, som hr. Jørgen Winther præsenterede fra talerstolen.
+Jeg vil godt sige, at det, der er vigtigt for os,
+selvfølgelig er at sikre en god behandling, den
+tilstrækkelige behandling, og at behandlingen
+er til rådighed på de offentlige danske sygehuse.
+Situationen i øjeblikket er den, at de private
+sygehuse muligvis nok har en sengekapacitet
+til 1.200 patienter årligt, men hvis man skal
+fortsætte med at bruge privathospitaler, vil det
+netop dræne de offentlige sygehuse for læger,
+sygeplejersker og andet plejepersonale, og så
+er vi lige vidt, plus, som jeg sagde før, at de
+private sygehuse ikke uddanner de specialister, som vi har brug for, hvis vi skal have et
+tilstrækkeligt sygehusvæsen.
+Det er beklageligt, at der er syge mennesker,
+der dør, mens de venter på behandling, men
+jeg vil vove at påstå, at selv om det er beklageligt, er det uundgåeligt. Op imod halvdelen af
+den danske befolkning dør rent faktisk af hjerte/karsygdomme, så derfor er det faktisk meget vanskeligt at undgå, at en person, der står
+på venteliste, også kan risikere at dø.
+Det, jeg synes er ultimativt vigtigt, er, at der
+sættes maksimalt ind på forundersøgelser, der
+
+kan afklare, om en patient kan drage nytte af
+en operation: derved kan man sikre, at man får
+nedbragt ventelisterne hurtigst muligt.
+(Kort bemærkning).";Birgitte Husmark
+55035;name_party;":
+Det skal så forhåbentlig være den sidste korte bemærkning i denne omgang.
+Til fru Lone Møller: Jeg har den opfattelse,
+at for Socialdemokratiet er det at bevare ideologien om kun at benytte offentlige sygehuse
+langt vigtigere end hensynet til patienterne.
+Så spurgte fru Lone Møller om dokumentation, og den vil jeg gerne komme med. Professor Torsten Toftegaard Nielsen er næstformand i Dansk Cardiologisk Selskab.
+Jeg tror på denne professor, og det gør lægestanden i øvrigt også: det er kun Socialdemokratiet, der ikke tror på ham. Denne professor
+Toftegaard har udtalt, at 130-140 patienter er
+afgået ved døden i 1993. Nogle af patienterne
+på venteliste vil altid afgå ved døden. I Danmark er det ca. fem gange så mange som i andre lande, og det er netop, fordi vi har relativt
+lange ventelister. Så jeg kan sige til fru Lone
+Møller, at fordi vi har de lange ventelister, er
+der i Danmark ca. fem gange så mange hjertepatienter på venteliste, der dør, som i de lande,
+vi normalt sammenligner os med. Det kunne vi
+undgå, hvis vi ville bruge privathospitalerne.
+Til hr. Arne Melchior: Jeg vil bare sige, at
+hr. Arne Melchior virker så ophidset på talerstolen, at jeg ikke tør fortsætte debatten med
+hr. Arne Melchior.
+(Kort bemærkning).";Jørgen Winther
+56301;name_party;":
+Hr. Arne Melchior virker ophidset, som vi
+kunne høre, og det plejer oftest at være således, at man hæver stemmen, når man har dårlig samvittighed. Jeg forstår godt, at man har
+dårlig samvittighed i denne sag, så hvorfor
+ikke sige det rent ud, ærligt?
+Hr. Arne Melchior var inde på, at der var
+ansvarsbevidsthed i CD. Jamen det håber vi da
+sandelig også, men så vis det dog i praksis og
+tal ikke så meget om det! Vi hører den ene floskel efter den anden om, hvor ansvarsbevidste
+og hvor medmenneskelige man er i CD, men
+når vi kommer til målstregen, ser vi intet resultat af det. Der er ingen sammenhæng imellem
+det, der bliver sagt, og det, der bliver gjort.
+
+11623 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11624";Jan Køpke Christensen
+57094;title_name;"Det, det handler om for os, er, at vi får en
+slags billetsystem. Uanset om patienterne vælger privathospitaler, -klinikker, offentlige hospitaler her i landet eller en overgang udenlandske hospitaler for at få ventelisterne ned,
+skulle dette billetsystem gælde, og det offentlige skal naturligvis betale for det. Det skal ikke
+være således, at patienterne selv skal punge
+ud. Derfor skal vi have det indført nu eller senere : vi bliver tvunget til det på et tidspunkt.
+Jeg mener, at det skulle have været indført for
+lang tid siden for at undgå disse dødsfald
+blandt patienterne på venteliste.
+Vi er utrolig kede af det. Vi har ikke lod eller
+del i det ansvar, der er på området. Vi har hele
+tiden sagt, at vi ikke stoler på amterne. Vi må
+tage magten fra amterne på sundhedsområdet,
+og det er ikke af hensyn til vores holdning i
+øvrigt, at amterne skal nedlægges. Dette drejer
+sig om, at vi til hudløshed har fået bevist fra
+amternes side, at de ikke kan leve op til de aftaler, der har været hidtil, og trods det bliver vi
+her i salen ved med at læne os tilbage og sige,
+at det går nok alligevel - indtil den dag vi selv
+mangler virkelig hjælp til at blive behandlet,
+f.eks. har behov for en hjerteoperation.
+Jeg synes, det er uhyggeligt. Jeg synes, det er
+uanstændigt, at Folketinget bliver ved at acceptere de aftaler, de såkaldte aftaler, der er
+lavet med amterne.";Jan Køpke Christensen
+58496;title_name;":
+Hr. Arne Melchior for en kort bemærkning,
+og jeg skønner, at debatten nærmer sig sin afslutning.
+(Kort bemærkning).";Ivar Hansen
+58632;name_party;":
+Det var dog interessant, så sart hr. Jørgen
+Winther pludselig er blevet med hensyn til, at
+jeg var ophidset. Må man ikke tale med høj
+stemmeføring? Skal det være monoton oplæsning alt sammen? Man skulle tro, at en person
+med hr. Jørgen Winthers uddannelse og i hans
+fag skulle kunne tåle mere end det, men når
+man ikke har noget argument at komme med,
+er det jo altid nemt at sige: Ham vil jeg ikke
+diskutere med, for han er vred.
+Men jeg var faktisk vred. Det vil jeg have lov
+til at blive, og ikke fordi det var et angreb på
+CD, men fordi det var et angreb på ideen i folkestyret, og fordi det var tykt hyklerisk at be-
+
+brejde CD for at gøre noget, som hr. Jørgen
+Winther og hans parti har praktiseret i de ti år,
+jeg har været herinde, og sikkert også i mange
+flere.
+Jeg har fornøjelsen af at kende hr. Jørgen
+Winthers bedårende kone - hende skal jeg
+selvfølgelig ikke drage ind her - men jeg vil
+bare spørge hr. Jørgen Winther, om man, fordi
+man gifter sig, er ufri, fordi der var visse friheder, man havde uden for ægteskabet, som man
+nu ikke mere har. Det synes jeg nok er et bevis
+på, at det er det rene pjat at sige om et parti, at
+det skulle være ufrit, og jeg anser det for at
+være et angreb på parlamentarismen, på ansvarligheden og på anstændigheden at påstå,
+at nogle, der har indgået en fast forbindelse af
+den ene eller den anden art, skulle være ufrie,
+fordi de loyalt og ansvarligt lever op til de aftaler, der er indgået.
+I øvrigt sætter CD enorm pris på det offentlige sundhedsvæsen i Danmark, og selv om vi
+naturligvis vil tage sagen op, når regeringens
+fortsættelse efter det kommende valg skal drøftes, vil det altid være en ledetråd for os, at det
+offentlige sundhedsvæsen skal have prioritet.
+(Kort bemærkning).";Arne Melchior
+60389;name_party;":
+Til hr. Arne Melchior: Somme tider kan
+man godt gå sololøb, f.eks. hvis det drejer sig
+om momsfritagelse for restaurationer, hvis
+man føler, at det er en meget vigtig sag. Så er
+der sager, hvor der på årsbasis er 130-140 patienter, der dør. Dér vil man ikke gå sololøb.
+Der er forskel på, hvordan man vurderer, og
+det er ikke engang partiet, det er jo ens egen
+person. Her havde hr. Arne Melchior sandelig
+mulighed for at gå sololøb, hvis det var en væsentlig sag for hr. Arne Melchior.
+Når jeg før sagde, at jeg ikke turde gå videre
+i debatten, fordi jeg vurderede, at hr. Arne
+Melchior var ophidset, var det sandelig ikke,
+fordi jeg ikke tør debattere med hr. Arne Melchior, men fordi jeg mente, at hr. Arne Melchior ikke ville fortsætte.
+(Kort bemærkning).";Jørgen Winther
+61169;name_party;":
+Nu fremturer hr. Jørgen Winther med den
+uforskammede påstand, at jeg som person eller mit parti skulle være en slags mordere. Det
+
+11625 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11626";Arne Melchior
+61425;title_name;"er, som dengang vi diskuterede farten på motorveje, da vi stemte for 120 km/t og der var
+nogle, der kun ville stemme for 110, hvor man
+sagde, at de, der stemte for 120, var en slags
+mordere. Der er nok nogle i salen, der kan huske det.
+Det er jo usandt at sige, at hr. Jørgen Winther er mere interesseret i, at de mennesker, der
+dør, mens de er på ventelister, skal reddes, end
+vi andre er. Hr. Jørgen Winther har ikke forsøgt og har heller ikke kunnet dokumentere, at
+et eneste af disse mennesker ville blive bedre
+stillet, ville blive reddet - hvilket jeg er lige så
+interesseret i som hr. Jørgen Winther og hele
+Venstres gruppe tilsammen - hvis dette forslag
+blev vedtaget. Det anser vi ikke bare for ikke
+dokumenteret, vi anser det slet ikke for sandsynligt, og derfor skal hr. Jørgen Winther ikke
+stå og male helteglorie over sit eget hoved og
+gøre os andre til hensynsløse mennesker over
+for de alvorligt syge medmennesker i dette
+land.
+Det er usandt: hr. Jørgen Winther kan simpelt hen ikke være bekendt at føre slig tale, og
+jeg er sikker på, at han skal benytte pinsedagene til at fortryde og angre i.
+(Kort bemærkning).";Arne Melchior
+62581;name_party;":
+Jeg kan ikke lade være med at tage den sidste bemærkning med hensyn til, at noget skulle
+være sandt eller usandt. Jeg glemmer ikke, at
+fru Mimi Jakobsen, nu minister for erhvervspolitisk samordning, under en afslutningsdebat netop kom med grove angreb på Fremskridtspartiet med hensyn til noget, som var
+dokumenteret usandt, nemlig at Fremskridtspartiet skulle gå ind for, at folk skulle betale
+for at komme på sygehuset. Tænke sig, denne
+påstand kunne CD's leder komme med her fra
+denne talerstol, selv om jeg bagefter kunne dokumentere, at det var usandt, og hvor jeg ønskede hende god bedring. For jeg mener faktisk, det er sygeligt, når man påstår noget, der
+er diametralt modsat det, et parti står for, netop på et så vigtigt område som sundhedsområdet. Så det dér med at tale om sandhed eller
+usandhed synes jeg at CD skal holde sig meget, meget langt borte fra.
+Hr. Arne Melchior sagde, at CD sætter meget pris på det offentlige sundhedsvæsen, det
+offentlige sundhedsvæsen skal have prioritet,
+
+sagde hr. Arne Melchior. Ja, naturligvis skal
+det have prioritet. Spørgsmålet er hvilken prioritet: det kom hr. Arne Melchior ikke ind på.
+Jeg mener, at naturligvis skal det offentlige
+sundhedsvæsen sørge for, at der er behandlingsmuligheder, men jeg ved ikke, om det er,
+fordi hr. Arne Melchior ikke arbejder på sundhedsområdet, for hr. Arne Melchior burde dog
+vide, at efter alle de år, der har været forhandlinger med amterne, er der samlet set ikke sket
+en nedbringelse af ventelisterne på området,
+tværtimod. Og der mener jeg da nok, at hr. Arne Melchior burde tage ad notam, hvad det er,
+der er sket, og så sige: Konklusionen må være,
+at CD her er nået til målstregen: vi vil ikke
+længere, vi kræver nu, at man pålægger amterne at få disse ventelister afskaffet. Og det hjælper jo ikke med fine ord: der skal også handling til.
+(Kort bemærkning).";Jan Køpke Christensen
+64457;name_party;":
+Jeg vil gerne spørge hr. Jørgen Winther, om
+hr. Jørgen Winther er enig eller uenig med
+amtsborgmester Kresten Philipsen. Det er ikke
+uvæsentligt at få besvaret spørgsmålet. Dels er
+spørgsmålet jo stillet én gang, nu tillader jeg
+mig også at stille det, og dels skulle det jo være
+ret nemt for hr. Jørgen Winther, som ved så
+meget om disse ting, at sige, om han er enig
+eller uenig med sin partifælle, Kresten Philipsen, amtsborgmesteren.
+(Kort bemærkning).";Anker Jørgensen
+64934;name_party;":
+Jeg vil gerne med det samme sige, som jeg
+sagde for et stykke tid siden, men da var hr.
+Anker Jørgensen måske ikke i salen, at det er
+sådan, at amtsborgmester Kresten Philipsen
+udtaler sig på Amtsrådsforeningens bestyrelses
+vegne. Hvis han udtalte sig som Venstremand,
+som amtsborgmester, så tror jeg nok, han havde haft en lidt anden holdning dertil. Han skal
+besvare et brev, som han nu har gjort det.
+Så vil jeg gerne sige, at jeg er uenig i det
+svar, som Kresten Philipsen har afgivet, for det
+er sådan, at man sagtens kan øge kapaciteten
+på privathospitalerne, i og med at man kan tilføre læger fra både Norge og Sverige. Det er
+sådan, at i både Norge og Sverige har man løst
+dette problem for længst: i Norge og Sverige er
+
+11627 20/5 94: 2. (sidste) beh. af f. t. beslutn. om nedbringelse af ventetider for hjertepatienter 11628";Jørgen Winther
+65790;title_name;"der ikke nær så mange patienter på ventelisterne, der dør, og det er også sådan, at en kirurg
+på et privathospital faktisk kan foretage cirka
+dobbelt så mange hjerteoperationer som en kirurg i det offentlige sygehusvæsen. I det offentlige sygehusvæsen foretager kirurgen omkring
+120 hjerteoperationer, på privathospitaler er
+det 240-250, altså dobbelt så mange. Hver gang
+man får en kirurg fra det offentlige sygehusvæsen over i det private sygehusvæsen, foretages
+der dobbelt så mange operationer af denne kirurg. Alene det er jo en forbedring.";Jørgen Winther
+66369;title_name;":
+Jeg har før antydet, at jeg mente, at debatten
+måtte kunne sluttes. Og jeg gentager det.
+
+(Kort bemærkning).";Ivar Hansen
+66498;name_party;":
+Det skal kun blive en halv kort bemærkning.
+Jeg vil i allerstørste stilfærdighed sige til hr.
+Jørgen Winther, at hans svar til hr. Anker Jørgensen kun kan forstås sådan, at det altså godkendes af hr. Jørgen Winther, at en person, der
+beklæder så højt et embede som at være amtsborgmester - og jeg højagter hr. Kresten Philipsen meget, det skal jeg gerne sige - altså taler på én måde, når han taler som formand for
+Amtsrådsforeningen - et job, han jo ganske frivilligt har påtaget sig.
+Det vil sige, at ifølge hr. Jørgen Winthers
+svar har hr. Kresten Philipsen altså afgivet et
+svar, som han selv er uenig i. Bare dette, så
+kommentaren om at være fri eller ufri er banket på plads. Værsgo, hr. Jørgen Winther!
+
+Hermed sluttede forhandlingen.
+
+Afstemning
+Forslaget til folketingsbeslutning
+forkastedes, idet 48 (KF, V, FP og Bente
+Juncker (UP)) stemte for, 66 (S, SF, CD, RV og
+KRF) imod.
+
+Den næste sag på dagsordenen var:
+4) Anden (sidste) behandling af beslutningsforslag
+nr. B 88:
+Forslag tilfolketingsbeslutning om garanti for
+ventetid på maksimalt tre måneder på permanente plejehjemspladser.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 6/4 94. Første behandling 20/4 94.
+Betænkning 5/5 94).
+Der var ikke stillet ændringsforslag.
+Forslaget sattes til forhandling.
+Forhandling";Arne Melchior
+67798;name_party;":
+Jeg synes, det er både kedeligt og uforståeligt, at Folketinget om lidt med et stort flertal,
+nemlig alle partierne bortset fra Fremskridtspartiet og SF, nedstemmer et forslag, som giver
+vores ældre borgere en garanti for, at de kan
+komme på plejehjem eller i en plejehjemslignende bolig i løbet af tre måneder, hvis de ellers opfylder de kriterier, der skal til.
+Når jeg tænker på, hvor meget tid, hvor
+mange diskussioner og hvor megen entusiasme
+dette Folketing har brugt på at diskutere en behandlingsgaranti på vore sygehuse, og hvordan der næsten ikke har været grænser for velviljen, er det uforståeligt, at den samme velvilje
+ikke skal gælde for gamle mennesker, som ikke
+længere er i stand til at være i eget hjem. For
+man skal være klar over, at før man kan blive
+visiteret til en plejehjemsplads, skal man være
+i en situation, hvor man efter sagkundskabens
+mening ikke længere kan være i eget hjem. Det
+er ikke nok, at man selv siger, at nu vil man
+gerne.
+Folketingets stillingtagen og afvisning bliver
+endnu mere uforståelig, når man for ganske få
+dage siden i alle landets aviser kunne læse, at
+personalet på plejehjemmene havde lavet undersøgelser og udtalte, at 25.000 gamle mennesker i dag venter på en plejehjemsplads. Vi
+ved, at mange venter i seks måneder, ni måneder eller mere. Nogle af dem er så heldige, at
+de efter tre måneder, hvor hele familien har
+været ved at gå i spåner, kan få en aflastningsplads.
+
+11629 20/5 94: 2. (sidste) beh. af f. t. beslutn. vedr. maks. ventetid på permanent plejehjemsplads 11630";Kirsten Jacobsen
+69355;title_name;"Selv ikke en aflastningsplads synes man at
+man skal kunne stille til rådighed, når der er
+brug for det, og det er ret ufornuftigt set med
+samfundets øjne, for det betyder, at man tvinger lægerne til at indlægge de gamle mennesker på vore hospitaler: dermed tager man kapacitet fra de syge, som burde behandles, og
+det medfører endnu længere ventelister, som
+man ellers er så optaget af at få fjernet.
+Så for Fremskridtspartiet er det uforståeligt,
+og vi må bare sige til Folketingets flertal, at vi
+tror, at befolkningen vil have meget, meget lidt
+forståelse for den måde, man afviser at give vores ældste medborgere en garanti for, at når de
+ikke længere kan klare sig selv, kan samfundet
+stille en plejehjemsplads til rådighed, og hvis
+familien af forskellige grunde ikke længere kan
+klare at have den gamle, er der også en aflastningsplads. Det tror jeg ikke befolkningen vil
+kunne forstå, og i Fremskridtspartiet er vi
+overraskede over, at velviljen kun gælder ventetiderne til sygehusene og ikke ventetiderne
+til plejehjemspladser.";Kirsten Jacobsen
+70414;name_party;":
+Som det er velkendt, er der ikke så forfærdelig meget, Fremskridtspartiet og SF er enige
+om. Der kan være nogle ting, fru Kirsten Jacobsen og jeg er enige om, men det er jo noget
+andet.
+Men i dette tilfælde er vi altså enige. Jeg synes simpelt hen, det er for galt, at man ikke kan
+komme igennem med, at der skal bygges nogle
+flere plejehjem i dette land. Der er beviser for,
+at der er nedlagt plejehjemspladser, samtidig
+med at der er beviser for, at ældre, på grund af
+at vi har gode levevilkår i landet, lever længere, og at der er nogle visitationsregler for at
+komme på de eksisterende plejehjem og i plejeboliger, som jeg tror er meget lidt velkendte i
+dette Folketing. Man skal på det nærmeste
+komme med hovedet under armen for at få en
+plejehjemsplads nu om dage.
+Når det er sagt, vil jeg også sige, at der for
+nylig, i sidste uge tror jeg det var, var en ny
+undersøgelse fremme, hvoraf det fremgik, at
+der er ca. 25.000 ældre i dette land, som trænger til en plejehjemsplads, og som er bundet til
+at blive i eget hjem, fordi de ikke kan få en
+plejehjemsplads.
+Hvad gør man så? Ja, man holder fast i den
+politik, som man har holdt fast i alt for længe,
+
+den, der hedder: Længst muligt i eget hjem.
+Nu er vi derhenne, hvor det er fuldstændig
+umuligt for en del af de gamle at klare at være i
+eget hjem mere. Der må gang i plejehjemsbyggeriet.
+Nu har vi diskuteret, at der ikke skal være
+mere end tre måneders ventetid på at komme
+på hospitalet og blive repareret. Det er fuldstændig rimeligt. Vi har diskuteret, at vi skal
+have en pladsgaranti, så vores børn kan blive
+passet. Vi kan da anstændigvis ikke herindefra
+sige, at vi ikke vil være med til, at der ikke må
+være mere end tre måneders ventetid for at
+komme på et plejehjem. Det er jo det, det her
+forslag handler om.
+Det glæder mig at kunne sige, at vi går ud i
+en valgkamp nu her i sommer, det ved alle, og
+der er ingen tvivl om, at da vil det blive stillet
+op: Skal vi have en VKZ-regering, eller skal vi
+have en regering bestående af S, SF og RV?
+Det vil i hvert fald indgå i overvejelserne. Jeg
+håber jo ikke, det bliver Fremskridtspartiet,
+der kommer til efter et kommende valg: jeg ønsker, det skal blive bl.a. SF, der skal blive styrket og være med efter et kommende valg. Men
+der er altså på begge sider af det politiske
+spektrum nogle, der vil have, at vi går i gang
+med den opgave, der ligger og venter og har
+ventet alt for længe, og kun hvis de partier, der
+nu står bag dette her, holder fast, kan den
+knibtangsøvelse, som går ud på, at der fra begge sider i dansk politik er nogle, der vil have
+dette tema med i et nyt regeringsgrundlag, klares.
+Jeg håber selvfølgelig, at man vil indse, at
+sådan ser det ud, og at man så kommer til fornuft ikke mindst i de partier, som plejer at være de socialt ansvarlige.
+(Kort bemærkning).";Lilli Gyldenkilde
+73243;name_party;":
+Jeg er glad for, at fru Lilli Gyldenkilde stillede det spørgsmål, hun gjorde, og jeg vil gerne
+her fra talerstolen sige, at skulle der blive et
+VKZ-flertal, er det helt stensikkert, at Fremskridtspartiet med al den styrke, som vi formår, vil gøre vores til, at der bliver en ordentlig
+ældrepolitik, at der bliver de nødvendige plejehjemspladser, at der også bliver rigtige plejehjemspladser, og at der bliver den nødvendige
+hjemmehjælp. Jeg kan love fru Lilli Gyldenkilde og Folketinget, at hvis ikke dette område
+
+11631 20/5 94: 2. (sidste) beh. af f. t. beslutn. vedr. maks. ventetid på permanent plejehjemsplads 11632";Kirsten Jacobsen
+73886;title_name;"ligger klart, vil Fremskridtspartiet være meget,
+meget, meget svært at overtale.";Kirsten Jacobsen
+74008;title_name;":
+Nu skal jeg ikke tage forskud på, hvad der
+kommer, hvordan man vil løse problemerne,
+og hvilke alliancer de skal løses i: jeg vil bare
+fortælle, hvad regeringen har gjort, for det er
+også et område, regeringen interesserer sig for.
+Det er sådan, at garantien er vi ikke interesseret i, idet vi ikke er enige i, at det er den måde, man skal løse problemerne på. Men det
+med at vente tre måneder behøver jo ikke at
+betyde, at det varer tre måneder, før der er nogen i hjemmeplejen, der interesserer sig for de
+ældre. Antallet af ældre, der ligger, som det
+hedder, færdigbehandlede på hospitalerne, er
+også gået ned. Det talte vi jo om under førstebehandlingen af dette forslag.
+Jeg vil bare minde om, at der er udvidede
+lånerammer for kommunerne på 2,4 mia. kr.
+Det ved man vel godt i de forskellige partier,
+og det har igangsat - ikke plejehjemsbyggeri
+nødvendigvis, men en hel del ældreboliger,
+som præcis er tilpasset de behov, de ældre har.
+Og da vi er meget interesseret i at vide, ikke
+hvad politikerne kunne tænke sig at de ældre
+skulle bruge, men præcis hvad det er, de har
+brug for, har vi igangsat en undersøgelse af,
+hvad de gerne selv vil have. Det kunne godt
+være, at det ikke var et traditionelt plejehjem,
+de ønskede sig.
+Samtidig er der alene i år afsat 400 mio. kr.
+til køb af ekstra hænder, til timer til personale
+på plejehjemmene.
+Det er, hvad der er gjort indtil nu, og dermed vil jeg tro, at en del af de problemer, som
+man ønsker løst med pladsgarantien, bliver
+løst.
+(Kort bemærkning).";Yvonne Herløv Andersen
+75539;name_party;":
+Da socialministeren sagde, at hun ville redegøre for, hvad regeringen havde gjort, sad jeg
+og lyttede med interesse. Nu blev talen jo meget kort, og det kan være, det var derfor, at der
+heller ikke var noget indhold.
+Jeg vil gerne sige til socialministeren, at det
+godt kan være, at antallet af færdigbehandlede
+patienter på sygehusene går ned, men hvor bliver de færdigbehandlede patienter fra sygehusene sendt hen? Jo, de bliver sendt til eget
+
+hjem, fordi kommunerne ellers skal betale for
+dem. De bliver ikke sendt hen til det, de har
+brug for.
+Jeg vil gerne sige til socialministeren, at forslaget handler altså ikke bare om de rigtige
+plejehjemspladser, som Fremskridtspartiet
+gerne vil have. Vi har faktisk forholdt os til det,
+Folketinget normalt behandler sammen, nemlig plejehjemspladser, beskyttede boliger osv.,
+og deri ligger også de nye plejecentre. Det, det
+drejer sig om for Fremskridtspartiet, er: Når
+man ikke længere kan klare sig i eget hjem, er
+det for dårligt, at vi har et samfund, som ikke
+vil tage hånd om den skrøbeligste del af befolkningen. Det er utåleligt, at Folketinget kan
+tage hånd om børnene, og de kan tage hånd
+om ventelisterne til sygehusene osv., men de
+gamle mennesker, som er dem, der ikke kan
+protestere selv, har man ikke meget tilovers
+for.
+Det er en notorisk kendsgerning, at der er
+nedlagt langt, langt, langt flere plejehjemspladser, end der er bygget ældreboliger. Det er
+også en kendsgerning, at når en ældre i eget
+hjem bliver dårlig, eller den ene ægtefælle bliver dårlig, skal situationen gå fuldstændig op i
+en spids. Alle i familien bliver inddraget og
+kan ikke passe deres arbejde, fordi de er nødt
+til at træde til, når samfundet ikke vil sørge for,
+at der i det mindste er en aflastningsplads.
+(Kort bemærkning).";Kirsten Jacobsen
+77333;name_party;":
+Jeg synes da, det er prisværdigt, at der bliver
+afsat en ramme, så man kan komme i gang
+med at bygge nogle ældreboliger og nogle plejehjem. Jeg synes, det er prisværdigt, at der er
+afsat 400 mio. kr., så man kan købe sig nogle
+flere hænder. Men det er jo ikke nok, og det er
+det, der er anken fra SF's side.
+Der er noget fuldstændig vanvittigt i, at der
+er lavet en politik, som betyder, at der købes
+flere biler end nogen sinde. Det er mange milliarder kroner, man har lækket, så der er råd til
+at købe flere biler. Og så brøster man sig af 2,4
+mia. kr. til noget plejehjems- og ældreboligbyggeri, som jo forslår som en skrædder et vist
+sted. For sagen er jo, at man kan gå ind i alle
+de undersøgelser, man vil, og så vil man se, at
+der bliver og er længe blevet nedlagt plejehjemspladser i Danmark.
+
+11633 20/5 94: 2. (sidste) beh. af f. t. beslutn. vedr. maks. ventetid på permanent plejehjemsplads 11634";Lilli Gyldenkilde
+78264;title_name;"Jeg tror, fru Kirsten Jacobsen får det ganske
+vanskeligt, for i de seneste år har man kunnet
+have den formodning, at grunden til, at der
+blev holdt tilbage, var, at man ville have privatiseret også dette marked. Vi kan jo se, at nu
+begynder man at privatisere plejehjem, og hvis
+ikke det offentlige kaster sig ordentligt ind på
+dette område og bygger det fornødne antal
+plejehjem, er det klart, at det kan man ikke affinde sig med. Så vil vi få den ene diskussion
+efter den anden i lighed med den, man har haft
+med hr. Jørgen Winther om hans privathospitaler. Det har nu stået på næsten dagligt igennem over et år: det samme vil ske på plejehjemsområdet.
+Den regering, vi har nu, skulle da ikke være
+interesseret i dét. Den skulle være interesseret i
+at gå foran i dette arbejde.
+(Kort bemærkning).";Lilli Gyldenkilde
+79080;name_party;":
+Man bliver jo næsten rørt til tårer, når man
+hører fru Kirsten Jacobsen og fru Lilli Gyldenkilde. Jeg synes ikke, det skal være uimodsagt
+her fra Folketingets talerstol, at et bredt flertal
+i dette Ting ikke har været interesseret i at gennemføre en forbedret ældrepolitik. Og jeg vil
+gerne understrege, at dér, hvor der er sat handling bag ordene, er det faktisk sket i den nuværende regerings levetid.
+Fru Kirsten Jacobsens hukommelse må
+åbenbart være kort, for hvis den var lidt bedre,
+ville hun erindre, at der ved førstebehandlingen var bred tilslutning til de intentioner, der
+ligger i Fremskridtspartiets forslag. Men vi
+havde også den holdning, at det ville være
+svært - for ikke at sige umuligt - at lave en
+3-måneders-grænse, når vi taler om anvisning
+af plejehjemspladser.
+Det, der er regeringens mål, er, at ventetiden
+skal være endnu mindre end 3 måneder. Vi vil
+fortsætte den udvikling, vi har sat i gang, med
+at afsætte flere penge inden for ældresektoren,
+så de ældre kan få mulighed for at få et trygt
+forhold at se frem til i deres alderdom. Jeg vil
+nok sige, at grundene til, at vi står med forslaget her og nu, kan være mange. Det skal jeg
+ikke blande mig i, men jeg tror, det bærer lidt
+præg af, at vi nærmer os en valgsituation. Hvis
+vi kan komme dertil, at det brede flertal, vi
+hidtil har kunnet skaffe for ældrepolitikken,
+også vil bakke op om den nuværende regerings
+
+ideer og forslag, tror jeg, vi kan nå langt, ikke
+til gavn for enkeltpartier, men til gavn for de
+ældre. Det er det, vi bør være optaget af, og det
+er det, der er det afgørende for regeringen og
+Socialdemokratiet. Vi vil gerne bruge flere ressourcer, men vi vil samtidig sige, at der skal
+være plads til - som det har været god tradition i dette land - at de enkelte kommuner kan
+planlægge deres ældrepolitik ud fra de forudsætninger, de har, og ud fra de betragtninger,
+man lokalt mener bedst løser de ældres problemer. Det er vi meget optaget af: det er det afgørende for os. Så selv om der er gode intentioner bag forslaget, kan vi ikke stemme for det i
+den nuværende form.
+(Kort bemærkning).";Jørn Pedersen
+81193;name_party;":
+Hr. Jørn Pedersen, de ældre kan ikke leve af
+regeringens og Socialdemokratiets gode intentioner. Det kan de ikke, der er nemlig ingen tag
+over. Det er jo velkendt, at før regeringen trådte til, var hr. Jørn Pedersen og Socialdemokratiet - sammen med SF og Fremskridtspartiet dem, der hele tiden skubbede på over for den
+tidligere regering, og dengang var synspunkterne i Socialdemokratiet helt sammenfaldende med de synspunkter, SF og Fremskridtspartiet gav udtryk for, når det gjaldt ældrepolitikken. Den 25. april 1991 - det er nu 3 år siden vedtog Folketinget enstemmigt en dagsorden,
+hvori der stod, at det nødvendige antal plejehjemspladser skulle være til rådighed, og på 3
+år har man ikke opnået at gå i den positive retning, man er gået i den negative retning. Situationen i dag med hensyn til antallet af plejehjemspladser og med hensyn til ventetiden til
+en plejehjemsplads er ringere for de ældre, end
+den var, da Folketinget enstemmigt vedtog en
+dagsorden og sagde, at det påhvilede kommunerne at stille det nødvendige antal plejehjemspladser til rådighed.
+Man har haft 3 år til at gøre noget, men man
+har ingenting gjort. Derfor har man en situation i dag, der er mere katastrofal, end man
+havde april 1991.
+(Kort bemærkning).";Kirsten Jacobsen
+82452;name_party;":
+Til oplysning for fru Kirsten Jacobsen: Den
+nuværende regering har ikke siddet siden den
+
+11635 20/5 94: 2. (sidste) beh. af f. t. beslutn. vedr. maks. ventetid på permanent plejehjemsplads 11636";Jørn Pedersen
+82667;title_name;"25. april 1991, og jeg savner stadig væk anerkendelse også fra fru Kirsten Jacobsen af de
+forbedringer, der er sket i den nuværende regerings tid. Det var det ene.
+Det andet, jeg godt vil sige, er, at man kan
+lege med antallet af plejehjemspladser, som
+også fru Kirsten Jacobsen gjorde. Folketingets
+Socialudvalg tog i denne vinter rundt i Danmark for at se, hvordan de steder, der ikke længere hedder plejehjem, men som har samme
+funktion, fungerer. Der var også deltagere fra
+Fremskridtspartiet med på turen, dog ikke fru
+Kirsten Jacobsen. Ved den lejlighed var der
+stor forståelse for, at disse steder fungerer
+mindst lige så godt, måske endda i mange situationer bedre end det, vi tidligere forstod ved
+begrebet plejehjem. Derfor er vi nødt til at være enige om i denne debat, hvad vi snakker om.
+Vi er nødt til at se på, hvad det er for en service, hvad er det for en tryghed, man byder de
+ældre. Hvis man kigger på antallet af bomuligheder med tryghed for de ældre, er det ikke
+korrekt, hvad fru Kirsten Jacobsen har sagt her
+fra talerstolen. Der er ikke tale om en forringelse: der er tale om et andet problem, som vi
+bliver nødt til fra Folketingets side også at forholde os til. Dér glæder jeg mig over den positive indfaldsvinkel fra fru Kirsten Jacobsen
+med hensyn til, hvordan vi i de kommende år
+klarer det stadig stigende antal ældre med et
+pleje- og pasningsbehov. Jeg håber, at vi kan
+nå frem til et stort flertal i dette Ting, der vil
+være med til at løse dette problem.
+(Kort bemærkning).";Jørn Pedersen
+84195;name_party;":
+Uanset om man taler om plejehjem i den
+forstand, som Fremskridtspartiet og jeg mener
+med begrebet plejehjem, eller man bruger den
+tidligere socialministers terminologi om moderne plejehjem - det er dog det næstbedste er kendsgerningen den, at selv om der er bygget flere af den slags boliger - det medgiver jeg
+hr. Jørn Pedersen - har man ikke opnået en
+situation, som er tilfredsstillende, men man
+har heller ikke opnået en situation, som har
+flyttet tallet fra 1991 til nu samlet set. Jeg er
+helt enig med hr. Jørn Pedersen i, at de plejehjemslignende boliger kan være glimrende til
+mange ting, de opfylder mange formål, og vi
+skal være glade for dem og stolte af dem. Jeg
+har blot sagt, at der er altså 5-10 pet., som har
+
+brug for endnu mere pleje, men det er jo ikke
+den diskussion, vi fører nu, for havde man da i
+det mindste blot kunnet lave pladsgaranti på
+tre måneder til de plejehjemslignende boliger,
+havde Fremskridtspartiet været tilfreds med
+det i hvert fald i første omgang, og så havde vi
+rost regeringen.
+Men det kan man ikke! Vi så det som sagt
+for ganske få dage siden - mere end 25.000 sidder i eget hjem. Der er daglige historier om ældre, som sidder på fjerde sal og ikke har været
+uden for en dør i syv år, fordi de ikke kan klare
+trapperne. Det er umenneskeligt, og det er
+uværdigt. Man kan ikke være bekendt her i
+Folketinget at sige, at fordi børnene skal leve
+flere år end de gamle, skal vi endelig sørge for
+pladsgaranti og pædagogiske tilbud til dem, og
+midtergruppen, som går på arbejde, skal man
+også sørge for, men de gamle er det lige meget
+med. Det er uværdigt.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslaget til folketingsbeslutning
+forkastedes, idet 17 (SF og FP) stemte for,
+88 (S, KF, V, CD, RV og KRF) imod.
+Den næste sag på dagsordenen var:
+5) Anden behandling af lovforslag nr. L 171:
+Forslag til lov om ændring af lov om landbrugsejendomme.
+Af landbrugsministeren (Bjørn Westh).
+(Fremsat 19/1 94. Første behandling 28/1
+94. Betænkning 18/5 94).
+Der var stillet 53 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.
+Forhandling";Kirsten Jacobsen
+86479;name_party;":
+Vi er nu nået frem til anden behandling af
+
+11637
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Henrik Dam Kristensen
+86644;title_name;"landbrugsloven efter en indtil nu god og lang
+debat. Der har været en debat imellem politiske partier, organisationer og ude i forsamlingshusene. Regeringen har lyttet til den debat, og derfor stiller vi også i dag ændringsforslag.
+Men jeg vil gerne understrege, at sigtet med
+landbrugsloven er fastholdt: mere harmoni,
+fleksibilitet og også bevaring af livet på landet.
+Socialdemokratiet er godt tilfreds med regeringens ændringsforslag. Et af forslagene er, at vi
+lemper kravet til ejet jord, sådan at 25 pet. af
+det krav, der er, kan erstattes med 5-årige rullende aftaler, som er tinglyste. I stedet for det,
+der først var indbygget i landbrugsloven med
+hensyn til, hvornår man skulle opfylde kravet
+om ejet jord, nemlig seks år, foreslår vi nu, at
+det skal være senest tre år efter generationsskifte.
+Med de to forslag har vi taget hensyn til den
+debat, der har været om, at man måske kunne
+få nogle voldsomme prisstigninger på jord.
+Samdriften, som har været en af de større debatter, er vi også kommet med et ændringsforslag til. Vi fastholder, at der stadig væk kun må
+samdrives fem ejendomme, men vi erstatter
+den ene af ejendommene med en pulje på op
+til 30 ha. Med det forslag har vi løst langt,
+langt, langt de fleste problemer omkring samdrift.
+Når det gælder fortrinsstillingen - en anden
+af de store debatter - har vi lavet et ændringsforslag, som betyder, at man kun kan tilsidesætte fortrinsstillingen, hvis man har et aktuelt
+harmonibehov, og da kun op til 150 ha. Dertil
+kommer, at de, der ikke opfylder uddannelseskravet, får strammet betingelserne for at få
+over 30 ha. Med de forslag om fortrinsstillingen mener jeg også vi er nået et godt stykke ad
+vejen.
+Også oppositionen har stillet ændringsforslag. Det er ikke så mærkeligt, og jeg vil gerne
+oplyse med det samme, at Socialdemokratiet
+ikke kan stemme for nogen af ændringsforslagene, da de vil betyde, at det, der var sigtet
+med loven, ikke kan fastholdes. Men jeg kan
+forstå, at oppositionen vil stemme imod selve
+loven. Det har jeg betydelig større vanskelighed ved at forstå. Jeg troede faktisk, at der i
+forhold til den politik, som jeg forstod var
+SF's, var gode signaler i den nye landbrugslov.
+
+11638
+
+Indtil for godt en uge siden havde jeg heller
+ikke fantasi til at forestille mig, at partiet Venstre ville stemme imod en landbrugslov, en
+landbrugslov, der åbenbart nu også er blevet
+offer for en overordnet strategi, der går på, at
+man ikke indgår forlig med den nuværende regering - uanset det reelle indhold - på denne
+side af et folketingsvalg. Jeg må konstatere, at
+også når det gælder landbrugsloven, har Fremskridtspartiet haft afgørende indflydelse. Det
+har åbenbart været magtpåliggende at fastholde det alternativ, som man gerne vil signalere
+til befolkningen, et alternativ bestående af Z,
+K og V.
+Socialdemokratiet finder, at med de ændringsforslag, som regeringen har stillet, får vi
+en god landbrugslov, der tager de hensyn, der
+skal tages, og som sikrer, at dansk landbrug
+står godt rustet til de kommende udfordringer.";Henrik Dam Kristensen
+89677;name_party;":
+Regeringens ændringsforslag er udtryk for,
+at lovforslaget har været utilstrækkeligt. Der
+har været mange deputationer og mange henvendelser, og nu kan jeg forstå på hr. Henrik
+Dam Kristensen, at også signalerne fra forsamlingshusene har fået regeringen til at erkende,
+at lovforslaget var utilstrækkeligt.
+Derfor er der stillet nogle ændringsforslag.
+Ændringsforslagene er altså ikke stillet for at
+lægge op til et forlig med oppositionen. Det
+kommer jeg tilbage til.
+Især det ændringsforslag, som pludselig
+fjerner begrebet bedrift og omgør det til en
+ejendom, skaber usikkerhed og er uacceptabelt, fordi det bringer mange bedrifter i vanskeligheder, og det vil skabe store prisstigninger på jord.
+Mange vil komme i en gabestok, når nabojord skal anskaffes. Sælgeren kan selv bestemme prisen, når han kender køberens krav.
+Ændringsforslaget om samdrift er nok et
+skridt i den rigtige retning, man langtfra nok.
+Jeg sagde ved førstebehandlingen, at man her
+burde lægge op til de ønsker, som var udtrykt i
+landbrugsorganisationernes indstilling. Man
+burde i virkeligheden lovliggøre tingenes tilstand.
+En landmand, der ønsker ophør, kan man
+ikke tvinge til at skulle gennemføre det for
+egen regning. Han ønsker at skaffe sig en aftale
+med en maskinstation, en aftale, som er fast,
+
+11639
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Rønholt
+91066;title_name;"således at risikoen begrænses. Det kaldes en
+pasningsaftale.
+I stedet for at lovliggøre disse forhold ønsker regeringen fortsat at lægge op til, at disse
+forhold ikke kan legaliseres.
+Spørgsmålet om forskel i samdriften kommer også til udtryk ved, at ejeren, der kan sammenlægge og samdrive tre ejendomme på op
+til 150 ha, altså i alt 450 ha, plus derudover et
+par ejendomme, bliver stillet langt gunstigere
+end den, som ikke har den økonomiske formåen, men må leje sig til al jorden.
+Mindretallet, K, V og Z, har i nogle ændringsforslag forsøgt at fjerne restriktionerne
+og har i øvrigt med de øvrige ændringsforslag
+forsøgt at bygge bro mellem regeringens lovforslag og de tre organisationers indstilling af
+6. januar.
+Det er ikke udtryk for, at vi vil fremme egne
+mærkesager. Lad mig bare tage begrebet fortrinsret. Det er ikke et begreb, der er dyrket i
+den konservative baghave. Men vi har accepteret det som et forsøg på at skabe forlig.
+Landbrugsministeren begår en brøler af dimensioner ved at gennemtrumfe regeringens
+forslag på trods af organisationernes advarsler
+og på trods af KVZ's advarsler.
+Landbrugsministeren kunne skabe historie
+ved at være den landbrugsminister, der skabte
+en landbrugslov, der rakte så langt, at den ikke
+behøvede en revision hvert tredje eller hvert
+fjerde år, som det hidtil har været tilfældet.
+Lovforslagets overgangsbestemmelser vedrørende krav til ejet jord er alt for restriktive. Det
+har regeringen indset med ændringsforslaget
+om, at kravet først indtræder efter ejerskifte.
+Men en virksomhed, der er erklæret lovlig
+én gang og i øvrigt har opfyldt alle ønsker og
+tilskyndelser fra skiftende regeringer om at udbygge en animalsk produktion, kommer nu i
+klemme. Man kommer ganske vist først i klemme efter ejerskiftet. Men virksomheden, der
+engang var samfundsnyttig, er nu ikke samfundsnyttig mere.
+Antallet af dyreenheder: Her har man også
+ønsket at lægge loft over. Jeg kan ikke helt finde ud af, om det er et politisk-veterinært krav,
+eller om det er et politisk-etisk krav. Jeg tror
+heller ikke helt, regeringen har fundet ud af,
+om det er det ene eller det andet.
+Der har nu altid været et ønske fra et bredt
+flertal i Folketinget om at skabe rammerne, så-
+
+11640
+
+ledes at der kunne ske en stor animalsk produktion og større forarbejdning, for det skaber
+bedre beskæftigelse. Og nu vil man pludselig
+lægge loft over.
+Det er ikke rimeligt, at man på den måde,
+selv om ejendommene har tilstrækkeligt jordunderlag, pludselig afviser, at der kan laves
+animalsk produktion ud over 500 dyreenheder.
+Den socialdemokratiske ordfører, hr. Henrik Dam Kristensen, kunne ikke forstå, at oppositionen ville stemme imod loven. Jeg sagde
+ved første behandling, at vi gerne ville medvirke til, at der kunne skabes et bredt forlig. Men
+sigtet var forkert, og penslen var for smal.
+Vi stemmer imod loven, fordi der ikke er lagt
+op til et bredt forlig, fordi der ikke er lyttet til
+vores synspunkter, og fordi den ikke er tilstrækkelig langtrækkende. Med denne lov
+kommer kravet om revision allerede i næste
+samling - om ikke andet så om to år. Det synes
+vi er forkert. Vi har hidtil haft alt for mange
+revisioner af landbrugsloven. Vi burde nu se
+lidt længere frem.
+(Kort bemærkning).";Rønholt
+94311;name_party;":
+Hr. Rønholt gav udtryk for, at det, at regeringen stillede ændringsforslag, var et bevis på,
+at loven fra starten var utilstrækkelig. Man kan
+jo vælge at vurdere det på forskellig måde. Jeg
+vælger at vurdere det på den måde, at vi netop
+har taget del i den debat, der har været på
+mange leder og kanter, og at det er derfor, vi er
+kommet med de ændringsforslag, som jeg synes forbedrer det samlede resultat.
+Samdrift var en af de andre ting, som hr.
+Rønholt var inde på. Jeg kan forstå, at De
+Konservative ønsker fuldstændig fri samdrift.
+Jeg vil bare spørge: Hvis vi gav lov til det, hvor
+mange ejendomme ville der så være i Danmark? Hvor mange ejendomme ville der så
+være til at dyrke den jord, der er til rådighed?
+Er det 900, eller er det 1.000 ejendomme? Jeg
+tror, at vi taler om noget i den størrelsesorden.
+Jeg kan godt forstå, at loftet over besætningsstørrelser er genstand for kritik fra De
+Konservative. Jeg vil bare sige, at vi, der kommer fra de jyske egne, klart har haft den fornemmelse i de senere år, at hvis vi ikke gør et
+eller andet, kommer vi i en situation, hvor der
+kun vil være plads til én animalsk produktion i
+hvert af de gamle sogne. Så store er der nogle
+
+11641
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Henrik Dam Kristensen
+95617;title_name;"af svineproducenterne der er ved at være, og
+det vil også af landdistriktspolitiske grunde
+være en særdeles uheldig udvikling.
+Jeg kan forstå nu, at hr. Rønholt appellerer
+til landbrugsministeren om at skabe et historisk forlig, som kan holde mere end 3-4 år. Det
+var man nu ikke så optaget af, da man reviderede loven sidste gang i 1989. Da var Socialdemokratiet ikke med i det, da var man ikke særlig optaget af det. Men jeg kan samtidig også
+forstå, at hr. Rønholt siger, at sigtet med loven
+er forkert. Men det lovforslag, som foreligger
+nu, ligger relativt tæt, ja, faktisk meget, meget
+tæt på det forslag, som de tre organisationer
+kom med, og som hr. Rønholt har rost i høje
+vendinger også her i dag.
+(Kort bemærkning).";Henrik Dam Kristensen
+96356;name_party;":
+Jeg bliver taget til indtægt for den holdning,
+at der kun skal være ét landbrug i hvert sogn,
+ved at jeg accepterer fri samdrift. Nej, det, jeg
+gør, er at forsøge at give udtryk for, at der foregår en strukturudvikling, som vi ikke kan gøre
+så forfærdelig meget ved, men vi kan skabe
+rammerne for, at den kan foregå lovligt. Vi ved
+jo alle sammen godt, at fingerede forpagtningsaftaler finder sted i et urimelig stort omfang. Det er også kommet til udtryk i fjernsynet et par gange. Var det så ikke rimeligt, om vi
+skabte sådanne vilkår, at strukturudviklingen
+fik lov at forløbe smertefrit, uden at nogen
+skulle gå og have fornemmelsen af, at de skulle
+spørge til højre og venstre?
+Så bliver der spurgt, om jeg mener, det er
+hensigtsmæssigt med opbygningen af store besætninger. Jeg får nærmest det indtryk, at det
+næsten er gigantbesætninger, der er tale om.
+Nej, jeg synes ikke, det er lykkeligt, men hvis
+en ejendom har et tilstrækkeligt jordunderlag,
+mener jeg ikke, at indehaveren skal forhindres
+deri. Spørgsmålet om besætningsstørrelse er jo
+allerede afgjort, vilkårene er bestemt af Bæredygtighedsudvalgets krav om harmoni. Der er
+altså således ikke grund til, at vi også her begynder at blande os i harmonibestemmelserne.
+De er allerede vedtaget.
+Så kom til sidst spørgsmålet, om Det Konservative Folkeparti ikke kunne acceptere eller
+indse, at lovforslaget stort set var identisk med
+de tre organisationers. Der er mange fællesnævnere, men der mangler noget væsentligt,
+
+11642
+
+og det er vel ikke så sært, at de tre organisationer siger fra, netop fordi regeringen ikke i forsamlingshusene har lyttet intenst nok til, hvad
+der bliver sagt derude.
+(Kort bemærkning).";Rønholt
+98060;name_party;":
+Jeg forstod på hr. Rønholt, at han var enig i
+det synspunkt, som jeg gav udtryk for før, at
+det ville være en uheldig udvikling, hvis brugene bliver så store, at der kun er plads til én
+animalsk produktion i hvert sogn. Det forstod
+jeg på det sidste indlæg fra hr. Rønholt. Men
+samtidig fastholder hr. Rønholt, at der skal
+være fri samdrift, og at der intet besætningsloft
+skal være. Når man fastholder det synspunkt,
+støder man netop ind i det problem, som handler om, hvor store brugene bliver, og hvor mange brug der vil være plads til i dette land.
+Jeg forstår også, at det betyder meget for hr.
+Rønholt, hvad organisationerne har sagt. Jeg
+hører samtidig hr. Rønholt på mange måder
+give udtryk for, at det ikke er særlig fornuftigt,
+men af hensyn til osv. vil De Konservative følge organisationerne. Dertil må jeg så sige, at
+jeg synes, at det var hjælpsomt, at organisationerne kom med et udspil. Men organisationerne har selvfølgelig nogle klare erhvervspolitiske mål, som de først og fremmest skal forfølge. Det er der ikke noget odiøst i, men jeg troede, Folketinget havde nogle bredere samfundspolitiske hensyn, som man også burde tage.
+(Kort bemærkning).";Henrik Dam Kristensen
+99240;name_party;":
+Jeg røber vist ikke nogen hemmelighed, hr.
+Henrik Dam Kristensen, ved at påstå, at organisationerne har haft deres politiske proselytter herinde i Folketinget igennem tiderne, og at
+også Socialdemokratiet især over for én af organisationerne har varetaget deres interesser
+varmt. Jeg kan bare henvise til stoploven fra
+1987, som i høj grad var skabt, tilskyndet og
+kreeret i de daværende husmandsforeninger.
+Der er jo ikke noget mærkeligt i, at man
+markerer sig politisk også i organisationerne.
+De har historisk udfyldt en politisk rolle i vores samfund, og nu opstår den situation pludselig, at de tre organisationer tilsidesætter de
+politiske bindinger, frigør sig fra disse politi-
+
+11643
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Rønholt
+100034;title_name;"ske bindinger og prøver at finde frem til en
+landbrugslov, som erhvervet jo selv skal leve
+med. De udtrykker altså deres eget erhvervspolitiske behov. Er det ikke legitimt? Er det
+ikke også en - hvad skal jeg sige - fornuftig
+adfærd, at Folketinget lytter dertil?
+(Kort bemærkning).";Rønholt
+100342;name_party;":
+Når nu hr. Rønholt taler så varmt for organisationernes forslag, kunne det jo være interessant at få uddybet: Hvorfor er VKZ's ændringsforslag så ikke i overensstemmelse med
+dét, organisationerne har foreslået?
+(Kort bemærkning).";Henrik Dam Kristensen
+100586;name_party;":
+Det skal jeg svare hr. Henrik Dam Kristensen på.
+Vi har netop forsøgt, som jeg også gav udtryk for for et øjeblik siden, at bygge bro mellem regeringens forslag og organisationernes
+indstilling.
+Der var forhold, som regeringen gav udtryk
+for betænkeligheder ved, og det har vi lyttet til.
+Det var bl.a. spørgsmålet om definitionen på
+hovederhverv og administrationen af 900-timers-reglen, hvorved en ejendomshandel først
+kunne gennemføres et år efter skødeunderskrivelsen.
+Det var bl.a. den slags ting, som gjorde, at vi
+sagde: Lad os forsøge at skabe et forlig, som
+bygger bro over de synspunkter. Det er da ærligt nok!";Rønholt
+101220;name_party;":
+Det er jo let nok at kritisere, og derfor vil jeg
+tage det svære først.
+Jeg vil godt sige tak til landbrugsministeren
+og hans embedsfolk for venlig og velvillig assistance i forbindelse med udarbejdelse af ændringsforslagene til landbrugsloven. Men så
+slipper roserne op. Det har været nødvendigt
+med ændringsforslag efter Venstres mening.
+Landbrugsministeren og regeringspartierne
+har villet tage to delvis modsatrettede hensyn
+med den samme lov. Det er en svær opgave at
+stille sig selv. Jeg er ikke i tvivl om, at det er de
+ædleste hensigter, der har været med initiativet, men det er ikke lykkedes.
+
+11644
+
+Loven skal tage hensyn til de familier, der
+ved møjsommeligt slid skal leve af deres landbrug. Den skal også tage vidtgående hensyn til
+dem, der har landbrug som hobby og som supplement til en anden indtægt, og den skal holde livet i gang i landdistrikterne.
+Disse modsatrettede hensyn tilfredsstiller
+man ikke fyldestgørende med det samme regelsæt. Det ville svare til, at man laver regler
+for både bjergbestigning og dykning i det samme regelsæt. Gør man det, vil bjergbestigeren
+aldrig komme til tops, og dykkeren vil aldrig
+nå til bunds.
+Venstre vil gerne være med til at tage de tre
+hensyn, som jeg nævnte før, men vi kan ikke
+gøre det alt sammen i landbrugsloven. Vi mener, at landbrugsloven først og fremmest skal
+give de rammer for landbrugserhvervet, som
+erhvervet har brug for, for at det kan udvikle
+sig så frit og ubesværet som muligt, og som
+gør, at landbruget kan stå distancen i en verden, hvor konkurrencen bliver hårdere og hårdere.
+Vi har behov for de arbejdspladser, som
+landbrugserhvervet opretholder og skaber, og
+vi kan ikke undvære den valuta, som erhvervet
+tjener hjem til landet.
+Landdistrikterne og det særdeles værdifulde
+element, som de mange fritidslandbrug er, skal
+vi støtte og give udfoldelsesmuligheder igennem helt andre initiativer.
+Vi har som nævnt i betænkningen givet vores bud på det i beslutningsforslaget om en bæredygtig vækst og udvikling i landsbyer og
+landdistrikter, hvor vi i 20 punkter skitserer,
+hvad der efter vor mening skal til.
+Der er stillet 53 ændringsforslag. Heraf har
+Det Konservative Folkeparti, Venstre og
+Fremskridtspartiet stillet de 16, og desuden
+støtter vi 3 af landbrugsministerens ændringsforslag.
+De ændringsforslag, vi har stillet, har været
+kendt i udvalget i over en måned, og de er sammensat med skyldig hensyntagen til den henvendelse, vi har fået fra et samlet landbrug det var i øvrigt en historisk begivenhed, som
+det nok er værd at skele til - men også med
+hensyntagen til de synspunkter, som regeringspartierne har givet udtryk for, bl.a. om fortrinsstilling for brug under 70 ha.
+Ud over ændringsforslagene har vi også i betænkningen skitseret nogle administrative forskrifter, som vi lægger vægt på fremmes.
+
+11645
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Mejdahl
+104127;title_name;"SF's ændringsforslag kan vi slet ikke støtte,
+fordi de indskrænker mulighederne for landbrugserhvervet i en helt uhørt grad i forhold til
+den nugældende landbrugslov.
+Landbrugsministerens
+ændringsforslag
+trækker også i to modsatte retninger. Der er en
+lempelse med hensyn til samdrift, hvor ejendom nr. 5 nu kan være flere ejendomme, men
+maksimalt 30 ha, men der er også en kraftig
+opstramning, når begrebet bedrift erstattes af
+ejendom. Det vil fremme tendensen til sammenlægning og færre enheder, og det går jo, så
+vidt jeg har forstået, imod regeringens egen erklærede politik. Vi er imod det, fordi det skærper kravene til egen jord.
+Landbrugsministeren har ved flere lejligheder lovet, at han ville være imødekommende,
+når vi kom til udvalgsbehandlingen. Det løfte
+har landbrugsministeren kun indfriet delvis.
+Landbrugsministeren har orienteret oppositionen, men landbrugsministeren har i sine ændringsforslag ikke taget hensyn til oppositionens ønsker, som har været kendt i en måned.
+Jeg synes ikke, at landbrugsministerens ændringsforslag og heller ikke lovforslagets sigte
+er fremadrettet nok. Jeg tror ikke, at det er det,
+der skal til, for at landbruget med loven som
+ramme kan stå distancen i den hårde konkurrence, som vi uvægerligt møder.
+Der var mindst to hensyn, som gav anledning til, at landbrugsloven skulle tages op til
+revision. Det første var hensynet til begrebet at
+bygge sig til jord, og det andet hensynet til besætningsstørrelserne. De to hensyn har vi forsøgt at have for øje i de ændringsforslag, vi har
+stillet, og så er vi gået de skridt videre, som vi
+følte skulle til, for at landbrugsloven kan indfri
+de forventninger, som erhvervet berettiget har
+til loven.
+Alt i alt en landbrugslov, som nok opfylder
+regeringspartiernes mål, men som slet ikke opfylder Venstres mål, som jeg har nævnt dem,
+og som de står beskrevet i betænkningen. Det
+er derfor, at vi stemmer som annonceret, at vi
+kun stemmer for, hvis vi får ændringsforslagene godkendt: ellers stemmer vi imod lovforslaget ved tredjebehandlingen.";Mejdahl
+106172;name_party;":
+Jeg skal på SF's vegne opfordre til, at man
+støtter den lange række af ændringsforslag,
+som SF har stillet, og så vil jeg meddele, at SF
+
+11646
+
+vil stemme imod de forslag, som Venstres, De
+Konservatives og Fremskridtspartiets medlemmer har stillet.
+Og for nu at forebygge spørgsmål om SF's
+synspunkter i spørgsmålet om tillægsjord vil
+jeg sige, at man jo kan opstille forudsigelser
+om, hvordan sådan en lovbestemmelse kommer til at virke, og gennemtænke forskellige
+scenarier. Det skal ikke være nogen hemmelighed, at SF har skiftet standpunkt med hensyn
+til scenarier og hvordan lovforslaget vil virke,
+og dér vil jeg så citere en tidligere statsminister, som sagde, at man har et standpunkt, indtil man tager et nyt. SF har taget et nyt standpunkt, og det står vi ved, og derfor stemmer vi
+imod de forslag, som er stillet her af Venstre,
+De Konservative og Fremskridtspartiet. Det er
+altså, fordi vi er kommet til den konklusion, at
+det rent faktisk er rigtigere bestemmelser på
+det punkt omkring tillægsjord end det, som
+ligger i forslaget her fra Venstre, De Konservative og Fremskridtspartiet.";Gade
+107292;name_party;":
+Det er klart, at landbrugsloven er en stor og
+vigtig lov både for landsognene og i særdeleshed også for landbruget og dem, der skal arbejde med den til daglig.
+Den socialdemokratiske ordfører, hr. Henrik Dam Kristensen, var inde på her fra talerstolen, at Fremskridtspartiet har haft uendelig
+stor indflydelse på de ændringsforslag, som foreligger her. Vi er i Fremskridtspartiet af den
+opfattelse, at vi har strakt os utrolig langt, ikke
+alene for at få en landsbrugslov, som så mange
+som muligt var enige om, men også for, at man
+ikke skulle kunne sige, at Fremskridtspartiet
+bare står derude og råber på fløjen.
+Der sker bl.a. det, at fortrinsstillingen til opkøb af jord bliver udvidet i den landbrugslov,
+som bliver lavet nu: der er ikke noget, der som
+den fortrinsstilling har været kim til kiv og
+spektakel i landsognene, når en fortrinsstilling
+er blevet gjort gældende.
+Det har vi set i en sag, som har kørt igennem
+nu snart 8 år i Plejbjerg, hvor en familie gjorde
+deres fortrinsret gældende ifølge den gældende lov. Den, der skulle afgive jorden, brugte
+alle mulige krumspring, fordi han ikke ville afgive de jorder: så kan man så diskutere, om det
+var rimeligt eller ej, men loven var trods alt sådan, at han skulle det. Og det viser netop, hvad
+
+11647
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Niels Højland
+108664;title_name;"den fortrinsstilling kan ødelægge ude i landsognene. Der er vist ingen, der tror, at de familier nogen sinde kommer til at snakke ordentlig til hinanden mere efter sådan en sag. Derfor
+skal vi have en landbrugslov, der ikke lægger
+op til den slags ting, men som liberaliserer mere på nogle områder.
+Men som sagt er vi i Fremskridtspartiet glade for den aftale, vi har lavet med V og K, og vi
+havde håbet, at Socialdemokratiet og regeringen som helhed også ville have imødekommet
+os og landbrugets organisationer, så vi i hvert
+tilfælde kunne have været 7 partier her i salen,
+der kunne have stemt for denne landbrugslov.
+Det er da klart, at en landbrugslov skal man
+ikke lave om, når den lige er lavet: men det er
+også klart, at vi i Fremskridtspartiet efter det
+valg, der skal komme i år, vil arbejde for, at der
+kan blive et flertal for at ændre de eventuelle
+uhyrligheder, som måtte komme i forbindelse
+med den nye landbrugslov. Det vil vi arbejde
+for, og dér vil vi igen strække os vidt, for at der
+kan blive et bredt flertal for at ændre det også i
+samarbejde med landbrugets organisationer.
+Men hvis det, at Fremskridtspartiet er med
+til at stille de her ændringsforslag, virkelig er
+årsagen til, at regeringen ikke vil støtte ændringsforslagene fra oppositionen, så kan vi da
+trække os ud af det.
+(Kort bemærkning).";Niels Højland
+110012;name_party;":
+Jeg forstod, at hr. Niels Højland var ved at
+trække sig ud af det samarbejde, der har været
+omkring landbrugsloven, mellem Venstre og
+De Konservative. Det kan jeg da måske meget
+godt forstå, efter at jeg har lyttet til hr. Niels
+Højlands indlæg, for også hr. Niels Højland
+snakker meget om organisationernes forslag,
+samtidig med at han bruger utrolig mange
+kræfter på at omtale fortrinsstillingen og taler
+imod fortrinsstilling overhovedet.
+Derfor synes jeg da, det er lidt interessant at
+få konstateret, om Z står bag de ændringsforslag, der er stillet omkring fortrinsstillingen.
+(Kort bemærkning).";Henrik Dam Kristensen
+110634;name_party;":
+Hvis hr. Henrik Dam Kristensen ikke hørte
+det, så vil jeg gentage det, måske lidt tydeligere: Vi er glade for den aftale, vi har lavet. Jeg
+
+11648
+
+sagde højt og tydeligt: Vi har strakt os vidt,
+men vi er glade for, at vi har lavet den aftale
+også for landbrugets skyld. Vi er overhovedet
+ikke på vej til at trække os ud og har slet ikke
+tænkt på det, men det er jo et kompromis mellem tre partier.
+Vi har strakt os vidt, og det håbede vi også at
+Socialdemokratiet ville: men det vil man altså
+ikke.";Niels Højland
+111158;name_party;":
+Man er nødt til at medgive landbrugsorganisationerne, at de har udfoldet store bestræbelser for at skabe bred enighed om en omstrukturering af landbrugsloven. Og man er nok også nødt til at sige, at regeringspartierne har taget større hensyn hertil end sædvanlig, fordi
+organisationerne har været ret realistiske og
+erkendt, at politik er det muliges kunst.
+Det er da klart, at for en radikal landbrugspolitisk ordfører er et forlig med Tolvmandsforeningerne ikke det, der er lettest her i denne
+verden. Men vi er alligevel gået til arbejdet
+med den realistiske grundholdning, at vi ikke
+kan få alt, hvad vi gerne vil have, gennemført
+til punkt og prikke, men vi ønsker at prøve på
+at få indflydelse og trække sagerne i den retning, som vi mener er rigtig.
+Det blev så til et landbrugsforlig, som har
+mange ligheder med det fælles udspil, landbruget har præsenteret os for, et forlig mellem
+de fire regeringspartier, som V og K ikke kan
+være med til. Jeg tror, at det ret nært forestående folketingsvalg er medvirkende til, at Venstre og De Konservative overhovedet ikke har
+vist lyst til at være med, uanset at vi nu har
+forhøjet sammenlægningsgrænsen med 25 ha
+og fået retten til at have 2 ejendomme ændret
+til 3 ejendomme.
+Der kunne nævnes flere andre ting, som efter normale omstændigheder skulle være noget, der vandt sympati i V og K, men det er
+altså ikke nok for de såkaldte borgerlige partier. Man kan ikke acceptere grænsen på 500 dyreenheder: der skal være mulighed for en endnu større skala. Jeg tror, at virkelighedens verden vil vise, at vi kommer til at gå den anden
+vej med talstørrelser. Man kan jo bare se udviklingen inden for ægsektoren, hvor flere og
+flere forbrugere fravælger æg fra burhøns.
+Og så er der den sædvanlige frygt for, at
+tandlægen, skolelæreren eller tankvognschauf-
+
+11649
+
+(729)
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Hans Larsen-Ledet
+113085;title_name;"føren ville gå i vejen for det, man kalder rigtige
+landmænd. Venstre og De Konservative kræver halvt hovederhverv, for at man kan få tillægsjord. Det vil sige, at en deltidslandmand,
+som ikke opfylder kravet om halvt hovederhverv, afskæres fra at komme i betragtning,
+hvis der er andre, som vil have jorden.
+Dér synes jeg, at Venstre og De Konservative gør sig skyldig i en kolossal fejlvurdering.
+Man glemmer de mange nystartede med svagt
+kapitalgrundlag: der er masser af mennesker,
+som gerne vil have et landbrug, de kan leve af,
+men som ikke har mulighed for at købe et
+landbrug, de kan leve af, som køber et landbrug for de penge, de nu har, og som prøver på
+samtidig at have en indtægt ved siden af. Jeg
+synes, det er utrolig urimeligt og uretfærdigt, at
+de skal slås i hartkorn med det, man kalder fæle kapitalister. Det er en væsentlig begrundelse
+for, at det er rigtigt at give plads til den type
+mennesker i dansk landbrug.
+Man glemmer også, at livet i landdistrikterne er noget, der er værdifuldt, og derfor er det
+værdifuldt, at vi får så mange som muligt til at
+bo i områderne.
+Vi må også spørge, om man har bevis for, at
+stordrift er den rigtigste form. Går udviklingen
+ikke i retning af stigende forbrugerkrav om
+produktkvalitet og høj dyreetik? Bliver betænkelighederne ikke større og større ved adskillige biologiske og kemiske landvindinger? Jeg
+synes ikke, at man kan lukke hverken øjne eller ører for, at det forholder sig sådan. Man
+kan heller ikke afvise, at interessen for økologisk jordbrug bliver større og større, og at en
+stigende del af den danske fødevareproduktion bliver økologiske jordbrugsprodukter.
+Man kan spørge nu, hvor vi nærmer os afslutningen af behandlingen af landbrugsloven,
+hvem der vandt. Det gjorde landbruget. Det
+gjorde miljøet. Der er flertal for, at opbygningen af store, uharmoniske bedrifter skal stoppes. Der bliver nye muligheder for ejendomme
+under 70 ha og også for deltidslandmænd. Det
+hele er positivt for de hårdt truede landbrugssamfund. Vi vil nu gøre erfaringer, som kan
+blive vejledende for, hvordan der skal drejes
+på de nye håndtag, der er en del af den nye
+landbrugslov, nemlig forholdet mellem jord og
+dyr, og det vil være godt af mange grunde at få
+en større spredning af husdyrene. Jeg er i hvert
+fald overbevist om, at det foreliggende forslag
+
+11650
+
+fra regeringen vil modvirke storkoncentrationer inden for dansk husdyrproduktion.
+Jeg kan også tilkendegive her fra radikal side med hensyn til det, der står i betænkningsbidraget fra Venstre, De Konservative og
+Fremskridtspartiet om, at man vil have meget
+mere frihed inden for landbruget, at vi fra radikal side kunne tænke os at stille spørgsmålet:
+Jamen hvor er grænserne for, hvad man vil acceptere? Hvis de tre partier havde flertal, var
+man så indstillet på at sløjfe alle bestemmelser,
+alle reguleringer? Det må man jo være, når der
+står i betænkningen, at man ønsker så frie vilkår som muligt. Hvis man er alene om at bestemme, skal man ikke spørge nogen andre: så
+kan man få så frie vilkår, som det er muligt.
+Det synes jeg nok er vigtigt - her hvor vi nærmer os valget - at være opmærksom på, for det
+er nogle uhyggelige toner, der lyder dér, og
+konsekvenserne er fuldstændig uoverskuelige
+efter min opfattelse.
+(Kort bemærkning).";Hans Larsen-Ledet
+116361;name_party;":
+Jeg er nødt til at sige til hr. Hans Larsen-Ledet, at der er løbet meget vand i stranden, siden hr. Hans Larsen-Ledet var formand for Jyske Husmandsforeninger. Der er løbet så meget vand i stranden, at det nuværende Dansk
+Familiebrug har lavet forlig med Tolvmandsforeningerne. Det er altså den umulighed, som
+hr. Hans Larsen-Ledet forestillede sig ikke
+kunne ske mellem Det Radikale Venstre og
+Tolvmandsforeningerne. Det er jo kun udtryk
+for, at virkeligheden kan man ikke sætte sig ud
+over. Der sker en udvikling, som man på visse
+område kan forsøge at styre eller bremse.
+Så bliver vi beskyldt for, at vi vil fremme en
+bestemt udvikling. Nej, det er ikke det, der er
+meningen. Vi ønsker så stor en frihed som
+overhovedet muligt til, at man kan indrette sig
+i det konkurrencesamfund, som vi nu engang
+er medlem af.
+Vi er ikke parat til at sløjfe alle reguleringer,
+men inden for alle andre erhverv ville det da
+være utopi at forestille sig, at Folketinget gik
+ind og lavede indgreb. Lad mig bare nævne
+dagligvarehandelen. Tænk, hvis vi dér fastholdt ønsket om, at der skulle være to købmandsforretninger i hver landsby, eller at der
+skulle være x antal i hvert sogn. Det kan vi
+ikke, og det har vi da gudskelov heller ikke
+gjort.
+
+11651
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Rønholt
+117701;title_name;"Når det drejer sig om landbrug, er det noget
+helt andet. Dér er man pludselig fra Det Radikale Venstres side parat til stadig væk at fastholde kravet, selv om der ikke er indtjeningsgrundlag, selv om der ikke er eksistensmulighed for det. Man kan altså ikke påtvinge mennesker, at de skal leve af to spande høns og en
+slibesten. Den tid er altså forbi, hr. Hans Larsen-Ledet. Når selv Dansk Familiebrug har
+indset det, så burde det også være muligt, at
+den radikale ordfører kunne indse det.
+(Kort bemærkning).";Rønholt
+118223;name_party;":
+Hr. Hans Larsen-Ledet følte, at det var
+uhyggelige toner, der lød. Jeg tror, det hænger
+sammen med, at hr. Hans Larsen-Ledet kun vil
+høre de toner, som hr. Hans Larsen-Ledet selv
+spiller.
+Jeg skal da indrømme, at der naturligvis også er dele af dette lovforslag, som vi har sympati for. Udvidelsen fra 2 til 3 ejendomme har
+Venstre i allerhøjeste grad sympati for. Når
+konklusionen bliver, som den bliver, er det ud
+fra en helhedsbetragtning og ud fra nogle af de
+ting, som jeg nævnte i min ordførertale.
+Hr. Hans Larsen-Ledet sagde, at vi ikke ville
+have loft over antallet af dyreenheder. Her har
+vi skelet til den udtalelse, der er kommet fra
+Det Veterinære Sundhedsråd, som siger, at
+med de kendte besætningsstørrelser er der ingenting, der tyder på, at besætningsstørrelserne i veterinær henseende har nået en grænse,
+der er kritisk.
+Hr. Hans Larsen-Ledet sagde, at vi vil afskære deltidslandmændene, og at det er en
+fejlvurdering. Der er jo ingen, der forhindrer
+deltidslandmænd i at købe i fri handel. Det, vi
+siger, er, at når vi nu har den fortrinsstilling som vi egentlig helst så fjernet, så at en handel
+mellem to personer ikke kunne angribes, eller
+der ikke kunne gøres krav på jorden af tredjemand - så mener vi også, at den fortrinsvis skal
+komme dem til gode, som skal ernære sig ved
+fuldtidslandbrug.
+(Kort bemærkning).";Mejdahl
+119584;name_party;":
+Hr. Rønholt fortalte mig, at der var løbet
+meget vand i stranden, siden jeg var formand
+for husmandsforeningerne, og det er selvfølgelig rigtigt, men det er jo ikke alt: der er også
+
+11652
+
+løbet meget skidt i jorden i den samme periode. Det kan man da ikke andet end give mig ret
+i er sket.
+Men det var det med det forlig, Dansk Familiebrug har lavet med Tolvmandsforeningerne.
+Det er jeg da udmærket klar over, men jeg kan
+fortælle hr. Rønholt, at jeg har lavet forlig med
+De Konservative, og det er såmænd ikke stort
+bedre end at lave forlig med Tolvmandsforeningerne. Men det kan altså lade sig gøre,
+hvis man er realistisk og siger: Hvis vi i den
+givne situation vil prøve på at få indflydelse, så
+er man nødt til at acceptere, at det er dem, vi
+sidder sammen med, og ud fra det søge på en
+eller anden måde at få det bedst mulige ud af
+det.
+Men man kommer ikke uden om, at der står
+i jeres betænkningsbidrag »så frit som muligt«
+- så frit som muligt! Og jeg spørger så igen
+Venstre, De Konservative og Fremskridtspartiet: Hvis der er nogen, der har fantasi til at forestille sig, at de tre partier skulle få flertal, hvor
+er vi så henne med dansk landbrug, hvis »så
+frit som muligt« skal tages for pålydende?
+Hvis alle tre partier står bag det, der står dér,
+så er der ingen hindringer, hvis de får flertal.
+Det er klart, at man bedst kan lide sin egen
+melodi, men med hensyn til staldstørrelserne,
+som hr. Mejdahl også var inde på, vil jeg gerne
+sige, at dyreetik er noget, der kommer til at
+spille en meget større rolle. Vi kommer til at
+opleve, at forbrugerne i langt større udstrækning end nogen sinde tidligere vil beskæftige
+sig med den slags ting: det tror jeg i hvert fald.
+Hvis vi vil agte på det i landbruget, må vi også
+passe på, at vi ikke laver de helt store koncentrationer, for det bliver ikke fra dem, fremtidens forbrugere vil ønske, at produktionen
+skal ske. Sådan tegner det sig i hvert fald på
+nuværende tidspunkt.
+Så selv om der måske ikke er nogen veterinære begrundelser på nuværende tidspunkt, er
+der i hvert fald nogle forbrugermæssige ræsonnementer her, som jeg mener intet landbrug
+har råd til at sidde overhørige. Vi er nødt til, og
+samfundet er nødt til at gøre, hvad der kan gøres for, at vi får de rigtige staldstørrelser.";Hans Larsen-Ledet
+121870;title_name;":
+Vi har en begrænsning i taletiden på to minutter ved korte bemærkninger.
+Så er det hr. Rønholt for en kort bemærkning.
+
+11653
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme
+
+(Kort bemærkning).";Grove
+122118;name_party;":
+Jeg kan bekræfte, at Det Konservative Folkeparti støtter ideen om, at landbrugserhvervet
+skal være så frit som muligt. Deri ligger, at vi
+er parat til at ophæve mange af landbrugslovens bestemmelser bortset fra én: bopælskravet. Det er godt nok vanskeligt at forestille sig,
+at en landmand skal bo på flere ejendomme,
+men i princippet ønsker vi den størst mulige
+grad af frihed, så erhvervet kan udfolde sig og
+tilegne sig den konkurrenceevne, der er nødvendig.
+Må jeg så minde om, at hr. Hans Larsen-Ledet nu gør sig til talsmand for, at den animalske produktion pr. ejendom er alt for stor. Den
+skal altså være mindre. Tidligere var det omvendt: Før kunne Det Radikale Venstre ikke få
+den animalske produktion stor nok og havde
+ikke noget ønske om harmonisering i forhold
+til jordarealet. Nu stiller Det Radikale Venstre
+pludselig krav om, at ejendommene skal være
+større, og har altså ikke som målsætning, at der
+skal være nogen animalsk produktion. Det kan
+man da kalde en kovending.
+(Kort bemærkning).";Rønholt
+123138;name_party;":
+Hr. Hans Larsen-Ledet er åbenbart foruroliget over, at der står: så frit som muligt. Jeg vil
+godt gøre hr. Hans Larsen-Ledet opmærksom
+på, at det ikke er ensbetydende med, at der ingen hensyn skal tages, så jeg synes ikke, at hr.
+Hans Larsen-Ledet behøver at være så nervøs
+for den formulering. Men vi mener naturligvis
+det, som vi har skrevet, og vil arbejde med det.
+De ændringer, vi nu foreslår indført i landbrugsloven, er et udtryk for den måde, som
+den sætning skal opfyldes på i den nuværende
+situation.
+(Kort bemærkning).";Mejdahl
+123695;name_party;":
+Man bliver lidt forvirret, efterhånden som
+ordførerne fra V, K og Z kommer på talerstolen. Før var det Fremskridtspartiet med fortrinsstillingen. Nu kan jeg forstå på hr. Rønholt, at der i realiteten ikke er brug for andet
+end én paragraf i landbrugsloven, nemlig bopælspligt: alt andet skulle fjernes. Så forstår
+jeg efterfølgende på hr. Mejdahl, at selv om
+
+11654
+
+der står: så frit som muligt, er Venstre indstillet
+på, at der skal tages nogle hensyn.
+Jeg må nok sige, at det forekommer mig at
+blive et mere og mere utroværdigt sammenhold med de signaler, vi har oplevet her på det
+sidste. De passer i hvert fald overhovedet ikke
+med de ændringsforslag, som er kommet fra V,
+K o g Z.
+(Kort bemærkning).";Henrik Dam Kristensen
+124425;name_party;":
+Nu er der i hvert fald givet ren besked fra hr.
+Rønholt. Nu ligger det helt klart fra konservativ side, at man accepterer kræfternes frie spil:
+de, der har penge, kan købe de jorder, der passer dem, hvor som helst og når som helst. Der
+er kun ét krav tilbage, og det er bopælskravet.
+Jeg synes, det er glimrende at få sådan en besked. Der er ingen tvivl om, hvad det er, Det
+Konservative Folkeparti mener om den sag.
+Så er der det med ejendommenes størrelse.
+Nu hører jeg til den kategori af landmænd, der
+har levet af 8 køer, 50 høns og 5 grisesøer ikke en spand høns, eller hvad det var, hr.
+Rønholt var inde på, men 50 høns. Det kunne
+man altså leve af på et vist tidpunkt på 16 tdr.
+land. På det tidspunkt kæmpede vi for, at vi
+kunne få 2 tdr. land, 10 tdr. land eller 20 tdr.
+land mere. Det var det, der var perspektivet.
+Nu er vi altså endt i en total industrialiseringstendens, som jeg advarer meget imod at vi
+skal komme alt for stærkt ind på. Det er det, vi
+fra radikal side og fra regeringens side også
+med disse forslag vil prøve at dæmme op for.
+Vi får nogle håndtag nu, vi får nogle muligheder for at kunne styre nogle ting: balancen
+mellem jord og dyr osv., nogle fornuftige instrumenter, som vi kan bruge. Det ser jeg i
+hvert fald hen til med stor glæde at vi skal realisere i denne lovgivning.
+(Kort bemærkning).";Hans Larsen-Ledet
+125768;name_party;":
+Jeg tror, jeg har forståelsen af, at det skal
+være ret kort. Jeg skal blot sige til hr. Henrik
+Dam Kristensen, at der er meget stor overensstemmelse mellem det, jeg sagde i mit første
+indlæg, og så det, jeg gentager nu: Når vi er
+parat til at bygge bro imellem et bredt flertal i
+Folketinget og det udspil, som organisationerne kommer med, må hvert eneste parti nødvendigvis give indrømmelser. Det kan godt
+
+11655
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Rønholt
+126283;title_name;"være, at Socialdemokratiet har svært ved det,
+men det er det, vi lægger op til.
+Må jeg sige til hr. Hans Larsen-Ledet, at for
+mig er der ikke noget nyt i, at de, der har penge, kan købe, og at de, der ingen har, ikke kan
+købe. Der er heller ikke noget nyt for mig i, at
+de, der havde 16 køer og 50 høns for mange år
+siden, i dag har svært ved at opnå indtægter,
+der er sammenlignelige med andre befolkningsgruppers.";Rønholt
+126724;name_party;":
+Det lovforslag, vi har til anden behandling
+her i dag, bygger jo på et meget grundigt forarbejde: man kan i hvert fald ikke tale om lovjaskeri. Både landbrugets organisationer og alle
+Folketingets partier har på forskellig måde været inddraget i forhandlingerne, og vi har også
+haft god tid til at få strikket det sammen, så jeg
+synes, vi på alle måder kan være det lovgivningsarbejde bekendt. Så er det blot beklageligt, at det ikke kan opnå større flertal, end tilfældet er i Folketinget i dag.
+Jeg må sige, at argumentationen fra Venstres, De Konservatives og Fremskridtspartiets
+side ikke virker særlig overbevisende på mig:
+jeg synes faktisk, afvisningen virker lidt tyndbenet, specielt fra Venstres og De Konservatives side. Nu fik vi dog lidt ekstra nuancer på
+det fra den konservative ordførers side for et
+øjeblik siden: Man ønsker altså fuld liberalisering bortset fra bopælskravet! Så kan jeg godt
+forstå, at det ikke kan hænge sammen for De
+Konservative.
+Jeg vil godt nævne et par ting, som jeg lægger vægt på i dette lovforslag, og som gør, at vi
+synes, det er et godt forslag, der nu er på vej til
+at blive vedtaget:
+Forslaget tager i rimelig udstrækning hensyn til den strukturudvikling, som jo har fundet sted i landbruget. Der er også plads til de
+store efter lovforslaget her. Vi ved godt, at man
+ikke kan leve på meget små brug med meget
+små dyrehold, men det er jo heller ikke det, vi
+taler om: det er meget store husmandsbedrifter, der er mulighed for at etablere efter lovforslaget.
+Der er blevet indført en begrænsning med
+hensyn til besætningsstørrelserne, og i den forbindelse var der en ordfører, der nævnte, at vi
+ikke havde lyttet til, hvad der bliver sagt i forsamlingshusene. Dér vil jeg sige, at det har vi
+
+11656
+
+netop gjort på dette punkt, og de steder, hvor
+man har forsøgt at etablere sig med meget store svinebesætninger - svinefabrikker - har det
+netop mødt meget stor folkelig modstand i lokalsamfundet, og der er et hensyn at tage til de
+mennesker, der bor i området, og dem har vi
+lyttet til. Vi mener, det er rigtigt at sætte en
+begrænsning. Der er jo også nogle veterinære
+hensyn at tage i forbindelse med spørgsmålet
+om besætningsstørrelser.
+Der bliver en bedre arrondering af ejendommene og dermed også en bedre bedriftsøkonomi. Det er også et væsentligt spørgsmål, og det
+løses ved, at vi fastsætter nogle samdriftsregler,
+som ikke er særlig snærende. Der er gode muligheder for at sammenstykke nogle rimelig gode bedrifter.
+Det leder mig så til at sige et par ord om
+begreberne bedrift og ejendom, som også har
+været stærkt inde i debatten på det sidste. Det
+er vigtigt for mig at understrege, at hver ejendom skal være en selvstændig enhed, og derfor
+kan det ikke nytte noget, at man baserer sit dyrehold på jord, der hører til en anden ejendom.
+Også af hensyn til en eventuel udskillelse af en
+ejendom, hvis man ejer flere, eller ved generationsskifte, eller hvis en ældre landmand ønsker at nedtrappe sin bedrift, er det vigtigt, at
+en ejendom kan udskilles som en selvstændig
+produktionsenhed.
+Så er der hensynet til landdistrikterne. Det
+er også et vigtigt punkt.
+Og af hensyn til fritids- og deltidslandmænd
+skal der være muligheder for, at de også kan
+etablere sig og få noget rimeligt ud af en landbrugsbedrift.
+Jeg vil godt lige knytte en kommentar til det
+med deltidslandmændene:
+Det er ikke rimeligt, at deltidslandmændene
+skal ud i en ulige konkurrence med almindelige landmænd, når der bliver jord til salg, eller
+måske rettere sagt: konkurrere på lige fod med
+dem. Dér er vi nødt til at give dem en fortrinsstilling, for deltidslandmændene har normalt
+ikke det samme kapitalgrundlag, den samme
+kapital i ryggen, og kan derfor ikke klare sig i
+en fri konkurrence om køb af jord. Derfor er
+det rimeligt med en fortrinsstilling, således at
+en deltidslandmand har mulighed for at vokse
+sig større og få etableret et heltidslandbrug.
+Endelig er der miljøhensynet og transportbelastningen af vore veje. De elementer har det
+
+11657
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Lysholm Christensen
+130823;title_name;"også været væsentligt for os at få tilgodeset, og
+det er lykkedes på en rimelig måde. Selvfølgelig kan vi ikke få tilgodeset alle synspunkter i
+en sådan lov: der må indgås nogle politiske
+kompromiser. Og regeringen har så lagt sig
+fast på nogle grænser. Det er jo Folketingets
+og regeringens opgave at lovgive og sætte nogle grænser, og man kan have forskelligt syn på,
+hvor de grænser skal sættes. Vi har sat dem således, som det står i lovforslaget, og det synes
+vi er fornuftigt. Jeg får ingen problemer med at
+forsvare det lovforslag, der nu foreligger, ude i
+forsamlingshusene.
+SF's ændringsforslag er efter vores mening
+for restriktive i forhold til de realiteter, der
+gælder for en rationel landbrugsdrift i vore dage, så vi kan ikke støtte de forslag. Og ændringsforslagene fra Venstre, De Konservative
+og Fremskridtspartiet er til gengæld for liberale: her har man ikke villet sætte ret mange
+grænser. Så dem kan vi heller ikke støtte.
+Vi står altså efter min vurdering med et godt
+lovforslag. Vi har revideret landbrugets grundlov, og vi har derved fået en god ny grundlov
+for landbruget, som er til gavn både for dem,
+der skal ernære sig ved erhvervet, for bosætningen i landdistrikterne og for miljøet.
+(Kort bemærkning).";Lysholm Christensen
+132068;name_party;":
+Kun et spørgsmål, for jeg er kommet i tvivl:
+Hr. Lysholm Christensen sagde, at fritidslandmanden eller deltidslandmanden måske
+ikke har så meget kapital, og at det er derfor,
+han skal have en fortrinsstilling. Så vil jeg godt
+have afklaret, om hr. Lysholm Christensen mener, at deltidslandmanden så skal have rabat
+på jorden. For i lovforslagets § 13, stk. 3, er der
+i hvert fald lagt op til, at det er markedsprisen,
+som skal betales, uanset hvem det er, der køber.
+(Kort bemærkning).";Mejdahl
+132581;name_party;":
+Hr. Mejdahl har ret i, at der er en paragraf,
+som taler om markedsprisen, men erfaringen
+viser jo, at når jord bliver udbudt til salg, er der
+alligevel forskellige kræfter, der virker ind på
+det, så i praksis - det er i hvert fald den erfaring, man har gjort rundt omkring - bliver det
+sådan, at den, der har bedre magt over tingene,
+
+11658
+
+også kapitalmæssigt, ofte har et fortrin, når
+handelen skal afsluttes.";Lysholm Christensen
+133015;name_party;":
+Jeg har haft tid til at læse lidt litteratur under debatten. Hr. Lysholm Christensen nævnte
+nemlig i sin ordførertale, at Kristeligt Folkeparti ingen problemer har med dette lovforslag. Men hvis hr. Lysholm Christensen lige vil
+lytte efter, vil jeg læse op fra det udmærkede
+blad, der hedder Landbrugsmagasinet. Dér
+har hr. Lysholm Christensen haft ordet i det
+sidste nummer, og dér skriver hr. Lysholm
+Christensen ordret om dette lovforslag:
+»Loven bliver vedtaget inden udgangen af
+maj.« Det har hr. Lysholm Christensen nok ret
+i. Og så skriver han videre: »Og der bliver et
+bredt flertal om loven.« Det er nok tvivlsomt,
+om det står til troende! Dernæst skriver hr.";Aage Brusgaard
+133707;title_name;"»Det sidste er nødvendigt, hvis loven skal have en rimelig levetid.«
+Det vil altså sige, at hr. Lysholm Christensen
+forudser, at denne lov ikke får en rimelig lang
+levetid. Endelig skriver hr. Lysholm Christensen: »Det vil være meget uheldigt at ændre i
+landbrugsloven, uden at partierne Venstre og
+De Konservative er med.« Det vil altså sige, at
+hr. Lysholm Christensen mener, at det er en
+meget uheldig lov, man her vedtager. Det må
+jeg jo forstå - ellers må hr. Lysholm Christensen jo trække sit læserbrev tilbage.
+Så har jeg et spørgsmål til hr. Lysholm Christensen, men det er måske mere til landbrugsministeren, for jeg har jo siddet i Landbrugsudvalget, så jeg er helt på det rene med, hvad
+detaljerne går ud på. Men vi har jo nogle socialdemokrater på Mors, der som sidebeskæftigelse har haft minkfarme, og det har været en
+god og givtig forretning i nogle år: så de har
+sagt deres job på slagteriet eller på Morsø
+Jernstøberi op og lever nu af minkene. Disse
+minkfarme er godkendt rent miljømæssigt, og
+minkfarmerne har fået harmoniseringskravet
+opfyldt ved at indgå en aftale med deres naboer, altså landmænd, om, at disse aftager gyllen
+eller gødningen fra minkene, og derfor vil jeg
+godt spørge ministeren eller andre, om dette
+lovforslag, når det bliver vedtaget, får indflydelse på de minkfarme og eventuelt kyllingefarme, der er på Mors og andre steder i landet,
+og som ikke selv har jord nok til rådighed, men
+som har en aftale med naboerne om, at disse
+
+11659
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Lysholm Christensen
+135290;title_name;"stiller jord til rådighed. Jeg kan også spørge,
+om det får umiddelbar betydning for dem nu
+eller først ved et eventuelt salg af disse minkfarme og kyllingefarme.
+(Kort bemærkning).";Aage Brusgaard
+135496;name_party;":
+Jamen det var da en interessant oplæsning
+fra Landbrugsmagasinet, vi her var vidne til.
+Jeg vil sige, at overskriften i den pågældende
+artikel ikke står for min regning: det er en, redaktøren har lavet. Men det er rigtigt, at der
+længere nede står, at jeg forudser et flertal bag
+denne lov, og det var et fromt ønske, jeg udtrykte den mandag morgen, hvor jeg skrev den
+artikel. Jeg troede faktisk, det kunne lade sig
+gøre. Det så det ud til på det tidspunkt, og jeg
+havde også et virkeligt ønske om, at det ville
+ende sådan.
+Jeg synes, landbrugsloven fortjener det. Jeg
+synes ikke, argumentationen fra Venstre, De
+Konservative og Fremskridtspartiet i den sidste fase var så afvigende fra det, der lå på bordet, at det kunne ende, som det endte. Jeg kan
+kun tolke det således, at det er af politiske
+grunde, man nu har vedtaget at stemme imod
+dette lovforslag. Der må være gået politik i det.
+Så må jeg desværre bare konstatere, at mit
+ønske ikke gik i opfyldelse. Det er selvfølgelig
+kedeligt: men at det er uheldigt, at der ikke er
+et bredt flertal, betyder jo ikke, at loven er
+uheldig. Tværtimod synes jeg, det er en god
+lov: men jeg synes, det er kedeligt for oppositionen, at den ikke vil være med. Og om loven
+får en lang levetid, skal jeg ikke kunne sige:
+men der er dog én ordfører, der i dag har sagt,
+at man ville tage initiativ til ændring af loven
+hurtigst muligt eller i hvert fald i løbet af et par
+år. Så der er altså noget, der tyder på, at der er
+nogle, der pønser på, at levetiden ikke skal blive så lang.
+Jeg håber faktisk, den bliver lang, for jeg synes, loven er så god, at den fortjener det.
+Landbrugsministeren (Bjørn Westh):
+Tak for en - synes jeg - i virkeligheden rimelig stilfærdig debat om dette lovforslag. Jeg
+tror i virkeligheden også, at der er bred tilslutning til det. Så det er måske mere den politiske
+situation, vi er i, hvor der skal være et valg senest den 6. december, der gør, at man ikke har
+samlet sig mere om det. Men det er mit ind-
+
+11660
+
+tryk, at dette lovforslag rammer mange af følelserne hos landmændene og ude i landdistrikterne. Jeg vil ikke komme ind på de enkelte
+detaljer, men bare fremdrage nogle få ting:
+Det er rigtigt, som nogle siger, at man prøver
+at tilgodese både det produktive landbrug og
+livet på landet, og jeg kan ikke se, at dét kan
+være nogen forkert udfordring at give sig selv.
+Derfor liberaliserer vi reglerne for mindre bedrifter på landet i forbindelse med og i forlængelse af indenrigsministerens rapport om landdistrikterne, en rapport, der i øvrigt blev rost
+fra mange sider, også specielt for det punkt,
+som vi nu indarbejder i landbrugsloven. Selv
+mange Venstrefolk roste den og var endda
+overordentlig positive og fremhævede, at det
+var noget af det mest positive i indenrigsministerens landdistriktsredegørelse. Og det er det,
+der nu bliver indarbejdet her, og det er vi tilfredse med.
+Det betyder, at der bliver mange enheder, og
+det betyder, at bedrifterne kan få lov til at vokse naturligt - måske langsomt for nogle, men
+de kan vokse, også for dem, der ikke er heltidslandmænd.
+Loven lægger op til en bedre arrondering,
+således at jorden bliver samlet omkring bygningerne, hvor dyrene er. Det er en driftsøkonomisk fordel for landmanden, og det er det
+også for samfundet.
+Loven lægger op til bedre miljøregler, og
+som noget nyt lægger den op til det, jeg har
+kaldt et veterinært forsigtighedsprincip. Det er
+tankerne fra 1989 om, at der skal være et besætningsloft, der nu bliver realiseret. Det er
+der god baggrund for, for vi ved alle, at det kan
+være svært at styre smitte i meget store besætninger.
+Jeg var i går sammen med en meget kendt
+landmand, der fortalte mig, at hvis han skulle
+have en ny ejendom - og det skulle han: han er
+ved at etablere en ny ejendom - så ville han
+ikke købe en, der ligger ud til en offentlig vej,
+for så risikerede han jo at få smitte fra de grisebiler, der kørte forbi: så skulle den ligge langt
+væk. Og det vil sige, at dybt inde i landmændenes sjæl er der det veterinære forsigtighedshensyn, at man ikke skal have for store enheder for tæt på hinanden. For er der noget, der
+går galt, er det svært at få under kontrol. Salmonellaundersøgelserne har jo også vist, at der
+kan være en vis rimelighed i ikke at have for
+voldsomt store besætninger.
+
+11661
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme";Lysholm Christensen
+139885;title_name;"Til gengæld for dette udvider vi jo så mulighederne for at eje flere landbrugsejendomme,
+end der tidligere har været mulighed for.
+For mig at se er der ikke nogen modstrid
+mellem lovforslaget og det, jeg nu siger om
+ejendomme og bedrifter. Der har desværre været en uklarhed i teksten, men for mig har det
+hele tiden været sådan, at der skulle stilles det
+krav til en ejendom, der skulle eje jord, fordi
+der skulle være dyr på den, at jorden skulle
+ligge ved ejendommen og ikke eventuelt 10 km
+væk på en anden ejendom, så det blev bedriftsbegrebet, der kom til at råde.
+For mig at se betyder begrebet »en velarronderet landbrugsejendom«, at jorden ligger omkring bygningerne, hvor dyrene lever. Det er
+det, vi skal nå frem til. Det er det, der vil give et
+stabilt produktionsgrundlag, og det er det, der
+vil give det bedste miljø.
+Jeg vil så slutte med at sige, at man selvfølgelig kunne komme med mange polemiske bemærkninger, men at jeg mener, vi har imødekommet organisationerne meget langt, og at
+jeg har bemærket, at Venstre, De Konservative
+og Fremskridtspartiet heller ikke fuldt ud imødekommer organisationernes ønsker.
+Men jeg har undret mig over, at Venstre ville
+lave samdriftsregler, der ville bevirke, at al
+dansk landbrugsjord i virkeligheden kunne
+drives på 900 ejendomme. Ja, hvis man tager
+det meget matematisk-teoretisk, kan det areal,
+man foreslår inden for samdrift, endda betyde,
+at dansk landbrugsjord faktisk kan drives fra
+meget mindre end 900 ejendomme, således at
+udtrykket én gård i hvert sogn ville betyde
+nogle få hundrede bedrifter i Danmark, og at
+resten så lå i dvale. Det kan jeg ikke forstå skal
+være Venstres mål, og det tror jeg heller ikke
+det er.
+Men i virkeligheden mener jeg ikke, vi ligger
+så langt fra hinanden, men at forskellige omstændigheder har bevirket, at man stemmer,
+som man gør, og det tager vi til efterretning.
+Jeg tror sådan set, at denne lov vil give fred
+og ro i landbruget både til at opbygge et godt
+produktionslandbrug og til at give et bedre liv i
+landdistrikterne.
+Minkfarmene er der taget hensyn til med det
+ændringsforslag, der er stillet om, at lovligt
+etablerede bedrifter kan fortsætte. Og minkfarme, der er etableret på industrijord, er jo ikke
+undergivet landbrugslovens regler, men miljøbeskyttelseslovens regler.
+
+11662
+
+(Kort bemærkning).";Landbrugsministeren
+142215;name_party;":
+Jamen det er altså ret vigtigt at vide, om lovligt etablerede minkfarme og kyllingefarme,
+der ikke selv har jord til rådighed, men har
+nogle aftaler med naboerne, kan sælges til anden side og så også lovligt køres videre, selv
+om de ikke ligger på industrijord.
+Landbrugsministeren (Bjørn Westh):
+Minkfarme på industrijord er ikke omfattet
+af landbrugslovens bestemmelser, men af miljøbeskyttelsesbestemmelserne. Minkfarme på
+landbrugsjord er undergivet de regler, der gælder for den ejendom, hvorpå de er etableret, og
+den ejendom skal opfylde egenandelskravet.
+Det gælder i øvrigt også efter VKZ's ændringsforslag. Her er der, så vidt jeg ved, ingen forskel.
+Hermed sluttede forhandlingen.
+Afstemning
+Ændringsforslag nr. 1 til titlen
+vedtoges uden afstemning.
+Ændringsforslag nr. 5
+forkastedes, idet 9 stemte for, 104 imod.
+Ændringsforslag nr. 6
+vedtoges uden afstemning.
+Ændringsforslag nr. 9
+forkastedes, idet 9 stemte for, 106 imod.
+Ændringsforslag nr. 3, 8 og 10
+forkastedes uden afstemning.
+Ændringsforslag nr. 11
+forkastedes, idet 46 stemte for, 68 imod.
+Ændringsforslag nr. 4
+forkastedes uden afstemning.
+Ændringsforslag nr. 12
+vedtoges uden afstemning.
+Ændringsforslag nr. 13
+forkastedes, idet 9 stemte for, 105 imod.
+
+11663
+
+20/5 94: 2. beh. af f. t. 1. vedr. erhvervelse og genoprettelse af landbrugsejendomme
+
+Ændringsforslag nr. 14
+vedtoges uden afstemning.
+Ændringsforslag nr. 15, 16 og 18
+forkastedes uden afstemning.
+Ændringsforslag nr. 19
+forkastedes, idet 9 stemte for, 102 imod.
+Ændringsforslag nr. 7, 20 og 21
+forkastedes uden afstemning.
+Ændringsforslag nr. 22
+forkastedes, idet 9 stemte for, 102 imod.
+Ændringsforslag nr. 25
+forkastedes, idet 45 stemte for, 68 imod.
+Ændringsforslag nr. 2
+forkastedes uden afstemning.
+Ændringsforslag nr. 26
+forkastedes, idet 9 stemte for, 105 imod.
+
+11664
+
+forkastedes uden afstemning.
+Ændringsforslag nr. 38
+forkastedes, idet 43 stemte for, 68 imod.
+Ændringsforslag nr. 39
+vedtoges uden afstemning.
+Ændringsforslag nr. 40-43
+forkastedes uden afstemning.
+Ændringsforslag nr. 44
+vedtoges uden afstemning.
+Ændringsforslag nr. 45 og 46
+forkastedes uden afstemning.
+Ændringsforslag nr. 48
+forkastedes, idet 9 stemte for, 104 imod.
+Ændringsforslag nr. 17, 23, 47, 49, 50 og 51
+forkastedes uden afstemning.
+
+Ændringsforslag nr. 24
+forkastedes uden afstemning.
+
+§ 1 med de foretagne ændringer, § 2 og ændringsforslag nr. 52
+vedtoges uden afstemning.
+
+Ændringsforslag nr. 27
+forkastedes, idet 9 stemte for, 105 imod.
+
+Ændringsforslag nr. 53
+forkastedes uden afstemning.
+
+Ændringsforslag nr. 28
+forkastedes, idet 44 stemte for, 68 imod.
+
+§ 3, med den foretagne ændring,
+vedtoges uden afstemning.
+
+Ændringsforslag nr. 29 og 30
+forkastedes uden afstemning.
+
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.
+
+Ændringsforslag nr. 31 og 32
+vedtoges uden afstemning.
+Ændringsforslag nr. 33
+forkastedes uden afstemning.
+Ændringsforslag nr. 34
+forkastedes, idet 9 stemte for, 102 imod.
+Ændringsforslag nr. 20
+forkastedes uden afstemning.
+Ændringsforslag nr. 35, 36 og 37";Aage Brusgaard
+145277;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+6) Anden behandling af lovforslag nr. L 172:
+Forslag til lov om ændring af lov om statsgaranti og rentetilskud m.m. ved udlån til yngre
+jordbrugere.
+
+11665
+
+20/5 94: 2. beh. af f. t. 1. vedr. statsgaranti m.m. ved udlån til yngre jordbrugere
+
+Af landbrugsministeren (Bjørn Westh).
+(Fremsat 19/1 94. Første behandling 28/1
+94. Betænkning 18/5 94).
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslaget
+og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Ingen bad om ordet.
+Afstemning
+§ 1, ændringsforslaget, og § 2, således ændret,
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Grove
+146313;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+7) Anden behandling af lovforslag nr. L 244:
+Forslag til lov om ændring af lov om social
+pension, lov om social bistand og den sociale styrelseslov m.v. (Tilkendelseskompetence m.v.).
+Af socialministeren (Yvonne Herløv Andersen).
+(Fremsat 14/4 94. Første behandling 20/4
+94. Betænkning 5/5 94. Ændringsforslag nr.
+1-7 af 18/5 94 uden for betænkningen af socialministeren).
+Der var ikke stillet ændringsforslag i betænkningen.
+Uden for betænkningen var der stillet 7 ændringsforslag af socialministeren.
+
+11666
+
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.
+Forhandling";Grove
+147239;name_party;":
+I betænkningen står, at vi fra konservativ side vil redegøre for vores stilling til forslaget
+ved andenbehandlingen. Det har den helt naturlige forklaring, at ministeren - ganske vist
+meget sent i forløbet - tog imod vores opfordring til at indkalde til et forhandlingsmøde
+med henblik på at nå et fælles resultat. Så vi
+var faktisk midt i et forhandlingsforløb, hvis
+resultat afspejles i de ændringsforslag, ministeren har stillet uden for betænkningen.
+Forslaget er stadig væk meget bureaukratisk
+efter vores smag. Vi havde foretrukket den
+mest direkte vej, hvorefter kompetencen simpelt hen bliver udlagt til kommunerne, som så
+skal etablere et socialt koordinationsudvalg. Vi
+synes, den foreslåede ansøgningsprocedure er
+tung.
+Men ved førstebehandlingen var det helt afgørende for os at få sikkerhed for, at alle kommuner, der opfylder den ene betingelse, at de
+etablerer et socialt koordinationsudvalg, kan
+få overdraget kompetencen. Og det er sket.
+Ministeren har skriftligt garanteret os, at der
+ikke ligger nogen kvoteordning gemt i den administrative udmøntning. Vi har fået sikkerhed
+for, at det ikke er en forsøgsordning, men derimod en glidende udlægning. Det er derfor også vigtigt, at ministeren har lovet os, at personale- og administrationsudgifter til de amtslige
+revaliderings- og pensionsnævn vil blive neddroslet i takt med udlægningen.
+De øvrige præciseringer, som ligger i ændringsforslagene, kan vi også give fuld tilslutning, og vi er tilfreds med, at ministeren har
+haft kontakt med handicap- og invalideorganisationerne, selv om vi beklager, at det skete så
+sent.
+Derudover indeholder ændringsforslagene
+implementeringen af løsningen på et hængeparti fra satspuljeforliget, som vi indgik med
+regeringen i december. I dette forlig fik Det
+Konservative Folkeparti sammen med Venstre
+gennemført en aftale om, at der i årene 1995-97
+blev afsat henholdsvis 35 mio. kr., 80 mio. kr.
+
+11667
+
+20/5 94: 2. beh. af f. t. 1. vedr. pensionstilkendelseskompetence m.v. til kommunerne";Pia Christmas-Møller
+149263;title_name;"og 130 mio. kr. til en hel eller delvis afskaffelse
+af den diskriminerende såkaldte husmodervurdering i forbindelse med tilkendelse af helbredsbetinget førtidspension.
+Det har været temmelig sejt for os at få særlig finansministeren, som forliget blev indgået
+med, til at leve op til aftalen, men nu er det
+lykkedes. Desværre kommer vi ikke helt af
+med den forkætrede husmodervurdering - det
+rækker de afsatte penge ikke til - men vi har
+fået taget hul på bylden på en sådan måde, at
+medarbejdende ægtefæller og andre gifte personer, der arbejder mere end 27 timer ugentlig,
+fremover skal vurderes på grundlag af fuldt erhverv. Det er vi godt tilfreds med.
+Alt i alt kan vi give fuld tilslutning til de af
+ministeren stillede ændringsforslag og dermed
+også til hovedforslaget, og vi takker for et konstruktivt samarbejde.";Pia Christmas-Møller
+150110;name_party;":
+Vi har skrevet i betænkningsbidraget, at
+Venstre vil give en melding ved anden behandling, så jeg vil da godt starte med at give ministeren den positive melding, at Venstre vil
+stemme for ændringsforslagene, samt at vi også ved tredjebehandlingen vil stemme for det
+samlede lovforslag.
+Dette er jo andet trin af det, vi kalder udlægning af kompetence til kommunerne. Vi havde
+håbet på, at det var blevet ved det, så vi ikke
+skal have en tredje omgang. Men vi vil gerne
+være med til at støtte, at vi er kommet så langt.
+Vi er også tilfreds med de tilsagn, vi har fået
+fra ministerens side om den måde, man har
+tænkt sig at håndtere ansøgningerne fra kommunerne på, så en stor gruppe af kommunerne
+får kompetence til selv at tilkende pensioner.
+Så håber vi på, at vi, når vi skal til at tage det
+tredje skridt, kan tage det fuldt ud. Det tror jeg
+nemlig vil blive til gavn for borgerne rundt om
+i kommunerne.
+Vi er også tilfreds med, at vi nu har fået udmøntet satsforliget fra før jul, hvor vi har fået
+blødt op for det, der hedder husmoderfunktionsbegrebet, og da ikke mindst, at vi her får
+på skrift, at de medarbejdende ægtefæller får
+et andet grundlag for at få tildelt pension, end
+vi har i dag. Det er også et af de gode elementer.
+Venstre tror på, at kommunerne vil tage vel
+imod denne udlægning, og at de vil tage ansva-
+
+11668
+
+ret på sig. Hermed mener jeg, at det drejer sig
+om at lave nogle gode revalideringstiltag for de
+mennesker, der ikke længere står fuldt til rådighed for arbejdsmarkedet. Det drejer sig jo i
+bund og grund ikke om at sende flere på pension, men om, at folk kan bruge den resterhvervsevne, de har.
+Venstre tror på, at kommunerne vil leve op
+til deres ansvar, og så håber vi som sagt på, at
+næste trin bliver, at vi får loven gjort permanent.";Else Winther Andersen
+151902;name_party;":
+De af ministeren stillede ændringsforslag
+uden for betænkningen har en sådan karakter,
+at forslaget bliver bedre. Jeg vil ikke sige, at det
+bliver væsentligt bedre, men det bliver i hvert
+fald bedre, og derfor kan Fremskridtspartiet
+støtte alle de af ministeren stillede ændringsforslag.
+Det betyder dog ikke, at forslaget bliver så
+godt, at Fremskridtspartiet har ændret indstilling til selve forslaget. Vi vil fortsat indstille
+forslaget til forkastelse, når vi når frem til tredjebehandlingen.";Tom Behnke
+152442;title_name;":
+Jeg vil gerne takke ordførerne for tilslutningen til forslaget og så lige komme med en rettelse:
+Der har, som der blev sagt, i begge omgange
+løbende været kontakt med organisationerne i
+hele forløbet i forbindelse med lovforslaget.
+Jeg skal også sige, at der har været tilfredshed med mange af lovforslagets dele: men der
+har specielt været bekymringer i forbindelse
+med forskellen i de enkelte kommuners måde
+at forvalte de forskellige tillæg på, dvs. spørgsmålet om tildeling af hjælpemidler - særligt
+dyre hjælpemidler som f.eks. biler, og bistands- og plejetillæg. Derfor er der stillet ændringsforslag, som præciserer, at det er et område, som vil blive fulgt meget tæt, og efter at
+det faldt på plads, har der ikke været problemer.
+Jeg er også meget tilfreds med, at vi nåede at
+få forhandlet spørgsmålet omkring husmodervurderingen på plads med satspuljepartierne,
+fordi det er et lille skridt i den retning, hvor
+man får lettet lidt på et begreb, som er vanskeligt at få løftet helt, da det er meget økonomisk
+tungt.
+
+11669
+
+20/5 94: 2. beh. af f. t. 1. vedr. pensionstilkendelseskompetence m.v. til kommunerne
+
+Hermed sluttede forhandlingen.
+
+11670
+
+tredje behandling sattes til forhandling under
+ét.
+
+Afstemning
+Ændringsforslag nr. 1, § 1, således ændret,
+ændringsforslag nr. 2 og 3, § 2, således ændret,
+ændringsforslag nr. 4 og 5, § 3, således ændret,
+ændringsforslag nr. 6, § 4, således ændret, §§
+5-7, ændringsforslag nr. 7, § 8, således ændret,
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Yvonne Herløv Andersen
+154027;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.";Grove
+154254;title_name;":
+Som tidligere meddelt udgår den næste sag
+på dagsordenen, der var:
+8) Anden behandling af lovforslag nr. L 245:
+Forslag til lov om sociale ydelser på Færøerne.
+Af socialministeren (Yvonne Herløv Andersen).
+(Fremsat 14/4 94. Første behandling 20/4
+94. Betænkning 5/5 94).
+Den næste sag på dagsordenen var:
+9) Anden behandling af lovforslag nr. L 246:
+Forslag til lov om ændring af lov om delpension. (Ændringer som følge af indførelse af delefterløn m. v.).
+Af socialministeren (Yvonne Herløv Andersen).
+(Fremsat 20/4 94. Første behandling 26/4
+94. Betænkning 5/5 94).
+
+Forhandling";Grove
+154862;name_party;":
+Jeg vil spørge socialministeren, om hun vil
+foranledige en oplysningskampagne om delpensionen.";Else Winther Andersen
+155000;title_name;":
+Jeg vil gerne foranledige, at der kommer oplysninger ud om delpensionen, for et af argumenterne, der har været rejst vedrørende brug
+af delpensionen og den ringe tilslutning, der
+har været, har jo netop været, at man ikke var
+bekendt med loven, og at man ikke fik forelagt,
+at det også var en mulighed.
+Så det vil jeg gerne give tilsagn om.
+Hermed sluttede forhandlingen.
+Afstemning
+Ændringsforslaget, § 1, således ændret og §
+2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Yvonne Herløv Andersen
+155553;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+
+10) Anden behandling af lovforslag nr. L 108:
+Forslag til lov om ændring af lov om apoteksvirksomhed. (Større fleksibilitet i apoteksstrukturen, oprettelse af sygehusapotek m.m.).
+Af sundhedsministeren (Torben Lund).
+(Fremsat 1/12 93. Første behandling 9/12
+94. Betænkning 11/5 94).
+
+Lovforslagets paragraffer, ændringsforslaget
+og spørgsmålet om lovforslagets overgang til
+
+Der var stillet 9 ændringsforslag i betænkningen.
+
+11671
+
+20/5 94: 2. beh. af f. t. 1. vedr. apoteksstrukturen, oprettelse af sygehusapotek m.m.
+
+11672
+
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.
+
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.";Grove
+156731;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Ingen bad om ordet.
+Afstemning
+Ændringsforslag nr. 1, ændringsforslag nr. 2,
+ændringsforslag nr. 3-8, § 1, således ændret,
+ændringsforslag nr. 9, § 2, således ændret, og §
+3
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Grove
+157230;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+11) Anden behandling af lovforslag nr. L 230:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension og lov om Lønmodtagernes Dyrtidsfond. (Investeringsgrænser).
+Af arbejdsministeren (Jytte Andersen).
+(Fremsat 6/4 94. Første behandling 12/4 94.
+Betænkning 11/5 94).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet
+om dets overgang til tredje behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1-3
+vedtoges uden afstemning.
+
+Den sidste sag på dagsordenen var:
+12) Anden behandling af lovforslag nr. L 248:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. (Indførelse af delefterløn
+m.v.).
+Af arbejdsministeren (Jytte Andersen).
+(Fremsat 20/4 94. Første behandling 26/4
+94. Betænkning 11/5 94).
+Der var stillet 6 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.
+Forhandling";Grove
+158538;name_party;":
+En langvarig og svær fødsel har det været at
+få et gennembrud for seniorerne og de ældre
+på arbejdsmarkedet, men nu lykkes det, og det
+er godt.
+Ved førstebehandlingen havde vi nogle udestående problemer, og de er nu løst - stort set i
+alt fald. Det er også godt. Vi er meget tilfredse
+med, at det nu direkte i loven bliver fastslået,
+at delefterlønnens arbejdstid skal opgøres over
+to udbetalingsperioder, dvs. over 8-9 uger.
+Og så glæder vi os i øvrigt til at se delefterlønsordningen virke i praksis. Vi håber, at vores aftale om inden udgangen af 1996 at vurdere, om vi kan gennemføre en regel i delefterlønsordningen, som svarer til 63-års-reglen på
+den almindelige efterløn, vil blive fulgt af et
+positivt resultat, som jo i givet fald vil flugte
+med Socialkommissionens ideer om at indbyg-
+
+11673
+
+20/5 94: 2. beh. af f. t. 1. vedr. indførelse af delefterløn m.v.";Pia Christmas-Møller
+159435;title_name;"ge nogle økonomiske incitamenter også for de
+ældre aldersgrupper.
+Af hensyn til historieskrivningen og dermed
+især af hensyn til dem, der måtte læse Folketingstidendes referat af forligets første behandling, bliver jeg nødt til at give et par oplysninger i tilknytning til to indlæg, som jeg bevidst
+ikke reagerede på ved den lejlighed, idet de tilstedeværende jo kendte forudsætningerne.
+Fru Lone Møllers indlæg d. 26. april 1994
+(Folketingstidende 1993-94, sp. 9957), hvor
+hun refererer fra et forhandlingsmøde, kunne
+forstås sådan, at det var mig og mit parti, der
+indirekte blev refereret til. Det var det ikke, og
+det ved jeg at fru Lone Møller er fuldstændig
+enig i.
+Jeg har kæmpet for at få opbakning bag det
+synspunkt, at timer ud over de 200 timer skulle
+modregnes i efterlønnen time for time, sådan
+som man også gør det på det almindelige dagpengeområde, men jeg har på intet tidspunkt
+benægtet, at forligsteksten indebærer en krone
+for krone-modregning, og det ved jeg at også
+fru Lone Møller og andre er fuldt opmærksom
+på.
+Det andet indlæg, jeg ikke besvarede, kom
+fra arbejdsministeren og er refereret sammesteds, sp. 9967. Også her er det af historiske
+hensyn, at jeg vil oplyse, hvad vi jo alle sammen ved, nemlig at det langstrakte forhandlingsforløb medførte, at formentlig kun et par
+af os politikere, herunder arbejdsministeren og
+undertegnede, har haft mulighed for at være
+med i hele forløbet.
+Denne fleksibilitet har på den ene side været
+forudsætningen for, at vi kunne nå at få et resultat i hus, og på den anden side har den kompliceret de i forvejen komplicerede forhandlinger. Men nu lykkes det, og det er godt. Vi har
+fået rettet de væsentligste af de udestående
+problemer, der var ved førstebehandlingen:
+jeg tænker særlig på problemet med delpension.
+Et enkelt problem vedrørende 63-års-reglen
+er ikke løst helt ideelt, men vi har fået ministerens skriftlige garanti for, at det maksimalt vil
+dreje sig om en merudgift på 2 mio. kr., så det
+har vi accepteret af hensyn til det overordnede
+resultat, som vi er ganske godt tilfreds med.";Pia Christmas-Møller
+161526;name_party;":
+Jeg skal kun ganske kort gøre opmærksom
+
+11674
+
+på, at også Venstre er godt tilfreds med, at vi
+nu er nået frem til målstregen med dette lovforslag, hvor vi kan få det til anden behandling.
+Men vi forventer selvfølgelig, at de aftaler, vi
+har indgået, nu også bliver ført ud i livet i den
+ånd, vi har indgået dem i. Der er tale om aftaler, som i vid udstrækning er mundtlige, selv
+om vi også havde papirer på bordet, og derfor
+vil jeg udtrykke håb om, at den ånd og indforståelse, hvori aftalerne blev indgået, også vil
+blive respekteret.
+Vi er glade for, at der her er lagt vægt på, at
+vi får en større fleksibilitet for ældre, der gerne
+vil trække sig tilbage fra arbejdsmarkedet. Jeg
+tror, det vil give en større livskvalitet for en
+stor gruppe danske medborgere, og det kan vi
+kun hilse velkommen.
+Der er også andre dele i det, som vi er glade
+for er kommet med. Det gælder opblødningen
+af 200-timers-reglen og i det hele taget det, der
+gør det nemmere at arbejde med ude i hverdagen, så vi ønsker lovforslaget vel kurs fremover.
+Arbejdsministeren (Jytte Andersen):
+Jeg skal ikke forlænge debatten her fredag
+eftermiddag, men blot sige tak for de to indlæg
+og også tilkendegive, at vi i regeringen er glade
+for det brede flertal for de rammer, som nu er
+etableret og skabes for ældres tilbagetrækningsmønster, både dem, der har en arbejdsmarkedstilknytning i dag, og som kan trappe
+langsomt ud af arbejdsmarkedet, og dem, der
+er ude og altså får nogle bedre og mere fleksible rammer for deres aktivitet, med andre ord
+ændringerne i forbindelse med 200-timers-reglen.
+Jeg vil altså takke for det forhandlingsforløb, der har været, og tilkendegive, at aftalen jo
+bliver udfyldt med de intentioner, der forelå
+under det forhandlingsforløb, som fru Pia
+Christmas-Møller sagde har været langstrakt,
+og som til tider også har været energisk og i
+sidste fase lidt heftigt, men sådan er det nu.
+Men ikke desto mindre har vi en smuk aftale,
+som det er min opfattelse at alle partier kan
+vedstå sig, og vi kan oven i købet være en lille
+smule stolte af, at hele Folketinget står bag nye
+rammer for ældres tilbagetrækningsmønster.
+Hermed sluttede forhandlingen.
+
+11675
+
+20/5 94: 2. beh. af f. t. 1. vedr. indførelse af delefterløn m.v.
+Afstemning
+
+Ændringsforslag nr. 1-6, § 1, således ændret,
+og § 2
+vedtoges.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Else Winther Andersen
+163929;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Grove
+164183;title_name;":
+Der er ikke mere på dagsordenen.
+
+11676
+
+Der er foretaget ændringer i følgende udvalg:
+Udvalget for Forretningsordenen (20/5 94):
+Udtræder: Gade (SF)
+Nyt medl.: Rahbæk Møller (SF)
+Boligudvalget (20/5 94):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Sonja Albrink (CD)
+Folketingets næste møde afholdes tirsdag
+den 24. maj 1994 kl. 12.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte
+ugeplan.
+Mødet hævet kl. 12.57";Grove

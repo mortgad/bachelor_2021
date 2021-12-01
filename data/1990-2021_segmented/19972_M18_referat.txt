@@ -1,0 +1,1856 @@
+split;reason;text;value
+0;;"Mandag den 4. maj 1998 (D)
+
+18. m ø d e";
+72;Time;"Dagsorden
+1) Spørgsmål om fremme af forespørgsel nr.
+F 15:
+Forespørgsel til forskningsministeren [om årstalsskift for computere fra 1999 til 2000].
+Af Kim Behnke (FP) m.fl.
+(Forespørgslen anmeldt 28/4 98).
+2) Forespørgsel nr. F 13:
+Forespørgsel til arbejdsministeren [om sanktionerne i dagpengesystemet og om a-kassemedlemmernes retssikkerhed].
+Af Jette Gottlieb (EL) og Frank Aaen (EL).
+(Forespørgslen anmeldt 14/4 98. Fremme af
+forespørgslen vedtaget 21/4 98).
+
+1093
+
+Den første sag på dagsordenen var:
+1) Spørgsmål om fremme af forespørgsel nr.
+F 15:
+Forespørgsel til forskningsministeren [om årstalsskift for computere fra 1999 til 2000].
+Af Kim Behnke (FP) m.fl.
+(Forespørgslen anmeldt 28/4 98).";kl. 13.00
+785;title_name;"Hvis ingen gør indsigelse mod fremme af denne forespørgsel, betragter jeg Tingets samtykke
+dertil som givet. (Ophold). Det er givet.
+
+3) Første behandling af lovforslag nr. L 71:
+Forslag til lov om ændring af lov om mægling i
+arbejdsstridigheder.
+Af Jette Gottlieb (EL) og Frank Aaen (EL).
+(Fremsat 21/4 98).
+
+Den næste sag på dagsordenen var:
+2) Forespørgsel nr. F 13:
+Forespørgsel til arbejdsministeren:
+»Hvad kan ministeren oplyse om sanktionerne i dagpengesystemet, herunder om sammenhængen mellem sanktionen og forseelsens
+omfang, forsætlig eller ikkeforsætlig, og hvad
+kan ministeren oplyse om a-kassemedlemmemes retssikkerhed sammenlignet med
+krav, der normalt stilles i et retssamfund?«
+Af Jette Gottlieb (EL) og Frank Aaen (EL).
+(Forespørgslen anmeldt 14/4 98. Fremme af
+forespørgslen vedtaget 21/4 98).
+
+Meddelelser fra formanden";Formanden
+1637;title_name;"Jeg gør opmærksom på, at afstemning om
+eventuelle forslag til vedtagelse først vil blive
+foretaget i mødet i morgen.";Formanden
+1766;title_name;"Medlemmer af Folketinget Villy Søvndal (SF),
+Christine Antorini (SF), Pernille Frahm (SF) og
+Jes Lunde (SF) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om opfordring
+til at trække aktstykke nr. 170 om anvendelse af
+ca. 31,7 mio. kr. i forbindelse med tiltrædelse af
+et Memorandum of Understanding vedrørende
+renovering m.v. af kasernebygninger i Szczecin
+i Polen til brug for et dansk-tysk-polsk multinationalt korps tilbage fra Finansudvalget.
+(Beslutningsforslag nr. B 39).
+I
+
+Begrundelse";Formanden
+2320;name_party;":
+Enhedslisten har rejst denne forespørgsel her i
+dag, fordi vi er af den opfattelse, at der er et stigende misforhold mellem forseelserne i dagpengesystemet og de sanktioner, de pågældende bliver udsat for. Årsagen hertil er, at der har
+udviklet sig et helt parallelt straffesystem, og i
+1990'erne er det endda gået sådan, at rådighedskravet er blevet væsentligt skærpet, og de
+gamle skønsprincipper er udvandet. På den
+baggrund mener vi, det er nødvendigt med en
+debat om, hvorvidt det er en ønsket situation,
+og om vi er i færd med at bevæge os ud mod
+kanten af det, man kunne kalde almindelige
+retssikkerhedsprincipper i det danske samfund.
+
+1094
+
+Mandag den 4. maj 1998 (F 13)
+
+Besvarelse
+Arbejdsministeren (Ove Hygum):
+Sidste del af forespørgslens tekst kunne efterlade det indtryk, at spørgeren på forhånd har en
+opfattelse af, at a-kassemedlemmernes retssikkerhed ikke tåler sammenligning med krav, der
+normalt stilles i et retssamfund. Jeg vil derfor
+gerne straks slå fast, at sanktionerne i dagpengesystemet og medlemmernes retsstilling på
+dette område er fastsat i eller bygger på lovbestemmelser, der er vedtaget af Folketinget, og at
+der er tale om regler, der har rødder tilbage til
+den første arbejdsløshedslov fra 1907 og løbende er vurderet og justeret her i Tinget.
+Det er muligt, at systemet ikke altid virker
+perfekt, og at der af og til træffes afgørelser i
+enkelte sager, der kan bedømmes som uforholdsmæssig hårde. Men jeg er sikker på, at
+min redegørelse og debatten vil vise, at der ikke
+er grundlag for en generel mistænkeliggørelse
+af regelsættet og dets administration. Medlemmernes retsstilling og retssikkerhed er ikke
+baseret på jungleloven, men på klare lovregler,
+som fuldt ud lever op til retssamfundets krav.
+Inden jeg går over til en nærmere gennemgang af sanktionsreglerne, vil jeg gerne gøre
+opmærksom på dagpengesystemets særlige
+karakter, for det er efter min opfattelse vigtigt
+at gøre sig klart, hvad baggrunden er for, at
+regelsættet ser ud, som det gør i dag.
+Arbejdsløshedsforsikringen er, som navnet
+angiver, en forsikring, man frivilligt kan melde
+sig til eller holde sig uden for. Den ligger over
+det egentlige sociale sikringssystem og er derfor
+aldrig det sidste økonomiske sikkerhedsnet.
+Ligesom ved andre forsikringer er der til arbejdsløshedsforsikringen knyttet en række forsikringsbetingelser, og manglende opfyldelse
+eller overtrædelse af betingelserne kan bevirke,
+at forsikringen ikke dækker i et konkret tilfælde, eller at forsikringen falder helt væk, uden at
+der derfor er tale om en sanktion. Som eksempel kan nævnes manglende betaling af kontingent. Et medlem, som ikke betaler kontingent,
+altså forsikringspræmien, slettes som medlem
+af a-kassen: men slettelse af denne årsag er ikke
+en sanktion, men en naturlig følge af forsikringsprincippet.
+Efter disse indledende bemærkninger skal jeg
+nu komme ind på, hvilke forhold der sanktioneres i dagpengesystemet, og hvilke sanktioner
+der er tale om.
+
+Jeg vil først præcisere, at sanktioner er noget
+andet end straf i straffelovens forstand. Et medlem kan ikke straffes for overtrædelse af arbejdsløshedsforsikringslovenen. Hverken akassen, Direktoratet for Arbejdsløshedsforsikring eller Arbejdsmarkedets Ankenævn kan altså straffe et medlem med bøde, hæfte eller
+fængsel. Hvis et medlem har gjort sig skyldig i
+et strafbart forhold, f.eks. bedrageri eller dokumentfalsk over for arbejdsløshedskassen, er
+spørgsmålet om straf efter straffelovens regler
+en sag for politiet og de almindelige domstole.
+Sanktioner ikendes først og fremmest i tilfælde, hvor det kan bebrejdes medlemmet, at der
+er sket udbetaling af dagpenge eller andre ydelser med urette. Udbetaling af ydelser i dagpengesystemet baseres i vid udstrækning på medlemmernes egne oplysninger. Det er af afgørende betydning, at medlemmerne loyalt giver alle
+relevante oplysninger om deres forhold, og at
+oplysningerne er korrekte, og der reageres derfor, når der er udbetalt ydelser med urette, fordi
+medlemmet har givet urigtige oplysninger eller
+har fortiet væsentlige oplysninger.
+Med hensyn til uagtsomhed afhænger sanktionen først og fremmest af medlemmets subjektive forhold. Hvis medlemmet ikke forsætligt
+har givet urigtige oplysninger, men der alene er
+tale om et uagtsomt forhold, er sanktionen altid
+en effektiv karantæne på 37 timer. I dette tilfælde er beløbets størrelse uden betydning, så selv
+om medlemmet med urette har modtaget et
+meget stort beløb, bliver der ikke tale om mere
+end 37 timers karantæne.
+Hvis medlemmet har handlet forsætligt og
+dermed gjort sig skyldig i et svigagtigt forhold
+over for kassen, har størrelsen af det fejludbetalte beløb derimod betydning for sanktionen.
+Hvis beløbet er mere end 25 gange den maksimale dagpengesats - p.t. 13.450 kr. - er sanktionen slettelse af medlemskab, det, der også kaldes svigsslettelse. Hvis det svigagtige forhold
+har bevirket en mindre fejludbetaling, ikendes
+en effektiv karantæne. Karantænens varighed
+beregnes på baggrund af beløbets størrelse,
+men er på mindst 60 timer og højst 530 timer.
+Hvis der foreligger gentagne tilfælde af svig
+inden for 2 år, eller der er tale om skærpende
+omstændigheder, f.eks. at medlemmet har gjort
+sig skyldig i dokumentfalsk, sker der også
+svigsslettelse ved beløb, der er på mindre end
+13.450 kr., og forsøg på svig medfører en karantæne på 60 timer.
+
+Mandag den 4. maj 1998 (F 13)
+Jeg skal gøre opmærksom på, at svigsslettelse
+ikke er nogen ny opfindelse, men at denne
+sanktion blev fastsat allerede i den oprindelige
+lov fra 1907. Regler om karantæne som følge af
+anden forseelse end svig blev indført i loven
+med virkning fra den 1. januar 1920.
+Slettelsen medfører, at alle medlemsrettigheder ophører, og der kan derfor ikke udbetales
+dagpenge eller andre ydelser. Det slettede medlem kan genoptages, hvis de almindelige betingelser for optagelse er opfyldt, og medlemmet
+betaler det skyldige beløb eller indgår et acceptabelt frivilligt forlig om tilbagebetaling.
+Hvis medlemmet genoptages, er der tale om
+et nyt medlemskab, som først giver ret til dagpenge efter 1 år. Arbejdsperioder under det tidligere medlemskab kan dog medregnes til opfyldelse af arbejdskravet, og den tidligere medlemsperiode kan medregnes til at opfylde
+anciennitetskravet til efterløn.
+Reglerne om genoptagelse betyder, at slettelsen i sig selv ikke nødvendigvis får økonomiske
+konsekvenser for medlemmet. Da der er ret til
+dagpenge 1 år efter genoptagelse, vil et medlem, som straks genoptages og har arbejde i
+hele det første år efter genoptagelsen, ikke lide
+noget tab. Hvis medlemmet ikke er i arbejde,
+får slettelsen derimod naturligvis økonomiske
+konsekvenser for medlemmet, fordi medlemmet ikke får udbetalt dagpenge eller andre
+ydelser fra kassen. En efterlønsmodtager, der
+slettes, kan ikke genindtræde i efterlønsordningen, og et medlem på overgangsydelse, der
+slettes, vil miste muligheden for at overgå til
+efterløn, medmindre medlemmet kan opnå tilstrækkeligt arbejde til at optjene ny dagpengeret.
+I tilknytning til gennemgangen af svigsreglerne kan det være på sin plads at nævne
+spørgsmålet om politianmeldelse. Det er fastsat
+i arbejdsløshedsforsikringsloven, at direktøren
+for Arbejdsløshedsforsikringen kan pålægge
+arbejdsløshedskassen at indgive politianmeldelse vedrørende et medlem, der har gjort sig
+skyldig i svigagtigt forhold over for kassen.
+Efter forhandlinger med Rigsadvokaten og
+direktøren for Arbejdsløshedsforsikringen er
+det dog besluttet, at der kun skal indgives politianmeldelse, hvis medlemmet svigsslettes, det
+vil sige, når medlemmet som følge af svig med
+urette har fået udbetalt ydelser for mere end
+13.500 kr., eller der foreligger gentagelsestilfælde eller skærpende omstændigheder. Der indgives således ikke politianmeldelse i alle de til-
+
+1095
+
+fælde, hvor det må antages, at der foreligger et
+strafbart forhold efter straffeloven.
+Jeg vil så gå over til konsekvenserne af en
+effektiv karantæne. En effektiv karantæne betyder, at retten til ydelser bortfalder for et antal
+timer, hvor der ellers ville være ret til ydelser.
+Den faste karantæne på 37 timer for uagtsomhed medfører derfor, at et ledigt medlem mister
+udbetaling af dagpenge for én uge, dvs. op til
+2.690 kr. Minimumskarantænen for svig på 60
+timer svarer til et mistet dagpengebeløb på op
+til ca. 4.350 kr. Den længste karantæne i svigstilfælde er som nævnt på 530 timer, og det svarer til et mistet dagpengebeløb på op til ca.
+38.500 kr.
+Ved vurderingen af disse beløb skal man
+være opmærksom på, at det, der mistes, er en
+skattepligtig ydelse. En karantæne på f.eks. 37
+timer har derfor ikke den samme økonomiske
+konsekvens som en bøde på 2.690 kr., men svarer vel normalt til ca. halvdelen af dette beløb.
+Karantænen bortfalder, hvis den ikke er udstået
+inden 2 år, forudsat at et eventuelt tilbagebetalingsbeløb er betalt, eller der er indgået aftale
+om tilbagebetaling.
+I de tilfælde, hvor et medlem ikendes sanktion i forbindelse med uretmæssig modtagelse
+af ydelser, vil medlemmet som hovedregel også
+blive pålagt at tilbagebetale det beløb, der er
+udbetalt med rette. Reglerne herfor er fastsat i
+lovens § 86: Det fejludbetalte beløb skal tilbagebetales, hvis medlemmet svigagtigt eller ved
+grovere uagtsomhed har givet a-kassen urigtige
+oplysninger eller undladt at give relevante
+oplysninger. Hvis medlemmet ikke selv var
+skyld i fejludbetalingen, skal der kun ske tilbagebetaling, hvis medlemmet vidste, at beløbet
+blev udbetalt med urette. Krav om tilbagebetaling er ikke en sanktion, men et spørgsmål om
+at genoprette status quo, når medlemmet uretmæssigt har modtaget en udbetaling fra a-kassen.
+Det andet hovedområde, hvor der pålægges
+karantæner m.v., er rådighedsreglerne. For at
+kunne modtage dagpenge er det et krav, at man
+ikke selv er skyld i sin ledighed, f.eks. at man
+ikke selv har opsagt sit job, og endvidere er det
+en betingelse, at man står til rådighed for arbejdsmarkedet. Det vil sige, at man som udgangspunkt ikke må sige nej til et formidlet job
+eller et tilbud om aktivering. Opfylder man ikke
+disse betingelser, bliver man som hovedregel
+pålagt en karantæne og vil altså ikke kunne
+modtage dagpenge i denne periode. Det gælder
+
+1096
+
+Mandag den 4. maj 1998 (F 13)
+
+dog ikke, hvis man har en såkaldt gyldig grund
+til at sige op.
+Karantæne efter rådighedsreglerne kan
+anskues ud fra almindelige forsikringsprincipper. En forsikringstager får normalt ikke dækket en skade, som han forsætligt selv er skyld i,
+og en forsikringstager har pligt til at begrænse
+skaden mest muligt. Men da karantænerne også
+på dette område i almindelighed bliver opfattet
+som en sanktion, vil jeg kort gennemgå dem
+her.
+For det første: Siger man sit job op, eller
+ophører man i et jobtilbud, får man 5 ugers
+karantæne. Ophør inden for den første uge i et
+formidlet arbejde og et tilbud medfører dog kun
+én uges karantæne. Afslår man formidlet arbejde, medfører det én uges karantæne, og det
+samme gælder ved manglende medvirken til
+udarbejdelse af en individuel handlingsplan
+samt ved afslag på tilbud i den 2-årige dagpengeperiode. Alle karantæner bortfalder, hvis de
+ikke er afviklet inden for 9 måneder.
+Endelig skal det nævnes, at medlemmer, som
+er i aktivperioden eller er omfattet af ungeindsatsen, mister retten til dagpenge, hvis de ikke
+vil medvirke til at udarbejde en handlingsplan
+eller en uddannelsesplan, eller hvis de afslår et
+tilbud. For igen at få ret til dagpenge skal medlemmet have 52 ugers beskæftigelse inden for 3
+år. Dagpengeretten mistes også, hvis et medlem
+to gange inden for 12 måneder afslår eller
+ophører i et job eller et tilbud, og for igen at
+kunne modtage dagpenge skal medlemmet
+have mindst 300 timers arbejde inden for 10
+uger.
+Jeg vil herefter gå over til spørgsmålet om
+medlemmernes retssikkerhed i forbindelse med
+sanktionerne i dagpengesystemet, og jeg vil her
+på ny minde om, at vi ikke taler om straffe efter
+straffeloven, men om at udbetalingerne fra forsikringen i visse tilfælde suspenderes, eller at
+forsikringen falder væk på grund af medlemmernes forhold.
+Afgørelsen om disse konsekvenser træffes i
+et administrativt system, hvor medlemmets
+arbejdsløshedskasse er første instans. Kassen
+kan fastsætte sanktion for uagtsomt forhold,
+dvs. 37 timers karantæne, samt ikende karantæner m.v. efter rådighedsreglerne. Arbejdsløshedskassen har imidlertid ikke kompetence til
+at fastsætte sanktion for et svigagtigt forhold.
+Hvis kassen finder, at medlemmet har begået
+svig, skal sagen forelægges for Direktoratet for
+Arbejdsløshedsforsikringen med indstilling om,
+
+hvilken afgørelse der skal træffes, og det er
+således kun direktoratet, der som første instans
+kan træffe afgørelse om, at medlemmet har
+begået svig, og fastsætte sanktion som følge
+heraf.
+Alle afgørelser, der træffes af a-kassen kan
+uden formkrav eller omkostninger påklages til
+Direktoratet for Arbejdsløshedsforsikringen, og
+på samme måde kan alle afgørelser, der træffes
+af direktoratet både som ankeinstans og som
+første instans, indbringes for Arbejdsmarkedets
+Ankenævn som højeste administrative klageinstans. Både direktoratet og ankenævnet er som
+offentlige forvaltningsmyndigheder omfattet af
+forvaltningslovens regler. Arbejdsløshedskasseme er derimod ikke direkte omfattet af forvaltningsloven, men der er administrativt fastsat regler med tilsvarende krav til kassernes
+sagsbehandling og afgørelser. Det betyder, at
+spørgsmålet om sanktioner i alle instanser
+behandles skriftligt, og at der træffes begrundede afgørelser efter indhentelse af relevante
+oplysninger og partshøring.
+I øverste instans, altså Arbejdsmarkedets
+Ankenævn, træffes afgørelsen af et kollegium
+på fem personer. Formanden skal ved udnævnelsen opfylde betingelserne for at være landsdommer eller have mindst 3 års ansættelse i en
+tjenestemandsstilling med kongelig udnævnelse, og arbejdsmarkedets parter, DA og LO, har
+hver udpeget ét af de øvrige medlemmer.
+De sidste to medlemmer er udpeget af
+arbejdsministeren efter forhandling med henholdsvis justitsministeren og socialministeren.
+Man skal være opmærksom på, at forvaltningsmyndighedernes afgørelse er undergivet
+domstolskontrol. Et medlem, der er blevet
+ikendt en sanktion i dagpengesystemet, har
+derfor altid adgang til at indbringe spørgsmålet
+om sanktionens lovlighed og rigtighed for de
+almindelige domstole.
+Det er sammenfattende min klare opfattelse,
+at der ikke er noget grundlag for bekymring for
+medlemmernes retssikkerhed. Kassernes og
+direktoratets afgørelse kan uden udgift for
+medlemmerne hurtigt og ubureakratisk ankes
+til Arbejdsmarkedets Ankenævn, som med sin
+sammensætning er velegnet til at træffe de juridisk korrekte og rimelige afgørelser på området.
+Som jeg antydede allerede i starten af min
+redegørelse, har jeg ingen illusion om, at vi har
+etableret det bedste system, som altid medfører
+juridisk perfekte og millimeterretfærdige afgø-
+
+(138)
+Mandag den 4. maj 1998 (F 13)
+relser. Dagpengesystemet er som helhed kompliceret, og den samlede virkning af, at nogle
+betingelser ikke er opfyldt og nogle regler er
+overtrådt, kan fra tid til anden forekomme at
+være ret hårde.
+Der er da også i den senere tid rejst kritik af
+sanktionsreglerne. Kritikken er navnlig rettet
+mod anvendelsen af svigsbegrebet og slettelse
+på grund af svig som sanktion. Jeg er derfor
+også glad for, at min forgænger allerede har
+nedsat et udvalg i Landsarbejdsrådets regi.
+Udvalget skal bl.a. overveje samspillet mellem
+arbejdsløshedsforsikringens sanktionsregler og
+de strafferetlige regler samt vurdere, om sanktionerne i forbindelse med svig og uagtsomhed
+eventuelt bør differentieres yderligere. Udvalget vil endvidere drøfte, om slettelse på grund
+af svig bør bevares som sanktion.
+Udvalget skal efter kommissoriet afgive rapport senest den 1. oktober 1998, og når rapporten foreligger, vil regeringen tage stilling til,
+hvilke justeringer der bør gennemføres, men jeg
+forestiller mig ikke, at der viser sig at være
+grundlag for at opgive de grundlæggende principper for det nuværende system.
+Forhandling";Jette Gottlieb
+18278;title_name;Ordføreren for forslagsstillerne, fru Jette Gottlieb.;Formanden
+18351;name_party;":
+Jeg vil gerne takke ministeren for den minutiøse
+gennemgang af reglerne. Imidlertid synes jeg jo
+nok, at der er noget i praksis, som kunne antyde, at det måske ikke er helt så rosenrødt, som
+jeg synes det fremgik af ministerens redegørelse.
+I mine øjne er det jo sådan, at mange af de
+stramninger, som er foregået i løbet af 1990'
+erne, ikke engang er vedtaget i Folketinget, men
+alene er gennemført ved, at der er blevet produceret cirkulærer og bekendtgørelser, som i
+minutiøse detaljer afgør, hvordan man skal
+optræde, når man er en del af det her system.
+Jeg vil derfor være meget jordnær i min
+fremlæggelse og komme med et konkret eksempel. A-kassen i en byggefagsfagforening får
+en indberetning fra arbejdsformidlingen,. fordi
+et medlem ikke er mødt til en jobtræningssamtale. Årsagen til udeblivelsen var, at det pågældende medlem var ude at søge et ordinært
+
+1097
+
+arbejde. I den pågældende sag kunne arbejdsgiveren desværre ikke huske, at han havde søgt
+folk på det pågældende tidspunkt, og slet ikke,
+hvem han havde talt med hvornår. Men det
+lykkedes faktisk at finde annoncen i søndagsavisen og få udskrifter fra telefonlister fra Tele
+Danmark, som kunne bekræfte, at medlemmet
+rent faktisk telefonisk havde truffet aftale om en
+samtale. Men a-kassen skal stoppe dagpengene
+øjeblikkelig og under hele sagsforløbet med alle
+de konsekvenser, det får for familiens økonomi.
+Sagsbehandlingen i Direktoratet for Arbejdsløshedsforsikringen kan tage mellem 6 og 12
+måneder, hvor den pågældende så står uden
+indtægt.
+I modsætning til det almindelige straffesystem er den arbejdsløse objektivt skyldig, indtil
+det modsatte er bevist. Direktoratet spørger
+aldrig om medlemmets eller a-kassens version
+af sagen. Den pågældende a-kasse har 1.600
+medlemmer. Sidste år havde den 378 rådighedssager, men kun i de 19 sager var der noget
+at komme efter.
+Langt de fleste indberetninger er ubegrundede, men desværre er det også sådan, at der
+selvfølgelig eksisterer mennesker, som misbruger systemet, og det forekommer mig, at det var
+hele den side af sagen, som ministeren alene
+koncentrerede sin besvarelse om.
+En person, som svindler med bistandshjælp
+eller snyder i skat, bliver straffet efter almindelig straffelov. Her fører man som hovedregel
+kun straffesager, hvis folk har bedraget for
+15.000-20.000 kr. eller derover. Straffen er tilbagebetaling samt eventuelt op til 3 måneders
+betinget fængsel i grove tilfælde.
+Svindler man i dagpengesystemet, bliver
+man også dømt efter straffeloven, men oven i
+tilbagebetalingen bliver man idømt karantæne,
+og i værste fald bortfalder alle rettigheder, og
+det vil sige nyt krav om at præstere 52 ugers
+ustøttet arbejde for at genvinde sin dagpengeret. Det kan jo f.eks. betyde, at man oven i efterbetalingen af de 15.000-20.000 kr. mister omkring 140.000 kr. i tabte dagpenge.
+Nu er det jo ikke, fordi vi på nogen som helst
+måde vil holde hånden over svindlere og plattenslagere eller folk, der arbejder sort, samtidig
+med at de modtager dagpenge. Det er alt sammen noget, der er med til at undergrave vores
+dagpengesystem, og det er vi slet ikke ude på at
+beskytte eller holde hånden over.
+Men hvor er retsbeskyttelsen i de her måder
+at behandle sagerne på? I realiteten har a-kas-
+
+1098
+
+Mandag den 4. maj 1998 (F 13)
+
+sen jo både rollen som dømmende og udøvende
+magt, samtidig med at den også skal forsvare
+medlemmernes rettigheder. Hvis man bliver
+anklaget for noget, har man normalt krav på en
+forsvarer. Sagen f.eks. om Fisker-Kaj, der blev
+rejst af fru Kirsten Jacobsen fra Fremskridtspartiet, fokuserede på en urimelig lovgivning, i
+dette tilfælde de selvstændiges vilkår på efterløn og overgangsydelse. Men hvad med alle de
+almindelige arbejdsløse, der ofte bliver udsat
+for langt alvorligere sanktioner?
+Problemet med den måde at behandle sagerne på er jo, at når der bliver rejst en sådan sag,
+ja, så tager man fat på et lille bitte hjørne af akasselovgivningen, laver måske en lille reparation, en kommaændring, og pludselig står man
+med et endnu mere uoverskueligt system, og
+det er altså konsekvensen af de meget hårde
+sanktioner, som man møder de fleste steder i
+systemet.
+Afslår et medlem i aktivperioden et tilbud,
+fordi det er for ringe, eller udebliver man fra et
+tilbud, f.eks. fordi man har glemt det eller er
+kommet for sent eller har glemt at melde afbud
+til arbejdsformidlingen, når man starter et nyt
+job, ja, så kan det alt sammen give sanktion på
+op til 52 ugers arbejdskrav, det vil sige tab af
+140.000 kr. i dagpenge og måske endda tab af
+muligheden for at vende tilbage til det ordinære
+arbejdsmarked.
+Straffen for at glemme at melde afbud til
+arbejdsformidlingen er altså langt mere drastisk
+og hård, end hvis den pågældende bevidst havde snydt skattevæsenet for 20.000-30.000 kr.,
+arbejdet sort ved siden af bistandshjælpen eller
+på anden måde lavet socialt bedrageri.
+Et andet eksempel er, at hvis man har overskredet betalingsfristen med hensyn til kontingent til a-kassen bare to dage, ja, så får man 20
+timers karantæne. Tænk, hvis folk, der glemte
+at betale vægtafgift, blev frataget kørekortet i to
+dage. Kunne man forestille sig det? Eller at de,
+der glemte licensen i to dage, øjeblikkelig fik
+sort skærm. Forbrugerstyrelsen ville ikke være
+bange for at tabe den sag. Men er man arbejdsløs, så ser verden åbenbart fuldstændig anderledes ud.
+Så er der spørgsmålet om de gyldige grunde
+til at sige sit arbejde op, som er blevet strammet
+op hinsides det menneskelige. En gravid kvinde
+fra Fyn, der flytter sammen med barnets far i
+Nordjylland - den landsdel, hvor faderen har
+godt, fast arbejde - kan ikke sige sit job op uden
+at få fem ugers karantæne. Arbejdsløshedslov-
+
+givningen mener altså ikke, at nybagte forældre
+har retskrav på at kunne flytte sammen, hvis de
+ønsker det af den årsag, at de vil stifte familie.
+Enhedslisten mener derfor, at der i praksis er
+et alvorligt og akut behov for at gennemføre en
+evaluering af sanktionerne i dagpengesystemet,
+og på den baggrund vil vi gerne fremsætte et
+forslag til vedtagelse. Jeg vil understrege, at
+hensigten med forslaget er dels, at der bliver
+foretaget en evaluering af systemet med henblik
+på alle de eksempler, jeg har givet på, hvordan
+systemet i praksis strammer, dels ligger der
+også en nyskabelse i måden at gøre det på,
+nemlig den nyskabelse at inddrage Folketingets
+partier i det arbejde, som ellers i øvrigt normalt
+vil være embedsmandsarbejde eller arbejde,
+som ligger uden for Folketingets rammer.
+Forslag til vedtagelse
+»Idet Folketinget konstaterer, at sanktionerne i
+dagpengesystemet har udviklet sig til et parallelt straffesystem, som ikke er i overensstemmelse med gængse retsprincipper i den øvrige
+lovgivning, opfordres regeringen til senest den
+1. november 1998 at fremlægge en evaluering af
+sanktionssystemet i a-kasse-lovgivningen.
+Evalueringen skal bl.a. se på følgende aspekter
+- den samlede økonomiske straf eller bøde for
+at modtage dagpenge uagtsomt, sammenlignet med straffen for tilsvarende forseelse ved
+f.eks. skattesnyd, socialbedrageri etc.,
+- den omvendte bevisbyrde, der består i, at det
+er den indberettede, der skal bevise, at han
+ikke har overtrådt reglerne,
+- spørgsmålet om, at medlemmer som uforskyldt er blevet indberettet til direktoratet,
+mister forsørgelsesindtægt under sagsbehandlingstiden, som ofte er mellem 6 og 12
+måneder,
+- spørgsmålet om direktoratets arbejdsgange
+og procedurer i forbindelse med sagsbehandlinger, herunder det forhold, at uberettiget
+sagsrejsning ikke påtales,
+- spørgsmålet om arbejdsgivernes tilbagemeldingspligt til AF i de tilfælde, hvor de får
+anvist 5-10 personer til et enkelt job.
+I tilknytning til evalueringen nedsættes en
+politisk følgegruppe bestående af en repræsentant fra hvert parti, der indkaldes to gange i
+forløbet.«
+(Forslag til vedtagelse nr. V 15).
+
+Mandag den 4. maj 1998 (F 13) ,";Jette Gottlieb
+26178;title_name;"Der er nu fremsat følgende forslag til vedtagelse: (Se ovenfor). Dette forslag indgår herefter i
+forhandlingen.";Formanden
+26314;name_party;":
+Indledningsvis vil jeg gerne takke ministeren
+for en god og fyldestgørende beskrivelse af de
+forskellige sanktionsbestemmelser og retssikkerhedsspørgsmålet. Der skal ikke herske tvivl
+om, at Socialdemokratiet finder det afgørende
+for opbakningen til a-kasse-systemet, at det
+skal have konsekvenser, hvis der er begået svig
+eller sket anden omgåelse af systemet. Vi kommer ikke uden om, at sanktionerne er en afgørende forudsætning for at undgå omgåelser og
+svig, ligesom rådighedsbestemmelsernes effektivitet har betydning for vores succesfulde
+beskæftigelsespolitik.
+Når det er fastslået, vil jeg dog nævne nogle
+eksempler i dagpengesystemet, som i det daglige ser ud til at give problemer. Jeg håber, at
+disse eksempler kommer til at indgå i det
+udvalg, som skal evaluere arbejdsmarkedsreformen.
+Socialdemokratiet har noteret sig, at nogle af
+de sanktioner, som gives i henhold til rådighedsbestemmelserne i a-kasse-lovens §§ 63 og
+52 B, i nogle tilfælde kan virke barske, fordi der
+eksempelvis sanktioneres over for arbejdsvillige
+medlemmer. Der findes således tilfælde, hvor et
+medlem har mistet retten til dagpenge, fordi
+medlemmet ikke har overholdt en aftalt uddannelsesplan, vel at mærke fordi man har påbegyndt et varigt, ustøttet arbejde.
+Logikken og rimeligheden i sanktionen synes
+svært forståelig, og som lovgiver må man vel
+sige, at det er et af eksemplerne på, at konsekvenserne af de gode intentioner, som ligger i
+vores aktive arbejdsmarkedspolitik, i nogle tilfælde har en rækkevidde ud over det forståelige.
+Et eksempel: En fastansat funktionær, der
+skifter erhverv, fordi han gerne vil være fisker,
+oplever følgende:
+Han starter med at tage et 3-ugers-kursus i
+søsikkerhed. Han tager med ud at fiske. Kutteren havarerer, og den kommer på bedding.
+Vedkommende melder sig arbejdsløs: han får 5
+ugers karantæne. Han har ingen chance haft for
+at kunne gardere sig, da overenskomsten ikke
+hjemler mulighed for at garantere 5 ugers arbejde. Man kan i dette tilfælde spørge, om loven
+øger den faglige mobilitet.
+
+1099
+
+Et andet eksempel er, at en person, der
+ønsker at overtage et deltidsjob og derfor opsiger et fuldtidsjob, vil skulle idømmes en karantæne på 5 uger, og det til trods for at vedkommende ikke anmoder om dagpenge. Fordi medlemmet ikke anmoder om dagpenge, vil karantænen dog først få økonomiske konsekvenser i
+forbindelse med en eventuel senere ledighed,
+men det ændrer ikke ved det urimelige i sanktionen. Det synes helt urimeligt, at et medlem,
+der blot ønsker lidt nedtrapning i form af et
+deltidsjob, skal have en afgørelse, hvor a-kassen sanktionerer en straf.
+Så vil vi gerne have kortlagt den retstilstand,
+som et medlem står i f.eks. i forhold til arbejdsgiverens tilbagemeldelsespligt til arbejdsformidlingen i det tilfælde, hvor en ledig anvises
+til flere forskellige job.
+Socialdemokratiet mener også, at det er en
+diskussion værd, om arbejdsgiverens tilbagemelding kan stå alene i det tilfælde, hvor ledige
+anvises til det samme job, fordi denne tilbagemelding får konsekvenser for dem, der ikke får
+arbejdet.
+I forbindelse med sanktioner over for a-kassen virker det også urimeligt, at en a-kasse kan
+dømmes til at betale, når der ikke foreligger
+viden om eller kendskab til svig, herunder fejl
+ved udfyldelsen af dagpengekortet, som der af
+medlemmet selv gøres opmærksom på. Det
+synes uforståeligt, at a-kassens organisationsansvar også omfatter forpligtelsen ved uagtsomhed.
+Til diskussionen om sanktionerne i forhold til
+svig er det jo en kendt sag, at sletning af a-kassen har vidtrækkende konsekvenser.
+Man kan diskutere disse ting, og det håber vi
+man gør i det udvalg, der er nedsat.
+Med hensyn til retssikkerheden i forhold til
+svig vil Socialdemokratiet også gerne have
+afklaret retsstillingen, om en frifindelse for svig
+ved domstolene også medfører en ophævelse af
+svigbehæftelsen i forhold til det administrative
+systems afgørelse.
+Videre vil vi gerne have en vurdering af, om
+direktoratet bør genoptage sager eller træffe
+nye afgørelser i sager, hvor anklagemyndigheden opgiver at rejse påtale eller meddeler tiltalefrafald, altså hvorledes direktoratet skal agere
+i forhold til påtaleopgivelsen.
+Afsluttende ser vi frem til dels gennem det
+arbejde, som ministerens forgænger har startet,
+og dels gennem evalueringen af arbejdsmarkedsreformen at komme disse ting til livs, såle-
+
+1100
+
+Mandag den 4. maj 1998 (F 13)
+
+des at der vil være en bedre forståelse for vores
+samlede arbejdsmarkedspolitik. Og jeg er ikke
+spor i tvivl om, at det også er det, vi vil nå frem
+til, når vi kigger på evalueringen af arbejdsmarkedsreformen.
+Men jeg vil godt understrege, at Sòcialdemokratiet ingen ønsker har om, at der ikke skal
+være et sanktionssystem, og at vi heller ingen
+ønsker har om, at der ikke skal være rådighedsregler, der forklarer, hvilket ansvar og hvilke
+pligter man skal have over for systemet.
+(Kort bemærkning).";Ole Vagn Christensen
+31209;name_party;":
+Jeg vil godt spørge den socialdemokratiske ordfører, om det ikke ville være en god idé, hvis de
+politiske partier i Folketinget var inddraget i
+den proces. For er det ikke et problem, at netop
+disse regler mange gange rammer skævt i forhold til de egentlige intentioner, sådan som hr.
+Ole Vagn Christensen også selv har gjort opmærksom på, og er det ikke et problem, hvis de
+måder, man forholder sig til alle disse ting på,
+er rent embedsværksmæssige? Så ville det ikke
+være en meget god idé, hvis de politiske partier
+fik lov at give et input til det udvalgsarbejde,
+der nu åbenbart kommer til at foregå?
+(Kort bemærkning).";Jette Gottlieb
+31860;name_party;":
+Jo, det ville være en god idé, og det vil selvfølgelig også ske, for der kan jo ikke vedtages
+noget, uden at det kommer igennem Folketinget. Men jeg mener, at det vil være fornuftigt som det også er sket under arbejdsministerens
+forgænger, og som den nuværende arbejdsminister har bakket op - at arbejdsmarkedets parter går i gang med at kigge på disse bestemmelser, og derfor er udvalget også nedsat gennem
+Landsarbejdsrådet.
+Og med hensyn til den store evaluering af
+hele arbejdsmarkedsreformen er jeg også helt
+sikker på, at når det grundlæggende arbejde er
+sket, bliver der rig mulighed for, at Folketingets
+partier kan få indflydelse på, hvordan fremtidens arbejdsmarkedspolitik skal se ud.
+(Kort bemærkning).";Ole Vagn Christensen
+32596;name_party;":
+Nu er det jo sådan, at det ikke alene er arbejdsmarkedspolitikken, vi drøfter, men også den
+administrative praksis, der er forbundet med
+den. Og lige præcis i den sammenhæng er der
+jo et mægtigt gab mellem de regler, som mini-
+
+steren så grundigt fremlagde for os, og den
+praksis, som de fører til ude i terrænet, og det
+er netop det gab, der gør, at jeg mener, det er
+meget vigtigt, at Folketinget bidrager til en
+afklaring af, hvor problememe helt konkret ligger, og hvad det er for nogle administrative
+regler, man er nødt til at ændre for at undgå, at
+de virker på en måde, som jeg mener fører til en
+svækkelse af retssikkerheden.
+(Kort bemærkning).";Jette Gottlieb
+33276;name_party;":
+Ja, vi kan heller ikke være uenige om, at det
+drejer sig om at få styrket retssikkerheden. Og
+jeg mener også, at vi gennem Folketingets
+arbejde både med den overordnede lovgivning
+og med de enkelte bestemmelser får rig mulighed for at være med til at skabe en ny og
+anderledes situation. Jeg mener ikke, at den
+mulighed er frataget Folketinget med det, der
+foreligger, og jeg mener, at Folketinget hele
+tiden har den mulighed. Bare den dialog, vi har
+her, er jo sådan set med til at åbne for, at nogle
+af de ting bliver påtalt, som man i det åbne land
+godt ved virker på den måde, som fru Jette
+Gottlieb har sagt, og som jeg også har sagt i min
+ordførertale.
+(Kort bemærkning).";Ole Vagn Christensen
+33969;name_party;":
+Jeg vil godt spørge hr. Ole Vagn Christensen,
+om han ikke er enig i, at a-kasse-systemet nok
+er noget af det mest indviklede, der eksisterer,
+idet det antal blanketter, der findes, og som
+a-kasse-medarbejderne skal forholde sig til,
+nærmer sig de hundrede - jeg husker ikke det
+aktuelle tal - og der løbende kommer cirkulærer og bekendtgørelser fra ministeriet, som bliver oversat til almindeligt menneskesprog i
+a-kasserne, og som de også skal forholde sig til.
+Og det er alt sammen noget, der bliver lavet i
+embedsmandssystemet, og derfor tror jeg faktisk, det ville være et utrolig flot og godt input,
+hvis folk udefra, som ser på det med brugerøjne
+eller i hvett fald har kontakt med brugerne i
+dagligdagen, bl.a. fra Folketingets partier, kom
+med i det politiske følgearbejde. Det tror jeg
+ville være gavnligt for systemet.
+(Kort bemærkning).";Ole Sohn
+34838;name_party;":
+Jeg vil gerne følge spørgsmålet op i samme retning, for nu forstår jeg på hr. Ole Vagn Christensen, at Socialdemokratiet faktisk er fuld-
+
+Mandag den 4. maj 1998 (F 13) ,
+stændig enigt med Enhedslisten i den udlægning, vi har givet af, hvad det er for nogle problemer, der er i foretagendet, altså hvad det er
+for nogle problemer, der ligger både i den
+administrative praksis, der har udviklet sig, og
+selve i den måde, cirkulærer og lignende er
+udformet på.
+Derfor vil jeg gerne følge det op ved at spørge hr. Ole Vagn Christensen, om det ikke netop
+ville berettige, at der kom sådan en dialog i
+gang.
+(Kort bemærkning).";Jette Gottlieb
+35484;name_party;":
+Jeg vil godt spørge hr. Ole Vagn Christensen og
+for den sags skyld også hr. Ole Sohn, om de
+ikke er bekendt med, at når de stakke af blanketter, som hr. Ole Sohn nævnte, udarbejdes, ,er
+det som oftest sådan, at a-kasserne dels via
+Landsarbejdsrådet, men også i andre sammenhænge, altså gennem medarbejderne ved a-kasserne, som jo sidder tæt på medlemmerne, og
+som derfor skulle kende problemerne, er med
+til at udarbejde og formulere disse blanketter.
+(Kort bemærkning).";Poul Erik Dyrlund
+35981;name_party;":
+Til fru Jette Gottlieb vil jeg sige, at det er meget
+nemt for os at være enige, når vi henter vore
+oplevelser ude blandt det levende folk. For dér
+kommer vi jo begge to, og derfor er vi selvfølgelig i den situation, at de ting, der bliver påpeget med hensyn til de oplevelser, folk har, selvfølgelig ikke kan være forskellige.
+Og så må jeg sige til hr. Ole Sohn, at det kan
+jeg ikke garantere, for det har jeg hørt herinde
+så mange gange, når der har været talt om forenklinger, og hver eneste gang har jeg oplevet,
+at når en lov bliver forenklet, kan den faktisk
+ikke løse den opgave, som den skal håndtere.
+I den forbindelse kan jeg nævne det, som jeg
+før sagde om funktionæren kontra fiskeren. Her
+mener jeg at der er tale om, at man har foretaget
+en så kraftig forenkling, at man ikke har kunnet
+tage hensyn til, at der også eksisterer andre former for ansættelse og andre former for sikkerhed. For én ting er altså, hvad der står i funktionærloven, og noget andet er det, der opstår
+som følgevirkninger i en a-kasse-situation.
+Derfor synes jeg, vi skal lade være med at
+tale om forenklinger, i hvert fald hvis det er forenklinger, der kan være ødelæggende for systemet i stedet for at være opbyggende for systemet.
+
+1101";Ole Vagn Christensen
+37221;title_name;"Hr. Ole Sohn for en kort bemærkning, og så tror
+jeg vi skal gå videre i ordførerrækken.
+(Kort bemærkning).";Formanden
+37341;name_party;":
+Jeg er enig med hr. Ole Vagn Christensen i, at
+det er et kompliceret regelsæt, og at hver gang
+man igennem de seneste 10-20 år har forsøgt at
+forenkle reglerne, har der bare tidviklet sig nye
+og mere komplicerede regler. Men jeg tror faktisk, at et af de grundlæggende problemer ved
+systemet er, at der er omvendt bevisbyrde. For
+når et medlem bliver mistænkt for enten uagtsomt eller svigagtigt at misbruge-et system,
+hvor der er omvendt bevisbyrde, vil man automatisk hele tiden skulle udvikle et omfattende
+og minutiøst kontrolsystem, og derfor tror jeg
+simpelt hen, der skal laves grundlæggende om
+på sanktionsystemet.
+For jeg er fuldstændig enig i, at der selvfølgelig skal være et tilsyns- og sanktionssystem,
+men det skal bare ikke være så indviklet. Og
+som udgangspunkt skal det ikke være sådan, at
+det er dagpengemodtageren, der skal bevise sin
+uskyld, men sådan, at man er uskyldig, indtil
+det modsatte er bevist. Deri tror jeg det centrale
+problem ligger.";Ole Sohn
+38321;title_name;Fru Rikke Hvilshøj som ordfører.;Formanden
+38372;name_party;":
+Da jeg så forespørgslen på tryk, fornemmede
+jeg lidt, at Venstre og Enhedslisten har et meget
+forskelligt syn på arbejdsløshedsforsikringssystemet og de rettigheder og pligter, der følger af
+det.
+Det er vigtigt at understrege, at arbejdsløshedsforsikringssystemet er et frivilligt forsikringssystem, hvor man kan tegne sig som forsikringstager, og at ideen med forsikringssystemet er, at man er sikret en indtægt i den midlertidige periode, hvor man er blevet arbejdsløs.
+Og med et forsikringssystem følger der altid
+visse krav, man skal opfylde for at kunne få
+udbetalt forsikringssummen, som jo i denne
+sammenhæng er dagpengene i tilfælde af
+arbejdsløshed. Det er ikke anderledes her end, i
+andre forsikringer.
+Et princip i Venstres arbejdsmarkedspolitik
+og dermed også for vores politik med hensyn til
+arbejdsløshedsforsikring er, at det altid skal
+kunne betale sig at arbejde. Derfor skal der også
+
+1102
+
+Mandag den 4. maj 1998 (F 13)
+
+være tilstrækkeligt med incitamenter til, at man
+selv gør en indsats for igen at få et arbejde,
+samtidig med at man selvfølgelig reelt skal stå
+til rådighed for arbejdsmarkedet, hvis man vil
+modtage dagpengene.
+Omvendt kan man sige, at det ikke må være
+for attraktivt at lade sig fastholde i arbejdsløshedsforsikringssystemet. Derfor skal der være
+sanktioner, når man ikke reelt står til rådighed
+for arbejdsmarkedet, og derfor skal der stilles
+krav til dem, der ønsker at være forsikringstagere i en a-kasse, og et helt naturligt krav er,
+at man siger ja til et anvist arbejde.
+I den forbindelse er det Venstres ønske at få
+den opstramning af rådighedsreglerne, som vi
+sammen med De Konservative også lagde op til
+sidste efterår, at hvis man som ledig siger nej til
+anvist arbejde eller uddannelse, mister man
+dagpengeretten, således at der reelt bliver pligt
+til at tage et anvist arbejde. Og det er det, fordi
+vi mener, at man er forpligtet til at forsørge sig
+selv, og at man ikke bør belaste de offentlige
+kasser mere end højst nødvendigt, idet vores
+arbejdsløshedsforsikringssystem er til for at
+hjælpe folk, der i en midlertidig periode er
+arbejdsløse, og ikke for at forsørge folk, der
+sagtens kan klare sig selv. Derfor er det helt
+rimeligt at have sanktioner og stille krav til folk,
+der modtager dagpenge.
+Venstre er helt enigt med arbejdsministeren i,
+at man ikke skal forveksle sanktioner i dagpengesystemet med straf i strafferetlig forstand.
+Sanktioner indtræder, når man som dagpengemodtager ikke følger betingelserne for at kunne
+modtage dagpenge.
+Jeg vil dog gerne her til sidst understrege, at
+borgernes retssikkerhed selvfølgelig skal sikres,
+så situationer, hvor folk helt uforskyldt bliver
+klemt, bliver undgået, og at rimelige sagsbehandlingstider må være en selvfølge. Og Venstre vil selvfølgelig altid være med til at se på
+oplagte urimeligheder, og jeg kan forstå på
+ministeren, at vi får en opfølgning her til efteråret. Også med den baggrund vil Venstre ikke
+kunne støtte det forslag til vedtagelse, der er
+fremsat af Enhedslisten.
+(Kort bemærkning).";Rikke Hvilshøj
+41413;name_party;":
+Jamen har fru Rikke Hvilshøj tænkt over, at da
+dagpengereglerne blev ændret ved, at det
+arbejdskrav, der skulle til, for at man kunne blive medlem af en a-kasse, blev udvidet fra 26
+uger til 52 uger, skete der samtidig det, at sank-
+
+tionen dermed blev fordoblet, om jeg så må
+sige, i de tilfælde, hvor man var blevet sendt ud
+af systemet på grund af en eller anden forkert
+handling, som man havde foretaget uagtsomt
+eller muligvis med vilje?
+Jeg vil gentage, at jeg ikke holder hånden
+over folk, der ønsker at svindle med systemet,
+men hvis man altså er kommet i den situation,
+at man er røget ud af a-kasse-systemet som følge deraf - og det opfatter jeg som en sanktion så er den straf altså med ét slag blevet fordoblet, idet arbejdskravet er blevet udvidet fra 26
+uger til 52 uger. Og dér vil jeg altså spørge, om
+fru Rikke Hvilshøj har tænkt over, at det også
+er en konsekvens.
+(Kort bemærkning).";Jette Gottlieb
+42338;name_party;":
+Jeg mærkede mig 2 ting ved fru Rikke Hvilshøjs
+ordførertale:
+For det første handlede den om, at rådighedsreglerne skulle strammes over for de ledige. Men jeg hørte ikke noget om sanktionerne
+over for en sådan uagtsom omgåelse af a-kasse-reglerne, som vi jo har set eksempler på
+både i Fisker-Kaj-sagen og i andre, lignende
+sager, og det får mig til at spørge: Er det sådan,
+at man fra Venstres side har den opfattelse, at
+på det område er sanktionerne altså gode nok?
+En anden ting var borgernes retssikkerhed,
+og her mærkede jeg mig, at fru Rikke Hvilshøj
+sagde, at selvfølgelig skal borgernes retssikkerhed sikres, og det synes jeg er et positivt signal,
+men betyder det så også, at Venstre vil være
+indstillet på, at der indføres en anden form for
+bevisbyrde, således at vi undgår - hvad vi i
+øvrigt ser i masser af sager - at det alene er
+arbejdsgiverens udsagn, den ledige bliver dømt
+på grundlag af?
+Vil Venstre være med til at kigge på det forhold, for efter Socialdemokratiets opfattelse er
+der ikke tale om retssikkerhed her, så længe der
+ikke er tale om, at ligeværdige parter kan få lov
+at spille ind?
+(Kort bemærkning).";Poul Erik Dyrlund
+43490;name_party;":
+Vi er i gang med at se på Fisker-Kaj-sagen, som
+hr. Dyrlund også var inde på, og dér har Venstre meddelt, at vi ønsker at vente med at tage
+stilling, for der er - og det er jo allerede blevet
+nævnt her fra talerstolen - mange komplicerede
+sager og hensyn, der skal tages, og jeg må på
+det her tidspunkt sige her fra talerstolen, at det
+
+Mandag den 4. maj 1998 (F 13)
+vil vi i Venstre have lov til at vende nærmere,
+og at den stadig væk ligger til udvalgets
+behandling.";Rikke Hvilshøj
+43987;name_party;":
+Som arbejdsministeren på udmærket vis har
+gjort rede for, så er der en række alvorlige
+sanktioner i dagpengesystemet, som bliver taget
+i brug, når medlemmerne med åbne øjne overtræder indlysende, klare regler.
+Det kan f.eks. være, hvis medlemmerne undviger rådighedsbestemmelserne. Det kan være i
+tilfælde, hvor man har arbejde ved siden af at
+modtage dagpenge, uden at man oplyser det,
+og en række andre tilsvarende situationer. Her
+har vi i Det Konservative Folkeparti ingen problemer med den retssikkerhed, som naturligvis
+skal være til stede i ethvert ordentligt offentligt
+system, hvor der er sanktioner til stede, heller
+ikke, selv om sanktionerne er kraftige.
+Så vil jeg i øvrigt også gøre opmærksom på,
+at hele projektet med dagpengesystemet jo i høj
+grad er fælles gods mellem de nuværende regeringspartier, Venstre og De Konservative, CD
+og Kristeligt Folkeparti, så her er der altså
+ingen, der kan smyge sig uden om ansvaret.
+Heller ikke jeg. Det er jo næsten sådan, at mit
+synderegister i det her tilfælde af gode grunde
+er betydeligt længere end den nuværende
+arbejdsministers.
+Når der alligevel undertiden kan forekomme
+problemer med retssikkerheden, så skyldes det
+efter vores helt bestemte opfattelse, at reglerne
+er for komplicerede og for uigennemsigtige.
+Ja, så uigennemsigtige, at de undertiden for
+menigmand er næsten helt uforståelige. De kan
+være så uforståelige, at der ofte kan konstateres
+en eller anden form for vejledningssvigt fra
+a-kasserne og AF. Naturligvis ikke bevidst,
+men fordi en medarbejder kan komme til at
+tage fejl af nogle af disse komplicerede regler.
+Der er talrige eksempler på mennesker, som
+er kommet ud i en alvorlig situation, hvor det,
+der er foregået, har fået dybt alvorlige konsekvenser, og hvor man ikke altid kan synes, at
+der er en fornuftig, logisk sammenhæng mellem
+den måske ubevidste forseelse og så den sanktion, der bliver taget i anvendelse.
+Der er enkelte sager, som jeg har kendskab
+til, der næsten er så diabolske i deres karakter,
+at det kunne have dannet model for en roman
+af Kafka.
+Noget af det, der ofte er problemer med, er
+tolkningstvivl vedrørende, hvad man med eller
+
+1103
+
+uden økonomisk gevinst må udføre af arbejde,
+samtidig med at man er på dagpenge, får efterløn eller er på overgangsydelse. Her har der i
+årenes løb været ført et hav af diskussioner om,
+hvad man må, og hvad man ikke må, og reglerne er fortsat uklare. Her synes jeg, at den
+ulykkelige sag om Fisker-Kaj er et indlysende
+eksempel.
+Så det, jeg vil opfordre til, er ikke at stemme
+for det vedtagelsesforslag, der ligger, men jeg
+vil opfordre til en fortsat indsats for at gøre reglerne mere enkle, mindre komplicerede og mere
+gennemskuelige, så de er logiske, og så de er til
+at forstå. Ikke kun for medarbejdere i AF og i
+a-kasserne, men i allerhøjeste grad også for de
+medlemmer, der skal være underordnet disse
+regler.
+Som jeg sagde før, er projektet fælles gods, så
+det jeg har sagt her, skal ikke forstås som en
+anklage mod den nuværende regering eller den
+nuværende arbejdsminister. Jeg kunne næsten:
+føle trang til at citere en tidligere konservativ
+politiker, der i relation til retsopgøret efter
+besættelsen brugte formuleringen »vi er alle
+under anklage«.
+Det er jeg også, men det formindsker jo ikke
+forpligtelsen til at medvirke til at gøre opmærksom på ting, der er gået skævt, og også være,
+forpligtet til at gå ind i en kraftig indsats for at
+rette tingene op. En sådan indsats vil vi fra Det
+Konservative Folkeparti meget gerne medvirke
+til.
+(Kort bemærkning).";Knud Erik Kirkegaard
+47530;name_party;":
+Jeg vil gerne spørge hr. Knud Erik Kirkegaard,
+hvordan Det Konservative Folkeparti forholder
+sig til det. man kunne kalde genindførelse af
+skønspritpet.
+Når jeg spørger, er det jo, fordi hr. Knud Erik
+Kirkegaard henviser til folk, der med åbne øjne
+overtræder reglerne, men det er slet ikke dem:
+vi snakker om. Det har jeg i øvrigt sagt flere
+gange. Jeg taler også om, hvad det er, man må
+og ikke må, samtidig med at man modtager
+dagpenge, men det, jeg også taler om, er den
+gråzone, der er imellem den ubevidste forseelse
+og så det, der bliver karakteriseret som forkerte
+oplysninger.
+Hvis jeg direkte spørger hr. Knud Erik Kirkegaard om, hvor han var den 17. april, var det
+så den dag, han havde arbejde i en eller anden
+kommission, var det den dag, der var et eller
+andet møde? Har man mistet sin lommebog og
+
+1104
+
+Mandag den 4. maj 1998 (F 13)
+
+skriver forkert på dagpengekortet, er det så en
+forseelse, der kan karakteriseres som uforsætlig,
+eller er det i virkeligheden bevidst svindel i forbindelse med dagpengesystemet?
+Her spørger jeg om De Konservatives holdning til en udvidelse eller en genindførelse af
+skønsprincippet, altså en vurdering af, om det
+her nu er forsætligt eller det er ikke forsætligt.
+(Kort bemærkning).";Jette Gottlieb
+48780;name_party;":
+Man kan selvfølgelig godt sige, at der sådan ud
+fra den almindelige højre-venstre filosofi er en
+vis logik i det, når hr. Knud Erik Kirkegaard
+siger, at han ikke kan stemme for forslaget til
+vedtagelse.
+Men jeg blev faktisk meget opstemt, da jeg
+hørte indlægget, fot den kritik, der lå i hr. Knud
+Erik Kirkegaards indlæg, viser jo, at der er
+behov for at få set systemet efter i sømmene,
+altså nøjagtig sådan, som forslaget lægger op til.
+Derfor undrer det mig, at konklusionen så er, at
+Det Konservative Folkeparti blot ønsker at føre
+det forenklingsarbejde videre, som har været i
+gang i de sidste 10-15 år, og som blot har ført til
+flere og mere komplicerede regler.
+Jeg forstår ikke helt logikken i, at man gerne
+vil være med til at se på de urimeligheder, der
+er i systemet: men at man har tillid til, at det
+system, som udvikler flere og flere regler, kan
+løse det.
+(Kort bemærkning).";Ole Sohn
+49697;name_party;":
+Jeg vil gerne kunne forstå hr. Knud Erik Kirkegaards indlæg, og derfor vil jeg godt stille et
+spørgsmål til hr. Knud Erik Kirkegaard.
+Den tale, som hr. Knud Erik Kirkegaard
+holdt, gik jo på, at systemet skulle, være meget
+stramt, men samtidig gik den på, at der også er
+nogle urimeligheder, og vi var alle under anklage, forstod jeg også på hr. Knud Erik Kirkegaard. Skal det forstås sådan - nu har jeg jo
+hørt hr. Knud Erik Kirkegaards tale, og hr.
+Knud Erik Kirkegaard har hørt min tale - at det
+er de ting, vi tænker på, og det er de ting, som
+vi har fælles i de oplevelser, idet det er sådan,
+at verden også opleves sådan her uden for? Det
+kunne jeg godt tænke mig at få en vurdering af.
+(Kort bemærkning).";Ole Vagn Christensen
+50435;name_party;":
+Til hr. Ole Vagn Christensen, hvis jeg må tage
+det først: Jeg har det altså sådan, at jeg bliver
+
+skidt tilpas, når ganske almindelige mennesker
+kommer i klemme i systemet af én ganske
+bestemt grund, nemlig fordi reglerne er så
+komplicerede, at de ikke kan finde ud af dem.
+Det har jeg det virkelig skidt med.
+Og jeg kan give tilsagn til hr. Ole Vagn Christensen om, at jeg vil være med til at arbejde
+for, at sådanne regler bliver gjort mere gennemskuelige, så vi undgår disse ulykkelige situationer, hvor folk helt forståeligt, fordi reglerne er
+komplicerede, kommer galt af sted. Det vil jeg
+gerne medvirke til uden i øvrigt at tage konkret
+stilling til de ting, som hr. Ole Vagn Christensen
+nævnte i sit indlæg.
+Til hr. Ole Sohn kan jeg sige, at der ikke er
+noget misforhold imellem det indlæg, som jeg
+holdt: og så det, at jeg ikke vil stemme for hr.
+Ole Sohns og fru Jette Gottliebs forslag til vedtagelse. Det er der en logisk forklaring på, som
+jeg ikke kan nå at svare på nu, da vi skal overholde taletiden, og i øvrigt har jeg også kun set
+forslaget i ganske kort tid, kan jeg sige.
+Til fru Jette Gottlieb vil jeg sige, at jeg ikke vil
+tage stilling til det konkrete problem, som her
+blev rejst, men jeg er enig med fru Jette Gottlieb
+i, at det, der er problemet, er gråzonen. Det er
+ikke de let gennemskuelige regler, der giver
+problemer. Det er ikke, når der er tale om
+bevidst svindel, at der er problemer, men det er,
+når reglerne er grå, uigennemsigtige, at man
+har svært ved at finde ud af, hvad det egentlig
+drejer sig om.
+(Kort bemærkning),";Knud Erik Kirkegaard
+52017;name_party;":
+Jeg er glad for det tilsagn, vi her fik fra hr.
+Knud Erik Kirkegaard. Men det er jo ikke altid,
+at det er på grund af, at reglerne er uigennemskuelige, uigennemsigtige osv.
+Et medlem bliver afskediget den 15. december med besked om at møde frem på arbejdspladsen igen året efter i uge 10. Altså en midlertidig afskedigelse. Dette meddeles arbejdsformidlingen, samtidig med at vedkommende
+møder frem på arbejdsformidlingen. Her aftales
+det med arbejdsformidlingen, at vedkommende
+skal holde ferie i uge 9 for egne feriepenge,
+således at ferien er overstået, og alt det dér er
+klaret, inden han skal i arbejde igen. I uge 6
+sker der det, at vedkommende modtager en
+henvisning til en arbejdsgiver om, at der er
+arbejde. Vedkommende tager ud på arbejdspladsen og siger: Jeg vil godt starte i dag, jeg
+kan godt starte i morgen tidlig. Det bestemmer
+
+(139)
+Mandag den 4. maj 1998 (F 13)
+du, hr. arbejdsgiver, men du skal bare vide, at i
+uge 9 holder jeg ferie, og i uge 10 starter jeg i
+mit gamle job.
+Her vil jeg spørge hr. Knud Erik Kirkegaard:
+Hvad med sådan et medlem? Der er ikke tale
+om komplicerede og indviklede regler, men
+konsekvensen for det her medlem var en karantæne, fordi medlemmet var ærlig og stillede sig
+op over for arbejdsgiveren og sagde: Det er fint,
+jeg vil tage arbejdet nu. Jeg vil gå i gang nu eller
+i morgen tidlig, men du skal vide, at sådan og
+sådan hænger skilderierne.
+Der var tale om karantæne på baggrund af en
+tilbagemelding fra arbejdsgiveren om, at medlemmet ikke ønskede arbejde.
+(Kort bemærkning).";Poul Erik Dyrlund
+53576;name_party;":
+Jeg skal ikke på stående fod tage stilling til den
+sag, som hr. Poul Erik Dyrlund refererede her
+med rivende talehastighed, så jeg knapt nok
+opfattede, hvad det egentlig drejede sig om.
+Må jeg give hr. Poul Erik Dyrlund det gode
+råd, at han lige i første omgang, før han rejser
+sagen over for mig, rejser sagen over for sin
+partifælle arbejdsministeren, og meget gerne i
+skriftlig form. Så tror jeg, at der er større chance
+for, at man kan få et konkret beslutningsgrundlag, som man kan tage stilling til.
+(Kort bemærkning).";Knud Erik Kirkegaard
+54124;name_party;":
+Jeg skal såmænd gerne sige til hr. Knud Erik
+Kirkegaard, at når jeg rejser den her, er det, fordi jeg hører hr. Knud Erik Kirkegaard tale uden
+om de simple, basale sager. Det var også det, vi
+oplevede med fru Rikke Hvilshøj. Det er det,
+der er kernen i det her. Kunne vi endda få aflivet alle de simple, basale sager i det her, så ville
+vi være nået langt. Jeg hører hr. Knud Erik Kirkegaard tale udenom ved at sige: Medmindre
+der er tale om komplicerede, uigennemskuelige
+osv., osv.
+(Kort bemærkning).";Poul Erik Dyrlund
+54654;name_party;":
+Nej, jeg taler ikke udenom. Jeg kender faktisk
+en hel del til det system her og er meget opmærksom på, at der er en række skævheder i
+det, som der trænger til at blive set på. Men det
+er sager, der er af en sådan karakter, at de ikke
+egner sig til konkret stillingtagen her fra Folketingets talerstol på baggrund af en mundtlig
+
+1105
+
+fremlæggelse, som måske oven i købet ikke en
+gang er fuldstændig.";Knud Erik Kirkegaard
+55070;name_party;":
+Indledningsvis vil jeg gerne fastslå, at det er
+yderst vigtigt og fornuftigt, at vi har Direktoratet for Arbejdsløshedsforsikring til at føre tilsyn
+med a-kasserne, sådan at den lov, som Folketinget vedtager, og de regler, som ministerier
+udsender som følge heraf, bliver overholdt, og
+for at undgå snyd og minimere det misbrug,
+der kan være i systemet.
+Jeg er også enig i, at der skal være et sanktionssystem, sådan at det får konsekvenser, hvis
+man forbryder sig mod systemet. Jeg er også
+enig i, for nu at tage besværgelserne indledningsvis, at a-kassesystemet er et forsikringsprincip, og det er et rigtigt princip, og det agter
+vi også at støtte at det fortsat skal være.
+Men samtidig synes jeg, det er utrolig væsentligt, at vi får taget en grundig debat om,
+hvordan systemet fungerer, for alle har jo indtil
+nu her fra talerstolen tilkendegivet, at det ikke
+fungerer optimalt. Det fungerer vel ikke engang
+rimeligt. Alle har kritikpunkter af systemet. Det
+tror jeg hænger sammen med, at regelsættet er
+utrolig indviklet og kompliceret, fordi man
+ønsker at tage højde for alle hjørner og enkeltheder og kroge i dagpengesystemet. Dermed
+svulmer antallet af blanketter, cirkulærer og
+forordninger op i en størrelsesorden, som gør
+det utrolig vanskeligt for a-kassemedarbejderne
+i de enkelte arbejdsløshedskasser at forstå reglerne. Der kommer ganske enkelt en regelforvirring.
+Men det er jo også sådan - og det synes jeg er
+det helt centrale i sagen - at Direktoratet for
+Arbejdsløshedsforsikringen, som er sat til at
+føre tilsyn med, at a-kasserne overholder reglerne, ikke engang er i stand til at overskue reglerne. Så jeg synes, at alarmklokkerne burde
+ringe for Folketinget, når det apparat, som vi
+sætter. i verden for at føre tilsyn med a-kassernes virksomhed, ikke er i stand til at forstå de
+love, Folketinget vedtager, og de cirkulærer,
+som bliver sendt ud via ministeriet, for så er der
+noget galt.
+Det har jo op igennem 1990'erne været sådan,
+at hen ved en fjerdedel eller - for ikke at overdrive - et sted mellem 23 og 42 pet. af samtlige
+afgørelser, som direktoratet træffer i sager over
+for a-kassemedlemmer, bliver omgjort af
+Arbejdsmarkedets Ankenævn. De bliver omgjort, fordi direktoratet træffer dem på et man-
+
+1106
+
+Mandag den 4. maj 1998 (F 13)
+
+gelfuldt grundlag, eller fordi de ikke har foretaget deres research, deres undersøgelsesarbejde, tilstrækkelig effektivt og seriøst.
+Det er altså minimum 25 pet. af direktoratets
+afgørelser, der bliver omgjort, og jeg vil vove
+den påstand, at det faktisk kun er toppen af
+isbjerget. Jeg mener, og jeg tror, og jeg vil faktisk også vove den påstand at sige, at langt de
+fleste a-kassemedlemmer, som kommer i kontakt med systemet, giver op. De har ikke en jordisk chance for at overskue det. Selvfølgelig
+kan de få hjælp i a-kasserne eller bør kunne få
+det, men når man får en henvendelse fra direktoratet om, at man har forbrudt sig mod denne
+eller hin regel og man står til så og så meget tilbagebetaling og så og så meget karantæne, vil
+de fleste sige: Nå, det må jeg så hellere gøre.
+Derfor er det for mig at se kun toppen af isbjerget af sager, som bliver anket til direktoratet,
+der kommer videre til ankenævnet.
+Men når det viser sig, at direktoratet ikke er i
+stand til at leve op til sin forpligtelse, fordi
+regelsættet er så kompliceret, vil jeg faktisk
+sige, at det ikke er ansvarligt, hvis Folketinget
+ikke siger, at der må andre midler til end blot at
+lade de embedsmænd, som udvikler systemet
+og cirkulærerne, blive ved at administrere det
+og lave nye ændringer.
+Der skal andre boller på suppen, og det er
+også derfor, at vi har fremsat forslaget til vedtagelse. Det er simpelt hen for at få foretaget en
+evaluering, hvor der også bliver nedsat en politisk følgegruppe. Det tror vi er utrolig væsentligt, sådan at man får skabt et system, som sikrer, at ikke bare vi som politikere, men også
+brugerne kan have tillid til, at retssikkerheden
+bliver genetableret, for den er ikke optimal, som
+det fungerer i dag.";Ole Sohn
+59089;name_party;":
+Der er jo givet udtryk for her fra talerstolen, at
+der er stor usikkerhed omkring virkningen af
+den lov, der arbejdes efter på understøttelesområdet.
+Der skal ikke være nogen tvivl om, at hvis
+man begår bedrageri, skal det selvfølgelig straffes, men det skal heller ikke være sådan, at hvis
+man uforskyldt kommer til at lave en fejl, at
+man så også bliver straffet.
+Der skal være råderum, og der skal være en
+bedre vurdering af, hvordan disse regler egentlig fungerer, og jeg er da meget glad for arbejdsministerens fremlæggelse her, for det viser
+
+jo, at der i høj grad kan være tale om, at der
+skal nogle ændringer til.
+Vi har på nogle områder nogle regler, som
+rammer helt, helt uskyldige mennesker, og hvis
+jeg må fremdrage et eksempel på det, er der to
+ældre mennesker på Langeland, hvor manden
+er hjertepatient og pensionist, og hvor konen er
+førtidspensionist. Disse to mennesker har gjort
+det, at de indsamlede nogle penge, som de ville
+give til Hjerteforeningen. Det, systemet nu gør,
+er at sige: Nu fratager vi jer jeres pensioner. I
+må ikke lave det, I gør.
+Det synes jeg er urimeligt. Det er sådan et tilfælde, som vi skal se på, og jeg håber da. også,
+at vi til efteråret får et forslag på bordet og en
+gennemarbejdning af det her, så vi får helt klare
+regler for, på hvilke områder der skal foretages
+sanktioner, fordi denne lov er ugennemsigtig.
+Den er forvirrende for alle og enhver, selv for
+dem, der er ansat i arbejdsformidlingen. Derfor
+håber jeg på, at vi kan komme så langt, at vi
+kan få helt klare regler for de områder, som kan
+fritages for sanktioner, og at vi kan få helt faste
+regler for de områder, som skal rammes af
+sanktioner, sådan at det, der kommer til at foregå, ikke er helt tilfældigt.
+Når jeg sammenligner den sag, som de to
+ældre på Langeland var ude for, med, hvad der
+gælder, hvis man er indvalgt i en kommunalbestyrelse og ikke er udvalgsformand, bliver
+sidstnævnte ikke berørt på sin efterløn. Der har
+vi to eksempler, der sådan set støder lidt sammen. De, der sidder i en kommunalbestyrelse,
+går på arbejde og får et fuldt honorar. Disse
+mennesker fra Langeland har altså samlet pen- /
+ge ind til Hjerteforeningen.
+Jeg synes, det er helt urimeligt, at vi ikke kan
+få en konvergens på de områder, og jeg håber,
+at arbejdsministeren kommer frem med noget,
+som vi virkelig kan bruge, når vi når hen på
+efteråret.";Mogens Andreasen
+61466;name_party;":
+Nu kan jeg forstå, at vi alle er under anklage,
+men mere eller mindre, afhængigt af hvor stor
+historikken er for det enkelte medlem. Det skal
+være min første kommentar.
+Den anden skal være, at der er ingen tvivl om
+fra Det Radikale Venstres side og ikke mindst
+med baggrund i nogle af de eksempler, som
+også er kommet frem i dag, at der er et kompliceret system, som trænger til en kærlig overvågning, til en evaluering og til, at der bliver
+
+Mandag den 4. maj 1998 (F 13)
+lagt en slagplan for, hvordan vi kan gøre systemet anderledes.
+Vi har fået mange eksempler lige fra FiskerKaj og så til hr. Dyrlunds sidste eksempel, som
+kom bag på hr. Kirkegaard. Det er, ud over at
+der foregår meget almindeligt drilleri, når vi
+behandler sådan en sag her, alvorlige sager. Det
+er specielt alvorligt for de personer, som er indblandet.
+Fra Det Radikale Venstres side må målet
+være, at vi får et ukompliceret system i så høj
+grad, som det kan lade sig gøre, for selvfølgelig
+kan vi ikke fuldstændig undgå sager af den
+karakter. Det, som vi gerne vil lægge op til fra
+Det Radikale Venstres side, er, at vi får lagt en
+slagplan, en konkret slagplan for, hvordan vi
+kommer så langt. Det arbejde vil vi gerne gå
+ind i med åben pande, men vi vil gerne afvente
+den rapport, som arbejdsministeren også har
+nævnt, der kommer her til efteråret.
+På baggrund af den vil vi gå ind i det arbejde, og når det er sagt, vil min konklusion blive,
+at vi ikke kan støtte forslaget fra Enhedslisten.
+(Kort bemærkning).";Anders Samuelsen
+62977;name_party;":
+Nu har jeg forstået, at regeringspartierne ikke
+ønsker, at der skal komme et input til det udvalg, der er nedsat for at arbejde med tingene.
+Jeg ville i øvrigt frygtelig gerne vide, hvem der
+sad i det udvalg helt konkret, men det ønsker
+regeringen altså ikke. Man må dog håbe, at udvalget selv har tænkt sig at lytte efter det, der er
+foregået i denne debat. Det går jeg ud fra de
+gør, og derfor mener jeg, at det er vigtigt herigennem at give et input.
+Og derfor vil jeg godt spørge hr. Samuelsen,
+hvordan De Radikale forholder sig til det faktum, at en a-kasse, som på den ene side er
+medlemmets tillidsrepræsentation, eller hvad
+man nu skal sige, i systemet, har en egeninteresse i, at medlemmet bliver dømt som havende
+lavet en bevidst svig i modsætning til en uagtsom handling, hvor a-kassen selv skal betale,
+mens den, om jeg så må sige, kan tørre udgiften
+af på medlemmet, såfremt der er tale om en
+bevidst handling. A-kassen har altså en egeninteresse i at påtvinge medlemmet skylden for
+den opståede fejl.
+Hvordan forholder De Radikale sig til det?
+
+1107
+
+(Kort bemærkning).";Jette Gottlieb
+64084;name_party;":
+Som til alle de andre sager, som er kommet op
+her i dag, nogle med baggrund i konkrete
+eksempler, andre som forsøgt hævet op på det
+generelle niveau, vil jeg sige, som jeg også sagde i min ordførertale, at vi er opmærksom på, at
+der er problemer på dette område, og at vi vil
+gerne gå ind og arbejde med det. Man kan også
+nævne andre områder, hvor man kan tale om
+a-kassens egeninteresse i forhold til den måde,
+den handler på, eller den vælger at vurdere på.
+Vi vil, og det skal stadig væk være vores
+konklusion, tage udgangspunkt i rapporten, når
+den ligger til efteråret, og så vil vi arbejde for, at
+vi når frem til et system, som fungerer bedre, så
+vi får færre af de sager, som vi har haft så mange eksempler på her i dag.
+Thorkild B. Fransgaard (FP):
+Vor ordfører, fru Kirsten Jacobsen, er desværre
+ikke til stede, men jeg kan sige, at Fremskridtspartiet, og det gælder selvfølgelig også mig
+selv, er af den opfattelse, at reglerne for dagpengesystemet selvfølgelig skal overholdes. Det
+er de mennesker, der går på arbejde hver dag,
+der over skattebilletten betaler til dem, der ikke
+går på arbejde.
+Nu siger ordføreren for Socialdemokratiet, at
+det menneske, der er på dagpenge, skal vise
+ansvar over for systemet. Det er rigtigt, men jeg
+mener nu, at det er endnu vigtigere, at systemet
+viser ansvar over for mennesket. Reglerne er jo
+i dag så uigennemskuelige, at mennesker nemt
+kan komme i klemme ude rundtomkring. Det er
+der jo masser af eksempler på, og det er det, vi
+skal prøve at have rettet op, og det er også det,
+jeg har forstået der er meningen med den her
+forespørgselsdebat.
+Det er jo klart, som hr. Kirkegaard nævnte, at
+hvis der er én, der har søgt arbejde ved en
+arbejdsgiver og ikke ønsker det arbejde, ja, så
+skal vedkommende selvfølgelig have karantæne, for hvis manden er sund og rask, skal han jo
+påtage sig det job. Men hvis der sker det, som
+der skete med Fisker-Kaj oppe i Nordjylland,
+som uforsætligt går ud og fanger fisk for 4.000
+kr. og bliver kaldt op til skattevæsenet og frataget alle sine rettigheder af systemet, er det for
+mig at se endnu værre, at systemet kan behandle mennesker sådan, og i sådan et tilfælde skulle man selvfølgelig omgående rette op på det og
+hjælpe den familie på fode igen.
+
+1108
+
+Mandag den 4. maj 1998 (F 13)
+
+Men under alle omstændigheder vil vi i
+Fremskridtspartiet gerne se, at man var lidt
+mere fleksibel. I systemet skulle man ikke være
+ligeglad, og man kunne godt betragte sådan
+noget som det, jeg lige har nævnt, som en bagatel. Der er ingen grund til at diskutere den her i
+det høje Ting.
+I øvrigt vil jeg så fastholde - det gør Fremskridtspartiet - at vi er enige med hr. Kirkegaard i, at vi skal have nogle faste regler at gå
+efter, men vi skal lære at være lidt mere fleksible, og hvis der er åbenlyse fejl, så lad os rette
+dem i stedet for at blive ved med at trække det
+ud.";Anders Samuelsen
+66961;name_party;":
+Jeg er glad for forespørgslen, som er rejst af
+Enhedslisten, og jeg er også glad for ministerens redegørelse både for de principielle sider
+af sagen og for de konkrete. Der er jo grund til
+at tage spørgsmålet op. Udvalget er selvfølgelig
+også allerede nedsat, fordi der jo er for mange
+sager, som har et menneskeligt og et uheldigt
+islæt.
+Sanktionerne er jo så stramme, fordi der har
+været brug for at lave dem stramme. Det er
+desværre sådan, at vi mennesker ikke er helt,
+som vi burde være. Der er for mange af os, der
+både inden for dagpengesystemet og inden for
+andre systemer har en vilje og en forholdsvis
+god evne til at prøve at udnytte systemerne, og
+derfor er reglerne selvfølgelig lavet, som de er,
+og når reglerne så er nødvendigt firkantede,
+men ofte komplicerede, opstår der selvfølgelig
+utilsigtede konsekvenser. I øvrigt er der jo menneskelige konsekvenser af sådan nogle afgørelser, uanset om en overtrædelse er forsætlig eller
+uforsætlig. Vi har alle hørt om menneskeligt
+ulykkelige situationer inden for området. Der
+har allerede været nogle af dem fremme, og jeg
+skal ikke underholde med dem, som jeg også
+kender.
+Jeg er enig med fru Gottlieb i, at sanktioner
+inden for dagpengesystemet kan være urimelige i forhold til straffe inden for andre systemer.
+Der er i øvrigt flere områder i vores samfund,
+hvor administrativt idømte sanktioner er meget
+hårdere i forhold til sanktioner eller domme
+inden for det almindelige retssystem. Jeg tænker på et par sager, der er oppe i tiden, hvor
+varehuset Føtex kan afprøve grænserne i lukkeloven og kalkulere med en beskeden bøde på en
+halv snes tusinde kroner, hvorimod en fisker,
+der glemmer eller kommer lidt for sent med en
+
+fangstindberetning, kan fratages retten til at
+fiske i en måned, og det kan måske koste ham
+en million kroner i tabt indtægt.
+Der er somme tider for stor forskel på kong
+Salomon og Jørgen Hattemager, selv om det
+måske ikke lige nøjagtig har noget med det at
+gøre. Vi er glade for, at arbejdet med at undersøge disse forhold allerede er sat i gang i
+Landsarbejdsrådets regi.
+Jeg ville faktisk gerne, om vi kunne have
+stemt for forslaget til vedtagelse af fru Gottlieb
+og hr. Ole Sohn som kvittering for de gode
+intentioner og nytten i at tage disse problemer
+op, men jeg mener alligevel, at konstateringen i
+indledningen om systemets elendighed er for
+negativ til, at vi kan stemme for det.
+Jeg takker for debatten og håber, at rapporten, som vil fremkomme fra udvalget til efteråret, vil medvirke til at løse disse problemer.
+Arbejdsministeren (Ove Hygum):
+Jeg vil gerne komme med nogle bemærkninger
+til det forslag til vedtagelse, som Enhedslisten
+nu har fremsat.
+Som nævnt i min redegørelse er der allerede
+nedsat et udvalg med deltagelse af arbejdsmarkedets parter, der skal se på sanktionsreglerne.
+Når udvalgets rapport foreligger, vil regeringen
+tage stilling til, i hvilket omfang der er behov
+for at fremsætte forslag til lovændringer, og
+Folketinget vil selvsagt få rig lejlighed til at tage
+stilling til udvalgets arbejde under behandlingen af et eventuelt lovforslag. Jeg finder derfor
+ikke behov for, at der også skal fremlægges en
+særskilt evaluering og nedsættes en politisk følgegruppe.
+Det fremgår også af min redegørelse, at jeg
+ikke er enig i, at sanktioneme har udviklet sig
+til et parallelt straffesystem, som ikke er i overensstemmelse med gængse retsprincipper i den
+øvrige lovgivning, og jeg skal spare folketingsmedlemmerne for en gentagelse af argumentationen.
+Men jeg vil gerne knytte nogle bemærkninger
+til de aspekter, som Enhedslisten foreslår medtaget i en evaluering.
+For det første nævnes det, at den samlede
+økonomiske straf eller bøde for at modtage
+dagpenge uagtsomt sammenlignet med straffen
+for en tilsvarende forseelse ved f.eks. skattesnyd og socialt bedrageri skal evalueres. Hertil
+vil jeg blot nævne, at sanktionen for at modtage
+dagpenge uagtsomt, som jeg var inde på i min
+udførlige redegørelse, altid er en effektiv karan-
+
+Mandag den 4. maj 1998 (F 13)
+tæne på 37 timer uanset størrelsen af det med
+urette udbetalte beløb. Det vil sige, at medlemmet altså maksimalt mister udbetalingen af et
+skattepligtigt beløb på 2.690 kr., og der bliver i
+forbindelse med uagtsom modtagelse af dagpenge aldrig tale om politianmeldelse og derfor
+heller ikke om straf efter straffeloven.
+Det andet aspekt er spørgsmålet om at miste
+forsørgelsesindtægten under sagsbehandlingstiden i forbindelse med uforskyldt indberetning
+for svig til direktoratet. Det er rigtigt, at a-kassen midlertidigt skal standse udbetalingerne,
+hvis den finder, at medlemmet har begået svig.
+Det står direkte i loven. Hvis det ikke skete, ville kassen jo fortsætte med at udbetale ydelser,
+som den mener sker med urette, og som derfor
+senere skal tilbagebetales.
+Hvis direktoratet eller ankenævnet ikke er
+enig i, at der er begået svig, og indberetningen
+altså er uforskyldt, bliver det tilbageholdte
+beløb naturligvis efterbetalt. Men jeg går ud fra,
+at Folketinget er enig i, at man som udgangspunkt ikke kan tolerere, at der fortsat sker
+udbetalinger af beløb, som a-kassen vurderer,
+at medlemmet ikke har ret til, fordi der er begået svig.
+Forslagsstillerne ønsker endelig, at evalueringen skal se på spørgsmålet om arbejdsgivernes
+tilbagemeldingspligt til AF i de tilfælde, hvor
+de får anvist 5-10 personer til et enkelt job. Jeg
+har umiddelbart svært ved at se, hvad spørgsmålet har med sanktionssystemet at gøre. Det er
+rigtigt, at systemet forudsætter, at en arbejdsgiver, der får formidlet arbejdskraft fra AF, melder tilbage til AF, hvem der er ansat, men det
+forhold, at der er formidlet flere, end der skal
+ansættes, er jo ikke ensbetydende med, at de
+personer, der ikke ansættes, ikke står til rådighed.
+Kun hvis et formidlet medlems adfærd giver
+anledning til, at der kan rejses tvivl om vedkommendes rådighed, f.eks. fordi den ledige
+ikke møder op, afslår jobbet eller udviser en
+adfærd, der kan sidestilles med et afslag, vil der
+være grundlag for, at arbejdsgiverens tilbagemelding giver AF anledning til at foretage en
+indberetning til a-kassen, og alene a-kassen kan
+foretage rådighedsvurderingen. Rådighedstilsynets undersøgelse viser dels, at arbejdsgiverne ofte ikke giver de forudsatte tilbagemeldinger, og dels, at a-kasserne i disse situationer er
+for tilbageholdende med at statuere manglende
+rådighed, så jeg har lidt svært ved at se, at vi
+her har at gøre med et retssikkerhedsproblem.
+
+1109
+
+Så vil jeg gerne afslutte med nogle lidt mere
+generelle bemærkninger om sanktionssystemet.
+Det fremgik bl.a. af min redegørelse, at dagpengesystemet er baseret på, at medlemmerne
+leverer alle oplysninger, der skal bruges, for at
+dagpenge kan udbetales med rette. Det er f.eks.
+den ledige selv, der på dagpengekortet oplyser,
+om der har været arbejdstimer eller sygeperioder, som skal medføre fradrag i dagpengene, og
+det er efterlønsmodtageren selv, der årligt skal
+meddele, om 200-timers-reglen er overholdt.
+Dagpengesystemet bygger altså grundlæggende på tillid til, at medlemmernes oplysninger er rigtige og fyldestgørende. De medlemmer af Folketinget - og det gælder i hvert fald
+forslagsstillerne - der har set et dagpengekort,
+må være enige med mig i, at det umiddelbart
+ikke er særlig vanskeligt at skaffe sig ydelser,
+som man ikke har ret til at få udbetalt. Selv om
+der i et vist omfang kræves dokumentation som
+f.eks. lønsedler i forbindelse med beregning af
+dagpengesats og opfyldelse af arbejdskrav, er
+der jo alligevel altid en mulighed for manipulation med oplysningerne. Det er baggrunden
+for, at man lige fra arbejdsløshedsforsikringens
+etablering har fundet det nødvendigt at kunne
+reagere med sanktioner over for de medlemmer, som ikke lever op til dette tillidskrav, men
+lad mig understrege, at det altså stadig væk er
+langt hovedparten, der lever op til tillidskravet.
+Det er efter min opfattelse fortsat nødvendigt,
+at systemet kan reagere hurtigt og smidigt i disse tilfælde. Hvis man helt fjerner sanktionerne
+i arbejdsløshedsforsikringsloven, så snyd og
+anden afgivelse af urigtige oplysninger ikke kan
+få konsekvenser for retten til fremtidige ydelser,
+ændrer man dagpengesystemet til en rent social
+ordning, hvilket vel aldrig har været meningen,
+og det forstår jeg heller ikke er forslagsstillernes
+mening. Der er nok en nærliggende risiko for,
+at en ændring som beskrevet vil kunne medføre
+et forøget misbrug.
+Så vil jeg gerne korrigere hr. Ole Sohns
+oplysninger. Ankenævnets omgørelsesprocent
+er kun ca. 18 og vel at mærke kun af de sager,
+der klages helt til tops. Jeg tror ikke, at folk
+undlader at klage, hvis de ikke har fået medhold i deres klage til direktoratet. Jeg skal i
+øvrigt bemærke, at stort set alle administrative
+regler udsendes af Direktoratet for Arbejdsløshedsforsikringen, så jeg er af gode grunde ikke
+enig i, at direktoratet ikke forstår deres egne
+regler, men der er ofte tale om skøn. Ankenæv-
+
+1110
+
+Mandag den 4. maj 1998 (F 13)
+
+net kan anlægge et andet skøn, og derfor også
+disse omgørelser.
+Hr. Ole Vagn Christensen har nævnt en række konkrete situationer, og andre har også
+bidraget med konkrete eksempler, hvor de gældende regler tilsyneladende har haft en urimelig virkning. Dem kan jeg selvsagt ikke tage
+stilling til her, men vi er meget indstillet på at
+se på de mere konkrete sager.
+Jeg er enig med hr. Ole Vagn Christensen i, at
+der også kan være behov for at se på administrationen af og sanktionerne i rådighedsreglerne, men jeg finder det mest hensigtsmæssigt, at
+en vurdering af netop det område indgår i
+arbejdet med evalueringen af arbejdsmarkedsreformen i 2005-udvalget. En række af de øvrige ønsker, der er rejst af hr. Ole Vagn Christensen, indgår allerede i kommissoriet for Sanktionsudvalget.
+Så vil jeg afslutningsvis sige, at det fremgår
+af regeringsgrundlaget, at der skal arbejdes på
+en forenkling af dagpengesystemet. Hvis der,
+som nogle hævder, er mindre end ti personer
+her i landet, der kan alle reglerne og har indsigt
+i alle krinkelkrogene, er det klart, at der opstår
+en diskussion om retssikkerheden og måske
+navnlig retssikkerhedsfølelsen. Derfor er regeringen optaget af, at der sker en mærkbar forenkling af dagpengesystemet, men jeg vil gerne
+benytte lejligheden til at sige, at det ikke er
+nogen nem øvelse.
+Hver gang vi modtager beretninger eller
+redegørelser, hvori man taler meget stærkt for
+en forenkling af dagpengereglerne, ja, så hører
+det ikke til sjældenhederne, at vi dagen efter fra
+samme afsender bliver gjort opmærksom på en
+meget, meget, meget konkret problemstilling,
+som vi bør tage højde for, næste gang vi ændrer
+lovgivningen.
+På baggrund af den debat, der har været i
+dag, og de indlæg, der har været fra partiernes
+ordførere, vil jeg se frem til en fordomsfri overvejelse af en revision af sanktionsreglerne, vel
+at mærke når rapporten fra udvalget foreligger.
+(Kort bemærkning).";Ole M. Nielsen
+77794;name_party;":
+Jeg vil gerne svare på det spørgsmål, som ministeren stillede, om, hvorfor det sidste punkt i
+forslaget til vedtagelse er med, nemlig spørgsmålet om arbejdsgivernes tilbagemeldingspligt.
+Det er det af den simple grund, at når direktoratet behandler en sag, er der tale om en ensidig
+brug af arbejdsgivernes oplysninger som doku-
+
+mentation i sagen. Altså må der være en eller
+form for formalisering af den tilbagemelding,
+som arbejdsgiverne er pligtige til at give på
+f.eks. en jobsøgningsproces, og derfor hænger
+det sammen med sanktionssystemet, fordi det
+bliver brugt entydigt til at uddele de sanktioner,
+som jeg stadig mener er til stede i systemet.
+(Kort bemærkning).";Jette Gottlieb
+78483;name_party;":
+Dette blot for at bekræfte, at ministeren har ret
+i, at de 18 pet. er af samtlige sager, og det burde
+jeg måske nok have præciseret. Dér, hvor direktoratet har den største fejlprocent i afgørelserne,
+er, når der er tale om forseelsessager, og det er
+jo sådan set det, vi har fokuseret på i dagens
+debat. Her ligger det altså på mellem 25 pet. og
+- for nogle få år tilbage - helt op til 42 pet. Det
+er i den størrelsesorden. Men af samtlige afgørelser er det korrekt, at det er 18 pet.
+(Kort bemærkning).";Ole Sohn
+79013;name_party;":
+Jeg skal først og fremmest kvittere for svarene
+fra arbejdsministeren, og så skal jeg i lyset af de
+meget ensartede meldinger i debatten, sådan
+som jeg synes, den er forløbet, meddele, at
+Socialdemokratiet ikke kan støtte det af
+Enhedslisten fremsatte forslag til vedtagelse.";Ole Vagn Christensen
+79310;name_party;":
+Det er jo altid beklageligt, når man kan tælle
+sammen, at der ikke er et flertal for en handlingsanvisning i forbindelse med sådan en
+debat, som vi har haft i dag. Det betyder ikke,
+at jeg mener, debatten har været forgæves. Jeg
+synes, det er påfaldende, at samtlige ordførere
+rent faktisk hver især har haft eksempler på steder, hvor sanktionssystemet i dagpengesystemet ikke er tilfredsstillende set ud fra almindelige retspolitiske vurderinger og ud fra befolkningens retsfølelsesvinkel. Set i alle mulige
+sammenhænge er der åbenlyst mangler og
+åbenlyst steder, hvor det ikke fungerer.
+Det, der kan synes lidt utilfredsstillende, er,
+at sagen bliver henvist til et udvalg, som ingen
+af os har kendskab til, hvis medlemmer vi ikke
+kender, og som vi ikke rigtig ved hvordan
+arbejder, fordi det er et ministerielt nedsat
+udvalg, det har ikke noget med Folketingets
+arbejde at gøre. Jeg synes stadig væk, det er en
+svaghed og temmelig beklageligt, at et sådant
+udvalg, som får, må man nok gå ud fra, betragtelig indflydelse på, hvordan reglerne vil blive
+
+Mandag den 4. maj 1998 (F 13)
+udformet fremover, ikke får et input fra den
+bredde i politisk forstand, som er i Folketinget.
+Det er der åbenlyst ikke noget at gøre ved,
+eftersom der tilsyneladende ikke er flertal for
+det forslag til vedtagelse, som er stillet. Jeg
+synes, man må sige om debatten, at det i hvert
+fald er blevet dokumenteret, at der er masser af
+problemer i det her system, men jeg har også
+sporet, om end ikke så klart, som jeg kunne
+ønske det, en vis vilje til at lave om på det.
+Hermed sluttede forespørgslen.";Jette Gottlieb
+80907;title_name;"Som tidligere meddelt vil afstemningen om det
+forslag til vedtagelse, der er fremsat af ordføreren for forespørgerne, fru Jette Gottlieb, m.fl.,
+blive foretaget i mødet i morgen.
+
+Den sidste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 71:
+Forslag til lov om ændring af lov om mægling
+i arbejdsstridigheder.
+Af Jette Gottlieb (EL) og Frank Aaen (EL).
+(Fremsat 21/4 98).
+Lovforslaget sattes til forhandling.
+Forhandling
+Arbejdsministeren (Ove Hygum):
+Det er mindre end VA år siden, sammenkædningsreglen i forligsmandsloven sidst blev
+ændret. Efter denne ændring kan sammenkædning først ske, når forhandlingsmulighederne er
+udtømt, hvilket den tidligere lov ikke stillede
+krav om, og det er forligsmanden, der vurderer,
+hvornår mulighederne er udtømt.
+Det er regeringens opfattelse, at sammenkædningsreglen i sin nuværende udformning er
+et nødvendigt element i det danske arbejdsretslige system, bl.a. på grund af det danske organisationssystem. Det danske system adskiller
+sig bl.a. fra andre landes systemer ved, at det er
+almindeligt, at vi har mere end én organisation
+på en arbejdsplads. I andre lande er det almindeligt blot at have én organisation på hver
+arbejdsplads, altså det, der er dækket af begrebet industriforbund.
+
+1111
+
+Jeg kan forstå på forslagsstillernes bemærkninger til forslaget, at Enhedslisten ikke principielt er modstander af sàmmenkædningsreglen
+og heller ikke uenig i, at der kan ske sammenkædning af forhandling og afstemning af flere
+overenskomster for at medvirke til sammenhæng og solidaritet i såvel forhandlingssituationen som i forhandlingsresultatet.
+Det, Enhedslisten ønsker at sikre med lovforslaget, er, at den enkelte overenskomstparts forhandlings- og konfliktret respekteres i overensstemmelse med ILO-konvention nr. 98, og det
+er præcis de samme hensyn, regeringen lægger
+til grund ved sin vurdering af sagen. Vi finder
+imidlertid, at sammenkædning i sagens natur
+ikke kan være en frivillig ting for det enkelte
+forbund. Det ville være meningsløst ud fra det
+solidaritetshensyn, som også Enhedslisten er
+enig i.
+Den nugældende formulering af loven sikrer
+maksimal hensyntagen til den enkelte organisation, hvis det samtidig skal være sådan, at en
+enkelt gruppe medarbejdere på en arbejdsplads
+ikke skal kunne sætte de resultater over styr,
+som et flertal i øvrigt er enige om, og jeg må
+derfor på regeringens vegne afvise forslaget.";Formanden
+83323;name_party;":
+Det er jo sådan, at gennem årene har forligsmandsloven gentagne gange været til diskussion her i Folketinget, og hver gang har den
+socialdemokratiske gruppe været skeptiske
+over for en ændring af sammenkædningsreglerne - først og fremmest fordi vi har ønsket et
+udspil fra arbejdsmarkedets parter i det spørgsmål. Et sådant udspil har vi gentagne gange
+efterlyst her fra Folketingets talerstol, og et
+sådant udspil fik vi med det resultat, at vi
+ændrede reglerne for ca. VA år siden. I Socialdemokratiet ser vi derfor ikke noget behov for
+at ændre reglerne, som de er nu, og i øvrigt skal
+jeg erklære mig helt enig i arbejdsministerens
+bemærkninger til forslaget.";Poul Erik Dyrlund
+84007;name_party;":
+Man må jo sige, at dette forslag er højaktuelt,
+men mon Enhedslisten havde forventet, at vi
+kunne få den konfliktsituation, vi har netop nu,
+da de fremsatte forslaget? Jeg tror det næppe,
+for sådan som jeg har forstået Enhedslistens
+tidligere argumentation, skete der det med den
+revision af loven om mægling i arbejdsstridigheder, der blev foretaget i 1996, at det var slut
+med konflikter, fordi det reelt ikke ville være
+
+1112
+
+Mandag den 4. maj 1998 (L 71)
+
+muligt at stemme nej til en forligstekst. Men
+den argumentation må vel siges at være gjort til
+skamme.
+Venstre kan ikke støtte det fremsatte lovforslag. Vi skal som sagt mindre end VA år tilbage,
+nemlig til december 1996, da loven om mægling
+i arbejdsstridigheder blev revideret, og Enhedslisten stillede dengang et ændringsforslag, som
+var enslydende med det lovforslag, vi behandler i dag. Venstre har ikke ændret holdning i det
+1Vi år, der er gået siden da. Vi mener stadig, det
+er fornuftigt at give forligsmanden en mulighed
+for at sammenkæde mæglingsforslag, når forhandlingsmulighederne er udtømt.
+At fratage forligsmanden muligheden for en
+sammenkædning kunne skabe problemer, fordi
+en megét lille gruppe på arbejdsmarkedet så
+kan lægge landet øde. Det ville betyde, at Danmark blev præget af mange små konflikter,
+hvilket ingen i det danske samfund ville have
+gavn af. Ændringer på dette område bør derudover ske på initiativ af og efter oplæg fra arbejdsmarkedets parter med de traditioner, vi
+har her i Danmark, og det bliver ikke tilfældet
+med dette lovforslag.
+Jeg synes, Enhedslisten skulle se på dagens
+aktuelle situation og konstatere, at der stadig er
+mulighed for at nedstemme et forligsudkast,
+samtidig med at forligsmanden har nogle fornuftige redskaber, bl.a. i form af denne sammenkædningsmulighed.";Rikke Hvilshøj
+85817;name_party;":
+Det Konservative Folkeparti kan ikke støtte
+Enhedslistens forslag.
+For det første mener vi egentlig ikke, det er
+særlig rart at diskutere lige præcis dette tema i
+disse dage under en igangværende konflikt.
+Ganske vist må man sige, at temaet er aktuelt,
+men jeg mener ikke, det er særlig hensynsfuldt
+over for de forhandlinger, der foregår i disse
+timer, at vi her i Folketinget tager en debat om
+lovens udformning.
+For det andet er der jo ikke gået særlig lang
+tid - som også andre ordførere har gjort opmærksom på - siden reglerne blev ændret. Disse ændrede regler kan man vel egentlig sige er
+til generalprøve i disse dage, og så kan man jo
+alt efter temperament konstatere, om de er
+dumpet eller har bestået. Og endelig for det
+tredje er jeg og Det Konservative Folkeparti
+uenige i forslagets substans og - paradoksalt
+nok - med fuldstændig de samme motiverin-
+
+ger, arbejdsministeren kom med for et øjeblik
+siden.";Knud Erik Kirkegaard
+86750;name_party;":
+Jeg skal meddele, at SF kan støtte det af
+Enhedslisten fremsatte lovforslag.
+Vi er enige i, at der i mange situationer både
+kan være behov for og rimelighed i, at der ud
+fra et solidaritetshensyn foretages en sammenkædning af overenskomstforslag: men det må
+altid bero på overenskomstparternes accept.
+Det kan være relevant at lave en sammenkædning i forbindelse med en forhandlingssituation frem mod en overenskomstfornyelse, og
+det kan også være fornuftigt at lave en sammenkædning, når et resultat skal til afstemning.
+Men det kan aldrig være fornuftigt, at man
+sammenkæder overenskomster, som det ikke
+umiddelbart er relevant at sammenligne, eller
+forskellige punkter, der har været til debat i de
+forskellige overenskomster.
+Det er ret afgørende for, at man kan udvikle
+det faglige demokrati, at en sammenkædning
+kun sker, når overenskomstparterne har accepteret det, og med den motivering kan SF støtte
+det fremsatte forslag.";Ole Sohn
+87705;name_party;":
+Dansk Folkepartis principielle holdning er, at
+arbejdsmarkedet selv skal forhandle og færdigforhandle overenskomsterne på det danske
+arbejdsmarked.
+Nu sker det jo undertiden, at forligsmanden
+bliver inddraget i forhandlingerne, og reglerne
+herfor er fastlagt i lovforslag nr. L 15, som blev
+vedtaget i samlingen 1996-97. Ifølge disse regler
+har han ret til at sammenkæde afstemninger om
+overenskomstforslag, som er indgået mellem
+forhandlingsparterne.
+Det er altid ulykkeligt, når der skabes konflikt på det danske arbejdsmarked - ikke alene
+for de mennesker, som bliver berørt af den,
+men også for det danske samfund, som bliver
+forhindret i at fungere. Men når det kommer
+dertil, at Enhedslisten fremsætter et forslag om
+en decentralisering af afstemningerne, må vi
+sige, at det kan vi aldeles ikke være med til. Det
+vil skabe endnu flere problemer end dem, vi
+står med i forvejen, og jeg er sikker på, at det
+heller ikke er et forslag, der vil blive vedtaget
+her i Folketinget.
+Enhedslisten er ikke principielt uenig i sammenkædningsretten, og man er også enig med
+LO i, at der godt kan ske en sammenkædning i
+
+(140)
+Mandag den 4. maj 1998 (L 71)
+både forhandlinger og afstemninger på de forskellige overenskomstområder. Dansk Folkeparti anser derfor forslaget om, at de forskellige
+overenskomstområder skal godkende sammenkædningen af mæglingsforslag, som et unødvendigt værktøj for arbejdsmarkedets parter.
+Det vil være uden betydning for fremtidige
+overenskomstforhandlinger, vi har svært ved at
+se fornuften i forslaget, og vi kan derfor ikke
+støtte det.";Mogens Andreasen
+89291;name_party;":
+Jeg skal på Det Radikale Venstres vegne meddele, at vi heller ikke kan støtte lovforslaget.
+Den ordning, vi har i dag, har bl.a. baggrund
+i et udspil fra arbejdsmarkedets parter. I Det
+Radikale Venstre mener vi principielt, at områderne på arbejdsmarkedet så vidt muligt skal
+reguleres af arbejdsmarkedets parter selv, og
+det er en fornuftig ordning, der eksisterer i dag.
+Hvis der skulle komme et nyt samlet initiativ
+fra arbejdsmarkedets parter, er vi villige til at se
+på tingene igen. Men sådan som de ligger nu,
+og med en regel, som ikke er mere end knap VÆ
+år gammel, mener vi ikke, der er noget som
+helst grundlag for at ændre det nuværende
+system, så vi kan altså ikke støtte forslaget.
+Thorkild B. Fransgaard (FP):
+Fremskridtspartiet er af den opfattelse, at arbejdsmarkedets parter selv skal finde ud af
+overenskomsterne, for det er det, der kommer
+de bedste resultater ud af. Men der kan jo ske
+det, at det er nødvendigt at kalde forligsmanden ind, så der kan laves et mæglingsforslag, og
+i den forbindelse er det nødvendigt med en
+sammenkædning ved overenskomstindgåelse.
+Hvis man skal til at diskutere det decentralt,
+bliver det uoverskueligt, og derfor kan vi ikke
+støtte det forslag, der er fremsat her.
+Jeg vil sige det på den måde, at vi skal undgå
+konflikter, hvis vi overhovedet kan gøre det, for
+der er ingen, der har hverken glæde eller gavn
+af dem. Vi skal tænke på, at i dag skriver vi
+ikke 1968, men 1998. Vi har et moderne, velfungerende samfund, vi har arbejdstagere, der har
+verdens højeste lønninger og korteste arbejdstid, så derfor kan jeg slet ikke forstå, det overhovedet er nødvendigt at ryge ud i konflikt. En
+konflikt, som den, vi har i øjeblikket, kan man
+slet ikke være bekendt i det samfund, vi nu
+engang har, og som vi skal være glade for.
+Det var måske en idé - selv om det er lidt
+uden for dagsordenen - at se lidt på afstem-
+
+1113
+
+ningsproceduren i forbindelse med urafstemningen. Når man ønsker at få vedtaget et fornuftigt forslag, som begge parter er enige om,
+sender man det ud til afstemning, for det skal
+man selvfølgelig. Men når det kan foregå på
+den måde, det gør nu, hvor 149.000 ud af en
+samlet arbejdsstyrke i det private erhvervsliv
+på 1,6 millioner kan kaste os ud i den situation,
+vi har i dag, mener jeg, man bør se på reglerne.
+Men den debat må vi tage en anden gang.
+Jeg kan sige, at fra Fremskridtspartiets side
+kan vi ikke støtte det fremsatte forslag.";Anders Samuelsen
+91729;name_party;":
+Der er ingen tvivl om - som Enhedslisten i
+øvrigt også gør opmærksom på - at det danske
+system har et problem med hensyn til vore
+internationale forpligtelser.
+Her i Danmark er vi normalt ikke i tvivl om,
+at det danske system er absolut det bedste i
+verden, men det kan jeg nu godt være i tvivl
+om. Jeg synes, at når vi kan komme ud i en
+konflikt som den, vi har i disse dage, og som så vidt jeg kan vurdere - er opstået ved en tilfældighed, behøver vi ikke være så ivrige efter
+at bakke den lov, som blev vedtaget for VA år
+siden, op.
+I Kristeligt Folkeparti så vi meget hellere, at
+man i stedet for konfliktvåbenet betjente sig af
+voldgiftsaftaler. Til den ende kunne det da godt
+ske, det var bedre - hvis vi altså kunne ende
+med den model - at de enkelte fagforbund selv
+forhandlede deres aftaler på plads.
+Vi tror ikke, vi kan stemme for lovforslaget,
+men på den anden side vil vi godt overveje det
+under udvalgsbehandlingen.";Ole M. Nielsen
+92680;name_party;":
+Jeg vil gerne takke for en kort og kontant debat.
+Jeg vil nu sige, at det er ikke de dybeste dybder
+i de problemer, der ligger i det her, der har
+været berørt.
+Rent faktisk er det rigtigt, at loven blev revideret for kun halvandet år siden, fordi der forelå kritik fra ILO, som byggede på, at man ikke
+respekterede det, som i bred forstand forstås
+som organisations-, forhandlings- og konfliktfriheden i Danmark.
+Problemet er jo med de sammenkædningsregler, der er, at man kan komme til at knægte
+enkeltorganisationers rettigheder i den forbindelse. Det var også grundlaget for, at den kritik
+blev rejst, og det var grundlaget for, at loven
+blev ændret. Problemet var bare, at den lovæn-
+
+1114
+
+Mandag den 4. maj 1998 (L 71)
+
+dring, som man lavede, ikke imødekom kritikken.
+Derfor fremsætter vi i dag dette ændringsforslag til loven, som den ligger. Vi ønsker at
+fremlægge den mulighed, at hver eneste organisation på overenskomstområdet skal have
+muligheden for at forhandle frit med sin modpart. Den rettighed og frihed er ikke til stede i
+dag, fordi det er muligt at lave sammenkædningsreglerne, som tilfældet er. Det problem vil
+fortsat bestå, såfremt vores forslag ikke bliver
+vedtaget, og jeg tror, det igen vil føre til gentagne kritikpunkter fra ILO.
+Til fru Rikke Hvilshøj vil jeg sige, at der må
+være tale om en slags misforståelse, for hvad
+angår den henvisning, som vi - let ironisk - har
+i vores bemærkninger til forslaget om den eksisterende konfliktsituation, forholder det sig jo
+netop sådan, at rent faktisk er årsagen til, at der
+i dag er storkonflikt, netop sammenkædningsreglerne, idet man har sammenkædet de forbund, der stemte ja, med de forbund, der stemte nej, med det resultat, at den samlede nejprocent blev høj nok til, at der blev tale om konflikt.
+Det er altså ikke et spørgsmål om for eller
+imod konflikter, det mener jeg i øvrigt er debatten fuldstændig uvedkommende, men det er et
+spørgsmål om demokratiet i forhandlingssituationen, demokratiet i afstemningssituationen,
+demokratiet i beslutningssituationen. Det er
+den, der ikke er i orden, og det er derfor, vi har
+fremsat forslaget.
+Så jeg vil slutte med at takke for den støtte, vi
+har fået fra de partier, vi nu har fået den fra, og
+jeg henviser her selvfølgelig til SF's ordfører og
+
+til Kristeligt Folkepartis ordfører, som i hvert
+fald har tilkendegivet, at de er enige i, at der er
+et problem, og at der også er god grund til at
+finde en løsning på det.
+Hermed sluttede forhandlingen, og lovforslaget
+overgik derefter til anden behandling.
+Afstemning";Jette Gottlieb
+95236;title_name;"Jeg foreslår, at lovforslaget henvises til Arbejdsmarkedsudvalget. Hvis ingen gør indsigelse,
+betragter jeg det som vedtaget. (Ophold). Det er
+vedtaget.
+
+Meddelelser fra formanden";Formanden
+95427;title_name;"Der er ikke mere på dagsordenen.
+Folketingets næste møde afholdes i morgen,
+tirsdag den 5. maj 1998, kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 14.48";Formanden

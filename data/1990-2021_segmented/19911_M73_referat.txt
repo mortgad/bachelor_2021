@@ -1,0 +1,92 @@
+split;reason;text;value
+0;;"8653
+
+l >"" 3/4 92: Dagsorden
+
+73. møde";
+73;Time;"Dagsorden:
+Meddelelser fra formanden.
+
+Meddelelser fra formanden:";kl. 15.00
+151;title_name;"Jeg skal oplyse, at mødet er indkaldt på foranledning af statsministeren, jf. grundlovens §
+39, med henblik på fremsættelse af lovforslag.
+Skatteministeren (Fogh Rasmussen) har
+meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om behandling af krav om tilbagebetaling af arbejdsmarkedsbidrag m.v.
+(Lovforslag nr. L 259).
+Forslag til lov om ændring af toldloven og
+merværdiafgiftsloven (momsloven). (Ajkortning
+af kredittider).
+(Lovforslag nr. L 260).
+Skriftlig fremsættelse af orslag:";Formanden
+687;title_name;":
+Herved tillader jeg mig at fremsætte:
+Forslag til lov om behandling af krav om tilbagebetaling af arbejdsmarkedsbidrag m.v.
+(Lovforslag nr. L 259).
+Forslaget er en følge af EF-Domstolens dom
+den 31. marts 1992, der fastslog, at loven om
+arbejdsmarkedsbidrag er i strid med EF's
+momsregler.
+Forslaget går ud på at fastsætte nærmere
+regler for behandlingen af ansøgninger om tilbagebetaling eller erstatning i forbindelse med
+beløb, der er indbetalt i medfør af lov om arbejdsmarkedsbidrag.
+
+8654
+
+Det er regeringens opfattelse, at der som udgangspunkt ikke kan blive tale om tilbagebetaling af allerede indbetalte arbejdsmarkedsbidrag, men for at sikre en hensigtsmæssig og
+ensartet behandling af de krav, der rejses, foreslås en administrativ procedure, hvor det forberedende arbejde udføres i told- og skatteregionerne, hvorefter den centrale Told- og Skattestyrelse træffer afgørelse i sagen. Styrelsens
+afgørelser kan indbringes for domstolene.
+I tilknytning hertil foreslås det i lovforslaget
+at præcisere, at modregning med et påstået tilbagebetalingskrav er afskåret, indtil kravet i
+givet fald er endeligt fastslået af Told- og Skattestyrelsen eller domstolene.
+Idet jeg i øvrigt henviser til bemærkningerne
+til lovforslaget, skal jeg anbefale det til Tingets
+velvillige og hurtige behandling.";Fogh Rasmussen
+2023;title_name;":
+Herved tillader jeg mig at fremsætte:
+Forslag til lov om ændring af toldloven og
+merværdiafgiftsloven (momsloven). (Ajkortning
+af kredittider).
+(Lovforslag nr. L 260).
+Forslaget er en følge af EF-Domstolens dom
+den 31. marts 1992, der fastsatte, at loven om
+arbejdsmarkedsbidraget (ambi) var i strid med
+EF's momsregler.
+Som følge af EF-Domstolens afgørelse har
+regeringen ikke grundlag for at opkræve ambi,
+der forfalder efter den 31. marts 1992.
+Bortfaldet af den resterende ambi medfører
+et indtægtstab på ca. 4,2 mia. kr. for statskassen. Ca. lA heraf vil blive opvejet af større provenu af indkomstskat fra virksomhederne, da
+ambi er fradragsberettiget ved indkomstopgørelsen. Resten af provenutabet foreslås finansieret ved lovforslaget.
+Det foreslås i lovforslaget at afkorte kredittiden for importmoms og andre afgifter, der skal
+betales ved indførslen, med ca. 14 dage.
+Det foreslås endvidere at afkorte kredittiden
+for momsen med 5 dage.
+Ved L 251, L 252 og L 253 er der foreslået en
+afkortning af kredittiden for forbrugsafgifter
+med henblik på at finansiere ophævelsen af
+EF-importmomsen.
+Ved et forslag til ændring af L 252 (ændring
+af merværdiafgiftsloven) vil kredittiden for
+moms blive foreslået nedsat med yderligere 5
+dage - fra den 15. i måneden til den 10. i måneden - fra den 1. januar 1993.
+
+8655
+
+3/4 92: Skriftlig fremsættelse";Fogh Rasmussen
+3397;title_name;"Idet jeg i øvrigt henviser til bemærkningerne
+til lovforslaget, skal jeg anbefale det til Tingets
+velvillige behandling.
+
+Meddelelser fra formanden:";Skatteministeren
+3557;title_name;"Der er ikke mere at foretage i dette møde.
+
+8656
+
+Folketingets næste møde afholdes tirsdag
+den 7. april 1992 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte
+ugeplan.
+Mødet hævet kl. 15.02";Formanden

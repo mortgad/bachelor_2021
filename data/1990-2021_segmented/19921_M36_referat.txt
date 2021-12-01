@@ -1,0 +1,1636 @@
+split;reason;text;value
+0;;"4373
+
+12/1 93: Dagsorden
+
+4374
+
+Af socialministeren (Else Winther Andersen).
+
+36. møde";
+124;Time;"6) Første behandling af beslutningsforslag nr. B
+43:
+Forslag til folketingsbeslutning om ligestilling og ligebehandling af handicappede med
+andre borgere.
+Af socialministeren (Else Winther Andersen).
+
+Dagsorden:
+1) Spørgsmål om fremme af forespørgsel nr. F
+16:
+Forespørgsel til trafikministeren [om, hvad
+DSB's næste fireårsaftale bør indeholde ifølge
+regeringens planer].
+Af Tommy Dinesen (SF) og Riishøj (SF).
+2) Første behandling af lovforslag nr. L 158:
+Forslag til lov om ændring af lov om statsgaranti og ydelsestilskud vedrørende høsttabslån
+til tørkeramte jordbrugere og lov om indkomststøtte til landbrugere. (Ændring af ansøgningsfrister og regler om tilbagebetaling af
+indkomststøtte).
+Af landbrugsministeren (Tørnæs).
+3) Første behandling af lovforslag nr. L 150:
+Forslag til lov om ændring af lov om boligbyggeri. (Etablering af almennyttige boliger
+ved på- og tilbygning. Boligselskabers egenkapitalforhold. Driften af ungdomsboliginstitutioner. Kommunal garanti for lejetab i ungdomsboliger. Uddelegering af sagsbehandlingen vedrørende støtte til renoveringsarbejder i
+ungdomsboliger m.v.).
+Af boligministeren (Svend Erik Hovmand).
+4) Første behandling af lovforslag nr. L 153:
+Forslag til lov om ændring af lov om social
+bistand. (Udskydelse af revisionsbestemmelse
+m.v. vedrørende igangsætningsydelse).
+Af socialministeren (Else Winther Andersen).
+5) Første behandling af lovforslag nr. L 154:
+Forslag til lov om ændring af lov om social
+bistand. (Udbetaling af pension til beboere i
+plejehjem m.v.).
+
+Meddelelser fra formanden:";kl. 13.00
+1703;title_name;":
+Medlemmer af Folketinget Ebba Strange
+(SF), Gade (SF), Rahbæk Møller (SF) og Gert
+Petersen (SF) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag tilfolketingsbeslutning om ændring af
+lov om offentlighed i forvaltningen.
+(Beslutningsforslag nr. B 50).
+Medlemmer af Folketinget Ole Espersen (S),
+Dorte Bennedsen (S), Erling Christensen (S),
+Holger Graversen (S), Lise Hækkerup (S),
+Frank Jensen (S), Karen Jespersen (S) og Lissa
+Mathiasen (S) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om øget strafferetlig beskyttelse af hyrevognschauffører m.v.
+(Beslutningsforslag nr. B 51).
+Medlemmer af Folketinget Kirsten Jacobsen
+(FP), Kim Behnke (FP), Ole Donner (FP), Pia
+Kjærsgaard (FP) og Poul Nødgaard (FP) har
+meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om ophævelse
+af navneforbud i straffesager mod finansielle
+virksomheder.
+(Beslutningsforslag nr. B 52).
+Medlemmer af Folketinget Ole Donner
+(FP), Kim Behnke (FP), Køpke Christensen
+(FP), Pia Kjærsgaard (FP) og Ernst B. Schmidt
+(FP) har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om privatfinansieret Femer Bælt-forbindelse.
+
+4375 홢
+
+12/1 93: Meddelelser fra formanden";Ivar Hansen
+2984;title_name;"(Beslutningsforslag nr. B 53).
+Medlemmer af Folketinget Kirsten Jacobsen
+(FP), Kim Behnke (FP), Annette Just (FP) og
+Poul Nødgaard (FP) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om skærpelse
+af visse bestyrelsesmedlemmers og direktørers
+ansvar.
+(Beslutningsforslag nr. B 54).
+Skriftlig fremsættelse af forslag:";Anden næstformand
+3358;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at. fremsætte:
+Forslag tilfolketingsbeslutning om ændring af
+lov om offentlighed i forvaltningen.
+(Beslutningsforslag nr. B 50).
+Jeg skal i øvrigt henvise til beslutningsforslagets tekst og de bemærkninger, der ledsager
+det.";Ebba Strange
+3660;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om øget strafferetlig beskyttelse af hyrevognschauffører m.v.
+(Beslutningsforslag nr. B 51).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager beslutningsforslaget, og skal anbefale det til Tingets velvillige behandling.";Ole Espersen
+4016;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om ophævelse
+a f navneforbud i straffesager mod finansielle
+virksomheder.
+(Beslutningsforslag nr. B 52).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager beslutningsforslaget, og anbefaler
+det til Tingets velvillige behandling.";Kirsten Jacobsen
+4374;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om privatfinansieret Ferner Bælt-forbindelse.
+(Beslutningsforslag nr. B 53).
+
+4376
+
+Dette beslutningsforslag går i korte træk ud
+på, at Folketinget bør erkende nødvendigheden og vigtigheden af en fast forbindelse over
+Femer Bælt. Folketinget bør på baggrund af
+den store interesse, som private firmaer og
+konsortier har vist for Femer Bælt-forbindelsen, seriøst overveje mulighederne for at udbyde den faste forbindelse i offentlig licitation
+med: det formål at lade den faste forbindelse
+blive bygget og finansieret af private firmaer
+eller konsortier.
+Folketinget bør erkende, at en privatbygget
+og privatfinansieret fast forbindelse over Femer Bælt kan etableres på samme forsvarlige
+måde - både hvad angår den arkitektoniske
+udformning, den teknisk forsvarlige måde, den
+miljøvenlige løsning og til en pris, der for de
+kommende brugere af forbindelsen ikke medfører en højere pris end de nuværende færgebilletpriser (pristalsreguleret) - som de selskabskonstruktioner, der ligger til grund for
+byggeriet på Storebælt og Øresund.
+Endvidere bør Folketinget erkende, at det af
+hensyn til de fremtidige trafikforbindelser mellem Skandinavien og Kontinentet, samt at bygningen af forbindelsen har positive beskæftigelsesmæssige fordele, er en god idé at komme
+i gang med arbejdet nu.
+Sluttelig bør Folketinget konstatere, at den
+danske stat i øjeblikket er mættet af store anlægsopgaver andre steder i landet, og at det
+derfor kunne tænkes at være en rigtig god idé
+at prøve en privatiseret model denne gang.
+Idet jeg i øvrigt henviser til beslutningsforslagets tekst og de dertil knyttede bemærkninger, anbefaler jeg varmt forslaget til Tingets
+velvillige behandling.";Ole Donner
+6171;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig hermed at fremsætte:
+Forslag til folketingsbeslutning om skærpelse
+af visse bestyrelsesmedlemmers og direktørers
+ansvar.
+(Beslutningsforslag nr. B 54).
+Idet jeg henviser til de bemærkninger, der
+ledsager beslutningsforslaget, anbefaler jeg det
+til Tingets velvillige behandling.
+Den første sag på dagsordenen var:
+1) Spørgsmål om fremme afforespørgsel nr. 1 6 :
+
+4377
+
+12/1 93: Fremme af forespørgsel
+
+Forespørgsel til trafikministeren [om, hvad
+DSB's næste fireårsaftale bør indeholde ifølge
+regeringens planer].
+Af Tommy Dinesen (SF) og Riishøj (SF).
+(Forespørgslen anmeldt 16/12 92).";Kirsten Jacobsen
+6844;title_name;":
+Hvis ingen gør indsigelse mod fremme af
+denne forespørgsel, betragter jeg Tingets samtykke dertil som givet. (Ophold). Det er givet.
+Den næste sag på dagsordenen var:
+2) Første behandling af lovforslag nr. L 158:
+Forslag til lov om ændring af lov om statsgaranti og ydelsestilskud vedrørende høsttabslån
+til tørkeramte jordbrugere og lov om indkomststøtte til landbrugere. (Ændring af ansøgningsfrister og regler om tilbagebetaling af indkomststøtte).
+Af landbrugsministeren (Tørnæs).
+(Fremsat 16/12 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+7425;name_party;":
+L 158 er en konsekvens af, at tilbagebetalingsreglerne for uberettiget udbetalt indkomststøtte i den oprindelige lov efter EF's
+mening ikke er gode nok, og det må vi selvfølgelig se at få rettet hurtigst muligt.
+Vi forstår, at ansøgningsfristen for høsttabsordningen bliver forlænget fra april til maj
+1993, og det er jo godt nok: men det er beklageligt, at hjemmearbejdet ikke var gjort godt
+nok, og at vi nu skal trække tiden, for at de
+landmænd, der kan blive omfattet af ordningerne, kan få at vide, hvor de står.
+Men det forhindrer ikke, at Socialdemokratiet selvfølgelig vil medvirke til en så hurtig udvalgsbehandling som overhovedet muligt, så vi
+kan få denne lov kørt igennem Folketinget.";Henrik Dam Kristensen
+8137;name_party;":
+Dersom behandlingen af de ansøgninger,
+der måtte komme fra tørkeramte landbrugere,
+fremmes ved, at jeg afstår fra at holde en lang
+ordførertale, så gør jeg gerne det for sagens
+skyld: men jeg vil dog ikke undlade at sige, at
+jeg støtter lovforslaget. ,
+
+4378";Rønholt
+8410;name_party;":
+Lovforslaget forlænger ansøgningsfristen for
+høsttabsordningen med en måned, fra den 1.
+april til den l. maj, og det giver landbrugsministeren en bemyndigelse til at kræve indkomststøtte tilbagebetalt, hvis den er udbetalt på
+grundlag af urigtige oplysninger.
+Jeg skal på Venstres vegne give tilslutning til
+begge dele af lovforslaget og give tilsagn om en
+hurtig udvalgsbehandling, så tørkepakken under ingen omstændigheder forsinkes.";Mejdahl
+8866;name_party;":
+Vi har ingen indvendinger imod de af landbrugsministeren foreslåede ændringer. Vi vil
+også medvirke til et hurtigt udvalgsarbejde og
+gå positivt ind i det.
+Men jeg vil da godt benytte lejligheden, da
+der jo stadig væk lyder - måske berettiget kritik fra landbrugets side af de vedtagne love
+nr. 918 og 919, sige, at Vores idé om udskydelse
+af terminsbetalingerne da fortsat vil kunne anvendes, hvis vi kan skaffe et flertal for den her i
+salen.";Birthe Hansen
+9331;name_party;":
+Selv om Fremskridtspartiet har været imod
+loven om statsgaranti og ydelsestilskud vedrørende høsttab til tørkeramte jordbrugere og lov
+om indkomststøtte til landbrugere, fordi vi mener, at loven ikke indeholder nogen fremtidige
+løsninger og intet fremskridtsperspektiv har,
+vil vi ikke stille os i vejen for de foreslåede ændringer. Loven er vedtaget på baggrund af tørken i sommer, men tager på ingen måde højde
+for en eventuel .tørkesituation i de kommende
+år.
+Fremskridtspartiet har som bekendt fremsat
+sit eget beslutningsforslag, som nu mangler behandling. Jeg kunne ved denne lejlighed godt
+tænke mig at erindre om, at en vedtagelse af
+Fremskridtspartiets forslag vil tage hul på den
+debat, der burde være en naturlig konsekvens
+af den tørkehjælpslovgivning, som Folketinget
+har vedtaget, og som vi nu behandler et ændringslovforslag til. Fremskridtspartiet mener,
+at det må være rigtigt over for landbruget, at vi
+sender det signal, at Folketinget ikke har glemt
+landbruget, men fortsat vil arbejde for at tilvejebringe en fornuftig ordning, som erhvervet
+selv kan administrere.
+*
+홢
+Men Fremskridtspartiet vil som nævnt støtte
+det foreliggende lovforslag.
+
+4379
+
+- 12/1 93: 1. beh. af f. t. 1. vedr. statsgaranti, ydelsestilskud m.v. til landbrugere";Niels Højland
+10614;name_party;":
+Dette lovforslag har sit udspring i loven om
+statsgaranti og ydelsestilskud vedrørende høsttabslån til tørkeramte jordbrugere, en lov, der
+blev vedtaget i Tinget i november i fjor. Eftersom det har vist sig, at der i loven fra i fjOT ikke
+er tilstrækkelig hjemmel for landbrugsministeren til at fastsætte regler om tilbagebetaling af
+uretmæssigt udbetalt indkomststøtte, medvirker Centrum-Demokraterne gerne til, at dette
+bringes i orden, således at bestemmelserne
+herefter følger EF-forordningen, selv om det
+får til følge, at ansøgningsfristen må forlænges
+til 1. maj 1993.";Svend Aage Jensen
+11209;name_party;":
+Da mit partis ordfører, fru Marianne Jelved,
+ikke kan være til stede, skal jeg på partiets vegne sige, at De Radikale kan medvirke til lovforsIagets, gennemførelse.";Lone Dybkjær
+11401;name_party;":
+Der er opstået nogle problemer med høsttabsordningen. Det drejer sig om ansøgningsfrister og tilbagebetalingsregler ved uberettiget
+udbetaling.
+Kristeligt Folkeparti medvirker gerne til en
+hurtig gennemførelse af disse små ændringer.
+Landbrugsministeren (Tørnæs):
+Jeg kan begrænse mig til at takke samtlige
+ordførere for tilslutningen til lovforslaget. Jeg
+håber, at det kan lykkes at få det endeligt vedtaget i løbet af denne uge efter en hurtig udvalgsbehandling.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+12012;title_name;":
+Jeg foreslår, at lovforslaget henvises til
+Landbrugs- og Fiskeriudvalget. Hvis ingen gør
+indsigelse mod dette forslag, betragter jeg det
+som vedtaget. (Ophold). Det er vedtaget.
+
+4380
+
+Den næste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 150:
+Forslag til lov om ændring af lov om boligbyggeri. *(Etablering af almennyttige boliger ved påog tilbygning. Boligselskabers egenkapitalforhold. Driften af ungdomsboliginstitutioner.
+Kommunal garanti for lejetab i ungdomsboliger.
+Uddelegering af sagsbehandlingen vedrørende
+støtte til renoveringsarbejder i ungdomsboliger
+m.v.).
+Af boligministeren (Svend Erik Hovmand).
+(Fremsat 10/12 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+12734;name_party;":
+Lovforslag nr. L 150, som vi skal behandle
+her i dag, vil jeg gerne anbefale på Venstres
+vegne.
+Lovforslaget indeholder forskellige punkter.
+Som det første indeholder det en direkte hjemmel til, at almennyttige boliger kan få om-, påog tilbygninger, uden at det nødvendigvis skal
+være forsøg. Jeg skal i parentes tilføje, at der
+stadig er mulighed for forsøg, men siden 1984,
+hvor forsøgsbestemmelserne blev vedtaget for
+det almennyttige boligområde, har virkeligheden vist, at forsøgsparagraffen, § 62 a, hovedsagelig har været anvendt i forbindelse med
+udbedring af byggeskader og lign. Der er ingen
+grund til udelukkende at lade den fortsætte
+som forsøgsparagraf.
+Det andet punkt i lovforslaget handler om
+boligselskabernes egenkapitalforhold. Her har
+boligministeren som bekendt haft nedsat en
+bredt sammensat arbejdsgruppe, og den har
+udarbejdet en redegørelse, der påpeger en hel
+masse gode ting såsom ønsker om overskuelighed og sammenlignelighed. Det anbefaler vi
+naturligvis meget gerne.
+Ud over den enighed, som arbejdsgruppen
+gav udtryk for, lægges der i lovforslaget op til,
+at der nu bliver loft over det beløb, som boligselskaberne må have som arbejdskapital. Forslaget peger på et beløb på 800 kr. pr. enhed,
+og det anbefaler vi gerne.
+Samtidig siger vi også ja tak til, at dispositionsfonden nyder godt af de eventuelle driftsoverskud, der overstiger maksimumsbeløbet.
+
+4381
+
+12/1 93: 1. beh. af f. t. 1. vedr. etablering af almennyttige boliger ved på- og tilbygning
+
+4382";Bodil Thrane
+14243;title_name;"Som det tredje element indeholder lovforslaget en præcisering af habilitetsbestemmelserne for medlemmerne i de forskellige selskabsstyrelser, og det støtter vi også.
+Det fjerde punkt handler om tilsynet med
+ungdomsboliginstitutioner og kommunal garanti for lejetab. Det anbefaler vi også. Det er
+jo en opstramning, som vi har set er nødvendig
+på baggrund af de oplevelser, vi havde i forbindelse med Ungbosagen.
+Det femte punkt, som handler om en forlængelse af huslejetilskudsordningerne for ungdomsboliger, vil vi også meget gerne anbefale.
+Og endelig handler det sidste punkt om en
+bagatelgrænse for udbetaling af rentesikring:
+der foreslås et beløb på 250 kr.
+Vi vil sammenlagt meget gerne anbefale lovforslag nr. L 150.";Bodil Thrane
+14984;name_party;":
+Det er jo et ganske stort og bredt forslag, vi
+førstebehandler her i dag. Jeg er sikker på, at
+der er flere elementer i forslaget, der vil give
+anledning til et ganske omfattende udvalgsarbejde på basis af nogle af de rapporter, som vi
+har fået om disse forhold.
+Jeg skal sige, at SF støtter adgangen til etablering af nye almennyttige boliger ved på- og
+tilbygning. Vi synes, at det er yderst fornuftigt.
+Vi har set mange eksempler på gode løsninger
+af økonomiske og miljømæssige problemer i
+almennyttigt byggeri, herunder også samspilsproblemer ved fortætningsprojekter, og kan
+man forstærke det ved at ændre lovgivningen
+på den foreslåede måde, synes vi det er en god
+idé.
+Vi synes også, det er rigtigt og vigtigt, at vi
+får en afklaring gennem forslaget om de nye
+regler om boligselskabernes egenkapitalforhold. Forholdene for tiden er overordentlig
+uklare, og som det også fremgår af bemærkningerne til forslaget, er der stor forskel på,
+hvordan forholdene er i de enkelte boligselskaber på det her område.
+Vi mener, at Boligudvalget meget omhyggeligt med udgangspunkt i arbejdsgruppens rapport må vurdere det rimelige i, at adgangen til
+at dække tab af selskabernes dispositionsfonde
+udvides til at dække andre tab end ekstraordinære, og at man ligefrem foreslår at gå over til
+også at kunne løse forebyggende opgaver.
+
+Men vi tror, at det er klogt og fornuftigt at
+tage udgangspunkt i denne diskussion og herunder også i forslaget om, at man afsætter fonde til en egentlig arbejdskapital. Det er jo i vid
+udstrækning at gøre en dyd af nødvendigheden, fordi vi i en række boligselskaber har sådanne kapitaldannelser, som der med forslaget
+her også sættes grænser for størrelsen af. Vi
+tror, at dette forslag er et frugtbart udgangspunkt for at se på dette.
+For så vidt angår forslaget om, at man skal
+etablere dispositionsfonde i rene forretningsførerselskaber, synes vi, at det er en god anledning til at kigge på disse forretningsførerselskabers funktioner i den nuværende situation.
+De er jo både med hensyn til deres midler og
+med hensyn til deres beføjelser og den kontrol,
+de er underlagt, ofte særdeles uklare størrelser,
+der i det ene øjeblik hævder at være almennyttige og komme ind under boligbyggeriloven og
+i det andet øjeblik hævder, at boligbyggeriloven slet ikke finder anvendelse på deres virksomhed, fordi deres virksomhed er af en anden
+art. Det må vi have set på i udvalget i forbindelse med dette forslag, som vi altså i øvrigt
+som udgangspunkt stiller os positivt til.
+Jeg synes, at det er utrolig vigtigt, når vi behandler muligheden for at udvide adgangen til
+andre kapitaldannelser end det, som er strengt
+nødvendigt i almennyttig boligvirksomhed, hele tiden at holde sig for øje, at de midler, vi
+snakker om, enten er offentlige midler eller
+midler, der hidrører fra lejernes huslejebetalinger. Det er vigtigt at indrette tingene på en sådan måde, at vi ikke bevæger os væk fra det,
+som er den almennyttige boliglovgivnings
+egentlige formål - nemlig at etablere ordentlige boliger til så betalelige huslejer som muligt.
+Det må man holde fast i under udvalgsarbejdet
+om disse ret komplicerede spørgsmål.
+Vi støtter i SF varmt, at man udvider habilitetsbestemmelserne for folk, der beskæftiger
+sig med offentligt støttet byggeri. Man skulle
+måske i virkeligheden kalde det for inhabilitetsbestemmelserne, men som det er formuleret her, lyder det jo eri anelse høfligere. Sporene fra en række steder skræmmer. Det er helt
+oplagt, at der er et behov for at få gennemført
+en stramning af lovgivningen på dette område.
+Det gælder også den stribe af forslag i lovforslaget, som gælder ungdomsboliglovgivningen, og som jeg ikke skal gå detaljeret ind på
+her.
+
+4383
+
+12/1 93: 1. beh. af f. t. 1. vedr. etablering af almennyttige boliger ved på- og tilbygning";Pelle Voigt
+18783;title_name;"Det er oplagt, at det er meget vigtigt, at vi får
+set på, hvilke konsekvenser denne delvise decentralisering indebærer for kommunerne, for
+så længe vi ikke opererer med en egentlig decentralisering af det direkte støttede byggeri af
+ungdomsboliger og almennyttige boliger, sådan som f.eks. Boligselskabernes Landsforening og Kommunernes Landsforening har foreslået det, må vi være forsigtige med at lave
+delvise decentraliseringer.
+Jeg synes, de fleste af de forslag, som er lagt
+frem hér, er fornuftige, skal jeg sige, men når
+man netop tager udgangspunkt i de problemer,
+der har været med Ungbosagen, så synes jeg,
+man kunne stille det spørgsmål, om ikke Boligministeriets egentlige overordnede rolle helt
+forsvinder i den måde, problemerne stilles op
+på i lovforslaget. Jeg vil gerne i forbindelse
+med behandlingen af dette lovforslag have set
+på, hvordan vi kan styrke Boligministeriets
+forpligtelse til at foretage en ordentlig kontrol
+med forholdene i sektoren.
+Jeg skal endelig sige, at forslaget om bagatelgrænsen på 250 kr. pr. kvartal synes vi at vi
+skal diskutere nøje i udvalget. Det kan være, at
+man kan finde andre muligheder for at løse de
+administrative problemer end at fratage folk
+deres rentesikring, sådan som det foreslås.";Pelle Voigt
+20048;name_party;":
+Fremskridtspartiet er helt enigt i, at vi må
+have styr specielt på de regler, der gælder for
+ungdomsboligerne.
+De andre elementer i forslaget, om, at man
+skal kunne etablere almennyttige boliger i eksisterende boligbebyggelser, uden at det er under forsøgsparagraffen, vil vi godt se på og have uddybet og se på konsekvenserne af: men
+det er ikke sådan, at vi er umiddelbart negative
+over for det.
+Et af de punkter, som vi i hvert fald på forhånd er lidt betænkelige ved, er det punkt, som
+drejer sig om at oplægge arbejdskapital. De
+pengetanke, der findes i: den almennyttige sektor, synes vi hellere vi skulle se at få briigt, i
+stedet for at de bare ligger derude og trækker
+renter. Men vi vil se,- hvad der ligger i ministerens forslag, vi vil se positivt på det og stille
+nogle spørgsmål til det i udvalget.
+Habilitetsproblematikken kan vi heller ikke
+være uenige i.
+
+4384
+
+Og så vil jeg gå over til det, som vel er det
+væsentligste i forslaget, nemlig at få orden og
+styr på de ungdomsboliginstitutioner, som der
+er ydet offentlig garanti og lån til. Med Uhgbosagen i klar erindring er der jo ikke et eneste
+medlem af dette Ting, som kan være uenigt i,
+at vi må sikre os imod, at en ligneride situation
+kan opstå igen, og at dér må der gøres alle de
+indgreb, som er nødvendige.
+Men Fremskridtspartiet vil meget gerne diskutere, om kommunerne skal have den fulde
+tilsynsforpligtelse fremover. Det er der sådan
+set ikke noget problem i: man kan jo politisk
+beslutte, om man synes, det er godt, eller man
+synes, det er skidt: men det, som Fremskridtspartiet umiddelbart ser som et problem, er, at
+sådan som ministerens lovforslag er udarbejdet, fralægger Boligministeriet sig ethvert ansvar for hele Ungbosituationen også med tilbagevirkende kraft, uanset at Rigsrevisionen har
+fastslået, at det var Boligstyrelsens ansvar.
+Man kan ikke fra Folketingets side placere: ansvaret hos kommunerne med tilbagevirkende
+kraft. Det vil være uholdbart.
+Kommunernes Landsforening har også set
+dette her som et stort problem. Nu er det ikke,
+fordi jeg tager alt, hvad den fagforening siger,
+så særlig højtideligt, men Kommunernes
+Landsforening siger jo selv, at den ser det som
+et stort problem, at de tab, som har været forårsaget af Ungbos konkurs, ved hjælp af den
+formulering, der er brugt i dette lovforslag, kan
+komme til at hvile på kommunerne. Det vil være aldeles urimeligt, hvis kommunerne skal betale for et tab, som Boligministeriet har haft
+ansvar for. Jeg vil gerne sige til boligministeren, at hvis det viser sig at være tilfældet, må
+de nødvendige ændringsforslag stilles. Det er
+uacceptabelt.
+Men vi kan godt diskutere, om kommunerne
+skal have ansvaret og tilsynsforpligtelsen fremover. Så må boligministeren blot love Boligudvalget, at de nødvendige regler, cirkulærer og
+bekendtgørelser nu også bliver skrevet, så vi
+ikke om 2 år finder ud af, at der heller ikke er
+skrevet en linje, uanset at dette forslag var vedtaget.
+Jeg vil godt til allersidst sige, at det forekommer mig lidt mærkeligt - men jeg håber da, at
+vi får det op under udvalgsarbejdet - at boligministeren har fortalt os masser af gange, at
+man ikke kan sige noget mere præcist om situ-
+
+(275)
+12/1 93: 1. beh. af f. t. 1. vedr. etablering af almennyttige boliger ved på- og tilbygning 4386";Kirsten Jacobsen
+23338;title_name;"ationen omkring Ungbo, fordi man venter på
+Det tredje punkt gælder ændrede habilitetsen rapport fra kammeradvokaten. Man har bestemmelser. Udvidelse af habilitetsbestemventet, og man har accepteret, at der var en melsen og personkredsen har vi ingen vanskekammeradvokat, som gik hen og døde, og det lighed med at gå ind for.
+kunne man ligesom ikke laste Boligministeriet
+For det fjerde er der spørgsmålet om stramfor - i hvert fald ikke alene - men jeg går ud ning af reglerne for drift af og kommunalbestyfra, at den rapport kommer frem under be- relsens tilsyn med ungdomsboliger osv. CD
+handlingen af dette lovforslag.
+hilser absolut med tilfredshed, at der nu på
+Jeg synes, det vil være helt uacceptabelt, baggrund af Ungbosagen vil ske en opstramhvis vi skal til at regulere ungdomsboligområ- ning af reglerne for drift af og tilsyn med selvdet, uden at vi ved, hvad kammeradvokaten ejende ungdomsboliginstitutioner. Der skabes
+har skrevet, så vi har et fuldt og klart billede af med lovforslaget bedre mulighed for kommusituationen, også hvordan den er for de andre nalbestyrelsen for at udøve et mere effektivt
+ungdomsboliginstitutioner, som der har været kommunalt tilsyn, ligesom den enkelte instituproblemer med. Nu må vi altså simpelt hen ha- tionsbestyrelse får bedre mulighed for i tide at
+ve slået en streg i sandet, og så må vi sige: Nu gribe ind over for økonomiske problemer i inser vi fremad, og så sikrer vi os imod det her i stitutionen.
+fremtiden. Men jeg synes, at det skal være helt
+Det femte og sjette punkt omhandler dels
+sikkert, at vi ikke lader nogle kommuner beta- uddelegering af støttesagsbehandlingen vedrøle, som ikke har haft ansvaret.
+rende støtte til renovering af ungdomsboliger
+og dels kommunal driftsstøtte til disse. Den
+decentralisering, der efter lovforslaget fremSvend Aage Jensen (CD):
+over vil finde sted, og hvor de fleste beslutninLovforslaget indeholder ikke mindre end 8
+ger og opfølgninger og kontrolforanstaltninger
+elementer, som der hver for sig skal tages stilskal foregå i kommunalt regi, finder vi er rigling til.
+tig. Det er et godt princip at placere ansvar og
+For det første adgang til etablering af almen- kompetence ét sted.
+nytige boliger ved på- og tilbygning. CentrumPunkt 7 gælder regler om forlængelse af husDemokraterne vil se positivt på forslaget, der
+lejetilskudsordningen for ungdomsboliger.
+går ud på, at der indsættes en direkte hjemmel
+Når der nu stilles forslag om forlængelse af
+i boligbyggeriloven til etablering af almennythuslejetilskudsordningen for ungdomsboliger i
+tige boliger ved påbygning og tilbygning til ekyderligere tre år, får det mig til at spørge minisisterende almennyttige afdelinger, og at det
+steren, hvad årsagen er til, at denne ordning
+ikke sker, som tilfældet er nu, ved hjælp af forikke kan løbe tidsubegrænset.
+søgsbestemmelsen.
+Og endelig har vi ingen bemærkninger til
+For det andet regler om boligselskabernes
+bagatelgrænsen på 250 kr. pr. kvartal vedrøegenkapitalforhold. CD er helt enig i de be- rende rentesikring.
+tragtninger, der er fremsat vedrørende det
+CD vil medvirke positivt i det videre uduheldige i, at de enkelte boligselskaber samler valgsarbejde.
+betydelige midler i såkaldt fri egenkapital, set i
+lyset af, at disse midler direkte eller indirekte
+stammer enten fra de offentlige kasser eller fra Lone Dybkjær (RV):
+lejerne. Der er i forslaget indsat en maksimumDa mit partis ordfører, hr. Jørgen Estrup, ikgrænse på denne arbejdskapital på 800 kr. pr. ke kan være til stede ved behandlingen af dette
+lejemål. Det er så et spørgsmål, om det ikke er lovforslag, skal jeg på partiets vegne sige følat gå i den anden grøft. Med 800 kr. pr. lejlig- gende:
+hed er der ikke meget spillerum til imødegåelUmiddelbart har vi fundet, at det var vanse af uforudsete, pludseligt opståede hændel- skeligt at danne sig et overblik over den mængser, medmindre det er tanken, at de enkelte af- de af ændringsforslag til boligbyggeriloven,
+delinger eller selskabet uden videre kan trække som L 150 rummer, og vores første reaktion
+på dispositionsfondsmidlerne i sådanne tilfæl- var vel nærmest, at så fik boligministeren da
+de. Ellers er CD helt enig i såvel forslagets endelig ryddet sit bord. Men skinnet bedrager,
+hensigt som dets indhold.
+blev vi klar over. Der er faktisk mere linje i
+4385
+
+4387
+
+12/1 93: 1. beh. af f. t. 1. vedr. etablering af almennyttige boliger ved på- og tilbygning
+
+4388";Kirsten Jacobsen
+27758;title_name;"lovforslaget, end det umiddelbart ser ud til, og igennem, og som udgangspunkt var det måske
+titlen burde måske derfor snarere have været nok en god idé, om det skete i overensstem»spilleregler for det støttede byggeri«. Faktisk melse med den kommunale sektor. Derfor kan
+lægger boligministeren med lovforslaget op til det ikke andet end overraske, at ministeren på
+ganske vidtgående ændringer i de hidtidige re- to væsentlige områder har valgt at placere sig i
+gelsæt og visse steder ændringer med et så et modsætningsforhold til kommunerne. Det
+principielt sigte, at de ikke burde gemmes væk gælder spørgsmålet om indførelse af kommui noget, der kan opfattes som en operation nal garanti for lejetab for ungdomsboliger, og
+det gælder spørgsmålet om en overgrænse for
+»ryd skrivebordet«.
+Men først et par positive kommentarer til de boligselskabernes frie egenkapital. Førstnævndele af forslaget, som forekommer ukontrover- te udgør kun et lille hjørne af det støttede bygsielle. Det er selvfølgelig godt, at boligministe- geri, men har unægtelig betydelige præcedensren nu følger Ungboskandalen op og strammer virkninger. Kan det virkelig være en god straregelsættet for drift af og tilsyn med ungdoms- tegi for de kommende forhandlinger om deboliginstitutioner. Udvalgsarbejdet må vise, centralisering at starte med et sådant diktat til
+om ændringerne er tilstrækkelige og rammer kommunerne?
+Forslaget om en overgrænse til boligselskatilstrækkelig præcist: men hovedsigtet - at afklare ansvarsfordelingen og placere ansvaret bernes frie arbejdskapital drejer sig ved første
+dér, hvor viden er til stede og beslutninger øjekast om noget helt andet. Kan det være ritræffes, dvs. i første række hos institutionerne meligt, spørger boligministeren appellerende i
+og de kommunale myndigheder - kan vi helt forslagets bemærkninger, at boligselskaberne
+tilslutte os fra radikal side. Det burde kunne uhindret via offentlige midler eller lejernes
+forebygge nye kriser på ungdomsboligområ- penge skal kunne samle kapital sammen? Svaret må selvfølgelig være et nej, men konklusiodet.
+nen
+er ikke, at så må enten støtten eller husleTilsvarende er vi også indforståede med, at
+jen sættes ned, så den opsamlede kapital bliver
+støttesagsbehandlingen vedrørende renoveringsarbejde i ungdomsboliger flyttes ud til mindre.
+I stedet foreslår ministeren, at der lægges
+kommunerne. Vi synes også, at det er fornufloft over de frie midler, og at resten af kapitatigt at forlænge huslejetilskudsordningen.
+len forbeholdes bestemte formål. Der sker altHeller ikke forslaget om at flytte på- og tilså ingen begrænsning i kapitalopsamlingen,
+bygninger fra forsøgsstatus' til at være en helt
+men kun en regulering af boligselskabernes akordinær del af det støttede almennyttige bygtiviteter. Det er falsk varebetegnelse og derfor
+geri forekommer kontroversielt. Tværtimod er
+forståeligt, at kommunerne en bloc har sagt nej
+der formentlig god samfundsøkonomi i at kla- i den arbejdsgruppe, hvor ministeriets reprære byggeskader eller blot øget pladsbehov på sentanter fremlagde forslaget. Selv den konserdenne måde.
+vativt ledede Frederiksberg Kommune sagde
+Men måske havde det været naturligt, om højt og klart fra. Kommunerne føler med rette,
+boligministeren havde benyttet lejligheden til at dette er en urimelig sammenblanding af tinat redegøre for, hvilke erfaringer der har været gene, en uhensigtsmæssig og uadministrerbar
+med forsøget, hvilket omfang af støtte der har regel, som er med til at afspore den kommende
+været nødvendigt for at samle fornuftige pro- decentralisering.
+jekter op, om det nu foreslåede støtteniveau er
+Vores råd til ministeren skal derfor være, at
+tilstrækkeligt, osv. Det fremgår faktisk ikke af han ikke lader sig forføre af de ideologiske frilovforslagets bemærkninger.
+stelser, soin nogle i regeringspartierne lokker
+Igennem lovforslaget går der en rød tråd, med, men i stedet koncentrerer sig om at skabe
+der hedder decentralisering eller måske snare- et godt klima for den kommende decentralisere kommunalisering. Det er en udvikling, som ringsreform. Så skal vi fra radikal side til genformentlig har bred støtte i Folketinget, og gæld gerne hjælpe med at gennemføre resten
+som vi i hvert fald i overskriftsform bakker helt af lovforslaget.
+op fra radikal side.
+Men det er jo selvfølgelig ikke ligegyldigt,
+hvordan en sådan ny udviklingslinje føres Lysholm Christensen (KRF):
+
+4389
+
+12/1 93: 1. beh. af f. t. l. vedr. etablering af almennyttige boliger ved på- og tilbygning";Lone Dybkjær
+32272;title_name;"Vi har her et lovforslag med hele syv forskellige delelementer - en hel række ændringer i
+boliglovgivningen - og jeg skal knytte nogle få
+kommentarer til de enkelte elementer i lovforslaget.
+Først er der spørgsmålet om adgang til etablering af almennyttige boliger. Vi finder det
+helt naturligt, at der bliver løst op her, således
+at man ikke længere er bundet af kun at kunne
+gennemføre disse byggerier ved hjælp af forsøgsbestemmelsen.
+Punkt 2: Når det gælder boligselskabernes
+egenkapitalforhold, er vi helt enige med ministeren i, at det er rigtigt at få lidt styr på, hvordan disse midler bliver anbragt. Man kan naturligvis diskutere, hvor maksimumsbeløbet
+skal fastsættes for den arbéjdskapital, der skal
+være til rådighed i selskaberne. Det er noget, vi
+kan se på i udvalget, men ellers mener vi, det
+er en rimelig løsning, der er foreslået i dette
+forslag.
+Punkt 3: Habilitetsbestemmelserne. Det er
+jo en naturlig konsekvens af anden lovgivning
+om habilitetsspørgsmål, så det har vi ikke nogen kommentarer til.
+Hvad angår drift og tilsyn med ungdomsboligerne, har vi ikke andre bemærkninger, end
+at vi synes, det er helt fint, at man laver en decentralisering og lægger det ud til kommunerne.
+Det samme gælder med hensyn til støttesagsbehandlingen i forbindelse med renoveringsarbejder i ungdomsboliger. Det er også
+helt naturligt, at vi får en decentral struktur i
+dette spørgsmål.
+Endelig er der punkt 6: forlængelse af huslejetilskudsordningen for ungdomsboliger. Jeg
+vil gerne stille det samme spørgsmål, som blev
+stillet af en anden ordfører for lidt siden, nemlig: Hvorfor kan man ikke gøre dette her tidsubegrænset? Bestemmelsen skal tages op til revision nu, fordi den udløber, men kunne man
+så ikke bare lade den løbe tidsubegrænset
+fremover?
+Endelig er der bagatelgrænsen i forbindelse
+med udbetaling af rentesikring. Den har jeg ikke nogen kommentarer til.
+Vi har sikkert nogle spørgsmål at stille under
+udvalgsbehandlingen. Der er så mange små
+hjørner i denne lovgivning, at det skulle være
+sært, om det ikke gav anledning til en række
+spørgsmål.
+
+4390
+
+Men vi er enige i hovedsigtet i lovforslaget
+og kan tilsige en positiv udvalgsbehandling.";Lysholm Christensen
+34456;name_party;":
+Jeg beklager, at jeg var nødt til at være fraværende på det tidspunkt, hvor jeg skulle have
+holdt min ordførertale.
+Vi behandler her et forslag, som det kan være svært at forholde sig generelt til, fordi det
+består af flere dele, som ret beset ikke har noget med hinanden at gøre. Der er dele af forslaget, der er vældig gode, og som vi kan støtte,
+der er dele, vi godt kunne være foruden, men
+som vi kan leve med, og så er der i hvert fald et
+enkelt punkt, som vi er klart imod.
+Lad os prøve at se på nogle af de vigtigste
+dele af forslaget. Der er som sagt mange elementer, og en stor del af dem vil helt oplagt
+lægge op til et meget detaljeret udvalgsarbejde
+for at få klarlagt, hvordan vi griber det nærmere an.
+Et af forslagets hoveddele handler om en ny
+opdeling af de almennyttige boligselskabers
+egenkapital. Baggrunden er, at der for nogle år
+siden var noget turbulens omkring spørgsmålet om, hvorvidt de almennyttige boligselskaber opbyggede store frie midler i deres egenkapital. Der blev så gennemført et udvalgsarbejde, og det viste i al væsentlighed, at der egentlig ikke var noget problem, men samtidig fik
+man en arbejdsgruppe, der kulegravede hele
+dette problem, og det kom der egentlig noget
+godt ud af, fordi man fik lavet en mere klar
+opdeling af egenkapitalen og lavet nogle forskellige regler. Af dem kan en del gennemføres
+administrativt, og det ser i alt væsentligt positivt ud. Andet skal gennemføres ved lov, og det
+er det, vi får et forslag til her. Af det kan vi
+støtte en del, f.eks. opdeling i en arbejdskapital
+og en dispositionsfond, sådan at man får en
+klarere arbejdsdeling mellem egenkapitalen,
+hvis man kan sige det.
+Men vi kan altså ikke se, hvad formålet er
+med at lave et maksimum for arbejdskapitalen,
+altså at man fra centralt hold fastsætter samme
+retningslinjer for arbejdskapitalen i de enkelte
+selskaber, der arbejder efter ret forskellige vilkår, som har ganske mange formål, og som jo
+er vidt forskellige. Det kan vi egentlig ikke se
+formålet med, men vi kan godt se, at det kan
+give en række problemer, ikke mindst fordi det
+er et ret snævert maksimum, der bliver lagt - et
+
+4391
+
+12/1 93: 1. beh. af f. t. 1. vedr. etablering af almennyttige boliger ved på- og tilbygning";Karen Jespersen
+36699;title_name;"maksimum, der er lavere end det, der bliver
+nævnt af en del af den arbejdsgruppe, der har
+udarbejdet den betænkning, der blev afgivet i
+efteråret.
+Det er jo allerede sådan, at kommunerne har
+tilsyn med de almennyttige selskaber, og vi
+kan egentlig ikke se, at det tilsyn ikke er godt
+nok. Men hvis man vil lave noget ud over det
+tilsyn, kunne man f.eks. følge det forslag,
+Kommunernes Landsforening i betænkningen
+har stillet, nemlig at kommunerne får en hjemmel til at gribe ind og lave et maksimum dér,
+hvor man konkret skønner det påkrævet. Det
+er i hvert fald noget, vi vil se på i udvalget, og
+noget, vi ikke er til sinds at støtte.
+Den anden store del af forslaget handler,
+som flere andre også har været inde på, om de
+selvejende ungdomsboliginstitutioner og er en
+udløber af Ungbosagen. Her er en lang række
+ændringer, som er gode og fornuftige, og som
+vi kan støtte.
+Men vi har to problemer. Det ene er spørgsmålet om, hvorvidt en ungdomsboliginstitution kan blive lagt sammen med et almennyttigt boligselskab. Hvad dette angår, foreslår
+ministeren, at det skal være den til enhver tid
+siddende boligminister, der skal have hjemmelen til at godkende en sådan sammenlægning.
+Vi kan egentlig ikke se, at man ikke skulle gå
+det skridt videre at give kommunerne en lovhjemmel til at give den godkendelse til en sammenlægning, og det er altså også noget, vi gerne vil se på i udvalget.
+Men,så kommer det, som vi egentlig synes er
+det største problem ved forslaget, og det er hele spørgsmålet om, at kommunerne skal hæfte
+for lejetab som følge af udlejningsvanskeligheder i de selvejende ungdomsboliger. Ret beset
+kan vi ikke se, det har noget at gøre med tilsynet med ungdomsboligerne, men vi er bekymret for, at det lægger gift for den meget vigtige
+decentraliseringsreform, man arbejder med for
+at decentralisere boligkvoterne til kommunerne. Spørgsmålene om hæftelse, garanti og økonomisk sikkerhedsstillelse er jo en meget væsentlig del af den decentraliseringsreform. Og
+hvis man piller ét element ud af den og placerer det i en helt anden sammenhæng, kan det
+forrykke balancen i den decentraliseringsreform, sådan at det bliver sværere at få den gennemført. Og da vi ikke kan se noget formål i at
+have det med her, er det et punkt, vi ikke vil
+støtte.
+
+4392
+
+Men som sagt er der ,en lang række punkter i
+forslaget, som trænger til en nærmere gennemarbejdning i udvalget.";Karen Jespersen
+39098;name_party;":
+I Det Konservative Folkeparti har vi både
+efterlyst og set frem til ændring af lovgivningen om de almennyttige selskabers økonomiske forhold. Mere genneìnskuelighed, sammenlignelighed og kostægthed er nødvendigt i
+denne sektor på en lang række punkter. Det
+har f.eks. vist sig, at visse selskaber i dag opbygger enorme frie formuer på lejernes bekostning.
+Der er i forvejen i lovgivningen bestemt en
+række formål, hvortil der skal samles penge
+sammen, bl.a. i dispositionsfondene, som også
+tidligere har været nævnt her. Vi finder det naturligt og fornuftigt, at det er tilfældet, så der er
+en økonomisk stødpude til uforudsete udgifter.
+Det, vi mener er kritisabelt, er, at der i nogle
+boligselskaber står mange millioner kroner på
+helt frie konti ved siden af de lovpligtige - penge, som i praksis har meget vide anvendelsesmuligheder, og som kun kan komme ét sted
+fra, nemlig fra lejerne, som har måttet betale
+for meget. Det finder vi er helt forkert. De almennyttige selskaber skal efter vores opfattelse
+tilbyde mennesker gode og billige boliger: de
+skal ikke tage overpris for at hobe formuer
+sammen.
+Med denne lovgivning bliver der lagt et
+maksimumsloft over, hvor store disse frie midler må være, og modsat Socialdemokratiets
+ordfører, fru Karen Jespersen, mener vi, det er
+hårdt tiltrængt, at der kommer et sådant loft.
+Det viser praksis.
+Jeg synes i og for sig, at det er for dårligt, at
+det har været nødvendigt at lovgive for at nå
+dertil, men godt, hvis vi ved dette initiativ kan
+få orden på disse forhold. De principper, lovgivningen er bygget op på, er, at reglerne om
+boligselskabernes økonomiske forhold skal
+være så gennemskuelige som muligt, samtidig
+med at afdelingernes betaling til selskab eller
+forretningsfører skal være udtryk for de reelle
+omkostninger ved afdelingens administration.
+Sund og logisk fornuft.
+Også afsnittet om skærpet tilsyn med ungdomsboliginstitutioner kan vi tilslutte os. Ansvarsfordelingen præciseres, og kommunerne
+
+4393
+
+12/1 93: 1. beh. af f. t. 1. vedr. etablering af almennyttige boliger ved på- og tilbygning";Pernille Sams
+41183;title_name;"4394
+
+tillægges langt større kompetence og styringsmuligheder, samtidig med at de får en skærpet
+tilsynsforpligtelse. Det har praksis jo i højeste
+grad påvist er nødvendigt.
+Også de øvrige forhold i lovforslaget kan vi
+give tilslutning til.
+
+Men som flere ordførere jo har været inde
+på, er der utrolig mange detaljer i dette lovforslag, og jeg glæder mig til et engageret udvalgsarbejde.
+
+Boligministeren (Svend Erik Hovmand):
+Jeg vil gerne sige tak for en positiv modtagelse af lovforslaget. Jeg er helt opmærksom
+på, at vi specielt med hensyn til ungdomsboligerne skal sikre en orientering. Jeg har allerede
+bedt kammeradvokaten komme med en orientering, og jeg skal også selv redegøre over for
+statsrevisorerne en af de nærmeste dage. Det
+vil naturligvis også kunne indgå i arbejdet.
+Der har været en principiel drøftelse om
+især to punkter. Det er spørgsmålet om begrænsning af kapitalopsamlingen i arbejdskapitalen, og det er spørgsmålet om udlejningsgaranti for de såkaldte ungdomsboliger.
+Jeg vil gerne sige herom, at det med hensyn
+til det sidste ikke er tanken, at der hermed skal
+pålægges kommunerne en udgift. Tanken er, at
+vi skal undgå at få en ekstra investering, som
+der ikke er brug for på disse områder - altså at
+vi ikke bygger flere, end der lige præcis er brug
+for. Og gør vi ikke det, vil udlejningsgarantien
+jo aldrig nogen sinde blive udløst.
+Det er sådan set det, der er hovedtanken den samme tanke, som også kendetegner området for ældreboliger, hvor kommunerne jo
+har det fulde ansvar. Ideen er, at ansvar og
+indflydelse skal følges ad. Beslutter man sig for
+lokalt, at man vil bygge en boligtype, må man
+også bære en del af ansvaret - og det er jo kun
+en del - for de konsekvenser, det vil indebære,
+hvis de kommer til at stå tomme.
+Spørgsmålet om arbejdskapitalen er naturligvis noget, som man i høj grad kan diskutere.
+Udgangspunktet for mig her er, at lejerne ikke
+kan have nogen interesse i, at der opsamles for
+store beløb på denne konto. Det kan ikke være
+rigtigt, at lejerne betaler for meget i husleje. Og
+det er for meget, hvis det ikke er penge, der
+skal anvendes her og nu, eller som skal bruges
+til en fornuftig buffer i specielle udlejningsvanskelige situationer, eller hvad det ellers kan
+være. Der må lægges en eller anden grænse,
+sådan at vi beskytter lejerne mod, at der opkræves for store huslejer, og sådan at vi får en
+fornuftig og hensigtsmæssig løsning af disse
+problemer.
+
+Afstemning
+
+Hermed sluttede forhandlingen.
+
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Pernille Sams
+43752;title_name;":
+Jeg foreslår, at lovforslaget henvises til Boligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 153:
+Forslag til lov om ændring af lov om social
+bistand. (Udskydelse af revisionsbestemmelse
+m.v. vedrørende igangsætningsydelse).
+Af socialministeren (Else Winther Andersen).
+(Fremsat 11/12 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+44251;name_party;":
+Dette lovforslag går i al sin korthed ud på at
+udskyde bestemmelsen om revisionstidspunktet fra udgangen af 1992 til folketingsåret
+1993-94. Bestemmelsen bygger på det samme
+princip, som gælder med hensyn til iværksætterydelse i Arbejdsministeriets regi. Der
+kan derfor være rimelighed i, når dette har været en del af aftalen om ATB/UTB-ordningen,
+hvori iværksætterydelse også indgår, og dette i
+forbindelse med finanslovforliget for 1993 blev
+forlænget til 1. januar 1994, at revisionen af de
+to iværksætterydelsesordninger sker samtidig,
+hvorfor vi fra Socialdemokratiets side kan anbefale forslaget.
+Jeg skal komme med den lille supplerende
+bemærkning, at vi har set, at der fra forskellig
+side, herunder også Socialforskningsinstitut-
+
+4395
+
+12/1 93: 1. beh. af f. t. 1. om udskydelse af revision m.v. vedr. igangsætningsydelse";Peder Sass
+45101;title_name;"tet, er lavet en evaluering af spørgsmålet om
+iværksættelsesordningerne inden for Arbejdsministeriets område. Vi kan ikke se, at der har
+været lavet en tilsvarende form for evaluering,
+når det drejer sig om iværksættelsesordninger
+inden for bistandslovområdet. Så vi vil gerne
+henstille til socialministeren, at vi snarest muligt og i god tid, inden vi skal i gang med den
+egentlige lovrevision på dette område, også får
+en evaluering af, hvilken betydning iværksættelsesordningen har haft for dem, der hedder
+kontanthjælpsmodtagerne.
+Men ellers kan vi anbefale forslaget.";Peder Sass
+45690;name_party;":
+Ja, det kan jo være svært at svinge sig op på
+de store højder efter en så blændende tale, som
+hr. Peder Sass netop har holdt. Derfor skal jeg
+holde mig nede på jorden og sige, at Det Konservative Folkeparti helt og fuldt støtter socialministeren i dette meget betydningsfulde forslag, som ligger på bordet i dag.
+Hr. Peder Sass har jo fortalt, hvad det drejer
+sig om, og jeg havde indtryk af - det må hr.
+Peder Sass have mig undskyldt - at der nok
+ikke var så meget at sige om det. Jeg har det
+stort set på samme måde selv. Så jeg skal sige,
+at vi kan anbefale, at det overgår til anden behandling.
+Eva Kjer ""ansen (V):
+Jeg kan fuldt ud henholde mig til bemærkningerne fra den konservative ordfører. Vi håber, at lovforslaget kommer hurtigt igennem.";Per Tærsbøl
+46464;name_party;":
+Nu er det jo ikke noget krav, at det skal være
+blændende taler, der holdes fra denne talerstol. Det er der måske mange der er glade for. I
+øvrigt skal jeg ikke udtale mig om Socialdemokratiets tale, men blot sige, at jeg er enig med
+Socialdemokratiets ordfører i, at vi nok bør
+sørge for, at denne ordning bliver evalueret, inden vi skal tage stilling til den en gang til, og vi
+kan også støtte, at vi udskyder revisionen, gør
+ordningen permanent, eller hvad det nu bliver
+til, når vi skal have taget den op igen.
+Men jeg vil ikke undlade at bemærke, at det
+for SF's vedkommende er lidt vigtigt, at der i
+den kommende periode stadig væk bliver mulighed for at bruge disse igangsætningsordninger ude i kommunerne. Jeg har bemærket, at
+
+4396
+
+ordet »kan« i den skriftlige fremsættelse er
+fremhævet, og jeg kan have mine bekymringer
+ved tanken om, at kommunerne så vælger at
+sige: Jamen der står kun »kan«, så det behøver
+vi ikke. Jeg vil opfordre kommunerne til at
+bruge denne mulighed, især taget i betragtning, at der i øjeblikket er stor kritik af de tilskudsmuligheder, vi bruger på anden vis netop
+for de grupper, som er omfattet af igangsætningsydelserne.";Lilli Gyldenkilde
+47641;name_party;":
+Der er i forslaget argumenteret sagligt for, at
+man udskyder revisionen af loven, og med den
+argumentation kan Fremskridtspartiet støtte
+forslaget.";Tom Behnke
+47809;name_party;":
+Jeg skal på CD's vegne give ministeren tilslutning til, at vi udskyder revisionsbestemmelsen.";Bente Juncker
+47922;name_party;":
+Det samme skal jeg på Det Radikale Venstres vegne.";Lone Dybkjær
+48004;name_party;":
+Så kan Kristeligt Folkeparti jo slutte med at
+gentage, hvad øvrige ordførere har sagt, nemlig at vi tilslutter os forslaget.";Inger Stilling Pedersen
+48171;title_name;":
+Ja, det kan man jo sige var en hurtig behandling og anbefaling af, at den gældende lov fortsætter yderligere et år.
+Jeg vil gerne her give støtte til hr. Peder Sass
+og fru Lilli Gyldenkilde, der ytrede ønske om
+at få en evaluering af ordningen. Det synes jeg
+også er en god idé. Vi har for øvrigt gjort det
+allerede for den periode, den har fungeret i,
+men lad os samle eventuelle nye oplysninger
+op på et senere tidspunkt.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Else Winther Andersen
+48740;title_name;":
+
+4397
+12/1 93: 1. beh. af f. t. 1. om udskydelse af revision rn.v. vedr. igangsætningsydelse";Ivar Hansen
+48856;title_name;"Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+5) Første behandling af lovforslag nr. L 154:
+Forslag til lov om ændring af lov om social
+bistand. (Udbetaling afpension til beboere i plejehjem m. v.).
+Af socialministeren (Else Winther Andersen).
+(Fremsat 11/12 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Anden næstformand
+49337;name_party;":
+Her er jo tale om et forsøg, der skulle være
+sluttet efter planen den 31. december 1992, og
+jeg vil gerne sige, at vi fra Socialdemokratiets
+side havde haft en forventning om, at forsøgsperioden dermed var slut.
+Nu sker der ifølge forslaget det, at forsøget
+fortsætter i 1993. Dermed opnår man jo også,
+at der bliver samtidighed i det forsøg, der kører
+på § 112-institutionerne, så det kan vi faktisk
+godt tilslutte os.
+Hvad angår forslaget om nedsættelse af en
+arbejdsgruppe, kan det være meget fornuftigt
+at nedsætte en arbejdsgruppe på nuværende
+tidspunkt, når man alligevel forlænger ordningen, så man kan være klar til at lave en permanent ordning fra l. januar 1994.
+Vi glæder os i Socialdemokratiet over, at
+kompensationsbeløbet til kommunerne hæves,
+så det fremover bliver 730 kr. pr. måned. Vi har
+en fornemmelse af, at den stagnation, der har
+været i de kommuner, der har meldt sig til ordningen, nok skyldes, at man måske har følt, at
+det kompensationsbeløb, man fik, var lige i underkanten af det rimelige.
+Nu er der også ud over det på finansloven
+afsat penge til, at flere kommuner kan komme
+med i forsøget i 1993. Det vil vi gerne opfordre
+kommunerne til at gøre, idet der er mulighed
+for, at det nuværende antal på 11.300 beboere
+hæves, så vi når helt op på 14.000 beboere. Og
+at finansieringen over finansloven er sikret
+
+4398
+
+med de 26 mio. kr. ekstra fra puljemidlerne, ser
+vi også meget positivt på.
+Vi støtter således forslaget og vil medvirke
+til, at det kommer igennem hurtigt, al den
+stund det jo faktisk skal gælde fra 1. januar
+1993.";Jørn Pedersen
+50925;name_party;":
+Nu har den socialdemokratiske ordfører jo
+gennemgået forslaget temmelig minutiøst og
+grundigt, og jeg kan fuldt ud tilslutte mig den
+gennemgang. Vi mener også fra konservativ side, at forslaget bør behandles meget hurtigt, så
+vi ser frem til en effektiv udvalgsbehandling.
+For os er det utrolig vigtigt, at plejehjemsbeboere får mulighed for at fravælge lommepengeprincippet, og vi har derfor et stærkt ønske
+om, at der skabes en permanent ordning med
+direkte pensionsudbetaling.
+Men som det fremgår af lovforslagets bemærkninger og ministerens fremsættelsestale,
+er der altså nogle problemer med at lave en
+permanent ordning lige præcis nu. Vi kender
+ikke den model, der skal anvendes, og derfor
+er vi glade for, at der lægges op til et udvalgsarbejde om spørgsmålet, og ser hen til, at vi
+inden udgangen af 1993 kan få den permanente ordning, som vi alle ønsker.";Pia Christmas-Møller
+51811;name_party;":
+Jeg synes, det er helt naturligt, at forsøgsbestemmelserne på plejehjemsområdet for både
+§ 79-plejehjem og § 112-plejehjem bliver revideret samtidig, og støtter dermed, at vi udskyder revisionen med dette lovforslag.
+Men ud over det vil jeg nævne, at jeg ser
+meget frem til at få en permanent ordning for
+udbetaling af beløb til plejehjemsbeboere.
+I Venstre synes vi, det er utrolig vigtigt, at vi
+har denne mulighed for at give en egentlig
+pensionsudbetaling. Det er vigtigt, at plejehjemsbeboere som alle andre har mulighed for
+en selvstændig stillingtagen til den indtægt, de
+har, og dermed har bedre mulighed for selv at
+tilrettelægge deres dagligdag. På den anden side skal en permanent ordning selvfølgelig tilrettelægges under behørig hensyntagen til de
+plejehjemsbeboere, der er så svage, at de ikke
+selv har mulighed for at administrere deres
+pension.
+Men jeg afventer et forslag fra den arbejdsgruppe, der nu bliver nedsat, og ser frem til at
+
+4399
+
+12/1 93: 1. beh. af f. t. 1. vedr. udbetaling af pension til beboere i plejehjem m.v.";Eva Kjer Hansen
+52879;title_name;få en permanent ordning for pensionsudbetaling.;Eva Kjer Hansen
+52949;name_party;":
+Også SF kan give tilslutning til, at vi udskyder det tidspunkt, hvor vi igen skal se på denne
+sag og eventuelt lave en permanent ordning.
+Jeg vil nu gerne bruge anledningen til at sige, at SF siger ja til en udskydelse, og SF siger
+ja til, at der bliver nedsat en arbejdsgruppe,
+som skal komme med noget mere sammenhængende materiale, man kan tage udgangspunkt i under de videre drøftelser om en permanent ordning. Dermed har vi jo ikke bundet
+os til nogen model. Når jeg siger det, er det,
+fordi vi vel har forskellige erfaringer for, hvordan ordningen fungerer, idet den jo ikke fungerer helt på samme måde alle vegne.
+De erfaringer, jeg har med det fra det plejehjem, jeg har med at gøre, er gode. Det største
+problem, man har dér, er et skattespørgsmål,
+som skaber nogle meget uhensigtsmæssige forhold, der til en vis grad er uforståelige både for
+plejehjemsbeboerne og i høj grad for deres pårørende. Derfor vil jeg bede om, at man også
+lige overvejer denne problematik og om ikke
+andet forklarer dem, der ikke kan forstå det
+rundt omkring, hvorfor det forholder sig, som
+det gør.
+Jeg synes - og det har vi også givet støtte til
+tidligere fra SF's side - at det er rigtigt at gå
+helt væk fra lommepengebeløbsmetoden og gå
+over til at behandle mennesker som individer som det, de er - lige indtil de ikke er mere. Det
+synes vi er rigtigt, og derfor ser vi også hen til,
+at ordningerne gøres permanente, når vi er blevet helt enige om, hvorledes de skal se ud.
+Men støtte til forslaget foreløbig.";Lilli Gyldenkilde
+54466;name_party;":
+Et vigtigt element i lovforslaget er, at det
+kompenserende beløb til kommunerne hæves,
+så det er i bedre overensstemmelse med de
+merudgifter, kommunerne får, og som de har
+fået. Det fremgår af talmaterialet, at det vil være rimeligt at gøre det, og Fremskridtspartiet
+kan således tilslutte sig forslaget, som det foreligger, på det punkt.
+Der er imidlertid flere ting med i lovforslaget, for ministeren benytter også lejligheden til
+at udskyde revisionen af loven - en revision,
+der skulle have gjort ordningen med udbeta-
+
+4400
+
+ling af pension til plejehjemsbeboere permanent.
+Her må Fremskridtspartiet benytte lejligheden til klart at melde ud, at vi er af den overbevisning, at det er godt, hvis så mange som muligt kan få udbetalt deres pension og de derefter selv kan disponere over deres penge. Det
+giver større velvære og giver ikke så brat en
+overgang ved optagelse på plejehjem, ligesom
+det giver pensionisten en aktiv rolle på plejehjemmet, hvor pensionisten kan få lov til at
+være medbestemmende gennem sit valg af tilbud.
+For Fremskridtspartiet er det således i orden, at ordningen udvides til så mange institutioner som muligt.
+Det skal dog hele tiden være muligt for den
+enkelte beboer på det enkelte plejehjem at fravælge ordningen ved som nu at kunne købe en
+samlet pakkeløsning. På den måde er det muligt for alle plejehjem at være med.
+Det skal dog påpeges, at Fremskridtspartiet
+ikke mener, at ordningen skal gøres permanent
+på den måde, at alle plejehjem skal tvinges til
+at være med i ordningen. Efter vores mening
+skal det fortsat være op til de enkelte plejehjem, om de vil være med eller ej.
+Den permanentgørelse, vi ønsker, er i relation til, at det ikke kun skal være en forsøgsordning, men en ordning, plejehjemmene kan
+fortsætte fremover.
+Men tiden er, som der er argumenteret for i
+forslaget, ikke til, at vi reviderer loven på nuværende tidspunkt, og Fremskridtspartiet kan
+på den baggrund tilslutte sig forslaget.";Tom Behnke
+56432;name_party;":
+Det er rigtigt, hvad fru Lilli Gyldenkilde siger, at udbetaling af pension til plejehjemsbeboere virket meget forskelligt fra plejehjem til
+plejehjem. Jeg har set nogle meget grelle eksempler, herunder også eksempler på, at plejehjemsbeboerne ikke havde råd til kosten.
+Det lyder mærkeligt, når man ved, hvad der
+i øvrigt står i lovforslaget, men ikke desto mindre bør vi nok overveje den fremtidige model
+meget omhyggeligt, når vi når frem dertil.
+Vi kan altså sige ja til, at revisionsbestemmelsen bliver udskudt. Vi kan også sige ja til,
+at der nu bliver nedsat et udvalg, der skal gennemgå og vurdere disse spørgsmål. Nu husker
+jeg ikke, om der i det tilsvarende forslag for
+
+4401
+
+12/1 93 : 1. beh. af f. t. 1. vedr. udbetaling af pension til beboere i plejehjem m.v.";Bente Juncker
+57225;title_name;"handicapgruppen også bliver nedsat et udvalg,
+der skal barsle her til efteråret. Ellers synes jeg,
+det vil være naturligt, at man laver et udvalg og
+inddrager de organisationer, som også har plejehjemsbeboere, under denne ordning.
+Jeg skal sige alt i alt, at vi kan tilslutte os
+lovforslaget.";Bente Juncker
+57535;name_party;":
+Også Det Radikale Venstre kan tilslutte sig
+lovforslaget, og vi lægger navnlig vægt på, at
+ministeren nu foreslår, at der nedsættes en arbejdsgruppe, der nærmere kan belyse forholdene inden for det her område, sådan som socialministeren har beskrevet det.";Lone Dybkjær
+57822;name_party;":
+Også Kristeligt Folkeparti kan tilslutte sig
+forslaget. Vi tror, det er meget vigtigt, både at
+vi får en arbejdsgruppe til at undersøge forholdene, og - inden vi får det gjort permanent - at
+man giver mulighed for, at forsøget trækkes
+lidt længere ud. Det er meget vigtigt at finde
+frem til de rigtige ordninger, hvis det skal gøres
+permanent, og i hvilket omfang det skal være
+permanent.
+Så vi tilsiger en hurtig udvalgsbehandling.";Inger Stilling Pedersen
+58297;title_name;":
+To væsentlige ting er fremgået her ved førstebehandlingen af dette lovforslag. Det ene
+er, at der er bred politisk enighed i Folketinget
+om det overordnede i, at vi skal fortsætte med
+en pensionsudbetaling på plejehjemmene, og
+at det er det, vi skal stile efter: at lave en permanent lov fra den 1. januar 1994.
+Derudover er der også bred enighed om, at
+vi stopper op et års tid eller i hvert fald et
+halvt, mens det her udvalg ser på, hvad det er
+for nogle gode, positive erfaringer, vi har gjort
+med den forsøgsordning, vi har haft med pensionsudbetaling, men også hvad der kan være
+af ting, det kan være godt at gå ind og få justeret. Derfor er det jo nemlig, vi har nedsat dette
+udvalg, hvor vi både får brugerorganisationerne og medarbejderne på plejehjemmene med.
+Det tror jeg kun loven kan blive bedre af, og
+jeg tror, vi i hvert fald vil komme til at stå med
+et lovforslag, der vil blive noget større valgmulighed i, og jeg har selvfølgelig også lyttet mig
+til de andre betragtninger, der er kommet fra
+de forskellige partier, og som vi jo til den tid
+skal forsøge at få med i den fremtidige lov.
+
+4402
+
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Else Winther Andersen
+59554;title_name;":
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den sidste sag på dagsordenen var:
+6) Første behandling af beslutningsforslag nr. B
+43:
+Forslag til folketingsbeslutning om ligestilling
+og ligebehandling af handicappede med andre
+borgere.
+Af socialministeren (Eise Winther Andersen).
+(Fremsat 11/12 92).
+Forslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+60036;name_party;":
+Jeg skal sige tak til socialministeren, fordi vi
+nu får et forslag til folketingsbeslutning om ligestilling og ligebehandling af handicappede
+med andre borgere, men samtidig må jeg nu
+undre mig over papiret. Jeg synes, det er meget, meget tyndt, jeg synes ikke, der står ret meget, jeg synes næsten, det er synd og skam at
+ulejlige Folketinget med så lidt. Den eneste
+substans, jeg kan finde i det, er, at man i Socialministeriet vil oprette en enhed for ligebehandling og formidling om handicapspørgsmål. Det kunne ministeren såmænd have gjort
+uden min deltagelse.
+Men når det er sagt, så vil jeg godt sige, at
+jeg synes, det er et fantastisk vigtigt tema, og
+jeg synes, det er en fantastisk vigtig sag, som
+Det Centrale Handicapråd har taget op. Der er
+kommet et ønske fra Det Centrale Handicapråd ikke om, at man lavede noget i Socialministeriet, men om, at sagen rent faktisk kom op
+på statsministerniveau, netop fordi handicap-
+
+4403
+
+12/1 93: 1. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere";Jytte Hilden
+61083;title_name;"spørgsmål i høj grad er spørgsmål, der går på
+tværs af mange af de sagsområder, som vi beskæftiger os med. Så jeg skal hilse Handicaprådets udspil meget velkommen, og det giver
+os jo så også en mulighed for dels at få det
+diskuteret i Folketinget og dels at få taget nogle initiativer.
+Den første ting, jeg skal sige på Socialdemokratiets vegne, er, at vi synes, det er utrolig vigtigt at have de mennesker, der er handicappede, med i, hvad vi gør. Det er kun den, der
+sidder i en kørestol, der ved, hvad det vil sige
+ikke at kunne gå, det er kun den, der er blind,
+der ved, hvad det vil sige ikke at kunne se. Så
+derfor vil vi i høj grad i de initiativer, der måtte
+blive taget, prioritere, at de mennesker, det
+vedrører, er involveret, tages med på råd ikke
+bare som en formssag til sidst, men fra starten,
+i, hvad der måtte blive taget af initiativer.
+Den anden ting, vi synes er vigtig, er netop,
+som jeg startede med at sige, at en række af de
+ting, der skal gøres, er noget, der skal gøres på
+tværs. Og dér kan man jo så spørge, hvem der
+egentlig vil have myndigheden til at kunne gøre tingene på tværs, hvordan den koordination
+bedst muligt vil kunne komme til at foregå. Og
+dér tror jeg såmænd også, at det vil være vigtigt, at de mennesker, det vedrører, er aktive og
+siger til og siger fra med hensyn til, hvad der
+virker, og hvad der ikke virker, og for min
+skyld også er en smule aggressive, hvis der er
+noget, der rent faktisk bliver glemt. Og dér vil
+jeg da gerne minde om, at der allerede i socialminister Eva Gredals tid blev lavet et cirkulære, der gav mennesker med handicap fortrinsret til stillinger.
+Jeg vil gerne spørge ministeren: Hvor er det
+cirkulære henne? Der står ikke noget om det i
+bemærkningerne. Har man glemt det, eller
+gælder det stadig? Jeg håber meget, at det stadig gælder.
+Den tredje ting, jeg vil sige, er, at det, der
+selvfølgelig er vigtigt, er, at handicappede har
+ret til arbejde, har ret til uddannelse, har tet til
+en bolig, har ret til pension.
+Endelig kunne jeg godt gøre nogle bemærkninger om spørgsmålet om Ombudsmanden.
+Dér undrer det mig også meget fra regeringen
+at få et papir, hvor der faktisk ikke står et ord
+om, at der er nedsat et udvalg, der tager stilling
+til: Hvilke områder skal Ombudsmanden beskæftige sig med? Er der en idé i, at Ombudsmanden får en yderligere kompetence f.eks. på
+det kommunale område? For det er jo bl.a. det,
+som Det Centrale Handicapråd gerne vil have.
+
+4404
+
+Jeg vil godt spørge ministeren: Hvordan
+passer det tynde beslutningsforslag sammen
+med det udvalg, som er nedsat, og som beskæftiger sig med Ombudsmandens kompetence
+over for andre grupper end dem, som Ombudsmanden i dag har kompetence med hensyn til?
+Men afslutningsvis vil jeg godt sige, at det er
+et område, der interesserer Socialdemokratiet
+meget, og hvor vi både har taget og vil komme
+med en række initiativer.";Jytte Hilden
+63972;name_party;":
+Jeg kan være enig med fru Jytte Hilden i, at
+det beslutningsforslag, som vi her drøfter, er et
+meget væsentligt beslutningsforslag, der vedrører emner, som er vitale for mange mennesker. For det at være handicappet bør ikke være ensbetydende med, at man udelukkes fra at
+deltage i de aktiviteter, som vi normalt forbinder med et almindeligt samfundsliv. Af selv
+samme grund er det også vigtigt, at alle, og det
+være sig i den private såvel som i den offentlige sektor, i videst muligt omfang søger at tage
+hensyn til de borgere, som må leve med et handicap.
+Jeg synes, vi kan sige, at vi i Danmark kan
+rose os af, at vi i dag er nået forholdsvis langt
+med hensyn til at sikre handicappedes integration i samfundet. Men det er jo nu altså både
+nødvendigt og også muligt at nå længere endnu, og desværre er det en kendsgerning, at der
+stadig findes hindringer og fordomme, som
+hindrer handicappedes udfoldelsesmuligheder. Det gælder både med hensyn til mulighederne for at gå ud på det almindelige arbejdsmarked og i det øvrige dagligliv.
+Dersom vi virkelig ønsker en reel integration, og dersom vi ønsker, at handicappede
+skal have mulighed for at give positivt bidrag
+til samfundet, så må vi også være parat til at
+udvise de nødvendige hensyn.
+Det Konservative Folkeparti støtter forslaget om at sende et signal til de statslige og
+kommunale myndigheder og også til vore virksomheder om at udvise hensyn og efterleve
+principperne om ligestilling og ligebehandling
+af handicappede med andre borgere. Og vi ser
+også positivt på forslaget om at oprette en enhed for ligebehandling og formidling med en
+særlig ekspertise for handicapområdet.
+
+4405
+
+12/1 93: 1. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere";Grethe Fenger Møller
+65732;title_name;"Det skal være muligt for f.eks. en virksomhed, en offentlig myndighed eller en enkeltperson at indhente råd og vejledning fra en enhed
+med en bred ekspertise.
+Nogle mennesker er født med et handicap,
+andre pådrager sig et sådant f.eks. ved ulykke
+eller sygdom, men uanset hvad der er årsagen
+til handicappet, kan det ikke være rigtigt, at
+det at være f.eks. kørestolsbundet også er ensbetydende med, at éns udfoldelsesmuligheder
+nødvendigvis skal være stærkt reduceret. Det
+er måske ikke muligt at fjerne alle de barrierer,
+som en handicappet støder ind i, men dem,
+som vi kan fjerne, bør vi sandelig også fjerne,
+og det håber jeg så at dette beslutningsforslag
+kan medvirke til at gøre: skabe en større forståelse for de handicappedes problemer.
+
+4406";Grethe Fenger Møller
+66505;name_party;":
+Det er en vigtig henstilling, der ligger i dette
+forslag til folketingsbeslutning. Jeg mener ikke, at vi i Danmark har brug for særlovgivning,
+som vi har set det i andre lande, men der er
+absolut behov for at gøre opmærksom på de
+specielle hensyn, der er nødvendige, for, at
+handicappede sikres rimelige vilkår og adgang
+til de forskellige aktiviteter i samfundet.
+Med dette forslag vil der blive etableret en
+central enhed for ligebehandling og formidling
+af informationer om handicappedes vilkår og
+et center, der bl.a. skal fokusere på muligheder
+eller rettere sagt manglende muligheder for
+visse borgere på grund af et givent handicap.
+Og et sådant center bør naturligt høre under
+Det Centrale Handicapråd. Jeg synes, det er
+fint, at et center på denne måde kan være med
+til positivt at sikre handicappede adgang til de
+forskellige tilbud, men også sikre, at der reelt
+sker en ligebehandling af handicappede borgere og andre borgere. Jeg er samtidig glad for, at
+vi økonomisk har sikret etableringen af det her
+center via satsreguleringsmidlerne.
+Med disse ord ser jeg frem til, at vi kan hjælpe flere handicappede til en bedre tilværelse.
+
+ferien at efterforske, hvorfor vi står med et forslag af den karakter her. Jeg er også klar over,
+at det er en form, der kan bruges i Folketinget,
+selv om den er meget sjældent brugt. Og jeg
+synes, at jeg sammen med andre vil glæde mig
+over, at forslaget er kommet.
+Det, jeg har fået ud af mine juleferiestudier,
+er: Med udgangspunkt i Det Centrale Handicapråd har der i handicapkredse været et stort
+og udtrykkeligt ønske om at få understreget
+det, der vel er det allervigtigste, hver gang vi
+taler om handicappede, nemlig at få understreget, at handicappolitik selvfølgelig går på
+tværs af sektorerne, og at det er et samfundsanliggende for alle borgere i Danmark. Derfor
+har Det Centrale Handicapråd spillet ud med
+det her forslag.
+Jeg tilslutter mig fru Eva Kjer Hansens bemærkninger. Vi i SF er også meget godt tilfreds
+med, at man ikke har valgt at gå forbudsvejen,
+som vi har set det andre steder. Det er helt rigtigt, som det bliver fremhævet i forslaget, at det
+ville ikke være en særlig dansk måde at gøre
+det på. Jeg har mine forhåbninger om, at vi
+med kombinationen af Det Centrale Handicapråd med oprettelsen af det, Handicaprådet
+kalder videncenter, og som i ministerens udspil hedder en enhed i Socialministeriet, kan få
+samlet en ekspertise, som virkelig kan komme
+de enkelte handicapgrupper til gode.
+Jeg er ligesom fru Jytte Hilden lidt optaget
+af, hvad der er blevet af den henvendelse, som
+jeg forstår at Det Centrale Handicapråd har
+rettet til Folketingets Præsidium i forbindelse
+med den ændring af ombudsmandsloven, som
+er undervejs, om at overveje Ombudsmandens
+kompetence på det kommunale område, og
+hvad der er kommet ud af den. Det er muligt,
+ministeren ved det, og så vil jeg gerne høre om
+det.
+Men alt i alt er det et forslag, som SF kan
+støtte, og vi håber, at det bliver til gavn for
+dem, det virkelig handler om, nemlig de handicappede i Danmark.";Eva Kjer Hansen
+69560;name_party;":
+Jeg vil gerne tilslutte mig den mystifikation,
+som jeg bliver klar over også har ramt andre af
+ordførerne, da de i december måned fandt dette beslutningsforslag, hvor ministeren pålægger regeringen at gøre noget. Men jeg har jo
+ligesom andre ordførere haft lejlighed til i jule-";Hanne Thanning Jacobsen
+69857;name_party;":
+Indledningsvis kan man jo ikke lade være
+med at trække på smilebåndet over dette beslutningsforslag, selv om indholdet er ganske
+alvorligt. Men det er nu besynderligt, at en minister fremsætter et beslutningsforslag. I virkeligheden er det jo ministerens opgave at sørge
+
+4407
+
+12/1 93: 1. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere";Tom Behnke
+70240;title_name;"for, at allé relevante institutioner og virksomheder er informeret om disse ting, da ministeren har. fået mandatet ved flere lejligheder,
+som det jo også fremgår af bemærkningerne til
+beslutningsforslaget.
+Der står i første spalte i bemærkningerne til
+beslutningsforslaget:
+»I løbet af 1980'erne har Folketinget ved adskillige lejligheder understreget, at disse positive tiltag stadig skal være grundlaget for
+dansk politik på dette område, bl.a. ved tre
+handicapredegørelser, der går på tværs af sektorerne.«
+Ministeren har således rigeligt med grundlag og rigeligt med opbakning fra Folketinget
+til at gå videre med sin sag. Med andre ord kan
+det godt opfattes, som om ministeren kommer
+i folketingssalen og siger: Jeg har ikke gjort
+min pligt, vil I ikke godt give mig et spark, så
+jeg kan komme videre?. Hvis det er det, ministeren ønsker, så skal vi gerne give sparket,
+men det kunne nu nemt have været ordnet,
+uden at vi behøvede at behandle det her i folketingssalen og bruge Folketingets tid på det.
+Det kunne have været ordnet mellem ordførerne og ministeren på bare fem minutter.
+Når det er sagt, så skal jeg understrege, at
+Fremskridtspartiet finder det ganske påkrævet,
+at der bliver gjort en særlig indsats for, at de
+handicappede kan finde ind på arbejdsmarkedet og i dagligdagen, så de kan føre en tilværelse så tæt på det normale som overhovedet
+muligt. Vi er derfor altid positivt indstillet, når
+talen falder på de handicappede.
+Men jeg mener imidlertid, at beslutningsforslaget her overspiller rollen lidt rigeligt, for
+hvis en enhed som foreslået skal sidde og samle al relevant viden fra hele verden om handicappede, så kan det blive en ikke ubetydelig
+størrelse, en sådan enhed vil få, og dermed en
+ikke ubetydelig økonomisk udgift. Det er, som
+om der lægges op til, at det skal være en kæmpeenhed, der skal se på tingene, samle erfaringer og videreformidle erfaringerne.
+Fremskridtspartiet mener ikke, at det er
+nødvendigt med en sådan kæmpeenhed for at
+lette tilværelsen for de handicappede. Kræfterne kan bruges bedre. Hvorfor lader man f.eks.
+ikke et sådant projekt oprette i de organisationer, som i forvejen har ekspertisen, nemlig de
+forskellige handicaporganisationer? Hvorfor
+lader man det ikke foregå i disse frivillige orga-
+
+4408
+
+nisationer? Så kunne man eventuelt give dem
+et tilskud til edb og telefon, og hvad ved jeg.
+Det ville være både bedre og billigere for alle
+involverede parter. Men ud over at denne enhed skal sidde og følge med i alt, hvad det foregår i hele verden på handicapområdet, og ,
+give en årlig tilbagemelding, så har ministeren
+også foreslået, at Ombudsmanden skal følge
+udviklingen i ligebehandling og eventuelt
+meddele påtale, hvor dette er muligt. Dér må
+jeg sige at Fremskridtspartiet klart tager afstand fra forslaget.
+For det første skal vi ikke pålægge Ombudsmanden opgaver af denne art. Han har rigeligt
+med opgaver i forvejen. Desuden bør Ombudsmanden kun tage sig af egentlige klagesager og ikke lave opsøgende virksomhed. Endelig sidder enheden jo, som det er foreslået, og
+følger med i det hele, og enheden kan jo så
+give besked til Ombudsmanden, hvis enheden
+finder, at der er noget af interesse for Ombudsmanden. Der er tale om dobbeltadministration, som Fremskridspartiet ikke kan tilslutte
+sig. Det hele vil drukne i ren administration og
+planlægningsmøder, hvor man skal planlægge,
+hvornår det næste planlægningsmøde skal holdes: og hvem står uden for døren og venter?
+Det gør de handicappede, for man bruger
+kræfterne på ren planlægning.
+Hvis det virkelig var ministerens mening at
+gøre noget for de handicappede, skulle ministeren lægge opgaverne ud til de etablerede organisationer, for så ville de handicappede få
+noget for pengene.
+Fremskridtspartiet mener således, at forslaget er skudt over målet, men vi vil naturligvis
+benytte lejligheden til at forbedre forholdene
+for de handicappede, som vi prøver, hver gang
+talen falder på emnet.";Tom Behnke
+74178;name_party;":
+Jeg skal på CD's vegne sige, at vi naturligvis
+kan støtte det her forslag.
+Vi er enige i, at der skal være ligebehandling
+og ligestilling for de handicappede. Men når
+man læser forslaget, synes jeg, at det er lidt
+tyndt. Så går der imidlertid et lys op for mig.
+Lige pludselig siger SF's ordfører, at det her
+forslag har ministeren slet ikke lavet. Det er
+Det Centrale Handicapråd, der har lavet det.
+Jeg kunne da godt lide at få at vide af ministeren : Hvem er det egentlig, der står fadder til
+
+4409
+
+12/1 93: 1. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere";Bente Juncker
+74789;title_name;"det her? Det undrer os noget, at en minister
+fremsætter et beslutningsforslag.
+Hvis det var et bredt ønske fra handicaporganisationerne, så var vel det mindste, man
+kunne gøre, at sige til Folketingets partier:
+Dette forslag om ligestilling og ligebehandling
+ønsker Det Centrale Handicapråd bliver debatteret i Folketinget. Vil I være medforslagsstillere? Det havde ikke set så underligt ud
+som det, at en minister fremsætter et beslutningsforslag.
+Så er der en lang række fine ord i det her
+beslutningsforslag, og der bliver remset op,
+hvad FN gør, og hvad Det Europæiske Økonomiske Fællesskab gør, og hvad USA, Kongressen, gør, osv. Der står ikke så meget om,
+hvad de vil gøre her i Danmark. Kunne vi så
+ikke tage ved lære af, hvad FN gør, hvad Det
+Europæiske Økonomiske Fællesskab gør, og
+hvad USA's Kongres har gjort?
+Så står der også et sted i lovforslaget, at det
+her område ikke egner sig til detaillovgivning.
+Jamen det forstår jeg ikke spor af, for vi har jo
+haft en del detaillovgivning på handicapområdet. Må jeg i al beskedenhed nævne det, som
+hr. Arne Melchior stod fadder til, nemlig om
+handicaptransporten. Det var da et detailforslag, som man må sige blev vedtaget med et
+meget bredt flertal her i Folketinget.
+Så jeg synes egentlig ikke, at man kommer
+ret meget videre, end at man nu får udmøntet
+puljepenge i det her forslag. Vi ønsker faktisk,
+at ministeren - hvis det er ministerens forslag var gået langt mere detaljeret ind i det her forslag. For vi har jo set og ser mange eksempler til trods for at vi ved, at staten, det offentlige,
+amter og kommuner, når de skal bygge, er bekendt med, at der skal være faciliteter til handicaptransport, handicaptoiletter, slisker og alt
+det dér, og til trods for at der er lovgivning på
+området - mange eksempler, som vi kender fra
+Boligudvalget, på, at den lovgivning ikke bliver fulgt. Og når en vedtaget lov ikke bliver
+fulgt, så har jeg meget svært ved at se, hvordan
+et beslutningsforslag skal blive fulgt, når det
+drejer sig om ligestilling og ligebehandling.
+Det ønsker vi naturligvis i CD at det bliver, og
+at det bliver meget stærkt gennemført. Og derfor bakker vi også op om det. Men jeg vil sige:
+Det var noget tyndt og noget svagt.";Bente Juncker
+77011;name_party;":
+
+4410
+
+Også Det Radikale Venstre kan i lighed med
+de fleste andre partier støtte det fremsatte beslutningsforslag, fordi det er Det Centrale
+Handicapråd, der har bedt om at få forslaget
+gennemført, og man derfor må have tillid til, at
+det udtrykker et behov, som Det Centrale
+Handicapråd har registreret.
+Jeg vil i den sammenhæng sige til CD's ordfører, at jeg tror, samtlige Folketingets partier
+har fået tilsendt arbejdet fra Det Centrale Handicapråd, og man kan da altid diskutere, om
+det er Folketingets partier eller regeringen, der
+skal fremsætte et sådant beslutningsforslag,
+men man skal vel ikke ligefrem bebrejde regeringen, at den måske for en enkelt gangs skyld
+har taget initiativet på et enkelt område, som
+man i øvrigt er enig i.
+Det Radikale Venstre kan også i princippet
+tilslutte sig den ligebehandlings-, og formidlingsenhed, som ministeren foreslår skal nedsættes, og vi kan også tilslutte os, at Ombudsmanden under en eller anden form kommer til
+at varetage det her område, men vil meget gøre
+opmærksom på, at værdien af Ombudsmandens arbejde fuldstændigt vil afhænge af, om
+Ombudsmandens kompetence udvides til det
+kommunale, område. Sker det ikke, så vil der
+være meget store dele af handicapområdet,
+som Ombudsmanden overhovedet ikke har
+nogen kompetence til at følge.
+Så vil jeg godt komme med nogle mere principielle betragtninger om handicapområdet.
+Jeg tror altså ikke, det er nogen tilfældighed, at
+man i FN behandler unge handicappede og
+kvinder inden for samme udvalg. Og det er vi
+da også tit fremkommet med forskellige humoristiske bemærkninger til.
+Det gælder for alle tre grupper, at samfundets indretning afgør, hvordan de skal have
+det. Samfundets indretning afgør, hvor mange
+handicappede vi vil have, hvad enten de handicappede så er fysisk handicappede, kvinder
+eller unge. Den måde, vi organiserer os på, indebærer, at grupper i samfundet marginaliseres. Det er det, der er sket og stadig sker for en
+stor del for kvindernes vedkommende. Det
+sker helt klart for handicappedes vedkommende, og det sker også for en række unges vedkommende.
+Og dermed drejer det sig i sit princip om,
+hvad samfundet er villigt til at ofre for disse
+grupper. Og lad mig så blot her henholde mig
+
+4411
+
+12/1 93: l. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere";Lone Dybkjær
+79340;title_name;"til handicapgruppen. For fru Bente Juncker
+har jo ret i, at til trods for at vi har en meget fin
+og flot og overordnet vedtagelse om alt det gode, vi skal gøre inden for boligområdet, så sker
+det jo ikke. Vi får jo ikke lavet de nødvendige
+ting sådan, at man kan bevæge sig rundt i det
+danske samfund, hvis man har et fysisk handicap. Det er det faktisk ganske vanskeligt at
+komme til.
+Derfor tror jeg, at det er fuldstændig nødvendigt, at vi nu diskuterer, hvad det er for områder, vi specielt og konkret kan satse på.
+Hvad er den mest hensigtsmæssige måde at
+støtte de konkrete handicappede på? Er det
+ved at lave nogle meget overordnede boligindretninger, eller er der andre måder, hvor vi nok
+så effektivt og måske nok så økonomisk kan
+lave en fornuftig støtte til handicappede, sådan
+at handicappede kan deltage på lige fod med
+ikkehandicappede i samfundet og samfundslivet i det hele taget?
+Og jeg tror, at det er noget, vi kommer til at
+gøre endnu mere i den kommende tid, også når
+det f.eks. drejer sig om, at handicappede skal
+ind på arbejdsmarkedet. Jeg er ikke et sekund i
+tvivl om, at den meget stramme situation, vi
+har på arbejdsmarkedet i øjeblikket med et
+gennemsnit af over 300.000 arbejdsløse, sådan
+at der er over 700.000, der berøres af arbejdsløshed i løbet af et år, specielt går ud over handicappede. Det er meget vanskeligt for ikkehandicappede unge, nyuddannede og i virkeligheden også veluddannede mennesker i dag
+at få et job. Hvorfor i alverden skulle en arbejdsgiver så tage en handicappet og påtage
+sig det ekstra besvær? Og derfor er der for mig
+overhovedet ingen tvivl om, at vi kommer til at
+operere med en pluslovgivning.
+Vi kommer simpelt hen til at lave nogle udvidede støttemuligheder for de handicappede,
+hvis de f.eks. skal ind på arbejdsmarkedet, i
+form af, at de bærer med sig nogle tilskudsordninger. Der har været megen diskussion om tilskudsordninger her i de sidste par dage i pressen, og der kan siges meget om, at de eksisterende tilskudsordninger nok også har passeret
+det rimelige i en lang række sammenhænge.
+Men der er ingen som helst tvivl om, at skal
+handicappede eller sygdomsramte personer
+under en eller anden form ind på arbejdsmarkedet, så er det nødvendigt med nogle tilskudsordninger, f.eks. sådan som vi har det i
+
+4412
+
+forbindelse med kronisk syge, hvor arbejdsgiveren jo kan få sygedagpengene med det samme, hvis han har en kronisk syg, der i en periode rammes særligt af sin sygdom, f.eks. sukkersyge eller tilsvarende.
+Jeg tror bare ikke, det er nok. Jeg tror, vi
+kommer til at diskutere udvidede ordninger på
+det her område, sådan at der er en fordel for
+arbejdsgiverne og i hvert fald ikke et minus
+ved at tage handicappede personer. Vi kan lige
+så godt se i øjnene, at det er det, det handler
+om.
+Og det er her, forslaget er svagt. Det er fint
+nok, at vi laver en enhed. Men det er karakteristisk, at der ikke står noget som helst om udgifterne ved det her. Selv om det forudses, at der
+skal afsættes en pulje af satsreguleringerne og
+sådan noget, så står der faktisk ikke ret meget
+om, hvad udgifterne egentlig er på det her område. Det synes jeg såmænd godt vi kunne diskutere lidt nærmere. Men det er en meget lille
+del af det, der foreslås her. Det helt afgørende
+er, at der skal ofres meget mere af den øvrige
+del af samfundet, hvis vi skal have handicappede integreret i samfundet, og det mener jeg
+selvfølgelig må være en overordnet målsætning, men det koster noget af en helt anden
+størrelsesorden end blot at oprette et videncenter.
+Men selvfølgelig tilslutning til det. Det er
+dog et skridt på vejen. Det er bare ikke nok.";Lone Dybkjær
+82971;name_party;":
+Kristeligt Folkeparti kan også tilslutte sig
+forslaget. Men når man sidder og hører alle
+indlæggene her, er der jo ikke nogen, der er i
+tvivl om den meget store velvilje, den meget
+store interesse, om, at alle er parat til at gøre
+noget. Men jeg tror, at vi måske i de kommende år kommer til at se på en anden måde på
+handicappede, fordi der ligesom er en tendens
+i samfundet til at stræbe efter det fuldkomne,
+og så bliver mennesker, der ikke er fuldkomne,
+meget let diskrimineret.
+Jeg tror, at vi helt fra børnehave og skole,
+alle steder, hvor vi færdes, skal prøve at skabe
+meget mere forståelse for, hvad det vil sige at
+være anderledes, og også skabe forståelse for,
+at ethvert menneske kan blive handicappet, vi
+selv, vore nærmeste: ingen har garanti for ikke
+at blive det. Når først vi har fundet ud af dét,
+kan vi begynde at se på, om de forhold, vi i dag
+
+4413
+
+12/1 93: 1. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere";Inger Stilling Pedersen
+83960;title_name;"tilbyder handicappede, er sådan, at vi selv ville
+være tilfredse med dem. Kunne vi leve under
+dem?
+Jeg har talt med adskillige handicappede,
+som har levet en normal tilværelse indtil et vist
+tidspunkt og så pludselig er blevet ramt af et
+eller andet, der gør, at de ikke længere er den
+samme person. Det er svært. Ganske almindelige småting bliver næsten umulige at gøre, og
+så støder man hele tiden på begrænsninger,
+når man skal færdes. Man kan ikke komme ud,
+og det koster penge. Man kan ikke få dit, og
+man kan ikke få dat, og er det nu også nødvendigt? Kan du ikke klare dig på den og den måde?
+Dér er det nok nødvendigt, at ministeren også prøver at få kontakt med de personer, der
+sidder rundt omkring i landet og administrerer
+lovene. Vi skal prøve at få også dem til at forstå, hvad det egentlig vil sige at være handicappet. Det er jo ikke bare et spørgsmål om
+arbejde eller ikke arbejde. Det er også et
+spørgsmål om at kunne komme hen til det arbejde og komme omkring i det hele taget. Det
+er dette at blive mødt med spørgsmålet: Er det
+nu nødvendigt? hvis man skal have noget
+hjælp.
+Jeg tror ligesom fru Lone Dybkjær, at hvis vi
+skal have de handicappede ind på arbejdsmarkedet, bliver vi nødt til at give dem et eller andet med. Hvis en handicappet f.eks. ikke er i
+stand til at arbejde fuldt ud eller skal have ekstra service på en eller anden måde, er der vel i
+dag meget få arbejdsgivere, der har råd til at
+tage den pågældende, når de kan få nogle
+medarbejdere uden de problemer. Dette forslag lægger op til, at man nu får denne enhed,
+og at man skal se på spørgsmålet som en helhed. Men der må komme andre initiativer. Vi
+må f.eks. på arbejdsmarkedsområdet, ligesom
+vi har set det på trafikområdet, se på, hvad der
+skal til, for at vi kan få nogle handicappede ud
+i arbejde.
+Nu har vi ofte talt om fysiske handicap, men
+der er jo også mange med psykiske handicap,
+og det er måske en af de grupper, der har det
+allersværest, for man kan jo ikke umiddelbart
+se på disse mennesker, at de fejler noget. De
+støder mod en barriere, de støder på nogle fordomme, som gør, at de har meget, meget svært
+ved at komme ind på arbejdsmarkedet. Mange
+mennesker trækker sig tre skridt tilbage, når de
+
+4414
+
+hører, at en person er eller har været psykisk
+syg. Hvad gør vi for at hjælpe denne store
+gruppe? Jeg mener, at det er en af vores mest
+forsømte grupper.
+Der skal altså ikke herske tvivl om, at Kristeligt Folkeparti mener, det er vigtigt, at vi gør
+noget. Vi har et ansvar, og vi har såmænd også
+et ansvar over for os selv, fordi det som sagt
+også kan ramme os selv. Kristeligt Folkeparti
+er positivt over for forslaget og vil gerne være
+med til at drøfte det i udvalget, og vi vil også
+gerne være med til at gå videre.";Inger Stilling Pedersen
+86730;title_name;":
+Det har været gennemgående for indlæggene i dag, at vi fra Folketingets side er meget
+interesserede i at gøre noget for handicappede
+- lige fra ligestilling og over til ligebehandling.
+Med de to sidste indlæg har vi ligesom talt os
+endnu mere varme i denne sag, uden at jeg
+dermed på nogen måde vil sige, at ordførerne
+for de partier, der først var heroppe, ikke var
+lige så engageret i tingene. Men det har jo at
+gøre med, at det er et område, som vi alle på en
+eller anden måde har et forhold til.
+Fru Jytte Hilden stillede mig et spørgsmål
+vedrørende cirkulæret om fortrinsstilling vedrørende arbejde: Det var vel ikke sådan, at fordi det ikke var nævnt i dette beslutningsforslag, så var det lagt i skuffen? Det har nok sin
+naturlige forklaring i, at det cirkulære ligger i
+Arbejdsministeriets regi: men det er gældende
+som hidtil.
+Jeg fik også et spørgsmål fra fru Jytte Hilden
+om Ombudsmandens kompetence. Det, jeg
+har valgt at sætte på tryk her vedrørende Ombudsmanden, er den praksis, som er gældende
+i dag. Jeg er vidende om, at Det Centrale Handicapråd har skrevet til Folketingets Præsidium om at give Ombudsmanden en anden
+kompetence på dette område. Jeg er ikke vidende om, hvor langt Folketingets Præsidium
+er kommet med dette arbejde, men formuleringen i beslutningsforslagets bemærkninger
+dækker altså det, man arbejder efter for øjeblikket.
+Jeg fik også et spørgsmål fra fru Bente
+Juncker - nu er hun her ikke - om baggrunden
+for, at dette beslutningsforslag var blevet fremsat. Det kan da ingen være i tvivl om, da alle
+partier i Folketinget jo har fået et brev fra Det
+Centrale Handicapråd om, at man havde et
+
+4415
+
+12/1 93: 1. beh. af f. t. beslutn. om ligestill. m.v. af handicappede med andre borgere
+
+4416";Else Winther Andersen
+88483;title_name;"Jeg glæder mig til den drøftelse, der helt sikønske om at få oprettet en sådan enhed. Jeg
+har så valgt at bruge den fremgangsmåde at kert vil blive i Socialudvalget nu, og jeg vil belægge et beslutningsforslag ned i salen, så vi stræbe mig for at besvare de spørgsmål, der vil
+kunne tage diskussionen her - i stedet for, som komme, så hurtigt som muligt, så vi kan få laman tit kan få kritik for, at foretage tingene i vet et godt beslutningsforslag til gavn for de
+lukkede møder, Herved lægger jeg op til, at handicappede.
+man kan få diskussionen i Folketingets SocialHermed sluttede forhandlingen.
+udvalg.
+Fru Lone Dybkjær kom med nogle helt prinAfstemning
+cipielle betragtninger, og jeg kan kun tilslutte
+mig dem. Samfundets indretning er jo afgørenForslagets overgang til anden (sidste) bede for, hvordan de handicappede har det i deres hverdag, ikke blot i deres bolig, men be- handling
+stemt også når det gælder muligheden for at vedtoges uden afstemning.
+komme rundt og også muligheden for at komFørste næstformand (Henning Rasmussen):
+me i arbejde.
+Jeg kan dertil sige, at jeg bl.a. har brugt daJeg foreslår, at forslaget til folketingsbeslutgene her efter nytår til at gå ud og stikke fing- ning henvises til Socialudvalget. Hvis ingen
+rene i jorden for at finde ud af, hvordan det gør indsigelse mod dette forslag, betragter jeg
+fungerer ude i virkeligheden. Jeg har bl.a. be- det som vedtaget. (Ophold). Det er vedtaget.
+søgt Sklerosehospitalet i Ry for at spørge også
+de handicappede om, hvad det er for ting, vi
+skal have set på i fremtiden. Det kan jo godt Meddelelser fra formanden:
+være, at det er andre ting end det, vi forestiller
+o's, og det tror jeg det er. Jeg tror nemlig, vi skal Første næstformand (Henning Rasmussen):
+ud at lytte til dem, der virkelig hat problemet
+Der er ikke mere på dagsordenen.
+inde på livet.
+Vedrørende spørgsmålet om at komme i arDer er foretaget ændringer i følgende udbejde og tiIskudsordrïinger: Noget af det, rege- ,yalg:
+ringen arbejder meget med, er kontakten til erhvervslivet. Socialministeriet har i november Socialudvalget (19/12 92):
+måned sammen med DA og LO udsendt en Udtræder: Jacob Lindenskov (S)
+pjece, »Når erhvervsevnen svigter«, om de for- Nyt medl.: Grete Schødts (S)
+skellige støtteordninger i forbindelse med at
+komme ud på en virksomhed. Og i går søsatte Skatteudvalget (11 I 1 93):
+vi et projekt på Møn, hvor der er indgået en
+kontrakt mellem erhvervslivet, det offentlige, Udtræder: Kai Dige Bach (KF)
+de frivillige og Socialministeriet om at få alle Ny stedf.: Agnete Laustsen (KF)
+koi1tanthjæIpsmddtagere i gang plus førtidsFolketingets næste møde afholdes i morgen,
+pensionister - og det er jo ensbetydende med,
+onsdag
+den 13. januar 1993, kl. 13.00.
+at man har et fysisk eller et psykisk handicap.
+Så jeg synes bestemt, at vi arbejder meget konAngående dagsordenen skal jeg henvise til
+-kret med dette område.
+den dagsorden, der er opslået i salen.
+.
+
+, Mødet hævet kl. 14.40";Socialministeren

@@ -1,0 +1,404 @@
+split;reason;text;value
+0;;"Torsdag den 9. oktober 2008 (D)
+
+4. m ø d e
+! Torsdag den 9. oktober 2008 kl. 23.30
+Dagsorden
+1) Eventuelt: 2. behandling af lovforslag nr. - ,
+L33:
+Forslag til lov om finansiel stabilitet.
+Af økonomi- og erhvervsministeren (Lene
+Espersen).
+(Fremsættelse 08.10.2008.1. behandling
+09.10.2008).
+
+... Kl. 23:30
+
+227";
+323;Time;;Kl. 01:14
+358;title_name;":
+Mødet er genoptaget.
+Det. er stadig væk anden behandling af lovforslag nr. L 33, forslag til lov om, finansiel stabilitet, af økonomi- og erhvervsministeren, òg da,
+betænkningen stadig væk ikke foreligger, skal
+.jeg endnu en gang udsætte mødet, denne gang
+til kl. 01.30, altså om 15 minutter.
+, ""
+Mødet er udsat. (Kl. 01.15).
+
+Y , 홢
+홢
+홢
+.,";Søren Espersen
+709;Time;;Kl. 01:29
+744;title_name;":
+Mødet er genoptaget.
+Det drejer sig om anden behandling af lovforslag nr. L 33, forslag til lov om finansiel stabilitet, af økonomi- og erhvervsministeren.
+
+Meddelelser ,fra formanden";Søren Espersen
+940;Time;;Kl. 01:30
+976;title_name;":
+Mødet er åbnet.
+Det eneste punkt på dagsordenen er anden
+behandling af lovforslag nr. L 33, forslag til lov
+om finansiel stabilitet, af økonomi- og erhvervsministeren.
+Da betænkningen endnu ikke er blevet omdelt, skal jeg hermed udsætte mødet til kl. 00.30.
+Mødet er udsat. (Kl. 23.31).
+
+:.
+
+Samtykke til behandling";Søren Espersen
+1328;title_name;":
+Den sag, der er opført som punkt 1 på dagsordenen, kan kun med Tingets samtykke behandles i
+dette møde, men hvis ingen gør indsigelse, betragter jeg Tingets samtykke som givet. ,
+'
+Det er givet.
+
+<";Søren Espersen
+1538;Time;;Kl. 00:29
+1573;title_name;":
+Mødet er genoptaget. :
+:
+Det er stadig væk anden behandling af lovforslag nr. L 33, forslag til lov om finansiel stabilitet, af økonomi og erhvervsministeren, og da ,
+betænkningen stadig ikke foreligger, skal jeg udsætte mødet til kl. 0 1 . 1 5 . . . .
+Mødet er udsat. (Kl. 00.30). : I I
+
+홢I I 홢
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 33:
+Forslag til lov om finansiel stabilitet.
+Af økonomi- og erhvervsministeren (Lene
+Espersen).. , .
+(Fremsættelse 08.10.2008: 1. behandling
+09.10.2008)...
+홢
+Forhandling
+
+' ...
+
+,
+
+,";Søren Espersen
+2138;Time;;Kl. 01:30
+2174;title_name;":
+Ønsker nogen at udtale sig? Hr. Kristian 홢
+Thulesen Dahl. :
+I I
+홢
+:
+
+228
+
+Torsdag den 9. oktober 2008 (L 33)";Søren Espersen
+2296;Time;(Ordfører);Kl. 01:30
+2335;name_party;":
+Vi har jo haft en behandling af det her lovforslag
+i Erhvervsudvalget sideløbende med den åbningsdebat, vi har haft, og jeg tror lige så godt,
+man kan være ærlig og sige, at det selvfølgelig
+har givet en udfordring i forhold til at følge med
+i alle de justeringer af lovforslaget, der er blevet
+foreslået, og også den løbende stillen spørgsmål
+og afgivelse af svar, der er kommet.
+Vi har fra Dansk Folkepartis side selvfølgelig
+alligevel gjort alt, hvad vi kunne, for at følge
+med i dagens udvikling og har jo så også ved betænkningsafgivelsen sagt ja til de ændringsforslag, der nu behandles her ved andenbehandlingen. Og vi vil også understrege her ved andenbehandlingen, at vi selvfølgelig stemmer for lovforslaget ved den tredjebehandling, som nu ser
+ud til at komme senere på dagen, her i dag, fredag.
+Jeg vil lige med det som udgangspunkt, altså
+at vi selvfølgelig stemmer for lovforslaget ved
+tredjebehandlingen, nævne nogle enkelte punkter, som vi specielt har dyrket i forbindelse med
+udvalgsbehandlingen indtil nu.
+Det ene er det her punkt om, hvornår nye institutter kan træde ind i garantiordningen. Vi
+havde jo gerne set, at reglerne havde været sådan, at man kun havde en kort periode, hvor
+man kunne træde ind, og så var det dét, og at
+ordningen så løb i de her 2 år, hvor nye institutter ikke kunne træde ind. Det har vi forstået ikke
+kan lade sig gøre efter de regler, der gælder i EU,
+hvorfor nye institutter skal kunne træde ind i
+ordningen og man på anden vis må søge at begrænse risikoen for, at nogen spekulerer i ordningen. Vi vil meget nøje følge den måde, det vil
+ske på i praksis. Vi har forstået det sådan, at de
+institutter, der ønsker at træde ind i ordningen,
+skal levere en forretningsplan, og at man vil se
+meget nøje på den. Vi vil bede om, at det, man
+kræver, er en meget detaljeret plan, og at man
+også holder meget øje med, at den plan, der afleveres, følges, så vi undgår misbrug af ordningen.
+I forhold til den situation, der er, hvor institutter bliver tvunget til at træde ud af ordningen, fordi de ikke kan eller vil følge de spilleregler, der gælder, fremgår det nu, at de institutter
+får et varsel på 8 dage og så bliver smidt ud af
+ordningen, og at alle de ting, der så dækkes ved
+garantiordningen for de her institutters vedkommende, også dækkes, frem til de så bliver
+
+smidt ud. Der havde vi ønsket, at man havde
+indskrænket det, sådan at de, i den periode, efter at varslet er givet, til de rent faktisk smides
+ud, ikke ville være dækket. Altså, hvis man har
+konstateret, at der er problemer med den måde,
+de administrerer på, og de administrerer i strid
+med reglerne, så synes vi faktisk, at man skulle
+prøve at minimere den dækning, den risiko, staten påtager sig her.
+Endelig vil jeg nævne, at vi har haft meget fokus på den konkurrenceforvridning, der kan finde sted mellem banksektoren og realkreditsektoren i alt det her. Når vi går ind og laver en statsgaranti for banksektoren, er der selvfølgelig en
+risiko for, at der i de situationer, hvor banker udbyder lån til fast ejendom, er en konkurrencesituation i forhold til realkreditten, som er i realkredittens disfavør.
+Der er vi opmærksomme på - også med de
+svar, der er givet på spørgsmål 44 og 45 - at man
+vil have meget nøje kontrol med den risikoadfærd: der er hos de pengeinstitutter, der er omfattet af ordningen. Vi har også noteret os, at
+man vil diskutere med det private beredskab,
+hvordan man sikrer, at reglerne følges. Det, som
+er vores forslag, og som vi også gerne vil tage op
+her mellem anden- og tredjebehandlingen i en
+fornyet udvalgsbehandling ved hjælp af et
+spørgsmål til ministeren, er, om ikke det er en
+god idé at tilføje, at den diskussion ikke bare
+skal tages med det private beredskab, men også
+særskilt med Realkreditrådet, altså med de realkreditinstitutter, som jo er i risiko for at blive påført en negativ konkurrence. Vi ser gerne, at Realkreditrådet i den sammenhæng kommer ind
+og får en mere central placering, og vil gerne
+høre ministeren - enten nu eller ved et spørgsmål efterfølgende - hvordan man i praksis vil
+kunne sikre det.
+Endelig skal jeg sige, at vi jo har problematiseret det her med, at det bliver behandlet så hastigt, og også, om man kunne blive færdig her
+fredag med tredjebehandlingen, og vi er nået
+frem til den konklusion, at det bliver man nødt
+til. For når først det er meldt ud til de finansielle
+markeder, at vi bliver færdige med den her lovpakke fredag, er det vores vurdering, at det vil
+kunne give øget finansiel ustabilitet, hvis ikke vi
+bliver færdige, fordi det så vil kunne hedde sig,
+at der er politisk uro omkring pakken. Det vil vi
+ikke bidrage til, og derfor er vi nået frem til, at
+det nu er en nødvendighed i forhold til den situation, vi står med, at lovforslaget endelig tredje-
+
+Torsdag den 9: oktober 2008 (L 33)
+
+229
+
+behandles her - senere i dag, som det så bliver Blev man alligevel ikke lige en anelse overrafredag.
+sket/da et af de svar, vi trods alt fik, viste/at at den
+:
+i- 홢홢
+홢
+:> ..... : j..";Kristian Thulesen Dahl
+7332;Time;I- garanti, man ønsker at gennemføre, omfatter :;Kl. 01:36
+7417;title_name;":
+indskud, der samlet set løber op i 3.000 mia. kr. Tak til ordføreren. Så er det hr. Frank Aaen som
+3.000 mia. kr.? Jeg accepterer gerne moderatioordfører.
+nen ,i,svaret/ der siger,. at ministeren ikke mener,
+. :Kl. 01:36 at alle pengeinstitutter går rabundus og dermed
+(Ordfører)
+alle indskud går tabt, men 3.000 mia. kr., det er ,";Søren Espersen
+7766;name_party;":
+den ,garanti, der udstedes med det,: der bliver
+Indledningsvis vil jeg sige, at jeg da er glad for,
+vedtaget i morgen. Hvis det var mig, der stemte
+at Dansk Folkeparti har læst svarene på nogle af for det, vil jeg nok tænke lidt over det her hen
+de5spørgsmål, Enhedslisten har stillet, f.eks. om
+over natten. Det er halvanden gang Danmarks
+det meget mærkelige i, at man kan notere sig, at bruttonationalprodukt.
+når et pengeinstitut misbruger ordningen, er alle";Frank Aaen
+8237;Time;indlån omfattet af den garanti, som er givet, før;KL01:39
+8322;title_name;":
+der bliver sagt: Slut, ud af: ordningen. Og i de 8
+Tak til ordføreren. Ønsker flere at udtale sig?
+dage, der går bagefter, kan man få nye lån, indØkonomi- og erhvervsministeren.
+lån, som også er omfattet af ordningen. Det er jo,홢- KL01:39
+bare :at åbne en ladeport for, at der kan spekuleØkonomi- og erhvervsministeren (Lene Esperres i tingene, på trods af at Finanstilsynet har
+sen):
+sagt, at et selskab misbruger ordningen og derJeg vil gerne her, ved andenbehandlingen allerfor bør hældes ud af den.
+først takke de politiske partier og ikke mindst de
+Sådan er der en stribe andre spørgsmål, som
+ordførere, der er her i salen i dag, og. som har
+vi ikke har kunnet få ordentlige svar på. F.eks.
+deltaget i udvalgsarbejdet, for den store fleksibihar vi spurgt: Er det ikke underligt, at en aftale
+litet, som man har udvist i forbindelse med be- <
+mellem partierne direkte bliver nævnt i lovforhandlingen af det her lovforslag. Jeg erkender, at
+slaget og får lovkraft - altså,, jeg mener en aftale,
+det bestemt ikke er optimale vilkår for folke- :
+der ikke har noget med selve lovbehandlingen
+tingsmedlemmerne at skulle arbejde under så
+at gøre? Dér bliver det bare nævnt i lovforslaget, stort et arbejdspres og med et omfattende lovat man skal overholde den aftale: der er indgået, forslag, men jeg må rose medlemmer, af Tinget
+punktum. Man har ikke engang optrykt aftalen i og Erhvervsudvalgets formand og naturligvis
+lovteksten. Jeg mener,. at det er helt uantageligt,
+sekretariat, for at have udvist en meget stor flekat vi lovgiver på en måde, hvor der bare henvisibilitet i ,at sørge for, at den her sag kunne be- .
+ses til en privat aftale mellem private pengeinsti- handles på en forsvarlig måde.
+tutter og,.staten. Det er også sådan noget, som
+Vi har nået at besvare en lang række spørgs- ,
+jeg ikke forstår noget som helst af.
+mål, jeg tror, vi er kommet op på omkring en 51
+Vi har fået et svar, der bekræfter, at et moder- stykker, og vi har. også nået at afholde et samråd,
+selskab kan trække alle aktiver ud af et pengein- både med en teknisk gennemgang af ændringsstitut, og så kan staten bagefter hænge på alle
+forslagene og med en mere politisk drøftelse af
+kreditorerne via garantien. Det mener mihistedet materielle indhold i lovforslaget, og jeg syren så ikke vil ske, för det er meget, dumt. Nu :
+nes, det har været utrolig godt. at opleve det ønhar jeg jo den opfattelse, at der tit sker noget, der ske, der har været om: trods alt at få det her til at
+er dumt: hvis nogle synes, de kan tjene penge på blive belyst grundigt og godt i processen.
+det, så gør de det altså. Jeg kan heller ikke forstå,
+Jeg vil blot knytte et par enkelte bemærkÌlÌnat man laver sådan en lovgivning. 홢
+홢
+ger til de ordførerindlæg, der har været - først til
+Derfor har ,vi selvfølgelig på forhånd bedt
+hr. Kristian Thulesen Dahl. Det er fuldstændig
+om, at det her lovforslag kommer tilbage.i udkorrekt, at den ideelle modeL jo ville være en
+valget, så vi kan stille nogle nye spørgsmål og få model, hvor vi sagde: Der er et bestemt antal
+dem behandlet og besvaret inden tredje behand- pengeinstitutter, der kommer med i ordningen,
+ling i morgen. Det skal jeg så ikke gå dybere ind
+og så er ordningen lukket. Så er det ligesom til at
+i, jeg har stillet spørgsmålene, og de kommer :
+overskue, hvem der er med de næste år, hvor
+rundt på tryk.
+: .. 홢
+ordningen kører. Men det er helt korrekt, at vi
+Men jeg vil bare lige spørge dem, der står her , I på grund af EU-reglerne ikke kan forhindre fi.og er en del af flertallet for det her ?lovforslag: ,
+nansielle virksomheder i at etablere sig i Dan-
+
+230
+
+Torsdag den 9. oktober 2008 (L 33)
+
+mark i den mellemliggende periode, og der vil
+jeg gerne tilkendegive over for hr. Kristian Thulesen Dahl, at vi naturligvis vil gøre vores yderste - uden at overtræde EU-retten - for at sikre,
+at der er detaljerede virksomhedsplaner for de
+pågældende virksomheder, så man har en sikkerhed for, hvad deres hensigt er med at etablere
+sig i Danmark, herunder at man ikke etablerer
+sig alene med det formål at spekulere i den garantiordning, som vi har lavet.
+Jeg har også noteret mig hr. Kristian Thulesen
+Dahls ønske om, at Realkreditrådet og i det hele
+taget realkreditten bliver nærmere inddraget i
+det videre arbejde, og jeg vil sige til hr. Kristian
+Thulesen Dahl, at jeg gerne mundtligt og allerede nu vil tilkendegive, at vi vil sikre os, at drøftelserne ikke alene kommer til at ske med Det
+Private Beredskab, men også med Realkreditrådet. Men vi er altså også villige til, hvis Dansk
+Folkeparti ønsker det, at besvare dette spørgsmål skriftligt, såfremt det skal optrykkes i tillægsbetænkningen. Så kan vi godt sørge for, at
+der kommer et meget klart svar på det.
+Til hr. Frank Aaen vil jeg først sige, at jeg tror,
+det er vigtigt at forstå, at der er lavet en aftale
+mellem staten og Det Private Beredskab, og så er
+der lavet en politisk aftale. Jeg synes, at hr.
+Frank Aaens indlæg bar meget tydeligt præg af,
+at der var en vis sammenblanding af de to aftaler. Der er ikke noget som helst mærkeligt i, at
+en aftale mellem staten og Det Private Beredskab nævnes i lovforslaget, og mig bekendt er
+der massevis af eksempler på, at vi laver aftaler i
+Folketinget, som man efterfølgende kan se afspejlet i lovforslag. Så jeg synes, det er en mærkelig diskussion at have lige pludselig, at det
+skulle være noget odiøst, at de aftaler, vi laver
+herinde, også bagefter kan fremgå af forslagene.
+Endelig vil jeg sige til hr. Frank Aaens dramatisering af, at der er en 8-dages-frist i tilfælde af
+misbrug af ordningen: Jamen hvad havde hr.
+Frank Aaen egentlig forestillet sig? Havde han
+forestillet sig, at man meddelte: Nu bliver du
+smidt ud af ordningen, pengeinstitut xxx, pr.
+dette sekund? Så havde indskyderne jo ingen
+mulighed for at sikre sig. Altså, jeg ved ikke,
+hvad hr. Frank Aaen havde forestillet sig. Jeg synes, det er rigtigt, at der er lavet en ordning,
+hvor der bliver taget hensyn til, at folk kan disponere. Men jeg tager selvfølgelig ad notam, at
+hr. Frank Aaen og jeg i denne sag ikke er enige.
+Der er jo så mange ting, vi ikke enige om, i det
+her lovforslag.
+
+Ikke desto mindre vil jeg gerne på vegne af
+Økonomi- og Erhvervsministeriet og naturligvis
+regeringen takke samtlige partier i Folketinget
+for, at man har vist den fleksibilitet at behandle
+lovforslaget - også så forholdsvis tidligt om
+morgenen, som det er tilfældet her under andenbehandlingen.";Søren Espersen
+14743;Time;;Kl. 01:44
+14778;title_name;":
+Tak til ministeren. Der er en kort bemærkning
+fra hr. Frank Aaen.";Søren Espersen
+14855;Time;;Kl. 01:44
+14871;name_party;":
+Selvfølgelig kan man da i en lovtekst henvise til
+en aftale, det har jeg ikke noget imod, men det,
+der står i selve lovforslaget, er, at hvis ikke virksomheder overholder det, der er aftalt i en privat aftale mellem staten - det nævnte jeg også og Det Private Beredskab, så er man hjemfalden
+til straf. Det synes jeg alligevel er mærkeligt, jeg
+kender ikke til andre eksempler, og jeg har stillet
+et skriftligt spørgsmål om det igen. Hvis ikke
+man overholder en aftale, ståten har indgået
+med en privat institution, nemlig Det Private Beredskab, er man hjemfalden til straf. Jeg vil gerne have bekræftet, at det er noget, man har gjort
+før, for jeg synes selv, det er mærkeligt - og så
+har man ikke engang optrykt den aftale, der
+henvises til, i lovteksten eller i bemærkningerne
+til lovforslaget. Hvad skal jeg stakkels menneske
+gøre? Hvad er det egentlig talt, jeg er blevet udsat for her af staten? Det er da yderst mærkeligt.
+Jeg håber, ministeren vil følge det op, så skal jeg
+svare på det andet. Men jeg vil bare sige, at vi jo
+er imod, at man skal have 8 dage, hvor man bare
+kan gå og spekulere.
+홢Kl. 01:45";Frank Aaen
+16021;title_name;":
+Ministeren.";Søren Espersen
+16044;Time;"Økonomi- og erhvervsministeren (Lene Espersen):
+Det kunne jo godt være, at der var en uskyldig
+indskyder, der gerne ville have lov til at flytte
+sine midler over til et andet pengeinstitut, inden
+det pengeinstitut blivet flyttet ud med de konsekvenser, det måtte have. Men selvfølgelig anerkender jeg, at det kan være, at Enhedslisten har
+andre end de uskyldige indskydere at tage hensyn til, som der måtte blive ramt af den ganske
+retfærdige ordning, der er med, at øksen rammer dem, der ikke overholder reglerne.
+Med hensyn det første vil jeg sige til hr. Frank";Kl. 01:45
+16615;title_name;"Det er fuldstændig frivilligt at gå ind i Det
+
+Torsdag den 9. oktober 2008 (L 33)
+
+l.
+
+231
+
+Private Beredskab, og det betyder altså også, at
+laver aftaler, som nævner andre parter i det dande pengeinstitutter, der måtte ønske at gå ind i
+ske samfund. Jeg kan bekræfte, at det her lovfordet, bliver fuldt ud bekendtgjort med, hvad afta- slag efter god skik naturligvis er udarbejdet i
+len handler om. Så jeg takker meget for den om- overensstemmelse med Justitsministeriets vejsorg, som jeg hører hr. Frank Aaen nu lige plud- ledninger, og at Justitsministeriet har været inselig begynder at Udvise for pengeinstitutterne. , volveret i udarbejdelsen af lovforslaget og det
+Men jeg vil sige, at jeg faktisk synes, der er taget efterfølgende arbejde.";Aaen
+17373;Time;meget godt hånd om alle parter i den her aftale.;Kl. 01:48
+17432;Time;;Kl. 01:46
+17467;title_name;:;Søren Espersen
+17503;title_name;":
+Tak til økonomi- og erhvervsministeren. Ønsker
+Hr. Frank Aaen for endnu en bemærkning.
+flere at udtale sig?
+::
+, ,
+: Kl. 01:46
+Da det ikke er tilfældet, er forhandlingen slutFrank Aaen (EL):
+tet, og vi går til afstemning.
+Jeg mangler altså stadig væk at få et svar på, om";Søren Espersen
+17786;Time;"det er sædvanligt. Og jeg vil også gerne høre,
+om Justitsministeriet er blevet inddraget i den
+Afstemning
+her sag, og det bør den tidligere justitsminister
+måske kende lidt til. At der i en lov kan henvises Anden næstformand (Søren Espersen):
+til en aftale, der nævner, at hvis man overtræder
+Ønskes afstemning om ændringsforslag nr. 1-18
+den aftale, der ikke er en del af loven, men bare
+tiltrådt af et flertal, udvalget med undtagelse af
+henvises til, så er man hjemfalden til straf, synes Enhedslisten?
+jeg alligevel er interessant. 홢
+De er vedtaget.
+Det med indskyderne er jo rigtigt og fint, synes jeg, men nu er indskydere jo ikke altid
+. Der er stillet forslag om, at lovforslaget henvises
+uskyldige. Indskyder kan jo være et datterseltil fornyet udvalgsbehandling, og hvis ingen gør
+skab åf den pågældende virksomhed, som også
+indsigelse, betragter jeg dette som vedtaget.
+har det pengeinstitut, som vi her taler om, det .
+Det er vedtaget.
+, <
+kan jo være mange forskellige: der indskyder,
+det er ja' ikke hr, og fru Jensen, for de erjo i forvejen dækket, det er alle mulige andre. Og jeg .
+oplever det sådan, at selv om der her er tale om
+- . , 홢
+<. , 홢/i - 홢
+홢
+-V";Kl. 01:48
+18969;Time;", en institution: som Finanstilsynet siger har overtrådt og misbrugt reglerne, så gælder garantien.
+Meddelelser fra formanden
+stadig væk for de indskud, der var før den dag,
+man siger de overtrådte reglerne, og så siger vi: , Anden næstformand (Søren ,Espersi?ti):
+De indskud, ! tiltusker jer de næste 8 dage, er
+Der er ikke mere at foretage i dette møde.
+også omfattet af statens garanti. Det synes jeg
+altså også er underligt, men ministeren kan jo
+Folketingets næste møde afholdes i dag, fredag
+svare skriftligt.
+,
+den 10. oktober 2008, kl. 10.00.
+^
+:> : ,Kl. 01:48
+Jeg henviser til den dagsorden, der er opslået";Kl.01:49
+19620;title_name;":
+i salen.
+Økonomi-og erhvervsministeren.
+:
+' ' . : - , 1:
+홢 Kl. 01:48 Mødet er hævet. (Kl. 01.50).
+Økonomi- og erhvervsministeren (Lene Espers
+sen):.-: 홢
+:
+Intet over Folketinget, vil jeg sige til hr. Frank
+Aaen, men det er altså ikke usædvanligt: at man";Søren Espersen

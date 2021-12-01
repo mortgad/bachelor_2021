@@ -1,0 +1,132 @@
+split;reason;text;value
+0;;"Tirsdag den 25. juni 2019 (D)
+
+1
+
+Det næste punkt på dagsordenen er:
+2) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som midlertidigt medlem af Folketinget for Mette Abildgaard (KF).
+
+3. møde";
+231;Time;;Kl. 13:00
+268;Time;"Dagsorden
+
+Forhandling
+
+1) Spørgsmål om meddelelse af orlov til og indkaldelse af stedfortræder for medlem af Folketinget Mette Abildgaard (KF).
+2) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som midlertidigt medlem af Folketinget for Mette Abildgaard (KF).
+3) Eneste behandling af beslutningsforslag nr. B 2:
+Betænkning og indstilling fra Udvalget til Valgs Prøvelse vedrørende valgene til Europa-Parlamentet.
+(Forslag som fremsat (i betænkning) 24.06.2019. Anmeldelse (i salen) 25.06.2019).";kl. 13.00
+827;title_name;":
+Fra Udvalget til Valgs Prøvelse har jeg modtaget indstilling om, at 1.
+stedfortræder for Det Konservative Folkeparti i Nordsjællands Storkreds, Egil Hulgaard, godkendes som midlertidigt medlem af Folketinget fra og med den 5. august 2019 i anledning af Mette Abildgaards orlov.
+Er der nogen, der ønsker ordet?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+1197;Time;Afstemning;Kl. 13:01
+1220;Time;;Kl. 13:00
+1256;title_name;":
+Mødet er åbnet.";Henrik Dam Kristensen
+1309;title_name;":
+Der stemmes om udvalgets indstilling.
+Afstemningen slutter.
+For stemte 122 (S, V, DF, RV, SF, EL, KF, ALT, NB, LA og SIU),
+imod stemte 0, hverken for eller imod stemte 0.
+Udvalgets indstilling er vedtaget enstemmigt med 122 stemmer.
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål om meddelelse af orlov til og indkaldelse af stedfortræder for medlem af Folketinget Mette Abildgaard (KF).";Henrik Dam Kristensen
+1711;Time;;Kl. 13:00
+1747;title_name;":
+Fru Mette Abildgaard (KF) har søgt om orlov fra den 5. august 2019,
+jf. forretningsordenens § 41, stk. 4.
+Hvis ingen gør indsigelse, vil jeg betragte det som vedtaget, at der
+meddeles orlov som ansøgt, og at stedfortræderen indkaldes som
+midlertidigt medlem.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+3) Eneste behandling af beslutningsforslag nr. B 2:
+Betænkning og indstilling fra Udvalget til Valgs Prøvelse vedrørende valgene til Europa-Parlamentet.
+(Forslag som fremsat (i betænkning) 24.06.2019. Anmeldelse (i salen) 25.06.2019).";Henrik Dam Kristensen
+2306;Time;Forhandling;Kl. 13:01
+2354;title_name;":
+Forhandlingen er åbnet. Jeg giver ordet til udvalgets næstformand,
+hr. Peter Juel-Jensen.
+
+2
+
+Tirsdag den 25. juni 2019 (FM )";Henrik Dam Kristensen
+2493;Time;;Kl. 13:05
+2504;Time;(Ordfører);Kl. 13:01
+2538;name_party;":
+Tak for det, formand. Jeg går på talerstolen som næstformand for
+Udvalget til Valgs Prøvelse.
+Folketinget skal i dag tage stilling til godkendelsen af valget til
+Europa-Parlamentet, som fandt sted den 26. maj 2019. Godkendelsen kan først ske nu, fordi vi har afventet godkendelse af valget til
+Folketinget. Derfor har Udvalget til Valgs Prøvelse først i går, den
+24. juni 2019, gennemgået resultatet af valget til Europa-Parlamentet
+og de her indkomne valgklager.
+Der er modtaget i alt 36 klager over valget, hvoraf 35 er inden for
+klagefristen og en uden for. 14 af disse klager er klager både over
+valget til Europa-Parlamentet og til Folketinget. Vi har i udvalget
+gennemgået de enkelte klager og Økonomi- og Indenrigsministeriets
+bemærkninger til hver enkelt klage. I den betænkning og indstilling,
+der foreligger, giver udvalget klart udtryk for sin konklusion til hver
+enkelt af klagerne.
+Under udvalgets gennemgang af klagerne drøftede vi bl.a., at en
+række statsborgere i et af de øvrige medlemslande i EU har klaget
+over, at de ikke var på valglisten på valgstedet, og at de bl.a. i deres
+klage undrede sig over dette, når de nu kunne huske, at de havde
+stemt sidste gang, der var valg.
+Det fremgår af punkt 6.2 i Økonomi- og Indenrigsministeriets redegørelse om valget, at ministeriet 3 måneder før valget sendte et
+brev til de ca. 183.000 herboende EU-borgere – også på engelsk og
+med korte henvisninger på fransk, tysk og polsk – for at gøre opmærksom på, at man skal søge for at komme på valglisten. Dette er
+nødvendigt, hvis man ikke allerede var på valglisten ved sidste valg
+til Europa-Parlamentet. I den forbindelse skal det bemærkes, at det
+ikke er nok, at man var på valglisten til sidste kommunalvalg.
+Ministeriet har undersøgt de tilfælde, hvor EU-borgere har henvendt sig, og ministeriets konklusion er, at der ikke er konstateret
+fejl i de konkrete sager. Med tanke på de tiltag, ministeriet har
+iværksat for at rådgive disse borgere om deres muligheder for at deltage i EU-valget, finder udvalget ikke, at det giver anledning til at
+udtale kritik.
+Vi drøftede også en række klager over brevstemmeforholdene.
+Klagerne drejede sig navnlig om ventetid på valgstederne, men der
+var også klager over, at der i enkelte tilfælde synes at være sket en
+vis sammenblanding af stemmerne til europaparlamentsvalget og til
+folketingsvalget. Udvalget kan således konstatere, at det har givet
+visse vanskeligheder, at de to valg lå så tæt på hinanden, men også,
+at de berørte kommuner har tilkendegivet, at de beklager de gener,
+der har været, og at myndighederne vil gennemgå og lære af erfaringerne fra de to valg for at undgå lignende problemer ved kommende
+valg.
+Et enigt udvalg indstiller, at Folketinget godkender det den 26.
+maj 2019 afholdte valg af 14 medlemmer til Europa-Parlamentet.
+Det vil sige, at Folketinget godkender Økonomi- og Indenrigsministeriets beregninger og opgørelser af valget og de i bilag 1 nævnte 14
+kandidater som valgte, herunder Kira Marie Peter-Hansen i stedet
+for Karsten Hønge, der har tilkendegivet, at han ikke ønsker at modtage mandatet.
+Jeg skal på udvalgets vegne over for Tinget anbefale udvalgets
+indstilling. Tak.";Peter Juel-Jensen
+5716;Time;;Kl. 13:05
+5752;title_name;":
+Tak for det. Er der andre, der ønsker ordet?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Afstemning";Henrik Dam Kristensen
+5894;title_name;":
+Der stemmes om udvalgets indstilling.
+Afstemningen slutter.
+Udvalgets indstilling er vedtaget enstemmigt med 124 stemmer.
+Underretning om denne vedtagelse vil nu blive givet til formanden
+for Europa-Parlamentet.
+[For stemte 124 (S, V, DF, RV, SF, EL, KF, ALT, NB, LA og SIU),
+imod stemte 0, hverken for eller imod stemte 0].";Henrik Dam Kristensen
+6231;Time;Meddelelser fra formanden;Kl. 13:05
+6293;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde forventes afholdt tirsdag den 10. september
+2019, kl. 10.00.
+Skulle det blive nødvendigt at indkalde Folketinget til yderligere
+møder, vil meddelelse om tidspunkt og dagsorden blive tildelt medlemmerne skriftligt.
+Jeg ønsker alle medlemmer en god og aktiv sommer, og samtidig
+vil jeg gerne takke alle vores ansatte på Christiansborg for deres indsats i det forløbne folketingsår. Rigtig god sommer til jer alle!
+Mødet er hævet. (Kl. 13:06).";Henrik Dam Kristensen

@@ -1,0 +1,2515 @@
+split;reason;text;value
+0;;"5064
+
+Onsdag den 1. april 2009 (D)
+
+73. m ø d e";
+82;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+Forsvarsministeren og fødevareministeren deltager i spørgetimen.
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+(Se nedenfor).
+
+1) Til beskæftigelsesministeren af:";kl. 13.00
+368;name_party;":
+Var det hensigten med det frie valg af a-kasse, at
+personer, der bliver ledige, skal bringes til tiggerstaven?
+(Spm. nr. S 1799, skr. begr.).
+2) Til beskæftigelsesministeren af:";Ole Vagn Christensen
+572;name_party;":
+Hvad agter ministeren at gøre for at løse de problemer, som det frie valg af a-kasse har medført
+for personer, der bliver ledige?
+(Spm. nr. S 1800, skr. begr.).
+
+5) Til ministeren for sundhed og forebyggelse af:";Ole Vagn Christensen
+805;name_party;":
+Hvad er ministerens kommentar til, at unge piger mellem 17 og 26 år, der kunne beskytte sig
+mod livmoderhalskræft med en hpv-vaccination, må undlade dette af økonomiske årsager,
+og mener ministeren ikke på den baggrund, at
+der her er en klar indikation af en social slagside?
+(Spm. nr. S 1785).
+6) Til ministeren for sundhed og forebyggelse af:";Liselott Blixt
+1176;name_party;":
+Finder ministeren, at det er akut behandling af
+kræftpatienter, når ventetiden fra undersøgelse
+til behandling fortsat er ca. 3 uger?
+(Spm. nr, S 1801).
+7) Til ministeren for sundhed og forebyggelse af:";Jens Peter Vernersen
+1405;name_party;":
+Hvornår vil ministeren sikre, at der er reel akut
+behandling af kræftpatienter i Danmark?
+(Spm. nr. S 1803).";Jens Peter Vernersen
+1526;Time;Meddelelser fra formanden;Kl. 13:00
+1564;title_name;"Mødet er åbnet.
+Miljøministeren (Troels Lund Poulsen) har meddelt mig, at han ønsker skriftligt at fremsætte:
+
+3) Til transportministeren af:";Formanden
+1722;name_party;":
+Mener ministeren, at det vil gavne mulighederne for at reducere transportens CO2-udslip, når
+priserne på den kollektive trafik i regionerne og
+byerne i år stiger med.næsten 5 pct.?
+(Spm. nr. S 1796).
+
+Forslag til lov om ændring af lov om råstoffer.
+(Ophævelse af fartøj sgodkendelse og modernisering af efterforsknings- og indvindingstilladelser på havet m.v.).
+(Lovforslag nr. L 190).
+
+4) Til transportministeren af:";Per Clausen
+2158;name_party;":
+Vil ministeren tage initiativer, der kan sikre, at
+priserne på kollektiv trafik ikke stiger i år, eller
+at prisstigningerne begrænses?
+(Spm. nr. S 1797).
+
+Medlemmer af Folketinget Karsten Hønge (SF),
+Christine Antorini (S), Marianne Jelved (RV) og
+Johanne Schmidt-Nielsen (EL) har meddelt mig,
+at de ønsker at stille følgende forespørgsel til";Per Clausen
+2528;title_name;"»Hvilke initiativer har regeringen planlagt for at
+rette op på nedgangen i antallet af praktikplad-
+
+(634)
+Onsdag den 1. april 2009 (D) '
+
+5065
+
+ser, der er til rådighed for elever på erhvervsskoler og produktionsskoler?«
+(Forespørgsel nr. F 42).
+
+Hvis ingen gør indsigelse, betragter jeg dette
+forslag som vedtaget.
+Det er vedtaget.
+
+Medlemmer af Folketinget Flemming Bonne
+(SF), Niels Christian Nielsen (S), og Line Barfod
+(EL) m.fl. har meddelt mig, at de ønsker skriftligt at fremsætte:
+
+Bortfaldne spørgsmål";undervisningsministeren
+3052;Time;"Forslag til folketingsbeslutning om kommunal
+bemyndigelse til nedsættelse af øråd og evaluering af de særlige øtilskud.
+(Beslutningsforslag nr. B 148). :
+Medlemmer af Folketinget Flemming Bonne
+(SF) m.fl. har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om nedsættelse
+af kommission, der skal udvikle neutrale modeller til statslig og mellemkommunal finansiering
+af kommunernes økonomi.
+(Beslutningsforslag nr. B 149).
+Medlemmer af Folketinget Karl H. Bornhøft (SF)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+홢
+Forslag til folketingsbeslutning om sygedagpenge til borgere, der søger behandling for livstruende sygdomme uden for EU.
+(Beslutningsforslag nr. B 153).
+Velfærdsministeren (Karen Jespersen) har meddelt mig, at hun ønsker i henhold til forretningsordenens § 19, stk. 4, at give Folketinget en
+skriftlig
+Landdistriktsredegørelse 2009.
+(Redegørelse nr. R IO).
+Eksemplarer vil blive omdelt og redegørelsen
+optaget i Folketingstidende.
+Jeg foreslår, at forhandlingen om denne redegørelse finder sted torsdag den 14. maj 2009.";Kl. 13:02
+4155;title_name;"Til Folketinget kan jeg oplyse i dag, at statsministeren i skrivelse af 30. marts 2009 har meddelt
+mig, at spørgsmål nr. S 1802 og S 1804 stillet af
+Kamal Qureshi (SF) og S 1805 og S 1806 stillet af
+Frank Aaen (EL) ikke vil blive besvaret.
+Spørgsmålene er hermed bortfaldet. :
+[Spm. nr. S 180,2
+Til statsministeren (27.03.09) af:";Formanden
+4503;name_party;":
+Holder statsministeren fast i sine udtalelser om
+»proportionalitet« med hensyn til Israels magtanvendelse i Gaza, således at han stadig efter
+nye afsløringer fra israelske soldater om bevidste drab på civile mener, at Israels magtanvendelse i Gaza er et udtryk for landets berettigede
+ret til selvforsvar?
+Spm. nr. S 1804
+Til statsministeren (27.03.09) af:";Kamal Qureshi
+4880;name_party;":
+Giver de nye afsløringer fra de israelske soldater
+samt oplysningerne fra FN's rapport om den 22
+dage lange israelske offensiv i Gaza i december
+2008 og januar 2009 anledning til, at statsministeren ændrer sin holdning til Israels fremfærd i
+de besatte områder?
+Spm. nr. S 1805
+Til statsministeren (27.03.09) af:";Kamal Qureshi
+5210;name_party;":
+Kan statsministeren garantere, at der i forbindelse med at sikre tilslutning til en ny generalsekretær for NATO ikke gives politiske indrømmelser
+som modydelse til lande, der er skeptiske over
+for den pågældende kandidat? : , ' ,
+
+5066
+
+Onsdag den 1. april 2009 (US 114)
+
+Spm. nr. S 1806
+Til statsministeren (27.03.09) af:";Frank Aaen
+5551;name_party;":
+Mener statsministeren, at NATO's indsats i Afghanistan er en succes, der bør følges op i andre,
+tilsvarende former for militær indsats?]
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+Forsvarsministeren og fødevareministeren deltager i spørgetimen.";Frank Aaen
+5869;Time;;Kl. 13:02
+5881;title_name;"Nu går vi i gang med det, vi kalder for spørgetimen. Til at besvare spørgsmål i spørgetimen i
+dag har statsministeren udpeget forsvarsministeren og fødevareministeren.
+Til forsvarsministeren er anmeldt følgende
+spørgere:
+John Dyrby Paulsen
+Ib Poulsen
+Jens Christian Lund
+Julie Rademacher
+Til fødevareministeren er anmeldt følgende
+spørgere:
+Bjarne Laustsen
+Jørn Dohrmann
+Bente Dahl
+Per Clausen
+Ole Vagn Christensen
+Jeg beder om, at man overholder taletiden,
+således at vi kan nå samtlige nævnte spørgere.
+Det vil sige, at der ikke er plads til, at flere kan
+komme til. Vi har fordelt efter bedste fairness på
+partier og på spørgere.
+Den første, der får ordet, er hr. John Dyrby
+Paulsen med spørgsmål til forsvarsministeren.
+Værsgo.";Formanden
+6622;Time;Spm. nr. US 114;Kl. 13:03
+6661;name_party;":
+Tak for det. Nu har forsvarsministeren og jeg jo
+et par måneder foran os, hvor vi kommer til at se
+meget til hinanden, og der er jo mange ting ved-
+
+rørende forsvaret, det bliver afgjort i de nærmeste måneder.
+En ting, jeg dog faldt over i går, og som jeg synes det er på sin plads at vi tager op nu her i
+dag, er jo det om flagdagen for danske soldater.
+Både forsvarsministeren og jeg - og i øvrigt også
+andre partier i Folketingssalen - har jo været optaget af, at vi fandt en dag som flagdag.
+Nu forstår jeg, at regeringen har fundet ud af,
+at den 5. september vil være en passende dato,
+og det skal vi så drøfte i forligskredsen, som vi
+har gjort det før.
+Som jeg husker det, blev vi jo faktisk enige på
+et tidspunkt, i hvert fald var vi tæt på noget, der
+var en enighed, nemlig om en dato, der hed den
+31. august.
+Jeg vil godt spørge forsvarsministeren: Hvad
+er egentlig forskellen på den 31. august og den
+5. september? Hvordan er man pludselig kommet frem til, at det skal være den 5. september,
+og hvad ligger egentlig til grund for, át den enighed, vi vel i virkeligheden havde, ikke holdt, når
+det kom til stykket?";John Dyrby Paulsen
+7797;Time;;Kl. 13:04
+7809;title_name;Ministeren.;Formanden
+7830;Time;;Kl. 13:04
+7862;title_name;":
+Jeg er fuldstændig enig med hr. John Dyrby
+Paulsen i, at en flagdag for vores soldater er noget, vi alle sammen har arbejdet for. Det er passende at markere, at vi har mænd og kvinder
+ude i meget skarpe missioner, og at vi på den
+måde ærer dem en gang om året.,
+Der har i forløbet været tale om flere dage.
+Min helt personlige holdning er, at jeg snart sagt
+er ligeglad med datoen, bare vi finder en dag.
+Det er også vigtigt for mig at understrege, at det
+skal være en dag, som vi alle sammen kan bakke
+op om.
+Den 5. september er valgt ud fra kriteriet om,
+at det er soldaterne, vi fejrer, og at det ikke kan
+sættes i forbindelse med en anden dato. Det var
+jo sådan med den dag, vi fandt i august, at den
+kunne sættes i forbindelse med noget i søværnet. Den 5. september er undersøgt af eksperter,
+museumsdirektører, professorer og andre, der
+siger, at det er en »ren« dag, således at vi indfører en flagdag den 5. september med henblik på
+at markere vores soldater, og det kan ikke sættes
+i forbindelse med andet. Det er begrundelsen
+for, at vi nu anbefaler den 5. september.
+Som jeg siger igen: Nu skal vi bare have en
+dato.
+
+Onsdag den 1. april 2009 (US 115)
+홢
+. -- 홢 - ,";Søren Gade
+9051;title_name;Hr. John Dyrby Paulsen.;Formanden
+9085;Time;;Kl. 13:05
+9096;Time;;Kl. 13:05
+9119;name_party;":
+Jamen det kan jeg kun være enig i, og jeg er glad
+for/at vi faktisk er kommet frem til en dato efter
+lang, lang tids tovtrækkeri.
+Jeg forstår ikke helt, hvad der er sket siden
+december, hvor vi snakkede om den 31. august.
+Jeg forstår, at forsvarsministeren lægger til .
+grund, at det var den dag, hvor Olfert Fischer
+drog af sted i begyndelsen af 1990'erhe - og det
+er ikke godt nok, for det er så søværnet. Men det
+vidste vi jo allerede dengang i december.
+Jeg er også interesseret i at vide, om den dato,
+der hedder den 22. september, har,været overvejet i regeringspartierne.";John Dyrby Paulsen
+9709;Time;;Kl. 13:06
+9721;title_name;Ministeren.;Formanden
+9742;Time;;Kl. 13:06
+9774;title_name;":
+Jamen der har snart sagt været mange datoer i
+spil, og mit udgangspunkt har bare været at finde en dato, altså at finde en dato, der opfyldte
+kriteriet om, at den ikke skulle have en forhistorie. ^ 홢
+I
+홢
+Det er jo ikke nogen hemmelighed, at der var
+en tilbagemelding fra et parti, som.ikke ønskede
+den dato, da vi diskuterede datoen i august. Og
+som jeg siger: Jeg synes jo, det er fuldstændig tåbeligt at slås om en dato: det vigtigste er, at vi får
+dagen. Derfor har vi nu bestræbt os på at finde
+en dag, som alle så skulle kunne blive enige om.
+Nu er det jo sådan, at selve flagdagen hører .
+under justitsministeren, så derfor er det jo noget,
+der efterfølgende skal aftales med justitsministeren, men som jeg forstår på kredsen af partier
+bag forsvarsforliget nu, er der ikke nogen, der
+har ytret sig imod den 5. september, og det tager
+jeg som udtryk for, at vi er enige om, at vi kører
+efter den, så vi kan starte forberedelserne allerede i år til at vise den fornødne respekt, vi skylder de tidligere udsendte og nu udsendte soldater.";Søren Gade
+10827;Time;;Kl. 13:07
+10839;title_name;Hr. John Dyrby Paulsen.;Formanden
+10872;Time;;Kl. 13:07
+10895;name_party;":
+Jeg er jo sådan set enig med ministeren i, at det
+er godt, vi har fundet en dato.
+:
+
+5067
+
+Er det ikke sådan, at vi nu må lære af det her
+forløb, at vi skal være enige, når vi går fra hinanden? Det kan ikke være sådan, at vi er enige, og
+at vi så dagen efter eller to dage efter hører, at
+det alligevel ikke var det, vi var med på. Så vil
+ministeren ikke drage omsorg for, at vi ikke ser
+det her forløb gentaget i forbindelse med forsvarsforligsforhandlingerne? For det har ærlig
+talt ikke været særlig kønt at se på.
+Jeg klandrer sådan set ikke forsvarsministeren. Jeg tror ikke, at forsvarsministeren kunne
+have gjort så meget andet, men jeg vil bare fremhæve - og jeg håber, at ministeren er enig med
+mig - at det ikke har været et kønt forløb, og at
+det ikke er et forløb, der tåler gentagelse, specielt ikke i forbindelse med det nye forsvarsforlig, vi skal indgå nu her til sommer.";John Dyrby Paulsen
+11794;Time;;Kl. 13:07
+11806;title_name;"Ministeren.
+. . . . . Kl. 13:07";Formanden
+11869;title_name;":
+Det er jeg sådan set enig med hr. John Dyrby
+Paulsen i. Nu har jeg været meget pragmatisk
+omkring det her, for hvis det var således, at man
+fastholdt en dato, man var enige om, og nogle så
+efterfølgende var meget kède af det, så kunne
+det jo ligesom gå ind og give flimmer på skærmen i forhold til den markering, vi rent faktisk
+laver. Det er derfor, jeg så siger, at så må vi finde
+en ny dag, som vi alle sammen kan være enige
+om. Men jeg giver da hr. John Dyrby Paulsen ret
+i, at alle skulle bestræbe sig på at undgå en gentagelse, specielt selvfølgelig i forbindelse med
+forligsprocessen.";Søren Gade
+12472;Time;;Kl. 13:08
+12484;title_name;"Tak til hr. John Dyrby Paulsen. Så er det hr. Ib
+Poulsen med spørgsmål til forsvarsministeren.
+Værsgo.";Formanden
+12596;Time;Spm. nr. US 115;Kl. 13:08
+12628;name_party;":
+Nu har vi i over et år arbejdet i Forsvarskommissionen, og vi har holdt 20 møder. Det endte med
+en diger rapport, som alle partier med undtagelse af Enhedslisten kunne bakke op om. Der var
+nogle få forbehold. Dansk Folkeparti har jo bl.a.
+taget forbehold for en EU-hær. Nogle har taget
+forbehold, hvad angår den måde, hjemmeværnet er strikket sammen på, og så er der en række
+partier, der tager forbehold, hvad angår værne-
+
+5068
+
+Onsdag den 1. april 2009 (US 116)
+
+pligten. Der er sågar et parti, der har været ude
+at foreslå en værneret. Det skal ikke være nogen
+hemmelighed, at Dansk Folkeparti står fast på,
+at vi skal bevare en værnepligt, også i den næste
+forligsperiode.
+Jeg skal bare høre ministerens holdning til en
+fortsat værnepligt. Hvordan stiller ministeren
+sig til det?";Ib Poulsen
+13425;Time;;Kl. 13:09
+13437;title_name;Ministeren.;Formanden
+13458;Time;;Kl. 13:09
+13490;title_name;":
+Jeg har ved mange lejligheder ytret min holdning til værnepligten, og den er, at jeg er for
+værnepligten. Jeg går ind i forligsforhandlingerne med det forsæt: at vi skal fastholde værnepligten.
+Værnepligten blev som bekendt lagt om i forbindelse med sidste forlig, bl.a. med baggrund i
+ønsker fra Socialdemokraterne og Det Radikale
+Venstre. De fik deres ønsker opfyldt om en ny
+værnepligt. Den er blevet evalueret og er i store
+træk meget vellykket. Der er selvfølgelig altid
+nogle ting, der kan forbedres. Så jeg går til forligsforhandlingerne med henblik på at fastholde
+værnepligten i den form, den har i dag. Der kan
+selvfølgelig altid være nogle justeringer, men
+værnepligten er efter min overbevisning vigtig
+for det danske samfund.";Søren Gade
+14240;Time;;Kl. 13:10
+14252;title_name;Hr. Ib Poulsen.;Formanden
+14277;Time;;Kl. 13:10
+14293;name_party;":
+Jeg forstår svaret sådan, at ministeren sammen
+med Dansk Folkeparti vil arbejde for, at vi bevarer den værnepligt, vi kender i dag. Jeg ved ikke,
+om vi kan få en garanti her i dag for det. Der er
+jo et flertal, som i de kommende forhandlinger
+ønsker, at værnepligten skal bestå, og det er et
+meget centralt og vigtigt område også for Dansk
+Folkeparti.
+Kan vi så være enige om, at det er det, vi arbejder frem imod, nemlig at vi skal bevare værnepligten?";Ib Poulsen
+14758;Time;;Kl. 13:10
+14770;title_name;Ministeren.;Formanden
+14791;Time;;Kl. 13:10
+14823;title_name;":
+Jamen der er ingen som helst tvivl om, at både
+Venstre og Det Konservative Folkeparti, altså regeringen, ønsker at fastholde værnepligten. Det
+
+er vigtigt for mig også at sige her, at det er det, vi
+går til forhandlingerne med. Og de to partier i
+forligskredsen, Socialdemokraterne og De Radikale, som ytrer sig mod værnepligten, fik jo altså
+ændret værnepligten sidste gang, og de har fået
+opfyldt de krav, der blev stillet sidste gang. Når
+man kigger på de rapporter, der ligger om værnepligten, ser man, at de jo faktisk er meget positive, hvad angår forløbet omkring værnepligten.
+Så vi vil gøre alt, hvad vi kan, for at fastholde
+værnepligten. Jeg har meget svært ved at forestille mig, at vi på nogen måde skulle gå på
+kompromis med den holdning.";Søren Gade
+15587;Time;;Kl. 13:11
+15599;title_name;"Hr. Ib Poulsen. (Ib Poulsen: Jeg er færdig). Så si- .
+ger vi tak til hr. Ib Poulsen, og så er der ikke flere
+svar fra ministeren til hr. Ib Poulsen.
+Så er det hr. Jens Christian Lund som spørger.
+Værsgo og goddag.";Formanden
+15822;Time;"Spm. nr. US 116
+Jens Christian Lund (S):
+Jeg vil gerne fortsætte der, hvor hr. Ib Poulsen
+slap, og det er ikke, fordi det er koordineret med
+hr. Ib Poulsen. I dag spiller Albanien og Danmark fodbold, og det kommer forhåbentlig til at
+gå godt. Grunden til, at de kan spille fodbold, er,
+at de spiller efter de samme regler og på samme
+bane.
+Derfor synes jeg, det er vigtigt, at ministeren
+her forklarer mig, hvad det er for nogle regler,
+som er hjemmelen til værnepligten. Jeg tror, vi
+er enige om, at grundloven giver mulighed for
+værnepligt. Er ministeren enig med mig i, at den
+gældende personellov og dermed betænkning
+902 vedrørende nyordning af forsvarets personelforhold er det, der er den lovmæssige hjemmel for værnepligten og for den måde, vi diskuterer værnepligten på? Er ministeren enig i det
+synspunkt?";Kl. 13:11
+16648;Time;;Kl. 13:12
+16660;title_name;Ministeren.;Formanden
+16681;Time;;Kl. 13:12
+16713;title_name;":
+Jeg aner ikke på stående fod noget som helst om
+bekendtgørelse 902, men jeg kan sige, at værnepligten står i vores grundlov. Alle regeringer har
+vel i de sidste 100 år overholdt grundloven, hvor
+vi har haft værnepligten. Hvis hr. oberst Lund
+
+Onsdag den 1. april 2009 (US 116)
+ønsker den her bekendtgørelse og min holdning
+til den, skal jeg gå over og finde bekendtgørelsen, og så skal jeg sende et skriftligt svar til hr.
+Jens Christian Lund. Men bekendtgørelsen har
+jeg ikke på stående fod.";Søren Gade
+17218;Time;;Kl. 13:12
+17230;title_name;"Det lyder som en glidende tackling, men det er
+også tilladt i fodbold. Det er hr. Jens Christian
+Lund.";Formanden
+17342;Time;"Jens Christian Lund (S):
+Jeg synes da, det er fair, hvad ministeren siger.
+Jeg synes selvfølgelig, det er væsentligt, at vi alle
+sammen ligesom har de samme forudsætninger
+for at diskutere et område, der er så væsentligt
+som værnepligten.
+Hvis jeg nu siger til ministeren, at da vi fik
+lavet personelloven og betænkningen, var begrundelsen for, at man kunne bevare værnepligten, at folk blev uddannet til en bestemt designeringsfunktion, og at der blev ladet en speciel undersøgelse af, hvad den uddannelsesmæssige
+baggrund var for at kunne bestride den funktion. Er ministeren enig i, at det er hensigtsmæssigt, at vi kan fortælle de værnepligtige, hvad
+formålet er med, at de er blevet tvunget ind i
+værnepligt, og at der er brug for dem efter deres
+hjemsendelse?";Kl. 13:13
+18118;Time;;Kl. 13:13
+18130;title_name;Ministeren.;Formanden
+18151;Time;;Kl. 13:13
+18183;title_name;":
+Nu er.hr. Jens Christian Lund jo lovligt undskyldt, for hr. Jens Christian Lund sad ikke i Forsvarsudvalget, da vi indgik forsvarsforliget den
+10. juni 2004. Det var således, at hr. Jens Christian Lund var repræsenteret ved den forhenværende forsvarsminister Jan Trøjborg og tidligere
+medlem af Folketinget Per Kaalund. Disse to
+ganske udmærkede mennesker havde en idé
+om, at vi skulle ændre værnepligten til det, den
+er i dag.
+Der er så oprettet et totalforsvarsregister, man
+stiller tidligere værnepligtige ind i et register.
+Disse unge mennesker er i stand til at løse helt
+specifikke opgaver inden for brand og redning,
+bevogtning og andre ting, som kan opstå i forbindelse med terror, terrortrusler eller terrorangreb. Det er således, at de øger samfundets
+robusthed og vil kunne løse de opgaver, hvis,
+ifald, såfremt, i tilfælde af at det skulle blive
+n ø d v e n d i g t . . .
+
+5069
+
+Jeg vil sige til hr. Jens Christian Lund, at der
+er tale om en brandforsikring. Jeg har en brandforsikring hjemme på Kroghsvej nr. 28 i Holstebro, hvor jeg bor. Den brandforsikring betaler
+jeg hvert eneste år, desuagtet at det aldrig nogen
+sinde har brændt, og jeg bliver ved med at betale den. Når jeg går i min grav engang, har jeg
+måske brugt 200.000 kr. på en brandforsikring.
+Jeg kan så enten bruge de sidste, timer af mit liv
+på at ærgre mig over, at den ikke er blevet brugt,
+eller jeg kan sige, at jeg søreme er glad for, at det
+ikke brændte. Det er deti det register bliver
+brugt til.
+1
+홢
+. . . . Kl. 13:14";Søren Gade
+19703;title_name;"Hr. Jens Christian Lund.
+. Kl. 13:14
+Jens Christian Lund (S):
+Jeg er glad for at høre, at ministeren har en
+brandforsikring. Jeg er også glad for, at ministeren går helhjertet ind for værnepligt. Ministeren
+skal jo heller ikke være i tvivl om, at der er meget, der tiltaler mig. Det, jeg synes er væsentligt,
+når vi nu skal til at drøfte det i fremtiden, er, at
+vi har de samme spilleregler.
+Vil ministeren sige, at hvis det, jeg har sagt
+her, er rigtigt, bør vi i hvert fald ændre forudsætningerne i personelloven og nok også lave en ny
+betænkning og måske et nyt AGV-arbéjde, som
+kan være begrundelse for, at vi med ærlighed
+kan sige til de unge mennesker, hvorfor vi tvinger dem til værnepligt?";Formanden
+20410;Time;;Kl. 13:15
+20422;title_name;Ministeren.;Formanden
+20443;Time;;Kl. 13:15
+20475;title_name;":
+Nu ved jeg ikke, hvilket hold Socialdemokraterne stiller med til forsvarsforligsforhandlingerne,
+men jeg kan give hr. Jens Christian Lund det
+håndslag, at hvis de forhandlere, Socialdemokraterne stiller med i forbindelse med forsvarsforliget, ønsker det her til en større drøftelse,
+kan jeg hermed sige, at så vil det blive en drøftelse, idet jeg jo har for vane at lytte til det, forhandlerne kommer med. Hvis det her er et emne, man fra Socialdemokraternes side ønsker at
+få diskuteret, vil det blive det i forhandlingerne.
+'
+홢,";Søren Gade
+21017;Time;. ';Kl. 13:16
+21033;title_name;"Tak til hr. Jens Christian Lund.
+Så er det fru Julie Rademacher, og det er stadig spørgsmål til forsvarsministeren. Værsgo.
+
+5070
+
+Onsdag den 1. april 2009 (US 117)";Formanden
+21208;Time;"forsvaret, og den opgave bliver løst ud fra de
+præmisser, dér er sat op politisk.
+.";Kl. 13:16
+21303;Time;;Kl. 13:18
+21315;title_name;;Formanden
+21335;name_party;":
+Fru Julie Rademacher.
+I dag har jeg et spørgsmål til forsvarsministeren";Julie Rademacher
+21418;Time;"i forhold til territoriet over og omkring Grønland. Det er jo sådan, at vi skal sørge for at over- Julie Rademacher (S):
+Forsvarsudvalget har jo senest været på tur til
+våge og sikre vores territorium. Det fremgår af
+USA, hvor vi netop blev sat ind i tingene og
+forsvarsloven, både af § 2 og specifikt af § 4. Vi
+også så de her kampfly flyve. Det er mit indtryk,
+har et Challengerfly deroppe til at varetage den
+at Joint Strike Fighter endnu ikke kan lette og
+opgave, men det er mit indtryk, og det indtryk
+lande fra baserne i Grønland og eventuelt Isfik jeg også på den arktiske konference i går af
+land, men at det især for det nordlige område i
+kontreadmiral Henrik Kudsk, som er chef for
+Arktis vil være påkrævet, at man opgraderer
+Grønlands Kommando, at Challengerflyet jo
+landingsstellet, så den vil være i stand til det.
+kun flyver på overvågningsopgaver ca. 6 dage
+Super Hornet F 18 vil på mange måder være i
+om måneden.
+stand til det, og hvad Gripen angår, ved vi det jo
+Jeg kunne godt tænke mig at høre, om miniikke endnu, fordi vi ikke har været i Sverige. Så
+steren kan bekræfte dette, og hvad ministerens
+det er jeg fuldstændig med på i forhold til forholdning er til, at Challengerflyet kun overvåger
+ligskredsen og i fórhold til det langsigtede perdet grønlandske territorium 6 dage om månespektiv.
+den.";Kl. 13:18
+22747;Time;"Men jeg er stadig væk bekymret, for vi har
+jo territoriet lige i øjeblikket. Sidste år var det";Kl. 13:17
+22854;title_name;"første gang, hvor man kunne sejle om Grønland,
+Ministeren.";Formanden
+22922;Time;"og det stiller os også i år og de næste par år over
+for nogle udfordringer. Derfor vil jeg gerne";Kl. 13:17
+23051;title_name;":
+høre, om ministeren mener, at det er nok, at
+Det er således, at hele det arktiske spørgsmål,
+Challengerflyet kun flyver 6 dage om måneden,
+herunder også farvandene i og omkring Grønland og luftrummet over Grønland, har været en og hvorfor det kun gør det.";Søren Gade
+23318;Time;"del af det, Forsvarskommissionen har beskæftiFormanden:
+get sig med. Det er således, at vi i forbindelse
+Ministeren.
+med udførelsen af forsvarets opgaver har inKl. 13:19
+spektionsskibe, som fru Julie Rademacher er beForsvarsministeren (Søren Gade):
+kendt med, i de grønlandske farvande. Vi har
+lige fået en ny klasse, der hedder Knud Rasmus- Jeg synes, at jeg vil sige til fru Julie Rademacher,
+at det ikke er flytimer i det grønlandske luftrum,
+sen. Vi har flyvere, Challenger og Hercules, som
+der er det største problem. Det største problem
+med jævne mellemrum er i Grønland.
+er faktisk farvandene og de mange skibe, der alDet er også korrekt, som fru Julie Rademacher siger, at vi ikke har F 16 i Grønland, og et af lerede sejler i og omkring de grønlandske farde spørgsmål, som vil blive afklaret i forbindelse vande og kommer til det, når nu Vestpassagen
+med indkøb af de næste jagerkainpfly, er, hvor- ' kommer. Det er faktisk således, at man i dag har
+store krydstogtskibe, som sejler i de grønlandledes de vil være i stand til at løse opgaver i
+f.eks. det arktiske område. I øjeblikket har vi lige ske farvande, og hvis det er således, at et krydshaft F 16-jagerfly i det islandske område og der- togtskib forulykker, vil vi ikke være i stand til at
+samle de her mennesker op. Og hvis man var i
+med jo selvfølgelig noget tættere på det grønstand til at samle dem op, kunne man sejle dem
+landske luftterritorium, end man er i dagligdaind eller flyve dem ind til isen, og så kunne de
+gen.
+dø af kulde et eller andet sted.
+Det er et spørgsmål, som jo selvfølgelig kan
+Så vi har nogle store udfordringer, og for mig
+drøftes i forligsforhandlingerne, hvis det er såleat se er det altså mere på havet, disse udfordrindes, at Socialdemokraterne har et ønske om, at
+der skal stilles yderligere kapacitet til rådighed i ger ligger, end det er i luften. Det betyder ikke,
+at luftovervågning ikke er vigtig, for vi har jo fiforbindelse med overvågning af det grønlandskeriinspektioner, som de bl.a. også flyver. Men i
+ske luftrum. Overvågningen, som den foregår i
+forhold til miljø og menneskeliv er det kapacitedag, er - hvad skal vi sige - en del af aftalen om
+Spm. nr. US 117
+
+Onsdag den 1. april 2009 (US 118)
+ten på havet, der for mig at se er den største udfordring i årene f r e m o v e r .
+, . . Kl. 13:20";Kl. 13:19
+25642;title_name;Fru Julie Rademacher.;Formanden
+25673;Time;;Kl. 13:20
+25694;name_party;":
+Så skulle man jo tro, at ministeren i stedet for at
+købe kampfly ville tale om at købe skibe. Det er
+jo sådan, at den mest hensigtsmæssige måde,
+kunne man høre på kontreadmiralen i går på
+Arktisk Konference, ville være, at to skibe fulgtes ad, når de sejlede. Det ville være det mest
+sikre.
+Men ministeren svarer ikke på mine spørgsmål. Jeg er meget bekymret over statsministerens og klimaministerens repræsentationsmuligheder i forhold til Challengerflyet. Det bliver jo
+netop brugt, når der er meget vigtige gæster i
+Grønland, og derfor er det jo, at det kun kan flyve på overvågningsopgaver for forsvaret 6 dage
+om måneden. Jeg er bare meget bekymret over,
+at borgernes penge egentlig skulle gå til at overvåge territoriet, men at statsministerens og klimaministerens repræsentationskonti måske i
+stedet for skulle betale dette. Så jeg vil endnu
+en gang spørge forsvarsministeren, om han mener, at det er nok, at Challengerflyet kun flyver
+6 dage Om måneden.";Julie Rademacher
+26667;Time;;Kl. 13:21
+26679;title_name;Ministeren.;Formanden
+26700;Time;;Kl. 13:21
+26732;title_name;":
+Jamen vi flyver den overvågning, som vi ønsker
+, at flyve. Og jeg vil bare understrege, at det ikke
+er således, at statsministerens eller klimaministerens eller mit eget brug af Challengerflyets
+flytimer sætter sikkerheden i Danmark eller i
+Grønland over styr. Det er en politisk afvejning,
+hvor mange timer man vil bruge til miljøovervågning i Danmark og i Grønland. Vi har satset
+på nye skibe, og som fru Julie Rademacher ved,
+har vi den nye skibstype af Knud Rasmussenklassen i Grønland.
+Jeg er da villig til at diskutere det, hvis man
+politisk er parat til at betale prisen. Det, jeg bare
+vil sige, er, at med hensyn til miljø er forebyggelse jo meget vigtig, og overvågning er en del af
+forebyggelsen, men det er ikke alene det, der gør
+det. Hvis Socialdemokraterne kommer med ønsker desangående i forligsforhandlingerne, kan
+vi tage en åben drøftelse af det. Men forsvaret
+løser de opgaver, som forsvaret skal i dag.
+
+5071";Søren Gade
+27673;Time;;Kl. 13:22
+27685;title_name;"Tak til fru Julie Rademacher og tak til forsvarsministeren for besvarelserne.
+Den næste minister er fødevareministeren,
+som forefindes i salen, og den første spørger til
+ministeren er hr. Bjarne Laustsen. Værsgo.
+-Kl. 13:22
+Spm. nr. US 118";Formanden
+27944;name_party;":
+Tak. Jeg vil gerne stille et spørgsmål i forbindelse med det forlig, der er indgået mellem regeringen, Dansk Folkeparti og Det Radikale Venstre
+på veterinærområdet. Det forlyder, at der i den
+forbindelse er en større liberalisering af medicinanvendelsen på vej både inden for svineproduktion og kvægbrug, og at kontrollen med det
+vil blive meget lemfældig, fordi der bliver skåret
+ned, og fordi det i øvrigt bliver sådan, at dyrlægerne bliver udfaset og erstattet af teknikere fra
+Plantedirektoratet.
+Jeg vil gerne have ministerens svar på, om det
+er rigtigt, at der sker en øget liberalisering med
+hensyn til anvendelse af og lettere adgang til
+medicin i det hele taget. Og hvem skal stå for
+kontrollen i fremtiden?";Bjarne Laustsen
+28672;Time;;Kl. 13:23
+28684;title_name;Fødevareministeren.;Formanden
+28713;Time;;Kl. 13:23
+28750;title_name;":
+Jeg kan bekræfte, at der er indgået et veterinærforlig mellem en række konstruktive partier i
+Folketinget om at se på, hvordan vi kan gøre en
+bedre indsats på området. Og det, der er givet
+en meget klar melding om fra forligsparterne,
+som det også fremgår af aftalen, er, at vi har vedtaget at styrke indsatsen, så vi ikke ser en ubegrundet stigning i medicinforbruget, og at vi i
+det hele taget skal se på, hvordan arbejdet bliver
+tilrettelagt. Til det formål er der nedsat en række
+arbejdsgrupper, der vil komme med tilbagemeldinger, og så vil jeg indkalde forligskredsen til
+drøftelse af, hvad det så er, vi skal sætte i værk.
+Så jeg kan ikke bekræfte elementerne i hr.
+Bjarne Laustsens spørgsmål, men sigé, at vi arbejder med, hvordan vi kan gøre det bedre og i
+det hele taget få en mere smidig tilrettelæggelse
+af indsatsen på det veterinære område. ,
+홢
+. , ' '";Eva Kjer Hansen
+29628;Time;;Kl. 13:24
+29640;title_name;"Hr. Bjarne Laustsen.
+
+5072
+
+Onsdag den 1. april 2009 (US 118)";Formanden
+29713;Time;"her. Er det så arbejdsgrupperne, der ender med
+at skulle bestemme, om det er teknikere eller";Kl. 13:24
+29826;name_party;":
+dyrlæger, der skal foretage vores dyrevelfærdsDet kan være meget godt. Men jeg stiller jo bare
+besøg i fremtiden? Og hvem er det, der skal beet enkelt konkret spørgsmål - endda to faktisk,
+hvis jeg skal være helt nøjagtig - og det er jo, om stemme, om medicinforbruget når et niveau,
+som er uacceptabelt for ministeren? For ministeder sker en øget liberalisering. Altså, noget af
+det, vi ved der er meget fokus på, er forbruget af ren siger jo, at hun er meget opmærksom på, at
+medicin og på i det hele taget at have en lav me- der ikke sker en øgning, og det er vi fuldstændig
+enige om at man skal være, men vi ved fra tidlidicinering, så man kun behandler de dyr, der
+gere, at hvis det er sådan, at man får en mængde
+' skal behandles, og ikke bruger medicinen til at
+medicin, at man simpelt hen får det udskrevet
+forebygge med, hvilket vi har set foregå tidligeog har det til sin besætning, så vil der automare. Derfor er det jo meget vigtigt, hvis man indtisk blive brugt mere, fordi fristelsen til at forbegår forlig, at man så ved, præcis hvad der vil
+komme til at ske, og ikke siger, at man følger ud- handle er for stor, i stedet for at man kun behandler efter konkret henvendelse og lader en
+viklingen og ser, hvad der sker. Hvad sker der
+dyrlæge gøre det.
+så, hvis der er for stort medicinforbrug?";Bjarne Laustsen
+31144;Time;Dernæst er det vel også et spørgsmål om,;Kl. 13:27
+31197;title_name;"hvorvidt det er teknikerne fra PlantedirektoraMinisteren.
+tet, hvis jeg har ret i min antagelse, der skal løse
+. Kl., 13:27
+opgaven, og om, hvorvidt de er fagligt kompeFødevareministeren (Eva Kjer Hansen):
+tente til at løse opgaven i stedet for de dyrlæger,
+Jeg kan i hvert fald høre, at hr. Bjarne Laustsen
+som vi ved har udført kontrollen hidtil.";Formanden
+31555;Time;"er rigtig ked af ikke at være en del af veterinærforliget, for så kunne hr. Bjarne Laustsen jo delFormanden:
+tage i de her drøftelser om, hvordan vi vil udMinisteren.";Kl. 13:25
+31732;Time;". mønte det. Jeg ved ikke, hvor hr. Bjarne Laustsen har den tanke fra, at vi vil til at give muligFødevareministeren (Eva Kjer Hansen):
+hed for, at man kan bruge medicin forebyggenDet vil fortsat være dyrlægerne, der skal vurdede. Jeg agter ikke at åbne op for, at man kan brure, hvad et dyr fejler, og udskrive recepter, altså
+ge medicin i flæng, og jeg aner ikke, hvor hr.
+ingen tvivl om det. Der skal en faglig vurdering
+til. Så jeg ved ikke, hvad det er, hr. Bjarne Laust- Bjarne Laustsen har de tanker fra.
+Det, jeg kan forsikre hr. Bjarne Laustsen om,
+sen mener med en øget liberalisering.
+Altså, det er dyrlægerne, der foretager vurde- er, at vi politisk i forligskredsen blandt de partiringen af sygdomme og behovet for medicin, og er, der ønsker at tage et ansvar for vores indsats
+på det veterinære område, jo nøje vil drøfte,
+som jeg klart gav udtryk for, vil jeg ikke se, at
+hvordan regelsættet skal være fremover. En af
+der sker en ubegrundet stigning i medicinforde ting, vi er helt enige om, er, at vi ikke vil se et
+bruget, tværtimod. Jeg synes det er meget vigstigende medicinforbrug, og vi følger nøje med i
+tigt, at vi nøje fører kontrol med, hvad medicinstatistikkerne. Hr. Bjarne Laustsen ved også alt
+forbruget er - det er absolut vigtigt. Og jeg kan
+om, at det bliver overvåget. Så kan jeg i øvrigt siogså forsikre hr. Bjarne Laustsen om, at det ikke
+ge, at bl.a. Den Danske Dyrlægeforening er gået
+bliver teknikere, der skal ind og vurdere sygaktivt ind i arbejdsgruppen, og det hilser jeg medomme hos dyr og skrive recepter overhovedet.
+Men det er jo elementer i et samlet veterinær- get velkommen, for det er vigtigt, at vi også får
+de faglige bud på, hvordan vi bedst gør den veforlig, og vi vil vende tilbage til det i forbindelse
+terinære indsats.
+med den konkrete udmøntning.";Kl. 13:25
+33548;Time;;Kl. 13:28
+33558;Time;;Kl. 13:26
+33570;title_name;;Formanden
+33581;title_name;"Tak til hr. Bjarne Laustsen.
+Hr. Bjarne Laustsen.";Formanden
+33640;Time;"Næste spørger er hr. Jørn Dohrmann, og det
+er stadig til fødevareministeren. Værsgo.";Kl. 13:26
+33745;name_party;":
+Jeg forstår ikke helt, at ministeren siger, at det er
+arbejdsgrupper, der nu sidder og vurderer det
+
+(635)
+Onsdag den 1. april 2009 (US 119)";Bjarne Laustsen
+33898;Time;Spm. nr. US 119;Kl. 13:28
+33933;name_party;":
+Tak. Jeg vil gerne benytte lejligheden til at spørge ministeren, om hun er indstillet på at give
+klarere forbrugerinformation om f.eks. naturelmarineret kyllingekød. Vi ved jo, at der er mange forbrugere, der føler sig misinformeret om,
+hvad der egentlig ligger bag ordet naturelmarineret. Derfor er mit spørgsmål til ministeren
+ganske enkelt: Vil man sikre en klar information
+til forbrugeren? Vil man f.eks. udarbejde nye retningslinjer på det her område, eller hvordan vil
+man sikre forbrugerne på det her område? '";Jørn Dohrmann
+34463;Time;;Kl. 13:28
+34475;title_name;Ministeren.;Formanden
+34496;Time;;Kl. 13:28
+34533;title_name;":
+Jeg er fuldstændig enig i med hr. Jørn Dohrmann i, at det er vigtigt med klar information til
+forbrugerne, og at der også er klare krav til
+mærkning, så forbrugeren har mulighed for at
+vide, hvad det er for en fødevare, vedkommende køber. Jeg vil mene, at de regler, der er på området i dag, faktisk giver en klar information, og
+at de giver de oplysninger, som forbrugeren har
+behov for. Jeg vil naturligvis gerne drøfte, om
+der er andre ting, der kunne være i spil, men i
+forhold til neutralmarineret kyllingekød er der
+et klart krav om, at det skal fremgå af emballagen. Det er i øvrigt et begreb, som bliver brugt i
+mange lande, og som har været anvendt i Danmark i mange år.
+Mit bedste bud er, at vi faktisk giver en rigtig
+god information til forbrugerne på det her område. De, der ønsker mere information, kan også
+på Fødevarestyrelsens hjemmeside sætte sig
+endnu mere ind i det. Men det, der er afgørende,
+når forbrugerne står ved køledisken, er, at der er
+en mærkning, der viser, at det her er marineret
+kød i modsætning til fersk kød.";Eva Kjer Hansen
+35589;Time;;Kl. 13:29
+35601;title_name;Hr. Jørn Dohrmann.;Formanden
+35629;Time;;Kl. 13:29
+35648;name_party;":
+Jamen der er jo mange forbrugere, der føler sig
+lidt på herrens mark, kan man sige, når de står
+ved køledisken og ikke lige har internetadgang
+til den hjemmeside, som ministeren henviser til.
+Vi ved godt, at nogle af produkterne indeholder
+op til 40 pet. vand eller andre tilsætningsstoffer,
+
+5073
+
+netop for at produktet skal se mere indbydende
+ud, og derfor vil jeg bare endnu en gang spørge
+ministeren: Hvordan har man tænkt sig at gå
+ind og se på, hvordan man kunne lave om på
+det her område? Er det ved at nedsætte en arbejdsgruppe på det her område for ligesom at
+undersøge, om vi kunne sætte en øvre grænse
+for, man kan kalde det sminkning af de her
+pumpede produkter, sådan at forbrugerne føler
+sig mere klædt på til at vælge de rigtige varer på
+hylderne?";Jørn Dohrmann
+36423;Time;;Kl. 13:30
+36435;title_name;"Ministeren.
+.
+홢: ' Kl. 13:30";Formanden
+36500;title_name;":
+I den forstand er der sådan set en øvre grænse i
+dag, for der er en eller anden teknisk grænse for,
+hvor meget vand produktet kan indeholde. Forbrugeroplysningen ligger jo i, at man skal fortælle om kødindholdet i produktet. Så jeg mener, at der er god mulighed for forbrugerne for
+at gennemskue, hvor meget kød der egentlig er i
+den her vare, man nu køber, og som sagt skal
+der være en klar mærkning af produktet.
+Men jeg vil være åben over for forslag til,
+hvad vi kunne gøre anderledes. Er der nogle
+ting, der kunne skærpes? Og der vil jeg gerne
+foranlediget af spørgsmålet - nu er det jo også
+noget, vi tidligere har drøftet i Fødevareudvalget - spørge Fødevarestyrelsen, hvorvidt man
+synes, der kunne gøres andet og mere end det,
+der bliver gjort i dag.";Eva Kjer Hansen
+37270;Time;;Kl. 13:31
+37282;title_name;Hr. Jørn Dohrmann.;Formanden
+37310;Time;;Kl. 13:31
+37329;name_party;":
+Så vil jeg godt spørge ministeren direkte, om
+man kan regne med, at det ender med, at der
+kommer en procentangivelse af, hvor meget
+vand der må være i det kød, som bliver solgt
+ude fra kølediskene. For vi ved godt, at i:dag
+passer tallene for det, man oplyser: ikke med det
+faktiske indhold i produkterne. Derfor er vi jo
+nødt til at have en klar angivelse af, hvor mange
+procent der må være i kødet. Er det f.eks. 13 pet.,
+eller er det 20 pet. vand, man må pumpe ind i
+kødet? Og vil det også indgå i arbejdet, som jeg
+forstår ministeren vil gå i gang med, at man oplyser om, hvordan vandet er kommet ind i kødet
+- om det er pumpet direkte ind i kyllingerne, sådan som vi kunne forstå på nogle af de udsendeIser: der har været vist i tv? Er det nogle af de
+
+5074
+
+Onsdag den 1. april 2009. (US 120)
+
+ting, som ministeren agter at arbejde videre
+med?";Jørn Dohrmann
+38191;Time;;Kl. 13:32
+38203;title_name;"Ministeren.
+K1. 13:32";Formanden
+38261;title_name;":
+Nej, det er det ikke umiddelbart. Jeg tror ikke, at
+det som sådan er vigtigt for forbrugerne at vide,
+hvordan vandet er blevet tilsat. Jeg tror også, at
+vi nøje skal overveje, hvilke ting vi synes fødevarerne skal mærkes med, og vi skal sikre, at det
+altid er relevant og nødvendig information for
+forbrugerne. Der vil jeg ikke umiddelbart synes
+at metoden er en relevant oplysning at videregive. Det, jeg synes er vigtigt, er, at det klart fremgår, hvor stort kødindholdet er i produktet. Så
+ved man noget om, hvad det er, man betaler for,
+og hvor meget af prisen der så relaterer sig til
+det vandindhold, der måtte være.
+Men i forhold til den problemstilling, som hr.
+Jørn Dohrmann anfører, synes jeg også, det er et
+spørgsmål om, hvorvidt de regler, der er på området, også bliver overholdt. Der er det vigtigt
+med en god kontrol på området, og jeg har jo
+tidligere berettet om, at vi fører kampagner for
+at sikre, at man overholder gældende regler, og
+også samler op på det, hvis der har været problemer. Der vurderer Fødevarestyrelsen med
+mellemrum, hvornår der igen er brug for at sætte ind på et bestemt område, og det her er jo et af
+de områder, der absolut er til vurdering.";Eva Kjer Hansen
+39456;Time;;Kl. 13:33
+39468;title_name;"Tak til hr. Jørn Dohrmann.
+Næste spørgsmål er fra fru Bente Dahl til fødevareministeren. Værsgo.";Formanden
+39574;Time;Spm. nr. US 120;Kl. 13:33
+39606;name_party;":
+Tak. Altinget oplyser den 30. marts, at regeringens plan »Grøn Vækst« atter er blevet udskudt,
+denne gang til ugen efter påske. Det undrer mig,
+at den bebudede ambitiøse plan med den lovende overskrift »Grøn Vækst« udskydes gang på
+gang, samtidig med at regeringen, hver gang vi
+fra oppositionens side spørger om et eller andet,
+bruger det som svar, at den grønne vækstplan er
+på trapperne.
+Regeringens politik tilgodeser i høj grad landbruget og dets betingelser. Der bor ca. 800.000
+mennesker i landdistrikterne, og heraf har vi
+
+knap 16.000, der er fuldtidslandmænd. Hvordan
+vil »Grøn Vækst«-planen være for de 800.000,
+altså for alle dem, der bor på landet?";Bente Dahl
+40279;Time;;Kl. 13:34
+40291;title_name;Ministeren.;Formanden
+40312;Time;;Kl. 13:34
+40349;title_name;":
+Det er rigtigt, at det har taget os lidt længere tid
+at blive færdig med »Grøn Vækst«-udspillet, og
+det er jo simpelt hen, fordi det er en meget kompleks udfordring at finde løsninger, både i forhold til den beskyttelse af natur og miljø, som vi
+gerne vil sikre, og samtidig skabe gode rammevilkår for landbruget og mulighed for vækst inden for landbrugsproduktionen. Men det er rigtigt, at tidshorisonten nu er, at vi engang efter
+påske kan komme med et udspil, der jo så giver
+anledning til gode drøftelser af, hvad det er, vi
+skal satse på i den forbindelse.
+For mig er det vigtigt, at vi ikke kun tænker i
+nogle fornuftige rammevilkår for landbruget og
+i det hele taget for de produktioner, der foregår
+ude i landdistrikterne, men at vi så samtidig
+også indtænker, hvad der kan være af aktiviteter, hvad der er af fællesskaber, og hvad det er,
+der gør det attraktivt at bo i landdistrikterne.
+Det vil vi i regeringen arbejde videre med.
+Noget af det, der har givet rigtig positive resultater, har jo været etableringen af de lokale
+aktionsgrupper, LAG'erne, der nu er i fuld gang
+med at føre projekter ud i livet.
+Så det er - hvis det måske bl.a. er det, der ligger i fru Bente Dahls spørgsmål - en del af den
+prioritering, som regeringen fremover vil give i
+landdistriktsprogrammet.";Eva Kjer Hansen
+41648;Time;;Kl. 13:36
+41660;title_name;Fru Bente Dahl.;Formanden
+41685;Time;;Kl. 13:36
+41701;name_party;":
+Jeg kan godt præcisere mit spørgsmål. Der ligger det, som ministeren siger som en overskrift:
+beskyttelse af natur og miljø i samarbejde med
+landbruget: Hvordan vil regeringen prioritere
+de forskellige tiltag, der skal være i landdistrikterne? Som det er nu, er jeg ikke så imponeret
+over den måde, regeringen prioriterer på - det
+er i høj grad en prioritering, som er på landbrugets præmisser - og mit spørgsmål går på, om
+prioriteringen bliver anderledes, når nu overskriften hedder »Grøn Vækst«.
+Jeg kan fortælle ministeren, at Det Radikale
+Venstre kom med en grøn vækst-plan i går, hvor
+
+Onsdag den 1. april 2009 (US 121)
+vi har en lang række forslag, og jeg vil da se
+frem til, at ministeren måske bruger nogle af
+dem. De er: Naturen skal udgøre mindst 30 pet.
+af Danmarks areal: udviklingen af grøn teknologi skal forstærkes markant: det konventionelle
+landbrug skal gradvis udfases: økologien skal
+fremmes. Det var en lille buket.";Bente Dahl
+42651;Time;;Kl. 13:37
+42663;title_name;Fødevareministeren.;Formanden
+42692;Time;;Kl. 13:37
+42729;title_name;":
+Jeg kan sige til fru Bente Dahl, at de elementer
+absolut indgår i regeringens overvejelser om
+grøn vækst, og hvad det er, der skal satses på.
+Altså, jeg deler fuldstændig tanken om en satsning på f.eks. grøn teknologi: det er noget af det,
+der er rigtig vigtigt i forhold til både at kunne
+have en fornuftig produktion og så samtidig beskytte natur og miljø. Så jeg ser gerne, at vi kommer videre i udviklingen af nye teknologier, og
+at vi skaber mulighed for, at der rent faktisk bliver investeret i den her grønne teknologi på
+landbrugene rundtomkring.
+Mere natur er regeringen også optaget af, ligesom det jo er dejligt at se, at vi klarer os superflot i forhold til den økologiske produktion.
+Danmark er i år årets økologiland, og det er også
+noget af det, der giver ekstra muligheder for at
+afsætte økologiske produkter på andre markeder.홢
+'
+...
+Så jeg synes i høj grad, vi er inde på det spor,
+fru Bente Dahl efterlyser, og jeg kan også forsikre fru Bente Dahl om, at det er elementer, som vi
+har med i »Grøn Vækst«, og som vi vil give noget prioritet.";Eva Kjer Hansen
+43799;Time;;Kl. 13:38
+43811;title_name;Fru Bente Dahl.;Formanden
+43836;Time;;Kl. 13:38
+43852;name_party;":
+Tilbage står jo, hvordan det skal komme til udmøntning. I dag står landbruget for 19 pet. af
+den danske udledning af drivhusgasser, bare for
+at nævne ét tal, og det ville dog være rimeligt, at
+erhvervet var med til at bidrage til at få udslippet bragt ned for at skåne miljøet og klimaet.
+Så tilbage står spørgsmålet til fødevareministeren: Hvordan er planerne til opfyldelse?";Bente Dahl
+44240;Time;;Kl. 13:38
+44252;title_name;"Ministeren.
+
+5075";Formanden
+44280;Time;;Kl. 13:38
+44317;title_name;":
+Det vil jeg gerne fortælle nærmere om engang
+efter påske, når vi offentliggør vores udspil og
+har fået vurderet de enkelte elementer, der skal
+indgå, og hvordan prioriteringerne skal være.
+. Men det er jo helt rigtigt, at vi også ud over
+beskyttelse af natur og miljø skal indtænke kli., .
+mabelastningen og se på, hvad landbruget kan
+bidrage med på det område. Og der er jo, synes
+jeg, en stor villighed fra landbrugets side til at
+nedbringe f.eks. CO2-belastningen, hvilket vi
+har kunnet se over de senere år.
+Der, hvor jeg synes, det er problematisk, er,
+når fru Bente Dahl taler om den her afvikling af
+det konventionelle landbrug. Der er jeg i virkeligheden overrasket over, at Det Radikale Venstre fuldstændig forbigår den enorme betydning, landbrugsproduktionen har for det danske
+samfund som sådan, både med hensyn til eksport og arbejdspladser. Hvad det angår, er det
+altså vigtigt at finde en balance med hensyn til
+udviklingen inden for det økologiske - hvad det
+kan bære, hvad der er markedsbaseret - hvor vi
+så samtidig sikrer, at vi har en effektiv og udbytterig landbrugsproduktion i Danmark.
+. Kl. 13:39";Eva Kjer Hansen
+45450;title_name;"Tak til fru Bente Dahl. Næste spørger til fødevareministeren er hr. Per Clausen. Værsgo.
+.";Formanden
+45551;Time;Spm. nr. US 121;Kl. 13:39
+45585;name_party;":
+Det er rigtigt nok, at vi venter med stor spænding på »Grøn vækst« fra regeringen, for stort
+set alle andre har jo spillet ud.
+Men man kan vel være en lille smule bekymret, når man hører det sidste, ministeren her siger om »Grøn vækst«, for der forstår jeg på ministeren, at hun mener, at det konventionelle
+landbrug sådan økonomisk og eksportmæssigt
+er en fantastisk stor succes. Men er ministeren
+ikke enig med mig i, at hvis vi kigger på f.eks.
+økonomien i svineprodÚktionen i dag, kan vi se,
+at den faktisk ikke er særlig gunstig? Den er ikke
+gunstig for landmændene, og den er sådan set,
+hvis man ser på de samlede udgifter i forbindelse med svineproduktionen, heller ikke samfundsøkonomisk særlig gunstig. Det er jo ikke
+nødvendigvis sådan økonomisk set et rent tåbeligt projekt, når Det Radikale Venstre f.eks. taler
+om at omlægge til økologi. 홢
+
+5076
+
+Onsdag den 1. april 2009 (US 121)
+
+I den sammenhæng vil jeg bare spørge miniKunne det ikke danne udgangspunkt for, at
+steren: Er et af problemerne med at få det her
+ministeren f.eks. kunne have den: måske beskedgrøn vækst-papir færdigt ikke, at det vigtigste
+ne ambition, at det fremover skal være sådan, at
+for ministeren er at sikre, at der fortsat kan være
+vi også får overskud på den betalingsbalance,
+vækst i industrilandbruget, og så må vi se, om vi der vedrører økologien? For kendsgerningen er
+kan få miljøet til at passe ind i den sammenjo, at verdens økologiland nr. 1 importerer økohæng? Det er måske lige præcis det regnestykke, logiske fødevarer for flere penge, end vi ekspor.det kniber med at få på plads. Og det er forkla.,
+terer. Og det må da vel være en ambition for miringen på, at det går uendelig langsomt med at
+nisteren, at det tal skal vendes om.";Per Clausen
+47328;Time;få det her udspil gjort færdigt.;Kl. 13:43
+47371;Time;Formanden:;Kl. 13:41
+47394;title_name;Fødevareministeren.;Formanden
+47423;Time;Ministeren.;Kl. 13:43
+47445;Time;;Kl. 13:41
+47482;title_name;:;Eva Kjer Hansen
+47520;title_name;":
+Jeg vil starte med at sige, at jeg er rigtig glad for
+Jeg kan fortælle hr. Per Clausen, at det er rigtigt,
+at kunne notere mig hr. Per Clausens bekymring
+at der fra min side bliver lagt vægt på, at vi fort- for udviklingen i landbruget, for det er helt rigsat kan have en fornuftig landbrugsproduktion i tigt, at der er tale om en meget alvorlig situation,
+Danmark, og at vi har nogle gode erhvervsmæs- og svinesektoren især er meget, meget hårdt
+sige rammer for landbrugsproduktionen, herun- ramt af de gældende svinepriser. Der er jo mander både det konventionelle og det økologiske.
+ge ting, der spiller ind. Så derfor er det også en
+Jeg mener, det ville være forfejlet at satse udeekstra stor udfordring at ville have de her meget
+lukkende på den økologiske produktion, også
+høje ambitioner, som vi har i regeringen, om en
+selv om der vil være industrilandbrug i den øko- bedre beskyttelse af natur og miljø. Det kræver,
+logiske produktion, fordi vi så mister en hel
+at vi tænker i nye metoder, i nye teknologier, i
+masse i forhold til den produktion, der i dag
+biogas og andre ting, som netop gør, at vi så kan
+foregår under konventionelle forhold.
+løfte opgaven og stadig væk have en stor proSå for mig at se handler det om at sikre en
+duktion, samtidig med at vi faktisk også har en
+god udviklingsmulighed i den økologiske prorigtig dejlig natur og et dejligt miljø omkring os.
+duktion baseret på den efterspørgsel, der måtte
+Det er jo den balancegang, der skal findes, og
+være, dvs. fornuftige rammer i forhold til omder mener jeg, det er forfejlet, hvis man udeluklægningsstøtte og initiativer, der kan fastholde
+kende vil satse på økologi. Økologien ser jeg
+og fremme den position, Danmark har på det
+gerne udvikle sig. Jeg vil også gerne være med
+økologiske felt i dag. Men det vil være at smide
+til at fremme den og understøtte den gennem
+barnet ud med badevandet, som man siger, hvis
+forskellige tiltag, men vi skal ikke på grund af
+man ville droppe det konventionelle landbrug.
+dårlige økonomiske tider for en branche nu sætKl. 13:42 te alt det over styr i forhold til, hvor meget det";Eva Kjer Hansen
+49632;title_name;"fylder i det danske samfund og rent faktisk skaHr. Per Clausen.
+ber af produktion og arbejdspladser.";Formanden
+49742;Time;;Kl. 13:42
+49752;Time;;Kl. 13:44
+49769;name_party;:;Per Clausen
+49782;title_name;Men ser ministeren ikke bort fra den kendsgerHr. Per Clausen.;Formanden
+49853;Time;ning - som man kan være trist til mode over eller mindre trist til mode over, alt afhængigt af;Kl. 13:44
+49965;name_party;":
+temperament og politisk udgangspunkt - at det
+Når jeg hører fødevareministeren tale i dag, er
+etablerede konventionelle landbrug befinder sig det lidt ligesom at høre en industriminister for
+i en økonomisk krise, at det faktisk ér sådan, at
+20-30 år siden, hvor tanken om, at dansk indulandbruget og landmændene er meget tæt på at
+stri ikke skulle være domineret af skibsværfter
+være gået fallit som fag betragtet og som branog cementindustri lød frygtelig farlig for dem.
+che betragtet? Der eksisterer en meget, meget
+Mit spørgsmål til ministeren er derfor: Skal
+grundlæggende økonomisk krise, som skal ses i
+det ikke netop ske i en situation, hvor man kan
+sammenhæng med, at den måde, vi har udviklet konstatere, at det etablerede, det eksisterende
+landbrugsproduktionen på i Danmark, er en
+landbrug er ude i en både økonomisk og miljømeget, meget stor belastning for natur og miljø.
+mæssig krise? Der kræves store omlægninger.
+
+Onsdag den 1. april 2009 (US 122)
+Det er ministeren sådan set enig i: ministeren vil
+bare investere enorme beløb i ny teknologi, selv
+om man måske med fordel kunne investere et
+mindre beløb i en omlægning af produktionen,
+som på lidt længere sigt kunne vise sig både at
+være miljømæssig og økonomisk bæredygtig.
+Jeg kan ikke forstå, at ministeren kan være tilfreds med, at vi i et land, der påstår at være et
+frontland i forhold til økologi, ikke er i stand til
+at eksportere økologiske produkter for en større
+værdi end det, vi importerer for. Det kan jeg
+simpelt hen ikke forstå.";Per Clausen
+51490;Time;;Kl. 13:45
+51502;title_name;"Ministeren.
+:";Formanden
+51525;Time;;Kl. 13:45
+51562;title_name;":
+Det erì fordi hr. Per Clausens forudsætninger er
+forkerte. Den forudsætning umiddelbart at antage, at økologien til enhver tid vil være bæredygtig og til enhver tid vil være rentabel, køber jeg
+simpelt hen ikke. Jeg vil gerne understøtte en
+udvikling på området, og det bliver rigtig spændende at se i den krisesituation, vi er i, om fremgangen i efterspørgslen på de økologiske produkter så også fortsætter. For gør den det, er jeg
+også enig i, at den så er en vigtig del af den danske landbrugsproduktion.
+Men det, der jo er rigtig trist at opleve i dag,
+er hr. Per Clausens negligering af,, hvad landbrugsproduktionen egentlig betyder for det
+danske samfund, hvad den betyder for fødevareindustrien som sådan. Der er det helt afgørende, at der er råvareleverandører, der kan levere
+kvalitetsprodukter til videre forarbejdning og til
+at skabe den her beskæftigelse i sektoren. Jeg synes, det er smadderærgerligt, at hr. Per Clausen
+ikke lægger vægt på det.";Eva Kjer Hansen
+52532;Time;;Kl. 13:46
+52544;title_name;"Tak til hr. Per Clausen. Så er det hr. Ole Vagn
+Christensen med spørgsmål til fødevareministeren. Værsgo.";Formanden
+52659;Time;Spm. nr. US 122,;Kl. 13:46
+52701;name_party;":
+Mit spørgsmål ligger i forlængelse af den dialog, ministeren og jeg havde om spørgsmål nr.
+S 1741. Da fik jeg det svar af fødevareministeren,
+at det selvfølgelig er ministerens ansvar, hvad
+der foregår inden for den ressort, ministeren harmed at gøre, og at hun dermed tager ansvar for,
+
+5077
+
+hvad der foregår i Fødevareministeriets regi.
+Derfor må jeg gå ud fra, at ministeren så talte
+mod bedre vidende, da ministeren fortalte,
+hvordan det sådan set gik med samarbejdet,
+og hvordan man sådan set løste opgaverne i
+Fødevarestyrelsen.
+:
+홢
+Det referat, jeg er kommet i besiddelse af, siger, at der i Fødevarestyrelsen er optjent 98.000
+timer i fleks- og merarbejde. Hvordan har ministeren sikret sig, at denne afvikling kan ske,
+samtidig med at man laver store nedskæringer
+og skal løse de opgaver, der er fastsat i diverse
+bekendtgørelser? Her skal jeg nævne kontrolfrekvensbekendtgørelsen fra 2009.
+Når jeg tager det her spørgsmål op, er det sådan set, fordi de her oplysninger jo skulle have
+været ministeren i hænde, da ministeren gav sin
+fremstilling af, hvordan vi kan klare fødevaresikkerheden, og hvordan vi kan klare kontrollen, og fortalte, at det var i orden.
+Derfor er jeg meget spændt på at høre Ùu:
+Har ministeren kendskab til disse ting, og havde
+ministeren kendskab til disse ting, da hun besvarede mit spørgsmål?
+.:";Ole Vagn Christensen
+54045;Time;;Kl. 13:48
+54057;title_name;Fødevareministeren.;Formanden
+54086;Time;;Kl. 13:48
+54123;title_name;":
+Jeg har ikke kendskab til, hvad det er for et referat, hr. Ole Vagn Christensen refererer til, og jeg
+har ikke kendskab til, hvor mange timer der
+måtte være optjent i fleks- og merarbejde i Fødevarestyrelsen. Men jeg skal gerne, hvis hr. Ole
+Vagn Christensen ønsker det, bringe disse
+spørgsmål videre til ledelsen i Fødevarestyrelsen og få oplyst, hvad det er for nogle tal, der
+gør sig gældende.
+:";Eva Kjer Hansen
+54533;Time;;Kl. 13:49
+54545;title_name;"Hr. Ole Vagn Christensen.
+홢. '";Formanden
+54585;Time;;Kl. 13:49
+54610;name_party;":
+Det er jeg selvfølgelig glad for at høre, men jeg
+er altså meget skuffet over de besvarelser, som
+ministeren gav, og over at ministeren så ikke er
+vidende om, hvad der foregår i forbindelse med
+f.eks. drøftelser i hovedsamarbejdsudvalget.
+Men der render et helt andet rygte rundt, vil
+jeg sige til ministeren, og dét er, at man fra medarbejdernes side fremover skal undlade at give
+så mange påbud. Ved at undlade at give påbud
+kan man få tid til at få sat det rigtige antal krydser, altså det rigtige antal tilsyn.
+
+5078
+
+Onsdag den 1. april 2009 (S )
+
+Her er jeg nødt til at sige til ministeren - jeg
+ønsker ikke, at ministeren skal kommentere rygter af den slags - at jeg synes, det er en alvorlig
+situation, hvis det er sådan, man tilrettelægger
+arbejdet fremover, og det håber jeg ministeren er
+enig med mig i.";Ole Vagn Christensen
+55437;Time;"Formånden:
+Ministeren.";Kl. 13:50
+55470;Time;;Kl. 13:50
+55507;title_name;":
+Jeg er fuldstændig enig med hr. Ole Vagn Christensen, og jeg finder det aldeles uholdbart, at
+der er nogen, der på den måde vil sætte spørgsmålstegn ved Fødevarestyrelsens måde at udføre sin kontrolopgave på. Selvfølgelig er der ikke
+nogen, der kunne drømme om at undlade at
+give et påbud, hvis man mener, at det er relevant
+i situationen. Altså, jeg finder det helt uacceptabelt, at der er nogen, der - efter hr. Ole Vagn
+Christensens udsagn - skulle sende sådanne
+rygter i omløb.
+Den økonomiske situation i Fødevarestyrelsen handler altså om, at der er et underskud i
+forhold til bl.a. finansloven for 2009, og det skal
+man finde ud af at kunne håndtere. Bl.a. kan
+man konstatere, at der i hvert fald er ansat flere
+personer, end der er bevilling til, og at der nok
+også har været flere personer ansat, end der
+egentlig påkræves til at løse en række opgaver.
+Og det er det, man nu tager hånd om i Fødevarestyrelsen.";Eva Kjer Hansen
+56436;Time;;Kl. 13:51
+56448;title_name;Hr. Ole Vagn Christensen.;Formanden
+56483;Time;;Kl. 13:51
+56508;name_party;":
+Jeg har svært ved at se det her, vil jeg sige til ministeren, altså at ministeren kan undlade at være
+opmærksom på, at der er 98.000 timer i fleks- og
+merarbejde, som medarbejderne er blevet bedt
+om at afvikle i 2009, samtidig med at man så har
+lavet de nedskæringer, som man har. De 98.000
+timer i fleks- og merarbejde er jo nogle, der er
+fremkommet, fordi der har været arbejdsopgaver, der skulle løses. Jeg kan forstå, at de arbejdsopgaver ikke skal løses i 2009, og de bliver
+heller ikke udført med de nedskæringer, der er
+lagt op til.
+Derfor er jeg nødt til at sige til ministeren, at
+jeg synes, det er alvorlige ting, jeg her trækker
+frem, og jeg håber virkelig, at ministeren - inden
+der gribes til afskedigelser - får styr på det her
+område. Jeg synes, det er forfærdeligt, at det er
+
+Fødevarestyrelsens nye direktør, der skal stå
+med den her abe.
+. Kl. 13:52";Ole Vagn Christensen
+57389;title_name;Ministeren.;Formanden
+57410;Time;;Kl. 13:52
+57447;title_name;":
+Jeg har al respekt for hr. Ole Vagn Christensens
+optagethed af medarbejdernes situation i Fødevarestyrelsen. Det er godt at opleve, at der er en
+interesse for arbejdsglæden - som vi talte om
+sidst, hvor der var spørgsmål om det - og i det
+hele taget for, at der er nok ressourcer til opgavevaretagelsen. Jeg deler jo interessen for, at vi
+når resultaterne på de forskellige områder.
+Jeg har tillid til, at Fødevarestyrelsens ledelse
+kan håndtere den her situation og også kan prioritere budgettet og få det til at hænge sammen i
+forhold til de opgaver, der skal løses. Og jeg bør
+måske lige gøre opmærksom på, at de årsværk,
+der nu falder væk, svarer til 1,8 pet. af det samlede antal årsværk i styrelsen. Det, der jo især er
+fokus på, er nogle af de administrative opgaver,
+men derudover vil vi jo også lave en gennemgribende gennemgang af Fødevarestyrelsens økonomi for at finde ud af, hvad det egentlig er, der
+er årsag til, at det her underskud er opstået.";Eva Kjer Hansen
+58419;Time;;Kl. 13:53
+58431;title_name;"Tak til hr. Ole Vagn Christensen og tak til fødevareministeren. Hermed sluttede spørgetimen.
+Jeg skal her udsætte mødet. Mødet genoptages
+kl. 14.00.
+Mødet er udsat. (Kl. 13.53).";Formanden
+58619;Time;;Kl. 14:00
+58631;title_name;"Mødet er genoptaget.
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Formanden
+58764;Time;;Kl. 14:00
+58776;title_name;"Jeg kan oplyse, før vi går i gang, at fra og med i.
+dag begynder hvert spørgsmål med, at spørge-
+
+Onsdag den 1. april 2009 (S 1799)
+ren læser sit spørgsmål op, således at ministeren
+ikke skal stå og referere, hvad der egentlig spørges til, men kan give svaret.";Formanden
+59047;Time;"Spm. nr. S 1799
+1) Til beskæftigelsesministeren af:";Kl. 14:00
+59124;name_party;":
+Var det hensigten méd det frie valg af a-kasse, at
+personer, der bliver ledige, skal bringes til tig-.
+gerstaven?
+. ,
+Skriftlig begrundelse
+Der henvises bl.a. til artiklen »A-kasserne under
+pres« i Jyllands-Posten den 27. marts 2009. Det
+frie valg af a-kasse har medført, at nogle a-kasser har tiltrukket nye medlemmer uden at tænke
+på at sikre sig tilstrækkelige ressourcer til at behandle disse medlemmer ordentligt. Når udviklingen i ledigheden, som det desværre er tilfældet p.t., går markant i den forkerte retning, sidder nyledige medlemmer af disse a-kasser tilbage med store økonomiske problemer i form af en
+stærkt forsinket dagpengeudbetaling.";Ole Vagn Christensen
+59791;title_name;"Det er hr. Ole Vagn Christensen, der bliver den
+første til at læse sit spørgsmål op til beskæftigelsesministeren. Værsgo.
+'";Formanden
+59924;Time;;Kl. 14:01
+59949;name_party;":
+Var det hensigten med det frie valg af a-kasse, at
+personer, der bliver ledige, skal bringes til tig- gerstaven?
+. Kl. 14:01";Ole Vagn Christensen
+60087;title_name;"Så er det beskæftigelsesministeren, der svarer.
+:
+: K1. 14:01
+Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Baggrunden er jo, at arbejdsløshedskassen for
+selvstændige på deres hjemmeside har skrevet,
+at der er 6-8 ugers ventetid på at få dagpenge
+udbetalt, og jeg er enig i, at.det umiddelbart virker som lang tid. Men jeg må jo så også erkende,
+at jeg ikke kender de konkrete omstændigheder,
+og jeg går altså ikke ind i en konkret vurdering
+af de enkelte a-kassers sagsbehandlingstid. Det
+er Arbejdsdirektoratet, der,skal se på det, og direktoratet har oplyst over for mig, at man, samme dag som Jyllands-Posten bragte den her arti-
+
+5079
+
+kel, har skrevet til ASE og bedt om en redegørelse for, a-kassens aktuelle sagsbehandlingstid.
+Men det er vigtigt at understrege i den her
+sag, at ledige i dag jo har et valg. Siden 2006 har
+man haft mulighed for frit at vælge a-kasse, og
+derfor kan man altså i dag som a-kasse-medlem
+stemme med fødderne og fravælge en a-kasse,
+hvis man føler sig dårligt behandlet. Jeg vil sige,
+at en kort sagsbehandlingstid jo burde være et
+succeskriterium for- en a-kasse. Men det skal jo og det er den anden side af medaljen - samtidig
+sikres, at der ikke sker fejludbetalinger af dagpenge, og derfor skal man i a-kassen sikre sig, at
+man har det tilstrækkelige grundlag, inden man
+udbetaler dagpenge.
+Jeg synes altså, det er naturligt, at a-kasserne,
+tilstræber en så billig og effektiv administration
+som overhovedet muligt, men der kan jo være
+store udsving i arbejdsopgaverne, som nogle , :
+a-kasser aktuelt oplever, og derfor vil der sikkert
+i en kortere overgangsperiode kunne være pres
+på a-kassen, og det medfører, at der er en lidt
+længere sagsbehandlingstid.
+!";Formanden
+61803;Time;;Kl. 14:03
+61815;title_name;Hr. Ole Vagn Christensen.;Formanden
+61850;Time;;Kl. 14:03
+61875;name_party;":
+Jeg vil gerne sige til arbejdsministeren 홢eller beskæftigelsesministeren hedder det jo i dag, men
+da vi diskuterede det her for mange år siden, var
+det jo en arbejdsminister: Det er jo bagsiden af
+det frie valg, vi klart og tydeligt ser her. Jeg ved
+godt, at beskæftigelsesministerens ministerium
+har tjent en hel del penge på at udbyde det frie
+valg som en billigere administration, og det er jo
+så det, vi nu har konsekvensen åf - at det er den
+enkelte ledige, der skal bære prisen for det. Jeg
+tror kun, det er en begyndelse, vi nu har set her
+med ASE. Og når jeg tror, det er en begyndelse,
+er det, fordi netop det, at man laver billige kontingenter, jo betyder, at man sådan set ikke har
+nogen administration til at tage sig af de ledige.
+Ministeren kan jo sagtens stå her Og sige, at det
+ikke er hans problem, at det er den enkeltes problem eller Arbejdsdirektoratets problem, når
+han ikke har sørget for, at der er økonomi til
+, disse ting.
+Jeg mener helt klart, at det er regeringens ansvar, og her bliver det udstillet meget klart, hvad
+det betyder med det frie valg. Det er derfor, jeg
+har brugt ordet tiggerstaven. Man skal enten
+hen og tigge sin bank om at få lov til at få et lån
+for at kunne klare sig, eller, som det også blev
+
+5080
+
+Onsdag den 1. april 2009 (S 1799)
+
+sagt her, man kan henvende sig på socialkontoret. Jeg synes, det er nogle nedværdigende metoder at udsætte folk for. Jeg håber, ministeren er
+enig i, at det ikke kan tolereres, at man løser opgaven på den måde..";Ole Vagn Christensen
+63383;Time;;Kl. 14:05
+63395;title_name;"Ministeren.
+홢
+홢Kl. 14:05
+Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Jeg tror jo, at ved at der er konkurrence mellem
+a-kasserne, sikrer man ikke alene det billigste
+produkt, men man sikrer altså også, at der konkurreres på kvaliteten i a-kasserne. Der er efter
+min mening ingen grund til at tro, at hvis man
+stavnsbandt mennesker til en bestemt a-kasse,
+skulle det betyde, at sagsbehandlingstiderne
+blev anderledes. Jeg vil jo så sige, at siden det
+frie valg blev indført i 2002, er sagsbehandlingstiderne i a-kasserne gået ned, og jeg tror, at i
+ukomplicerede sager er sagsbehandlingstiden
+4 uger.";Formanden
+64012;Time;;Kl. 14:06
+64024;title_name;Hr. Ole Vagn Christensen.;Formanden
+64059;Time;;Kl. 14:06
+64084;name_party;":
+Jeg er nødt til at sige til beskæftigelsesministeren, at det jo er nu, systemet skal stå sin prøve,
+og nu har vi set, hvad det er for resultat, det her
+system fører til. Jeg ønsker ikke at gå ind i en
+diskussion om den ene eller den anden form for
+a-kasse. Jeg ønsker, at de, der tilmelder sig arbejdsløshedskassen, er sikre på, at de kan få deres ydelser, og at de kan få dem til den tid, de
+skal have dem i henhold til den lovgivning, der
+er lavet for, hvornår vi mener der skal udbetales
+dagpenge. Det er derfor, jeg rejser spørgsmålet.
+Jeg synes, at det her system spiller fallit i øjeblikket, og at det er den ledige, som betaler prisen for det, og det skyldes den stigende arbejdsløshed, som vi nu kommer til at opleve. Det er jo
+ingen sag, når man ridder på en bølge, der går
+den anden vej, så ligesom at sige: Jamen der kan
+I bare se, det her er jo en succes. Nej, det er nu,
+det skal stå sin prøve.";Ole Vagn Christensen
+65003;Time;;Kl. 14:07
+65015;title_name;"«
+Ministeren.";Formanden
+65039;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Jeg er jo sådan set ked af, hvis hr. Ole Vagn Christensen ikke tror på a-kasse-systemet og tror, at
+det har spillet fallit, for så må vi da overveje,
+hvordan systemerne i fremtiden skal være. Jeg
+går da ikke ud fra, at hr. Ole Vagn Christensen
+vil forbyde folk selv at vælge, hvilken a-kasse de
+vil være medlem af. Det ville da efter min opfattelse være et utroligt tilbageskridt. Men hvis
+man skal tage det for pålydende, er det jo det,
+hr. Ole Vagn Christensen vil foreslå.
+Jeg ved ikke, om hr. Ole Vagn Christensen vil
+foreslå, at man laver én stor statslig a-kasse, der
+så. kan løse de her problemer. Jeg har været tilhænger af, at vi har de her forskellige a-kasser,
+og at man kan vælge imellem dem. Der synes
+jeg at medlemmerne af a-kasserne må vurdere,
+om den a-kasse, de er medlem af, lever op til deres forventninger, og hvis den ikke gør det, må
+de vælge en anden.";Kl. 14:07
+65976;Time;;Kl. 14:08
+65988;title_name;"Hr. Ole Vagn Christensen.
+. Kl. 14:08";Formanden
+66050;name_party;":
+Genialt svar, må jeg sige, men det holder sig jo
+ikke til dagsordenen. Jeg spurgte til hensigten
+med det frie valg. Det var det frie valg, jeg sådan
+set gjorde opmærksom på har spillet fallit, når
+ordningen med det frie valg ikke kan løse opgaven. Det var det, det handlede om, så beskæftigelsesministeren skal lade være med at komme
+ind på alt det andet. Det kan vi godt tage en diskussion om, men det bliver på en helt anden måde, det bør foregå. Det er ikke her i spørgetiden.
+Men jeg vil gerne holde fast i, om det er kvalitet, når man skal bringes til enten at gå til sin
+bank eller til et socialkontor, hvor man skal stå
+ydmygt og bede om sine penge, fordi ordningen
+med det frie valg ikke kan løse opgaven.";Ole Vagn Christensen
+66775;Time;"Tredje næstformand (Holger K. Nielsen):
+Beskæftigelsesministeren.";Kl. 14:09
+66851;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Nu har Arbejdsdirektoratet skrevet til den pågældende a-kasse for at høre, hvad forklaringen
+er på det her. Jeg vil bare sige til hr. Ole Vagn
+Christensen, at jeg generelt tror, at mennesker
+har godt af, at de selv kan vælge. Jeg synes ikke,
+det var specielt bedre, dengang man var stavns-
+
+(636)
+Onsdag den 1. april 2009 (S 1800)
+bundet til en speciel a-kasse. For vi kan jo se,
+hvis vi tager den gennemsnitlige sagsbehandlingstid, at den er faldet jævnt igennem årene siden 2002, og det var i 2002, at man fik det frie
+valg. Så jeg tror faktisk, at det frie valg har hjulpet med til en generelt lavere sagsbehandlingstid. Den er i hvert fald lavere, end den var, dengang man havde stavnsbundne medlemmer af
+a-kasser.";Kl. 14:09
+67633;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak. Spørgsmålet er afsluttet.
+Det næste spørgsmål er også stillet til beskæftigelsesministeren af hr. Ole Vagn Christensen.";Kl. 14:09
+67808;Time;"Spm. nr. S 1800
+2) Til beskæftigelsesministeren af:";Kl. 14:10
+67885;name_party;":
+Hvad agter ministeren at gøre for at løse de problemer, som det frie valg af a-kasse har medført
+for personer, der bliver ledige?
+Skriftlig begrundelse
+Der henvises til begrundelsen for spørgsmål nr.
+S1799.
+Tredje næstformand (Holger K. Nielsen):
+Hr. Ole Vagn Christensen for oplæsning af
+spørgsmålet.";Ole Vagn Christensen
+68198;Time;;Kl. 14:10
+68223;name_party;":
+Jeg ved ikke hvad det er for en sagsbehandlingstid, man taler om - undskyld, jeg skal læse
+spørgsmålet op: Hvad agter ministeren at gøre
+for at løse de problemer, som det frie valg af
+a-kasse har medført for personer, der bliver ledige?";Ole Vagn Christensen
+68471;Time;"Tredje næstformand (Holger K. Nielsen):
+Beskæftigelsesministeren.";Kl. 14:10
+68547;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Det frie valg af a-kassé har ikke medført problemer for personer, der bliver ledige. Tværtimod
+mener jeg, at fri konkurrence mellem a-kasserne
+sikrer, at a-kasserne yder den bedst mulige service over for de ledige.
+A-kassernes gennemsnitlige sagsbehandlingstid er konstant faldet fra 2002 og frem til i
+
+5081
+
+dag, og jeg vil ikke undlade at nævne, at det netop var i 2002, regeringen gav mennesker mulighed for at vælge, og at man kunne lave tværfaglige a-kasser. Dermed blev konkurrencen øget.
+Jeg vil i øvrigt gerne understrege, at ingen ledige inister deres dagpenge. Når a-kassen har
+godkendt anmodningen om dagpenge, får den
+ledige udbetalt dagpenge for hele ledighedsperioden. Det gælder således også, selv om en
+a-kasse har været nogle uger længere om sagsbehandlingen end forventet.";Kl. 14:10
+69401;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Ole Vagn Christensen.";Kl. 14:11
+69477;Time;;Kl. 14:11
+69502;name_party;":
+Jeg kan forstå, at beskæftigelsesministeren er
+glad for det frie valg, og det er jo fint. Men jeg
+kan også forstå, at ministeren ingen løsning har
+på konsekvenserne af det frie valg i netop den
+situation, som vi jo har drøftet.
+Jeg er derfor nødt til at spørge beskæftigelsesministeren: Synes ministeren virkelig, det er rimeligt, at folk skal tigge om at få penge, for at de
+kan overleve, fordi udbetalingerne ikke finder
+sted i henhold til den lovgivning, som vi sådan
+set har fastsat herinde i Folketinget? Jeg troede,
+at jeg havde fået et svar fra beskæftigelsesministeren om, at der selvfølgelig skulle gøres noget
+for at få det her strammet op, og at hvis det var
+nødvendigt, skulle de der foretagender, som jeg
+mener har tjent mange penge på det frie valg,
+pålægges at få ansat nogle mennesker, så folk
+kunne få en rimelig behandling i de a-kasser.";Ole Vagn Christensen
+70369;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+, Kl. 14:12
+Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Som sagt har Arbejdsdirektoratet jo skrevet til
+den pågældende a-kasse i anledning af den artikel, der var i Jyllands-Posten. Der må vi jo så se,
+hvad svaret er.
+Generelt set er sagsbehandlingstiderne i
+a-kasserne faldet. De er faldet, sideri dengang
+man var tvangsmedlem af en a-kasse, og dengang der var eksklusivbestemmelser og alt det
+der, hvor folk blev snøret ind i bestemte foreninger.
+Men vi kan glædeligvis konstatere, at sagsbehandlingstiderne er faldet, og jeg tror også, at
+man kan sige, at det selvfølgelig også vil være et
+konkurrenceparameter a-kasserne imellem, at :
+
+5082
+
+Onsdag den 1. april 2009 (S 1796)
+
+de er i stand til at levere en ordentlig service og
+ydelser inden for en kort periode.";Kl. 14:12
+71208;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Ole Vagn Christensen.";Kl. 14:13
+71284;Time;;Kl. 14:13
+71309;name_party;":
+Sagsbehandlingstiden er faldet, siger ministeren. Det, det handler om, er sådan set, at der er :
+nogle mennesker, der ikke som sædvanlig har
+kunnet modtage deres understøttelse, og at de
+nu skal vente 4-6 uger, som tingene er forelagt.
+Det er derfor, de er blevet henvist til så at
+måtte gå til deres bank, eller også må de gå på
+socialkontoret, hvis de vil overleve, eller også
+må de bruge de eventuelle penge, som de ikke
+har. I gamle dage var det jo købmandsbogen,
+der holdt for, men der er jo ikke så mange, der
+har sådan en i dag, vil jeg sige til ministeren.
+Det er ikke det der med sagsbehandlingstiden, jeg er interesseret i, men jeg er interesseret i,
+om man følger den lovgivning, der er for udbetalinger.";Ole Vagn Christensen
+72036;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:14
+72098;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Vi interesserer os jo også meget for, at man følger lovgivningen, og der er jo et omfattende tilsyn med a-kasserne. Jeg tror bare, at det ikke er
+særlig god pr for en a-kasse, hvis det hedder sig,
+at man skal vente i månedsvis på at få sin understøttelse udbetalt, så jeg tror faktisk, at de her
+ting vil rette sig ind. Men jeg har fået at vide,
+at direktoratet har skrevet til den pågældende
+a-kasse, og når vi har fået svaret, vil vi vide noget om, hvorfor der skulle være 6-8 ugers ventetid.";Kl. 14:14
+72655;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Ole Vagn Christensen.";Kl. 14:15
+72731;Time;;Kl. 14:15
+72756;name_party;":
+Ministeren siger, at det vil rette sig ind. Det tror
+jeg da også, men det hjælper jo ikke dem, der
+står i situationen. Det hjælper jo ikke dem, for
+hvem problemet eventuelt kommer til at optræde i fremtiden, hvis ikke der skaffes økonomi
+nok til a-kasserne. Vi har jo set, hvordan en enkelt a-kasse er ude med snøren nu og lover både
+det ene og det andet. Det kunne jo være, at det
+er, fordi man skal skaffe kapital, så man kan få
+
+det til at fungere - det skal jeg lade være usagt men jeg kan i hvert fald se, at der ligger nogle
+udviklinger her, som meget nemt kan rende ud
+ad nogle tangenter, hvor det sådan set er de
+mennesker, som er blevet lokket ind i det her system, der bliver sorteper.
+Jeg forstår, at regeringen ikke vil gøre noget
+for dem andet end at spørge: Hvordan kan det
+være, at I ikke gør jeres arbejde, som det er pålagt jer gennem lovgivningen?";Ole Vagn Christensen
+73633;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:16
+73695;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Vi påser nøje, at medlemmernes rettigheder
+overholdes, og at lovgivningen følges. Det er jo
+sådan set formålet med det tilsyn, vi har med
+a-kasserne, og derfor går vi jo også ind i de her
+sager og spørger, hvad der er årsagen til, at man
+i den her a-kasse har 6-8 ugers ventetid i øjeblikket.
+Jeg synes, at der skal være kort ekspeditionstid, men vi balancerer jo mellem to opgaver den ene er, at den arbejdsløse skal have sine
+penge så hurtigt som muligt, den anden er, at
+der jo også skal være de nødvendige og tilstrækkelige oplysninger til, at a-kassen kan udbetale
+de her penge.
+Men jeg vil gerne sige igen, at jeg synes, at hr.
+Ole Vagn Christensens angreb på a-kasserne og
+det, at man har valgfrihed, er forkert, for siden
+man gik bort fra det obligatoriske medlemskab,
+altså siden 2002, er den gennemsnitlige sagsbehandlingstid i a-kasserne faldet.";Kl. 14:16
+74614;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak til ministeren. Spørgsmålet er afsluttet. Det
+næste spørgsmål er stillet til transportministeren
+af hr. Per Clausen.";Kl. 14:17
+74785;Time;"Spm. nr. S 1796
+3) Til transportministeren af:";Kl. 14:17
+74849;name_party;":
+Mener ministeren, at det vil gavne mulighederne for at reducere transportens CO2-udslip, når
+priserne på den kollektive trafik i regionerne og
+byerne i år stiger med næsten 5 pct.?
+Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen for oplæsning af spørgsmålet.
+
+Onsdag den 1. april 2009 (S 1796)";Per Clausen
+75163;Time;;Kl. 14:17
+75180;name_party;":
+Mener ministeren, at det vil gavne mulighederne for at reducere transportens CO2-udslip, når
+priserne på den kollektive trafik i regionerne og
+byerne i år stiger med næsten 5 pct.?
+:.";Per Clausen
+75375;Time;"Tredje næstformand (Holger K. Nielsen):
+-Ministeren.";Kl. 14:17
+75438;Time;"Transportministeren (Lars Barfoed):
+Tak for spørgsmålet. Nu vil jeg først sige, at ordet næsten selvfølgelig kan diskuteres. Det er jo
+et relativt begreb. Men i år kan taksterne altså
+ikke stige med mere end 3,1 pet. Det er først næste år, at takstloftet er på 4,8 pet., og dermed næsten 5 pet. Det er bare lige til orientering.
+Men takststigninger i sig selv kan naturligvis
+ikke have en gavnlig effekt på CO2-udslippet.
+Jeg tror heller ikke, det har nogen negativ effekt
+på det, hvis bare det er sådan, at man holder sig
+inden for et takstloft, der er et udtryk for de omkostningsstigninger, der er i samfundet.
+Den mulighed for takststigninger - for det er
+jo kun en mulighed for takststigninger - der er
+meldt ud nu for 2010, fordi vi netop har et takstloft, er udtryk for, hvordan omkostningerne er
+steget i henhold til den aftale, der er om takstloftet. Så det er altså bare et udtryk for, at lønninger, brændselspriser og andre omkostninger er
+steget, og derfor skal trafikselskaberne selvfølgelig også have mulighed for at indkalkulere de
+omkostningsstigninger i taksterne. Så det er ikke
+en taktsstigning ud over det, for regeringen har
+netop lagt vægt på> at vi har et takstloft, så man
+ikke kan lade priserne for den kollektive trafik
+stige mere, end omkostningerne stiger her i samfundet, herunder ikke mindst de lønstigninger,
+folkfår.
+Når folk får lønstigninger, er det jo også udtryk for, at så kän man også betale lidt mere for
+varer og serviceydelser, derunder kollektiv tra. fik.
+...";Kl. 14:17
+76950;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.
+. Kl. 14:19";Kl. 14:19
+77036;name_party;":
+Jeg tror, at der er mange mennesker i Danmark,
+der ville være glade, hvis det var sådan, at de
+kunne forvente i. år og næste år at få lønstigninger op i nærheden af 8 pet. Det tror jeg faktisk
+ville skabe meget glæde og tilfredshed hos de
+
+5083
+
+lønmodtagere, der må opleve, at lønstigningerne i realiteten er gået i stå.
+Det, som er afgørende her, er jo, om de prisstigninger, der sker på den kollektive trafik, flytter transport væk fra den kollektive trafik og
+over på den individuelle trafik, og selvfølgelig
+også, om det giver nogle store sociale problemer
+for de mennesker, der så ikke har mulighed for
+at flytte over på den individuelle trafik, fordi de
+ikke økonomisk har den mulighed.
+Ministeren må vel erkende, at hvis det prismæssigt bliver mindre attraktivt at bruge den
+kollektive trafik, har det en negativ effekt på
+CO,-udslippet. Det kan jo godt blive mindre attraktivt at bruge den kollektive trafik på grund
+af prisstigninger inden for den kollektive trafik,
+selv om prisstigninger på den kollektive trafik
+bare er udtryk for, at udgifterne i forbindelse
+med kollektiv trafik er blevet større. Det kan
+man jo ikke have nogen som helst sikkerhed for
+ikke alligevel påvirker det valg, som folk foretager.Jeg synes jo, at ministeren skulle erkende, at
+det, der sker i år, og det, der sker næste år, uomtvisteligt vil få en negativ effekt i forhold til den
+kollektive trafik og lige så sikkert vil påvirke
+CO2-udslippet fra transportsektoren i den forkerte retning. I en situation, hvor regeringen
+godt nok har opgivet at have et fast mål for, hvor
+meget CO2-reduktion man skal have inden for
+transportsektoren i de kommende år, har jeg da
+forstået det sådan, at man stadig væk mener, at
+også transportsektoren skal levere en CO2-reduktion set i lyset af, at der generelt set er brug
+for bare ifølge regeringens ambitionsniveau en
+reduktion af CO2-tidslippet på 20 pet. frem til
+2020. Det gavner man jo næppe ved at acceptere,
+at der sker relativt store prisstigninger inden for
+den kollektive trafik..";Per Clausen
+79064;Time;"Tredj e næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:21
+79127;Time;"Transportministeren (Lars Barfoed):
+Altså, kernepunktet i hr. Per Clausens analyse
+her er jo, om det forhold, at taksterne stiger, fører til, at flere vælger at køre i deres private bil i
+stedet for at tage den kollektive trafik. Det må jo
+være omdrejningspunktet i analysen, altså om
+der er den sammenhæng.
+Den sammenhæng kan man ikke påvise - i
+hvert fald ikke så entydigt, som hr. Per Clausen
+lægger op til. Det, som man lægger vægt på, er
+jo i høj grad, om der er høj pålidelighed og hurti-
+
+5084
+
+Onsdag den 1. april 2009 (S 1796)
+
+ge, hyppige og sikre forbindelser i den kollektive trafik. Det får folk til at tage den kollektive
+trafik. Det er ikke så afgørende, om taksterne stiger lidt mere eller mindre.
+Der er det jo netop sådan, at regeringen har
+lavet et takstloft, så priserne ikke kan stige mere,
+end omkostningerne stiger. Der skal man så
+også som et led i den her analyse være opmærksom på, at når brændselspriserne stiger, bliver
+det jo også dyrere at køre i bil. Det må man tage
+højde for, og derfor er det jo sådan, at hvis endelig omkostningerne spiller en rolle, så er stigningen i omkostningsniveauet nok nogenlunde det
+samme, fordi brændstofprisen jo er en del af
+grundlaget for det tilladte takstloft.";Kl. 14:21
+80365;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:22
+80432;Time;;Kl. 14:22
+80449;name_party;":
+Jeg er da enig med ministeren i, at hvis det var
+sådan, at de her prisstigninger var betaling for
+forbedret kvalitet og højere regularitet, altså færre forsinkelser, så kunne man overveje, om det
+ikke havde nogen negativ konsekvens. Men når
+vi ser tilbage på de diskussioner, vi har haft om
+trafikselskabernes vilkår, den kollektive trafik i
+de store byer og i regionerne det sidste års tid, så
+har det jo entydigt været sådan, at de meldinger,
+der er kommet, har gået på forringelser.
+Det er jo rigtigt nok, at forringelserne for en
+dels vedkommende i forbindelse med budgetlægningen for i år blev udsat til sommer eller til
+det kommende års budgetter, men det er jo det
+ene, vi ser. Det andet, vi ser, er altså de her prisstigninger, og ministeren kan jo ikke komme
+uden om, at den generelle tendens i årevis har
+været, at prisstigningerne har været større på
+den kollektive trafik end på den individuelle
+transport. Derfor har vi så haft en situation, hvor
+der har været et massivt pres på folk til at vælge
+en løsning, som vi jo er enige om er den forkerte,
+når vi snakker om at reducere CO2-udslippet.";Per Clausen
+81567;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:23
+81629;Time;"Transportministeren (Lars Barfoed):
+Må jeg for det første sige med hensyn til takststigningerne: Hvis man ser tilbage på 1990'erne,
+i årene efter man gav et tilskud til nedsættelse af
+taksterne, så skete der selvfølgelig en nedsættelse af taksten i lige præcis det år, men så begynd-
+
+te priserne at stige med henholdsvis 2,9 pet., 4,8
+pet. og 6,8 pet. i 1999, og så faldt prisstigningerne til 4,8 pet. i 2002: 6:3 pet. og 9,4 pet. i 2004,
+hvor man jo så ophævede tilskuddet, men i stedet for investerede pengene i bedre trafik. Og så
+har der været prisstigninger på 3,1 pet. både i
+2005 og i 2006. Vi har altså også et tilladt loft på
+3,1 pet. nu. Så der er sådan set ikke tale om, at
+der skulle være specielt høje takststigninger i
+øjeblikket i forhold til tidligere.
+Derudover har regeringen jo besluttet at aftale med et bredt flertal her i Folketinget, at vi investerer massivt i den kollektive trafik, og dét
+flytter noget i forhold til CO2, for det er den investering i infrastruktur og i kollektiv trafik, der
+for alvor skal gøre det mere attraktivt at tage toget og bussen. Det er det, der flytter noget på
+CO2-udslippet, ud over det, vi gør for at fremme
+elbiler, alternativ teknologi osv. Dét flytter noget. Regeringen har lagt op til kloge kørselsafgifter, der også vil flytte noget på CO2-udslippet. Så
+nettoresultatet af regeringens politik er, at vi får
+nedbragt C02-udslippet fra trafikken.";Kl. 14:23
+83046;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.
+홢Kl. 14:24";Kl. 14:24
+83131;name_party;":
+Det bliver spændende, om regeringen en dag tør
+sætte tal på, hvor meget man forventer COz-udslippet fra transporten vil blive reduceret, for regeringen har jo systematisk sagt, at det vil man
+ikke.
+Så vil jeg sige, at ministeren jo har fuldstændig ret i, at prisstigningerne på den kollektive
+trafik i de sidste 20 år næsten hvert eneste år har
+været højere end de almindelige prisstigninger.
+Så der er ikke noget usædvanligt i situationen
+nu, det har ministeren ret i. Det er bare en fortsættelse af en mangeårig udvikling, som der
+blev sat en lille bremse for, da Enhedslisten
+medvirkede til at sikre, at der kom et tilskud til
+taksten. Men ellers har det gået sin skæve gang
+hele tiden. Det, der bare er forskellen: er, at vi inden for de sidste par år har fået en klar politisk
+erkendelse, også i andre partier end i Enhedslisten, af, at det er vigtigt af hensyn til at reducere CO2-udslippet, at vi får flyttet transporten.
+Så havde jeg måske en forventning om, at det,
+når vi nu havde fået den erkendelse til at brede
+sig, så også fik nogle konsekvenser for, hvilken
+politik man vil føre i forhold til de takststigninger, man vil acceptere.
+
+Onsdag den 1. april. 2009 (S 1797)
+
+5085";Per Clausen
+84333;Time;"Tredje næstformand (Holger K. Nielsen):
+Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen for oplæsning af spørgsmålet.";Kl. 14:25
+84469;Time;"Ministeren.
+: Kl. 14:25 Per Clausen (EL):
+Transportministeren (Lars Barfoed):
+Spørgsmålet lyder: Vil ministeren tage initiatiJeg må for det første sige, at det tilskud, Enheds- ver, der kan sikre, at priserne på kollektiv trafik
+listen, som hr. Per Clausen udtrykte det, fik ind i ikke stiger i år, eller at prisstigningerne begrænforbindelse med et politisk forlig tilbage i 1
+ses?
+....";Kl. 14:27
+84867;Time;"1990'erne til nedsættelse af taksterne, jo ikke
+medførte nogen takstnedsættelse på længere
+Tredje næstformand (Holger K. Nielsen):
+sigt. Efter få år var priserne jo højere, end de
+Ministeren.";Kl. 14:27
+85069;Time;"havde været før. Prisstigningstakten var omkring de der, jeg tror, det var 5-7 pet. i gennemTransportministeren (Lars Barfoed):
+snit om året. Så det havde ingen betydning, og
+Jeg skal igen lige for god ordens skyld sige, at
+der er ikke noget som helst, der påviser, at det
+prisstigningerne i år jo er underlagt et takstloft
+tilskud gjorde, at flere tog den kollektive trafik.
+på 3,1 pet. fra den 1. januar, og så er der et takstDet er jo det, der er kernen i det. Er der flere, der loft næste år, som nu er fastsat til 4,8 pet., baseret
+tager den kollektive trafik, nedbringer vi COzpå de indekstal, som vi netop har drøftet. Og det
+udslippet. Er der færre, så stiger det, fordi folk
+er jo baseret på en aftale mellem et flertal af partager bilen i stedet for.
+tierne her i Folketinget, der meget omhyggeligt
+Men omkostningsstigninger er jo udtryk for,
+har aftalt, at forskellige indeks spiller ind i et veat vi alle sammen i det her samfund bliver bela- jet gennemsnit for, hvad taksterne må stige med.
+stet af højere omkostninger. Når lønningerne stiDet er et udtryk for, at omkostningerne stiger
+ger i samfundet med mere end prisstigningerne,
+for trafikselskaberne, og hvis ikke de havde mubliver trafikselskaberne jo belastet af de lønstiglighed for at indregne de omkostninger i taksterninger, for dem skal.de betale til deres medarbej- ne - men der er kun mulighed for det, for de kan
+dere, og så er det klart, at de så også skal have
+godt lade være - ville vi tvinge dem til at forrinmulighed for at dække de øgede omkostninger
+ge serviceniveauet, fordi de, havde jeg nær sagt,
+ind, ligesom de skal kunne dække øgede ombogstavelig talt ikke ville have penge til at få det
+kostninger til brændsel ind i deres prisstigninhele til at køre rundt. Derfor vil jeg ikke tage nogen Den omkostning er jo en omkostning, som i get initiativ til at begrænse det. Jeg vil gerne se
+sidste ende kommer til at påhvile os alle sampå den overordnede lovgivning for busselskamen i det her samfund, og derfor er det naturligt berne og se, om der er noget, vi kan gøre for at
+nok, at trafikselskaberne kan indregne det. Men
+fremme busdriften og få flere til at tage bussen.
+der er et loft. Der er ingen, der siger, de skal
+Vi har også afsat nogle puljer nu i vores trafikramme det. De kan holde sig under loftet, men
+forlig til at få flere til at tage bussen. Det vil jeg
+der er et loft, så vi sikrer, at priserne kun stiger i
+gerne se på.
+. Kl. 14:28
+takt med omkostningerne.
+.....
+,";Kl. 14:27
+87550;Time;"Tredje næstformand (Holger K. Nielsen):
+Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:27
+87657;Time;",
+Det er vigtige sager, vi diskuterer, men vi har
+nogle taletidsbegrænsningér i forretningsordePer Clausen (EL):
+nen. ,
+Kernen i det her er selvfølgelig, at ministeren jo
+Det næste spørgsmål er også til transportmihar ret i, at det ikke ville løse nogen som helst
+nisteren af hr. Per Clausen.
+problemer, hvis man bare strammede prisloftet
+og ikke gjorde andet. Det er klart, og jeg tror såKl. 14:27 dan set ikke på, at der er nogen af de her trafikselskaber, der sætter priserne højere, end det er
+Spm. nr. S 1797
+nødvendigt. Jeg tror i hvert fald ikke ret meget
+4) Til transportministeren af:
+på, at der er nogen kommuner, som accepterer,";Kl. 14:28
+88314;name_party;":
+at det sker, for det vækker megen utilfredshed i
+befolkningen, når man har de her prisstigninger,
+Vil ministeren tage initiativer, der kan sikre, at
+priserne på kollektiv trafik ikke stiger i år, eller
+som folk i hvert fald opfatter som værende ude
+at prisstigningerne begrænses?
+
+5086
+
+Onsdag den 1. april 2009 (S 1797)
+
+af takt med de lønstigninger, som de selv oplever at de har.
+Men når nu ministeren er optaget af den kollektive trafik, ligesom alle andre i Folketinget siger at de er, og vi ved, at en ikke uvigtig fødekæde til den kollektive trafik jo f.eks. er de lokale
+og regionale busser - meget lokaltrafik og kollektiv trafik tager jo sit udgangspunkt der - er
+ministeren så ikke enig med mig i, at man bliver
+nødt til at sikre, at den transportform fungerer
+videre som et attraktivt alternativ til privatbilismen? Og er ministeren ikke enig med mig i, at
+man i den sammenhæng også burde se på, om
+den måde, man i dag regulerer priserne på, er rimelig, eller om der faktisk er brug for at tilføre
+flere midler til det her område for på en og samme tid at sikre et kvalitetsløft og sikre, at priserne ikke fortsætter den himmelflugt, som jeg er
+enig med ministeren i at mange ministre før
+ham kan påtage sig et medansvar for, og som jo
+bare er en lang, glidende udvikling, som er gået
+fuldstændig i den forkerte retning i årevis?";Per Clausen
+89668;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:30
+89730;Time;"Transportministeren (Lars Barfoed):
+Der er altså ikke den sammenhæng mellem
+takststigningerne og antallet af passagerer, som
+hr. Per Clausen påstår at der er, og som han bruger som forudsætning for sin analyse her. Vi kan
+jo se, at de seneste tal fra DSB viser - de er jo
+også underlagt et takststigningsloft, men der
+sker takststigninger - at der er flere og flere, som
+tager toget, så der er ikke den klare sammenhæng. Der er en lang række faktorer, der spiller
+ind på, om man tager den kollektive trafik, eller
+om man tager sin egen bil. Og de omkostningsstigninger, som man er underlagt i den kollektive trafik, sådan at priserne altså må stige, når
+omkostningerne stiger, er jo i virkeligheden et
+spejl af, at omkostningerne også stiger ved at
+tage bilen. Derfor sker der ikke det skift, som hr.
+Per Clausens analyse påstår at der gør.
+I øvrigt vil jeg sige, at busdriften jo ikke bare
+er en fødekæde til den kollektive trafik, den er
+simpelt hen en del af den kollektive trafik. Man
+kunne lige så vel sige, at toget er en fødekæde til
+busserne.
+홢홢
+홢 Kl. 14:31
+Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:30
+90864;Time;;Kl. 14:31
+90881;name_party;":
+Ministeren har selvfølgelig ret i, at det ikke er sådan, at man kun ved at regulere priserne på den
+kollektive trafik kan ændre afgørende på, hvilke
+transportmidler folk bruger, i hvert fald ikke
+medmindre man gennemfører meget dramatiske forandringer i priserne. Det kunne vi overveje at gøre, men det er ikke temaet for diskussionen i dag. Temaet for diskussionen i dag er at
+få sat en stopper for den fortsatte vækst i de priser, man betaler for at bruge den kollektive trafik.
+Det, som jeg måske alligevel synes er lidt
+mærkeligt, er, at transportministeren har besluttet sig til, at penge ingenting betyder på dette
+ene område, økonomi betyder ingenting: priserne er for så vidt ligegyldige. Og det synes jeg
+måske er et lidt utraditionelt borgerligt standpunkt, hvis jeg skal være helt ærlig.";Per Clausen
+91691;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:32
+91753;Time;"Transportministeren (Lars Barfoed):
+Jeg synes måske, det er en lidt frisk fortolkning,
+når hr. Per Clausen siger, at jeg mener, at priserne overhovedet ikke betyder noget som helst.
+Så langt vil jeg ikke gå. Det er klart, at var der
+stigninger på priserne, der lå langt ud over lønomkostninger, brændselspriser osv., så ville det
+da være en problemstilling, der var værd at tage
+fat i.
+Jeg vil også gerne sige, at jeg da af mange forskellige grunde meget gerne så, at vi kunne have
+lavere priser på den kollektive trafik, men prisstigningerne der som andre steder må nu engang afspejle de omkostninger, der er. Det er jo i
+forvejen sådan, at det offentlige bidrager med
+betydelige tilskud til den kollektive trafik. Det,
+man betaler for at tage bussen og toget, er jo betydelig mindre end det, det reelt koster at drive
+busser og tog, fordi vi giver så store bffentlige
+tilskud til det, som vi gør.
+Men jeg mener, der er behov for, at man ser
+mere samlet på, hvad det er, der får mængden af
+CO,-udslip til at falde, og det er derfor, regeringens samlede investeringsplan vil betyde et fald
+i mængden af CO,-udslip.";Kl. 14:32
+92878;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.
+
+Onsdag den 1. april 2009 (S 1785)";Kl. 14:33
+92981;Time;;Kl. 14:33
+92998;name_party;":
+Nu har jeg jo været en relativt flittig bruger af
+den kollektive trafik, bl.a. på grund af dovenskab, der gør, at jeg har taget bussen i stedet for
+at cykle og gå - sikkert til skade for mit helbred.
+Men det, som jeg selv har kunnet konstatere,
+og som enhver undersøgelse også viser, er, at
+der har været massive prisstigninger i den kollektive trafik, som har været langt ud over, hvad
+den almindelige prisudvikling har været, og
+langt ud over, hvad omkostningsstigningen har
+været ved at køre i bil. Det er det, vi har set de
+sidste 20-25 år.
+Derfor synes jeg jo, at det er ved at være tiden, hvor man siger, at der nu må sættes en
+stopper for den forkerte udvikling, ja, måske
+endda få den vendt. Vi har i den nuværende situation en fælles forståelse af det nødvendige i
+at omstille til kollektiv trafik, og jeg kan forsikre
+ministeren for, at jeg kunne nævne mange eksempler på andre konservative politikere, der i
+tidligere år har haft lidt svært ved at indse nødvendigheden af det.";Per Clausen
+93997;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:34
+94059;Time;"Transportministeren (Lars Barfoed):
+Pengene skal jo tages et sted fra. Når lønomkostningerne stiger, når oliepriserne stiger - de både
+stiger og falder i øvrigt, de er steget noget af
+året, og så er de faldet igen osv. - når der samlet
+set er en omkostningsstigning, skal det jo betales
+et sted. Vi kan som samfund ikke leve, som om
+det slet ikke sker. Og der er det jo meget naturligt, at de omkostningsstigninger, der er forbundet med at køre bus og tog, medfører, at priserne
+også stiger. I år skal prisstigningerne ikke
+mindst ses på baggrund af nogle lønstigningstakster, der er væsentlige, og som påvirker det
+her indeks. Men lønstigninger er jo også udtryk
+for, at folk har fået flere penge mellem hænderne. Derfor er det en helt naturlig sammenhæng,
+der er der.
+Men vi har netop fra regeringens side og fra
+flertallet i Folketingets side fastlagt et loft for de
+her takststigninger, så de ikke kan stige mere,
+end omkostningerne stiger. Det er jo rimeligt
+nok.
+I perioder, hvor oliepriser og brændselspriser
+generelt stiger mere, end vores lønninger i samfundet gør, så er det jo i virkeligheden udtryk ,
+for, at vi alle sammen bliver fattigere, fordi vi
+
+5087
+
+altså skal bruge flere penge på det her brændsel.
+Det kan vi jo ikke bare lade som om vi ikke bliver, det er jo en omkostning, der må betales et
+sted, og så må vi spare andre steder. Sådan er
+det jo. Uanset hvordan man stiller det op, kan vi
+ikke bare lade, som om vi i det her samfund ikke
+bliver fattigere, hvis oliepriserne stiger mere,
+end vores produktion stiger.";Kl. 14:34
+95608;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak til ministeren. Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til ministeren
+for sundhed og forebyggelse af fru Liselott Blixt.";Kl. 14:36
+95801;Time;"Spm. nr. S 1785
+5) Til ministeren for sundhed og forebyggelse af:";Kl. 14:36
+95887;name_party;":
+Hvad er ministerens kommentar til, at unge piger mellem 17 og 26 år, der kunne beskytte sig
+mod livmoderhalskræft med en hpv-vaccination, må undlade dette af økonomiske årsager,
+og mener ministeren ikke på den baggrund, at
+der her er en klar indikation af en social slagside?
+Tredje næstformand (Holger K. Nielsen):
+Fru Liselott Blixt for oplæsning af spørgsmålet.
+Spørgsmålet skal læses op af spørgeren. Det siger den nye forretningsorden.";Liselott Blixt
+96339;Time;;Kl. 14:36
+96359;name_party;":
+, O.k. Det er rart lige at vide.
+Jeg vil spørge om ministerens kommentar til,
+at unge piger mellem 17 og 26 år, der kunne beskytte sig mod livmoderhalskræft med en hpvvaccination, må undlade dette af, økonomiske
+årsager, og om ministeren ikke på den baggrund
+mener, at der her er tale om en klar indikation af
+en social slagside?";Liselott Blixt
+96700;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak for det. Ministeren.";Kl. 14:36
+96775;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Lad mig indledningsvis slå fast, at formålet med
+...[lydudfald]
+...";Kl. 14:36
+96914;Time;"Tredje næstformand (Holger K. Nielsen):
+Vi skål lige have ministerens mikrofon tændt.
+Vi starter forfra igen.
+
+5088
+
+Onsdag den 1. april 2009 (S 1785)
+
+: Kl. 14:37
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Lyden plejer at komme automatisk, hr. formand.
+(Tredje næstformand (Holger K. Nielsen): Ja, det
+gør den. Det gjorde den også til sidst). O.k., tak.
+Jeg starter forfra.
+Lad mig indledningsvis slå fast, at formålet
+med at vaccinere er at forbedre folkesundheden,
+og det er derfor, vi i fællesskab sammen med Liberal Alliance har prøvet at sikre vaccinationsindsatsens tilrettelæggelse på en sådan måde, at
+den også bidrager til det formål. Det har vi gjort
+ved at følge den sundhedsfaglige indstilling fra
+Sundhedsstyrelsen om at tilbyde vaccinen til 12årige piger og så gennemføre det her opfølgningsprogram, populært kaldet et catch-up-program, for de 13-15-årige.
+Formålet med det her opfølgningsprogram er
+ikke alene at beskytte pigerne i aldersgruppen,
+men også at sikre en høj grad af flokimmunitet,
+som betyder, at vi hurtigere får udryddet hpvtyper, som vaccinen beskytter mod, og som kan
+forårsage livmoderhalskræft. Det vil også være
+til glæde for de piger, som ikke tager imod tilbuddet om gratis vaccination.
+Den seneste opgørelse fra Statens Serum Institut viser, at 66 pet. af de piger, som er omfattet
+af catch-up-programmet, påbegyndte vaccinen i
+de første 3 måneder, programmet kørte, og hvis
+vi har in mente, at pigerne kan tage imod tilbuddet indtil udgangen af 2010, så tyder det jo rigtig
+godt på, at vi får mange med. Den øvre aldersgrænse for vaccinationstilbuddet på 15 år er
+fastsat ud fra nogle sundhedsfaglige afvejninger
+af fordele og ulemper ved vaccinen, og når pigerne bliver ældre end 15 år, begynder man at
+vaccinere mange piger, hvor vaccinen ikke vil
+have effekt.
+I de lavere aldersgrupper, hvor kun et fåtal
+har haft seksuel debut, beskytter vaccinen 70
+pet. mod livmoderhalskræft. Jo ældre pigerne
+bliver, desto lavere er effekten af vaccinen, og
+samtidig vil man unødigt udsætte pigerne for
+ubehaget ved de eventuelle bivirkninger, som
+der kan være. Hermed ikke sagt, at der ikke kan
+være piger over 15 år, som kan have gavn af vaccinen, men når vi indfører sådanne nationale tilbud, må det bygge på en samlet vurdering af effekten i forhold til samfundet som helhed. Det
+var det, vi gjorde, da vi indførte den.";Kl. 14:36
+99298;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak til ministeren. Fru Liselott Blixt.";Kl. 14:39
+99389;Time;;Kl. 14:39
+99409;name_party;":
+Dansk Folkeparti er også glade for, at vi fik indført vaccinationen, men vi bekymrer os lidt for
+de piger, der er lidt ældre. Nu er det efterhånden
+så de 17-årige og opefter. Jeg får netop besøg af
+nogle her på fredag, der er mellem 20 og 25 år,
+og som synes, det er meget bekymrende, at de
+ikke kan få den her vaccination. Mange af dem
+er på SU og har ikke råd til at betale den selv og
+kommer fra familier, der måske heller ikke har
+råd til det. Der kan vi se en social slagside, ved
+at visse grupper fra nogle kommuner eller byer
+ikke har råd til det, mens vi kan se, at der i andre
+kommuner er mange flere, der bliver vaccineret.
+Det, vi gerne vil, er at høre, om vi kunne få
+vaccineret de her piger på en måde. Vi vil gerne
+høre, hvad ministeren mener om de her piger,
+specielt dem fra 17 til 26 år, og hvilke samfundsøkonomiske konsekvenser der ville være, hvis vi
+gik ind og vaccinerede dem.";Liselott Blixt
+100319;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:40
+100381;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg er udmærket klar over, at mange piger på 15
+år mener, det er uretfærdigt, at de ikke kan få
+vaccinen gratis. Sådan vil det selvfølgelig være.
+Men jeg mener også, vi er nødt til at holde fokus
+på, hvad der er sundhedsfagligt belæg for at en
+årgang kan have gavn af, og særlig når vi har et
+screeningsprogram mod livmoderhalskræft,
+som begynder allerede fra det 23. år. Rent faktisk
+synes jeg, at vi kan være stolte af det her vaccinationsprogram, som regeringen og Dansk Folkeparti og Liberal Alliance gik sammen om allerede i marts 2008. Men dermed jo ikke sagt, at vi
+ikke på et tidspunkt kan komme i besiddelse af
+ny viden, som vi må forholde os til i et eventuelt
+nyt vaccinationsprogram. Det er jo som bekendt
+en meget ny vaccine, vi har med at gøre.";Kl. 14:40
+101211;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Liselott Blixt.";Kl. 14:41
+101281;Time;;Kl. 14:41
+101301;name_party;":
+Det vil jeg glæde mig til, for jeg har nogle undersøgelser, der viser, at for piger op i 20-års-alderen kan man påvise, at de måske har fået én
+hpv-virustype, men at de ikke har de tre andre,
+og det vil sige, at der ved at vaccinere de her piger er meget stor sandsynlighed for, at de får en
+
+(637)
+Onsdag den 1. april 2009 (S 1801)
+dækning, der gør, at de ikke senere får livmoderhalskræft, og samtidig også, at de bliver fri
+for kønsvorter, som også er en del af det her program. Vi kan også se, at man nu kommer med en
+ny vaccine - hvor man netop vil undersøge forskellen for de 18-26-årige 홢der dækker endnu
+flere. Så man kan se, at det med hensyn til det
+fremtidige netop, når vi taler forebyggelse, er en.
+kræftform, man kan gå ind og forebygge allerede nu. Så jeg vil nok tage det som en afslutning
+og sige, at jeg vil finde undersøgelserne frem og
+kontakte ministeren.
+홢";Liselott Blixt
+102192;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+. Kl. 14:42
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det er du jo selvfølgelig meget velkommen til.";Kl. 14:42
+102374;Time;"Tredje næstformand (Holger K. Nielsen):
+Det er spørgeren meget velkommen til.";Kl. 14:42
+102462;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Undskyld, hr. formand. Det er rigtigt. Det er
+spørgeren meget velkommen til.
+Nu synes jeg, at vi skal være meget stolte af,'
+at vi fandt sammen om at lave den her epokegørende forebyggende vaccine. Den hviler jo på
+sundhedsfaglig indsigt, og jeg mener ikke, at der
+p.t. er belæg for, at vi politisk skal fravige den
+indstilling. Men kommer der ikke nye oplysninger frem - jeg er p.t. ikke i besiddelse af dem,
+men de kan jo komme, det kan være, at de kommer med de oplysninger, som spørgeren ville
+komme over med - mener jeg ikke, at vi politisk
+kan vælge andet end det, der sundhedsfagligt er
+belæg f o r . .
+' Kl. 14:42
+Tredje næstformand (Holger K. Nielsen):
+Fru Liselott Blixt.";Kl. 14:42
+103215;Time;;Kl. 14:43
+103235;name_party;":
+Jeg troede faktisk ikke, jeg havde flere spørgsmål. (Formanden: Jo, der er mulighed for et mere). Jamen så vil jeg sige, at Sundhedsstyrelsen i
+starten, da vi diskuterede den her hpv-vaccine,
+anbefalede helt op til 26 år, for procenttallet blev
+selvfølgelig lavere, men der var stadigvæk dækning for én hpv-virus, dvs. én livmoderhalskræft. Hvor mange procent skal vi sige vil være
+o.k. for at kunne gå ud og vaccinere? Hvor mange procent af en aldersgruppe skal vi tillade kan
+
+5089
+
+blive syge af en kræftsygdom, som vi ved i dag
+rammer 400? De får livmoderhalskræft, de skal
+have keglesnit, de skal opereres, have stråler, og
+175 af dem dør om året. Hvor stor en procentdel
+skal vi tillade eventuelt kan få den her virus?";Liselott Blixt
+103971;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+. Kl. 14:43
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det spørgsmål lader sig selvfølgelig ikke besvare. Vi er jo en kreds af politiske partier, der rent
+faktisk har fundet sammen, fordi vi synes, at det
+her er nyttigt, og vi mener, at det er en stor
+hjælp. Vi var jo mange partier, der startede omkring forhandlingsbordet for at indføre den her
+vaccine. Vi var desværre ikke så mange, der sad
+der til sidst. Vi gør det jo, fordi vi rent faktisk ønsker at give en bedre situation. Men vi var også,
+da vi sad og forhandlede, i tæt kontakt med
+Sundhedsstyrelsen og fik mange, råd og meget
+vejledning om, hvornår den virker, og hvornår
+effekten begynder at falde. Og det er det, der er
+afgørende for mig, nemlig at vi skal have fuld
+effekt af tingene. Hvis der kan være effekt ved et
+højere alderstrin, er det jo en politisk beslutning,
+men vi skal have et solidt fagligt grundlag under det, vi gør - ellers er det symbolpolitik.
+...";Kl. 14:43
+104983;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak til ministeren. Så er spørgsmålet afsluttet.
+Den næste spørgsmål er stillet af hr. Jens Peter Vernersen, og det er også til ministeren for
+sundhed og forebyggelse.
+./";Kl. 14:44
+105205;Time;"Spm. nr. S 1801
+6) Til ministeren for sundhed og forebyggelse af:";Kl. 14:44
+105297;name_party;":
+Finder ministeren, at det er akut behandling af
+kræftpatienter, når ventetiden fra undersøgelse
+til behandling fortsat er ca. 3 uger?
+Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen for oplæsning af
+spørgsmålet.. '";Jens Peter Vernersen
+105541;Time;;Kl. 14:44
+105566;name_party;":
+Jeg har stillet spørgsmålet: Finder ministeren, at
+det er akut behandling af kræftpatienter, når
+ventetiden fra undersøgelse til behandling fort-
+
+5090
+
+Onsdag den 1. april 2009 (S 1801)
+
+sat er ca. 3 uger - og for en stor gruppe patienter
+jo i øvrigt længere?";Jens Peter Vernersen
+105839;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:45
+105901;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Er det en ny regel fra Præsidiet, at spørgsmålet
+skal læses op?
+Kl. '14:45
+Tredje næstformand (Holger K. Nielsen):
+Ja, jeg kan oplyse ministeren om, at det er en ændring af forretningsordenen, som hele Folketinget står bag, og jeg vil også tro, at ministeren for
+sundhed og forebyggelse har stemt for denne
+ændring af forretningsordenen. (Ministeren for
+sundhed ogforebyggelse: Ja, o.k.). Så det er en ny
+regel, der er lavet for bedre at kunne klargøre for
+seerne ude i landet og for tilhørerne, hvad det er
+for et spørgsmål, der diskuteres her i Folketingssalen.
+Ministeren har ordet.
+, Kl. 14:45
+Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg synes, det er en meget fin regel...
+Hr. Jens Peter Vernersen har spurgt, om jeg
+finder, at det er akut behandling af kræftpatienter, når ventetiden fra undersøgelse til behandling er ca. 3 uger. Og som altid vil jeg meget gerne diskutere, kræftbehandling med hr. Jens Peter
+Vernersen, ikke mindst fordi der igennem det
+seneste år er sket utrolig meget positivt og meget omfattende forbedringer af den danske ,
+kræftbehandling. Både de danske kræftpatienter
+og det hårdtarbejdende personale fortjener, at
+politikerne fortsat diskuterer kræftbehandling,
+når der er behov for det.
+Desværre synes jeg, at spørgsmålet er upræcist stillet, og det gør det lidt svært at diskutere.
+For hvad mener spørgeren egentlig med »fra undersøgelse til behandling«? Hvis der menes, at
+patienten har ventet 3 uger, fra alle undersøgelser er færdige, til diagnosen er stillet og patienten er klar til behandling og indtil behandlingen
+påbegyndes, så er svaret klart nej. Det er bestemt ikke akut behandling. Og hvis der er tales
+om operation eller kemobehandling, er 3 uger
+heller ikke inden for de. maksimale ventetider.
+Her har vi altså at gøre med en situation, hvor .
+sygehuset er forpligtet til at gøre det bedre, ikke
+bare fordi pakkeforløbene siger det, men også
+fordi loven siger det. Kort sagt: 3 ugers regulær
+
+ventetid, hvis der ikke sker noget i patientens
+forløb og patienten bare går og venter, er ikke
+godt nok.
+Hvis der derimod er tale om en situation,
+hvor der går 3 uger, fra mistanke opstår og undersøgelse påbegyndes og indtil behandling går
+i gang, så er det en anden sag. I nogle tilfælde
+kan det bedst mulige udredningsforløb godt
+tage 3 uger: pakkeforløbene en netop udviklet,
+så patienten får det bedst mulige forløb på den
+kortest mulige tid. Det bedst mulige forløb kan
+både være kortere og længere end 3 uger, afhængigt af kræftformen og patientens tilstand.";Kl. 14:45
+108501;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.";Kl. 14:47
+108577;Time;;Kl. 14:47
+108602;name_party;":
+Når spørgsmålet er stillet, er det jo, fordi der ligger en undersøgelse fra Kræftens Bekæmpelse,
+der viser, at det, som har været sagt gentagne
+gange, også fra ministerens side, om, at nu var
+der hurtig behandling af kræftpatienter i kraft af
+pakkeforløbene, jo helt åbenbart ikke holder.
+Som man siger i Kræftens Bekæmpelse, har ventetiderne for tarmkræftpatienter over en 2-årig
+periode stort set været uændrede. Der var dog
+det specielle, at ventetiden var exceptionelt høj i
+2007.
+Det, man kan se af undersøgelsen - og den
+må vi jo hæfte os ved og lægge vægt på er det
+grundlag, vi diskuterer ud fra, fordi regeringen,
+ministeren jo ikke har lavet nogen undersøgelse
+- er, at mere end 25 pet. i tredje kvartal af 2008
+således ventede mere end 31 dage fra sidste forundersøgelse til onkologisk behandling. Mere
+end 25 pet. ventede altså mere end 31 dage fra
+sidste forundersøgelse til onkologisk behandling. Det var længere i 2007, men da havde man
+også en exceptionelt lang ventetid. Og som man
+skriver fra Kræftens Bekæmpelse, er det kun
+marginalt, der er sket ændringer, og det forhold,
+der også er gældende, er, at det jo kun er halvdelen af kræftpatienterne, som kommer ind i
+disse pakkeforløb.
+Disse oplysninger, der ligger i den undersøgelse, synes jeg langtfra harmonerer med, hvad
+ministeren har sagt gang på gang, altså at nu var
+rigtig, rigtig meget lykkedes. Her siger man fra
+Kræftens Bekæmpelse: Der er stort set kun sket
+en marginal ændring.";Jens Peter Vernersen
+110073;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+
+Onsdag den 1. april 2009 (S 1801)
+
+5091";Kl. 14:49
+110178;Time;"siden indførelsen af kræftpakkerne den 1. april
+Ministeren for sundhed og forebyggelse (Jakob 2008. Pakkeforløbene skulle gøre op med unødig ventetid gennem veldefinerede forløb, hvor
+Axel Nielsen):
+Nej, Kræftens Bekæmpelse har været ude at side enkelte trin i udredning og behandling er
+ge, at vi godt kan aflyse krisen på det danske
+fastlagt på forhånd, og det er altså det, som ikke
+kræftområde. Det betyder ikke, at vi skal hvile
+sker.
+홢
+.
+.";Kl. 14:49
+110634;Time;"på laurbærrene, for det er en position, der hele
+tiden skal vedligeholdes. Men det er jeg sikker
+Tredje næstformand (Holger K. Nielsen):
+,
+홢s 홢,
+på at vi kan ringe til formanden for Kræftens Be- Ministeren.
+:
+: , Kl. 14:51
+kæmpelse og få ham til at gentage, nemlig at
+kræftbehandlingen er blevet i meget.bedre
+Ministeren for sundhed og forebyggelse (Jakob
+,
+:
+stand. Men derfor kan der jo selvfølgelig ske fejl, 홢Axel Nielsen):
+og jeg er ikke helt på plads med, hvad det er, hr. Jeg tror, det er forbigået hr. Jens Peter Vernersens
+Jens Peter Vernersen mener med sine spørgsmål, opmærksomhed, at DSI - i virkeligheden meget
+usædvanligt - har lagt en pressemeddelelse ud
+eller om det bare er en konkret sag. Så derfor
+tror jeg, jeg vil gå ind i det og sige, hvordan det
+på deres hjemmeside om, at de tager afstand fra
+skal være, og hvordan det generelt er.
+den måde, hvorpå Kræftens Bekæmpelse anvender DSI's tal i den her konkrete sag. DSI hat taFor det første skal det gå stærkt. Der skal hele
+tiden være gang i udredningen af patienten, og
+get afstand fra den måde, Kræftens Bekæmpelse
+patienten må ikke gå rundt og vente u n ø d i g t .
+anvender tallene på i deres egen undersøgelse.
+Det er jo altså sådan, at vi har sat de bedste eksFor det andet skal patienten være informeret
+om, hvad der. skal ske i hele forløbet, for kun på
+perter til at definere, hvordan en kræftpakke
+den måde kan han være tryg. Man skal vide,
+skal tilrettelægges, og derfor kunne jeg g o d t
+hvad der skal ske næste gang og hvornår, så
+tænke mig at vide, hvordan spørgeren mener at
+man kan forberede sig selv og sine nærmeste.
+de danske patienter skal have organiseret deres
+For det tredje skal patienten have behandling af
+kræftbehandling på en anden måde end de her
+den bedst mulige kvalitet, og det skal vi sikre
+meget hurtige og veltilrettelagte forløb, som pasker ud fra nogle fælles retningslinjer i hele lantienten gennemgår med pakkerne, og hvor kvaliteten er i fokus. Det kan ikke gøres på anden og
+det, af de såkaldte multidisciplinære team af
+eksperter, som så kan arbejde med hver enkelt
+bedre måde.";Kl. 14:51
+112735;Time;patient.;Kl. 14:52
+112754;Time;"Tredje næstformand (Holger K. Nielsen):
+Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.";Kl. 14:50
+112870;Time;Hr. Jens Peter Vernersen.;Kl. 14:52
+112906;Time;;Kl. 14:50
+112931;name_party;":
+Nu citerede jeg rent faktisk fra side 12 i Dansk";Jens Peter Vernersen
+113006;name_party;":
+Jeg må da sige, at det undrer mig meget, at mini- Sundhedsinstituts rapport »Ventetider på besteren tror, at de oplysninger, jeg giver: hviler på handling af tarmkræft II«, hvor der står:
+I tredje kvartal 2008 ventede 25 pet. mere end
+enkelteksempler. De er fra den undersøgelse,
+31 dage fra sidste forundersøgelse til onkologisk
+Kræftens Bekæmpelse har fået lavet, og som er
+behandling.
+lavet af Dansk Sundhedsinstitut, og jeg er helt
+Det er ikke tilfredsstillende. Det må det heller
+sikker på, at ministeren har læst den undersøgelse - det burde i hvert fald være forberedelse
+ikke være for ministeren, og det er jo med baggrund i DSI's undersøgelse, jeg ser at Kræftens
+til det spørgsmål, jeg har stillet. I den kan man
+Bekæmpelse har meldt ud. At de så måske kan
+på side 12 læse:
+Samtidig er der tegn på, at der er kortere ven- være uenige om, hvilket omfang der skulle være
+meldt ud, er egentlig ikke så afgørende. Det af- :
+tetider, men i tredje kvartal 2008 ventede 25 pet.
+gørende er, hvad man fuldstændig præcis kan
+mere end 31 dage fra sidste forundersøgelse til
+læse i den undersøgelse, nemlig at i tredje kvaronkologisk behandling.
+Det, som formanden for Kræftens Bekæmpel- tal 2008 ventede 25 pet. mere end 31 dage. Det er
+se siger i de meddelelser, der er sendt ud. derfra, ikke i overensstemmelse med det regelsæt, vi
+har, det er alt for lang tid, pg det er livsfarligt for
+er, at alt for mange kræftpatienter fortsat venter
+den enkelte patient. Det må ministeren da vide.
+længe på at blive behandlet for deres kræftsygdom. Det afslører de første landsdækkende tal
+
+5092
+
+Onsdag den 1. april 2009 (S 1803)";Jens Peter Vernersen
+114640;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+홢";Kl. 14:53
+114704;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg mener altså, at hr. Jens Peter Vernersen lige
+skal følge lidt op på den her sag en gang til, for
+der er blevet taget afstand og blevet sagt, at tallene ikke kan anvendes på den måde, de bliver
+anvendt på. Jeg er ikke opmærksom på, om
+Kræftens Bekæmpelse selv har erkendt det, så
+det tør jeg ikke sige noget om her, men det skulle ikke undre mig om de har.
+Man er nødt til hele tiden at være opmærksom på, hvad ventetid er. For hvis der for en patient er begrundet mistanke om kræft, skal han
+eller hun igennem en række undersøgelser og
+prøver, før man kan iværksætte den egentlige
+behandling: Hvilken kræft er der tale om? Hvor
+sidder kræfttumoren? Er der eventuelt tegn på
+metastaser, altså at den har spredt sig? Og hvilke
+behandlinger er så den bedst egnede til at behandle den her kræft? Det skal man alt sammen
+kunne finde ud af, og så skal man også kunne
+finde ud af, om patienten kan tåle den konkrete
+behandling, man har i tankerne.";Kl. 14:53
+115720;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak. Spørgsmålet er afsluttet.
+Der er et spørgsmål mere fra hr. Jens Peter
+Vernersen til ministeren for sundhed og forebyggelse.";Kl. 14:54
+115899;Time;"Spm. nr. S 1803
+7) Til ministeren for sundhed og forebyggelse af:";Kl. 14:54
+115990;name_party;":
+Hvornår vil ministeren sikre, at der er reel akut
+behandling af kræftpatienter i Danmark?
+Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen for oplæsning af
+spørgsmålet.";Jens Peter Vernersen
+116187;Time;;Kl. 14:54
+116212;name_party;":
+Det her spørgsmål går jo altså på: Hvornår vil
+ministeren sikre, at der er reel akut behandling
+af kræftpatienter i Danmark?
+Nu taler vi altså ikke bare om det, som har
+været sagt fra regeringens side om, at vi skal
+have resolut og akut behandling osv., men hvornår man vil sikre, at der er reel akut behandling
+
+af kræftpatienter i Danmark. Det er sådan set
+det afgørende. ,pet er ...";Jens Peter Vernersen
+116609;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen, det er bare oplæsning
+af spørgsmålets tekst.
+Ministeren.";Kl. 14:54
+116742;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg synes ærlig talt, at det spørgsmål er noget
+verdensfjernt i forhold til den situation, vi er i
+lige nu med den danske kræftbehandling.
+Spørgsmålet er også meget, meget langt fra danske kræftpatienters virkelighed, for siden efteråret 2007 har Sundhedsstyrelsen i samarbejde
+med danske kræfteksperter og regionerne knoklet ekstremt hårdt for at udvikle de her pakkeforløb for alle kræftformer. Bagefter har læger,
+sygeplejersker, sekretærer, radiologer, bioanalytikere og administratorer gjort alt, hvad der står
+i deres magt, for at indføre pakkeforløbene i
+hver en afkrog af den danske kræftbehandling.
+Jeg skal være den første til at sige meget højt,
+at det ikke er alle hjørner af pakkeforløbene, der
+er på plads endnu, men vi er nået langt. Det er
+nødvendigt med fuld åbenhed om, hvordan det
+går, så vi kan blive bedre, og ikke mindst så vi
+kan blive ved med at sætte ind de rigtige steder.
+Derfor indrapporterer regionerne hvert kvartal,
+hvordan det går, så vi åbent kan følge med i status på pakkeforløbene, og disse statusopgørelser
+er offentlige og ligger bl.a. på Danske Regioners
+hjemmeside.
+Status viser et godt fremskridt i hele landet,
+og jeg vil gerne udtrykke stor anerkendelse af
+den enorme indsats, som det danske sundhedsvæsen har leveret på det her område. De danske
+kræftpatienter kan allerede nu få glæde af en
+kræftbehandling, der er styrket på de allervigtigste områder. Patienten bliver hurtigere udredt
+og behandlet, så sygdommen ikke udvikler sig
+endnu mere. Patienten modtager god information undervejs, så der er tryghed i hele forløbet.
+Eksperter arbejder på en måde, så alle patienter
+får den bedst mulige behandling i hele landet.
+Jeg er derfor ikke sikker på, hvad det er for en
+reel akut kræftbehandling, som spørgeren efterlyser, og som ikke allerede er fuldt gennemført
+og er ved at komme i mål. Og jeg kunne godt
+tænke mig at vide, om spørgeren selv definerer
+akut kræftbehandling på en anden måde, end at
+vi griber fat i det hurtigst mulige forløb.
+
+Onsdag den 1. april 2009 (S 1803)";Kl. 14:54
+118839;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.";Kl. 14:56
+118916;Time;;Kl. 14:56
+118941;name_party;":
+Den der, afsluttende sætning sagde sådan set alt
+- at man griber fat i det hurtigst muligt. Vi har jo
+masser af begreber, der siger hurtigst muligt,
+bedst muligt, uden at det har den helt store betydning. Problemet er, hvordan det går med
+ventetiden, og det ved ministeren jo rent faktisk
+ikke ret meget om. For problemet er jo, at Landspatientregisteret ikke er etableret for at overvåge
+ventetider og forløb. Derfor må det alene basere
+sig på de indberetninger, man har fra Danske
+Regioner. Det er jo sådan set problemet.
+Men jeg kan jo gentage det spørgsmål, som
+jeg stillede, og som ministeren forsøgte at svare
+uden om: Finder ministeren, at en ventetid for
+25 pet. af patienterne på mere end 31 dage er
+akut behandling af kræft? Finder ministeren, at
+det er i orden, at den del af patienterne, som
+ikke kommer med i pakkeforløb - det er måske
+halvdelen - har helt andre ventetider? Hvordan
+vil ministeren løse det?
+Men finder ministeren, at 31 dage, som omfatter 25 pet. af patienterne, er det, regeringen
+forstår ved akut behandling?";Jens Peter Vernersen
+119993;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:58
+120055;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det er klart, at man altid kan finde enkeltsager,
+hvor der er for lang ventetid, og sådan vil det
+desværre nok altid være, selv om vi hver dag arbejder på det modsatte.
+Jeg kan svare helt konkret på det med de 31
+dage. Hvis der overhovedet ikke er foregået noget som helst i de 31 dage: hvis ikke der er kommet nogen udredning: hvis ikke man har prøvet
+at definere, hvilken kræftform der er tale om:
+hvis ikke man har prøvet at finde ud af, om den
+har spredt sig: hvis ikke man har prøvet at tænke over, hvilken behandling der i givet fald ville
+skulle iværksættes: og hvis ikke man undervejs
+har informeret patienten, så er det for lang tid.
+Men hvis det har været en proces, hvor man har
+arbejdet med tingene for netop at få så godt et
+grundlag som muligt for at finde ud af, hvad
+den mest kvalificerede behandling skal være,
+når den skal sættes i gang, så har det ikke været
+
+5093
+
+en unødig ventetid. Så er det forkert at tale om,
+at det er 31 dage, hvor der ingenting sker.";Kl. 14:58
+121104;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vsrnersen.";Kl.14:59
+121180;Time;;Kl. 14:59
+121205;name_party;":
+Det er da helt utroligt, at det her skal gentages så
+mange gange, uden at ministeren åbenbart er
+helt opmærksom på, hvad der bliver sagt. Det,
+man taler om, er, at ventetiden fra ,sidste forundersøgelse - det er altså, når forundersøgelsen
+er slut - til onkologisk behandling for 25 pet. var
+på mere end 31 dage. Det vil sige, at på det tidspunkt, hvor man helt præcis ved, at undersøgelsen er slut, er ventetiden altså for 25 pet. mere
+end 31 dage, før man går i gang med behandlingen.
+Er det ikke et meget enkelt spørgsmål, og er
+det akut behandling af kræft efter regeringens
+og ministerens opfattelse? Det er altså ikke noget, Kræftens Bekæmpelse skriver, men det skriver DSI i sin konklusion.
+, I :I";Jens Peter Vernersen
+121921;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:59
+121983;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det er et meget enkelt spørgsmål, men vi er jo,
+nødt til at vide, om det er 31 døde dage, hvor
+der ingenting sker, eller om det er 31 dage, hvor
+der sker en kvalificeret undersøgelse af patienterne, forinden behandlingen iværksættes. :
+Men jeg kan sige, hvis vi bare tager tarmkræft, at vi jo altså har en database, som bl.a. viser udviklingen af forløbstiderne tilbage til 2002,
+og de data skulle være meget valide. Den data- ,
+base viser meget store fremskridt på tarmkræftområdet. Netop med indførelse af pakkeforløb er den gennemsnitlige ventetid til behandling faldet med omkring 30 pet., og 50 pet.
+af patienterne kommer nu fra henvisning til
+operation på 18 dage. Det er ret flotte resultater,
+som vi kan glæde os over.
+Data fra den nationale monitorering, data fra
+kliniske databaser på f.eks. lunge- og tarmkræftområdet og statusindmeldinger peger alle
+sammen i den samme retning, nemlig at vi på
+nogle områder virkelig har formået at ændre
+den danske kræftbehandling, så vi får hurtigere
+patientrettede forløb af høj kvalitet.
+
+5094
+
+Onsdag den 1. april 2009 (S 1803)";Kl. 14:59
+123133;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Jens Peter Vernersen.
+
+på 31 dage, er det for lang tid. Men det er heller
+ikke et billede af den generelle udvikling for en
+stærkt forbedret kræftbehandling i Danmark.
+De oplysninger, der er kommet ud på baggrund
+af DSI-rapp orten, har DSI selv taget afstand fra
+og sagt: Sådan kan man ikke fortolke de tal, der
+fremgår af vores analyse.
+Så det udtrykker ikke et generelt billede af en
+stærkt forbedret kræftbehandling i Danmark,
+faktisk en kræftbehandling, vi efterhånden kan
+begynde at være stolte af. Det synes jeg hr. Jens
+Peter Vernersen skulle tage og bakke op om, for
+det er jo det, det drejer sig om, nemlig patienterne.";Kl. 15:00
+123817;Time;"Tredje næstformand (Holger K. Nielsen):
+Spørgsmålet er afsluttet.
+Spørgetiden er også afsluttet for i dag.";Kl. 15:02
+123935;Time;"Jens Peter Verners en (S):
+Vi må prøve en gang mere. Når forundersøgelsen er slut, skal man have behandling. Det må
+være det, det drejer sig om. Når forundersøgelsen er slut, skal man have behandling - ministeren nikker. Det er altså der, der for 25 pet. i tredje
+kvartal 2008 var en ventetid på mere end 31 dage. Det kan ministeren ikke være tilfreds med.
+Derfor er der altså endnu et godt stræk at gå.
+Det betyder jo ikke, at der ikke kan være sket
+meget, men det er forkert at melde ud, at man
+nu har løst rigtig meget med de her pakkeforløb,
+når der altså er en fjerdedel af patienterne, der er
+udsat for den her ventetid. Sagen er, at ministeren jo ikke har ret meget viden om det her. Det
+er åbenbart derfor, at Kræftens Bekæmpelse har
+bedt DSI om at lave en undersøgelse, der viser
+præcis det, som jeg nu har læst op her endnu en";Kl. 15:00
+124782;Time;"gang.
+Det var i hvert fald ikke det, SocialdemokraMeddelelser fra formanden
+terne forstod ved akut behandling af kræft, da vi
+i 2007 gjorde opmærksom på, at der var kæmpe- Tredje næstformand (Holger K. Nielsen):
+problemer, og at der var lange ventetider. Da var
+Der er ikke mere at foretage i dette møde.
+akut behandling af kræft altså noget, som skulle
+være både akut og resolut, og det vil sige, at når
+Folketingets næste møde afholdes i morgen,
+man vidste, hvilken kræft man skulle behandle,
+torsdag den 2. april 2009, klokken 10.00.
+skulle patienten altså ikke vente lang tid på beJeg henviser til den dagsorden, der er opslået
+handlingen.
+i salen.
+.";Kl. 15:03
+125447;Time;"Tredje næstformand (Holger K. Nielsen):
+Mødet er hævet. (Kl. 15.03).
+Ministeren.";Kl. 15:02
+125538;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Når alle undersøgelser er slut, skal der gå en behandling i gang. Og hvis der ligger en død tid";Kl. 15:02

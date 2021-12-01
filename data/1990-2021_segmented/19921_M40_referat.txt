@@ -1,0 +1,2037 @@
+split;reason;text;value
+0;;"4741
+
+27/1 93: Dagsorden
+
+40. møde";
+71;Time;"Dagsorden:
+1) Valg af formand.
+2) Valg af 4 næstformænd.
+3) Udtalelse af statsministeren, j f Folketingets
+forretningsorden § 19, stk. 3.
+
+Meddelelser fra formanden:";kl. 13.00
+273;title_name;":
+Fra statsministeren har jeg modtaget følgende skrivelse af 15. januar 1993 til Folketingets";Henning Rasmussen
+376;title_name;"»Jeg tillader mig herved at anmode hr. formanden om at ville meddele Folketinget, at jeg
+i dag til Hendes Majestæt Dronningen har indgivet min og det nuværende ministeriums afskedsbegæring, og at Hendes Majestæt har
+modtaget denne.
+I henhold til grundlovens § 15 fungerer ministeriet, indtil et nyt ministerium er udnævnt.
+sign. Poul Schlüter«
+Fra statsministeren har jeg modtaget følgende skrivelse af 25. januar 1993 til Folketingets";formand
+821;title_name;"»Efter statsministerens indstilling er det ved
+kongelig resolution af 25. januar 1993 besluttet
+at udnævne medlem af Folketinget Poul Nyrup Rasmussen til statsminister,
+at afskedige i nåde
+statsminister Poul Schlüter, udenrigsminister
+Uffe Ellemann-Jensen, finansminister Henning Dyremose, forsvarsminister og minister
+for nordisk samarbejde Knud Enggaard, undervisnings- og forskningsminister Bertel
+
+4742
+
+Haarder, justitsminister Hans Engell, indenrigsminister og økonomiminister Thor Pedersen, landbrugsminister Laurits Tørnæs, kirkeminister og kommunikationsminister Torben
+Rechendorff, boligminister Svend Erik Hovmand, fiskeriminister Kent Kirk, arbejdsminister Knud Erik Kirkegaard, industriminister
+og energiminister Anne Birgitte Lundholt,
+sundhedsminister Ester Larsen, trafikminister
+Kaj Ikast, miljøminister Per Stig Møller, socialminister Else Winther Andersen, kulturminister Grethe F. Rostbøll og skatteminister Peter
+Brixtofte fra de dem hidtil betroede ministerstillinger,
+at bestemme, at der oprettes et ministerium for
+erhvervspolitisk samordning, og at der til dette
+ministerium fra Industriministeriet overføres
+sager vedrørende Erhvervsudviklingsrådet,
+idet den nærmere fastlæggelse af ministeriets
+forretningsområder senere sker ved kongelig
+resolution,
+at udnævne fhv. minister, medlem af Folketinget Mimi Jakobsen til minister for erhvervspolitisk samordning, medlem af Folketinget Marianne Jelved til økonomiminister, fhv. minister, medlem af Folketinget Flemming KofodSvendsen til boligminister og minister for nordisk samarbejde og Østersøspørgsmål,
+at bestemme, at den departementale ekspedition af sager vedrørende nordisk samarbejde
+og Østersøspørgsmål fortsat sker i Udenrigsministeriet under ledelse af ministeren for nordisk samarbejde og Østersøspørgsmål og på
+hans ansvar,
+at udnævne fhv. minister, medlem af Folketinget Mogens Lykketoft til finansminister, fhv.
+minister, medlem af Folketinget Niels Helveg
+Petersen til udenrigsminister, fhv. minister,
+medlem af Folketinget Bjørn Westh til landbrugsminister og fiskeriminister, fhv. minister,
+medlem af Folketinget Svend Auken til miljøminister,
+at bestemme, at der oprettes et ministerium for
+kommunikation og turisme, således at der til
+dette ministerium henlægges Generaldirektoratet for Post- og Telegrafvæsenet og fra Industriministeriet overføres sager vedrørende turisme og fra Finansministeriet sager vedrørende Datacentralen, og at sager vedrørende radio
+og tv henlægges til Kulturministeriet,
+at udnævne fhv. minister, medlem af Folketinget Arne Melchior til minister for kommunikation og turisme,
+
+4743
+
+27/1 93: Meddelelser fra formanden";formand
+3480;title_name;"at bestemme, at betegnelsen for Undervisnings- og Forskningsministeriet ændres til Undervisningsministeriet,
+at udnævne fhv. minister, medlem af Folketinget Ole Vig Jensen til undervisningsminister og
+medlem af Folketinget Helle Degn til minister
+for udviklingsbistand,
+at bestemme, at følgende under udenrigsministeren hørende områder henlægges til ministeren for udviklingsbistand: sager vedrørende
+såvel multilateral som bilateral udviklingsbistand til udviklingslandene og Østlandene,
+at bestemme, at den departementale ekspedition af sager vedrørende disse sagsområder
+sker i Udenrigsministeriet under ledelse af ministeren for udviklingsbistand og på hendes
+ansvar,
+at udnævne medlem af Folketinget Birte Weiss
+til indenrigsminister, medlem af Folketinget
+Jytte Andersen til arbejdsminister, medlem af
+Folketinget Ole Stavad til skatteminister, medlem af Folketinget Hans Hækkerup til forvarsminister, medlem af Folketinget Jytte Hilden
+til kulturminister, medlem af Folketinget Torben Lund til sundhedsminister, medlem af
+Folketinget Helge Mortensen til trafikministet,
+medlem af Folketinget Jan Trøjborg til industriminister, medlem af Folketinget Pia Gjellerup til justitsminister og medlem af Folketinget
+Karen Jespersen til socialminister,
+at bestemme, at der oprettes et ministerium for
+teknologiudvikling og anvendt forskning, og at
+visse sager vedrørende teknologiudvikling m.v.
+overføres fra Industriministeriet, idet den nærmere fastlæggelse af ministeriets forretningsområder senere sker ved kongelig resolution,
+at udnævne major Svend Bergstein til minister
+for teknologiudvikling og anvendt forskning,
+lærer Jann Sjursen til energiminister og assurandør A. O. Andersen til kirkeminister,
+at bestemme, at sager vedrørende lovgivningen
+om udlændinge, herunder flygtninge, samt Direktoratet for Udlændinge overføres fra Justitsministeriet til Indenrigsministeriet, at sager vedrørende udlændinge omfattet af bistandsloven, herunder relationerne til Dansk
+Flygtningehjælp og kommunerne, overføres
+fra Socialministeriet til Indenrigsministeriet, at
+sager vedrørende indfødsret overføres fra Indenrigsministeriet til Justitsministeriet, at sager vedrørende færdselslovgivningen samt Statens Bilinspektion, Rådet for Større Færdsels-
+
+4744
+
+sikkerhed og Rådet for Trafiksikkerhedsforskning overføres fra Justitsministeriet til Trafikministeriet, at sager vedrørende folkehøjskoler, efterskoler m.v., ungdomsskoler, folkeoplysning og voksenuddannelse overføres fra
+Kulturministeriet til Undervisningsministeriet,
+og at sager vedrørende ligestilling samt Ligestillingsrådet overføres fra Statsministeriet til
+Arbejdsministeriet.
+Jeg tillader mig at anmode hr. formanden
+om at underrette Folketinget herom.
+sign. Poul Nyrup Rasmussen«
+Medlem af Folketinget Lis Noer Holmberg
+(CD) har meddelt mig, at hun den 21. januar
+1993 er udtrådt af Centrum-Demokraternes
+folketingsgruppe og med virkning fra samme
+dato ønsker at stå uden for partierne.
+I fortsættelse heraf har Lis Noer Holmberg
+meddelt, at hun med virkning fra d.d. er indtrådt i Venstres folketingsgruppe.
+Medlem af Folketinget Breckmann (Fær.)
+har meddelt mig, at han med virkning fra d.d.
+tilslutter sig Det Konservative Folkepartis folketingsgruppe.
+Den første sag på dagsordenen var:
+1) Valg af formand.";Den fg. formand
+6790;title_name;":
+Til formand har Tingets partier bortset fra
+Fremskridtspartiet indstillet mig. Der foreligger ikke andre indstillinger, og hvis ingen begærer afstemning, vil jeg betragte indstillingen
+som vedtaget. (Ophold). Den er vedtaget.";Henning Rasmussen
+7029;title_name;"Jeg vil gerne sige mange tak for den tillid,
+som Tinget har vist mig ved at vælge mig til at
+lede arbejdet. Jeg vil gøre, hvad jeg kan for i
+samarbejde med Præsidiet og tingsekretærerne
+at forvalte opgaven med retfærdighed og, i loyalitet over for hvert eneste medlem og parti.
+Det gælder for os alle her i salen, at befolkningens øjne hviler på os. Vurderingen af det
+politiske arbejde og af politikerne bestemmes i
+høj grad af den måde, vi udfører vort arbejde
+på her i Tinget. Jeg er overbevist om, at hvert
+
+4745
+
+27/1 93: Valg af formand";Formanden
+7586;title_name;"enkelt medlem vil gøre sit til, at Folketingets
+arbejde gennemføres, så det skaber tillid og respekt i befolkningen.
+Så vil jeg gerne benytte lejligheden til at rette en tak til den afgåede formand, H. P. Clausen. Jeg føler mig overbevist om, at alle grupper og alle medlemmer her i Tinget påskønner
+H. P. Clausens arbejde som Tingets formand.
+H. P. Clausen har øvet en indsats, som har været præget af respekt for arbejdet og for de personer, der har deres virke her i Tinget. Præsidiets medlemmer har følt sig trygge ved den måde, hvorpå arbejdet i Præsidiet er blevet ledet,
+og har værdsat den gode atmosfære, H. P.
+Clausen altid har været i stand til at skabe i
+Præsidiet.
+Det har været en inspiration at opleve det
+format og følge det engagement, som H. P.
+Clausen stedse har vist i sit embede som Folketingets formand ikke blot indadtil, men også
+i høj grad udadtil over for den danske offentlighed og udlandet.
+Den næste sag på dagsordenen var:
+2) Valg af 4 næstformænd.";Formanden
+8575;title_name;"Vedrørende valg af næstformænd hedder
+det i forretningsordenens § 3, stk. 1: »Hvert af
+de i Tinget repræsenterede fire største partier
+ud over det parti, som formanden måtte tilhøre, udpeger i rækkefølge efter størrelse blandt
+sine medlemmer henholdsvis første, anden,
+tredje og fjerde næstformand. Er to eller flere
+partier lige store, gør lodtrækning udslaget
+mellem dem.«
+Der foreligger indstilling fra de fire største
+partier. Efter disse indstillinger er Lilli Gyldenkilde (SF) valgt til tredje næstformand og Kirsten Jacobsen (FP) til fjerde næstformand.
+Partierne Det Konservative Folkeparti og
+Venstre har indstillet henholdsvis Henning
+Grove (KF) og Ivar Hansen (V). Men da de to
+partier er lige store, skal der efter den bestemmelse, jeg lige nævnte, foretages lodtrækning
+om, hvem der skal være første næstformand,
+og hvem der skal være anden næstformand.
+Jeg har her to kort. På det ene står der »Det
+Konservative Folkeparti«, på det andet står
+der »Venstre«. Jeg vil bede tingsekretærerne
+
+4746
+
+om at lægge et kort i hver kuvert, lægge kortene i urnen og ryste den. Det parti, der står på
+det kort, jeg trækker op af urnen om et øjeblik,
+vil besætte posten som første næstformand,
+mens pladsen som anden næstformand besættes af det andet parti. (Kortet udtrækkes).
+På kortet står: »Venstre«.
+Præsidiet får herefter følgende sammensætning:";Formanden
+9937;title_name;Henning Rasmussen (S), første;Formand
+9980;title_name;"Ivar Hansen (V), anden næstformand: Henning Grove (KF), tredje næstformand: Lilli Gyldenkilde (SF), fjerde næstformand: Kirsten Jacobsen (FP).
+Den sidste sag på dagsordenen var:
+3) Udtalelse af statsministeren, jf. Folketingets
+forretningsorden §19, stk. 3.";næstformand
+10276;title_name;":
+Med denne tiltrædelseserklæring giver regeringen signalet til en ny start for Danmark. En
+start på en udvikling, som sætter beskæftigelse,
+uddannelse, miljø og omsorgen for de mest
+sårbare grupper i centrum. Regeringen vil fornyelse, men det skal være en rolig og velovervejet fornyelse. Tryghed skal være grundlaget
+for, at vi kan omstille og forny os på en måde,
+så den enkelte kan følge med.
+Den ny regering ønsker at skabe rammer, så
+alle får mulighed for aktivt at være med i det
+danske samfund. Det er det, der er regeringens
+udgangspunkt.
+Regeringen er jo, som alle ved, blevet dannet efter grundige drøftelser om et regeringsgrundlag. Vi har nu den stærkeste parlamentariske opbakning bag en regering i over 20 år, et
+flertal, som vil skabe tillid og respekt for det
+danske folkestyre. Men det er magtpåliggende
+for mig at understrege, at regeringspartierne vil
+bruge deres parlamentariske styrke til at skabe
+et bredt samarbejde i Folketinget.
+Regeringen vil fastholde styrkepositionerne
+i dansk økonomi. Vi vil føre en ansvarlig udgiftspolitik. Vi vil fastholde kronekursen. Vi vil
+fastholde lavinflationen og overskuddet på betalingsbalancen. Vi vil skabe 'en bæredygtig
+vækst med større beskæftigelse.
+Den bæredygtige vækst skal vi arbejde for
+både i EF og herhjemme. Beskæftigelsen skal
+
+4747
+
+27/1 93: Udtalelse af statsministeren";Poul Nyrup Rasmussen
+11643;title_name;"fremmes gennem større samordning af erhvervspolitikken og en styrkelse af erhvervenes konkurrenceevne. Vi vil udbygge samarbejdet mellem det offentlige og erhvervslivet.
+Vi vil gennemføre en veltilrettelagt prioriteret
+fremrykning af offentlige investeringer. Der
+skal være større aktivitet inden for bygge- og
+boligområdet og en række andre områder. Der
+skal satses stærkt på en reform af voksen- og
+efteruddannelserne for samtidig at dygtiggøre
+mennesker og få en bedre fordeling af arbejdet. Det skal også ses i tæt sammenhæng med
+bedre mulighed for uddannelsesorlov og orlovsordninger for børnefamilier.
+Og så er der miljøhensynet, som skal indtage
+en ny og langt stærkere placering i alle beslutninger. Investeringsprogrammer skal miljøvurderes, og regeringen vil arbejde for, at ansvaret
+for miljøet styrkes overalt i det danske samfund og i andre lande, også inden for EF-området.
+Regeringen vil igangsætte reformer af uddannelsessystemerne, arbejdsmarkedet og den
+offentlige sektor. Vi vil omlægge skattesystemet, som vil blive udformet på en sådan måde,
+at den samlede økonomiske situation, det samlede økonomiske grundlag, for de enkelte familier i egen bolig ikke forringes.
+Det er en fremtidssikring, men det er også en
+fornyelse af det danske velfærdssamfund, der
+står på dagsordenen. Derfor lægger vi afgørende vægt på disse strukturreformer, som jeg vil
+redegøre nærmere for næste tirsdag.
+Det er helt uacceptabelt, at stadig flere svage
+grupper udstødes af det almindelige samfundsliv. Regeringen vil indføre en række minimumsrettigheder for de mest udsatte grupper, og vi vil øge indsatsen inden for ældreomsorg og børnepasning. Vi vil nedbringe ventetiderne til hospitalsbehandling, men også for
+ældreomsorg og børnepasning. Vi skal fremme
+mulighederne for den enkeltes livskvalitet,
+f.eks. ved at give mere plads for kulturel udfoldelse, og gennemføre en reform af folkeskolen.
+Regeringens udgangspunkt er respekten for
+den enkelte og for familien som en enhed.
+Livskvalitet, ansvar og værdighed er nøgleord i
+den forbindelse. Det gælder også, når vi skal
+vurdere muligheder og risici ved den hastige
+teknologiske udvikling, der i sig selv er uomgængelig som forudsætning for erhvervslivets
+fremgang.
+
+4748
+
+Vigtigt er det også, at retsbevidstheden i
+samfundet øges. Det er en del af regeringens
+arbejdsgrundlag.
+De kolossale omvæltninger i det internationale samfund stiller nye krav til dansk udenrigs- og sikkerhedspolitik. De tidligere trusler
+mod vores sikkerhed er i vidt omfang forsvundet. Til gengæld må vi bidrage til at forhindre
+nye konflikter i at brede sig ved at forstærke
+den fredsbevarende indsats i verden og ved at
+arbejde endnu mere målrettet for demokrati og
+for menneskerettigheder.
+Det er helt afgørende for regeringen at sikre
+et ja ved den kommende folkeafstemning om
+den danske EF-aftale. Regeringen vil lægge en
+betydelig indsats i at videreføre det danske
+EF-formandskab. I den sammenhæng vil vi
+bl.a. arbejde for at fremme beskæftigelsen og
+miljøhensynet, at sikre større åbenhed i EFbeslutningsprocessen, at bidrage til en hurtig
+og positiv afslutning af optagelsesforhandlingerne med ansøgerlandene og at få en tilfredsstillende GATT-aftale i hus.
+Danmarks økonomi har en række positive
+træk, som regeringen ubetinget vil fastholde.
+Men arbejdsløsheden er stadig det allerstørste
+og det alleralvorligste menneskelige, sociale og
+sanifundsmæssige problem. Det er de seneste
+tal på 331.000 arbejdsløse en uhyggelig illustration af. Vi står over for en kæmpemæssig
+opgave, en opgave, som det vil tage lang tid at
+løse. Regeringen kan ikke love at vende arbejdsløshedstallene på kort tid: det er ikke realistisk. Heller ikke her udsteder regeringen
+løfter, som vi på forhånd ved ikke holder: det
+tror jeg egentlig befolkningen godt forstår.
+Men der skal ikke være tvivl om, at den hurtigst mulige og stærkest mulige nedbringelse af
+arbejdsløsheden er vort klare, faste mål i hele
+lovarbejdet.
+Desværre tyder de nye tal på, at de hidtidige
+prognoser for dansk økonomi har været for
+optimistiske. Regeringen har derfor iværksat
+en revideret vurdering af dansk økonomi. Hovedopgaven er at få et nøgternt billede på alle
+de centrale områder som arbejdsløshed, statsunderskud og betalingsbalance.
+Det skal stå klart, hvorfra vi starter. Resultatet af denne nye statusopgørelse vil foreligge i
+forbindelse med min redegørelse i Folketinget
+næste tirsdag. Det vil samtidig være regeringens udgangspunkt, når vi fremlægger de kon-
+
+4749
+
+27/1 93: Udtalelse af statsministeren";Statsministeren
+16176;title_name;"krete regeringsprogrammer og lovforslag. Der
+venter os alle en kæmpe arbejdsopgave, men vi
+vil ikke tøve med at gå i gang med den.
+Kampen mod arbejdsløsheden er denne regerings varemærke. Regeringens hovedlinje er,
+at usikkerhed skal blive til sikkerhed for erhvervslivet og for alle grupper af befolkningen,
+for de arbejdsløse og for de udstødte. Vi vil
+anvende både velkendte og utraditionelle midler, men samtidig forny dem og tilpasse dem til
+den nye situation. Ved regeringsdannelsen har
+vi derfor også lagt vægt på at styrke og samordne alle aspekter af erhvervspolitikken.
+Sammensætningen af regeringen tror jeg alle
+kan se afspejler denne målsætning temmelig
+klart.
+Når vi fremlægger vore konkrete forslag i
+Folketinget, inviterer vi til et bredt samarbejde
+om den nye start - som bestemt ikke bliver kedelig - ikke blot med Folketingets partier, men
+med alle samfundsgrupper.
+Der skal være plads til alle, og der skal være
+brug for alle i Danmark - også for mennesker,
+der er kommet til os udefra i nød og på flugt.
+Regeringen indbyder alle til at deltage i en
+ny start for Danmark.
+
+4750";Statsministeren
+17289;name_party;": spm. nr. S 302
+Weiss, Birte (S): spm. nr. S 322 og 328
+Spm. nr. S 292
+Til socialministeren (5/1 93) af:";Steenholdt
+17413;name_party;":
+»Vil ministeren redegøre for lovligheden af
+at opsige et barn, der fylder 3 år, fra en institutionsplads, uagtet barnet har haft plads i den
+kommunale dagpleje eller i en kommunal vuggestue og forældrene fortsat ønsker en daginstitutionsplads til barnet?«
+Begrundelse";Jytte Andersen
+17695;title_name;"Fra de pågældende ministre er modtaget
+skriftlige svar på spørgsmål stillet af følgende
+medlemmer af Folketinget:
+
+I forbindelse med Folketingets tilføjelse til
+bistandsloven den 30. maj 1991 blev det præciseret, at en kommune hverken permanent eller
+midlertidigt kan udmelde et barn af en daginstitution, fordi en eller begge forældre bliver
+ledige eller der i kommunen i øvrigt var ventelister.
+Barnets ret til en én gang tildelt daginstitutionsplads blev yderligere understreget i ministerens kommentar til Kirsten Ketschers notat
+»Diskrimination af arbejdsløses børn ved fordelingen af pladser i det offentlige børnepasningstilbud«.
+Baggrunden for spørgsmålet er, at 2 kommuner, Silkeborg og Randers, agter at sætte
+stopklodser ind ved 3-års-alderen for børnenes
+fortsatte pasningsmuligheder, afhængigt af
+forældrenes arbejdsmarkedstilknytning.
+
+Andersen, Jytte (S): spm. nr. S 292
+Behnke, Kim (FP): spm. nr. S 303 og 305
+Behnke, Tom (FP): spm. nr. S 283, 309, 312
+og 313
+Christensen, Køpke (FP): spm. nr. S 323-327
+Dyrlund, Poul Erik (S): spm. nr. S 289-291,
+320 og 321
+Hækkerup, Klaus (S): spm. nr. S 306 og 307
+Jacobsen, Kirsten (FP): spm. nr. 276-282 og
+294
+Juncker, Bente (CD): spm. nr. S 314
+Kjærsgaard, Pia (FP): spm. nr. S 273
+Madsen, Kirsten (FP): spm. nr. S 275 og
+296-301
+Møller, Lone (S): spm. nr. S 310 og 311
+Nielsen, Ole M. (KRF): spm. nr. S 142
+(suppl. besv.)";Formanden
+19116;title_name;":
+Indledhingsvis kan jeg oplyse, at jeg ikke
+kan tage stilling til lovligheden af den beskrevne konkrete fremgangsmåde i de to kommuner, idet jeg er bekendt med, at dette spørgsmål er indbragt for tilsynsrådet.
+Generelt kan jeg oplyse, at ifølge de vejledende retningslinier i Socialministeriets cirkulære nr. 203 af 26. oktober 1990 om dagtilbud
+for børn og unge kan kommunalbestyrelsen
+som led i fastlæggelsen af den overordnede
+struktur for kommunens dagtilbud fastsætte en
+øvre grænse for et dagtilbud, f.eks. at dagpleje
+og vuggestuer omfatter børn, indtil de fylder 3
+år. I denne situation er der ikke tale om, at barnet opsiges. Tilbudet ophører automatisk, når
+
+Skriftligt besvarede spørgsmål:
+
+Svar (11/1 93):
+
+4751
+
+27/1 93: Skriftligt besvarede spørgsmål";Else Winther Andersen
+19903;title_name;"barnet når aldersgrænsen, også selv om der ikke kan anvises anden plads, f.eks. i børnehave.
+Der er således ikke i loven fastsat nogen forpligtelse for kommunerne til automatisk at
+rykke børn op fra f.eks. vuggestue/dagpleje til
+børnehave.
+Ved optagelse af barnet i et nyt dagtilbud
+sker dette på baggrund af de af kommunen
+fastsatte visitationskriterier ud fra en konkret
+vurdering af det enkelte barns/den enkelte families behov på samme måde som ved optagelse i det tidligere dagtilbud. Som led heri må
+der foretages en indbyrdes prioritering af børn
+med forskellige behov for dagtilbudsplads.
+Men denne ret til at prioritere ansøgerne indebærer ikke, at man har ret til på forhånd at
+udelukke en bestemt gruppe, f.eks. børn af arbejdsløse, fra optagelse. Det er derimod i overensstemmelse med bistandsloven - efter en
+konkret vurdering - at lade børn med større
+behov for plads få en plads før børn, hvis behov for pladsen vurderes som mindre.
+Spm. nr. S 303
+Til skatteministeren (7/1 93) af:";Socialministeren
+20915;name_party;":
+»Finder ministeren, at det er rimeligt at
+meddele tilladelse til skattefradrag for penge
+givet ved pengeindsamling til flygtningeforeninger med ulovligt formål?«
+Begrundelse
+Foreningen »Flygtninge underjorden«, hvis
+formål er at skjule illegale flygtninge og udviste flygtninge, har søgt om tilladelse til at indsamle penge.
+Foreningen har i den forbindelse søgt om
+skattefradrag for penge ydet ved indsamlingen.
+Der henvises til cirkulære af juni 1992 fra
+Told- og Skattestyrelsen (SD-cirkulære vedrørende indsamlinger i foreninger) i henhold til
+ligningslovens § 8 A.
+Det kan efter spørgerens opfattelse ikke være rimeligt, at foreninger, hvis virke er direkte
+niålrettet mod at undergrave dansk lov og danske myndigheders virke, bliver præmieret med
+en tilladelse, hvorefter donationer til foreningen er skattefradragsberettigede.
+Spørgeren skal derfor anmode ministeren
+om at tilsikre, at tilladelsen enten ikke bliver
+givet, eller, hvis den allerede er givet, at trække
+tilladelsen tilbage.
+
+4752
+
+Svar (18/1 93):";Kim Behnke
+21970;title_name;":
+Af begrundelsen for spørgsmålet fremgår
+det, at der er tale om komiteen »Flygtninge under jorden«.
+Efter ligningslovens § 8 A kan der ved opgørelsen af den skattepligtige indkomst fradrages
+gaver, som det godtgøres at giveren har ydet til
+foreninger, stiftelser, institutioner m.v., hvis
+midler anvendes i almenvelgørende eller på
+anden måde almennyttigt øjemed til fordel for
+en større kreds af personer.
+Fradragsretten er betinget af, at foreningen
+m.v. er godkendt af skatteministeren.
+Jeg kan oplyse, at den pågældende komité
+den 1. november 1989 - efter at ansøgningen
+havde været forelagt Ligningsrådet - blev godkendt efter ligningslovens § 8 A til at foranstalte en indsamling for årene 1989-1992 inkl.
+Godkendelse til at foretage en indsamling er
+ligeledes givet af Københavns Politi til komiteen den 14. april 1989.
+Om indsamlingsformålet har komiteen i forbindelse med godkendelsesansøgningerne oplyst, at det drejer sig om »humanitær og økonomisk støtte til asylansøgere og flygtninge,
+således at der tilvejebringes den fornødne juridiske bistand i asylfasen samt eventuelt bistand under integration.«
+Efter det foreliggende er godkendelsen meddelt i overensstemmelse med ligningslovens § 8
+A.
+Spm. nr. S 305
+Til trafikministeren (7/1 93) af:";Peter Brixtofte
+23242;name_party;":
+»Vil ministeren stoppe DSB's uforskammede forretningsmetoder på Kalundborgruterne?«
+Begrundelse
+Ofte, når den private rute Juelsminde-Kalundborg anløber Kalundborg Havn, har DSB
+»spioner« til at notere, hvilke vognmænd der
+har benyttet ruten. De pågældende vognmænd
+tilsendes derefter tilbud om sejlads med Århus-Kalundborg-ruten til en lavere billetpris.
+For det første må det siges at være en meget
+kritisabel forretningsmoral. For det andet virker det, som om DSB overhovedet ikke er klar
+
+4753
+
+27/1 93: Skriftligt besvarede spørgsmål";Kim Behnke
+23798;title_name;"over, at hver gang de laver dumpingtilbud, er
+det direkte skadeligt for samfundsøkonomien.
+Dels stiger skatteydernes betalinger til DSB,
+og dels mister private firmaer omsætning og
+dermed skatteevne.
+Spørgeren vil derfor anmode ministeren om
+at få meddelt DSB i klart og tydeligt sprog, at
+den aktivitet skal standses. Spørgeren ønsker
+ikke at få en kopi af en DSB-besvarelse, men
+ønsker ministerens personlige besvarelse.
+Spørgeren lader sig desuden ikke spise af med
+tre linier om, at DSB aldrig har gjort noget sådant. Spørgeren skal oplyse, at DSB har generet og stødt så mange vognmænd med den beskrevne fremgangsmetode, at en afvisning vil
+være mere pinlig.
+Svar (14/1 93):
+Trafikministeren (Ikast):
+Jeg har ikke i sinde at stoppe DSB's forretningsmetoder på Kalundborgruterne, da jeg
+ikke har fundet nogen dokumentation for, at
+DSB skulle benytte uforskammede forretningsmetoder og fremgangsmåder, som beskrevet i begrundelsen for spørgsmålet.
+Det kan naturligvis ikke afvises, at DSB har
+afgivet tilbud til en eller flere vognmænd, der
+også benytter ruten Kalundborg-Juelsminde.
+Det er en naturlig forretningsgang at opsøge
+nye kunder.
+Det hævdes, at DSB gør brug af dumpingtilbud. Såfremt spørgeren er i besiddelse af materiale, der giver belæg for sådanne påstande, vil
+jeg gerne udbede mig dokumentation herfor.
+Spm. nr. S 283
+Til justitsministeren (4/1 93) af:";Kim Behnke
+25186;name_party;":
+»Vil ministeren kommentere artiklen
+»Dommer: Tyve bedre stillet end forsikrede« i
+Berlingske Tidende den 1. januar 1993, 1. sektion, side 2, og herunder oplyse, hvad der skal
+til for at ændre denne urimelige retspraksis?«
+Begrundelse
+Af artiklen fremgår det, at en forsikret selv
+skal betale sine skader, hvis skaderne f.eks. er
+forårsaget i forbindelse med spirituskørsel.
+Anderledes er det, hvis en brugstyv fører køretøjet i spirituspåvirket tilstand, så er det ikke
+
+4754
+
+brugstyven, der skal betale for skaderne, idet
+forsikringsselskabet da skal bevise, at brugstyven har handlet groft uagtsomt, hvilket spirituskørsel i denne sammenhæng åbenbart ikke
+er.
+En brugstyv er således bedre stillet end en
+forsikret, hvilket efter spørgerens opfattelse er
+en helt gal retspraksis, som bør ændres hurtigst
+muligt.
+Ministeren bedes derfor også svare på, hvorledes denne urimelige retspraksis kan ændres
+igen.
+Svar (13/1 93):";Tom Behnke
+26138;title_name;":
+I den nævnte artikel omtales en artikel i Juristen 1993, s. 31 ff. af landsdommer Preben
+Lyngsø, som har givet udtryk for den opfattelse, at biltyve slipper billigere fra at lave en skade på en bil ved spirituskørsel end den lovlige
+bruger af bilen. Det nævnes, at den, der kører
+spirituskørsel i sin egen bil, tit selv skal betale
+for en skade, mens den, der kører spirituskørsel i en stjålet bil, kun skal betale for en skade,
+hvis han har handlet groft uagtsomt.
+Justitsministeriet kan oplyse, at spørgsmålet
+om, hvilken forsikringsdækning der tilkommer
+en forsikringstager i anledning af, at hans kaskoforsikrede bil er blevet stjålet og beskadiget
+under tyvens kørsel med bilen, må afgøres i det
+enkelte tilfælde ud fra, hvilken forsikring bilens ejer har tegnet. Forsikringspolicens betingelser vil sammen med reglerne i forsikringsaftaleloven regulere dette spørgsmål.
+Erstatningsansvaret for den person, der har
+stjålet bilen, som beskadiges under kørselen,
+kan ikke reguleres i forsikringsaftalen mellem
+bilejeren og forsikringsselskabet. Dette ansvar
+må afgøres efter de almindelige erstatningsretlige regler, herunder reglerne i erstatningsansvarsloven, jf. lovbekendtgørelse nr. 599 af 8.
+september 1986.
+I § 19, stk. 1, i erstatningsansvarsloven er det
+fastsat, at der ikke er erstatningsansvar for en
+skade i det omfang, skaden er dækket af en
+tingsforsikring. Ifølge § 19, stk. 2, gælder reglen i stk. 1 dog bl.a. ikke, hvis den erstatningsansvarlige har forvoldt skaden forsætligt eller
+ved grov uagtsomhed. Om reglen i § 19 omfatter en brugstyvs erstatningsansvar i tilfælde af
+brugstyveri af en bil, der beskadiges, må afgøres ud fra en konkret vurdering i det enkelte
+tilfælde.
+
+4755
+
+27/1 93: Skriftligt besvarede spørgsmål";Engell
+27906;title_name;"I sagen, der er refereret i Ugeskrift for Retsvæsen 1990, s. 27, havde en person, som havde
+en promille på 1,14, og som samtidig var træt
+på grund af søvnmangel, begået brugstyveri af
+en bil, der blev beskadiget under kørselen. Bilejeren fik af sit forsikringsselskab dækket skaden på bilen. Højesteret har i dommen taget
+stilling til spørgsmålet om brugstyvens erstatningsansvar. Det fremgår af dommen, at
+brugstyveriet af bilen ikke i sig selv er tilstrækkeligt til at begrunde, at brugstyven kan anses
+at have forvoldt skaden forsætligt. Samtidig
+fandt Højesteret imidlertid, at brugstyven ved
+uretmæssigt at have sat sig i besiddelse af bilen
+og kørt med den trods sin træthed og alkoholpromille og ved herunder at have kørt galt som
+sket, havde udvist en så uforsvarlig adfærd, at
+han efter en samlet vurdering måtte anses at
+have forvoldt skaden ved grov uagtsomhed
+som anført i erstatningsansvarslovens § 19, stk.
+2. Brugstyven blev derfor tilpligtet at betale for
+skaden.
+Som det fremgår, afgøres det efter en konkret og samlet vurdering i den enkelte sag, om
+der i forbindelse med brugstyveri af en bil er
+udvist forsæt eller grov uagtsomhed, således at
+der er erstatningsansvar for brugstyven efter
+erstatningsansvarslovens § 19, stk. 2. Ved denne samlede vurdering indgår brugstyveriet som
+et af flere momenter. Man kan således ikke på
+forhånd sige, at en skade, der påføres en bil af
+en brugstyv, ikke vil føre til erstatningsansvar
+for brugstyven.
+Spm. nr. S 309
+Til socialministeren (12/1 93) af:";Justitsministeren
+29432;name_party;":
+»Vil ministeren kommentere artiklen om
+Nebs Møllegaard i Ekstra Bladet, den 11. januar 1993 side 6 og 7, under overskriften »Video-spionage mod børn med problemer«?«
+Begrundelse
+Det fremgår af artiklen i Ekstra Bladet den
+11. januar 1993 side 6 og 7, at forholdene på
+Nebs Møllegaard ikke ligefrem er i overensstemmelse med gældende dansk lov.
+Det forekommer naturligt for spørgeren, at
+ministeren griber ind i sagen og får den belyst,
+og derefter får sat tingene på plads.
+Svarene bedes givet med henblik på et eventuelt senere samråd om sagen.
+
+4756
+
+Svar (18/1 93):";Tom Behnke
+30043;title_name;":
+I Ekstra Bladets artikel »Video-spionage
+mod børn med problemer« berettes om to familiers oplevelser under deres børns ophold og
+behandling på institutionen Nebs Møllegård. I
+den ene sag har faderen følt sig overvåget af et
+videokamera under forældrenes besøg hos deres barn, og i begge sager har der været truffet
+beslutning om telefon- og brevkontrol. I det
+ene tilfælde er faderen overbevist om, at det
+videoudstyr, som findes, er blevet brugt ved familiens besøg, på trods af at forstanderen har
+benægtet dette. Det berettes om institutionen,
+at den er for tvangsanbragte børn, og artiklen
+efterlader det indtryk, at der finder skjult overvågning sted.
+Det bemærkes, at Socialministeriet ikke har
+kompetence til at gå ind og undersøge konkrete sager. Med hensyn til institutionen kan det
+oplyses, at den drives af Vestsjællands Amtskommune, som fører såvel det pædagogiske
+som det administrative tilsyn med institutionen. Forældrene kan, hvis de ønsker at klage
+over forholdene på institutionen, rette henvendelse til amtsrådet som den ansvarlige myndighed, og hvis de ønsker at klage over konkrete
+beslutninger i deres sag i kommunerne, kan
+henvises til det almindelige sociale ankesystem
+i konkrete sager.
+Med hensyn til de omtalte forhold på institutionen er der i ministeriet telefonisk i sagens
+anledning indhentet nogle oplysninger fra
+amtskommunen.
+På denne baggrund og ud fra Socialministeriets kendskab til institutionen fra centralt
+hold, også til de behandlingsmetoder, som anvendes på en række lignende institutioner, der
+arbejder med børn og familier, skal jeg oplyse,
+at Nebs Møllegård er en specialinstitution for
+psykisk skadede børn. De børn, der af kommunerne anbringes på denne institution, kan være
+enten frivilligt anbragt eller anbragt uden forældrenes samtykke. Institutionen har som de
+fleste døgninstitutioner for børn og unge gennem årene gennemgået store forandringer og
+omstillinger for at kunne imødekomme de behov, som familierne og børnene har.
+Institutionen har således som også andre
+lignende institutioner arbejdet med udvikling
+af erfaringer med familiebehandling i form af
+dagbehandling, dvs. behandling for familier og
+
+4757
+
+27/1 93: Skriftligt besvarede spørgsmål";Else Winther Andersen
+32273;title_name;"børn, der bor hjemme, men som har accepteret, at hele familien behandles samlet på institutionen. Ét, men ikke afgørende, værktøj i
+denne behandling kan være anvendelse af videooptagelser af konkrete familiesituationer,
+som sammen med familierne bagefter er blevet
+gennemgået og analyseret for at afdække nogle
+problemstillinger og finde løsninger til at komme videre med.
+En forudsætning herfor er selvfølgelig familiens egen accept, ellers har optagelserne intet
+formål, og andre måder må anvendes.
+For mange familier har dette tilbud om behandling af hele familien betydet, enten at et
+barns ophold uden for hjemmet har kunnet
+undgås, eller at et ophold uden for hjemmet
+har kunnet forkortes.
+Der er derfor i de nye regler om foranstaltninger for børn og unge, som trådte i kraft den
+1. januar 1993, skabt hjemmel til en sådan
+form for familiebehandling, der altså altid vil
+bygge på et samtykke fra forældrene.
+I situationer, hvor børn er døgnanbragt på
+institutionen, finder der selvfølgelig også en
+familiebehandling sted, men ofte er udgangspunktet anderledes, fordi familiernes motivation kan være forskellig, og især i de tilfælde,
+hvor anbringelsen et sket tvangsmæssigt, kan
+forældrenes holdning til anbringelsen være
+særdeles ambivalent. Men også i disse sager er
+det af den største betydning at få etableret et
+positivt samarbejde med forældrene.
+Fra amtskommunen er det oplyst, at forsøgsordningen med dagbehandling på institutionen for længst er ophørt. Videooptagelserne
+fandt sted i samarbejde med de forældre, der
+deltog i denne dagbehandling. Video er aldrig
+brugt i tvangsanbringelsessager og aldrig ved
+besøg. Efter at dagbehandlingen er ophørt, anvendes video nu sjældent, men det kan forekomme som led i den ambulante virksomhed
+og da altid som hidtil kun med forældrenes accept. På grund af den usikkerhed om anvendelsen, som videoudstyret har skabt hos nogle
+forældre, besluttede man for over et år siden at
+tage videoudstyret ned. Det bliver derfor kun
+stillet op i de efterhånden sjældne tilfælde,
+hvor man altså enes med forældrene om, at det
+er en god måde at komme videre på i behandlingen.
+Social- og sundhedsudvalget i Vestsjællands
+Amtskommune har løbende fulgt dette arbejde
+
+4758
+
+gennem mere end et år, og også i forbindelse
+med de nye avisartikler har man indhentet en
+redegørelse fra institutionen. Men de konkrete
+sager, der omtales, er altså sager fra tiden, før
+videoudstyret blev pillet ned for ikke unødigt
+at skabe denne usikkerhed hos nogle forældre.
+Med hensyn til den telefonaflytning og brevkontrol, som også nævnes i artiklen, skal jeg
+bemærke, at der før den 1. januar 1993 var fastsat bestemmelser herom i en bekendtgørelse
+fra Socialministeriet. Reglerne herom er nu
+indsat i bistandsloven med virkning fra den 1.
+januar 1993, og der er sket en styrkelse af retsgarantierne, idet beslutning om brev- og telefonkontrol skal træffes af børn og unge-udvalget, hvor en dommer er medlem og mødeleder.
+Den omtalte bestemmelse indebærer, at barnet
+eller den unge selv beslutter, om et ind- eller
+udgående brev eller en telefonsamtale skal
+kontrolleres. Åbning af udgående og indgående breve kan således kun finde sted med samtykke fra og i overværelse af barnet eller den
+unge. Kontrol af telefonsamtaler, som alene
+kan ske i form af medhør, kan kun finde sted
+med samtykke fra barnet eller den unge. Såfremt medhør finder sted, skal den person,
+med hvem telefonsamtalen føres, gøres opmærksom herpå. Ønsker barnet eller den unge
+ikke, at et indgående brev åbnes, skal dette
+uåbnet returneres til afsenderen med forklarende ledsagebrev. Ønsker barnet eller den unge ikke, at der sker medhør ved en udgående
+telefonsamtale, føres samtalen ikke. Kontrol
+med breve og andre henvendelser til og fra en
+eventuel advokat må ikke finde sted.
+Det skal endelig bemærkes, at denne regel
+alene har til formål at beskytte barnet eller den
+unge, og at der kun kan foretages brev- og telefonkontrol, hvis det er nødvendigt af hensyn til
+barnets eller den unges sundhed eller udvikling.
+Spm. nr. S 312
+Til socialministeren (12/1 93) af:";Socialministeren
+36355;name_party;":
+»Vil ministeren oplyse, om det er tilladt at
+videooptage i de situationer, der er omtalt i artiklen om Nebs Møllegaard i Ekstra Bladet
+den 11. januar 1993 side 6 og 7, henholdsvis
+med og uden samtykke fra de involverede, i
+relation til både tvangsfjernelsesloven, retsplejeloven og grundloven?«
+
+4759
+
+27/1 93: Skriftligt besvarede spørgsmål
+
+4760";Tom Behnke
+36720;title_name;"Begrundelse
+Der henvises til begrundelsen for spørgsmål
+nr. S 309.";Tom Behnke
+36803;name_party;":
+»Hvad agter ministeren at gøre på baggrund
+af omtalen af forholdene på Nebs Møllegaard?«
+Begrundelse
+
+Svar (18/1 93):";Tom Behnke
+36963;title_name;":
+Når et barn eller en ung er anbragt uden for
+hjemmet, bør det tilstræbes, at der etableres et
+positivt samarbejde med forældrene, uanset
+om anbringelsen er besluttet uden samtykke.
+Kommunen har dog i visse tilfælde en lovhjemlet ret til at begrænse forældrenes handlemuligheder over for barnet, hvis det er nødvendigt.
+Efter bistandslovens § 14, stk. 7, kan børn og
+unge-udvalget således, hvis det er nødvendigt
+af hensyn til barnets eller den unges sundhed
+eller udvikling, træffe beslutning om kontrol
+med brevveksling, telefonsamtaler m.v. mellem
+forældrene og barnet, når det har ophold på en
+døgninstitution.
+Efter lovens § 67, stk. 2, har kommunen adgang til om nødvendigt at træffe beslutning om
+omfanget og udøvelsen af samværet eller kontakten mellem forældrene og barnet eller den
+unge. Det kan dreje sig såvel om tilrettelæggelsen af gensidige besøg som om, hvorledes
+brev- og telefonkontakten skal foregå. Kommunen kan endvidere fastsætte nærmere vilkår
+for samværet, f.eks. at dette skal foregå et bestemt sted.
+Kommunens adgang til at regulere samværets praktiske afvikling har til hensigt at tilgodese barnet eller den unge, og det præciseres i
+bestemmelsen, at der ved beslutningen skal
+lægges særlig vægt på hensyn til barnet eller
+den unge og formålet med anbringelsen.
+Andre kontrolforanstaltninger over for forældrene under anbringelse uden for hjemmet
+end de ovenfor nævnte, f.eks. videooptagelse
+af forældrene og barnet, vil herefter kun kunne
+finde sted, hvis forældrene er indforståede hermed.
+Som nævnt i svaret på spørgsmål nr. S 309
+har amtskommunen oplyst, at videooptagelser
+ikke er blevet anvendt i tvangsfjernelsessager
+og aldrig ved besøg i den omtalte institution.
+Spm. nr. S 313
+Til socialministeren (12/1 93) af:
+
+Der henyises til begrundelsen for spørgsmål
+nr. S 309.
+Svar (18/1 93):";Else Winther Andersen
+38825;title_name;":
+Der henvises til svaret på spørgsmål nr. S
+314.
+Spm. nr. S 323.
+Til sundhedsministeren (14/1 93) af:";Else Winther Andersen
+38951;name_party;":
+»Vil ministeren oplyse, om der må anses at
+eksistere et habilitetsproblem i forbindelse
+med medicinaldirektør Palle Juul-Jensens bestyrelsespost i Rigshospitalet og hans bestyrelsespost i en privat fond, der skænker sygehusene udstyr?«
+Svar (22/1 93):";Køpke Christensen
+39238;title_name;":
+Rigshospitalet har ikke nogen bestyrelse.
+Det er Rigshospitalets direktion, der over for
+sundhedsministeren er ansvarlig for hospitalets drift.
+I januar 1991 blev Rigshospitalets Råd nedsat. Rådet fik primært til opgave i en overgangsperiode at rådgive hospitalets ledelse ved
+iværksættelsen af de initiativer, der skal skabe
+balance i økonomien, samt følge udviklingen i
+hospitalets økonomi.
+Rådet er sammensat af personer med særlig
+indsigt i sundhedsfaglige spørgsmål, sygehusadministration, ledelse og forskning.
+Medlemmerne har ikke noget ansvar for hospitalets drift og økonomi, men skal hver især
+rådgive med deres ekspertise. Jeg finder ikke,
+at der eksisterer et habilitetsproblem i forbindelse med medicinaldirektørens medlemskab
+af Rigshospitalets Råd samtidig med hans bestyrelsespost i en privat fond, der skænker sygehusene udstyr.
+Spm. nr. S 324
+Til sundhedsministeren (14/1 93) af:
+
+4761,
+
+27/1 93: Skriftligt besvarede spørgsmål
+
+4762";Ester Larsen
+40216;name_party;":
+»Vil ministeren oplyse, om der skal oprettes
+en afdeling på Rigshospitalet for finere kæbekirurgi, og om Århus Kommunehospitals tilsvarende afdeling samtidig skal nedlægges?«
+
+Af hensyn til kvaliteten af patientbehandlingen er jeg enig med Sundhedsstyrelsen, Rigshospitalet og Århus Universitetshospital i, at
+kun ét center bør varetage denne komplicerede
+behandling.
+
+Svar (22/1 93):";Køpke Christensen
+40636;title_name;":
+Der findes i dag både på Rigshospitalet og
+på Århus Kommunehospital afdelinger, der
+varetager kæbekirurgi. Der er mig bekendt ingen planer om at nedlægge nogen af disse afdelinger.
+Derimod har spørgsmålet om behandling af
+visse små handicapgrupper været drøftet bl.a. i
+forbindelse med specialeplanlægningsarbejdet
+i Sundhedsstyrelsen.
+Rigshospitalet har gennem en lang årrække
+varetaget behandlingen af svære craniofaciale
+anomalier, dvs. misdannelser i hovedet, i samarbejde med Københavns Tandlægehøjskole.
+Kun enkelte patienter er i tiden op til 1990 behandlet på andre afdelinger.
+Århus Kommunehospital, som i 1990 påbegyndte behandlingen i et samarbejde med Århus Tandlægehøjskole, henvendte sig i 1991 til
+Sundhedsstyrelsen med et ønske om at varetage landsfunktionen på området.
+Antallet af patienter med behov for denne
+komplicerede kirurgi er i størrelsesordenen 5
+til 10 om året. Behandlingen af denne lille
+gruppe sker i et samarbejde mellem mange medicinske specialer (børnelæger, plastikkirurger, tandkirurger, kæbekirurger og neurokirurger).
+Jeg har fået oplyst, at der er enighed mellem
+Rigshospitalet, Århus Universitetshospital og
+Sundhedsstyrelsen om, at der på grund af sjældenheden og den komplicerede behandling
+kun er behov for ét center i Danmark.
+Efter Sundhedsstyrelsens opfattelse er de
+craniofaciale operationer så komplicerede og
+patientgrundlaget så begrænset, at det kunne
+overvejes, om patienterne burde behandles i
+udlandet.
+Rigshospitalet og Århus Amtskommune har
+aftalt et møde i marts 1993. Her vil hospitalsledelserne og nøglepersoner i behandlingsgrupperne beskrive samarbejdsorganisationer, behandlingsresultater osv. Parterne vil på den
+baggrund drøfte, hvordan og hvor opgaven
+fremover mest hensigtsmæssigt kan placeres.
+
+Spm. nr. S 325
+Til sundhedsministeren (14/1 93) af:";Ester Larsen
+42475;name_party;":
+»Vil ministeren kommentere medicinaldirektør Palle Juul-Jensens udtalelser om, at han
+frygter, at aftalen mellem Århus Kommunehospital og universitetshospitalet Eppendorf i
+Hamburg om at transplantere 20 leversyge tyskere kan komme til at koste danske leverpatienter livet?«
+Begrundelse
+Ekstra Bladet oplyste den 10. januar 1993, at
+medicinaldirektør Palle Juul-Jensen har udtalt
+til Radioavisen, at han frygter, at aftalen mellem Århus Kommunehospital og universitetshospitalet Eppendorf i Hamburg om at transplantere 20 leversyge tyskere kan komme til at
+koste danske leverpatienter livet.
+Svaret bedes bl.a. indeholde oplysninger
+om, hvorvidt medicinaldirektøren har fået en
+påtale på grund af sine utidige udtalelser.
+Svar (22/1 93):";Køpke Christensen
+43248;title_name;":
+Medicinaldirektøren har oplyst, at baggrunden for de citerede udtalelser er oplysninger
+fra den århusianske deltager i Sundhedsstyrelsens Transplantationsudvalg om en mulig model for tilrettelæggelse af samarbejdet mellem
+Århus Kommunehospital og Eppendorf Sygehus.
+Samarbejdet kunne ifølge det oplyste f.eks.
+udmøntes ved, at tyske patienter optages på
+venteliste i Århus på lige fod med de danske
+patienter. Det er medicinaldirektørens vurdering, at en sådan samarbejdsform ville betyde,
+at de organer, der er til rådighed i Danmark,
+skulle fordeles til et større antal patienter end
+nu. Det ville medføre længere ventetid for danske patienter og dermed større risiko for at dø i
+ventetiden. Medicinaldirektørens bemærkninger var møntet på denne model.
+
+4763
+
+27/1 93: Skriftligt besvarede spørgsmål
+Spm. nr. S 326
+
+Til sundhedsministeren (14/1 93) af:";Ester Larsen
+44128;name_party;":
+»Vil ministeren kommentere Rigshospitalets
+forhandlinger med Island om at transplantere
+hjerter og levere på islændinge, der endte med,
+at Island valgte at få transplantationerne foretaget i Göteborg i Sverige?«
+Begrundelse
+Ekstra Bladet oplyste den 10. januar 1993, at
+Rigshospitalet forhandlede med Island om at
+transplantere hjerter og levere på islændinge.
+Forhandlingen endte imidlertid med, at Island
+valgte at få transplantationerne foretaget i Göteborg i Sverige, idet prisen var for høj.
+Svaret bedes bl.a. indeholde oplysninger
+om, hvorvidt Rigshospitalets priser på hjerteog levertransplantationerne er væsentlig højere end priserne på samme transplantationer
+udført på Göteborg sygehus og Århus Kommunehospital. I Ekstra Bladet den 10. januar
+1993 oplyses det, at transplantationerne er ca.
+50.000 kr. billigere på Århus Kommunehospital end på Rigshospitalet.
+Svar (22/1 93):";Køpke Christensen
+45051;title_name;":
+Rigshospitalet har i en årrække samarbejdet
+med sygehusvæsenet på Island om transplantation. Hospitalet har således foretaget nyretransplantation på islandske patienter i et
+gnidningsfrit samarbejde med gode resultater.
+I efteråret 1991 spurgte sygehuset i Reykjavik,
+om Rigshospitalet ville være interesseret i at
+foretage transplantation af hjerter og levere på
+islandske patienter. På baggrund af henvendelsen beregnede Rigshospitalet en aktuel pris
+på behandling af eventuelle islandske patienter til hjerte- og levertransplantation. Pristilbudet blev sendt til det islandske sundhedsvæsen, som havde meddelt, at det også undersøgte prisen på hjerte- og levertransplantation i
+andre lande. Herefter meddelte det islandske
+sundhedsvæsen, at det havde besluttet, at
+transplantationerne skulle foregå i Sverige på
+grund af en højere pris på Rigshospitalet.
+Jeg kan oplyse, at en arbejdsgruppe nedsat
+af Rigshospitalet og Århus Universitetshospital har udarbejdet en redegørelse af 9. decem-
+
+4764
+
+ber 1992 om Rigshospitalets priser på hjerteog levertransplantationer sammenlignet med
+priserne i Århus. Arbejdsgruppen har gjort rede for transplantationstaksterne og prisen for
+et helt transplantationsforløb på Rigshospitalet, Århus Kommunehospital og Skejby Sygehus.
+Det fremgår af redegørelsen, at Rigshospitalets pris for levertransplantationer er 1.091.000
+kr. mod 1.037.000 kr. på Århus Kommunehospital. Prisen for hjertetransplantationer er
+1.021.000 kr. på Rigshospitalet mod 936.000
+kr. på Skejby Sygehus. Tallene dækker over
+udgiften for et forløb over 6 år beregnet i
+1993-prisniveau. Forskellene skyldes primært,
+at Rigshospitalet indregner fast personale til
+kirurger, anæstesiologer m.v. i omkostningerne til transplantationer. Dette sker ikke i Århus, hvor omkostningerne dækkes via den almindelige séngedagspris på afdelingerne og
+derved indgår i priserne for de øvrige patienter
+på afdelingetne. Det var derfor arbejdsgruppens vurdering, at der ikke er nævneværdig
+forskel i prisen på transplantationer på Rigshospitalet og i Århus.
+Rigshospitalet er ikke bekendt med priserne
+i det svenske tilbud.
+Spm. nr. S 327
+Til sundhedsministeren (14/1 93) af:";Ester Larsen
+47243;name_party;":
+»Vil ministeren kommentere Rigshospitalets
+leverkirurgs udtalelser om, at folk må være mere end almindeligt lokalpatriotiske, hvis de foretrækker at få transplanteret i Århus, når
+Rigshospitalet har præsteret 56 levertransplantationer og næsten lige så mange hjertetransplantationer?«
+Begrundelse
+Ekstra Bladet oplyste den 10. januar 1993, at
+Rigshospitalets leverkirurg udtaler, at folk må
+være mere end almindeligt lokalpatriotiske,
+hvis de foretrækker at få transplanteret i Århus, når Rigshospitalet har præsteret 56 levertransplantationer og næsten lige så mange
+hjertetransplantationer.
+Ifølge spørgerens opfattelse forekommer udtalelser af nævnte karakter at være på grænsen ,
+af god etik, og de virker direkte undergravende
+og ødelæggende for mulighederne for at skabe
+
+4765
+
+27/1 93: Skriftligt besvarede spørgsmål
+4766";Køpke Christensen
+48095;title_name;"et sagligt og positivt billede af kvaliteten af de
+Eleverne flytter midlertidigt til kommunerne
+transplantationer, der udføres på Århus Kom- for at gå på efterskole, og kommunerne sparer
+munehospital.
+derfor ingen penge ved, at eleverne går på efSvaret bedes bl.a. indeholde oplysninger terskole, da disse ikke ville have opholdt sig i
+om, hvorvidt den omtalte leverkirurg har fået kommunerne, dersom de ikke gik på efterskoen påtale på grund af sine utidige udtalelser. le.
+Svar (22/1 93):
+
+Svar (12/1 93):";Køpke Christensen
+48637;title_name;":
+Rigshospitalets direktion oplyser, at omtalen i Ekstra Bladet af udtalelsen fra den pågældende leverkirurg er løsrevet fra den sammenhæng, hvori den indgik i et andet dagblad i forbindelse med en redegørelse for erfaringerne
+med Rigshospitalets transplantationsprogram.
+Baggrunden var en nylig udkommet international rapport, der på grundlag af et meget
+stort talmateriale fastslår, at overlevelsen
+blandt levertransplanterede patienter fra centre med mindre end 24 transplantationer om
+året er ca. 75 pet., mens det tilsvarende tal for
+centre med mere end 24 årlige transplantationer er ca. 85 pet. Jeg kan i øvrigt oplyse, at det
+tilsvarende tal for levertransplanterede patienter på Rigshospitalet har været ca. 95 pet.
+Jeg finder ikke desto mindre, at den citerede
+udtalelse er uheldig. Rigshospitalets direktion
+har samme opfattelse og har påpeget dette
+over for den pågældende.
+
+Kulturministeren (Grethe Rostbøll):
+Det fremgår af § 12 a, at en elev anses for
+hjemmehørende i den kommune, hvor eleven
+er tilmeldt folkeregistret den 5. september året
+før bidragsopkrævningen (bopælskommunen),
+og den amtskommune, hvori bopælskommunen ligger (bopælsamtskommunen).
+Loven undtager ikke færøske elever, herunder færøske elever ved den Norrøne Efterskole
+i Lemvig Kommune.
+
+Spm. nr. S 289
+Til kulturministeren (5/1 93) af:";Ester Larsen
+49982;name_party;":
+»Vil ministeren oplyse, hvorledes begrebet
+»bopælskommune« i § 12 b i lov nr. 387 af 20.
+maj 1992 (Lov om ændring af lov om folkehøjskoler, husholdningsskoler og efterskoler.
+(Indførelse af kommunal og amtskommunal
+bidragsordning for efterskoleelever og obligatorisk kommunal elevstøtte)) skal fortolkes, og
+herunder hvilke tidspunkter der er afgørende
+for pligten til at betale bidrag til staten?«
+Begrundelse
+I kommuner med efterskoler, hvor der i august 1992 er startet eksempelvis færøske elever,
+har kommunerne fået oplyst, at man skal betale statsbidrag på 8.100 kr. pr. elev, hvilket for
+f.eks. 33 elever vil betyde en udgift på i alt
+267.300 kr.
+
+Spm. nr. S 290
+Til kulturministeren (5/1 93) af:";Poul Erik Dyrlund
+50709;name_party;":
+»Vil ministeren oplyse, om der ifølge § 12 d i
+lov nr. 387 af 20. maj 1992 (Lov om ændring af
+lov om folkehøjskoler, husholdningsskoler og
+efterskoler. (Indførelse af kommunal og amtskommunal bidragsordning for efterskoleelever
+og obligatorisk kommunal elevstøtte)) er mulighed for, at kommuner, der må betale for efterskoleelever, der folkeregistreres i kommunen, fordi de kommer fra et andet land, f.eks.
+Færøerne, kan få refusion fra staten eller Færøerne for disse bidrag?«
+Begrundelse
+Der henvises til begrundelsen for spm. nr. S
+289.
+Svar (12/1 93):
+Kulturministeren (Grethe Rostbøll):
+Nej, § 12 d vedrører refusion fra en anden
+dansk kommune eller amtskommune.
+Spm. nr. S 291
+Til kulturministeren (5/1 93) af:";Poul Erik Dyrlund
+51449;name_party;":
+»Vil ministeren tage initiativ til at ændre
+reglerne, dersom fortolkningen af lov nr. 387 af
+
+4767
+
+27/1 93: Skriftligt besvarede spørgsmål";Poul Erik Dyrlund
+51613;title_name;"20. maj 1992 (Lov om ændring af lov om folkehøjskoler, husholdningsskoler og efterskoler.
+(Indførelse af kommunal og amtskommunal
+bidragsordning for efterskoleelever og obligatorisk kommunal elevstøtte)) betyder, at kommuner, hvori der er placeret en efterskole,
+kommer til at betale bidrag til staten for elever
+fra udlandet?«
+Begrundelse
+Der henvises til begrundelsen for spm. nr. S
+289.
+Svar (12/1 93):
+Kulturministeren (Grethe Rostbøll):
+Nej.
+Ganske vist sparer kommunen ikke udgifter
+til folkeskolen ved, at eleverne går på efterskole, da de ellers ikke ville have opholdt sig i
+kommunen.
+Ud fra den betragtning alene ville der være
+grund til at ændre reglerne og undtage udenlandske elever fra bidragspligten.
+Imod ændring taler imidlertid, at eleverne
+indgår i det folketal, der ligger til grund for beregning af statens generelle tilskud til kommuner og amtskommuner.
+Imod ændring taler også, at bidragsordningen for friskoler og private grundskoler (lov nr.
+411 af 6. juni 1991) ikke undtager udenlandske
+elever eller danske elever fra udlandet, selv om
+kommunerne heller ikke for dem har besparelser på folkeskolen.
+Spm. nr. S 320
+Til kulturministeren (13/1 93) af:";Poul Erik Dyrlund
+52810;name_party;":
+»Vil ministeren oplyse, med hvilken lovhjemmel Kulturministeriet i et brev til landets
+efterskoler har meddelt, at den såkaldte 115
+pct.-regel skal være opbrugt, før der kan ansøges om ekstra timer til specialundervisning?«
+Begrundelse
+Kulturministeriet har i et brev af 22. december 1992 (journal nr. 53-00-04/92) meddelt
+landets efterskoler, at der kun kan ansøges om
+støttetimer, hvis det forventede løntimetal
+overstiger normeret løntimetal x reguleringsfaktor x 1,15.
+
+4768
+
+Svar (21/1 93):
+Kulturministeren (Grethe Rostbøll):
+Der er ikke lovhjemmel, og der kræves ikke
+lovhjemmel, idet bevilling af ekstra timer til
+specialundervisning sker skønsmæssigt og udgifterne hertil ikke er lovbundne.
+Begrundelsen for det indførte kriterium for
+1993 er, at skolernes forventninger om specialundervisningstimer overstiger de 9,7 mio. kr.,
+som bevillingen til rammetilskud til efterskoler
+er forhøjet med i overensstemmelse med bemærkningerne Ü1 lov nr. 387 af 20. maj 1992
+om ændring af lov om folkehøjskoler, husholdningsskoler og efterskoler. (Indførelse af
+kommunal og amtskommunal bidragsordning
+for efterskoleelever og obligatorisk kommunal
+elevstøtte).
+Når alle ansøgninger kan imødekommes
+fuldt ud, må det være mere rimeligt end at
+skære forholdsmæssigt ned kun at bevilge ekstra timer, hvis skolens løntimetal er af et vist
+omfang, f.eks. det valgte: normeret løntimetal
+x reguleringsfaktor x 1,15.
+Ordningen er indført efter drøftelse med
+Foreningen af Frie Ungdoms- og Efterskoler
+samt med en række s k o l e r . , 홢
+Spm. nr. S 321
+Til kulturministeren (13/1 93) af:";Poul Erik Dyrlund
+54408;name_party;":
+»Vil ministeren oplyse, med hvilken lovhjemmel Kulturministeriet i et brev til landets
+efterskoler har meddelt, at der højst kan ansøges om 1V2 times specialundervisning pr. elev
+pr. uge?«
+Begrundelse
+Kulturministeriet har i et brev af 22. december 1992 (journal nr. 53-00-04/92) meddelt, at
+den enkelte skole kun kan søge om 1'/2 time pr.
+elev pr. uge til specialundervisning.
+Svar (21/1 93):
+Kulturministeren (Grethe Ròstbøll):
+Der henvises til besvarelsen af spørgsmål nr.
+S 320.
+Spm. nr. S 306
+Til forsvarsministeren (11/1 93) af:
+
+,
+
+.
+
+(299)
+27/1 93: Skriftligt besvarede spørgsmål
+
+4769";Poul Erik Dyrlund
+55024;name_party;":
+»Kan ministeren med henvisning til, at der i
+henhold til forsvarsforliget af 13. november
+1992 mellem 6 af Folketingets partier i 1993 og
+1994 skal spares henholdsvis 125 og 453 mio.
+kr. ved »driftsbesparelser ved tilpasning af flyvevåbnets struktur, reduktion af værnepligtstiden, reduktion af hærens krigsstyrke, ændring
+af bemandingen af visse funktioner i hæren,
+tilpasning af søværnets flådeorganisation, nedlæggelse af Avedørelejren, reduktioner af
+driftsudgifterne ved Avderødlejren, tilpasning
+af mønstringsaktiviteter m.v.«, specificere besparelserne i 1993 og 1994 på de enkelte områder?«
+Svar (20/1 93):";Klaus Hækkerup
+55670;title_name;":
+Jeg kan bekræfte, at det i forligssammenhæng er aftalt at spare 125 og 453 mio. kr. i
+henholdsvis 1993 og 1994 på de nævnte områder.
+Under hensyntagen til, at væsentlige dele af
+beløbene først skal udmøntes efter nærmere
+undersøgelser i diverse arbejdsgrupper m.v.,
+finder jeg det ikke hensigtsmæssigt at fremkomme med yderligere specifikation af besparelserne for 1993 og 1994 på de enkelte områder.
+Spm. nr. S 307
+Til forsvarsministeren (11/1 93) af:";Enggaard
+56143;name_party;":
+»Kan ministeren med henvisning til, at der i
+henhold til forsvarsforliget af 13. november
+1992 mellem 6 af Folketingets partier skal nedsættes en arbejdsgruppe vedrørende yderligere
+rationaliseringer og tilpasninger i søværnet,
+oplyse, om denne arbejdsgruppe er nedsat, og
+hvem der er medlemmer af den?«
+Svar (20/1 93):";Klaus Hækkerup
+56494;title_name;":
+Ifølge forsvarsforliget af 13. november 1992
+skal der nedsættes en arbejdsgruppe, som med
+udgangspunkt i overvejelserne herom i rapporten af 2. marts 1992 fra udvalget vedrørende
+forsvarets udvikling m.v. skal fremsætte forslag til eventuel nedlægggelse af Langelandsfortet og Avderødlejren.
+
+4770
+
+Arbejdsgruppen skal herudover fremsætte
+forslag til eventuelle rationaliseringer og tilpasninger inden for søværnets kystudkigsorganisation, hvis personel i vid udstrækning er ansat under Farvandsvæsenet.
+Arbejdsgruppen vil blive ledet af departementschef i Forsvarsministeriet Anders Troldborg (formand).
+Jeg har den 11. januar 1993 skrevet til Farvandsvæsenet, Forsvarets Bygningstjeneste,
+Statsansattes Kartel, Statstjenestemændenes
+Centralorganisation 11, Akademikernes Centralorganisation samt Tjenestemænds og Overenskomstansattes Kartel og anmodet disse om
+hver at udpege en repræsentant til arbejdsgruppen.
+Fra Forsvarsministeriet deltager i arbejdsgruppen afdelingschef B. W. Reeh, kontorchef
+H. M. Richter og orlogskaptajn J. Britze. Forsvarskommandoen vil være repræsenteret i arbejdsgruppen ved viceadmiral H. J. Garde, generalmajor O. L. Kandborg og oberst O. H.-G.
+Hoff. Endvidere vil kontreadmiral K. E. J.
+Borck, Søværnets Operative Kommando, kontreadmiral S. T. Petersen, Søværnets Materielkommando, kommandør E. H. Bengtsen, søværnets 2. eskadre, kommandør V. Hansen,
+Sundets Marinedistrikt, og kommandørkaptajn S. Broberg, Søværnets Grundskole, deltage i arbejdsgruppen.
+Arbejdsgruppen forventer at afholde sit første møde i uge 4 eller 5.
+Spm. nr. S 276
+Til boligministeren (30/12 92) af:";Enggaard
+58125;name_party;":
+»Vil ministeren oplyse, om - og i givet fald
+hvilke - professionelle prisvurderinger ligger
+til grund for prisen på 130 mio. kr. for statens
+køb af Hafnias bygning?«
+Begrundelse
+Der henvises til artikel fra Aalborg Stiftstidende den 19. december 1992.
+Svar (20/1 93):
+Boligministeren (Svend Erik Hovmand):
+Boligministeriet har fra Hafnia Holding af
+1992 A/S erhvervet ejendomskarreen Holmens Kanal 24, Ved Stranden 2 og Boldhusga-
+
+4771
+
+27/1 93: Skriftligt besvarede spørgsmål";Kirsten Jacobsen
+58625;title_name;"de 1 for en kontant pris på 118.650.000 kr.
+Samtidig købte ministeriet et i ejendommen
+Holmens Kanal 24's kælder installeret arkivanlæg for en samlet pris på 3.350.000 kr.
+Prisvurdering af ejendommen er foretaget af
+Told- og Skattestyrelsens vurderingsafdeling,
+der finder, at ejendommens størrelse og unikke
+beliggenhed gør den til en liebhaverejendom,
+som det er meget vanskeligt at værdiansætte,
+idet salgsvilkårene kun i begrænset omfang er
+en funktion af den leje, der skønnes at kunne
+opnås. En rentabilitetsberegning ville efter
+vurderingsafdelingens vurdering betinge en
+pris på ca. 110 mio. kr. Hertil kommer værdien
+af de ovenfor nævnte særlige forhold (ejendommens størrelse og beliggenhed). Told- og
+Skattestyrelsen udtaler, at skønnet er behæftet
+med betydelig usikkerhed, idet der ikke foreligger et egentligt salgsstatistisk materiale.
+Boligministeriet har endvidere anmodet en
+uvildig arkitekt og ingeniør, som har erfaring i
+ejendomsvurderinger, om at vurdere ejendommen. Efter en bygningsteknisk gennemgang af
+ejendommen har arkitekten, arkitektfirmaet
+Niels Brøns, og ingeniøren, ingeniørfirmaet
+Seitzberg og Neltoft A/S, prisvurderet ejendommen til 124-128 mio. kr. inkl. arkivanlægget.
+Spm. nr. S 277
+Til boligministeren (30/12 92) af:";Boligministeren
+59903;name_party;":
+»Vil ministeren redegøre for baggrunden for
+erhvervelsen af Hafnias bygning og oplyse, til
+hvilket konkret formål bygningen er tænkt anvendt?«
+Begrundelse
+Der henvises til begrundelsen til spørgsmål
+nr. S 276.
+Svar (20/1 93):
+Boligministeren (Svend Erik Hovmand):
+Baggrunden for Boligministeriets erhvervelse af ejendommen Holmens Kanal 24 m.fl. er,
+at ejendommens størrelse og beliggenhed op
+til Slotsholmen gør den yderst velegnet til kontorbrug for centraladministrationen. Lokalerne i ejendommen skal erstatte lokalerne i Provianthuset, som stilles til rådighed for Folketinget, jf. nedenfor.
+
+4772
+
+Ejendommen vil blive disponeret i forbindelse med en større omlægning af flere ministeriers lokaler, som sikrer en større grad af
+samling af ministerier i lokaler så tæt på Folketinget som muligt. I forbindelse hermed vil det
+bl.a. blive muligt at placere Administrationsog Personaledepartementet, der i dag er lokaliseret i Bredgade 43, i tilknytning til Budgetdepartementet i Slotsholmsgade. Det var tidligere hensigten at imødekomme dette behov ved
+at placere dele af Administrations- og Personaledepartementet i Provianthuset.
+Spm. nr. S 278
+Til boligministeren (30/12 92) af:";Kirsten Jacobsen
+61111;name_party;":
+»Vil ministeren oplyse, hvilke behovsanalyser der ligger til grund for at udvide omfanget
+af statens ejendomme?«
+Begrundelse
+Der henvises til begrundelsen til spørgsmål
+nr. S 276.
+Svar (20/1 93):
+Boligministeren (Svend Erik Hovmand):
+Ejendommen Holmens Kanal 24 m.fl. skal
+erstatte de knap 5.000 m2 i Provianthuset, som
+var planlagt disponeret til centraladministrative formål, men som Folketinget nu disponerer
+over.
+I forbindelse med disponeringen af ejendommen, jf. besvarelsen af spørgsmål nr. S
+277, påregnes det endvidere, at der kan opsiges
+ca. 5.000-6.000 m2 lejemål.
+Endvidere har Boligministeriet planlagt i
+1993 at afhænde ejendommen Adelgade 11-13,
+der indeholder ca. 5.000 m2 kontorareal, jf. Akt
+295 19/6 92.
+Erhvervelsen af ejendommen Holmens Kanal 24 m.fl. indebærer derfor ikke på længere
+sigt nogen nettoudvidelse af det hidtil forudsatte lokaleforbrug.
+Spm. nr. S 279
+Til boligministeren (30/12 92) af:";Kirsten Jacobsen
+62056;name_party;":
+»Vil ministeren oplyse antallet af kvadratmeter, der enten er eller bliver ledige, og som
+
+4773
+27/1 93: Skriftligt besvarede spørgsmål
+4774";Kirsten Jacobsen
+62219;title_name;"det offentlige allerede råder over enten som
+Begrundelse
+ejer eller som lejer?«
+Der henvises til begrundelsen til spørgsmål
+nr.
+S 276.
+Begrundelse
+Der henvises til begrundelsen til spørgsmål
+nr. S 276.
+Svar (20/1 93):
+Boligministeren (Svend Erik Hovmand):
+I forbindelse med disponeringen af ejendommen Holmens Kanal 24 m.fl. forventes
+der, formentlig i slutningen af 1993, at blive et
+ledigt lejemål på 5.000-6.000 M2, jf. besvarelsen
+af spørgsmålene nr. S 277 og S 278. Dette er
+planlagt afviklet.
+Herudover ejer Boligministeriet en ejendom
+i Adelgade, hvor den nuværende bruger fraflytter ca. 5.000 m2 omkring 1. marts 1993, jf.
+Akt 295 19/6 92. Denne ejendom er planlagt
+udbudt til salg snarest.
+I forbindelse med en igangværende omdisponering og renovering af statsejendommen
+Skt. Kjelds Gård på Østerbro er der i ejendommen, som i alt omfatter ca. 34.000 m2, et udisponeret areal, der anvendes som aflastningslokaler i forbindelse med renoveringen, jf. Akt
+232 29/5 91.
+Socialministeriet, som råder over ca. 2.400
+m2 i ejendommen, fraflytter disse medio 1993.
+Når renoveringen af ejendommen er afsluttet,
+forventes der at blive et udisponeret areal i
+ejendommen på ca. 5.000 m2. Da det næppe er
+muligt at finde statslige brugere til arealet, vil
+man udleje lokalerne til private lejere.
+Endelig disponeres over et mindre areal (ca.
+250 m2) i statsejendommen Frederiksholms
+Kanal 28. Der har været forhandlet med Københavns Kommune om leje af lokalerne, men
+foreløbig uden resultat. Lokalerne vil blive udlejet til anden side.
+Boligministeriet råder ikke i øvrigt over
+udisponerede lokaler.
+Spm. nr. S 280
+
+Svar (20/1 93):
+Boligministeren (Svend Erik Hovmand):
+Det har været regeringens politik at afhænde de ejendomme, der ikke anvendes til statslige formål. I overensstemmelse med denne politik har Boligministeriet siden 1990 afhændet
+ejendomme for i alt 167 mio. kr.
+Da ejendommen Holmens Kanal 24 m.fl.
+skal anvendes til kontorer for ministerier, kan
+købet af ejendommen ikke anses for at være i
+strid med nævnte politik.
+Købet af ejendommen er planlagt søgt finansieret ved salg af andre statsejendomme:
+ejendommen Adelgade 11-13 og en større kontorejendom i Birkerød (»Kildeskattehuset«)
+samt den ubebyggede grund beliggende Bryghusgade 1 (»Bryghusgrunden«).
+Begrundelsen for denne disposition er et
+principielt ønske 01Ìl, at staten i videst muligt
+omfang ejer de bygninger nær ved Slotsholmen, som anvendes af centraladministrationen, da kombinationen af denne beliggenhed
+og ejerskab under alle omstændigheder betinger en mere fleksibel anvendelse.
+Spm. nr. S 281
+Til boligministeren (30/12 92) af:";Kirsten Jacobsen
+64853;name_party;":
+»Kan ministeren bekræfte, at den Hafniaejendom, staten har erhvervet, inden for den
+sidste tid flere gange er handlet mellem forskellige Hafniaselskaber, og at prisen derved
+er blevet opskruet?«
+Begrundelse
+Der henvises til begrundelsen til spørgsmål
+nr. S 276.
+
+Til boligministeren (30/12 92) af:
+
+Svar (20/1 93):";Kirsten Jacobsen
+65192;name_party;":
+»Finder ministeren, at erhvervelsen af Hafnias bygning er i overensstemmelse med regeringens politik om afhændelse af statens ejendomme?«
+
+Boligministeren (Svend Erik Hovmand):
+Boligministeriet har ikke kendskab til, i hvilket omfang ejendommen Holmens Kanal 24
+m.fl. har været handlet mellem forskellige Hafniaselskaber.
+
+4775
+
+27/1.93: Skriftligt besvarede spørgsmål";Kirsten Jacobsen
+65583;title_name;"Da ejendommens pris er aftalt på grundlag
+af professionelle prisvurderinger, jf. besvarelsen af spørgsmål nr. S 276, har eventuelle interne handler ikke haft indflydelse på købesummens fastsættelse.
+Spm. nr. S 282
+Til boligministeren (30/12 92) af:";Boligministeren
+65853;name_party;":
+»Vil ministeren oplyse, hvilken kvadratmeterleje Hafniaejendommen skulle lejes ud til,
+såfremt der skulle opnås et afkast på 10 pet. af
+den investerede kapital, idet der i beregningen
+bedes taget hensyn til ejendommens faste udgifter?«
+Begrundelse
+Der henvises til begrundelsen til spørgsmål
+nr. S 276.
+Svar (20/1 93):
+Boligministeren (Svend Erik Hovmand):
+Den samlede købspris for ejendommen Holmens Kanal 24 m.fl. inkl. arkivanlæg udgjorde
+122 mio. kr.
+De på ejendommen hvilende skatter og afgifter udgør for tiden ca. 1.150.000 kr. årligt.
+Såfremt der skulle opnås et afkast på 10 pet.
+p.a. af den investerede kapital, ville det betinge
+en årlig leje på i alt 13.350.000 kr.
+Da ejendommen omfatter i alt 9.165 M2, vil
+dette svare til en gennemsnitlig m2-leje på
+1.456,60 kr.
+Inden lokalerne tages i brug, vil det være
+nødvendigt at foretage en hovedistandsættelse,
+som vurderes til at ville koste ca. 35 mio. kr.
+Denne investering vil med det forudsatte afkast svare til en gennemsnitlig lejestigning på
+ca. 380 kr. pr. m2 årligt.
+Det skal i den forbindelse bemærkes, at det
+efter Boligministeriets opfattelse næppe er realistisk at forudsætte et begyndelsesafkast på
+10 pet. ved investering i en sådan ejendom.
+Spm. nr. S 294
+Til industriministeren (5/1 93) af:";Kirsten Jacobsen
+67142;name_party;":
+»Vil ministeren give en dokumentation for,
+at stigningen i gebyret for klager gennem For-
+
+4776
+
+brugerankenævnet fra 25 kr. til 150 kr. er i
+overensstemmelse med de faktiske omkostninger og ikke bare en skjult ekstraskat?«
+Begrundelse
+Der henvises til ledere fra Aalborg Stiftstidende og B.T. den 22. december 1992.
+Svar (13/1 93):
+Industriministeren (Anne Birgitte Ltindholt):
+Det fremgår af Finansministeriets »Rapport
+fra Gebyrudvalget«, at de direkte udgifter til
+Forbrugerklagenævnet i 1992 udgjorde 3,5
+mio. kr. En udregning foretaget af pressen på
+grundlag af tallene i gebyrrapporten førte til,
+at det i offentligheden blev fremstillet således,
+at en klage reelt skulle medføre en udgift på
+850 krò I dette tal var ikke indregnet de indirekte udgifter, da disse ikke var opgivet i rapporten.
+De samlede udgifter til drift af Forbrugerklagenævnet udgjorde i 1992 ca. 9,6 mio. kr.
+Når det lægges til grund, at Forbrugerklagenævnet i 1992 behandlede 2.700 skriftlige klager, står det således klart, at der ved forhøjelsen af gebyret fra 25 til 150 kr. ikke er tale om
+en ekstraskat. Det bemærkes, at Udgifterne
+som opgjort ovenfor indeholder de samlede direkte og indirekte udgifter eksklusive forrentning og afskrivning af bygninger og edb-udstyr. Hertil kommer, at én mindre del af udgifterne vedrører telefonisk rådgivning vedrørende Forbrugerklagenævnets virksomhedsområde.
+Behandlingen af klager ved Forbrugerklagenævnet vil således med forhøjelsen af gebyret
+fra 25 til 150 kr. også fremover ske med en væsentlig underdækning, hvilket der dog er hjemmel til såvel i forarbejderne til lov om Forbrugerklagenævnet som i tekstanmærkning til finansloven for 1993.
+Spm. nr. S 314
+Til socialministeren (12/1 93) af:";Kirsten Jacobsen
+68884;name_party;":
+»Hvad agter ministeren at foretage på baggrund af de påstande, der er bragt frem i offentligheden af Ekstra Bladet den 11. og 12.
+januar 1993 vedrørende videoovervågning på
+en institution af samtaler mellem tvangsfjernede børn og deres forældre?«
+
+4777
+
+27/1 93: Skriftligt besvarede spørgsmål
+
+4778";Bente Juncker
+69204;title_name;"Begrundelse
+Alle former for elektronisk overvågning, telefonaflytning eller brevcensur uden dommerkendelse, der rammer børn alene af den grund,
+at de er blevet tvangsfjernet fra deres forældre
+af myndighederne, er dybt betænkelige foranstaltninger i et retssamfund. De forhold, der er
+beskrevet i Ekstra Bladets artikel og leder henholdsvis den 11. og den 12. januar 1993 om en
+bestemt institution, er så alvorlige, at der bør
+foretages en tilbundsgående undersøgelse. I
+forbindelse hermed bør der endvidere ske en
+præcisering, hvoraf det klart fremgår, at
+tvangsfjernede børn ikke stilles ringere end enhver anden borger i dette land i henseende til
+retssikkerhed.
+Svar (18/1 93):";Bente Juncker
+69926;title_name;":
+Indledningsvis skal jeg bemærke, at Socialministeriet ikke har kompetence til at gå ind og
+undersøge, hvad der er sket i de to konkrete
+sager, som er beskrevet i artiklen. Den institution, som der er peget på, drives af Vestsjællands Amtskommune, og det er amtsrådet, der
+fører tilsyn med institutionen. Forældrene må
+derfor rette deres konkrete klager til amtsrådet
+som den ansvarlige myndighed.
+Med hensyn til de generelle forhold vedrørende institutionen, herunder om anvendelse
+af video i det familiebehandlingsmæssige arbejde, samt med hensyn til regler for brevkontrol og telefonkontrol kan jeg henvise til min
+besvarelse af spørgsmål nr. S 309.
+Spm. nr. S 273
+Til statsministeren (23/12 92) af:";Else Winther Andersen
+70649;name_party;":
+»Vil statsministeren sørge for, at der fra
+anerkendte og uafhængige danske universitetsjurister fremkommer en vurdering af, hvorvidt de danske undtagelsesbestemmelser har
+juridisk gyldighed, og i hvilket omfang EFDomstolen og andre EF-organer er bundet af
+undtagelsesbestemmelserne ?«
+Begrundelse
+Det er bemærkelsesværdigt, at den danske
+regering efter møderne i Edinburgh lagde vægt
+
+på, at de aftalte undtagelsesbestemmelser er
+juridisk forpligtende for de øvrige EF-medlemsstater, men at der allerede få dage senere
+er opstået alvorlig tvivl om"" rigtigheden heraf.
+Således har tre fremtrædende engelske jurister gjort gældende, at Danmark er blevet
+snydt, og der rejses meget stærk tvivl om, hvorvidt de danske undtagelsesbestemmelser i det
+hele taget er juridisk gyldige. De tre jurister er
+Lolin Price og Martin Howe, der er medlemmer af den engelske organisation Konservative
+Jurister, mens den tredje er Labour-politikeren, advokat Michael Shrimpton.
+Til B.T. den 21. december d.å. betegner folketingsmedlem Bjørn Westh juristernes endnu
+ikke offentliggjorte rapport som »rent bavl«,
+mens Håndværksrådets jurist, Peter Vesterdorf, anfører, at de britiske jurister »ikke er så
+godt inde i tingene som den danske regerings
+juridiske rådgivere«.
+Det virker ikke overbevisende, at der rejses
+så alvorlig kritik, der indtil nu kun er imødegået på helt overfladisk måde.
+I tiden frem til den unionsafstemning, regeringen planlægger, må det være af yderste vigtighed, at uafhængige danske jurister, f.eks.
+universitetsjurister, redegør for de danske aftalers juridiske rækkevidde og konsekvenser.
+Der er brug for en uvildig redegørelse, og det
+kan ikke gå stærkt nok med at få den på bordet.
+Det er i øvrigt også på høje tid, at regeringen
+offentliggør sine egne embedsmænds vurdering af de juridiske problemer om særaftalerne. Det er ikke nok, at statsministeren hævder,
+at aftalerne er bindende. Det. vil opleves som
+helt naturligt, at regeringen offentliggør sine
+embedsmænds kommentarer, der så kan indgå
+både i den almindelige debat og tillige i det
+udredningsarbejde, som jeg herved efterlyser.
+Svar (11/1 93):";Pia Kjærsgaard
+72799;title_name;":
+På Det Europæiske Råds møde i Edinburgh
+blev der opnået enighed om en »Afgørelse om
+visse problemer, som Danmark har rejst vedrørende traktaten om Den Europæiske Union«.
+Aftalen er indgået mellem de tolv medlemslande, der er kontraherende parter til Maastrichttraktaten, og er folkeretligt bindende.
+De tolv medlemslandes regeringer, der indgik aftalen, har ønsket, at den skal være folke-
+
+4779
+
+27/1 93: Skriftligt besvarede spørgsmål";Poul Schlüter
+73258;title_name;"retligt bindende. Det fremgår af teksterne, og
+denne opfattelse har de tolv medlemslandes
+regeringer offentligt givet udtryk for. Det er
+det vigtigste kriterium i folkeretlig henseende.
+Det fremgår af Wienerkonventionen om traktatretten.
+Som det er fremgået af dagspressen, har en
+række danske juridisk sagkyndige, herunder
+universitetsjurister, allerede udtalt sig om
+Edinburghaftalen, og der har været almindelig
+enighed om, at afgørelsen er en folkeretligt
+bindende aftale.
+Spm. nr. S 275
+Til justitsministeren (23/12 92) af:";Statsministeren
+73806;name_party;":
+»Finder ministeren det betryggende og i
+overensstemmelse med almindelig retsbevidsthed, at det af ministeren nedsatte udvalg om
+forskellige konkursspørgsmål omfatter dommere fra Sø- og Handelsretten (formand og 1
+medlem), efter at det er konstateret gennem
+Rigsrevisionens undersøgelse om dommeres
+biindtægter, at disse dommere oppebærer ganske betydelige skjulte private biiIidtægter, indtægter, der muligvis stammer fra de advokatkontorer, der samtidig niodtager ca. 80 pet. af
+al konkursbobehandling, jf. spørgsmål nr. S
+222 (folketingsåret 1990-91, 2. samling)?«
+Begrundelse
+Som det fremgår af de nævnte spørgsmål
+med bilag, er der rejst begrundet mistanke om,
+at der mellem dommerne i Sø- og Handelsretten og de til Sø- og Handelsretten knyttede advokatkontorer, »faste medhjælpere«, er et
+økonomisk interessefællesskab i forbindelse
+med private voldgiftssager, som dommerne
+modtager fra disse advokatkontorer eller disses klienter, samt at advokatkontorerne samtidig modtager ca. 80 pct. af al konkursbobe.,
+handling, en juridisk bobehandling, der i årevis har været udsat for meget hård kritik.
+Det er ikke betryggende for retssikkerheden,
+at denne mistanke består, og følgelig bør dette
+forhold gøres til genstand for en nærmere undersøgelse, jf. spørgsmål nr. S 268 af 18. december d.å.
+Svar (7/1 93):
+
+4780";Kirsten Madsen
+75152;title_name;":
+I spørgsmålet henvises til spørgsmål nr. S
+222 (folketingsåret 1990-91, 2. samling), og i
+begrundelsen for spørgsmålet henvises til
+spørgsmål rir. S 268 af 18. december 1992.
+Ved besvarelsen af det ovennævnte spørgsmål nr. S 222 har Justitsministeriet anført, at
+det ikke er muligt at oplyse, i hvor mange sager
+der på Sø- og Handelsrettens initiativ er antaget en af rettens faste medhjælpere som kurator i konkursboer. Det er samtidig anført, at en
+gennemgang af samtlige konkursboer ikke ville give et retvisende tal herfor, idet den pågældende advokat i nogle af sagerne kan være inddraget i sagen ved, at fordringshaverne enten
+har rettet henvendelse til denne eller har bragt
+den pågældende i forslag. Justitsministeriet
+har samtidig givet oplysning om, hvor stor en
+del af de afsluttede boer der har været behandlet af de faste medhjælpere. Der henvises til
+besvarelsen, som er vedlagt denne besvarelse.
+(Ikke optrykt her).
+Ved spørgsmål nr. S 268 af 18. december
+1992 er der rejst spørgsmål om, hvorvidt ministeren vil »iværksætte en undersøgelse for at få
+fastslået, hvem der tilbyder dommerne ganske
+betydelige private indtægter, for derigennem
+at få fastslået, om dommerne modtager deres
+indtægter på en sådan måde, at der kan rejses
+tvivl om deres habilitet, og at forholdet følgelig
+vil være i konflikt med tjenestemandslovens §
+17, retsplejelovens § 47 og retsplejelovens kapitel 5, § 60 m.fl.« Ved besvarelsen har Justitsministeriet anført, at man ikke er bekendt med
+forhold, der giver anledning til at foretage en
+undersøgelse som nævnt i spørgsmålet. Der
+henvises til besvarelsen, som er vedlagt denne
+besvarelse. (Ikke optrykt her).
+På denne baggrund og under henvisning til
+spørgsmålet i øvrigt kan Justitsministeriet oplyse, at man finder det naturligt og ønskeligt, at
+dommere fra Sø- og Handelsretten i København, der behandler flest konkursboer i Danmark, er udpeget som medlemmer af Justitsministeriets udvalg om forskellige konkursspørgsmål.
+Spm. nr. S 296
+Til miljøministeren. (6/1 93) af:";Engell
+77190;name_party;":
+
+4781";Kirsten Madsen
+77217;title_name;"27/1 93: Skriftligt besvarede spørgsmål
+
+»Med hvilken begrundelse har ministeren i
+§ 2 i cirkulære af 23. december 1992 om etablering af et registreringscenter for asylansøgere i
+det tidligere Avnstrup Plejehospital ændret anvendelsen af ejendommen til »asylcenter«?«
+Begrundelse
+I § 1 i samme cirkulære erhverves det tidligere Avnstrup Plejehospital til registreringscenter for asylansøgere.
+Svar (13/1 93):
+Miljøministeren (Per Stig Møller):
+Cirkulæret fastlægger anvendelsen af det
+tidligere plejehospital til registreringscenter
+for asylansøgere.
+Et »registreringscenter for asylansøgere« er
+et »asylcenter«, jf. besvarelsen af spørgsmål
+nr. S 300.
+
+4782
+
+Miljøministeren (Per Stig Møller):
+Cirkulæret er udstedt med hjemmel i § 3 i
+lov om planlægning, og det fastsætter, at etableringen af centeret kan iværksættes uden
+kommune- og lokalplan og uden landzonetilladelse.
+Cirkulæret fritager ikke for overholdelse af
+anden lovgivning, og de i begrundelsen for
+spørgsmålet nævnte spildevandsproblemer vil
+derfor blive løst enten ved etablering af et nyt
+rensningsanlæg, således som det blev oplyst i
+Justitsministeriets ansøgning til Folketingets
+Finansudvalg (aktstykke nr. 96), eller ved tilslutning til offentlig kloak.
+Der sker ingen forurening af vandløbene,
+idet afløbet fra det eksisterende spildevandsanlæg er lukket og slammet, der hentes med
+slamsuger, afleveres på et offentligt rensningsanlæg.
+Spm. nr. S 298
+
+Spm. nr. S 297
+Til miljøministeren (6/1 93) af:";Kirsten Madsen
+78708;name_party;":
+»Hvorledes kan ministeren udstede cirkulære af 23. december 1992 om etablering af et registreringscenter for asylansøgere i det tidligere Avnstrup Plejehospital med hjemmel i lov
+om planlægning?«
+
+Til miljøministeren (6/1 93) af:";Kirsten Madsen
+78959;name_party;":
+»Med hvilken hjemmel har ministeren ved §
+2 i cirkulære af 23. december 1992 om etablering af et registreringscenter for asylansøgere i
+det tidligere Avnstrup Plejehospital ændret regionplanlægningen ?«
+Svar (13/1 93):
+
+Begrundelse
+Af cirkulærets § 3 fremgår det, at dette udstedes med hjemmel i § 3, stk. 1, i lov om planlægning. Cirkulæret er imidlertid i direkte
+modstrid med lovens § 1, hvorefter loven skal
+sikre, at den sammenfattende planlægning forener de samfundsmæssige interesser i arealanvendelsen og medvirker til at værne landets
+natur og miljø, så samfundsudviklingen kan
+ske på et bæredygtigt grundlag i respekt for
+menneskets livsvilkår og for bevarelse af dyreog plantelivet.
+Det faktiske - praktiske - resultat er d.d. det
+stik modsatte, idet man ødelægger vandløbene
+og må have en slamsuger kørende i døgndrift.
+én gang i timen fjernes der 8 m3 slam. Der er
+fra den 4. januar indtil nu ankommet 827 flygtninge.
+Svar (13/1 93):
+
+Miljøministeren (Per Stig Møller):
+Efter § 3, stk. 1, i lov om planlægning kan
+miljøministeren til varetagelse af landsplanmæssige interesser fastsætte regler for indholdet af planlægningen efter loven.
+Cirkulæret har hjemmel i denne bestemmelse, idet det er en national interesse, at det omhandlede registreringscenter etableres som forudsat i det af Finansudvalget tiltrådte aktstykke nr. 96.
+Spm. nr. S 299
+Til miljøministeren (6/1 93) af:";Kirsten Madsen
+80371;name_party;":
+»Med hvilken hjemmel har ministeren ved §
+2 i cirkulære af 23. december 1992 om etablering af et registreringscenter for asylansøgere i
+det tidligere Avnstrup Plejehospital ændret
+kommuneplanlægningen ?«
+
+4783
+
+27/1 93: Skriftligt besvarede spørgsmål
+
+Svar (13/1 93):
+Miljøministeren (Per Stig Møller):
+Efter § 3, stk. 1, i lov om planlægning kan
+miljøministeren til varetagelse af landsplanmæssige interesser fastsætte regler for indholdet af planlægningen efter loven.
+Cirkulæret har hjemmel i denne bestemmelse, idet det er en national interesse, at det omhandlede registreringscenter etableres som forudsat i det af Finansudvalget tiltrådte aktstykke nr. 96.
+Spm. nr. S 300
+Til miljøministeren (6/1 93) af:";Kirsten Madsen
+81104;name_party;":
+»Vil ministeren definere, hvad der ligger i
+begreberne »registreringscenter« og »asylcenter«, jf. cirkulære af 23. december 1992 om etablering af et registreringscenter for asylansøgere i det tidligere Avnstrup Plejehospital?«
+Svar (13/1 93):
+Miljøministeren (Per Stig Møller):
+Justitsministeriet har oplyst følgende, hvortil jeg kan henholde mig:
+»Efter udlændingelovens § 42 a, stk. 2, påhviler det Direktoratet for Udlændinge at tilvejebringe indkvarteringssteder for asylansøgere. Indkvarteringssteder, der er etableret i
+medfør af denne bestemmelse, er alle asylcentre.
+Med henblik på at opnå en effektiv udnyttelse af de ressourcer, der medgår til modtagelse
+og indkvartering af asylansøgere og at effektivisere sagsbehandlingen, er modtagesystemet
+indrettet således, at alle spontant indrejste
+asylansøgere modtages centralt i særlige asylcentre, der kaldes registreringscentre. Det er
+ønskeligt, at asylansøgere er indkvarteret i de
+særlige registreringscentre i hovedstadsregionen i den første periode efter indrejsen. Dette
+gør det muligt at gennemføre såvel sundhedscheck som andre funktioner, der indgår i
+Dansk Røde Kors' primære modtagesystem.
+Endvidere foretages de indledende sagsbehandlingsskridt, før asylansøgere videresendes
+til andre centre i landet.
+Asylcentrene i resten af landet kaldes opholdscentre.
+
+4784
+
+Opholdscentrene tjener navnlig til indkvartering af asylansøgere, hvis sager alene afventer afgørelse fra Flygtningenævnet eller beror
+på undersøgelser, der ikke kræver asylansøgernes medvirken.«
+Spm. nr. S 301
+Til miljøministeren (6/1 93) af:";Kirsten Madsen
+82702;name_party;":
+»Hvor længe vil de forskellige grupper af
+flygtninge og asylansøgere kunne komme til at
+opholde sig i det tidligere Avnstrup Plejehospital?«
+Svar (13/1 93):
+Miljøministeren (Per Stig Møller):
+Direktoratet for Udlændinge har til Justitsministeriet oplyst, at opholdstiden i almindelighed vil være 1-2 måneder.
+Spm. nr. S 310
+Til arbejdsministeren (11/1 93) af:";Kirsten Madsen
+83079;name_party;":
+»Vil ministeren i forlængelse af svaret på
+spørgsmål nr. S 233 af 8. december 1992 fremsende en udtalelse fra den EF-retlige specialekspertis'e, som ministeren har drøftet spørgsmålet med?«
+Begrundelse
+Baggrunden for spørgsmålet er spørgerens
+ønske om at kunne danne sig et overblik over
+implementeringen af artikel nr. 6, stk. 2, i direktiv nr. 89/391/EØF,
+Svar (25/1 93):
+Arbejdsministeren (Kirkegaard):
+Der vedlægges kopi af Kammeradvokatens
+udtalelse af 30. december 1992.
+»Kammeradvokaten
+København, den 30. december 1992
+Ved skrivelse af 18. december 1992 (j.nr.
+2100-2) har Arbejdsministeriet anmodet mig
+om en udtalelse om gennemførelsen af Rådets
+direktiv 89/391/EØF af 21. juni 1989 om
+iværksættelse af foranstaltninger til forbedring
+af arbejdstagernes sikkerhed og sundhed un-
+
+4785
+
+27/1 93: Skriftligt besvarede spørgsmål";Lone Møller
+83939;title_name;"der arbejdet. Arbejdsministeriet har særligt peget på direktivets artikel 4, stk. 2, artikel 5, stk.
+1, og artikel 6, stk. 2, litra d, og har vedlagt en
+række henvendelser fra LO, FTF og Dansk Arbejdsgiverforening til Direktoratet for Arbejdstilsynet samt materiale fra Arbejdstilsynet til belysning af spørgsmålet. I den anledning skal jeg udtale følgende:
+Rådets direktiv 89/391 er et rammedirektiv,
+der er udstedt i medfør af Traktatens artikel
+118 A. Efter denne bestemmelse skal Rådet
+vedtage de minimumsforskrifter, der skal gennemføres gradvis under hensyn til de vilkår og
+tekniske bestemmelser, der gælder i hver af
+medlemsstaterne med henblik på at bidrage til
+at virkeliggøre en forbedring af arbejdsmiljøet
+for at beskytte arbejdstagernes sikkerhed og
+sundhed. Direktivet indeholder et afsnit om
+generelle bestemmelser, et afsnit om arbejdsgivernes forpligtelser, et afsnit om arbejdstagernes forpligtelser og endelig et afsnit, diverse
+bestemmelser, der bl.a. fastsætter regler om
+proceduren for vedtagelse af særdirektiver.
+Det fremgår af direktivets artikel 16, at Rådet i medfør af artikel 118 A skal vedtage særdirektiver bl.a. på områder, der er anført i bilaget til direktivet. Bilaget nævner som harmoniseringsemner regler om arbejdsstedet, arbejdsudstyr, personlige værnemidler, arbejde med
+skærmterminaler, håndtering af tunge byrder,
+der medfører risiko for lændeskader, midlertidige og mobile arbejdssteder samt fiskeri og
+landbrug. Rådet har vedtaget en række ,særdirektiver, senest det tiende direktiv af 19. oktober 1992 om iværksættelse af foranstaltninger
+til forbedring af sikkerheden og sundheden
+under arbejdet for arbejdstagere, som er gravide, som lige har født, eller som ammer,
+92/85/EØF (EF-Tidende 1992 L 348, side 1).
+Det fremgår således af oversigten i bilaget til
+direktivet samt af Rådets praksis, at særdirektiver kan indeholde mere detaljerede regler såvel vedrørende bestemte former for arbejdsudstyr eller hjælpemidler som vedrørende særlige
+arbejdsforhold eller særlige grupper af arbejdstagere. Af rammedirektivets artikel 16,
+stk. 3, fremgår, at direktivets bestemmelser finder anvendelse i fuld udstrækning på samtlige
+de områder, der er omfattet af særdirektiverne,
+dog med forbehold af strengere eller specifikke
+bestemmelser, der er indeholdt i disse særdirektiver.
+
+4786
+
+Et direktiv er efter Traktatens artikel 189
+bindende for medlemsstaterne med hensyn til
+det tilsigtede mål, men overlader det til de nationale myndigheder at bestemnie form og
+midler for gennemførelsen. Et direktiv kan ikke i sig selv håndhæves over for borgerne, men
+den enkelte medlemsstat må udforme de nødvendige gennemførelsesforskrifter således, at
+de bestemmelser i direktivet, der tilsigter at have retsvirkninger for borgerne, kan håndhæves.
+EF-Domstolen har i en omfattende retspraksis fastslået, hvilke krav EF-retten generelt stiller til medlemslandenes gennemførelsesforskrifter til direktiver. Ved bedømmelsen af
+konkret påtænkte gennemførelsesforskrifter
+må der dog tages udgangspunkt i en fortolkning af det pågældende direktivs ordlyd i lyset
+af dets formål m.v.
+EF-rettens generelle krav kan formentlig
+sammenfattes således, at EF-regler, der tilsigter at have virkninger for borgerne, skal gennemføres ved nationale bindende forskrifter af
+tilsvarende karakter, dvs. love eller bekendtgørelser, men ikke cirkulærer, vejledninger m.v.
+Domstolen har endvidere erklæret en national
+gennemførelse for utilstrækkelig, når gennemførelsen bestod i en rent administrativ praksis,
+der kunne ændres løbende, uden at dette ville
+kunne konstateres objektivt og nemt.
+For så vidt angår håndhævelsen af nationale
+gennemførelsesregler har Domstolen fastslået,
+at håndhævelsen skal ske på en måde, der svarer til håndhævelsen af tilsvarende rent nationale regler, og sanktioner skal være effektive,
+stå i rimeligt forhold til overtrædelsen og have
+en afskrækkende virkning. Jeg henviser til sag
+14/83, von Colson, Domssamlingen 1984, side
+1891, om ligebehandlingsdirektivet, og tilsvarende om forordninger sag C-326/88, Anklagemyndigheden mod Hansen & Søn I/S,
+Domssamlingen 1990, side 2911. I sag 14/93
+understregede Domstolen imidlertid, at staten
+har et skøn med hensyn til valget af håndhævelsesforanstaltninger, her, om der ud over
+straf skulle være regler om erstatning eller
+godtgørelse til de forurettede.
+Afsnit 2 i direktiv 89/391 angår arbejdsgivernes forpligtelser og er opdelt i en generel
+bestemmelse i artikel 5, artikel 6 om arbejdsgiverens almindelige forpligtelser, artikel 7 om
+beskyttelses- og forebyggelsestjenester, artikel
+
+4787
+
+27/1 93: Skriftligt besvarede spørgsmål";Arbejdsministeren
+88583;title_name;"8 om førstehjælp, brandbekæmpelse m.v., artikel 9 om arbejdsgiverens forpligtelser i øvrigt,
+artikel 10 om underretning af arbejdstagerne,
+artikel 11 om høring af arbejdstagerne og disses medbestemmelsesret og artikel 12 om oplæring af arbejdstagerne. Artikel 6, stk. 1 og 2,
+har følgende ordlyd:
+»Artikel 6.
+Arbejdsgiverens almindelige forpligtelser.
+1. Som et led i arbejdsgiverens ansvar træffer denne de nødvendige foranstaltninger til
+beskyttelse af arbejdstagernes sikkerhed og
+sundhed, herunder aktiviteter til forebyggelse
+af erhvervsbetingede risici, til oplysning og til
+oplæring samt tilrettelæggelse af en ordning og
+tilvejebringelse af de nødvendige midler.
+Arbejdsgiveren skal drage omsorg for, at
+disse foranstaltninger tilpasses for at tage hensyn til ændrede omstændigheder, og søge at
+forbedre de eksisterende forhold.
+2. Arbejdsgiveren iværksætter de i stk. 1, første afsnit, nævnte foranstaltninger på grundlag
+af følgende generelle forebyggelsesprincipper:
+å) forhindring af risici
+b) evaluering af risici, som ikke kan forhindres
+c) bekæmpelse af risici ved kilden
+d) tilpasning af arbejdet til mennesket, navnlig
+for så vidt angår udformningen af arbejdspladsen samt valg af arbejdsudstyr og arbejds- og produktionsmetoder, i særdeleshed med henblik på at begrænse monotont
+arbejde og arbejde i en bestemt rytme og at
+miridske virkningerne af sådant arbejde på
+helbredet
+e) hensyntagen til den tekniske udvikling
+f) udskiftning af det, der er farligt, med noget,
+der er ufarligt eller mindre farligt
+g) -planlægning af forebyggelsen for at gøre
+den til en sammenhængende helhed, inden
+for hvilken forebyggelsen omfatter teknik,
+tilrettelæggelse af arbejdet, arbejdsforhold,
+sociale relationer og påvirkning fra faktorer
+i arbejdsmiljøet
+h) vedtagelse af foranstaltninger til kollektiv
+beskyttelse frem for foranstaltninger til individuel beskyttelse
+i) hensigtsmæssig instruktion af arbejdstagerne.«
+Efter artikel 5, stk. 1, har arbejdsgiveren
+pligt til at sikre arbejdstagernes sikkerhed og
+sundhed i alle forhold, der er forbundet med
+
+4788
+
+arbejdet, og efter artikel 4, stk. 2, skal medlemsstaterne navnlig påse, at der sikres fyldestgørende kontrol og tilsyn.
+Direktivet er planlagt gennemført i dansk ret
+ved en bekendtgørelse om arbejdets udførelse,
+der erstatter bekendtgørelse nr. 323 af 7. juli
+1983, men som overtager en række af denne
+bekendtgørelses bestemmelser.
+Det fremgår af henvendelserne til Direktoratet for Arbejdstilsynet fra LO og FTF, at det
+er disse organisationers opfattelse, at artikel 6,
+stk. 2, gennemføres ved flere forskellige paragraffer i udkastet til bekendtgørelse, og at disse
+foranstaltninger fremtræder som krav til arbejdsgiveren, men at dette ikke gælder artikel
+6, stk. 2, litra d, der gennemføres ved bekendtgørelsens § 9, der ikke er formuleret som en
+forpligtelse for arbejdsgiveren. I henvendelsen
+fra FTF er det endvidere anført, at bekendtgørelsens § 9 adskiller sig fra de øvrige bestemmelser ved ikke at være strafsanktioneret.
+Bekendtgørelsesudkastets § 9 har følgende
+formulering:
+»§ 9. Ved udførelsen af arbejdet skal det tilstræbes,
+1) at ensidigt belastende arbejde, som medfører fare for fysisk eller psykisk helbredsforringelse på kort eller lang sigt, undgås eller
+begrænses,
+2) at arbejdstempoet er således, at, det ikke
+medfører fare for fysisk eller psykisk helbredsforringelse på kort eller lang sigt,
+3) at isoleret arbejde, som kan medføre fare
+for psykisk helbredsforringelse, undgås eller begrænses.«
+Bekendtgørelsesudkastet indeholder i bilag
+3 en gengivelse af direktivets artikel 6, stk. 2,
+med overskriften »generelle forebyggelsesprincipper«. Bekendtgørelsen indeholder en
+henvisning til dette bilag i § 4, stk. 2 og stk. 4.
+Efter stk. 2 skal en arbejdsgiver foretage en
+planlægning og tilrettelæggelse af arbejdet under hensyntagen til de forebyggelsesprincipper, der er angivet i bilag 3. § 4, stk. 4, har følgende ordlyd:
+»Stk. 4. På grundlag af den efter stk. 2 foretagne vurdering træffer arbejdsgiveren de
+foranstaltninger, som er nødvendige, jf. de
+angivne forebyggelsesprincipper i bilag 3.
+Iværksættelsen skal ske, inden arbejdet påbegyndes.«
+
+4789
+
+27/1 93: Skriftligt besvarede spørgsmål";Arbejdsministeren
+92798;title_name;"Det fremgår af bekendtgørelsesudkastet §
+34, stk. 1, nr. 1, og stk. 2, at overtrædelse af bl.a.
+§ 4, stk. 4, kan medføre straf af bøde eller hæfte, og at der også kan pålægges en arbejdsgiver
+bødeansvar i denne situation, selv om overtrædelsen ikke kan tilregnes ham som forsætlig eller uagtsom.
+Den vurdering, der foretages efter § 4, stk. 2,
+skal i visse tilfælde foreligge skriftligt og skal
+forefindes på virksomheden. Den skal revideres, og der skal føres tilsyn med, at planerne
+overholdes, jf. §§ 22 og 23, jf. § 34.
+Bestemmelsen i § 9 suppleres af § 7, stk. 3,
+hvorefter Arbejdstilsynet, hvor arbejdet i særlig grad kan bringe sikkerhed eller sundhed i
+fare, og hvor denne fare ikke kan imødegås på
+anden måde, kan stille krav om pauser og begrænset arbejdstid for dette arbejde. Overtrædelse af et sådant påbud er strafbelagt efter §
+34, stk. 1, nr. 3.
+Endelig fremgår det af § 29, stk. 2, at direktøren for Arbejdstilsynet kan fastsætte regler
+om særlige velfærdsforanstaltninger samt sådanne andre arbejdsmiljømæssige foranstaltninger, som er nødvendige for at forebygge
+sygdom, nedslidning, ulykker m.v. for arbejde,
+som må anses for at virke fysisk eller psykisk
+belastende på kort eller lang sigt. Endvidere
+kan direktøren for Arbejdstilsynet fastsætte
+begrænsninger i adgangen til at lade ansatte
+arbejde alene.
+Overtrædelser af sådanne bestemmelser kan
+strafsanktioneres efter bekendtgørelsens § 35.
+Efter min opfattelse følger det af direktivets
+artikel 6, stk. 2, at de heri opregnede principper skal indgå i arbejdsgiverens fastlæggelse af
+foranstaltninger til forebyggelse af erhvervsbetingede ricisi, oplysning og oplæring m.v., men
+at det ikke er en pligt efter direktivet at lade
+hvert enkelt af elementerne i artikel 6, stk. 2,
+være særskilt sanktioneret. Opregningen i stk.
+2 indeholder således elementer, der indbyrdes
+er delvis modstridende, jf. litra a, b og c om
+henholdsvis forhindring af risici, evaluering af
+risici, som ikke kan forhindres, og bekæmpelse
+af risici ved kilden. Hvert af de enkelte elementer indeholder endvidere et betydeligt element
+af skøn, f.eks. »evaluering« i litra b, »hensyntagen« til den tekniske udvikling i litra e samt
+»hensigtsmæssig instruktion« i litra i. Jeg mener derfor, at en korrekt gennemførelse af artikel 6, stk. 2, indebærer, at arbejdsgiveren må
+
+4790
+
+forpligtes til at foretage en samlet afvejning af
+de principper, der nævnes i bestemmelsen, ved
+sin tilrettelæggelse af arbejdet, jf. artikel 6, stk.
+1.
+På denne baggrund må det efter min opfattelse være korrekt som i bekendtgørelsesudkastet at fastsætte en pligt for arbejdsgiveren til
+at foretage en planlægning og tilrettelæggelse
+af arbejdet ud fra alle de hensyn, der er nævnt i
+artikel 6, stk. 2, og i givet fald nedfælde resultatet af vurderingen skriftligt, således at det
+kan konkluderes, at afvejningen af de forskellige hensyn er foretaget på et tilstrækkeligt og
+sagligt grundlag.
+Gennemførelsen af artikel 6, stk. 2, må således antages at være sket ved bekendtgørelsens
+§ 4, stk. 2 og 4, § 22 og § 23, der er strafsanktionerede.
+Bestemmelsen i § 9 er for mig at se derimod
+ikke et nødvendigt element i gennemførelsen
+af direktivets artikel 6, men kan i forbindelse
+med § 7 og § 29 udgøre et vigtigt supplement,
+ligesom § 9 indeholder en målestok for, med
+hvilken vægt de forskellige forebyggelsesprincipper skal indgå i vurderingen efter § 4. En
+arbejdsgiver må således ved evalueringen af risici, der ikke kan undgås, tilstræbe at undgå
+ensidigt belastende arbejde, som medfører fare
+for fysisk eller psykisk helbredsforringelse på
+kort eller lang sigt.
+Hertil kommer, at kritikken af, at § 9 ikke i
+sig selv er strafbelagt, efter min opfattelse ser
+bort fra, at denne bestemmelse i praksis kan
+præciseres ved konkrete påbud eller mere detaljerede regler for Arbejdstilsynet. En sådan
+præcisering kan være nødvendiggjort af bestemmelser i særdirektiver. Som eksempel herpå kan jeg nævne Rådets direktiv 90/270 af 29.
+maj 1990 om minimumsforskrifter for sikkerhed og sundhed i forbindelse med arbejde ved
+skærmterminaler, EF-Tidende 1990 L 156, s.
+14.
+Efter artikel 3 i dette direktiv er arbejdsgiveren forpligtet til at foretage en undersøgelse af
+arbejdsstationerne for at vurdere, hvordan de
+med hensyn til sikkerhed og sundhed påvirker
+arbejdstagerne især for så vidt angår eventuel
+risiko for synet, fysiske problemer og psykiske
+belastninger. Arbejdsgiveren skal træffe hensigtsmæssige foranstaltninger for at afhjælpe
+de konstaterede risici. Efter artikel 7 er arbejdsgiveren forpligtet til at tilrettelægge ar-
+
+4791
+
+27/1 93: Skriftligt besvarede spørgsmål";Arbejdsministeren
+97425;title_name;"bejdstagernes aktivitetet således, at det daglige
+arbejde ved skærmterminaler afbrydes regelmæssigt af pauser eller af andre former for aktiviteter, der reducerer belastningen ved
+skærmterminalarbejdet.
+Jeg har forstået, at dette direktiv påtænkes
+gennemført ved en særskilt bekendtgørelse,
+der indeholder en sanktionering af bl.a. den
+nævnte artikel 7.
+Sammenfattende er det herefter min opfattelse, at gennemførelsen af artikel 6 i direktiv
+89/391 ved bekendtgørelse om arbejdets udførelse er i overensstemmelse med EF-rettens
+krav.
+Med venlig hilsen
+Kammeradvokaten
+v/K. Hagel-Sørensen«
+Spm. nr. S 311
+Til arbejdsministeren (12/1 93) af:";Arbejdsministeren
+98081;name_party;":
+»Vil ministeren i forlængelse af spørgsmål
+nr. S 310 oplyse, om han er bekendt med, at
+andre EF-eksperter har udtalt sig om samme
+problemstilling?«
+Begrundelse
+Der henvises til begrundelsen for spørgsmål
+nr. S 310.
+Svar (25/1 93):
+Arbejdsministeren (Kirkegaard):
+Jeg er bekendt med, at lektor, dr.jur. Ruth
+Nielsen, Handelshøjskolen, har udarbejdet et
+responsum om den samme problemstilling for
+Landsorganisationen i Danmark.
+Supplerende svar på skriftligt besvaret spørgsmål:
+Ad spm. nr. S 142
+Fra landbrugsministeren er modtaget supplerende svar på et af medlem af Folketinget
+Ole M. Nielsen (KRF) stillet spørgsmål.
+Spørgsmålet, der sammen med det foreløbige svar er optaget i Folketingstidende, forhandlingerne sp. 2932, var sålydende:
+Til landbrugsministeren (13/11 92) af:";Lone Møller
+98882;name_party;":
+»Vil ministeren tage initiativ til, at Hirtshals
+
+4792
+
+bliver godkendt som grænsekontrolsted, jf. bekendtgørelse nr. 627 af 14. juli 1992?«
+Supplerende svar (13/1 93):
+Landbrugsministeren (Tørnæs):
+I fortsættelse af mit svar af 24. november
+1992 på spørgsmål nr. S 142 af Ole M. Nielsen
+(KRF) vedrørende godkendelse af Hirtshals
+som veterinært grænsekontrolsted kan jeg oplyse følgende:
+Det har ikke umiddelbart vist sig muligt at
+videreføre den særlige ordning, hvorefter nordiske konkurrenceheste kan indføres til Danmark uden veterinærkontrol efter 1. januar
+1993. Der indføres mange nordiske konkurrenceheste via Hirtshals. Jeg har på denne baggrund fundet, at der er tilstrækkeligt grundlag
+for, at Hirtshals optages på Kommissionens liste over grænsekontrolsteder, der er foreløbigt
+godkendt til at udføre veterinærkontrol af levende dyr.
+Veterinærdirektoratet har rettet henvendelse
+til Kommissionen herom og har med virkning
+fra 1. januar 1993 etableret faciliteter, som sikrer, at den nødvendige kontrol kan finde sted i
+Hirtshals Havn.
+Jeg har endvidere til hensigt at rejse spørgsmålet om en videreførelse af den særlige ordning for nordiske konkurrenceheste over for
+Kommissionen på det førstkommende landbrugsministerrådsmøde.
+Spm. ur. S 302
+Til udenrigsministeren (7/1 93) af:";Ole M. Nielsen
+100190;name_party;":
+»Kan udenrigsministeren oplyse, om SNGstyrkerne har fået lov til at anvende Novaja
+Zemlja-øgruppen som prøvesprængningsområde også i 1993, og hvis dette er tilfældet,
+hvad de nordiske lande agter at gøre for at hindre, at prøvesprængningerne udføres?«
+Begrundelse
+Jeg har adskillige gange - senest under Nordisk Råds session i Århus i november 1992 givet udtryk for min bekymring for alle former
+for prøvesprængning, herunder også sprængninger af fredelig karakter, på øgruppen, da
+dennes beliggenhed er relativt tæt på områder
+i det sårbare arktiske miljø, hvor atomulykker
+og atomforurening forventes at få langt alvorli-
+
+4793
+
+27/1 93: Skriftligt besvarede spørgsmål";Steenholdt
+100878;title_name;"gere konsekvenser end andre steder.
+Svar (19/1 93):";Steenholdt
+100966;title_name;":
+Præsident Jeltsin gjorde ved et ikke offentliggjort dekret medio marts 1992 Novaja
+Zemlj a-øgruppen til føderationsej endom og
+fratog dermed de lokale myndigheder (Arkhangelsk Oblast) jurisdiktionen over øgruppen. Samtidig fik SNG-styrkernes overkommando ret til at anvende området som atomprøvesprængningsområde inden for de hidtidige rammer.
+Denne oplysning gav anledning til bekymring i de nordiske lande. Disse foretog derfor
+den 21. april 1992 en fælles demarche i Moskva med henblik på afklaring af, hvorvidt
+præsident Jeltsins dekret kunne tænkes at indebære en genoptagelse af prøvesprængningerne efter udløbet af det 1-årige moratorium
+for atomprøvesprængningerne på den russiske
+føderations territorium, herunder Novaja
+Zemlja, den 26. oktober 1992.
+Den 19. oktober 1992 forlængede præsident
+Jeltsin - angiveligt på baggrund af den midlertidige indstilling af de franske og amerikanske
+atomprøvesprængninger - det russiske moratorium for atomprøvesprængninger, som ville
+være udløbet den 26. oktober 1992, til den 1.
+juli 1993.
+Det kan oplyses, at den seneste atomprøvesprængning fandt sted på Novaja Zemlja i oktober 1990.
+Medens SNG's overkommando principielt
+vil kunne anvende Novaja Zemlja som prøvesprængningsområde ved udløbet af det russiske moratorium den I. juli 1993, vil der utvivlsomt reelt blive tale om en politisk beslutning
+på regeringsniveau som følge af spørgsmålets
+sensitive karakter både i forhold til omverdenen og internt.
+Fra dansk side følger man løbende udviklingen omkring atomprøvesprængninger, ligesom
+den selvsagt også er genstand for drøftelser
+mellem de nordiske lande.
+Spm. nr. S 322
+Til kulturministeren (13/1 93) af:";Ellemann-Jensen
+102645;name_party;":
+»Hvad vil ministeren gøre for, at udefra
+kommende ideer til anvendelse af Holmen bliver bedømt og debatteret med samme seriøsi-
+
+4794
+
+tet som ministerens egne om samlet udflytning
+af en række kunstneriske uddannelser?«
+Begrundelse
+Det er en enestående mulighed, der åbner
+sig for København, når søværnet rømmer Holmen. Derfor er det vigtigt, at området planlægges og anvendes således, at det bliver en ny,
+levende bydel med boliger, grønne områder,
+forretninger, fritidsfaciliteter og kultur.
+Ifølge rapporten fra koordineringsgruppen
+vedrørende statslige investeringer i København vil »andre foreliggende ønsker om indplacering af kulturelle aktiviteter, herunder det
+af arkitekt Henning Larsen for Grønnegårds
+Teatret udarbejdede projekt, samt Arbejdermuseets ønsker om at anvende betydelige dele
+af Holmen til ferie- og museale formål« ikke
+kunne opfyldes.
+Det er i befolkningens og Folketingets interesse, at eksterne projekter vurderes på lige fod
+med Kulturministeriets egne. Ministeren bedes derfor redegøre for, hvordan man i det videre arbejde undgår, at relevante projekter affærdiges uden debat. I besvarelsen bedes det
+også tilkendegivet: hvorvidt de to nævnte projekter efter ministerens opfattelse kommer til
+vurdering i det opfølgningsudvalg, som skal
+stå for planlægning og salg af Holmen.
+Svar (21/1 93):
+Kulturministeren (Grethe Rostbøll):
+Som fungerende kulturminister må jeg henvise til, at det er besluttet, at der nedsættes et
+udvalg til at forestå salget og udviklingen af
+Holmen. Udpegningen til et sådant udvalg og
+fastlæggelsen af udvalgets opgaver sker efter
+aftale med partierne bag forsvarsforliget af 13.
+november 1992.
+Spm. nr. S 328
+Til kulturministeren (14/1 93) af:";Birte Weiss
+104363;name_party;":
+»Hvad er ministerens begrundelse for, at der
+parallelt med undervisningen på det rytmiske
+konservatorium planlægges uddannelse af rytmiske musiklærere på Det Kongelige Danske
+Musikkonservatorium?«
+Begrundelse
+Da Folketinget traf beslutning om oprettelse
+
+4795
+
+27/1 93: Skriftligt besvarede spørgsmål";Birte Weiss
+104682;title_name;"af det rytmiske konservatorium, var det et
+tungtvejende argument, at hverken de økonomiske, de personalemæssige eller de fysiske
+rammer gjorde det hensigtsmæssigt at kombinere den klassiske og den rytmiske musikuddannelse. Det forekommer derfor overraskende, at disse argumenter tilsyneladende ikke
+gælder mere.
+Svar (21/1 93):
+Kulturministeren (Grethe Rostbøll):
+Som fungerende kulturminister kan jeg ikke
+gå nærmere ind i det pågældende spørgsmål.
+Jeg kan dog oplyse, at ministeriet er i færd med
+at gennemgå konservatoriernes udtalelser om
+Tage Nielsen-udvalgets rapport.
+Meddelelser fra formanden:";Birte Weiss
+105295;title_name;"Der er ikke mere på dagsordenen.
+Efter at medlem af Folketinget Pia Gjellerup
+(S) er udnævnt til justitsminister, har hun anmodet om at blive fritaget for hvervet som tingsekretær. Hvis ingen gør indsigelse, betragter
+jeg Tingets samtykke hertil som givet. (Ophold). Det er givet.
+Til at indtræde i hvervet som tingsekretær i
+stedet for Pia Gjellerup har vedkommende
+
+4796
+
+gruppe udpeget Ingrid Rasmussen (S), der herefter er valgt.
+Fra medlem af Folketinget Ellemann-Jensen
+(V), der har haft orlov, har jeg modtaget meddelelse om, at han fra og med den 23. januar
+1993 atter kan give møde i Tinget.
+Stedfortræderens, Bente Grønfeldts, hverv
+som midlertidigt medlem af Folketinget er herefter ophørt fra nævnte dato at regne.
+Fra medlem af Folketinget Jan Petersen (S),
+der har orlov, har jeg modtaget meddelelse
+om, at han fra og med den 30. januar 1993 atter
+kan give møde i Tinget.
+Stedfortræderens, Hugo Sørensens, hverv
+som midlertidigt medlem af Folketinget ophører herefter fra nævnte dato at regne.
+Folketingets næste møde afholdes tirsdag
+den 2. februar 1993 kl. 13.00, hvor statsministeren vil give Folketinget sin redegørelse for rigets almindelige stilling og de af regeringen
+påtænkte foranstaltninger, jf. Folketingets forretningsordens § 19, stk. 1 og 2.
+Med hensyn til de øvrige møder i den kommende uge vil der snarest blive omdelt en ugeplan.
+Mødet hævet kl. 13.25";Formanden

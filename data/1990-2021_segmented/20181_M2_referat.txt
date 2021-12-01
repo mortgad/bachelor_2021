@@ -1,0 +1,1297 @@
+split;reason;text;value
+0;;"Onsdag den 3. oktober 2018 (D)
+
+1
+
+Lovforslag nr. L 9 (Forslag til lov om ændring af lov om ægteskabs
+indgåelse og opløsning og udlændingeloven. (Forbud mod proformaægteskab og Nationalt ID-centers rolle og funktioner m.v.)).
+
+2. møde";
+282;title_name;:;Troels Lund Poulsen
+321;Time;"Lovforslag nr. L 10 (Forslag til lov om ændring af lov om brug af
+køberet eller tegningsret til aktier m.v. i ansættelsesforhold. (Udvidelse af aftalefriheden i optionsordninger)),
+
+Dagsorden
+1) Valg af stående udvalg m.v.";kl. 13.00
+556;Time;Meddelelser fra formanden;Kl. 13:00
+610;title_name;":
+Mødet er åbnet.
+Jeg skal lige sige, at når salen er så tom, som den er nu, og jeg står
+og læser op her, er det, fordi alt, hvad vi gør her i Folketinget vedrørende lovforslag og andre ting, skal bogføres, og man skal gøre det
+fra formandsstolen. Sådan er det. Så det er ikke, fordi medlemmerne
+er uinteresserede, men det er procedure i dag.
+I dag er der følgende anmeldelser, og da der er mange fremsættelser,
+skal jeg undlade at læse titlerne op. Jeg nævner alene numrene.";Pia Kjærsgaard
+1130;title_name;":
+Lovforslag nr. L 4 (Forslag til lov om ændring af værnepligtsloven.
+(Fritagelse for værnepligtstjeneste for visse personer, der er blevet
+udskrevet til tjeneste før 2010)) og
+Lovforslag nr. L 5 (Forslag til lov om ændring af lov om forsvarets
+personel. (Udvidelse af ordninger om pensionslignende ydelse og
+kulancemæssig godtgørelse for svie og smerte for udsendt personel)).";Claus Hjort Frederiksen
+1548;title_name;":
+Lovforslag nr. L 6 (Forslag til lov om ændring af dagtilbudsloven.
+(Bedre fordeling i daginstitutioner)),
+Lovforslag nr. L 7 (Forslag til lov om ændring af dagtilbudsloven og
+lov om en børne- og ungeydelse. (Obligatorisk læringstilbud til 1årige børn i udsatte boligområder)),
+Lovforslag nr. L 8 (Forslag til lov om ændring af lov om social service, lov om socialtilsyn, lov om voksenansvar for anbragte børn og
+unge og ligningsloven. (Mere kvalitet i plejefamilier)) og
+
+Lovforslag nr. L 11 (Forslag til lov om ændring af lov om Lønmodtagernes Garantifond. (Overdragelse af krav til Lønmodtagernes Garantifond ved tvivl om virksomhedsoverdragelse forud for konkurs
+m.v.)),
+Lovforslag nr. L 12 (Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. (Dagpenge efter udløb af retten til supplerende dagpenge i et månedsbaseret dagpengesystem, periodisering af
+indkomst til opfyldelse af indkomstkravet, undtagelse for opfølgning
+på visse sager efter samkøring af oplysning om løntimer m.m.)) og
+Lovforslag nr. L 13 (Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v., lov om sygedagpenge og barselsloven. (Opholdskrav for ret til arbejdsløshedsdagpenge m.v.)).
+Økonomi- og indenrigsministeren (Simon Emil Ammitzbøll-Bille):
+Lovforslag nr. L 14 (Forslag til lov om ændring af lov om kommunernes styrelse. (Ghettorepræsentanter)) og
+Lovforslag nr. L 15 (Forslag til lov om ændring af lov om valg til
+Folketinget, lov om kommunale og regionale valg, lov om valg af
+danske medlemmer til Europa-Parlamentet, partiregnskabsloven og
+lov om kommunernes styrelse. (Ændring af antallet af danske medlemmer af Europa-Parlamentet, forbud mod ens listebetegnelser,
+valgret til Europa-Parlamentsvalg til udlandsdanskere under værgemål med fratagelse af den retlige handleevne, sikring af udøvelsen af
+herboende EU-statsborgeres valgret og valgbarhed fra bopælstidspunktet, lovfæstelse af en særlig vederlagsordning for stedfortrædere
+i kommunalbestyrelsen og regionsrådet m.v.)).
+Uddannelses- og forskningsministeren (Tommy Ahlers):
+Lovforslag nr. L 16 (Forslag til lov om ændring af lov om befordringsrabat til studerende ved videregående uddannelser, lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v.
+og lov om Udbetaling Danmark. (Målretning af befordringsrabat og
+godtgørelse efter en kilometersats, hjemmel til at kræve for meget
+modtaget godtgørelse tilbagebetalt m.v.)).";Mai Mercado
+4002;title_name;":
+
+2
+
+Onsdag den 3. oktober 2018 (FM )
+
+Lovforslag nr. L 17 (Forslag til lov om ændring af retsplejeloven og
+straffeloven. (Tilfældighedsfund som bevis i sager om opløsning af
+en forening m.v.)),
+
+med et socialt frikort. (Afbureaukratisering af forskerskatteordningen, genoptagelse af afgørelser om skattenedslag, skattefrihed for
+godtgørelse til thalidomidofre m.v.)),
+
+Lovforslag nr. L 18 (Forslag til lov om ændring af retsplejeloven og
+lov om fuldbyrdelse af straf m.v. (Initiativer vedrørende forsvarsadvokater og advokattilsyn)),
+
+Lovforslag nr. L 31 (Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst og tilhørende protokol mellem Danmark og Armenien),
+
+Lovforslag nr. L 19 (Forslag til lov om ændring af kriminallov og
+retsplejelov for Grønland. (Anbringelse af forvaringsdømte m.v.)),
+
+Lovforslag nr. L 32 (Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst og tilhørende protokol mellem Danmark og Japan),
+
+Lovforslag nr. L 20 (Forslag til lov om ændring af straffeloven, retsplejeloven, erstatningsansvarsloven og medieansvarsloven. (Fredsog ærekrænkelser m.v.)),
+Lovforslag nr. L 21 (Forslag til lov om ændring af lov om fuldbyrdelse af straf m.v., retsplejeloven, straffeloven og lov om folkeskolen. (Forhold for indsatte i kriminalforsorgens institutioner, varetægtssurrogat m.v.)) og
+Lovforslag nr. L 22 (Forslag til lov om ændring af straffeloven, pasloven og politiloven. (Initiativer mod parallelsamfund)).
+Energi-, forsynings- og klimaministeren (Lars Christian Lilleholt):
+
+Lovforslag nr. L 33 (Forslag til lov om indgåelse af protokol om ændring af dobbeltbeskatningsoverenskomsten mellem Danmark og
+Nederlandene) og
+Lovforslag nr. L 34 (Forslag til lov om indgåelse af protokol om ændring af dobbeltbeskatningsoverenskomst mellem de nordiske lande).
+Kulturministeren (Mette Bock):
+Lovforslag nr. L 35 (Forslag til lov om ændring af lov om folkehøjskoler. (Tilladelse til at fravige lovens krav om gennemførelse af
+lange kurser (seniorhøjskoler) m.v.)),
+
+Lovforslag nr. L 23 (Forslag til lov om ændring af lov om elektroniske kommunikationsnet og -tjenester. (Kommuners tilskud til udrulning af elektroniske kommunikationsnet, tildeling af koder til Machine-to-Machine (M2M)) kommunikation og ophævelse af regler
+om Bredbåndsgarantiordningen)) og
+
+Lovforslag nr. L 36 (Forslag til lov om ændring af lov om radio- og
+fjernsynsvirksomhed, personskatteloven, lov om social pension og
+forskellige andre love. (Gennemførelse af aftale om fokusering af
+DR og afskaffelse af medielicensen m.v.)) og
+
+Lovforslag nr. L 24 (Forslag til lov om supplerende bestemmelser til
+forordning om opstilling af rammer for energimærkning m.v. (produktenergimærkningsloven).
+
+Lovforslag nr. L 37 (Forslag til lov om ændring af lov om radio- og
+fjernsynsvirksomhed. (Gennemførelse af dele af medieaftalen for
+2019-2023 m.v.)).";Søren Pape Poulsen
+6889;title_name;":
+
+Transport-, bygnings- og boligministeren (Ole Birk Olesen):
+
+Lovforslag nr. L 25 (Forslag til lov om ændring af kildeskatteloven
+og forskellige andre love. (Initiativer mod sort arbejde m.v.)),
+
+Lovforslag nr. L 38 (Forslag til lov om ændring af lov om almene
+boliger m.v., lov om leje af almene boliger og lov om leje. (Nye kriterier for udsatte boligområder og ghettoområder, initiativer til udvikling eller afvikling af ghettoområder, skærpelse af anvisnings- og
+udlejningsregler, ophævelse af lejekontrakt på grund af kriminalitet
+m.v.)),
+
+Lovforslag nr. L 26 (Forslag til Aktiesparekontolov),
+Lovforslag nr. L 27 (Forslag til lov om ændring af fondsbeskatningsloven og ligningsloven. (Mere robuste skatteregler for trusts som opfølgning på Skattelovrådets rapport)),
+Lovforslag nr. L 28 (Forslag til lov om ændring af selskabsskatteloven, lov om ophævelse af dobbeltbeskatning i forbindelse med regulering af forbundne foretagenders overskud (EF-voldgiftskonventionen), momsloven og forskellige andre love. (Implementering af direktivet om skatteundgåelse og direktivet om skattetvistbilæggelse
+og forskellige ændringer af momssystemdirektivet)),
+Lovforslag nr. L 29 (Forslag til lov om ændring af emballageafgiftsloven, lov om registrering af køretøjer og forskellige andre love og
+om ophævelse af pvc-afgiftsloven og lov om tilskud til visse miljøvenlige lastbiler. (Ophævelse af pvc-afgiften og emballageafgiften
+på pvc-folier, indførelse af bagatelgrænser i visse afgiftslove, udvidelse af bemyndigelsesbestemmelsen for terminaladgang til Køretøjsregistret, undtagelse for udligningsafgift for visse påhængskøretøjer, udskydelse af tidspunkt for offentliggørelse og anvendelse af
+standardkontrakter ved leasing m.v.)),
+Lovforslag nr. L 30 (Forslag til lov om ændring af kildeskatteloven,
+ligningsloven, lov om skattenedslag for seniorer og lov om forsøg
+
+Lovforslag nr. L 39 (Forslag til lov om ændring af lov om almene
+boliger m.v. (Anvendelse af Landsbyggefondens midler og Landsbyggefondens refusion af ydelsesstøtte)),
+Lovforslag nr. L 40 (Forslag til lov om ændring af færdselsloven.
+(Forhøjelse af bøde for parkering på ramper, forhøjelse af parkeringsafgifter for store køretøjer, Færdselsstyrelsens mulighed for
+overtagelse af parkeringskontrollen og ændring af klagemyndighed)),
+Lovforslag nr. L 41 (Forslag til lov om ændring af lov om Metroselskabet I/S og Udviklingsselskabet By & Havn I/S. (Ny arealinddeling og arealanvendelse i Københavns Ydre Nordhavn)),
+Lovforslag nr. L 42 (Forslag til lov om ændring af færdselsloven.
+(Klip i kørekortet for benyttelse af håndholdt teleudstyr og andre
+håndholdte kommunikationsapparater under kørsel m.v.)),
+Lovforslag nr. L 43 (Forslag til lov om ændring af lov om letbane på
+Ring 3 og lov om Metroselskabet I/S og Udviklingsselskabet By &
+
+Onsdag den 3. oktober 2018 (FM )
+
+Havn I/S. (Transport-, bygnings- og boligministerens udtræden af
+Hovedstadens Letbane I/S)),
+Lovforslag nr. L 44 (Forslag til lov om ændring af lov om trafikselskaber. (Overdragelse af statens praktiske trafikkøberansvar for øresundstogtrafikken til Skånetrafiken)),
+Lovforslag nr. L 45 (Forslag til lov om ændring af jernbanelov. (Master til brug for mobil- og internetdækning i tog)) og
+Lovforslag nr. L 46 (Forslag til lov om ændring af lov om en Cityring og lov om Metroselskabet I/S og Udviklingsselskabet By &
+Havn I/S. (Udvikling af området ved Ny Ellebjerg Station)).";Karsten Lauritzen
+10340;title_name;":
+Lovforslag nr. L 47 (Forslag til lov om ændring af lov om finansiel
+virksomhed, lov om forebyggende foranstaltninger mod hvidvask og
+finansiering af terrorisme (hvidvaskloven), lov om kapitalmarkeder
+og forskellige andre love. (Skærpelse af hvidvaskreglerne, gennemførelse af anbefalingerne fra arbejdsgruppen for eftersyn af den finansielle regulering og ændring af reglerne for udpegning af SIFI’er
+i Danmark)),
+Lovforslag nr. L 48 (Forslag til lov om elektronisk fakturering ved
+offentlige udbud),
+Lovforslag nr. L 49 (Forslag til lov om ændring af varemærkeloven
+og forskellige andre love og om ophævelse af fællesmærkeloven.
+(Behandling af ansøgninger, registreringshindringer, gengivelse af
+varemærker, varer i transit, overførsel af gebyrindtægter m.v.)),
+Lovforslag nr. L 50 (Forslag til lov om ændring af lov om Dansk Internationalt Skibsregister. (Overenskomstdækning ved offshore-aktiviteter på skibe på dansk søterritorium og kontinentalsokkelområde))
+og
+Lovforslag nr. L 51 (Forslag til lov om ændring af lov om planlægning og lov om maritim fysisk planlægning. (Strategisk planlægning
+for landsbyer, planlægning i områder belastet af lugt, støv eller anden luftforurening, helårsbeboelse i sommerhuse på Læsø, ekspropriation til virkeliggørelse af lokalplaner, havplanlægning for transportinfrastruktur m.v.)).
+
+3
+
+Beslutningsforslag nr. B 5 (Forslag til folketingsbeslutning om indførelse af straksforbud mod salg og anvendelse af sprøjtegifte med
+aktivstofferne pendimethalin, bromoxynil og fluroxypyr).";Rasmus Jarlov
+11904;name_party;":
+Forespørgsel nr. F 1 (Hvad kan regeringen oplyse om de hidtil opnåede resultater på udlændingeområdet fra 2015 til 2018, og hvilke
+nye mål vil regeringen arbejde for i de kommende år?).";Martin Henriksen
+12141;name_party;":
+Forespørgsel nr. F 2 (Vil statsministeren redegøre for regeringens
+værdipolitik med fokus på de udfordringer, der følger af indvandringen, og som presser eller tvinger danskerne til at ændre levevis og
+adfærd og rette ind af hensyn til indvandrere?).
+Martin Henriksen (DF) m.fl.:
+Forespørgsel nr. F 3 (Kan ministeren oplyse, om regeringen ønsker
+at forhindre udenlandske pengeoverførsler til byggeri af moskeer og
+til muslimske kulturelle, ideologiske og religiøse formål i Danmark,
+og i givet fald, hvordan?).";Martin Henriksen
+12692;name_party;":
+Forespørgsel nr. F 4 (Hvad kan regeringen oplyse om konsekvenserne af omprioriteringsbidraget, der årligt pålægger de statslige uddannelsesinstitutioner at spare 2 pct., herunder konsekvenserne for institutionernes mulighed for fortsat at lave god uddannelse, sikre et tilstrækkeligt antal undervisningstimer, udvikle et godt studiemiljø og
+arbejde med de studerendes trivsel?) og
+Forespørgsel nr. F 8 (Hvad kan regeringen oplyse om konsekvenserne af omprioriteringsbidraget, der pålægger kulturinstitutionerne årligt at spare 2 pct., herunder konsekvenserne for kvalitetsniveauet på
+kulturinstitutionerne, og hvordan det påvirker kulturlivet og udviklingen heraf på kort og lang sigt?).
+Kenneth Kristensen Berth (DF) m.fl.:
+Forespørgsel nr. F 5 (Hvad kan regeringen oplyse om udviklingen i
+EU’s forsvarspolitiske samarbejde, og hvilke ambitioner har regeringen i relation til det danske forsvarsforbehold?).
+
+Serdal Benli (SF) m.fl.:
+Finn Sørensen (EL) m.fl.:
+Beslutningsforslag nr. B 1 (Forslag til folketingsbeslutning om genoptagelse af modtagelse af kvoteflygtninge).";Jacob Mark
+13806;name_party;":
+Beslutningsforslag nr. B 2 (Forslag til folketingsbeslutning om oprettelse af Det Dataetiske Råd).
+Jacob Mark (SF) m.fl.:
+Beslutningsforslag nr. B 3 (Forslag til folketingsbeslutning om at afskaffe uddannelsesloftet).
+
+Forespørgsel nr. F 6 (Hvad kan ministeren oplyse om de forligsmæssige bindinger vedrørende forhøjelser af pensionsalderen og om de
+konsekvenser, det har for de lønmodtagere, der tvinges ud af arbejdsmarkedet længe før pensionsalderen, enten fordi de er slidt ned
+fysisk eller psykisk, eller fordi de ikke har de fornødne kvalifikationer?) og
+Forespørgsel nr. F 7 (Hvad kan ministeren oplyse om evalueringen
+af reformen af førtidspension og fleksjob, og hvilke initiativer vil
+ministeren tage på baggrund heraf?).
+
+Magnus Heunicke (S) m.fl.:
+
+Titler på de anmeldte sager vil fremgå af www. folketingstidende.dk
+(jf. ovenfor).
+
+Beslutningsforslag nr. B 4 (Forslag til folketingsbeslutning om stop
+for udlejning af ubeboelige ejendomme).
+
+Udenrigsministeren har meddelt mig, at han ønsker i henhold til forretningsordenens § 19, stk. 4, at give Folketinget en skriftlig
+
+Søren Egge Rasmussen (EL) m. fl.:
+
+Redegørelse om samarbejdet i Arktis.
+(Redegørelse nr. R 2).
+
+4
+
+Onsdag den 3. oktober 2018 (FM )
+
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Redegørelsen vil komme til forhandling tirsdag den 9. oktober
+2018.
+
+Det eneste punkt på dagsordenen er:
+1) Valg af stående udvalg m.v.";Josephine Fock
+15260;Time;;Kl. 13:03
+15288;title_name;":
+Til disse valg er anmeldt følgende valggrupper:
+en gruppe på 91 medlemmer: Dansk Folkeparti, Venstre, Liberal
+Alliance, Det Konservative Folkeparti og Nunatta Qitornai:
+en gruppe på 88 medlemmer: Socialdemokratiet, Enhedslisten,
+Alternativet, Radikale Venstre, Socialistisk Folkeparti, Inuit Ataqatigiit, Tjóðveldi og Javnaðarflokkurin.
+Der foreligger indstilling fra grupperne om disse valg. Navnene
+på de valgte kan findes på Folketingets hjemmeside og på www.folketingstidende.dk ( jf. nedenfor).
+Samtidig er der fra grupperne fremkommet forslag om valg af
+formand og næstformand. Der er kun bragt én i forslag til hver af
+disse poster, og navnene er optaget i Folketingstidende.
+
+4 Claus Kvist Hansen (DF)
+5 Peter Juel-Jensen (V)
+6 Kristian Pihl Lorentzen (V)
+7 Anni Matthiesen (V)
+8 Leif Mikkelsen (LA)
+9 Mette Abildgaard (KF)
+10 Benny Engelbrecht (S)
+11 Bjarne Laustsen (S)
+12 Henrik Dam Kristensen (S)
+13 Karen J. Klint (S)
+14 Pernille Skipper (EL)
+15 René Gade (ALT)
+16 Martin Lidegaard (RV)
+17 Jacob Mark (SF)";Pia Kjærsgaard
+16318;title_name;Peter Juel-Jensen (V);Formand
+16353;title_name;"Karen J. Klint (S)
+Valg af 29 medlemmer til Beskæftigelsesudvalget.
+Valgt blev:
+
+1 Pia Kjærsgaard (DF)
+2 Henrik Dam Kristensen (S)
+3 Kristian Pihl Lorentzen (V)
+4 Christian Juhl (EL)
+5 Leif Mikkelsen (LA)
+6 Peter Skaarup (DF)
+7 Søren Espersen (DF)
+8 Martin Henriksen (DF)
+9 Karen Ellemann (V)
+10 Torsten Schack Pedersen (V)
+11 Britt Bager (V)
+12 Christina Egelund (LA)
+13 Mette Abildgaard (KF)
+14 Benny Engelbrecht (S)
+15 Dan Jørgensen (S)
+16 Henrik Sass Larsen (S)
+17 Karen J. Klint (S)
+18 Jakob Sølvhøj (EL)
+19 René Gade (ALT)
+20 Morten Østergaard (RV)
+21 Jacob Mark (SF)
+
+1 Bent Bøgsted (DF)
+2 Jens Henrik Thulesen Dahl (DF)
+3 Claus Kvist Hansen (DF)
+4 Karina Adsbøl (DF)
+5 Marlene Harpsøe (DF)
+6 Jeppe Jakobsen (DF)
+7 Hans Andersen (V)
+8 Peter Juel-Jensen (V)
+9 Louise Schack Elholm (V)
+10 Carl Holst (V)
+11 Anni Matthiesen (V)
+12 Martin Geertsen (V)
+13 Joachim B. Olsen (LA)
+14 Laura Lindahl (LA)
+15 Anders Johansson (KF)
+16 Ane Halsboe-Jørgensen (S)
+17 Bjarne Laustsen (S)
+18 Mattias Tesfaye (S)
+19 Leif Lahn Jensen (S)
+20 Lennart Damsbo-Andersen (S)
+21 Pernille Rosenkrantz-Theil (S)
+22 Jan Johansen (S)
+23 Henning Hyllested (EL)
+24 Christian Juhl (EL)
+25 Finn Sørensen (EL)
+26 Josephine Fock (ALT)
+27 Torsten Gejl (ALT)
+28 Rasmus Helveg Petersen (RV)
+29 Karsten Hønge (SF)
+
+(Udvalget for Forretningsordenen består af Folketingets Præsidium
+(nr. 1-5) tillige med 16 valgte medlemmer).";Næstformand
+17755;title_name;Bent Bøgsted (DF);Formand
+17786;title_name;Bjarne Laustsen (S);Næstformand
+17816;title_name;Pia Kjærsgaard (DF);Formand
+17849;title_name;"Henrik Dam Kristensen (S)
+
+Valg af 29 medlemmer til Energi-, Forsynings- og Klimaudvalget.
+
+Valg af 17 medlemmer til Udvalget til Valgs Prøvelse.
+
+Valgt blev:
+
+Valgt blev:
+
+1 Mikkel Dencker (DF)
+2 Dorthe Ullemose (DF)
+3 Ib Poulsen (DF)
+4 Pia Adelsteen (DF)
+5 Jan Rytkjær Callesen (DF)
+
+[Valg af 16 medlemmer til Udvalget for Forretningsordenen.
+Valgt blev:
+
+1 Bent Bøgsted (DF)
+2 Hans Kristian Skibby (DF)
+3 Susanne Eilersen (DF)
+
+Onsdag den 3. oktober 2018 (FM )
+
+6 Claus Kvist Hansen (DF)
+7 Thomas Danielsen (V)
+8 Jacob Jensen (V)
+9 Kristian Pihl Lorentzen (V)
+10 Torsten Schack Pedersen (V)
+11 Marcus Knuth (V)
+12 Carl Holst (V)
+13 Carsten Bach (LA)
+14 Villum Christensen (LA)
+15 Orla Østerby (KF)
+16 Bjarne Laustsen (S)
+17 Lennart Damsbo-Andersen (S)
+18 Jens Joel (S)
+19 Kirsten Brosbøl (S)
+20 Lea Wermelin (S)
+21 Karin Gaardsted (S)
+22 Søren Egge Rasmussen (EL)
+23 Øjvind Vilsholm (EL)
+24 Rasmus Nordqvist (ALT)
+25 Christian Poll (ALT)
+26 Rasmus Helveg Petersen (RV)
+27 Ida Auken (RV)
+28 Pia Olsen Dyhr (SF)
+29 Trine Torp (SF)";Næstformand
+18891;title_name;Thomas Danielsen (V);Formand
+18925;title_name;"Lea Wermelin (S)
+Valg af 29 medlemmer til Erhvervs-, Vækst- og Eksportudvalget.
+Valgt blev:
+1 Hans Kristian Skibby (DF)
+2 Mette Hjermind Dencker (DF)
+3 Jan Rytkjær Callesen (DF)
+4 Merete Dea Larsen (DF)
+5 Tilde Bork (DF)
+6 Dorthe Ullemose (DF)
+7 Torsten Schack Pedersen (V)
+8 Preben Bang Henriksen (V)
+9 Carl Holst (V)
+10 Hans Christian Schmidt (V)
+11 Erling Bonnesen (V)
+12 Jane Heitmann (V)
+13 May-Britt Kattrup (LA)
+14 Joachim B. Olsen (LA)
+15 Anders Johansson (KF)
+16 Erik Christensen (S)
+17 Karin Gaardsted (S)
+18 Peter Hummelgaard Thomsen (S)
+19 Kaare Dybvad (S)
+20 Morten Bødskov (S)
+21 Rasmus Horn Langhoff (S)
+22 Thomas Jensen (S)
+23 Henrik Sass Larsen (S)
+24 Pelle Dragsted (EL)
+25 Rune Lund (EL)
+26 Rasmus Nordqvist (ALT)
+27 Ida Auken (RV)
+28 Lisbeth Bech Poulsen (SF)
+29 Karsten Hønge (SF)";Næstformand
+19736;title_name;Morten Bødskov (S);Formand
+19768;title_name;"Joachim B. Olsen (LA)
+
+Valg af 29 medlemmer til Europaudvalget.
+Valgt blev:
+1 Kenneth Kristensen Berth (DF)
+2 Peter Kofod (DF)
+3 Claus Kvist Hansen (DF)
+4 Mikkel Dencker (DF)
+5 Hans Kristian Skibby (DF)
+6 Karina Due (DF)
+7 Jan E. Jørgensen (V)
+8 Marcus Knuth (V)
+9 Erling Bonnesen (V)
+10 Thomas Danielsen (V)
+11 Søren Gade (V)
+12 Mads Fuglede (V)
+13 Henrik Dahl (LA)
+14 Villum Christensen (LA)
+15 Merete Scheelsbeck (KF)
+16 Jens Joel (S)
+17 Lars Aslan Rasmussen (S)
+18 Kaare Dybvad (S)
+19 Erik Christensen (S)
+20 Mette Reissmann (S)
+21 Peter Hummelgaard Thomsen (S)
+22 Karin Gaardsted (S)
+23 Søren Søndergaard (EL)
+24 Eva Flyvholm (EL)
+25 Finn Sørensen (EL)
+26 Rasmus Nordqvist (ALT)
+27 Christian Poll (ALT)
+28 Sofie Carsten Nielsen (RV)
+29 Holger K. Nielsen (SF)";Næstformand
+20541;title_name;Erik Christensen (S);Formand
+20575;title_name;"Kenneth Kristensen Berth (DF)
+Valg af 17 medlemmer til Finansudvalget.
+Valgt blev:
+1 René Christensen (DF)
+2 Kristian Thulesen Dahl (DF)
+3 Dennis Flydtkjær (DF)
+4 Jacob Jensen (V)
+5 Marcus Knuth (V)
+6 Hans Andersen (V)
+7 Torsten Schack Pedersen (V)
+8 Joachim B. Olsen (LA)
+9 Anders Johansson (KF)
+10 Ane Halsboe-Jørgensen (S)
+11 Benny Engelbrecht (S)
+12 Erik Christensen (S)
+13 Jesper Petersen (S)
+14 Rune Lund (EL)
+15 Josephine Fock (ALT)
+16 Martin Lidegaard (RV)
+17 Lisbeth Bech Poulsen (SF)";Næstformand
+21078;title_name;Joachim B. Olsen (LA);Formand
+21113;title_name;"Benny Engelbrecht (S)
+Valg af 29 medlemmer til Forsvarsudvalget.
+Valgt blev:
+
+5
+
+6
+
+1 Marie Krarup (DF)
+2 Søren Espersen (DF)
+3 Jan Erik Messmann (DF)
+4 Jeppe Jakobsen (DF)
+5 Henrik Brodersen (DF)
+6 Susanne Eilersen (DF)
+7 Peter Juel-Jensen (V)
+8 Preben Bang Henriksen (V)
+8 Mads Fuglede (V)
+9 Marcus Knuth (V)
+10 Kristian Pihl Lorentzen (V)
+11 Torsten Schack Pedersen (V)
+12 Michael Aastrup Jensen (V)
+13 Villum Christensen (LA)
+14 Carsten Bach (LA)
+15 Naser Khader (KF)
+16 Annette Lind (S)
+17 Bjarne Laustsen (S)
+18 Henrik Dam Kristensen (S)
+19 Jan Johansen (S)
+20 Jesper Petersen (S)
+21 Simon Kollerup (S)
+22 Trine Bramsen (S)
+23 Nick Hækkerup (S)
+24 Eva Flyvholm (EL)
+25 Søren Søndergaard (EL)
+26 Rasmus Nordqvist (ALT)
+27 Martin Lidegaard (RV)
+28 Holger K. Nielsen (SF)
+29 Aaja Chemnitz Larsen (IA)";Næstformand
+21927;title_name;Naser Khader (KF);Formand
+21958;title_name;"Jan Johansen (S)
+
+Onsdag den 3. oktober 2018 (FM )
+
+3 Lise Bech (DF)
+4 Ib Poulsen (DF)
+5 Dorthe Ullemose (DF)
+6 Alex Ahrendtsen (DF)
+7 Louise Schack Elholm (V)
+8 Erling Bonnesen (V)
+9 Carl Holst (V)
+10 Jane Heitmann (V)
+11 Anni Matthiesen (V)
+12 Carsten Kissmeyer (V)
+13 Leif Mikkelsen (LA)
+14 Henrik Dahl (LA)
+15 Naser Khader (KF)
+16 Flemming Møller Mortensen (S)
+17 Daniel Toft Jakobsen (S)
+18 Troels Ravn (S)
+19 Karen J. Klint (S)
+20 Lennart Damsbo-Andersen (S)
+21 Rasmus Prehn (S)
+22 Pelle Dragsted (EL)
+23 Stine Brix (EL)
+24 Pernille Schnoor (ALT)
+25 Ulla Sandbæk (ALT)
+26 Carolina Magdalene Maier (ALT)
+27 Marianne Jelved (RV)
+28 Trine Torp (SF)
+29 Pia Olsen Dyhr (SF)";Næstformand
+22642;title_name;Karen J. Klint (S);Formand
+22674;title_name;"Christian Langballe (DF)
+Valg af 29 medlemmer til Kulturudvalget.
+Valgt blev:
+
+Valg af 17 medlemmer til Indfødsretsudvalget.
+Valgt blev:
+1 Christian Langballe (DF)
+2 Marie Krarup (DF)
+3 Martin Henriksen (DF)
+4 Kenneth Kristensen Berth (DF)
+5 Mads Fuglede (V)
+6 Preben Bang Henriksen (V)
+7 Thomas Danielsen (V)
+8 Henrik Dahl (LA)
+9 Naser Khader (KF)
+10 Astrid Krag (S)
+11 Peter Hummelgaard Thomsen (S)
+12 Karen J. Klint (S)
+13 Christian Rabjerg Madsen (S)
+14 Stine Brix (EL)
+15 Josephine Fock (ALT)
+16 Lotte Rod (RV)
+17 Kirsten Normann Andersen (SF)";Næstformand
+23232;title_name;Christian Langballe (DF);Formand
+23270;title_name;"Karen J. Klint (S)
+Valg af 29 medlemmer til Kirkeudvalget.
+Valgt blev:
+1 Christian Langballe (DF)
+2 Morten Marinus (DF)
+
+1 Alex Ahrendtsen (DF)
+2 Karin Nødgaard (DF)
+3 Kristian Thulesen Dahl (DF)
+4 Peter Skaarup (DF)
+5 Morten Marinus (DF)
+6 Jan Erik Messmann (DF)
+7 Britt Bager (V)
+8 Jan E. Jørgensen (V)
+9 Marcus Knuth (V)
+10 Bertel Haarder (V)
+11 Hans Christian Schmidt (V)
+12 Anni Matthiesen (V)
+13 Christina Egelund (LA)
+14 Leif Mikkelsen (LA)
+15 Merete Scheelsbeck (KF)
+16 Annette Lind (S)
+17 Daniel Toft Jakobsen (S)
+18 Flemming Møller Mortensen (S)
+19 Jan Johansen (S)
+20 Mogens Jensen (S)
+21 Orla Hav (S)
+22 Søren Søndergaard (EL)
+23 Christian Juhl (EL)
+24 Rasmus Nordqvist (ALT)
+25 Carolina Magdalene Maier (ALT)
+26 Ida Auken (RV)
+27 Marianne Jelved (RV)
+28 Jacob Mark (SF)
+29 Pia Olsen Dyhr (SF)
+
+Onsdag den 3. oktober 2018 (FM )";Næstformand
+24121;title_name;Orla Hav (S);Formand
+24147;title_name;"Karin Nødgaard (DF)
+Valg af 29 medlemmer til Ligestillingsudvalget.
+Valgt blev:
+1 Karina Adsbøl (DF)
+2 Marlene Harpsøe (DF)
+3 Karina Due (DF)
+4 Pernille Bendixen (DF)
+5 Merete Dea Larsen (DF)
+6 Tilde Bork (DF)
+7 Martin Geertsen (V)
+8 Louise Schack Elholm (V)
+9 Jane Heitmann (V)
+10 Anni Matthiesen (V)
+11 Peter Juel-Jensen (V)
+12 Hans Andersen (V)
+13 Laura Lindahl (LA)
+14 May-Britt Kattrup (LA)
+15 Merete Scheelsbeck (KF)
+16 Astrid Krag (S)
+17 Lars Aslan Rasmussen (S)
+18 Julie Skovsby (S)
+19 Troels Ravn (S)
+20 Rasmus Horn Langhoff (S)
+21 Yildiz Akdogan (S)
+22 Pernille Skipper (EL)
+23 Rasmus Vestergaard Madsen (EL)
+24 Josephine Fock (ALT)
+25 Carolina Magdalene Maier (ALT)
+26 Roger Courage Matthisen (ALT)
+27 Marianne Jelved (RV)
+28 Trine Torp (SF)
+29 Kirsten Normann Andersen (SF)";Næstformand
+24942;title_name;Karina Adsbøl (DF);Formand
+24974;title_name;"Yildiz Akdogan (S)
+Valg af 29 medlemmer til Miljø- og Fødevareudvalget.
+Valgt blev:
+1 Pia Adelsteen (DF)
+2 Lise Bech (DF)
+3 René Christensen (DF)
+4 Ib Poulsen (DF)
+5 Karina Due (DF)
+6 Erling Bonnesen (V)
+7 Kristian Pihl Lorentzen (V)
+8 Thomas Danielsen (V)
+9 Torsten Schack Pedersen (V)
+10 Anni Matthiesen (V)
+11 Hans Christian Schmidt (V)
+12 Carsten Bach (LA)
+13 May-Britt Kattrup (LA)
+14 Mette Abildgaard (KF)
+15 Orla Østerby (KF)
+16 Bjarne Laustsen (S)
+17 Lea Wermelin (S)
+18 Christian Rabjerg Madsen (S)
+19 Jesper Petersen (S)
+20 Kirsten Brosbøl (S)
+21 Simon Kollerup (S)
+
+22 Søren Egge Rasmussen (EL)
+23 Øjvind Vilsholm (EL)
+24 Christian Poll (ALT)
+25 Roger Courage Matthisen (ALT)
+26 Rasmus Helveg Petersen (RV)
+27 Ida Auken (RV)
+28 Trine Torp (SF)
+29 Pia Olsen Dyhr (SF)";Næstformand
+25761;title_name;Pia Adelsteen (DF);Formand
+25793;title_name;"Lea Wermelin (S)
+Valg af 29 medlemmer til Retsudvalget.
+Valgt blev:
+1 Peter Skaarup (DF)
+2 Peter Kofod (DF)
+3 Susanne Eilersen (DF)
+4 Hans Kristian Skibby (DF)
+5 Dennis Flydtkjær (DF)
+6 Lise Bech (DF)
+7 Preben Bang Henriksen (V)
+8 Jan E. Jørgensen (V)
+9 Britt Bager (V)
+10 Mads Fuglede (V)
+11 Marcus Knuth (V)
+12 Michael Aastrup Jensen (V)
+13 Henrik Dahl (LA)
+14 Christina Egelund (LA)
+15 Naser Khader (KF)
+16 Simon Kollerup (S)
+17 Lars Aslan Rasmussen (S)
+18 Mette Reissmann (S)
+19 Mogens Jensen (S)
+20 Trine Bramsen (S)
+21 Rasmus Prehn (S)
+22 Kaare Dybvad (S)
+23 Rosa Lund (EL)
+24 Søren Søndergaard (EL)
+25 Josephine Fock (ALT)
+26 Sofie Carsten Nielsen (RV)
+27 Lotte Rod (RV)
+28 Karsten Hønge (SF)
+29 Aaja Chemnitz Larsen (IA)";Næstformand
+26531;title_name;Peter Skaarup (DF);Formand
+26563;title_name;"Mogens Jensen (S)
+Valg af 29 medlemmer til Skatteudvalget.
+Valgt blev:
+1 Dennis Flydtkjær (DF)
+2 Hans Kristian Skibby (DF)
+3 Kim Christiansen (DF)
+4 Jan Rytkjær Callesen (DF)
+5 Mikkel Dencker (DF)
+6 René Christensen (DF)
+7 Louise Schack Elholm (V)
+8 Jan E. Jørgensen (V)
+9 Kristian Pihl Lorentzen (V)
+10 Jacob Jensen (V)
+11 Torsten Schack Pedersen (V)
+12 Carsten Kissmeyer (V)
+
+7
+
+8
+
+Onsdag den 3. oktober 2018 (FM )
+
+13 Joachim B. Olsen (LA)
+14 May-Britt Kattrup (LA)
+15 Anders Johansson (KF)
+16 Ane Halsboe-Jørgensen (S)
+17 Jens Joel (S)
+18 Daniel Toft Jakobsen (S)
+19 Jesper Petersen (S)
+20 Mattias Tesfaye (S)
+21 Peter Hummelgaard Thomsen (S)
+22 Lea Wermelin (S)
+23 Rune Lund (EL)
+24 Pelle Dragsted (EL)
+25 Josephine Fock (ALT)
+26 René Gade (ALT)
+27 Andreas Steenberg (RV)
+28 Lisbeth Bech Poulsen (SF)
+29 Jacob Mark (SF)";Næstformand
+27398;title_name;Lea Wermelin (S);Formand
+27428;title_name;"Joachim B. Olsen (LA)
+Valg af 29 medlemmer til Social-, Indenrigs- og Børneudvalget.
+Valgt blev:
+1 Karin Nødgaard (DF)
+2 Susanne Eilersen (DF)
+3 Karina Adsbøl (DF)
+4 Jens Henrik Thulesen Dahl (DF)
+5 Pernille Bendixen (DF)
+6 Morten Marinus (DF)
+7 Martin Geertsen (V)
+8 Carl Holst (V)
+9 Jane Heitmann (V)
+10 Hans Andersen (V)
+11 Jan E. Jørgensen (V)
+12 Anni Matthiesen (V)
+13 Henrik Dahl (LA)
+14 Laura Lindahl (LA)
+15 Brigitte Klintskov Jerkel (KF)
+16 Karen J. Klint (S)
+17 Magnus Heunicke (S)
+18 Orla Hav (S)
+19 Pernille Rosenkrantz-Theil (S)
+20 Troels Ravn (S)
+21 Ane Halsboe-Jørgensen (S)
+22 Yildiz Akdogan (S)
+23 Finn Sørensen (EL)
+24 Pernille Skipper (EL)
+25 Torsten Gejl (ALT)
+26 Marianne Jelved (RV)
+27 Lotte Rod (RV)
+28 Trine Torp (SF)
+29 Kirsten Normann Andersen (SF)";Næstformand
+28212;title_name;Troels Ravn (S);Formand
+28241;title_name;"Karin Nødgaard (DF)
+Valg af 29 medlemmer til Sundheds- og Ældreudvalget.
+Valgt blev:
+1 Liselott Blixt (DF)
+2 Karin Nødgaard (DF)
+3 Karina Adsbøl (DF)
+
+4 Susanne Eilersen (DF)
+5 Jeppe Jakobsen (DF)
+6 Jan Erik Messmann (DF)
+7 Jane Heitmann (V)
+8 Hans Christian Schmidt (V)
+9 Hans Andersen (V)
+10 Martin Geertsen (V)
+11 Thomas Danielsen (V)
+12 Jacob Jensen (V)
+13 Laura Lindahl (LA)
+14 May-Britt Kattrup (LA)
+15 Mette Abildgaard (KF)
+16 Astrid Krag (S)
+17 Flemming Møller Mortensen (S)
+18 Erik Christensen (S)
+19 Julie Skovsby (S)
+20 Karin Gaardsted (S)
+21 Lea Wermelin (S)
+22 Yildiz Akdogan (S)
+23 Stine Brix (EL)
+24 Finn Sørensen (EL)
+25 Pernille Schnoor (ALT)
+26 Torsten Gejl (ALT)
+27 Lotte Rod (RV)
+28 Kirsten Normann Andersen (SF)
+29 Trine Torp (SF)";Næstformand
+29002;title_name;Liselott Blixt (DF);Formand
+29035;title_name;"Julie Skovsby (S)
+Valg af 29 medlemmer til Transport-, Bygnings- og Boligudvalget.
+Valgt blev:
+1 Kim Christiansen (DF)
+2 Merete Dea Larsen (DF)
+3 Claus Kvist Hansen (DF)
+4 Mette Hjermind Dencker (DF)
+5 Jan Erik Messmann (DF)
+6 Henrik Brodersen (DF)
+7 Kristian Pihl Lorentzen (V)
+8 Hans Andersen (V)
+9 Hans Christian Schmidt (V)
+10 Jane Heitmann (V)
+11 Louise Schack Elholm (V)
+12 Carsten Kissmeyer (V)
+13 Leif Mikkelsen (LA)
+14 Villum Christensen (LA)
+15 Brigitte Klintskov Jerkel (KF)
+16 Christian Rabjerg Madsen (S)
+17 Erik Christensen (S)
+18 Kaare Dybvad (S)
+19 Lennart Damsbo-Andersen (S)
+20 Magnus Heunicke (S)
+21 Rasmus Prehn (S)
+22 Mette Reissmann (S)
+23 Daniel Toft Jakobsen (S)
+24 Henning Hyllested (EL)
+25 Eva Flyvholm (EL)
+26 Roger Courage Matthisen (ALT)
+27 Andreas Steenberg (RV)
+28 Karsten Hønge (SF)
+29 Kirsten Normann Andersen (SF)
+
+Onsdag den 3. oktober 2018 (FM )";Næstformand
+29928;title_name;Lennart Damsbo-Andersen (S);Formand
+29969;title_name;"Kim Christiansen (DF)
+Valg af 29 medlemmer til Uddannelses- og Forskningsudvalget.
+Valgt blev:
+1 Jens Henrik Thulesen Dahl (DF)
+2 Marlene Harpsøe (DF)
+3 Alex Ahrendtsen (DF)
+4 Christian Langballe (DF)
+5 Tilde Bork (DF)
+6 Ib Poulsen (DF)
+7 Anni Matthiesen (V)
+8 Hans Andersen (V)
+9 Bertel Haarder (V)
+10 Louise Schack Elholm (V)
+11 Thomas Danielsen (V)
+12 Marcus Knuth (V)
+13 Villum Christensen (LA)
+14 Henrik Dahl (LA)
+15 Merete Scheelsbeck (KF)
+16 Christian Rabjerg Madsen (S)
+17 Rasmus Horn Langhoff (S)
+18 Kirsten Brosbøl (S)
+19 Rasmus Prehn (S)
+20 Julie Skovsby (S)
+21 Mette Reissmann (S)
+22 Eva Flyvholm (EL)
+23 Rosa Lund (EL)
+24 Pernille Schnoor (ALT)
+25 Carolina Magdalene Maier (ALT)
+26 Sofie Carsten Nielsen (RV)
+27 Lotte Rod (RV)
+28 Jacob Mark (SF)
+29 Trine Torp (SF)";Næstformand
+30760;title_name;"Henrik Dahl (LA)
+Valg af 29 medlemmer til Udenrigsudvalget.
+Valgt blev:
+1 Claus Kvist Hansen (DF)
+2 Hans Kristian Skibby (DF)
+3 Søren Espersen (DF)
+4 Tilde Bork (DF)
+5 Marie Krarup (DF)
+6 Kenneth Kristensen Berth (DF)
+7 Michael Aastrup Jensen (V)
+8 Jan E. Jørgensen (V)
+9 Marcus Knuth (V)
+10 Karen Ellemann (V)
+11 Peter Juel-Jensen (V)
+12 Mads Fuglede (V)
+13 Carsten Bach (LA)
+14 Henrik Dahl (LA)
+15 Merete Scheelsbeck (KF)
+16 Ane Halsboe-Jørgensen (S)
+17 Kirsten Brosbøl (S)
+18 Mogens Lykketoft (S)
+19 Mette Gjerskov (S)
+20 Mogens Jensen (S)
+21 Nick Hækkerup (S)
+22 Yildiz Akdogan (S)
+
+9
+
+23 Peter Hummelgaard Thomsen (S)
+24 Christian Juhl (EL)
+25 Eva Flyvholm (EL)
+26 Ulla Sandbæk (ALT)
+27 Martin Lidegaard (RV)
+28 Sofie Carsten Nielsen (RV)
+29 Holger K. Nielsen (SF)";Næstformand
+31539;title_name;Ane Halsboe-Jørgensen (S);Formand
+31578;title_name;"Merete Scheelsbeck (KF)
+Valg af 29 medlemmer til Udlændinge- og Integrationsudvalget.
+Valgt blev:
+1 Martin Henriksen (DF)
+2 Peter Skaarup (DF)
+3 Christian Langballe (DF)
+4 Marie Krarup (DF)
+5 Peter Kofod (DF)
+6 Pernille Bendixen (DF)
+7 Mads Fuglede (V)
+8 Britt Bager (V)
+9 Preben Bang Henriksen (V)
+10 Martin Geertsen (V)
+11 Erling Bonnesen (V)
+12 Carsten Kissmeyer (V)
+13 Laura Lindahl (LA)
+14 Joachim B. Olsen (LA)
+15 Naser Khader (KF)
+16 Dan Jørgensen (S)
+17 Kaare Dybvad (S)
+18 Thomas Jensen (S)
+19 Karen J. Klint (S)
+20 Astrid Krag (S)
+21 Mattias Tesfaye (S)
+22 Finn Sørensen (EL)
+23 Søren Søndergaard (EL)
+24 Carolina Magdalene Maier (ALT)
+25 Josephine Fock (ALT)
+26 Andreas Steenberg (RV)
+27 Sofie Carsten Nielsen (RV)
+28 Jacob Mark (SF)
+29 Holger K. Nielsen (SF)";Næstformand
+32358;title_name;Martin Henriksen (DF);Formand
+32393;title_name;"Astrid Krag (S)
+Valg af 29 medlemmer til Udvalget for Landdistrikter og Øer.
+Valgt blev:
+1 Mette Hjermind Dencker (DF)
+2 Pia Adelsteen (DF)
+3 Tilde Bork (DF)
+4 Morten Marinus (DF)
+5 Henrik Brodersen (DF)
+6 Susanne Eilersen (DF)
+7 Thomas Danielsen (V)
+8 Peter Juel-Jensen (V)
+9 Erling Bonnesen (V)
+10 Hans Christian Schmidt (V)
+11 Anni Matthiesen (V)
+12 Carsten Kissmeyer (V)
+13 Villum Christensen (LA)
+
+10
+
+Onsdag den 3. oktober 2018 (FM )
+
+14 Leif Mikkelsen (LA)
+15 Orla Østerby (KF)
+16 Christian Rabjerg Madsen (S)
+17 Troels Ravn (S)
+18 Kaare Dybvad (S)
+19 Lea Wermelin (S)
+20 Leif Lahn Jensen (S)
+21 Lennart Damsbo-Andersen (S)
+22 Malou Lunderød (S)
+22 Magnus Heunicke (S)
+23 Orla Hav (S)
+24 Henning Hyllested (EL)
+25 Rasmus Vestergaard Madsen (EL)
+26 Roger Courage Matthisen (ALT)
+27 Andreas Steenberg (RV)
+28 Karsten Hønge (SF)
+29 Kirsten Normann Andersen (SF)";Næstformand
+33269;title_name;Peter Juel-Jensen (V);Formand
+33304;title_name;"Lennart Damsbo-Andersen (S)
+Valg af 29 medlemmer til Undervisningsudvalget.
+Valgt blev:
+1 Jens Henrik Thulesen Dahl (DF)
+2 Alex Ahrendtsen (DF)
+3 Marlene Harpsøe (DF)
+4 Dorthe Ullemose (DF)
+5 Marie Krarup (DF)
+6 Tilde Bork (DF)
+7 Anni Matthiesen (V)
+8 Peter Juel-Jensen (V)
+9 Jan E. Jørgensen (V)
+10 Louise Schack Elholm (V)
+11 Carl Holst (V)
+12 Jane Heitmann (V)
+13 Henrik Dahl (LA)
+14 Laura Lindahl (LA)
+15 Brigitte Klintskov Jerkel (KF)
+16 Annette Lind (S)
+17 Lars Aslan Rasmussen (S)
+18 Jan Johansen (S)
+19 Julie Skovsby (S)
+20 Mattias Tesfaye (S)
+21 Pernille Rosenkrantz-Theil (S)
+22 Eva Flyvholm (EL)
+23 Jakob Sølvhøj (EL)
+24 Pernille Schnoor (ALT)
+25 Carolina Magdalene Maier (ALT)
+26 Torsten Gejl (ALT)
+27 Lotte Rod (RV)
+28 Marianne Jelved (RV)
+29 Jacob Mark (SF)";Næstformand
+34085;title_name;Pernille Rosenkrantz-Theil (S);Formand
+34129;title_name;"Jens Henrik Thulesen Dahl (DF)
+Valg af 29 medlemmer til Grønlandsudvalget.
+Valgt blev:
+1 Søren Espersen (DF)
+2 Martin Henriksen (DF)
+3 Kristian Thulesen Dahl (DF)
+
+4 Claus Kvist Hansen (DF)
+5 Peter Skaarup (DF)
+6 Henrik Brodersen (DF)
+7 Marcus Knuth (V)
+8 Torsten Schack Pedersen (V)
+9 Anni Matthiesen (V)
+10 Bertel Haarder (V)
+11 Peter Juel-Jensen (V)
+12 Jacob Jensen (V)
+13 Villum Christensen (LA)
+14 Carsten Bach (LA)
+15 Merete Scheelsbeck (KF)
+16 Astrid Krag (S)
+17 Flemming Møller Mortensen (S)
+18 Jan Johansen (S)
+19 Karin Gaardsted (S)
+20 Yildiz Akdogan (S)
+21 Mogens Jensen (S)
+22 Mogens Lykketoft (S)
+23 Christian Juhl (EL)
+24 Finn Sørensen (EL)
+25 Roger Courage Matthisen (ALT)
+26 Martin Lidegaard (RV)
+27 Karsten Hønge (SF)
+28 Aaja Chemnitz Larsen (IA)
+29 Aleqa Hammond (NQ)";Næstformand
+34924;title_name;Aleqa Hammond (NQ);Formand
+34956;title_name;"Aaja Chemnitz Larsen (IA)
+Valg af 29 medlemmer til Færøudvalget.
+Valgt blev:
+1 Henrik Brodersen (DF)
+2 Søren Espersen (DF)
+3 Martin Henriksen (DF)
+4 Morten Marinus (DF)
+5 Peter Skaarup (DF)
+6 Alex Ahrendtsen (DF)
+7 Thomas Danielsen (V)
+8 Søren Gade (V)
+9 Bertel Haarder (V)
+10 Kristian Pihl Lorentzen (V)
+11 Louise Schack Elholm (V)
+12 Jacob Jensen (V)
+13 Villum Christensen (LA)
+14 Carsten Bach (LA)
+15 Merete Scheelsbeck (KF)
+16 Astrid Krag (S)
+17 Flemming Møller Mortensen (S)
+18 Lars Aslan Rasmussen (S)
+19 Karin Gaardsted (S)
+20 Mogens Jensen (S)
+21 Yildiz Akdogan (S)
+22 Christian Juhl (EL)
+23 Finn Sørensen (EL)
+24 Roger Courage Matthisen (ALT)
+25 Martin Lidegaard (RV)
+26 Karsten Hønge (SF)
+27 Trine Torp (SF)
+28 Magni Arge (T)
+29 Sjúrður Skaale (JF)";Næstformand
+35724;title_name;"Magni Arge (T)
+
+Onsdag den 3. oktober 2018 (FM )";Formand
+35788;title_name;"Henrik Brodersen (DF)
+Valg af 2 medlemmer til at føre tilsyn med Folketingets bibliotek.
+Valgt blev:
+1 Alex Ahrendtsen (DF)
+2 Daniel Toft Jakobsen (S)
+Valg af 9 medlemmer til det i grundlovens § 71, stk. 7, omhandlede tilsyn med behandlingen af personer, som er underkastet
+frihedsberøvelse af den i grundlovens § 71, stk. 6, omhandlede
+art.
+Valgt blev:
+1 Karina Adsbøl (DF)
+2 Karina Due (DF)
+3 Carsten Kissmeyer (V)
+4 Carl Holst (V)
+5 May-Britt Kattrup (LA)
+6 Karen J. Klint (S)
+7 Stine Brix (EL)
+8 Ulla Sandbæk (ALT)
+9 Lotte Rod (RV)";Næstformand
+36333;title_name;Karina Adsbøl (DF);Formand
+36365;title_name;"Karen J. Klint (S)
+Valg af 17 medlemmer og 17 stedfortrædere til Det Udenrigspolitiske Nævn.
+Valgt blev:
+Til medlemmer:
+1 Søren Espersen (DF)
+2 Kristian Thulesen Dahl (DF)
+3 Peter Skaarup (DF)
+4 Marie Krarup (DF)
+5 Karen Ellemann (V)
+6 Michael Aastrup Jensen (V)
+7 Marcus Knuth (V)
+8 Henrik Dahl (LA)
+9 Naser Khader (KF)
+10 Nicolai Wammen (S)
+11 Mette Frederiksen (S)
+12 Mogens Lykketoft (S)
+13 Nick Hækkerup (S)
+14 Eva Flyvholm (EL)
+15 Rasmus Nordqvist (ALT)
+16 Morten Østergaard (RV)
+17 Holger K. Nielsen (SF)
+Til stedfortrædere for:
+1-4 a Martin Henriksen (DF)
+1-4 b Claus Kvist Hansen (DF)
+1-4 c Christian Langballe (DF)
+1-4 d Kenneth Kristensen Berth (DF)
+5-7 a Kristian Pihl Lorentzen (V)
+5-7 b Mads Fuglede (V)
+5-7 c Peter Juel-Jensen (V)
+8 Christina Egelund (LA)
+9 Mette Abildgaard (KF)
+10-13 a Kirsten Brosbøl (S)
+
+11
+
+10-13 b Mogens Jensen (S)
+10-13 c Henrik Dam Kristensen (S)
+10-13 d Henrik Sass Larsen (S)
+14 Sjúrður Skaale (JF)
+15 Magni Arge (T)
+16 Martin Lidegaard (RV)
+17 Aaja Chemnitz Larsen (IA)";Næstformand
+37388;title_name;Søren Espersen (DF);Formand
+37421;title_name;"Nick Hækkerup (S)
+Valg af 16 medlemmer og 16 stedfortrædere til Nordisk Råd.
+Valgt blev:
+Til medlemmer:
+1 Jan Erik Messmann (DF)
+2 Mikkel Dencker (DF)
+3 Henrik Brodersen (DF)
+4 Bertel Haarder (V)
+5 Mads Fuglede (V)
+6 Marcus Knuth (V)
+7 Villum Christensen (LA)
+8 Brigitte Klintskov Jerkel (KF)
+9 Henrik Dam Kristensen (S)
+10 Karen J. Klint (S)
+11 Karin Gaardsted (S)
+12 Mogens Jensen (S)
+13 Annette Lind (S)
+14 Orla Hav (S)
+15 Christian Juhl (EL)
+16 Christian Poll (ALT)
+Til stedfortrædere for:
+1 Liselott Blixt (DF)
+2 Claus Kvist Hansen (DF)
+3 Søren Espersen (DF)
+4 Erling Bonnesen (V)
+5 Jane Heitmann (V)
+6 Carl Holst (V)
+7 Carsten Bach (LA)
+8 Merete Scheelsbeck (KF)
+9 Lea Wermelin (S)
+10 Pernille Schnoor (ALT)
+11 Finn Sørensen (EL)
+12 Martin Lidegaard (RV)
+13 Aaja Chemnitz Larsen (IA)
+14 Magni Arge (T)
+15 Aleqa Hammond (NQ)
+16 Sjúrður Skaale (JF)";Næstformand
+38283;title_name;"Henrik Dam Kristensen (S)
+Valg af 9 medlemmer og 9 stedfortrædere til Udvalget vedrørende Det Etiske Råd.
+Valgt blev:
+Til medlemmer:
+1 Liselott Blixt (DF)
+2 Alex Ahrendtsen (DF)
+3 Jane Heitmann (V)
+4 Martin Geertsen (V)
+5 May-Britt Kattrup (LA)
+6 Karen J. Klint (S)
+
+12
+
+Onsdag den 3. oktober 2018 (FM )
+
+7 Stine Brix (EL)
+8 Carolina Magdalene Maier (ALT)
+9 Lotte Rod (RV)
+
+Valg af 3 medlemmer og 3 stedfortrædere til Den Parlamentariske Forsamling for Middelhavsunionen (UfM-PA).
+Valgt blev:
+
+Til stedfortrædere for:
+1 Karina Due (DF)
+2 Karina Adsbøl (DF)
+3 Jan E. Jørgensen (V)
+4 Søren Gade (V)
+5 Brigitte Klintskov Jerkel (KF)
+6 Christian Rabjerg Madsen (S)
+7 Daniel Toft Jakobsen (S)
+8 Finn Sørensen (EL)
+9 Trine Torp (SF)
+
+Til medlemmer:
+1 Kenneth Kristensen Berth (DF)
+2 Bertel Haarder (V)
+3 Christian Rabjerg Madsen (S)
+Til stedfortrædere for:
+1 Henrik Dahl (LA)
+2 Merete Scheelsbeck (KF)
+3 Roger Courage Matthisen (ALT)";Formand
+39222;title_name;Karen J. Klint (S);Formand
+39254;title_name;Jane Heitmann (V);Næstformand
+39282;title_name;Christian Rabjerg Madsen (S);Formand
+39324;title_name;"Bertel Haarder (V)
+
+Valg af 6 medlemmer og 6 stedfortrædere til OSCE's Parlamentariske Forsamling.
+
+Valg af 1 medlem fra hver gruppe, der er repræsenteret i Udvalget for Forretningsordenen, til dette udvalgs underudvalg, jf. §
+59 i Folketingets Forretningsorden.
+
+Valgt blev:
+Valgt blev:
+Til medlemmer:
+1 Mikkel Dencker (DF)
+2 Henrik Brodersen (DF)
+3 Peter Juel-Jensen (V)
+4 Troels Ravn (S)
+5 Søren Søndergaard (EL)
+6 Rasmus Nordqvist (ALT)
+Til stedfortrædere for:
+1 Villum Christensen (LA)
+2 Naser Khader (KF)
+3 Michael Aastrup Jensen (V)
+4 Maja Panduro (S)
+5 Martin Lidegaard (RV)
+6 Holger K. Nielsen (SF)";Næstformand
+39941;title_name;Peter Juel-Jensen (V);Formand
+39976;title_name;"Troels Ravn (S)
+Valg af 5 medlemmer og 5 stedfortrædere til Europarådets Parlamentariske Forsamling.
+Valgt blev:
+Til medlemmer:
+1 Martin Henriksen (DF)
+2 Christian Langballe (DF)
+3 Michael Aastrup Jensen (V)
+4 Mogens Jensen (S)
+5 Rasmus Vestergaard Madsen (EL)
+Til stedfortrædere for:
+1 Peter Kofod (DF)
+2 Henrik Dahl (LA)
+3 Jan E. Jørgensen (V)
+4 Ulla Sandbæk (ALT)
+5 Aaja Chemnitz Larsen (IA)";Næstformand
+40380;title_name;Michael Aastrup Jensen (V);Formand
+40420;title_name;"Mogens Jensen (S)
+
+1 Peter Skaarup (DF)
+2 Karen Ellemann (V)
+3 Christina Egelund (LA)
+4 Mette Abildgaard (KF)
+5 Henrik Sass Larsen (S)
+6 Jakob Sølvhøj (EL)
+7 René Gade (ALT)
+8 Morten Østergaard (RV)
+9 Jacob Mark (SF)";Næstformand
+40646;title_name;Karen Ellemann (V)].;Formand
+40677;Time;Meddelelser fra formanden;Kl. 13:03
+40731;title_name;":
+Så er der ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, torsdag den 4. oktober
+2018, kl. 9.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Tak til de to opmærksomme folketingsmedlemmer i salen.
+[Uddannelses- og Forskningsudvalget har afgivet beretning om handicaptillæg under praktik på pædagoguddannelsen.
+(Beretning nr. 2, 2017-18).
+Sundheds- og Ældreudvalget har afgivet beretning om rekruttering
+af social- og sundhedspersonale i kommunerne.
+(Beretning nr. 3, 2017-18).
+§ 71-tilsynet har afgivet beretning om tilsynets virksomhed i folketingsåret 2017-18.
+(Beretning nr. 4, 2017-18).
+
+Onsdag den 3. oktober 2018 (FM )
+
+Skatteudvalget har afgivet beretning om Skatteudvalgets arbejde
+med deleøkonomi.
+(Beretning nr. 5, 2017-18).
+Beretningerne vil fremgå af www.folketingstidende.dk (jf. ovenfor)].
+Mødet er hævet. (Kl. 13:04).
+
+13";Pia Kjærsgaard

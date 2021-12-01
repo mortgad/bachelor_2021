@@ -1,0 +1,2389 @@
+split;reason;text;value
+0;;"6521
+
+23/5 91: Dagsorden
+
+6522
+
+Af Rahbæk Møller (SF) m.fl.
+8) Anden behandling af lovforslag nr. L 7:
+Forslag til konkursskattelov.
+Af skatteministeren (Fogh Rasmussen).
+64. møde";
+214;Time;"Dagsorden:
+1) Fortsættelse af forespørgsel nr. F 1 [afstemning]:
+Forespørgsel til boligministeren og skatteministeren [om, hvilke ændringer regeringen agter
+at foreslå som erstatning for boligpakken].
+Af Kirsten Jacobsen (FP) m.fl.
+2) Tredje behandling af lovforslag nr. L 92:
+Forslag til lov om ændring af lov om offentlighed i forvaltningen og forvaltningsloven.
+(Aktindsigt i EF-sager).
+Af justitsministeren (Engell).
+3) Tredje behandling af lovforslag nr. L 132:
+Forslag til medieansvarslov.
+Af justitsministeren (Engell).
+4) Tredje behandling af lovforslag nr. L 138:
+Forslag til lov om ændring af retsplejeloven.
+Af Ebba Strange (SF) m.fl.
+5) Tredje behandling af lovforslag nr. L 130:
+Forslag til lov om ændring af lov om registreringsafgift af motorkøretøjer m.v. (Afgift af
+brugte biler, omlægning af miljøfradrag m.m.).
+Af skatteministeren (Fogh Rasmussen).
+6) Anden (sidste) behandling af beslutningsforslag nr. B 44:
+Forslag til folketingsbeslutning om varmeregnskab og varmemålere m.v.
+Af Kirsten Jacobsen (FP) m.fl.
+7) Anden (sidste) behandling af beslutningsforslag nr. B 46:
+Forslag til folketingsbeslutning om en tværfaglig videreuddannelse i sundhedsfremme
+(Master of Public Health).
+
+9) Anden behandling af lovforslag nr. L 8:
+Forslag til lov om ændring af forskellige
+skattelove og konkursloven. (Underskud ved
+tvangsakkord uden for konkurs og gældssanering uden for konkurs m.v. og ændringer som
+følge af konkursskatteloven).
+Af skatteministeren (Fogh Rasmussen).
+10) Anden behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af lov om en børnefamilieydelse. (Forhøjelse af ydelsesbeløb).
+Af skatteministeren (Fogh Rasmussen).
+11) Anden behandling af lovforslag nr. L 50:
+Forslag til lov om ændring af lov om offentlige myndigheders registre. (Fritagelse af visse
+registertyper for forskriftskravet m.v.).
+Af justitsministeren (Engell).
+12) Anden behandling af lovforslag nr. L 95:
+Forslag til lov om kiropraktorer m.v.
+Af sundhedsministeren (Ester Larsen).
+13) Anden behandling af lovforslag nr. L 87:
+Forslag til lov om stop for stormoskébyggeri
+på Amager.
+Af Kim Behnke (FP) m.fl.
+14) Anden behandling af lovforslag nr. L 151:
+Forslag til lov om ændring af lov om frikommuner.
+Af indenrigsministeren (Thor Pedersen).
+15) Anden behandling af lovforslag nr. L 141:
+Forslag til lov om ændring af lov om byfornyelse og boligforbedring.
+Af Kirsten Jacobsen (FP) m.fl.
+16) Anden behandling af lovforslag nr. L 142:
+Forslag til lov om ændring af lov om boligbyggeri.
+Af Kirsten Jacobsen (FP) m.fl.
+17) Anden behandling af lovforslag nr. L 143:
+Forslag til lov om ændring af lov om
+lejeregulering i erhvervslokaler m.v.
+
+6523
+
+23/5 91: Dagsorden
+
+Af Kirsten Jacobsen (FP) m.fl.
+18) Anden behandling af lovforslag nr. L 146:
+Forslag til lov om ændring af lov om leje og
+lov om midlertidig regulering af boligforholdene.
+Af Kirsten Jacobsen (FP) m.fl.
+19) Første behandling af lovforslag nr. L 210:
+Forslag til lov om ændring af lov om arbejdsskadeforsikring. (Bortfald af kompensation for
+arbejdsgivernes udgifter til arbejdsskadeforsikring).
+Af socialministeren (Else Winther Andersen).
+
+Meddelelser fra formanden:";kl. 10.00
+3368;title_name;"Industriministeren har meddelt mig, at hun
+ønsker i henhold til forretningsordenens § 19,
+stk. 4, at give Folketinget en skriftlig
+Redegørelse om behovet for søfarende i danske skibe, deres uddannelse samt behovetfor uddannelsessteder frem til år 2000.
+(Redegørelse nr. R 12).
+Eksemplarer vil blive omdelt, og redegørelsen vil blive optaget i Folketingstidende.
+Skriftlig redegørelse:
+Redegørelse aJ 23/5 91 om behovet for søfarende i danske skibe, deres uddannelse samt behovet for uddannelsessteder frem til år 2000.
+(Redegørelse nr. R 12).
+Industriministeren (Anne Birgitte Lundholt):
+Under folketingsdebatten den 13. november
+1990 om Dansk Internationalt Skibsregister og
+uddannelse m.v. blev der redegjort for, at dansk
+skibsfart efter indførelsen af Dansk Internationalt Skibsregister er i fremgang. Som afslutning
+på debatten vedtog Folketinget følgende motiverede dagsorden:
+»Idet regeringen opfordres til fortsat at tilrettelægge søfartsuddannelserne således, at de til
+stadighed i henseende til indhold og kapacitet
+tilgodeser erhvervets behov, beskæftigelsen af
+
+6524
+
+danske søfarende og indtjeningsmulighederne
+for dansk skibsfart, og
+idet regeringen pålægges inden den 1. juli 1991
+at fremlægge en redegørelse om behovet for søfarende i danske skibe, deres uddannelse samt
+behovet for uddannelsessteder frem til år 2000,
+går Folketinget over til næste sag på dagsordenen.«
+1. Den danske handelsflåde
+En prognose over den danske handelsflådes
+størrelse, der dækker årene 1990-1995, er udarbejdet i foråret 1991 af Søfartsstyrelsen i samarbejde med erhvervets parter. Prognosen viser,
+at fremgangen i tonnage og antal må forventes
+at blive kraftigere end hidtil antaget. Under forudsætning af en jævn økonomisk vækst i industrilandene og under forudsætning af, at vilkårene for skibsfart under dansk flag ikke ændres
+specielt, forudses handelsflåden på basis af allerede placerede nybygningsordrer samt på basis af forventede ordrer og forventede indkøb af
+udenlandske skibe at vokse fra 514 skibe med
+en samlet tonnage på 4,5 mio. BRT i 1990 til
+600 skibe med en samlet tonnage på 6 mio. BRT
+i 1995. Den væsentligste tilgang forventes i
+gruppen af skibe over 1.600 BRT, hvorimod
+gruppen af skibe under 500 BRT forventes at
+udvise et fald.
+Skibsfartserhvervet har altid været præget af
+stærkt svingende konjunkturer med deraf følgende korte tidshorisonter i vurderinger af
+fremtiden. Erhvervet har derfor ikke fundet, at
+man kunne fremkomme med forudsigelser om
+udviklingen i handelsflåden ud over 1995.
+Uanset det vanskelige i at give en nærmere
+vurdering af udviklingen fra 1995 til 2000 er der
+næppe i dag grundlag for at antage, at udviklingen i denne periode skulle ændre sig så voldsomt, at der ville blive tale om et egentligt fald i
+den samlede privatejede handelsflådes størrelse. Endvidere må det antages, at den allerede
+konstaterede udvikling mod større og mere
+komplicerede skibstyper vil fortsætte frem mod
+århundredskiftet, hvilket vil få indflydelse på
+såvel antallet af stillinger som behovet for dimittender.
+Den positive udvikling i flåden har langt
+oversteget forventningerne i den seneste større
+prognose, der blev udarbejdet i 1989, idet man
+allerede i dag har opnået det antal skibe over
+1.600 BRT, som man i 1989-prognosen forventede at nå i 1995.
+
+6525";Formanden
+6681;title_name;"23/5 91: Redegørelse om behovet for søfarende i danske skibe m.v.
+
+6526
+
+Den nu udarbejdede prognose fremgår af nedenstående tabel, hvor de tilsvarende tal fra
+1989-prognosen er angivet i parentes:
+Tabel 1. Antal danske handelsskibe over 100 BRT
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+230
+(226)
+
+210
+(205)
+
+190
+(182)
+
+170
+(161)
+
+150
+(140)
+
+Indtil 1.600 BRT
+
+109
+(81)
+
+120
+(71)
+
+130
+(63)
+
+140
+(57)
+
+150
+(47)
+
+Over 1.600 BRT
+
+221
+(164)
+
+240
+(178)
+
+260
+(194)
+
+280
+(205)
+
+300
+(219)
+
+570
+(454)
+
+580
+(439)
+
+590
+(423)
+
+600
+(406)
+
+Indtil 499 BRT
+
+l
+
+I alt
+
+l
+
+560
+(471)
+
+Ved vurderingen af behovet for søfarende til
+handelsflåden må det tages i betragtning, at nybyggede skibe, specielt i gruppen af større skibe, vil være teknisk avancerede skibe, der alt
+andet lige kræver en mindre besætning. Det må
+derfor antages, at den gennemsnitlige bemanding af danske skibe vil udvise et svagt fald i perioden. Dette fald vil dog på grund af flådens
+vækst ikke kunne opveje behovet for flere søfarende.
+Ved vurderingen af behovet for dimittender
+spiller en række faktorer ind.
+Man må her være opmærksom på, at uddannelsesforløbet er tilrettelagt med kompetencegivende eksaminer undervejs. Dette medfører i
+perioder uden arbejdsløshed, at det alene er de
+studerende, der afgør, på hvilket trin de stopper
+uddannelsen. Som en konsekvens heraf kan det
+være vanskeligt med sikkerhed at afgøre behovet for fordelingen mellem søfarende med højere eller lavere uddannelse. Dette skøn vanskeliggøres også af, at erhvervet i vid udstrækning
+alt andet lige vil foretrække personer med de
+højeste kvalifikationer, uanset at stillingen
+kunne besættes med en person med en lavere
+uddannelse.
+Hertil kommer, at der på grund af skibsfartens internationale karakter traditionelt har
+været beskæftiget et antal udlændinge i danske
+skibe. Dette vil der også være fremover. På basis af forholdene i dag må det skønnes, at ca. 10
+pet. af navigatørerne, 5 pet. af maskinmestrene
+
+l
+
+og 40 pet. af de menige vil være udlændinge.
+Det er usikkert, i hvilket omfang redere vil vælge dansk eller fremmed arbejdskraft, men såfremt det nødvendige antal kvalificerede danske søfarende ikke er til stede, vil antallet af udlændinge stige.
+Ud over det antal søfarende, der skal til for at
+besætte stillingerne om bord, skal der være et
+antal til dækning af ferie, frihed, sygdom m.v.
+For officerer og befarne menige i skibe over 500
+BRT skønnes der at være behov for 2 søfarende
+for hver stilling. For officerer og menige i mindre skibe skønnes behovet at være 1,5 søfarende pr. stilling.
+I analysen er ikke medtaget de i danske færgerederier ansatte søfarende, idet det er anset
+for umuligt allerede nu at foretage et kvalificeret skøn over den indflydelse, kommende brobyggerier vil have på færgefarten og dermed på
+beskæftigelsen, ligesom det ikke er fundet muligt at forudse, om de søfarende, der vil blive ledige efter de store broforbindelsers etablering,
+igen vil søge ud i den egentlige handelsflåde eller definitivt vil forlade søfartserhvervet.
+Ved en sammenfattende vurdering af samtlige foreliggende oplysninger fremkommer de i
+nedenstående tabel anførte skøn over behovet
+for dimittender fra danske skoler i årene
+1992-1995, såfremt erhvervets behov skal kunne opfyldes. I tabellen er endvidere angivet et
+gennemsnit af de i 1989 fundne behov for perioden 1989-1995.
+
+6527
+
+23/5 91: Redegørelse om behovet for søfarende i danske skibe m.v.
+
+6528";industriministeren
+10108;title_name;"Tabel 2. Behovet for dimittendet- fra danske skoler
+
+Skibsførereksamen
+
+1992
+
+1993
+
+1994
+
+1995
+
+Gennemsnitstal
+fra 89-analysen
+
+283
+
+284
+
+284
+
+283
+
+Ca. 150
+
+Sætteskipper-/VO-eksamen
+
+^
+
+17
+
+21
+
+26
+
+Ca. 40
+
+Maskinmestereksamen
+
+260
+
+264
+
+265
+
+265
+
+Ca. 160
+
+29
+
+34
+
+40
+
+45
+
+Befarne
+
+293
+
+294
+
+297
+
+299
+
+Ca. 280
+
+Ubefarne
+
+500
+
+500
+
+500
+
+500
+
+Ca. 600
+
+1. årsprøve
+
+2. Uddannelser og uddannelsessteder
+Søfartens uddannelser omfatter uddannelserne til navigatør, maskinmester, skibsassistent, skibskok og fiskeskipper. Uddannelserne, der forestås af Søfartsstyrelsen, sker på navigationsskoler, maskinmesterskoler, søfartsskoler, skipperskoler og skoleskibe, der enten
+er statsinstitutioner, selvejende institutioner
+med 100 pet. statstilskud eller privatejede institutioner med varierende statstilskud.
+Alle uddannelserne er inden for de seneste år
+ved lovændring eller administrativt blevet gennemgribende omlagt og moderniseret. Det er
+vigtigt, at denne proces ikke betragtes som
+overstået, men at uddannelseme fortsat moderniseres i takt med den tekniske udvikling inden
+for skibsfarten, således at vi i Danmark fastholder den væsentlige konkurrenceparameter for
+skibsfartserhvervet, som veluddannede søfarende udgør. Kun ved meget veluddannede
+danske søfarende kan handelsflåden overleve i
+den internationale konkurrence. Dertil kommer uddannelsernes betydning for beskæftigelsen af danske søfarende, først og fremmest i
+handelsflåden, men for manges vedkommende
+en senere beskæftigelse i andre grene af det maritime kompleks, det såkaldte blå Danmark.
+Regeringen vil derfor lægge vægt på fortsat at
+fastholde søfartsuddannelserne på deres nuværende høje stade.
+Om de enkelte uddannelser kan der oplyses:
+a) Navigatøruddannelsen
+
+Ca.
+
+2
+
+Uddannelsen til navigatør i handelsflåden
+blev i august 1990 i samarbejde med erhvervet
+todelt. Dette skete som et forsøg med henblik
+på at etablere en ny uddannelse som vagthavende styrmand. Man kan således nu efter et
+års teoretisk uddannelse på navigationsskole
+erhverve rettigheder som vagthavende styrmand i skibe af enhver størrelse. Som overbygning hertil kan man enten i løbet af 10 uger forberede sig til sætteskippereksamen, der - forudsat fornøden fartstid - giver ret til at føre skibe på op til 1.600 BRT, eller efter 2 års teoretisk
+uddannelse indstilles til skibsførereksamen,
+der giver ret til at være overstyrmand og skibsfører i skibe af enhver størrelse, også her forudsat den fornødne fartstid.
+Uddannelsen gives på 4 statsejede navigationsskoler, på Fanø, i København, i Marstal
+og i Svendborg. Københavns Navigationsskole
+er under afvikling og vil blive endeligt lukket
+med udgangen af 1991.
+På navigationsskolerne optages personer,
+der enten har sejlet som skibsassistenter, eller
+som gennem rederiansættelse har gennemgået
+et godkendt uddannelsesforløb som styrmandsaspirant på ca. 2 år. Der er for tiden ca.
+50 pet. af hver kategori på skolerne.
+Efter en årrække med faldende søgning til
+uddannelsen har der i de sidste to år kunnet
+konstateres en markant stigning i tilgangen. Årsagen er uden tvivl den positive udvikling for
+skibsfarten, men antagelig betyder det også noget, at den nye uddannelsesstruktur virker mere
+attraktiv for de unge med sin mulighed for erhvervskompetence allerede efter et års studier.
+
+6529
+
+(409)
+23/5 91: Redegørelse om behovet for søfarende i danske skibe m.v.";Industriministeren
+13487;title_name;"Navigationsuddannelsen er under fortsat
+udvikling både for at sikre den danske handelsflåde de bedst mulige navigatører og for at fastholde uddannelsen som et attraktivt uddannelsestilbud for de unge, der skal vælge fremtidigt
+erhverv.
+Der sker løbende drøftelser med erhvervets
+parter i Søfartens Uddannelsesråd, og erhvervet har givet udtryk for en generel tilfredshed
+med dimittendernes kvalifikationer. Man har
+imidlertid udtalt, at der kan være behov for
+yderligere udbygning af såvel den tekniske del
+af uddannelsen som uddannelsen i sprog. I det
+omfang dette kan ske inden for de bestående
+økonomiske rammer, vil ændringer løbende
+blive gennemført. Der kunne også rejse sig et
+behov for yderligere ressourcer til området. Det
+må her have vægt, at der er tale om uddannelse
+af medarbejdere til et valutaskabende erhverv i
+fremgang og uddannelse af unge, der som situationen ser ud i dag, vil kunne få beskæftigelse
+straks efter endt uddannelse.
+Der er endvidere i erhvervet enighed om, at
+uddannelsen også bør styrkes på områder, der
+vil gøre det muligt for navigatørerne efter en årrække til søs at opnå attraktive stillinger i land.
+Sådanne tiltag vil samtidig gøre navigatørernes
+beskæftigelsesmuligheder mindre følsomme
+over for eventuelle kommende konjunkturudsving i erhvervet. Regeringen kan tilslutte sig
+disse synspunkter.
+Som følge af erhvervets behov og den stigende søgning til navigationsskolerne blev kapaciteten som led i den forstærkede indsats for aktivering og uddannelse på finansloven for 1991
+udvidet fra 5 til 7 spor (parallelklasser). Den nu
+foreliggende prognose tilsiger en udvidelse til
+12 spor. Denne kapacitet vil lokalemæssigt
+kunne tilvejebringes på de resterende 3 navigationsskoler, men en sådan forøgelse vil selvsagt
+blandt andet kræve en betydelig forøgelse af
+lærerstaben.
+Regeringen vil nøje følge søgningen til navigationsskolerne med henblik på at fastlægge
+behovet for kapacitetsudvidelse. Der er imidlertid anledning til at understrege, at en kapacitetsudvidelse i høj grad forudsætter en samlet
+planlægning, hvor erhvervet deltager. Samtidig
+må erhvervet skabe mulighed for de nødvendige praktikpladser såvel i form af beskæftigelse
+af ubefarne skibsassistenter som i form af et forøget indtag af styrmandsaspiranter. Rederi-
+
+6530
+
+branchen har altså en central opgave i forbindelse med løsningen af problemet med den navigatørmangel, der ellers må forudses at blive et
+af de alvorligste problemer for erhvervet i de
+kommende år.
+b) Maskinmesteruddannelsen
+Maskinmesteruddannelsen er tilrettelagt
+med henblik på at kvalificere unge til selvstændigt at forestå drift og vedligeholdelse af tekniske anlæg og installationer såvel til søs som i
+land. Den teoretiske uddannelse er 3-årig, idet
+der dog efter 1. årsprøve opnås kompetence til
+at gøre tjeneste som maskinofficer i mindre skibe, forudsat den fornødne fartstid.
+Der er maskinmesterskoler i Frederikshavn,
+Ålborg, Århus, Esbjerg, Fredericia, Odense,
+Svendborg og København. I Ålborg og Odense
+er maskinmesterskolerne specielle afdelinger
+på de tekniske skoler, medens de resterende
+maskinmesterskoler er selvejende institutioner
+med 100 pet. statstilskud.
+Til optagelse på maskinmesterskole kræves
+skolekundskaber svarende til 10. klasses udvidede afgangsprøver, og der forudsættes desuden enten en fuldført uddannelse inden for
+jern- og metalområdet eller en aspirantuddannelse, der omfatter 12 måneders maskinteknisk
+værkstedsskole efterfulgt af 18 måneders praktik til søs og/eller i land. Der er for tiden ca. 50
+pet. af hver kategori på maskinmesterskolerne.
+Maskinmesteruddannelsen giver ud over
+mulighed for erhvervelse af sønæringsbevis også mulighed for at erhverve en række landbaserede autorisationer som f.eks. el-installatør.
+Dette sammenholdt med, at der ikke i Danmark findes andre tilsvarende brede driftsteknikeruddannelser, gør, at ca. 70 pet. af de danske maskinmestre arbejder i land. Maskinmesteruddannelsen må således tilrettelægges ikke
+alene efter søfartens behov, men mindst lige så
+meget under hensyntagen til dansk industris
+behov.
+I 1990 gennemførte Maskinmestrenes Forening i samarbejde med blandt andet Danmarks Rederiforening og Industriens Arbejdsgiverforening en undersøgelse af maskinmestres kvalifikationsbehov.
+Resultatet gengivet i den såkaldte Damaskrapport var, at uddannelsen, der blev revideret i
+1988, må anses for at opfylde de nuværende behov, og at der i øvrigt inden for den bestående
+
+6531
+
+23/5 91: Redegørelse om behovet for søfarende i danske skibe m.v.";Industriministeren
+18019;title_name;"lovgivning vil være mulighed for, at erhvervene
+sammen med Søfartsstyrelsen løbende foretager de justeringer, som den tekniske udvikling
+nødvendiggør.
+Samarbejdet mellem søfartserhvervet og industrien er værdifuldt og vil også i fremtiden
+kunne sikre, at danske maskinmestre opfylder
+de ønsker og krav, der fremsættes af såvel
+skibsfarten som den landbaserede industri.
+Som led i den forstærkede indsats for aktivering og uddannelse blev kapaciteten på finansloven for 1991 udvidet, så der i stedet for 18
+klasser kan oprettes i alt 20 klasser årligt på maskinmesterskolerne. Dette er tilstrækkeligt til at
+opfylde både søfartserhvervets og de landbaserede erhvervs behov og svarer i øvrigt i det væsentlige til den nuværende tilgang til uddannelsen.
+Ad a og b: Generelt om officersuddannelserne
+For navigatøruddannelserne og maskinmesteruddannelsen gælder, som det i øvrigt gælder for de fleste videregående tekniske uddannelser, at kravene til de studerende til stadighed øges som følge af teknisk udvikling. Dette
+medfører blandt andet, at flere og flere studerende må gå et eller flere semestre om.
+Det giver anledning til at overveje, om problemet kunne løses ved at hæve kravet til forudgående skolekundskaber før optagelse på en
+navigations- eller maskinmesterskole. Der er
+imidlertid i erhvervet en frygt for, at et sådant
+krav kunne begrænse antallet af kvalificerede
+optagelsessøgende. Søfartsstyrelsen er derfor
+anmodet om i samarbejde med erhvervets parter at udarbejde forslag til et særligt forberedelseskursus, der kunne være fælles for maskinmester- og navigationsskoler, og som kunne
+give de studerende, der ikke havde de nødvendige forkundskaber, en mulighed for at erhverve disse i det fremtidige skolemiljø.
+Endelig undersøges mulighederne for etablering af en dansk marinesimulator, der skal
+bruges i uddannelsen af de søfarende og til
+edb-simulering af ny teknologi inden for skibsbygning. Med en sådan simulator vil det være
+muligt at lade uddannelserne foretage et teknologisk spring fremad. Fremtidens intensive
+skibsdrift med teknologisk meget avancerede
+skibe giver ikke den samme mulighed for oplæring i korrekte procedurer og i manøvrering om
+bord. En simulator vil kunne give mulighed for
+
+6532
+
+en bedre og sikrere oplæring af nye søfarende
+samt for en ønskelig efteruddannelse f.eks. af
+dem, der ønsker at vende tilbage til erhvervet
+efter en tids fravær. Simulatortræning vil være
+lige velegnet for navigatører og for maskinmestre og vil også kunne anvendes i den samlede
+træning af hele besætninger, som er nødvendige i moderne, højteknologiske skibe. Der er
+derfor indledt drøftelser med de interesserede
+erhvervsgrene, dvs. rederier, skibsværfter, elektronikindustrien m.fl., om mulighederne for i
+fællesskab at etablere en sådan simulator.
+c) Skibsassistentuddannelsen
+Skibsassistenter hører til den menige skibsbesætning og udfører tjeneste såvel på dækket
+som i maskinen.
+Uddannelsen til skibsassistent, der i sin nuværende opbygning blev etableret pr. I. januar
+1990, er en praktisk og teoretisk uddannelse,
+hvoraf den teoretiske del foregår på søfartsskoler. Skoleuddannelsen er opbygget på 3 moduler, nemlig et modul I, der er et søsikkerhedskursus på 5 uger, et modul II på 15 uger og et
+modul III på 13 uger. Efter modul I kan man
+udmønstre som skibsassistentelev, og efter
+modul II kan man mønstre som ubefaren skibsassistent. For at kunne mønstre som befaren
+skibsassistent skal man have gennemført hele
+skibsassistentuddannelsen, dvs. modul 1-111
+samt den praktiske uddannelse til søs, der udgøres af 18 måneders fartstid, hvoraf de 6 måneder kan være optjent som skibsassistentelev.
+Uddannelsen til skibsassistent kan endvidere for personer med en håndværksmæssig uddannelse inden for jern- og metalområdet ske
+på et særligt kursus af 6 ugers varighed.
+Uddannelsen tilbydes på søfartsskolerne i
+Frederikshavn, på Fanø, i Svendborg og i Nyborg, hvoraf de to førstnævnte er statsskoler,
+medens de to sidstnævnte er privatejede. Endvidere tilbydes modulerne I og II i et integreret
+uddannelsesforløb på statsskoleskibet »Danmark« og på skoleskibet »Georg Stage«, der er
+privatejet.
+Herudover uddanner Kogtved Søfartsskole,
+der er privatejet, årligt indtil 140 elever, der er
+antaget som officersaspiranter i danske rederier, på et 5-måneders-kursus. Kursuset dækker
+modul I og II i skibsassistentuddannelsen.
+Der sker løbende en ændring i den faktiske
+sammensætning af de menige besætninger.
+Mens mindre skibe således tidligere i stor ud-
+
+6533
+
+23/5 91: Redegørelse om behovet for søfarende i danske skibe m.v.";Industriministeren
+22599;title_name;"strækning beskæftigede ubefarne skibsassistenter, er der på det seneste konstateret en tendens til, at sådanne skibe i stedet beskæftiger et
+stigende antal udenlandske befarne skibsassistenter. Samtidig er de større rederier nu i et
+vist stigende omfang begyndt at ansætte skibsassistentelever som overtallig besætning, altså i
+egentlige uddannelsesstillinger.
+Den modulopdelte skibsassistentuddannelse
+giver Søfartsstyrelsen mulighed for ved regulering af indtaget på de enkelte moduler løbende
+at tilpasse fordelingen til uddannelserne og således opnå den bedst mulige ressourceudnyttelse.
+Et væsentligt element i den nye skibsassistentuddannelse var en styrkelse af de håndværksmæssige færdigheder. Der er i erhvervet
+enighed om, at en styrkelse af disse færdigheder hos allerede sejlende vil kunne være medvirkende til at øge beskæftigelsesprocenten for
+danske skibsassistenter. Søfartens Uddannelsesråd er derfor anmodet om at komme med
+forslag til en mulig efteruddannelse af menigt
+dæks- og maskinmandskab, der har fået deres
+uddannelse under de tidligere uddannelsesordninger, for om muligt ad denne vej at øge deres
+beskæftigelsesmuligheder. Ved en regulering af
+indtaget til skibsassistentuddannelsen vil en sådan efteruddannelse antagelig kunne tilrettelægges inden for den bestående uddannelseskapacitet.
+d) Skibskokkeuddannelsen
+Uddannelsen, der foregår på Aalborg Tekniske Skole, er under omlægning, således at et
+særligt 5-måneders-kursus baseret på forudgående praktik til søs fra 1992 vil blive erstattet af
+et 5-ugers-kursus for personer med svendebrev
+fra den landbaserede kokkeuddannelse. Uddannelseskapaciteten vil løbende kunne tilpasses erhvervets behov.
+e) Fiskeruddannelsen
+Beskæftigelsen i fiskerierhvervet har i de senere år været for nedadgående. Fiskeriets hovedorganisationer skønner, at der i dag er ca.
+6.500 fuldtidsbeskæftigede i erhvervet. Da erhvervet forventer en yderligere nedgang i antallet af fiskeskibe i de kommende år, må det antages, at antallet af beskæftigede fortsat vil falde.
+Uddannelse af fiskere omfatter uddannelse
+af fiskeskippere af hhv. 1. og 3. grad. Uddannelsen gives på Fanø Navigationsskole og Ska-
+
+6534
+
+gen Skipperskole. Den nuværende kapacitet er
+tilstrækkelig til at opfylde erhvervets behov for
+tilgang af nye skippere. Med det sigte at forbedre fiskeskippernes beskæftigelsesmuligheder er
+fiskeskipperuddannelserne nu tilrettelagt således, at fiskeskipperne ved mindre tillægsmoduler kan opnå den teoretiske uddannelse, der
+kræves for at blive navigatør i handelsflåden.
+Spørgsmålet om et kort obligatorisk sikkerhedskursus for fiskere har været drøftet med erhvervet. Der er enighed om, at et sådant sikkerhedskursus vil være et bidrag til en højnelse af
+sikkerheden i fiskerflåden. Søfartsstyrelsen er
+derfor anmodet om i samarbejde med erhvervets parter at udarbejde et forslag til et sådant
+sikkerhedskursus med det sigte, at det vil kunne indføres fra 1992. Uddannelsen, der på
+grund af fiskeriets nuværende situation næppe
+vil få et betydeligt omfang, vil kunne gennemføres på Fanø Søfartsskole, men også andre
+muligheder for placering og gennemførelse vil
+kunne overvejes.
+3. Konklusion
+Det er regeringens opfattelse, at vi i Danmark har en god og velfungerende søfartsuddannelse, som på afgørende måde bidrager til
+beskæftigelsen af danske søfarende og til, at
+den danske handelsflåde er konkurrencedygtig
+i international sammenhæng og dermed fortsat
+kan give sit nødvendige bidrag til landets valutaindtjening.
+Det er målet at sikre, at uddannelsen fortsat
+på et højt niveau følger udviklingen inden for
+skibsfarten. Dette vil som hidtil ske i samarbejde med erhvervets parter. Det er imidlertid en
+væsentlig forudsætning for en succesrig uddannelsespolitik, at erhvervet til stadighed stiller
+de nødvendige praktikpladser til rådighed,
+samt at uddannelseskapaciteten løbende tilpasses erhvervets behov, således at vi på vore
+skoler fortsat kan optage enhver kvalificeret
+ansøger, der efter endt uddannelse vil kunne få
+arbejde i det fag, han eller hun er uddannet til.
+Som led i det netop indgåede forlig om dagpenge og ekstra uddannelsespladser er der for
+1992 aftalt finansiering af de i redegørelsen omtalte udvidelser af uddannelseskapaciteten.
+Spørgsmålet om finansiering af aktivitetsudvidelser efter 1992 vil regeringen søge løst gennem omprioriteringer som led i arbejdet med
+de årlige finanslove.
+
+6535
+
+23/5 91: Fortsættelse af forespørgsel vedr. erstatning for boligpakken
+
+Den første sag på dagsordenen var:
+1) Fortsættelse af forespørgsel nr. F 1 [afstemning] :
+Forespørgsel til boligministeren og skatteministeren [om, hvilke ændringer regeringen agter at
+foreslå som erstatning for boligpakkenJ.
+Af Kirsten Jacobsen (FP) m.fl.
+(Forespørgslen anmeldt 28/12 90. Fremme
+af forespørgslen vedtaget 15/191. Første del af
+forespørgslen (forhandlingen) foretaget 22/5
+91. Forslag om motiveret dagsorden nr. D 31
+fremsat 22/5 91 af Kirsten Jacobsen (FP)).";Industrlmlnlsteren
+27550;title_name;"Jeg er sådan set klar til afstemning. Jeg regner også med, at medlemmerne er klar til afstemningen, og at teknikken er klar til afstemningen, og nu sætter jeg afstemningen i gang.
+Der stemmes om det af fru Kirsten Jacobsen
+stillede forslag om motiveret dagsorden.
+Jeg tror, jeg var for optimistisk, da jeg sagde,
+at teknikken er i orden. Teknikken svigter os, så
+vi skal bede om et par tingsekretærer.
+Afstemning
+(Foretaget på den i forretningsordenens § 35,
+stk. 3, angivne måde).
+Forslag om motiveret dagsorden nr. D 31 af
+Kirsten Jacobsen (FP)
+forkastedes, idet 8 (FP) stemte for, 117 (S, KF,
+V, SF, CD, RV og KRF) imod.
+Hermed sluttede forespørgslen.
+Den næste sag på dagsordenen var:
+2) Tredje behandling af lovforslag nr. L 92:
+Forslag til lov om ændring af lov om offentlighed i forvaltningen og forvaltningsloven. (Aktindsigt i EF-sager).
+Af justitsministeren (Engell).
+(Fremsat 29/1 91. Første behandling 7/2 91.
+Betænkning 15/5 91. Anden behandling 17/5
+91).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+
+6536
+
+Ingen bad om ordet.
+Afstemning
+(Foretaget på den i forretningsordenens § 35,
+stk. 3, angivne måde).
+Lovforslaget
+vedtoges med 76 stemmer (S, SF, FP, CD og
+KRF) mod 65 (KF, V og RV).";Formanden
+28794;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+3) Tredje behandling af lovforslag nr. L 132:
+Forslag til medieansvarslov.
+Af justitsministeren (Engell).
+(Fremsat 6/2 91. Første behandling 20/2 91.
+Betænkning 7/5 91. Anden behandling 17/5
+91).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+(Foretaget på den i forretningsordenens § 35,
+stk. 3, angivne måde).
+Lovforslaget
+vedtoges med 124 stemmer (S, KF, V, SF, FP,
+RV og KRF): 7 (CD) stemte hverken for eller
+imod.";Formanden
+29370;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+4) Tredje behandling af lovforslag nr. L 138:
+Forslag til lov om ændring af retsplejeloven.
+Af Ebba Strange (SF) m.fl.
+(Fremsat 8/2 91. Første behandling 21/3 91.
+Betænkning 2/5 91. Anden behandling 7/5 91.
+Tillægsbetænkning 16/5 91).
+
+6537
+
+23/5 91: 3. beh. af f. 1.1. vedr. retsplejeloven
+
+Der var stillet 1 ændringsforslag i tillægsbetænkningen.
+Uden for tillægsbetænkningen var der ikke
+stillet ændringsforslag.
+Ændringsforslaget sattes først til forhandling.
+Forhandling";Formanden
+29951;name_party;":
+Formålet med det lovforslag om ændring af
+retsplejeloven, SF har fremsat, er at få flyttet
+kompetencen fra Justitsministeriet til retten,
+når det drejer sig om at bestemme dørlukning i
+de ganske særlige undersøgelsesretter, som kan
+nedsættes efter den ændring, vi lavede her i
+Folketinget af retsplejeloven for præcis et år siden. Det var vores holdning dengang, og det er
+stadig væk vores holdning.
+I forbindelse med andenbehandlingen blev
+der rejst et problem her i salen, nemlig om de
+almindeligt gældende regler i retsplejelovens §
+29 om dørlukning var tilstrækkelige til også at
+sikre de særlige hensyn i forbindelse med tjenestemandsundersøgelser efter de særlige bestemmelser, da det jo kan være tjenestemænd,
+der skal afhøres i en sådan undersøgelsesret.
+For at løse det problem har udvalget stillet et
+ændringsforslag, således at undersøgelsesretten, når den skal tage stilling til eventuel dørlukning, i ganske særlige tilfælde - og jeg understreger, at det er udvalgets opfattelse, at det
+ikke er en ret, der almindeligvis skal bruges kan bestemme dørlukning, når det drejer sig
+om sager, hvor der kan være risiko for, at der
+senere skal rejses en tjenestemandssag.
+Det har vi fra SF's side som forslagsstillere
+accepteret, og derfor er ændringsforslaget stillet af hele udvalget.
+Vi indstiller efter afstemningen om ændringsforslaget naturligvis stadig væk selve lovforslaget til vedtagelse, da vi mener, at bestemmelsen er i bedre overensstemmelse med almindelig dansk retspleje end de regler om dommerundersøgelser, vi har i øjeblikket, hvor det
+er ministeriet, der skal tage stilling til, om dørene skal lukkes eller ej.";Ebba Strange
+31609;name_party;":
+Jeg skal blot komme med en enkelt forklarende oplysning.
+
+6538
+
+Under førstebehandlingen af dette lovforslag
+støttede Kristeligt Folkeparti det. Da der blev
+afgivet betænkning af Retsudvalget den 2. maj,
+skete der desværre en teknisk fejl, så vi deri indstillede lovforslaget til forkastelse. Det er rettet
+i tillægsbetænkningen.
+Jeg synes bare, jeg herfra vil meddele, at hvis
+nogle har studset over betænkningen af 2. maj,
+så er det, fordi det er forkert: der er sket en fejl.
+Både med vores holdning under førstebehandlingen og ved vores afstemning i dag vil vi støtte
+lovforslaget.
+Hermed sluttede forhandlingen om ændringsforslaget.
+Afstemning
+Ændringsforslaget
+vedtoges uden afstemning.
+Lovforslaget som helhed sattes derefter til
+forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget vedtoges med 72 stemmer (S,
+SF, FP og KRF) mod 56 (KF, V, RV og CD).";Kofod-Svendsen
+32485;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+Den næste sag på dagsordenen var:
+5) Tredje behandling af lovforslag nr. L 130:
+Forslag til lov om ændring af lov om registreringsafgift af motorkøretøjer m.v. (Afgift af brugte biler, omlægning af miljøfradrag m.m.).
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 6/2 91. Første behandling 5/3 91.
+Betænkning 8/5 91. Anden behandling 17/5
+91. Tillægsbetænkning 21/5 91).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+
+6539
+
+23/5 91: 3. beh. af f. 1.1. vedr. registreringsafgift af motorkøretøjer m.v.
+Forhandling";Formanden
+33099;name_party;":
+Fremskridtspartiet kan støtte det lovforslag,
+vi her har til behandling, og som vi i Fremskridtspartiet har kaldt et Trabantforslag. Det
+er, fordi vi mener, det er en dårlig løsning, man
+har fundet frem til, og vi er ret overbevist om, at
+det vil give en masse problemer, når først denne
+vedtagelse har fundet sted.
+Vi har ellers gjort, hvad vi kunne, i udvalget.
+Samtlige partier har været enige om at forsøge
+at finde en rigtig løsning, men vi mener ikke,
+det er lykkedes. Der er fortsat mange og store
+skævheder i lovforslaget.
+Det vil være sådan, at man kan risikere at have en vogn, som den ene dag koster 1,8 mio. kr. i
+afgift og den næste dag 5.000 kr. Vi tror i Fremskridtspartiet, at det rigtige ville være at have
+en fast, faldende skala, man kunne vurdere ud
+fra. En sådan skala findes i øjeblikket - ikke en
+officiel skala, men en, man alligevel retter sig
+efter.
+Vi er ret overbevist om, at Folketinget igen til
+efteråret vil møde denne lov, fordi der er behov
+for store justeringer. Det kommer ikke til at køre, og vi er bange for, at vi får en ny EF-sag på
+halsen. Der bliver ved denne lovs vedtagelse
+alt, alt for mange handelshindringer. Det kan
+ikke være rigtigt, at hvis man enten som privatmand eller som autoforhandler kører til Tyskland og vil købe en brugt bil, kan man ikke få
+noget som helst at vide om, hvad den kommer
+til at koste. Vi har i udvalget set eksempler på,
+at man har skullet betale 800.000 kr. bare for at
+få vurderingsnævnet til at se på vognen, og så
+har man fået over 400.000 kr. tilbage. Det mener vi ikke er rimeligt.
+Der må og skal ændres i denne lov, og det er
+vi overbevist om vil blive gjort til efteråret.";Ole Donner
+34774;name_party;":
+Denne sag har været diskuteret utrolig grundigt i udvalget, men der er sket det meget mærkelige, at for én gangs skyld har der fundet en
+forlovelse sted mellem regeringen og Socialdemokratiet. Ingen af parterne er til at rokke i
+denne sag.
+Det er helt afgjort, som Fremskridtspartiets
+ordfører sagde, at dette kommer vi til at møde
+til efteråret. Det er så urimeligt, det, der ligger i
+dette lovforslag. Der bør være en fast, faldende
+skala.
+
+6540
+
+Jeg skal blot sige, at vi har drøftet sagen på
+Centrum-Demokraternes gruppemøde, og at vi
+vil undlade at stemme.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslaget
+vedtoges med 113 stemmer (S, KF, V, FP, RV
+og KRF): 18 (SF og CD) stemte hverken for eller imod.";Bente Juncker
+35501;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+6) Anden (sidste) behandling af beslutningsforslag
+nr. B 44:
+Forslag til folketingsbeslutning om varmeregnskab og varmemålere m.v.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 8/2 91. Første behandling 7/3 91.
+Betænkning 16/5 91).
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Ændringsforslaget sattes først til forhandling.
+Ingen bad om ordet.
+Afstemning
+Ændringsforslaget
+vedtoges uden afstemning.
+Forslaget som helhed sattes derefter til forhandling.
+Forhandling";Formanden
+36134;name_party;":
+Om det forslag, Folketinget om lidt skal
+stemme om, kan man i hvert fald ikke sige, at
+det er vanskeligt at forstå, og at det er grunden
+til, at man afviser det. Man kan heller ikke sige,
+
+6541
+
+23/5 91:2. (sidste) beh. af f. t. beslutn. om varmeregnskab og varmemålere m.v.";Kirsten Jacobsen
+36432;title_name;"at det er en problematik, hvorom man ikke ved
+nok, og at man af den grund kan afvise det.
+Når et flertal i udvalget i betænkningen simpelt hen indstiller forslaget til forkastelse, så
+tror jeg, at det flertal gør det sådan nærmest pr.
+automatik. Det gør mig bekymret, når jeg tænker på, hvor mange kræfter der blev brugt her i
+salen i går for at få boligpakken til at se ud, som
+om der var særlige energibesparende foranstaltninger deri.
+Jeg vil garantere Folketinget for, at dette lille
+forslag, nr. B 44, er der langt flere energibesparelser i, end der var i den boligpakke, som regeringen og forligspartierne brugte over 2 mia. kr.
+på i går. Og jeg vil gerne belyse det på flere måder.
+For det første er der som bilag til betænkningen optrykt et eksempel, som klart beviser den
+forskel og den urimelighed, der ligger i, at man
+opgør varmeudgifter på forskellig måde. Man
+har her taget udgangspunkt i - det fremgår af
+bilaget - konkrete eksempler. Grundlaget er tre
+ens lejligheder. Den ene ligger i en ejendom,
+der er olieopvarmet. Der er ingen tillæg til lejen
+uden varmeudgift, og grundlaget for boligstøtten bliver dermed lig lejen. Den anden lejlighed
+ligger i en ejendom, som har fjernvarme fra
+Frederiksberg Kommune. Dér vil der være et
+tillæg til huslejen på 1.089 kr. Det vil sige, at
+den lejer, der bor i lejligheden på Frederiksberg, opnår en større boligstøtte end den lejer,
+der bor i en fuldstændig tilsvarende lejlighed,
+der bare er opvarmet med oliefyr. Problematikken bliver meget større, hvis man går til Københavns Kommune, fordi man dér har en opgørelse mellem faste udgifter og varmeforbrug på
+fjernvarmeværket, som giver en forskel på
+3.380 kr. i det boligstøtteberettigede beløb.
+Når man tænker på, hvilken energi regeringspartierne har lagt i at fortælle Folketinget,
+at boligstøtteudgifterne er gået agurk, at det må
+vi få gjort noget ved, og at vi må få vendt den
+udvikling, er det da uforståeligt, når man får
+serveret et forslag, som der ikke er anden rimelighed og retfærdighed i over for lejerne end deres besparelser over for staten, at man så bare
+indstiller det til vedtagelse uden så meget som
+et par bemærkninger i betænkningen.
+Jeg vil gerne samtidig belyse, hvor meget besparelse der er. Fra firmaet A/S Brunata har
+Boligudvalget modtaget et bilag, som hedder
+nr. 2. Deri siger det firma, som vel er den største
+
+6542
+
+ekspert på det område i Danmark, at i Storkøbenhavnsområdet er det i øjeblikket sådan, at
+ca. 80 pet. af varmeudgifterne lægges i den omkostningsbestemte husleje og kun 20 pet. af udgifterne fordeles i varmeregnskabet. Det vil sige, at 80 pet. af udgifterne til varme i Københavnsområdet også giver anledning til boligstøtte. I Århus er forholdet 70/30 og i Kolding
+60/40.
+Det betyder, at beboerne ikke kender deres
+egen udgift til varme og varmt vand, og alle ved,
+hvad det medfører. Dernæst fratages beboerne
+indflydelse på, hvor stor deres egen varmeregning skal være. Og for det tredje giver det den
+nævnte forskel mellem forskellige lejergrupper.
+Når man kommer til det afsnit af forslaget,
+som omhandler obligatoriske varmemålere, er
+det sådan, at man allerede på nuværende tidspunkt ved, at der i EF-regi er forslag om obligatoriske varmemålere på vej. Det er der på grund
+af de erfaringer om store energibesparelser,
+som det medfører.
+Energibesparelserne vedrørende varme og
+varmt vand ligger mellem 15 og 35 pet., og tyngdepunktet ligger mellem 20 og 30 pet.
+Alle disse oplysninger var boligministeren i
+besiddelse af, fordi han naturligvis får det materiale, som kommer til Boligudvalget. Derfor
+er det uforståeligt for mig, at boligministeren i
+sit svar til Boligudvalget i bilag nr. 6 giver Boligudvalget forkerte oplysninger. Det fremgår
+af afsnit 5 på den første side af svaret, og det
+fremgår af den dokumentation, jeg lige læste op
+om, hvordan oliefyrede ejendomme skal opgøre deres udgifter til varme. Jeg synes, det er meget pauvert, at ministeren siger, at ved en kommende lejelovsrevision vil man da godt se på
+problemet.
+I går oplevede man her i Folketinget, at den
+langsigtede og permanente lejelovsrevision
+kom endnu længere ud i fremtiden, end vi plejer at få at vide. Det vil altså sige, at selv et så
+lille eklatant problem er regeringen ikke villig
+til at løse, uanset at det giver besparelser for regeringen, og uanset at det giver en meget mere
+retfærdig behandling af to ens lejere. Det er
+uforståeligt for mig, at dette Folketing vil stemme et forslag ned, som går ud på at behandle
+lejere i ens lejligheder ens og samtidig giver besparelser til staten.
+
+6543
+
+23/5 91:2. (sidste) beh. af f. t. beslutn. om varmeregnskab og varmemålere m.v.";Kirsten Jacobsen
+41083;name_party;":
+Jeg kan meddele fru Kirsten Jacobsen på Socialdemokratiets vegne, at det er dør forbi i
+denne sammenhæng.
+Vi siger ikke blindt og automatisk nej til det.
+Vi gør det med velberåd hu. Men omvendt synes vi, det har været meget gavnlig tale, fru Kirsten Jacobsen er kommet med her i dag - og
+egentlig også med det forslag, vi har her.
+Nu har vi sort på hvidt fået påvist, at man fra
+Fremskridtspartiets side med næb og kløer arbejder på, at vi skal have en nedsættelse af boligydelsen til pensionisterne. Det synes jeg er
+en interessant hilsen at få ud til vore pensionister.
+(Kort bemærkning).";Lissa Mathiasen
+41697;name_party;":
+Nu er det altid en god idé at tale om det, forslaget indeholder. Forslaget indeholder en opretning af en skævvridning. Hvad den så senere
+kan medføre, burde egentlig være forslaget ligegyldigt. Men når fru Lissa Mathiasen nu rejser spørgsmålet, skal jeg gerne bekræfte, at i
+forbindelse med forrige års finanslov indgik
+Fremskridtspartiet i en aftale med regeringen
+om, at man skulle have et nyt huslejebegreb,
+hvori bl.a. varme, tv-antenner osv. ikke længere
+skulle kunne indregnes i huslejen og dermed
+være støtteberettigede.
+Fru Lissa Mathiasen ved lige så godt som jeg,
+at teknikken i det lovforslag på daværende tidspunkt var så dårlig, at det ikke blev fremsat,
+men jeg vil gerne, for at fru Lissa Mathiasen ikke skal være i tvivl, gentage, at når regeringen
+har fundet ud af at strikke det forslag teknisk
+ordentligt sammen, er Fremskridtspartiet parat
+til at stemme for det. Vi ønsker nemlig, at tingene skal hedde det, de er, og vi ønsker, at de boligtilskud, man skal have, skal man have til lejen og ikke til alt muligt andet.
+Når det så handler om pensionisterne, ved
+fru Lissa Mathiasen udmærket godt - det kan
+være, det er derfor, hun trækker på smilebåndet
+- at Fremskridtspartiet i forbindelse med de
+forhandlinger var meget optaget af at gøre faldet i boligstøtten for pensionisterne så lavt som
+muligt.
+Men jeg vil ikke afvise, at dette forslag, hvis
+huslejebegrebet bliver indført, også rammer
+pensionisterne. Fremskridtspartiets indsats på
+det område vil være, at pensionisterne bliver
+behandlet så lempeligt som muligt.
+
+6544
+
+(Kort bemærkning).";Kirsten Jacobsen
+43285;name_party;":
+Jeg synes egentlig, det er interessant, at fru
+Kirsten Jacobsen taler om, hvorledes Fremskridtspartiet i forbindelse med de forhandlinger, der var for godt et års tid siden om forringelser af boligstøtten, arbejdede energisk for, at
+der ikke skulle ske begrænsninger af pensionisternes boligydelse. For ikke at nogen skal være
+i tvivl, vil jeg erindre fru Kirsten Jacobsen om,
+at den i Fremskridtspartiet, der forhindrede
+det, var Mogens Glistrup, daværende medlem
+af Folketinget, hvorimod fru Kirsten Jacobsen
+faktisk som forhandler på sit partis vegne havde sagt ja til, at der skulle ske disse forringelser.
+Hvis ikke Mogens Glistrup i sidste øjeblik havde forpurret det, havde Fremskridtspartiet faktisk i den sammenhæng accepteret besparelserne.
+Men noget andet er, at jeg godt forstår, at fru
+Kirsten Jacobsen siger: Lad os lade være med
+at se på konsekvenserne af dette forslag på længere sigt! Det forstår jeg godt. Jeg ville også,
+hvis jeg var i fru Kirsten Jacobsens sted, lukke
+øjnene for de konsekvenser, for de er et udtryk
+for, at der vil ske forringelser og endda væsentlige forringelser på helt op til nogle og fyrre
+procent, hvis der skulle ske det, som der har
+været tale om: at der skulle indføres et nyt huslejebegreb for vore pensionister. Det tror jeg
+nok er en hilsen, vore pensionister landet over
+føler som en meget klar tale i forhold til deres
+nuværende situation.";Lissa Mathiasen
+44690;title_name;"Så får fru Kirsten Jacobsen sin anden korte
+bemærkning.
+(Kort bemærkning).";Formanden
+44786;name_party;":
+Jeg skal ikke lægge op til, at der skal blive flere : vi kunne jo diskutere det en anden dag, hvor
+vi sikkert kunne få meget interessant ud af det,
+fru Lissa Mathiasen og jeg. Men må jeg minde
+fru Lissa Mathiasen om, at hun ikke deltog i
+forhandlingerne, og derfor ved fru Lissa Mathiasen ikke, hvilken energisk indsats Fremskridtspartiet faktisk gjorde for, at pensionisternes overgangsbestemmelser på området
+skulle blive så gode som muligt. Jeg skal ikke
+referere fra de forhandlinger, men blot minde
+
+6545
+23/5 91: 2. (sidste) beh. af f. t. beslutn. om varmeregnskab og varmemålere m.v.
+6546";Kirsten Jacobsen
+45404;title_name;"fru Lissa Mathiasen om, at det har fru Lissa
+Jeg vil lade fru Lissa Mathiasen have sin udMathiasen ingen mulighed for at udtale sig om. lægning af historien, men kun inden afstemninJeg må konstatere, at uanset det ene eller det gen minde Folketinget om - fordi man kan væandet går fru Lissa Mathiasen og Socialdemo- re blevet forvirret af denne debat - at det forkratiet altså ind for en forskelsbehandling af slag, som man skal stemme ja eller nej til, drejer
+pensionister. Pensionister, der bor i olieopvar- sig om at få den samme behandling af alle
+mede ejendomme, skal behandles dårligere bo- lejere, uanset hvilken opvarmning den lejligligstøttemæssigt end pensionister, der bor i hed har, de bor i. Det er rimeligt, det er retfærfjernvarmeopvarmede ejendomme. Det er den digt, og det har ikke noget særligt med pensioforskelsbehandling, Fremskridtspartiet synes nister at gøre. Det gælder simpelt hen en lige
+er uretfærdig. Det er derfor, vi har fremsat for- behandling af alle lejere.
+slaget. Det er en forskelsbehandling, som ikke
+kun gælder pensionister: den gælder alle lejere,
+Hermed sluttede forhandlingen.
+og det er den forskelsbehandling, vi ønsker at
+rette op på.
+Afstemning
+Forslaget til folketingsbeslutning";Kirsten Jacobsen
+46640;title_name;"forkastedes, idet 8 (FP) stemte for, 119 (S, KF,
+Ja ja da, en tredje kort bemærkning til fru
+V, SF, CD, RV og KRF) imod.
+Lissa Mathiasen.
+(Kort bemærkning).";Formanden
+46816;name_party;":
+Jeg håber, fru Kirsten Jacobsen er enig med
+mig i, at ét er, hvad man forsøger under nogle
+forhandlinger, noget andet er, at det er resultatet, der tæller. Jeg håber, fru Kirsten Jacobsen
+er enig med mig i det, for ellers er det i hvert
+fald en omgåelse af sandheden af ret kraftig karakter, at det resultat, der kom på bordet her i
+Folketinget, og som sidste år i februar og marts
+måned blev forhandlet her, i første omgang var
+med accept fra Fremskridtspartiet og med accept fra fru Kirsten Jacobsen. Hvis ikke Mogens Glistrup i den sammenhæng var gået enegang, var det forslag med fru Kirsten Jacobsens
+accept blevet kørt igennem - beklageligvis. Jeg
+synes ikke, fru Kirsten Jacobsen her i dag kan
+sige, at der ikke fra Fremskridtspartiets side var
+en accept af det. Det var første gang, og det her
+er anden gang. Vi kan jo frygte, hvornår det bliver tredje gang, at man fra Fremskridtspartiets
+side sender en hilsen til pensionisterne om, at
+man er parat til at skære i forhold til deres boligudgifter.";Lissa Mathiasen
+47836;title_name;"Så den sidste korte bemærkning i denne runde til fru Kirsten Jacobsen.
+(Kort bemærkning).";Formanden
+47947;name_party;":
+
+Den næste sag på dagsordenen var:
+7) Anden (sidste) behandling af beslutningsforslag
+nr. B 46:
+Forslag tilfolketingsbeslutning om en tværfaglig videreuddannelse i sundhedsfremme (Master
+of Public Health).
+Af Rahbæk Møller (SF) m.fl.
+(Fremsat 8/2 91. Første behandling 14/3 91.
+Betænkning 16/5 91).
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Ændringsforslaget sattes først til forhandling.
+Ingen bad om ordet.
+Afstemning
+Ændringsforslaget
+vedtoges uden afstemning.
+Forslaget som helhed sattes derefter til forhandling.
+Forhandling";Kirsten Jacobsen
+48565;name_party;":
+
+6547 23/5 91:2. (sidste) beh. af f. t. beslutn. om en tværfaglig videreuddannelse i sundhedsfremme 6548";Rahbæk Møller
+48689;title_name;"Fra SF's side var hensigten med forslaget, 1)
+at vi får en videreuddannelse i sundhedsfremme, og 2) at det bliver forberedt ordentligt, og
+det vil sige, at det bliver sikret, at den er tværfaglig og bygger på de nyeste udviklinger på
+området.
+Vi er derfor meget glade for at konstatere, at
+der godt nok stadig væk er et flertal, S, SF og
+RV, der ønsker en sådan uddannelse, men at et
+langt, langt bredere flertal, nemlig hele Folketinget minus Fremskridspartiet, har besluttet at
+starte med en grundig og åben undersøgelse på
+området efter de retningslinjer, der står i forslaget, og herunder inddrage også andre, beslægtede uddannelser: først og fremmest Nordiska
+Hälsovårdshögskolan i Göteborg.
+Vi synes, det er en god udvikling. Vi er meget
+tilfredse med det, der er sket her.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslaget til folketingsbeslutning
+vedtoges med 122 stemmer (S, KF, V, SF, CD,
+RV og KRF) mod 8 (FP).";Rahbæk Møller
+49624;title_name;"Dette vil blive meddelt sundhedsministeren.
+Den næste sag på dagsordenen var:
+8) Anden behandling af lovforslag nr. L 7:
+Forslag til konkursskattelov.
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 27/12 90. Første behandling 17/1
+91. Betænkning 21/5 91).
+Der var stillet 12 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+
+vedtoges uden afstemning.
+Ændringsforslag nr. 2
+forkastedes, idet 62 stemte for, 68 imod.
+Ændringsforslag nr. 3 og 4, § 1 med de foretagne ændringer og § 2
+vedtoges uden afstemning.
+Ændringsforslag nr. 5
+forkastedes, idet 62 stemte for, 68 imod.
+§ 3 og ændringsforslag nr. 6
+vedtoges uden afstemning.
+Ændringsforslag nr. 7
+forkastedes, idet 62 stemte for, 68 imod.
+§ 4 med den foretagne ændring, ændringsforslag nr. 8, § 5, således ændret, og §§ 6-9
+vedtoges uden afstemning.
+Ændringsforslag nr. 9
+forkastedes uden afstemning.
+§§ 10 og 11
+vedtoges uden afstemning.
+Ændringsforslag nr. 10
+forkastedes uden afstemning.
+§ 12, ændringsforslag nr. 11, § 13, således ændret, §§ 14-16, ændringsforslag nr. 12, § 17, således ændret, og §§ 18-22
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+50979;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Ingen bad om ordet.
+Afstemning
+Ændringsforslag nr. 1
+
+Den næste sag på dagsordenen var:
+9) Anden behandling af lovforslag nr. L 8:
+
+6549
+
+23/5 91: 2. beh. af f. 1.1. vedr. forskellige skattelove oe konkursloven
+
+Forslag til lov om ændring af forskellige skattelove og konkursloven. (Underskud ved tvangsakkord udenfor konkurs og gældssanering uden
+for konkurs m.v. og ændringer som følge af konkursskatteloven).
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 27/12 90. Første behandling 17/1
+91. Betænkning 21/5 91).,
+Der var stillet 7 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Ingen bad om ordet.
+Afstemning
+Ændringsforslag nr. 2, § 1, således ændret,
+ændringsforslag nr. 3 og 4, § 2 med de foretagne
+ændringer, ændringsforslag nr. 5 og 6, § 3 med
+de foretagne ændringer, §§ 4 og 5 og ændringsforslag nr. 8 og 9
+vedtoges uden afstemning.
+§ 6 med de foretagne ændringer
+vedtoges med 69 stemmer mod 62.
+Ændringsforslag nr. 7 om, at § 6 udgår, var
+dermed forkastet.
+§ 7 og ændringsforslag nr. 1 til titlen
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+52485;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+10) Anden behandling af lovforslag nr. L 11:
+
+6550
+
+Forslag til lov om ændring af lov om en børnefamilieydelse. (Forhøjelse af ydelsesbeløb).
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 27/12 90. Første behandling 17/1
+91. Betænkning 15/5 91).
+Der var stillet 2 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslaget
+og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Ingen bad om ordet.
+Afstemning
+Ændringsforslag nr. 1, § 1, således ændret,
+ændringsforslag nr. 2 om en ny affattelse af § 2
+og § 2 i den nye affattelse
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+53477;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+11) Anden behandling af lovforslag nr. L 50:
+Forslag til lov om ændring af lov om offentlige
+myndigheders registre. (Fritagelse af visse registertyper for forskriftskravet m.v.).
+Af justitsministeren (Engell).
+(Fremsat 16/1 91. Første behandling 29/1
+91. Betænkning 16/5 91).
+Der var stillet 9 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+
+6551
+
+23/5 91: 2. beh. af f. 1.1. vedr. offentlige myndigheders registre
+
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Forhandling";Formanden
+54347;name_party;":
+Som det fremgår af betænkningen, har netop
+spørgsmålet om samkøring af følsomme personlige oplysninger optaget os utrolig meget
+under behandlingen af forslaget i udvalget. Socialdemokratiet lægger i den forbindelse megen vægt på den hovedregel, som også er beskrevet i betænkningen, og som lyder:
+»Efter udvalgets opfattelse bør offentlige
+myndigheder ikke iværksætte samkøring af registre, som indeholder oplysninger om enkeltpersoners rent private forhold, jf. lovens § 9,
+stk. 2, når registrene er oparbejdet med henblik
+på at varetage forskellige opgaver.«
+Denne tekst taler vel sit eget meget tydelige
+sprog om, at vi netop har været optaget af, at
+der ikke generelt bør kunne foretages samkøring af følsomme oplysninger, som derefter
+eventuelt kan give anledning til misbrug. Når
+Socialdemokratiet har tilkendegivet i betænkningen, at vi vil undlade at stemme til SF's ændringsforslag om dette emne, skyldes det netop,
+at vi er meget enige med SF i dets intention på
+området. På den anden side anerkender vi i Socialdemokratiet, at der kan forekomme undtagelser, hvorfor vi i den sammenhæng finder det
+både rimeligt og også rigtigt efter de forskrifter,
+der er påbudt, at kunne dispensere. Vi finder
+og vores undladelse af at stemme til SF's ændringsforslag er også en følge heraf - at SF's
+forslag er for restriktivt. Det er grundlaget for,
+at vi siger, at vi ikke direkte kan støtte det.
+Hvad angår ændringsforslag nr. 8, er der sket
+en beklagelig fejl, og Socialdemokratiet stemmer imod det forslag.";Lissa Mathiasen
+55875;name_party;":
+Jeg vil godt takke justitsministeren, Justitsministeriets embedsmænd og Retsudvalgets
+medlemmer for det, synes jeg, meget konstruktive arbejde, vi har lavet i fællesskab om ændringerne af registerloven. Der har været bred
+forståelse for, at den teknologiske udvikling er
+løbet fra de registerlove, der er godt og vel ti år
+gamle. Derfor var der både i ministeriet og i SF
+
+6552
+
+- begge steder lidt inspireret af henvendelser
+fra kommunerne og amterne - et ønske om at
+lette på nogle af de meget, meget stramme registerregler, vi har haft i Danmark, og som var
+rigtige, da vi indførte dem i 1978. Derfor skete
+der det, at SF omtrent samtidig med, at justitsministeren fremsatte lovforforslag nr. L 50,
+fremsatte et forslag til ændring af lov om offentlige registre, som fik nr. L 80. De blev førstebehandlet samtidig, og de har så ligget i Retsudvalget ved siden af hinanden. I forbindelse med
+andenbehandlingen er det så, at vi har haft nogle meget konstruktive drøftelser. Jeg synes, at vi
+er kommet langt i retning af at få præciseret,
+hvad det egentlig er for registre, som det er vigtigt at den offentlige administration både fra
+statens side og fra kommunernes side har kontrol med for at beskytte borgerne mod utidig registrering og indsigt fra uvedkommendes side i
+de registre, der måtte være om borgerne. Så på
+samme tid er loven både blevet lempet og blevet strammet lidt op. Sådan mener vi fra SF's
+side at det burde være, og derfor min tak.
+På den baggrund har vi selvfølgelig ikke ønsket lovforslag nr. L 80 til betænkningsafgivelse. Vi er tilfredse med det forslag, der ligger på
+bordet nu, på nær to punkter, og derfor har vi
+stillet to ændringsforslag. Det ene gælder det,
+som fru Lissa Mathiasen var inde på, nemlig
+samkøringen af de allermest private og de allermest følsomme oplysninger, og for at ingen af
+Folketingets øvrige medlemmer behøver at slå
+op i registerloven, som det godt kan være lidt
+svært at få overblik over, har jeg tilladt mig i betænkningen at citere direkte fra lovens § 9, stk.
+2, så alle medlemmer kan se, hvad det er for
+områder, vi vil have fritaget for samkøring. Det
+er race, religion, hudfarve, foreningsmæssige,
+seksuelle og strafbare forhold samt oplysninger
+om helbredsforhold, væsentlige sociale problemer, misbrug af nydelsesmidler og endelig politiske forhold, som ikke er offentligt tilgængelige.
+Vi mener stadig væk, at der burde være opretholdt et forbud mod samkøring, sådan at der
+skal foretages en direkte ansøgning om videregivelse af oplysninger og ikke blot ske en samkøring af registre, hvis man har brug for de oplysninger i anden sammenhæng.
+Det andet ændringsforslag, vi har stillet, drejer sig om, at forsvarets og politiets efterretningstjenester skal underlægges de samme re-
+
+6553
+
+23/5 91:2. beh. af f. 1.1. vedr. offentlige myndigheders registre";Ebba Strange
+58712;title_name;"gisterlovsbestemmelser som alle mulige andre
+offentlige registre. Det er der, så vidt jeg kan se,
+ingen der støtter, og nu støtter Socialdemokraterne det altså heller ikke delvis. Jeg vil godt sige til Folketinget, at Folketinget ikke skal tro,
+at SF nu igen er i gang med sin undergravende
+virksomhed og ikke vil have, at vi har en ordentlig efterretningstjeneste her i landet, og alt
+det, som SF er blevet beskyldt for adskillige
+gange. Jeg kan oplyse Folketinget om, at både i
+Norge og i Sverige - og det er dog lande med
+både effektive efterretningsvæsener og effektiv
+statsstyring - er efterretningsvæsenernes registre omfattet af den almindelige registerlov.
+Registerloven er jo heller ikke anderledes
+opbygget, end at der ifølge § 13 kan gives afslag
+på indsigt i registret om én selv, hvis kendskabet til oplysningerne findes at burde vige afgørende for hensynet til offentlige og private interesser. Hvis der var noget i efterretningsvæsenernes registre, vi ikke måtte få at vide om os
+selv, kunne Registertilsynet bruge § 13 og sige:
+Det her får du altså ikke at vide. Selv om det
+står her om dig, må du ikke få det at vide, for
+det vil være farligt for statens sikkerhed.
+Sådan er reglerne i Norge og Sverige, og jeg
+skal love Folketinget, at så længe SF er i Folketinget, så længe vil vi blive ved med at stille dette ændringsforslag til lov om offentlige registre,
+og en skønne dag tror jeg såmænd det lykkes at
+få det vedtaget.
+Det var om de to ændringsforslag. Dernæst
+skal jeg sige lidt om en enkelt af de andre ting,
+vi har drøftet i udvalget, og som vi ikke fra SF's
+side har stillet ændringsforslag til, men som vi
+har haft nogle meget konstruktive drøftelser om
+på tværs af partierne, nemlig spørgsmålet om,
+hvornår det offentlige skal kunne sige til en person: Det her må du ikke få at vide, for det er
+ikke godt for dig selv.
+Jeg har selv den grundlæggende holdning, og
+jeg tror, de allerfleste her i Tinget deler den
+med mig, at når jeg tænker på mig selv, vil jeg
+godt have alt, hvad der står i de offentlige registre om mig, at vide, og som Folketinget kan
+høre, ville jeg oven i købet gerne vide, hvad der
+stod i PET's register, men det kan jeg nu ikke få
+at vide. Andre registres indhold kan jeg stort set
+få at vide, men der er en undtagelse, der er nogle tilfælde, hvor det offentlige kan vælge at sige:
+Det er ikke godt for dig at få denne oplysning,
+den tilbageholder vi. Vi har drøftet i udvalget,
+
+6554
+
+hvad det kunne være for tilfælde, og der er blevet nævnt folk, der er overordentlig sindslidende, folk, der er meget senildemente, og andre
+folk, som har vanskeligt ved at overskue deres
+egen identitet og deres stilling i det hele taget.
+Det er efter min opfattelse en debat, som vil
+fortsætte, og derfor har SF med vilje ikke stillet
+ændringsforslag om det, for vi synes, det er vigtigere, at debatten fortsætter på tværs af partierne. Jeg opfatter det som formynderisk fra det
+offentliges side. Jeg kan godt se, at det offentlige af og til optræder formynderisk og måske
+bliver nødt til at gøre det, men jeg er meget
+skeptisk over for det og ville egentlig helst undgå det.
+Men som sagt fortsætter den debat, og det
+gør arbejdet med registerloven jo også. Vi har
+under udvalgsarbejdet fået at vide, at det ikke
+varer så forfærdelig længe, før vi kan vente nogle EF-regler på det område, og så skal vi jo i
+gang med at diskutere lov om offentlige registre
+en gang til, men indtil videre synes jeg, vi har
+nået et godt resultat, og SF indstiller lovforslaget til vedtagelse, uanset om vores ændringsforslag bliver vedtaget eller ej.";Ebba Strange
+62308;name_party;":
+Også jeg vil gerne sige tak til udvalget og justitsministeren: også jeg finder, at den udvalgsbehandling, der er foregået, har været meget interessant og tilfredsstillende, og jeg mener, at
+det lovforslag, der kommer til at foreligge for
+Folketinget til tredje behandling, vil være udtryk for en forbedring af retstilstanden på dette
+område, som vi heldigvis også vil kunne vedtage i meget stor enighed.
+Der er et par spørgsmål, som der særlig har
+været diskussion om til sidst, hvor vi ikke kunne enes om de sidste, skal vi sige enkeltheder.
+SF's ændringsforslag nr. 5 kan Det Radikale
+Venstre ikke støtte. Vi finder faktisk, at den beskyttelse, der ligger i lovgivningen, er tilstrækkelig, og at det ændringsforslag, SF her har stillet, ikke er nødvendigt i forhold til, hvad der foregår i virkeligheden. Vedrørende ændringsforslag nr. 8 kan jeg meddele, at vi også agter at
+stemme imod det. Vi mener ikke, at det er så
+velbegrundet også at lade loven omfatte efterretningstjenesterne.
+(Kort bemærkning).";Niels Helveg Petersen
+63336;name_party;":
+
+6555
+
+23/5 91:2. beh. af f. 1.1. vedr. offentlige myndigheders registre";Lissa Mathiasen
+63431;title_name;"Jeg skal ikke forlænge debatten væsentligt,
+men jeg vil da godt sige i forbindelse med fru
+Ebba Stranges bemærkninger om samkøringsproblemerne, at der jo netop står dels i lovteksten, dels også i bemærkningerne i betænkningen, at der skal søges særskilt, således at man
+ikke bare med den lovtekst har mulighed for at
+foretage samkøring, og det tror jeg at vi er enige
+om er en meget væsentlig ting.
+Endvidere vil jeg godt tilkendegive, at vi er
+meget enige i de bemærkninger, fru Ebba
+Strange gjorde om de problemer, der ligger i, at
+vi ikke har fået afklaret spørgsmålet om, hvornår man skal kunne nægte en person indsigt i
+egne oplysninger.
+Jeg mener, at det som hovedregel må være
+rigtigt, at man skal have mulighed for at se,
+hvad der er registreret om én. Er der afgrænsningsproblemer, synes jeg, at vi må få dem diskuteret. Vi har brug for at få løst det problem,
+og jeg håber, at vi inden længe kan finde en løsning på det.
+Men derudover tror jeg, det er væsentligt at
+sige, at det er meget store ændringer, loven om
+offentlige registre gennemgår i forbindelse med
+denne behandling, og derfor tror jeg, at der nok
+også er andre ting, vi får behov for at justere i
+løbet af relativt kort tid. Vi vil i hvert fald meget
+nøje følge, hvordan den nye lov kommer til at
+fungere i praksis.
+Vi vil både kigge på, hvordan reaktionerne
+vil være i kommunerne, og også være optaget af
+at se, hvordan Registertilsynets bemærkninger
+i de kommende årsberetninger ser ud. Men vi
+vil også, endog meget opmærksomt, følge,
+hvordan det kommer til at fungere i forhold til
+den enkelte borger og den beskyttelse, som jo er
+det hovedhensyn, vi ønsker at varetage med
+denne lov. Derfor er vi selvsagt åbne over for, at
+vi relativt hurtigt skal tage sagen op igen.
+Det passer jo egentlig meget godt i forhold til
+bemærkningerne i lovteksten, hvor justitsministeren selv er inde på, at vi i løbet af relativt kort
+tid af forskellige årsager er nødt til at foretage
+en mere gennemgribende revision af loven, og
+det er vi i hvert fald åbne over for.";Lissa Mathiasen
+65486;title_name;":
+Jeg vil gerne, ligesom en række af ordførerne
+har gjort det, sige tak til partierne og Retsudvalgets medlemmer for det samarbejde, vi har haft
+om udarbejdelsen af den nye registerlov. Jeg er
+
+6556
+
+ganske enig med fru Ebba Strange: jeg synes, at
+det har været gode og konstruktive drøftelser.
+Jeg er også enig med fru Lissa Mathiasen i, at
+det er et område, hvor man må forudse, at der i
+de kommende år sker en udvikling, som betyder, at Folketingets partier løbende skal følge
+med og også være parat til på ny at diskutere
+ændringer, hvad enten det er i forbindelse med
+forslag, der måtte komme til os f.eks. fra EF, eller vi selv skønner, at der er et behov for ændringer i lovgivningen.
+Man kan også sige, at selv efter vedtagelsen
+af dette lovforslag vil Danmark fortsat have en
+ganske stram registerlovgivning, og jeg er enig
+i, at sådan bør det være. Man kan sige, at selv
+om der nu igennem mange år har eksisteret en
+lovgivning, som har været særdeles stram, og
+som jo også har givet anledning til, at kommuner og amter i deres praktiske administration af
+loven har fået problemer - det er jo også en del
+af baggrunden for, at vi nu har loven til revision
+- så har den kendsgerning, at vi her i landet har
+en stram lovgivning, også været med til at forhindre registerskandaler, forhindre, at der
+pludselig opstod et behov for, at regeringen og
+Folketinget rykkede ud akut for at bremse op i
+forbindelse med forkert administration, sådan
+som man har oplevet det i andre lande.
+Under behandlingen af forslaget i Retsudvalget er der jo opnået enighed om en række
+ændringer i lovforslaget. Der er enighed om at
+erstatte bemyndigelsen til at fastsætte regler om
+registre, som ikke indeholder oplysninger af
+fortrolig karakter, så de undtages fra forskriftskravet med udtrykkelige bestemmelser i loven
+med det samme indhold, som det var påtænkt
+at en bekendtgørelse skulle have haft.
+Vi har også været enige om at indsætte en ny
+bemyndigelse i lovens § 10, hvorefter justitsministeren med hensyn til registre, som indeholder følsomme oplysninger, kan fastsætte regler
+om, at den registeransvarlige myndighed inden
+4 uger efter registreringen skal underrette den,
+som optages i registret. Reglerne fastsættes efter forhandling med de kommunale organisationer og tænkes navnlig anvendt i tilfælde,
+hvor den, oplysningen angår, ikke kan antages
+at være bekendt med, at oplysningerne registreres i myndighedens edb.
+Også på en lang række andre punkter, som
+jeg ikke behøver at trække frem, er der enighed,
+men der står to spørgsmål tilbage, som også er
+
+6557
+
+23/5 91: 2. beh. af f. 1.1. vedr. offentlige myndigheders registre";Engell
+68134;title_name;"blevet berørt her ved andenbehandlingen, nemlig dels forslaget om samkøring og SF's ændringsforslag og dels ændringsforslag nr. 8. Det
+fremgår af betænkningen, at alle partier med
+undtagelse af SF er af den opfattelse, at offentlige myndigheder ikke bør iværksætte samkøring af registre, som indeholder oplysninger om
+enkeltpersoners rent private forhold, når registrene er oparbejdet med henblik på at varetage
+forskellige opgaver.
+Samkøring af sådanne registre kan komme
+på tale, hvis der udfærdiges forskrifter for registret, som følger Registertilsynets udtalelser, og
+samkøring må antages at være nødvendig for at
+varetage væsentlige hensyn til offentlige eller
+private interesser, for at sikre de personer, som
+optages i registret, en forsvarlig behandling eller for at sikre ansøgere en smidig sagsbehandling.
+Der er enighed om, at registre, som indeholder andre fortrolige oplysninger end oplysninger om rent private forhold, kun bør samkøres,
+når det er af væsentlig betydning for myndighedens virksomhed, at samkøringen iværksættes.
+Det, som SF ikke er helt tilfreds med, er, at der
+fortsat er en mulighed for at samkøre også registre, som indeholder følsomme oplysninger.
+Det er min opfattelse, at vi under drøftelserne om denne samkøringsproblematik i meget
+vidt omfang har imødekommet SF's synspunkter med henblik på at skærpe betingelserne for
+at samkøre registre, der indeholder oplysninger
+om rent private forhold: det var vel også det,
+der lå i fru Ebba Stranges bemærkninger. Skærpelsen kommer bl.a. til udtryk ved forudsætningen om, at samkøring fremover kun kan
+komme på tale, hvis den følger Registertilsynets udtalelse og samkøring må antages at være
+nødvendig for varetagelsen af væsentlige offentlige eller private interesser.
+Derfor må jeg sige, at jeg ikke mener, der er
+grundlag for den yderligere stramning, som der
+lægges op til fra SF's side. Jeg synes heller ikke,
+at man kan sige, at der i de senere års praksis
+eller under drøftelserne af forslaget er fremkommet omstændigheder, som kan begrunde
+en så vidtgående ændring af samkøringsreglerne og Registertilsynets rolle, som SF foreslår.
+Med hensyn til ændringsforslag nr. 8 om efterretningstjenesterne er det jo et spørgsmål,
+der også har været diskuteret grundigt i 1977-78
+og, så vidt jeg erindrer, også i 1987, og jeg må
+
+6558
+
+sige, ligesom andre har gjort det, at vi ikke ser
+noget grundlag for en så vidtgående bestemmelse, som SF har sat ind i den forbindelse. Jeg
+skal også bemærke, at de registre, der føres for
+efterretningstjenesterne, typisk vil være efterforskningsregistre, og for sådanne registre er
+der behov for at gøre undtagelser fra registerlovgivningens almindelige regler, bl.a. sådan,
+at registerforskrifter og registres oplysninger
+ikke vil være tilgængelige for offentligheden eller den registrerede.
+Lad mig også minde om, at der jo findes et
+særligt kontroludvalg, Wambergudvalget, som
+jo fører kontrol med, at der ikke sker registrering, anvendelse eller videregivelse af oplysninger i disse registre, som er i strid med lovgivningen. Der har altså igennem mange år udviklet
+sig en kontrolfunktion i forhold til disse registre, som bør give den fulde betryggelse.
+Sammenfattende er jeg meget tilfreds med, at
+vi når frem til en så høj grad af enighed om forslaget, og jeg mener, vi får en god registerlov,
+som vil være brugbar også for de myndigheder,
+herunder amter og kommuner, der skal anvende den i praksis.
+Hermed sluttede forhandlingen.
+Afstemning
+Ændringsforslag nr. 1-4
+vedtoges uden afstemning.
+Ændringsforslag nr. 5
+forkastedes, idet 11 stemte for, 67 imod: 51
+stemte hverken for eller imod.
+Ændringsforslag nr. 6 og 7
+vedtoges uden afstemning.
+Ændringsforslag nr. 8
+forkastedes, idet 11 stemte for, 117 imod.
+§ 1 med de foretagne ændringer, ændringsforslag nr. 9 om en ny affattelse af § 2, § 2 i den
+nye affattelse og § 3
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.
+
+6559
+
+23/5 91: 2. beh. af f. 1.1. vedr. offentlige myndigheders registre";Justitsministeren
+72191;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+12) Anden behandling af lovforslag nr. L 95:
+Forslag til lov om kiropraktorer m.v.
+Af sundhedsministeren (Ester Larsen).
+(Fremsat 30/1 91. Første behandling 8/2 91.
+Betænkning 16/5 91. Ændringsforslag nr. 2 af
+21/5 91 uden for betænkningen af Kirsten Jacobsen (FP)).
+Der var stillet 1 ændringsforslag i betænkningen.
+Uden for betænkningen var der stillet 1 ændringsforslag af Kirsten Jacobsen (FP).
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Forhandling";Henning Rasmussen
+73002;name_party;":
+Der foreligger to ændringsforslag til dette
+lovforslag om autorisation af kiropraktorer, det
+ene af dem uden for betænkningen.
+Udvalget er enigt om, at det er en god idé, at
+kiropraktorer også laver forebyggende behandling, hvad de i øvrigt også hidtil har gjort.
+Ved førstebehandlingen og under det meste
+af udvalgsbehandlingen er kræfterne brugt på
+bilaget til lovforslaget med ministerens udkast
+til bekendtgørelse, hvori ministeren vil indskrænke kiropraktorers virksomhed, således at
+0-1-årige forbydes adgang til behandling.
+Et stort flertal ønsker ikke denne begrænsning, men er dog indstillet på, at kiropraktorbehandling først kan ske, efter at en læge har erklæret, at barnet ikke har sygdomme eller sygdomstilstande, som kontraindicerer behandling hos kiropraktor. Derfor skriver vi imødekommende til ministeren og beder hende administrere herefter. Det gør vi, uagtet der ikke for
+nærværende er indskrænkninger i kiroprakto-
+
+6560
+
+rers virksomhed og der ikke på noget som helst
+tidspunkt over for udvalget er forelagt dokumentation af nogen art fra Sundhedsstyrelsen
+eller fra lægelig side for nogen farlighed ved kiropraktorbehandling.
+Ved førstebehandlingen sagde ministeren
+(Folketingstidende 1990-91, 2. samling, sp.
+1913):
+»Det er regeringens grundopfattelse, at autorisationsordninger med alle de regler og reguleringer, som de medfører, kun bør indføres, når
+der kan konstateres egentlige farlighedproblemer, og det mener jeg ikke er tilfældet i denne
+sag.«
+Således sagde ministeren ved første behandling: Ingen farlighed.
+Indskrænkningen begrundes med, at der
+»ikke findes dokumentation for positive resultater af kiropraktisk behandling af . . . småbørn«. Sådan sagde ministeren i spalte 1914.
+Det er rigtigt, set fra et lægeligt synspunkt, at
+når det gælder børn med den såkaldte 3-måneders-kolik, har lægeverdenen ikke kunnet dokumentere nogen som helst positiv virkning af
+behandling af kolikbørn. Læger har som ministeren slået sig til tåls med, at kolik er en lidelse,
+der går over senest ved 3-måneders-alderen.
+Forældre må forlade lægen med en sludder for
+en sladder.
+En sludder for en sladder er også kendetegnende for Sundhedsministeriets og Sundhedsstyrelsens besvarelse af Sundhedsudvalgets
+spørgsmål. Det kan jeg dokumentere ved henvisning til besvarelsen af spørgsmål 8, hvor
+man spørger: »Hvor mange kolikbørn er i de
+seneste 10 år behandlet i den primære sundhedssektor og hvor mange ved kiropraktor?«
+Svarets indledning lyder: »Ved henvendelser
+til et antal« - til et antal - »praktiserende læger
+skønnes« - skønnes - »tallet at være ca.« - ca. »10-12 pet. af en fødselspopulation, svarende
+til 5.000-6.000 pr. år.« I bilag 23 dokumenteres,
+at antallet er 20 pet., altså 10.000 børn. Ugeskrift for Læger, 1990, nr. 152, og henvisning til
+Ugeskrift for Læger, 1988, nr. 150, dokumenterer de 20 pet. Det betyder, at ca. 10.000 danske
+børn årligt får spædbørnskolik. Forældre, der
+har eller har haft et kolikbarn, ved, hvilken
+utrolig belastning et sådant barn er for sig selv
+og for hele familien. Ja, en professor i børnesygdomme, der mødte op i udvalget, ville ikke
+afvise, at kolik kunne være årsag til børnemishandling.
+
+(411)
+6561
+23/5 91:2. beh. af f. 1.1. om kiropraktorer m.v.
+6562";Erling Christensen
+76251;title_name;"Fra kiropraktor Niels Klougart har udvalget
+Det er en indstilling, som vi har stillet mange
+modtaget en rapport om kiropraktisk behand- spørgsmål til, for selvfølgelig lytter vi da til,
+ling af kolikbørn. Sundhedsstyrelsen anfører i hvad sundhedsministeren og Sundhedsstyrelsine bemærkninger til udvalget om denne rap- sen siger. Vi har stillet mange spørgsmål, og vi
+port, at spontanhelbredelse og symptomsvind har fået mange, men meget lidt tilfredsstillende
+normalt sker i løbet af 2-5 uger og senest i svar på, dels hvilke risici der skulle være ved
+12.-13. uge. Styrelsen ville let over for udvalget denne form for behandling, dels med hvilke bekunne dokumentere, at 13 uger, lig 3 måneder, grundelser kiropraktorerne ikke skulle have lov
+er det rigtige tal - derfor er navnet jo netop til at behandle børn fra 0 til 1 år.
+3-måneders-kolik. Ifølge Niels Klougart opgøDa vi stadig væk ikke har fået klare svar, men
+res resultatet af kiropraktorbehandling ved på den anden side ikke tør sidde sundhedsmyn71/2-ugers-alderen efter gennemsnitligt 3 be- dighedernes øverste instans overhørig, er et
+handlinger således: 94 pet. af mødrene udtaler flertal i Folketingets Sundhedsudvalg landet på
+efter behandlingen, at der ikke er kolik, eller at en formulering, hvorved vi sikrer, at der bliver
+kolik er formindsket efter kiropraktisk behand- et tæt samarbejde mellem de små børns familieling. Det er et flot resultat.
+læge og kiropraktorerne, når familierne ønsker
+Når læger altså ikke har nogen behandling, kiropraktorbehandling.
+der hjælper kolikbøm, skal vi ikke fra FolketinVi skriver i vores betænkningsbidrag:
+gets side forhindre, at disse alvorligt belastede
+»En kiropraktor må behandle børn under 1
+børn får en virksom behandling. Det er det, vi år, når barnets læge har erklæret, at barnet ikke
+tilkendegiver ved vort betænkningsbidrag. Vi
+har sygdomme eller sygdomstilstande, som
+lægger også stor vægt på, at denne autorisation kontraindicerer behandling hos kiropraktor.«
+vil medvirke til et godt samarbejde mellem læSiden har vi spurgt sundhedsministeren,
+ger og kiropraktorer, der kan udvikle sig til
+hvad sundhedsministerens opfattelse af dette
+gavn ikke bare for de 3.000-4.000 småbørn, der
+synspunkt og denne form for tilkendegivelse er,
+i øjeblikket årligt bliver hjulpet af kiropraktoog det svar, vi så har fået fra sundhedsministerer, men også således, at alle 10.000 kolikbørn
+ren, er desværre følgende:
+og deres familier bliver hjulpet.
+»Jeg kan ikke tilslutte mig, at Folketinget går
+Når jeg indledningsvis har gjort så meget ud
+ind
+i en regulering af klart sundhedsfaglige foraf flertallets forslag til fjernelse af indskrænkhold,
+idet Sundhedsstyrelsen er landets øverste
+ningen, er det for at bede ministeren om fra tasundhedsfaglige
+myndighed, og jeg kan ikke
+lerstolen at bekræfte, at hun i overensstemmelforudsige,
+hvorledes
+Sundhedsstyrelsen vil forse med flertallet vil udforme sin og Sundhedsholde
+sig
+til
+flertallets
+forslag til formulering af
+styrelsens bekendtgørelse om kiropraktorvirk§
+4
+i
+Sundhedsstyrelsens
+udkast til bekendtgøsomhed som anvist i flertallets betænkningsbidrag. Hvis ministeren klart - og ikke som i sin relse om kiropraktorvirksomhed.«
+Nu er det så, jeg godt vil spørge ministeren,
+kommentar til spørgsmål 18 - vil sige ja hertil,
+om
+hun har benyttet ventetiden frem til denne
+vil vi i Socialdemokratiet stemme nej til det ændringsforslag, der er stillet uden for betænknin- anden behandling til at forhøre sig om Sundhedsstyrelsens opfattelse af vores ændringsforgen.
+slag til Sundhedsstyrelsens udkast til betænkning. Det er faktisk ret afgørende for os at få det";Erung Christensen
+79892;name_party;":
+Folketingets Sundhedsudvalg har i en række at vide, for ellers er vi nødt til at overveje en
+egentlig lovændring.
+møder foretaget en meget grundig behandling
+Derfor afventer vi også fra SF's side med meaf lovforslaget om autorisation af kiropraktoget
+stor spænding ministerens svar med hensyn
+rer, og udvalget har været glad for og tilfreds
+med lovforslaget som sådant, men desværre er til, hvad ministeren har fået ud af en drøftelse
+det jo lykkedes sundhedsministeren at smide et med Sundhedsstyrelsen.
+ordentligt læs grus i maskineriet ved at præsentere Sundhedsstyrelsens udkast til bekendtgø- Kirsten Jacobsen (FP):
+relse om kiropraktorers virksomhed og i udkaJeg vil først sige om ændringsforslag nr. 1,
+stet forbyde kiropraktorer at behandle børn fra som er stillet af Socialdemokratiet og tiltrådt af
+0 til 1 år.
+udvalget, at Fremskridtspartiet finder, at det er
+
+6563
+
+23/5 91: 2. beh. af f. 1.1. om kiropraktorer m.v.";Birgitte Husmark
+80843;title_name;"en rimelig præcisering af lovforslaget, og derfor
+støtter vi naturligvis det ændringsforslag.
+Om det ændringsforslag, som er stillet uden
+for betænkningen af mig selv, vil jeg sige, at jeg
+jo har benyttet den ret, som ethvert medlem af
+dette Ting har ifølge grundloven, til at fremkomme med et forslag og sætte det til afstemning i Folketinget.
+Meningen med den bestemmelse i grundloven er jo, at den skal støtte en anden bestemmelse i grundloven, nemlig bestemmelsen i § 56
+om, at erhvert medlem af dette Ting kun er bundet af sin egen overbevisning. Det, jeg beder
+Folketingets medlemmer om, når de skal stemme om det ændringsforslag, som er fremsat
+uden for betænkningen, er at stemme sådan,
+som deres overbevisning siger de skal.
+Det, man nemlig med det ændringsforslag
+skal tage stilling til, er, om man - som Socialdemokratiets ordfører sagde - har tillid til, at
+sundhedsministeren vil administrere denne
+lov, sådan som flertallet bestemmer. Folketinget har i de sidste måneder fået anskuelsesundervisning i, at det gør sundhedsministeren
+kun, hvis det passer sundhedsministeren. Og
+selv om det passer sundhedsministeren, er det
+ikke sikkert, det passer Sundhedsstyrelsens
+chef.
+Derfor har jeg stillet dette ændringsforslag
+uden for betænkningen, som jeg håber bliver
+vedtaget. Ændringsforslaget går i sin korthed
+og enkelhed ud på, at Sundhedsstyrelsen ikke
+skal kunne fastsætte regler, som kræver, at kiropraktorer kun kan behandle børn mellem 0 og l
+år, såfremt en læge siger god for det.
+Da vi ikke har frit lægevalg i Danmark, vil en
+familie med et spædbarn, som har spædbarnskolik - og vi, der har prøvet det, ved faktisk,
+hvad det betyder - være afskåret fra, at dette
+barn modtager den behandling, som kan fjerne
+den kolik, som holder hele familien vågen i månedsvis. Det synes jeg ikke er rimeligt, særlig
+ikke fordi Sundhedsstyrelsen i andre sager har
+optrådt meget mere politisk end sundhedspolitisk. Derfor kan man også frygte, at Sundhedsstyrelsen også vil gøre det fremover. Jeg vil i
+hvert fald ikke give Sundhedsstyrelsen den mulighed, og det kan man nemt fratage den ved
+simpelt hen at støtte dette ændringsforslag.
+Hele Fremskridtspartiets folketingsgruppe
+vil stemme for ændringsforslaget, kan jeg som
+ordfører sige, og jeg kan ikke lade være med at
+
+6564
+
+undre mig over, at formanden for patientforeningen, nemlig formanden for Landsforeningen til Kiropraktikkens Fremme, som er medlem af dette ting, og som er medlem af Det Konservative Folkeparti, hr. Henning Andersen, i
+dag ikke er til stede. Men hr. Henning Andersen kunne jo sidde på sit kontor og følge debatten og komme ned og stemme for dette ændringsforslag, som hele patientforeningen støtter, men hr. Henning Andersen har valgt det, .
+som er den lette måde, nemlig at lade sig cleare,
+så man bliver fritaget for at tage stilling til ubehagelige ting. Det taler for sig selv.
+Min begrundelse for at stille ændringsforslaget er som sagt, at jeg ikke har tillid til, at Sundhedsstyrelsen vil administrere dette her, sådan
+som hensigten er. Og jeg synes slet ikke, at
+Sundhedsstyrelsen skal have mulighed for at
+fratage den gruppe af spædbørn en behandling,
+som alle siger har været uden risiko, som alle
+siger ikke har medført skader af nogen art. Hvis
+man giver kiropraktorerne en autorisation, må
+der i denne autorisation også ligge den tillid, at
+kiropraktorerne, som de har gjort tidligere, er
+sig deres ansvar bevidst og sørger for, at hvis et
+spædbarn ser ud til at lide af andre sygdomme,
+så bliver det henvist til læge, således som det
+sker i alle andre tilfælde.
+Jeg håber som sagt, at Tingets medlemmer i
+denne sag stemmer, som det er bestemt i grundloven, nemlig efter hvad de selv synes er rigtigt,
+og ikke efter hvad der er bestemt i diverse partigrupper.";Kirsten Jacobsen
+84637;title_name;":
+Jeg finder, at støjniveauet har nået en sådan
+højde, at det ikke er antageligt.";Henning Rasmussen
+84741;name_party;":
+Jeg vil gerne sige, at jeg har megen sympati
+for det, fru Kirsten Jacobsen netop har været
+oppe at sige.
+I de mange, mange år, kiropraktorerne ikke
+har været autoriseret, har forældre selv kunnet
+bestemme, om de ville søge kiropraktor eller ej.
+Der har ikke været nogen bindinger overhovedet. Nu skal man så have lavet en lov, og den
+forhindrer - eller vil gerne forhindre - at børn
+fra 0 til l år med kolik f.eks. kan komme til kiropraktorbehandling.
+Så kan man begynde at diskutere det ændringsforslag, der er kommet fra fru Kirsten Ja-
+
+6565
+23/5 91: 2. beh. af f. 1.1. om kiropraktorer m.v.
+6566";Lis Noer Holmberg
+85364;title_name;"cobsen, i forbindelse med det, der ligger fra ud- ke været noget uansvarligt i det, og der er utrovalget om, hvorvidt det er rigtigt, at den enkelte lig mange småbørn, der er blevet hjulpet. Så
+praktiserende læge skal henvise. Det vil unæg- fatter jeg altså ikke, at det pludselig bliver uantelig blive sådan, at de praktiserende læger, der svarligt, fordi der nu bliver lovgivet om det.
+ikke har sympati for kiropraktorer - og det er
+der faktisk nogen læger der ikke har - vil afslå.
+(Kort bemærkning).
+De vil sige nej til forældrene, de vil afvise, og de
+Køpke";Lis Noer Holmberg
+85943;name_party;":
+vil undlade at henvise til kiropraktorer: så jeg
+Det, der bringer mig herop, er fru Elisabeth
+tror altså nok, at det her er noget, vi måske skal
+Arnolds bemærkninger om, at sådan et tilfælkigge lidt nærmere på.
+digt flertal skal tage sig af sundhedspolitiske
+spørgsmål, og at man ikke kan bruge ekspertiElisabeth Arnold (RV):
+Jeg vil gerne på Det Radikale Venstres vegne sen, som vi har som folketingsmedlemmer. Jeg
+sige, at vi støtter lovforslaget, og vi støtter også mener, det er en grov nedvurdering af parladet ændringsforslag, som er fremsat af Social- mentet, at når det drejer sig om det sundhedsdemokratiet, og som er tiltrådt af et flertal af politiske, er det et tilfældigt flertal, der vedtager
+udvalget vedrørende det forebyggende arbejde. et eller andet.
+Jeg vil gerne spørge fru Elisabeth Arnold, om
+Men vi vil under ingen omstændigheder støtdet
+også gælder på andre områder, for det må
+te det forslag, som fru Kirsten Jacobsen har
+jo
+gælde
+på alle områder det her: det kan vel
+fremsat. Jeg synes, det er meget betænkeligt, at
+Folketingets mere eller mindre tilfældige flertal ikke kun være sundhedspolitiske spørgsmål, vi
+nu tiltager sig en sundhedsfaglig ekspertise, ikke må tage stilling til som folketingsmedlemsom alene bør være Sundhedsstyrelsens. Jeg sy- mer. Vi er altså sat til det samme, fru Elisabeth
+nes, det er dybt betænkeligt, og dette lovforslag Arnold.
+er ikke det eneste, hvor denne tendens kommer
+(Kort bemærkning).
+til udtryk.
+Samtidig med at vi indstiller lovforslaget til Elisabeth Arnold (RV):
+vedtagelse, vil jeg også gerne sige, at vi ikke
+Jeg vil gerne bede fru Lis Noer Holmberg og
+dermed tager stilling til, om uddannelsen af ki- hr. Køpke Christensen bemærke, at jeg udtrykropraktorer skal ligge i Danmark, og i givet fald keligt sagde sundhedsfaglige spørgsmål og ikke
+hvor den skal ligge. Det må bero på et nærmere sundhedspolitiske spørgsmål. Det er ikke blot
+udredningsarbejde. Det er altså alene autorisa- dette Tings ret, men også dette Tings pligt at tationsspørgsmålet vedrørende kiropraktorer, vi ge hensyn til sundhedspolitiske spørgsmål,
+tager stilling til her.
+men sundhedsfaglige spørgsmål er så sandelig
+Vi kan heller ikke tilslutte os det, der står i Sundhedsstyrelsens opgave, og det skal det
+flertallets betænkningsbidrag om, at kiroprak- fortsat være.
+torer må behandle børn under 1 år, når barnets
+læge har erklæret, at barnet ikke har sygdomme
+(Kort bemærkning).
+osv. Vi mener fortsat, det skal være SundhedsKirsten";Christensen
+88438;name_party;":
+styrelsen, der har den lægefaglige ekspertise
+her i landet. Det kan aldrig være en tilfældig Så er jeg da nødt til at spørge fru Elisabeth
+undskyld udtrykket - samling folketingsmed- Arnold, om fru Elisabeth Arnold dermed melemmer med uddannelser, der er helt helt for- ner, at Sundhedsstyrelsen i al den tid, hvor der
+skellige fra den lægefaglige.
+ikke har skullet være lægehenvisning, har været
+nødt til at handle i strid med det, der var sund(Kort bemærkning).
+hedsfagligt rigtigt.";Jacobsen
+88947;name_party;":
+(Kort bemærkning).
+Jeg vil gerne sige til fru Elisabeth Arnold, at
+jeg fatter ikke, hvad der pludselig skulle være Elisabeth Arnold (RV):
+uansvarligt. I alle de år, kiropraktorerne har
+Jeg vil på ingen måde hvidvaske Sundhedskørt uden autorisation, har forældre kunnet sø- styrelsen og tro, at den aldrig nogen sinde tager
+ge kiropraktor uden om egen læge. Der har ik- politiske eller fagpolitiske - lægepolitiske -
+
+6567
+
+23/5 91: 2. beh. af f. 1.1. om kiropraktorer m.v.";Lis Noer Holmberg
+89443;title_name;"hensyn. Det blander jeg mig slet ikke i: det kan
+jo muligvis være rigtigt, og det kan man muligvis finde beviser for. Men det er nu engang den
+højeste sundhedsfaglige ekspertise, vi har her i
+landet: sådan er det ved lov. Jeg tror ikke, at
+mennesker her i Folketinget, som er uddannet
+som lærere, som psykologer, som chauffører og
+som andet, kan have større lægefaglig indsigt
+end dem, der er udnævnt til det af landets sundhedsminister.";Elisabeth Arnold
+89904;name_party;":
+Jeg vil gerne sige om fru Kirsten Jacobsens
+ændringsforslag, at det kan vi ikke stemme for,
+og jeg vil også gerne stærkt tage afstand fra, at
+man i bemærkningerne til ændringsforslaget
+taler om, at Sundhedsstyrelsens afgørelse og
+holdning er mere politisk bestemt end sundhedsbestemt. Jeg vil gerne erklære mig enig
+med fru Elisabeth Arnold, når vi ser på, hvad
+Folketinget på det sundhedsmæssige område i
+disse dage har på bedding: man afviser faktisk
+Sundhedsstyrelsen som den sundhedsfaglige
+ekspertise, som vi nødvendigvis må have.
+Jeg husker, at da vi ændrede en lov om Sundhedsstyrelsen for nogle år siden, var der meget
+stærk kritik fra Socialdemokratiets side ved
+tanken om, at det kunne blive sådan, at en minister kunne pålægge Sundhedsstyrelsen noget
+som helst sundhedsfagligt. Og hvad er det så, vi
+ser i dag? Det er faktisk en kritik af den sundhedsfaglige ekspertise, som vi har i Sundhedsstyrelsen. Jeg vil advare mod, at et flertal fortsætter ad denne vej.
+Så vil jeg i øvrigt sige til fru Kirsten Jacobsen,
+at jeg finder, det er aldeles under lavmål, at fru
+Kirsten Jacobsen antyder, at et medlem af den
+konservative folketingsgruppe, hr. Henning
+Andersen, ikke er til stede, fordi han vil komme
+let om ved det. Jeg kan oplyse fru Kirsten Jacobsen om - og jeg må forstå det sådan, at
+Fremskridtspartiets medlemmer aldrig er clearet, af gode grunde - at hr. Henning Andersen
+er på Fyn og er fungerende amtsborgmester.
+Men det er måske ikke nok for fru Kirsten Jacobsen. Jeg synes, at den type antydninger, som
+fru Kirsten Jacobsen kom med, ikke er rimelige.
+(Kort bemærkning).";Karen Højte Jensen
+91520;name_party;":
+Jeg synes ikke, det er så mærkeligt at bemær-
+
+6568
+
+ke, at formanden for den patientorganisation,
+som støtter dette forslag og også ændringsforslaget, og som er medlem af Tinget, ikke er til
+stede, og det synes jeg er kedeligt. Det havde jo
+også for debattens skyld været rart at høre,
+hvad formanden for patientforeningen havde
+at sige hertil.
+Men når fru Karen Højte Jensen siger, at ændringsforslaget er udtryk for en kritik af den
+sundhedsfaglige ekspertise, der findes i Sundhedsstyrelsen, så kan jeg jo spørge fru Karen";Kirsten Jacobsen
+92063;title_name;"Jamen mener fru Karen Højte
+Jensen så ikke, at den sundhedsfaglige ekspertise i Sundhedsstyrelsen har fejlet i alle de år,
+den ikke har grebet ind over for kiropraktorers
+behandling af spædbørn mellem 0 og 1 år?";Højte Jensen
+92297;name_party;":
+»Jeg vil ganske enkelt nægte at behandle et
+spædbarn, der først er blevet behandlet af en kiropraktor.« Denne holdning har praktiserende
+læge Axel René Aubertin, der har praksis i
+Støvring, og han opfordrer samtidig sine kolleger til at følge hans eksempel. Det viser noget
+om, at der er en kraftig nedvurdering af kiropraktorernes uddannelse. I Danmark har børn
+under 1 år været behandlet af kiropraktorer siden 1920 med tusindvis af taknemlige forældre
+til følge. Der eksisterer efter Fremskridtspartiets opfattelse intet sagligt argument for, at et
+barn på 11 måneder er sværere at diagnostisere
+og behandle end et barn på 13 måneder. Tidligere lov om henvisning af patienter fra læge til
+kiropraktor eksisterede i øvrigt i årevis uden en
+eneste henvisning.
+Det er ganske enkelt uhørt, at Danmark bliver det eneste land i verden, der lovmæssigt gør
+kiropraktorbehandlingen afhængig af en lægelig screening. Jeg synes, vi bør lytte til, hvad
+f.eks. Sverige og Norge lige har fået indført: dér
+er der nemlig kommet en autorisationsordning
+for kiropraktorer helt uden aldersgrænser.
+Og så vil jeg til sidst gerne støtte hr. Erling
+Christensen i, at vi gerne vil have en vurdering
+fra ministeren med hensyn til flertallets betænkningsbidrag. Jeg synes, det er helt på sin
+plads, som hr. Erling Christensen var inde på,
+at vi får det klarlagt inden, for eventuelt at trække forslaget tilbage i udvalget.";Køpke Christensen
+93739;title_name;":
+Jeg håber, at den rimelige tavshed i salen, der
+
+6569
+
+23/5 91: 2. beh. af f. 1.1. om kiropraktorer m.v.";Henning Rasmussen
+93869;title_name;er i øjeblikket, vil opretholdes, mens sundhedsministeren taler.;Første næstformand
+93967;title_name;":
+Jeg kan tilslutte mig det ændringsforslag fra
+udvalget, som går på, at forebyggelse indgår
+som en naturlig del i kiropraktorernes virksomhed.
+Betænkningen udtrykker en række forventninger til regeringen. Man har en forventning
+om, at § 4 i Sundhedsstyrelsens udkast til bekendtgørelse bliver formuleret i overensstemmelse med de ønsker, der ligger i betænkningsbidraget: at man kan behandle børn under 1 år,
+når barnets læge har sagt god for det. Jeg har
+over for udvalget udtrykt, at jeg vil underrette
+Sundhedsstyrelsen om udvalgets forslag, men
+jeg kan ikke forudsige, hvorledes Sundhedsstyrelsen vil forholde sig til dette forslag, idet der
+er tale om et klart sundhedsfagligt forhold, som
+det er Sundhedsstyrelsens kompetence at vurdere.
+Jeg kan oplyse, at jeg over for en af forslagsstillerne har tilbudt at tilstille Sundhedsstyrelsen forslaget til udtalelse inden betænkningsskrivningen, men der blev givet udtryk for, at
+det havde man ingen interesse i: derfor har det
+ikke fundet sted. Men på SF's opfordring her i
+dag vil jeg gå hjem og sende forslaget til vurdering hos Sundhedsstyrelsen.
+Debatten her drejer sig jo om nogle meget
+principielle spørgsmål. Den drejer sig om Folketingets arbejdsopgaver og i særlig grad om
+Folketingets arbejdsområde. Det er ukorrekt,
+når hr. Erling Christensen i sit indlæg siger, at
+sundhedsministeren vil indskrænke kiropraktorernes virksomhedsområde. Det lovforslag,
+vi behandler her, indeholder en bestemmelse i §
+7, hvoraf det fremgår, at Sundhedsstyrelsen kan
+fastsætte nærmere regler for kiropraktorers
+virksomhed og eventuelle begrænsninger i denne virksomhed, herunder osv. Det er lovgiveren, det er Folketingets medlemmer, der har ansvaret for lovens udformning. Som vi har tilrettelagt arbejdsdelingen her i landet, er det Sundhedsstyrelsen, der på grundlag af sundhedsfaglige vurderinger udsteder bekendtgørelser på
+dette område.
+Som det har været nævnt af fru Karen Højte
+Jensen, der . . .
+
+6570";Ester Larsen
+95961;title_name;":
+Jeg er ganske enig i sundhedsministerens indirekte tilkendegivelse af, at der snakkes for
+højt og for meget, specielt i sidegangen og i den
+side af salen.";Henning Rasmussen
+96151;title_name;":
+Som fru Karen Højte Jensen har givet udtryk
+for her fra talerstolen for lidt siden, var der i
+forbindelse med centralstyrelseslovens behandling for 6 år siden her i Tinget meget stor
+bekymring for, hvordan man sikrede Sundhedsstyrelsens sundhedsfaglige uafhængighed.
+Der blev i den anledning stillet spørgsmål til justitsministeren for at få klarlagt, hvordan Sundhedsstyrelsens stilling var. Man ønskede at få
+en redegørelse for det retlige grundlag for
+Sundhedsstyrelsens placering i det administrative system. Man ønskede at få belyst, »i hvilken udstrækning Sundhedsstyrelsen er uafhængig af Indenrigsministeriet og dets politiske ledelse«. Det blev et meget langt notat til
+belysning af disse spørgsmål. I det notat står
+der:
+»I det omfang et organ eller en stilling er
+utvivlsomt sagkyndig, kan den styrende kun« jeg gentager: kun - »give tjenestebefalinger for
+forvaltningsaktens indhold, hvis han kan skaffe
+sig lige så god sagkundskab som den styrende.«
+Jeg mener mig ikke i stand til at repræsentere
+en sagkundskab, der er lige så god på det sundhedsfaglige område som den, Sundhedsstyrelsen repræsenterer. Altså er jeg afskåret fra ifølge Justitsministeriets notat - at gå ind og
+give tjenestebefalinger på det sundhedsfaglige
+område.
+Jeg må derfor medgive Fremskridtspartiet, at
+den form, Fremskridtspartiet har valgt, er den
+formelt korrekte, og at hvis man er så sikker, at
+man mener, man repræsenterer en tilstrækkelig
+sundhedsfaglig viden, at man er i stand til at afgrænse eller undlade at afgrænse virksomhedsområdet for kiropraktorer, så er det i selve lovteksten, man skal give udtryk for sin opfattelse.
+Hvis Folketinget følger Fremskridtspartiets
+ændringsforslag, så er spørgsmålet ude af
+Sundhedsstyrelsen, og så får man de ønsker opfyldt, som man har. Jeg må gentage, at det er
+Folketingets arbejde at lovgive, og det er via
+lovteksten, man får sine holdninger sikret.
+For god ordens skyld vil jeg, selv om jeg har
+meddelt udvalget det i form af spørgsmålsbe-
+
+6571
+
+23/5 91:2. beh. af f. 1.1. om kiropraktorer m.v.";Ester Larsen
+98216;title_name;"svarelse, gøre opmærksom på, at regeringen ikke kan være bundet af udvalgets forventning
+om, at regeringen skal arbejde for, at en eventuel fællesnordisk kiropraktorskole skal placeres
+i Danmark. Vi har ikke overblik hverken over
+økonomien eller over behovet for en sådan skole, og først når de forhold er undersøgt, vil det
+vise sig, om der er grundlag for at gå ind i konkrete overvejelser om etablering af en fællesnordisk uddannelse.
+Men når det er sagt, må jeg da erkende, atl
+umiddelbart virker Odense som en idé, hvis, såfremt, ifald man måtte komme i den situation.
+Sundhedsudvalget opfordrer mig til at fremsætte et lovforslag i næste samling til revision af
+terapiassistentloven, altså loven om ergo- og fysioterapeuter. Jeg vil selvfølgelig meget nøje
+overveje denne opfordring, selv om jeg umiddelbart har vanskeligt ved at se nogen presserende grund til, at det skulle være nødvendigt
+at lovgive i den kommende folketingssamling.
+Efter min vurdering fungerer loven godt, og det
+er også mit indtryk, at Folketinget er enig med
+regeringen i, at vi har et rigeligt antal love til behandling i disse år, så jeg vil ikke bindes til at
+fremsætte et lovforslag. Men det er klart, at hvis
+de berørte faggrupper kan overbevise mig om
+det modsatte, vil jeg selvfølgelig overveje behovet for en revision.";Sundhedsministeren
+99545;name_party;":
+Efter en sådan tale kan man undre sig over,
+hvad man skal have en minister til. Man skal lade sig overbevise, man tager ingen initiativer
+selv, man har ingen holdning selv, man vil ikke
+noget selv.
+»Ingen over, og ingen ved siden af Folketinget«, var der en mand, der sagde engang. Det er
+der nogen der forsøger at overbevise os om i
+dag at der er. Sundhedsstyrelsen er i henhold til
+lov om sundhedsvæsenets centralstyrelse - det
+er lov nr. 397 fra 10. juni 1987 - en styrelse under sundhedsministeren, der bistår ministeren
+med den centrale forvaltning af sundhedsmæssige anliggender. Sundhedsstyrelsen er derfor
+selvsagt den under Sundhedsstyrelsen hørende
+sundhedsfaglige ekspertise, der rådgiver inden
+for sundhedsområdet: men det øverste og endelige forvaltningsmæssige ansvar ligger efter
+den seneste ændring af centralstyrelsesloven
+hos sundhedsministeren, altså direkte undergivet ministerens instruktionsbeføjelser, også i
+rent sundhedsfaglige spørgsmål.
+
+6572
+
+Men o.k., ministeren kan ikke klare presset:
+jeg skal ikke gentage det, andre ordførere har
+sagt her fra talerstolen. Ministeren kan altså ikke klare presset, kan ikke stå alene i det her. Vi
+må så overveje at følge ministerens forslag. Ministeren kan altså ikke klare presset fra de embedsmænd, som tror at vide, hvad der tjener
+folket bedst: men det har de ikke kunnet dokumentere over for Folketinget. Det var det, jeg
+sagde indledningsvis.
+Alligevel gjorde vi os i Socialdemokratiet
+nogle overvejelser: O.k., lad os så lægge op til
+at få en blød landing her. Lad os få et samarbejde om dette her. Det er klart afvist af ministeren
+her fra talerstolen. Jeg synes, det var utrolig
+uklogt af ministeren og hendes rådgivere at afvise denne fremstrakte hånd.
+Efter den konstatering, som jeg her har gjort,
+må jeg derfor for Socialdemokratiet meddele,
+at vi undlader at stemme til det ændringsforslag, der er stillet af fru Kirsten Jacobsen.
+Vi beder om, at lovforslaget kommer tilbage
+til udvalget, således at vi kan hjælpe ministeren
+med at få sat tingene rigtigt på plads. Det er en
+utrolig behandling, Folketinget må finde sig i.";Erling Christensen
+101671;name_party;":
+Jeg må også sige, at jeg er noget forundret
+over sundhedsministerens besvarelse, og jeg er
+noget forundret over, at sundhedsministeren
+ikke på eget initiativ kan tale med sin egen
+Sundhedsstyrelse og indhente Sundhedsstyrelsens kommentarer til det betænkningsbidrag,
+som et flertal i Folketinget er kommet med. Jeg
+synes, at det er helt utilstedeligt, at en anonym
+ordfører skal bruges som undskyldning for, at
+man ikke har indhentet Sundhedsstyrelsens
+holdning til dette spørgsmål, der faktisk er ret
+afgørende for, hvordan vi skal bære os ad videre, om vi skal have supplerende lovgivning.
+Derfor må jeg også konstatere, at vi er lige så
+uvidende, som da vi startede på andenbehandlingen af dette lovforslag, og derfor kan jeg ikke
+se anden mulighed, end at vi må have forslaget
+tilbage i udvalget mellem anden- og tredjebehandlingen.
+Og såfremt ændringsforslaget stillet af Fremskridtspartiet kommer til afstemning, vil vi
+undlade at stemme: det vil så vise sig, hvordan
+det går. Men jeg vil gerne herfra anmode sundhedsministeren om, at sundhedsministeren får
+indhentet Sundhedsstyrelsens udtalelse meget
+hurtigt.
+
+6573
+
+23/5 91: 2. beh. af f. 1.1. om kiropraktorer m.v.";Birgitte Husmark
+102871;name_party;":
+Jeg er enig med sundhedsministeren på ét
+område, og det er, at det er Folketinget, der lovgiver. Det er ministeren, der administrerer i
+overensstemmelse med denne lovgivning, og
+det er ministerens embedsmænd, som udsteder
+bekendtgørelser, som ikke er i strid med den
+lovgivning, som dette Folketing har vedtaget.
+Alt andet vil være en hån mod Folketinget. Og
+en sådan arrogance, som ministeren udviste fra
+Folketingets talerstol, har jeg sjældent oplevet i
+mine mange år i dette hus.
+Må jeg for det første lige gøre ministeren opmærksom på, at de bemærkninger, ministeren
+henviste til, ikke står i betænkningen, men netop er et ændringsforslag stillet af et enkelt medlem af dette Ting, og som er stillet uden for betænkningen. Det er kun for, at vi har det på det
+rene. Men når ministeren siger, at et flertal
+kommer med nogle forventninger til regeringen, så er det en underdrivelse, så det kan forstås.
+Minister, der er faktisk et flertal, som kommer med et vink med en vognstang eller fire
+med anhænger, og derfor kan det ikke nytte noget, at ministeren indtager den holdning, at
+selvfølgelig vil hun sende et brev til Sundhedsstyrelsen, men hvad Sundhedsstyrelsen i øvrigt
+foretager sig herefter, det er ikke ministerens
+ansvar, og det kan hun da heller ikke garantere
+Folketinget for. Jeg vil meget anbefale sundhedsministeren, inden dette forslag skal til udvalgsbehandling kl. 16.00 formentlig, at sørge
+for, at Sundhedsstyrelsen har givet ministeren
+et svar på, hvordan bekendtgørelserne i relation til dette forslag vil blive udarbejdet.
+Dernæst var det, ministeren sagde, jo et klart
+og eklatant udtryk for, at den mistanke, jeg havde om, hvordan ministeren ville administrere,
+og hvordan Sundhedsstyrelsen ville reagere,
+var rigtig, og det er vel også det, ordføreren for
+Socialdemokratiet har givet udtryk for - altså at
+der er problemer - ved at begære lovforslaget
+tilbage til udvalget. Det er jeg helt enig i.
+For ikke at kaste grus i maskineriet og for ikke at lægge hindringer i vejen for de intentioner
+og den præcisering, der ligger i det ændringsforslag, jeg har stillet uden for betænkningen,
+og for at give eventuelle andre medlemmer lejlighed til at være med til at udforme bemærkningerne - det er jo det rimeligste, hvis det er
+sådan, at man skal støtte det - så vil jeg gerne,
+
+6574
+
+hr. formand, trække det ændringsforslag, som
+er stillet af mig uden for betænkningen, tilbage,
+og hvis ikke der kommer en ordning på det, vil
+jeg stille det igen til tredjebehandlingen.";Kirsten Jacobsen
+105407;title_name;":
+Ændringsforslag nr. 2 uden for betænkningen af Kirsten Jacobsen (FP) er nu taget tilbage. Ønsker nogen at optage det? (Ophold). Da
+det ikke er tilfældet, er dette ændringsforslag
+bortfaldet.";Henning Rasmussen
+105633;title_name;":
+Jeg beklager, at jeg kom til at sige Fremskridtspartiets forslag i stedet for at sige fru
+Kirsten Jacobsens forslag: det er hermed sat på
+plads.
+Jeg er meget enig i den udtalelse, at der er ingen over, ingen ved siden af Folketinget, når
+det drejer sig om lovgivning, og derfor var mit
+råd også, at hvis man ville sikre sig sine holdninger gennemført, så er det i lovteksten, man
+opnår denne sikkerhed. Der vil nemlig ikke blive udstedt bekendtgørelser hverken i Sundhedsministeriet eller i andre ministerier, som er
+i strid med en lovtekst. Ingen tvivl om det!
+Jeg har over for et af udvalgets medlemmer
+foreslået, at man udsatte betænkningsskrivningen, til man havde Sundhedsstyrelsens vurdering af det forslag. Det ønskede man ikke: det
+er begrundelsen for, at jeg ikke sendte det frem
+nu. Jeg har allerede én gang fra talerstolen sagt,
+at jeg omgående vil sende det til udtalelse i
+Sundhedsstyrelsen. Ingen tvivl om det!
+Hermed sluttede forhandlingen.
+Afstemning
+§§ 1-6 og ændringsforslag nr. 1
+vedtoges uden afstemning.
+Ændringsforslag nr. 2 uden for betænkningen
+var taget tilbage.
+§ 7 med den foretagne ændring og §§ 8-20
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.
+
+6575
+
+23/5 91: 2. beh. af f. 1.1. om kiropraktorer m.v.";Ester Larsen
+106958;title_name;":
+Lovforslaget går herefter til fornyet behandling i udvalget.
+Jeg skal her udsætte mødet. Det genoptages i
+dag kl. 13.15.
+Mødet udsat kl. 12.04
+Mødet genoptaget kl. 13.15
+Den næste sag på dagsordenen var:
+13) Anden behandling af lovforslag nr. L 87:
+Forslag til lov om stop for stormoskébygggeri
+på Amager.
+Af Kim Behnke (FP) m.fl.
+(Fremsat 23/1 91. Første behandling 22/2
+91. Betænkning 21/5 91).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet om
+dets overgang til tredje behandling sattes til
+forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1 og 2 vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Henning Rasmussen
+107677;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+14) Anden behandling af lovforslag nr. L 151:
+Forslag til lov om ændring a f lov om frikommuner.
+Af indenrigsministeren (Thor Pedersen).
+(Fremsat 22/2 91. Første behandling 13/3
+91. Betænkning 16/5 91).
+
+6576
+
+Der var stillet 11 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Forhandling";Ivar Hansen
+108410;name_party;":
+Antallet af ændringsforslag til det foreliggende frikommunelovforslag fortæller noget om,
+at frikommuneforsøgsansøgningerne begynder
+at røre ved partiernes principielle synspunkter.
+Nu kan vi ikke af ministerens lovforslag se,
+hvilke ansøgninger der ikke nyder fremme i regeringskontorerne.
+Det skal ikke være ufortalt, at vi også i Socialdemokratiet har brugt megen tid på at gennemdrøfte alle elementer i det foreliggende lovforslag: derfor har vi også givet så fyldige forklaringer til vores ændringsforslag. Jeg havde
+selvfølgelig håbet, at mange flere partier end
+SF havde læst grundigt på vore forklaringer og
+støttet vore ændringsforslag.
+Jeg skal ikke mundtligt forklare alle vore ændringsforslag, men jeg vil gerne udtrykke lidt
+undren over, at foreningen Aktive Lyttere og
+Seere ikke er aktiv mere, ellers ville CD vel slet
+ikke have støttet forslaget om at nedlægge
+Amtsprogramrådet i Frederiksborg Amt: det
+må vist være en forglemmelse fra CD's side.
+Lad mig så tilstå, at jeg heller ikke har set mig
+godt nok for i denne sag. På bilag 14 er der givet
+teknisk bistand fra Indenrigsministeriet til et
+ændringsforslag, som vi er indstillet på at fremme. Jeg siger tak for hjælpen. Det er desværre
+ikke kommet med i betænkningen: derfor må
+jeg bede om, at vi får lovforslaget tilbage til udvalget, så vores ændringsforslag kan komme til
+behandling her i Tinget ved tredjebehandlingen.
+Hermed sluttede forhandlingen.
+Afstemning
+Ændringsforslag nr. 1 og 2
+vedtoges uden afstemning.
+
+6577
+
+23/5 91:2. beh. af f. 1.1. vedr. frikommuner
+
+Ændringsforslag nr. 3
+forkastedes, idet 54 stemte for, 58 imod.
+Ændringsforslag nr. 4
+forkastedes, idet 58 stemte for, 60 imod.
+Ændringsforslag nr. 5
+forkastedes, idet 11 stemte for, 108 imod.
+Ændringsforslag nr. 6
+forkastedes, idet 57 stemte for, 60 imod.
+Ændringsforslag nr. 7
+forkastedes, idet 58 stemte for, 62 imod.
+Ændringsforslag nr. 8
+forkastedes, idet 55 stemte for, 63 imod.
+Underændringsforslag nr. 10
+forkastedes, idet 59 stemte for, 61 imod.
+Ændringsforslag nr. 9
+vedtoges uden afstemning.
+Ændringsforslag nr. 11
+vedtoges med 62 stemmer mod 57.
+§ 1 med de foretagne ændringer og § 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Erling Christensen
+110679;title_name;":
+Lovforslaget går herefter til fornyet behandling i udvalget.
+Den næste sag på dagsordenen var:
+15) Anden behandling af lovforslag nr. L 141:
+Forslag til lov om ændring af lov om byfornyelse og boligforbedring.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 8/2 91. Første behandling 7/3 91.
+Betænkning 21/5 91).
+Der var ikke stillet ændringsforslag.
+
+6578
+
+Lovforslagets paragraffer og spørgsmålet om
+dets overgang til tredje behandling sattes til
+forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1 og 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Ivar Hansen
+111313;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+16) Anden behandling af lovforslag nr. L 142:
+Forslag til lov om ændring af lov om boligbyggeri.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 8/2 91. Første behandling 7/3 91.
+Betænkning 16/5 91).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet om
+dets overgang til tredje behandling sattes til
+forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1 og 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Ivar Hansen
+112061;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+
+6579
+
+23/5 91: 2. beh. af f. 1.1. vedr. lejeregulering i erhvervslokaler m.v.
+
+Den næste sag på dagsordenen var:
+17) Anden behandling af lovforslag nr. L 143:
+Forslag til lov om ændring af lov om
+lejeregulering i erhvervslokaler m.v.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 8/2 91. Første behandling 7/3 91.
+Betænkning 16/5 91).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet om
+dets overgang til tredje behandling sattes til
+forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1 og 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Ivar Hansen
+112914;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+18) Anden behandling af lovforslag nr. L 146:
+Forslag til lov om ændring af lov om leje og lov
+om midlertidig regulering af boligforholdene.
+Af Kirsten Jacobsen (FP) m.fl.
+(Fremsat 8/2 91. Første behandling 7/3 91.
+Betænkning 16/5 91).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet om
+dets overgang til tredje behandling sattes til
+forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§1-3
+
+6580
+
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Ivar Hansen
+113709;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den sidste sag på dagsordenen var:
+19) Første behandling af lovforslag nr. L 210:
+Forslag til lov om ændring af lov om arbejdsskadeforsikring. (Bortfald af kompensationen for
+arbejdsgivernes udgifter til arbejdsskadeforsikring).
+Af socialministeren (Else Winther Andersen).
+(Fremsat 21/5 91).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+114266;name_party;":
+Forslaget om bortfald af kompensationen for
+arbejdsgivernes udgifter til arbejdsskadeforsikringen er et led i dagpengeforliget, og jeg kan
+derfor på den socialdemokratiske gruppes vegne anbefale lovforslaget.
+Men det har ikke undgået min opmærksomhed, at formanden for Dansk Arbejdsgiverforening i går har udtalt, at regningen for dagpengeforliget skal sendes videre til lønmodtagerne,
+og at det skulle ske i forbindelse med de næste
+overenskomstforhandlinger. Det må jeg på det
+kraftigste afvise. Det fremgår ikke på nogen
+måde af forliget eller af timingen af forliget, at
+noget sådant skulle finde sted, og det ville også
+være aldeles ulogisk. Dengang arbejdsgiverne
+fik det omtalte tilskud, var der jo heller ikke tale om, at de sendte det videre til lønmodtagerne, og derfor kan det selvfølgelig heller ikke gå
+den modsatte vej denne gang. Denne regning
+skal ikke bringes videre til lønmodtagerne.";Taanquist
+115196;name_party;":
+Som det er blevet sagt, er der her tale om et
+
+6581
+23/5 91: 1. beh. af f. 1.1. vedr. arbejdsskadeforsikring
+6582";Pia Christmas-Møller
+115336;title_name;"lovforslag, som er et led i det netop indgåede og jeg har tidligere, når regeringen har villet
+dagpenge- og uddannelsesforlig. Vi kan støtte fjerne denne støtte, på linie med socialdemolovforslaget. Vi lægger i det hele taget vægt på, kratiske ordførere afvist denne hjælp til at nedat finansieringen af de 10.000 nye uddannelses- bringe omkostningsudviklingen. Derfor er jeg
+pladser sker med bidrag fra både arbejdstager- da skuffet over at høre modsatte toner fra Sociog arbejdsgiverside.
+aldemokratiet, men jeg forstår, at det er prisen
+Vi synes også, det er værd at notere, at den for det forlig, som er indgået.
+samlede erhvervsbelastning holder sig inden
+Vi har påpeget en anden finansieringskilde,
+for de rammer, som var velkendt af parterne nemlig at lægge loft over fradragsmuligheden
+forud for indgåelsen af overenskomstaftalerne for faglige kontingenter for arbejdsgivere og arher i foråret. Så vi støtter lovforslaget som et led bejdstagere. På den måde ville virksomhederne
+i dette forlig.
+og de, der er i arbejde, i fællesskab komme til at
+yde en indsats for, at vi kunne få skabt de nødEva Kjer Hansen (V):
+vendige arbejdspladser. Det mener vi havde
+Dette lovforslag er en del af et forlig, og jeg svækket konkurrenceevnen langt mindre, det
+skal derfor nøjes med ganske kort at sige, at havde været en fremadrettet linie. Her bliver
+Venstre støtter forslaget. Det er et indslag i fi- konkurrenceevnen svækket, så nogle af de svanansiereringen af de nye uddannelsespladser, geste arbejdstagere bliver kastet ud i arbejdsog Venstre bakker op om lovforslaget.
+løshed. Det finder vi forkert, derfor afviser vi
+klart dette lovforslag.";Pia Christmas-Møller
+117000;name_party;":
+Jeg vil gerne starte med ganske kort at henvi- Socialministeren (Else Winther Andersen):
+se til den debat, vi havde i januar, hvor jeg på
+Jeg vil gerne sige tak for den positive modtaSF's vegne gav udtryk for, at vi hele tiden havde gelse af lovforslaget. Den borger for, at vi kan
+ment, at dette beløb var forkert givet ud. Den- få det behandlet hurtigt i udvalget, og jeg skal
+gang havde vi nogle andre planer med hensyn sørge for, at eventuelle spørgsmål vil blive hurtil, hvad beløbet kunne bruges til, f.eks. til om- tigt besvaret, således at vi kan få lovforslaget
+sorgsdage.
+færdigt i næste uge.
+Beløbet bliver nu brugt til at skaffe flere uddannelsespladser, og det kan vi helt støtte.
+Hermed sluttede forhandlingen.";Pernille Frahm
+117744;name_party;":
+Eftersom lovforslaget er en del af det indgåede forlig mellem regeringen, Socialdemokratiet og Det Radikale Venstre, kan Det Radikale
+Venstre naturligvis også støtte det.";Lone Dybkjær
+117937;name_party;":
+Vi synes, det er godt og rigtigt at skaffe flere
+uddannelsespladser, men det er ikke lige meget, hvordan man finansierer de ekstra uddannelsespladser.
+Og hvad er det, regeringen, Socialdemokratiet og Det Radikale Venstre her har valgt? Man
+har valgt at kaste byrden over på arbejdsgiverne, så resultatet efter al sandsynlighed vil blive
+stigende arbejdsløshed. Spørgsmålet er, hvor
+meget arbejdsløsheden vil stige på grund af
+svækket konkurrenceevne. Jeg vil gerne minde
+om, at dette tilskud var en væsentlig del af det
+forlig, som blev indgået i december 1987, hvor
+vi netop ønskede at styrke konkurrenceevnen,
+
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Kofod-Svendsen
+118664;title_name;":
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Ivar Hansen
+118887;title_name;":
+Der er ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Miljø- og Planlægningsudvalget (22/5 91):
+Udtræder: Henning Nielsen (S)
+
+6583
+
+23/5 91: Meddelelser fra formanden
+
+Nyt medl.: Rosing (S)
+Udtræder: Løvig Simonsen (S)
+Nyt medl.: Jacob Lindenskov (S)
+Sundhedsudvalget (22/5 91):
+Udtræder: Erling Christensen (S)
+Nyt medl.: Hanne Andersen (S)
+Udtræder: Kirsten Jacobsen (FP)
+Ny stedf.: Poul Nødgaard (FP)
+Sundhedsudvalget (23/5 91):
+Udtræder: Qvist Jørgensen (S)
+Ny stedf.: Erling Christensen (S)
+Udtræder: Poul Nødgaard (FP)
+Ny stedf.: Kirsten Jacobsen (FP)
+
+6584
+
+Trafikudvalget (23/5 91):
+Udtræder: Mejdahl (V)
+Nyt medl.: Helge Sander (V)
+Udtræder: Helge Sander (V)
+Ny stedf.: Mejdahl (V)
+Folketingets næste møde afholdes i morgen,
+fredag den 24. maj 1991, kl. 10.00. ,
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 13.37";Ivar Hansen

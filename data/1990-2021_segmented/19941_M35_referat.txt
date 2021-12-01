@@ -1,0 +1,1615 @@
+split;reason;text;value
+0;;"1952
+
+Tirsdag den 10. januar 1995 (D)
+K. Nielsen (SF) og Anni Svanholt (SF) har meddelt mig, at de ønsker skriftligt at fremsætte:
+35. m ø d e";
+180;Time;"Dagsorden
+
+1) Første behandling af lovforslag nr. L 83:
+Forslag til lov om ændring af lov om banker og
+sparekasser m.v. (Rådgiveransvar).
+Af Kjeld Rahbæk Møller (SF) m.fl. (Fremsat
+29/11 94).
+2) Første behandling af beslutningsforslag nr.
+B 26:
+Forslag til folketingsbeslutning om oprettelse af
+private udviklingsselskaber.
+Af Kjeld Rahbæk Møller (SF) m.fl.
+(Fremsat 17/11 94).
+3) Første behandling af beslutningsforslag nr.
+B 29:
+Forslag til folketingsbeslutning om fremme af
+medarbejdereje i dansk erhvervsliv.
+Af Kjeld Rahbæk Møller (SF) m.fl.
+(Fremsat 24/11 94).
+4) Valg af 4 medlemmer og 4 stedfortrædere til
+Væmepligtsnævnet for tiden 1. januar 1995-31.
+december 1998.
+
+Meddelelser fra formanden";kl. 13.00
+916;title_name;":
+Jeg vil gerne ønske alle et godt nytår, både dem,
+der er her i salen, og dem, der sidder rundt omkring i huset.
+Medlemmer af Folketinget Jette Gottlieb (EL) og
+Bruno Jerup (EL) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til lov om ændring af lov om arbejdsmiljø.
+(Lovforslag nr. L 106).
+Medlemmer af Folketinget Jes Lunde (SF),
+Margrete Auken (SF), Steen Gade (SF), Holger
+
+Forslag til folketingsbeslutning om indførelse af
+grønne afgifter for erhverv.
+(Beslutningsforslag nr. B 37).
+Medlemmer af Folketinget Helge Sander (V),
+Charlotte Antonsen (V), Ivar Hansen (V), Pia
+Christmas-Møller (KF), Hans Engell (KF) og
+Henriette Kjær (KF) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om begrænsning
+af Arbejdstilsynets beføjelser ved arbejde i private hjem.
+(Beslutningsforslag nr. B 38).
+Medlemmer af Folketinget Helge Adam Møller
+(KF), John Vinther (KF), Birthe Rønn Hornbech
+(V), Inge Dahl-Sørensen (V), Tom Behnke (FP)
+og Pia Kjærsgaard (FP) har meddelt mig, at de
+ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om maskeringsforbud.
+(Beslutningsforslag nr. B 39).
+Medlemmer af Folketinget Jette Gottlieb (EL) og
+Frank Aaen (EL) har meddelt mig, at de ønsker
+at stille følgende forespørgsel til finansministeren:
+»Hvad kan finansministeren oplyse om de tilbud, regeringen har afgivet inden for de overenskomstområder, hvor staten i øjeblikket forhandler overenskomster?«
+(Forespørgsel nr. F 27).
+Medlemmer af Folketinget Helle Degn (S), Uffe
+Ellemann-Jensen (V), Hans Engell (KF), Gert
+Petersen (SF), Pia Kjærsgaard (FP), Jørgen
+Estrup (RV), Søren Søndergaard (EL) og Arne
+Melchior (CD) har meddelt mig, at de ønsker at
+stille følgende forespørgsel til udenrigsministeren og forsvarsministeren:
+»Hvad kan regeringen oplyse om situationen i
+det tidligere Jugoslavien?«
+(Forespørgsel nr. F 28).
+
+(245)
+, Tirsdag den 10. januar 1995 (D)
+Skriftlig fremsættelse af forslag";Henning Grove
+2886;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om arbejdsmiljø. :
+(Lovforslag nr. L 106).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager lovforslaget, og anbefaler det til Tingets velvillige behandling.";Jette Gottlieb
+3174;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om indførelse af
+grønne afgifter for erhverv.
+(Beslutningsforslag nr. B 37).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager beslutningsforslaget, og anbefaler det
+til Tingets velvillige behandling.";Jes Lunde
+3505;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om begrænsning
+af Arbejdstilsynets beføjelser ved arbejde i private hjem.
+(Beslutningsforslag nr. B 38).
+Jeg henviser i øvrigt til de bemærkninger, der
+ledsager forslaget, og anbefaler det til Tingets
+velvillige behandling.";Helge Sander
+3859;name_party;":
+Som ordfører for forslagsstillerne skal jeg hermed tillade mig at fremsætte:
+Forslag til folketingsbeslutning om maskeringsforbud.
+(Beslutningsforslag nr. B 39).
+Jeg skal i øvrigt henvise til forslagets tekst og de
+bemærkninger, der ledsager det, og anbefale det
+til Tingets velvillige behandling. ,
+
+1953
+
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 83:
+Forslag til lov om ændring af lov om banker og
+sparekasser m.v. (Rådgiveransvar).
+Af Kjeld Rahbæk Møller (SF) m.n.
+(Fremsat 29/11 94).
+Lovforslaget sattes til forhandling.
+Forhandling";Helge Adam Møller
+4466;title_name;":
+Det kan da bestemt være nyttigt at diskutere,
+om pengeinstitutsektorens rådgivning af kunderne er tilstrækkelig, eller om der er behov for
+fra politisk hold at foretage sig noget.
+Fra SF's side er det blevet påpeget, at der er
+behov for en præcisering i banklovgivningen af
+forbrugerens rettigheder, hvis en forbruger får
+et dårligt råd i et pengeinstitut. Det begrundes
+med, at der ikke i banklovgivningen er tilstrækkelige regler, og at der er en tendens til, at pengeinstitutterne ikke retter sig efter de afgørelser,
+som træffes af Pengeinstitut Ankenævnet.
+Først vil jeg godt henlede opmærksomheden
+på, at der ved Forbrugerombudsmandens retningslinjer for etik i pengeinstitutternes rådgivning, som der med bl.a. Finansrådet opnåedes
+enighed om i sommeren 1994, er sket en præcisering af pengeinstitutternes adfærd ved afsætning af produkter og ydelser og i den hertil
+knyttede rådgivning. Disse vejledende retningslinjer overflødiggør faktisk de foreslåede regler i
+§ 48 a, stk. 1 og 2.
+For så vidt angår SF's bemærkninger om, at
+der er en tendens til, at pengeinstitutterne ikke
+retter sig efter afgørelser truffet af Pengeinstitut
+Ankenævnet, viser den seneste årsberetning fra
+1993, at der ud af 432 indbragte sager til ankenævnet kun er tale om 23 sager, hvor det indklagede pengeinstitut har meddelt, at det ikke
+ønsker at være bundet af kendelsen.
+Jeg ved ikke, i hvor høj grad man kan bebrejde pengeinstitutterne, at de på nogle områder
+ønsker at få efterprøvet Pengeinstitut Ankenævnets afgørelse, hvis de er uenige i en kendelse.
+At få prøvet en sag ved flere instanser er vel et
+retssikkerhedsprincip, vi normalt hylder.
+Den foreslåede regel i § 48 a, stk. 4, indebærer, at der skal betales godtgørelse til kunderne,
+hvor de har været i god tro om et bestemt resultat af et pengeinstituts rådgivning. En lignende
+bestemmelse findes i § 24, stk. 2, i lov om om-
+
+1954
+
+Tirsdag den 10. januar 1995 (L 83)
+
+sætning af fast ejendom, men denne bestemmelse gælder kun for egentlige beregninger af bestemte poster.
+Derfor vil den foreslåede regel indebære et
+brud med det fundamentale princip om, at kun
+dokumenterede økonomiske tab skal erstattes.
+Det er heller ikke en betingelse, at pengeinstituttet har handlet ansvarspådragende eller har påtaget sig at indestå for rigtigheden af den pågældende beregning. Der er efter bestemmelsen
+tale om en økonomisk kompensation til forbrugeren for skuffet forventning.
+Afgørelsen af, om forbrugeren har lidt et økonomisk tab som følge af et pengeinstituts forkerte beregning, kan i mange situationer være
+vanskelig, og afgørelsen kan for forbrugeren forekomme tilfældig. Pengeinstitut Ankenævnet
+har imidlertid ud fra en rimelighedsvurdering i
+en række tilfælde tilkendt godtgørelse for den
+skuffede økonomiske forventning, som pengeinstituttets fejl har påført forbrugeren.
+Den foreslåede § 48, stk. 4, er for unuanceret
+og tager ikke hensyn til de mange forskelligartede rådgivningssituationer, der forekommer i
+praksis. I nogle tilfælde vil det efter en konkret
+vurdering ikke være rimeligt at pålægge pengeinstituttet at betale en godtgørelse, selv om forbrugerens forventning er blevet skuffet.
+Efter regeringens opfattelse er situationerne
+så forskelligartede, at retningslinjer for disse
+grupper af tilfælde bør fastsættes gennem praksis i Pengeinstitut Ankenævnet og ved domstolene.
+Hvis man ønsker en så væsentlig skærpelse af
+pengeinstitutters ansvarsgrundlag, som forslaget lægger op til, må det i hvert fald forudsætte
+bredere overvejelser over professionelle rådgiveres ansvar over for forbrugerne.
+En mulighed var derfor at nedsætte et udvalg
+for at se på det spørgsmål.
+Jeg synes, det er meget vigtigt, at lovgivningen ikke bliver indrettet på en sådan måde, at
+pengeinstitutterne ikke længere tør give kunderne den smidige og uformelle rådgivning,
+som gives i dag. Det er faktisk noget, som enhver bankkunde har brug for.
+Men sammenfattende er det altså regeringens
+opfattelse, at vi gennem Forbrugerombudsmandens vejledende regler og gennem Pengeinstitut
+Ankenævnet og domstolene har de fornødne instrumenter til sikring af forbrugerne. Vi kan
+derfor ikke støtte SF's forslag, men vi er villige
+til at nedsætte et tværministerielt udvalg, der på
+basis af en række høringer kan komme med
+
+nogle bredere overvejelser om professionelle
+rådgiveres ansvar over for forbrugerne.";Mimi Jakobsen
+8830;name_party;":
+Lovforslaget her fra SF om at indføre et skærpet
+lovfæstet rådgiveransvar for pengeinstitutterne
+har i sin grundholdning et sigte, som vi i Socialdemokratiet er enig i. Når jeg alligevel her fra
+starten må melde, at vi ikke kan støtte forslaget,
+skyldes det, at vi mener, at SF burde være gået
+videre og ikke kun have set på rådgiveransvar i
+forhold til pengeinstitutterne. Vi mener, at det
+vil være langt mere naturligt generelt at se på,
+hvor der via, skal vi kalde det ekspertbistand, er
+behov for at have et egentligt rådgiveransvar.
+Går vi den vej, vil det samtidig med en præcisering af forbrugerbeskyttelsen også sikre, at
+der ikke skabes en form for konkurrenceforvridning brancherne imellem - dette ikke
+mindst set i forhold til den udvikling, der har
+været, af finansielle supermarkeder. Men jeg forestiller mig faktisk, at vi også i den sammenhæng bør se på, hvilke andre brancher det ville
+være naturligt at inddrage. Det kunne f.eks. være revisorer, advokater, forsikringsselskaber, realkreditinstitutter osv.
+Som det også er fremhævet i SF's forslag, fik
+vi i foråret 1993 en præcisering af forbrugernes
+rettigheder i forbindelse med handel med fast
+ejendom. Ud fra lignende principper vil det være naturligt at tage det næste skridt. Men jeg erkender også, at det er et meget svært område at
+betræde.
+Det er f.eks. væsentligt, synes vi, at vi stadig
+væk bevarer muligheden for, at småtvister kan
+afklares via de forskellige branchers klagenævn,
+og derfor vil det være naturligt, på samme måde
+som vi tidligere har set det, seriøst via et udvalgsarbejde at sikre et ordentligt grundlag for
+en sådan lovgivning. Jeg håber, at SF vil være
+parat til at medvirke positivt til, at vi får et sådant arbejde igangsat. Vi ser gerne, at der bliver
+nedsat et snævert sagkyndigt udvalg med en afbalanceret repræsentation af såvel bruger- som
+rådgiverinteresser.";Lissa Mathiasen
+10711;name_party;":
+Må jeg starte med at sige, at Venstre ikke kan
+støtte SF's forslag om at udvide rådgiveransvaret for pengeinstitutterne i forhold til kunderne.
+Årsagen hertil er, at vi ikke ønsker at tage del i
+den mistænkeliggørelse, der ligger bag forslaget, af pengeinstitutterne og samtidig til en vis
+grad umyndiggørelse af kunderne, forbrugerne.
+
+Tirsdag den 10. januar 1995 (L 83)
+Det skal stadig væk være sådan, at man selv tager ansvaret for de beslutninger, man træffer i
+forhold til sine investeringer og efter de råd,
+man får i sit pengeinstitut. Man er jo egentlig
+ansvarsfri, hvis ansvaret entydigt går over på
+pengeinstituttet.
+Desuden mener vi, det er meget vanskeligt at
+beregne, hvad en rimelig godtgørelse skal være.
+Det er nemmere, når der er tale om et konkret
+tab, og det tager loven jo allerede nu højde for.
+Ministeren nævnte, at der skulle nedsættes et
+udvalg for at udrede, hvordan prpfessionelle
+rådgiveres ansvar over for kunderne er, og
+hvordan det bør være. Det har Venstre sådan set
+ikke noget imod. Men når jeg så hører fru Lissa
+Mathiasen fra Socialdemokratiet sige, at dette
+udvalgsarbejde skulle give et ordentligt grundlag for en sådan lovgivning, må jeg tage afstand
+fra det.
+Jeg kunne godt tænke mig at høre, om det bare skal være for at afdække de problemer, der
+måtte være, eller om der er tale om, at det skal
+danne grundlag for en kommende lovgivning.
+Hvis det er det sidste, ønsker Venstre ikke at
+deltage i det. ,
+Til gengæld kan vi da godt se, at der har været nogle problemer med, at Pengeinstitut Ankenævnet har afsagt nogle kendelser, som de
+konkret involverede pengeinstitutter ikke har
+villet følge. Det giver et imageproblem, og det
+giver pengeinstitutterne et troværdighedsproblem.
+Derfor vil jeg da henstille meget venligt til
+pengeinstitutterne og deres organisation, Finansrådet, at de selv ser dette vink med en
+vognstang og selv tager fat i problemet og måske finder en anden adfærd, hvis man kan sige
+det sådan, i forhold til pengeinstitutterne. Men
+det bedste er altså, hvis de selv tager fat i problemet. Venstre ønsker ikke at lave lovgivning
+på området. <";Pia Larsen
+12834;name_party;":
+Det Konservative Folkeparti kan ikke støtte dette lovforslag. Vi er direkte modstandere af at
+udvide erstatningsbegrebet til også at skulle
+omfatte erstatning for skuffede forventninger,
+f.eks. en spekulationsgevinst, der bliver mindre
+end håbet eller mindre end forventet.
+Erstatning kan og skal man kun kunne kræve,
+når der lides et tab. Det vil være en alvorlig glidebane set med vores øjne og starten på amerikaniserede erstatningsforestillinger, hvis det som SF her lægger op til - skal være tilstrække-
+
+1955
+
+ligt til at få erstatning, at den positive gevinst
+bliver mindre end beregnet, men dog stadig positiv.
+Vi afviser derfor forslaget, og vi advarer samtidig imod det. Regningen skal betales af kunderne, og det vil blive dyrt for den almindelige
+forbruger både økonomisk og i form af manglende rådgivning fremover, såfremt det bliver
+vedtaget.
+Det er naturligvis korrekt, at pengeinstitutternes rådgivning langtfra altid er helt glorværdigt
+objektiv. Men det er vel også rigtigt at notere
+sig, at det ikke er uvildig rådgivning, man får i
+et pengeinstitut. Et pengeinstitut er en forretning, og en bankrådgiver er ikke en uvildig advokat eller revisor, men naturligvis primært interesseret i at afsætte bankens produkter.
+Det må man holde sig for øje som forbruger,
+og det må man selvfølgelig indrette sig efter.
+Forslaget har i øvrigt også den ulempe, at det
+tilskynder forbrugeren til at holde sig uvidende
+om de finansielle mekanismer og forhold, og det
+mener vi bestemt heller ikke er en ønskelig udvikling. Men den er uundgåelig, hvis det nye
+udvidede omkostningsbegreb kun skal gælde
+godtroende kunder.
+Derfor et klart nej fra os.";Pernille Sams
+14507;name_party;":
+Fremskridtspartiet kan heller ikke støtte SF's
+forslag om et udvidet rådgiverans var. Det skyldes ikke, at vi ikke vil erkende, at der har været
+problemer med pengeinstitutter, som ikke vil
+følge de afgørelser, der er truffet i Pengeinstitut
+Ankenævnet. Det synes vi er kritisabelt, og vi
+synes også, at Finansrådet måske skulle have taget mere håndfast om problemet og sørget for
+nogle bedre regler, men det er en opgave, som
+sektoren må løse. Vi synes ikke, det er et lovgivningsanliggende.
+Al erstatning plejer jo at bygge på, at man har
+lidt et tab, og her er det, SF går ud i helt andre
+fortolkninger, så man skulle kunne få erstatning,
+uanset at man ikke har lidt et tab. Det er. i strid
+med den almindelige erstatningsret.
+Men vi ønsker ikke at lovgive på det her område, og jeg har noteret mig, at ministeren sagde, at man gerne ville afdække problemerne i et
+udvalgsarbejde, og det har Fremskridtspartiet
+heller ikke noget imod. Det ser vi i og for sig
+gerne, men som Venstres ordfører sagde: Hvis
+det er meningen, at det udvalgsarbejde skal blive til et kommissorium, som går ud på, hvordan
+man skal til at opbygge et helt særligt ansvar for
+
+1956
+
+Tirsdag den 10. januar 1995 (L 83)
+
+pengeinstitutterne, så siger vi fra med det samme.
+Hvis man endelig skulle inddrage noget i det
+udvalgsarbejde, så var det måske snarere det
+problem, som allerede er blevet meget akut for
+os, nemlig den forskel, der ligger i, at advokater
+i dag kan udøve ejendomsformidling, men ikke
+har det samme ansvar som en ejendomsmægler,
+der udøver den samme rådgivning. Det burde
+man se på. Det burde man få løst, for det er et
+rådgiveransvar, som er forskelligt for to grupper af udøvere, som laver den samme formidling.
+SF's forslag kan vi som sagt ikke støtte, men
+vi ser gerne problemerne afdækket, og vi vil også gerne sende det vink med en stor vognstang
+til pengeinstitutterne, at de afgørelser, Pengeinstitut Ankenævnet, som de selv har nedsat,
+træffer, bør de følge.";Kirsten Jacobsen
+16491;name_party;":
+Vi deler SF's interesse for rådgiveransvar, de
+professionelle rådgiveres ansvar over for forbrugerne, og vi kan også se, at der er sket noget
+på området: ejendomsmægleransvaret, som allerede er blevet nævnt her fra talerstolen. Og der
+er mere på vej.
+Det såkaldte Jens Thomsen-udvalg med anbefalinger til forbedring af forholdene i pengeinstitutsektoren er ved at blive udmøntet i lovforslag fra regeringens side, og en af de ting, der
+dér vil blive taget fat på, er det, at man ikke må
+operere med begrebet bankobligationer, for dermed kan man skabe nogle forventninger til et
+produkt, som ikke helt står mål med realiteterne. Når man taler om obligationer i bred sammenhæng, forledes forbrugerne jo til at tro, at
+det er noget, der er statsgaranti på eller i hvert
+fald en masse fast ejendom bag ved. Så der er
+andet på vej.
+Der er flere, der har sagt, at man skal være
+varsom med at beskytte mod skuffede forventninger, og at på den måde vil vi gøre kål på vigtige erstatningsretlige grundprincipper, der siger, at et tab skal være lidt. Nu skal jeg ikke her
+kaste mig ud i store erstatningsretlige forelæsninger eller overvejelser, men bare minde om, at
+der er noget, der hedder positiv opfyldelsesinteresse i erstatningsretten, og det vil sige, at der
+også kan være tilfælde, hvor man får skuffede
+forventninger, hvor forventningerne er blevet
+skruet op af en eller anden anden person i et sådant omfang, at man faktisk har ret til at få en
+form for erstatning.
+
+Med disse ord har jeg ikke sagt, at Det Radikale Venstre kan støtte SF's forslag. Jeg mener
+nok, at det er for isoleret en løsning, og at den
+måske også kan få nogle utilsigtede virkninger.
+Jeg synes, det er godt med ministerens tilsagn
+om, at vi får et udvalg, der kan udrede disse
+ting. Jeg håber også, at vi i den sammenhæng
+kan få fat på noget af det, som fru Kirsten Jacobsen var inde på, nemlig finde ud af, hvad det
+betyder, hvis f.eks. en advokat går ud i specielle
+områder, hvor det normale advokatansvar og
+den normale advokatforsikring ikke dækker.
+En gennemgang af mulighederne for at få
+fastslået et professionelt rådgiveransvar i større
+omfang, end vi har i dag, vil vi meget gerne fra
+Det Radikale Venstres side støtte.";Bjørn Elmquist
+18711;name_party;":
+Vi er fra Enhedslisten positive over for SF's forslag og for den sags skyld også over for de overvejelser, som fru Lissa Mathiasen gav udtryk for
+heroppefra tidligere.
+Vi er enige i, at der skal være pligt til at oplyse om aftaler, der er mellem pengeinstituttet og
+eventuelle leverandører af forskellige ydelser,
+og oplyse om de eventuelle interesser, et pengeinstitut selv måtte have i, at brugerne går ind i
+en given transaktion.
+I den forbindelse kan man måske nok sige, at
+forslaget er en slags nødværgeforslag i forhold
+til de finansielle mastodonter, som vi oplever
+udvikle sig i Danmark i særdeleshed med Den
+Danske Bank, og derfor kan vi sige, at vi støtter
+forslaget, men jo sådan set er interesseret i, at vi
+tager mere håndfast på problemet med den
+koncentration, der foregår med de finansielle
+supermarkeder, hvor man blander alle mulige
+forskellige finansielle ydelser sammen.
+Vi er i særdeleshed interesseret i at få kigget
+lidt nærmere på den efterhånden så berømte
+Danske Bank og den dominerende rolle, den
+har, med en tredjedel af bankvæsenet, en tredjedel af forsikringssektoren og en tredjedel af
+pensionssektoren ungefær. Det synes vi nok vi
+skulle tage mere direkte fat i. Dér har vi et problem.
+Vi er selvfølgelig også enige i, at der skal være en vis form for ansvar for den rådgivning,
+man giver.
+Jeg vil slutte af med at sige, at vi under udvalgsarbejdet gerne vil være med til at sikre, at
+det er banken, der har ansvaret for dårlig rådgivning, og ikke den enkelte ansatte eller den
+enkelte bestyrer. Det siger vi selvfølgelig, fordi
+
+Tirsdag den 10. januar 1995 (L 83)
+vi har set i selskabstømmersagerne, at Den Danske Bank har prøvet at tørre hele problemet af
+på nogle enkelte bankbestyrere ved at sige, at
+det bare er dem, der har lavet noget. Sådan er
+det selvfølgelig ikke, det er noget, der er godkendt i bankens ledelse, og det er bankens ledelse, der skal have ansvaret for den rådgivning,
+der gives.";Frank Aaen
+20669;name_party;":
+Lad mig starte med at sige, at i CD kan vi ikke
+støtte det af SF fremsatte forslag. Det er jo altid
+nyttigt at diskutere, om pengeinstitutsektorens
+rådgivning af kunderne er tilstækkelig. Vi mener dog i CD, at der ikke er behov for de nye tiltag, som SF fremfører i forslaget.
+Vi kan tilslutte os det, som erhvervsministeren gav tilsagn om: at nedsætte et udvalg til at
+kigge på disse problemer, og det vil vi meget
+gerne medvirke til.";Sonja Albrink
+21131;name_party;":
+Indledningsvis skal jeg takke hr. Frank Aaen for
+støtten. Jeg er meget enig med ham i, at dette
+forslag bestemt ikke løser alle problemer i bankverdenen, men det tager fat i det hjørne, der
+hedder rådgiver ansvar, og det er jo også sigtet
+med det.
+Men så vil jeg i øvrigt kommentere regeringens holdninger, som jeg forstod indebar en afvisning. Noget af ministerens begrundelse forstår jeg ikke helt. Hun henviser til, at i ejendomsmæglerloven tales der om beregninger.
+Det gør der faktisk også her i stk. 4. I henhold til
+forslagets § 48 a, stk. 4, skal der foreligge en
+konkret beregning, for at der kan være tale om
+rådgiveransvar.
+O.k., ministeren afviste, men gav dog tilsagn
+om at nedsætte et tværministerielt udvalg til at
+kulegrave sagen, og det er jo dog noget. Og det
+bliver så endnu bedre, når jeg lytter videre, hvor
+fru Lissa Mathiasen uddybede ministerens løfte.
+Jeg forstod, at der skulle være et udvalg, der
+skulle se bredere på det, ikke kun skulle se på
+pengeinstitutter, men også på andre operatører,
+andre rådgivere, revisorer, advokater osv., og at
+det skal indeholde alene brugere og rådgivere,
+og det blev så yderligere fulgt op af hr. Bjørn
+Elmquist, der konkret sagde, forstod jeg, at Det
+Radikale Venstre gerne ville have placeret ansvaret for rådgivningen, men også ønskede det
+bredere, ligesom fru Lissa Mathiasen gjorde rede for det.
+Det, vi lagde op til, var selvfølgelig at få vores
+
+1957
+
+forslag vedtaget, men da der ikke er flertal for
+det, skal jeg straks tilkendegive, at vi ikke vil
+bringe det til anden og tredje behandling, men
+at vi vil gå ind i det tilsagn, der nu er givet, og
+håbe, at vi sammen med regeringen kan være
+med til at præge det udvalgsarbejde, der kommer, og at vi kan blive enige om at få nedsat sådan et udvalg og få et kommissorium for et sådant udvalgsarbejde. Så synes jeg, det er et godt
+resultat, så får vi et ordentligt apparat, et ordentligt grundlag, og så kan vi lave en lovgivning i enighed senere, håber jeg.
+Så jeg skal takke for de tilsagn, der er givet fra
+ministeren og fra regeringspartiernes ordførere.
+De tre borgerlige ordførere skal jeg ikke kommentere nøjere bortset fra fru Kirsten Jacobsen,
+som jeg synes var skuffende. Der er vist ikke
+nogen, der har svovlet så meget i denne sal om
+bankerne som netop fru Kirsten Jacobsen, og så
+var det ejendommeligt at høre hun ikke ville
+være med til at præcisere deres ansvar. Selv om
+hun ligesom i øvrigt også fru Pernille Sams og
+fru Pia Larsen var klar over, at der var problemer, var ingen af dem villige til at gøre noget.
+O.k., vandene skiller. Det er rart en gang imellem, at man kan se forskel, og det er altså regeringen, SF og, går jeg ud fra, Enhedslisten, der
+kan gå ind i et arbejde for at rette op på den her
+sag.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Kjeld Rahbæk Møller
+24025;title_name;":
+Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+1958
+
+Tirsdag den 10. januar 1995 (B 26)
+
+Den næste sag på dagsordenen var:
+2) Første behandling af beslutningsforslag nr.
+B 26:
+Forslag til folketingsbeslutning om oprettelse
+af private udviklingsselskaber.
+Af Kjeld Rahbæk Møller (SF) m.fl.
+(Fremsat 17/11 94).
+Forslaget sattes til forhandling.
+Forhandling";Henning Grove
+24536;title_name;":
+SF's forslag har til formål at etablere udviklingsselskaber, som skal indskyde risikovillig kapital
+i iværksættervirksomheder især inden for byerhverv og skibsbygning.
+Jeg kan med det samme sige, hvad der vel
+heller ikke vil overraske nogen, at regeringen er
+enig i den grundlæggende tanke om at etablere
+udviklingsselskaber, hvilket jo også er baggrunden for, at regeringen sidste år fremsatte sit eget
+forslag om udviklingsselskaber, og dette forslag
+fik da også støtte fra SF.
+Til gengæld mener jeg nok, at vi bør se tiden
+en lille smule an, før vi tager helt nye initiativer
+for at tilvejebringe egenkapital til små og mellemstore virksomheder. Som bekendt er statsgarantiens udviklingsvirksomheder nu i gang, 15
+udviklingsselskaber er allerede i opstartfasen
+eller er ligefrem begyndt at udbetale indskud.
+Jeg synes lige, at vi skal give dem en chance for
+at se, hvad de nu duer til.
+Men jeg synes, at der er et element i SF's forslag, som godt kunne fortjene en nærmere overvejelse. Det er forslaget om, at også private investorer skal stimuleres til at investere i udviklingsselskaber.
+Jeg vil derfor foreslå, at vi under udvalgsbehandlingen af SF's forslag nærmere vurderer,
+om et sådant forslag vil kunne medvirke til at
+skaffe risikovillig kapital også til de mindre udviklingsselskaber, som måske særlig vil fremme
+investeringer i iværksættervirksomheder og
+meget små virksomheder.
+Jeg bliver nødt til at sige med det samme, at
+heri indgår altså også nogle skattemæssige konsekvenser. Det er en almindelig linje i regeringen, at vi ikke ønsker nye fradragsmuligheder
+på selvangivelsen, men også dette kan jo indgå i
+overvejelserne under udvalgsbehandlingen.";Mimi Jakobsen
+26232;name_party;":
+Af den fremlagte erhvervsredegørelse fra regeringen fremgår det, at det er nødvendigt, at der
+skabes muligheder for at fremskaffe risikovillig
+kapital til fremme af investeringer i iværksættervirksomheder, i små virksomheder og i småskibsfarten. At det står dårligt til her, kan vi også læse i erhvervsredegørelsen, hvoraf det fremgår, at danske iværksætter- og småvirksomheder ikke har så stor overlevelsesevne, som tilsvarende virksomheder har i andre lande.
+En væsentlig grund hertil er, at egenkapitalens andel er faldet væsentligt i Danmark, mens
+den er uændret i andre europæiske lande. Faldet
+har haft som konsekvens, at virksomhederne er
+mindre risikovillige, hvilket har betydet, at udviklingspotentialet i små og mellemstore virksomheder ikke har kunnet udnyttes fuldt ud til skade for beskæftigelsen og eksporten.
+Socialdemokratiet er derfor enig med forslagsstillerne om betydningen af udviklingsselskaber. Derfor var vi da også glade for, at SF gav
+tilslutning til det forslag, som blev fremsat sidste år. Og som ministeren her har nævnt det, er
+vi faktisk i den situation, at der er etableret 15
+udviklingsselskaber, og vi ved også, at endnu
+flere er i støbeskeen.
+Når vi ikke nu kan støtte oprettelsen af private udviklingsselskaber, skyldes det, at vi først
+vil se, hvordan den gældende ordning former
+sig. Jeg kan derimod sige til SF, at Socialdemokratiet er enig med ministeren i, at det ville være
+en styrkelse af udviklingsselskaberne, hvis private investorer blev stimuleret til at medvirke til
+at skaffe risikovillig kapital.
+Og denne side af forslaget vil vi gennem et
+seriøst udvalgsarbejde få vurderet såvel de erhvervsmæssige som de skattemæssige konsekvenser af, så der alligevel kan komme et billede
+frem, hvor vi kan se, om der er nye muligheder
+og andre initiativer, som vi bør tage for at støtte
+vores udviklingsselskaber.";Ole Vagn Christensen
+28110;name_party;":
+Må jeg indledningsvis sige, at det, tror jeg, er
+kendt af enhver, at det helt afgørende spørgsmål
+i denne debat er at sikre en fornuftig forrentning
+af egenkapitalen.
+Så længe man ikke får styrket indtjeningsmuligheden, får man ikke flere eller større investeringer i private virksomheder. I et frit samfund
+vil kapitalen altid søge derhen, hvor forrentningen er størst. Derfor er regeringens skattereform
+fra forrige år et kvælertag på de mindre og de
+
+Tirsdag den 10. januar 1995 (B 26)
+mellemstore virksomheder her i landet: Afskaffelse af treårsreglen, forringelse af investeringsfradrag, værdistigningsafgiften, diskrimineringen af ikkebørsnoterede virksomheder med
+100.000 kr.-reglen osv., osv. Listen er lang.
+Når man laver en skattereform baseret på sådanne elementer, lægger man gift for muligheden for at fremme investeringslysten i erhvervslivet.
+Jeg har her peget på bare nogle af de elementer, som bidrager til, at der kun er halvt så mange, der tør starte egen virksomhed i Danmark,
+som tilfældet er i de lande, vi normalt sammenligner os med.
+Der er også andre årsager, bevar mig vel. Lad
+mig som eksempel nævne hele uddannelsessiden, som vi skal have en debat om i overmorgen
+her i Tinget. Allerede fra børnehavestadiet lægger vi gift for selvstændighedskulturen. Ingen
+må være overladt til sig selv, til eget initiativ.
+Der bliver hele tiden - i en misforstået god mening, naturligvis - sørget for, at alle er aktiveret
+efter ganske bestemte programmer og moduler.
+Det samme gælder i ungdomstiden i skolen.
+Lærer man noget om erhvervslivet: er det først
+og fremmest, hvilke rettigheder man har, hvordan lønsedlen skal udfyldes osv. - ikke noget
+om, hvordan man starter en selvstændig virksomhed.
+Det var to hovedelementer. Et tredje kunne
+være spørgsmålet om de sociale rettigheder.
+Når man vælger en tilværelse som lønmodtager,
+er vilkårene vidt forskellige fra vilkårene, hvis
+man vælger en tilværelse som selvstændig. Det
+gælder lige fra arbejdsløshedsunderstøttelse til
+orlovsordninger.
+Og lad mig så endelig pege på en fjerde hindring for nystartere, nemlig den omstændighed,
+at det offentlige tager brødet ud af munden på
+mange små virksomheder her i landet. I virke-,
+ligheden udføres der en masse opgaver i offentligt regi, som ville være endog særdeles velegnede for mange mindre, lokale virksomheder.
+Teknologisk Institut har regnet ud, at vi i Danmark udfører dobbelt så meget i offentligt regi,
+som man gør i f.eks. Tyskland, Holland og Storbritannien.
+Efter Venstres opfattelse er det afgørende for
+fremme af selvstændighedskulturen i Danmark,
+at vi hurtigst muligt får ændret disse fundamentale vilkår.
+SF vil med deres forslag røre ved et lille hjørne af det første af disse forhold, nemlig spørgsmålet om kapitaltilførsel og skatteregler. Lad
+
+1959
+
+mig med det samme sige, at vi er meget lydhøre
+over for forslag, som kan fremme udviklingen i
+retning af flere selvstændige her i landet. Jeg synes nu nok, at 5F's, forslag rejser en række
+spørgsmål, som trænger til at blive undersøgt
+grundigt under udvalgsbehandlingen.
+Allerførst må man selvfølgelig spørge sig
+selv: Er der tale om et forslag, som vil få folk til
+at investere i private virksomheder i større omfang, end det ellers ville være tilfældet? Er incitamentet stort nok?
+Man må også spørge sig selv: Hvordan kan
+det være, at aktiviteten skal begrænses til nye
+virksomheder? Man må også spørge: Hvorfor
+skal man have en planøkonomisk begrænsning,
+hvor den til enhver tid siddende regering skal
+kunne bestemme, hvilke virksomheder og hvilke brancher man på et givet tidspunkt finder,
+man bør kunne udnytte denne ordning på?
+Og endelig: Hvorfor gå omvejen over et anonymt investeringsselskab i stedet for den direkte
+vej, nemlig ved at skabe bedre mulighed for, at
+den enkelte selv kan investere i egen virksomhed eller i en anden virksomhed, som man selv
+synes er værd at investere i? Hvis man f.eks. tillod folk at anvende egne investeringskonti til
+opkøb af aktier og obligationer på lige fod med
+kapitalpension og samtidig gav indskud på etableringskonti samme fradrag i personlig indkomst og samme vilkår i øvrigt som pensionsopsparing, ville man både fremme lysten, og
+muligheden for at investere i private virksomheder i Danmark og samtidig styrke den indivi-,
+duelle og direkte interesse i> hvordan investeringsmidlerne udnyttes og forrentes.
+Med andre ord: Vi er absolut ikke fremmede
+for nytænkning på dette område, og vi glæder
+os over ethvert initiativ, der styrker selvstændighedskulturen i Danmark. Men der er behov
+for meget grundigt at vurdere det fremsatte forslag i udvalget, og det bidrager vi selvsagt til.
+(Kort bemærkning).";Svend Erik Hovmand
+32775;name_party;":
+Der var ikke meget nyt at hente i hr. Svend Erik
+Hovmands tale. Det var en gentagelse af, hvad,
+vi, har hørt tidligere, og det endte jo også dér,
+hvor tingene har deres modsætninger, nemlig
+ved spørgsmålet om man skal lukke tihæmmet
+op for skattefradrag og dermed overlade det til
+de frie kræfters spil.
+Det andet, der lå omkring de frie kræfters
+spil, var spørgsmålet om det med egne investeringer og de risici, som folk her skulle løbe. Det
+
+-
+
+1960
+
+Tirsdag den 10. januar 1995 (B 26)
+
+var også et spørgsmål om at gøre den offentlige
+sektor markedsorienteret, selv om man ikke kan
+lave markedsorientering, når det drejer sig om
+at hjælpe mennesker/som er i nød. Hvordan
+man skal sætte sådan noget ind i begreber, det
+har jeg i hvert fald meget, meget svært ved at se.
+Det, vi kan konstatere, er, at når Venstre
+snakker om selvstændighedskulturen, er det en
+hel masse andre forhold: man i virkeligheden
+ønsker at fremme, nemlig spørgsmålet om
+uhæmmede fradragsmuligheder, så der ingen
+styr er på finanserne her i landet. Vi har dog
+trods alt nydt godt af, at der er styr på finanserne - det viser den stærke krone, det viser den
+stærke konkurrenceevne - så jeg mener, at hele
+den situation, som man prøver på at gøre negativ, i virkeligheden er positiv.
+(Kort bemærkning).";Ole Vagn Christensen
+34075;name_party;":
+Jeg er lidt ked af, at den socialdemokratiske
+ordfører tilsyneladende ikke har lyttet til, hvad
+det egentlig var, jeg sagde for et øjeblik siden.
+Derfor vil jeg opfordre hr. Ole Vagn Christensen
+til at læse forslaget igennem en gang til og så
+prøve at tage en debat i den socialdemokratiske
+gruppe for at drøfte, hvad det egentlig var, man
+gjorde med den skattereform.
+Jeg brugte udtrykket, at man lagde gift for
+fremme af investeringer i dansk erhvervsliv
+med en lang række af forslag, som jeg oven i købet pegede på en del af. Det synes jeg at Socialdemokratiet burde prøve at overveje. Så finder
+man måske en af forklaringerne på, hvordan det
+kan være, at der kun er halvt så mange i Danmark, der tør starte egen virksomhed som i de
+andre lande, jeg nævnte, og hvordan det kan
+være, at vi har det forhold mellem det offentlige
+og det private, som jeg var inde på før.";Svend Erik Hovmand
+34966;name_party;":
+Som jeg også sagde sidste gang, vi behandlede
+dette forslag for knap et år siden, mener vi i Det
+Konservative Folkeparti, at der er meget godt i
+princippet med at bruge skattesystemet som
+motivering til at få private til at interessere sig
+for investering i små og mellemstore virksomheder, både direkte investeringer og investeringer via udviklingsselskaber.
+Den rigtige balance finder man dér, hvor investeringen ikke foretages af rent skattetænkningsmæssige årsager, men først og fremmest af
+erhvervsmæssige årsager, hvor det står klart, at
+der er tale om erhvervsmæssige investeringer
+
+og tilsvarende risici. Derfor har vi f.eks. også foreslået den gamle partsrederordning genindført
+for flere end ti investorer, for her var der fuld
+hæftelse for hele parten og ingen tvivl om det
+erhvervsmæssige islæt.
+Tankerne bag SF's forslag forholder sig kun
+til investering via investeringsselskaber. Vi mener, det er af mindst lige så stor vigtighed, at investeringerne kan gøres direkte uden disse selskabers mellemkomst, og det er en mangel, at SF
+helt springer dette forhold over.
+Samtidig er forslaget mildt sagt noget løst i
+fugerne. Selv om det er en genfremsættelse, kan
+man ikke påstå, at det er blevet produktudviklet
+siden sidst, og det mangler at tage stilling til en
+lang række relevante forhold.
+Samtidig må det med beklagelse konstateres,
+at den socialdemokratisk ledede regering har
+skabt en stor del af problemet med den skattereform, som man hastede igennem Folketinget
+med én stemmes flertal, hvor man fjernede treårsreglen for aktieinvesteringer og dermed fjernede incitamentet for den slags investeringer,
+som er så nødvendige for virksomhedernes kapitaltilførselsmuligheder.
+For så at gøre det helt barokt lavede regeringen en undtagelse for investeringer op til
+100.000 kr., men kun i børsnoterede aktieselskaber, hvor det først og fremmest er de unoterede
+selskaber, de små og mellemstore, som virkelig
+vil kunne mærke og virkelig har brug for mindre, private investeringer.
+Så det er en stor og alvorlig fejl, regeringen
+har begået med skattereformen, som accelererer
+det problem, det er at få kanaliseret små portioner risikovillig kapital ud, hvor den virkelig behøves, portioner, der er så små, at de ofte er uinteressante for de større investorer.
+De helt naturlige forslag fra vores side er derfor for det første: Genindfør treårsreglen, for det
+andet: Lad partsredertanken genopstå i større
+målestok, og for det tredje, for så vidt angår dette forslag: Lad os i fællesskab i udvalget produktud vikle SF's forslag, så det også kan blive
+operativt.";Pernille Sams
+37561;name_party;":
+Nu er det jo ikke sådan, at verden går under,
+fordi SF's forslag skulle blive vedtaget. Som det
+er sagt af mange, er det i og for sig så løst, at
+man kunne fristes til at tro, at SF har tænkt: Det
+handler mest af alt om at få vedtaget vores forslag, og så må vi bagefter diskutere, hvad der
+skal ligge i det.
+
+Tirsdag den 10. januar 1995 (B 26)
+Når Fremskridtspartiet ikke vil støtte forslaget: skyldes det, at vi synes, at de investeringer,
+der skal ske - det vil vi gerne understøtte - skal
+ske direkte. Hvis folk vil lave investeringsselskaber, kan de gøre det i medfør af gældende
+lov. Vi skal ikke til at lave nogle ekstra lovreguleringer for det.
+Det er jo sådan, at der i dag er masser af risikovillig kapital, hvis det er bæredygtige projekter, det drejer sig om. Når der ikke sker oprettelse af en masse specielt små og mellemstore virksomheder, skyldes det en hel masse andre ting.
+Det skyldes først og fremmest, at det offentlige
+synes, at det er en god ide at gå ind og drive
+virksomhed på snart et hvilket som helst område, og det offentlige kan med skatteydernes
+penge i ryggen udkonkurrere enhver mindre erhvervsvirksomhed. Man har understøttet dette,
+ved at tillade oprettelsen af disse fælles kommunale og private selskaber, som Fremskridtspartiet også var imod.
+Når det drejer sig om at skabe mulighed for
+det private erhvervsliv for at få bedre vilkår til
+at få startet nogle virksomheder, er vi meget,
+meget positive, og vi vil meget gerne drøfte det,
+og vi vil gøre rigtig meget for det. Men vi vil altså ikke gå hen og lave nogle kunstprodukter,
+som fører til illoyal konkurrence, eller hvor man
+skal til at regulere skattelovgivningen.
+Nu har man vedtaget en skattereform, og den
+har på masser af punkter gjort det ringere for de
+private virksomheder. Så findet SF en måde,
+hvor man siger: Vi vil sikre os genbeskatninger,
+så skal vi nok give fradrag osv. Det er nogle
+ktmstprodukter.
+Vi tror på, at det private initiativ er der. Det er
+også parat til at investere, hvis projekterne er
+bæredygtige, og hvis det offentlige ville sørge
+for, at det private erhvervsliv kunne få lov til at
+fungere i fred.
+Man kunne starte med at afregtùere nogle af
+alle de områder, som gør, at det er svært for
+mindre erhvervsdrivende at klare sig. Man kunne sørge for, at de byrder, der bliver lagt på dem
+i form af afgifter, eksempelvis på de små byerhverv, på dækningsbidrag for kommunerne og
+sådan noget, blev fjernet. Så ville det være lettere, og så kunne man lade være med at tillade, at
+offentlige penge bliver brugt til at udkonkurrere
+private erhvervsdrivende.
+Det er nogle af de incitamenter, Fremskridtspartiet vil foreslå, men i udvalget vil vi drøfte
+alt, der kan gavne mindre 홢
+erhvervsdrivende.
+
+1961
+
+Bjøm Elmquist (RV):
+I sidste folketingssamling vedtog Tinget her
+med bl.a. SF's stemmer lov om statsgaranti til at
+drive udviklingsvirksomhed, og som ministeren
+gjorde opmærksom på i sit indlæg, er 15 udviklingsselskaber allerede gået i gang.
+Vi har den holdning, som ministeren også har
+givet udtryk for, at lad os nu se, hvad det fører
+til, inden vi sætter nyt i gang. Der er da også
+tegn i sol og måne på, at investeringsaktiviteten
+i Danmark er stigende i forbindelse med opsvinget. Det ser ikke helt så sort ud, som det har
+gjort tidligere.
+Der er flere, der har interesseret sig for, hvad
+vi kan gøre for at hjælpe iværksætterne, især de
+mindre, i gang i byerhvervene. Det er altid en
+god aktivitet at drøfte.
+Jeg vil godt sætte spørgsmålstegn ved det
+med skibsbygning. Det er jo rigtigt nok, som det
+anføres i bemærkningerne til forslaget, at efter
+at anpartsordningerne sluttede, har man været
+noget nødlidende på dette område. Men omvendt er der heller ikke megeij, der indicerer, at
+man med den internationale situation, der er på
+skibsbygningsområdet, mangler kapacitet. Det
+er nok ikke så meget det med at sætte det i gang,
+som er problemet, det er snarere dét, om der er
+et output, havde jeg nær sagt, hvor skibene kan
+komme ud og finde anvendelse.
+Så med det ene og det andet kan vi ikke støtte
+SF's forslag til folketingbeslutning.";Kirsten Jacobsen
+41648;name_party;":
+Vi må melde os i rækken af ordførere, der er
+imod dette forslag fra SF, selv om det er med
+helt andre argumenter end dem, de borgerlige
+partier fremfører.
+Vi er for støtte til mindre virksomheder, men
+vi er lodret imod nye skattefradrag. Vi er imod
+nye tagselvborde, hvor skatteyderne uden videre kan komme til at betale for fejlslagne projekter, og hvor der ingen som helst indflydelse er
+på, hvilke produktioner det er, skattekronerne
+bruges til at hjælpe i gang. Skattekronerne kan
+jo gå til at starte ny produktion af nye aldeles
+unyttige dippedutter og til at starte produktion
+på et miljøskadeligt grundlag.
+Jeg er af den opfattelse, at skal der puttes
+skattemidler i projekter, skal det være efter helt
+klare beslutninger og med sikkerhed for, at det
+er et nyttigt produkt, at det er et produkt, der er
+brug for, og ikke bare en tilfældig ny, snedig
+tingest, som måske kan sælges.
+. Så må vi også sige, at vi undrer os en hel del
+
+1962
+
+Tirsdag den 10. januar 1995 (B 26)
+
+vi i det mindste får de udviklingsselskaber, som
+regeringen kommer med, men vi har brug for
+alt, hvad vi kan trække.
+Det er kendt, at regeringens udviklingsselskaber ikke tiltrækker ret meget privat kapital.
+Derfor har vi sagt: O.k., lad os få nogle andre,
+som tiltrækker kapital. Så har vi flere af dem og
+flere muligheder, det er hele filosofien bag det.
+Så vi synes ikke, der er grund til at vente. Vi ser
+også med stor spænding på, hvad der kommer";Frank Aaen
+43101;name_party;":
+ud af regeringens initiativ, men vi kan ikke se, at
+SF's forslag har det formål at etablere udvikde to forslag er konkurrenter.
+lingsselskaber, som skal indskyde risikovillig
+Fra hr. Ole Vagn Christensen var der også
+kapital i iværksættervirksomheder især inden
+sympati for forslaget, men han endte med en affor byerhvervene og skibsbygning.
+visning med lidt de samme argumenter som miI CD er vi enige i den grundlæggende tanke
+om at etablere udviklingsselskaber. Som tidlige- nisteren.
+Og så var der hr. Svend Erik Hovmand. Hele
+re ordførere allerede har sagt, har vi 15 udvikdiskussionen om regeringens skattereform vil
+lingsselskaber i gang, og vi må se, hvilket resuljeg lade ligge, men når nu hr. Svend Erik Hovtat det fører til.
+Vi vil også gerne være med til under udvalgs- mand remser en hel masse ting op, som gør, at
+vi ikke kan få iværksættelse her i landet, kan jeg
+behandlingen at se på forslag, som vil kunne
+ikke lade være med at tænke på, at i Tyskland
+medvirke til at skaffe risikovillig kapital. Lad
+har man altså godt det dobbelte. Dér har de
+mig bare nævne f.eks. vore små skibsværfter,
+markant højere selskabsskatter end i Danmark,
+som vi alle sammen ved ønsker en eller anden
+form til at komme videre i forbindelse med byg- de har væsentlig dyrere arbejdskraft, de har dyrere elektricitet, men alligevel er der flere iværkning og reparation af skibe.
+Så i CD er vi villige til at få en god og grundig sættere.
+Det kunne jo være, fordi tyskerne faktisk har
+udvalgsbehandling af disse forslag, som vi kan
+taget det problem alvorligt, at folk, der starter
+drøfte dér.
+egen virksomhed, som regel ikke har startkapitalen, og har lavet ordninger til at hjælpe dem i";Sonja Albrink
+44809;name_party;":
+gang med det. Det kunne være årsagen til, at det
+Jeg kan ikke rigtig sige, om jeg skal takke nogen
+er så meget lettere at være iværksætter i Tyskfor modtagelsen eller jeg skal lade være. De, der
+land, for det er jo ikke, fordi indtjeningen bagefkommer nærmest, må være Venstre og De Konter er lettere.
+servative. Jeg tror, at det blev sagt fra De KonMen så rejste Venstre en række spørgsmål: Vil
+servative, at efter en produktudvikling kunne
+folk investere? Hvis man taler med folk i brande måske støtte forslaget, og det var noget tilchen - det ved hr. Svend Erik Hovmand også svarende, Venstre sagde.
+så efterlyser de et forslag som dette. Men i øvDog skulle vi især fra Venstre høre på en hel
+rigt ved vi det jo først endeligt, når vi har set det
+lang smøre om ting, der i hvert fald ikke har noget med dette forslag at gøre, men som var et virke.
+Så kommer spørgsmålet: Hvorfor begrænshelt generelt syn på skat og iværksættelse osv.,
+ningen? Hvorfor skal det tjekkes? Hvorfor skal
+som jeg ikke vil kommentere.
+erhvervsministerens ministerium sidde og godMen i øvrigt kom de fleste ordførere, bortset
+kende disse selskaber? Af den simple grund,
+fra hr. Frank Aaen, med en positiv bemærkning
+som der også står i bemærkningerne, at det ikke
+indimellem, så jeg vil tage dem én ad gangen.
+er svært at finde måder at snyde skattevæsenet
+Når det drejer sig om ministeren, forstår jeg,
+på, hvis man bare sådan kan gå ud og lave et
+at hun vil se tiden an med henvisning til, at nu
+selskab og så i øvrigt trække pengene fra, når
+var der oprettet disse udviklingsselskaber af reman har puttet dem ind, og få dem beskattet,
+geringen.
+når man hiver dem ud igen.
+Sagen er den, at vi faktisk har en meget stor
+Jeg kan finde 2-3-4 forskellige svikmøller til
+mangel på iværksættelse i dette land - det er
+at
+snyde skattevæsenet på den måde - to af dem
+under halvdelen af, hvad man har i Tyskland. Vi
+har hele tiden haft den holdning, at det er fint, at er antydet i bemærkningerne - og derfor skal
+
+over den skattepolitiske holdning, der ligger
+bag SF's forslag med nye fradrag til erhvervslivet, og vi undrer os også lidt over den holdning,
+der er i forslaget til miljø og vækst, hvor det ser
+ud, som om - og det tror jeg ikke er rigtigt - SF
+mener, at enhver form for vækst er god, bare
+væksten kommer fra små iværksættere.
+Vi er altså ikke med på forslaget.
+
+Tirsdag den 10. januar 1995 (B 26)
+der være lidt styr på det. Vi er ikke interesseret i
+bare at lave en svikmølle.
+Men det generer ikke hr. Svend Erik Hovmand, for han antyder, at man kunne tillade, at
+folk, der hensatte i investeringsfond og på reguleringskonto, kunne bruge dem til at købe aktier
+med. Så er der åbnet for hvad som helst! Det
+drejer sig jo netop om penge, man har fået lov til
+at trække fra i skat for at investere erhvervsaktivt, og så tillader man ikke befolkningen at investere erhvervsaktivt alligevel.
+Der er grundlæggende forskel på SF's og
+Venstres syn på verden, det er ikke nyt. Men
+trods alt vil jeg hæfte mig ved, at hr. Svend Erik
+Hovmand vil se på det konkrete forslag i udvalget, og det glæder jeg mig over. Jeg mener i øvrigt også, at der trods al forskel her er et sted,
+hvor vi burde kunne mødes.
+Fru Pernille Sams henviste til partsrederierne
+som en god ordning. Jeg er enig. Jeg synes, at
+partsrederierne har været en god ordning, der
+har fungeret i mange år, og den burde faktisk
+kunne fortsætte. Problemet var jo, at på et tidspunkt var der nogle, der fandt ud af at lave den
+om til en skattesvikmølle. Så fik vi hele anpartscirkusset, og det ødelagde noget, der havde fungeret problemløst og fornuftigt i mange år. Det
+er synd, det skete. Det er jo en af tankerne bag
+dette her at finde en ny ordning, hvor man kan
+genoprette det gode og sunde, der var i anpartstanken, ved at blive fri for al fiduseriet.
+Men i øvrigt skal jeg også takke fru Pernille
+Sams. Jeg forstod, at fru Pernille Sams mente,
+der var nogle mangler i det, og at hun havde
+nogle spørgsmål. Hun stillede ikke spørgsmålene, men det går jeg ud fra, vi kan få gjort i udvalget, så vi kan få opklaret de problemer, der
+måtte være i det, og så vi kan blive enige.
+Fru Kirsten Jacobsen støttede ikke. Jeg ved
+ikke, om det eneste tilsagn, jeg kunne læse ud af
+fru Kirsten Jacobsens tale, var, at i udvalget ville
+vi kunne drøfte alt. Det var så bredt, at det også
+må omfatte dette forslag. Men det er dog den
+mest negative tilkendegivelse, jeg endnu har
+hørt. Det er den dér helt ultraliberalistiske holdning, at man simpelt hen ikke vil se et problem.
+Markedet skal kunne klare alt, som fru Kirsten
+Jacobsen sagde, der er masser af risikovillig kapital. Ja, det er der også, der er masser af kapital,
+der er masser af kapital i pensionsfondene. Det
+vrimler med dem. Men der er ikke ret meget,
+der fører dem over i aktive erhvervsinvesteringer.
+Hr. Bjørn Elmquist henviste naturligvis som
+
+1963
+
+de andre regeringsordførere til regeringens udviklingsselskab. Det har jeg kommenteret. Men
+hr. Bjørn Elmquist udtrykte tvivl om, hvorvidt
+der overhovedet er brug for skibe. Det tror jeg
+ikke er problemet i dag.
+Det er rigtigt, at det ikke er det bedste marked. Vi ved alle, at værfterne har problemer. De
+tjener ikke ret mange penge, fordi dollaren ligger lavt, og på grund af mange andre ting, men
+de kan faktisk få ordrer. Det, der er problemet,
+er, at rederne ikke kan stille sikkerhed - eller
+halvdelen af dem kan ikke - og derfor har halvdelen af ordrerne til danske skibsværfter hidtil
+været givet via anpartsordninger. Ikke fordi der
+har været ret mange penge i det, skattefiduseri
+har i det store hele været klemt ud, men fordi
+man derved fik en bred sikkerhed, og det er
+den, værfterne var interesseret i.
+Det er den, der er forsvundet, og det er derfor, de fleste frygter, at der nu skal alene sælges
+skibe til de redere, der er velhavende nok, og
+det er altså en halvering af markedet. Det kan
+være hårdt for den danske skibsværftsindustri,
+og det er derfor, vi har brug for en ordning.
+Hr. Frank Aaen var imod, og det var måske
+også ventet. Det er jo en sådan mere fundamentalistisk-socialistisk holdning, som er kommet
+ind i Folketinget, så det skal de vel være.
+Jeg vil dog sige, når hr. Frank Aaen vil skyde
+os i skoene, at vi vil have vækst for enhver pris,
+at det vil vi ikke. Men vi mener, vi har brug for
+en tilvækst af virksomheder. Vi mener ikke, at
+landet kan fungere, uden at der hele tiden dannes og opstår nye virksomheder, af den simple
+grund, at i et samfund som vores er der nogle,
+der dør, og når der er nogle, der dør, skal der
+også være nogle, der fødes.
+Problemet er, at der er for få, der fødes. Det er
+en af årsagerne til, at vi har den dårlige beskæftigelse, vi har. Det er derfor, vi interesserer os
+for dette her.
+Fru Sonja Albrink sagde, at hun ville se på
+forslaget i udvalget, og det var dog en positiv
+tilkendegivelse.
+Jeg skal slutte af med at takke for de positive
+tilkendegivelser, der er kommet. Der er en mulighed, som jeg hørte det, for, at vi trods alt kan
+tale os frem til noget i denne stil under udvalgsarbejdet. Det ser jeg frem til.
+Hermed sluttede forhandlingen.
+
+1964
+
+Tirsdag den 10. januar 1995 (B 26)
+
+Afstemning
+Forslagets overgang til anden (sidste) behandling vedtoges uden afstemning.";Kjeld Rahbæk Møller
+52020;title_name;"Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Erhvervsudvalget. Hvis ingen gør
+indsigelse mod dette forslag, betragter jeg det
+som vedtaget. (Ophold). Det er vedtaget.
+
+Den næste sag på dagsordenen var:
+3) Første behandling af beslutningsforslag nr.
+B 29:
+Forslag til folketingsbeslutning om fremme af
+medarbejdereje i dansk erhvervsliv.
+Af Kjeld Rahbæk Møller (SF) m.fl.
+(Fremsat 24/11 94).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+52514;title_name;":
+Principielt finder vi naturligvis i regeringen, at
+det er meget positivt, at medarbejdere har lyst til
+at engagere sig aktivt i deres arbejdsplads. Det
+er også muligt i dag. Der er således allerede mulighed for medarbejderaktieordninger. Det er
+muligt at slå sig sammen inden for de eksisterende selskabsretlige rammer med det formål at
+investere i én bestemt virksomhed.
+Hertil kommer, at medarbejdere i aktie- og
+anpartsselskaber som bekendt er sikret ret til
+medindflydelse gennem repræsentation i bestyrelsen.
+Forslaget fra SF rejser imidlertid også nogle
+principielle problemer. Der foreslås indført visse
+skattebegunstigelser. Regeringen bestræber sig
+faktisk generelt på at begrænse antallet af fradrag, ligesom der lægges stor vægt på at holde
+snor i de statslige udgifter.
+Forslagets elementer af skattebegunstigelser
+og statskautioner kan endvidere give statsstøtteproblemer i forhold til EU.
+Også pensionselementet i forslaget giver anledning til betænkelighed. Den gældende lovgivning opstiller klare regler, som siger, at der
+
+ikke må skabes en pensionsmæssig afhængighed af arbejdspladsen. Således skal en virksomhed sørge for, at medarbejdernes pensionstilsagn bliver dækket af en pensionskasse eller lignende.
+Jeg synes, at det vil blive meget problematisk,
+hvis vi forlader den hovedregel. Den sikrer, at
+den enkelte medarbejder ikke stilles helt uden
+midler, hvis virksomheden af økonomiske årsager må lukke. Et skræmmende eksempel så man
+i England, da den store bladgigant Maxwell gik
+ned.
+Endelig kan forslaget, som det er udformet,
+også medføre visse selskabsretlige problemer.
+På den baggrund kan regeringen ikke tilslutte
+sig det foreliggende forslag til folketingsbeslutning,";Mimi Jakobsen
+54231;name_party;":
+Vi har i Socialdemokratiet naturligvis læst forslaget - og mener også at have forstået indholdet - om etablering af medarbejderfonde i virksomheder dels med en kollektiv del, som skal
+være på minimum 50 pct.,, og dels en individuel
+del. Den individuelle del kan medarbejderne så
+hæve ved enten overgang til pension eller ved at
+forlade firmaet og indskyde deres penge i en
+anden pensionsordning. Vi har også forstået, at
+overskuddet skal tilgå fonden, og at midlerne
+fortrinsvis skal investeres i virksomhederne, og
+endelig ligger der også nogle muligheder for, at
+overskud kan finansiere andre virksomhedsfonde.
+Vi har også kunnet læse, at der skal være særdeles gunstige lånevilkår - både individuelt og
+kollektivt - med statskaution, og at indskuddene i øvrigt fra de enkelte medarbejdere skal være skattefri på lige fod med pensionsindbetalinger.
+Vi er naturligvis i Socialdemokratiet positive
+over for medarbejderindflydelse og også medarbejdereje. Det er jo kendt, at vi tidligere har
+haft forslag fremme om økonomisk demokrati.
+Det var godt nok i modsætning til det her et meget mere vidtgående forslag: f.eks. ønskede vi,
+at ordningen skulle være obligatorisk. Vi er også
+klar over, at der eksisterer ordninger. Der er også muligheder for at danne frivillige investeringsforeninger, som kan gå ind på disse områder.
+Men det afgørende for os er, at de arbejdsmarkedspensionsordninger, som nu er etableret
+en lang række steder via overenskomster, får en
+chance for at blive udbygget og udvidet. Vi har
+
+Tirsdag den 10. januar 1995 (B 29)
+
+1965
+
+også kendt til pensionsordninger på overenskomstområdet i adskillige år - fortrinsvis funktionærområdet.
+Vi ser store problemer i forslagets skattebegtffistigelser, heruhder fradragene. Tilsvarende
+med lånekautioner, og vi ser også problemer i
+forhold til EU og de bestemmelser, der er dér.
+Det er måske noget, man kunne komme ud over
+og løse, men det allervigtigste og største forbehold, vi har, er, at en pensionsopsparing for den
+enkelte medarbejder i en virksomhed, der pr.
+definition kan gå fallit, vil kunne betyde, at
+modtageren, pensionsopspareren, kan komme
+til at stå uden midler til sin pension. Det vil vi
+være stærkt, stærkt betænkelige over for, og vi
+er derfor imod forslaget.
+
+blomster for erhvervslivet i den skattereform,
+som man fik vedtaget sidste år.
+Er man et børsnoteret selskab, slipper man for
+udbýtteskat af de første 100.000 kr. Er man ikke
+børsnoteret, har man ikke denne mulighed. Det
+synes vi er en urimelig diskrimination over for
+mange mindre og mellemstore virksomheders
+muligheder for at engagere deres medarbejdere
+mere i den enkelte virksomheds drift. Det er et
+virkeligt anslag mod de mindre og de mellemstore virksomheders mulighed for at fremme en
+frivillig ordning for deres medarbejdere.
+Derfor ser vi i øvrigt også frein til den debat,
+som jeg går ud fra vi skal have, når skatteministeren senere på måneden bliver færdig med sin
+redegørelse om medarbejderaktier.";Per Kaalund
+57214;name_party;":
+Venstre ønsker at fremme medejendomsretten i
+danske virksomheder, og vi tror på, at det har
+en stor betydning for den enkelte virksomhed,
+at medarbejderne har en personlig interesse og
+et personligt medansvar for, hvordan virksomhedens årsresultat kommer til at se ud. Men for
+os er det en forudsætning, at det sker på frivillig
+basis - frivillig for medarbejderne, frivillig for
+virksomhederne.
+Vi har også en række andre forudsætninger,
+som vi hår fremhævet ved flere lejligheder, forudsætninger, som ikke er forenelige med de
+kollektive tvangsordninger, som SF-forslaget på
+nogle områder i hvert fald lægger op til.
+SF er tilhænger af, at medarbejderne får indflydelse, nøjagtig som vi er det, men deres forslag er ikke foreneligt med vores tanker om en
+individuel ret til for den enkelte selv at kunne
+disponere over sine midler. Så vidt jeg kan læse
+af forslaget, kan man f.eks. ikke frit tage sine
+penge ud af virksomheden, hvis man rejser fra
+den.
+Vi mener også, at en række andre bestemmelser i SF's forslag nærmer sig det ekspropriative i
+forhold til de nuværende ejere, og man kan derfor frygte for fremtidige investeringer i dansk
+erhvervsliv.
+Jeg skal ikke gå dybere ind i forslaget, men
+kun til slut udtrykke min beklagelse over, at
+rødkløverregeringen afskaffede et af de mest
+betydningsfulde skridt til fremme af medeje i
+dansk erhvervsliv, da man med skattereformen
+fjernede skattebegunstigelserne for ikkebørsnoterede selskaber.
+Vi har en køn erhvervsminister, men det ser
+altså ikke kønt ud, og der er ikke mange kønne";Svend Erik Hovmand
+58772;name_party;":
+Tanken om medarbejdereje i dansk erhvervsliv
+tiltaler Det Konservative Folkeparti meget. Vi
+tror på privat ejendomsret og konkurrence som
+incitamenter til effektiv virksomhedsdrift. Vi er
+også overbevist om, at engagement og ansvarsfølelse for den virksomhed, hvor man arbejder,
+er såvel personligt udviklende som samfundsgavnligt og fremmes ved forøget ejerskab.
+Men vi foretrækker den model, der har skabt
+det samfund og den levefod, vi har, nemlig det
+individuelle ejerskab. Jeg har personlig siden
+min pure ungdom, da jeg var medlem af Danmarks Kommunistiske Ungdom, sympatiseret
+med det kollektive ejerskab, men alle mine erfaringer siden har desværre vist, at vi mennesker
+ikke er gode nok til den smukke kollektive tanke, når den skal føres ud i livet.
+Det er ellers et gevaldig teknisk forslag, SF
+her fremlægger. Skattefrihed og skattebegunstigelse, statskaution og forkøbsret til kapitaludvidelser skal sikre en kollektiv fond så megen
+ejendomsret som muligt i et upersonligt ejerskab.
+Man kunne godt vælge at diskutere forslagets
+enkelte punkter, f.eks. rimeligheden i, at fondens overskud tilfalder fonden og ikke medarbejderne, rimeligheden i, at fondene kan overtage virksomhederne skattemæssigt billigere ved
+salg eller generationsskifte end individuelle ejere, rimeligheden i, at fondene skal have en bestyrelsesplads uanset kapitalandel og uden hensyn til, at man allerede har medarbejderrepræsentanter.
+Man kunne også spørge, om det er meningen,
+at en særlig mindretalsbeskyttelse skal være aftalt eller lovbestemt - det fremgår ikke med klar
+
+1966
+
+Tirsdag den 10. januar 1995 (B 29)
+
+tydelighed af forslaget, så vidt jeg kan se - eller
+om, hvordan man vil kompensere de offentligt
+ansatte, som jo ikke får denne mulighed for
+medejerskab. Og så kan man i øvrigt diskutere,
+om forslaget overhovedet er EU-medholdeligt,
+eller det allervigtigste punkt: Vil forslaget medføre indgreb over for de etablerede aktionærers
+grundlæggende dispositionsfrihed og dermed
+true ejendomsretten?
+Den diskussion vil vi forsøge at afstå fra, fordi
+vi grundlæggende er imod en sådan socialisering. Staten skal ikke kautionere for ejerskab i
+virksomheder. Men vi vil meget gerne diskutere, hvordan vi får spredt ejendomsretten, så flere får ansvar og indflydelse, hvordan vi gør det
+lettere for medarbejdere at overtage flere aktier i
+den virksomhed, de arbejder i, uden at sambeskatningsregler og skatteregler i øvrigt gør det
+nærmest umuligt. Vi vil især gerne diskutere,
+hvordan vi får grøde i industriens underskov
+nu, hvor det har vist sig, at de store lønmodtagerfonde og pensionskasser i betydeligt omfang
+har opgivet visionen om at satse langsigtet og
+risikovilligt på dette område.
+Så kan forslaget ikke bruges til andet, så kan
+det måske under udvalgsarbejdet være med til
+at påvise de barrierer, der i øvrigt findes for udbredelsen af reelt medarbejderskab, ligesom vi
+måske kan få et større indblik i, hvad man gør i
+andre lande.
+(Kort bemærkning).";Kai Dige Bach
+61749;name_party;":
+Nu blev jeg jo helt vågen, da det gik op for mig,
+at hr. Kai Dige Bach og jeg et eller andet sted har
+en fælles fortid.
+Men det, der får mig herop, er for at spørge,
+om hr. Kai Dige Bach er imod enhver form for
+kollektivt ejede virksomheder og kun går ind for
+personligt ejede. Betyder det, at vi skal være
+imod aktieejeformen? Skal vi være imod fondseje? Det synes jeg da er interessant. Det vil jeg
+godt være med til at diskutere. Skal vi kun have
+personligt ejede virksomheder her i Danmark?
+Og når så hr. Kai Dige Bach kommer herop,
+kan han måske svare på, om det er umuligt at
+tænke sig, at medeje og engagement kan komme
+til udtryk via en demokratisk styret medarbejderfond.
+(Kort bemærkning).";Frank Aaen
+62469;name_party;":
+Nej, i vores samfund kan man ikke være imod
+alt, der er kollektivt, det må jeg sige helt klart,
+
+og det er jeg heller ikke. Det er muligt, at man
+kan lave en eller anden konstruktion, men det
+skal være en individuel rettighed, så man kan
+sætte ind og trække ud, og det er det eneste, det
+drejer sig om. Det er frivilligheden og det individuelle, der skal være grundlaget i fællesskabet.
+(Kort bemærkning).";Kai Dige Bach
+62902;name_party;":
+Jeg synes, det er meget beklageligt, at det foreliggende forslag resulterer i, at to af Tingets
+medlemmer på grund af en fælles politisk fortid
+nu er på vej til at ryge i totterne på hinanden.
+Jeg synes, at Tinget bør henholde sig til, at Det
+Konservative Folkeparti i dag har en ordfører,
+ligesom Enhedslisten har, der ifølge de to ordføreres egne udtalelser her fra Tingets talerstol
+meget stærkt har understreget, at de har en fælles politisk fortid i Danmarks Kommunistiske
+Parti. Det var en væsentlig erkendelse, vi her fik
+fra de to ordførere.
+(Kort bemærkning).";Jens Risgaard Knudsen
+63491;name_party;":
+Jeg ved ikke, om jeg kan få hr. Jens Risgaard
+Knudsens tilladelse til at være blevet klogere.
+Det er såmænd det eneste. Jeg vil være meget,
+meget stolt af det, hvis det er tilladt herinde i
+dette høje Ting at få lov at blive klogere.";Kai Dige Bach
+63748;name_party;":
+Det foreliggende forslag fra SF handler om, at
+man skal fremme medarbejdereje i dansk erhvervsliv. Det synes Fremskridtspartiet er glimrende. Fremskridtspartiet er positivt over for, at
+medarbejdere engageres i deres virksomhed
+ved, at de er medejere. De får et større engagement, og det er til gavn for virksomheden. Derfor er der da også mange virksomheder, som allerede nu har ordninger, hvor medarbejderne i
+høj grad er engageret gennem medarbejderaktier, gennem medarbejderejerskab osv.
+Men Fremskridtspartiet har nogle klare forudsætninger for, hvordan det skal ske. For det
+første skal det ske frivilligt: det er noget, den enkelte medarbejder frivilligt beslutter, om vedkommende vil være med til, og det er noget,
+man aftaler, hvis det skal ske. Dernæst skal det
+selvfølgelig være sådan, at man bruger de almindelige regler, som gælder, og at medarbejderen frit skal kunne sælge sine aktier.
+Jeg synes, at det er mere end betænkeligt, som
+det fremgår af SF's forslag under punkt 3 b, at
+
+Tirsdag den 10. januar 1995 (B 29)
+medarbejderfonden, når en medarbejder fratræder frivilligt uden at gå på pension, kan beslutte,
+om medarbejderen kan få pengene med. Jeg mener ud fra den erfaring, vi har med hensyn til de
+kollektive pengetanke, som vi jo kender godt og
+grundigt, og hvor mange af dem oven i købet er
+skabt af individuelle tilskud, at hvis der er noget, de ikke har, er det demokrati, og selv om de
+oprindelig havde demokrati, så skal ledelserne
+nok ved at stramme vedtægter og bestemmelser
+sørge for at fratage ejerne de demokratiske rettigheder, de i grunden havde. Jeg har ikke nogen som helst tro på, at den her kollektive form
+for ejerskab vil udvikle sig spor anderledes.
+Men hvis det drejer sig om at få en debat i
+gang om, hvordan vi får bedre mulighed for
+medarbejderne for at blive medejere af virksomhederne på frivillig basis, deltager Fremskridtspartiet meget, meget gerne.
+Vi deltager også gerne i initiativer, der kan
+sikre, at det frivillige engagement og lysten til at
+være medengageret i den virksomhed, man er
+ansat i, bliver fremmet.";Kirsten Jacobsen
+65839;name_party;":
+Tidligere var der mange, der gjorde korsets
+tegn, når man snakkede om medarbejderindflydelse, medarbejdereje, medarbejderdemokrati,
+spredning af ejendomsretten, ØD og OD, og
+hvad vi kaldte det alt sammen op igennem tiden. Der var nogle, der talte om socialisme eller
+kommunisme, kollektivisme. Vi har såmænd
+også hørt det i dag.
+Det er også på den baggrund interessant,
+hvad SF anfører i sine bemærkninger til forslaget, nemlig at modellen til det, man har her, har
+man hentet i USA og i Spanien. Spanien er måske ikke så overraskende, men USA er i hvert
+fald. Jeg mener at erindre - jeg kan ikke helt huske, om det står her i bemærkningerne til forslaget - at 18 pct. af arbejdspladserne i USA findes
+i virksomheder, som har denne form for ejerstruktur. Så det er meget interessant. Man kunne jo fristes til at tro, at de folk, der kommer
+med ind i den slags ordninger, ikke bliver småsocialister, men snarere bliver småkapitalister
+og får andre interesser, gør sig andre overvejelser, får andre motiver og andre behov.
+Man kunne også spekulere meget i retning af:
+Hvad mon det ville betyde for de kommende
+overenskomstforhandlinger her i Danmark, hvis
+der var en endnu mere udbredt anvendelse af
+medarbejderindflydelse og medarbejdereje på
+de danske arbejdspladser? Der ville måske blive
+
+1967
+
+stillet endnu færre krav med hensyn til forbedring af pengelønnen.
+Men i dag gør man ikke korsets tegn længere.
+I dag taler vi pænt om det, og så sker der måske
+ikke ret meget mere. For det er jo rigtigt, at vi i
+Danmark har muligheden for at gøre det, men
+statistikken viser, at det ikke er særlig udbredt i
+dansk erhvervsliv. Det beklager vi fra Det Radikale Venstres side, for vi ville meget gerne have
+det gennemført.
+Om det så er frivillighed eller tvang, ja, det
+kan man jo drøfte fra nu af og frem til dommedag. Hvis man har den slags tendenser, kan
+man jo finde på at sige til sine børn: Hvis du
+ikke spiser op, får du en lussing. Er det tvang?
+Hvis de spiser op, får de jo ingen lussing. (Tilråb). Nå, så får de en lussing alligevel, javel hjemme hos nogle af os!
+Men spørgsmålet er: Hvordan finder vi så
+den kombination af gulerod og pisk, som skal til
+for at få tingene til at bevæge sig? SF-forslaget
+er i så henseende interessant og godt og meget
+detaljeret, må man sige. Men på en række punkter er den løsningsmodel, man peger på, problematisk, synes vi i Det Radikale Venstre.
+Erhvervsministeren har været inde på det selskabsretlige i det. Det skal jeg ikke gå yderligere
+ind i, men jeg skal drage to elementer frem. Det
+ene er det skattemæssige, fradragsmæssige, og
+det andet har med pensionen at gøre, det dér
+med, at hvis éns pension er til stede i den virksomhed, hvor man har sin ansættelse, risikerer
+man, hvis den går nedenom og hjem, ikke bare
+at miste sit job, men også at miste sin pension:
+det er jo en ubehagelig situation.
+Vi har i et tidligere radikalt forslag været inde
+på en ordning, hvor der kunne ske en statslig
+overtagelse af pensionsfor pligtelsen, efterhånden som den skulle realiseres over for den enkelte medarbejder. Det vil sige, at man derigennem fik en garanti for, at man ikke mistede sin
+pension. Men med den nye arbejdsmarkedspensionsordning må vi jo nok erkende også i mit
+parti, at tiden så at sige er løbet fra den del af det
+- hr. Per Kaalund var inde på det - og derfor er
+det incitament, den gulerod og den pisk, måske
+ikke rigtig anvendeligt.
+Så er der det med skattefradragene. Efter at
+skattereformen blev vedtaget her i Folketinget
+forrige år må vi fra Det Radikale Venstres side
+sige, at desværre, synes vi ikke, at skattefradragsguleroden er anvendelig længere: så også
+på det punkt må vi tage forbehold.
+,Vi er imidlertid ikke et sekund i tvivl om, at""
+
+1968
+
+Tirsdag den 10. januar 1995 (B 29)
+
+især spørgsmålet om stigende medarbejderindflydelse vil tage mere og mere opmærksomhed i
+de kommende år, at den managementstruktur,
+som vi vil komme til at se også i danske erhvervsvirksomheder, vil blive helt anderledes
+flad og decentraliseret, og derfor vil vi givetvis
+vende tilbage til det her spørgsmål også her i
+Folketingssalen.";Bjørn Elmquist
+69947;name_party;":
+Jeg vil lige starte med en kommentar til hr. Kai
+Dige Bach, der talte om frivillighed og om, hvor
+vigtigt det er, at man kan gå ud og ind af en
+virksomhed efter eget ønske og selv bestemme,
+om man vil eje eller ikke vil eje.
+Det er jo helt rørende at høre om al den her
+frivillighed. I et samfund, hvor enkelte familier
+og enkelte fonde i den grad har dominans over
+den største og mest afgørende del af erhvervslivet, er der jo ikke meget tale om frivillighed, når
+det drejer sig om at gå ind og eje A.P. Møller eller nogle af de andre store koncerner.
+Man kunne vel også lige tilføje, at når man nu
+taler så meget om frivillighed, ville det jo være
+rart, hvis de ansatte havde bare noget, der mindede om samme frivillighed, samme mulighed
+for at vælge, om de f.eks. vil være ansat eller
+ikke ansat: men det er jo nogle andre, der bestemmer det.
+Ellers vil jeg til SF's forslag om fremme af
+medarbejdereje sige, at intentionerne i forslaget
+er vi selvfølgelig fuldstændig enige i. Der er
+brug for en demokratisering af økonomien, der
+er brug for, at det enkelte menneske får mere direkte indflydelse på dagligdagen, og at de ansatte får mere indflydelse på den virksomhed,
+de arbejder i. Vi er fuldstændig enige. Det
+spørgsmål, vi vil rejse sådan rimelig fredsommeligt, er bare, om SF's forslag er et godt skridt i
+den retning. Det er vi ikke så sikre på.
+Lad os bare tage begrundelserne i forslaget
+om monopolerne, der dominerer investeringer,
+og man kunne tilføje: den internationale handel.
+Er der f.eks. nogen udsigt til, at sådan et forslag
+som dette vil ændre på de økonomiske magtforhold? Vi står meget tvivlende over for, at de vil
+ændre så meget som en tøddel ved, hvem der
+bestemmer over økonomien her i landet.
+Nu behøver sådan en konstatering jo ikke i
+sig selv at betyde, at man så siger nej til hele forslaget. Man kunne jo lade det komme an på en
+prøve. Det er jo ikke nogen dårlig idé at sige:
+Lad os se, om noget kan spire og blive til mere,
+end det måske umiddelbart ser ud til. Derfor vil
+
+vi da heller ikke bruge denne indledende betragtning til at så tvivl om forslaget.
+Nu hørte jeg jo godt nok før fra hr. Kjeld
+Rahbæk Møller, at man er særlig fundamentalistisk, hvis man går imod flere skattefradrag til
+erhvervslivet: hvis det er fundamentalisme, så
+er jeg med på den. Vi vil nemlig godt stille
+spørgsmålet, om det er en god idé også her at
+foreslå et nyt skattefradrag, om det er en god idé
+at lokke de enkelte lønmodtagere til at putte surt
+sammensparede penge i den virksomhed, hvor
+de er ansat, måske deres pensionspenge f.eks.
+som her uden nogen som helst garanti for reel
+indflydelse på virksomhedens ledelse.
+Hvis forslaget bliver vedtaget, som det ser ud
+nu, er jeg bange for, at den største effekt, det vil
+få, i virkeligheden vil være, at når en ejer er ved
+at have kørt en virksomhed i sænk, vil han komme susende til medarbejderne og sige: »Skynd
+jer nu at putte nogle penge i virksomheden med
+skattebegunstigelse«, og på den måde være med
+til, at medarbejderne får et stort tab, når virksomheden så alligevel lukker.
+Vi er generelt imod skattefradrag, og det er
+også en af grundene til, at vi ikke uden videre
+støtter forslaget, og vi er faktisk også imod at
+udvide mulighederne for private pensionsopsparinger, som der også ligger i forslaget.
+Jeg vil også gerne spørge, om erfaringerne fra
+udlandet nu også er så positive, som de umiddelbart lyder i bemærkningerne til forslaget. Der
+nævnes f.eks. Chrysler. Ugeavisen Den Røde
+Tråd har forhørt sig i USA - det kommer i det
+næste nummer - om, hvad man kender til en
+særlig demokratisk styring af Chrysler. Indtil
+videre har de i hvert fald ikke fundet nogen, der
+kan bekræfte, at der er sket sådan en demokratisering af denne bilgigant. Der er vistnok noget
+med en overskudsdelingsordning, men uden
+nogen særlig tilsvarende medarbejderindflydelse. Jeg kunne da godt tænke mig at høre, om
+man har andre oplysninger.
+Vi undrer os i det hele taget lidt over, at man i
+den grad fra SF's side fremhæver USA som et
+eksempel på et land, som skulle være kommet
+længst i retning af at få demokratiseret erhvervslivet.
+Jeg vil godt spørge om de dér mange arbejdspladser, og det er jo åbenbart millioner, vi taler
+om i USA, og om den demokratisering, der angivelig skulle ligge i det, har haft nogen særlig
+positiv effekt for de ansatte eller for demokratiet
+i USA.
+For mit vedkommende opfatter jeg ikke USA
+
+(247)
+Tirsdag den 10. januar 1995 (B 29)
+som noget særligt i retning af demokrati, og jeg
+synes jo nok, at SF, når man i den grad bruger
+USA som et forbillede for forslaget - og det er jo
+nok ikke for at lokke os til at støtte det, det er jo
+nok for at drille andre - i højere grad burde have begrundet, hvorfor man mener, det ser så
+godt ud derovre,
+Så er jeg nødt til at slutte og vil sige, at vi godt
+vil være med til at diskutere overgang til medarbejdereje og også f.eks. statslån til, at ansatte
+kan overtage deres virksomhed, og en forkøbsret f.eks., men vi vil ved en anden lejlighed
+komme med helt andre forslag til, hvordan vi
+mener erhvervslivet skal demokratiseres her i
+landet.";Frank Aaen
+75052;name_party;":
+Hvis nogle af dette høje Tings medlemmer skulle forsøge at sætte sig ind i et United Airlinesfly, vil de opleve, at når de bliver budt velkommen, som man jo gør i sådan et fly, bliver det
+oplyst, at det er en af virksomhedens medejere,
+der byder én velkommen, og om kort tid vil
+nogle andre af virksomhedens medejere gå
+rundt og servere frokost for én. United Airlines
+er en af de virksomheder, som for ganske nylig
+er overtaget af virksomhedens medarbejdere.
+Det er blevet et stort fænomen i USA.
+Hr. Bjørn Elmquist spurgte, om det var 18 pct.
+Så vidt jeg husker, er det 11 pct. af amerikanske
+ansatte, der er ansat i virksomheder, som er ejet
+af medarbejderne selv. Det skal dog siges, også
+til hr. Frank Aaen, at en del af dem - en ganske
+pæn del af dem - nok er mere managementejede, end de er totalt medarbejderejede, men en
+del af dem er bredt ejet af samtlige medarbejdere og demokratisk ledet. Jeg kan ikke gå ind på,
+hvordan det forholder sig med de enkelte virksomheder, for jeg ved det ikke godt nok til at
+oplyse om det.
+Det er lidt interessant, at sådan et fænomen,
+som altså er så udbredt i USA, her i dette Folketing mødes med argumenter om, at det er den
+rene socialisme. Det havde vi ikke forestillet os.
+Det er trods alt noget nyt, at Reagan og Bush
+kaldes for socialister. Jeg har ikke noget imod at
+blive kaldt socialist, men jeg har en fornemmelse
+af, at de to ville opfatte det som et skældsord.
+Ikke desto mindre har de fungeret som præsidenter samtidig med, at en sådan ordning har
+bredt sig.
+Det hænger måske sammen med, at der er lidt
+mere pragmatisme i det samfund og i stedet for,
+at alle her står op og siger, at det er fint, hvis
+
+1969
+
+medarbejdere ejer deres virksomheder, har nogle sat sig ned på et tidspunkt derovre og har
+spurgt sig selv: Hvad er det egentlig for problemer, der gør, at der ikke er flere, der gør det? Og
+så har man fundet ud af, at et af de store proble^
+mer er, at hvis medarbejderne skal overtage deres virksomhed, viser det sig, at det kun er nogle
+af dem, der har kapital til det. Det store flertal af
+medarbejdere i en hvilken som helst dansk eller
+amerikansk virksomhed vil ikke være i stand til
+at rejse den nødvendige kapital. Og så har man
+indført ordninger, der sikrer, at de kan låne kapitalen. De har ikke brugt den ordning, vi foreslår: de har brugt en ordning med, at en del af
+bankens overskud på den slags ordninger er
+skattefri. Det har vi ikke syntes var en god ordning, så vi har valgt en anden.
+Vi er inspireret bl.a. af amerikanske ordninger, men det er ikke det eneste sted i verden,
+hvór der er medarbejdereje. Et andet eksempel,
+der er nævnt i bemærkningerne, er Mondragonområdet i Baskerlandet, hvor det er en meget
+brugt ordning. Men de amerikanske ordninger
+med en række modifikationer har været lidt lettere at overføre til danske forhold. Det er ikke en
+afskrift, men vi har taget fat på de problemer,
+som amerikanerne har løst, og fundet danske
+løsninger på dem.
+Så kommer der selvfølgelig en masse kritik,
+fordi man altså ikke kan gå ind for det her. Man
+siger, at det ville være helt fint, hvis det var muligt, men at vi altså ikke kan gøre som amerikanerne. Det er for socialistisk for stort set samtlige partier i dette Ting, og så finder man den ene
+mærkelige ting efter den anden.
+En ting, som f.eks. alle ministrene og regeringspartiernes ordførere var inde på, var: Hvad
+nu hvis man har bundet sin pension i sådan en
+virksomhed, og den så går ned? Det viser bare,
+at den embedsmand, der åbenbart har skullet
+give regeringspartierne sådan en eller anden
+vejledning, ikke har læst forslaget godt nok, for
+der står faktisk udtrykkeligt, at de penge, man
+skyder ind, som er en erstatning for pensionskapital, kun må gælde i 5 år. Derefter er indskuddet maksimeret til 5 pct., medmindre de resterende 10 pet. går ind på en ganske almindelig
+pensionsordning netop for at undgå, at man
+mister hele pensionen, hvis virkomheden går
+ned. Det er banalt, at man kommer til at miste
+noget af det, men det er altså meget begrænset.
+Det er der altså én der desværre ikke har læst:
+det ville give en lidt bedre debat, hvis det havde
+været tilfældet.
+
+1970
+
+Tirsdag den 10. januar 1995 (B 29)
+
+De borgerlige var meget inde på, at det skulle
+være frivilligt, og mig bekendt er det sådan i
+USA, at der er ingen, der er tvunget. Man er
+ikke kommet med nogen pisk og har sagt til
+United Airlines medarbejdere, at de skal. De ansatte har undersøgt de ordninger, der er, og så
+har de fundet ud af, at i det her tilfælde vil de
+købe. Der er ingen som helst tvang i det hér: det
+er en ren og skær frivillig ordning. Der er nogle
+praktiske muligheder, der gør, at det vil brede
+sig, og det er det, vi foreslår, men det er noget
+helt andet. Det har intet med tvang at gøre.
+Så brokkede hr. Kai Dige Bach sig over, at de
+skulle have en medarbejder i bestyrelsen, men
+sagen er jo den, at der er ingen, der siger, at fordi en medarbejder ejer en aktie eller alle medarbejdere ejer nogle aktier, skal de have en medarbejder i bestyrelsen. Det, der står i forslaget, er,
+at hvis man kalder sig en medarbejderejet virksomhed eller en virksomhed med medarbejderandel, skal man leve op til nogle kriterier. Det er
+vel ikke urimeligt, at hvis man markedsfører sig
+som havende en bestemt kvalitet, skal denne
+kvalitet have et mindsteindhold.
+Til slut skal jeg takke hr. Bjørn Elmquist, som
+var meget positiv - sådan opfattede jeg det over for hele tankegangen. Han fandt også nogle hår i suppen, men var dog den mest positive
+af ordførerne. Jeg håber, vi kan arbejde videre
+med den slags tanker, for jeg tror, at i hvert fald
+vores to partier føler, at det er et problem, at der
+er så få virksomheder, som er ledet og ejet af deres medarbejdere, og at vi på en eller anden måde må finde en pragmatisk løsning. Vi har søgt
+at komme med et bud efter udenlandsk inspiration, men det var altså, har jeg fået at vide i dag,
+en for socialistisk inspiration, jeg havde fundet,
+og jeg ved ikke, hvor jeg kan finde den mindre
+socialistisk, men det er i øvrigt heller ikke det,
+jeg søger. For mig må løsninger meget gerne
+være socialistiske, de må også gerne være ikkesocialistiske, bare de er gode.
+
+Men jeg vil gerne spørge direkte om noget.
+Nu henviser hr. Rahbæk Møller til, at der er den
+samme socialisme i USA. Så spørger jeg: Er denne ordning en kopi af USA, som vi ikke kender,
+og kautionerer den amerikanske stat også for de
+lån, som medarbejderfonden eller medarbejderen skal have for at købe virksomheder op?
+Som jeg sluttede med før, vil jeg sige, at jeg i
+øvrigt glæder mig til at studere det udenlandske
+i udvalget, for jeg sidder ikke inde med de oplysninger om udenlandske ting, som hr. Rahbæk
+Møller gør. Så jeg synes nok, at det må være
+bedre at vende det i udvalget, når vi andre også
+har haft lejlighed til at studere det.";Kjeld Rahbæk Møller
+81862;name_party;":
+Jeg beklager, at jeg ikke har læst det dér om
+medarbejderfonden. Der står her: »... medarbejderfonden uanset indskuddets størrelse er
+garanteret en plads i virksomhedens bestyrelse.« Jeg har ikke læst ordets markedsføring som
+medarbejderhistorie, men det glæder mig jo i
+hvert fald, at det ikke har været meningen, at
+man skulle have det under alle omstændigheder. Så er det sådan set ligegyldigt, hvad der
+står, hvis bare det ikke er meningen, kan vi jo
+ikke blive uenige om det.
+
+Afstemning";Kai Dige Bach
+82382;name_party;":
+Til hr. Kai Dige Bach: Først definerer loven,
+hvad der skal forstås ved medarbejderejet virksomhed eller en virksomhed med medarbejderandel, og så defineres der nogle krav til, at man
+kan bruge denne betegnelse. Der er intet i vejen
+for, at hr. Kai Dige Bach afsætter en del af sin
+virksomhed til nogle af sine medarbejdere uden
+at opfylde dette lovforslags krav, men så kan
+han altså ikke, hvis det skulle blive vedtaget,
+bruge den pågældende betegnelse.
+Hvad angår USA: Nej USA giver ikke statsgaranti for tilskud. De bruger en anden model,
+hvor de giver banken skattesubsidier, hvis den
+giver lån til denne type formål. Det er ret generelt, at vi ikke bare har skrevet nogle amerikanske vilkår af, for mange forhold er anderledes i
+Amerika. Vi har forsøgt at gå ind på de amerikanske løsninger af konkrete problemer og har
+fundet de samme eller andre løsninger på de
+samme problemer.
+Men i øvrigt er jeg enig med hr. Kai Dige Bach
+i, at vi selvfølgelig skal have de amerikanske bestemmelser, og så skal vi sammenligne.
+Hermed sluttede forhandlingen.
+
+Forslagets overgang til anden (sidste) behandling vedtoges uden afstemning.";Kjeld Rahbæk Møller
+83525;title_name;"Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Erhvervsudvalget. Hvis ingen gør
+indsigelse mod dette forslag, betragter jeg det
+som vedtaget. (Ophold). Det er vedtaget.
+
+Tirsdag den 10. januar 1995 홢
+Den sidste sag på dagsordenen var:
+4) Valg af 4 medlemmer og 4 stedfortrædere til
+Væmepligtsnævnet for tiden 1. januar 1995-31.
+december 1998.";Formanden
+83898;title_name;"Til dette valg er anmeldt følgende valggrupper:
+En gruppe på 95 medlemmer: Socialdemokratiet, Socialistisk Folkeparti, Det Radikale Venstre,
+Enhedslisten og Centrum-Demokraterne: en
+gruppe på 83 medlemmer: Venstre, Det Konser""vative Folkeparti og Fremskridtspartiet.
+Valgt blev:
+Til medlemmer:
+1. Ingrid Rasmussen (S)
+2. Poul Andersen (S)
+3. Birthe Rønn Hornbech (V)
+4. Kaj Ikast (KF)
+Til stedfortrædere:
+1. Helen Beim (S)
+2. Vibeke Grønbæk (RV)
+3. Anders Mølgaard (V)
+4. Mogens Christensen (udpeget af ,FP)
+Meddelelser fra formanden";Formanden
+84443;title_name;"Der er ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Europaudvalget (16/12 94):
+Udtræder: Jens Kirk (V)
+Nyt medl.: Bodil Thrane (V)
+Udtræder: Anne Baastrup (SF)
+Ny stedf.: Jørn Jespersen (SF)
+Det Energipolitiske Udvalg (16/12 94):
+Udtræder: Jette Gottlieb (EL)
+Ny stedf.: Bent Hindrup Andersen (EL)
+Kulturudvalget (16/12 94):
+Udtræder: Søren Søndergaard (EL)
+Ny stedf.: Bent Hindrup Andersen (EL)
+Landbrugs- og Fiskeriudvalget (16/12 94):
+Udtræder: Keld Albrechtsen (EL)
+Nyt medl.: Bent Hindrup Andersen (EL)
+
+1971
+
+Udtræder: Bruno Jerup (EL)
+Ny stedf.: Keld Albrechtsen (EL)
+Miljø- og Planlægningsudvalget (16/12 94):
+Udtræder: Bruno Jerup (EL)
+Nyt medl.: Bent Hindrup Andersen (EL)
+Ø-kontaktudvalget ,(16/12 94):
+Udtræder: Frank Aaen (EL)
+Nyt medl.: Bent Hindrup Andersen (EL)
+Europaudvalget (17/12 94):
+Udtræder: Jørn Jespersen (SF)
+Ny stedf.: Anne Baastrup (SF)
+
+,
+
+Forsvarsudvalget (17/12 94):
+Udtræder: Anna-Marie Hansen (S) :
+Ny stedf.: Helle Degn (S)
+Udtræder: Helle Degn (S)
+Nyt medl.: Anna-Marie Hansen (S)
+Udtræder: Helle Degn (S)
+Ny stedf.: Per Kaalund (S)
+Det Politisk-Økonomiske Udvalg (19/12 94):
+Udtræder: Lise Hækkerup (S)
+Nyt medl.: Hardy Hansen (S)
+Erhvervsudvalget (19/12 94):
+Udtræder: Lise Hækkerup (S)
+Nyt medl.: Hardy, Hansen (S)
+Europaudvalget (19/12 94):
+Udtræder: Søren Pind (V)
+Ny stedf.: Niels Anker Kofoed (V)
+Udtræder: Bodil Thrane (V) :
+Nyt medl.: Jens Kirk (V)
+Forskningsudvalget (19/12 94):
+Udtræder: Lise Hækkerup (S). ,
+Nyt medl.: Hardy Hansen (S).
+Forsvarsudvalget (19/12 94):
+Udtræder: Per Stig Møller (KF) ,
+Ny stedf.: Frank Dahlgaard (KF)
+Folketingets næste møde afholdes i morgen,
+onsdag den 11. januar 1995, kl. 13.00.
+Angående dagsordenen skal jeg henvise tilI :
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 14.38.";Formanden

@@ -1,0 +1,2708 @@
+split;reason;text;value
+0;;"(292)
+Onsdag den 26. marts 2008 (D)
+
+43. m ø d e";
+84;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+(Se nedenfor).
+
+1) Til forsvarsministeren af:";kl. 13.00
+292;name_party;":
+Hvad er ministerens holdning til den kartouche,
+facadeudsmykning, som det er hensigten at opsætte på Livgardens Kaserne i København til regimentets 350-års-jubilæum til sommer, og hvor
+dronning Margrethes navnetræk næsten skjules
+af svulmende faner i grønne, ikke rød-hvide,
+farver?
+(Spm. nr. S 568 (omtrykt)).
+2) Til finansministeren af:";Søren Krarup
+649;name_party;":
+Mener ministeren, at det er rimeligt og i overensstemmelse med regeringens egne valgløfter
+om både mere velfærd og skattelettelser, når
+Hjørring Kommune tvinges til at fyre 50 SOSUassistenter på grund af regeringens trusler om
+økonomisk straf af kommunerne?
+(Spm. nr. S 889 (omtrykt)).
+3) Til miljøministeren af:";Rasmus Prehn
+982;name_party;":
+Hvad er ministerens holdning til, at arbejdet i
+arbejdsgruppen vedrørende den fremtidige anvendelse af Auderødlejren og af Sjælsmark Kaserne stadig ikke er afsluttet?
+(Spm. nr. S 899, skr. begr.).
+
+2329
+
+4) Til beskæftigelsesministeren af:";Klaus Hækkerup
+1240;name_party;":
+Hvad mener ministeren der bør gøres for at bekæmpe tvangsarbejde og menneskehandel?
+(Spm. nr. S 984).
+5) Til velfærdsministeren af:";Line Barfod
+1390;name_party;":
+Mener ministeren, at offentligt ansatte bør opmuntres til at bruge deres ytringsfrihed til at fortælle om ulovligheder og urimeligheder, de oplever på deres arbejde?
+(Spm. nr. S 985).
+6) Til velfærdsministeren af:";Line Barfod
+1633;name_party;":
+Hvad vil regeringen tage af initiativer for at sikre, at der også i fremtiden er boliger, som almindelige mennesker kan betale?
+(Spm. nr. S 987, skr. begr.).
+7) Til velfærdsministeren af:";Sophie Hæstorp Andersen
+1850;name_party;":
+Hvilke initiativer vil regeringen tage for, at dommen fra Odense Byret den 6. marts 2008, hvor en
+familie fik tilkendt erstatning som følge af at være flyttet ind i en nybygget bolig med skimmelsvamp, også kan komme borgere med skimmelsvamp i ældre byggeri til gode?
+(Spm. nr. S 990).
+8) Til kulturministeren af:";Sophie Hæstorp Andersen
+2182;name_party;":
+Mener ministeren, at det er acceptabelt, at regeringens manglende bevillinger til Nationalmuseet og Statens Museum for Kunst udsætter institutionerne for et økonomisk pres, der bl.a. viser sig ved manglende muligheder for at indkøbe kunst, jf. den i begrundelsen nævnte udtalelse fra lederen af Statens Museum for Kunst?
+(Spm. nr. S 991, skr. begr.).
+9) Til kulturministeren af:";Mogens Jensen
+2580;name_party;":
+Hvad vil ministeren gøre for at tilføre Nationalmuseet og Statens Museum for Kunst de nødvendige ressourcer til at sikre kvaliteten af institutionernes arbejde?
+(Spm. nr. S 992).
+
+2330
+
+Onsdag den 26. marts 2008 (US 52)";Mogens Jensen
+2812;Time;Meddelelser fra formanden;Kl. 13:00
+2851;title_name;"Mødet er åbnet.
+Fra medlem af Folketinget Charlotte Dyremose
+(KF), der har orlov, har jeg modtaget meddelelse
+om, at hun fra og med den 27. marts 2008 atter
+kan give møde i Tinget.
+Henrik Rasmussens hverv som midlertidigt
+medlem af Folketinget ophører fra nævnte dato
+at regne.
+Fra medlem af Folketinget Louise Schack Elholm (V), der har orlov, har jeg modtaget meddelelse om, at hun fra og med den 1. april 2008
+atter kan give møde i Tinget.
+Flemming Møllers hverv som midlertidigt
+medlem af Folketinget ophører fra nævnte dato
+at regne.";Formanden
+3399;Time;Velkomstord;Kl. 13:00
+3423;title_name;"Jeg kan sige til de tilstedeværende medlemmer i
+Folketingssalen, at Folketinget i disse dage har
+officielt besøg fra Bulgariens parlament under
+ledelse af formanden for parlamentet, hr. Georgi
+Pirinski.
+På Folketingets vegne byder jeg den bulgarske delegation hjertelig velkommen i Folketinget, idet jeg udtrykker ønsket om, at vore bulgarske gæster må få et godt og udbytterigt ophold i Danmark som et godt grundlag for det
+fremtidige gode samarbejde mellem det bulgarske parlament og det danske Folketing. Hjertelig
+velkommen.
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).";Formanden
+4066;Time;;Kl. 13:01
+4078;title_name;"Til at besvare spørgsmål i spørgetimen i dag har
+statsministeren udpeget justitsministeren og velfærdsministeren og ministeren for ligestilling.
+
+Til justitsministeren er anmeldt følgende
+spørgere:
+Simon Emil Ammitzbøll (RV)
+Hanne Agersnap (SF)
+Marlene Harpsøe (DF)
+Til velfærdsministeren og ministeren for ligestilling er anmeldt følgende spørgere:
+Rasmus Prehn (S)
+Line Barfod (EL)
+Yildiz Akdogan (S)
+Sophie Hæstorp Andersen (S)
+Anne-Marie Meldgaard (S)
+Er der flere, der ønsker at melde sig som
+spørgere?
+Det er ikke tilfældet.
+Så kan jeg oplyse, at i første runde har spørger og minister begge op til 2 minutters taletid
+og herefter følger to runder, hvor spørger og minister hver gang har 1 minuts taletid.
+Jeg giver her ordet til hr. Simon Emil Ammitzbøll for spørgsmål til justitsministeren.";Formanden
+4886;Time;Spm. nr. US 52;Kl. 13:02
+4928;name_party;":
+Der har jo været en del diskussion om bandekriminalitet her på det seneste, og det er det, jeg
+gerne vil spørge lidt ind til.
+Jeg vil starte med at sige, at Det Radikale Venstre står fuldstændig bag regeringens linje, med
+hensyn til at der skal slås hårdt ned i forhold til
+bander, og at vi selvfølgelig også bakker op om,
+at vi skal slå hårdt ned over for dem, som bærer
+ulovlige våben - bare så det ikke er det, der bliver diskussionen.
+Men herefter vil jeg rette mig imod, hvad regeringen har tænkt sig at gøre på lidt længere
+sigt, for jeg synes, at der er lidt for meget tendens til, at hver gang sagerne kommer op, bliver
+der sagt, at nu skal der vises handlekraft, men
+hvad sker der egentlig? Jeg har tidligere henvendt mig til ministeren med et ønske om, at vi
+sammen med forligspartierne bag politiforliget
+kunne lave noget om en national bandeplan. Det
+synes jeg desværre ikke jeg har fået så meget
+svar på, for nu at sige det sådan, så jeg kunne
+egentlig godt tænke mig at høre, hvad ministeren synes der ligger i pipelinen i forhold til at
+gøre noget ved de her bander.";Simon Emil Ammitzbøll
+6021;Time;;Kl. 13:03
+6033;title_name;"Justitsministeren.
+
+Onsdag den 26. marts 2008 (US 52)";Formanden
+6097;Time;;Kl. 13:04
+6131;title_name;":
+Jeg vil sige til hr. Simon Emil Ammitzbøll, at jeg
+også er utrolig glad for, at Det Radikale Venstre
+bakker op om de stramninger, som jeg er på vej
+med på vegne af regeringen.
+Jeg tror, at der er behov for en indsats, der populært sagt går på to ben. Jeg mener, at det er
+vigtigt i forhold til de organiserede bander - de
+rå personer, der optræder truende og farlige ude
+i det offentlige rum, der skyder omkring sig, slår
+andre mennesker ihjel - at der naturligvis skal
+være en barsk konsekvens, en nultolerancepolitik. Der er da ingen tvivl om, at det lovforslag,
+som jeg kommer med, der jo forøger strafferammen til det dobbelte, giver mulighed for
+straksfængslinger, altså retshåndhævelsearrest
+over for dem, der bliver taget med farlige skydevåben i det offentlige rum, hurtig domstolsbehandling og så en konsekvensindsats over for
+dem, der går med ulovlige knive. Det er noget af
+det, der kan vise, at vi som samfund ikke tolererer det. Men jeg er enig med hr. Simon Emil Ammitzbøll i, at det ikke kun er det ene ben, man
+kan hoppe på, nemlig den barske strategi over
+for de organiserede bander. Det er også vigtigt,
+at der er en forebyggende indsats i forhold til lillebrødrene, i forhold til alle dem, der er på vej
+ud i kriminalitet og på vej til at blive tilknyttet
+de organiserede bander.
+Da rigspolitichefen og jeg lancerede strategien mod bandekriminalitet for 3 år siden, gik
+den jo netop ud på at sige: Vi bekæmper de organiserede bander med præcis de samme metoder, som vi bekæmpede rockerne med. Det er
+altså heller ikke sådan, at det står i retsplejeloven, at det kun er rockere, man kan aflytte. Det
+er alle, der overtræder lovgivningen, der kan
+bekæmpes med de metoder, men lillebrødrene
+skal vi altså også have fat i. Der kommer rigspolitichefen jo med en statusrapport her i foråret,
+der belyser forløbet af de her 3 år, hvor man har
+brugt mentorordninger, gademedarbejdere og
+andet, og hvad der virker forebyggende i forhold til at bekæmpe den tendens, der er, til at
+unge kommer ind i banderne. Jeg er meget, meget villig til at drøfte også i kredsen af partier,
+der står bag politiforliget, om der er noget, vi
+kan fylde på den indsats.";Lene Espersen
+8303;Time;;Kl. 13:06
+8315;title_name;"Hr. Simon Emil Ammitzbøll.
+
+2331";Formanden
+8358;Time;;Kl. 13:06
+8385;name_party;":
+Det glæder jeg mig til, og også til de drøftelser.
+Jeg synes nemlig, at det er meget vigtigt, det,
+som justitsministeren også er inde på her, nemlig at det går på to ben. Man kan sige, at der er ,
+en utrolig stor effektivitet, når det drejer sig om
+at følge op på det første ben, nemlig det, der
+handler om at slå hårdere ned. Der må man sige,
+at der er regeringens - hvad skal vi sige? - effektivitet i forhold til, hvornår man starter med at
+ville gøre noget, og hvornår man så træffer en
+beslutning, utrolig hurtig, responstiden er hurtig, det var det, jeg ville sige, hvorimod når det
+handler om det forebyggende, må man sige, at
+der er der nok mere nogle startproblemer, eller
+hvordan man nu skal formulere det.
+I januar måned havde vi en debat, en hasteforespørgsel om voldskriminalitet her i Folketingssalen. Der lavede vi en fælles' vedtagelse
+bl.a. regeringen, Det Radikale Venstre og nogle
+andre partier, og der lagde vi os netop fast på
+den her tobenede strategi. Jeg vil sige, at det første ben allerede er effektueret. Med hensyn til
+det andet ben, der handler om at følge op i forhold til en tidligere og mere effektiv forebyggende indsats, synes jeg, at vi mangler noget. Nu er
+det selvfølgelig heldigt, at justitsministerens kollega også er til stede i salen, altså velfærdsministeren, for det kan godt være, at det er noget
+med noget connection mellem netop de to ministerier, der skal gøres noget mere ved. Jeg tror i
+hvert fald, der både skal sættes flere midler af og
+tages en lang række initiativer i forhold til det
+forebyggende arbejde.";Simon Emil Ammitzbøll
+9956;Time;;Kl. 13:07
+9968;title_name;Ministeren.;Formanden
+9989;Time;;Kl. 13:07
+10023;title_name;":
+Jeg vil sige til hr. Simon Emil Ammitzbøll, at jeg
+synes, det er væsentligt at blive ved med at have
+fokus på begge områder, men man kan sige, at
+forskellen er, når det gælder nultolerancen over
+for de organiserede kriminelle, dem, der er uden
+for pædagogisk rækkevidde, at det nogle gange
+er enklere at komme med et lovforslag og andet,
+der sådan meget målrettet går til benet mod
+dem. Når det gælder den forebyggende indsats,
+er der jo tale om et meget mere flerfacetteret initiativ. Det er mange, mange forskellige ting,
+hvor det i nogle kommuner er nogle ting, der
+virker, og i andre kommuner er det andre red-
+
+2332
+
+Onsdag den 26. marts 2008 (US 53)
+
+skaber, der virker. Og de kører altså, det har de
+faktisk gjort længe.
+Nu kommer der en statusrapport om, hvordan det går. Er der nogen ting, man kan blive
+bedre til? Jeg har også nedsat en ungdomskommission for godt et halvt års tid siden, og det er
+faktisk også i en erkendelse af, at jeg tror, der
+mangler nogle redskaber i værktøjskassen i forhold til at få fat på de helt unge, der bliver meget
+forrået i en tidlig alder.
+Afslutningsvis vil jeg sige, at jeg faktisk synes, at hr. Simon Emil Ammitzbølls partifælle,
+hr. Manu Sareen, har sagt noget meget klogt i
+den diskussion, der har været her i januar og februar måned, nemlig at der nok også er behov
+for at se på, hvad man gør ude i kommunerne
+her og nu, fordi nogle steder kører der mange
+forskellige projekter og initiativer, men det er
+ikke godt nok koordineret, og der er måske nogle af tingene, der skulle afskaffes, til fordel for at
+man så fokuserer mere på nogle andre områder,
+og det er vi bestemt også villige til at lytte til.";Lene Espersen
+11689;Time;;Kl. 13:08
+11701;title_name;"Ja. Og det er hr. Simon Emil Ammitzbøll for et
+sidste spørgsmål.";Formanden
+11775;Time;;Kl. 13:08
+11802;name_party;":
+Det sidste kan vi selvfølgelig hurtigt blive enige
+om. Jeg mener stadig væk, at når regeringen nu
+har siddet i 7 år, så kan man i hvert fald se, at der
+ikke sker nok på det forebyggende område, og
+jeg er glad for, at justitsministeren lover her i
+dag, at det skal der ses endnu mere på, sådan at
+vi kan komme noget af den her bandekriminalitet til livs.
+Afslutningsvis vil jeg godt lige stille et sidespørgsmål, hvis vi kan kalde det det, og det er:
+Jeg kunne godt tænke mig at høre, om justitsministeren på egne og regeringens vegne ville forholde sig til en enkelt ting, der er kommet fra
+Venstres medlem af Retsudvalget, hr. Søren
+Pind, her i de seneste dage, nemlig den relativering, der er blevet lavet til den besættelse, Danmark var udsat for fra 1940 til 1945, hvor man
+sammenligner de melmesker, der går rundt med
+ulovlige våben i dag, med det, som vi oplevede
+under anden verdenskrig. Jeg synes, at det er en
+helt utilstedelig sammenligning at relativere til,
+hvad der skete under anden verdenskrig og nazisternes besættelse af Danmark. Det synes jeg
+er meget forkert, og jeg håber, at justitsministeren også her vil gøre klart, at det hverken er hendes eller regeringens politik.";Simon Emil Ammitzbøll
+13005;Time;;Kl. 13:10
+13017;title_name;Det er ministeren.;Formanden
+13046;Time;;Kl. 13:10
+13080;title_name;":
+Jeg vil starte med at sige til hr. Simon Emil Ammitzbøll, at jeg bestemt mener, at den forebyggende indsats, der har været de sidste godt 6 år,
+har vist, at alting trækker i den rigtige retning.
+Hvis vi ser på statistikkerne, kan vi se, at der er
+færre og færre unge, der bliver kriminelle, så
+den forebyggende indsats går i den rigtige retning. Det, der er det bekymrende, er, at individerne i den lille restgruppe, der er tilbage, og
+som altså bliver mindre og mindre, bliver mere
+og mere forråede kriminelle, og det er jo med
+baggrund i det, at vi må se på, om der er nye
+redskaber, der skal på banen, en tidligere indsats
+og meget andet, hvis vi skal have bedre fat i
+dem. Og der mener jeg simpelt hen, at man må
+være fordomsfri og se på alt, der kan virke i forbindelse med den gruppe.
+Jeg har ikke set den udtalelse fra Venstres
+medlem af Folketinget. Hr. Søren Pind har jo
+sagt så meget de sidste par dage. Jeg har mest
+lagt mærke til de ting, han har udtalt sig om,
+hvor han sparker åbne døre ind, men lad nu det
+være. Der er meget, man kan være enige om, jeg
+vil bare gerne understrege her, at der hverken er
+nogen begrundelse for at gå med knive eller andre våben i Danmark. Jeg ønsker ikke retsløse
+tilstande i Danmark, og jeg ønsker under ingen
+omstændigheder selvtægt. Jeg ved ikke, om det
+var det, hr. Simon Emil Ammitzbøll henviste til,
+eller det var en helt anden diskussion, men jeg
+blot sige, at det jo er frit for folketingsmedlemmer at diskutere med hinanden.";Lene Espersen
+14571;Time;;Kl. 13:11
+14583;title_name;"Ja. Vi siger tak til hr. Simon Emil Ammitzbøll.
+Næste spørger er fru Hanne Agersnap. Og
+det er tilladt at komme op til pulten, også når
+man forventer, at man kan få ordet. Værsgo.";Formanden
+14772;Time;Spm. nr. US 53;Kl. 13:11
+14807;name_party;":
+Jeg vil stille et spørgsmål, som udspringer af terrorbekæmpelsesloven, den er jo ellers ret aktuel
+nu, men mit spørgsmål vedrører et lille hjørne,
+fordi jeg er it- og teleordfører, og der er altså den
+logningsbekendtgørelse om, at al teletrafik og
+trafik på internettet skal registreres og gemmes i
+
+Onsdag den 26. marts 2008 (US 53)
+1 år. Den blev vedtaget i september sidste år og
+trådte i kraft i januar i år, og den har altså gjort,
+at teleselskaberne har investeret for cirka 200
+mio. kr., dertil kommer hoteller og campingpladser og en hel masse andre investeringer. Så i
+første omgang vil jeg egentlig spørge: Hvordan
+synes du, det går?";Hanne Agersnap
+15463;Time;;Kl. 13:12
+15475;title_name;"Ja, nu titulerer man ikke ministrene med du
+(Hanne Agersnap (SF): Undskyld!), men ministeren svarer.";Formanden
+15585;Time;;Kl. 13:12
+15619;title_name;":
+Jeg vil sige til fru Hanne Agersnap, at det overlever jeg nok endda.
+Man kunne sige, at bare det var så vel, at logningsbekendtgørelsen alene var 1 år gammel,
+men det er faktisk en meget, meget gammel sag.
+Det var egentlig helt tilbage, i forbindelse med
+at vi vedtog den første rigtige antiterrorlovgivning i 2002, at det blev besluttet af et meget
+bredt flertal i Folketinget, at der var et behov for
+at logge flere oplysninger til brug for terrorbekæmpelse og i det hele taget kriminalitetsbekæmpelse. Der blev brugt rigtig mange bestræbelser på at lytte til både telekommunikationsvirksomheder, erhvervsliv og andre, der var bekymrede over, om de nu blev pålagt for store
+byrder. Så der gik en del år med at diskutere,
+hvad den bekendtgørelse overhovedet skulle
+indeholde.
+Der skete så det efter ca. 3 år, at de øvrige EUlande sådan set opdagede, at det var et utrolig
+vigtigt redskab for politiet at have - at have en
+viden om, hvilke to computere der har været i
+forbindelse med hinanden, eller hvilke to mobiltelefoner der har talt med hinanden på et vist
+tidspunkt. Vi valgte så at sige: Så laver vi ikke
+særskilt dansk lovgivning, så afventer vi, at der
+bliver truffet en beslutning om det i EU. Og det
+gjorde vi, så det har faktisk været en sag, der har
+været undervejs meget længe.
+Jeg synes, at logningsbekendtgørelsen og logningsreglerne er endt rigtig godt. Der er mange
+misforståelser i pressen om det. Nogle tror, det
+er hele telefonsamtaler eller mails, der bliver
+logget. Det er det ikke. Det er, hvilke to telefonnumre der har været i kontakt med hinanden,
+eller hvilke to IP-adresser, hvis man bliver i
+computersproget, der har talt med hinanden.
+Der er ingen tvivl om, at det er et særdeles effektivt og meget nødvendigt redskab for politiet
+at have - både i forhold til efterforskningen af
+
+2333
+
+den almindelige alvorlige kriminalitet og i forhold til terrorbekæmpelsen.";Lene Espersen
+17524;Time;;Kl. 13:14
+17536;title_name;"Fru Hanne Agersnap.
+. Kl. 13:14";Formanden
+17587;name_party;":
+Jeg ved godt, den var længe undervejs, og at bekendtgørelsen først blev besluttet i september
+2007. Det var måske, fordi man ventede på en
+EU-beslutning, men man har jo ikke fulgt den:
+man er jo gået langt videre end EU's beslutning,
+som også først skal implementeres i 2009, har jeg
+forstået.
+Ministeren siger, at det er en succes, at vi har
+de oplysninger logget, og jeg vil tro, at politiets
+terrorbekæmpelsesenhed nogle gange kan gå
+ind og få nogle informationer der. Det er jo desværre umuligt at finde ud af, hvordan gavnen
+egentlig står mål med midlerne. Vi har jo normalt et princip om proportionalitet, altså hvis vi
+siger, det har kostet 200-300 mio. kr., ville de så
+være bedre anvendt ved at ansætte flere betjente
+i terrorbekæmpelsesenheden frem for at bruge
+dem på at gemme alle de her oplysninger? Hvor
+tit bliver de oplysninger brugt?
+Jeg kan godt forestille mig, at det er forholdsvis lettere for en justitsminister at bede om at få
+logget, fordi det ikke betales af Justitsministeriets eget budget: det betales jo i virkeligheden af
+teleforbrugerne. Der er et teleselskab, A+, der
+skriver det særskilt på deres regninger, og så
+vidt jeg husker, er det 6 kr. om måneden, muligvis i kvartalet, jeg er ikke helt sikker.
+Det er jo en slags terrorskat, som det er svært
+at vide om står mål med gavnen. Er der nogen
+fælles myndighed, der har vurderet: Hvordan
+bruger vi de penge bedst, hvis vi vil have terrorbekæmpelse? Jeg vil spørge, hvordan ministeren
+synes at proportionalitetsbegrebet kan forklare
+det her.";Hanne Agersnap
+19123;Time;;Kl. 13:15
+19135;title_name;Ministeren.;Formanden
+19156;Time;;Kl. 13:15
+19190;title_name;":
+Jeg vil sige, at den vurdering naturligvis blev
+foretaget, allerede da Folketinget i 2002 vedtog
+den nye lovgivning. Der har vurderingen altså
+været, at den investering, der er, bestemt står
+mål med det resultat, man får ud af det. Realiteten er jo den, at vi desværre oplever, at der kommer nye spændende teknologier til, der sådan
+set også er med til at gøre det billigere for for-
+
+2334
+
+Onsdag den 26. marts 2008 (US 54)
+
+brugerne f.eks. at telefonere. Her tænker jeg på
+Skype og mange andre muligheder, der i dag er
+for forbrugerne.
+Det, vi så skal have en sikkerhed for, er naturligvis, at forbryderne ikke, fordi der kommer ny
+teknologi, får nogle muligheder for at kommunikere med hinanden, hvor det er umuligt for
+politiet at følge med i, hvad der foregår i de kriminelle miljøer. Derfor er det for mig at se helt
+og aldeles afgørende, at vi lovgivere sikrer, at
+når der kommer nye teknologier til, nye muligheder for at kommunikere med hinanden, skal
+politiet fortsat have de, om man så må sige,
+gammeldags muligheder for at aflytte, som man
+havde med fastnettelefonen, altså at de muligheder også skal være der fremover, herunder en
+mulighed for at se på, hvem der har været i kontakt med hinanden over et vist tidsforløb.
+Hvor meget det koster hvert enkelt teleselskab, er jo i sidste ende en vurdering. Jeg har set
+så mange forskellige tal fra teleselskaberne, at
+jeg ikke længere rigtig tror på de tal, der kommer fra dem. De startede med at sige flere milliarder kroner, så var det nogle få millioner kroner, men det korte af det lange er, at mange af
+oplysningerne er nogle, de i forvejen gemmer,
+for ellers kan de ikke lave regninger til deres
+kunder. Så jeg synes ikke, man skal fokusere så
+meget på det økonomiske, men måske mere på
+det principielle.";Lene Espersen
+20972;Time;;Kl. 13:17
+20984;title_name;Fru Hanne Agersnap.;Formanden
+21013;Time;;Kl. 13:17
+21033;name_party;":
+Grunden til, at jeg fokuserer på det økonomiske
+- det er muligvis småpenge - er fornemmelsen
+af, at der ikke kan blive vurderet ordentlig proportionalitet. I gamle dage kunne man aflytte telefonsamtaler, hvilket jeg går ud fra blev betalt
+over Justitsministeriets budget, over politiets
+budget på en eller anden måde, mens betalingen
+for det i dag bliver rullet over på forbrugerne.
+Der er jeg så bange for at man skyder gråspurve
+med kanoner, eller at man ligesom siger: Det
+kan lade sig gøre teknisk, fordi forbrugerne får
+meget billig telefoni og alting bliver billigere nu
+om dage: så det er nemt nok at lægge en ekstra
+terrorbekæmpelsesskat på dér, det opdager de
+knap nok.
+Jeg synes simpelt hen, at det princip om, at
+bestiller betaler for, hvad der bliver bestilt, bliver brudt i den her sag.";Hanne Agersnap
+21847;title_name;Ministeren.;Formanden
+21869;Time;;Kl. 13:18
+21880;Time;;Kl. 13:18
+21914;title_name;":
+Det synes jeg bestemt ikke. Man skal huske på,
+at mange af teleselskaberne i dag opbevarer en
+del af oplysningerne i forvejen - ja, nogle af dem
+opbevarer faktisk oplysningerne i langt flere år,
+end det, logningsbekendtgørelsen faktisk kræver af selskaberne. Så jeg synes, det er en forkert
+måde at udlægge det på at sige, at det her skulle
+være et stort økonomisk problem.
+Vi har drøftet det her meget i EU-regi. I Irland
+har man haft de her logningsregler i langt længere tid end i Danmark, det har man også i Storbritannien. Og i Irland har man endda skullet
+logge dem i 3 år og ikke i 1 år, og der har altså
+overhovedet ikke været nogen ballade med teleselskaberne eller en problematisering af, at det
+skulle være en uoverskuelig økonomisk byrde.
+Man skal jo altså huske på, at også de kriminelle
+benytter sig af teleselskaberne og betaler penge
+til dem, så det, at teleselskaberne også er med til
+at skabe tryghed i samfundet, synes jeg måske at
+man skal passe på med at gøre til en helt uoverskuelig byrde for dem.
+Jeg synes, at vi har forsøgt at holde et rigtig,
+rigtig fint snit i forhold til på den ene side at sikre, at politiet har mest muligt brugbart materiale, og på den anden side ikke gå så meget ned i
+petitesser, at det bliver urimeligt og en for stor
+detailstyring. Vi har fra dansk side jo altså så
+valgt at sige, at der er nogle bagatelgrænser, og
+at der er nogle, der er undtaget fra den her logningsbekendtgørelse, og dermed mener jeg altså
+også, at vi har vist de hensyn, som man bør tage,
+når man kommer med en ny lovgivning, der er
+temmelig omfattende.";Lene Espersen
+23504;Time;;Kl. 13:19
+23516;title_name;"Vi siger tak til fru Hanne Agersnap.
+Så er det fru Marlene Harpsøe.";Formanden
+23593;Time;Spm. nr. US 54;Kl. 13:20
+23629;name_party;":
+Vi blev meget positivt overrasket i Dansk Folkeparti her i påsken, for da hørte vi nemlig hr. Søren Pind fra regeringspartiet Venstre foreslå, at
+alle våbenlovsovertrædelser skal medføre en
+udvisning af Danmark for ikkedanske statsborgere. I Dansk Folkeparti synes vi jo selvfølgelig,
+
+Onsdag den 26. marts 2008 (US 54)
+at det er et udmærket og rigtig godt forslag.
+Man kan sige, det jo var på tide, at et regeringsparti åbnede øjnene for det, som vi i Dansk Folkeparti i rigtig lang tid har kæmpet for, nemlig
+at begår man en uacceptabel kriminel handling,
+såsom at bære et våben, skal det selvfølgelig
+medføre, at man bliver udvist af Danmark.
+Der er det så at jeg vil høre, om det er noget,
+som justitsministeren nu vil følge op på med et
+initiativ, sådan at alle brud på våbenloven vil
+medføre udvisning af Danmark. Altså, det, jeg
+hentyder til, er, om ministeren nu vil fremsætte
+et forslag, så vi kan få skærpet lovgivningen på
+det her område.";Marlene Harpsøe
+24591;Time;;Kl. 13:21
+24603;title_name;Justitsministeren.;Formanden
+24631;Time;;Kl. 13:21
+24665;title_name;":
+Jeg vil sige til fru Marlene Harpsøe, at jeg synes,
+det var en lidt surrealistisk debat, der kørte hen
+over scenen i går, fordi det blev udstillet, som
+om at overtrædelse af våbenloven ikke kunne
+medføre udvisning. Det er ingenlunde rigtigt, så
+jeg betragtede sådan set lidt debatten som netop
+at sparke en åben dør ind.
+Det fremgår meget klart af udlændingeloven
+- hvad man ville kunne se, hvis man tog sig tid
+til at sætte sig ned og læse den - at en overtrædelse af våbenloven allerede i dag kan medføre,
+at man bliver udvist af landet.
+Men - for der er et men - der er nogle begrænsninger. Hvis der f.eks. ligger en gammel
+kniv bag i ens bil, vil det typisk ikke - i overensstemmelse med menneskerettighedskonventionen - være tilstrækkeligt til, at man kan udvises
+af den grund. Det skal altså være en mere alvorlig overtrædelse af våbenloven, der skal til, hvis
+vi ellers fortsat vil holde os inden for konventionens rammer.
+Jeg vil sige, at det, jeg har tænkt mig at gøre,
+og som jeg også har redegjort for i påsken, er at
+komme med et lovforslag, der gør det nemmere
+at udvise folk. Det er den stramning af våbenloven, som jeg er på vej med. Den vil medføre, at
+det bliver nemmere straks at udvise folk af landet, når de overtræder våbenloven. Det er min
+klare holdning, at i det omfang vi overhovedet
+kan få folk udvist for overtrædelse af våbenloven, skal vi gøre det, så længe vi holder os inden
+for konventionens rammer. Det er naturligvis
+klart, at lovforslaget også fuldt ud vil tage sigte
+på at udnytte alle muligheder for det.
+
+2335
+. Kl. 13:22";Lene Espersen
+26239;title_name;Fru Marlene Harpsøe.;Formanden
+26270;Time;;Kl. 13:22
+26291;name_party;":
+Det er meget fint at nævne, at man skal tage sig
+tid til at læse lovgivningen, og det har jeg jo sådan set også. Det vil jeg gerne nævne over for justitsministeren.
+Men det, der er problemet i dag, er jo, at domstolene ikke udnytter de paragraffer, der netop
+er i den her lovgivning, sådan at hvis en person
+har båret et våben, jamen så skal vedkommende
+selvfølgelig udvises af Danmark. Det er jo fint,
+at ministeren vil komme med en stramning af
+lovgivningen, men jeg vil gerne fra Dansk Folkepartis side spørge ministeren, om det i det
+hele taget er nok, og hvad ministeren egentlig
+vil gøre for, at domstolene så selvfølgelig også
+lever op til den her skærpelse, som ministeren
+lægger op til, for det er jo også vigtigt. Det vigtige i den her sag er jo, at vi reagerer prompte, at
+vi ikke reagerer sløvt, men vi reagerer prompte
+over for de kriminelle handlinger, som foregår i
+det danske samfund.
+Vi mener i Dansk Folkeparti parti, at der skal
+ske noget, der medfører konsekvens nu, fordi
+det netop er liv, det handler om. Det handler jo
+ikke om, hvorvidt man kan gøre noget ulovligt.
+Nej, det handler om, at folk kan gå ned på gaden, gå med aviser og brutalt blive slået ned, og
+at der så ikke sker noget med konsekvens. Det
+ønsker vi fra Dansk Folkepartis side at der gør.";Marlene Harpsøe
+27581;Time;;Kl. 13:23
+27593;title_name;Ministeren.;Formanden
+27614;Time;;Kl. 13:23
+27648;title_name;":
+Nu tror jeg med hensyn til det sidste, som fru
+Marlene Harpsøe sagde, at der vist var tale om
+danske statsborgere, så der er udvisning jo
+knappest relevant.
+Jeg vil sige, at min første bemærkning heller
+ikke var møntet på Dansk Folkeparti. Det undrer mig bare, at der er diskussioner i pressen,
+hvor man i hvert fald ikke som udgangspunkt
+lige har undersøgt, hvordan lovgivningen allerede i dag er. Men fred være med det.
+Jeg vil i hvert fald sige - og det er muligt, at
+Dansk Folkeparti og fru Marlene Harpsøe allerede har det materiale - at jeg ikke har kendskab
+til, at domstolene ikke skulle udnytte paragrafferne. Jeg ved, at der er blevet bedt om en redegørelse fra integrationsministeren om, hvorvidt
+
+2336
+
+Onsdag den 26. marts 2008 (US 55)
+
+paragrafferne er blevet brugt effektivt nok. Der
+kunne jo være gode forklaringer på, hvorfor
+nogle af paragrafferne ikke har kunnet finde anvendelse, og det kunne være, fordi sagerne ikke
+har været egnede til det.
+Jeg ved i hvert fald, at der kommer en redegørelse om det, og så må vi jo se på, om det er hos
+domstolene eller anklagemyndigheden, der har
+været et problem, eller om det simpelt hen skyldes, at der ikke har været nogen sager, der kunne holdes inden for menneskerettighedskonventionens regler. Det, jeg vil garantere fru Marlene
+Harpsøe, er, at jeg vil lade det fremgå af mit lovforslag, så det fremgår krystalklart, at i tilfælde,
+der holder sig inden for konventionens rammer,
+vil vi meget gerne have, at man søger påstand
+om udvisning, så vi ligesom får det med i lovgivningen allerede fra starten. Der er jeg helt
+enig med Dansk Folkeparti.";Lene Espersen
+29269;Time;;Kl. 13:25
+29281;title_name;Fru Marlene Harpsøe for et sidste spørgsmål.;Formanden
+29335;Time;;Kl. 13:25
+29356;name_party;":
+Det er jo fint at have en paragraf og have en lovgivning, men det nytter jo ikke noget at have
+det, hvis det bare er til pynt, altså som en slags
+konfekt som toppen på kransekagen. Man er jo
+nødt til at bruge den. Det er vel også derfor, vi
+som lovgivere sidder her i det danske Folketing
+og træffer nogle afgørelser, tager nogle beslutninger.
+Nu nævner ministeren, at ministeren vil tage
+initiativ til den her redegørelse. Der er det så, at
+jeg på Dansk Folkepartis vegne også gerne vil
+høre, hvad den redegørelse går ud på. Går det
+ud på, at vi simpelt hen får at vide, hvor mange
+der egentlig er blevet udvist ifølge den her paragraf, hvor mange vi egentlig har slået ned på, så
+vi kan få skabt noget ro i det danske samfund?
+En anden ting er, at det jo er fint med redegørelser, men samtidig mener jeg, at det også
+er en form for sløvhed. Vi er nødt til at reagere
+prompte, vi kan ikke fra det danske Folketings
+side lade stå til, så den her bandekriminalitet florerer i det danske samfund. Der må ske noget
+nu.";Marlene Harpsøe
+30383;Time;;Kl. 13:26
+30395;title_name;Ministeren.;Formanden
+30416;Time;;Kl. 13:26
+30450;title_name;":
+Jeg er fuldstændig enig i, at der ikke skal være
+nogen som helst formildende omstændigheder.
+
+Man skal gå lige til stålet og barskt på i forhold
+til dem, der overtræder lovgivningen.
+Nu har jeg jo det problem, at det ikke er mig,
+der har udlændingelovgivningen og dermed
+ikke har udvisningsreglerne. Men jeg ved, der er
+stillet spørgsmål til integrationsministeren om,
+hvordan de regler bliver brugt i dag, herunder
+de regler, der vedrører våbenlovgivning. For jeg
+er helt enig med fru Marlene Harpsøe i, at der
+ikke er noget, der skal være til pynt her. Man
+skal bruge de regler, der er.
+Det, jeg blot kan sige, er: Jeg vil ikke finde
+mig i mere. Jeg synes, vores tolerance over for de
+organiserede bander for længst må være løbet
+ud. Og derfor kommer der et nyt, skrapt lovforslag med stramninger af våbenloven, hvoraf det
+også kommer til at fremgå, at vi ønsker, at de
+muligheder, der er for at bruge udvisningsbestemmelserne, når det gælder ikkedanske statsborgere, skal bruges i de tilfælde, hvor der er
+mulighed for det. Og det vil det lovforslag, som
+jeg fremsætter på fredag, give øget mulighed for.";Lene Espersen
+31569;Time;;Kl. 13:27
+31581;title_name;"Vi siger tak til fru Marlene Harpsøe som spørger
+og tak til justitsministeren som svarer.
+Næste minister er velfærds- og ligestillingsministeren, og den første spørger til ministeren
+er hr. Rasmus Prehn.";Formanden
+31794;Time;Spm. nr. US 55;Kl. 13:27
+31826;name_party;":
+Vi har i de seneste dage oplevet en række rigtig
+triste episoder med vold med døden til følge.
+Her har helt unge mennesker været involveret
+- utilpassede unge, som ikke oplevede, at der
+blev grebet ind, eller at de fik en chance i deres
+liv. Det er dybt tragisk. Jeg er sikker på, at ministeren deler mit syn på, at det er en ulykkelig situation.
+Der, hvor jeg har noteret mig, at ministeren
+ikke er enig med mig, er i forhold til, hvem der
+har ansvaret for de her ting. Jeg synes, vi har oplevet en minister, der i høj grad har talt om, at
+det er kommunerne, der har svigtet. Det er også
+forældrene, der har svigtet. Men ministeren er
+ikke i ret stor grad fokuseret på, at regeringen
+har et ansvar, eller at ministeren selv har et ansvar. Der synes jeg det er interessant at se, at der
+på forsiden af dagbladet Politiken i går var en
+historie om, at socialrådgiverne simpelt hen
+drukner i papirarbejde og drukner i bureaukrati.
+
+(293)
+Onsdag den 26. marts 2008 (US 55)
+Tilbage i december 2007 havde vi i Kommunaludvalget et åbent samråd, hvori ministeren
+deltog, og hvor vi netop spurgte ind til den her
+meget, meget store bureaukratimængde og det
+meget store dokumentationskrav, der er. Det er
+jo noget af det, der ifølge socialrådgiverne selv
+er medvirkende til, at man simpelt hen drukner
+i alt det her papirarbejde, så man ikke får lavet
+sagsbehandling over for de her borgere.
+Kunne ministeren ikke se, at ministeren havde et ansvar selv i den sammenhæng? Og hvordan går det i øvrigt? For sådan som jeg husker
+det samråd, blevet der sagt fra ministerens side,
+at der nu skulle ryddes op i det her. Men hvordan er status på det? For nu, adskillige måneder
+efter, er der ikke rigtig sket noget, og socialrådgiverne ser stadig væk problemet, og ikke desto
+mindre er ministeren stadig væk ude og skyde
+skylden på kommunerne og på socialrådgiverne
+frem for selv at tage et ansvar.";Rasmus Prehn
+33720;Time;;Kl. 13:29
+33732;title_name;Ministeren.;Formanden
+33753;Time;"Velfærdsministeren (Karen Jespersen):
+Status på - undskyld min stemme - afbureaukratiseringsindsatsen er, at der bliver holdt en
+konference i morgen i Vejle om børn og ungeområdet, den 2. april bliver der holdt en om
+handicappede og den 4. april en om ældreområdet. De tre konferencer bygger på eksempler
+sendt ind af sagsbehandlere og andre kommunalt ansatte. Det er eksempler på regler, som de
+mener at man godt kunne undvære, hvis man
+skal have en mere smidig arbejdsgang. På baggrund af de konferencer kommer der så et udspil om muligheder for at luge ud i nogle af de
+regler, der er. Og regeringen har jo samlet set lavet en afbureaukratiseringsplan.
+Men det ene, man oplever, når man læser socialrådgivernes rapport - som jeg ikke ved om
+hr. Rasmus Prehn har haft mulighed for at læse er jo, at de regler, der stammer fra staten, kun er
+en lille del af det, som socialrådgiverne er utilfredse med. De peger også på, at en meget stor
+del af reglerne, som de er utilfredse med, kommer fra kommunerne selv - nogle kommer fra
+jobcentrene, andre kommer fra uhensigtsmæssig
+tilrettelæggelse af arbejdet i det hele taget - så
+det er kun en lille del af det.
+Det andet er jo, at de regler, der er vedtaget, jo
+ikke er det rene galimatias. Det er jo nogle, som
+hr. Rasmus Prehns parti i meget vidt omfang har
+været med til at vedtage, fordi vi mente, at det
+
+2337
+
+var godt for enten børnene, de ældre eller de
+handicappede.
+Nogle af de regler, som socialrådgiverne er
+utilfredse med, er faktisk nogle af de regler, vi
+havde vedtaget i fællesskab om anbringelsesreformen. Det betyder ikke, at der ikke er et problem, men det er altså ikke så enkelt som bare at
+sige: Der er nogle regler, der er hul i hovedet, se
+at få dem fjernet. Vi skal jo sikre, at de børn ikke
+bliver svigtet.";Kl. 13:29
+35542;Time;;Kl. 13:31
+35554;title_name;Det er hr. Rasmus Prehn.;Formanden
+35588;Time;;Kl. 13:32
+35605;name_party;":
+Vi er fra socialdemokratisk side helt på det rene
+med, at man selvfølgelig ikke kan afskaffe alle
+regler. Det ville være det rene galimatias. Men
+ministeren har jo selv peget på, at der skal ske en
+afbureaukratisering, og derfor er det måske også
+interessant at høre, hvad det er for nogle konkrete eksempler, ministeren vil diskutere på konferencen i morgen. Altså, hvad er det for nogle
+konkrete regler, som ministeren synes så skal afskaffes? Noget må kunne gøres, for ellers skal vi
+bare erkende, at det ikke er reglerne, vi skal kigge på, men økonomien.
+For det næste spørgsmål i det her er: Er kommunerne for stramt styret økonomisk til at kunne løfte den her store opgave? Er det simpelt
+hen sådan, hvis det ikke er reglerne, man kan
+gøre noget ved? Nu tror jeg så, at ministeren har
+et par regler i ærmet, dem vil jeg meget gerne
+høre om, og jeg synes, at ministeren skal bruge
+sin svartid til at fremlægge et par eksempler på,
+hvor staten kan afskaffe nogle regler.
+Men kunne det næste så være, at man også i
+forbindelse med den nye aftale om kommunernes økonomi, man skal indgå, simpelt hen får
+sat fokus på, at der skal ske en langt bedre sagsbehandling af de her sager, så vi sikrer, at vi ikke
+kommer ud i, at nogle simpelt hen ikke bliver visiteret til det rigtige tilbud og går rundt i flere år
+uden at få nogen som helst form for tilbud og så
+havner i en meget uheldig social sammenhæng?";Rasmus Prehn
+37020;Time;;Kl. 13:33
+37032;title_name;Ministeren.;Formanden
+37053;Time;"Velfærdsministeren (Karen Jespersen):
+Det ser ud til, at der er nogle dokumentationskrav på børn og unge-området, vi kunne undvære. Men hele ideen med de tre konferencer er
+jo netop at få en kontakt og en erfaringsudveks-
+
+2338
+
+Onsdag den 26. marts 2008 (US 56)";Kl. 13:33
+37328;Time;"ling sammen med de ansatte og i øvrigt også
+med kommunalpolitikere. Jeg synes, at det er
+Velfærdsministeren (Karen Jespersen):
+utrolig vigtigt, at vi ikke gør det her til en sag
+Jeg kan så, havde jeg nær sagt, glæde hr. Rasmus
+mellem regering, folketingspolitikere og komPrehn med, at jeg faktisk har fået en del reaktiomunalt ansatte, for vi skal ikke have koblet kom- ner fra kommunerne, der har givet udtryk for, at
+munalbestyrelsen fra. Tværtimod skal de være
+de har været glade for, at jeg meget tydeligt har
+med og sige, hvad de synes er nødvendige regunderstreget det kommunale selvstyres betydler og overflødige regler, og sige: hvor de selv
+ning som et positivt grundvilkår i det danske
+har et oprydningsarbejde at gøre. Så derfor er
+samfund, og jeg ser det som en fælles opgave at
+alle tre parter med til konferencen i morgen.
+finde ud af, hvordan vi sikrer det kommunale
+Når vi snakker om økonomi, kan vi jo se, at
+selvstyre.
+der er meget stor forskel på, hvor gode kommuJeg tror da, at der altid vil være nogle spænnerne er til at tilrettelægge arbejdet. Og hvor
+dinger, når det drejer sig om regler, som vi vednogle bruger masser af penge på administration,
+tager herinde, hvor vi siger, at vi altså er nødt til
+f.eks. Københavns Kommune, er der andre, der
+at have den her lovgivning for at sikre, at de udbruger betydelig færre.
+satte børn i alle kommuner får en ordentlig beKl. 13:34 handling. Det synes de i nogle kommuner er";Kl. 13:35
+38782;title_name;"overflødigt, og nogle sagsbehandlere vil hellere
+Hr. Rasmus Prehn.
+gøre det på deres egen måde, men vi er nødt til";Formanden
+38906;Time;at sige til dem, at det ikke nytter noget, for vi er;Kl. 13:34
+38976;name_party;":
+nødt til at være sikre, i hvert fald når vi taler om
+Jeg synes ikke, at ministeren var særlig præcis
+børnene. Og selvfølgelig kommer der jo hen ad
+med hensyn til, hvad det er, der kan afskaffes.
+vejen konkrete eksempler, for meget af det er jo
+Der er nogle enkelte dokumentationskrav, men
+lovstof, og der skal jo være et flertal i Folketinget
+det kunne være interessant at få frem, hvilke det for at kunne afskaffe det. Så vi kommer til at
+drejer sig om.
+snakke rigtig meget om det her.";Rasmus Prehn
+39474;Time;Jeg synes så, at jeg gerne afslutningsvis vil sige, at det faktisk er helt godt høre den lidt mere;Kl. 13:36
+39585;title_name;"forsonlige tone, ministeren har over for kommu- Tak til hr. Rasmus Prehn som spørger.
+nerne, for jeg synes jo nok, at der, når man sådan
+Næste spørger er fru Line Barfod fra pulten.
+har fulgt med i i hvert fald de elektroniske meKl. 13:36
+dier, lidt har været en tilbøjelighed til, at ministeren har haft travlt med simpelt hen at sparke
+Spm. nr. US 56
+nedad og tørre ansvaret af på kommunerne, og";Formanden
+39999;name_party;":
+der er det altså behageligt her i Folketingssalen
+at høre en minister, der siger, at vi er nødt til at
+Det glæder mig da, hvis ministeren nu begynder
+samarbejde christiansborgpolitikere og kommu- at sige, at det, der sker på ministerens område,
+også er ministerens ansvar.
+ner imellem. Det jo lige præcis det, der skal til.
+Derfor vil jeg gerne høre - også i forlængelse
+Så en stor tak for det. Jeg synes, at ministeren
+så i fremtiden bør overveje sin retorik og ikke
+af de spørgsmål, hr. Rasmus Prehn stillede i samme omfang sparke nedad - det synes jeg
+hvad ministeren så vil gøre for at sikre, at komikke er klædeligt.
+munerne får de nødvendige ressourcer til forebyggelse af sådan noget som det, vi har set i den
+Men lad os få nogle flere eksempler på afbureaukratisering frem, og lad os også få økonomi- senere tid, med unge, der kommer ud i forskellige former for kriminalitet. Vil ministeren i foren på plads, for selv om det er sådan, at der er
+nogle kommuner, der administrerer det klogere
+bindelse med de kommende kommuneforhandlinger sikre, at der bliver givet flere ressourcer til
+end andre, så er der jo også mange kommuner,
+der virkelig føler sig presset i øjeblikket, hvilket
+at lave et ordentligt forebyggende arbejde fra
+starten, så vi ikke igen og igen kommer til at se,
+ikke mindst blev understreget meget tydeligt på
+KL's topmøde for 14 dage siden.
+at man sætter alt, alt for sent ind - altså først, når";Line Barfod
+41434;Time;der næsten er gået noget galt, og nogle gange;Kl. 13:35
+41492;title_name;"desværre først, når det er gået rigtig alvorlig galt
+- på trods af at man ofte har haft kontakt med
+Ministeren.
+familierne tidligere, men simpelt hen ikke har
+
+Onsdag den 26. marts 2008 (US 56)
+haft ressourcerne til at sætte ind eller ikke har
+haft ressourcerne til at gøre en god nok indsats.
+Vi har set det igen og igen i mange forskellige
+kommuner rundtom i landet.
+Så vil ministeren påtage sig sit ansvar her for
+at garantere, at der kommer de nødvendige ressourcer ud, så man får sikret en god forebyggelse fra starten?
+.";Formanden
+42029;Time;;Kl. 13:37
+42041;title_name;Ministeren.;Formanden
+42062;Time;"Velfærdsministeren (Karen Jespersen):
+Nu er de ressourcer, kommunerne har, jo ikke
+nogen, de sådan har fået pr. dekret. Det har jo altid bygget på en aftale med kommunerne, og sådan har det også været med hensyn til finansieringen af de enkelte lovinitiativer: det er jo altid
+foregået gennem de såkaldte DUT-forhandlinger, hvor man er blevet enige om, at hvis kommunerne skal sørge for, at bestemte tilbud til
+borgerne er i orden, så skal de også have x antal
+kroner til at løse opgaverne. På den måde har
+kommunerne jo altid selv sagt: Ja, det kan vi
+godt klare, hvis vi får de her penge til rådighed.
+Disse forhandlinger med kommunerne, hvor
+man i fællesskab finder ud af, hvad der skal bruges til at løse de opgaver, er jo også en måde,
+hvorpå man fra regeringens side sørger for de
+nødvendige midler.
+Det, man så kan se, når staten har givet de
+penge til kommunerne, er, at der er en himmelvid forskel på, hvordan de løser opgaverne, og
+der er jo ikke nogen særlig tæt sammenhæng
+mellem, at de dyreste kommuner også er de
+bedste kommuner - der er faktisk eksempler på
+omvendte.
+Med hensyn til den aktuelle sag fra Københavns Kommune er jeg ikke sikker på, at det,
+når der engang kommer en redegørelse fra kommunen, vil vise sig, at de har brugt få penge på
+den familie, men det er et spørgsmål om, hvorvidt pengene har været brugt rigtigt. Og så ved
+vi jo godt, at det er nogle meget, meget svære sager.
+Desuden kan man jo se, at f.eks. Københavns
+Kommune har kæmpestore udgifter til administration sammenlignet med andre kommuner:
+de ligger langt over landsgennemsnittet. På
+samme måde er der lige kommet nogle analyser
+fra jobcentrene, hvor overskriften i Dansk Arbejdsgiverforenings blad, Agenda, var, at Københavns Kommune kunne spare Vi mia. kr.,
+
+2339
+
+hvis deres jobcentre fungerede ligesom de mest
+effektive jobcentre.
+Så der ligger jo masser af penge gemt i kommunerne, hvis de gør tingene på en mere effektiv måde, og jeg vil meget gerne bistå kommunerne med at gøre tingene mere effektivt.";Kl. 13:37
+44078;Time;;Kl. 13:39
+44090;title_name;Fru Line Barfod.;Formanden
+44116;Time;;Kl. 13:39
+44133;name_party;":
+Ja, jeg kunne forstå, at det nærmest kun er kommunernes ansvar og kommunernes skyld, hvis
+noget går galt - her til allersidst kom der så en
+lille åbning fra ministeren om, at der også kunne
+være noget, der var ministerens skyld.
+Et af problemerne, som justitsministeren påpegede i et tidligere svar, var problemet med de
+mange kortsigtede projekter.
+Det er jo i høj grad ministerens ansvar, at
+det sociale arbejde i høj grad består af en række
+kortsigtede projekter, som knap nok når at starte
+op, før de bliver lukket ned igen, fordi det meste
+af den udviklende socialpolitik finansieres af
+satspuljen frem for at blive finansieret med en
+langsigtet indsats, hvor man kan ansætte nogle
+medarbejdere, kan starte noget op, som kan løbe
+i mange år, og som man kan nå at se resultaterne
+af.
+Så jeg vil høre: Vil ministeren gøre noget for
+at løfte den del af ansvaret, der handler om, at vi
+begynder at få en socialpolitik, som ikke handler
+om kortsigtede satspuljeprojekter, men om en
+langsigtet indsats?";Line Barfod
+45146;Time;;Kl. 13:40
+45158;title_name;"Ministeren.
+. Kl. 13:40
+Velfærdsministeren (Karen Jespersen):
+Jeg tror, jeg kan sige, at det altså er meget svært
+at finde en kommunalpolitiker eller en ansat i
+kommunen - pædagog, socialrådgiver - som
+ikke siger, at der stort set er de instrumenter og
+de redskaber i loven, der skal være: helt så enkelt er det ikke, jeg mener også godt, at vi kan
+lægge nogle andre redskaber i loven, og det skal
+jeg vende tilbage til.
+Men det er jo ikke rigtigt at sige, at der ikke er
+ført en langsigtet socialpolitik. Der er jo en lang
+række redskaber, både til en meget tidlig indsats
+og til en indsats, når det er gået galt, og mange af
+de ting, der ligesom kommer op nu, er jo faktisk
+også nogle ting, der allerede kan lade sig gøre i
+forhold til loven. Z
+I
+
+2340
+
+Onsdag den 26. marts 2008 (US 57)
+
+Mange af de langsigtede ting er jo finansieret
+Det er jo vigtigt, men det er jo også utrolig
+over satspuljen. Det er jo ikke rigtigt, at man kun vigtigt, at vi bidrager til at holde kommunerne
+kan finansiere kortsigtede initiativer over satsfast på, hvordan de løser de her opgaver bedst
+puljen: masser af lovgivning er jo finansieret her, muligt. Jeg synes ikke, det ville være godt, hvis
+og sådan har det også været i år. Og det er rigtigt vi igen skulle til at have en statslig børneforsorg,
+- det er jeg helt enig i - at vi skal passe morderselv om børneværnet i gamle dage gjorde det
+lig på med de puljer: jeg prøver faktisk at slå hæ- udmærket, gjorde et rigtig godt stykke arbejde.
+lene i. Men en af grundene til, at vi har dem, er
+Men der er jo en idé i, at vi ligesom har skubbet
+bl.a. for at gøre kommunerne opmærksom på de kommunerne ind mellem regeringen og Folkemuligheder, de har.
+tinget og borgerne, fordi vi mener, at det forbedKl. 13:42 rer indsatsen for borgerne, og det mellemled";Formanden
+46960;title_name;"skal vi så finde ud af at få til at fungere bedst
+Fru Line Barfod.
+muligt. Det er jo ligesom det, der er den meget";Formanden
+47084;Time;konkrete opgave.;Kl. 13:42
+47111;Time;;Kl. 13:44
+47128;name_party;":
+Jo, men det er jo et stort, tilbagevendende proFormanden:
+blem, at meget af det udviklende sociale arbejde
+Tak til fru Line Barfod.
+- og det var det, jeg spurgte til: jeg spurgte ikke
+Den næste spørger er fru Yildiz Akdogan,
+til lovgivningen, jeg spurgte til det udviklende
+værsgo.
+sociale arbejde - er kortsigtede projekter, som";Line Barfod
+47469;Time;"bliver finansieret over satspuljen. Når man så i
+løbet af de få år, de når at virke, kan se, at det ser
+Spm. nr. US 57
+ud til, at det her vil kunne give en god effekt, så
+forsvinder satspuljefinansieringen, og så bliver";Kl. 13:44
+47708;name_party;":
+det sagt, at nu må kommunerne overtage - men
+Uligheden i Danmark er egentlig ret markant,
+uden at kommunerne får penge til det.
+og det er den desværre også inden for ligestilKommuneaftalerne er jo ikke, som ministeren lingsområdet. Ledelserne i de store virksomheder herhjemme er en ren herreklub - grå mænd i
+siger, en aftale i forhold til rammen. Det har både den nuværende formand og den tidligere for- grå jakkesæt - og man skal virkelig lede længe
+efter kvinderne. Og det er egentlig ret tankemand for Kommunernes Landsforening sagt
+meget klart, og vi har også fået svar på det fra
+vækkende, når man tænker på, at der i et omordførere her i Folketinget i debatterne. Selve
+fang gerne skal være et repræsentativt udsnit,
+hvad enten det er her i Folketinget eller andre
+rammen for, hvor mange penge kommunerne
+steder ude i det private. Jeg synes også, det giver
+får, er et diktat fra regeringen. Så derfor er det
+et skævt billede af, hvad det er for et kvindebilikke rigtigt at sige, at kommunerne bare kan
+lede, vi vil have herhjemme i Danmark.
+bruge løs eller bare kan kræve noget mere ved
+I Norge har man ved lov indført, at fire ud af
+aftalerne, og derfor vender det tilbage til miniti bestyrelsesmedlemmer skal være kvinder. I
+sterens bord og er det ministerens ansvar: Vil
+ministeren sikre, at der bliver penge til den lang- Socialdemokratiet har vi foreslået, at denne succes bliver gentaget i Danmark, altså en kvotesigtede udvikling af socialt arbejde?";Yildiz Akdogan
+49184;Time;"ring på 40 pet., men det vil ministeren desværre
+ikke være med til. Ministeren har foreslået i et";Kl. 13:43
+49294;title_name;"charter, at der skal flere kvinder ind i ledelserne,
+Ministeren.";Formanden
+49368;Time;"og målet er bl.a., at mindst 100 virksomheder tilslutter sig det her charter engang i 2010, og når
+Velfærdsministeren (Karen Jespersen):
+man tænker på, at der er 500 virksomheder i
+Der bliver jo også givet penge til forskning. Der
+Danmark, er der jo ret langt igen.
+er faktisk blevet givet rigtig, rigtig mange penge,
+Vi vil egentlig gerne vide i Socialdemokratiet,
+også til social forskning, gennem de store forskhvorfor der skal gå så lang tid, før vi kan gøre
+ningsprogrammer og som led i hele globalisenoget ved den her meget skæve ulighed, som i
+ringsplanen, rigtig, rigtig mange penge, og det
+øvrigt har eksisteret i rigtig, rigtig lang tid.
+er jo socialt udviklingsarbejde, så det batter. Så
+Jeg vil også høre ministeren, på hvilken måde
+jeg mener faktisk, at der bliver givet rigtig manhun mener at charteret kan være med til at bryge penge, jeg har ikke det helt konkrete tal her,
+men det kan fru Line Barfod selvfølgelig få.
+de den her meget, meget fastlåste norm og tradi-
+
+Onsdag den 26. marts 2008 (US 57)
+tion og sikre, at flere kvinder kommer i toppen
+af dansk erhvervsliv.";Kl. 13:43
+50468;Time;;Kl. 13:46
+50480;title_name;Så er det ligestillingsministeren.;Formanden
+50524;Time;"Ministeren for ligestilling (Karen Jespersen):
+Det er rigtigt, at udgangspunktet er, at det kun
+er 4 pet. af toplederne i det private erhvervsliv,
+som er kvinder, og det er lidt, og det betyder, at
+Danmark ikke ligger i top, sådan som vi jo gør
+med hensyn til stort set alle andre mål, når det
+gælder ligestilling for kvinder. Så vi er jo et af de
+lande i verden, der er nået allerlængst, når det
+gælder kvinders ligestilling. Spørgsmålet er,
+hvordan man så vil ændre det.
+Heldigvis kan vi se, at det jo er ved at ændre
+sig på den måde, at i de fag - økonomi, jura osv.
+- hvor man typisk rekrutterer ledere fra, kommer der flere og flere kvinder. Vi kan se, at der
+kommer flere kvinder på det, man i den offentlige forvaltning kalder kontorchefniveau og afdelingschefniveau, hvor man så rekrutterer topledelsen fra. Jeg er helt overbevist om, og man kan
+under alle omstændigheder jo se, at der er en
+udvikling i gang, sådan at der kommer flere og
+flere kvindelige ledere. I stat og kommune er der
+også langt flere kvinder i topledelsen, end der er
+i det private erhvervsliv, men det må selvfølgelig meget gerne gå hurtigere. Derfor har jeg lanceret det her charter, som er udviklet sammen
+med ti store virksomheder - SAS, Irma, Cowi
+osv.
+Ideen med charteret er, at den virksomhed,
+der skriver under på det, forpligter sig til at opstille nogle måltal og selvfølgelig gennemføre de
+måltal. Så det er sådan en, jeg havde nær sagt,
+frivillig tvang, hvor man selv forpligter sig, og
+vi ved fra andre lignende initiativer inden for en
+virksomheds sociale ansvar, at det faktisk har
+virket. Når en virksomhed gik ind og forpligtede sig over for nogle mål for en ændret personalesammensætning, har det faktisk bidraget til, at
+man nåede det mål. Det samme er jeg overbevist
+om at charteret vil bidrage til. Jeg synes faktisk,
+at 2010 er ret snart, det er jo om IV2 år, så kan vi
+få 100 virksomheder og meget gerne flere med
+der, synes jeg, det vil være fint.";Kl. 13:46
+52486;Time;;Kl. 13:48
+52498;title_name;"Tak. Fru Yildiz Akdogan.
+
+2341";Formanden
+52539;Time;;Kl. 13:48
+52558;name_party;":
+Jeg ønsker selvfølgelig også, at det skal gå noget
+hurtigere, men hvis vi bare ser på perioden fra
+sidste år til i år, kan vi se, at stigningen i antallet
+af kvinder i ledelser er på omkring 1 pet. og ikke
+mere - og det har vi brugt et år på. Så når ministeren vil have, at der om IV2 år skal være 100
+virksomheder med i charteret - det er endda sådan et mindstetal: og det er ikke engang et krav,
+det er et ønske - vil jeg sige, at noget tyder på, at
+det går rigtig langsomt, nærmest i sneglefart.
+Der er lavet forskellige undersøgelser. Jeg vil
+egentlig gerne lige henvise til en undersøgelse
+lavet af Ugebrevet A4, som viser, at det faktisk
+er 58 pet. af kvinderne, der efterlyser den norske
+model, fordi de mener, at det går alt, alt for langsomt. Derudover kan man se, når man ser på
+implementeringen og hele den der tradition, at
+der er en eller anden norm, der skal brydes. Og
+spørgsmålet er, om den her norm eller tradition
+ikke mere effektivt kan brydes via en lov end via
+et charter.
+Ministeren henviste selv lige før til SAS. Den
+administrerende direktør for SAS, Susanne Larsen, efterlyser en konkret lovgivning på området.";Yildiz Akdogan
+53705;Time;;Kl. 13:49
+53717;title_name;Ministeren.;Formanden
+53738;Time;"Ministeren for ligestilling (Karen Jespersen):
+Nu vil jeg sige med hensyn til Susanne Larsen,
+at det - som hun selv siger - lige præcis er det,
+hun ikke gør. Men hun er gået et skridt videre
+- det er jeg helt med på - for hun laver sådan en
+slags mellemstation, hvor hun siger: Det kan
+komme dertil, hvor jeg mener det kan være nødvendigt.
+Hun var til stede i går, da charteret blev lanceret, og sagde: Det har jeg fået mange tørre tæsk
+for. Men hun fortsætter ufortrødent, og hvis ikke
+spørgeren havde nævnt Susanne Larsen, ville
+jeg selv have gjort det og sagt, at det er et eksempel på, at de røster her hører vi faktisk blandt
+kvindelige ledere fra erhvervslivet, og det har
+jeg noteret mig.
+Men Susanne Larsen var også med til at skrive under på charteret, og det var Nicolai Wammen fra Socialdemokratiet, borgmester i Århus
+Kommune, i øvrigt også, fordi de begge to syntes, at det var en god idé.
+Nicolai Wammen går så også ind for kvoter.
+Jeg har altid haft det sådan, at jeg nødig vil væl-
+
+2342
+
+Onsdag den 26. marts 2008 (US 58)
+
+ges på mit køn, jeg vil gerne vælges på mine
+kvalifikationer.
+Så kan man i øvrigt også se, at en af barriererne er, at kvinderne selv er tilbageholdende med
+at søge lederstillinger. Det er faktisk en meget
+betydelig barriere.";Kl. 13:49
+55015;Time;;Kl. 13:50
+55027;title_name;"Så er det fru Yildiz Akdogan for det sidste
+spørgsmål.";Formanden
+55091;Time;;Kl. 13:50
+55110;name_party;":
+Tak for det, men jeg tror nu snarere, det er en
+kommentar.
+Jeg synes, det er en dårlig undskyldning at sige, at kvinderne ikke selv søger de stillinger.
+Når det netop er en meget lukket klub og man
+nærmest ikke kan komme igennem, er det altså
+også svært at komme ind.
+Det er også enormt svært, når man ikke har
+nogen forbilleder: når alle bestyrelser som regel
+primært består af mænd.
+Jeg vil gerne igen henvise til en kommentar
+fra Ugebrevet A4 om, at to af de store danske
+virksomheder - jeg vil ikke nævne navne - ikke
+engang har én kvinde i bestyrelsen. Det synes
+jeg er tankevækkende i Danmark anno 2008. Og
+andre bestyrelser har maks. en eller to kvinder.
+Det synes jeg er et demokratisk underskud og
+en ulighed, og her kan man ikke bare vente og
+lade stå til, man er nødt til at lovgive.";Yildiz Akdogan
+55916;Time;;Kl. 13:51
+55928;title_name;Ministeren.;Formanden
+55949;Time;"Ministeren for ligestilling (Karen Jespersen):
+Det er fuldstændig rigtigt, og det er klart, at det
+også vil betyde, at der er flere og flere, der begynder at gå ind for kvoter. Men vi kan trods alt
+også se, at de i Norge har svært ved at finde
+kvinder nok. Så vidt jeg er orienteret, er de på
+udkig både i Sverige og i Danmark.
+Men når vi snakker om bestyrelsesposter,
+som jo så er en anden side af sagen i forhold til
+ledere, vil jeg sige, at jeg også har mødt meget,
+meget dygtige kvinder på topposter både i Danmark og i udlandet, som siger, at de synes, at det
+er horribelt, at de aldrig bliver kontaktet med
+henblik på at gå ind i en bestyrelse. De synes, at
+de fint ville kunne udfylde en plads i en bestyrelse.
+Så jeg har sådan set forståelse for, at man går
+ind for kvoter, men jeg har altid syntes, at kønskvotering ikke var måden, det skulle gøres på,
+
+men at det skulle gøres på en anden måde. Men
+det er ikke sådan, at jeg vil sige, at jeg slet ikke
+har forståelse for det.";Kl. 13:51
+56945;Time;;Kl. 13:52
+56957;title_name;"Tak til fru Yildiz Akdogan.
+Næste spørger er fru Sophie Hæstorp Andersen, og vi forsøger også at nå fru Anne-Marie
+Meldgaard. Vi kan komme hele vejen rundt,
+hvis man overholder taletiden. Værsgo.
+Spm. nr. US 58";Formanden
+57178;Time;;Kl. 13:53
+57207;name_party;":
+Tak. Jeg vil egentlig gerne følge op på fru Yildiz
+Akdogans indledning, for nu har erhvervsminister Bendt Bendtsen jo også gjort det tiltag, at
+han vil bede sit særlige udvalg angående god
+selskabsledelse om at rådgive ham om, hvordan
+der kan blive rekrutteret flere kvinder.
+Derfor vil jeg egentlig gerne høre, om det er et
+udtryk for, at Bendt Bendtsen heller ikke finder,
+at dette charter kommer til at virke hurtigt nok,
+når det gælder om at få kvinder ind i danske bestyrelser. Og hvad har ministeren egentlig imod
+det, hvis det vil være sådan, at danske virksomheder skal til at rekruttere kvinder fra andre nordiske lande til at komme ind i deres bestyrelse,
+fordi vi f.eks. også har et krav i Danmark om, at
+40 pet. af en bestyrelses medlemmer skal være
+kvinder?";Sophie Hæstorp Andersen
+57989;Time;;Kl. 13:53
+58001;title_name;Ministeren.;Formanden
+58022;Time;"Ministeren for ligestilling (Karen Jespersen):
+Charteret drejer sig kun om en strategi for at få
+flere kvinder ind i ledelsen i virksomhederne, og
+det, Bendt Bendtsen snakker om, er ganske rigtigt bestyrelsesposter. Det er bl.a. inspireret af, at
+der er kvinder fra erhvervslivet, som jeg har været i kontakt med, der har skrevet til ham og givet udtryk for interesse for, at det også blev sat i
+værk, så der er ikke nogen modsætning her. Det
+er et forsøg på at spille på alle heste for både at
+få kvinder ind i ledelser og ind på bestyrelsesposter.";Kl. 13:54
+58582;Time;;Kl. 13:54
+58594;title_name;"Jeg skal lige sige, at hr. Bendt Bendtsen altså er
+erhvervsminister og også økonomiminister.
+Så er det igen fru Sophie Hæstorp Andersen.
+Værsgo.
+
+Onsdag den 26. marts 2008 (US 59)";Formanden
+58784;Time;;Kl. 13:54
+58812;name_party;":
+Nu er det jo ikke så lang tid siden, at USA's tidligere udenrigsminister Madeleine Albright gæstede Danmark. I den forbindelse blev der holdt
+et vigtigt møde med det kvindenetværk, der
+hedder Albrightgruppen i Danmark, hvor flere
+af Folketingets medlemmer havde den fornøjelse at deltage og også fik fornøjelsen af at se et
+opbud af omkring 50 veluddannede danske
+kvinder, som besidder vigtige poster rundtomkring - ikke bare i dansk erhvervsliv: men også i
+medieverdenen og på en lang række områder
+som iværksættere og virksomhedsejere.
+Jeg synes ikke, det er rart at høre ministeren
+sige, at kvinder ikke har kvalifikationer nok eller
+ikke søger de her poster. Men noget af det, som
+ministeren måske har fat i, er selvfølgelig også,
+hvor hurtigt kvinder kommer på banen rent karrieremæssigt, og jeg vil egentlig godt spørge:
+Hvad har ministeren planer for at styrke danske
+iværksætterkvinders muligheder for at gå på
+barsel? Jeg kan forstå, at regeringen stadig er
+imod, at der bliver lavet en generel barseludligningsfond på det område.
+..";Sophie Hæstorp Andersen
+59866;Time;;Kl. 13:55
+59878;title_name;Ministeren.;Formanden
+59899;Time;"Ministeren for ligestilling (Karen Jespersen):
+Jeg sagde absolut ikke, at der ikke findes kvalificerede kvinder, og jeg ved ikke, om jeg udtrykte
+mig sådan, at kvinder ikke søger. Men jeg sagde,
+at der er en barriere, og jeg kan give et eksempel
+på det, jeg rent konkret tænkte på, nemlig at politidirektøren i København, Hanne Bech Hansen,
+fortalte, at i forbindelse med politireformen med
+de nye politikredse var der faktisk kvinder, der
+blev opfordret til at søge stillingen som politidirektør. Man ville gerne have dem ind, men de ligesom vægrede sig, og de erhvervsledere, jeg
+omgås, siger faktisk, at de har oplevelsen af, at
+der er nogle kvinder, der ligesom tøver det sidste stykke af vejen, og at der også mangler ansøgere.
+Det er jo langtfra den eneste grund, men det
+er jo en del af billedet, som også handler om en
+ændret holdning hos flere kvinder om, at de kan
+se sig selv som ledere.";Kl. 13:56
+60808;Time;;Kl. 13:56
+60820;title_name;"Fru Sophie Hæstorp Andersen.
+
+2343";Formanden
+60865;Time;;Kl. 13:57
+60893;name_party;":
+Jo, men jeg tror på, at der er masser af kvinder,
+der kunne se sig selv som ledere, også hvis de
+blev opfordret til det og fik at vide, at det ikke
+drejer sig om, at man er en enlig kvinde i en bestyrelse, hvor man skal sidde og være et trofæ
+for bestyrelsen, nærmest på linje med at nu har
+man også hvervet en person med anden etnisk
+eller med den eller den baggrund til bestyrelsen.
+Det er derfor, Socialdemokratiet foreslår, at der
+skal 40 pet. kvinder ind, fordi det virkelig ville
+gøre, at de kvinder ville udgøre en magtfaktor i
+en bestyrelse frem for bare at være et trofæ, som
+skal sidde og lægge ryg til: Nå ja, jeg er kvinden i
+bestyrelsen.
+Men ministeren svarede ikke på mit spørgsmål: Hvad har regeringen af planer for, at de
+iværksætterkvinder, som vi trods alt har i Danmark, får nogle bedre barselmuligheder, end de
+har i dag, hvor de jo enten må lukke deres virksomhed helt ned, mens de er på barsel, eller alternativt undlade at gå på barsel eller selv betale
+den?";Sophie Hæstorp Andersen
+61886;Time;;Kl. 13:57
+61898;title_name;"Ministeren.
+. Kl. 13:57
+Ministeren for ligestilling (Karen Jespersen):
+Jamen det er der ikke nogen aktuelle planer om.
+Det er jo sådan, at der også er selvstændige
+kvinder, som får børn, og der er forskellige muligheder for, at man kan finde sammen og lave
+en barselfond. Dertil kommer, at der er skabt
+forbedrede lånevilkår for iværksættere, bl.a. inspireret af et møde under valgkampen med
+kvindelige iværksættere i Århus, så der er altså
+taget nogle nye initiativer til fordel for ikke
+mindst kvindelige iværksættere.";Formanden
+62428;Time;;Kl. 13:58
+62440;title_name;"Tak til fru Sophie Hæstorp Andersen.
+Så bliver det fru Anne-Marie Meldgaard som
+spørger. Vi når lige at runde af efter regelsættene, og der er 2 minutter her i første omgang.
+Værsgo.";Formanden
+62632;Time;Spm. nr. US 59;Kl. 13:58
+62672;name_party;":
+Ja tak. Med mit mangeårige kendskab til ligestillingsministeren tror jeg godt - og i særdeleshed
+når jeg ved, at ministeren er gammel rødstrøm-
+
+2344
+
+Onsdag den 26. marts 2008 (US 59)
+
+pe - at der kan være enighed om, at der stadig er
+mange kampe, der skal kæmpes for at opnå lige
+rettigheder mellem kønnene.
+Der er, som vi ved, ikke ligestilling, hverken
+når vi taler om arbejdspladser, det kønsopdelte
+arbejdsmarked og ligeløn, eller når vi kigger på
+bankbøgerne og indbetalingerne til pensionskasser, eller for den sags skyld i hjemmet. Derfor
+kan det undre mig, at ministeren og regeringen
+ikke vil være med til at nedsætte en ligestillingskommission, så vi vitterlig kan få sat fokus på
+problemet og få skabt nogle løsningsmodeller til
+at få rettet op på de reelle ligestillingsproblemer,
+der er på bl.a. alle de områder, som jeg har
+nævnt her. I særdeleshed når vi ser på, hvor
+mange andre kommissioner denne regering søsætter, og hvad der virkelig er sat fokus på,
+hvorfor så ikke nedsætte en ligestillingskommission?";Anne-Marie Meldgaard
+63710;Time;;Kl. 13:59
+63722;title_name;Ministeren.;Formanden
+63743;Time;"Ministeren for ligestilling (Karen Jespersen):
+Der kommer jo en årlig redegørelse, og den får
+vi snart en debat om her i Folketinget. Regeringen giver jo hvert år en redegørelse, og den er jo
+et utrolig godt udgangspunkt for at tage en diskussion om, hvor vi er henne, og hvor der er
+brug for at gøre noget. Det særlige ved redegørelsen i år er i øvrigt, at alle ministerier har opstillet nogle mål for ligestillingsarbejdet inden
+for det enkelte ministerium, og det kan jo give et
+godt udgangspunkt for at diskutere, hvor vi skal
+sætte ind, og hvad det er, der er behov for.
+Jeg synes ikke, jeg kan se noget tvingende behov for en ligestillingskommission, og jeg har
+faktisk også indtryk af, at det er holdningen hos
+flertallet i Folketinget. Heller ikke fru AnneMarie Meldgaards eget parti, Socialdemokratiet,
+troede jeg egentlig var interesseret i det. Jeg har
+hørt noget om en ligelønskommissionen, men
+det er nyt for mig, at der skulle være et ønske
+om en ligestillingskommission.";Kl. 13:59
+64739;Time;;Kl. 14:01
+64751;title_name;Fru Anne-Marie Meldgaard.;Formanden
+64786;Time;;Kl. 14:01
+64811;name_party;":
+Så tror jeg desværre, at ligestillingsministeren er
+lidt dårligt underrettet, for jeg selv har personligt fremsat ønsket om en ligestillingskommission, som bl.a. kunne tage ligeløn op.
+
+Jeg har jo også ved forskellige lejligheder stået her i salen ved forhandlingen om de redegørelser, der er kommet fra Ligestillingsministeriet, og jeg må nok erkende, at jeg ikke er meget
+rørstrømsk. Det eneste, jeg har kunnet se, er den
+ene pjece efter den anden og den ene forherligelse af, hvor meget man har gjort på ligestillingsområdet, efter den anden, men resultater af det
+har jeg sådan set ikke set, og derfor ærgrer det
+mig selvfølgelig, at den nuværende ligestillingsminister ligesom dækker sig ind under, at der
+her i den kommende uge kommer en redegørelse.
+Jeg vil meget gerne vide her: Hvad vil der
+konkret blive gjort fra regeringens side på ligestillingsområdet, så vi kan få rettet op på nogle
+af de skævheder, der er?";Anne-Marie Meldgaard
+65745;Time;;Kl. 14:01
+65757;title_name;Ministeren.;Formanden
+65778;Time;"Ministeren for ligestilling (Karen Jespersen):
+Ja, det er jo sådan set den sædvanlige jammer.
+Vi er nok det land i verden, hvor der er mest
+ligestilling - og tak for det - når det gælder
+kvinders erhvervsdeltagelse, når det gælder
+kvinders præg på vores samfund, og når det
+gælder mulighederne for at få passet børn under
+gode, betryggende vilkår. Vi er nået fantastisk
+langt, men det er fuldstændig rigtigt, at der stadig er nogle problemer, især blandt dårligt stillede kvinder. Set fra min stol er det med hensyn til
+de prostituerede, og det er i forbindelse med
+handel med kvinder, men der er jo faktisk sat
+nogle handlingsplaner i gang, som oven i købet
+ser ud til at hjælpe. Der gøres også en indsats
+mod vold mod kvinder, hvor vi også kan se, at
+antallet af kvinder udsat for partnervold faktisk
+har været faldende, så skal vi ikke lige holde fast
+i, at det samlede billede altså er fantastisk positivt, og at der også er sat en række initiativer i
+gang, ikke mindst for de dårligt stillede kvinder,
+og at der faktisk også er skabt nogle resultater
+her.";Kl. 14:01
+66849;Time;"Den fg. formand (Karen J. Klint):
+Ja tak. Fru Anne-Marie Meldgaard.";Kl. 14:02
+66927;Time;;Kl. 14:03
+66952;name_party;":
+Jeg synes, det er lidt ærgerligt, at ministeren ligesom prøver at skyde aben over til det, der har
+lidt lighed med social ligestilling, altså hvor vi
+begynder at tale om de dårligst stillede her i
+samfundet på. Vi er selvfølgelig enige i, at her
+
+(294)
+Onsdag den 26. marts 2008 (S 568)
+gør vi en fælles indsats for få rettet op på forholdene.
+Men jeg synes sådan set også, det er på tide,
+at vi får sat lidt mere fokus på de velfungerende
+kvinder på det danske arbejdsmarked. Min kollega talte tidligere om topposter og ledelsessituationer, men de ganske almindelige lønmodtagere, som tager det store slæb ude på arbejdspladserne, synes jeg en gang imellem bliver
+glemt, ikke mindst på pensionsområdet.
+Det er jo bevisligt, at i aldersgruppen fra 16 til
+65 år, som har været på arbejdsmarkedet, er pensionsindbetalingerne 55 mia. kr. for kvinders og
+88 mia. kr. for mænds vedkommende. Det er i
+hvert fald ikke ligestilling, og en af årsagerne til
+det er jo bl.a. barselsituationen og forskellige orlovsmodeller.
+Mit sidste spørgsmål til ministeren er: Kunne
+vi ikke i fællesskab være med til at finde løsninger og få rettet op på nogle af de problemer og
+skævheder?";Anne-Marie Meldgaard
+68131;Time;"Den fg. formand (Karen J. Klint):
+Ministeren.";Kl. 14:04
+68187;Time;"Ministeren for ligestilling (Karen Jespersen):
+Selvfølgelig handler ligestilling jo også om ganske almindelige kvinders vilkår, men jeg vil bare
+gerne lige holde fast i, at grundlæggende er udgangspunktet positivt.
+Jeg vil sige, at jeg er meget med på, at vi, når
+vi diskuterer redegørelsen, også kan bruge det
+som udgangspunkt for at tage nogle af tingene
+op og eventuelt også finde ud af, hvordan vi kan
+snakke videre om dem. Det er jeg helt med på.";Kl. 14:04
+68649;Time;"Den fg. formand (Karen J. Klint):
+Det var slut på spørgetimen som dagsordenens
+punkt 1, og vi går videre til dagsordenens
+punkt 2.
+
+2345
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 14:04
+68899;Time;"Udgåede spørgsmål
+Den fg. formand (Karen J. Klint):
+Jeg skal meddele, at der er trukket nogle af de
+spørgsmål, der er fremsat, tilbage.
+Hr. Rasmus Prehn har meddelt, at han ønsker
+at tage det under nr. 2 opførte spørgsmål til finansministeren (spørgsmål nr. S 889) tilbage.
+Spørgsmålet er hermed udgået.
+Jeg skal ligeledes meddele, at de af hr.
+Mogens Jensen under nr. 8 og 9 opførte spørgsmål til kulturministeren, spørgsmål nr. S 991 og
+S 992, efter ønske fra spørgeren udgår til skriftlig
+besvarelse.";Kl. 14:04
+69413;Time;"Spm. nr. S 568
+1) Til forsvarsministeren af:";Kl. 14:05
+69476;name_party;":
+Hvad er ministerens holdning til den kartouche,
+facadeudsmykning, som det er hensigten at opsætte på Livgardens Kaserne i København til regimentets 350-års-jubilæum til sommer, og hvor
+dronning Margrethes navnetræk næsten skjules
+af svulmende faner i grønne, ikke rød-hvide,
+farver?
+Den fg. formand (Karen J. Klint):
+Værsgo til forsvarsministeren.";Søren Krarup
+69836;Time;;Kl. 14:05
+69868;title_name;":
+Jeg ved ikke, om der er en begrundelse for
+spørgsmålet? Det er der ikke.
+Så skal jeg starte med at sige, at den kartouche, som vi skal diskutere her i spørgetiden
+i dag, er en gave fra De Danske Garderforeninger i anledning af Den Kongelige Livgardes
+350-års-jubilæum i år.
+Der er en tradition for, at garderforeningerne
+giver større gaver til Den Kongelige Livgarde
+ved jubilæer. Foreningen har valgt en kartouche
+til opsætning på Livgardens Kaserne ved Rosenborg, da der tidligere har været en kartouche på
+det her sted. Den kartouche, som var, blev revet
+ned under besættelsen.
+Kartouchen er udarbejdet i patineret bronze.
+Krone, navnetræk og fanespidser er betrukket
+med bladguld, og jeg har fået oplyst, at bortset
+
+2346
+
+Onsdag den 26. marts 2008 (S 568)
+
+fra bladguldet vil hele kartouchen - både skjold
+og faner - fremstå irret grønlig. Den vil derfor
+ligne andre skulpturer, som er støbt i bronze, og
+som med tiden bliver patineret. Kartouchen vil
+komme til at ligne skulpturer og for den sags
+skyld andre irrede kobbertage, som findes overalt i København.
+På skjoldet er Hendes Majestæt Dronningens
+monogram, og det er placeret i forgrunden på
+kartouchen, som jeg har et eksemplar af her. Fanerne, som har fanespidser med historiske danske kongelige navnetræk, vil være placeret i
+baggrunden. Fanerne dækker således ikke skjoldet med Hendes Majestæt Dronningens monogram, snarere omvendt.
+Jeg vil gerne understrege, at jeg ikke skal gøre
+mig klog på den kunstneriske udformning af
+kartouchen: det overlader jeg meget gerne til andre.
+Sagen har været forelagt relevante myndigheder, herunder Kulturarvsstyrelsen.";Søren Gade
+71502;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren. Jeg giver ordet til spørgeren,
+hr. Søren Krarup.";Kl. 14:07
+71615;Time;;Kl. 14:07
+71633;name_party;":
+Jeg siger tak for redegørelsen og vil sige, at det
+er en sag, som egentlig skulle have været fremme for 2 måneder siden, men af grunde, som
+hverken ministeren eller jeg er ansvarlige for,
+er det først sket nu.
+Lad mig sige, at det er ganske tilfældigt, at jeg
+er kommet ind i sagen. Jeg blev gjort opmærksom på, hvad der foregik, og jeg fik set, hvad
+den kartouche - lad mig lige oversætte det fine
+ord, det betyder en facadeudsmykning - gik ud
+på, og når man i sin grønne ungdom selv har
+haft sin gang og har ligget på garderkasernen,
+må jeg tilstå, at jeg blev rystet over at se den, for
+den er efter min mening et sådant brud med
+dansk tradition og dansk stil, at der virkelig er
+grund til at sige fra over for den.
+Der er tale om en meget stor ophængning,
+som vil fylde meget på gavlen af kasernen, og
+der er først og fremmest tale om en udsmykning, som er uden enhver forbindelse med
+dansk stil og tradition. Der er ikke tale om Dannebrog, der er ikke tale om røde og hvide farver,
+der er ikke tale om kors. Der er derimod tale om
+ti svulmende faner i afskyelige grønne farver.
+Jeg må jo sige, at de danske nationalfarver er rød
+og hvid, den grønne farve er islams farve.
+
+Jeg må altså tilstå, at det at hænge en - efter
+min mening - islamisk kartouche op på livgardens kaserne i en situation, hvor danske gardere
+dør i kamp mod islamismen, synes jeg er så rystende, at jeg ikke kan lade være med at bemærke det.
+Jeg vil stille ministeren spørgsmålet, om han
+har givet tilladelse til det, og om han vil tage ansvaret for denne efter min mening meget, meget
+uheldige kartouche.";Søren Krarup
+73226;Time;"Den fg. formand (Karen J. Klint):
+Ministeren.";Kl. 14:09
+73282;Time;;Kl. 14:09
+73314;title_name;":
+Jeg må sige til hr. Søren Krarup, at jeg så også
+blev bekendt med sagen, efter at den gav anledning til spørgsmål fra borgere. Det er sådan, at
+første gang Kulturarvsstyrelsen hørte om den
+her kartouche var i maj 2004. Bygningen, kartouchen skal sættes op på, er fredet, og derfor
+skal Kulturarvsstyrelsen blandes ind i sagen.
+Det første udkast til kartouchen virkede efter
+Kulturarvsstyrelsens mening for overlæsset og
+for stereotypt, og derfor blev det lavet om. Udkastet til den nye kartouche blev derfor ændret,
+og i november 2006 meddelte Kulturarvsstyrelsen tilladelse til arbejdets udførelse.
+Det er også vigtigt for mig at sige, at det har
+været en lang proces med mange mennesker.
+Der er tale om rigtig mange gardere. Det er jo
+gardere, som betaler kartouchen på livgardekasernen. Derfor er det vigtigt at sige, at sammenligningen med den irrønne farve og islam jo ikke
+er noget, som livgarden selv har hæftet sig ved, i
+og med at det er livgardister og gamle gardere,
+også nogle af hr. Søren Krarups venner, som faktisk finansierer det.
+Det er også vigtigt for mig at understrege,
+at Hendes Majestæt Dronningen har set kartouchen med henblik på, at Hendes Majestæt
+kunne give tilladelse til anvendelse af det kongelige navnetræk, så der er altså tale om en
+lang proces.";Søren Gade
+74605;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren og værsgo til spørgeren.";Kl. 14:10
+74693;Time;;Kl. 14:10
+74711;name_party;":
+Tak for det. Jeg er ganske overbevist om, at Hendes Majestæt ikke har godkendt det. Det er muligt, at hun har fået det forelagt, og selvfølgelig
+kan man ikke uden videre afvise en gave.
+
+Onsdag den 26. marts 2008 (S 568)
+Jeg vil også tillade mig at betvivle, at det er almindelige gardere, der har været med til at sætte
+sådan noget op. Jeg tror, de ligesom mig ville
+føle det beskæmmende at skulle se livgardens
+gamle kaserne udsmykket med sådanne rædsler.
+Men jeg vil godt spørge: Forholdet er jo, at
+der er forskellige instanser, der kommer ind i sådan en sag, og der jo især tale om det, der hedder Forsvarets Bygningstjeneste og Kulturarvsstyrelsen. Der vil jeg nok sige med hensyn til
+Forsvarets Bygningstjeneste, at jeg ikke rigtig
+kan forestille mig, at den har sagt ja til det. Og
+jeg kan ikke lade være at nævne, at der med
+hensyn til Kulturarvsstyrelsen var en kunstner,
+der sagde, at fanerne ligner lagener, som er
+hængt til tørre - det synes jeg er fuldstændig rigtigt - samtidig med at de er grønne og på den
+måde symboliserer noget, der faktisk er direkte i
+modstrid med det, som er livgardens nationale
+anliggende.
+Jeg synes, det er en katastrofe. Jeg er, det vil
+jeg godt sige, temmelig berørt af det, og jeg vil
+spørge, om ministeren kan oplyse, hvilke instanser der egentlig har sagt god for ophængningen
+af denne facadeudsmykning.";Søren Krarup
+76074;Time;"Den fg. formand (Karen J. Klint):
+Tak til spørgeren, og værsgo til ministeren.";Kl. 14:12
+76163;Time;;Kl. 14:12
+76195;title_name;":
+Ud over Kulturarvsstyrelsen, som jo har ansvaret for sådan en fredet bygning, så har Rigsarkivet, altså statens heraldiske konsulent, også været inde over den her sag, og jeg har fået oplyst,
+at Rigsarkivets opgave er at sikre, at skjoldet .
+med Hendes Majestæts monogram samt kronen
+er udarbejdet efter de retningslinjer, der findes
+for heraldiske principper, og i august 2005 meddelte Rigsarkivet, at monogram og krone var
+udført korrekt. Rigsarkivet har således taget stilling til forhold, som ligger inden for Rigsarkivets opgaver.
+Må jeg så også have lov at sige, at der jo, som
+jeg har nævnt, har været en kartouche på det
+selv samme sted frem til anden verdenskrig,
+hvor den forsvandt, og som jeg har fået det fortalt, er der en del lighedspunkter mellem den
+gamle kartouche og den nye, der bliver sat op.
+Jeg må så sige til hr. Søren Krarup, at jeg ikke
+har helt den samme opfattelse af den grønne farve, og hvis man kigger op på mit ministerium,
+som ligger lige på den anden side her uden for
+Folketingssalen, så vil man se, at taget på For-
+
+2347
+
+svarsministeriet i lighed med taget på Børsen og
+på Finansministeriet jo også med tiden er blevet
+irgrønt.";Søren Gade
+77371;Time;"Den fg. formand (Karen J. Klint):
+Sidste spørgsmål til spørgeren, værsgo.";Kl. 14:13
+77455;Time;;Kl. 14:13
+77473;name_party;":
+Det er fuldstændig rigtigt, at den grønne farve
+kan være mange ting, men jeg vil nok sige, at en
+udsmykning på Livgardens Kaserne ikke plejer
+at være grøn, den plejer at være rød og hvid. Det
+er jo selvfølgelig, fordi det er et symbol på det,
+som livgarden repræsenterer, og det er et symbol, som med denne kartouche virkelig brydes
+på en sådan måde, at jeg er sikker på, at jeg ikke
+er den eneste, der føler, det er meget, meget
+ulykkeligt, og som håber dybt og inderligt, at
+denne mislykkede form for udsmykning bliver
+standset inden den 30. juni 2008, hvor der er
+350-års-jubilæum.
+Det er fuldstændig rigtigt, at der var en kartouche før, og jeg synes, det er ganske i sin orden. Jeg var i 1958 med til at indvi den udsmykning, der blev stillet op ved 300-års-jubilæet, og
+jeg vil da sige, at jeg synes, det i allerhøjeste grad
+var på sin plads, at der kom en udsmykning
+også med dronning Margrethes navnetræk og
+hele facadeopsætning. Men jeg vil altså spørge
+ministeren, om han ikke kan hjælpe mig og alle
+os andre med at prøve på at få det spørgsmål
+rejst på ny, sådan at man finder en løsning, der
+virkelig svarer til det - og det tør jeg godt sige som mange gamle gardere faktisk ønsker sig.";Søren Krarup
+78683;Time;"Den fg. formand (Karen J. Klint):
+Tak til spørgeren. Værsgo til ministeren.";Kl. 14:14
+78769;Time;;Kl. 14:14
+78801;title_name;":
+Tak for det.
+Jeg vil sige til hr. Søren Krarup, at den kunstneriske udformning og smag eller ikke smag
+skal jeg ikke gøre mig til dommer over her. Det
+må jo bero på den enkelte, men jeg kan konstatere, at de danske gardere og Garderforeningen
+har indsamlet et beløb i størrelsesordenen
+600.000 kr. til udsmykning og til at lave den her
+kar touche, og jeg kan konstatere, at den opfylder Kulturarvsstyrelsens krav til udsmykning
+på den her fredede bygning. Jeg kan også konstatere, at Rigsarkivet har været inde over det,
+således at Hendes Majestæt Dronningens monogram og kronen er udarbejdet efter - hvad skal
+vi sige? - de korrekte principper. Derfor har jeg
+
+2348
+
+Onsdag den 26. marts 2008 (S 889)
+
+ikke og skal heller ikke have mulighed for at gå
+ind og blande mig i den her udsmykning og så
+lade det være op til den enkelte, hvorvidt man
+synes, det er en smagfuld dekorering af Livgardens Kaserne eller ej. Det må være op til den enkelte, men der er altså i tusindvis af hr. Søren
+Krarups tidligere kollegaer fra livgarden, som
+har givet et bidrag, og som jo på den måde står
+bag ved den gave, som livgarden vil modtage i
+anledning af 350-års-jubilæet.";Søren Gade
+79972;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren. Det var slut på spørgsmål
+nr. 1.
+Vi går videre til næste spørgsmål, som er
+spørgsmål nr. 3 på den trykte dagsorden, idet
+spørgsmål nr. 2 er taget tilbage. Det er et spørgsmål til miljøministeren af hr. Klaus Hækkerup.";Kl. 14:15
+80254;Time;"Spm. nr. S 889
+2) Til finansministeren af:";Kl. 14:15
+80314;name_party;":
+Mener ministeren, at det er rimeligt og i overensstemmelse med regeringens egne valgløfter
+om både mere velfærd og skattelettelser, når
+Hjørring Kommune tvinges til at fyre 50 SOSUassistenter på grund af regeringens trusler om
+økonomisk straf af kommunerne?
+(Spørgsmålet er taget tilbage af spørgeren).";Rasmus Prehn
+80628;Time;"Spm. nr. S 899
+3) Til miljøministeren af:";Kl. 14:16
+80689;name_party;":
+Hvad er ministerens holdning til, at arbejdet i
+arbejdsgruppen vedrørende den fremtidige anvendelse af Auderødlejren og af Sjælsmark Kaserne stadig ikke er afsluttet?
+Skriftlig begrundelse
+Ved besvarelsen den 15. juni 2006 af spørgsmål
+nr. S 5321 om, hvornår arbejdsgruppen forventes at afslutte sit arbejde, oplyste forsvarsministeren, at arbejdsgruppen stilede mod et resultat
+inden udgangen af 2006. Ved besvarelsen den
+18. maj 2007 af spørgsmål nr. S 4620 om, hvorvidt arbejdsgruppen vedrørende den fremtidige
+anvendelse af Auderødlejren og af Sjælsmark
+
+Kaserne havde afsluttet sit arbejde, og hvad resultatet var blevet, oplyste ministeren, at hun
+havde forstået, at arbejdsgruppen »i løbet af meget nær fremtid« ville »være færdige med deres
+arbejde«, samt at arbejdet »meget gerne skulle
+være færdigt i løbet af et par måneder«. I juli
+2007 udsendte regeringen Landsplandirektiv for
+hovedstadsområdets planlægning. Det fremgår
+heraf bl.a., at der for det ydre storbyområde gælder »at ny byudvikling tilrettelægges, således at
+der skabes sammenhæng med de eksisterende
+byområder« og at der i områderne i det øvrige
+hovedstadsområde gælder, at »der kan således
+placeres pladskrævende fritidsanlæg, men ikke
+inddrages ny byzone«.
+Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Klaus Hækkerup
+81993;Time;"Miljøministeren (Troels Lund Poulsen):
+Jeg vil starte med at glæde mig over, at arbejdet i
+de to arbejdsgrupper om den fremtidige anvendelse af henholdsvis Forsvarskommandoens
+ejendom i Vedbæk og den fremtidige brug af
+arealerne på Flyvestation Værløse er afsluttet i
+enighed.
+Jeg er selvfølgelig ligesom hr. Klaus Hækkerup klar over, at drøftelserne om den fremtidige
+anvendelse af Auderødlejren og Sjælsmark Kaserne længe har været i gang og stadig væk ikke
+er afsluttet.
+Opgaven er jo at vægte forsvarets legitime interesse i at finde en løsning med en fornuftig
+økonomi indbygget og derudover selvfølgelig
+også vægte det over for ønsket om at sikre, at
+den fremtidige brug af området sker i overensstemmelse med de retningslinjer, der er i fingerplanen, og på en måde, så vi også tager hensyn
+til de naturværdier, der er i områderne.
+Jeg forstår godt kommunernes og hr. Klaus
+Hækkerups utålmodighed, men jeg er sikker på,
+at de to ministerier nok skal finde frem til en løsning, der kan danne grundlag for landsplandirektiverne, der fastlægger rammerne for den
+kommende kommune- og lokalplanlægning for
+arealerne.";Kl. 14:16
+83121;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren og værsgo til spørgeren.";Kl. 14:17
+83209;Time;;Kl. 14:17
+83228;name_party;":
+Tak for det. Jeg synes, ministeren kom lidt let
+rundt om det her spørgsmål og besvarelsen af
+det.
+
+Onsdag den 26. marts 2008 (S 899)
+Det startede med aktstykke 189 fra Forsvarsministeriet, som blev forelagt i Finansudvalget
+den 22. juni 2005, og heraf fremgik det, at man
+agtede at sælge kasernerne, bl.a. kasernen oppe
+ved Auderød til boligformål. Det vidste man
+godt var i strid med planerne, man vidste endda, at der var en række forhold, der talte imod.
+Det fremgår nemlig at det svar, som jeg fik fra
+Forsvarsministeriet på daværende tidspunkt. Siden da har sagen bare ligget og ligget og ligget,
+uden at der er kommet nogen som helst afklaring.
+Er det sådan, at hvis forsvarsministeren kommer til de politiske partier i Folketinget og siger:
+Nu laver vi et forlig, hvor vi sætter al anden lovgivning til side, al anden planlægning til side,
+og nu beslutter vi, at der, hvor der har ligget en
+kaserne, skal der laves boliger - at det så efter
+miljøministerens opfattelse er i overensstemmelse med de regler, vi i øvrigt har på miljøområdet?";Klaus Hækkerup
+84286;Time;"Den fg. formand (Karen J. Klint):
+Tak til spørgeren og værsgo til ministeren.";Kl. 14:18
+84374;Time;"Miljøministeren (Troels Lund Poulsen):
+Nu kan man jo forestille sig rigtig mange ting,
+der måtte ske, men jeg vil i dag overhovedet
+ikke give noget svar på et muligt scenario, der
+måtte være i fremtiden. Jeg vil derimod give det
+klare svar, at det, som jeg har sagt til hr. Klaus
+Hækkerup, er, at ja, der skal findes en løsning de
+to ministerier imellem, og det har jeg også klart
+sagt at der skal arbejdes for. Nu noterer jeg mig,
+at arbejdsgrupperne har arbejdet i lang tid, og
+derfor skal vi selvfølgelig også snarest muligt
+have en afklaring i den forbindelse.";Kl. 14:18
+84949;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til spørgeren.";Kl. 14:18
+85015;Time;;Kl. 14:18
+85034;name_party;":
+Tak for det. Jeg må sige, at jeg simpelt hen ikke
+forstår miljøministerens svar. Første gang, miljøministeren havde ordet, sagde miljøministeren,
+at der nu skulle ske en planlægning, der var i
+overensstemmelse med regionsplandirektivet,
+som fastlægger rammerne for kommunernes
+planlægning i området. Må jeg ikke gøre miljøministeren opmærksom på, at hans eget ministerium i juni sidste år udstedte et landsplandirektiv for hovedstadsområdets planlægning. Det
+trådte i kraft den 1. august sidste år, og når man
+læser bestemmelserne for de to pågældende ka-
+
+2349
+
+serners beliggenhedsområder igennem, fremgår det klart - klart! - at her kan der ikke blive
+tale om boligbyggeri.
+Så vil jeg godt gentage mit spørgsmål til miljøministeren, hvis han nu i stedet for bare at svare bla og bla og bla forholder sig til spørgsmålet:
+Er miljøministeren enig i, at Forsvarsministeriet
+bare kan tilsidesætte planlægningen og sige, at
+de grunde, de har, skal sælges til boligformål,
+selv om det strider imod den regionale planlægning, og selv om det strider imod den fingerplan, som regeringen har vedtaget for de to pågældende arealer?";Klaus Hækkerup
+86169;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:20
+86236;Time;"Miljøministeren (Troels Lund Poulsen):
+Jeg tror, jeg vil tillade mig igen at vende tilbage
+til det, jeg startede med at svare hr. Klaus Hækkerup, og det var følgende:
+Opgaven er jo at vægte forsvarets legitime
+interesse i at finde løsninger med en fornuftig
+økonomi indbygget over for mit, dvs. Miljøministeriets, lige så legitime ønske om, at den fremtidige brug af områderne sker i overensstemmelse
+med retningslinjerne i fingerplanen og på en
+måde, så naturværdierne i området bevares.";Kl. 14:20
+86735;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren. Og så får spørgeren det sidste
+spørgsmål.";Kl. 14:20
+86841;Time;;Kl. 14:20
+86860;name_party;":
+Jeg synes stadig væk ikke, at jeg får svar på mit
+spørgsmål: Betyder det, at de økonomiske interesser går forud for det landsplandirektiv, som
+regeringen har vedtaget og Miljøministeriet har
+udstedt? Hvorriår kan vi overhovedet forvente
+en afslutning på arbejdet i de to arbejdsgrupper?
+Lad mig gøre opmærksom på, hvad jeg jo også
+har begrundet det her spørgsmål med, at jeg i
+2006 spurgte om, hvornår vi kunne forvente en
+afslutning. Da fik jeg at vide: inden udgangen af
+2006. Da var der ikke kommet en afslutning. Så
+spurgte jeg den 8. maj 2007 om, hvornår vi kunne forvente en afslutning. I løbet af et par måneder, svarede den daværende minister. Og nu er
+vi i 2008, og hvornår kan vi overhovedet forvente en afslutning på arbejdet i de pågældende arbejdsgrupper? Sker der overhovedet noget som
+helst i Miljøministeriet, der bringer den her sag
+videre?
+-
+
+2350
+
+Onsdag den 26. marts 2008 (S 984)";Klaus Hækkerup
+87773;Time;"I Danmark har vi en lovgivning, der er i overensstemmelse med bl.a. ILO's konventioner om
+forbud mod og afskaffelse af tvangsarbejde. Vi";Kl. 14:21
+87921;Time;"har myndigheder, der kontrollerer, at virksomMiljøministeren (Troels Lund Poulsen):
+hederne overholder den danske lovgivning.
+Ja, det kan jeg svare bekræftende på: Det gør
+Hvis virksomhederne overtræder reglerne, kan
+der. Jeg er meget opmærksom på den her sag.
+de ansvarlige blive straffet med bøde eller fængJeg har bl.a. også haft et møde med Halsnæs
+sel.
+Kommunes borgmester, som bl.a. har diskuteret
+Vi arbejder for, at andre lande også etablerer
+Auderødlejren med mig. I den forbindelse har
+systemer, der sikrer forbud mod og bekæmpelse
+jeg klart givet udtryk for, at ja, der skal findes en
+af tvangsarbejde. Vi støtter ILO's arbejde med
+afklaring snarest muligt, og det løfte, jeg har gifremme af Decent Work og 1998-deklarationen
+vet til borgmesteren, vil jeg også stå ved, og det
+om grundlæggende arbejdstagerrettigheder, og
+løfte har jeg også givet nu til hr. Klaus Hækkevi presser på for at sikre, at EU tager beskyttelse
+rup. Så ja, der skal findes en afklaring snarest
+af arbejdstagerrettigheder med i sine handelsafmuligt.
+taler med tredjelande. Vi gør en forskel ved at";Kl. 14:21
+89015;Time;"bidrage til internationalt samarbejde og internaDen fg. formand (Karen J. Klint):
+tionale aftaler.
+Tak til ministeren. Og det var afslutningen på";Kl. 14:21
+89171;Time;"spørgsmål nr. 3.
+Den fg. formand (Karen J. Klint):
+Vi går videre til det fjerde spørgsmål, som er
+Tak til ministeren. Og værsgo til spørgeren.";Kl. 14:23
+89324;Time;"stillet til beskæftigelsesministeren af fru Line
+Barfod.";Kl. 14:23
+89398;name_party;":
+Jeg er fuldstændig klar over alt, hvad der står i";Line Barfod
+89459;Time;"handlingsplanen - den har jeg læst mange ganSpm. nr. S 984
+ge - og at man gør en stor indsats internationalt.
+Det, jeg gerne ville høre, var, hvad ministeren
+4) Til beskæftigelsesministeren af:
+gør på ministerens område for at bekæmpe";Kl. 14:21
+89711;name_party;":
+menneskehandel og tvangsarbejde. Jeg er fuldHvad mener ministeren der bør gøres for at bestændig klar over, at der er lovgivning om det,
+kæmpe tvangsarbejde og menneskehandel?
+hvis man finder nogen, der er skyldig i menneskehandel. Men det kræver jo, at myndighederDen fg. formand (Karen J. Klint):
+ne ser efter det, når de er ude på arbejdspladserVi venter lige på, at spørgeren kommer på plads. ne. Så vil ministeren f.eks. sikre, at ArbejdstilsyVærsgo til ministeren.
+net gør en indsats for at undersøge, om de udenKl. 14:22 landske arbejdere, der opholder sig her på arBeskæftigelsesministeren (Claus Hjort Fredebejdspladserne, er udsat for menneskehandel
+riksen):
+og tvangsarbejde?
+Tvangsarbejde og menneskehandel skal bekæmF.eks. kan bygningsarbejdere fortælle om, at
+pes. Regeringen lægger afgørende vægt på at
+de, hvis de spørger deres kolleger fra andre EUsikre ordentlige arbejdsvilkår herhjemme og arlande, om de ikke skal være medlem af fagforbejder aktivt for, at de fremmes i resten af vereningen, så de kan få højere løn, nogle gange få
+den.
+svaret: Hvad skulle det hjælpe? Hvis jeg får en
+Regeringen gør en stor indsats for at bekæmhøjere løn, står der, lige når jeg går ud fra pladpe menneskehandel. Vi fremlagde sidste år en
+sen, en gorilla, som kræver at få de ekstra penge,
+handlingsplan til bekæmpelse af menneskehanellers får jeg tæv.
+del til Danmark. Den skal bl.a. styrke vores efDet falder for mig at se ind under definitioterforskning og øge vores viden om menneskenen af menneskehandel og tvangsarbejde. Men
+handel samt støtte ofrene herfor.
+hvad gør ministeren for at sikre, at det ikke finMenneskehandel er et grænseoverskridende
+der sted, og for at sikre, at de myndigheder, der
+problem. Regeringen lægger derfor vægt på inkommer på arbejdspladserne, er opmærksomme
+ternationalt samarbejde for at forebygge og bepå, at man skal undersøge, om den slags finder
+kæmpe de sociale aspekter af menneskehandel.
+sted, at man skal snakke med arbejderne osv. for
+at finde ud af, hvad der foregår? For hvis ikke
+Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.
+
+Onsdag den 26. marts 2008 (S 984)
+man ser efter, om problemet er der, så er det
+klart, at man kan sige, at det ikke eksisterer i
+Danmark.";Line Barfod
+91950;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:25
+92017;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Regeringen har sidste år fremlagt en handlingsplan til bekæmpelse af menneskehandel. Handlingsplanen har fokus på fire ting: En styrket
+indsats i efterforskningen, begrænsning af efterspørgslen, støtte til ofrene og forbedring af det
+internationale samarbejde omkring disse
+spørgsmål. Der er etableret en hotline til brug
+for kvinder, der er ofre for menneskehandel: den
+kan også bruges af folk, der er ofre for tvangsarbejde, og af personer, der har viden om tvangsarbejde.
+Hvis mennesker handlet til tvangsarbejde
+kommer til Danmark, er der jo stor sandsynlighed for, at disse tilfælde vil blive kendt af myndighederne og arbejdsmarkedets parter.
+Erfaringerne fra østaftalen har vist os, at det
+er vanskeligt at skjule illegal arbejdskraft i Danmark, og det vil være endnu sværere, hvis de
+pågældende ikke skal arbejde her frivilligt.
+Jeg kan i øvrigt henvise til min kollega, ligestillingsministeren, som arbejder aktivt med bekæmpelse af handel med kvinder til prostitution.";Kl. 14:25
+93058;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til spørgeren.";Kl. 14:26
+93124;Time;;Kl. 14:26
+93141;name_party;":
+Jeg ved godt, at der foregår et arbejde med hensyn til at bekæmpe handel med kvinder til prostitution: det er rigtig vigtigt og rigtig godt.
+Men ifølge handlingsplanen mener regeringen ikke, at der i Danmark er eksempler på, at
+folk er blevet handlet til tvangsarbejde. Det er jo
+derfor, det er interessant at vide, hvad beskæftigelsesministeren konkret har gjort på sit område.
+Så derfor prøver jeg igen: Har ministeren taget initiativ eller vil han tage initiativ til at sikre,
+at de myndigheder, der kommer på arbejdspladserne, ser efter, om der er nogen mulige ofre for
+menneskehandel, og om der foregår tvangsarbejde?
+Det andet spørgsmål - for ministeren har jo
+ret i, at arbejdsmarkedets parter har et stort an-
+
+2351
+
+svar - er: Har ministeren taget initiativ eller vil
+han tage initiativ til, at de bliver bekendt med
+reglerne om menneskehandel og tvangsarbejde,
+og at de bliver bekendt med hotline og får at vide, hvad det er for et nummer, de skal ringe på,
+altså at det f.eks. bliver udbredt på alle arbejdspladser, så fagforeninger osv. bliver klar over, at
+det eksisterer? Og har ministeren konkret i forbindelse med de eksempler, der nogle gange har
+været fremme i pressen, bedt myndigheder om
+at undersøge, om der her var tale om ofre for
+menneskehandel, f.eks. i forbindelse med de au
+pair-piger oppe fra Nordsjælland, der har været
+omtalt?";Line Barfod
+94509;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:27
+94576;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Hver gang vi får sådan nogle ting, vil politiet naturligvis blive inddraget i de her sager, og det er
+jo den normale procedure.
+Jeg vil bare sige, at jeg tror, det er meget
+usædvanligt, hvis der på danske arbejdspladser
+skulle forekomme det, man forstår ved menneskehandel. Det er muligt, at der kan være tale
+om nogle underbetalingssager. Vi prøver også i
+forbindelse med østaftalen at bekæmpe brugen
+af mellemmænd i arbejdet i Danmark, fordi det
+er et ukendt fænomen og noget, vi ikke skal
+have til at brede sig i Danmark, men det er vi jo
+meget opmærksomme på alle steder, og derfor
+forfølger vi også de sager.
+Det, der er karakteristisk ved det danske arbejdsmarked, er jo, at folk bliver ansat på kollektive overenskomster, og derfor er det et ekstremt
+velorganiseret arbejdsmarked, og jeg tror ikke,
+at der kan forekomme brug af tvangsarbejde i
+noget videre omfang. Det er muligt, at det kan
+forekomme i nogle private hjem, men i de tilfælde, hvor vi bliver opmærksomme på det, vil vi
+naturligvis politianmelde det.";Kl. 14:27
+95660;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til spørgeren for sidste spørgsmål.";Kl. 14:28
+95747;Time;;Kl. 14:28
+95764;name_party;":
+I adskillige år fik vi også at vide, at der ikke foregik handel med kvinder til prostitution i Danmark. Politi og regering benægtede, at det fandt
+sted i Danmark. Der skulle virkelig mange,
+mange afsløringer af, at det foregik, til, før man
+begyndte at acceptere den kendsgerning, at det
+
+2352
+
+Onsdag den 26. marts 2008 (S 985)
+
+foregik og fik lavet den første handlingsplan for
+nogle år siden.
+Det er klart, at man, hvis man ikke kigger efter det, heller ikke ser det, og derfor vil jeg gerne
+igen spørge ministeren, hvad han konkret har
+gjort på sit ansvarsområde for at leve op til de
+internationale konventioner, som ministeren
+startede med at sige at vi har indgået. Vi har også ratificeret Europarådets konvention om menneskehandel. Hvad har ministeren konkret gjort
+på sit område for at sikre, at man - ikke politiet,
+for det er justitsministerens område, men Arbejdstilsynet - er opmærksom på det her område, og at man går ud og gør noget for at undersøge, om det finder sted? Har ministeren i forbindelse med nogle af de konkrete sager, der har
+været fremme i pressen, taget initiativ til at få
+undersøgt, om der her var tale om ofre for menneskehandel?
+Kl: 14:29
+Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Line Barfod
+97007;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Vi er jo i Danmarks så privilegerede, at vi har et
+meget velorganiseret arbejdsmarked, og derfor
+ligger hovedansvaret hos de danske virksomheder, og hovedvirkemidlet er jo, at arbejdsmarkedets parter overvåger, at det foregår på ordentlig
+vis. Derfor vil det jo være gennem de fagretlige
+systemer, at de her ting vil blive ordnet.
+Jeg tror, man kan sige, at det ville være meget,
+meget vanskeligt at forestille sig, at der gik
+tvangshandlede arbejdere rundt på danske arbejdspladser, uden at nogen opdagede det - og
+hvis man opdager det, bliver det naturligvis anmeldt til politiet.";Kl. 14:29
+97652;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren.
+Vi går videre til næste spørgsmål, som er
+spørgsmål nr. 5 på den trykte dagsorden, og det
+er et spørgsmål til velfærdsministeren stillet af
+fru Line Barfod.";Kl. 14:30
+97873;Time;"Spm. nr. S 985
+5) Til velfærdsministeren af:";Kl. 14:30
+97935;name_party;":
+Mener ministeren, at offentligt ansatte bør opmuntres til at bruge deres ytringsfrihed til at for-
+
+tælle om ulovligheder og urimeligheder, de oplever på deres arbejde?
+Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Line Barfod
+98173;Time;"Velfærdsministeren (Karen Jespersen):
+Det er et spørgsmål, som handler om de offentligt ansattes ytringsfrihed, og der er det jo sådan, når det gælder de generelle regler for offentligt ansattes ytringsfrihed, at det er justitsministerens ansvarsområde. Der findes jo bl.a.
+under Justitsministeriet en vejledning om offentligt ansattes ytringsfrihed, og den vejledning er
+fra september 2006.
+Når det gælder mit ansvarsområde, følger det
+af sociallovgivningen, at enhver i visse tilfælde
+direkte har pligt til at videregive oplysninger
+om forhold for børn og unge. Alle, der får kendskab til, at et barn under 18 år f.eks. bliver misrøgtet, har pligt til at underrette kommunen, så
+barnet får den hjælp, som det har behov for, og
+det er ifølge servicelovens § 154.
+For fagpersoner, offentligt ansatte og andre
+personer, der udøver offentligt hverv, eksempelvis socialrådgivere i kommunen eller skolelærere, gælder en såkaldt skærpet underretningspligt, som man kan læse om i servicelovens
+§ 153 og også i en bekendtgørelse, hvorefter der
+ikke kun skal gives underretning ved kendskab
+til misrøgt, men i det hele taget, når fagpersoner
+i arbejdet får kendskab til forhold, der giver anledning til en formodning om, at et barn under
+18 år har brug for særlig støtte.
+De to bestemmelser i den sociale lovgivning
+er to meget vigtige bestemmelser, som jeg har
+bestræbt mig meget på at udbrede kendskab til,
+og jeg har for nylig deltaget i en konference med
+socialrådgivere og skolelærere for at drøfte,
+hvordan man bedst muligt bruger de to bestemmelser, og også for at drøfte, om der eventuelt er
+brug for at justere dem.
+Så der er en stor opmærksomhed med hensyn
+til at gøre opmærksom på, at der ikke bare er
+tale om en ret, men også en pligt til at se på, om
+det er regler, der kan forbedres.";Kl. 14:30
+99973;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren. Værsgo til spørgeren.";Kl. 14:32
+100059;Time;;Kl. 14:32
+100076;name_party;":
+Jeg er bekendt med, at det er justitsministeren,
+der er ansvarlig for de formelle regler om ytringsfrihed. Men det er jo velfærdsministeren,
+
+(295)
+Onsdag den 26. marts 2008 (S 985)
+der er den øverste ansvarlige i forhold til de offentligt ansatte, i hvert fald langt størsteparten
+af dem i både kommuner og regioner, og i forhold til, om man som led i at forbedre kvaliteten
+i den offentlige sektor, som jeg har forstået ministeren mener er et formål i sig selv, sikrer, at de
+offentligt ansatte bruger deres ytringsfrihed. Det
+er jo her, jeg gerne vil høre, om ministeren vil
+gøre noget for at opmuntre de offentligt ansatte,
+for det virker, som om ministeren har den modsatte holdning.
+Da fru Özlem Cekic for nylig gik ud og brugte sin ytringsfrihed til at fortælle om nogle af de
+problemer, hun har oplevet i sit arbejde som offentligt ansat, var reaktionen fra ministeren ikke
+at sige, at hvor er det godt, at en offentligt ansat
+står frem og fortæller om problemer, så vi kan
+gøre noget for at løse dem, men tværtimod gik
+ministeren i gang med at se på, om den pågældende skulle straffes. Vi har set talrige eksempler på offentligt ansatte, der mister deres job og
+bliver udsat for andre sanktioner, hvis de bruger
+deres ytringsfrihed, senest sagen om brandmanden i Gentofte.
+Derfor vil jeg gerne høre, om det er ministerens holdning, at man skal opmuntre offentligt
+ansatte til at bruge deres ytringsfrihed, eller om
+det er ministerens holdning, som den kom til
+udtryk gennem ministerens handling, at de skal
+have en sanktion for at bruge deres ytringsfrihed.";Line Barfod
+101655;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:33
+101722;Time;"Velfærdsministeren (Karen Jespersen):
+Jamen i den konkrete sag, der bliver henvist til,
+handler det jo lige præcis om bestemmelsen i
+den sociale lovgivning, og det har jo ikke noget
+som helst at gøre med, hvem der har rejst hvilken sag.
+Der var en beskrivelse i en avis om, at seksuelt misbrugte børn var blevet sendt tilbage til
+dem, der havde misbrugt dem, og det er jo en
+meget, meget alvorlig forbrydelse at misbruge
+børn seksuelt. Det er jo netop ikke tilladt bare at
+sende børnene tilbage, og derfor bad jeg Ankestyrelsen om at se på sagen, som jeg vil gøre i ethvert tilfælde, hvor jeg ser, at det netop drejer
+sig om hensynet til barnet. Det er derfor, vi har
+den lovgivning. Det er at sige, at man som ansat
+har en pligt til at indberette det, og hvis man har
+indberettet det til kommunen, så har kommunen
+selvfølgelig en pligt til at sørge for, at man ikke
+
+2353
+
+sender et barn, der er blevet seksuelt misbrugt,
+tilbage til dem, der har misbrugt det.";Kl. 14:33
+102694;Time;"Den fg. formand (Karen J. Klint):
+V ærsgö til spørgeren.";Kl. 14:34
+102761;Time;;Kl. 14:34
+102778;name_party;":
+Jeg er fuldstændig enig i, at man ikke skal sende
+børn, der er blevet seksuelt misbrugt, tilbage til
+dem, der misbrugte dem. Det er jo netop derfor,
+jeg synes, at vi skal udvikle en holdning om, at
+offentligt ansatte skal gå til pressen og fortælle
+om den slags. Men hvis offentligt ansatte går til
+pressen og fortæller om, at seksuelt misbrugte
+børn bliver sendt tilbage, eller, som tilfældet var
+med brandmanden i Gentofte, fortæller om, at
+folk dør på grund af et forkert radiosystem, eller
+om andre sager, og sanktionen er, at de risikerer,
+at ministeren straks beder om at få undersøgt,
+om de skal have en sanktion - kan få frataget deres autorisation - eller sanktionen er, at de bliver
+fyret, så opmuntrer det jo netop ikke til, at offentligt ansatte står frem og fortæller om problemerne, så man kan gøre noget for at løse dem og
+forhindre, at de opstår. Så opmuntrer det tværtimod til, at offentligt ansatte lader være med at
+bruge deres ytringsfrihed.
+Så derfor vil jeg gerne spørge igen: Mener ministeren, at de offentligt ansatte skal opmuntres
+til at bruge deres ytringsfrihed, eller mener ministeren rent faktisk, som hendes handlinger
+med sanktionerne tyder på, at de skal lade være,
+for ellers risikerer de at få en sanktion?";Line Barfod
+104031;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:35
+104098;Time;"Velfærdsministeren (Karen Jespersen):
+Som jeg sagde, gør jeg jo netop meget ud af at
+gøre de offentligt ansatte opmærksom på, at de
+også har en pligt til at indberette, når de har mistanke om, at børn bliver misrøgtet. Og her var
+der jo så tale om en sag, hvor man havde sendt
+børn, der var blevet seksuelt misbrugt, direkte
+hjem. Det har jo ikke noget som helst at gøre
+med, om det var den ene eller den anden. Der
+kan man jo sige, at jeg netop tog den oplysning
+alvorligt, der kom frem, om, at her var nogle
+børn, der ikke havde fået den hjælp, de skulle
+have. Så det var da sådan set en opbakning til
+fru Özlem Sara Cekic, at jeg, efter at hun rejser
+sagen, siger: Jamen det skal vi da så have undersøgt. Det er at tage det alvorligt, at man siger, at
+den sag selvfølgelig skal undersøges. Det viste
+
+2354
+
+Onsdag den 26. marts 2008 (S 987)
+
+sig jo så også efterfølgende - det kunne man
+bare ikke se i første omgang - at sagen var blevet indberettet til kommunen. Det må man jo så
+slutte ud fra, at det er kommunen, der har sendt
+børn, der er seksuelt misbrugt, tilbage. Men det
+kan jeg jo ikke blande mig i. Jeg kan bare sige, at
+her er en sag til Ankestyrelsen, og det er jo i øvrigt fuldstændig op til Ankestyrelsen, om den
+vil tage en sådan sag. Det er jo ikke noget, jeg
+kan pålægge den.";Kl. 14:35
+105405;Time;"Den fg. formand (Karen J. Klint):
+Sidste spørgsmål fra spørgeren.";Kl. 14:37
+105481;Time;;Kl. 14:37
+105498;name_party;":
+Der er jo en verden til forskel på de reaktioner
+der kommer, når en offentligt ansat står frem
+og bruger sin ytringsfrihed. Om det er, som
+ministeren siger, at det skal undersøges, om det
+er korrekt, hvad den offentligt ansatte fortæller,
+for vi er rigtig glade for, at den offentligt ansatte
+står frem og fortæller om det, så vi kan få undersøgt problemet og gjort noget ved det, så det
+ikke sker igen. Eller om det, ministeren siger, er
+- som i den konkrete sag - at vi skal undersøge,
+om den offentligt ansatte, der står frem og bruger sin ytringsfrihed, har gjort noget forkert og
+derfor skal straffes.
+Hvis offentligt ansatte får det klare signal fra
+ministeren, at de risikerer at blive straffet, hvis
+de bruger deres ytringsfrihed, så vil der nok være endnu flere, der ikke bruger den.
+Ministeren bliver ved med at snakke om indberetningspligt. Jeg snakker overhovedet ikke
+om indberetningspligt - den er jeg klar over der
+er i børnesager. Jeg snakker om ytringsfriheden,
+som jeg mener for offentligt ansatte nogle gange
+nærmer sig en ytringspligt til at gå til offentligheden og fortælle om de problemer, de oplever og som ikke kun handler om børn, men også om
+brandmænd og mange andre offentligt ansatte,
+der har kendskab til problemer i den offentlige
+sektor.
+Ministeren må da kunne svare på, om hun
+mener, at de bør gå til offentligheden og bruge
+deres ytringsfrihed - eller om hendes reaktion
+fortsat vil være, at de skal straffes for at bruge
+deres ytringsfrihed.";Line Barfod
+106986;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:38
+107054;Time;"Velfærdsministeren (Karen Jespersen):
+Jamen det er jo det rene vrøvl. Jeg har jo netop
+sagt, at man i de tilfælde, hvor man kan se, at
+der er foregået et misbrug, faktisk har en pligt til
+at få de sager frem. Det eneste, jeg sagde, var, at
+man ud fra den beskrivelse ikke kunne se, om
+der var blevet indberettet til kommunen, eller
+om det var kommunen, der havde sendt de misbrugte børn hjem.
+Vedrørende de betingelser, som denne sag
+kom frem på, siger jeg, at jeg synes, det er meget
+alarmerende, at børn, der er seksuelt misbrugt,
+er blevet sendt hjem. Det vil jeg gerne have undersøgt i de børns interesse.
+Jeg kan ikke se andet, end at jeg sådan set tager den tråd op. Der er en konkret beskrivelse af
+en sag, hvor seksuelt misbrugte børn er blevet
+sendt hjem. Jeg siger, at jeg meget gerne vil have
+det undersøgt og henvender mig til en embedsmand fra ministeriet til Ankestyrelsen. Det er jo
+så igen op til Ankestyrelsen, om den vil gå ind i
+sagen.
+Men det er da meget alarmerende, at man har
+sendt børn, der er seksuelt misbrugte, direkte
+hjem. Jeg vil sige, at det har jeg aldrig hørt om
+før.";Kl. 14:38
+108165;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren og spørgeren.
+Vi går videre i spørgsmålsrækkefølgen, og
+det er nu spørgsmål nr. 6. Det er også et spørgsmål til velfærdsministeren, og det er stillet af fru
+Sophie Hæstorp Andersen.";Kl. 14:39
+108410;Time;"Spm. nr. S 987
+6) Til velfærdsministeren af:";Kl. 14:39
+108483;name_party;":
+Hvad vil regeringen tage af initiativer for at sikre, at der også i fremtiden er boliger, som almindelige mennesker kan betale?
+Skriftlig begrundelse
+Nye tal fra Danmarks Statistik viser, at den professionelle private udlejning er i kraftig tilbagegang. Samtidig er 16 procent af de private udlejningsboliger siden 1996 blevet moderniseret således, at de i dag udlejes til markedslejen. Det
+medfører, at der samlet set er færre billige boliger på markedet i dag.
+
+Onsdag den 26. marts 2008 (S 987)
+Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Sophie Hæstorp Andersen
+109051;Time;"Velfærdsministeren (Karen Jespersen):
+Spørgsmålet drejer sig om opførelse af boliger,
+som almindelige mennesker kan betale. Og der
+er det jo sådan, at der i de senere år har været
+meget stor aktivitet inden for boligbyggeriet. Siden 2001 er der opført mere end 140.000 boliger,
+og det er der flere grunde til.
+For det første er der på baggrund af de gode
+økonomiske forhold sket en betydelig stigning i
+det private ejerboligbyggeri, men der er også
+opført et betydeligt antal lejeboliger. For det andet er der i perioden 2002-2007 givet tilsagn om.
+støtte til knap 50.000 lejeboliger til rimelige huslejer. Og det skyldes jo bl.a. forskellige former
+for støtte.
+Man kan altså sige, at regeringen med gode
+resultater allerede har gjort meget for at forbedre boligsituationen for almindelige mennesker.
+Men vi agter jo ikke bare at lade det blive ved
+det. Som det også fremgår af regeringsgrundlaget, er det regeringens ambition, at der skal bygges almene boliger til en husleje, som almindelige mennesker kan betale. Det kan f.eks. ske ved
+at forlænge løbetiden for lån til finansiering af
+alment byggeri, men der er også andre initiativer, der kan komme på tale.
+Regeringen har bedt udvalget om den fremtidige styring af den almene boligsektor om at se
+på modeller til at reducere startlejen i nybyggeri,
+og jeg regner med en samlet rapportering fra
+udvalget omkring den 1. juli 2008. Regeringen
+vil herefter - sammen med forligspartierne bag
+boligaftalen - overveje, hvordan vi sikrer et
+fremtidigt alment nybyggeri med en lavere
+startleje.";Kl. 14:39
+110603;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren. Værsgo til spørgeren.";Kl. 14:41
+110689;Time;;Kl. 14:41
+110717;name_party;":
+Baggrunden for at stille spørgsmålet har jo været, at nye tal fra Danmarks Statistik viser, at netop den private udlejning er i kraftig tilbagegang.
+Det skyldes, at en lang række boliger i de senere
+år er blevet omdannet til andelsboliger eller ejerboliger, fordi ejerne har solgt ud af dem. Samtidig er det sådan, at det vurderes, at 16 pet. af de
+private udlejningsboliger siden 1996 er blevet
+moderniseret for omkring 200.000 kr. stykket.
+Det gør, at man herefter må sætte boligens værdi
+ud fra markedslejen, altså markedsværdien. Og
+
+2355
+
+det betyder jo, at selv om der på nuværende
+tidspunkt bliver bygget flere private boliger, så
+vil der blive færre billige boliger, færre private
+udlejningsboliger/i de her år, simpelt hen fordi
+der alene i hovedstadsområdet hvert år forsvinder 1.000 billige lejligheder ud af boligmarkedet
+og væk fra de mennesker, som har råd til at betale for den slags boliger. Og det er jo det, der er
+baggrunden for initiativerne.
+Jeg vil nu gerne helt konkret følge op på ministerens svar ved at spørge, om ikke det var
+sådan, at udvalget for den almene sektor skulle
+komme med sine anbefalinger allerede den
+1. april 2008 og ikke den 1. juli, som der blev
+sagt.
+Jeg vil også gerne vide, hvordan ministeren
+stiller sig til den udvikling, der har været i de
+moderniseringer, altså de § 5, stk. 2-moderniseringer, der har medført, at flere og flere lejligheder omdannes til at blive sat efter markedsværdien i stedet for den omkostningsbestemte husleje.";Sophie Hæstorp Andersen
+112213;Time;"Den fg. formand (Karen J. Klint):
+Tak til spørgeren, og værsgo til ministeren.";Kl. 14:43
+112302;Time;"Velfærdsministeren (Karen Jespersen):
+Det er rigtigt, at der kommer en afrapportering
+fra udvalget i april 2008: det forventer jeg i hvert
+fald. Men der blev jo lavet et tillæg til udvalget
+omkring de forhold, jeg nævnte her, og det betyder, at der også kommer en senere afrapportering om de forhold.";Kl. 14:43
+112613;Time;"Den fg. formand (Karen J. Klint):
+Tak til ministeren.
+Lige en oplysning: Jeg kan se, at der nu har
+meldt sig to medspørgere. De får mulighed for
+at stille deres spørgsmål efter spørgerens
+spørgsmål 2.
+Værsgo til spørgeren.
+' K l . 14:44";Kl. 14:43
+112878;name_party;":
+Det, der er det interessante, er jo, at uanset hvad
+udvalget kommer frem til enten den 1. april eller
+den 1. juli, kan ministeren jo ikke komme uden
+om, at de fleste af de boliger, der er bygget i de
+senere år, jo er til en pris, der gør, at almindelige
+mennesker ikke kan bosætte sig i dem. Fraflytningsprocenten i det nybyggeri, der skyder op
+rundt omkring, er enorm høj, selv for det kollegiebyggeri, der f.eks. er skudt op ude i Ørestaden. Prisen er af en sådan karakter, at folk flytter
+ind for i det øjeblik, de finder noget billigere, at
+
+2356
+
+Onsdag den 26. marts 2008 (S 987)
+
+flytte ud igen, uanset hvilken kvalitet boligen
+måtte være af, når den står helt nybygget.
+Derudover er antallet af ejerboliger firedoblet
+på 4 år, ligesom antallet af andelsboliger ér steget. Hvilke initiativer kan man forvente at regeringen tager for at sikre, at der overalt i Danmark vil være boliger som almindelige mennesker tager?
+Ministeren kan godt blive ved med at skyde
+det ud til det her almene boligsektorudvalg med
+afrapportering den 1. april - men kunne ministeren ikke også komme med nogle konkrete initiativer til, hvordan det nybyggeri, vi opfører,
+kunne gøres billigere?";Sophie Hæstorp Andersen
+114067;Time;"Den fg. formand (Karen J. Klint):
+Værsgo til ministeren.";Kl. 14:45
+114134;Time;"Velfærdsministeren (Karen Jespersen):
+Jo, men jeg har jo nævnt, at udvalget skal komme med forslag til, hvordan man kan få en lavere husleje. Og det kan jo bl.a. være ved at ændre
+på lånenes løbetid. Det er jo en af de mere nærliggende måder at gøre det på. Kan udvalget
+komme med andre ideer, vil jeg med stor interesse se på dem.";Kl. 14:45
+114476;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak. Der er to medspørgere, først hr. Lennart
+Damsbo-Andersen.";Kl. 14:45
+114589;Time;;Kl. 14:45
+114617;name_party;":
+Det glæder mig faktisk at høre, at ministeren siger, at der er behov for alle typer af boliger i det
+her land - også almene boliger, som folk har råd
+til at betale. Det, som det handler om, må jo også
+være, at man får bygget de boliger, som der reelt
+efterspørges i landet.
+Grunden til, at jeg spørger, er, at jeg her har
+en artikel fra Lolland-Falsters Folketidende. Lolland er dér, hvor jeg kommer fra, og hvor også
+Venstres boligpolitiske ordfører kommer fra.
+Han har i et indlæg i avisen skrevet - jeg skal
+ikke citere det hele - at han synes, at der bliver
+givet alt for meget støtte til det almene byggeri,
+og at folk bare kan købe ejerboliger. På Lolland
+er der i øvrigt masser af ejerboliger til rådighed,
+og dem kan folk købe - så er det ligegyldigt, at
+der står over 1.350 mennesker i kø til at få en almen bolig. Er ministeren enig i det?";Lennart Damsbo-Andersen
+115478;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:46
+115541;Time;"Velfærdsministeren (Karen Jespersen):
+Nu har jeg altså ikke set den pågældende artikel,
+og det var også lidt svært at høre, om det var
+sagt ud fra den konkrete situation på LollandFalster, hvor der eventuelt står mange ejerboliger tomme. Jeg synes det er godt, at vi har et alment byggeri, og jeg har en plan for, hvordan vi
+skal stræbe efter også at sørge for, at der er en
+husleje, som almindelige folk kan betale.";Kl. 14:46
+115968;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Lennart Damsbo-Andersen.";Kl. 14:47
+116047;Time;;Kl. 14:47
+116075;name_party;":
+Det bekræfter jo sådan set det, jeg også selv
+tænkte, nemlig at Venstres boligpolitiske ordfører er lidt ude i uføret, i forhold til hvad regeringen mener i det her spørgsmål. Jeg skal sørge
+for, at ministeren kan få indlægget over og også
+får lejlighed til at kommentere det. For jeg synes
+ærlig talt, at det er en lidt underlig situation, at
+man har så mange mennesker, der gerne vil bo i
+en almen bolig, og som ikke har mulighed for eller måske ikke ønsker at købe en ejerbolig. Men
+det er boligordføreren jo så tilsyneladende fuldstændig ligeglad med. Jeg siger mange tak for
+svaret.";Lennart Damsbo-Andersen
+116674;Time;"Tredje næstformand (Holger K. Nielsen):
+Velfærdsministeren.";Kl. 14:47
+116744;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg har selvfølgelig hverken forholdt mig på den
+ene eller anden måde til artiklen. Men jeg kan
+forstå, at jeg så får den at se.";Kl. 14:47
+116921;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Bjarne Laustsen som medspørger.";Kl. 14:47
+117007;Time;;Kl. 14:47
+117027;name_party;":
+Jeg kan forstå, at boligbyggeriet i den offentlige
+sektor stort set er i samme forfatning som ministerens stemme: det er helt galt fat, og det er
+selvfølgelig slemt for ministeren. Men det er
+også slemt for de mennesker, der står foran at
+skulle have en bolig i de kommende år, at det
+stort set er gået i stå med at få bygget offentligt
+byggeri. Det, der er interessant her, er, at man ligesom har pralet af, at der de foregående år er
+blevet bygget et antal boliger. Det er jo fint, de
+står der, og de bliver brugt: der er stort set ikke
+ledige lejeboliger.
+
+Onsdag den 26. marts 2008 (S 987)
+Men situationen er jo den, at der ikke bliver
+bygget noget, og vi kommer bagefter, hvis der
+går flere år, inden regeringen får taget initiativer
+til at sikre, at der i det hele taget bliver bygget
+boliger - for det er jo det, der er problemet i dag
+- og dernæst, at der bliver bygget boliger, der er
+til at betale for den middelindkomstgruppe, som
+nu har behov for det - som af forskellige årsager
+ikke har råd til at købe en bolig, men er nødt til
+at leje sig ind. Det er interessant at vide, hvad regeringen vil gøre for at få det sat i sving.
+Vi har også en plejehjemsgaranti, og der bliver heller ikke bygget nogen af den type boliger.
+Så mange siger, at vi i det hele taget har problemer med at opfylde den plejehjemsgaranti. Men
+der bliver heller ikke bygget noget af det andet.
+Hvad er det, der skal ske, og kan vi se tidshorisonten? Hvor mange boliger regner regeringen
+selv med der skal bygges?";Bjarne Laustsen
+118537;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:49
+118599;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg har jo bestemt en forventning om, at der bliver bygget så mange plejeboliger, at vi vil kunne
+opfylde plejeboliggarantien til 1. januar. Det er
+der jo taget forskellige initiativer til: maksimumbeløbet er blevet hævet, og grundkapitalen er
+blevet sænket.
+Men der er ikke lavet nogen ekstraordinære
+initiativer for de almindelige familieboliger, og
+det hænger jo sammen med, at den økonomiske
+situation er sådan, at der er meget alvorlig fare
+for overophedning. Vi kan se, at lønningerne i
+byggebranchen har været på vej op - ifølge de
+sidste tal, jeg har set, er lønstigningerne inden
+for byggeriet på 5 pet. - og jeg mener simpelt
+hen, man ville gøre den almene sektor og lejlighedsbyggeriet en bjørnetjeneste, hvis man satte
+gang i byggeriet nu, fordi man så ville få lønstigninger og en overophedning af økonomien, der
+ville blive en boomerang.";Kl. 14:49
+119499;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Bjarne Laustsen.
+. Kl. 14:50";Kl. 14:50
+119592;name_party;":
+To ting: Med hensyn til plejehjemsgarantien vil
+jeg sige, at hvis ministeren her i løbet af nogle
+måneder kan se, at der ikke bliver sat tilstrækkelig meget plejéhjemsboligbyggeri i gang, der kan
+nå at være færdige til januar, således at man kan
+
+2357
+
+opfylde plejeboliggarantien, hvad vil ministeren
+så gøre ved det?
+Det andet er jo, at regeringen siger, det er
+overophedning, og det går rigtig godt osv. Problemet er, at der er rigtig mange mennesker, der
+skal arbejde i en by, og uanset om det er en kassedame eller det er en sygeplejerske eller en politibetjent, har de ikke råd til at erhverve sig en
+bolig inde i den by, hvor de skal servicere de
+mennesker, og derfor kommer vi jo bagefter,
+hvis ikke regeringen snart tager sig sammen. For
+priserne stiger uanset hvad, og regeringen kan
+jo ikke håbe på et eller andet mirakel fra himlen.
+Der skal tages politiske initiativer, og vi ved udmærket, hvad der skal til. Vi har bl.a. foreslået,
+at man kunne give kommunerne en fuldmagt til
+at sælge grundene, for de ligger der jo, og kommunerne vil gerne bygge på dem. Hvad er problemet så?";Bjarne Laustsen
+120695;Time;"Tredje næstformand (Holger K. Nielsen):
+Velfærdsministeren.";Kl. 14:51
+120765;Time;"Velfærdsministeren (Karen Jespersen):
+Vi følger selvfølgelig plejeboligbyggeriet nøje, ligesom vi jo i øvrigt selvfølgelig følger byggeriet
+nøje.
+Men igen: Hvis man satte ekstraordinær gang
+i byggeriet af lejligheder nu, ville man jo risikere
+at få den samme mekanisme som i 1980'erne,
+hvor det blev begyndelsen på en økonomisk
+nedtur med arbejdsløshed og også økonomisk
+stagnation, som jo kom til at svie til dansk økonomi og beskæftigelsen i rigtig mange år. Der er
+man jo nødt til at udvise den ansvarlighed for at
+sikre, at det her bliver på et nogenlunde stabilt
+niveau.";Kl. 14:51
+121351;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Fru Sophie Hæstorp Andersen.";Kl. 14:52
+121438;Time;;Kl. 14:52
+121466;name_party;":
+Jo, men så må man jo bare konkludere, at det
+åbenbart var ei1 sandhed med modifikationer,
+da ministeren sagde, at man kom med nogle initiativer til at sikre byggeriet. For på den ene side
+siger ministeren, at udvalget her den 1. april og
+1. juli kommer med nogle anbefalinger til, hvordan der kan blive sat mere gang i byggeriet, men
+nu hører vi ministeren sige, at det på den anden
+side er farligt for konjunkturen, hvis man sætter
+mere gang i byggeriet - men altså ikke plejehjemsbyggeriet, for det skal der gang i.
+
+2358
+
+Onsdag den 26. marts 2008 (S 987)
+
+Jeg synes, at der er nogle meget tvetydige
+svar fra ministeren. Er det eneste, man kommer
+med fra udvalgets side, forlænget løbetid på lån,
+som ministeren siger, eller kan man forvente, at
+der rent faktisk kommer nogle initiativer fra regeringen, der gør, at den her katastrofale udvikling med et fald på 95 pet. i tilsagnene til alment
+boligbyggeri bliver vendt om i 2008 eller 2009?
+Vil man fra regeringen have et svar til de hundrede tusinder af unge mennesker, der strømmer ud på boligmarkedet i de kommende 10 år?
+Vil man have et svar til de mange ældre, der skal
+have ældreboliger i de kommende år? For de er
+jo ikke med i den her diskussion om plejeboliger. Hvilket svar vil man levere fra regeringen?
+Er svaret højkonjunkturer, og at man ikke kan
+bygge, eller er det, at man vil komme med nogle
+initiativer?";Sophie Hæstorp Andersen
+122854;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:53
+122916;Time;"Velfærdsministeren (Karen Jespersen):
+Ja, det er klart, vi har prioriteret plejeboligbyggeriet, det er fuldstændig rigtigt, og det mener
+jeg der er al mulig god grund til.
+Så er der to problemstillinger: Den ene handler om behovet for at holde huslejen i ro, og den
+anden handler om at sørge for, at der hele tiden
+bliver bygget boliger. Man kan jo godt tage initiativer, der er med til at holde huslejen i ro eller
+sikre en lav husleje, uden at man samtidig øger
+byggeriet. Men begge initiativer er selvfølgelig
+noget, som er en mulighed. Men når det handler
+om at øge byggeriet, er man nødt til hele tiden at
+se det i forhold til den samlede økonomiske situation.";Kl. 14:53
+123592;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Sophie Hæstorp Andersen.";Kl. 14:54
+123671;Time;;Kl. 14:54
+123699;name_party;":
+Man må jo så bare konkludere, at flere eksperter
+allerede har været ude at sige, at der ikke er nogen grund til at være forskrækket her. Vi står ikke i en situation, som vi gjorde i 1980'erne.
+Tværtimod står vi.i en situation, hvor vi ser,
+at der i de kommende år vil blive langt flere ældre med behov for ældreboliger. Vi ser, at der
+kommer langt flere unge, fordi fødselstallet jo
+steg igen for nogle år siden, og de skal ud og
+have boliger. Og ministerens og regeringens
+svar til dem vil være, at de må sejle deres egen
+sø på det boligmarked, vi nu engang har, hvor
+
+nybyggeri er så dyrt, at man ikke har råd til at
+bosætte sig i det, eller hvor det slet ikke eksisterer, fordi der ikke er blevet givet tilsagn til det i
+2007.
+Det er altså uforståeligt, at man ikke kan tage
+initiativer i brug, som man har gjort det i München i Tyskland, for at sikre at mennesker med
+normale indkomster kan bosætte sig i de større
+byer i Danmark: man kan f.eks. nedsætte grundpriserne. Det er uacceptabelt, at man ikke kan
+gøre som i London: at sætte klausuler på byggegrundene fra kommunernes side, således at man
+ved, at der er noget byggeri, der vil blive bygget
+billigt - altså billige boliger til folk. Det er ikke i
+orden, at man ikke får en finansieringsreform,
+som Socialdemokraterne ønsker.
+Vi vil gerne understrege i dag, at det alene at
+forlænge løbetiden på lånene i hvert fald ikke vil
+være nok for os til at sige, at der er gjort nok for
+at få sat gang i byggeriet.";Sophie Hæstorp Andersen
+125178;Time;"Tredje næstformand (Holger K. Nielsen):
+Velfærdsministeren.";Kl. 14:55
+125248;Time;"Velfærdsministeren (Karen Jespersen):
+Nu siger fru Sophie Hæstorp Andersen, at der er
+eksperter, der har sagt: Ih, der er ikke nogen fare
+på færde, man kan bare bygge løs. Det er jo altså
+grundlæggende noget vrøvl. Er der nogen, der
+har advaret mod en højkonjunktur, så er det jo
+nationalbankdirektøren og en række andre eksperter.
+Så er det rigtigt, man siger, at der vil blive lidt
+mere ledig kapacitet inden for byggeriet, men
+der er sandt for dyden efterspørgsel efter arbejdskraft i eksporterhvervene. Og det kan godt
+være, at det ikke er gået lige så stærkt med at
+ødelægge økonomien, som det gjorde i 1980'erne, men det skulle det jo også meget, meget nødig: det er jo derfor, kunststykket er hele tiden at
+have den her balance.
+Og så at begynde at henvise til Tyskland og
+Storbritannien - det går sandelig også godt i de
+lande. Det går faktisk en hel del bedre i Danmark, bl.a. fordi vi sørger for en afbalanceret
+økonomisk politik, og jeg synes ærlig talt, det er
+trist at høre, at Socialdemokratiet - det gamle
+hæderkronede parti, der netop er berømt for at
+have en økonomisk afbalanceret politik - nu er
+havnet, så man ikke kan høre forskel på, om det
+er Enhedslisten eller det er Socialdemokratiet.";Kl. 14:55
+126469;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Spørgsmålet er afsluttet.
+
+Onsdag den 26. marts 2008 (S 990)
+Det næste spørgsmål er til velfærdsministeren af fru Sophie Hæstorp Andersen.";Kl. 14:56
+126667;Time;"Spm. nr. S 990
+7) Til velfærdsministeren af:";Kl. 14:56
+126740;name_party;":
+Hvilke initiativer vil regeringen tage for, at dommen fra Odense Byret den 6. marts 2008, hvor en
+familie fik tilkendt erstatning som følge af at være flyttet ind i en nybygget bolig med skimmelsvamp, også kan komme borgere med skimmelsvamp i ældre byggeri til gode?
+Tredje næstformand (Holger K. Nielsen):
+Velfærdsministeren.";Sophie Hæstorp Andersen
+127079;Time;"Velfærdsministeren (Karen Jespersen):
+Spørgsmålet drejer sig om en dom, der er faldet
+ved Odense Byret, hvor en familie fik tilkendt
+erstatning som følge af, at de var flyttet ind i en
+nybygget bolig med skimmelsvamp. Spørgsmålet går så ud på, hvad man kan gøre, for at det
+også kommer borgere i ældre byggeri med skimmelsvamp til gode.
+Der er det jo sådan, at det lovgrundlag, der er
+grundlaget for dommen i Odense Byret, ikke
+kun gælder for nybyggeri, men også gælder for
+ældre byggeri og alt andet byggeri. Det vil sige,
+at man ikke kan sige, at der skal tages særlige
+initiativer, for at det også skal gælde for ældre
+byggeri. Der vil gælde det samme grundlag.
+Nu er dommen jo så blevet anket af begge
+parter, men med hensyn til det, der bliver spurgt
+om, mener jeg ikke, at der er brug for nogen initiativer, for det er sådan set dækket af lovtilstanden.";Kl. 14:57
+127950;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Sophie Hæstorp Andersen.";Kl. 14:57
+128029;Time;;Kl. 14:57
+128057;name_party;":
+Det er jeg selvfølgelig ret ked af at høre, for faktum er jo, at hvor denne familie - historisk - har
+fået en fuld erstatning for at være flyttet ind i
+noget nybyggeri, som på grund af byggesjusk
+var fyldt med skimmelsvamp, så er det jo sådan
+i alle de øvrige tilfælde, hvor der har været rejst
+sager om skimmelsvamp i eksisterende byggeri,
+at lejerne som regel er endt med at få en meget
+lang næse og en meget lille erstatning, og dette
+oftest kun for det værelse eller den del af lejemålet, som de ikke har kunnet bruge, til trods for at
+
+2359
+
+familien nogle gange har været fraflyttet i halve
+år eller mere, før der rent faktisk kom gang i sagen.
+Jeg havde håbet på, at ministeren i dag ville
+komme og snakke om, at man f.eks. ville sikre
+nogle bedre frister eller nogle bedre erstatningsmuligheder for folk, der er ramt af skimmelsvamp i deres boliger, men det kan jeg forstå
+ikke er tilfældet.";Sophie Hæstorp Andersen
+128968;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:58
+129030;Time;"Velfærdsministeren (Karen Jespersen):
+Altså, jeg kan jo konstatere, at der er rejst en sag
+om skimmelsvamp, hvor der er sket et meget betydeligt afslag i lejen - 100 pet. i det ene tilfælde
+og 50 pet. i det andet. Nu ved fru Sophie Hæstorp Andersen selvfølgelig godt, at det er svært
+at gå ind og diskutere dommen meget nøje, i og
+med at den er anket. Jeg synes, at vi skal se på,
+hvad udfaldet af anken bliver, og så tage en fælles vurdering af situationen. Jeg kan ikke se andet, end at det her grundlag også gælder ældre
+byggeri og ikke er noget, der er knyttet til nybyggeri. Men jeg synes, det er svært at diskutere
+dommen, inden vi kender udfaldet ved landsretten.";Kl. 14:58
+129711;Time;"Tredje næstformand (Holger K. Nielsen):
+Fru Sophie Hæstorp Andersen.";Kl. 14:59
+129790;Time;;Kl. 14:59
+129818;name_party;":
+Jo, men noget af det interessante ved den her sag
+er jo, at grunden til, at familien har fået erstatning, umiddelbart er - det er jo også helt klart
+det, der er i dommens præmisser - at man er
+flyttet ind i et byggeri, som er fuldstændig nybygget, men i forbindelse med hvilket der ikke
+er brugt bygningssagkyndige eller bygningsrådgivere, der kunne have været med til at afhjælpe
+det byggesjusk, der er skyld i skimmelsvampen.
+Det, som vi til gengæld ser for en lang række
+andre lejeres vedkommende, er, at de flytter ind
+i noget og måske bor der i nogle år, men bygningen er langt ældre, og pludselig opstår der skimmelsvamp, og så står lejerne næsten altid i den
+situation, at de selv får skylden for, at der er
+opstået skimmelsvamp. De møder et kæmpe
+bureaukrati - udlejere, der ikke vil rejse sagen,
+kommunen, der smøler - og imens bliver de her
+mennesker mere og mere syge.
+Det andet interessante ved den her dom er jo,
+at de her mennesker formentlig vil få fuld erstat-
+
+2360
+
+Onsdag den 26. marts 2008 (S 990)
+
+ning for den svie og tort - kan man sige - eller
+de sygdomme, de er blevet påført i den periode,
+de boede i ejendommen. Det er der, vi som Socialdemokrater mener, at der er nogle helt klare
+tilfælde, hvor vi bliver nødt til at overføre nogle
+erfaringer til det eksisterende boligbyggeri. For
+når alle andre lejere får afslag og den her familie
+godt kan få erstatning, hvilket er rigtig, rigtig
+godt, så må der jo være et eller andet, der er ravruskende galt. Er ministeren ikke enig i det?";Sophie Hæstorp Andersen
+131339;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 15:00
+131401;Time;"Velfærdsministeren (Karen Jespersen):
+Jeg har ikke overblik over, hvilke forskelle der er
+på de tidligere sager og den her sag. Nu kommer der jo under alle omstændigheder det lovforslag, som fru Sophie Hæstorp Andersen kender, om forskellige muligheder for at forebygge
+og tage initiativer der, hvor der er skimmelsvamp eller mistanke om skimmelsvamp.
+Men igen vil jeg sige: Lad os se, hvordan sagen falder ud, når landsretten har truffet sin afgørelse og vi har præmisserne for dommen.";Kl. 15:01
+131898;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Bjarne Laustsen som medspørger.";Kl. 15:01
+131984;Time;;Kl. 15:01
+132004;name_party;":
+Jeg synes, regeringen har svigtet et sted. Vi holdt
+en høring her i Folketinget på Socialdemokratiets foranledning - på det tidspunkt var ministeren ikke minister - og her kom bl.a. den tidligere omtalte familie for at fortælle om, hvilke
+trængsler de havde haft. Jeg synes, at regeringen
+bagefter har været langmodig med hensyn til at
+finde ud af, hvad der præcis skulle gøres. Det
+ville jo være dejligt, hvis regeringen sagde, hvor
+den stod henne, og hvilke interesser den ville
+varetage.
+Jeg synes, vi skal lave lovgivning, der tager
+hensyn til den svage part, og den svage part er
+her en familie med børn, som flytter ind i en bolig, der er befængt med skimmelsvamp. Det må
+der ikke være tvivl om, for vi ved, at det er
+sundhedsskadeligt, og at man kan få kroniske
+sygdomme, som man efterfølgende skal behandles for resten af livet. Derfor synes jeg, at
+man tager alt for nonchalant på det her problem,
+og derfor er det mere interessant, hvad man vil
+gøre ved det, og at man i både nyt og gammelt
+byggeri finder ud af at forebygge det, således at
+
+det her ikke sker igen. Der synes jeg, at jeg
+mangler en melding om, hvis side ministeren er
+på. Er ministeren på lejernes side eller hvad?";Bjarne Laustsen
+133207;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 15:02
+133269;Time;"Velfærdsministeren (Karen Jespersen):
+Det er jo netop derfor, vi har lavet det lovforslag,
+som også giver kommunerne øgede beføjelser til
+at gribe ind i tilfælde med lejligheder, hvor der
+kan være mistanke om skimmelsvamp. Det behøver jeg selvfølgelig ikke at repetere for hr.
+Bjarne Laustsen. Det lovforslag kender han alt
+til. Det er jo netop lavet for at komme lejerne til
+undsætning og for i det hele taget at gøre det
+muligt at være tidligere på banen, når der er tale
+om skimmelsvamp.";Kl. 15:02
+133770;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Bjarne Laustsen.";Kl. 15:03
+133841;Time;;Kl. 15:03
+133861;name_party;":
+Problemet er, at ud fra det, jeg kender til det lovforslag, som regeringen kommer med, løser det
+ikke de faktuelle problemer, der er i det her. For
+det er sådan, at hvis der er rejst en mistanke om
+skimmelsvamp, så må der ikke være tvivl om
+kompetencen eller kommandovejen, og så må
+det være sådan, at kommunen har de nødvendige beføjelser. Der er det vigtigt at sige, at hvis
+der er en mistanke, skal den undersøges. Vi kender udmærket til udlejere, der siger, at hvis de er
+nødt til at brække gulvet op, så er det et destruktivt indgreb, og så kommer lejerne til at betale.
+Så er der rigtig mange, der trækker følehornene
+tilbage - det hørte vi også på høringen - og siger: Nej, det vil vi ikke udsætte os for.
+Vi ved, at halvdelen af den skimmelsvamp,
+der findes, er skjult. Derfor står vi med et overordentlig stort problem, ikke kun fordi der fortsat bliver opført nybyggeri, hvor der er skimmelsvamp, men også fordi det eksisterer i gammelt byggeri. Derfor er det vigtigt, at man er på
+lejernes side og fortæller, præcis hvad der skal
+ske. Det gælder både i forhold til erstatningsbolig og de efterfølgende skader, der kommer af
+det her, således at vi kommer det her uvæsen til
+livs. Derfor er man nødt til at være meget præcis
+for at få løst det her problem, og derfor bliver
+kommandovejen efter min mening nødt til at
+være meget, meget klar. Det føler jeg ikke den er,
+ej heller med det, regeringen kommer med.
+
+(296)
+Onsdag den 26. marts 2008 (S 990)
+
+2361";Bjarne Laustsen
+135340;Time;;Kl. 15:06
+135368;name_party;":
+Det, man eventuelt kunne kigge på, var, hvorKl. 15:04 dan man skulle placere ansvaret: Er det udlejers
+eller lejers ansvar, f.eks. hvad angår indbo eller
+Velfærdsministeren (Karen Jespersen):
+lignende? Hvis det er sådan, at det er udlejereli,
+Så vidt jeg kan høre, tager lovforslaget da højde
+der er skyld i, at der er skimmelsvamp, er det
+for det, som hr. Bjarne Laustsen taler om med
+ikke så vanskeligt at finde ud af, hvem der har
+hensyn til skjult skimmelsvamp og øgede beføansvaret, og så burde det også være nemt at få
+jelser til kommunen til at pålægge ejeren at sætte
+lavet en kort sagsbehandlingstid for lejeren. Så
+ind over for det.";Lennart Damsbo-Andersen
+136022;Time;"må udlejeren jo vente et par år med at få afgjort
+sin sag.
+Tredje næstformand (Holger K. Nielsen):";Kl. 15:04
+136131;Time;"Hr. Lennart Damsbo-Andersen som medspørTredje næstformand (Holger K. Nielsen):
+ger.";Kl. 15:06
+136225;Time;Ministeren.;Kl. 15:04
+136247;Time;;Kl. 15:06
+136275;name_party;":
+Velfærdsministeren (Karen Jespersen):
+Det er jo interessant eller i hvert fald godt, at
+Nu er det som sagt meget svært at gå ind i den
+man kan se, at der sker en udvikling i den her
+konkrete dom, fordi den er anket, men så vidt
+sag om skimmelsvamp og de erstatninger, man
+kan få. Det, som jeg har noteret mig, i al fald når jeg husker den, handler den også om indbo, og
+derfor vil vi jo få noget, der er retningsgivende,
+vi snakker om den ældre boligmasse, er, at det
+typisk drejer sig om familier, der måske ikke står når dommen falder ved landsretten.";Lennart Damsbo-Andersen
+136840;Time;"på det højeste trin på rangstigen her i vores samTredje næstformand (Holger K. Nielsen):
+fund, altså folk, der er mindrebemidlede eller i
+Fru Sophie Hæstorp Andersen.
+hvert fald ikke altid har det lige nemt. Det, man";Kl. 15:07
+137067;Time;"så kan se ud af de her sager, er, at der er en utroSophie Hæstorp Andersen (S):
+lig lang sagsbehandlingstid. Ikke nok med, at
+man måske i forvejen har det hårdt i sit liv, hvad Jeg kan ikke lade være med at stå tilbage med en
+fornemmelse af, at man fra Socialdemokratiets
+angår arbejde og sygdom og alle mulige andre
+side virkelig skal hamre til og hamre til, for at
+ting, man skal oven i købet også vente flere år,
+den her regering interesserer sig for, hvad der
+før man får en afklaring af, om man nu skal have
+en erstatning eller noget andet. Synes ministeren sker med lejerne i de tilfælde, hvor der er skimmelsvamp. Godt nok er man nu kommet med et
+ikke, at man burde kigge på muligheden for at
+få en hurtigere afklaring af de sager, der - i hvert lovforslag, og det er jo så sket, efter at vi endelig
+fik den her høring op at stå i efteråret, og efter at
+fald i forhold til lovforslaget, der bliver fremsat
+vi havde fremsat beslutningsforslag i 2006 og
+- vil komme i fremtiden?";Kl. 15:07
+138061;Time;"2007, hvor vi også foreslog en lang række initiativer. Dengang fik vi at vide, at der ikke var brug
+Tredje næstformand (Holger K. Nielsen):
+for nye initiativer. Nu kommer regeringen i det
+Ministeren.";Kl. 15:05
+138271;Time;"mindste med et lovforslag, der forbedrer noget
+af lovgivningen på nogle områder, men slet ikke
+Velfærdsministeren (Karen Jespersen):
+i tilstrækkeligt omfang, synes vi. Derfor vil jeg
+Lovforslaget giver jo sådan set netop kommuogså nu bebude, at vi selvfølgelig kommer til at
+nen mulighed for at gribe ind, sådan at det kan
+tage debatten igen på tirsdag, når lovforslaget
+gå noget hurtigere. Når det gælder behandlinbliver behandlet.
+gen ved domstolene, har jeg meget vanskeligt
+Vi synes stadig væk, at der mangler en lang
+ved at tage nogle initiativer, der kan fremskynde
+række rettigheder for lejerne. Hvad enten man
+processen. Men når det gælder det med at finde
+er flyttet i nybyggeri eller i allerede eksisterende
+ud af, om der er skimmelsvamp, mener jeg, at
+byggeri, skal det være sådan, at man hurtigt får
+de initiativer, der ligger i lovforslaget, vil betyen erstatningsbolig. Det skal være sådan, at man
+de, at der kan sættes hurtigere ind.";Kl. 15:05
+139230;Time;"hurtigst muligt kan få udlejers opmærksomhed,
+når man taler om skimmelsvamp. Det skal være
+Tredje næstformand (Holger K. Nielsen):
+sådan, at kommunen kan reagere hurtigt og sætHr. Lennart Damsbo-Andersen.
+te udlejer på plads, når der er noget. Vi synes";Kl. 15:06
+139493;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.
+
+2362
+
+Onsdag den 26. marts 2008 (S 991)
+
+helt klart, at der i det kommende lovforslag
+mangler noget om, hvem det er, der skal føre tilsynet, og hvem der skal brække gulvbrædderne
+op. Er det udlejernes egne stråmænd, deres egne
+folk, eller er det f.eks. Danmarks Teknologisk Institut med nogle folk, der ved noget om, hvad de
+gør? Vi kommer til at tage diskussionen i endnu
+højere grad på tirsdag.";Kl. 15:04
+139955;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 15:08
+140017;Time;"Velfærdsministeren (Karen Jespersen):
+Jamen det synes jeg kun er yderst positivt.";Kl. 15:08
+140109;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Spørgsmålet er afsluttet.
+Da som tidligere anført spørgsmål 8 og 9 til
+kulturministeren af hr. Mogens Jensen er overgået til skriftlig besvarelse, er spørgetiden hermed afsluttet.
+
+Skriftlig begrundelse
+Lederen af Statens Museum for Kunst har udtalt, at museet har alt for få penge til at indkøbe
+kunst for og at Nationalmuseet har måttet nedskære personalet med 147 basisårsværk siden
+2001.
+(Spørgsmålet er udgået til skriftlig besvarelse).";Kl. 15:08
+140609;Time;"Spm. nr. S 992
+9) Til kulturministeren af:";Kl. 15:08
+140670;name_party;":
+Hvad vil ministeren gøre for at tilføre Nationalmuseet og Statens Museum for Kunst de nødvendige ressourcer til at sikre kvaliteten af institutionernes arbejde?
+(Spørgsmålet er udgået til skriftlig besvarelse).";Mogens Jensen
+140893;Time;"Spm. nr. S 991
+8) Til kulturministeren af:";Kl. 15:08
+140954;name_party;":
+Mener ministeren, at det er acceptabelt, at regeringens manglende bevillinger til Nationalmuseet og Statens Museum for Kunst udsætter institutionerne for et økonomisk pres, der bl.a. viser sig ved manglende muligheder for at indkøbe kunst, jf. den i begrundelsen nævnte udtalelse fra lederen af Statens Museum for Kunst?";Mogens Jensen
+141287;Time;"Meddelelser fra formanden
+Tredje næstformand (Holger K. Nielsen):
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen,
+torsdag den 27. marts 2008, kl. 10.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.
+Mødet er hævet. (Kl. 15.09).";Kl. 15:09

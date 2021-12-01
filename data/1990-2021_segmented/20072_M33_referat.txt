@@ -1,0 +1,2029 @@
+split;reason;text;value
+0;;"1660
+
+Onsdag den 20. februar 2008 (D)
+
+33. m ø d e";
+88;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+I spørgetimen møder statsministeren.
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+(Se nedenfor).
+
+1) Til finansministeren af:";kl. 13.00
+338;name_party;":
+Hvordan vil ministeren sikre et sundshedsvæsen i verdensklasse i Region Midtjylland, når regionen i 2007 har et forventet driftsunderskud
+på 430 mio. kr. og et forventet driftunderskud i
+2008 på 570 mio. kr., når hertil kommer effektivisering på 2 pct.?
+(Spm. nr. S 565 (omtrykt)).
+2) Til finansministeren af:";Jens Peter Vernersen
+674;name_party;":
+Hvilke initiativer vil ministeren tage efter de offentliggjorte driftsunderskud i Region Midtjylland i henholdsvis 2007 og 2008?
+(Spm. nr. S 566 (omtrykt)).
+3) Til fødevareministeren af:";Jens Peter Vernersen
+879;name_party;":
+Vil ministeren, på baggrund af at et flertal i Folketinget har afvist tre gmo-majstyper med henvisning til, at de indeholder en markør, som er
+antiresistent mod antibiotika, tage initiativ til at
+få forbudt gmo-majsen MON 863, der indeholder den samme antibiotikaresistente markør?
+(Spm. nr. S 634).
+
+4) Til ministeren for sundhed og forebyggelse af:";Per Clausen
+1248;name_party;":
+Vil ministeren fastholde sin afvisning af at finde
+en alternativ finiancering af vaccine mod livmoderhalskræft, hvis Socialdemokraterne, SF og
+Dansk Folkeparti fastholder deres afvisning af at
+tage penge fra de syge ved at forringe medicintilskudet, som de gav udtryk for i bl.a. Berlingske Tidende den 8. februar 2008?
+(Spm. nr. S 636).
+5) Til beskæftigelsesministeren af:";Per Clausen
+1643;name_party;":
+Hvad vil ministeren gøre for at kompensere borgere på SU, starthjælp, kontanthjælp, kontanthjælp under kontanthjælpsloftet, dagpenge, ledighedsydelse, efterløn, førtidspension og folkepension for de stigende mad- og energipriser,
+der ifølge Danske Bank i gennemsnit er steget
+med 4.700 kr. pr. person det seneste år?
+(Spm. nr. 682, skr. begr.).";Eigil Andersen
+2000;Time;Meddelelser fra formanden;Kl. 13:00
+2038;title_name;"Mødet er åbnet.
+Undervisningsministeren (Bertel Haarder) har
+meddelt mig, at han ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om statens uddannelsesstøtte (SU-loven). (Ændring af reglerne om tilbagebetaling af for meget modtaget
+SU).
+(Lovforslag nr. L 74).
+Medlemmer af Folketinget Karina Lorentzen
+(SF) m.fl. har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om mulighed for
+eftergivelse af sagsomkostninger i straffesager.
+(Beslutningsforslag nr. B 57).
+
+Onsdag den 20. februar 2008 (Spørgetime)
+
+1661
+
+skal se på en mere samlet regulering af bl.a.
+PET's virksomhed.
+For det andet: Jeg fordømmer på det kraftigste den sidste uges uroligheder, som jeg i øvrigt
+vil gøre opmærksom på jo blev indledt før anForslag til folketingsbeslutning om et dyreholdelserne - uroligheder, hvor skoler, daginstiværnspoliti.
+tutioner og biler er blevet brændt af. Der er in(Beslutningsforslag nr. B 60).
+gen undskyldning for at gribe til vold og ødelæggelse. Her i landet fører vi en fredelig dialog,
+når der er noget, vi er uenige om.
+Medlemmer af Folketinget Christine Antorini
+Så vil jeg gerne gentage, hvad jeg allerede har
+(S) m.fl. har meddelt mig, at de ønsker skriftligt
+sagt: Det nytter ikke at synge sangen om, at uroat fremsætte:
+en er samfundets skyld. Samfundet har levet op
+Forslag til folketingsbeslutning om kvalitetskrav til sin del af ansvaret. Der er job, der er lærepladser, der er uddannelse til alle. I virkeligheden er
+til private uddannelser.
+det hele meget enkelt: De unge skal holde op
+(Beslutningsforslag nr. B 61).
+med at lave ballade, de skal begynde at tage ansvar, og da mange af de involverede er meget
+unge, skal forældrene også gøre sig deres ansvar
+klart. Derfor vil regeringen sætte fokus på netop
+forældrenes ansvar. Justitsministeren vil bl.a.
+bede den kommission om ungdomskriminalitet,
+Det første punkt på dagsordenen er:
+som blev nedsat for nogen tid siden, om netop at
+1) Spørgsmål til ministrene til umiddelbar bese nærmere på, hvordan vi kan styrke forældresvarelse (spørgetime).
+nes ansvar.";Formanden
+4128;Time;For det tredje: Debatten er jo undervejs kommet til at dreje sig om mange ting. Der er også;Kl. 13:01
+4232;title_name;"Til at besvare spørgsmål i spørgetimen i dag del- blandet ting ind i nattens uroligheder og optøjer,
+tager statsministeren, og jeg giver ordet til stats- som ikke har noget med den sag at gøre. Og lad
+os holde fast i sagens kerne. Det centrale er, at de
+ministeren for den indledende redegørelse.
+danske myndigheder har grebet ind og forhinVærsgo.";Formanden
+4589;Time;"dret et terrorrelateret mord. Genoptrykningen af
+Muhammedtegningen i danske aviser skete som";Kl. 13:01
+4722;title_name;":
+baggrundsdokumentation for den afværgede
+Jeg vil gerne indlede denne spørgetime med at
+terrorhandling som en del af ytringsfriheden,
+kigge tilbage på den sidste uges begivenheder,
+som en del af pressefriheden her i landet og ikke
+og lad mig slå et par ting fast. For det første:
+for at krænke nogens følelser.
+Med anholdelserne i Århus den 12. februar er
+I Danmark er der frihed til ikke blot at tænke
+det PET's vurdering, at man har forhindret et
+og tale, som man vil, men også at tegne, som
+terrorrelateret drab. I forbindelse med sagen har
+man vil. Men som jeg tidligere har slået fast ved
+der været rejst kritik af adgangen til udvisning
+gentagne lejligheder, fordømmer jeg selvfølgelig
+af udlændinge.
+enhver udtalelse, handling eller tilkendegivelse,
+Som bekendt blev reglerne om administrativ
+udvisning forberedt allerede under den tidligere som forsøger at dæmonisere mennesker på baggrund af deres religion eller etniske baggrund.
+regering, og et bredt flertal her i Folketinget stod
+Jeg vil gerne slå fast som en selvfølge, at den
+bag antiterrorpakken, da den blev vedtaget i
+2002. Jeg vil gerne sige, at jeg har fuld tillid til ef- danske regering respekterer alle trossamfund og
+alle menneskers religiøse følelser, men i Danterretningstjenesten, og jeg har fuld tillid til den
+mark har vi altså ytringsfrihed. Vi har pressefrisagsbehandling, der ligger til grund for udvished. Vi har frihed til kritisk debat om såvel poliningerne, og derfor har regeringen ikke nogen
+tik som religion, og vi har frihed til at bruge såplaner om at ændre reglerne om administrativ
+udvisning. Men regeringen er åben over for at se vel satire som humor i debatten.
+De, der ikke kan eller vil acceptere dette, har
+på de rejste spørgsmål, når vi får en betænkning
+til gengæld også friheden til at søge en tilværelfra det såkaldte Wendler Pedersen-udvalg, som
+se i andre lande, som stemmer bedre overens
+
+Medlemmer af Folketinget Christian H. Hansen
+(DF) m.fl. har meddelt mig, at de ønsker skriftligt at fremsætte:
+
+1662
+
+Onsdag den 20. februar 2008 (US 29)
+
+med deres ønske om begrænset ytrings- og religionsfrihed.";Anders Fogh Rasmussen
+6840;Time;;Kl. 13:05
+6852;title_name;"Tak til statsministeren.
+Til statsministeren er anmeldt følgende spørgere:
+Henrik Sass Larsen (S)
+Pia Kjærsgaard (DF)
+Line Barfod (EL)
+Henrik Dam Kristensen (S)
+Astrid Krag (SF)
+Simon Emil Ammitzbøll (RV)
+Naser Khader (NY)
+Julie Rademacher (S)
+Pia Olsen Dyhr (SF)
+Mette Gjerskov (S)
+Per Clausen (EL)
+Morten Østergaard (RV)
+Er der flere, der ønsker at melde sig som
+spørgere?
+Peter Skaarup (DF)
+Jeg vil sige, at vi kun har 55 minutter til rådighed, og vi tager spørgerne i den rækkefølge, jeg
+her har oplyst, og så ser vi, hvor mange vi når.
+I første runde har såvel spørgeren som statsministeren 2 minutters taletid, og herefter følger
+så to runder, hvor spørger og minister hver har 1
+minut.
+Den første til at stille spørgsmål er så hr. Henrik Sass Larsen.";Formanden
+7619;Time;Spm nr. US 29;Kl. 13:06
+7656;name_party;":
+Tak for redegørelsen. Jeg synes, der var mange
+fornuftige, principielle tilkendegengivelser i den
+redegørelse, og det er jo alvorlige tider, når man
+kan opleve at se skoler blive brændt af rundtomkring i Danmark. Om det er affaldscontainere,
+om det er biler eller andet, så er det lige alvorligt
+- det er omfangsrigt, det er meget. Og her senest
+har vi så åbenbart måttet konstatere, at der måske også er tale om deciderede bombesprængninger. Det er ved at tage et omfang, hvor man
+kan sige at det her er meget alvorligt. Jeg er helt
+enig: Der er ingen som helst undskyldninger.
+Uanset hvilke sociale problemer man måtte slæbe rundt på, kan man lade være med at sætte ild
+til noget som helst. Sådan må det være. Men det
+forhindrer jo ikke, at vi har et problem, som vi
+som samfund skal gøre noget ved. Jeg er enig i,
+at vi skal bakke op alt det, vi kan, om bl.a. politi-
+
+et og brandmyndighederne for at kunne sikre, at
+borgerne bliver beskyttet bedst muligt imod bølleoptøjer, ligesom jeg er enig i, at de ansvarlige
+skal stilles for retten.
+På et tidspunkt skal vi også tackle det samfundsproblem på lang sigt og se på, hvordan vi
+overhovedet undgår, at unge mennesker kommer på sådanne tanker. Men vi skal vel også her
+på den korte bane prøve at gøre os nogle overvejelser om, hvad vi kan gøre her og nu ud over
+at sætte ind med at styrke bl.a. politi og brandmyndigheder.
+Her tænker jeg, om statsministeren og regeringen ville overveje, at vi som politikere og offentlige debattører engagerer os ud over det, at
+vi giver forældrene noget ansvar, som jeg er enig
+i at de har, og det er jo ikke gået helt så godt med
+alle forældrene, kan vi konstatere - altså, at vi
+engagerer os mere eller mindre direkte i en debat med alle de her unge mennesker og fortæller
+dem, hvad der er ret, og hvad der er vrang, hvad
+der er rigtigt, og hvad der er forkert, for dialogen, samtalen, det at gå ud og udtrykke holdninger er jo også en del af demokratiet. Så
+spørgsmålet er: Vil statsministeren tage initiativ
+til det?";Henrik Sass Larsen
+9676;Time;;Kl. 13:08
+9688;title_name;Statsministeren.;Formanden
+9714;Time;;Kl. 13:08
+9754;title_name;":
+Jeg synes bestemt, det vil være fornuftigt, hvis
+alle, herunder også politikere, går ind i sådan en
+dialog med ikke kun unge mennesker, men også
+deres forældre. Der synes jeg det er et meget vigtigt punkt at forklare, hvilket ansvar der ligger
+på den enkelte.
+Sandheden er jo den, at der formodentlig intet samfund er i verden, der giver de unge mennesker så mange muligheder, som de får her i
+Danmark - så mange muligheder for at få uddannelse, så mange muligheder for at få job, så
+mange muligheder for at deltage i fritidsaktiviteter. Det ligger åbent for dem. Den dialog burde
+også gå ud på at fortælle dem, at de muligheder,
+de har i det danske samfund, er tusindfold større end mulighederne i de samfund, som deres
+forældre og bedsteforældre kom fra. Jeg ønsker
+hr. Henrik Sass Larsen alt mulig godt i sådan en
+dialog med de unge.";Anders Fogh Rasmussen
+10602;Time;;Kl. 13:09
+10614;title_name;"Hr. Henrik Sass Larsen for en bemærkning - 1
+minut.
+
+Onsdag den 20. februar 2008 (US 30)";Formanden
+10713;Time;;Kl. 13:09
+10736;name_party;":
+Det vil jeg kvittere for og sige tak for. Jeg håber,
+at regeringen også som jeg selv og andre går ud
+og tager den diskussion, og jeg håber også, at regeringen vil tage nogle direkte initiativer, stille
+sig op derude, hvor de unge mennesker er, tage
+debatten med dem og fortælle dem, hvad der er
+rigtigt, og hvad der er forkert. Det kan også ske
+ved at sige til deres forældre for den sags skyld,
+at de har ansvaret for at opdrage deres børn i det
+her samfund, og at det ikke er gaden og ikke de
+sociale myndigheder, der skal gøre det - det ansvar har forældrene. Det tror jeg er en nødvendig diskussion. Men at man er derude direkte og
+deltager i en demokratisk samtale og fortæller,
+hvad der er rigtigt, og hvad der er forkert, behøver ikke at koste penge. Jeg tror virkelig, at det
+også vil kunne bidrage stærkt til, at vi kommer
+på rette kurs og ud af den ulykkelige situation,
+vi står i. Så jeg kvitterer for og er glad for, at regeringen vil engagere sig i det.";Henrik Sass Larsen
+11714;Time;;Kl. 13:10
+11726;title_name;Statsministeren.;Formanden
+11752;Time;;Kl. 13:10
+11792;title_name;":
+Det sidste var mere en kommentar end et
+spørgsmål, men jeg vil gerne svare ved at sige,
+at regeringen gennem lang tid jo har haft en løbende dialog med forskellige grupper. Senest
+havde integrationsministeren i går en dialog
+med medlemmer fra Islamisk Trossamfund, og
+det nævner jeg, fordi det jo er meget vigtigt at
+understrege her, at sådan en dialog også skal
+være kontant og direkte og skal forklare bl.a. Islamisk Trossamfund, at det ikke kan nytte noget,
+at man vil have dialog på et demokratisk grundlag, hvis man så deltager i demonstrationer med
+en antidemokratisk forening som Hizb-ut-Tahrir.";Anders Fogh Rasmussen
+12406;Time;;Kl. 13:11
+12418;title_name;Ja tak, og det er hr. Henrik Sass Larsen.;Formanden
+12469;Time;;Kl. 13:11
+12492;name_party;":
+Det vil jeg også give statsministeren ret i. Mon
+det ikke ville være en idé - en overvejelse værd
+- at vi, når det drejer sig om problemer på indvandrerområdet, altså hvis det er børn af anden
+etnisk baggrund og deres forældre, lagde strategien lidt om og lod være med at bruge så meget
+tid på at tale med de religiøse ledere, at vi
+sprang dem over og gik direkte til forældrene og
+
+1663
+
+børnene frem for at have det her religiøse mellemled? For andre ungdomsgruppers vedkommende er det jo ikke sædvanligt, at vi inddrager
+bl.a. folkekirken. Så ville det ikke være en overvejelse værd, om vi brugte knap så meget tid på
+det, men brugte mere tid på at gå direkte ud og
+tale med mennesker uden om det religiøse led?";Henrik Sass Larsen
+13218;Time;;Kl. 13:12
+13230;title_name;Statsministeren.;Formanden
+13256;Time;;Kl. 13:12
+13296;title_name;":
+Heri er jeg hundrede procent enig med hr. Henrik Sass Larsen. Vi skal i det hele taget have mindre religion i det offentlige rum, og for hver dag,
+der går, og jo mere jeg hører, desto mere overbevist bliver jeg om, at det er det rigtige. Lad os
+holde de ting adskilt. Det er bl.a. det, dialogen
+også skal gå ud på, nemlig at forklare såvel de
+unge som deres forældre, at de altså er kommet
+til et samfund, hvor vi sondrer mellem politik og
+religion. Jeg er fuldstændig enig med hr. Henrik
+Sass Larsen i, at den dialog, vi fører, ikke er en
+dialog med mennesker i kraft af deres religiøse
+tilhørsforhold, men det er en dialog med mennesker i kraft af, at de er borgere i det danske samfund, og at vi har en interesse i at forklare dem,
+hvilke grundværdier det danske samfund bygger på. Der skal være frihed til forskellighed i
+det danske samfund, men der skal være en base
+af noget fælles, nogle fælles grundværdier, som
+vi står sammen om, herunder, at vi her sondrer
+mellem politik og religion. Her i landet er der
+ytringsfrihed, her er der pressefrihed, her er der
+ligestilling mellem kvinder og mænd - blot for
+at nævne nogle af de grundværdier, som det er
+vigtigt vi fører dialog om.";Anders Fogh Rasmussen
+14494;Time;;Kl. 13:13
+14506;title_name;"Tak til hr. Henrik Sass Larsen.
+Så er det fru Pia Kjærsgaard.";Formanden
+14577;Time;Spm. nr. US 30;Kl. 13:13
+14612;name_party;":
+Jeg vil også sige tak for redegørelsen, og jeg vil
+sige, at jeg er meget, meget enig i det, statsministeren sagde. Jeg har jo hørt det nogle gange.
+Statsministeren bad jo om direkte tv-tid - det er
+det, man kan som statsminister, det må være en
+god fornemmelse - i 19- og 21-nyhederne i søndags og sagde de ting, som statsministeren også
+sagde i morgen-tv, nemlig at man fordømmer de
+
+1664
+
+Onsdag den 20. februar 2008 (US 30)
+
+personer, der nu forhåbentlig bliver udvist, og
+som er blevet pågrebet i forbindelse med terror
+og i forbindelse med Kurt Vestergaard-sagen.
+Statsministeren sagde, at vi har et rigt samfund,
+hvor der er ufattelig mange muligheder for alle
+mennesker, hvis man ellers tager imod dem, og
+at det ikke er samfundets skyld. Det er jeg meget, meget enig i. Jeg gider heller ikke høre på
+pædagogsnak om, at det hele er samfundets
+skyld. Det punkt er vi for lang tid siden kommet
+over.
+Her til formiddag hørte vi, at et solcenter på
+Østerbro er eksploderet, samtidig med at der
+har været overgreb - først på Nørrebro - som
+har spredt sig til mange, mange byer i Danmark,
+og som spreder sig mere og mere, hvor man jo
+ikke kan stå op en eneste morgen uden at være
+utrolig påvirket af, at der har været nye brande,
+at der er containere, der er skubbet ind i bebyggelser, og der er vuggestuer, der er sat i brand,
+og så må jeg spørge statsministeren: Hvad agter
+man fra samfundets side at gøre for at få det her
+stoppet? Jeg er meget enig i, at det ikke er samfundets skyld, men samfundet som sådan skal
+vel heller ikke lide mere i den her situation. Jeg
+synes efterhånden, at det er sådan, at man næsten fornemmer, at vi er ved at være i en undtagelsestilstand. Det, der foregår, er terror: der er
+krigstilstande i de byer, det går ud over. Og så
+synes jeg, at statsministeren, regeringen, må
+komme lidt videre end det, vi har hørt fra statsministeren i de sidste dage.";Pia Kjærsgaard
+16510;Time;;Kl. 13:15
+16522;title_name;Statsministeren.;Formanden
+16548;Time;;Kl. 13:15
+16588;title_name;":
+Jeg vil først bekræfte, at der har fundet en sådan
+hændelse sted i et solcenter på Østerbro. Men
+jeg er nødt til at sige til fru Pia Kjærsgaard, at
+der på nuværende tidspunkt ikke er nogen sikre
+oplysninger om, hvad der er baggrunden for
+det, og om det overhovedet er noget, der har
+sammenhæng med det, som vi i øvrigt har set
+den sidste uges tid. Så det er i den henseende for
+tidligt at drage nogen konklusion om baggrunden, men det gør selvfølgelig ikke hændelsen
+mindre alvorlig.
+Når fru Pia Kjærsgaard spørger om, hvad vi
+skal gøre ved det, vil jeg ud over det selvfølgelige, der ligger i at fastslå, hvem der har skyld og
+ansvar - nemlig de unge og deres forældre - sige, at det bedste, vi kan gøre i de her sager, er at
+bakke op om politiets indsats. Jeg synes, at det
+
+er en god anledning til at påskønne den indsats,
+som politiet har gjort. Jeg synes, at politiet har
+fundet den rigtige balance i indsatsen. Og det er
+altså først og fremmest en politimæssig opgave
+at få fanget dem, der er skyldige i optøjer og
+hærværk, og sikre, at de bliver stillet til ansvar
+for det. Det er efter min opfattelse det, som man
+kan gøre.
+Vi skal selvfølgelig som samfund sørge for, at
+rammerne er til stede, at der er uddannelsespladser, at der er job, at der er fritidsaktiviteter,
+og som jeg sagde i min indledning: Det er sandelig det, som samfundet har levet op til. Der har
+aldrig været så mange gode muligheder som nu.";Anders Fogh Rasmussen
+18018;Time;;Kl. 13:17
+18030;title_name;Fru Pia Kjærsgaard.;Formanden
+18059;Time;;Kl. 13:17
+18079;name_party;":
+Det er jeg fuldstændig enig i. Det skal vi slet, slet
+ikke diskutere. Jeg er også meget enig i, at politiets indsats først og fremmest skal berømmes og
+belønnes. Det synes jeg sådan set også at politiledelsen burde tage til efterretning. Jeg synes, at
+man fra alle sider i det her samfund ubetinget
+skal bakke politiet op.
+Jeg er meget, meget bekymrede over de seneste dage, hvor man efterhånden lægger mere og
+mere over på politiet - at der måske er nogle af
+dem, som har talt forkert til en eller anden
+voldsforbryder, eller hvad der nu foregår på
+Nørrebro og andre steder. De skal selvfølgelig
+tale overordentligt, men jeg vil meget advare
+imod, at det kommer til at ramme hele politikorpset, og det synes jeg desværre at der er en
+tendens til. Så det, statsministeren siger om, at
+man skal bakke politiets indsats op, er Dansk
+Folkeparti hundrede procent enige i.
+Jeg vil godt henlede statsministerens opmærksomhed på, at vi i dag har fremsat vores
+forslag til finansloven. Her er der en lang række
+initiativer om det her, hvor der ses på, om det er
+rimeligt, at man bare kan undvige sin straf, fordi
+man er mange om det. Vi synes, at der skal være
+mere videoovervågning, og vi synes også, at der
+må ske en sænkning af den kriminelle lavalder,
+for vi ser oftere og oftere, at det er yngre og yngre personer, der begår det her. Med i vores forslag er også, at det først og fremmest er forældrene, der gøres erstatningsansvarlige, og at
+man går mere ind og afdækker radikaliseringsprocesser. Det er nogle emner, som Dansk Folkeparti tager med til finansloven.
+
+(209)
+Onsdag den 20. februar 2008 (US 31)
+Jeg vil bare henlede statsministerens opmærksomhed på, at det er noget, som vi tager
+alvorligt, og det er noget, som vi forlanger at blive hørt om. Det er ikke noget, som vi vil se med
+milde øjne på, hvis regeringen bare sådan skøjter hen over det og ikke synes, at det er nødvendigt. Nu kunne jeg forstå på pressemødet i går,
+at statsministeren ikke havde læst mit ugebrev,
+men nu har jeg i hvert fald gjort statsministeren
+opmærksom på, at vi i dag har fremsat det her
+forslag, og det vil jeg bare lige bede statsministeren om at være meget opmærksom på - finansministeren skal nok blive det.";Pia Kjærsgaard
+20291;Time;;Kl. 13:19
+20303;title_name;Statsministeren.;Formanden
+20329;Time;;Kl. 13:19
+20369;title_name;":
+Jeg ved ikke, om det er en trussel eller et løfte,
+når fru Pia Kjærsgaard siger, at hun ikke ser med
+blide øjne på mig. Jeg vil blot sige til fru Pia
+Kjærsgaard, at vi mener helt klart, at vi er nødt
+til at se på, hvordan vi kan få styrket bevidstheden om, at forældrene faktisk har et ansvar. Det
+drejer sig, som fru Pia Kjærsgaard siger, bl.a. om
+erstatningsansvar i de tilfælde, hvor børnene
+udfører hærværk og laver ødelæggelser. Lad
+mig minde om, at vi jo allerede i fællesskab har
+vedtaget en lovgivning, som kommunerne godt
+kunne bruge, hvor kommunerne er i stand til at
+trække i børnefamilieydelsen i de tilfælde, hvor
+forældrene ikke lever op til deres ansvar.
+Dansk Folkepartis ønske om at styrke indsatsen mod radikalisering og polarisering deler vi
+fuldstændig. Det står i regeringsprogrammet. Så
+der er selvfølgelig klart nogle punkter, som jeg
+synes at vi skal kigge på. Det kan bl.a. være i forbindelse med finansloven eller i forbindelse
+med andre ting.";Anders Fogh Rasmussen
+21350;Time;;Kl. 13:20
+21362;title_name;Fru Pia Kjærsgaard.;Formanden
+21391;Time;;Kl. 13:20
+21411;name_party;":
+Ja, men der er jo dele af det her, som statsministeren nævnte, der afgjort skal sættes penge af
+til. Det er ikke noget, man bare kan skrive ind i
+regeringsgrundlaget, uden at der er sat penge af
+til det, og det er derfor, at Dansk Folkeparti har
+taget det med. Når ikke regeringen vil, må
+Dansk Folkeparti.
+Med hensyn til forældrenes erstatningsansvar
+drejer det sig jo ikke om det, som statsministeren nævnte, nemlig hvad kommunerne kan gø-
+
+1665
+
+re. Det, det drejer sig om, er, når mennesker får
+brændt deres ejendom af. Det kan være en eller
+anden familie, som har spinket og sparet for at
+købe en bil og måske ikke har en kaskoforsikring - det er der mange der ikke har - hvor pengene bare er tabt, fordi bilen tilfældigvis stod et
+sted, hvor der var nogle unge bøller, der syntes,
+at der skulle ske noget. Der må forældrene være
+erstatningspligtige.
+Jeg er ikke tilfreds med, at man nu tager det
+med i en eller anden ungdomskommission, som
+på et eller andet tidspunkt skal finde frem til et
+eller andet. Jeg synes, at det er noget, der skal
+ske nu. Det er nu, der er krigszoner, det er nu, at
+landet er fuldstændig oprørt over det her. Jeg er
+det i hvert fald, og det tror jeg at rigtig, rigtig
+mange er. Jeg synes, at regeringen må tage det
+alvorligt. Jeg må bare sige, at regeringen er en
+borgerlig regering med opbakning fra Dansk
+Folkeparti. Hvis vi ikke får gjort noget ved de
+her tilstande nu - jeg tror faktisk, at Socialdemokratiet gerne vil være med - hvornår får vi så
+gjort det? Det er nu, der skal gøres noget. Det er
+nu, at statsministeren faktisk har sit flertal på
+plads. Jeg kan bare meget opfordre til, at der bliver gjort mere end det, jeg i den sidste uges tid
+har hørt fra statsministerens side.";Pia Kjærsgaard
+23144;Time;;Kl. 13:21
+23184;title_name;":
+Jo, men altså, det er også regeringens opfattelse,
+at vi skal gøre alt, hvad vi overhovedet kan. Det
+er vi, som jeg sagde, selvfølgelig også indstillet
+på. Jeg synes, at fru Pia Kjærsgaard måske skulle
+gå en anelse mere roligt til sagen. Vi er jo meget
+enige om, hvor fokus skal være, og vi er meget
+modtagelige for fornuftige forslag til, hvordan
+vi kan iværksætte noget, der rent faktisk virker.
+Det, som jeg bare advarer mod, er at bortlede
+opmærksomheden fra det, der er det centrale i
+den her sag, og det, der er det centrale, er, at det
+er de unge, der har et ansvar, og det er, at det er
+forældrene, der har et ansvar. Efter min opfattelse er det det, man skal fokusere på.";Anders Fogh Rasmussen
+23876;Time;;Kl. 13:22
+23888;title_name;Tak til fru Pia Kjærsgaard. Så er det fru Line Barfod.;Formanden
+23952;Time;Spm nr. US 31;Kl. 13:22
+23983;name_party;":
+Jeg er klar over, at alting efter statsministerens
+opfattelse altid er nogle andres skyld. Der er
+
+1666
+
+Onsdag den 20. februar 2008 (US 31)
+
+ikke noget at komme efter, det er aldrig statsministerens ansvar, det er altid nogle andres. Også
+når det gælder overenskomstforhandlingerne
+har vi gentagne gange hørt, at det ikke er noget,
+regeringen har med at gøre. Det er ikke statsministerens ansvar.
+Men nu kan vi høre det meget klart fra kommunernes chefforhandler, Mads Lebech, som siger det krystalklart: Hvis kommunerne skal give
+den 11h pet. ekstra i lønforhøjelse, som er fuldstændig nødvendig for at undgå en storkonflikt,
+så betyder det, at kommunerne skal fyre 6.000
+medarbejdere rundtomkring i kommunerne. Så
+det står meget klart nu, at regeringen har ansvaret, statsministeren har ansvaret for at fortælle
+os, om kommunerne får penge til den nødvendige lønstigning, som betyder, at de kan holde på
+medarbejderne, eller om kommunerne skal ud
+og fyre 6.000 medarbejdere på de områder, hvor
+der i forvejen løbes alt for stærkt.";Line Barfod
+25029;Time;;Kl. 13:23
+25041;title_name;Statsministeren.;Formanden
+25067;Time;;Kl. 13:23
+25107;title_name;":
+Fru Line Barfod starter et forkert sted ved at påstå, at jeg skulle repræsentere den holdning, at
+det altid er andres skyld. Det er jo lige præcis
+det modsatte, jeg har stået og sagt. Jeg har netop
+stået og sagt, at vi altså må til at gøre os klart, at
+mennesker har et personligt ansvar. Jeg ved
+godt, at fru Line Barfod og Enhedslisten altid synes, at alting er samfundets ansvar, alting er
+samfundets skyld - det er altid samfundets
+skyld. Det er jo den sang, Enhedslisten og fru
+Line Barfod synger. Jeg pointerer netop, at vi
+som mennesker har et personligt ansvar, og det
+er det, jeg har fremhævet i hele sagen om de unges hærværk og optøjer.
+For så vidt angår overenskomstforhandlingerne, gik jeg da ud fra som en selvfølge, at Enhedslisten af alle var af den opfattelse, at overenskomster er bedst tjent med at blive aftalt mellem fagforeningerne og arbejdsgiverne uden
+Folketingets indblanding. Derfor opfatter jeg det
+ikke som nogen kritik, når fru Line Barfod skyder mig noget i skoene på det område, for jeg
+står vagt om det, der er den danske model, nemlig at overenskomsterne bliver aftalt ved forhandlingsbordet mellem fagforeningerne og arbejdsgiverne, og det får fru Line Barfod mig ikke
+til at blande mig i, for det kan kun ødelægge forhandlingerne mellem fagforeningerne og ar-
+
+bejdsgiverne, hvis vi som regering begynder at
+blande os.";Anders Fogh Rasmussen
+26473;Time;;Kl. 13:25
+26485;title_name;Fru Line Barfod.;Formanden
+26511;Time;;Kl. 13:25
+26528;name_party;":
+Jeg fik bekræftet, at statsministeren mener, at
+alle andre har et personligt ansvar, undtagen
+statsministeren. Der er aldrig noget, der er statsministerens ansvar.
+Med hensyn til overenskomstforhandlingerne på det offentlige område, så er det jo statsministeren, der har fastsat rammen for, hvor mange penge der er at forhandle om. Det er rigtigt,
+at når de penge så skal fordeles blandt medarbejderne, og man skal finde ud af, hvem der skal
+have hvad, og hvor meget de skal have ud over
+lønforhøjelser osv., så er det noget, parterne aftaler ved forhandlingsbordet. Men når det drejer
+sig om den pose penge, der står på bordet, og
+som der skal forhandles om, så er det statsministerens ansvar, og derfor er det statsministeren,
+der skal komme og give en melding om, hvorvidt kommunerne skal give den nødvendige
+lønforhøjelse, så de kan holde på medarbejderne, eller om de skal ud og fyre 6.000 medarbejdere, så de ikke kan levere den velfærdsservice,
+borgerne er blevet lovet.";Line Barfod
+27517;Time;;Kl. 13:25
+27529;title_name;Statsministeren.;Formanden
+27555;Time;;Kl. 13:25
+27595;title_name;":
+Jeg agter fremdeles ikke at blande mig i overenskomstforhandlingerne. Lad mig minde om, at finansministeren faktisk har indgået en aftale
+med forhandlerne for de statsligt ansatte, og nu
+fortsætter forhandlingerne så mellem de kommunale arbejdsgivere og fagforeningerne og siden mellem regionerne og fagforeningerne. Det
+agter regeringen altså ikke blande sig i.";Anders Fogh Rasmussen
+27969;Time;;Kl. 13:26
+27981;title_name;Fru Line Barfod.;Formanden
+28007;Time;;Kl. 13:26
+28024;name_party;":
+Det er lidt sjovt at høre statsministeren. Først siger statsministeren, at regeringen lige har siddet
+og deltaget i overenskomstforhandlingerne, og
+bagefter siger han, at regeringen overhovedet
+ikke vil blande sig i overenskomstforhandlingerne.
+
+Onsdag den 20. februar 2008 (US 32)
+
+1667
+
+og dertil er der sådan set kun at sige: Enig, ja,
+faktisk helt enig.
+Derfor er det også, at man er nødt til at kæde
+. tingene sammen.
+Det er jo sådan, at vi senere har en finanslovdebat her i Folketinget. En af de ting, der skal
+diskuteres, er bl.a. de besparelser, der skal foretages i politiet, og da politiet er et meget løntungt område, vil det sådan set sige, at besparelserne kommer til at gå ud over antallet af ansatte.
+Derfor vil jeg spørge: Hvordan harmonerer
+det, vi nu har talt om med hensyn til bål i gaderne indtil nu, så med, at vi senere skal tale om besparelser hos det politi, som jeg forstår og jeg er
+enig i er et vigtigt bidrag til, at vi kan få genoprettet ro og orden?
+Endelig har jeg et lille, forsigtigt spørgsmål til";Line Barfod
+29076;title_name;"Når alt det nu er sagt - og det er
+vi så enige om - er statsministeren måske så ikke
+også af den opfattelse, at der kunne være brug
+for at kigge på en bredere og måske mere sammenhængende boligsocial og -politisk indsats,
+specielt i de kvarterer, hvor vi har set at der har
+været brand? For det, der jo er sandheden, er, at
+der desværre er brand i gaderne, at der er mange danskere, der er utrygge. Jeg tror, at vi også
+her har brug for, at regeringen viser, at man har
+mere end ord.";statsministeren
+29569;Time;;Kl. 13:29
+29581;title_name;Statsministeren.;Formanden
+29607;Time;;Kl. 13:29
+29647;title_name;":
+Det er regeringens klare opfattelse, at der er afsat de ressourcer til politiet, der skal til, for at
+politiet kan løse sine opgaver, og den politireform, der er gennemført, sigter jo netop på, at
+der skal frigøres ressourcer i politiet fra administrativt arbejde, og at der skal være flere ressourcer til rådighed for politiets arbejde ude i gaderne.
+For så vidt angår den boligsociale indsats, vil
+jeg sige til hr. Henrik Dam Kristensen, at der i de
+senere år er brugt så mange penge på en boKl. 13:28 ligsocial indsats som aldrig nogen sinde tidligere. Dermed har jeg ikke sagt, at man så ikke kan
+Spm. nr. US 32
+gøre mere, for det er bestemt en indsats, der skal
+fortsætte.";Anders Fogh Rasmussen
+30352;name_party;":
+Hr. Henrik Dam Kristensen har fuldstændig
+En kraftig fordømmelse af bål i gaderne, der er
+ret i, at det er en vigtig del af en forebyggende
+job og uddannelsesmuligheder, unge og forælindsats, at vi sørger for at få renoveret en række
+dre skal tage sig sammen, der er ingen undskyldning - jeg tror, det sådan er en rimelig gen- af de boligkvarterer, hvor der især har været
+konstateret sociale problemer, og at man i det
+givelse af statsministerens indledning her i dag,
+
+Det er jo regeringen, der fastsætter den økonomiske ramme: det er regeringen, der har blandet sig: det er regeringen, der har sagt til kommunerne, at de ikke må bruge flere penge: det er
+regeringen, der har sagt, at kommunerne ikke
+har frihed til at forhandle, som de ønsker, for at
+sikre, at de kan levere den nødvendige service i
+fremtiden.
+Så det er statsministeren, der har blandet sig,
+og derfor er det nu statsministerens ansvar at
+give en melding om, hvorvidt kommunerne skal
+give den nødvendige lønforhøjelse, så de kan
+holde på medarbejderne fremover, eller om de
+skal ud og fyre 6.000 medarbejdere, så de ikke
+kan levere den lovede velfærdsservice.";Henrik Dam Kristensen
+31493;Time;;Kl. 13:27
+31505;title_name;Statsministeren.;Formanden
+31531;Time;;Kl. 13:27
+31571;title_name;":
+Jeg tror, at mange kan huske, at der her i efteråret var politikere, der gjorde forsøg på at blande sig i overenskomstforhandlingerne ved at
+love særlige puljer til brug i overenskomstforhandlingerne, og det gik rent galt. Det betød, at
+forhandlerne slet ikke kunne komme i gang med
+forhandlingerne. Til sidst lykkedes det så at
+komme ud af alt det og få forhandlingerne skubbet derover, hvor de hører hjemme, nemlig direkte mellem fagforeningerne og arbejdsgiverne. Og ligegyldigt hvordan fru Line Barfod prøver, skal det ikke lykkes hende at få nedbrudt
+det system.
+Vi respekterer, at overenskomstforhandlingerne foregår ved forhandlingsbordet mellem
+fagforeningerne og arbejdsgiverne, og det agter
+regeringen ikke at blande sig i, og jeg håber heller ikke, at vi kommer i en situation, hvor Folketinget skal til at blande sig i det.";Anders Fogh Rasmussen
+32418;Time;;Kl. 13:28
+32430;title_name;"Tak til fru Line Barfod.
+Den næste spørger er hr. Henrik Dam Kristensen.
+
+1668
+
+Onsdag den 20. februar 2008 (US 32)";Formanden
+32557;Time;"hele taget gør en kraftig indsats for at forebygge
+ghettodannelse, der kan få de sociale problemer";Kl. 13:32
+32668;title_name;"ind i en selvforstærkende ond cirkel: det ønske
+Hr. Henrik Dam Kristensen.";Formanden
+32752;Time;"deler jeg fuldstændig.
+Regeringen har igennem flere år været i gang";Kl. 13:32
+32846;name_party;":
+med en meget aktiv indsats - og det er en, der
+Det tror jeg desværre at jeg har. Bare det, at der
+vil blive fortsat i de kommende år.
+mere eller mindre er tyvstjålet 8 mia. kr. fra";Henrik Dam Kristensen
+33038;Time;Landsbyggefonden, er vel et eksempel på, at her;Kl. 13:31
+33098;title_name;"kunne der være blevet gjort noget, som ikke er
+Hr. Henrik Dam Kristensen.
+blevet gjort.";Formanden
+33195;Time;"Men jeg er vel nødt til at sige til statsministeHenrik Dam Kristensen (S):
+ren, at når man har lyttet godt efter i diskussioJeg synes nu, det er sådan lidt fantastisk at høre,
+nen her i dag - de svar, der er givet både til hr.
+for på den ene side har stort set alle, der har haft Henrik Sass Larsen og til fru Pia Kjærsgaard ordet her, været enige i, at det er en fornuftig og har man sådan en fornemmelse af, at regeringen
+en rigtig god, gedigen indsats, politiet har forehar retorik, hård retorik, kontant retorik.
+taget. På den anden side skal man ikke bevæge
+Jeg tror faktisk også, vi er ret mange, der forsig ret meget rundt i landet, før man kan mærke
+venter, at en regering ud over det - i den situatikonsekvenserne af politireformen: der er faktisk
+on, som landet står i - også har en plan. Jeg vil
+mange, som ikke har fået opfyldt de ønsker og
+bare gøre statsministeren opmærksom på, at der
+drømme, som de havde i forbindelse med den,
+faktisk er brand i gaderne og regeringen står tiltværtimod halter det derude. Nu får vi nærmest
+bage uden noget, der ligner en plan.";Kl. 13:31
+34282;Time;"at vide, at det, at man skal spare 77 mio. kr., stort
+set ingen betydning har. Altså, med andre ord:";Kl. 13:33
+34395;title_name;"Politiet har 77 mio. kr. for meget, og dem tager
+Statsministeren.";Formanden
+34470;Time;"man nu i forbindelse med de her finanslovforhandlinger. Jeg synes simpelt hen ikke, det hæn- Statsministeren (Anders Fogh Rasmussen):
+ger sammen med den virkelighed, der bliver op- Jeg kan forsikre hr. Henrik Dam Kristensen om,
+levet udeomkring i landet i forbindelse med po- at regeringen vil tage alle de skridt, der er nødlitireformen, og så den situation, vi står i lige nu, vendige for at få bragt optøjer og hærværk til
+hvor statsministeren sammen med os andre er
+ophør.
+enig i, at politiet spiller en væsentlig rolle.
+Men i modsætning til Henrik Dam Kristensen
+Med hensyn til det boligsociale vil jeg bare si- har jeg faktisk den opfattelse, at det lønner sig,
+ge: Den her regering startede altså med at skære
+at man som politiker en gang imellem også lige
+en hel masse ting ned. Når vi kigger på, hvordan
+stopper op og siger: Er der ikke noget, der hedman har drænet Landsbyggefonden, kan vi se,
+der det personlige ansvar?
+Der er nogle politikere, der tror, at svaret på
+at der altså var mange boligsociale og -politiske
+ting, som kunne være blevet gjort, og som regealle livets spørgsmål er, at politikeren kommer
+ringen rent faktisk har forhindret.
+rendende med 17 punkter, at det er samfundets";Kl. 13:33
+35685;Time;"skyld og samfundets ansvar, og at samfundet
+derfor skal komme rendende med alt muligt.";Kl. 13:32
+35784;title_name;"Altså, det lønner sig en gang imellem, at man
+Statsministeren.";Formanden
+35856;Time;starter et andet sted, at man starter med at sige:;Kl. 13:32
+35947;title_name;":
+Hør her, der er nogle unge - og meget unge:
+Det sidste er ganske enkelt ikke rigtigt. Regerin- nogle er store børn - som render rundt i gaderne
+gen har gennemført en meget, meget massiv
+og tænder ild til folks biler og brænder skoler og
+indsats for at løse såkaldte ghettoproblemer. Vi
+daginstitutioner ned, så kom ikke og sig, at det
+har gennemført en meget omfattende ghettoer samfundet skyld.
+plan for at få løst en række af de boligsociale
+Det er altså de unges ansvar, og det er deres
+problemer.
+forældre, der må se at hanke op i deres store
+Så det har hr. Henrik Dam Kristensen ganske
+børn og sørge for, at de passer deres skole. Alenkelt overhovedet ikke ret i.
+drig har de haft så mange muligheder, som de
+har nu.
+
+Onsdag den 20. februar 2008 (US 33)
+
+1669
+
+ødelæggelser, som børnene og de unge forårsager. Jeg synes i det hele taget, vi skal kigge på,
+hvordan vi kan få forældrenes bevidsthed om
+forældrerollen og forældreansvaret gjort stærkere.";Anders Fogh Rasmussen
+36915;Time;;Kl. 13:36
+36927;title_name;Fru Astrid Krag.;Formanden
+36953;Time;;Kl. 13:36
+36970;name_party;:;Astrid Krag
+36981;Time;"Jeg er glad for at høre, at det virker, som om vi er
+enige om, at det her ikke må gentage sig.. Men
+Spm nr. US 33
+jeg tror altså bare, at vi bliver nødt til at se i øjnene, at det her sagtens kan ske igen, hvis ikke vi";Kl. 13:35
+37217;name_party;":
+gør noget, og hvis ikke vi gør noget nu. Jeg er
+Nu har statsministeren efterhånden haft god tid
+bange for, at vi for længst har passeret det tidstil at kommentere den seneste tids uroligheder.
+punkt, hvor man kan snakke om rettidig omhu,
+Alligevel synes jeg ikke engang, at vi har fået
+omridset af et bud på en løsning. Det er, som om og jeg vil da også i forlængelse af fru Pia Kjærsgaards udtalelse sige, at vi i SF også gerne vil
+det eneste, statsministeren har at sige, er, at det
+være med til at finde nogle løsninger på det her.
+ikke er samfundets skyld. Bare vi får det på
+Statsministeren snakker, som om det er en
+plads, er alt åbenbart i skønneste orden.
+Nu er det svært at være uenig med statsmini- helt ny erkendelse for regeringen, at forældrene
+skal inddrages og tage ansvar for deres børns
+steren i, at det ikke er samfundet, der sætter ild
+til biler og containere i gaderne, men at det deri- handlinger, men jeg mangler altså bare stadig at
+høre noget mere konkret om, hvordan statsminimod er nogle grupper af unge, og at det derfor
+steren vil sørge for, at forældrene tager det aner dem og deres forældre - det er jeg helt enig
+svar - også inden det går galt, inden biler er
+med statsministeren i - der bærer ansvaret for
+ildspåsættelserne. Men selv om det ikke er sam- stukket i brand, inden skoler er stukket i brand.
+Hvilke former for forebyggende indsats kan
+fundets ansvar, bliver statsministeren altså nødt
+statsministeren nævne, som regeringen vil lægtil at begynde at forholde sig til, at det nu er
+ge vægt på fremover? For vi er vel enige om, at
+samfundets problem at sørge for, at der bliver
+det er meget alvorlige ting, der er sket. Det er
+sat en stopper for hærværket. Det nytter ikke
+noget, at statsministeren kun er optaget af at dis- ting, som ikke må gentage sig, men som altså
+sagtens kan gentage sig, hvis ikke vi gør noget
+kutere skyld og ikke gider diskutere handling.
+nu.
+Derfor vil jeg egentlig bare gerne igen bede";Astrid Krag
+39182;Time;statsministeren om at redegøre for, hvad han har;Kl. 13:37
+39243;title_name;"tænkt sig at gøre for at stoppe den seneste tids
+Statsministeren.
+uroligheder.";Formanden
+39331;Time;;Kl. 13:37
+39341;Time;;Kl. 13:35
+39381;title_name;:;Anders Fogh Rasmussen
+39394;title_name;Det, et samfund kan gøre, for at unge menneStatsministeren.;Formanden
+39463;Time;"sker har noget meningsfuldt at tage sig til, er at
+sikre, at der er uddannelsespladser til de unge.";Kl. 13:35
+39603;title_name;":
+Jeg må sige, at den allervigtigste opgave dér er at Der er uddannelsespladser til alle unge i dag,
+hvis de vil. Det er at sikre, at de unge kan få et
+give politiet hundrede procent opbakning til at
+job, når de har færdiggjort deres uddannelse.
+få sat en stopper for det. For det er en politiindsats, der skal til for at fange de skyldige og sørge Der er masser af job, ja, der er mangel på arbejdskraft, aldrig har der været så gode muligfor, at de bliver stillet til ansvar. Så kan vi dernæst politisk, synes jeg, fokusere på, hvordan vi heder som nu. Det, samfundet kan gøre, er at
+sikre, at der er fritidsaktiviteter til de unge, både
+kan være med til at styrke forældrenes ansvar
+nogle, som kommunen direkte organiserer, og
+og deres bevidsthed om, at de har et ansvar.
+andre, som foreningerne organiserer. Og der er i
+Jeg synes bestemt, at det er værd at overveje,
+at man i højere grad, end det er muligt i dag, kan stribevis af fritidstilbud til de unge. Det er jo den
+vigtige forebyggende indsats, man kan gøre: udgøre forældrene økonomisk ansvarlige for de
+
+Derfor må jeg altså holde fast i: Det er de unges ansvar, og det er deres forældres ansvar.
+Men selvfølgelig skal samfundet sørge for, at der
+er uddannelsespladser og job. Og det har vi også
+sørget for.";Anders Fogh Rasmussen
+40882;Time;;Kl. 13:34
+40894;title_name;"Tak til hr. Henrik Dam Kristensen. Næste spørger er fru Astrid Krag.
+
+1670
+
+Onsdag den 20. februar 2008 (US 34)
+
+dannelse, job og fritidsaktiviteter. Når samfundet så har gjort alt det, synes jeg faktisk, det er
+meget rimeligt at fastslå, at så har de unge altså
+selv et ansvar, og så har forældrene altså et ansvar. Det kan ikke nytte noget, at fru Astrid Krag
+prøver at tale uden om det, for det er der, ansvaret ligger.";Formanden
+41327;Time;;Kl. 13:38
+41339;title_name;Fru Astrid Krag.;Formanden
+41365;Time;;Kl. 13:38
+41382;name_party;":
+Jeg er så evig enig med statsministeren i, at det
+er forældrene og de unge selv, der har ansvaret.
+Men vi må også bare se i øjnene, at det nu er
+samfundets problem, og så er det altså politikerne, der må komme med nogle løsninger og ikke
+tale uden om.
+Jeg vil gerne, hvis jeg kan nå det, lige gribe fat
+i det, statsministeren sagde om politiet, for jeg
+vil gerne høre lidt mere om, hvad politiets rolle
+skal være. Mener statsministeren ikke, at det må
+være på tide, at politiet for alvor bliver sat ind
+over for de indvandrerbander, der kæmper om
+det københavnske narkomiljø, og hvad det har
+medført af forråelse af miljøet på Nørrebro inden for de sidste år? Er det ikke på høje tid, at
+der kommer et politisk signal om, at politiet skal
+sættes ind der, hvor det gør gavn? I stedet for at
+stresse christianitter og narkomaner på Vesterbro burde vi så ikke sende et signal til politiet
+om, at det er meget vigtigt og det er afgørende,
+at vi får slået ned på de her indvandrerbander,
+der kæmper om narkomarkedet og er med til at
+skabe en forråelse af miljøet på Nørrebro? Og
+hvis statsministeren vil anerkende det, vil han så
+fortælle mig, hvordan det hjælpes på vej af de
+besparelser, som regeringen har lagt op til for
+politiet i finansloven?";Astrid Krag
+42637;Time;;Kl. 13:39
+42649;title_name;Statsministeren.;Formanden
+42675;Time;;Kl. 13:39
+42715;title_name;":
+For det første vil jeg sige, at jeg fuldstændig deler den opfattelse, at der må gives en meget høj
+prioritet til at bekæmpe bandekriminalitet og
+ikke mindst den, der er relateret til narko. Det er
+jeg fuldstændig enig i. Jeg har så fuld tillid til, at
+politiet også er klar over det, og at det er politiet,
+der tilrettelægger indsatsen. Hvis ikke jeg tager
+meget fejl, er det i hvert fald også vurderingen
+fra politiets side, at en af årsagerne til, at der
+startede ballade på Nørrebro, netop var politiets
+
+indsats mod narkokriminaliteten. Så jeg deler
+fuldstændig den opfattelse, at det er en højprioritetsopgave. Det er regeringens klare opfattelse,
+at vi har afsat de ressourcer, der skal til, for at
+politiet på en god og effektiv måde kan løse sin
+opgave.";Anders Fogh Rasmussen
+43488;Time;;Kl. 13:40
+43500;title_name;"Tak til fru Astrid Krag. Så er det hr. Simon Emil
+Ammitzbøll.";Formanden
+43571;Time;Spm. nr. US 34;Kl. 13:40
+43613;name_party;":
+Nu er det jo ikke, fordi det ikke har været en
+spændende debat, men jeg vil alligevel godt
+prøve at skifte lidt emne. Det er jo sådan, at der
+for nylig blev foretaget nogle arrestationer, fordi
+der var mistanke om planlægning af et terrorrelateret drab på Jyllands-Postens karikaturtegner,
+Kurt Westergaard, og det er jo en frygtelig ting,
+og vi må selvfølgelig alle sammen bakke op om
+Kurt Westergaard i den sammenhæng, bakke op
+om ytringsfriheden.
+Men vil statsministeren ikke give mig ret i, at
+i forsvaret af demokratiet må ytringsfrihed og
+retssikkerhed gå hånd i hånd? Og i den forbindelse er det, at jeg undrer mig lidt over statsministerens bekymringer for, at man kunne have
+en eller andet form for domstolskontrol, når der
+er de her administrative udvisninger af udlændinge, der er mistænkt for terrorrelaterede forbrydelser. Det kunne jeg godt tænke mig at bede
+statsministeren om at forholde sig til.";Simon Emil Ammitzbøll
+44537;Time;;Kl. 13:41
+44549;title_name;Statsministeren.;Formanden
+44575;Time;;Kl. 13:41
+44615;title_name;":
+For det første vil jeg sige, at jeg ikke nærer den
+fjerneste betænkelighed vedrørende retssikkerheden i de her sager. Der er tale om et forsøg på
+en meget alvorlig forbrydelse, nemlig at dræbe
+et andet menneske, som ikke gør andet end at
+udføre sit arbejde og udnytte sin ytringsfrihed.
+Det er en meget alvorlig forbrydelse. Der har i
+Folketinget været bred enighed om, at det skulle
+der iværksættes særlige foranstaltninger imod.
+Det var faktisk den tidligere regering, som hr. Simon Emil Ammitzbølls parti jo var en del af, der
+fremlagde en sådan lovpakke før folketingsvalget i 2001. Vi overtog den, og vi gennemførte
+den, og hvis ikke jeg husker meget galt også
+
+Onsdag den 20. februar 2008 (US 34)
+med støtte fra hr. Simon Emil Ammitzbølls parti, som jo også selv havde været med til at fremlægge den som regeringsparti.
+Derfor forstår jeg ikke hr. Simon Emil Ammitzbølls anfægtelser. Jeg har fuld tillid til den
+sagsbehandling, der har fundet sted, og mener,
+at det er sket under retssikkerhedsmæssigt absolut betryggende forhold.";Anders Fogh Rasmussen
+45664;Time;;Kl. 13:42
+45676;title_name;Hr. Simon Emil Ammitzbøll.;Formanden
+45712;Time;;Kl. 13:42
+45739;name_party;":
+Ja, man kan jo bare først nikke til, at alt, hvad
+statsministeren lige sagde, er korrekt. Det er
+også fremgået af den offentlige debat den sidste
+halvanden uges tid. Det er den ene ting. Derefter
+kan man så ryste på hovedet over, at statsministeren ikke deler de bekymringer, som hans
+egen integrationsminister, fru Birthe Rønn
+Hornbech, har givet udtryk for i den her anledning.
+Når nu statsministeren overhovedet ikke mener, der er nogen retssikkerhedsmæssige bekymringer med hensyn til det her, kunne vi så i
+det mindste ikke få statsministeren til at trække
+sine påstande om, at det ligesom er almindelig
+praksis i et retssamfund, at administrative beslutninger også kan omgøres administrativt, tilbage? Det har jo været kritiseret af professor
+Henning Koch fra Københavns Universitet, og
+det har været kritiseret af Jens Vedsted-Hansen
+fra Aarhus Universitet.
+Er det ikke på sin plads at sige, at i et retssamfund er det altså sådan, at administrative afgørelser kan omstødes af domstolene, og at man i
+hvert fald har ret til at klage til domstolene over
+administrative afgørelser for at få dem ændret?";Simon Emil Ammitzbøll
+46858;Time;;Kl. 13:43
+46870;title_name;Statsministeren.;Formanden
+46896;Time;;Kl. 13:43
+46936;title_name;":
+Jeg har ikke på noget tidspunkt udtalt mig om,
+at det skulle være almindelig praksis, at man
+ved administrativ beslutning kan omgøre administrative afgørelser. Jeg har tværtimod understreget, at vi her befinder os i en helt ekstraordinær situation, der kræver ekstraordinære foranstaltninger, for sagen er jo den, at vi taler om sager, hvor efterretningstjenesten er involveret og
+af mange gode grunde ikke er i stand til at lægge
+alle oplysninger frem, og derfor må man bruge
+en særlig procedure. Det var et meget bredt fler-
+
+1671
+
+tal i Folketinget enig om, herunder hr. Simon
+Emil Ammitzbølls eget parti, i juni 2002, da vi
+vedtog loven, og der er for mig at se ikke noget,
+der har ændret sig, siden vi vedtog den i 2002.";Anders Fogh Rasmussen
+47673;Time;;Kl. 13:44
+47685;title_name;Hr. Simon Emil Ammitzbøll.;Formanden
+47721;Time;;Kl. 13:44
+47748;name_party;":
+Ja, svar skal man måske ikke forvente. Det er jo
+også en spørgetime. Spørgsmål og svar plejer
+dog at hænge sammen, men jeg prøver igen. Det
+er jo sådan, at i et retssamfund har borgeren mulighed for, at administrative afgørelser kan indklages for en domstol. Det kan ikke ske her. Lige
+meget hvem der har stemt for det i 2002, er det
+et brud på retsstatens principper.
+Nu ved jeg godt, at statsministeren ikke har
+læst jura, men det skal ikke være nogen undskyldning, når man har været statsminister i
+mere end 6 år, at man ikke går ind og forsvarer
+retssikkerheden. Jeg synes, det er beskæmmende, at vi ikke sammen kan sige: Ytringsfriheden,
+den vil vi gerne forsvare. Jo, det kan vi godt.
+Samtidig vil vi også forsvare retssikkerheden.
+Hvis vi skal have en kamp mellem demokratiet
+og dem, som ikke vil demokratiet, bør vi stille os
+på demokratiets side, både i spørgsmålet om
+ytringsfrihed og i spørgsmålet om retssikkerhed.";Simon Emil Ammitzbøll
+48686;Time;;Kl. 13:45
+48698;title_name;Statsministeren.;Formanden
+48724;Time;;Kl. 13:45
+48764;title_name;":
+Jamen jeg deler slet ikke hr. Simon Emil Ammitzbølls påstand om, at det her skulle være betænkeligt for retssikkerheden. Jeg mener tværtimod, at det i den særlige situation, som det er,
+når vi taler om forsøg på alvorlige forbrydelser,
+er absolut betryggende for retssikkerheden, at
+det foregår på den her facon.
+Der er jo tale om, at der finder en grundig
+sagsbehandling sted. Derefter er der to ministre,
+som uafhængigt af hinanden tager stilling til,
+om de pågældende personer er til fare for statens sikkerhed og andet. Det er først justitsministeren og så integrationsministeren. Hvis de
+fastslår, at de pågældende er til fare for rigets
+sikkerhed, kan Udlændingeservice træffe en beslutning om udvisning, der så i øvrigt kan påklages til Integrationsministeriet. Jeg mener, der
+er lagt alle de mekanismer ind, der skal til for at
+
+1672
+
+Onsdag den 20. februar 2008 (US 35)
+
+sikre, at det foregår retssikkerhedsmæssigt betryggende.";Anders Fogh Rasmussen
+49713;Time;;Kl. 13:46
+49725;title_name;"Tak til hr. Simon Emil Ammitzbøll.
+Så er næste spørger hr. Naser Khader.
+Spm. nr. US 35";Formanden
+49823;Time;;Kl. 13:46
+49842;name_party;":
+Jeg vil gerne starte med at understrege, at jeg er
+meget enig med statsministeren i, at vi skal stå
+fast på vores demokrati og forsvare vores
+ytringsfrihed. Jeg har været utrolig glad for, at
+statsministeren stod fast under Muhammedkonflikten. Mange andre partiledere var dybt forvirrede - nogle er blevet klogere siden, bedre sent
+end aldrig. Jeg er også enig i, at man skal lade
+være med at give samfundet skylden for den
+ballade, vi oplever i øjeblikket. Det danske samfund er et åbent samfund med mange muligheder, men man skal selv gøre en indsats: så er dørene åbne.
+Mit spørgsmål til statsministeren har at gøre
+med det, som skete i går, nemlig at den ellers
+fornuftige integrationsminister inviterede en islamist, Kassem Ahmad, til Integrationsministeriet - en islamist, som statsministeren i går tog
+afstand fra. Jeg fatter det simpelt hen ikke. Jeg er
+så forarget. Hvordan kan integrationsministeren
+invitere en islamist ind i Integrationsministeriet
+og dermed være med til at legitimere hans holdninger? Hvad siger statsministeren til det? Var
+det klogt af integrationsministeren, eller var det
+dybt naivt?";Naser Khader
+50971;Time;;Kl. 13:48
+50983;title_name;Statsministeren.;Formanden
+51009;Time;;Kl. 13:48
+51049;title_name;":
+Både hr. Naser Khader og jeg kender integrationsministeren, og på den baggrund tør jeg fastslå, at jeg tror, at integrationsministeren i et meget direkte sprog har fortalt den pågældende,
+hvad hun mener om hans deltagelse i en demonstration organiseret af en antidemokratisk organisation, Hizb-ut-Tahrir. Og der kan det faktisk
+være en fordel, at integrationsministeren har
+sagt det i et direkte sprog til den pågældende
+person.";Anders Fogh Rasmussen
+51489;Time;;Kl. 13:48
+51501;title_name;Hr. Naser Khader.;Formanden
+51529;Time;;Kl. 13:48
+51547;name_party;":
+Jeg vil gøre opmærksom på, at mødet var planlagt, længe før Kassem Ahmad var ude og demonstrere, så han var blevet inviteret længe før,
+man så billeder af ham rendende rundt med
+Hizb-ut-Tahrirs sorte flag. Jeg opfordrede integrationsministeren til at aflyse mødet, for hun er
+med til at svække de demokratisk indstillede
+muslimer ved at invitere en islamist ind i Integrationsministeriet.
+Ville statsministeren invitere den pågældende
+ind i Statsministeriet? Ville statsministeren acceptere, at justitsministeren inviterede nynazisten Jonni Hansen ind i Justitsministeriet, hvis
+der havde været ballade og optøjer med nynazisterne?";Naser Khader
+52190;Time;;Kl. 13:49
+52202;title_name;Statsministeren.;Formanden
+52228;Time;;Kl. 13:49
+52268;title_name;":
+Nej, jeg giver hr. Naser Khader fuldstændig ret i,
+at man skal tænke sig meget grundigt om. Som
+hr. Naser Khader rigtigt anfører, var mødet jo
+altså indkaldt, før den pågældende optrådte i en
+demonstration, som selvfølgelig var en lovlig
+demonstration, men hvor vi alligevel må sige, at
+når man optræder i en demonstration organiseret en antidemokratisk forening, så bliver man
+uvilkårligt kædet sammen med den, og så må vi
+selvfølgelig tage skarpt afstand fra det. Det er
+ikke et grundlag for en fornuftig dialog.
+Derfor vil jeg også gerne sige til hr. Naser
+Khader, at regeringen og de enkelte ministre
+selvfølgelig meget nøje vil overveje, på hvilket
+grundlag en dialog skal finde sted, for vi ønsker
+som regering på ingen som helst måde at legitimere kræfter, som ikke respekterer de grundværdier, som det danske samfund bygger på.";Anders Fogh Rasmussen
+53115;Time;;Kl. 13:50
+53127;title_name;Hr. Naser Khader.;Formanden
+53154;Time;;Kl. 13:50
+53172;name_party;":
+Jeg er glad for imødekommenheden. Mit
+spørgsmål er nu: Vil statsministeren opfordre integrationsministeren til at aflyse det møde, hun
+har planlagt med Kassem Ahmad og Islamisk
+Trossamfund her i den kommende tid?";Naser Khader
+53396;Time;;Kl. 13:51
+53408;title_name;"Statsministeren.
+
+(210)
+Onsdag den 20. februar 2008 (US 35)";Formanden
+53478;Time;;Kl. 13:51
+53518;title_name;":
+Nu har jeg ikke kendskab til, hvilke planer integrationsministeren har om dialogmøder i den
+kommende tid. Generelt vil jeg sige, at jeg tror,
+det er fornuftigt, at integrationsministeren såvel
+som andre politikere i øvrigt har en dialog med
+forskellige grupper i det danske samfund om,
+hvad det egentlig vil sige at leve i et frit folkestyre, hvor der er ytringsfrihed, hvor der er pressefrihed, hvor der er lige ret for kvinder og mænd,
+hvor der er en klar sondring mellem politik og
+religion. Jeg synes, at vi i øjeblikket ser så meget,
+der tyder på, at en sådan dialog er meget, meget
+nødvendig. Men jeg giver hr. Naser Khader
+fuldstændig ret i, at det må foregå på en sådan
+måde, at vi ikke utilsigtet kommer til at legitimere kræfter, der modarbejder vores formål om
+at styrke bevidstheden om værdien af det danske folkestyre.";Anders Fogh Rasmussen
+54361;Time;;Kl. 13:52
+54373;title_name;"Tak til hr. Naser Khader.
+Og næste spørger er fru Julie Rademacher.";Formanden
+54450;Time;Spm. nr. US 36;Kl. 13:52
+54486;name_party;":
+I tidligere folketingsperioder er der blevet talt
+meget om, at vi har frygtet besparelser på velfærden fra regeringens og Dansk Folkepartis side. Dette har statsministeren kaldt en socialdemokratisk skræmmekampagne. Nu behøver vi
+ikke længere selv føre vores skræmmekampagner, nej, i det finanslovforslag, der foreligger,
+klarer statsministeren det udmærket selv.
+I valgkampen hørte vi ellers statsministeren
+snakke om, at vi både kunne få velfærd og få
+skattelettelser, og at der skulle investeres i forskning og uddannelse, men det lader til, at disse tider, hvor det går så godt i Danmark, lynhurtigt
+efter valget har taget en helt anden drejning.
+Jeg må indrømme, at jeg er en smule skuffet
+over nu at få sådan en mavepuster med disse besparelser i det foreliggende finanslovforslag.
+Jeg frygter specielt besparelser på uddannelsesområdet. Vi skal have 95 pet. af alle unge til
+at tage en ungdomsuddannelse og 50 pet. til at
+tage en videregående uddannelse. Og jeg er jo
+fuldstændig enig med statsministeren i disse
+målsætninger, men jeg mener ikke, at man får
+flere unge til at uddanne sig ved at spare på uddannelserne.
+
+1673
+
+Uddannelse er grundstenen for det danske
+velfærdssamfund, og jeg frygter, at disse besparelser får konsekvenser såsom kedsomhed og en
+stigning i volden, som vi eksempelvis ser lige
+for tiden.
+Det er positivt, at flere og flere vil tage en uddannelse, og at der kommer flere og flere på uddannelsesinstitutionerne, men hvordan har
+statsministeren tænkt sig at disse uddannelser
+skal finansieres, når der kommer flere og flere
+til, samtidig med at man vil spare på uddannelsesbudgetterne?";Julie Rademacher
+56117;Time;;Kl. 13:54
+56129;title_name;Statsministeren.;Formanden
+56155;Time;;Kl. 13:54
+56195;title_name;":
+Det er helt utroligt. Jeg troede faktisk, at vi nu
+var kommet ud over den klagesang med nedskæringer, efter at det jo er blevet dokumenteret
+år efter år, at denne regering har brugt flere og
+stadig flere penge på velfærd.
+Den kritik, som regeringen kraftigst har været
+udsat for, er, at vi bruger for mange penge. Der
+har i den grad været en jammersang fra landets
+økonomer, som uden undtagelse har anklaget
+regeringen for, at den sprøjter alt for mange penge ud. Nå, men så har vi lyttet lidt til det, og så
+har vi gjort det, at vi lige har taget toppen af
+stigningen ved at sige: Kunne vi ikke gemme
+nogle af de udgifter, som vi egentlig ville have
+afholdt i 2008, og så afholde dem i 2009 i stedet
+for? Så kan det jo være, at der er mere plads på
+det tidspunkt, så økonomerne kan sove lidt
+mere roligt om natten.
+Der er jo ikke tale om besparelser. Der er tale
+om vækst i de offentlige udgifter, også fra 2007
+til 2008. Og samfundet går altså ikke under, fordi der så er nogle af udgifterne, som man venter
+med at afholde til 2009. Tværtimod, der er stadig væk vækst og fremgang.";Anders Fogh Rasmussen
+57289;Time;;Kl. 13:55
+57301;title_name;Fru Julie Rademacher.;Formanden
+57332;Time;;Kl. 13:55
+57353;name_party;":
+Det er så nemt et svar, som statsministeren giver
+her, altså at svare bredt ved at nævne de offentlige udgifter. Men jeg kan bare ikke se, at uddannelsesinstitutionerne har fået så vanvittig mange
+flere penge til uddannelser i forhold til de studerende, som de får flere og flere af.
+Derfor vil jeg gå lidt videre med næste
+spørgsmål og så spørge, hvordan statsministe-
+
+1674
+
+Onsdag den 20. februar 2008 (S 37)
+
+ren vil forsvare, at Danmark skal være et af verdens førende vidensamfund, når statsministeren
+samtidig lægger op til, at der skal spares over
+400 mio. kr. på forskningsaktiviteten i forhold til
+det, der var lagt op til før folketingsvalget. Det
+er da en smule påfaldende.";Julie Rademacher
+58051;Time;;Kl. 13:55
+58063;title_name;Statsministeren.;Formanden
+58089;Time;;Kl. 13:55
+58129;title_name;":
+Jamen nu er fru Julie Rademacher jo allerede
+mere præcis. Nu er det jo ukorrekt at sige spare,
+for der er altså tale om, at man så udskyder en
+udgift til senere, men allerede nu kommer vi lidt
+tættere på sandheden, ved at der bliver sagt »i
+forhold til det, der ellers var planlagt«. For sandheden er jo, at der er planlagt stigninger, så det
+er kun et spørgsmål om stigningens størrelse.
+Én ting kan jeg fastslå: Det mål, vi har sat os,
+om, at den offentligt finansierede forskning og
+udvikling fra 2010 skal udgøre 1 pet. af landets
+samlede produktion, holder vi jo fast ved.
+Men jeg er lidt bekymret, hvis det er sådan, at
+oppositionens opfattelse er, at vi skal være ligeglade med, hvordan samfundsøkonomien udvikler sig. Jeg er meget bekymret, hvis det nu er
+holdningen, at vi kan være ligeglade med, om
+økonomien udvikler sig ansvarligt og forsvarligt.
+Regeringen har lagt et finanslovforslag frem
+med nogle rammer, som vi synes passer til den
+aktuelle økonomiske situation, men det er faktisk et finanslovforslag, der lægger op til ganske
+betydelige stigninger i udgifterne til velfærd også på uddannelsesområdet.";Anders Fogh Rasmussen
+59261;Time;;Kl. 13:57
+59273;title_name;Fru Julie Rademacher for et sidste spørgsmål.;Formanden
+59328;Time;;Kl. 13:57
+59349;name_party;":
+Jeg kan jo konstatere, at der ikke er noget konkret svar fra statsministeren. Jeg har stadig væk
+ikke fået svar på, hvor det præcis er, vi har fået
+de her penge på uddannelsesområdet.
+Jeg kan huske, at man, et par år efter at den
+borgerlige regering kom til, afskaffede mesterlæren og skar ned på skolepraktikken. Nu lægger man op til, at voksenlærlingeordningen skal
+afskaffes. Jeg er utrolig bekymret for, hvordan vi
+nu får givet ufaglærte en mulighed for at blive
+faglærte og efteruddanne sig - specielt i en tid,
+hvor vi har mangel på kvalificeret arbejdskraft,
+og de her løsninger er vi jo fuldstændig enige
+
+om at vi skal handle ud fra, vil jeg sige til statsministeren.
+Jeg kunne meget godt tænke mig, at vi blev
+enige om, at statsministerens skattelettelser og
+mine skattelettelser kunne bruges til noget mere
+fornuftigt som f.eks. investering i uddannelse.
+Hvordan vil statsministeren sikre, at ufaglærte
+nu kan blive faglærte, og at vi ikke lader nogen i
+stikken, som faktisk gerne vil bidrage til arbejdsmarkedet, men som lige mangler de sidste opgraderinger?";Julie Rademacher
+60431;Time;;Kl. 13:58
+60443;title_name;Statsministeren.;Formanden
+60469;Time;;Kl. 13:58
+60509;title_name;":
+Det er så typisk. Nu hører vi det her om mesterlære og skolepraktik, og jeg husker godt - det
+var faktisk i valgkampen 2005, at det blev debatteret - at regeringen blev kritiseret så voldsomt
+for at have omlagt erhvervsuddannelserne. Vi
+havde fjernet nogle skolepraktikpladser, fordi
+skolepraktik faktisk bare førte ud i ledighed: det
+gav ikke de unge noget ordentligt afsæt til at
+komme ind på virksomhederne. Til gengæld
+øgede vi indsatsen for at få rigtige lærepladser,
+praktikpladser, ude på virksomhederne. Og vi
+blev skældt ud: det blev sagt, at nu var der store
+nedskæringer, og at de unge ikke fik nogen
+chancer.
+Hvad er der sket i mellemtiden? Der er sket
+det, at der er blevet oprettet så mange rigtige
+praktikpladser ude i virksomhederne, som er
+rigtig gode for de unge, fordi de derefter får beskæftigelse.
+Altså, der blev jamret, og der blev klynket, og
+der blev kritiseret i 2005, og det har vist sig at
+være en kanonsucces.
+Må jeg ikke give fru Julie Rademacher det
+råd: Op med humøret, det skal nok gå alt sammen.";Anders Fogh Rasmussen
+61550;Time;;Kl. 13:59
+61562;title_name;"Tak til fru Julie Rademacher.
+Vi når en spørger mere, og det er fru Pia 01sen Dyhr som den sidste.";Formanden
+61670;Time;Spm. nr. US 37;Kl. 13:59
+61705;name_party;":
+Vi har jo i SF med glæde noteret os regeringsgrundlaget og at statsministeren gang på gang
+siger, at regeringen gerne vil gøre noget ved kli-
+
+Onsdag den 20. februar 2008 (S 37)
+maet. Vi synes jo, at det er væsentligt, at vi prioriterer klimaet, og vi er også glade for, at statsministeren synes, at klimaet skal have topprioritet. Derfor undrer det os en lille smule, når det
+så kommer til konkret handling, for der er ingen
+tvivl om, at hvis vi skal løse klimaproblemerne,
+så er det ikke alene ved rejser til Grønland, men
+også ved, at vi reelt får reduceret vores C02-udslip i Danmark.
+Under en forespørgselsdebat i januar måned,
+den 22. januar, gjorde både Venstres og Konservatives ordførere sig til talspersoner for, at C02udslippet fra trafikken ikke kan løses. Det stiller
+jeg mig meget undrende over for, også fordi
+statsministeren samme dag på sit pressemøde
+valgte at sige, at vi godt kunne løse C02-udslippet fra trafikken, at regeringens pejlemærke om
+en reduktion med 25 pet. i 2030 er mulig, og at
+statsministeren var villig til at skærpe den yderligere.
+Så vil jeg spørge: Hvad er regeringens holdning på det her punkt? Er det det, Venstres og
+Konservatives ordførere siger på talerstolen, eller er det det, statsministeren siger på sit pressemøde?";Pia Olsen Dyhr
+62982;Time;;Kl. 14:00
+62994;title_name;Statsministeren.;Formanden
+63020;Time;;Kl. 14:00
+63060;title_name;":
+Jamen det er meget enkelt: Hvis vi skal løse opgaven med at nedbringe udledningen af drivhusgasser, herunder C02' så skal transportsektoren også deltage.";Anders Fogh Rasmussen
+63225;Time;;Kl. 14:00
+63237;title_name;Pia Olsen Dyhr.;Formanden
+63262;Time;;Kl. 14:01
+63282;name_party;":
+Jeg håber, at statsministeren vil bekræfte, at regeringens egen bæredygtighedsstrategi, »Grønt
+Ansvar«, som indeholder et pejlemærke på
+transportområdet med en reduktion på 25 pet.
+inden 2030, stadig væk står og er regeringens
+pejlemærke.";Pia Olsen Dyhr
+63532;Time;;Kl. 14:01
+63544;title_name;Statsministeren.;Formanden
+63570;Time;;Kl. 14:01
+63610;title_name;":
+Nu foregår der jo i øjeblikket forhandlinger om
+de langsigtede energiplaner, men jeg vil gerne
+
+1675
+
+bekræfte, at det er min klare opfattelse, at et væsentligt bidrag til nedbringelse af udledning af
+drivhusgasser i Danmark såvel som andre steder, er, at transportsektoren skal med. Og det
+gælder også, når vi taler om en stor, global klimaaftale, som vi forhåbentlig kan indgå i København i december 2009, om, at vi skal have
+transportsektoren med, for at vi kan løse opgaven. Ellers lader det sig ganske enkelt ikke gøre.";Anders Fogh Rasmussen
+64146;Time;;Kl. 14:02
+64158;title_name;Fru Pia Olsen Dyhr.;Formanden
+64187;Time;;Kl. 14:02
+64207;name_party;:;Pia Olsen Dyhr
+64221;title_name;"... som statsministeren ganske rigtigt siger. Der er transportsektoren, og så er der
+energisektoren. Energisektoren er i gang med
+forhandlinger i øjeblikket, og transportsektoren
+venter til efteråret, hvor vi skal have den her klima- og trafikkommission, der skal komme med
+forslagene til regeringen. Det glæder vi os til, og
+vi vil meget gerne indgå i, hvordan man kan
+løse det på transportområdet. Men det, jeg helt
+konkret spurgte statsministeren om, er: Holder
+regeringens pejlemærke stadig væk? Og vil
+statsministeren bekræfte det, statsministeren
+sagde på sit pressemøde - som jeg har hørt i radioen, for det kan man bagefter - om, at han gerne være med til at stramme pejlemærket på
+transportområdet, der i dag er på 25 pet. i 2030,
+yderligere frem til 2030? Det håber jeg statsministeren vil bekræfte, og så vil vi gerne hjælpe
+med det.";Lydudfald
+65075;Time;;Kl. 14:02
+65087;title_name;Statsministeren.;Formanden
+65113;Time;;Kl. 14:02
+65153;title_name;":
+Jeg vil ikke gå ind i en stor talkrig på nuværende
+tidspunkt, men jeg vil gerne sige til fru Pia Olsen
+Dyhr, at jeg til enhver tid vil bekræfte, hvad jeg
+tidligere har sagt.";Anders Fogh Rasmussen
+65338;Time;;Kl. 14:03
+65350;title_name;"Tak til fru Pia Olsen Dyhr og tak til statsministeren.
+Hermed sluttede spørgetimen.
+
+1676
+
+Onsdag den 20. februar 2008 (S 565)
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+Spm. nr. S 565";Formanden
+65606;Time;1) Til finansministeren af:;Kl. 14:03
+65660;name_party;":
+Hvordan vil ministeren sikre et sundshedsvæsen i verdensklasse i Region Midtjylland, når regionen i 2007 har et forventet driftsunderskud
+på 430 mio. kr. og et forventet driftunderskud i
+2008 på 570 mio. kr., når hertil kommer effektivisering på 2 pct.?";Jens Peter Vernersen
+65927;title_name;"Det første spørgsmål er til finansministeren af
+hr. Jens Peter Vernersen, og det er finansministeren, der får ordet for at svare.";Formanden
+66066;Time;;Kl. 14:03
+66106;title_name;":
+Tak for det. Jeg bliver spurgt om, hvordan regeringen vil bidrage til at sikre et sundhedsvæsen i
+verdensklasse, ikke bare i al almindelighed, men
+i Region Midtjylland i særdeleshed. Og det svarer jeg meget gerne på, for det vil regeringen jo
+gøre ved at fortsætte den kurs, vi har lagt, hvad
+der jo, hvis vi ser helt øjeblikkeligt på det, betyder, at regionerne, med den aftale der blev gennemført sidste år, har fået tilført 2,2 mia. kr. i
+2007 for at løfte niveauet, og at der oven på det
+altså blev indgået en aftale, som rummede 2,3
+mia. kr. til sundhedsområdet i 2008. Et stort løft,
+4,9 pet. i 2007 plus 3,9 pet. i 2008. Det er jo et af
+hovedbidragene til at sikre et sundhedsvæsen i
+verdensklasse og jo også en af forklaringerne på,
+at vi siden 2001 har kunnet konstatere, at sundhedsvæsenet har det stadig bedre, har stadig
+mere aktivitet og afkortede ventetider.
+Ved siden af det har regeringen jo altså også
+aktuelt planer om at afsætte 25 mia. kr. fra kvalitetsfonden til målrettede investeringer i den
+danske sygehussektor.";Lars Løkke Rasmussen
+67154;Time;;Kl. 14:05
+67166;title_name;Hr. Jens Peter Vernersen.;Formanden
+67201;Time;;Kl. 14:05
+67226;name_party;":
+Nu er spørgsmålet jo aktualiseret af, at man i en
+enkelt region har et meget, meget stort underskud, som jo helt sikkert ikke kan undgå at give
+problemer for borgerne i det meget, meget store
+område. Hvis det var på et andet område, hvor
+
+finansministeren selv kom med et underskud på
+0,5 mia. kr., ville det jo sikkert være årsag til rynkede bryn og mange, mange overvejelser.
+Hvad er årsagen til, at det er gået så galt? Er
+det en bloktilskudsårsag, som man skriver i
+»Dagens Medicin«, og hvilken betydning vil det
+her få for behandlingen af borgerne i regionen,
+og hvordan ser det ud ude i de andre regioner,
+for det er jo det, der er det afgørende? Det er jo
+ikke så afgørende, at finansministeren slynger
+om sig med tal. Det, der er afgørende, er jo,
+hvordan borgerne bliver behandlet, hvis man
+skal igennem sådan nogle sparerunder, og om
+de så kan være sikre på at få den optimale behandling.";Jens Peter Vernersen
+68136;Time;;Kl. 14:05
+68148;title_name;Ministeren.;Formanden
+68169;Time;;Kl. 14:05
+68209;title_name;":
+Hvis der ønskes noget præcis viden om den
+manglende budgetstyring i Region Midtjylland,
+er jeg nok ikke den rigtige at rejse spørgsmålet
+til. Det er jo et anliggende for regionsrådet og for
+regionsrådets formand Bent Hansen, partikollega til spørgeren. Jeg er ikke bekendt med, at der
+generelt i forhold til regionerne skulle være økonomiproblemer. Jeg har selvfølgelig på afstand
+opnået informationer om, at der har været et
+skred i økonomien i Region Midtjylland mellem
+det, man selv har budgetlagt, og sådan som tingene har udviklet sig, men det må altså bero på
+forklaringsmodeller, der skal findes i Region
+Midtjylland, og som jeg ikke er i besiddelse af.
+Hvad jeg ved, er, at vi har indgået en aftale
+med de fem regioner under et, som formanden
+for de danske regioner, der jo så også er formand
+for regionsrådet i Region Midtjylland, har betragtet som en god, solid aftale, der har bidraget
+til at fremme ambitionen om et sundhedsvæsen
+i verdensklasse. Og er der så nogle forhold omkring styringen i Region Midtjylland, der giver
+anledning til et skred, så er det jo altså der, man
+må finde forklaringerne.";Lars Løkke Rasmussen
+69333;Time;;Kl. 14:07
+69345;title_name;Hr. Jens Peter Vernersen.;Formanden
+69380;Time;;Kl. 14:07
+69405;name_party;":
+Der er jo ikke nogen som helst tvivl om, at når
+man melder ud, at man har underskud for 2007
+nær 0,5 mia. kr., og man melder, at noget tilsvarende vil forekomme her i 2008, så må det have
+nogle konsekvenser, og da det jo er finansmini-
+
+Onsdag den 20. februar 2008 (S 565)
+steren, der sidder ved bordenden, når disse forhandlinger foregår, må det jo også være noget,
+som finansministeren i hvert fald er meget, meget optaget af. Og lad mig så sige, at jeg tror, at
+man skal passe meget på med at sige det med, at
+man har et sundhedsvæsen i verdensklasse, for
+der tror jeg altså at man mangler meget. Man
+skal passe på, at det ikke bare bliver et slogan.
+Allerede i dag kan man se, hvordan det f.eks. ser
+ud på hjerteområdet, hvor det virkelig er galt,
+og hvor hjertepatienterne taber i Danmark, fordi
+ventelisterne bare over de sidste 2 år er eksploderet. Det har vi tidligere talt om er et kæmpe
+problem, som heller ikke bliver løst med denne
+finanslov, men det aktuelle spørgsmål er: Hvad
+er årsagen til, at det sker? Er det bloktilskuddenes skævvridning, og hvilken betydning får det
+for behandlingerne, at man skal igennem så store besparelser?";Jens Peter Vernersen
+70566;Time;;Kl. 14:08
+70578;title_name;Finansministeren.;Formanden
+70605;Time;;Kl. 14:08
+70645;title_name;":
+Når der spørges om bloktilskuddet, kan man sige, at den måde, som pengene bringes i spil på
+de fem regioner imellem, jo er kendt og har været det længe, også forud for de budgetter, der er
+vedtaget i Region Midtjylland. Det er jo i øvrigt
+en model, som baserer sig på et forarbejde, som
+Danske Regioner, dengang det hed Amtsrådsforeningen, selv har deltaget i, så det er sådan
+set kendt stof, og det er i øvrigt modeller - hvad
+spørgeren jo godt ved - som, hvis man skal sige
+det lidt hurtigt, har betydet, at bl.a. Region
+Midtjylland har fået en relativt større del af
+sundhedsudgifterne stillet til rådighed, end man
+havde historisk under det gamle amtsregime. Så
+man må jo kort kunne sige, at bloktilskudsmodellerne sådan set er i favør af det jyske.
+Jeg kan ikke svare på, hvad det er for et økonomiskred, der har fundet sted i Region Midtjylland. Det må man spørge om i den region. Jeg
+ved jo, at man i august sidste år opererede med
+balance, at man i september fremlagde en økonomirapport, hvori man pludselig vurderede et
+underskud på 260 mio. kr., og at man allerede
+måneden efter opjusterede underskuddet til 430
+mio. kr. En sådan forandring, altså en ubalance
+på op mod 0,5 mia. kr., der opstår på ganske få
+måneder, må jo skyldes noget økonomistyring,
+som må give Region Midtjyllands regionsråd
+anledning til en del eftertanke.
+
+1677";Lars Løkke Rasmussen
+72002;Time;;Kl. 14:09
+72014;title_name;Hr. Jens Peter Vernersen for et sidste spørgsmål.;Formanden
+72073;Time;;Kl. 14:09
+72098;name_party;":
+Nu er det jo meget regionen, som finansministeren taler om, men det, der jo interesserer mig, er,
+hvad konsekvensen er for borgerne derovre. For
+problemet er vel, at hvis det er sådan, at man
+også i 2008 har så store besparelser i udsigt, så
+har det vel en konsekvens for behandlingen af
+borgerne, og hvis ikke man bliver behandlet inden for den 4-ugers-frist, som man har, kan man
+jo søge behandling et andet sted, og så bliver
+udgifterne for en region jo endnu større.
+Det, som jeg synes man bør være optaget af og det er også tænkeligt, at der skal gås videre
+med det - er jo, at vi skal have et svar, der siger,
+at det her ikke på noget punkt overhovedet betyder en ringere behandling af borgerne, for det
+er jo ikke bare det her underskud, man skal spare op i år og sidste år, men det er jo derudover
+også den effektivisering, der ligger i de aftaler,
+som jo er ganske betydelig, og som jo ligger i
+størrelsesordenen 2 pet., og som vil finansiere
+stort set halvdelen af den aftale, der er indgået.";Jens Peter Vernersen
+73112;Time;;Kl. 14:10
+73124;title_name;Finansministeren.;Formanden
+73151;Time;;Kl. 14:10
+73191;title_name;":
+Nu tror jeg, det var hr. Jens Peter Vernersens
+eget parti, der, da vi lavede strukturreformen, i
+virkeligheden var meget, meget optaget af at
+prøve at holde fast i det gamle amtsregime med
+egne indtægter og politisk ansvar, og derfor synes jeg egentlig, at hr. Jens Peter Vernersen burde være den første til at understrege, hvor svarene på de spørgsmål, der stilles, skal hentes. De
+skal hentes i Region Midtjylland.
+Vi har indgået en aftale med regionerne under et. Vi mødes igen til sommer og gør status
+over det. Det er en god og rummelig aftale, som
+altså øger sundhedsudgifterne med 4,9 pet. i
+2007 og med 3,9 pet. i indeværende år. Det er et
+løft til alle regioner, også til Region Midtjylland.
+Herfra er det så op til den enkelte region at styre
+økonomien, og der er øjensynligt en eller anden
+problemstilling i Region Midtjylland, når man
+altså på ganske få måneder kan konstatere en så
+stor ubalance. Derfor skal svarene på de spørgsmål findes i Region Midtjylland. Det er politikerne i Region Midtjylland, der - inden for den
+
+1678
+
+'
+
+Onsdag den 20. februar 2008 (S 566)
+
+ramme, vi har aftalt - har ansvaret for at drive
+sundhedsvæsenet.";Lars Løkke Rasmussen
+74352;Time;;Kl. 14:11
+74364;title_name;"Hermed sluttede spørgsmålet.
+Det næste spørgsmål er også til finansministeren af hr. Jens Peter Vernersen. Jeg forstår, at
+spørgsmålet ikke er trukket tilbage. Det står i
+hvert fald på listen.
+
+er interessant for mig. Det er interessant at få et
+svar om, at borgerne i det område i hvert fald
+ikke på grund af disse underskud får en ringere
+behandling.";Formanden
+74726;Time;;Kl. 14:13
+74738;title_name;Finansministeren.;Formanden
+74765;Time;;Kl. 14:13
+74805;title_name;":
+Jeg ved godt, at det kniber ufattelig meget for hr.";Lars Løkke Rasmussen
+74868;Time;"Jens Peter Vernersen at acceptere rollefordelinSpm. nr. S 566
+gen i det danske samfund. Det undrer mig jo såre, al den stund lige præcis hr. Jens Peter Verner2) Til finansministeren af:
+sens eget parti jo om nogen har stået vagt om at";Kl. 14:12
+75128;name_party;":
+fastholde et regionalt ansvar.
+Hvilke initiativer vil ministeren tage efter de ofVi har et system, hvor der er fem folkevalgte
+fentliggjorte driftsunderskud i Region Midtjylregionsråd, der har ansvaret for at drive sygeland i henholdsvis 2007 og 2008?
+husvæsenet. Regeringen har et ansvar for at tilvejebringe en økonomi, der gør det muligt. Det";Jens Peter Vernersen
+75487;title_name;"sker i form af økonomiaftaler, som jo kun kan
+Det er finansministeren, der svarer.
+indgås, fordi der er to parter, der sidder over for";Formanden
+75631;Time;"hinanden og siger: Her er der et acceptabelt reFinansministeren (Lars Løkke Rasmussen):
+sultat.
+Nej, det er det jo så ikke, men det ligger jo i meDet gælder for sygehusøkonomien i indevæget klar forlængelse af det første spørgsmål, og
+rende år, at der sidste år blev indgået en god og
+det kommer svarene i sagens natur så også til,
+rummelig økonomiaftale - i øvrigt med formanfor spørgsmålet går jo på, hvilke initiativer jeg
+den for Region Midtjylland i spidsen, dog ikke i
+målrettet agter at tage med hensyn til Region
+egenskab af det, men i egenskab af formand for
+Midtjylland. Om det kan jeg oplyse, som jeg lige
+Danske Regioner - der altså løfter udgifterne til
+sagde før, at vi jo forhandler økonomi med de
+sygehusvæsenet med et beløb på den gode side
+fem regioner under et. Det gør vi i de årlige øko- af 2 mia. kr. Herfra er det på linje med de fire annomiforhandlinger, og det er der sådan set ikke
+dre regioner op til Region Midtjylland at styre
+nogen planer om at ændre. Det ville være et
+egen økonomi. Hvis det i øvrigt giver anledning
+mærkeligt og også uheldigt signal over for de
+til nogle problemstillinger, må de samles op i
+øvrige regioner, hvis vi pludselig begyndte at
+foreningen Danske Regioner og tages med, når
+forhandle med enkeltregioner.
+regeringen på ny skal drøfte økonomi med regiKl. 14:12 onerne til sommer.";Kl. 14:12
+76978;Time;;Kl. 14:14
+76990;title_name;Så er det hr. Jens Peter Vernersen.;Formanden
+77037;title_name;;Formanden
+77046;Time;Hr. Jens Peter Vernersen.;Kl. 14:12
+77082;Time;;Kl. 14:14
+77107;name_party;":
+Regeringen har jo et overordnet ansvar for borJens Peter Verners en (S):
+gernes behandling i sundhedsvæsenet i det her
+Finansministeren ved jo lige så godt som jeg,
+land, og derfor kan den vel ikke bare sige, at nu
+hvordan rollefordelingen er, og den er jo netop
+må det gå, som det går, i Region Midtjylland, at
+præcis sådan, som finansministeren siger, nemnu må man gå i gang med besparelser, og så må
+lig at regeringen har ansvaret for at sikre, at der
+man i øvrigt foretage nedskæringer, som jo vil
+også er en økonomi til, at der kan føres en ormedføre en ringere behandling af borgerne i
+dentlig sundhedspolitik. Og det er jo netop proområdet. Det er da uacceptabelt, hvis vi skal
+blemet. Senest har der været problemer med behave et sundhedsvæsen, der nogle steder ikke
+handlingen af kræftpatienter, som må ud af deskal udsættes for disse nedskæringer, som det
+res område, og vi ser i dag, hvordan det er med
+her må medføre. Andre steder skal borgeren så
+hensyn til behandlingen af hjertepatienter. Her
+udsættes for det. For det er jo borgerne, det her
+lider mange, og det har vi diskuteret tidligere.
+drejer sig om, det er egentlig ikke systemet, der
+
+Onsdag den 20. februar 2008 (S 566)
+Det kan altså ikke nytte noget, at ministeren
+bare siger, at det må regionerne selv om, hvis det
+er sådan, at det her får konsekvenser for borgerne. Bliver borgerne på nogen måde behandlet
+ringere, når man skal igennem disse besparelser,
+er det fuldstændig uden betydning, at man skal
+gennem besparelser på 0,5 mia. kr. for det gamle
+år og åbenbart også 0,5 mia. kr. for 2008.";Jens Peter Vernersen
+78690;Time;;Kl. 14:15
+78702;title_name;Finansministeren.;Formanden
+78729;Time;;Kl. 14:15
+78769;title_name;":
+Det er jo en mærkelig leg med ord. Altså, situationen er den, at der er flere ressourcer til rådighed til drift af sygehuse i alle landets regioner.
+Så er det et politisk og administrativt ansvar i
+den enkelte region at administrere den her stadig større ramme. Det er der øjensynlig en eller
+anden problemstilling om i Region Midtjylland
+- i Region Midtjylland. Jamen så stil nogle spørgsmål til Region Midtjylland.
+Der er jo grundlæggende to muligheder. Enten fastholder vi, at vi har et regionalt drevet
+sundhedsvæsen, og så er det altså de folkevalgte
+politikere, der må stå vagt om at omsætte de aftaler, de selv har indgået, til handling: eller også
+fastholder vi ikke det.
+Det ville da være noget underligt noget, hvis
+jeg pludselig skulle sætte Region Midtjylland
+under administration - eller jeg ved ikke, hvad
+det er, hr. Jens Peter Vernersen forestiller sig. I
+min optik er der en folkevalgt region, der har
+ansvaret for at drive sit sygehusvæsen, og den
+folkevalgte region er medlem af en forening, der
+har indgået en aftale med regeringen, som er
+rummelig, og som har givet et historisk løft til
+sundhedsområdet i indeværende år.";Lars Løkke Rasmussen
+79923;Time;;Kl. 14:16
+79935;title_name;Hr. Jens Peter Vernersen for et sidste spørgsmål.;Formanden
+79994;Time;;Kl. 14:16
+80019;name_party;":
+Det er jo helt åbenbart, at ministeren hellere vil
+tale om systemer end at tale om den konsekvens, det har for borgerne, at man nu sikkert
+skal igennem betydelige besparelser. Det kan
+ikke undgås, at de rammes, og derfor er der
+langt til at have et rigtig godt sundhedsvæsen.
+Det er rigtigt, at der er bevilget yderligere beløb
+over årene, men der har jo ikke været en stigning i væksten i økonomien under denne regering i forhold til tidligere regeringer. Det ligger
+der jo ganske præcise opgørelser af fra Folketin-
+
+1679
+
+gets økonomigruppe, som har beregnet, hvordan det her har udviklet sig.
+Problemet er jo, at der ikke er økonomi til at
+behandle de mange flere patienter. Det er derfor,
+vi har ventelister på kræftområdet, også uanset
+diskussionen om akutbehandling. Vi har ventelister på hjerteområdet, vi har medicinske patienter, der ligger på gangene, og det har vi, uanset at regeringen mener, at vi har verdens bedste
+sundhedsvæsen.
+Jeg tror, at borgerne ser helt anderledes på
+det. De ved godt, at vi ikke har det, for i så fald
+blev borgerne behandlet. Vi har ikke et robust
+sundhedsvæsen i Danmark. Det ved finansministeren godt, for finansministeren har haft ansvaret for det her som sundhedsminister, og finansministeren ved jo også, hvordan udviklingen
+har været, og har selv stået med alle kræftproblemerne. Så derfor synes jeg måske, at man er
+lidt langt ude, når man gang på gang siger, at vi
+er bedre end alle andre, når virkeligheden er, at
+det er vi ikke.";Jens Peter Vernersen
+81511;Time;;Kl. 14:18
+81523;title_name;Finansministeren.;Formanden
+81550;Time;;Kl. 14:18
+81590;title_name;":
+Det er der skam da heller ingen der siger. Jeg har
+jo ikke sagt, at vi har verdens bedste sundhedsvæsen. Jeg har sagt, at vi har en ambition om at
+skabe et sundhedsvæsen i verdensklasse, og jeg
+kan jo på alle tørre tal og parametre omkring
+kvalitet og behandlingskapacitet m.v. se, at det
+bevæger sig i den rigtige retning.
+Det er jo derfor, ventetiden er faldet med i
+omegnen af 20 pet. siden regeringsskiftet i 2001.
+Det er derfor, danske patienter er blandt de patienter i hele Europa, der har de bedste patientrettigheder - bl.a. muligheden for at søge væk
+og lade sig behandle et andet sted uden hensyn
+til forsikringspolice eller friværdi, hvis der er
+udsigt til en ventetid på mere end 1 måned. Det
+er derfor, der også er fremgang i kvaliteten af
+den danske kræftbehandling. Der er sådan set er
+fremgang hele vejen rundt, men det er jo ikke
+det samme som at sige, at vi er mål eller har verdens bedste sundhedssystem. Det har vi ikke,
+men vi er på vej.
+Hvis vi skal komme helt i mål, skal det jo altså ske i et dynamisk samspil mellem staten og
+regionerne, og der er der en rollefordeling: En
+gang om året aftaler vi en økonomi. Den er aftalt
+for i år. Det er en meget, meget rummelig økonomi. Den er 2,2 mia. kr. større end sidste år. Det er
+
+1680
+
+Onsdag den 20. februar 2008 (S 634)
+
+en aftale, som Bent Hansen som formand for
+Danske Regioner har indgået med denne regering, og herfra er der altså op til den enkelte region selv at oversætte den.
+Er der grundlæggende økonomistyringsproblemer i Region Midtjylland, må de løses i Region Midtjylland. Hvis hr. Jens Peter Vernersen på
+et tidspunkt taber tålmodigheden med Region
+Midtjylland, må hr. Jens Peter Vernersen jo fremsætte et forslag om, at vi nedlægger regionerne.";Lars Løkke Rasmussen
+83335;Time;;Kl. 14:19
+83347;title_name;"Hermed sluttede spørgsmålet. Vi siger tak til hr.
+Jens Peter Vernersen, og vi siger tak til finansministeren.
+Næste spørgsmål er til fødevareministeren af
+hr. Per Clausen.
+
+paudvalg afviste de tre antibiotikaresistente
+gmo-produkter, som jeg refererer til i spørgsmålet.
+Jeg vil så bare spørge ministeren, om det ikke
+er rigtigt forstået, at den europæiske lægemiddelstyrelse og FN's Verdenssundhedsorganisation meget klart siger, at den her antibiotikaresistens er i forhold til et antibiotikum, som er af
+kritisk nødvendighed i behandlingen af såvel
+dyr som mennesker, og at man derfor ikke - hvis
+man tog det synspunkt alvorligt - ville kunne
+godkende den her gmo ifølge de EU-regler, der
+eksisterer.
+Kan ministeren ikke desuden bekræfte, at de
+EU-regler, som hun refererer til, aldrig er blevet
+godkendt i EU's Ministerråd?
+Så vi har altså to centrale problemer her: For
+det første har vi at gøre med en gmo, som ifølge";Formanden
+84280;Time;"folk med forstand på lægemidler er dybt probleSpm. nr. S 634
+matisk. Derfor er der jo også stor videnskabelig
+tvivl om EFSA's synspunkter, altså fødevaremi3) Til fødevareministeren af:
+nisterens synspunkter.";Kl. 14:19
+84505;name_party;":
+For det andet er det grundlag, man træffer beVil ministeren, på baggrund af at et flertal i Folslutningerne på, i grunden aldrig nogen sinde
+ketinget har afvist tre gmo-majstyper med henblevet vedtaget i EU.
+visning til, at de indeholder en markør, som er";Per Clausen
+84772;Time;antiresistent mod antibiotika, tage initiativ til at;Kl. 14:21
+84837;title_name;"få forbudt gmo-majsen MON 863, der indeholFødevareministeren.
+der den samme antibiotikaresistente markør?";Formanden
+84952;Time;;Kl. 14:21
+84989;title_name;:;Eva Kjer Hansen
+85002;title_name;"Det er jo sådan, at både EMEA's og WHO's synsFødevareministeren.
+punkter er indgået i vurderingen hos den her";Formanden
+85121;Time;ekspertgruppe. De synspunkter, som de har haft;Kl. 14:19
+85205;title_name;":
+om den værdi, man skulle tillægge det her omJeg kan svare hr. Per Clausen: Nej, jeg vil ikke
+råde, har jo netop været en del af den behandtage initiativ til at få forbudt det omtalte proling, der har fundet sted i ekspertgruppen. Det
+dukt. Jeg henholder mig til, at der ifølge eksper- er sådan, at ekspertgruppen, altså EFSA, i marts
+terne i den europæiske fødevaresikkerhedsauto- 2007 vurderede de her ting på ny ud fra de opritet - og også ifølge danske eksperter ved Føde- lysninger, der var kommet fra henholdsvis
+vareinstituttet - ikke er nogen risiko for øget reEMEA og WHO. Og man vurderede, at de ikke
+sistens mod antibiotika som følge af brugen af
+ændrede ved konklusionen, nemlig at det omdet pågældende gen i majs MON 863. Derfor er
+talte gen ikke udgør nogen risiko for dyrs eller
+der ikke et retsligt grundlag for at indføre forplanters sundhed eller for miljøet. Det er jo så
+bud mod brugen af MON 863 i fødevarer og foogså den afgørelse, som danske eksperter har
+der.
+været enige i. Så der er jo blevet lyttet til de";Eva Kjer Hansen
+86248;Time;synspunkter, der har været fremført, og de er;Kl. 14:20
+86306;title_name;"indgået i vurderingen.
+Hr. Per Clausen.
+I forhold til spørgsmål nr. 2 om den måde,";Formanden
+86398;Time;hvorpå man beslutter på det her område, har vi;Kl. 14:20
+86462;name_party;":
+et regelsæt, der gøres gældende, hvor forsigtigDer er ikke noget nyt i ministerens synspunkt.
+hedsprincippet spiller ind, og hvor man sørger
+Det var sådan set det samme synspunkt, minifor netop at tage højde for de synspunkter, der
+steren fremførte, da et flertal i Folketingets Euro- måtte være på området.
+
+(211)
+Onsdag den 20. februar 2008 (S 634)";Per Clausen
+86825;Time;;Kl. 14:23
+86837;title_name;Hr. Per Clausen.;Formanden
+86864;Time;;Kl. 14:23
+86881;name_party;":
+Det, der jo er kendsgerningen i den her sag, er,
+at der er uenighed blandt de videnskabelige eksperter. EFSA, som beskæftiger sig med fødevarer, siger, at det antibiotikum, som vi her snakker om resistens i forhold til, ikke spiller nogen
+rolle i behandlingen af mennesker og dyr. Den
+europæiske lægemiddelstyrelse siger: Jo, det gør
+det. WHO siger: Jo, det gør det. Og så når EFSA
+frem til, at de har ret, og at den europæiske lægemiddelstyrelse og FN's sundhedsorganisation ikke har ret.
+Men synes ministeren ikke, at vi på denne
+baggrund må konstatere, at der er så megen
+tvivl, at forsigtighedsprincippet godt kunne tages i anvendelse, sådan at vi på det grundlag
+ikke vil godkende den her gmo, før vi har fået
+sagen undersøgt endnu en gang og måske også
+har forsøgt at få fat i nogle andre end dem, der
+er part i sagen - nemlig den europæiske fødevaremyndighed - til at træffe den endelige afgørelse?";Per Clausen
+87798;Time;;Kl. 14:24
+87810;title_name;Fødevareministeren.;Formanden
+87839;Time;;Kl. 14:24
+87876;title_name;":
+Jo, men det omfatter jo altså også de danske eksperter på området, der er enige i den her indstilling. Jeg synes, at vi her har med noget at gøre,
+hvor vi er nødt til at have tillid til, at eksperterne
+laver en ordentlig vurdering af den risiko, de
+mener der måtte være enten for menneskers
+sundhed eller for miljøet. Jeg føler, at vi bliver
+nødt til at basere os på eksperternes udsagn, eftersom de har inddraget de vurderinger, der er
+på området, det vil sige de mulige risici, som de
+mener der er. Og der er jo foregået en vurdering
+i forhold til netop de oplysninger og de synspunkter, der har været fremført fra andre steder,
+bl.a. fra den europæiske lægemiddelindustri,
+altså EMEA's, side og fra WHO's side.
+Når vi har en vurdering, som siger, at man
+ikke fagligt mener, at der er en øget risiko, så er
+det den linje, vi skal følge.
+
+1681";Eva Kjer Hansen
+88732;Time;;Kl. 14:24
+88745;title_name;Hr. Per Clausen.;Formanden
+88772;Time;;Kl. 14:24
+88789;name_party;":
+Jeg kan forstå, at fødevareministeren nærer så
+stor tillid til de europæiske fødevaremyndigheder, at hun også mener, at de bedre end den
+europæiske lægemiddelstyrelse og bedre FN's
+sundhedsorganisation WHO er i stand til at vurdere, om et antibiotika bruges i forhold til behandling af dyr og mennesker. For det er jo i virkeligheden det, ministeren siger. Stillet over for
+to fuldstændig modsatrettede udsagn fra disse
+tre højt respekterede internationale organer siger ministeren: Jeg er ikke i tvivl, for EU har besluttet, at det er fødevaremyndighederne, der afgør, hvordan det forholder sig med antibiotikaresistensen, når der er tale om godkendelse af
+gmo'er.
+Man kunne jo godt få det indtryk, at det vigtigste er at sikre, at man får gmo'er godkendt
+hurtigt og smertefrit snarere end at lytte til de
+eksperter, som har en anden opfattelse end den
+europæiske fødevaremyndighed.";Per Clausen
+89684;Time;;Kl. 14:25
+89696;title_name;Fødevareministeren.;Formanden
+89725;Time;;Kl. 14:25
+89762;title_name;":
+Det, jeg synes er afgørende, er, at de forskellige
+synspunkter bliver inddraget. Og så er det jo en
+vurdering af vigtigheden, og hvor meget det betyder i forhold til en eventuel risiko. Jeg vil også
+gerne fastholde, at de danske eksperter på området er enige i den her vurdering. Så det er altså
+både på europæisk niveau og på nationalt niveau, at vi har de her udsagn fra eksperterne.
+Jeg synes ikke, det er rigtigt at stille det op,
+som hr. Per Clausen gør ved at sige, at nogle eksperter har større betydning end andre. Det, der
+jo er sket er, at de forskellige eksperters vurdering er indgået i den samlede bedømmelse af
+den risiko, der er forbundet med det her.";Eva Kjer Hansen
+90440;Time;;Kl. 14:26
+90452;title_name;"Hermed sluttede spørgsmålet. Tak til fødevareministeren.
+Det næste spørgsmål er til ministeren for
+sundhed og forebyggelse, og det er også her hr.
+Per Clausen, der er spørger.
+
+1682
+
+Onsdag den 20. februar 2008 (S 636)";Formanden
+90681;Time;"Spm. nr. S 636
+4) Til ministeren for sundhed og forebyggelse af:";Kl. 14:26
+90764;name_party;":
+Vil ministeren fastholde sin afvisning af at finde
+en alternativ finansiering af vaccine mod livmoderhalskræft, hvis Socialdemokraterne, SF og
+Dansk Folkeparti fastholder deres afvisning af at
+tage penge fra de syge ved at forringe medicintilskudet, som de gav udtryk for i bl.a. Berlingske Tidende den 8. februar 2008?";Per Clausen
+91097;title_name;"Det er ministeren, der svarer først. Værsgo, hr.
+minister.";Formanden
+91165;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Som hr. Per Clausen ved, så pågår der aktuelt
+forhandlinger med alle Folketingets partier undtagen Enhedslisten, som har valgt at forlade forhandlingerne, om indførelse af en vaccine mod
+livmoderhalskræft og finansieringen heraf. Jeg
+kan derfor ikke på nuværende tidspunkt udtale
+mig nærmere om den sag og de pågående forhandlinger. Jeg vil endvidere afstå fra at kommentere, hvad Berlingske Tidende måtte have
+bragt af udtalelser fra politikere den 8. februar
+2008.";Kl. 14:26
+91703;Time;;Kl. 14:27
+91715;title_name;Hr. Per Clausen.;Formanden
+91741;Time;;Kl. 14:27
+91758;name_party;":
+Det er jo bekvemt nok for ministeren, at han kan
+indtage det standpunkt. Men det, der foregår for
+tiden, er jo, at ministeren bliver udsat for hård
+kritik af dem, han sidder og forhandler med.
+F.eks. har SF jo klart sagt, at det er deres opfattelse, at hvis de ikke bøjer sig for, at det er medicintilskuddet, der bliver forringet, så vil ministeren
+ikke medvirke til at gennemføre den her vaccine.
+Derfor kunne det nok være interessant at høre, om ministeren tillægger det at få gennemført
+den her vaccine så stor vægt, at han også kunne
+være indstillet på at finde andre finansieringsmodeller end den, han selv har foreslået.";Per Clausen
+92397;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:28
+92460;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Jeg fortsætter de forhandlinger, som Enhedslisten har valgt at forlade. Jeg forhandler med
+dem, der bliver ved forhandlingsbordet, og ikke
+med Enhedslisten i Folketingssalen.";Kl. 14:28
+92706;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:28
+92773;Time;;Kl. 14:28
+92790;name_party;":
+Det forstår jeg godt at ministeren siger. Men så
+står vi tilbage med den meget interessante situation, at vi må konstatere, at det åbenbart er rigtigt, at det forholder sig sådan, at ministeren,
+hvis han ikke kan få tilslutning til at finansiere
+indførelsen af livmoderhalskræftvaccine ved at
+forringe medicintilskuddet, ikke vil indføre den.
+For det er jo det synspunkt, og det er jo det argument, som de, der gerne diskuterer det her offentligt - og det er jo partier, som også er i forhandling med ministeren - siger er deres argument for at deltage i forhandlingerne. Og så er
+det klart, at situationen jo er en anden, end hvis
+man troede, at ministeren virkelig ønskede, at
+den her livmoderhalskræftvaccine skulle indføres, og at han derfor også var indstillet på at finde andre finansieringsmuligheder, hvis det var
+det nødvendige.";Per Clausen
+93639;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:29
+93701;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Når forhandlingerne er afsluttet, kommer jeg
+gerne ned i Folketingssalen og refererer dem for
+hr. Per Clausen.";Kl. 14:29
+93883;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Per Clausen.";Kl. 14:29
+93950;Time;;Kl. 14:29
+93967;name_party;":
+Det er klart, at ministeren vil få anledning til at
+redegøre for de forringelser, han vil gennemføre
+af medicintilskuddet, når han har gennemført
+dem. Det er der sådan set ikke nogen som helst
+tvivl om. Jeg synes bare, at vi har en vis interesse
+i at få klargjort, om det forholder sig sådan, at
+det hele vejen igennem har været absolut ultimativt fra ministerens side, at det var medicintilskuddet, der skulle forringes, og at han derfor
+ville trodse det flertal i det danske Folketing, der
+
+Onsdag den 20. februar 2008 (S 682)
+den 8. december 2007 var for at gennemføre vaccinen uden at gennemføre forringelsen.
+Det er uvist, om den skræk, som nogle har givet udtryk for, har noget på sig - altså at så kunne regeringen finde på at sabotere det her vaccinationsprogram - eller om det bare handler om,
+at der er nogle partier, som ikke ønsker at bruge
+det flertal, der er, til at sikre, at man kan få livmoderhalskræftvaccine uden at forringe medicintilskuddet.";Per Clausen
+94942;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:30
+95004;Time;"Ministeren for sundhed og forebyggelse (Jakob
+Axel Nielsen):
+Det er jo ikke nogen hemmelighed at røbe, at de
+aktuelle forhandlinger handler om at indføre en
+helt epokegørende og meget, meget god vaccine
+til alle landets piger over 12 år. Det kan jeg kun
+konstatere at Enhedslisten ikke ønsker at være
+med til. De videre seriøse forhandlinger foregår
+i forhandlingslokalet med de partier, som ønsker
+at deltage.";Kl. 14:30
+95425;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til beskæftigelsesministeren af hr. Eigil Andersen.";Kl. 14:30
+95592;Time;"Spm. nr. S 682
+5) Til beskæftigelsesministeren af:";Kl. 14:30
+95663;name_party;":
+Hvad vil ministeren gøre for at kompensere borgere på SU, starthjælp, kontanthjælp, kontanthjælp under kontanthjælpsloftet, dagpenge, ledighedsydelse, efterløn, førtidspension og folkepension for de stigende mad- og energipriser,
+der ifølge Danske Bank i gennemsnit er steget
+med 4.700 kr. pr. person det seneste år??
+Skriftlig begrundelse
+De stærkt stigende madpriser vejer meget tungt
+i budgettet, når man er på starthjælp, kontanthjælp, kontanthjælp under kontanthjælpsloftet,
+ledighedsydelse eller på SU. Men de mærkes i
+høj grad også af arbejdsløse på dagpenge, efterlønsmodtagere, førtidspensionister og folkepensionister. Dette er en forringelse af den daglige
+økonomi, som må udløse overvejelser om, hvor-
+
+1683
+
+dan man fra statens side kan kompensere disse
+grupper for de stigende priser.
+Tredje næstformand (Holger K. Nielsen):
+Beskæftigelsesministeren.";Eigil Andersen
+96540;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Spørgeren efterlyser i sin begrundelse overvejelser om, hvordan man fra statens side kan kompensere borgere på offentlige ydelser for de stigende priser. Spørgsmålet bygger imidlertid på
+nogle lidt forkerte oplysninger. Danske Bank
+kan ikke bekræfte, at mad- og energipriserne er
+steget med 4.700 kr. pr. person det seneste år. Jeg
+tillader mig derfor at gå ud fra, at spørgerens
+ærinde i virkeligheden er at diskutere reguleringsmekanismen for offentlige ydelser, og den
+skal jeg gerne prøve at forklare for ham, selv om
+området sorterer under Finansministeriet.
+De offentlige ydelser reguleres hvert år med
+den såkaldte satsreguleringsprocent. Principperne i satsreguleringsloven betyder, at overførslerne stiger i takt med den udbetalte årsløn for beskæftigede. Overførselsmodtagere får således
+via satsforhøjelser del i den velstandsfremgang,
+som skabes af de mennesker, der til enhver tid er
+i arbejde, hverken mere eller mindre. Principperne for reguleringen af overførselssatser i
+Danmark er mere fordelagtige for overførselsmodtagere end de gældende principper i de fleste andre lande.
+Under normale omstændigheder sikrer satsreguleringen, at overførslernes købekraft vil
+vokse hvert år. Det har været tilfældet siden
+1998 - uden undtagelse. I den seneste økonomiske redegørelse fra Finansministeriet, som blev
+offentliggjort sammen med finanslovforslaget,
+skønnes denne tendens at fortsætte i 2008 og i
+2009. Forbrugerpriserne skønnes med andre ord
+at stige mindre end de årlige satsreguleringer af
+overførselsindkomsterne. Regeringen har på
+den baggrund ingen planer om at ændre i de nuværende reguleringsprincipper for ydelsesniveauerne til overførselsmodtagere.";Kl. 14:30
+98276;Time;"Tredje næstformand (Holger K. Nielsen):
+Tak. Hr. Eigil Andersen.";Kl. 14:32
+98351;Time;;Kl. 14:32
+98371;name_party;":
+Det kommer da bag på mig, at det drages i tvivl,
+at Danske Bank har sagt det, som jeg refererede,
+men vi tager så det, som ministeren siger, som
+udgangspunkt, nemlig at Danske Bank tilsyne-
+
+1684
+
+Onsdag den 20. februar 2008 (S 682)
+
+ladende ikke har sagt, at leveomkostningerne
+for den enkelte borger er steget med 4.700 kr. i
+gennemsnit pr. år.
+Men det, som vi alle sammen ved, er, at fødevarepriserne er stærkt stigende. Det oplever vi,
+når vi står i supermarkedet, og når vi står hos
+bageren og køber ind, og vi ved også, at energipriserne har været kraftigt stigende, og det har
+stor betydning for, hvad det koster at opvarme
+ens bolig. Jeg kan også nævne, at jeg forleden
+dag i Berlingske Tidende, som ingen kan beskylde for at være en SF-avis, så, at flydende brændsel er steget med 23 pet. det seneste år, smør og
+spiseolie 20 pet., prisen på mælk 18 pet., kartofler 17 pet., busbilletter 9 pet. osv. osv.
+Der tegner sig et billede af, at den daglige
+husholdning simpelt hen har været udsat for
+nogle kolossale prisstigninger, og det rejser et
+ganske særligt problem for de mennesker, som
+har en meget lille indtægt. Det er bl.a. nogle af
+dem, som jeg har nævnt: mennesker på starthjælp, mennesker på kontanthjælp, herunder
+også under kontanthjælpsloftet, og dagpengemodtagere - både arbejdsløse og dem, der er
+syge og på sygedagpenge. Og der tror jeg ikke at
+det hjælper noget at henvise til, hvordan det tidligere har været med hensyn til den dækning,
+man har fået vedrørende prisstigninger, i forhold til den lønudvikling, der sker.
+Jeg er overbevist om, at det vil vise sig, at de
+her omkostninger ikke kan dækkes af den reguleringsmekanisme, som bruges nu, og derfor vil
+jeg stadig spørge ministeren, hvilke tanker ministeren kan have om at være solidarisk og give de
+her mennesker med små indtægter en håndsrækning, for at de kan klare den daglige økonomi.";Eigil Andersen
+100254;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:34
+100316;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Beskæftigelsesministeriet har kontaktet Danske
+Bank, som har oplyst, at de 4.700 kr. pr. person
+afspejler den almindelige inflation i samfundet.
+Inflationen var i januar 2008 2,9 pet. Der er altså
+ikke blot tale om mad- og energipriser, men også
+dyre lejligheder, ferierejser, nye biler, mærkevaretøj osv. Der er regnet på befolkningen som helhed og ikke blot dem, der f.eks. mere eller mindre midlertidigt er uden arbejde. Dertil kommer,
+at satsreguleringsprocenten, dvs. den sats, som
+
+danner udgangspunktet for stigningen i de offentlige ydelser, jo netop er 2,9 pet. pr. 1. januar.
+Principperne for regulering af overførselsindkomster sikrer altså som sagt ydelsesmodtagernes købekraft. En sammenligning af satsreguleringsprocenten med forbrugerpriserne siden
+1998 viser, at ydelsesmodtagernes købekraft netop ikke er sakket bagud, og ifølge vores prognoser forventes den heller ikke at gøre det hverken
+i 2008 eller 2009.";Kl. 14:34
+101305;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Eigil Andersen.";Kl. 14:35
+101375;Time;;Kl. 14:35
+101395;name_party;":
+Det bliver jo meget en diskussion om tal, og jeg
+er for så vidt holdt op med at diskutere spørgsmålet om Danske Banks tal, fordi det ikke kan
+opklares hundrede procent her på stedet. Men
+jeg er overbevist om, at befolkningen oplever de
+her stigende priser, og jeg er overbevist om, at
+mennesker på overførselsindkomst oplever dem
+i høj grad, fordi udgifterne til mad og boligopvarmning udgør ganske væsentlige poster i et
+budget. Og det er udgifter, som det er helt nødvendigt, at den enkelte har.
+Jeg kan nævne, at prisen på indholdet i en typisk indkøbskurv er steget med 7 pet. i løbet af
+det seneste år, altså fra januar 2007 til januar
+2008. Så hjælper det jo ikke noget, at reguleringsmekanismen for overførselsindkomster er
+2,9 pet., for der er jo et langt spring fra 2,9 pet. til
+7 pct..
+Derfor undrer det mig, at ministeren så vedholdende afviser, at der ligger et problem. Jeg er
+overbevist om, at befolkningen, især de der er
+på de her lave ydelser, oplever et kæmpeproblem. Og jeg har da haft et håb om, at Venstre
+som socialt ansvarligt parti - det vil man gerne
+gøre sig til i hvert fald - også ville være ansvarlig på dette område.";Eigil Andersen
+102553;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:37
+102615;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Jeg vil gerne sige, at den regulering, der finder
+sted, altså ikke finder sted alene på baggrund af
+madpriserne. Men det er jo korrekt, at vi på det
+seneste har set forholdsvis kraftige prisstigninger på nogle fødevarer. Disse prisstigninger kan
+forklares med forskellige årsager, bl.a. dårligt
+vejr og dårlige høstresultater, men de er jo også
+
+Onsdag den 20. februar 2008 (S 682)
+udtryk for en stigende efterspørgsel efter landbrugsvarer på globalt plan.
+Der er generelt forholdsvis store bevægelser i
+fødevarepriserne, bl.a. på grund af udsving i
+høstudbyttet, men den seneste tids prisstigninger på fødevarer har været større i Danmark end
+i resten af EU, og jeg har indtryk af, at Konkurrencestyrelsen aktuelt kigger på dette område.
+Som sagt har regeringen ingen planer om at
+ændre i de nuværende reguleringsprincipper for
+ydelsesniveauer for overførselsindkomster, og
+jeg vil gentage, at siden 1998 er der ikke sket nogen forringelse af købekraften, og det vil der
+heller ikke ske i 2008 eller i 2009.";Kl. 14:37
+103687;Time;"Tredje næstformand (Holger K. Nielsen):
+Hr. Eigil Andersen.";Kl. 14:38
+103757;Time;;Kl. 14:38
+103777;name_party;":
+Jeg tror da, at en del af de forklaringer, der bliver
+givet her på prisstigningerne, er rigtige. Men
+hvad hjælper det mig som kontanthjælpsmodtager under kontanthjælpsloftet, når jeg står henne i supermarkedet? Så kan jeg jo ikke betale
+med en forklaring på, hvorfor priserne er steget.
+Jeg har det kontante problem, at jeg skal betale
+for de købmandsvarer, som jeg har brug for for
+at leve videre i min daglige tilværelse. Og det er
+jo der, behovet er.
+Jeg vil opfordre ministeren til at være kreativ.
+Der kan laves andre ting. Man kunne overveje
+forskellige andre ting end at ændre reguleringen, hvis ministeren ikke vil det. Man kan overveje f.eks. at sænke priserne på sunde fødevarer
+ganske markant gennem tilskud og differentieret moms. Man har indført en ældrecheck - man
+kan diskutere, hvor berettiget eller hvor klog
+den er, men den er der i hvert fald - og der kunne ministeren jo tilsvarende overveje, om han
+ville sende en kompensationscheck for prisstigningerne på fødevarer til de mennesker, der er
+på overførselsindkomst.
+
+1685";Eigil Andersen
+104831;Time;"Tredje næstformand (Holger K. Nielsen):
+Ministeren.";Kl. 14:39
+104895;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Jeg tror, vi er bedst tjent med at fastholde den reguleringsmekanisme, vi har, nemlig at den følger udviklingen i det indeks, jeg beskrev før.
+For modsvaret til det, hr. Eigil Andersen nævner, er jo: Vil hr. Eigil Andersens så, når der er
+kæmpe høstudbytte og priserne falder på et område, have, at vi skal sætte overførselsindkomsterne ned? Jeg tror, det vil være et lidt usundt
+princip at gå ind og kigge på enkelte elementer.
+Vi har jo et afvejet beregningsregnestykke på det
+her område, og mon ikke det sikrer forbrugerne
+bedst, at vi ikke lader os lede af, om brødet bliver dyrere eller billigere? Hvad nu, hvis brødet
+om 3 måneder bliver billigere? Så skal vi vel ikke
+gå ind og sætte kontanthjælpen ned.";Kl. 14:39
+105668;Time;"Tredje næstformand (Holger K. Nielsen):
+Ja tak. Spørgsmålet er afsluttet.";Kl. 14:40
+105753;Time;"Meddelelser fra formanden
+Tredje næstformand (Holger K. Nielsen):
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen,
+torsdag den 21. februar 2008, kl. 9.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.
+Mødet er hævet. (Kl. 14.41).";Kl. 14:40

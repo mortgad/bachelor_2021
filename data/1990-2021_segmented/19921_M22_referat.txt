@@ -1,0 +1,1740 @@
+split;reason;text;value
+0;;"2687
+
+27/11 92: Dagsorden
+
+2688
+
+Meddelelser fra formanden:
+
+22. møde";
+108;Time;"Dagsorden:
+1) Første behandling af lovforslag nr. L 97:
+Forslag til lov om ændring af lov om Klagenævnet for Udbud (udbud af bygge- og anlægsarbejder og indkøb i De Europæiske Fællesskaber).
+Af industriministeren (Anne Birgitte Lundholt).
+2) Første behandling a f beslutningsforslag nr. B
+21:
+Forslag til folketingsbeslutning om statslån
+til iværksættere.
+Af Rahbæk Møller (SF) m.fl.
+3) Første behandling af beslutningsforslag nr. B
+22:
+Forslag til folketingsbeslutning om oprettelse af en reorganiseringsfond.
+Af Rahbæk Møller (SF) m.fl.
+4) Første behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af lov om husdyrsygdomme.
+Af landbrugsministeren (Tørnæs).
+5) Første behandling af beslutningsforslag nr. B
+13:
+Forslag til folketingsbeslutning om private
+forsikringer af landbrugets afgrøder.
+Af Niels Højland (FP) m.fl.
+6) Første behandling af lovforslag nr. L 91:
+Forslag til lov om ændring af lov om individuel boligstøtte og lov om byfornyelse og boligforbedring.
+Af boligministeren (Svend Erik Hovmand).";kl. 10.00
+1143;title_name;"Medlemmer af Folketinget Inger Stilling Pedersen (KRF), Lysholm Christensen (KRF),
+Kofod-Svendsen (KRF) og Ole M. Nielsen
+(KRF) har meddelt mig, at de ønsker skriftligt
+at fremsætte:
+Forslag til lov om ændring af straffeloven.
+(Uagtsomt manddrab og legemsbeskadigelse i
+forbindelse med spiritusindtagelse).
+(Lovforslag nr. L 110).
+Medlemmer af Folketinget Peter Christensen (S), Helen Beim (S), Dorte Bennedsen (S),
+Henning Gjellerod (S), Martin Glerup (S), Lise
+Hækkerup (S), Henrik Dam Kristensen (S),
+Henning Nielsen (S), Løvig Simonsen (S) og
+Trøjborg (S) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om øget indsats for naturgenopretning.
+(Beslutningsforslag nr. B 29).
+Medlemmer af Folketinget Dorte Bennedsen (S), Helen Beim (S), Peter Christensen (S),
+Henning Gjellerod (S), Martin Glerup (S), Lise
+Hækkerup (S), Henrik Dam Kristensen (S),
+Henning Nielsen (S), Løvig Simonsen (S) og
+Trøjborg (S) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om øget indsats for skovrejsning, naturskov og naturformidling.
+(Beslutningsforslag nr. B 30).
+Medlemmer af Folketinget Henning Nielsen
+(S), Henning Gjellerod (S), Gade (SF), Jes
+Lunde (SF), Lone Dybkjær (RV) og Marianne
+Jelved (RV) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om genopretning af Skjern Å.
+(Beslutningsforslag nr. B 31).
+Medlemmer af Folketinget Lise Hækkerup
+(S), Helen Beim (S), Dorte Bennedsen (S), Peter Christensen (S), Henning Gjellerod (S),
+Martin Glerup (S), Henrik Dam Kristensen
+(S), Henning Nielsen (S), Løvig Simonsen (S)
+og Trøjborg (S) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+
+(169)
+2689
+27/11 92: Meddelelser fra formanden
+2690";Formanden
+2909;title_name;"Forslag til folketingsbeslutning om byøkoloForslag til folketingsbeslutning om byøkologisk handlingsprogram.
+gisk handlingsprogram.
+(Beslutningsforslag nr. B 32).
+(Beslutningsforslag nr. B 32).
+Skriftlig fremsættelse af orslag:";Formanden
+3166;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af straffeloven.
+(Uagtsomt manddrab og legemsbeskadigelse i
+forbindelse med spiritusindtagelse).
+(Lovforslag nr. L 110).
+Jeg henviser til de bemærkninger, der ledsager lovforslaget, og anbefaler det til Tingets
+velvillige behandling.";Inger Stilling Pedersen
+3523;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om øget indsats for naturgenopretning.
+(Beslutningsforslag nr. B 29).
+Jeg skal i øvrigt henvise til lovforslagets
+tekst og de bemærkninger, der ledsager det.";Peter Christensen
+3808;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om øget indsatsfor skovrejsning, naturskov og naturformidling.
+(Beslutningsforslag nr. B 30).
+Jeg skal i øvrigt henvise til lovforslagets
+tekst og de bemærkninger, der ledsager det.";Dorte Bennedsen
+4117;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om genopretning af Skjern Å.
+(Beslutningsforslag nr. B 31).
+Jeg skal i øvrigt henvise til forslagets tekst og
+de bemærkninger, der ledsager det, og anbefale det til Tingets velvillige behandling.";Henning Nielsen
+4438;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+
+Jeg skal i øvrigt henvise til beslutningsforslagets tekst og de bemærkninger, der ledsager
+det.
+Den første sag på dagsordenen var:
+1) Første behandling af lovforslag nr. L 97:
+Forslag til lov om ændring af lov om Klagenævnet for Udbud (udbud af bygge- og anlægsarbejder og indkøb i De Europæiske Fællesskaber).
+Af industriministeren (Anne Birgitte Lundholt).
+(Fremsat 18/11 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Lise Hækkerup
+4959;name_party;":
+Lov om Klagenævnet for Udbud blev i foråret 1991 vedtaget af et enigt Folketing efter et
+konstruktivt udvalgsarbejde, hvor vi fik afklaret en del punkter, der var rejst tvivl om. Loven
+tages nu op igen på baggrund af et nyt EF-direktiv.
+Vi kan i Socialdemokratiet støtte de ændringer, der ligger i det lovforslag, vi behandler i
+dag. Vi finder det således positivt, at klagenævnets kompetence nu udvides til også at
+omfatte forsyningsvirksomheder. De regelændringer, det medfører, virker umiddelbart fornuftige. Tilsvarende vil jeg sige om de særbestemmelser, der skal gælde for offshorevirksomhed. Vi synes, det er rigtigt, at der i klagenævnet tages hensyn til dette erhvervs særlige
+forhold. Denne del kan vi således også støtte.
+Der er kun et enkelt punkt, jeg kort vil knytte en kommentar til. Vi vil i Socialdemokratiet
+godt sikre os, at arbejdsmarkedets parter ikke
+får forringet deres klageadgang gennem denne
+lovændring. Ved behandlingen i 1991 forsikrede ministeren os om, at klageadgangen ikke
+ville blive forringet af fremtidige udvidelser af
+ordningen.
+Kan ministeren i udvalgsarbejdet fortsat sikre dette, vil vi medvirke positivt til lovens gennemførelse.
+
+2691
+
+27/11 92: 1. .beh. äff. t. 1. vedr. Klagenævnet for Udbud";Poul Andersen
+6219;name_party;":
+Såvel af bemærkningerne til lovforslaget
+som af ministerens skriftlige tale fremgår det
+tydeligt, hvad meningen er med dette lovforslag - ganske kompliceret læsning i øvrigt. Det
+fremgår også tydeligt, at det er fornuftigt at
+gennemføre det. Ja, det er direkte nødvendigt.
+Vi støtter derfor forslaget og vil gerne medvirke til en hurtig sagsbehandling.";Flemming Hansen
+6596;name_party;":
+Venstre støtter også lovforslaget. Vi mener,
+det er en vigtig del i EF's indre marked, at man
+generelt giver adgang til og fremmer, at større
+offentlige projekter skal ud i offentlig licitation. Det er den måde, man fremmer fri konkurrence på, og det er på den måde, man på
+længere sigt kan skabe ekstra arbejdspladser i
+Europa.
+Jeg vil specielt til dette lovforslag hæfte mig
+ved den mulighed, der er for offshoresektoren
+for at kunne betale en bøde i stedet for at skulle stoppe hele produktionen. Det er en sag,
+som har ligget Danmark meget på sinde i de
+diskussioner, der har været i EF, og det er altså
+en sag, hvor et dansk ønske er blevet accepteret i EF-forhandlingerne.";Charlotte Antonsen
+7295;name_party;":
+Fra SF's side har vi heller ikke store vanskeligheder med denne sag. Vi har bemærket, at
+der er en lex A. P. Møller i lovforslaget, men i
+den her sag er det vel rimelig velbegrundet, så
+det har vi såmænd heller ikke store vanskeligheder med.
+Det er klart, at vi må tage forbehold over for,
+hvad der kan dukke op under udvalgsbehandlingen. Men vi vil i hvert fald give tilsagn om et
+positivt udvalgsarbejde.";Rahbæk Møller
+7719;name_party;":
+Da vi i Folketinget gennemførte et lovforslag, som i øvrigt var fra boligministeren, gående ud på, at også forskellige aktiviteter inden
+for energiforsyning osv. skulle være omfattet af
+EF's udbùdsregler, da var det - skal jeg minde
+Folketinget om - på Fremskridtspartiets foranledning, at vi fik afgivet en betænkning, som
+klart tilkendegav, at når det gjaldt offshorevirksomhed, skulle Danmark over for det øvrige EF tage nøjagtig de samme forbehold, som
+de andre offshorelande i EF har taget, nemlig
+
+2692
+
+bede om at offshoreindustrien ikke bliver omfattet af disse udbudsregler.
+For det første er der det argument, at det for
+Danmarks vedkommende er private virksomheder, som har opnået adgang til at søge i
+Nordsøen ud fra en fuldstændig fri udbudsrunde, hvor alle EF-lande har kunnet byde.
+Derfor er selve begrebet koncessioneret virksomhed i forvejen svækket i Danmark, i og
+med at det ikke er en folketingsbeslutning,
+hvem der skulle have det: det er sket efter et
+frit udbud.
+Men det, der var vores hovedargument dengang, var, at når det drejer sig om offshoreindustrien, er det store beløb, der er tale om. Selv
+den mindste pumpe eller ventil ude på Nordsøen koster så mange penge, at det bliver omfattet af disse udbudsregler. Det betyder, at
+med den tid, det tager at lave et udbud med ni
+ugers frist osv., kan man simpelt hen ikke vente, når man pludselig står og mangler en del
+ude på Nordsøen. Derfor gjorde vi opmærksom på, at hvis man fastholdt dette udbudsdirektiv og ikke tog forbehold i det øvrige EF,
+ville vi pådrage dansk offshoreindustri kæmpestore omkostninger ved, at man simpelt hen
+er nødt til at dublere de mest vitale dele, så
+man har, havde jeg nær sagt, hele pumpestationer liggende på land. Man har ikke tid til at
+lave udbudet i det øjeblik, skaden sker, og man
+sender f.eks. en helikopter til Canada, hvor
+man lynhurtigt må købe hos den udbyder, der
+har noget sådant på lager.
+Forslaget er i øvrigt glimrende. De seneste
+eksempler på karteldannelser - vi har haft vores egen snydedokskandale her i Danmark
+osv. - viser, at der er grund til at have sådan et
+ankenævn, som kan gribe ind i de situationer,
+hvor industrierne enten i de enkelte lande eller
+på tværs af landegrænserne laver underhåndsaftaler, som underminerer det frie udbud og
+den frie licitation.
+Men når så ministeren oven i købet i den
+skriftlige fremsættelse understreger, at offshoreindustrien er så afhængig af vejret ved gennemførelsen af sine projekter, at den ikke skal
+kunne blive udsat for, at dette ankenævn kan
+gribe ind og stoppe virksomheden, så er det en
+meget, meget kraftig underdrivelse: det er meget mildt formuleret af ministeren. Det er ikke
+kun et spørgsmål om vejret, det er også, som vi
+gjorde opmærksom på i foråret, da vi indførte
+
+2693
+
+27/11 92: 1. beh. af f. t. 1. vedr. Klagenævnet for Udbud";Kim Behnke
+10557;title_name;"udbudsreglerne, et meget, meget stort problem, at offshoreindustrien overhovedet er
+omfattet af dette her. Det vil præcis som i foråret være her, vi vil gøre vor største indsats for
+at få det på plads, så vi ikke skyder os selv i
+foden.
+Når SF's ordfører, hr. Rahbæk Møller, kalder det en lex A. P. Møller, skal hr. Rahbæk
+Møller huske på, at det er en milliardgevinst
+for det samlede danske samfund, at der er en
+A. P. Møller eller Maersk Olie og Gas, som har
+investeret de mange penge i Nordsøen. Derfor
+er det dummeste, de kan gøre, ensidigt fra
+dansk side at genere og skade vores egen offshoreindustri, og derfor vil vi endnu en gang
+bruge mange af vore kræfter i udvalgsarbejdet
+på at sikre en opfølgning af den gamle aftale i
+betænkningen fra foråret gående ud på, at man
+forsøger helt at friholde offshoreindustrien.
+Hvis den bliver friholdt, så er der ikke nogen
+grund til at have dette ankenævn til at have
+kompetence på dette her område. Skulle der
+komme en EF-afklaring, hvor man i større eller mindre grad lader offshoreindustrien være
+en del af det, så er det klart, at der også må
+være helt eksklusive regler for offshoreindustrien i forhold til ankenævnet, fordi det altså
+ikke bare er det samme som, når man henne på
+fjernvarmeværket kan drosle ned og skifte fyr
+ud, imens man laver en ny licitation. Der er
+tale om milliarder af kroner, der er på spil ude
+i Nordsøen. Det skal vi alle sammen være meget opmærksom på.
+Så det vil også under det kommende udvalgsarbejde være dér, vi kaster om ikke vores
+kærlighed, så i hvert fald vores arbejdsindsats.
+(Kort bemærkning).";Kim Behnke
+12162;name_party;":
+For det tilfælde, at hr. Kim Behnke ikke helt
+hørte efter, hvad jeg sagde, skal jeg lige gøre
+opmærksom på, at jeg sagde, at i dette tilfælde
+finder vi det egentlig velbegrundet med en lex
+A. P. Møller.
+
+2694";Rahbæk Møller
+12391;name_party;":
+Jeg kan erklære mig enig i det, CD's ordfører har sagt.";Lone Dybkjær
+12474;name_party;":
+Kristeligt Folkeparti kan også støtte det foreliggende forslag. Vi synes, det er fornuftigt at
+ændre i klagenævnsloven, og det synes også rimeligt, at offshoresektoren får en sagsbehandling, som ikke forsinker et givet projekt.
+Vi skal bare støtte forslaget.
+Industriministeren (Anne Birgitte Lundholt):
+Det bliver også kun en tak til alle de positive
+ordførere.
+Til hr. Poul Andersen vil jeg sige, at jeg vil
+meget gerne belyse spørgsmålet om arbejdsmarkedets parter i udvalget, som jeg er blevet
+anmodet om, og til hr. Kim Behnke vil jeg gerne sige, at jeg er fuldstændig enig i betragtningerne om offshoresektoren. Vi prøver at få den
+undtaget, og får vi den ikke fuldstændig undtaget, så er det klart, at vi skal have den undtagelsesregel her..
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lysholm Christensen
+13348;title_name;"Jeg foreslår, at lovforslaget henvises til Erhvervsudvalget. Hvis ingen gør indsigelse mod
+dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+2) Første behandling af beslutningsforslag nr. B
+21:
+Forslag til folketingsbeslutning om statslån til
+iværksættere.
+Af Rahbæk Møller (SF) m.fl.
+(Fremsat 12/11 92).";Formanden
+13730;name_party;":
+Det skal ikke være mange ord, CD siger her.
+Vi er positive over for lovforslaget, og hvis der skulle være nogle småknaster undervejs, så lad
+Sammen med denne sag foretoges den unos kigge på dem. Men ellers vil vi medvirke der næste punkt på dagsordenen opførte sag,
+positivt under udvalgsbehandlingen.
+nemlig:
+
+2695
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.
+
+3) Første behandling af beslutningsforslag nr. B
+22:
+Forslag til folketingsbeslutning om oprettelse
+af en reorganiseringsfond.
+Af Rahbæk Møller (SF) m.fl.
+(Fremsat 12/11 92).
+Forslagene sattes til forhandling.
+Forhandling
+Industriministeren (Anne Birgitte Lundholt):
+For snart et år siden behandlede vi her i Tinget de samme forslag fra SF.
+Først vil jeg kommentere beslutningsforslag
+nr. B 21. Det var et forslag, der også dengang
+led en langsom, men sikker død, så jeg må indrømme, at jeg ikke helt forstår bevæggrunden
+for genfremsættelsen, for der er jo ingen grund
+til at udøve genoplivningsforsøg på noget, som
+helt sikkert er stendødt. Jeg har bemærket, at
+der for tiden er gået mode i at fremsætte erhvervspolitiske forslag i en stadig strøm. Den
+slet skjulte bagtanke er vel, at forslagene skulle
+være indpiskere i finanslovsdrøftelserne om
+erhvervspolitikken, og det er da også helt i orden. Men drøftelserne er jo nu afsluttet.
+Som jeg sagde her i Tinget for 14 dage siden,
+da vi havde et socialdemokratisk beslutningsforslag til førstebehandling, er det altid rart at
+få lagt gode ideer på bordet, så vi har noget at
+lade os inspirere af, men på den anden side
+synes jeg nu også, at vi skal passe på ikke at
+sløre billedet alt for meget, og jeg synes egentlig godt, man kan sige, at SF med dette beslutningsforslag bidrager til at skævvride debatten,
+for forslaget i januar blev håndfast afvist, og
+der er siden fremkommet nye forslag. Jeg har i
+hvert tilfælde ikke skiftet standpunkt vedrørende statslåneordningen, siden vi behandlede
+forslaget sidst. Selve sigtet kan vi i og for sig
+ikke være uenige i, for det er ikke blevet nemmere for iværksættere at få finansieret projekterne i pengeinstituttet. Der er god grund til, at
+der udvises forsigtighed, men det er også netop
+derfor, der er taget fat på problemstillingen, og
+i finanslovaftalen indgår en aftale om med udgangspunkt i regeringens forslag at behandle
+netop dette problem.
+Jeg mener, at den model, som vi har aftalt, er
+gennemførlig og afbalanceret, når alle forhold
+tages i betragtning. Det er der vist ikke mange
+
+2696
+
+der vil sige om SF's forslag lige bortset naturligvis fra forslagsstillerne. Men for hukommelsens skyld vil jeg gerne ganske kort repetere
+begrundelsen for at afvise forslaget om statslâneordningen.
+Der er tale om en direkte og konkurrenceforvridende form for statsstøtte, som ikke passer ind i dansk erhvervspolitik.
+En anden grund er, at vi med de ca. 15.000
+iværksættere, som årlig kommer til herhjemme, lægger op til en uhyggelig omfattende ordning, som både vil kræve et gigantisk bureaukratisk apparat og en gigantisk udskrivning fra
+statskassen.
+Endelig vil vi også få svære problemer i forhold til EF, hvor man netop søger at afyikle
+disse direkte subsidieordninger. Det er derfor,
+Tyskland har. omlagt den Eigenkapitalhilfeordning, som har inspireret SF, til nu kun at
+gælde i de nye delstater som en strukturpolitisk foranstaltning, og derfor har jeg svært ved
+på nogen måde at anbefale beslutningsforslaget til videre behandling, men skal under alle
+omstændigheder afvise det.
+Så til genfremsættelsen af beslutningsforslag
+nr. B 22 om oprettelse af en reorganiseringsfond. Det er som nævnt et forslag, vi også behandlede i januar, og det vandt slet ikke genklang, så også her synes jeg, at der er tale om et
+slag i luften. Forslaget har et umiskendeligt
+præg af forældede ideer om store fonde, der
+griber ind, når erhvervslivet svigter. Det kan vi
+selvfølgelig heller ikke støtte denne gang. Tiden har ikke just arbejdet for denne form for
+tanker.
+Som jeg også sagde sidst, må en regional
+indsats over for større virksomhedslukninger
+med store konsekvenser for den enkelte egn
+ses i et bredere perspektiv. En sådan bredere
+debat havde vi i forbindelse med forespørgsel
+nr. F 15. Lidt senere havde vi debat om regeringens indsats over for lokalsamfund, der
+rammes af større virksomhedslukninger. I den
+forbindelse var jeg inde på den tanke, at der
+inden for rammerne af regionale udviklingsprogrammer kunne være behov for at styrke
+den lokale ekspertise med kræfter udefra. Det
+kunne være permanente tænketanke, det kunne være personer, som ikke mere er fuldtidsaktive eller for nylig er blevet pensionerede, og
+som kunne hjælpe de enkelte virksomheder.
+Udgangspunktet for en sådan indsats bør væ-
+
+2697
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Sonja Albrink
+18528;title_name;"re, at regionen skal klare sig selv på længere
+sigt, og hjælpen skal ikke bestå i en pose penge. De eksterne rådgivere, der sættes ind, skal
+snarere fungere som professionelle sparringspartnere for regionerne. Der kan også i en sådan indsats være behov for at rådgive regionerne om de muligheder, EF og de nationale
+ordninger giver, og som står til rådighed.
+Jeg skal derfor anbefale, at også dette beslutningsforslag, nr. B 22, bliver forkastet.
+
+2698";Industriministeren
+19002;name_party;":
+I fravær af mit partis ordfører og ligeledes i
+fravær af mit partis parlamentariske ledelse
+skal jeg gøre en enkelt bemærkning, idet jeg
+også ser, at der heller ikke er andre gruppefæller til stede her i Tinget under sagens behandling.
+Jeg erindrer, at sagerne tidligere har været
+drøftet her i Tinget, og med baggrund i min
+erindring, som jeg heller ikke tror er udtryk for
+noget forkert, skal jeg tillade mig at henvise til
+den holdning, som tidligere er kommet til udtryk fra mit partis ledelse her i disse sager.
+
+Jeg må sige til hr. Rahbæk Møller, at hvis
+det skulle blive vedtaget, så ville jeg med garanti nedlægge min virksomhed, og så ville jeg
+starte forfra igen, og uanset hvilken branche
+jeg ville starte i, ville man være i stand til at
+udkonkurrere almindelige erhvervsdrivende
+på sådanne betingelser, som hr. Rahbæk Møller forestiller sig her.
+Det er konkurrenceforvridende, det er ægte
+socialisme, det erkender jeg, og derfor var det
+da rart at høre, at det blev afvist også fra Socialdemokratiets side. Man hører jo af og til tanker om et rødt kabinet, og hvis dette her skulle
+indgå i en sådan regerings politik, så er jeg sikker på, at vi med glæde ville imødese enhver
+valgkamp fra De Konservatives side i hvert
+fald.
+Med hensyn til B 22 gælder den samme afvisning. Jeg opfordrer hr. Rahbæk Møller til at
+trække forslagene tilbage, for vi får i forvejen
+en meget travl december i Erhvervsudvalget det er jeg overbevist om - og jeg synes, det er
+spild af vores tid anden gang på et år at fremsætte noget, som vi har afvist.";Risgaard Knudsen
+20568;name_party;":
+I fortsættelse af hr. Risgaard Knudsens bemærkninger glæder jeg mig over at konstatere,
+at Det Konservative Folkeparti er mange gange større end Socialdemokratiet i salen i dag,
+og jeg kunne da ønske, at det var sådan hver
+eneste dag.
+Tilbage til indholdet i de forslag, som vi behandler, B 21 og B 22. Jeg vil for det første
+gerne sige, at vi afviser forslagene, som vi har
+gjort tidligere. Jeg synes næsten, man kan diskutere, om det er seriøst for Folketinget at
+fremsætte de samme forslag, som har været afvist én gang - endda i samme år, som vi befinder os i nu, 1992. Man kan sige yderligere, at
+der nu er indgået forlig om finansloven, og at
+forliget omhandler noget, der grænser op til i
+hvert fald B 22.
+Beslutningsforslag nr. B 21 har syv punkter.
+I punkt 3 står der, at lånene skal kunne ydes til
+iværksættere, men også til udvidelse af deres
+aktiviteter inden for to år. Punkt 4: Lånene
+skal være 20-årige. Tænk at få et 20-årigt lån,
+der i de første 10 år skal være afdragsfrit! Det
+lyder fuldstændig himmelsk - for en erhvervsmand i hvert fald. Renten skal de første to år
+være nul, 2 pct. det tredje år, 3 pct. det fjerde år
+og 5 pct. det femte år.";Flemming Hansen
+21749;name_party;":
+Som det tidligere er nævnt her i dag, er begge beslutningsforslag genfremsættelser fra sidste folketingssamling, og allerede dengang
+blev de som sagt afvist her i salen, og derfor
+stiller jeg mig helt uforstående over for denne
+genfremsættelse.
+I Venstre har vi i hvert fald ikke skiftet mening. Begge forslag rummer så kraftige elementer af socialisering af vores erhvervsliv, at
+vi må sige fra.
+Hvis disse forslag blev vedtaget, ville vi give
+vores erhvervsliv en endnu mere udpræget
+konkurrenceforvridning, end tilfældet er i dag.
+Her tænker jeg f.eks. på den nuværende
+iværksætterydelse.
+Beslutningsforslagene er egentlig et godt udtryk for, hvor fundamentalt uenige Venstre og
+SF er på det erhvervspolitiske område. Man vil
+fjerne den sunde konkurrence, og i stedet vil
+man lade staten subsidiere. Hvorfor skal staten
+subsidiere specielt i disse tider, hvor man prøver så ihærdigt fra international side at fjerne
+store statslige subsidier?
+Ser vi på iværksætterydelsen, som vi har nu,
+og den konkurrenceforvridning, som den medfører, så lad os huske på de personer, der ikke
+
+2699
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Pia Larsen
+22924;title_name;"direkte er berørt af forslagene, men som de i
+allerhøjeste grad har indflydelse på. Det er de
+mennesker, der ved egen kraft har skabt små
+og mellemstore virksomheder, og det er de
+mennesker, som mærker konkurrenceforvridningen, og som i høj grad vil risikere at blive
+udkonkutreret, og det vil vi i Venstre ikke bidrage til.
+I stedet for er det Venstres ønske, at vi kan
+finde et alternativ til den eksisterende iværksætterydelse med henblik på at flytte indsatsen
+fra en social bistandsordning til en aktiv erhvervspolitisk indsats.
+Om forslaget om at oprette en reorganiseringsfond har Venstre kun at sige, at tiden er
+løbet fra de store fonde, der skal støtte, når erhvervslivet har problemer. Det mener jeg at historien så udmærket har vist.
+Venstre kan derfor ikke støtte de to beslutningsforslag fra SF.";Pia Larsen
+23749;name_party;":
+Jeg skal ikke bebrejde SF, at man i SF har
+valgt at genfremsætte de to forslag. Hvis SF føler behov for at komme med markeringer på
+det her punkt, så skal SF selvfølgelig være velkommen til det. Jeg synes da også, at vi andre
+kan glæde os over, at SF genfremsætter forslagene og dermed dokumenterer, at på trods af
+de ellers så liberale vinde, der strømmer i SF,
+er der stadig væk tunge, tunge marxistiske reminiscenser, som i hvert fald visse ordførere i
+SF har svært ved at lægge bag sig.
+Tager vi forslagene et ad gangen, så er vores
+melding med hensyn til B 21 den samme som
+sidste gang. Vi er modstandere af forslaget. SF
+angriber sagen fuldstændig forkert, for i stedet
+for som i den noksom bekendte danske saga at
+spørge og blive ved med at konstatere, at Jeppe
+drikker, så er det nok bedre at spørge hvorfor,
+og det er det, SF glemmer i den her sag. SF
+konstaterer, at nogle iværksættere har problemer med deres egenkapital, men i, stedet for at
+søge årsagen til de problemer vælger SF at forsøge at løse dem på en måde, som faktisk skaber endnu flere problemer. For hvorfor har
+iværksættere og andre problemer med at opnå
+lån i pengeinstitutter og andre steder, hvor det
+måtte være naturligt at henvende sig, når man
+har brug for lån? Ja, det har man, fordi den
+risikovillige kapital på det danske marked er
+blevet hentet allerede. Den store stat har været
+der.
+
+2700
+
+Så sent som i denne uge har et flertal ved
+første behandling tilkendegivet at ville give finansministeren tilladelse til at låne yderligere
+75 mia. kr. i indenlandslån. Men det er da
+klart: Hvad vil den person, den bank - hvad
+enteri det er en bankbestyrer eller anden finansiel kilde - der står med noget risikovillig kapital, helst placere den i? I Pedersens lille maskinfabrik, som forsøger sig med en ny opfindelse', eller den store folketingsgaranterède
+stat? Ja, valget har hidtil været, at folk vælger
+at købe statsobligationer frem for at placere
+kapitalen i aktive erhvervsvirksomheder, og
+den uforskammet store statsgæld, der er i øjeblikket, betyder jo bl.a., at de lige i underkanten af 400 mia. kr. i indenlandslån, staten har
+optaget, er 400 mia. kr., der mangler på det
+danske marked som risikovillig kapital i erhvervslivet.
+Hvis SF's forslag skulle blive vedtaget, hvad
+jeg kan fornemme det ikke bliver, så skulle staten ud og låne yderligere penge for at honorere
+de løfter, som SF giver. Staten skulle altså ud
+og låne flere penge og dermed tømme markedet for endnu mere risikovillig kapital, og så
+ville endnu flere skulle henvende sig til SF's
+kapitalordning, og derved vil om ikke evighedsmaskinen være opfundet, så i hvert fald
+situationen være. den, man i spil kalder skakmat.
+Vi kan derfor ikke anbefale B 21, men vil i
+stedet for søge til årsagen, og den er, at staten
+har suget det danske marked tomt for risikovillig kapital.
+B 22 viser, at SF på trods af de mange taler,
+bl.a. hr. Jes Lunde holder om, at nu skal vi have markedsorienteret tingene, stadig væk ikke
+har forstået, hvad der egentlig ligger i selve
+markedsbegrebet. Det, der er styrken, det, der
+er det suveræne ved det frie marked, er retten
+til at gå konkurs, muligheden for det, der hedder den konstruktive proces, hvor virksomheder dør og nye opstår. Hvis ikke virksomheder
+har risiko for at gå konkurs, for at dø, så vil
+man lade alt, alt for mange virksomheder, som
+rettelig burde udgå af markedet, overleve, og
+dermed ødelægger man markedet. Det er det,
+der er forskellen på den offentlige sektor og
+den private sektor. I den offentlige sektor er
+det politiske og administrative hensyn, der afgør, om noget skal fortsætte eller ej, og ikke
+lønsomhed. På det private marked skal det væ-
+
+2701
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Kim Behnke
+27505;title_name;"re lønsomheden og alene lønsomheden, der afgør, om en virksomhed skal overleve.
+Hvis SF vil pumpe kapital ind i lukningstruede virksomheder, så ødelægger man markedet, fordi de virksomheder, som rettelig burde
+lukke som en naturlig proces på det frie marked, får lov til at overleve. Hvad der er endnu
+værre, er den måde, pengene fra fonden skal
+fordeles på, for der er nogle mennesker, der
+skal afgøre, hvem der skal have penge fra fonden, og de bliver politisk udpeget, det bliver
+fagforeningsfolk osv., som vil sidde og træffe
+afgørelserne. Bliver det så saglige markedsafgørelser? Ja, historien fortæller os, at det bliver
+det næppe. Det bliver i stedet for benhårde politiske afgørelser på baggrund af grundig lobbyvirksomhed, på baggrund af, hvad der bliver
+sunget om på bjerget, og derfor vil disse afgørelser af, hvem der skal have penge - for der vil
+jo ikke være penge til alle virksomheder - på
+den måde være en politisk styring og en politisk dirigering af vores samlede erhvervsliv.
+Det kan man selvfølgelig have som ideologi,
+og man kan gå ind for de her ting. Det havde
+man også tidligere i de østeuropæiske lande.
+Dér var det en rent politisk afgørelse, hvilke
+virksomheder der skulle overleve, og hvilke
+der ikke skulle overleve, og konsekvensen kender vi alle sammen.
+Derfor, med disse få, men absolut velvalgte
+ord skal jeg afvise både beslutningsforslag nr.
+B 21 og B 22.";Kim Behnke
+28915;name_party;":
+CD har ikke skiftet mening siden sidst, så vi
+afviser begge forslag. Vi har just indgået et forlig om finansloven, hvor disse elementer indgår, og det er vi fuldt tilfredse med.";Sonja Albrink
+29112;name_party;":
+Jeg skal på Det Radikale Venstres vegne
+henvise til den tidligere debat, ligesom andre
+ordførere har gjort. Det er efterhånden lykkedes mig at finde debatten, men jeg var ved at
+gå fejl af den i første omgang, fordi den er blevet behandlet under arbejdstilbud til ledige
+sammen med et lovforslag, som SF også havde
+fremsat, og det gjorde, at der var lidt forvirring
+i overskrifterne.
+Det fik mig faktisk til at få lyst til at tilføje
+noget principielt til denne debat, nemlig at jeg
+synes, at vi nu skal prøve under en eller anden
+
+2702
+
+form at adskille spørgsmålet om beskæftigelse
+fra spørgsmålet om vores erhvervspolitik. I
+øjeblikket er det, som om vi kører det fuldstændig sammen, sådan at det hele drejer sig
+om beskæftigelse. Jeg er sådan set ikke principielt uenig i, at det selvfølgelig er afgørende at
+gøre noget for beskæftigelsen, sådan som det
+også fremgår af vores finanslovforlig, men jeg
+synes, det er farligt, hvis vi begynder at diskutere enhver form for erhvervspolitik som en beskæftigelsespolitik. Jeg tror nemlig, der er behov for, at vi har en meget aktiv erhvervspolitik, og jeg ér ikke overbevist om, at vi har fundet de vises sten endnu for Danmarks vedkommende, når det drejer sig om vores erhvervspolitiske tiltag. Derfor tror jeg, at vi måske selvstændigt skal diskutere, hvad vi skal gøre ved
+erhvervspolitikken og ikke bare blive ved med
+at betragte den ud fra en beskæftigelsesmæssig
+synsvinkel.
+Jeg håber, at ordføreren for SF forstår, hvad
+jeg mener, og at ordføreren ikke går herop og
+siger, at det skyldes, at jeg ikke vil gøre noget
+for beskæftigelsen. Det er overhovedet ikke
+det, der ligger i det, men jeg tror, det er vigtigt,
+at vi nu også begynder at koncentrere os om,
+hvordan vi får forskning, udvikling og dynamik i det danske erhvervsliv. Det er klart, der
+ligger incitamenter i vores finanslovforlig, men
+det er måske en anelse symptomatisk, at vi hele tiden i erhvervspolitiske sammenhænge
+snakker om små og mellemstore virksomheder,
+som selvfølgelig er vigtige, men hvis ikke vi gør
+noget for at få de store virksomheder til at
+trække, tror jeg heller ikke, at vi for alvor får
+gang i beskæftigelsen i de små og mellemstore
+virksomheder.
+Det er mine tilføjelser til, hvad jeg i øvrigt
+udtrykte af positive ting om SF's forslag, da
+det sidst blev behandlet.
+l-ysholm Christensen (KRF):
+Det netop indgåede finanslovforlig indeholder visse elementer til hjælp for iværksættere,
+herunder lånegarantier. I Kristeligt Folkeparti
+finder vi, at dette er et godt initiativ, som kan
+være med til at afhjælpe nogle af de problemer, som ligger på dette område. Det er ikke,
+fordi vi finder, at det, der er indeholdt i finanslovforliget, er fyldestgørende, men det er dog
+et skridt i den rigtige retning, at der bliver mulighed for at optage lån på rimelige vilkår.
+
+2703
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Lone Dybkjær
+32018;title_name;"SF har ret i, at iværksættere har et problem
+med at skaffe kapital. Idealistiske iværksættere
+må ofte sætte både hus og hjem på spil for at
+komme i gang, og det er naturligvis et problem,
+og i øvrigt er det ikke engang sikkert, at de
+værdier, man har i hus og hjem, er tilstrækkelige som sikkerhed for et initiativ, men det forhold kan vanskeligt løses i det privatkapitalistiske system, som er fremherskende i vort
+land, og som jeg ikke har nogen planer om at
+angribe.
+Det, vi kan gøre, er altså at give nogle rimelige lånevilkår og fornuftige skatteregler, så der
+ikke spændes ben for den dynamik, som er så
+afgørende for nydannelser i dansk erhvervsliv,
+men vi finder ikke, at den model, som er anvist
+i de to beslutningsforslag, er den rigtige. Vi
+mener ikke, det er rigtigt, at staten skal lade
+fonde støtte på den måde, der er skitseret, vi
+mener i øvrigt heller ikke, at det vil kunne accepteres efter EF's regler. Der er en snert af
+planøkonomi i det, som vi ikke er tilhængere
+af, og derfor må vi afvise de to beslutningsforslag.";Lysholm Christensen
+33068;title_name;Så har vi en privatist, hr. Ole Vagn Christensen.;Formanden
+33142;name_party;":
+Jeg skal i fortsættelse af hr. Risgaard Knudsens indlæg komme med nogle uddybende betragtninger over forslagene fra SF.
+De to forslag, vi skal behandle i dag, er, som
+det er nævnt af hr. Risgaard Knudsen, genfremsættelser af forslag fra sidste samling, og
+ligesom vi gjorde dengang, kan jeg udtrykke,
+at vi er glade for, at der er sat fokus på iværksætterproblematikken, og for den indsats, SF
+har gjort. Vi er helt sikre på, at der skal ske en
+styrkelse af iværksætternes muligheder, men
+også af de eksisterende mindre virksomheders
+udvidelsesmuligheder, og vi mener faktisk også, som det er nævnt nogle gange, at disse intentioner kan realiseres med finanslovens vedtagelse.
+Det, jeg gerne vil udtrykke, er, at det er vigtigt, at der skal være tale om ny aktivitet, så vi
+ikke bare får pumpet store statssummer ind i
+virksomheder, så der dermed bliver konkurrenceforvridning. Det mener vi vil ske med disse forslag, ligesom det sker med de nuværende
+iværksætterydelser.
+
+2704
+
+Men der er dog også noget positivt i B 21,
+bl.a. at man lægger op til en grundig projektvurdering, selv om man selvfølgelig også her
+kan tale om, at der kan være fare for, at der
+bliver for meget bureaukrati i disse sammenhænge.
+Efter disse få positive bemærkninger vil jeg
+gerne understrege, at det er vores opfattelse, at
+der er fremkommet en række forslag, der har
+det samme sigte, nemlig at hjælpe med finansieringen af nye virksomheder. Det drejer sig
+dels om den nuværende vækstfond, dels om de
+nye fælles forslag om garantiordninger, der
+indføres over en 2-årig periode med en årlig
+ramme på 1 mia. kr., om de 25 mio. kr. til styrkelse af iværksætterindsatsen, som bl.a. giver
+udvidede muligheder for iværksætterkurser og
+stipendier, og om det flerårige programinitiativ på 250 mio. kr., der er lagt op til, som skal
+styrke de små og mellemstore virksomheders
+systematik i forbindelse med organisation, ledelse og medarbejdermotivation.
+Jeg vil derfor gerne opfordre SF til sammen
+med os andre at arbejde for, at vi inden for de
+lagte rammer får den bedst mulige effekt ud af
+disse nye muligheder. Dei væsentlige er, at vi
+får sat gang i villigheden til at investere i nystartede virksomheder, så vi ad den vej kan
+øge beskæftigelsen. Der skal selvfølgelig være
+mulighed for både at rejse egenkapital og den
+fornødne driftskapital til at starte en virksomhed, og det mener Socialdemokratiet faktisk er
+en meget vigtig sag.
+Jeg må samtidig gøre opmærksom på, at der
+gøres et stort arbejde for at koordinere indsatsen for iværksætterne. Der findes i dag en lang
+række servicetilbud til iværksættere i Industriog Handelsstyrelsen, i amter, i kommuner og i
+vores teknologiske servicenet, TIC'erne m.fl. I
+Socialdemokratiet vil vi gerne medvirke aktivt
+til, at der bliver lavet en handlingsplan over
+indsatsen for iværksættere, hvor alle de nuværende ordninger suppleret med nye forslag tages op og tænkes ind i en mere sammenhængende indsats for iværksættere, og hvor vi netop skal se på, hvordan vi kan få det til at udvikle sig.
+Vi mener, at en sådan handlingsplan kunne
+tage udgangspunkt i fem centrale aktiviteter
+for iværksætterne, nemlig information, kursusvirksomhed, uddannelse, rådgivning og finansiering, og vi er parat til at støtte et sådant til-
+
+2705
+27/11 92: 1. beh. af f. t. beslutn.";Ole Vagn Christensen
+36451;title_name;"tag. Vi mener faktisk også, at det kunne danne
+grundlag for, at man kunne foretage en række
+forsøg, hvor man sådan set kunne afprøve
+handlingsplanens tanker, således at vi kunne
+se, om der virkelig ikke ad denne vej kunne
+findes det handlingsinstrument, der mangler.
+Vi vil altså meget gerne medvirke til, at vi får
+en aktiv, sammenhængende iværksætterpolitik, som vil gøre det nemmere og mere attraktivt at starte og videreudvikle ideer i virksomhederne.
+
+om statslån til iværksættere m.m.
+
+2706
+
+Må jeg minde dette høje Ting om, at vi lige
+har vedtaget en skibsværftspakke. Vi ved godt,
+at denne skibsværftspakke formodentlig ikke
+redder Svendborg Værft. Der er ingen, der har
+turdet sige det åbent før, men de fleste af os
+ved, at dette værft formodentlig lukker om kort
+tid. Hvad vil der så ske? Der vil formodentlig
+ske det samme, som skete i Nakskov, nemlig at
+arbejdsministeren får travlt, han sender arbejdsanvisere derned, de skal være meget aktive, og så får vi få måneder efter en rapport, der
+formodentlig vil sige det samme, som rapporRahbæk Møller (SF):
+ten om Nakskov sagde, nemlig at det ikke
+Det har været en ganske usædvanlig floskel- hjælper at sende arbejdsanvisere af sted, når
+fyldt debat. Jeg vil bare henvise til hr. Flem- der intet arbejde er: det er så enkelt! Svenskerming Hansen, der sagde, at vores forslag nr. B ne har gjort det anderledes. De har også lukket
+21 ville medføre, at mange eksisterende virk- værfter: de har gjort en aktiv erhvervsindsats,
+somheder ville blive lukket på grund af kon- men ikke reddet nogen, der ikke kunne reddes,
+kurrenceforvridning, og - endnu værre - til hr.
+hvorimod de især på de ansattes initiativ har
+Kim Behnke, der talte om marxistiske remi- sørget for, at der på værftets grund blev opbygniscenser. Jeg må minde om, at beslutningsfor- get noget.
+slag nr. B 21 er en direkte kalkering af en velMinisteren talte om en langsom og sen død
+fungerende ordning fra Vesttyskland. Jeg syog
+bebrejdede os, at vi har genfremsat de to
+nes, at det er hårdt, at det land, som blev opforslag.
+Jeg minder om, at der faktisk er sket
+bygget af Adenauer, Franz Josef Strauss og
+nogle
+ting.
+En ting er, at der bl.a. på grund af
+Ludwig Erhard, lige pludselig kaldes marxistisk: de gode herrer må vende sig i deres gra- SF's initiativer er blevet meget større interesse
+ve. Jeg har ikke noget imod at blive kaldt for iværksættere, men der er også vedtaget
+marxist, men jeg er sikker på, at de nævnte her- nogle ting, og derfor genfremsatte vi ikke den
+rer meget gerne vil frabede sig den betegnelse. fulde pakke: vi har plukket de to forslag ud,
+Sagen er vel, at det er meget vanskeligt at få der vedrører de områder, hvor der mangler at
+en ordentlig erhvervspolitisk debat i dette blive gjort noget. En anden ting er, at der fakTing. Selv når man ganske enkelt kalkerer for- tisk har fundet en iværksætterkonference sted i
+slag fra vore nabolande, får man alle disse ministeriets regi. Det skete desværre på Folkefuldkommen faste rygmarvsreaktioner. Det, tingets åbningsdag, og derfor bebrejder jeg ikder skiller Tyskland fra Danmark, er ikke, at ke ministeren, at hun ikke efter at have holdt
+det ene land er mere marxistisk end det andet sit eget indlæg kunne overvære konferencen.
+- og i hvert fald er Tyskland ikke mere marx- Det er måske lidt ejendommeligt, at Folketinistisk end Danmark - men at der er langt flere gets partier ikke var i stand til at fordele deres
+iværksættere i Tyskland. Der er en iværksæt- arbejdskraft lidt bedre, således at Folketinget
+terrate, der er godt det dobbelte af den danske, havde været bedre repræsenteret dér, for så
+og derfor kunne der måske være grund til at tror jeg, at debatten havde fået et andet forløb,
+kigge over grænsen.
+fordi et af flere gennemgående motiver var, at
+Det samme gælder Sverige, som har vist sig der mangler egenkapital, og at de ordninger
+at være meget velfungerende på et andet områ- om at give garantier for banklån, som Socialde, nemlig med hensyn til, hvad man gør, når demokratiet og regeringen talte om, og som nu
+en stor arbejdsplads lukker, og der er ikke, er vedtaget, ikke løser dette problem. Banklån
+som hr. Kim Behnke åbenbart tror, tale om, at er noget, man bruger til driftskapital, det kan
+man hælder penge i en dødssejler. Det, der ikke bruges til anlægskapital. Ingen kan alene
+sker, er, at man selvfølgelig lader den virksom- på grundlag af banklån investere for en 10-årig
+hed, der ikke kan leve, dø, men undersøger, periode, hvis der er tale om en kraftig udvikom det på grundlag af den lukkede virksom- ling eller om større arbejdspladser, og derfor
+hed skulle være muligt at drive noget nyt.
+har vi brug for en egenkapitalordning.
+
+2707
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Ole Vagn Christensen
+41217;title_name;"Jeg forstår i øvrigLogså, at ministeriet arbejder på en ordning, der kan løse dette problem.
+Når det derfor siges, at det, der vil ske, når finansloven letter adgangen til at optage banklån, skulle kunne løse egenkapitalproblemet,
+er det at tale udenom og kan kun skyldes en
+uvidenhed, som Folketingets partier ikke behøvede at have: de kunne f.eks. blot have været til stede ved den konference, som ministeriet afholdt.
+Jeg har vist været inde på de fleste ting, men
+jeg vil lige nævne, at ministeren sagde, at den
+tyske ordning, som jeg altså foreslår kalkeret,
+nu ikke mere kan bruges i Vesttyskland, men
+kun i Østtyskland. Ministeren henviste til EF,
+og så vidt jeg forstår, men det kan vi da få bekræftet under udvalgsarbejdet, er årsagen til,
+at man begrænser den til Østtyskland, at det
+selvfølgelig er en forholdsvis dyr ordning, og
+at behovene i disse år er så store i Østtyskland,
+at det er rimeligt, at så effektive, men også
+kostbare ordninger forbeholdes de fem nye
+delstater. Det synes jeg er en helt logisk begrundelse, og det fungerer for fuld kraft i de
+fem delstater.
+Ministeren kaldte beslutningsforslag nr. B
+22 om en reorganiseringsfond for en forældet
+idé. Jeg synes ikke, det er forældet at sige, at
+når nu Svendborg lukker, skal det ikke gå som
+på Lolland, hvor der ingenting skete i mange
+år. Jeg synes, der skal gøres noget, og jeg synes
+ikke, det var forældet, at svenskerne i Malmø
+og Landskrona gjorde noget: det håber jeg aldrig bliver forældet.
+Hr. Flemming Hansen, fru Pia Larsen, hr.
+Kim Behnke har jeg kommenteret, og fru Lone
+Dybkjærs bemærkninger er jeg fuldkommen
+enig i. Dét har også altid irriteret mig, at da vi
+kom med en pakke, hvor et enkelt forslag lå i
+arbejdsministerens regi, blev det hele behandlet som en afdeling af arbejdsmarkedspolitikken. Jeg synes, at vi burde kunne diskutere erhvervspolitikken ud fra dens egne præmisser,
+men selvfølgelig er et af formålene med at føre
+erhvervspolitik at sikre beskæftigelsen, og det
+tror jeg ikke fru Lone Dybkjær og jeg er uenige
+om, men at erhvervspolitikken har sine egne
+præmisser og ikke bare skal behandles som en
+underafdeling af arbejdsmarkedspolitikken, er
+jeg fuldkommen enig i.
+Hr. Ole Vagn Christensen, der kom lidt sent
+ind, skal jeg takke for enkelte pæne bemærk-
+
+2708
+
+ninger, men jeg håber, vi fortsat kan få en dialog. Jeg er ked af, hvis Socialdemokratiet tror,
+at det med finanslovaftalen har løst det grundlæggende problem. Det har løst nogle problemer for nogle virksomheder, det er erkendt,
+men for en række virksomheder er det ganske
+enkelt ikke godt nok. Endnu en gang: Egenkapital er ikke noget, man låner i en bank.
+(Kort bemærkning).";Rahbæk Møller
+43885;name_party;":
+Det, der gør det så besværligt at diskutere
+dette emne isoleret med hr. Rahbæk Møller,
+er, at hr. Rahbæk Møller har en skjult dagsorden. Hr. Rahbæk Møller har et ønske om, at
+når staten har indskudt egenkapitalen i en
+virksomhed, skal det næste, der sker, være, at
+man så også må have nogle offentlige repræsentanter i bestyrelsen for denne virksomhed,
+ordninger med overskudsdeling til medarbejderne osv. Skive for skive ønsker hr. Rahbæk
+Møller, at staten skal drive virksomhederne,
+for det er hr. Rahbæk Møllers ideologiske fundament: fair nok! Først er det egenkapitalen,
+så er det overskuddet, man vil argumentere
+for, og man vil få mange til at synes, at når
+staten nu har stillet egenkapitalen til rådighed,
+er det kun rimeligt, at staten også er den, der
+tager overskuddet og bestemmer, hvad der skal
+ske med det.
+Vi har allerede hørt, hvordan disse halv- og
+helmarxister, der sidder i ledelsen af Lønmodtagernes Dyrtidsfond, har sagt, at i de virksomheder, de ønsker at anbringe kapital i, skal de
+være helt sikre på, at ledelsen er på en bestemt
+måde, at det indre og det ydre miljø er godkendt osv. Når man stiller disse ideologiske
+krav op, kommer der til at ske en selektering,
+hvor alle de virksomheder, der ikke opfører
+sig, som hr. Rahbæk Møller mener er korrekt,
+får lov til at dø og forlade. markedet, mens de,
+der har ledelser, som sympatiserer med hr.
+Rahbæk Møller eller cirkler omkring SF, får
+tilskud, og på den måde laver man en total skævvridning. Man har i sit partiprogram en
+skjult dagsorden, der hedder, at det er bedre,
+at det er staten, der står for det hele, end at det
+er private, for grundlæggende har man ikke tillid til, at private folk kan drive virksomheder.
+Det er lidt ærgerligt, at hr. Rahbæk Møller ikke vil indrømme, at det er det, der er den skjulte dagsorden, og at dette kun er første, anden
+
+2709
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Kim Behnke
+45817;title_name;"eller tredje skive af en salami med mange skiver.
+(Kort bemærkning).";Kim Behnke
+45910;name_party;":
+Jeg synes, at jeg efter de få bemærkninger,
+hr. Rahbæk Møller gjorde til Socialdemokratiet, gerne vil komme med en kommentar til det
+med garantikapitalen.
+Nu var jeg en af de politikere, der deltog i
+den konference, som hr. Rahbæk Møller omtalte, og jeg hørte også udtalelserne. I min ordførertale gjorde jeg også opmærksom på, at vi
+havde vækstfonden, at vi har taget en lang
+række initiativer, at vi nu har taget nogle nye
+skridt med denne finanslov, og at jeg håber, at
+alle Folketingets partier kan finde frem til en
+fornuftig handlingsplan, hvor vi ser på alle de
+muligheder, der ,i dag eksisterer, for at vi kan
+være med til at give det løft i den rigtige retning, som hr. Rahbæk Møller var inde på at
+der skal til. Hvis der så er nogle mangler, når vi
+får disse handlingsplaner frem, må det være
+fremtidens opgave at løse.
+Jeg mener, at noget af det er løst, men det er
+helt klart, at vi ikke har kunnet klare alting ved
+denne lille operation.";Ole Vagn Christensen
+46881;name_party;":
+Hr. Kim Behnke taler om skjulte dagsordener, og jeg leder efter sådanne, men jeg vil bare
+konstatere, at det, hr. Kim Behnke argumenterer mod, ikke er SF's forslag, men hans egne
+vrangforestillinger om, hvad SF står for.
+Jeg vil gøre opmærksom på, at det, vi snakker om, er at få flere private virksomheder ved
+at efterligne den vesttyske ordning. Der er ikke
+tale om statslige repræsentanter nogen steder,
+og vi ønsker i øvrigt ikke statsrepræsentanter i
+virksomhederne. Vi vil gerne have medarbejderdemokrati - det skal ikke skjules - og det
+har længe været på vort program, i øvrigt ligesom på Socialdemokratiets og - forstår jeg på Det Radikale Venstres.
+Vi ønsker ikke statsrepræsentanter i virksomhederne, bortset fra i dem, der har en offentlig funktion såsom pengeinstitutter og forsikringsselskaber. Hr. Kim Behnke drog Lønmodtagernes Dyrtidsfond ind i billedet, men
+det er en anden ting, for uanset om det er i
+private eller halvprivate virksomheder, eller
+hvad det nu er, man investerer i, er det klart, at
+
+2710
+
+man er nødt til at sikre sig, at pengene investeres fornuftigt, og at Lønmodtagernes Dyrtidsfond går i samarbejde med de virksomheder,
+den investerer i, for at sikre en ordentlig forvaltning af pengene har intet at gøre med statslig repræsentation, som vi ikke ønsker.
+Så kan jeg da bekræfte, at hr. Ole Vagn Christensen og i øvrigt en til fra Socialdemokratiet
+var til stede på den pågældende konference.
+Jeg tror kun, det var Socialdemokratiet og SF,
+der var interesseret i at være repræsenteret.
+Jeg vil også gerne medgive hr. Ole Vagn
+Christensen, at nogle af de værre problemer er
+løst: det er også derfor, at vi ikke kommer med
+den fulde pakke, som vi gjorde i fjor, for vi vil
+ikke blive ved at gentage løsninger på problemer, som ikke længere eksisterer. Men ét centralt problem, som hr. Ole Vagn Christensen
+også vil erindre blev påpeget mange gange på
+konferencen, er ikke løst, og det er egenkapitalproblemet. Når det drejer sig om at opbygge
+små virksomheder og servicevirksomheder, er
+det ikke et stort problem, og der er mange typer virksomheder, der ikke har brug for megen
+egenkapital, men hvis det drejer sig om at opbygge et egentligt produktionsanlæg eller at
+investere i en meget langsigtet udvikling, er
+egenkapital nødvendig. Hidtil har det været
+sådan, at folk har kunnet belåne deres huse,
+men enhver ved, at der ikke er sådanne friværdier i dag, at det kan lade sig gøre, og derfor
+må vi finde en løsning på problemet.
+Jeg håber, at hr. Ole Vagn Christensens parti
+vil være med til at hjælpe os med at finde en
+løsning.
+(Kort bemærkning).";Rahbæk Møller
+49496;name_party;":
+Jeg føler anledning til at sige, at jeg synes, vi
+må udnytte vækstfondens muligheder, og jeg
+mener, at den har lidt flere muligheder for at
+kunne gå ind i det, der hedder egenkapitalen,
+end hr. Rahbæk Møller gav udtryk for: det
+skulle ikke stå så dårligt til.
+(Kort bemærkning).";Ole Vagn Christensen
+49795;name_party;":
+Det var en helt ny oplysning, hr. Ole Vagn
+Christensen kom med, og jeg tror, at der er tale
+om en klar misforståelse. Så vidt jeg har forstået, kan vækstfonden finansiere udvikling og
+
+2711
+
+27/11 92: 1. beh. af f. t. beslutn. om statslån til iværksættere m.m.";Rahbæk Møller
+50076;title_name;"dermed selvfølgelig også hjælpe nogle ting
+frem, men den kan ikke gå ind med egentlig
+egenkapitalstøtte. Hvis ministeren er uenig
+med mig og mener, at det kan vækstfonden,
+synes jeg, at vi skal have det bekræftet her, så
+hvis ministeren er enig med hr. Ole Vagn Christensen og uenig med mig, vil jeg foreslå, at
+ministeren tager ordet, og hvis ministeren ikke
+tager ordet, vil jeg tage det som en bekræftelse
+på, at jeg har ret i min fortolkning af vækstfondens muligheder.
+(Kort bemærkning).";Rahbæk Møller
+50593;name_party;":
+Nu skal vi ikke gøre denne debat til en diskussion om ord. Det, det handler om, er sådan
+set, hvad det er, virksomhederne og iværksætterne har behov for. Vækstfonden kan være
+med til en række tiltag på disse områder, og
+det kunne godt være, ,at nogle af dem kunne
+løse det problem, der hedder egenkapitalen.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagenes overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Ole Vagn Christensen
+51033;title_name;"Jeg foreslår, at forslagene til folketingsbeslutning henvises til Erhvervsudvalget. Hvis
+ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+4) Første behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af lov om husdyrsygdomme.
+Af landbrugsministeren (Tørnæs).
+(Fremsat 18/11 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+51474;name_party;":
+
+2712
+
+Dette lovforslag tager sigte på ændringer,
+således at EF's samhandelsregler for akvakulturdyr efter direktivet skal træde i kraft ved
+årsskiftet. Med lovforslaget gennemføres EF's
+regler om afsætning af akvakulturdyr og -produkter og om sygdomsbekæmpelse hos fisk og
+andre akvakulturdyr. Samtidig ophæves loven
+om bekæmpelse af smitsomme sygdomme hos
+ferskvandsfisk, idet reguleringen af dette område overføres til husdyrsygdomme. Forslaget
+vedrører ikke områder, som i øjeblikket varetages af Fiskeriministeriet.
+Socialdemokratiet ønsker gennem udvalgsarbejdet at få afklaret, i hvilket omfang Miljøministeriets lovgivning indpasses i forslaget.
+Afsluttende er Socialdemokratiet meget tilfreds med bestemmelsen om, at det nu bliver
+slået fast, at sygdomme i landbaserede dambrug skal bekæmpes effektivt inden for dambrugets egne rammer. Den klare formulering
+er afgørende for, at konstaterede sygdomme
+ikke får et større udbredelsesområde.
+Socialdemokratiet medvirker gerne til en
+positiv gennemførelse af lovforslaget.";Bjarne Laustsen
+52516;name_party;":
+Jeg vil på Det Konservative Folkepartis vegne gerne tilsige vores støtte til dette lovforslag,
+der både er en forenkling og en sammenskrivning. Jeg kan meget let se det logiske i disse
+praktiske foranstaltninger, selv om jeg må tilstå, at jeg har visse problemer med at se det
+logiske i, at man fremover skal beskrive ål og
+krebs som husdyr, men jeg forstår, at landbrugsministeren med den fortid, han har, ikke
+kan have de samme bekymringer, som jeg har i
+henseende til at definere forskellen: men det
+vil vi vende tilbage til under udvalgsbehandlingen.";Rønholt
+53093;name_party;":
+Venstre kan støtte lovforslaget, der sikkert er
+meget fornuftigt. Jeg blev måske lidt overrasket over, at det er placeret under Landbrugsministeriet, men det er der nok en mening
+med.
+Vi anbefaler lovforslaget.";Svend Heiselberg
+53324;name_party;":
+Jeg kan som den socialdemokratiske ordfører tilslutte mig, at dette skal følge nogle senere
+kommende EF-regler op. Jeg har i hvert fald
+
+2713
+
+27/11 92: 1. beh. af f. t. 1. vedr. husdyrsygdomme";Birthe Hansen
+53538;title_name;"opfattet det sådan, at det drejer sig om sundhedsmæssige betingelser for akvakulturdyr og
+produkter fra samme og bekæmpelse af sygdomme hos de samme dyr og hos andre fisk,
+ligesom man også ønsker at få nogle gebyrer
+tilpasset.
+Vi kan da altid kun være positive over for
+tiltag, der er sygdomsbekæmpende og sygdomsforebyggende. Med hensyn til gebyrerne
+er det vel også ret rimeligt, at de bliver tilpasset. Og vi har heller ikke noget at indvende
+imod, at renterne bliver fastsat fra forfaldsdagen og ikke fra retsforfølgningsdatoen, som det
+tidligere har været skik og brug.
+Så alt i alt er vi positive over for lovforslaget.";Birthe Hansen
+54182;name_party;":
+Som det fremgår af lovforslaget, er der tale
+om foranstaltninger, der efter loven kun vil
+omfatte vildtlevende fisk, krebs, skaldyr og
+bløddyr i det omfang, det er nødvendigt for at
+forebygge sygdomme hos akvakulturdyr, altså
+for at holde en veterinær sundhed af en acceptabel standard.
+Det fremgår også af forslaget, at de økonomiske og administrative konsekvenser i høj
+grad vil afhænge af, hvilken zonestatus der ønskes opretholdt i Danmark. Udgifterne hertil
+er i forslaget oplyst til i vidt omfang at skulle
+dækkes ved opkrævning af afgifter og gebyrer.
+Vi vil under udvalgsarbejdet søge garanti for,
+at de opkrævede afgifter og gebyrer ikke overstiger omkostningerne ved ordningens gennemførelse.
+Men vi vil i øvrigt gå positivt ind i behandlingen af lovforslaget.";Niels Højland
+54977;name_party;":
+Med dette lovforslag præciseres, at alle ikkevildtlevende fisk og i øvrigt såkaldte akvakulturdyr er at betragte som husdyr med de
+deraf følgende lovmæssige konsekvenser.
+Centrum-Demokraterne finder det naturligvis rigtigt, at der nu skabes lovhjemmel for
+gennemførelse i Danmark af Rådets direktiv
+om de dyresundhedsmæssige betingelser for
+afsætning af disse husdyr og produkter af disse. Loven er, som mange før den, en bemyndigelseslov, der tillader landbrugsministeren at
+fastsætte regler for såvel etablering som drift af
+dambrug, for havdambrug og for virksomheder, hvor disse produkter renses eller opskæres.
+
+2714
+
+Hensigten hermed er dels at hindre smittespredning af fiskesygdomme gennem vand,
+dels bl.a. gennem registrering af disse virksomheder at gøre det muligt at opspore eventuelle
+smittekilder og derved bekæmpe sygdomsudbrud. Det gælder naturligvis om at sikre konsumenterne så gode og sygdomsfri produkter
+som muligt.
+Vi har bemærket, at der i lovforslaget er åbnet mulighed for, at man kan undlade at kræve
+fuld dækning for omkostninger til diagnostiske
+undersøgelser på statens laboratorier som led i
+den veterinære kontrol.
+Endelig finder vi det helt i orden, at der etableres et effektivt rykkersystem med gebyrer og
+morarenter ved for sen indbetaling af de pålagtte afgifter og gebyrer, der falder ind under denne lovs rammer, ligesom der kan finde udpantning sted.
+CD vil medvirke positivt i det videre udvalgsarbejde.";Svend Aage Jensen
+56448;name_party;":
+Det foreliggende lovforslag vedrørende gennemførelse af et direktiv om dyresundhed og
+betingelser for afsætning af akvakulturdyr og
+-produkter kan vi støtte fra Kristeligt Folkepartis side. Vi synes, det er udmærket, at man
+hermed udvider området, således at fiskesygdomslovgivningen også omfatter saltvandsbrug.
+Der er store eksportinteresser involveret i
+denne sag. Vi har en ikke ringe eksport af produkter fra dette område, og derfor er det vigtigt, at vi har nogle sunde produkter og en god
+sygdomsbekæmpelse, så vi kan holde denne
+produktion fri for visse sygdomme. Det var
+fint, hvis vi kunne få erklæret dansk område fri
+for en række sygdomme.
+Det er også fornuftigt at få nogle klare regler
+om gebyrer: det har vi jo set eksempler på her i
+de senere måneder. Derfor skal vi blot meddele, at vi kan støtte det foreliggende forslag.
+Landbrugsministeren (Tørnæs):
+Jeg vil gerne først og fremmest takke samtlige ordførere for tilslutningen til lovforslaget.
+Det er ikke så omfattende et lovforslag. Der
+sker jo i virkeligheden det, at man nu indfører
+de nødvendige regler for samhandel på grund
+af indførelsen af det indre marked. Man kan
+sige, at det er regler, som allerede for længst er
+indført på andre husdyrområder.
+
+2715
+
+27/11 92: 1. beh. af f. t. 1. vedr. husdyrsygdomme";Lysholm Christensen
+57759;title_name;"Det kan måske godt opfattes lidt utraditionelt, at akvakulturfisk i denne sammenhæng
+opfattes som husdyr og dermed er inde under
+husdyrsygdomsloven. Men da den veterinære
+ekspertise på det område altså er i Landbrugsministeriet, er det den mest hensigtsmæssige
+måde at gøre disse ting på.
+Med disse ord vil jeg endnu en gang takke
+for tilslutningen til lovforslaget.
+
+2716
+
+afgrødeforsikringer. Det gælder da også, at en
+del landmænd og gartnere allerede har tegnet
+f.eks. haglskadeforsikringer som tillæg til de
+almindelige landbrugsforsikringer om bygningsbrand, løsøreforsikringer og forsikringer
+mod eventuelt driftstab, stormskade m.v.
+På den baggrund kan jeg ikke se, at der er
+behov for, at Folketinget skal lovgive om indgåelse af private forsikringer på dette særlige
+område.
+
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Landbrugsministeren
+58668;title_name;"Jeg foreslår, at lovforslaget henvises til
+Landbrugs- og Fiskeriudvalget. Hvis ingen gør
+indsigelse mod dette forslag, betragter jeg det
+som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+5) Første behandling af beslutningsforslag nr. B
+13:
+Forslag til folketingsbeslutning om private forsikringer af landbrugets afgrøder.
+Af Niels Højland (FP) m.fl.
+(Fremsat 3/11 92).
+Forslaget sattes til forhandling.
+Forhandling
+Landbrugsmhlisteren (Tørnæs):
+Ifølge dette beslutningsforslag skal der
+fremsættes forslag om, at det gøres muligt for
+private forsikringsselskaber at tegne afgrødeog høstforsikringer for landbruget, eller om, at
+der etableres en privat katastrofefond for landbruget. Det skål være frivilligt for landmændene at tegne forsikringerne, og ordningen skal
+ikke involvere offentlige midler.
+Jeg kan oplyse forslagsstillerne om, at ifølge
+§ 35 i lov om forsikringsaftaler kan enhver lovlig interesse, der lader sig ansætte i penge, være genstand for skadeforsikring. Der er således
+intet i lovgivningen, der hindrer, at der tegnes";Formanden
+59758;name_party;":
+Baggrunden for Fremskridtspartiets beslutningsforslag er selvfølgelig sommerens tørke.
+Fremskridtspartiet foreslår enten en privat forsikringsordning eller en eller anden form for
+solidarisk løsning, som kan træde i kraft næste
+gang, vi har et usædvanligt vejrlig. Og vi ved
+jo, at med jævne mellemrum har vi vejrforhold, som bevirker, at først og fremmest landbrug og gartneri mister forholdsvis store indtægter. Folketinget og dermed samfundet har
+således måttet træde hjælpende til fem gange
+siden 1975. Det vidner altså om, at det faktisk
+nærmest må betragtes som normalt, at der med
+jævne mellemrum er vejrsituationer, som betyder, at erhvervet må have en hjælpende hånd. I
+1992 var det grovvarefondsmidlerne, der hovedsagelig blev brugt. Fonden er nu tømt, og
+så er spørgsmålet selvfølgelig: Hvad skal der
+ske næste gang?
+Socialdemokratiet er positivt stemt for, at vi
+finder en ordning, som betyder, at erhvervet
+næste gang selv er i stand til at klare tingene.
+Men det er for os lidt svært at se, om Fremskridtspartiet er parat til andet end flotte ord,
+om Fremskridtspartiet også er klar til at medvirke til eventuelle lovmæssige konsekvenser.
+Vi har faktisk i Danmark mange eksempler
+på solidariske ordninger, som fungerer godt og
+tilfredsstillende. Og spørgsmålet er, om det ikke er det eneste, der kan sikre danske bønder,
+når vi har ekstraordinære vejrforhold, som betyder store indtægtsnedgange.
+Socialdemokratiet vil medvirke til, at vi får
+en grundig undersøgelse af, hvilke systemer
+der findes i andre lande. Vi tror, det vil være
+godt for erhvervet, hvis det for fremtiden selv
+er i stand til at klare for megen sol og for megen regn. Jeg tror, at det ville være i erhvervets
+interesse, at det deltager positivt i det kommende arbejde.
+
+2717
+
+27/11 92: 1. beh. af f. t. beslutn. om private forsikringer af landbrugets afgrøder";Henrik Dam Kristensen
+61619;name_party;":
+Fremskridtspartiet tager i sit beslutningsforslag dels udgangspunkt i den tørke, vi har haft
+i 1992, dels i de mange arrangementer og foranstaltninger, der har været fra Folketingets side i løbet af 1970'erne og 1980'erne. Jeg kan ud
+af bemærkningerne læse, at heller ikke Fremskridtspartiet er begejstret for mange af disse
+selektive støtteordninger, som uvilkårligt vil
+skabe nogle grænsetilfælde, som ofte bliver
+genstand for megen kritik og debat i medierne.
+Det var også derfor, at der i år blev suppleret
+med nogle generelle forslag, som behandles i
+Skatteudvalget. Det Konservative Folkeparti
+har flere gange slået til lyd for behovet for en
+individuel konjunkturudligningsfond, således
+at landmændene selv kan få lov til at lægge op
+i gode tider, så de er i stand til at imødegå en
+situation som den, vi havde i 1992.
+Jeg kan af bemærkningerne se, at Fremskridtspartiet tager udgangspunkt i den stormflodsberedskabsfond, som blev etableret for
+nogle år siden. Men jeg vil gøre opmærksom
+på, at det bærende element i sådan en ordning
+jo er tvangselementet og det, at man på forhånd ved, at kun en meget begrænset kreds af
+forsikringstagere vil blive omfattet af en erstatning. Fremskridtspartiet tager udgangspunkt i,
+at det skal være en frivillig ordning. En konsekvens af en frivillig ordning vil derfor være, at
+tørkefølsomme landmænd vil være særdeles
+interesseret, men kun såfremt tørkeufølsomme
+landmænd er med til at betale til ordningen.
+Det vil altså blive et instrument, hvor man
+overfører penge fra én gruppe landmænd til en
+anden gruppe landmænd.
+Disse instrumenter har vi i forvejen, dels i
+kraft af den nye EF-reform, hvor man med
+Danmark som én udbytteregion flytter midler
+fra landmænd på den dyrkningssikre jord til
+landmænd på den mindre sikre jord. Desuden
+har man Promilleafgiftsfonden, hvor man
+overfører penge efter de samme kriterier. Vi
+kender det også på andre områder. I forsikringsbranchen bruger man udtrykket »dårlige
+liv«, som må betale nogle store præmier. I bilbranchen har man indført nogle rabatsystemer,
+således at de, som påfører forsikringsselskaberne små tab, betaler små præmier, og de,
+som er i en risikogruppe, må betale en højere
+præmie. Vi ved også, at de, som bor under
+blødt tag i et hus, betaler en højere præmie end
+
+2718
+
+dem, der bor under hårdt tag. De, der har huse
+beliggende i områder, hvor tyveri er sandsynligt, må betale en højere præmie.
+Når man så siger, at man ønsker en forsikring mod usædvanligt vejrlig, må vi: svare: Jamen vi har - og det har landbrugsministeren
+også været inde på - allerede forsikringsordninger for haglskade. Hagl har den fordel hvis man kan tale om fordel i denne forbindelse - at det normalt kun giver skade på et stærkt
+begrænset geografisk område.
+Fremskridtspartiet henviser i beslutningsforslaget til nogle EF-ordninger om skader på
+abrikoser, bananer, blommer, blomster, mange
+andre frugter og grønsager og også korn. Men
+hvad er det for skader? Hvis der i forbindelse
+med grønsags- og frugtdyrkning er tale om
+frostskader, kan der være en idé i det, og det
+samme gælder måske insektangreb, men jeg vil
+gerne høre, om der er nogle fortilfælde for,
+nogle paralleller til, at man også kan have tørkeskadeforsikringer på almindelige afgrøder.
+I 1967-68 havde vi nogle særdeles voldsomme stormskader, og der så vi nogle eksempler
+på, hvad det vil sige at være tilsluttet nogle små
+frivillige, gensidige forsikringsselskaber. Skaderne var så store, at disse små selskaber kun
+havde én måde at finansiere erstatningen på,
+og det var ved at udsende en regning på ekstra
+præmie til forsikringstagerne. Jeg kan huske
+meget tydeligt, at for at få dækket skaderne
+sendte man det første år opkrævning på 6-8
+gange normalpræmie ud, og året efter var det
+10-20 gange normalpræmie for at få skaderne
+dækket. De, som ikke havde nogle skader,
+måtte betale til dem, som havde skaderne, og
+man så desværre en masse eksempler på, at der
+var nogle, som pludselig havde skader, som
+man ikke normalt ville have anmeldt til forsikringsselskabet.
+Jeg vil gerne gentage, at så længe der er tale
+om frivillige arrangementer, er det op til landmændene selv at lave aftaler med forsikringsselskaberne, men hvis der skal være tale om
+tvang, er Det Konservative Folkeparti imod.
+Vi foreslår i stedet en konjunkturudligningsfond.
+(Kort bemærkning).";Rønholt
+65960;name_party;":
+Hr. Rønholt tog ikke overraskende erhver.vets eget forslag om en konjunkturudligningsfond frem.
+
+2719
+
+27/11 92: 1. beh. af f. t. beslutn. om private forsikringer af landbrugets afgrøder";Henrik Dam Kristensen
+66175;title_name;"Det er sådan, at vi i dag har en virksomhedsskatteordning, som på mange måder er anvendelig. Men i det hele taget tror jeg, at det er
+betænkeligt at ordne de problemer, som tørke
+giver, over skattebilletten. Der vil være mange,
+som ikke vil være i stand til at hensætte midler
+til den ene eller den anden ordning. Ofte vil
+det typisk være yngre landmænd, som vælger
+at investere i stedet for at hensætte, og det kan
+jo være meget fornuftigt. Andre ville måske
+vælge - og ikke uden grund - at forhøje privatforbruget, fordi det i forvejen er meget lavt, så
+jeg er sikker på, at ligegyldig hvilke ordninger
+vi lavede, ville der være en række, specielt yngre, landmænd, som ikke ville være i stand til
+at udnytte dem.
+Endelig må jeg sige, at det vel er en dårlig
+vane, vi har her i Folketinget, at alle problemer
+skal klares over skattebilletten på den ene eller
+den anden måde.
+Jeg vil slutte af med at sige, at jeg synes, hr.
+Rønholt klart dokumenterede, at det formodentligt vil være vanskeligt med en privat forsikringsordning, men at den solidariske løsning ser ud til at være det, der måske kan være
+brugbart her.
+(Kort bemærkning).";Henrik Dam Kristensen
+67323;name_party;":
+Ikke særlig overraskende foreslår Socialdemokratiet en solidarisk ordning. Nu er vi i
+gang med både nationalt, i EF og på verdensplan at skabe markedsøkonomiske vilkår for
+landbruget. Hvis Folketinget den ene gang efter den anden spænder et sikkerhedsnet ud under en vis gruppe af udøvere og sender regningen videre til resten, ja, så vil markedsøkonomiske kræfter ikke få lov til at afspejle virkeligheden. Landmænd, der køber jord af så ringe
+bonitet, at tørkeskade er særdeles sandsynlig,
+vil under normale forhold, under markedsøkonomiske vilkår, jo heller ikke betale særlig meget for jordtyper af den art, og de kan jo i øvrigt ofte sikre sig med etablering af vandingsanlæg. Men hvis landmænd, der gerne vil sove
+roligt om natten, ønsker at erhverve den noget
+dyrere og dyrkningssikrere jord, finder jeg det
+ejendommeligt, at de bagefter derudover også
+skal være med til at betale for dem, som er parat til at tage den risiko, som de andre ikke er.
+(Kort bemærkning).
+
+2720";Rønholt
+68332;name_party;":
+Det, jeg må udlede af hr. Rønholts sidste
+indlæg her, er, at de, som har været heldige og
+har mulighed for at bosætte sig på de bedre
+jorder, hvor muligheden for tørke ikke er så
+stor, skal få lov at fortsætte, og så må de andre
+sejle deres egen sø. Det er selvfølgelig et synspunkt at have: det er så et synspunkt, vi ikke
+deler i Socialdemokratiet. Vi må også konstatere, at hr. Rønholt og det parti, han repræsenterer, ikke ligefrem havde den store pung fremme efter sommerens tørke her, så der er ikke
+for de mennesker - som jeg kan vurdere det mulighed for de store statsmidler i fremtiden.
+De skal have lov at sejle, deres egen sø. Det
+synes vi i Socialdemokratiet ikke er rimeligt.";Henrik Dam Kristensen
+69034;name_party;":
+Fremskridtspartiet har holdt ord, og det skal
+man jo normalt ikke klandre nogen for. Fremskridtspartiet vil ikke tage medansvar for tørkepakken, uden at dette beslutningsforslag om
+forsikringer bliver vedtaget.
+Nu kunne jeg så vende det om og sige, at når
+Fremskridtspartiet ikke vil hjælpe landbruget
+og dermed også Folketinget med tørkepakken,
+vil Venstre heller ikke støtte beslutningsforslaget om private forsikringer af landbrugets afgrøder. Men den form for argumentation skal
+jeg lade ligge. Vi har bedre argumenter for at
+sige nej: for vi siger nej.
+I Venstre mener vi, at det er overflødigt at
+lovgive på området. Der er intet til hinder for,
+at forsikringsselskaber tilbyder landbruget en
+afgrødeforsikring: haglskadeforsikringen er jo
+et eksempel. Og hvis landbruget beder om en
+forsikringsordning, tror jeg også, at de får et
+tilbud fra forsikringsselskaberne. Når det ikke
+allerede er sket, er det, fordi det vil være svært
+at lave en rimelig ordning, som både virker, og
+som kan betales, og man har ikke skønnet, at
+det var umagen værd. En lov herom ville heller
+ikke gøre det lettere. Alternativet, som er skitseret i beslutningsforslaget, en privat katastrofefond, er vel mindst lige så umulig.
+Venstres bud på vejrligets problemer er, at
+man lader landmanden selv beholde nogle flere af de: penge, han tjener, og så må han også
+klare de udsving, der bliver i indtjeningen - '
+også på grund af vejrliget. Konjunkturudligningsfonden er jo et eksempel herpå. Det giver
+den enkelte landmand en større frihed og uaf-
+
+2721";Mejdahl
+70583;title_name;"(171)
+27/11 92: 1. beh. af f. t. beslutn. om private forsikringer af landbrugets afgrøder
+
+hængighed, og det er ikke mindst det, landmanden sukker efter i disse tider, hvor alle vil
+regulere alt. Jeg beklager, at det ikke lykkedes
+at komme igennem med sådanne synspunkter i
+finanslovforliget i denne omgang.
+Jeg skal på Venstres vegne afvise beslutningsforslaget, fordi forsikringsmuligheden allerede foreligger, og vi vil ikke være med til at
+lægge pres på landbruget, sådan som der opfordres til i bemærkningerne. Det er jo reelt
+tvang, der er tale om.
+
+2722
+
+Men som sagt, vi afviser forslaget i dag, men
+er meget indstillet på at videregive oplysninger
+om vores forslag og få det revideret og samlet
+se på, hvad vi kan gøre for dansk landbrug i
+katastrofesituationer i fremtic'sii.
+(Kort bemærkning).";Mejdahl
+71400;name_party;":
+Jeg vil gerne spørge fru Birthe Hansen, hvilken forskel der er på den solidariske fond, som
+fru Birthe Hansen tænker på her, og så den aftale, der nu er indgået om at gøre Danmark til
+en udbytteregion, hvor de på den gode jord får
+en underkompensation og de på den dårlige
+jord en overkompensation. Hvilken forskel er .
+der på dette arrangement og så den model, fru
+Birthe Hansen tænker på?";Rønholt
+71812;name_party;":
+Landbrugsministeren afklarede egentlig fra
+begyndelsen et af de spørgsmål, jeg havde, om
+det virkelig skulle være nødvendigt at lovgive
+på dette område, for det kunne jeg ikke rigtig
+forestille mig. Men jeg vil også gerne sige til
+Fremskridtspartiet, at havde det vist sig, at der
+(Kort bemærkning).
+skulle lovgives, ville vi ikke have medvirket til
+Birthe";Birthe Hansen
+72182;name_party;":
+en sådan lovgivning.
+Nu er der jo sikkert også nogle i dansk landFremskridtspartiet foreslår også, at man sideløbende kunne lave en form for katastrofe- brug i dag, der betragter det som en katastrofe,
+fond ud fra de samme principper som storm- at man har fået én region. Det, vi her taler om,
+flodskatastrofefonden. Også det vil SF afvise. er en katastrofesituation, som skyldes vejrguDerimod blev jeg utrolig glad for at høre, at derne eller andre lignende ting. Det er menneden socialdemokratiske ordfører talte om en skehænder, der har lavet det, at Danmark ikke
+solidarisk katastrofefond: det gjorde den kon- skulle opdeles, men fremstå som én samlet reservative ordfører bestemt ikke. Men jeg tror, gion, og det mener jeg er til skade for det samat det ville være meget gavnligt for Landbrugs- lede landbrug.
+udvalget og for erhvervet som sådan, at vi nu
+fik undersøgt, hvilke muligheder der reelt vil Svend Aage Jensen (CD):
+kunne være i fremtiden, som kan afbøde og afNår Centrum-Demokraterne ikke kan stemværge det, som både Venstres ordfører og den me for dette lovforslag, er det ikke, fordi vi ikkonservative ordfører ved tidligere lejligheder ke forstår baggrunden for, at Fremskridtspartihar beklaget dybt, nemlig at landbruget et fremsætter det: det er velbeskrevet i beustandselig skal henvende sig til Folketinget mærkningerne til forslaget. Nej, vore bevægfor at opnå en form for økonomisk hjælp: og grunde er, at vi finder, at det i den situation,
+jeg skal ikke sige, at hvis man havde gjort, som dansk landbrug i øjeblikket står i, ikke just er
+vi foreslog i 1983 - det har jeg sagt adskillige flere omkostninger, landbrugserhvervet har
+gange fra denne talerstol - havde man været i behov for. Desuden har den enkelte landmand
+stand til at imødekomme de problemer, som- jo lov til - såvel nu som før - at tegne private
+skadeforsikringer.
+merens tørke gav det danske landbrug.
+Men CD finder det rigtigt, at vi i samarbejde
+Men jeg synes, vi sammen skal se fremad og
+prøve at se, om der dog ikke kan etableres en med landbruget finder frem til en acceptabel
+eller anden form for løsning. Det kan godt væ- og brugbar løsning. Konjunkturudligningsfonre, at nogle solide landmænd og de med de go- den er jo nævnt af flere ordførere.
+CD kan som sagt ikke støtte det fremsatte
+de jorder synes, det er uretfærdigt, men der er
+jo mange andre områder her i samfundet, hvor forslag.
+man er nødt til at se på helheden og på det, der
+gavner erhvervet samlet, og ikke bare på sin Lysholm Christensen (KRF):
+egen lille hassan.
+Det er ikke vanskeligt at forstå, hvorfor
+
+2723
+
+27/11 92: 1. beh. af f. t. beslutn. om-private forsikringer af landbrugets afgrøder";Hansen
+74873;title_name;"Fremskridtspartiet har taget initiativ til dette
+beslutningsforslag. Endnu en gang har vi oplevet klimamæssige forhold, som har påført
+dansk landbrug og dermed det danske samfund meget betydelige tab, som var uforudsigelige. Og det er ikke første gang, det er noget, vi
+oplever gentagne gange på disse breddegrader,
+at regn, tørke, storm og hagl ødelægger en del
+af avlen på de danske marker. Men det er dog
+sjældent, at det er så omfattende, som det har
+været i år - heldigvis, kan vi sige.
+Så baggrunden er forståelig nok. Men Fremskridtspartiets beslutningsforslag må vi alligevel afvise, for det løser ikke problemet. For det
+første foreslår man en forsikringsordning. Jamen den mulighed er allerede til stede, det er
+allerede nu muligt at tegne sig en forsikring på
+forskellige områder, og man gør det da også,
+f.eks. når det gælder haglskader. Men der er
+bare det problem, at hvis vi tænker på den tørke, vi har oplevet i sommer, vil en forsikring på
+det område være så kostbar, at den ikke vil være en attraktiv mulighed for nogen landmand,
+den vil simpelt hen ikke kunne svare sig rent
+økonomisk. Der har vel været nogle, der har
+gjort forsøg på at udregne præmier på området, og jeg har ikke hørt om nogen forsikringsselskaber, som har turdet binde an med et realistisk beløb på dette område: i hvert fald blev
+præmien så høj, så ingen formentlig ville tegne
+en forsikring. Forsikringsmuligheden løser ikke problemet, for så var det formentlig allerede
+sket, så havde man sikkert forsikret sig imod
+disse uforudsete katastrofer.
+Katastrofefonden må vi også afvise, idet der
+ligger en snert af tvang i det. Vi mener også, at
+det vil være uheldigt at opbygge en sådan
+fondsdannelse. Der vil blive problemer med
+udmåling af skader og med at få pengene delt
+fornuftigt og retfærdigt ud i forbindelse med
+store skader. Der ville også skulle opbygges et
+stort administrativt apparat, og det plejer ikke
+at være Fremskridtspartiets politik.
+Det, der er behov for, er, som andre ordførere også har sagt det, og som vi også tidligere
+har sagt det, nogle skattemæssige regler, så
+hver enkelt ejendom har mulighed for at koilsolidere sig, at lægge penge til side de år, det
+går godt, til imødegåelse af tab i dårlige år, altså en konjunkturudligningsfond af en eller anden art, og det er formentlig over skattelovgivningen, vi skal løse det problem.
+
+2724
+
+Vi må afvise løsningsforslagene i Fremskridtspartiets beslutningsforslag, men vi må
+nok regne med at skulle vende tilbage til en
+model, som kan løse landbrugets problemer på
+længere sigt, for det er uværdigt både for erhvervet og for Folketinget, at vi gentagne gange skal drøfte disse ting og komme med lappeløsninger.";Lysholm Christensen
+77566;name_party;":
+Fredag den 20. november 1992 vedtog Folketinget loven om ydelsestilskud vedrørende
+høsttabsloven til tørkeramte jordbrugere.
+Fremskridtspartiet stemte som bekendt imod,
+og det gjorde vi bl.a. af de grunde, som jeg vil
+komme ind på ved behandlingen af det foreliggende beslutningsforslag.
+Et spørgsmål står nemlig tilbage: Hvad vil
+landbruget og Folketinget gøre næste gang,
+der kommer en tørke, måske allerede til næste
+år? Fremskridtspartiet har derfor set tilbage på
+tidligere hjælpeordninger til landbruget. Der
+har været ydet hjælp til landbruget i 1975,
+1976, 1983, 1987 og nu igen i 1992. De fem
+gange, der har været ydet hjælp, har ordningerne ikke været væsentligt forskellige. Man
+har blot ændret procenterne og beløbsstørrelserne, ikke de grundlæggende principper.
+Da det stod klart i sommer, at der også i år
+var tørkeproblemer af et omfang, der gjorde
+hjælp nødvendig, begyndte Fremskridtspartiet
+derfor at se tilbage på de førnævnte hjælpeordninger. Det karakteristiske ved alle tidligere
+ordninger har været, at de kun har været gældende for de pågældende år og ikke havde noget fremtidsperspektiv, og det samme gælder
+for de love, som Folketinget vedtog for en uge
+siden. De hjælper kun i år og kun i begrænset
+omfang, og tilmed har man tømt grovvarefondene for at finansiere dette års hjælp. Det kan
+man altså ikke gøre næste gang.
+Spørgsmålet om, hvad man vil gøre, næste
+gang der bliver tørke, står således åbent og
+ubesvaret tilbage, og det er et meget relevant
+spørgsmål. Alle partier må erkende, at ingen
+ved, hvornår der bliver tørke næste gang, og at
+der ikke findes nogen løsninger med hensyn til
+at yde hjælp, og konsekvensen heraf må altså
+blive, at Folketinget vil blive bedt om hjælp
+næste gang og.næste gang igen, indtil Folketinget finder en permanent løsning på dette tilbagevendende problem.
+
+2725
+
+27/11 92: 1. beh. af f. t. beslutn. om private forsikringer af landbrugets afgrøder";Niels Højland
+79501;title_name;"Fremskridtspartiets beslutningsforslag, som
+vi behandler i dag, foreslår en permanent løsning. Med forslaget ønsker vi at tage hul på
+den debat, der burde komme i naturlig forlængelse af hjælpen til landbruget, nemlig debatten om, hvordan vi kan forhindre, at en tilsvarende situation opstår i fremtiden.
+Med dette beslutningsforslag ønsker Fremskridtspartiet at opnå to ting: for det første at
+alle partier erkender det utilfredsstillende i, at
+Folketinget ikke kan yde vedvarende hjælp,
+men kun i enkeltsituationer og endda kun i tilfælde af direkte katastrofer. Spørgsmålet om
+en reel katastrofe er relevant i år, fordi høsttabet først blev anslået til omkring 30 pet. og
+endda endnu mere i nogle analyser, men senere har det dog vist sig, at tabet er nede på omkring 20 pet.
+Vort andet ønske er, at alle partier positivt
+forsøger at finde en permanent løsning på dette tilbagevendende problem. Herved hjælper
+vi landbrugserhvervet, der helt berettiget føler
+sig ilde berørt over at skulle stå med hatten i
+hånden, når der har været tørke, og vi hjælper
+også os selv, når dette problem er løst, fordi vi
+ikke fremover skal behandle anmodninger fra
+landbruget om hjælp.
+Der er selvfølgelig også andre grundlæggende, problemer, som forhindrer en ordentlig
+konsolidering. Jeg tænker her på skatten på
+produktionsjord"" nemlig den såkaldte jordskat. Men tilbage til behandlingen af dette beslutningsforslag. Fremskridtspartiet har i beslutningsforslaget anvist en vej ud af problernerne. Vi har foreslået en model, der er parallel med lovgivningen om erstatning for stormflodsskader, altså med udgangspunkt i den
+nævnte lovgivning. I vores søgen efter løsninger er vi også stødt på en informationsrapport
+af 20. januar 1992 fra EF's Økonomisk/Sociale
+Udvalg om EF-ordninger for afgrødeforsikringer i landbruget. Rapporten omhandler forsikringsordninger for landmænd i EF, der rammes økonomisk af usædvanlige klimatiske begivenheder. Selv om rapporten ikke indeholder en færdigstrikket løsning, der direkte kan
+overføres til danske forhold, er det alligevel
+vores indtryk, at den med fordel kan bruges
+som inspiration til et kommende arbejde for at
+finde en dansk løsning.
+Som det fremgår af bemærkningerne til beslutningsforslaget, er Fremskridtspartiet meget
+
+2726
+
+åbent over for den endelige udformning af det
+kommende lovforslag. Vi har anvist to modeller for udformning af tørkekatastrofefonden:
+enten skal de private forsikringsselskaber udforme, etablere og administrere forsikringsordningen, eller også skal der etableres en privat
+katastrofefond - gerne under landbrugets egne
+organisationer - som kan udbetale erstatning i
+tilfælde af usædvanligt vejrlig. Begge modeller
+foreslås opbygget over samme skabelon som
+loven om erstatning efter stormflod.
+Med hensyn til finansieringen foreslår vi, at
+forsikringspræmien pr. dyrket ha - gerne fordelt på forskellige afgrøder, korn, raps, græs,
+roer m.v. - naturligvis skal dække alle omkostningerne ved forsikring af de pågældende afgrøder, dels for at give andre mulighed for at
+tilbyde alternativ forsikring, dels for at den enkelte landmand kan se den reelle omkostning
+ved forsikring af afgrøderne. Skulle en sådan
+forsikringspræmie vise sig at blive for kostbar
+for landbruget, er Fremskridtspartiet indstillet
+på at lette landbruget for nogle af de andre afgifter, som erhvervet trækkes med, så ordningen forbliver neutral. Man kunne eventuelt ophæve nogle jordskatter, mod at landbruget selv
+skulle forsikre deres afgrøder, altså efter princippet »noget for noget«.
+Jeg skal kort nævne, at Fremskridtspartiet
+senere vil fremsætte forslag om at afskaffe
+jordskatterne eller alternativt reducere dem.
+Landbruget kunne f.eks. afskrive muligheden
+for at få hjælp fra staten i forbindelse med
+kommende iørkeproblemer mod helt eller delvis at slippe for jordskatterne. For Fremskridtspartiet er det afgørende, at Folketinget
+ikke vedtager en eller anden form for statsstøtte til forsikring af afgrøderne, men lader forsikringen være et anliggende mellem den enkelte
+landmand og det private forsikringsselskab eller tørkekatastrofefonden. Hermed opnås mulighed for en alternativ forsikring for den enkelte landmand samt naturligvis mulighed for,
+at landmanden helt kan undlade at tegne forsikring. Det må nemlig være helt op til den enkelte landmand, om han vil gøre det.
+Fremskridtspartiet håber, at alle partier i
+Folketinget positivt vil støtte dette beslutningsforslag i erkendelse af, at der nu må etableres
+permanente løsninger på dette tilbagevendende problem, og samtidig håber jeg, at alle partier vil bidrage positivt til at finde fremtidige
+og holdbare løsninger.
+
+2727
+
+27/11 92: 1. beh. af f. t. beslutn. om private forsikringer af landbrugets afgrøder";Niels Højland
+84237;title_name;"Til sidst vil jeg blot sige tak til ordførerne fra
+faktisk samtlige partier. Selv om man i vidt
+omfang ganske vist ikke var positive over for
+forslaget, har det dog vist sig, at samtlige Tingets partier kan se, at der er et problem for
+dansk landbrug, og jeg håber, at vi kan løse det
+i fællesskab.
+Under den debat, vi har haft i sommer, er
+det også kommet frem fra andre partier, at
+jordskatterne skulle væk, og det er da muligt,
+vi kan etablere et flertal for at få dem afskaffet
+og samtidig løse konsolideringsproblemet i det
+danske landbrug. I øvrigt er det ikke bare
+landbruget, det er erhvervslivet som sådant,
+der har behov for bedre konsolideringsmuligheder, og jeg håber, at dette beslutningsforslag
+kan være en medvirkende årsag til, at vi kan
+skabe bedre forhold for vort erhvervsliv, også
+selv om det ikke skulle blive vedtaget.
+(Kort bemærkning).
+Henrik Dam Kristensen- (S):
+Jeg kan forstå, at Fremskridtspartiets ordfører takkede for en næsten total afvisning af beslutningsforslaget.
+Hr. Niels Højland sagde undervejs, at Fremskridtspartiet havde anvist en vej eller to til en
+løsning med beslutningsforslaget. Jeg synes,
+det kunne være gavnligt at få uddybet en bemærkning i beslutningsforslaget, hvor der står:
+»... eller der gives alternativt muligheder
+for at etablere en privat katastrofefond ...<<.
+Hvad menes der med det? Skal landbrugsministeren henstille til præsidenten for Landbrugsraadet at gå i gang med at lave en katastrofefond, eller hvad ligger der mere præcist i
+formuleringen? Det kunne måske være interessant at få at vide.
+(Kort bemærkning).";Niels Højland
+85833;name_party;":
+Der ligger selvfølgelig i forslaget, at vi appellerer til landbrugsministeren om også at tage kontakt til Landbrugsraadet, når der skal
+etableres en varig løsning, eventuelt en katastrofefond. Men som sagt er vi åbne over for
+alle løsninger, bare de kan blive permanente,
+så vi ikke kommer til at stå i den samme situation en gang til. Det er det, vi lægger op til.
+Hermed sluttede forhandlingen.
+
+2728
+
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Niels Højland
+86364;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Landbrugs- og Fiskeriudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+Den sidste sag på dagsordenen var:
+6) Første behandling af lovforslag nr. L 91:
+Forslag til lov om ændring af lov om individuel boligstøtte og lov om byfornyelse og boligforbedring.
+Af boligministeren (Svend Erik Hovmand).
+(Fremsat 18/11 92).
+Lovforslaget sattes til forhandling.
+Forhandling";Henning Rasmussen
+86877;name_party;":
+Da vores ordfører på området, fru Lissa Mathiasen, ikke har kunnet være til stede i dag,
+har jeg lovet på hendes vegne at knytte nogle
+få kommentarer til lovforslaget, som vi er positive over for, men hvor vi gerne vil have undersøgt nogle enkelte ting i udvalget.
+Der er tre elementer i lovforslaget, som i øvrigt i høj grad består af tekniske ændringer
+som konsekvens af andre lovændringer. For
+det første indføres der en bagatelgrænse på 600
+kr. for, hvornår man skal tilbagebetale for meget udbetalt boligstøtte. I bemærkningerne til
+lovforslaget står der, at den mindreindtægt på
+3 mio. kr., der kan blive tale om, vil blive modsvaret af tilsvarende budgetforbedringer inden
+for Boligministeriets område, og det vil vi se
+nærmere på i udvalget.
+Det andet element om, at sygedagpenge ikke
+længere kan kræves tilbagebetalt ved tilkendelse af social pension, kan vi også tilslutte os.
+Og så er der endelig det tredje punkt, der
+giver en forlængelse af aftalen med Grundejernes Investeringsfond med hensyn til at medvirke ved byfornyelsessager for ejere af private
+
+2729
+27/11 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte, byfornyelse og boligforbedr.";Karen Jespersen
+88059;title_name;"udlejningsejendomme. Det kan vi også støtte,
+men vi vil henstille til boligministeren, at ministeren kommer i gang med at få lavet en ny
+løsningsmodel for det problem, der gemmer
+sig bag dette punkt.
+Med disse bemærkninger skal jeg tilkendegive vores positive holdning til forslaget.";Karen Jespersen
+88358;name_party;":
+Lovforslag nr. L 91 indeholder ikke de store
+og gennemgribende ændringer. Der er fortrinsvis tale om mindre justeringer og tilpasninger
+til gældende lovgivning.
+Lad mig kort nævne et par af punkterne. Minimumskravet for tilbagebetaling af for meget
+udbetalt boligstøtte på 600 kr. kan vel betegnes
+som en hensigtsmæssig regelsanering. Af hensyn til kommunerne er det jo også på sin plads
+at få justeret bestemmelserne for de befolkningsgrupper, som er omfattet af udlændingeloven, så kommunerne kan få den fornødne refusion af boligstøtteomkostningerne. Forlængelsen af ordningen, hvorefter Grundejernes
+Investeringsfond refunderer staten en del af
+udgifterne til ydelsesbidrag på nominelle lån,
+som er optaget til finansiering af værdiforøgende bygningsudgifter i private udlejningsejendomme, kan Venstre ligeledes støtte, ligesom vi kan støtte udvidelsen af tilsagnsbeløbet
+fra 2,5 mia. til 2,7 mia. kr.
+Venstre kan støtte lovforslaget, og på De
+Konservatives vegne vil jeg også gerne give tilslutning til forslaget.";Erik Larsen
+89395;name_party;":
+SF har ikke noget at indvende mod det foreliggende lovforslag, og vi vil gerne tilsige boligministeren en positiv udvalgsbehandling.
+Det forekommer os, at der er tale om rimelige
+og fornuftige justeringer af den eksisterende
+lovgivning.";Pelle Voigt
+89649;name_party;":
+Forslaget har karakter af, at man har haft
+lidt blandede bolcher liggende i Boligministeriet og har samlet dem i et lovforslag med et
+meget varieret indhold. Det gør det selvfølgelig besværligt at foretage en helhedsvurdering
+af forslaget, men det må vi vende tilbage til,
+når vi ser, hvad udvalgsarbejdet har medført.
+Lad mig komme med et par bemærkninger
+til elementerne i forslaget. For det første synes
+
+2730
+
+vi, at bagatelgrænsen er en glimrende idé, og
+jeg håber, at boligministeren kan inspirere den
+nyudnævnte skatteminister til at indføre en tilsvarende regel. Alt for ofte må store dele af befolkningen jo muntre sig, når lokalpressen viderebringer billeder af girokort med opkrævninger på én krone eller tilbagebetaling af
+overskydende skat på 2 kr. osv. Med de meget
+store administrative omkostninger, der er ved
+den slags, er det selvfølgelig absolut seriøst og
+fornuftigt at have sådan en 600 kr.-bagatelgrænse. Det kan være, der kan argumenteres
+for, at den skal gå ved 700 kr. eller 500 kr., men
+vi er absolut tilhængere af en sådan bagatelgrænse. De redaktionelle ændringer har vi
+selvfølgelig heller ingen indvendinger imod,
+og det var så de første to elementer.
+De sidste to elementer er vi til gengæld knap
+så begejstrede for. Først afsnittet om Grundejernes Investeringsfond. Det er jo endnu en
+gang et eksempel på denne cigarkasseøkonomi, hvor man udbetaler ved den ene cigarkasse
+og kræver ind ved den anden. Det var dog
+langt bedre at lade pengene blive i Grundejernes Investeringsfond og lade grundejerne selv
+disponere over dem frem for denne frem- og
+tilbageførsel, så det punkt er vi ikke absolut
+begejstrede for, og derfor vil vi meget gerne have belyst nærmere, hvilke konsekvenser det
+får. Men umiddelbart må vi sige, at det ikke er
+noget, vi kan udtrykke begejstring for, særlig i
+betragtning af, at vi allerhelst så, at den ordning slet ikke fandtes.
+Så er der endelig det sidste punkt tilbage, og
+det er måske også det, som vi fra Fremskridtspartiet nærer den største skepsis over for. Det
+er spørgsmålet om, hvorvidt boligtilskuddet til
+asylansøgere og andre, der er omfattet af udlændingeloven, skal udbetales på den ene eller
+den anden måde. Situationen er nemlig den, at
+vi mener i Fremskridtspartiet, at disse personer slet ikke skal være berettigede til at modtage hjælp via boliglovgivningen. Hvis man ønsker at bosætte sig i Danmark, må man på forhånd gøre sig klart, hvilke omkostninger der er
+ved at bo i Danmark, og ikke komme med forventningen om, at vi via statskassen subsidierer deres ophold. Uanset om det er en amerikaner, en svensker, en iraner eller en borger i
+det tidligere Jugoslavien, er vores synspunkt
+det samme, nemlig at de, der kommer hertil,
+må betale den fulde boligudgift uden subsidier.
+
+2731
+
+27/11 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte, byfornyelse og boligforbedr.";Kim Behnke
+92516;title_name;"Omvendt mener vi også, at det er bedre at
+have disse subsidier præciseret på finansloven,
+så vi ved helt nøjagtigt, hvad det koster de danske skatteydere at give tilskud til personer, der
+er omfattet af udlændingeloven. Vi er altså sådan set positive over for, at man flytter det
+over til staten, men vi kræver, at det opføres på
+en separat linie i finansloven i stedet for at blive skjult i en af de store konti, så man mister
+overblikket over, hvor mange penge det egentlig koster.
+Med disse kritiske bemærkninger vil vi indstille forslaget til et grundigt udvalgsarbejde,
+hvor disse punkter kan blive belyst. Alt afhængigt af, i hvilket omfang Fremskridtspartiets
+synspunkter måtte blive imødekommet, vil vi
+tage endelig stilling, når vi når frem til tredjebehandlingen.";Kim Behnke
+93312;name_party;":
+Det fremsatte lovforslag indeholder 2 hovedelementer: for det første ændringer vedrørende den individuelle boligstøtte, for det andet ændringer vedrørende byfornyelse og boligforbedring.
+Ændringerne, der vedrører den individuelle
+boligstøtte, er især konsekvenser af ændringer
+i anden lovgivning. Bagatelgrænsen på 600 kr.
+for tilbagebetaling af for meget modtaget boligstøtte er efter Centrum-Demokraternes opfattelse velbegrundet. Beløbet, som er fastsat i
+1991-niveau, men er reguleret ligesom de øvrige satser, udgør for 1993 636 kr., men disse beløb modsvares af betydelige administrative lettelser for kommunerne og af budgetforbedringer på Boligministeriets område.
+Den administrative lettelse gør sig også gældende i bestemmelsen om, at sygedagpenge,
+som er udbetalt i det tidsrum, hvor en person
+har fået udbetalt en bevilget pension, ikke længere skal modregnes. Som konsekvens heraf
+bortfalder reglen om modregning af boligstøtte, som er ydet i samme periode.
+CD, finder det også rigtigt, at klager over
+kommunernes boligstøtteafgørelser fremover
+skal indbringes for det nyoprettede Sociale
+Ankenævn, også når det drejer sig om Københavns og Frederiksberg Kommuner. Vi har også bemærket, at lovforslaget tager sigte på at
+fastholde samme personkreds, som omfattes af
+bistandsloven efter dennes ændring i maj 1992,
+under boligstøttelovens bestemmelser.
+
+2732
+
+CD finder det ligeledes rigtigt, at de oprindelige lånevilkår fastholdes for beboerindskudslån, som er optaget før den 1. januar
+1993. Kun lån, som er optaget efter denne dato, falder ind under de nye bestemmelser.
+Ændringer vedrørende byfornyelser og boligforbedringer omhandler en forlængelse af
+den periode, hvor Grundejernes Investeringsfond skal refundere staten en del af udgifterne
+til ydelsesbidragene, og endelig forhøjes, de
+samlede beløb, inden for hvilke Grundejernes
+Investeringsfond yder re fusion, fra 2,5 mia. kr.
+til 2,7 mia. kr.
+CD har ingen væsentlige indvendinger mod
+dette lovforslag, ud over at jeg synes, at lovforslagets bemærkninger kunne have. været mere
+uddybende, samt at lovforslaget i realiteten indeholder to lovforslag. Men vi vil give det en
+positiv medfart i det videre udvalgsarbejde.";Svend Aage Jensen
+95529;name_party;":
+Lovforslaget er en konsekvens af ændringer
+i anden lovgivning, og på Kristeligt Folkepartis vegne skal jeg udtrykke støtte til det foreliggende forslag.
+Vi synes, det er udmærket, at man ændrer
+denne bagatelgrænse, så den nu bliver 600 kr.
+Jeg skal også nævne ændringerne vedrørende
+Grundejernes Investeringsfond og sige, at vi
+både kan tilslutte os det foreslåede og de øvrige punkter i lovforslaget.
+Jeg skal ganske kort tilsige vor støtte til en
+hurtig gennemførelse af lovforslaget, og da
+ordføreren fra Det Radikale Venstre ikke kan
+være til stede, skal jeg også give tilslutning til
+lovforslaget på dette partis vegne.
+Boligministeren (Svend Erik Hovmand):
+Jeg vil gerne takke for en bred og positiv tilslutning til dette lovforslag, og jeg skal meget
+gerne bidrage til, at de rejste spørgsmål bliver
+behandlet og besvaret grundigt under udvalgsbehandlingen.
+Jeg vil dog godt allerede nu gøre en enkelt
+bemærkning til nogle af de spørgsmål, som er
+stillet fra ordførernes side. Hr. Kim Behnke
+spurgte, hvorfor man kører videre med dette
+cigarkassesystem, som det blev kaldt, og jeg
+kan svare - og det bliver også et svar til, den
+socialdemokratiske ordfører - at vi er jo i fuld
+gang med at finde frem til et ændret byfornyelsessystem, så vi ikke længere vil have brug for
+
+2733
+
+27/11 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte, byfornyelse og boligforbedr.";Lysholm Christensen
+96926;title_name;"denne ordning. Der er kun tale om, at vi forlænger den eksisterende ordning i et år, og jeg
+går ud fra, at vi inden da har fået et ændret
+system op at stå. I øvrigt er jeg ganske enig i hr.
+Kim Behnkes bemærkninger om bagatelgrænser, og jeg tror også, at de ændringer af teknisk
+karakter, som ligger i lovforslaget, vil blive opfattet som helt naturlige og rimelige ændringer.
+Så derfor endnu en gang tak for en positiv
+modtagelse af lovforslaget.
+Hermed sluttede forhandlingen.
+
+2734
+
+ligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Boligministeren
+97594;title_name;":
+Der er ikke mere på dagsordenen.
+Folketingets næste møde afholdes tirsdag
+den 1. december 1992 kl. 13.00.
+
+Afstemning
+
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.
+
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte
+ugeplan.";Henning Rasmussen
+97999;title_name;":
+Jeg foreslår, at lovforslaget henvises til Bo-
+
+Mødet hævet kl. 11.53";Henning Rasmussen

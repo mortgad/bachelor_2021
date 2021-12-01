@@ -1,0 +1,2050 @@
+split;reason;text;value
+0;;"6251
+
+8/2 94: Dagsorden
+
+51. møde";
+71;Time;"Dagsorden:
+1) Tredje behandling af lovforslag nr. L 83:
+Forslag til lov om ændring af lov om visse
+selskabers aflæggelse af årsregnskab m.v., lov
+om anpartsselskaber med flere le ve. (Undersøgelse af årsregnskaber).
+Af industriministeren (Trøjborg).
+2) Tredje behandling af lovforslag nr. L 84:
+Forslag til lov om erhvervs rivende virksomheder.
+Af industriministeren (Trøjborg).
+3) Tredje behandling af lovforslag nr. L 107:
+Forslag til lov om ændring af lov om individuel boligstøtte. (Ændret pensionsbegreb).
+Af boligministeren (Kofod-Svendsen).
+4) Anden behandling af lov forsk g nr. L 72:
+Forslag til lov om ændring af lov om kommunale valg. (Ophævelse af ikkenordiske
+statsborgeres valgret og valgbarhed).
+Af Poul Nødgaard (FP) m.fl.
+5) Anden behandling af lovforslag nr. L 138:
+Forslag til lov om ændring af lov om gebyrer
+og morarenter vedrørende viss: ydelser, der
+opkræves eller inddrives af amts kommuner og
+kommuner. (Lønindeholdelse).
+Af indenrigsministeren (Birte Weiss).
+6) Forespørgsel nr. F 19:
+Forespørgsel til statsministeren, trafikministeren og miljøministeren [om, hvad regeringen agter at foretage sig, efter at Sverige har
+udskudt beslutningen om 0res ndsforbindelsen].
+Af Ole Donner (FP) m.fl.
+
+6252
+
+7) Første behandling af beslutningsforslag nr. B
+53:
+Forslag til folketingsbeslutning om fjernelse
+af invaliditetsrisikobetinget diskrimination i
+pensionsordninger.
+Af Rahbæk Møller (SF) m.fl.
+
+Meddelelser fra formanden:";kl. 13.00
+1544;title_name;":
+Medlemmer af Folketinget Per Stig Møller
+(KF), Pia Christmas-Møller (KF), Eva Kjer
+Hansen (V) og Helge Sander (V) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af lov om Lønmodtagernes Dyrtidsfond. (Udbetalingsregler).
+(Lovforslag nr. L 192).
+Medlemmer af Folketinget Pernille Sams
+(KF), Aagaard (KF), Bodil Thrane (V) og Mejdahl (V) har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til lov om ændring af realkreditlov.
+(Långivning til ombygning af erhvervsejendomme til beboelse).
+(Lovforslag nr. L 193).
+Medlemmer af Folketinget Kirsten Jacobsen
+(FP), Kim Behnke (FP), Aage Brusgaard (FP),
+Pia Kjærsgaard (FP) og Poul Nødgaard (FP)
+har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til lov om ændring af lov om lån til
+betaling af ejendomsskatter og om ændring af
+ligningsloven.
+(Lovforslag nr. L 194).
+Medlemmer af Folketinget Ole Donner
+(FP), Kirsten Jacobsen (FP), Pia Kjærsgaard
+(FP) og Poul Nødgaard (FP) har meddelt mig,
+at de ønsker skriftligt at fremsætte:
+Forslag tilfolketingsbeslutning om afskaffelse
+af arve- og gaveafgiften.
+(Beslutningsforslag nr. B 66).
+Medlemmer af Folketinget Jan Køpke Christensen (FP), Kim Behnke (FP), Aage Brusgaard (FP), Niels Højland (FP), Kirsten Jacobsen (FP) og Pia Kjærsgaard (FP) har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+
+6253
+
+8/2 94: Meddelelser fra formanden";Grove
+2954;title_name;"Forslag til folketingsbeslutning om indførelse
+af et resultatorienteret finansierings- og bevillingssystem i sygehussektoren.
+(Beslutningsforslag nr. B 67).
+Medlemmer af Folketinget Rahbæk Møller
+(SF), Gade (SF), Birgitte Husmark (SF), Hanne Thanning Jacobsen (SF), Riishøj (SF) og
+Ebba Strange (SF) har meddelt mig, at de ønsker til undervisningsministeren at stille følgende:
+Forespørgsel:
+»Hvad agter regeringen at foretage sig for at
+sikre en bedre kønsfordeling blandt de ansatte
+på universiteterne og de højere læreanstalter?«
+(Forespørgsel nr. F 25).
+Skriftlig fremsættelse afforslag:";Anden næstformand
+3566;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om Lønmodtagernes Dyrtidsfond. (Udbetalingsregler).
+(Lovforslag nr. L 192).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager lovforslaget, og anbefaler det til
+Tingets velvillige behandling.";Per Stig Møller
+3891;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af realkreditlov.
+(Långivning til ombygning af erhvervsejendomme til beboelse).
+(Lovforslag nr. L 193).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager beslutningsforslaget, og anbefaler
+det til Tingets velvillige behandling.";Pernille Sams
+4248;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til lov om ændring af lov om lån til
+betaling af ejendomsskatter og om ændring af
+ligningsloven.
+(Lovforslag nr. L 194).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager lovforslaget, og anbefaler det til
+Tingets velvillige behandling.
+
+6254";Kirsten Jacobsen
+4596;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig herved at fremsætte:
+Forslag til folketingsbeslutning om afskaffelse
+af arve- og gaveafgiften.
+(Beslutningsforslag nr. B 66).
+Jeg henviser til de bemærkninger, der ledsager forslaget, og anbefaler det til Tingets velvillige behandling.";Ole Donner
+4912;name_party;":
+Som ordfører for forslagsstillerne tillader jeg
+mig hermed at fremsætte:
+Forslag til folketingsbeslutning om indførelse
+af et resultatorienteret finansierings- og bevillingssystem i sygehussektoren.
+(Beslutningsforslag nr. B 67).
+Jeg henviser i øvrigt til de bemærkninger,
+der ledsager beslutningsforslaget, og anbefaler
+det til Tingets velvillige behandling.
+Den første sag på dagsordenen var:
+1) Tredje behandling af lovforslag nr. L 83:
+Forslag til lov om ændring af lov om visse selskabers aflæggelse af årsregnskab m.v., lov om
+anpartsselskaber med flere love. (Undersøgelse
+af årsregnskaber).
+Af industriministeren (Trøjborg).
+(Fremsat 24/11 93. Første behandling 1/12
+93. Betænkning 27/1 94. Anden behandling
+4/2 94).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget vedtoges med 75 stemmer (S,
+SF, FP, CD, RV og KRF) mod 41 (KF og V).";Jan Køpke Christensen
+5852;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+
+6255
+
+8/2 94: 3. beh. af f. t. 1. om erhvervsdrivende virksomheder
+
+Den næste sag på dagsordenen var:
+2) Tredje behandling af lovforslag nr. L 84:
+Forlag til lov om erhvervsdrivende virksomheder.
+Af industriministeren (Trøjborg).
+(Fremsat 24/11 93. Første behandling 1/12
+93. Betænkning 27/1 94. Anden behandling
+4/2 94).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges enstemmigt med 113 stemmer.";Grove
+6412;title_name;":
+Lovforslaget vil nu blive sene t til statsministeren.
+Den næste sag på dagsorden n var:
+3) Tredje behandling af lovforslag nr. L 107:
+Forslag til lov om ændring af lov om individuel boligstøtte. (Ændret pensionstegreb).
+Af boligministeren (Kofod-S endsen).
+(Fremsat 1/12 93. Første behandling 9/12
+93. Betænkning 25/1 94. Anden behandling
+4/2 94).
+Der var ikke stillet ændrings orslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges enstemmigt med 116 stemmer.";Grove
+6943;title_name;":
+Lovforslaget vil nu blive sene t til statsministeren.
+
+6256
+
+Den næste sag på dagsordenen var:
+4) Anden behandling af lovforslag nr. L 72:
+Forslag til lov om ændring af lov om kommunale valg. (Ophævelse af ikkenordiske statsborgeres valgret og valgbarhed).
+Af Poul Nødgaard (FP) m.fl.
+(Fremsat 17/11 93. Første behandling 12/1
+94. Betænkning 3/2 94).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet
+om dets overgang til tredje behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1 og 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Grove
+7610;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbe- .
+handling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+5) Anden behandling af lovforslag nr. L 138:
+Forslag til lov om ændring af lov om gebyrer
+og morarenter vedrørende visse ydelser, der opkræves eller inddrives af amtskommuner og
+kommuner. (Lønindeholdelse).
+Af indenrigsministeren (Birte Weiss).
+(Fremsat 15/12 93. Første behandling 12/1
+94. Betænkning 3/2 94).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet
+om dets overgang til tredje behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+
+6257
+
+8/2 94: 2. beh. af f. t. 1. vedr. lønindeholdelse i forb. med komm. og amtskomm. ydelser
+Afstemning
+
+§§ 1 og 2
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Grove
+8573;title_name;":
+Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+6) Forespørgsel nr. F 19:
+Forespørgsel til statsministeren, trafikministeren og miljøministeren:
+Hvad agter regeringen at foretage sig, efter
+at Sverige har udskudt beslutningen om Øresundsforbindelsen ?
+Af Ole Donner (FP) m.fl.
+(Forespørgslen anmeldt 20/1 94. Fremme af
+forespørgslen vedtaget 27/1 94).";Grove
+9138;title_name;":
+Jeg beder om ro i salen.
+Begrundelse";Grove
+9192;name_party;":
+Jeg skal kort begrunde, hvorfor Fremskridtspartiet har fundet anledning til at rejse denne
+forespørgselsdebat. Det er ikke så længe siden,
+vi her i Tinget havde den sidste debat om Øresundsprojektet: det var den 14. december sidste år, hvor et flertal i Folketinget vedtog en
+dagsorden, der tog trafikministerens redegørelse til efterretning. Under debatten sagde trafikministeren, at der er det fornødne grundlag
+for at tage stilling til kyst til kyst-anlæggets udformning, og at det er realistisk, at anlæggene
+kan finansieres gennem brugerbetaling, samt
+at udestående miljøspørgsmål kan påregnes
+løst inden udgangen af 1993.
+Siden er der sket det, at den svenske regering har besluttet at udskyde beslutningen om
+igangsætningen af projektet, indtil Vattendomstolen endnu en gang har bedømt hele Øresundsprojektet.
+
+6258
+
+Vi ved derfor, at der ikke er svar på miljøspørgsmålene, og vi ved også, at der ikke er
+nogen som helst sikkerhed, hvad angår økonomien i projektet. Hvilket resultat den svenske
+Vattendomstol måtte komme til i sin afgørelse,
+ved vi ikke noget om: Skal projektet ændres
+væsentligt, og hvad betyder det for økonomien
+i projektet?
+Endelig kan man åbenbart heller ikke være
+tryg ved den kommunikation, der er - eller
+snarere skulle være - mellem det danske Trafikministerium og andre lande. Sagen med den
+tyske Verbalnote viser, at ændringerne i projektet sker i et tempo, hvor andre lande ikke
+kan følge med.
+Hvis den svenske Vattendomstol bestemmer, at der skal ændres i projektet, vil det derfor være naturligt, at andre lande omkring
+Østersøen får lejlighed til at udtale sig først, da
+projektet omfatter internationalt farvand. Det
+kan betyde yderligere forsinkelser og dermed
+en fordyrelse af projektet.
+Der er altså fremkommet en hel del nyt om
+Øresundsprojektet siden december, og det er
+på den baggrund, Fremskridtspartiet har rejst
+denne forespørgselsdebat.
+Besvarelse";Ole Donner
+11126;title_name;":
+Jeg lyttede med stor interesse til hr. Ole
+Donners begrundelse for forespørgslen, men
+jeg er desværre kommet i den situation, at jeg
+ikke blev meget klogere af det. Jeg betragter
+mig selv som et venligt menneske - måske indimellem for venlig - og jeg ønsker da også at
+være positiv over for de ønsker, som de forskellige medlemmer af Folketinget måtte have
+med hensyn til oplysninger, informationer osv.
+Samtidig anerkender jeg fuldt ud folketingsmedlemmernes ret til at stille forespørgsler,
+men når det er sagt, må jeg sige til hr. Ole Donner, at jeg undrer mig over dagens forespørgsel. Så sent som den 27. januar var trafikministeren og jeg i samråd i Trafikudvalget, hvor vi
+redegjorde for nøjagtig det, der spørges om i
+dag, og ugen før orienterede den fungerende
+trafikminister udvalget om samme sag, så jeg
+er forundret - det er jeg nødt til at sige - men
+som sagt også indstillet på at imødekomme
+spørgerne.
+Jeg må dog sige, at når man stiller det samme spørgsmål til de samme mennesker med så
+
+6259
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Nyrup Rasmussen
+12245;title_name;"kort mellemrum, må der blive tale om samme
+svar, når der ikke er fremkommet nye momenter i sagen. For nogle medlemmer vil der derfor være tale om en gentagelse if oplysninger,
+de har fået flere gange, og som i øvrigt har været bredt omtalt i den danske presse.
+Jeg vil holde mig til det gene elle, mens trafikministeren og miljøministeren vil besvare
+den mere specifikke del af for spørgslen.
+Efter mit møde den 30. december 1993 med
+den svenske statsminister var det min opfattelse, at den svenske regering der 3. januar i år
+ville kunne træffe en positiv bes utning om den
+såkaldte tilladelighed af projektet. Det gjorde
+den svenske regering som bekendt ikke: den
+13. januar i år traf den svenske regering en beslutning, hvorefter 0resunds onsortiet skal
+fremsende supplerende materiale til den svenske regering. Materialet skal vise, at konsortiets projekt efter tilpasninger opfylder Vattendomstolens forudsætninger, så an som det er
+anført i domstolens udtalelse af 15. november
+1993. Vattendomstolen skal vurdere materialet
+og komme med en supplerende udtalelse til
+den svenske regering.
+Denne beslutning fik mig til at bede om et
+møde med min svenske kollega for at få klarlagt det reelle indhold af den svenske regeringsbeslutning, navnlig med hensyn til tidsmæssige konsekvenser. Den 1). januar 1994
+havde jeg i Malmø et møde med den svenske
+statsminister om sagen. Den svenske statsminister oplyste, at det er Vattendomstolen, der afgør, hvor megen tid den har bri g for, og at det
+først sker, når den har set mat rialet. Det var
+Vattendomstolens foreløbige skøn, at det kunne gøres på ca. 2 måneder.
+Øresundskonsortiet er blevet bedt om at aflevere det supplerende material den 14. februar 1994, så Vattendomstolens udtalelse kan
+ventes at foreligge i slutningen af april eller i
+begyndelsen af maj. Det betyder, at den svenske regering derefter vil kunne træffe beslutning i første halvdel af maj må led. Jeg går ud
+fra, at Øresundskonsortiets materiale vil opfylde Vattendomstolens forudsætninger, således
+at der bliver tale om en posit v udtalelse fra
+Vattendomstolen, og det vil betyde, at den
+svenske regering vil beslutte, at forbindelsen er
+tilladelig.
+Efter mødet med den svens e statsminister
+orienterede jeg partierne bag forliget om Øre-
+
+6260
+
+sundsforbindelsen om mødet, og den 20. januar 1994 var der møde i den politiske følgegruppe, ligesom Folketingets Trafikudvalg blev orienteret samme aften.
+Senest har trafikministeren og jeg som sagt
+været i samråd i Trafikudvalget den 27. januar
+1994. Ved den lejlighed redegjorde trafikministeren for konsekvenserne for de danske landanlæg og besvarede dermed reelt den stillede
+forespørgsel.
+Så meget om det generelle. Jeg overlader
+herefter gerne talerstolen til efterfølgende kolleger.
+Trafikministeren (Trøjborg):
+Fremskridtspartiet har i sin forespørgsel
+rejst spørgsmålet om, hvorvidt regeringen vil
+indstille ekspropriationerne og stoppe opførelsen af landanlæggene som følge af, at den
+svenske regering har udskudt beslutningen om
+Øresundsforbindelsen.
+Disse oplysninger er som nævnt af statsministeren givet den 20. januar 1994 til Trafikudvalget og igen ved et samråd i Trafikudvalget
+den 27. januar 1994. Endvidere har Trafikudvalget den 21. januar 1994 fået oversendt notat
+om status for de danske landanlæg på baggrund af statsministermødet den 19. januar
+1994.
+Som følge af den svenske beslutning har regeringen besluttet, at arbejderne med de trafikanlæg, som alene er nødvendige for kyst til
+kyst-forbindelsen, udskydes, indtil der er truffet beslutning om den endelige udformning af
+kyst til kyst-forbindelsen.
+De anlæg, der udskydes, er godsforbindelsen fra Kalvebodløbet til Vigerslev samt motorvej og jernbaneanlæg mellem Københavns
+Lufthavn og starten af kyst til kyst-forbindelsen. Anlægget af personjernbanen mellem Københavns Hovedbanegård og Københavns
+Lufthavn samt motorvejen til Københavns
+Lufthavn, der har en selvstændig og vigtig betydning for udbygningen af den danske infrastruktur, videreføres som planlagt.
+Det betyder, at ekspropriationer, der vedrører de dele af landanlægget, der alene har tilknytning til kyst til kyst-forbindelsen, sættes i
+bero, medmindre ejerne ønsker, at ejendommene overtages. Helt præcis betyder det, at de
+ekspropriationer, der skulle have fundet sted
+den 1. og 2. februar 1994, er udskudt, mens de
+
+6261
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Statsministeren
+16691;title_name;"resterende ekspropriationer til personjernbanen og motorvejen gennemføres som planlagt.
+Dette blev i øvrigt også oplyst af den fungerende trafikminister i Folketingets spørgetid den
+19. januar 1994.
+Jeg kan oplyse, at regeringen har sikret sig,
+at der i Øresundskonsortiet arbejdes konstruktivt med at udarbejde det ønskede materiale og
+vise, at projekterne opfylder Vattendomstolens
+forudsætninger.
+Der er intet nyt i disse oplysninger, men jeg
+vil gerne benytte lejligheden til at oplyse, at jeg
+i dag har fået en orientering om dels arbejdet
+med udformning af kyst til kyst-anlægget til
+brug for konsortiets komplementerende materiale til Vattendomstolen, dels de konsekvenser, dette arbejde måtte have for de danske
+landanlæg.
+Øresundskonsortiet har bl.a. oplyst, at det
+vil være muligt at opfylde Vattendomstolens
+forudsætninger om en miljøoptimering af anlægget, således at anlæggets blokering nedbringes til Vi pet., ligesom forudsætningen om,
+at der kun skal afgraves omkring 5 mio. m3 på
+den danske side af Øresund for at opnå den
+matematiske nulløsning, kan opfyldes.
+I forhold til det i redegørelsen til Folketinget
+af 6. december 1993 omtalte projekt for kyst til
+kyst-forbindelsen vil miljøoptimeringen ske
+ved yderligere afkortning af halvøen i Kastrup,
+en længere tunnel samt en lidt ændret udformning af den kunstige ø, idet den for at øge
+vandgennemstrømningsmuligheden etableres
+som 2 øer med en bro imellem.
+Med den længere tunnel bliver det kunstige
+økompleks rykket lidt mere i læ under Saltholm, således som Vattendomstolen også har
+foreslået.
+En forudsætning for denne udformning af
+kyst til kyst-forbindelsen er en lidt ændret udformning af det danske landanlæg ved Københavns Lufthavn. Ændringen består bl.a. i, at
+man undgår air side-tunnelen og i stedet for at
+føre personjernbanen fra lufthavnstationen
+under hangaren nu lægger jernbanen i en bue
+uden om lufthavnen. Ændringerne kan gennemføres, uden at der skal eksproprieres flere
+ejendomme nord for lufthavnen.
+Jeg skal kort omtale de økonomiske konsekvenser af disse ændringer i forhold til redegørelsen af 6. december 1993:
+
+6262
+
+Ændringerne indebærer, at udgifter til air
+side-tunnelen falder bort. Som følge af opfyldelsen af kravene til den matematiske nulløsning får Øresundskonsortiet dog også ekstra
+udgifter. Konsortiet har oplyst, at udgifterne
+kan holdes inden for de ca. 800 mio. kr., der er
+angivet i redegørelsen af 6. december.
+Øresundskonsortiet arbejder naturligvis videre på at finjustere projektet op til aflevering
+af materialet til Vattendomstolen den 14. februar 1994, men jeg synes, at jeg har villet benytte denne lejlighed til at orientere Folketinget om den nyeste viden om projektet og dermed måske også undgå yderligere samråd i
+den forbindelse.
+Miljøministeren Svend Auken:
+Som jeg understregede under redegørelsesdebatten i december, skal der tages vidtgående
+hensyn til miljøet i forbindelse med den detaljerede udformning af Øresundsforbindelsen og
+fastlæggelsen af miljømålsætningerne.
+Regeringen ønsker det bedst mulige grundlag, og miljøarbejdet omkring Øresundsforbindelsen vil derfor fortsætte.
+Det forventes, at de tredimensionale modeller er færdige med udgangen af juli i år: men
+det forudsætter, at de igangsatte måleprogrammer i Øresund fortsætter, idet de er nødvendige for modelarbejdet.
+En pause i arbejdet med det endelige modelgrundlag, som skal være færdigt, inden anlægsarbejdet går i gang, vil begrænse den forsinkelse, som den svenske udskydelse er årsag
+til.
+Det øvrige arbejde med bl.a. baseline-undersøgelserne vil fortsætte. Disse undersøgelser skal anvendes til den mere detaljerede fastlæggelse af et fælles dansk-svensk overvågningsprogram og tilsynsorganisationen.
+Det er aftalt med det internationale ekspertpanel, at der i løbet af foråret skal afholdes en
+workshop, hvor detaljer i rammerne for overvågningsprogrammet skal diskuteres med panelets biologer, så også af hensyn til ekspertpanelets arbejde vil det jo være nødvendigt at
+fortsætte miljøarbejdet.
+Endelig fortsætter også arbejdet med at forberede et fælles miljøprogram for Øresundsregionen.
+Forhandling";Trafikministeren
+20815;name_party;":
+Lige fra starten har der været stor diskussion
+
+6263
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Ole Donner
+20973;title_name;"omkring Øresundsprojektet, og diskussionen
+fortsætter, fordi der åbenbart h ele tiden fremkommer nye oplysninger og nye aspekter i sagen.
+Som jeg sagde i begrundelse ti for denne forespørgsel, er det mindre end to måneder siden, at vi havde den sidste deb it, og faktisk er
+der sket så meget siden, at hele projektet nu
+efter min mening hænger i en tynd tråd.
+Det, der er sket siden, og se m med rimelig
+sikkerhed står fast, er, at den svenske regering
+har udskudt beslutningen og sikkert ikke vil
+træffe den, før de tredimensionale målinger foreligger.
+Og i hvert fald skal man afve ite Vattendomstolens nye bedømmelse af projektet. Der er
+vel ingen, der tror på, at Vatteri domstolen helt
+vil underkende projektet, men den vil snarere
+foreslå ændringer i projektet :il gavn for en
+miljøneutral forbindelse.
+Så er spørgsmålet, om disse eventuelle ændringer kan finansieres inden for det vedtagne
+anlægsbudget, eller om ændringerne i projektet påfører det udgifter i et omfang, der sprænger hele grundlaget for Øresundsforbindelsen.
+Vi kender naturligvis ikke sv iret fra Vattendomstolen endnu, men det kun le da være rart
+at få trafikministerens svar på, hvilke overvejelser man i Trafikministeriet gør sig i den anledning.
+Den svenske regerings beslutning har, som
+vi ved, allerede fået konsekvenser for det
+igangværende anlægsprojekt i Danmark, idet
+en del af anlægsprojektet er stillet i bero.
+Med hensyn til spørgsmålet om kommunikationen mellem Trafikministe iet i Danmark
+og landene omkring Østersøen så er den jo ikke særlig god - om det måske (r, fordi Trafikministeriet og Kommunikatior sministeriet er
+adskilt, skal jeg ikke kunne si e.
+I forbindelse med Storebæl sprojektet opstod der jo en sag ved Den Internationale
+Domstol i Haag, fordi Finland ikke mente sine
+ønsker om fri passage gennem Storebælt imødekommet. Det hele endte i et rivilligt forlig:
+men en del af sagen byggede å , at man var
+gået forkert af hinanden, og det med at gå forkert af hinanden så vi også et eksempel på i
+januar, hvor den tyske regering fremsendte en
+verbalnote. Ganske vist var indholdet forældet
+i forhold til den faktiske udvikling, men det
+understreger, at 0resundspro ektet udvikler
+
+6264
+
+sig i et tempo, hvor andre lande tilsyneladende
+ikke kan følge ordentligt med. Det halter altså
+en del med kommunikationen.
+Kommunikationen til befolkningen er heller
+ikke den bedste. Den kiksede allerede fra starten, hvor politikerne havde så travlt, at de
+overhørte befolkningens modstand. Med rette
+føler mange borgere, at projektet er trukket
+ned over hovedet på dem, og at projektet er
+blevet til på baggrund af en udemokratisk beslutningsproces.
+Det bedste var måske derfor, om man spurgte befolkningen om dens holdning til projektet. Både i 1992 og i 1993 har der været afholdt
+vejledende folkeafstemning og det om ganske
+komplicerede sager, nemlig Den Europæiske
+Union, så hvorfor ikke om Øresundsprojektet?
+Så får vi en folkelig debat om hele projektet.
+Da den svenske regering alligevel har udskudt
+sin beslutning, kunne vi i Danmark i mellemtiden tage den folkelige debat.
+Debatten skulle naturligvis gå på, om projektet i sin nuværende form skal vedtages og
+igangsættes. Der kunne også fremkomme andre gode forslag til, hvordan en fast forbindelse over Øresund kunne udformes. Man kunne
+lave nogle beregninger af, hvad det vil koste
+med en tunnel til både biler og tog, og hvordan
+økonomien i det ville se ud, og om det ville
+være klogere at placere projektet et helt andet
+sted, nemlig på det smalleste sted mellem Helsingør og Helsingborg, og sådan er der mange
+forskellige ting, der kunne overvejes.
+Men i første omgang må det handle om at få
+det nuværende projekt stoppet og lade befolkningen få indflydelse ved at lade den tage stilling til selve Øresundsprojektet i en vejledende
+folkeafstemning.
+Vi hørte miljøministeren sige, at de tredimensionale målinger først vil foreligge sidst på
+sommeren, og der er formentlig ingen chancer
+for, at man kan komme i gang med projektet
+forinden: derfor går der ikke nogen tid tabt
+ved at lade folk tage stilling til projektet.
+Jeg skal derfor på Fremskridtspartiets vegne
+fremsætte følgende:
+Forslag om motiveret dagsorden.
+»Folketinget opfordrer regeringen til at lade
+afholde en vejledende folkeafstemning i forbindelse med Europa-Parlamentsvalget den 9.
+juni 1994 med f.eks. følgende afstemningstema, hvortil der stemmes enten »Ja« eller
+»Nej«:
+
+6265
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Ole Donner
+25478;title_name;"»Skal den planlagte Øresundsforbindelse
+gennemføres?«
+Herefter går Tinget over til næste sag på
+dagsordenen.«
+(Dagsordensforslag nr. D 32).";Ole Donner
+25643;title_name;":
+Der er nu fremsat følgende forslag om motiveret dagsorden: (se foran). Dette forslag indgår i de videre forhandlinger.
+J.K. Hansen (S):
+Jeg skal starte med at takke statsministeren,
+trafikministeren og miljøministeren for svaret
+på Fremskridtspartiets forespørgsel om Øresundsforbindelsen.
+Jeg vil også takke for de tre ministres venlighed, og jeg synes da også, at de skal fortsætte
+med at være venlige - og det har jeg også forstået at både stats-, miljø- og trafikministeren
+vil være over for Folketingets partier og Folketingets medlemmer. Jeg synes selvfølgelig også, at vi kolleger her i Folketinget skal være
+venlige over for hinanden i sådanne debatter:
+derfor er jeg holdt op med at kritisere og holdt
+op med at undre mig over Fremskridtspartiets
+store iver med at stille forespørgsler om Øresundsforbindelsen. Dette er sagt i al venlighed.
+Senest den 14. december fremlagde trafikministeren en meget detaljeret redegørelse omkring Øresundsforbindelsen her i Tinget, og
+der blev ved en efterfølgende forespørgsel vedtaget en dagsorden, hvorved et stort flertal tilsluttede sig regeringens redegørelse.
+Jeg mener bestemt ikke, at der er ret meget
+nyt at hente i dag, knap 2 måneder senere. Jeg
+skal dog medgive, at det kan være noget nyt, at
+den danske og den svenske statsminister siden
+har haft to møder, et i København den 30. december 1993 og et i Malmø den 19. januar
+1994. Begge møder drejede sig, som statsministeren også har oplyst, om Øresundsforbindelsens kyst til kyst-anlæg, og som statsministeren
+også har oplyst her i dag, er resultatet af disse
+møder fuldt belyst ved to samråd i Folketingets Trafikudvalg - det var den 20. januar i år
+og igen den 27. januar - og begge samråd har
+foruden den mundtlige orientering, som ministeren har givet, givet sig udslag i en række fyldestgørende notater, som så igen er samlet i et
+bilagssæt. For god ordens skyld skal jeg nævne
+bilagene: Det er nr. 120, 121 og 123 under Trafikudvalgets alm. del.
+
+6266
+
+Endvidere har vi haft et nyt samråd med trafikministeren. Det havde vi den 3. februar i år,
+og det vedrører jo denne note, som også er omtalt, den verbalnote, som er kommet fra det tyske embedsmandssystem i det tyske trafikministerium og afleveret af den tyske ambassadør
+her i Danmark: også omkring dette samråd ligger der detaljerede notater, og for god ordens
+skyld skal jeg også her nævne bilag: Trafikudvalget, alm. del, bilag 142. Her har vi fået trafikministerens talepapir, og vi har fået et notat
+om verbalnoter m.v.
+Så ærlig talt mener jeg at måtte konstatere,
+at de spørgsmål, der stilles i Fremskridtspartiets forespørgsel, faktisk, inden denne forespørgsel er kommet frem her, har været fuldt
+belyst. Vi er i Socialdemokratiet fuldt ud tilfredse med de svar, vi har fået igennem Folketingets Trafikudvalg, og disse svar i notaterne
+er naturligvis også tilgængelige for offentligheden og for alle medlemmer af dette høje Ting.
+Jeg har også forstået på trafikministerens redegørelse i dag, at samtidig med, at Øresundskonsortiet nu afleverer det nye materiale til
+Vattendomstolen, vil dette materiale tilgå Folketinget, og så kan man vel næsten ikke forlange mere. Vi vil i hvert fald ikke forlange mere.
+Men nu har hr. Ole Donner jo fremsat et forslag om motiveret dagsorden, og for at den ikke skal stå alene, skal jeg på vegne af Socialdemokratiet, Det Konservative Folkeparti, Venstre, Centrum-Demokraterne, Det Radikale
+Venstre og Kristeligt Folkeparti fremsætte følgende :
+Forslag om motiveret dagsorden.
+»Idet Folketinget bekræfter vedtagelsen af
+dagsordensforslag nr. D 20 om Øresundsforbindelsen af 14. december 1993 og tager de af
+statsministeren, trafikministeren og miljøministeren afgivne supplerende oplysninger om
+Øresundsforbindelsen til efterretning,
+går Tinget over til næste sag på dagsordenen.«
+(Dagsordensforslag nr. D 33).";Grove
+29493;title_name;":
+Der er nu fremsat følgende forslag om motiveret dagsorden: (se ovenfor). Også dette dagsordensforslag indgår nu i forhandlingerne.";Grove
+29636;name_party;":
+For Det Konservative Folkeparti vil jeg ger-
+
+6267
+
+8/2 94: Forespørgsel vedr Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Ikast
+29786;title_name;"ne sige: Vi kunne sagtens have undværet denne forespørgsel i dag, for der er intet nyt kommet fra Fremskridtspartiet.
+Jeg vil til gengæld være positiv og takke
+statsministeren, trafikministere i og miljøministeren for de redegørelser, vi har fået i dag,
+men også alle de redegørelser t ar vi fået i Trafikudvalget. De partier, der si år bag forliget
+om Øresundsforbindelsen, har hele tiden været orienteret om alt, hvad der er sket, og det
+takker jeg for. Jeg synes, dette samarbejde har
+kørt perfekt, og jeg kan ikke se, at der er nogen
+som helst grund til denne forespørgsel. Derfor
+vil jeg blot sige tak også til trafikministeren for
+redegørelsen for de nyeste tal.";Ikast
+30475;name_party;":
+Jeg vil henvise til, hvad regeringen, som er
+vores aftalepartner vedrørende den faste forbindelse over Øresund, inklus ive landanlægget, har givet udtryk for her i dag.
+Da der ikke foreligger noget y t , vil vi afvente Vattendomstolens fornyede udtalelse. Jeg
+vil tro, at de tiltag, der er gjort for at forbedre
+vandgennemstrømningen, vil v ere fuldt ud tilstrækkelige: i det mindste har det været målsætningen med de ændringer, der er sket.
+Det glæder os selvfølgelig, £.t der er så stor
+opmærksomhed omkring mi jøet, bl.a. fra
+Centerpartiet i Sverige. Jeg kunne ønske mig,
+at den svenske miljøminister v Ile være lige så
+optaget af at rense det spildevand, som eksempelvis Sverige leder ud i 0sters en: men det vil
+der måske ikke være så meget politisk opmærksomhed om.
+Som sagt er Venstre indtil videre tilfreds
+med den måde, statsministeren, miljøministeren og trafikministeren har kørt de knudrede
+forhandlinger på.";Svend Heiselberg
+31407;name_party;":
+Ja, når man har hørt Venstres og De Konservatives ordførere her, så kommer den gode
+gamle sang til én, den dér med: »Tak er kun et
+fattigt ord«. Det er jo ikke hver dag man hører
+Venstre og De Konservative pä den måde takke regeringen, og det kunne jo godt være, at
+det er, fordi det ikke er en særlig god sag. Det
+er sådan den måde, jeg reagere r på, at når V og
+K takker regeringen, så er det nok ikke nogen
+særlig god sag, regeringen er ude i.
+
+6268
+
+Der er blevet sagt, at der ikke er noget nyt og
+derfor ingen grund er til at debattere sagen i
+Folketinget i dag. Tja, siden den debat, vi havde i december, er der da faktisk sket en hel del:
+Projektet er udskudt på svensk foranledning,
+man snakker nu om en matematisk nulløsning,
+man fortsætter landanlæggene alligevel - undtagen nogle få dele af dem - der er en stor diskussion om Kalvebod, der er kommet en verbalnote med stærk kritik af hele projektet fra
+Tyskland, og der er kommet en sønderlemmende kritik af Trafikministeriets holdning til
+spørgsmålet om åbenhed fra Ombudsmanden.
+Det var da en ordentlig mundfuld, og derfor
+er det helt underligt at høre, at der nærmest
+ikke er sket noget nyt, siden vi sidst diskuterede dette.
+At vi har talt om det i udvalg og i offentligheden, er sandt, men det skulle ikke hindre os i
+at tage en runde i Folketinget i dag.
+Jeg vil starte med at hæfte mig ved den henvendelse, vi har fået fra den tyske regering, og
+jeg vil først og fremmest gøre klart, at den henvendelse - som er blevet bagatelliseret lidt i
+pressen og nærmest fremstillet, som om det var
+en ligegyldig kontorist nede i Bonn, der havde
+lavet det for egen regning - jo er forbundsregeringens stillingtagen til det materiale, der blev
+sendt ud til danskerne, og den stillingtagen er
+bl.a. formuleret sådan:
+»Intetsteds findes en forklaring på, hvorfor
+den tunnelforbindelse, der i begyndelsen blev
+diskuteret mellem Danmark og Sverige, fuldstændig er udelukket fra planlægningen. Da
+alle Østersølandene muligvis berøres af konsekvenserne af byggeaktiviterne i Øresund, bør
+disse informeres om baggrunden for Danmarks og Sveriges beslutning om at forkaste
+tunnelløsningen, som sikkert ville være mere
+skånsom for miljøet i Østersøen.«
+Det er da et principielt synspunkt - som må
+stamme fra den tyske regering - at man ikke
+kan fatte, at to lande, der ellers bryster sig af at
+være miljøvenlige, endog ikke har undersøgt
+den mest miljøvenlige løsning, nemlig tunnelløsningen. De går så vidt som til at spørge,
+hvorfor man har forkastet den.
+Og i den anledning vil jeg i dag spørge:
+Hvad svarer den danske regering, og hvad svarer den svenske regering, når et Østersøland
+spørger, hvorfor man har forkastet den eneste
+rigtige miljøløsning?
+
+6269
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Gade
+34214;title_name;"I samme papir fra den tyske regering siger
+man, at der i høringsmaterialet ikke eller kun i
+utilstrækkeligt omfang drages konklusioner
+om de mulige langtidsfølger af bygningsværket. Det er da hård kost og en stærk kritik, og
+den er principiel, og den vil også være en realitet, selv om der er sket noget siden den rapport, man tog stilling til fra tysk side.
+Der er altså en situation, hvor Danmark er
+under pres fra lande, der synes, at de ikke er
+involveret nok i sagen, og der er en situation,
+hvor vi rent faktisk ikke ved, hvor lang tid det
+varer, inden Vattendomstolen kommer med
+sin rapport.
+Så vil jeg godt koncentrere mig lidt om de
+tredimensionale målinger. De er jo afgørende
+for, at man kan finde det, der bliver kaldt en
+matematisk nulløsning for Østersøen - hvis
+den overhovedet findes, hvilket jeg vil sætte et
+spørgsmålstegn ved. Men vi ved det jo ikke det er min pointe - før vi kender resultatet af
+de tredimensionale målinger, og før vi kender
+dem, kender vi heller ikke omfanget af miljøødelæggelserne i Øresund.
+Derfor fatter jeg ikke, at regeringen ikke har
+benyttet denne lejlighed til en tænkepause til
+nu at sige: Vi venter og sørger for, at vi har de
+tredimensionale målinger færdige, sådan at de
+kan ligge på bordet. I juni sagde miljøministeren, at de ville være færdige, og at man ikke
+ville tage stilling fra dansk og svensk side, før
+man kendte resultatet af disse målinger og beregninger. En af de ting, jeg synes er mest absurde lige netop i dette halvår, er, at Danmark
+og Sverige, i hvert fald den danske regering måske ikke så meget den svenske regering,
+men i hvert fald den danske - presser voldsomt
+på for at få gennemført en beslutning, inden
+man kender beslutningsgrundlaget.
+Jeg opfatter det som useriøst i forhold til
+miljøet, og jeg mener, at det er stærkt kritisabelt, at man ikke venter, til man kender de resultater.
+Jeg håber så, at Vattendomstolen vil bede
+om at få så god tid, inden den skal afgive sin
+udtalelse, at det, jeg taler for her, bliver en realitet. Ja, jeg tror faktisk lige netop på dette
+tidspunkt, at vi kan komme i den situation. Og
+endnu mere afslørende bliver den danske position så, kan man sige.
+I den forbindelse vil jeg gerne spørge om,
+hvad Øresundskonsortiet vil aflevere til Vat-
+
+6270
+
+tendomstolen den 14. februar. Det er der jo ikke særlig lang tid til, og jeg regner med, at trafikministeren kan sige, hvad der skal afleveres.
+Jeg vil også gerne spørge trafikministeren,
+om det, som Vattendomstolen får, også bliver
+sendt til de øvrige Østersølande. Får de nøjagtig de samme informationer, som bliver fremsendt til Vattendomstolen? Det ville jeg synes
+var det eneste rimelige.
+Jeg har efterlyst et svar på det principielle
+spørgsmål fra Tyskland, ikke bare fordi det er
+Tyskland, der spørger, men fordi det ville være
+rart at høre her fra talerstolen - også fordi jeg
+gerne selv ville høre det - hvad den danske regering i dag siger til spørgsmålet om, hvorfor
+man har forkastet at undersøge den mest miljøvenlige løsning. Det er underligt, synes jeg.
+Og det er nødvendigt at få at vide, hvad den
+danske regering har svaret. Vil man sende materialet rundt til Østersølandene? Eller vil man
+måske endnu en gang risikere at komme i den
+situation, at f.eks. Polen og de baltiske lande
+på et tidspunkt i forløbet hver for sig kommer
+og siger, at de er utilfredse. Det har de jo ret til.
+Men man kunne jo lige så godt lave en høring
+og give dem en frist. Så ville vi vide, hvilke indvendinger de har.
+Med hensyn til luftforureningen vil jeg spørge, hvorfor regeringen ikke har iværksat et luftkvalitetsmålsætningsprogram, et program for,
+hvor meget luftforurening man vil acceptere.
+Det har man gjort fra svensk side. Hvorfor har
+man ikke gjort det fra dansk side?
+Jeg vil gerne spørge trafikministeren om
+Kalvebodsløsningen. Hvad er regeringens
+melding til det københavnske forslag, som nu
+er kommet frem, om, at man kan bygge en tunnel ved Kalvebod til det halve af den pris, som
+Øresundskonsortiet har regnet med?
+Og hvordan ligger det med de nye trafikprognoser for Øresund? Den tidligere trafikminister lovede, at vi ville få sådan nogle allerede i
+august.
+Jeg mener altså, at vi skal tage udgangspunkt i den konkrete situation, vi står i, og derfor vil jeg gerne på SF's vegne fremsætte følgende:
+Forslag om motiveret dagsorden.
+»Idet Folketinget konstaterer, at Øresundsprojektets endelige vedtagelse er udskudt til
+efter Vattendomstolens afgørelse, opfordrer
+Folketinget regeringen til
+
+6271
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Gade
+38785;title_name;"- at afvente resultaterne af de tredimensionale
+målinger af vandgennemstrømningen, før en
+eventuel beslutning træffes,
+- at standse anlægsaktiviteterne i forbindelse
+med de danske landanlæg indtil videre,
+- at gennemføre en høring blandt alle Østersølandene om projektet og
+- at lade udarbejde en alternativ løsning bestående af en boret jernbanetunnel.
+Herefter går Tinget over til næste sag på
+dagsordenen.«
+(Dagsordensforslag nr. D 34).";Gade
+39250;title_name;":
+Der er nu fremsat følgende fc rslag om motiveret dagsorden: (se foran). Delte dagsordensforslag indgår nu i de videre forhandlinger.";Grove
+39406;name_party;":
+Forespørgslen drejer sig jo Dåde om selve
+den faste forbindelse og om de ekspropriationer, som er foretaget, og som skal foretages i
+forbindelse med landanlæggen 3.
+Jeg har noteret mig, at regeringen har sagt,
+at der er nogle ekspropriationer som er stillet i
+bero. Det er selvfølgelig dejligt, men det havde
+været noget bedre, hvis selve f r mgangsmåden
+i denne sag havde været en inden. Uanset
+hvad man måtte mene om den l aste forbindelse over Øresund, burde det være en selvfølge,
+at man ikke startede på at ekspr priere og smide folk ud af deres ejendomme, før det var
+stjerneklart, at der var en aftale, som også ville
+blive gennemført.
+I denne sag har det været sådan, at blækket
+på den aftale, som man stod og viftede med for
+pressen, vel ikke engang var tørt, før man startede hele ekspropriationsmaskineriet. Og nu
+står vi meget lang tid efter i en situation, hvor
+man kan sætte spørgsmålstegn e d , om det hele overhovedet bliver til noget.
+Og hvad er det så, der er ski,-t? Der er sket
+det, at uendelig mange danskere - såvel boligejere som lejere - har mistet de es hjem. Og de
+har mistet deres hjem på baggrund af en beslutning, med hensyn til hvilken der på det
+tidspunkt, hvor man jævnede hjemmet med
+jorden, ikke var sikkerhed for, at den også var
+velbegrundet. Og ikke nok med det - disse ekspropriationer skete på et tidspu nkt, hvor ejendomspriserne her i landet var helt nede i kulkælderen. Det vil altså sige, at staten slap bil-
+
+6272
+
+ligt om ved det. Og hvem hang på gælden, som
+ikke kunne indfries? Det gjorde de boligejere,
+som helt uforskyldt fik eksproprieret deres bolig. Det vil sige, at den erstatningsbolig, de
+kunne gå hen og købe, var dårligere end den,
+som de fik eksproprieret. Hvis vi nu forestillede os, at man først skulle til at ekspropriere i
+forbindelse med landanlæggene, når den endelige aftale med svenskerne var på plads og man
+vidste, at dette her blev til noget, ja, så ville
+staten være kommet i den situation, at ejendomspriserne i mellemtiden ville have nået et
+naturligt leje, og så kunne disse mennesker
+måske have fået en bolig, som svarede til det,
+som de måtte af med.
+Det er, når det drejer sig om ejerboligerne.
+Men når det drejer sig om lejeboligerne, er
+det jo meget værre. Og det er uforståeligt for
+Fremskridtspartiet, at en socialdemokratisk ledet regering, som jo har reguleret boligforholdene for lejerne her i landet og indført sikkerhedsnet af enhver karakter, har en bestemmelse, som går ud på, at så snart det er staten, der
+er involveret, så snart det er ekspropriation,
+det drejer sig om, skal lejerne ingen beskyttelse
+have, så smider man dem ud med tre måneders
+varsel. Og det kan de ikke engang klage over.
+Hjælp til at flytte får de ikke, og nogen erstatningsbolig får de heller ikke. Det vil med
+andre ord sige, at al den sikkerhed, der er for
+lejerne i lejeloven, kan man bare tilsidesætte,
+når det drejer sig om ekspropriation.
+Man kan jo ikke gøre den skade god, som er
+sket, men jeg tror, det ville være en vigtig melding at få sendt ud herfra, om regeringen dog
+ikke i fremtiden kunne tænke sig at sikre, at
+man ikke gennemfører ekspropriationer, før
+der er fuldstændig sikkerhed for, at de også er
+nødvendige - samtidig med at man også sikrer
+sig, at den enkelte lille boligejer, som skal eksproprieres, ikke bliver stillet over for en ekspropriationskommission bestående af en horde af offentlige tjenestemænd, som den pågældende slet ikke har noget at stille op over for,
+at man simpelt hen giver vedkommende ret til
+at få en eller anden ekspertbistand stillet til rådighed, så den pågældende ikke føler sig fuldstændig i hænderne på de eksproprierende
+myndigheder.
+Det er grove løjer, man hører, når man hører
+om de skæbner, der har været på Amager i forbindelse med denne sag. Selv om vi ikke kan
+
+6273
+
+(393)
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Kirsten Jacobsen
+43313;title_name;"lære andet af den forfejlede måde, man har
+gennemført denne proces på, kan vi i hvert fald
+lære, at sådan skal man ikke gøre det i fremtiden. Og jeg håber meget, at regeringen vil give
+en melding om, at hvis der er boliger, der ikke
+er eksproprieret på nuværende tidspunkt, så
+vil man ikke ekspropriere dem, før det er helt
+nødvendigt og man har sikkerhed for, at det
+skal ske, at den vil give en melding om, at man
+for fremtiden vil sikre, at lejerne får en eller
+anden beskyttelse mod eventuelle overgreb, og
+at den vil give en melding om, at man ikke
+giver sig til at ekspropriere og jævne huse med
+jorden, før man er sikker på, at det er nødvendigt, før man er sikker på, at de beslutninger,
+der gør, at man skal ekspropriere, også bliver
+gennemført.
+Så er vi da kommet et lille stykke ad vejen.
+Det hjælper ikke de mange, mange ulykkelige
+mennesker på Amager, det er gået ud over,
+men det kan måske forhindre tilsvarende fadæser andre steder i landet. Det er nogle af de
+meldinger, som jeg synes det er vigtigt at regeringen kommer med her i dag, og som vi har
+hørt alt, alt for lidt til i den debat, der har været
+i medierne.
+Det var det, Fremskridtspartiet - foruden
+selve forbindelsen - gerne ville bringe ind i debatten, og vi forventer, at regeringen vil give
+nogle svar på disse spørgsmål.
+(Kort bemærkning).
+J.K. Hansen (S):
+Jeg skal bare i al stilfærdighed sige, at når
+nu fru Kirsten Jacobsen agter at sende vigtige
+meddelelser ud fra denne talerstol, så skal disse vigtige meddelelser selvfølgelig også være
+rigtige.
+Fru Kirsten Jacobsen må være helt galt orienteret, når fru Kirsten Jacobsen kan sige, at
+blækket næppe var tørt, før ekspropriationerne
+blev sat i gang.
+Det passer jo ikke!
+Hvis fru Kirsten Jacobsen vil læse bemærkningerne til anlægsloven og de betænkninger,
+der blev afgivet i henhold til anlægsloven i
+1990, vil fru Kirsten Jacobsen se, at det dér
+netop er fremført, at vi ønskede at få fremrykket landanlæggene. Og det er faktisk det, der
+er sket.
+Der er sket en fremrykning af disse landanlæg, således at vi nu får en jernbanestation ved
+
+6274
+
+Københavns Lufthavn og får gennemført motorvejen fra Københavns Lufthavn, som man i
+øvrigt har ventet på i mange år. Det er Tårnbyvejens forlængelse. Der er mange husejere,
+som i mange år har ventet på at få eksproprieret deres huse, fordi der var en anlægslov lige
+netop for denne vej.
+Det, man så har gjort nu, er, at man har
+stoppet det, der vedrører kyst til kyst-anlæggene. Det drejer sig om nogle ekspropriationer
+på Sjællandssiden og om nogle arbejder, som
+kunne sættes i gang i forbindelse med kyst til
+kyst-anlæggene. Det er altså de vigtige meddelelser, der skal ud, og ikke det, som fru Kirsten
+Jacobsen kommer med her.
+(Kort bemærkning).";Kirsten Jacobsen
+46065;name_party;":
+Det er vel en kendsgerning - vil jeg sige til
+hr. J.K. Hansen - at uanset at man skrev, at
+man ønskede en fremrykning af landanlæggene, så skete det, fordi det var en absolut forudsætning, at den faste forbindelse kom, at den
+blev til noget.
+Det, jeg sagde, var, at man i øjeblikket er i
+en situation, hvor man kan sætte spørgsmålstegn ved, om det overhovedet bliver til noget.
+Jeg kritiserede så, at man foretog den slags
+ekspropriationer, når det ikke var helt klinkende klart, at det var nødvendigt, altså at den faste forbindelse ville blive til noget. Det var det,
+jeg kritiserede. Ikke at det står i lovteksten: det
+er jeg helt enig i.
+Men den jernbanelinje derude var vel næppe blevet vedtaget på det tidspunkt, uden at
+det var sket i forbindelse med en anlægslov om
+den faste forbindelse.
+(Kort bemærkning).";Kirsten Jacobsen
+46892;name_party;":
+Hr. J.K. Hansen prøver at få det til at lyde,
+som om man ikke har forceret en beslutning
+igennem, og derfor vil jeg gerne citere dele af
+et notat af 10. februar 1993 fra Finansministeriet:
+»Øresundsforbindélsen er inde i en kritisk
+politisk fase med en risiko for, at den politiske
+proces må begynde forfra. På den ene side er
+der en proces i gang, hvor der gives politiske
+løfter om udgiftskrævende miljømæssige foranstaltninger både på land og på kyst-kyst
+strækningen.
+
+6275
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Gade
+47469;title_name;"På den anden side er der en politisk aftale,
+som forudsætter driftsøkonomisk rentabilitet i
+projektet, en forudsætning, som det må forudses at i hvert fald ét aftaleparti opfatter som
+afgørende for aftalens eksistens.
+Det indstilles derfor, at der urtigst muligt
+tages de nødvendige politiske 5 beslutninger
+omkring de danske landanlæg, således at arbejdet i »marken« for alvor kan komme i gang.
+Det vil sige stillingtagen i regeri ngen til høringen om linjeføring m.v.«
+Der ligger jo i det notat, at man politisk besluttede at forcere projektet, f:)rdi man ville
+komme til det punkt, som på engelsk hedder
+the point of no return, altså det punkt, hvor der
+ingen vej er tilbage.
+Jeg vil gerne have at vide, hvordan hr. J.K.
+Hansen vil forklare det her not£ t. Hvorfor blev
+det notat lavet, og hvad er indholdet i det, hvis
+det ikke er det, jeg siger, neml g at man satte
+projektet med at rive ned i gang, fordi man ville sikre sig, at man ikke kom i en situation,
+hvor hele projektet skulle nyvurderes?";Gade
+48492;name_party;":
+Det er vist rigtigt, som det allerede er sagt, at
+siden debatten i december måned er der ikke
+sket de helt store og afgørende ting, som kan
+give stof nok til en lang ny det at. Men jeg vil
+dog gerne - som andre har gjc rt det, især hr.
+Gade - minde om, at det, der er sket siden, rent
+faktisk er, at miljøhensynene er kommet stærkere i fokus, end de var det før, Så der er altså
+andre end partierne bag broaftalen, der er årsag til, at miljøhensynene er kraftigt opprioriteret vedrørende dette projekt.
+Det er lidt interessant at not re sig, når man
+bemærker, hvilken besked der er sendt til
+Tyskland som svar på den skr velse, der kom
+derfra, verbalnoten. I svaret siger man jo: Kære venner, det er godt nok, men I er bagefter.
+Vi har allerede gjort en del tin^: ved det, som I
+påpeger.
+Ja, det er rigtigt, det har man gjort - ikke
+efter egen tilskyndelse, men efter krav fra Sverige. Det, der foregår i øjeblikket, er jo altså en
+svensk efterprøvning af, om det, man i Danmark tidligere har kaldt for garantier omkring
+miljøet, nu også holder i virkeligheden. Så der
+er sket noget nyt.
+
+6276
+
+Ser vi på det spørgsmål, som har at gøre med
+landanlæggene, mener jeg, at fru Kirsten Jacobsen har fuldstændig ret i den kritik, hun
+retter imod beslutningsprocessen. Der er jo ingen, der er i tvivl om, at en beslutning om at
+føre jernbane og motorveje fra Københavnsområdet ud til lufthavnen ikke ville være blevet truffet nu - i hvert fald ikke i så stort et
+omfang, som projektet har - medmindre det
+havde direkte sammenhæng med Øresundsbeslutningen. Så det er en uomtvistelig kendsgerning, at alle anlægsarbejderne på dansk side er
+en direkte følge af Øresundsprojektet. Det
+havde derfor været mere logisk, om man havde
+stoppet dem alle sammen, da der nu er skabt
+usikkerhed om projektets fremtid.
+For regeringen - de to partier i regeringen,
+der står bag dette projekt - og Venstre og De
+Konservative har jo erkendt, at der er skabt
+usikkerhed om projektet: ellers ville man jo ikke have stoppet dele af anlægsarbejdet. Det er
+bare ulogisk, at man så ikke samtidig stopper
+resten. Især er det ulogisk set fra et VK-synspunkt, fordi VK jo helt præcist har sagt, at det
+er broforbindelsen, trafikken herpå, som fuldt
+ud skal finansiere de danske landanlæg.
+Jamen da der nu er tvivl om selve broforbindelsen, så er der vel også tvivl om, hvorvidt
+denne broforbindelse kan finansiere de danske
+landanlæg. Eller er det sådan, at V og K nu har
+indset, er på vej til at indse, er på vej til at ville
+finde en forklaring for det tilfælde, at broen
+ikke bliver til noget? Er det sådan, at man så er
+parat til at finansiere de danske landanlæg
+over skatterne, hvad man lige præcis tidligere
+havde betinget sig ikke måtte ske?
+Jeg er ikke i tvivl om, at det vil man sagtens
+kunne overtale Socialdemokratiet til. Det er
+jeg ret sikker på, idet miljøministeren et stykke
+tid før jul i et interview til Politiken sagde, at
+dette med, at de danske landanlæg skulle finansieres af selve Øresundsforbindelsen, det
+var jo noget borgerlig kreativ bogføring, idet,
+som han forklarede: Det var jo ulogisk, at et
+sådan stykke dansk infrastruktur skulle betales
+af den faste forbindelse. Det måtte jo lige så
+logisk kunne placeres på den danske finanslov.
+Så dér er mobiliseringen på plads. I det øjeblik broen ikke kommer, er den socialdemokratiske forklaring formentlig klar: Det bør betales over finansloven. Det er logisk. Det har
+altid været logisk, og vi har kun bøjet os på det
+punkt, fordi det var et VK-krav.
+
+6277
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen 6278";Bilgrav-Nielsen
+52107;title_name;"Det spændende er nu, om Venstre og De
+(Kort bemærkning).
+Konservative også er parat til, på vej til, at erBilgrav-Nielsen (RV):
+kende, at man muligvis her kommer til at stå
+Det spændende i denne forbindelse er jo,
+med en stor efterregning, som skal over på disse - må jeg vist godt sige - sparepartiers fi- om Venstre har en selvstændig mening om det.
+Er det fortsat sådan, at Venstre og for så vidt
+nanslovforslag.
+også
+Det Konservative Folkeparti mener, at
+Det, der udestår nu, er jo noget af et særsyn,
+disse
+udgifter aldrig nogen sinde må ende på
+idet det, der burde være en endelig politisk beslutning, nemlig om hvorvidt broen skal byg- de offentlige budgetter, ikke må komme på figes, i hvert fald på svensk side er blevet til en nansloven? Det vil jeg gerne have et svar på.
+afgørelse, der reelt træffes af en ikkepolitisk instans, nemlig Vattendomstolen. Jeg ved godt,";BlIgrav-Nlelsen
+53005;name_party;":
+at der efterfølgende, efter Vattendomstolens
+I Kristeligt Folkeparti har vi naturligvis
+redegørelse, kommer en endelig politisk stilsympati
+for det, der også ligger i Fremskridtslingtagen, men ingen er jo i tvivl om, at dersom
+Vattendomstolen siger nej, så kommer dette partiets initiativ her i dag, nemlig at lægge pres
+broprojekt ikke videre. Siger man ja fra Vat- på Øresundspartierne. Vi mener, at et stadigt
+tendomstolens side, vil der vel fortsat være pres i retning af at få disse Øresundspartier til
+mulighed for, sandsynlighed for, at der skal at ændre stilling, tage deres beslutning op til
+knyttes en række ekstra betingelser til, for at revision, er betimeligt og rigtigt.
+Men man kan selvfølgelig sige, at det er lidt
+projektet kan videreføres.
+unødvendigt
+med denne forespørgselsdebat,
+Men alt det er endt, hvor det er endt, og det
+fordi
+vi
+jo
+kun
+får de samme svar, som vi har
+er endt i en række forbedrede krav til projektet
+især på det miljømæssige område. Dér er det fået før.
+Det er rigtigt, som hr. Bilgrav-Nielsen sagde,
+endt, fordi nogle i Danmark har presset på,
+at
+der
+på foranledning af andre end forligsparfordi Tyskland - ser vi nu - også har presset
+tierne
+er
+blevet taget nye initiativer til at underpå, og især fordi Sverige har presset på. Det er
+ikke, fordi de danske bropartier selv har øn- søge miljøforholdene ordentligt. Men beklagesket, at det skulle komme dertil. Man har nær- ligvis er der jo ikke taget initiativ til den rigtimest tidligere kritiseret de krav, som man nu ge, den helt overordnede vurdering af miljøforholdene, nemlig af den trafikstruktur, som
+efterkommer.
+Øresundsbroen lægger op til.
+Der er ikke meget, der tyder på, at de fire
+(Kort bemærkning).
+partier vil tage deres stilling op til revision,
+selv om der er mange gode grunde til det og";Ole M. Nielsen
+54826;name_party;":
+Jeg skal kun sige til hr. Bilgrav-Nielsen, der der i hvert fald ville være god grund til midlerhenviser til Venstre og De Konservative, at den tidigt at stoppe landanlæggene, indtil vi ser,
+tankegang, vi har fulgt, og som vi har syntes om der overhovedet bliver nogen bro. Men det
+det var rimeligt at følge, var, at anlægget af er jo herligt at se, at der kan opvises et bredt
+personjernbanen mellem Københavns Hoved- flertal omkring en stor sag i dansk politik, selv
+banegård og Københavns Lufthavn samt mo- om alliancen var en bedre sag værdig. Og det
+torvejen til Københavns Lufthavn, der har en bliver jo godt for de fire partier, at de kan dele
+selvstændig og vigtig betydning for udbygnin- det ubehagelige ansvar, der vil fremstå på et
+gen af den danske infrastruktur, videreføres tidspunkt, når regningen skal betales: Enten
+som planlagt. Det var noget, som regeringen den overpris, som den samlede forbindelse vil
+komme til at koste i forhold til det, man beregforeslog, og som vi har tilsluttet os.
+Så vidt jeg ved, er hr. Bilgrav-Nielsen med- ner nu, regningen, når man finder ud af, at tralem af et af regeringspartierne, så den polemik, fikprognoserne overhovedet ikke holder, eller
+som hr. Bilgrav-Nielsen forsøger at køre, til- regningen for de landanlæg, som man nu får
+etableret, og som jo altså skal betales, selv om
+lægger vi egentlig ikke ret stor betydning.
+der ikke er en land til land-forbindelse til at
+betale regningen. Der bliver et godt ansvar at
+stå sammen om dér.
+
+6279
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Svend Heiselberg
+56433;title_name;"Men vi er naturligvis indstillet på, at vores
+regeringspartnere fortsat skal leve op til de forpligtelser, de havde indgået, før vi gik i regering sammen, og vi bakker derfor den dagsorden op, som vi selv er medforslagsstillere til.";Ole M. Nielsen
+56691;title_name;":
+Industriministeren - nej, trafilministeren!
+Trafikministeren (Trøjborg):
+Det kan jo være vanskeligt. I regeringen sker
+der også noget nyt.
+Der sker også lidt nyt, for så vidt angår den
+konkrete udformning af projektet, den faste
+forbindelse mellem Danmark og Sverige.
+Imidlertid sker der ikke noget nyt, for så vidt
+angår den kendsgerning, at den danske og den
+svenske regering har en aftale, c g denne aftale
+er jeg 100 pet. sikker på også bliver udført i
+praksis i et fysisk anlæg. Imidlertid står der
+foran os stadig væk en diskussion - den har vi
+også her i Folketinget - og nogle konkrete beslutninger om nogle fysiske æn ringer af projektet, som jeg kort har redegjc rt for.
+Jeg vil gerne besvare et par konkrete spørgsmål, som hr. Gade har stillet. For det første
+stiller hr. Gade et spørgsmål, son jeg tror mine
+forgængere har brugt temmelig mange kræfter
+på at besvare, nemlig spørgsmålet om, hvorfor
+man har valgt denne kombinerede forbindelse,
+som man har valgt. Hvorfor har man valgt den
+udformning, der ligger fastslået i anlægsloven,
+og hvorfor har man ikke valgt en tunnelløsning? Dér vil jeg gerne henvise t I det svar, som
+den danske regering har givet c en tyske regering som svar på verbalnoten, ligeledes i form
+af en verbalnote. Det er et svar, som er oversendt til Folketingets Trafikudv ilg. Det skulle
+være oversendt i går, så det er iltså tilgængeligt i dag. Dér siger vi:
+»Det var et fælles udgangspu nkt, at forbindelsen skal finansieres fuldt ud med afgifter fra
+trafikken og uden nogen form for statstilskud
+fra de to lande. Etablering af en jernbaneforbindelse i tunnel under Øresund ville således
+nødvendiggøre betydelige statslige tilskud,
+medens det med den kombinerede forbindelse
+med den besluttede udformning ville blive biltrafikken, der betalte den støiste del af det
+samlede anlæg, ligesom dette piojekt sikres de
+bedst mulige trafikale forbinde ser.«
+
+6280
+
+Der er vel ingen i dette Ting, der er i tvivl
+om, at den aftale, der er lavet, er en rigtig god
+aftale for den kollektive trafik. Finansieringsmæssigt er det en meget hensigtsmæssig aftale.
+Og så er der for øvrigt også det ved aftalen, at
+foruden at det er godt for den kollektive trafik,
+så er det faktisk også godt for den region, som
+er nok så væsentlig i Danmark, nemlig Københavnsområdet, at den faste forbindelse bliver
+etableret: det er efter min opfattelse erhvervsmæssigt og kulturelt en fordel.
+For så vidt angår det materiale, der nu fremsendes til Vattendomstolen den 14. februar,
+altså de ændringer, som jeg redegjorde kort for
+i mit første indlæg, spørger hr. Gade: Er det nu
+nøjagtig det samme, som fremsendes til Østersølandene? Jeg kan sige, at Østersølandene vil
+blive orienteret om det komplementerende
+materiale ved en Verbalnote, som den danske
+regering rundsender, og der vil i dette materiale være substantielt nøjagtig de samme oplysninger, nøjagtig de samme faktuelle oplysninger, som fremgår af konsortiets komplementerende materiale til Vattendomstolen.
+Jeg går ud fra, at miljøministeren vil svare
+på spørgsmålet om luftforurening.
+Til spørgsmålet om Kalvebodsløsningen
+skal jeg blot sige, at det ikke er et projekt, jeg
+har set og stiftet bekendtskab med. Det er således, at der ikke er truffet beslutning om ændringer af projektet, for så vidt angår Kalvebodsforløbet.
+Fru Kirsten Jacobsen stiller spørgsmål, for
+så vidt angår ekspropriationerne. Jeg har redegjort for, at der er sket det meget fornuftige, at
+det er aftalt i kredsen af partier, der står bag
+anlægsloven - det er også bekræftet i forskellige samråd - at man har truffet den fornuftige
+disposition at udsætte ekspropriationer, der
+har til formål at muliggøre anlæggets dele, der
+har relation til kyst til kyst-forbindelsen. Jeg
+kan give den oplysning - og det tror jeg også er
+sket skriftligt til Folketingets Trafikudvalg - at
+langt de fleste af ekspropriationerne er foretaget ved såkaldt forlods ekspropriation.
+For så vidt angår spørgsmålene om lejerne,
+vil jeg blot sige, at deres forhold netop bliver
+behandlet i lejelovgivningen, og der er så vidt
+mig bekendt klare regler i den forbindelse.
+Jeg skal blot afslutte med at sige, at jeg glæder mig over, at vi har haft en fornuftig og en
+saglig debat, og jeg glæder mig også over, at vi
+
+6281 8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen 6282";Grove
+61047;title_name;"kan konstatere, at vi får en fast forbindelse, agterud eller ikke har gjort noget. Jeg må sige
+som rent miljømæssigt i hvert fald ikke giver til hr. Gade, at den fremstilling ikke er korrekt.
+grund til de bekymringer, som den tyske rege- Svenskerne har ikke gjort andet end det, vi selv
+ring gjorde sig i den såkaldte verbalnote, der har gjort. Og hvad er det, vi har gjort i fællesblev fremsendt til den danske regering for kort skab? Jo, vi har lagt en arbejdsplan for et fæltid siden.
+les miljøovervågningsprogram i regionen, og i
+dette fælles arbejdsprogram vil der også indgå
+(Kort bemærkning).
+en luftkvalitetsmålsætning.
+Luftforureningen i det københavnske områKirsten Jacobsen (FP):
+Jeg skal ikke bebrejde trafikministeren, at de af Øresundsregionen som helhed bliver kun
+han ikke kender lejeloven, men jeg skal bebrej- i ekstremt beskedent omfang påvirket af den
+de trafikministeren, når han påstår, at der fin- nye forbindelse. Vi antager - og vi har fremlagt
+des nogle regler i lejeloven, som rent faktisk en række tal, der underbygger den antagelse at forbindelsen i hvert fald ikke belaster luftikke findes.
+Det forholder sig sådan - og det har regerin- miljøet yderligere. Men en luftkvalitetsmålsætgen bekræftet i skriftlige svar - at beskyttelses- ning skal jo ikke bare opstilles i forhold til
+reglerne i lejeloven i tilfælde af opsigelse tilsi- denne marginale påvirkning, men i forhold til
+desættes, når det drejer sig om ekspropriation. alle de andre kilder, som påvirker luftmiljøet,
+Der findes ingen - og jeg understreger: ingen - og her er trafikken et nok så vigtigt element.
+beskyttelse af lejere, når det drejer sig om eks- Derfor er det positivt, set ud fra et miljømæspropriation. Det er opsigelse med 3 måneders sigt synspunkt, at de to landes trafikmyndighevarsel uden pligt til genhusning, uden erstat- der i forbindelse med arbejdet på den faste forning til flytning eller alt det, som ifølge lejelo- bindelse har tilrettelagt et meget omfattende
+ven skal tilbydes lejerne, når det drejer sig om og miljørettet trafikprogram, som vil være til
+fordel for luftmiljøet i Øresundsregionen.
+byfornyelse eller sanering.
+Det andet spørgsmål, jeg skal svare på, er
+Der er kun én eneste størrelse, som er undtaget fra de beskyttelseskrav, nemlig staten og spørgsmålet om de omkringliggende landes inekspropriationsloven, og jeg havde været langt teresser på miljøområdet i forbindelse med
+mere tilfreds, hvis trafikministeren havde sagt: Øresundsforbindelsen. Jeg er ligesom hr. Gade
+Det er en åbenbar fejl, at disse beskyttelsesbe- glad for, at man interesserer sig så stærkt for
+stemmelser i lejeloven ikke gælder ved ekspro- miljøet i Østersøen i vore nabolande. Vi har i
+priationer, og regeringen vil hurtigst muligt nær fremtid møde i Helsingforskommissionen,
+drage omsorg for, at det bliver ændret. Det er hvor vi skal diskutere målsætningerne for
+uanstændigt, at lejere på Amager, som har bør- Østersøen, fordi problemerne virkelig er meget
+neinstitutionsplads og arbejde, er blevet op- store. Ikke mindst udledningen af urenset spilsagt fra deres lejlighed med 3 måneders varsel devand fra såvel kommuner som virksomheder
+og i øvrigt kan gå ud på markedet og se, hvor er en meget alvorlig belastning, og desværre
+de kan få en anden, når det dog trods alt ved gælder det ikke kun for de tidligere kommuniekspropriation af ejerboliger ifølge grundlo- stiske lande, men også et par nordiske lande og
+vens bestemmelser skal ske mod fuld erstat- Forbundsrepublikken Tyskland.
+ning. Men når det drejer sig om ekspropriVi vil naturligvis benytte lejligheden til at
+ation, er lejere jaget vildt, som man bare kan kvittere for denne interesse for miljøet. I så
+behandle, som man vil, og det var netop det, stor udstrækning, som det overhovedet er mujeg havde håbet, at man ville gøre noget ved. ligt, vil vi stå fast på de målsætninger, der er
+stillet op, og som også for de pågældende lanMiljøministeren (Svend Auken):
+des vedkommende indebærer udgifter i lighed
+Hr. Gade fremdrager med rette spørgsmålet med dem, vi selv har måttet afholde i forbinom luftforurening i Øresundsregionen og stil- delse med vandmiljøplanen i Danmark.
+ler spørgsmål om, hvorfor der ikke er fastsat en
+Så skal jeg endelig sige noget om miljøarbejluftkvalitetsmålsætning i forbindelse med pro- det. Hr. Gade siger, at fra dansk side har vi
+jektet, med henvisning til, at svenskerne jo har ikke været særlig optaget af miljøproblemerne
+gjort noget, men at vi her i Danmark sakker i forbindelse med Øresundsforbindelsen, men
+
+6283
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Trafikministeren
+65685;title_name;"det mener jeg simpelt hen er en helt urimelig
+påstand. Faktisk erindrer jeg ikke noget anlægsarbejde, hvor selv de mest teoretiske miljørisici er blevet imødegået så seriøst og med
+en sådan vilje til at påtage sig c e nødvendige
+tilpasninger og omkostninger, som tilfældet er
+ved Øresundsforbindelsen. Det er blevet sagt,
+at vi går med livrem og seler, nnen jeg mener,
+det er en klar underdrivelse af v Dre bestræbelser på miljøområdet. Der er ikke kun tale om
+livrem og seler, der er tillige tale om beskyttelseshjelm og sikkerhedsfodtøj.";Miljøministeren
+66240;name_party;":
+Jeg er glad for, at jeg fastholdt mit ønske om
+en forespørgselsdebat, for jeg synes alligevel,
+der er kommet en række nye ti lg frem under
+denne debat, og jeg skal kort k eminentere de
+enkelte ordføreres indlæg.
+Hr. J.K. Hansen mente, at ministrene fortsat
+skulle være venlige, og det er da også rart. Men
+jeg er nu valgt ind her for at forsøge at få nogle
+synspunkter igennem, og om ministrene er
+venlige over for mig eller ej, tag ,,-r jeg mig ikke
+så meget af.
+Så nævnte hr. J.K. Hansen den redegørelse,
+vi fik den 14. december 1993, og at dens indhold var fuldt tilfredsstillende fe r Socialdemokratiet. Jeg vil godt gøre opmærksom på, at
+ved den lejlighed fik vi oplyst, ,it miljøspørgsmålene ville være afklarede inden udgangen af
+december 1993, så derfor er der da kommet noget nyt ind i sagen siden dengang. Hr. J.K.
+Hansen henviste til, at alle spør smål er besvarede, og at der har været samråd både den 20.
+og den 27. januar: men hr. J.K. Hansen ved jo
+sikkert, at når man retter en forespørgsel til
+nogle ministre, går der en vis Periode, inden
+den kommer på dagsordenen, og denne forespørgsel er anmeldt længe før de to omtalte
+samråd.
+Hr. J.K. Hansen undgår behændigt at tale
+om Fremskridtspartiets dagsordensforslag,
+fordi demokrati åbenbart er uinteressant for
+Socialdemokratiet. Man ønsker i hvert fald ikke, at borgerne skal have nog :n indflydelse.
+Hr. Ikast fra Det Konservativ: Folkeparti siger, at der er intet nyt under solen. Nej, måske
+ikke for hr. Ikast, som er en så svoren brotilhænger, man overhovedet kan være. Men jeg
+mener dog, der er lidt nyt under solen, når
+statsministeren siger til den sve s k e statsmini-
+
+6284
+
+ster, at broen skal medføre en matematisk nulløsning, selv om det betyder, at linjeføringen
+skal flyttes lidt, og at den kunstige ø måske også skal flyttes lidt. Men der er ingen økonomiske beregninger: man siger bare, at så flytter vi
+den bare lidt. Men hr. Ikast siger: Intet nyt under solen!
+Hr. Svend Heiselberg udtrykker stor tilfredshed med ministrene og siger, at det er vel
+nok godt, som denne sag er blevet tacklet. Det
+er sandelig nye toner fra Danmarks Liberale
+Parti, at man er så tilfreds med regeringen og
+stort set ikke engang vil deltage i debatten om
+Øresundsforbindelsen, men bare henviser til
+regeringen og følger med som dikkende lammehaler til et dagsordensforslag, som er fremsat af regeringen. Jeg kunne heller ikke lade
+være med at bemærke, at hverken hr. Svend
+Heiselberg eller hr. Ikast overhovedet omtalte
+Fremskridtspartiets dagsorden. De er også ligeglade med, hvad vælgerne mener, eller rettere sagt: De tør ikke lægge sagen ud til en folkeafstemning, fordi de på forhånd kender resultatet.
+Fru Kirsten Jacobsen kom en del ind på alle
+de ulykkelige omstændigheder omkring ekspropriationerne, men det synes heller ikke at
+interessere Venstre og De Konservative. De to
+partier er, som hr. Svend Heiselberg udtrykte
+det, fuldt tilfredse med den måde, regeringen
+har tacklet hele problematikken omkring forbindelsen på.
+Hr. Bilgrav-Nielsen startede med at sige, at
+der ikke er kommet noget nyt ind i sagen siden
+debatten i december 1993, og var derefter så
+venlig at komme med 10-12 forskellige nyheder. Det skal jeg takke for, og jeg skal også
+nævne en ting, som hr. Bilgrav-Nielsen ikke
+kom ind på. Det var de udtalelser, hr. BilgravNielsen var citeret for, om, at det måske ville
+være rigtigst at vente en 20-30 år efter færdiggørelsen af Storebæltsforbindelsen, så vi får de
+helt rigtige vurderinger og erfaringer.
+Der er en ting mere, som jeg synes er fantastisk godt gjort af hr. Bilgrav-Nielsen, nemlig
+at han står heroppe og siger, at han er modstander af forbindelsen og kommer med alle
+argumenterne for sit standpunkt, men bagefter
+stemmer for regeringens forslag sammen med
+resten af De Radikale. Jeg ville ikke komme
+godt af sted med at skulle forklare vælgerne, at
+man kan gøre det på den måde, men selvfølge-
+
+6285
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Ole Donner
+70251;title_name;"lig er jeg heller ikke radikal. Det må være typisk radikalt, at man gang på gang kan sige til
+pressen, at man er modstandere af det, og alligevel slutter med at stemme for.
+Der var nogle bemærkninger fra Kristeligt
+Folkepartis ordfører om, at på den ene side var
+han glad for, at vi fik debatten, men på den
+anden side var det måske unødvendigt, fordi vi
+kun fik de samme svar. Jeg vil sige til Kristeligt
+Folkeparti, som jo er med i regeringen, at det
+kunne man jo meget passende gøre noget ved.
+Man kunne f.eks. opfordre til, at vi ikke fik de
+samme svar.
+Så ville jeg også gerne have sagt noget til
+CD's ordfører, men der har jo under hele debatten ikke været en eneste CD'er i salen. Derfor er de usynlige for mig, som de også er det i
+meningsmålingerne.
+Statsministeren indledte med at sige, at han
+var en flink mand, og jeg kan da sige, at det
+kan jeg tilslutte mig, hr. statsminister. Statsministeren sagde også, at han lyttede interesseret
+til min begrundelse, men her tror jeg nu nok, at
+det må have været noget, der stod i manuskriptet. Da formanden ringede med klokken, var
+der ivrig aktivitet - også på regeringsbænkene
+- men jeg mener, at jeg begrundede min forespørgsel rimeligt.
+Trafikministeren sagde nærmest bebrejdende, at de oplysninger, der er kommet om ekspropriationerne, var givet til Folketingets Trafikudvalg. Til det skal jeg gentage: Ja, men forespørgslen var anmeldt inden den dato.
+Miljøministeren nævnte de tredimenale målinger, hvis resultater skal foreligge ved udgangen af juli måned. Jeg er meget tilfreds med, at
+miljøministeren holder så godt øje med miljøet, som han tilsyneladende gør, og jeg håber, at
+miljøministeren vil sikre, at vi ikke går i gang
+med projektet, uden at der er garanti for, at
+kravene overholdes.
+Hr. Gade nævnte en lang række nye ting og
+fremsatte også et dagsordensforslag. Jeg må sige, at stort set alle de ting, der nævnes i SF's
+forslag, ville Fremskridtspartiet kunne stemme
+for: men vi ser altså helst, at der kom en folkeafstemning om hele sagen, og derfor må vi fastholde vores eget forslag. Men jeg vil gerne sige
+til SF, at vi er helt enige i næsten alle de synspunkter, man fremfører, blot ikke om en boret
+jernbanetunnel. Og dog - hvis der også blev
+plads til bilerne, ville vi godt være med til at
+undersøge mulighederne.
+
+6286
+
+Vedrørende ekspropriationerne sagde trafikministeren heroppe fra talerstolen, at der
+var nogle beskyttelsesregler i lejeloven, og fru
+Kirsten Jacobsen var også heroppe og kom
+med sin version af det spørgsmål. Jeg vil gerne
+bede trafikministeren om at redegøre kort over
+for Folketinget for, hvilke regler trafikministeren mener beskytter ejerne af de huse, der nu
+er blevet eksproprieret.
+(Kort bemærkning).";Ole Donner
+72981;name_party;":
+Hr. Ole Donner giver udtryk for forundring
+over, at Venstre er venlig over for regeringen:
+men det skyldes jo alene, at vi kun er kritiske,
+når der er saglige belæg herfor. (Munterhed).
+Vi mener, at i denne sag er der ikke sagligt belæg for at være kritisk over for regeringen, og
+som følge deraf er vi selvfølgelig også venlige.
+(Kort bemærkning).";Svend Heiselberg
+73347;name_party;":
+Jeg vil godt sige til hr. Svend Heiselberg, at
+jeg udtrykte ikke forundring over, at man var
+venlig over for regeringen. Jeg udtrykte forundring over, at man var en dikkende lammehaie.";Ole Donner
+73543;name_party;":
+Når man hører Venstres argumentation blive fremført af hr. Svend Heiselberg, er man
+helt tryg ved at stemme imod det dagsordensforslag, som regeringen og hr. Svend Heiselberg stemmer for om lidt.
+Jeg fik ikke svar fra hr. J.K. Hansen på mit
+spørgsmål om notatet af den 10. februar, men
+jeg vil godt sige om den diskussion, der har
+været om ekspropriationerne, at trafikministeren får jo en chance. Det kan ikke vare mange
+dage, inden han skal svare på et spørgsmål fra
+mig, om man vil give en ulempegodtgørelse til
+alle eksproprierede, både ejere og lejere.
+Så vil jeg vende mig til det svar, som trafikministeren har givet den tyske regering, og som
+blev refereret heroppefra, på spørgsmålet om,
+hvorfor man har fravalgt den miljømæssigt rigtige løsning, nemlig en boret jernbanetunnel.
+Man argumenterer over for den tyske regering
+med, at det vil nødvendiggøre betydelige statslige tilskud, og så vil jeg godt spørge trafikministeren: Hvor store er de? Hvornår er de beregninger foretaget? Hvornår er der lavet et
+
+6287
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Gade
+74664;title_name;"projekt til en boret tunnel? Hvordan kan trafikministeren dokumentere det, han fortæller
+tyskerne?
+Eller man kan spørge på en anden måde:
+Hvis tyskerne skulle sende et n y brev, hvor de
+gerne vil have at vide, hvor der danske regering har sin dokumentation fra og hvor dyrt
+det bliver for de danske skatteydere, hvad vil
+den danske regering så svare? Jeg kan godt
+give svaret: Man kan ikke svare, for man har
+aldrig undersøgt det: man har kke gidet undersøge det projekt, og derfor kan man heller
+ikke dokumentere den argumentation, man
+bruger over for tyskerne. Det :r ikke særlig
+flot, må jeg sige.
+Jeg forstår, at man vil fremsende nøjagtig de
+samme oplysninger til Østersø landene, som
+Vattendomstolen får, men ikke nødvendigvis sådan har jeg forstået svaret - i den samme
+form. Jeg formoder, vi i Miljøuc valget og Trafikudvalget får lejlighed til at controllere, at
+det er sådan, det hænger sammen.
+Jeg fik ikke svar fra trafikministeren om de
+nye trafikprognoser. Jeg har eft :rlyst det længe. Alle siger jo, at trafikken falder på Øresund, og jeg vil gerne have de nyeste trafikprognoser. Det var da interessant at få dem her,
+mens vi har en slags tænkepause, eller så vi i
+hvert fald kunne få en tænkepause.
+Jeg fik heller ikke svar på nog t, som jeg ved
+optager københavnerne meget: Kalvebod. Når
+regeringen ikke er i gang med at drøfte denne
+sag om Kalvebod, er det så, fordi man er ligeglad med, at Københavns Kommune har brugt
+1 mio. kr. på at finde frem til el miljømæssigt
+bedre projekt, nemlig en tunnel ved Kalvebod
+i stedet for broen? Eller er det bare udtryk for,
+at man er nødt til at have en tænkepause, og at
+man også skal tale med Venstre om økonomien?
+Jeg forstod på miljøministeren, at vi nu får
+en luftkvalitetsmålsætning. Det vil jeg da gerne
+kvittere for, hvis det er rigtigt. Jeg er interesseret i, om vi får den, før den ende ige beslutning
+skal tages. Jeg vil så se, om jeg kan få et svar i
+dag eller senere om, hvornår der vil blive udarbejdet en luftkvalitetsmålsætnir g.
+Så siger miljøministeren, at c ette er utrolig
+miljøseriøst: Man går med livrem og seler og
+hjelm og sikkerhedssko. Jeg syn s , det er utroligt, at landets miljøminister kan sige sådan i
+en sag, hvor et os venligtsindet and argumen-
+
+6288
+
+terer og undrer sig over, hvorfor man ikke har
+undersøgt den mest miljøvenlige løsning, nemlig en boret tunnel. Miljøministeren siger: Det
+er virkelig miljøseriøst dette her, og vi sikrer os
+på alle måder. Men realiteten er jo, at man har
+fravalgt en løsning, og man gider ikke at bruge
+den pause, vi har nu, til en undersøgelse af det
+eneste miljøvenlige alternativ, nemlig en boret
+jernbanetunnel. Det er trods alt det, miljøministeren om lidt stemmer imod eller afviser, når
+han ikke vil støtte SF's dagsorden.
+Til sidst vil jeg gerne spørge statsministeren,
+hvad der sker, hvis tidsplanen skrider. Statsministeren regner med, at dette kun varer to måneder - at Vattendomstolen kan gøre sin vurdering færdig på to måneder. Jeg har forstået,
+at det også er en del af argumentationen for, at
+man ikke har sat alle landanlæggene i stå: man
+synes, at når perioden er så kort, kan man tillade sig kun at sætte noget af det i stå.
+Men hvad nu, hvis det nu viser sig, at Vattendomstolen reagerer anderledes, f.eks. i
+overensstemmelse med det, som Peter Brusewitz, der er fra Vattendomstolen, har sagt til
+Jyllands-Posten? Han siger: Vi må se materiale
+for at vurdere, om det er nødvendigt at afvente
+de tredimensionale modeller. Hvad nu, hvis
+det viser sig, at Vattendomstolen faktisk ønsker at se de tredimensionale modeller, at Vattendomstolen skal bruge mere tid, end regeringen regner med nu? Hvilke konsekvenser får
+det for landanlæggene? Hvordan kan regeringen sidde her og ligne nogle, der er så sikre på,
+at dette kommer igennem? Det besvor trafikministeren til sidst.
+Sagen er vel, at projektet er ganske usikkert,
+og det klæder egentlig ikke bropartierne, at
+man ikke erkender det. I stedet for har man
+benyttet dagen i dag til at forsøge at sige så lidt
+som muligt. Især Venstre og De Konservative
+har - hvad skal vi sige - indkasseret hovedpræmien ved slet ikke at sige noget, ikke andet end
+at de støtter regeringen uforbeholdent. Det er
+ikke betryggende, og det, jeg gerne vil vide her
+ved slutningen af debatten, er: Hvad, hvis fristen ikke kan holde? - hvad jeg ikke tror den
+kan.
+Så skal jeg for god ordens skyld sige, at hvis
+Fremskridtspartiets dagsorden ville være kommet til afstemning, kunne vi have støttet den.
+
+6289
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen
+
+(Kort bemærkning).
+J.K. Hansen (S):
+Det er altid kedeligt, når et medlem mener
+ikke at have fået svar på et spørgsmål, som han
+har stillet til et andet medlem.
+Hr. Gade efterlyste et svar på et notat af 10.
+februar 1993. Jeg har naturligvis gransket min
+hukommelse i den sidste tid, og jeg er fuldstændig klar over, at det notat, som hr. Gade
+efterlyser, er et af de mange notater, som så
+dagens lys i anledning af, at et af Øresundsforligspartierne, nærmere betegnet Det Konservative Folkeparti, sidste sommer rejste en debat om overdækning ude ved Tårnby. Det var
+en ret uvenlig handling at foretage som forligsparti, synes jeg nok. Jeg ved også godt, at De
+Konservative siden har fortrudt, at de rejste
+den debat: især hr. Henning Dyremose har
+sikkert fortrudt det.
+Der kom mange notater frem dengang, og
+jeg synes, at det var venligt af regeringen at
+lægge alt det materiale på bordet, der drejede
+sig om overbygningen ved Tårnby, men jeg er
+helt sikker på - ja, jeg ved det - at det ikke var
+et notat, som havde til hensigt at ændre på det,
+der stod i anlægslovens bemærkninger, og det,
+der stod i de betænkninger, der blev vedtaget i
+Folketinget. Det har hele tiden været tanken,
+at man skulle fremme landanlæggene ved Øresund, og jeg kan ærlig talt ikke forstå, at hr.
+Gade skulle have noget imod, at vi laver en
+fuld overdækning ude ved Tårnby. Det er da
+en miljømæssigt god ting, hvis man endelig
+skulle tale om miljøet.
+Miljøministeren (Svend Auken):
+Jeg er ked af, at hr. Gade siger, at regeringen
+ikke har svaret på de spørgsmål, han har stillet,
+eller ikke har givet de nødvendige oplysninger.
+Jeg fornemmede - selv om det er kort tid siden,
+at vi har orienteret Folketinget meget grundigt
+- at såvel statsministeren og trafikministeren
+som jeg selv benyttede lejligheden til at give så
+koncise oplysninger som muligt og efterfølgende også har prøvet at besvare hr. Gades
+spørgsmål.
+Hr. Gade bliver ved med - måske for ligesom at holde gang i en god diskussion - at påstå, at det er en fejl, at vi ikke har lavet en miljøvurdering af en boret jernbanetunnel. Jeg
+har før sagt til hr. Gade, at det er overflødigt at
+lave en sådan. Den er jo pr. definition miljø-
+
+6290
+
+neutral. Det, der har været kunsten fra regeringens side, har været at sikre, at den forbindelse, der ud fra andre hensyn, herunder også
+samfundsøkonomiske, er mere fordelagtig, bliver lige så god på det miljømæssige område,
+som en boret jernbanetunnel ville være. Jeg synes ikke, der er noget arrogant eller nogen afvisende holdning i det i forhold til hr. Gade.
+I øvrigt må jeg sige, at jeg tror, at man i det
+mindste kan glæde sig over én ting i forbindelse med Øresundsdebatten, og det er, at de
+mange kritiske indlæg, der har været både her i
+landet og i vore nabolande, har været med til
+at skærpe miljøbevidstheden omkring sammenhængen mellem trafikinvesteringer, store
+anlægsarbejder og miljøet, herunder ikke
+mindst havmiljøet. Det tror jeg vi vil have stor
+fordel af i fremtiden, og jeg synes i modsætning til mange, der beskriver den proces, vi har
+været igennem, at vi har haft et overordentlig
+konstruktivt udbytte af de mange kritiske røster og de mange kritiske spørgsmål, som jeg
+så til gengæld også synes vi har besvaret på en
+absolut overbevisende måde.
+Trafikministeren (Trøjborg):
+Til hr. Gades spørgsmål om prognoser skal
+jeg blot give den oplysning, at det naturligvis
+er selskabets opgave hele tiden at vurdere
+grundlaget for disse prognoser og sørge for, at
+de bliver optimeret, men det, der er grundlaget
+for de beslutninger, der er truffet, er jo det prognosegrundlag, som ligger beskrevet i anlægsloven.
+Til spørgsmålet om Kalvebodløbet vil jeg
+blot sige, at jeg ikke har noget grundlag for at
+vurdere et sådant projekt. Jeg har godt set, at
+det har været beskrevet i dagspressen. Jeg har
+også set, at Københavns Kommune planlægger at indlede en diskussion herom, og derfor
+må jeg beklage over for hr. Gade, at det ikke er
+muligt for mig at give andet svar end det, jeg
+har givet tidligere, nemlig at der ikke er grundlag for, og at der ikke i regeringen og ej heller i
+forligspartierne har været drøftet nogle ændringer i det danske landanlæg, for så vidt angår Kalvebodløbet.";Gade
+83456;title_name;":
+Jeg skylder hr. Gade et svar på spørgsmålet
+om Vattendomstolens bedømmelsesperiode på
+ca. 2 måneder, som Vattendomstolen havde
+
+6291
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Nyrup Rasmussen
+83699;title_name;"givet udtryk for som sin foreløl ige vurdering.
+Hr. Gade spørger mig, hvad der sker, hvis der
+går længere tid. Må jeg sige om tet, at de landanlæg, regeringen har besluttet i enighed med
+forligspartierne at fortsætte me , jo er landanlæg, som Amager under alle forhold har hårdt
+brug for. Det gælder først og fremmest den
+kollektive trafik. Vi skal se S-tog på Amager i
+løbet af ganske få år, og det er jo noget, folk på
+Amager har kæmpet for i mar ige, mange år.
+Tilsvarende gælder også bedre vejforbindelser
+på Amager, som under alle oms ændigheder er
+vigtige og skal gennemføres. Ar ejdet vil blive
+gennemført, og det vil fortsætte uafhængigt af
+eventuelle forsinkelser, der måt e blive aktuelle på grund af Vattendomstolen. Jeg tror det
+nu ikke, hr. Gade, men svaret på spørgsmålet
+er, at disse anlæg vil blive videreført.
+Hvis der skulle ske det, at der kommer andre
+forsinkelser, tager vi stilling til den øvrige del
+af landanlægget til den tid.
+(Kort bemærkning).";Statsministeren
+84679;name_party;":
+Jeg forstod næsten hr. J.K. Hansens indlæg
+som en beklagelse af, at dette n t a t kom frem,
+og at det var De Konservatives skyld. Det var
+De Konservative, der dengang sagde noget.
+Jeg skal ikke tage stilling til, om det, De Konservative sagde på det tidspunkt, var klogt,
+men de sagde da noget om Øresundsforbindelsen.
+Nu er vi altså nået dertil, at De Konservative
+kan indkassere ros her fra talerstolen, for i dag
+har de holdt helt kæft, hvis jeg må bruge det
+udtryk her fra talerstolen: i hvert fald har de
+ikke sagt noget. Det siger jo nol: noget om den
+manglende lyst til debat, som bropartierne har.
+Må jeg sige til miljøministere «, at jeg har ikke efterlyst en miljøvurdering af en boret tunnel, for den kender jeg godt, de : er nemlig den
+rigtige miljømæssigt, det er jeg enig med miljøministeren i, men regeringen er i den klemme og det var det, jeg påpegede - at man fortæller
+tyskerne, at en jernbaneforbir delse i tunnel
+koster staten en forfærdelig masse penge, og
+det har regeringen ingen dokumentation for,
+for man har aldrig lavet et konkret projekt,
+man har aldrig lavet et alternativt projekt.
+Så vil jeg sige til statsministt ren, at jeg forstår, at de landanlæg, som er knyttet til lufthavnen, vil man fortsætte med, selv om det går
+
+6292
+
+ud over denne 2-måneders-periode, som man
+indtil videre regner med. Jeg tror bare, man
+skal indstille sig på, at det kommer til at vare
+mere end to måneder.
+Så vil jeg blot forsigtigt rejse den problemstilling, at regeringen jo arbejder under ansvar
+over for Folketinget ved hjælp af en lov, som
+bygger på, at der skal være kyst til kyst-forbindelse. Det er jo ikke en lov, der giver lov til at
+bygge en forbindelse til lufthavnen, det er en
+lov, der siger, at der bliver en kyst til kyst-forbindelse, og kun i den situation har man lov til
+at bygge ud til lufthavnen. Jeg siger kun, at der
+er tynd is på vandet i denne sag, og derfor synes jeg, at regeringen, når den kommer i den
+situation - og det tror jeg den gør - skal tænke
+sig ganske grundigt om.
+(Kort bemærkning).";Gade
+86731;name_party;":
+Trafikministeren sagde her fra talerstolen
+under debatten: Beboerne på Amager, hvis huse er blevet nedrevet, er beskyttet af nogle bestemmelser i lejeloven. Så kom fru Kirsten Jacobsen op og gav sin version af, hvad fru Kirsten Jacobsen mente om disse bestemmelser.
+Jeg vil gerne spørge trafikministeren: Er det
+trafikministeren, der har ret, eller er det fru
+Kirsten Jacobsen, der har ret? Jeg mener ikke,
+at en minister skal kunne alle love på fingrene,
+og det er der formentlig heller ikke nogen der
+kan, heller ikke nogen af folketingsmedlemmerne. Men det er for mig en alvorlig sag, at en
+trafikminister går på talerstolen og afviser en
+kritik ved at skøjte hen over problemet og sige:
+Det bliver reguleret i en eller anden lovgivning, og trafikministeren nævnte specifikt, at
+de var beskyttet efter nogle regler i lejelovens
+bestemmelser.
+Så kommer et andet folketingsmedlem herop og kommer med sin version, og ministeren
+undlader bare at svare. Jeg vil sige til trafikministeren, som jeg sagde før, at jeg forlanger ikke, at ministeren skal kunne alle disse ting på
+fingrene, men det mindste, man kan gøre, er i
+hvert fald at gå op på talerstolen og sige: Det
+var ikke rigtigt, det, jeg sagde, det var en fortalelse - eller hvad man nu kunne gøre.
+(Kort bemærkning).";Ole Donner
+88028;name_party;":
+Trafikministeren har åbenbart ikke tænkt sig
+
+6293
+
+8/2 94: Forespørgsel vedr. Sveriges udskydelse af beslutningen om Øresundsforbindelsen";Kirsten Jacobsen
+88190;title_name;"at gå op og sige noget: derfor skal jeg citere fra
+et svar fra boligministeren, modtaget den 3. december 1993, på spørgsmål nr. S 320. I svaret
+på side 2 står der følgende:
+»Trafikministeriet,« - altså trafikministerens ministerium - »hvorunder loven om fremgangsmåden ved ekspropriation henhører, har
+oplyst, at ekspropriationsmyndighederne og
+de berørte kommuner generelt klarer genhusning af opsagte lejere uden særlige problemer,
+ligesom man i det hele taget forsøger at få fraflytningsprocessen til at forløbe så smidigt som
+muligt for de involverede. F.eks. bestræber
+man sig på at give lejerne et langt opsigelsesvarsel, typisk på 6 måneder, selv om de kun
+har krav på 3 måneders varsel.
+Det bemærkes i den forbindelse, at
+lejerettigheder principielt er omfattet af reglerne om ekspropriation ...«
+Længere nede står:
+»Der er imidlertid ikke efter den gældende
+lovgivning mulighed for at kræve genhusning
+som følge af ekspropriation.«
+Det var et direkte citat, og jeg går ud fra, at
+ministeren vil stå ved de oplysninger, hans
+eget ministerium har givet til Folketinget.
+Trafikministeren (Trøjborg):
+Jeg skal gerne gentage mit svar til hr. Ole
+Donner og fru Kirsten Jacobsen.
+Jeg sagde, at der var klare regler i lejelovgivningen. Det er ikke sikkert, man er tilfreds med
+de regler. Det forstår jeg at Fremskridtspartiet
+ikke er. Man vil gerne have forbedret lejelovgivningens regler i relation til ekspropriation.
+Men mit svar står stadig væk til troende.
+(Kort bemærkning).";Kirsten Jacobsen
+89687;name_party;":
+Ministeren sagde, at man var beskyttet af
+den pågældende lovgivning. Nu forstår jeg, at
+ministeren retter det til, at der er klare regler i
+lovgivningen. Så begynder vi også at nærme os
+det, jeg kalder sandheden, for så kan jeg godt
+være tilfreds med, at ministeren erkender, at
+han ikke kendte den pågældende lovgivning,
+men nu bare henviser til, at der er klare regler i
+lovgivningen. Ja, det tror da pokker. Hvis en
+lovgivning ikke er klar, burde den selvfølgelig
+laves om.
+Men jeg er tilfreds med, at ministeren erkender, at han kom til at fortale sig, og at han ikke
+burde have sagt sådan.
+
+6294
+
+(Kort bemærkning).";Ole Donner
+90331;name_party;":
+Trafikministeren sluttede med at sige, at
+hans svar stadig stod til troende.
+Så vil jeg gerne have trafikministeren til at
+bekræfte, at de klare regler om beskyttelse, der
+er i lejeloven, ikke gælder, når en ejendom bliver eksproprieret som følge af reglerne i ekspropriationsloven.
+Trafikministeren (Trøjborg):
+Trafikministeren vil gerne henholde sig til
+det svar, der tidligere er givet, og som fru Kirsten Jacobsen citerede her fra Folketingets talerstol.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslag om motiveret dagsorden nr. D 33 af
+J.K. Hansen (S) (se foran)
+vedtoges med 96 stemmer (S, KF, V, CD, RV
+og KRF) mod 17 (SF og FP).
+Hermed var følgende forslag bortfaldet:
+Forslag om motiveret dagsorden nr. D 32 af
+Ole Donner (FP) (se foran).
+Forslag om motiveret dagsorden nr. D 34 af
+Gade (SF) (se foran).
+Hermed sluttede forespørgslen.
+Den sidste sag på dagsordenen var:
+7) Første behandling af beslutningsforslag nr. B
+53:
+Forslag tilfolketingsbeslutning om fjernelse af
+invaliditetsrisikobetinget diskrimination i pensionsordninger.
+Af Rahbæk Møller (SF) m.fl.
+(Fremsat 28/1 94).
+Forslaget sattes til forhandling.
+Forhandling
+Industri- og samordningsministeren (Mimi Jakobsen):
+Dette beslutningsforslag fra SF vil pålægge
+
+6295
+
+8/2 94: 1. beh. af f. . beslutn. vedr. invaliditetsrisikobetinget diskrimination";Kirsten Jacobsen
+91695;title_name;"regeringen allerede i dette folketingsår at fremsætte lovforslag, dels om at pensionsydelser ikke må afhænge af invaliditetsris ko, dels om at
+etablere en udligningsordning mellem pensionsordninger.
+Forslaget er en del af et besl tningsforslag,
+som SF fremsatte i marts sidste hr, og som ikke
+vandt tilslutning ved førstebeh ndlingen dengang.
+Da pensionsordninger byggei på opsparing,
+er det klart, at ydelserne vil afhænge såvel af
+indbetalingerne som af risikoen for, at der skal
+ske udbetalinger fra ordningen Hvis udbetalingerne var højere, blev ordni gerne drænet
+for midler, og det ville betyde, at kommende
+generationer ikke fik nok ud af deres opsparing.
+Det er selvfølgelig rigtigt, son det anføres i
+bemærkningerne til beslutningsforslaget, at
+der er erhvervsbetingede forskelle i invaliditetsrisikoen hos medlemmerne af forskellige
+pensionsordninger. De enkelte pensionsordningers erhvervsbetingede forskelle medfører
+så - som også anført i beslutningsforslaget - at
+man ikke vil få de samme ydelser for samme
+bidrag fra ordning til ordning, medmindre der
+etableres en fælles risikoudlignirigsordning.
+Jeg må sige, at regeringen tvivler meget på,
+at det er hensigtsmæssigt med s: klan en udligningsordning. For det første vil jeg godt nævne, at en udligningsordning efte alt at dømme
+vil kræve en temmelig omfattende regulering
+og administration. For det andel - som det også er anført i bemærkningerne til beslutningsforslaget - kan en udligningsordning kun etableres med ens ydelsessammensætning, for ellers kan der spekuleres i valg a ydelsestyper,
+hvor man får en forøget risiko ds:kket ind af de
+andre ordninger. Et indgreb i y( elsessammensætningen vil så igen betyde indgreb i bl.a. arbejdsmarkedspensionsordninge ne, som er aftalt mellem arbejdsmarkedets parter.
+Regeringen ser selvfølgelig nu d stor tilfredshed på, at det efterhånden er ykkedes at få
+dækket hele arbejdsmarkedet med pensionsordninger, uden at lovgivning har været nødvendig. En udligningsordning vil føre til, at
+nogle erhvervsgrupper på forhånd ved, at der
+er dele af deres pensionsbidra , der ikke vil
+blive anvendt til dem selv, og da kan man stille
+spørgsmålet, om de grupper frivilligt vil deltage i en kollektiv pensionsopsparing på de betingelser.
+
+6296
+
+Derfor er det, vi frygter, at en udligningsordning meget nemt kan føre til en udhuling af de
+kollektive ordninger til fordel for individuel
+opsparing, f.eks. på konti i pengeinstitutter.
+Regeringen lægger stor vægt på at bevare de
+frivillige kollektive pensionsordninger. Derfor
+mener jeg ikke, at det i praksis vil være muligt
+at overføre midler mellem pensionsordninger,
+sådan som det foreslås.
+Vi ser derfor ikke fra regeringens side noget
+behov for yderligere lovgivning på dette område. Selv om regeringen i og for sig ser med megen sympati på formålet med beslutningsforslaget, må jeg på regeringens vegne afvise det.";tndustri- og samordnlngsmlnlsteren
+94588;name_party;":
+Det et ikke engang et år siden, vi behandlede et forslag, som havde det tilsvarende element i sig. Dengang afviste vi forslaget fra Socialdemokratiets side, og det skal jeg også gøre
+i dag.
+Et udligningssystem, som det er foreslået,
+kan blive temmelig bureaukratisk. Vi ved, at
+der kun er pensionssparerne til at betale det.
+Det er temmelig betænkeligt at sætte sådan et
+system i værk.
+I stedet synes vi at det er helt afgørende, at
+regeringen prioriterer arbejdsmiljøet og indsatsen for arbejdsmiljøet meget højt, sådan at
+invaliditetsrisikoen reduceres i praksis. Her
+bør vi selvfølgelig navnlig gøre en indsats for
+de mest udsatte grupper, sådan at vi kommer
+dem til hjælp, og det skulle så gerne i næste
+omgang komme deres pensionsopsparing til
+hjælp, fordi man bruger den statistiske risiko
+til at beregne deres pension.
+Det andet element, man har opstillet som alternativ fra SF's side, er en obligatorisk invaliditetsforsikring. Det mener jeg vi allerede har,
+for vi har førtidspensionering i det her land. Så
+kan man selvfølgelig diskutere, om det er tilstrækkeligt, og om den er god nok. Men i hvert
+fald har vi sådan et system, og det mener vi er
+det rigtige system.
+Jeg vil også gerne erindre om, at når vi nu
+har denne forskelsbehandling med hensyn til
+pensionsopsparing og dermed pensionsudbetaling, så er det simpelt hen en ulempe, der er
+en følge af det system, vi har. Vi har en pensionsmetode her i landet, der er baseret på private aftaler og på kollektive aftaler, men altså
+frivilligt. Vi har ikke et system, der er baseret
+
+6297
+
+8/2 94: l. beh. af f. t. beslutn. vedr. invaliditetsrisikobetinget diskrimination";Sonja Mikkelsen
+96243;title_name;"på ATP og på folkepension. Vi har haft tilløb
+til at basere det på ATP, men det blev aldrig til
+noget. Det er selvfølgelig det, der kommer til
+udtryk i de private aftaler.
+Det må man tage med, når systemet er indrettet, som det er. Det er en af ulemperne, og
+det er uhyre vanskeligt at kompensere for det,
+også fordi det alt andet lige vil have betydning
+for, hvor de enkelte pensionsopsparere placerer deres midler. F.eks. kan man vælge at placere dem i udlandet, hvis man i udlandet ikke
+har tilsvarende regler, og hvis man bliver
+ugunstigt behandlet i forhold til, hvad man ellers kunne opnå med den pensionsordning,
+man har i dag. Der kan være en række andre
+tilsvarende elementer.
+Jeg synes, der var et helt andet perspektiv i
+forbindelse med pensionsopsparingen, som vi
+kunne drøfte, og som jeg synes er meget interessant at drøfte også politisk. Det er bl.a. de to
+hovedelementer, som flere af regeringens medlemmer har været inde på at debattere her på
+det sidste, nemlig for det første at sikre, at flere
+penge investeres i danske arbejdspladser - her
+kunne man f.eks. kigge på Lønmodtagernes
+Dyrtidsfonds og ATP's investeringsmuligheder - og for det andet at se på de enkelte pensionsspareres indflydelse på, hvordan deres
+penge bliver investeret her, i landet. Det synes
+jeg er meget interessant. Dér kan vi se, at der i
+hvert fald er nogle spændende elementer i det
+DSU-oplæg, der kom i går, om demokratisk
+andelskapital.
+Jeg synes i hvert fald, det er en meget spændende debat, som nogle af regeringsmedlemmerne har taget fat på, og den vil vi gerne tage
+del i.
+Men det forslag, vi her har til behandling,
+mener vi at vi bliver nødt til at afvise.";Sonja Mikkelsen
+97922;name_party;":
+Jeg kan indledningsvis sige, at det glæder
+mig, at når ministeren omtaler kollektive pensionsordninger, så taler hun om frivillige kollektive ordninger. Det kan vi i hvert fald fuldstændig tilslutte os. Hvis der er noget, der skal
+være kollektivt, så skal det være frivilligt samtidig.
+Med hensyn i øvrigt til beslutningsforslaget
+ligner det som før sagt B 70 fra sidste forår. Jeg
+kan jo gentage mig selv. Som jeg sagde sidste
+gang, vi havde noget, der lignede det her:
+
+6298
+
+Dette beslutningsforslag fra SF om fjernelse
+af invaliditetsrisikobetinget diskrimination i
+pensionsordninger er mindst lige så kompliceret, som det lyder.
+Ganske vist er spørgsmålet om kønsdiskrimination fjernet fra det nye forslag, men det
+har ikke gjort det mere spiseligt for Det Konservative Folkeparti.
+Det er ikke, fordi vi ikke anerkender, at der
+findes nedslidende arbejde eller forskellig risiko, men fordi det er vores holdning, at det er
+meget svært, ja, at man faktisk ikke kan lovgive
+på dette område. Så kunne vi lige så godt lovgive om, at man ikke måtte blive forskelligt
+slidt, eller at vi alle sammen skulle være lige
+raske eller lige syge.
+Den foreslåede lovgivning ville også medføre, at danske forsikringsselskaber blev stillet
+anderledes end udenlandske. Det betyder, at
+gode forsikringsforretninger flytter til udlandet, mens de danske forsikringsselskaber vil
+tiltrække de dårlige forretninger.
+I øvrigt vil jeg gerne henvise til mine mere
+detaljerede begrundelser fra den 2. april sidste
+år, da vi behandlede et lignende forslag.
+Det Konservative Folkeparti kan ikke stemme for beslutningsforslaget.";Kai Dige Bach
+99542;name_party;":
+Som SF selv nævner i bemærkningerne til
+beslutningsforslaget, ligner det det forslag, SF
+sidste år fremsatte om erhvervsbetinget invaliditetsrisiko, til forveksling. Blot er bestemmelserne om kønsdiskrimination udeladt.
+At der er gået nogen tid, ændrer ikke på
+Venstres holdning til forslaget. Venstre er stadig ikke enige med SF, selv om vi godt kan
+følge dele af SF's argumentation.
+Hvis vi skal have et privat og individuelt tilpasset pensionsmarked, er det nødvendigt, at
+der i nogen grad skelnes mellem, hvilke risici
+for eventuel invaliditet der måtte være. Alt andet ville gøre privat pensionsopsparing meget
+lidt attraktivt, og i Venstre ønsker vi, at det skal
+være attraktivt at spare op til egen alderdom,
+men vel at mærke på individuel basis, så det at
+have en pensionsordning ikke bliver betragtet
+som en form for ekstra skat.
+I fortsættelse heraf er vi i Venstre også uenige i, at der bør ske en udjævning mellem udbydere af de forskellige ordninger. Hvis det blev
+gennemført, kunne vi nøjagtig lige så godt ha-
+
+6299
+
+8/2 94: 1. beh. af f. t. beslutn. vedr. invaliditetsrisikobetinget diskrimination";Pia Larsen
+100673;title_name;"ve en stor offentlig pensionsordning i lighed
+med f.eks. ATP, og konkurrencen mellem pensionsudbyderne ville forsvind til skade for
+pensionskunderne.
+Desuden vil en sådan udjæv ing formentlig
+ikke kunne håndhæves i praksis over for selskaber fra andre EU-lande \ed en ensidig
+dansk lovgivning på området. Derfor vil et sådant krav om udjævning komme til at virke
+som en ensidig konkurrencefoi vridning vendt
+mod danske forsikringsselskab sr.
+Lovgivning på dette område bør gælde for
+hele EU, og derfor må Venstre afvise SF's beslutningsforslag.";Pia Larsen
+101239;name_party;":
+Når man læser SF's beslutningsforslag, er
+der i og for sig mange tiltalende tanker i det.
+Fremskridtspartiet kan meget vel være enig
+med SF i, at vi alle sammen har et kollektivt
+ansvar for personer, som bliver invalide.
+I Fremskridtspartiet mener %-i også, at vi lever op til ansvaret ved, at vi har en offentlig
+førtidspension til invalide. Mai kan altid diskutere, om den er god nok, me i det er en helt
+anden diskussion.
+Da SF's forslag sidste gang var til behandling, måtte Fremskridtspartiet afvise det, og
+det må vi også denne gang. Jel,, vil gerne sige,
+at når det drejer sig om at lave frivillige kollektive aftaler på arbejdsmarkedet for dem, der
+har et særlig belastende arbejde, så kan man
+allerede gøre det i dag.
+Den socialdemokratiske orc fører nævnede
+det interessante DSU-forslag o m en demokratisering af specielt LD og AT . Fremskridtspartiet er meget interesseret i a: demokratisere
+de to fonde. Vi kunne starte med at lade valget
+til bestyrelserne ske ved urafs emning blandt
+dem, der har penge i fondene i stedet for at
+man udpeger dem.
+Men jeg er nødt til at sige, sc m vi sagde sidste gang, at SF's forslag, sådan som det er formuleret, kan vi ikke støtte, se v om vi synes,
+der er mange tiltalende tanker deri.
+Men vi føler, at vi lever op til den kollektive
+forpligtelse, vi har over for dem, der har et risikofyldt arbejde, og som bliver invalide.";Kirsten Jacobsen
+102634;name_party;":
+De tidligere ordførere har allerede sagt,
+hvad SF's beslutningsforslag går ud på. I CD
+
+6300
+
+mener vi stadig væk ikke, der er behov for at
+ændre på pensionsspørgsmål af nærværende
+karakter, og jeg skal blot henvise til min ordførertale, som jeg holdt i forbindelse med SF's
+beslutningsforslag sidste år, og sige, at heller
+ikke denne gang kan vi stemme for SF's beslutningsforslag.";Sonja Albrink
+103037;name_party;":
+Der er visse emner, som dette Ting åbenbart
+ikke vil forholde sig til, blandt andet det emne,
+at der er nogle mennesker, der har et hårdere
+arbejde end andre, og som ikke alene bliver
+nedslidt og får en dårligere løn, men gudhjælpemig nu skal betale til en pension, som de i
+realiteten ikke får.
+I fjor gjorde vi den fejl, at vi forsøgte at få
+Tinget til at behandle dette problem sammen
+med en anden diskriminationssag. Det blev til,
+at Tinget alene diskuterede kønsproblematikken. O.k., så pillede vi den ud og tog dette her
+isoleret. Hvad gør så tre af ordførerne? De
+henviser til det, de sagde i fjor om en anden
+problemstilling. De vil simpelt hen ikke behandle det problem, at nogle mennesker nedslides og derfor - ud over alle andre skavanker
+ved dette - ikke får en alderspension ud af det,
+de indbetaler.
+Et par af ordførerne, fru Sonja Mikkelsen og
+fru Kirsten Jacobsen, henviser til, at vi har en
+offentlig invalidepension. Det er så rigtigt, som
+det er sagt, og man burde sige til de mennesker, der har hårdt fysisk arbejde, at de skulle
+lade være med at oprette en pensionsordning de kan bruge den offentlige. Det er ikke sagt
+tydeligt nok, men realiteten er, at sådan er forholdene i dag.
+Forbundet af kommunalarbejdere har nogle
+gange gjort opmærksom på, at de har grupper
+inden for deres forbund, der ikke får noget ud
+af deres alderspension, fordi pengene går til
+invalidepension. De foreslår, at de skulle have
+realrentelempelser og andet. Det er en teknisk
+løsning, som jeg ikke synes er den bedste, men
+vi er enige om, at der er et problem, og jeg er
+skuffet over, at dette Ting for størstedelen af
+partiernes vedkommende ikke vil tage det alvorligt.
+Jeg er også skuffet over at høre to ordførere,
+hr. Kai Dige Bach og fru Sonja Mikkelsen, sige, at hvis vi skulle begynde at rette op på denne skævhed, ville folk bare flytte til udlandet.
+
+6301
+
+8/2 94: l. beh. af f. t. beslutn. vedr. invaliditetsrisikobetinget diskrimination";Rahbæk Møller
+105005;title_name;"De to ordførere burde være bekendt med, at
+man i dag sagtens kan oprette pensionsordninger i udlandet, men så mister man skattefradragsretten herhjemme. Det er anerkendt EFret, at sådan er det, og sådan vil det formodentlig blive ved med at være. Det er derfor,
+folk ikke gør det. Der er alene en teoretisk risiko for, at folk skal begynde at oprette pensionsordninger i udlandet.
+Så skal jeg endelig henvende mig til de to
+eneste, der overhovedet kunne se problemet,
+nemlig ministeren og fru Sonja Mikkelsen. De
+kunne se problemet, men kunne ikke tage vores løsningsforslag og sagde, det var bureaukratisk. Det er det måske også, det vil jeg såmænd ikke afvise, men sagen er: Er det ikke et
+problem, vi bør se på? Hvis man ikke tager
+SF's forslag, hvordan gør vi det så? Skal vi følge kommunalarbejdernes forslag og lempe realrenteafgiften? Det er måske mindre bureaukratisk, og det er en løsning. Eller skal vi bare
+sige til de mennesker, som har hårdt fysisk arbejde og stor invaliditetsrisiko: Lad være, drop
+det dér? Eller skal vi lade dem snyde sig selv?
+Det er det, vi gør i dag. Vi lader dem ganske
+roligt indbetale til en pension, som de ikke får.
+Det kan ikke være rigtigt, at nogle mennesker skal have det sådan.
+(Kort bemærkning).";Rahbæk Møller
+106267;name_party;":
+Der skal ingen tvivl være om, at vi fra Socialdemokratiets side er optaget af disse problemer, og jeg vil gerne sige, hvad jeg også sagde
+på Socialdemokratiets vegne sidste forår, at
+hvis der kan komme forslag, ideer frem til,
+hvordan vi kan komme om ved dette problem
+uden at opbygge et kæmpe bureaukrati eller
+på anden måde skade pensionsopsparingen
+generelt set, så er vi indstillet på at kigge på
+det. Det sagde jeg i april måned sidste år, og
+det vil jeg gerne gentage.
+(Kort bemærkning).";Sonja Mikkelsen
+106781;name_party;":
+Hvis vi kunne få en tilkendegivelse af, at regeringen vil se på, om den kan finde en løsning, ville vi være mere end tilfredse. Vi har
+prøvet at tænke, og vi er kommet med vores
+forslag. Oppositionsforslag bliver altid kaldt
+bureaukratiske, ikke rigtig gennemtænkt osv.,
+
+6302
+
+sådan er det nu, men regeringen har jo et stort
+embedsværk, der kan tænke, lave planer osv.
+Hvis det faktisk er regeringens agt, som fru
+Sonja Mikkelsen lige tilkendegav det, at se på,
+om den kan komme på noget bedre, synes jeg,
+det er meget fint. Men vi har ikke hørt ét ord
+om, at nogen har den slags planer.
+Vi har forsøgt vores bud. Det er blevet afvist
+- for en stor del af ordførernes vedkommende
+uden overhovedet at forholde sig til problemstillingen. Det er ikke værdigt. Jeg har stadig
+ikke set nogen markere for at komme med en
+tilkendegivelse af, at andre vil forsøge at tænke
+over problemet og se, om de kan komme med
+smartere løsninger end dem, SF har fantasi til
+at forestille sig.
+Industri- og samordningsministeren (Mimi Jakobsen) :
+Jeg har ingen smartere løsninger på bedding
+eller i hovedet eller nogen andre steder, og jeg
+kan heller ikke love hr. Rahbæk Møller at ryste
+op med sådan nogle. Men vi skal jo have en
+udvalgsbehandling, og dér kan der stilles
+spørgsmål og arbejdes videre med sagen. Så
+meget kan vi i hvert fald blive enige om.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Rahbæk Møller
+108271;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Erhvervsudvalget. Hvis ingen
+gør indsigelse mod dette forslag, betragter jeg
+det som vedtaget. (Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Ivar Hansen
+108519;title_name;":
+Der er ikke mere på dagsordenen.
+Fra statsministeren har jeg modtaget følgende skrivelse af d.d.:
+»Efter statsministerens indstilling er det ved
+kongelig resolution af 8. februar 1994 besluttet
+
+6303
+
+8/2 94: Meddelelser fra formanden";Ivar Hansen
+108779;title_name;"at bestemme,
+at Industriministeriet lægges sammen med
+Samordningsministeriet, og at sagsområdet for
+Industriministeriet lægges sammen med sagsområdet for Samordningsministeriet, og
+at betegnelsen for dette ministe dum bliver Industri- og Samordningsministe iet,
+at udnævne industriminister og samordningsminister Mimi Vibeke Jakobsen, Kommandør
+af Dannebrogordenen, til indus tri- og samordningsminister,
+at bestemme,
+at sager vedrørende kompensation af udgifter i
+forbindelse med betaling af afgift af affald i
+henhold til § 12 a i lov om afgift af affald og
+råstoffer overføres fra Skatteministeriet til Miljøministeriet.
+Jeg tillader mig at anmode hr. formanden
+om at underrette Folketinget herom.
+sign. Poul Nyrup Rasmusse <<.
+Der er foretaget ændringer i følgende udvalg:
+Markedsudvalget (4/2 94):
+Udtræder: Elisabeth Arnold ( V)
+Nyt medl.: Lone Dybkjær (RV)
+Udtræder: Lone Dybkjær (RV)
+Ny stedf.: Jørgen Estrup (RV)
+Udtræder: Ritt Bjerregaard (S)
+Nyt medl.: Rosing (S)
+Udtræder: Tørnæs (V)
+Nyt medl.: Eva Kjer Hansen (V)
+Trafikudvalget (4/2 94):
+Udtræder: Gade (SF)
+Ny stedf.: Riishøj (SF)
+Forsvarsudvalget (4/2 94):
+Udtræder: Peter Duetoft (CD)
+Ny stedf.: Arne Melchior ( C D
+
+6304
+
+Dansk Interparlamentarisk Gruppes bestyrelse
+(4/2 94):
+Udtræder: Bente Juncker (CD)
+Nyt medl.: Jette Pors (CD)
+Udtræder: Jette Pors (CD)
+Ny stedf.: Svend Aage Jensen (CD)
+Boligudvalget (7/2 94):
+Udtræder: Else Marie Mortensen (S)
+Nyt medl.: Karen Jespersen (S)
+Erhvervsudvalget (7/2 94):
+Udtræder: Ole Bernt Henriksen (KF)
+Nyt medl.: Kai Dige Bach (KF)
+Udtræder: Flemming Hansen (KF)
+Nyt medl.: Ole Bernt Henriksen (KF)
+Kommunaludvalget (7/2 94):
+Udtræder: Else Marie Mortensen (S)
+Ny stedf.: Karen Jespersen (S)
+Markedsudvalget (7/2 94):
+Udtræder: Rosing (S)
+Nyt medl.: Ritt Bjerregaard (S)
+Udtræder: Eva Kjer Hansen (V)
+Nyt medl.: Tørnæs (V)
+Socialudvalget (7/2 94):
+Udtræder: Lone Møller (S)
+Ny stedf.: Karen Jespersen (S)
+Folketingets næste møde afholdes i morgen,
+onsdag den 9. februar 1994, kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 15.12";Første næstformand

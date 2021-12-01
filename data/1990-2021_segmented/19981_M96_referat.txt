@@ -1,0 +1,2117 @@
+split;reason;text;value
+0;;"Fredag den 21. maj 1999 (D)
+
+6959
+
+I sigelse, betragter jeg samtykket som givet.
+(Ophold). Det er givet.
+96. m ø d e";
+150;Time;"Dagsorden
+1) Eventuelt: Tredje behandling af lovforslag
+nr. L 248:
+Forslag til lov om forlængelse og fornyelse af
+overenskomster og aftaler for sygeplejersker,
+radiografer, hjemmesygeplejersker m.fl.
+Af arbejdsministeren (Ove Hygum).
+(Fremsat 20/5 99. Første behandling 20/5 99.
+Betænkning 20/5 99. Anden behandling 21/5
+99).
+2) Første behandling af beslutningsforslag nr.
+B 143:
+Forslag til folketingsbeslutning om Danmarks
+tilslutning til overenskomst mellem Kongeriget
+Danmarks regering sammen med Færøernes
+landsstyre på den ene side og Det Forenede
+Kongerige Storbritannien og Nordirlands regering på den anden side om den maritime afgrænsning i området mellem Færøerne og Det
+Forenede Kongerige, undertegnet i Torshavn
+den 18. maj 1999.
+Af udenrigsministeren (Niels Helveg Petersen).
+(Fremsat 19/5 99).
+3) Forespørgsel nr. F 53:
+Forespørgsel til justitsministeren og forsvarsministeren [om retsforfølgning af landsforrædere, der forsynede det tidligere DDR's
+efterretningstjeneste med informationer].
+Af Peter Skaarup (DF) m.fl.
+(Forespørgslen anmeldt 22/4 99. Fremme af
+forespørgslen vedtaget 28/4 99).
+
+Samtykke til behandling";kl. 12.10
+1320;title_name;":
+Den sag, der er opført under punkt 1 på dagsordenen, kan kun med Tingets samtykke behandles i dette møde, men hvis ingen gør ind-
+
+Den første sag på dagsordenen var herefter:
+1) Tredje behandling af lovforslag nr. L 248:
+Forslag til lov om forlængelse og fornyelse af
+overenskomster og aftaler for sygeplejersker,
+radiografer, hjemmesygeplejersker m.fl.
+Af arbejdsministeren (Ove Hygum).
+(Fremsat 20/5 99. Første behandling 20/5 99.
+Betænkning 20/5 99. Anden behandling 21/5
+99).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Forslaget vedtoges med 85 stemmer (S, V, KF,
+DF, CD, RV, FP, KRF) mod 12 (SF, EL).";Poul Nødgaard
+2025;title_name;":
+Lovforslaget vil nu blive sendt til stats- ,
+ministeren.
+
+Den næste sag på dagsordenen var:
+2) Første behandling af beslutningsforslag nr.
+B 143:
+Forslag til folketingsbeslutning om Danmarks
+tilslutning til overenskomst mellem Kongeriget Danmarks regering sammen med
+Færøemes landsstyre på den ene side og Det
+Forenede Kongerige Storbritannien og Nordirlands regering på den anden side om den
+maritime afgrænsning i området mellem
+Færøeme og Det Forenede Kongerige, undertegnet i Torshavn den 18. maj 1999.
+Af udenrigsministeren (Niels Helveg Pètersen):
+(Fremsat 19/5 99).
+Forslaget sattes til forhandling.
+
+6960
+
+Fredag den 21. maj 1999 (B 143)
+
+Forhandling";Poul Nødgaard
+2701;name_party;":
+Der har været forhandlet i mange år for at få
+løst problemet med Færøernes afgrænsning,
+både for så vidt angår fiskerizonen og den kontinentale sokkel.
+Det lykkedes at komme overens parterne
+imellem. Her den 18. maj blev aftalen underskrevet i Torshavn. Man har været hurtig i
+Udenrigsministeriet: Den 19. maj fremlægger
+man forslaget her fra Folketinget, og vi har det
+til første behandling i dag.
+Vi vil fra Socialdemokratiets side medvirke
+til, at sagen får en hurtig behandling i Udenrigsudvalget, således at denne sag kommer i orden, inden Folketinget slutter før sommerferien.";Helen Beim
+3320;title_name;":
+Hr. Bendt Bendtsen, da Venstre tilsyneladende
+ikke har nogen ordfører lige nu.";Poul Nødgaard
+3420;name_party;":
+Da vores ordfører, hr. Per Stig Møller, ikke kan
+være til stede, skal jeg fremføre følgende:
+Der har i årevis været strid mellem Danmark
+og Færøerne på den ene side og Storbritannien
+på den anden side om grænsedragningen i havet mellem Færøerne og Storbritannien. Storbritanninen har længe på grund af nogle småklipper ønsket en grænselinje, som efter vores opfattelse lå alt for tæt på den færøske kyst. Det
+har betydet strid om fiskeriet og om, hvem der
+havde ret til en eventuel olieindvinding. Denne
+strid har også medført, at man ikke har kunnet
+komme i gang med at søge efter olie i området.
+Nu er denne strid langt om længe løst med
+den aftale, som her er forelagt Folketinget. Vi
+bemærker os, at det færøske Lagting har tiltrådt
+den. For os er denne tilslutning afgørende, og vi
+finder ligesom Lagtinget, at aftalen i det store
+hele er fornuftig.
+De omdiskuterede klipper tæller ikke med,
+og derfor er der tale om en reel midterlinje, som
+følger sokkelgrænsen, bortset fra et enkelt område, hvor både Færøerne og Storbritannien
+hver for sig beholder deres rettigheder, men
+hvor der er truffet en rimelig aftale om forebyggelse eller bilæggelse af tvister.
+Det Konservative Folkeparti kan således tilslutte sig aftalen.";Bendt Bendtsen
+4668;name_party;":
+Da SF's ordfører, hr. Steen Gade, ikke kan være
+til stede, skal jeg på SF's vegne oplyse, at vi
+også kan tilslutte os forslaget. Vi har også bemærket, at det færøske Lagting har sagt god for
+det, og at det så indebærer, at den strid, der har
+været igennem flere år, nu afsluttes og - også
+efter Færøernes egen opfattelse - på en tilfredsstillende måde.
+Derfor støtter vi forslaget.";Aage Frandsen
+5086;title_name;":
+Hr. Jørgen Estrup som ordfører.";Poul Nødgaard
+5138;name_party;":
+Det er jo glædeligt, at man nu efter unægtelig
+mange år nærmer sig afslutningen af i hvert
+fald en del af striden mellem Færøerne og Skotland og Storbritannien omkring grænsedragningen. Der er stadig væk problemer tilbage,
+men det, der ligger nu som en aftale, løser en
+stor del af problemerne inklusive fiskeriproblemerne, og derfor kan jeg også på Det Radikale
+Venstres vegne give min tilslutning til både aftalen og også til en hurtig behandling, sådan
+som det er ønsket fra Færøerne.
+Christian Jensen (FP):
+Fremskridtspartiet synes, det er godt, at dette
+beslutningsforslag fremsættes. Det er godt, fordi dette mangeårige problem nu i enighed og
+ved kompromiser tilsyneladende er løst til alles
+tilfredshed, og når de direkte implicerede parter
+har accepteret resultatet af forhandlingerne og
+er tilfredse, ja, så kan vi da i sagens natur også
+være det.
+Uden i øvrigt at gå til mindste detalje i forslaget, så finder man i et og samme forslag løsningen på to problemer, nemlig den egentlige
+sokkeldragning og fiskerigrænserne, samt at
+man har kunnet enes om et særligt fælles område, hvor de berørte og berettigede fiskere kan
+bevare deres traditionelle fiskerettigheder, og
+det synes vi er fint. For især fiskerettighederne
+er jo absolut af vital betydning for de implicerede landes fiskeres hverdag, hvorimod sokkeldragningen som helhed, f.eks. i forbindelse med
+olieeftersøgning, ligger på et andet plan.
+Så derfor kan Fremskridtspartiet varmt støtte
+forslaget.";Jørgen Estrup
+6643;title_name;":
+Hr. Ole M. Nielsen som ordfører.
+
+(871)
+Fredag den 21. maj 1999 (B 143)";Poul Nødgaard
+6738;name_party;":
+Da Kristeligt Folkepartis ordfører på området,
+hr. Jann Sjursen, ikke kan være til stede, skal jeg
+blot sige, at vi også er meget glade for, at der er
+opnået enighed her med Storbritannien, Skotland på den ene side og til Færøernes tilfredshed. Med henvisning sådan til den seneste debat, vi havde her lige for et øjeblik siden, så har
+vi jo ikke haft et strejkevåben at true med i den
+sag her, og vores våben i øvrigt er jo ikke så
+meget værd at true med over for Storbritannien,
+tror jeg i hvert fald ikke, så det er flot, at det har
+kunnet lade sig gøre på fredelig vis. Det er vi
+kun glade for. Vi støtter derfor beslutningsforslaget.";Ole M. Nielsen
+7399;name_party;":
+I Venstre er vi glade for, at der er kommet en
+endelig afgørelse på, hvordan det her stridsmål
+skal klares, men jeg kan jo på beslutningsforslaget se, at det ikke er helt løst endnu, sådan som
+jeg forstår det, og jeg ved også, at der har været
+en del diskussion på Færøeme, om det er det
+optimale resultat.
+Jeg synes nu, at det vigtigste er, at parterne er
+blevet enige om den her aftale, og hvis det skulle betyde, at det danner grundlag for en ny indtægtskilde for Færøerne, så synes vi, at det er
+yderst prisværdigt. Så på den baggrund skal jeg
+sige, at Venstre kan støtte forslaget.";Jens Hald Madsen
+8012;name_party;":
+Det var en stor, historisk dag for Færøerne i
+mandags, da Lagtinget enstemmigt vedtog at
+tilslutte sig aftalen om den maritime afgræsning
+mellem Storbritannien og Færøerne. Og det var
+en lige så stor historisk dag i tirsdags, da aftalen
+blev underskrevet på Tinganes i Torshavn af
+den færøske lagmand og den danske udenrigsminister på den ene side og den britiske viceudenrigsminister på den anden side.
+Historisk, fordi det var enden på en meget
+lang og til tider meget besværlig proces, en proces, hvor der er brugt mange kræfter og tålmodighed på at finde en god løsning, en meget besværlig løsning, da parterne i startfasen af disse
+forhandlinger var så utrolig langt fra hinanden.
+Men også historisk, fordi det var resultatet af en
+forhandling, som gennem de sidste 5 år har været under færøsk ledelse og initiativ. Historisk,
+fordi den er et bevis på, hvor meget vi har mulighed for at udvikle og udbygge og stimulere
+vores politiske samarbejde inden for rigsfællesskabet.
+
+6961
+
+Men særdeles historisk er dagen, fordi denne
+er den sidste i en fase, men også den første i en
+ny og spændende, men endnu ukendt fase. Det
+kan blive den første dag i en udvikling, hvor
+det færøske samfund får et hårdt tiltrængt erhvervsalternativ, nemlig en mulig fremtid i
+olieindustrien. Selv om aktiviteten hidtil har begrænset sig til seismiske undersøgelser, så er
+der nogle positive indikationer, og den britiske
+olieindustri har nu lavet sit største fund lige syd
+for den nu forhandlede grænse. Så der ligger
+perspektiver i færøsk fremtid, og med den her
+aftale har vi taget et stort skridt i den rigtige
+retning.
+Foreliggende overenskomst omfatter ikke
+Færø-Rockall plateauet og der er noget, der tyder på, at det kan blive noget af en udfordring
+at finde en løsning for dette plateau, da foruden
+Færøerne, Storbritannien og Irland også Island
+gør krav på dette område.
+Siden 1990 har forhandlingerne stort set været sammenhængende. Dog skete der en ændring i 1994, hvor den danske forhandlingsleder trak sig tilbage, og Færøerne overtog ledelsen. Det skal i denne forbindelse nævnes, at
+Danmark i retssagen om grænsen mellem
+Grønland og Jan Mayen brugte den modsatte
+argumentation af, hvad vi brugte i vores forhandlinger med Storbritannien. I Jan Mayensagen understregede Danmark betydningen af
+en grønlandsk kystlængde i forhold til Jan
+Mayen, og det var ikke et synspunkt, der
+gavnede vores interesse.
+I 1992 hændte så det meget interessante og
+fornuftige, at Færøerne fik overdraget sagsområdet »råstoffer i undergrunden«, og dette gav
+måske forhandlingerne en ekstféi motivation. Et
+meget vigtigt fremskridt i forhandlingerne, eller
+rettere det væsentligste frembrud var, da det
+lykkedes at få briterne til at acceptere en version af midterlinjen som den endelige grænsedragning, men det tog sin tid. I 1991 fik vi et
+udspil fra Stotbritannien, som var så vidtgående, at sokkelgrænsen kun lå ca. 50 sømil syd for
+Færøerne.
+Men der er altså sket en ændring af den britiske opfattelse af, hvad der er en fomuftig
+grænse for både fiskeri og for kontinentalsoklen. Historikerne vil måske endda finde ud af,
+hvad det var, der gjorde, at forhandlingeme efterhånden blev så konstruktive, som de blev.
+Var det et pres fra britiske olieinteresser, eller
+var det ændringer, der kom med den nye
+labour-regering? I hvert fald ser det ud til, at
+
+6962
+
+Fredag den 21. maj 1999 (B 143)
+
+begge parter har villet undgå, at sagen endte
+ved den internationale domstol i Haag.
+Jeg vil derfor varmt anbefale dette høje Ting,
+at man godkender denne her aftale, således som
+Lagtinget enstemmigt gjorde det i mandags.";Jóannes Eidesgaard
+11644;title_name;":
+Fru Pia Kjærsgaard som ordfører.";Poul Nødgaard
+11698;name_party;":
+Ja, jeg var lige ved at komme for sent og kommer lidt sent i ordførerrækken, men på en eller
+anden måde er det jo på sin plads at komme efter taleren fra Færøerne, fordi så fik vi sådan en
+nærmere historisk udredning af, hvad det er,
+der er foregået, og det kan jeg jo så blot forholde mig til.
+Det her drejer sig jo om en overenskomst
+imellem Danmark-Færøerne og Storbritannien
+om en søgrænse mellem Færøerne og Skotland,
+hvor overenskomsten er underskrevet, og hvor
+Folketinget nu skal tilslutte sig, og det gør vi i
+Dansk Folkeparti.";Pia Kjærsgaard
+12279;title_name;":
+Jeg vil gerne takke for den positive modtagelse
+af beslutningsforslaget. Som jeg kan skønne det,
+vil der her i Folketinget være enstemmig tilslutning til forslaget. Det ligger i forlængelse af, at
+Færøernes Lagting den 17. maj enstemmigt
+godkendte aftalen, og sammen med lagmanden
+Anfinn Kallsberg undertegnede jeg som planlagt overenskomsten i Torshavn den 18. maj.
+For Storbritannien undertegnede den britiske
+viceudenrigsminister Anthony Lloyd.
+Vi er meget tilfredse med i regeringen, at det
+efter mange års forhandlinger nu er lykkedes at
+finde frem til en løsning på afgrænsningsspørgsmålet. Det er ønskeligt, at afgrænsningen
+kan træde i kraft inden efteråret af hensyn til
+Landsstyrets planer om en udbudsrunde til
+olieefterforskning allerede i indeværende år.
+Det er derfor vigtigt og har været vigtigt for regeringen at få dette forslag færdigbehandlet inden sommerferien, og det håber jeg kan ske.
+Vi besvarer selvfølgelig meget gerne, hvad
+der måtte være af spørgsmål under udvalgsbehandlingen.
+Hermed sluttede forhandlingen, og forslaget
+overgik derefter til anden (sidste) behandling.
+
+Afstemning";Niels Helveg Petersen
+13425;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Udenrigsudvalget. Hvis ingen gør
+indsigelse, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+
+Den sidste sag på dagsordenen var:
+3) Forespørgsel nr. F 53:
+Forespørgsel til justitsministeren og forsvarsministeren:
+»Hvad kan regeringen oplyse om de initiativer, den har iværksat eller agter at iværksætte
+for at retsforfølge de landsforrædere, der indtil Murens fald mod kontant betaling eller andre ydelser lod sig hyre til at forsyne det tidligere DDR's efterretningstjeneste, Stasi, med
+informationer?«
+Af Peter Skaarup (DF), Kristian Thulesen Dahl
+(DF), Svend Aage Fauerholdt (DF), Christian H.
+Hansen (DF), Pia Kjærsgaard (DF) og Poul
+Nødgaard (DF).
+(Forespørgslen anmeldt 22/4 99. Fremme af
+forespørgslen vedtaget 28/4 99).";Poul Nødgaard
+14265;title_name;":
+Jeg skal allerede nu meddele, at afstemning om
+eventuelle forslag til vedtagelse vil blive udsat
+til tirsdag den 25. maj 1999.
+Begrundelse";Poul Nødgaard
+14424;name_party;":
+I Dansk Folkeparti har vi fulgt debatten igennem lang tid i en række aviser, i medierne og
+også her i Folketingssalen omkring de problemer, som vi har set har ligget i, at der i tiden op
+til Murens fald har været personer i Danmark,
+der har spioneret for andre lande.
+Vi har været af den opfattelse, at regeringen i
+hvert fald ikke hidtil har levet op til de ønsker,
+der bredt her i Folketinget har været udtrykt,
+nemlig at man skulle prøve at finde ud af, hvad
+der var sket, hvem der havde gjort det, og under hvilke omstændigheder.
+Efter at Stasiarkiverne er åbnet, ikke bare for
+journalister, men også for den danske regering,
+er det jo ikke det store problem for Danmark at
+
+Fredag den 21. maj 1999 (F 53) <
+finde ud af, hvad der er sket. Når det gælder
+DDR, er det minutiøst i Stasiarkiverne skrevet
+ned, hvilke kontakter der har været, og hvem
+der har været tale om, og i medierne har der
+gang på gang fremstået nogle personer, der har
+været involveret i spionage mod Danmark i forbindelse med den kolde krig.
+Så kan man selvfølgelig diskutere, om det er
+noget, vi skal ribbe op i her. For os er det afgørende, at vi får gjort det, fordi vi skal være opmærksomme på, at i den periode, vi taler om,
+var situationen altså, at det var meget tæt på, at
+Muren ikke faldt, men at Muren blev, og at det
+var den anden side, der vandt den kolde krig.
+Derfor mener vi, det er vigtigt, at man får afgjort, hvilke personer der er tale om, og at man
+får undersøgt, om der efterfølgende er mulighed for at rejse sager mod de pågældende.
+Derfor har vi rejst denne her debat, og vi
+glæder os til at høre, om justitsministeren er
+med på, at vi prøver at se meget mere på det
+her, end det er sket hidtil.
+
+6963
+
+Som det vil være flere medlemmer af Tinget
+her bekendt, havde jeg et indlæg i JyllandsPosten torsdag den 14. januar i år om Stasiarkiverne. Baggrunden for mit indlæg var en artikel, der var blevet bragt i Jyllands-Posten med
+titlen: »Spioner, der gik fri«, og som efter min
+opfattelse var stærkt misvisende.
+Jeg oplyste i mit indlæg bl.a., at Politiets
+Efterretningstjeneste siden 1992 har forsøgt at få
+adgang til oplysninger i Stasiarkiverne i Berlin.
+Efterretningstjenestens bestræbelser har været
+udfoldet ved telefoniske, skriftlige og personlige henvendelser til de tyske myndigheder.
+Jeg oplyste endvidere, at Politiets Efterretningstjeneste imidlertid på anden måde har
+modtaget oplysninger om personer, som eventuelt kunne have haft forbindelse til den østtyske efterretningstjeneste. Efterretningstjenestens
+vurdering var, at oplysningerne generelt set
+havde så spinkel karakter, at der ikke var
+grundlag for politimæssig efterforskning, men
+at det dog kunne være forsvarligt at rette henvendelse til en eller to personer. Efterretningstjenestens efterfølgende henvendelse til disse
+Besvarelse
+personer bekræftede vurderingen af, at der ikke
+var tilstrækkeligt hold i materialet.";Peter Skaarup
+17349;title_name;":
+Som det også fremgår af de omtalte besvarelLad mig indledningsvis bemærke, at foreser, er Justitsministeriet og Politiets Efterretspørgslen, der både er rettet til forsvarsningstjeneste for få måneder siden blevet orienministeren og mig, vil blive besvaret af mig på
+teret om, at det nu var lykkedes de tyske mynregeringens vegne.
+digheder at bryde koden på centrale og hidtil
+I de senere år er der stillet flere spørgsmål,
+utilgængelige dele af Stasisarkiverne. Regerinbåde til Statsministeren og jeg selv, om Stasigen har i lyset heraf intensiveret sine bestræbelarkiverne og mulighederne for at identificere
+ser på at få adgang til oplysninger fra
+tidligere østagenter. Der har været tale om
+arkiverne.
+spørgsmål, som nogenlunde har samme
+Politiets Efterretningstjeneste har således alkarakter som forespørgslen i dag.
+lerede taget kontakt til de tyske myndigheder
+De spørgsmål har vi naturligvis besvaret, og
+om mulighederne for at få adgang til disse opjeg kan i den forbindelse bl.a. henvise til min
+lysninger. Endvidere har vi i Justitsministeriet
+besvarelse af spørgsmålene nr. S 3331-3336 fra
+kontakt med flere tyske myndigheder om
+forhenværende medlem af Folketinget Annette
+spørgsmålet. Spørgsmålet om dekryptering af
+Just samt statsministerens besvarelse af spørgs- 홢 hidtil utilgængelige dele af Stasiarkiverne er
+målene nr. S 326, S 909 og S 910 fra medlem af
+også omtalt i bemærkningerne til det ændringsFolketinget Svend Aage Jensby.
+forslag, som jeg fremsatte i sidste uge til forslaSom det fremgår af flere af disse svar, har
+get til lov om undersøgelse af Politiets EfterretPolitiets Efterretningstjeneste til stadighed opningstjeneste, nr. L 65. I bemærkningerne er såmærksomheden rettet mod muligheden for at
+ledes bl.a. angivet, at regeringen i lyset af deidentificere bl.a. agenter fra det tidligere DDR,
+krypteringen som nævnt ovenfor har intensivesom måtte have udført aktiviteter i strid med
+ret sine bestræbelser på at få adgang til oplysdansk lovgivning, og såfremt det sandsynliggø- ningerne i arkiverne.
+res, at bestemte personer har udøvet statsBaggrunden for omtalen af dette forhold i
+fjendtlig virksomhed, vil det blive undersøgt,
+ændringsfòrslaget er, at det materiale, der måtte
+om der er mulighed for at gøre strafansvar
+fremkomme som resultat af disse bestræbelser,
+gældende.
+vil kunne indgå i undersøgelseskommissionens
+
+6964
+
+Fredag den 21. maj 1999 (F 53)
+
+arbejde. Samtidig siger det sig selv, at skulle
+materialet umiddelbart give anledning til at
+iværksætte en strafferetlig efterforskning mod
+personer, vil det straks blive videregivet til politiet og anklagemyndigheden med henblik på
+videre efterforskning og eventuel tiltalerejsning.
+Om adgangen til Stasiarkiveme vil jeg i øvrigt gerne mere generelt bemærke, at adgangen
+for udenlandske myndigheder, herunder udenlandske efterretningstjenester, er reguleret i en
+tysk lov af 20. december 1991 om Stasibilag, og
+at adgangen er ganske restriktiv. Udenlandske
+myndigheder har således som udgangspunkt
+kun adgang til arkiverne med henblik på strafforfølgning inden for rammerne af de regler,
+der findes om retshjælp i straffesager, der følger
+af den tyske lov, som gælder for Stasiarkiverne.
+Det indebærer bl.a., at der ikke er nogen direkte
+adgang til Stasiarkiverne for de danske myndigheder, men alene adgang for de tyske myndigheder, som yder retshjælp i medfør af de
+gældende regler.
+Der er således ikke tale om, som mange synes
+at tro, at de danske myndigheder blot kan tage
+til Tyskland og gå på fisketur i arkiverne.
+Lad mig afslutningsvis bemærke, at regeringen i Kontroludvalget for Efterretningstjenesterne har orienteret mere indgående om de
+danske myndigheders bestræbelser på at identificere tidligere østagenter m.v., og jeg er indstillet på også fremover at holde Folketingets
+Kontroludvalg orienteret om dette område.
+Men som afslutning igen: Regeringen har intensiveret sine bestræbelser på at få adgang til
+Stasiarkivernes materiale, hvor der nu efter dekrypteringen af båndene skulle være større
+sandsynlighed for, at der kunne være materiale,
+som kunne bringe os videre, og regeringen vil
+fortsat forfølge det spor.
+Forhandling";Frank Jensen
+21514;name_party;":
+. Ja, det er jo ikke bare i Danmark, at man har
+diskuteret de her ting efter afslutningen af den
+kolde krig. I mange lande diskuterer man i øjeblikket og har gjort inden for de seneste år efter
+Murens fald, hvad man egentlig skal gøre med
+de personer, der har spioneret eller har undergravet menneskerettigheder eller har udøvet
+vold mod personer i forbindelse med det kommunistiske regime, man nu har haft.
+
+Tjekkiet er også et af de lande, hvor man stadig væk diskuterer det her meget, og man har i
+høj grad, specielt i Østeuropa, vurderet, at man
+ikke rigtig kom nogen vegne med hensyn til anklager mod de folk, der brød menneskerettighederne, der fængslede osv. og begik de her
+ting inden Murens fald.
+Men det er klart, at vi i et land som Danmark,
+der under hele perioden har været afklaret omkring de her ting som et vestligt land, der har
+været medlem af NATO, har nogle meget, meget store problemer med at acceptere, at personer, der var med til måske lige netop at prøve
+på at vippe den magtbalance, der var mellem
+øst og vest på det tidspunkt inden Murens fald,
+og stod bag det, skal kunne gå fri for straf, dvs.
+personer, der faktisk var med til at undergrave
+NATO, Vestens forsvarsalliance på det givne
+tidspunkt.
+Vi mener i Dansk Folkeparti også, at der er
+behov for, at der bliver gjort op med det. Vi er
+af den opfattelse, at man meget klart fra regeringens side må gå i felten på det her område,
+fordi det altså er vigtigt, at vi får sørget for, at
+vi ikke har personer, der har begået denne her
+form for kriminalitet, der i direkte konsekvens
+har været undergravende for vores demokrati i
+den pågældende periode.
+Og dér må man altså sørge for at rejse tiltaler,
+at efterspørge de dokumenter, der nu er fra
+Stasiside, altså fra det tidligere DDR's side. Arkiverne er åbne, og derfor forstår jeg ikke helt
+det, som justitsministeren og regeringen hidtil
+er kommet frem med om, at man ikke har haft
+de adgange, der skulle til, for det har man altså
+haft i andre lande. Man har lavet de her undersøgelser på et tidligere tidspunkt i andre lande,
+og derfor bør der være mulighed for, at man fra
+dansk side også får speedet det her op, sådan at
+vi kan finde ud af, hvad der egentlig er foregået, og hvilke personer der er tale om.
+Siden der har været mulighed for at kigge i
+de her arkiver, i Stasiarkiverne - vi kunne så
+diskutere, om man skulle have mulighed for at
+kigge i andre arkiver også: de muligheder er
+altså ikke til stede, men det er muligt at kigge i
+Stasiarkiverne - har en række dagblade, bl.a.
+Ekstra Bladet, kørt en del artikler omkring de
+forhold, der har været gældende for de personer, der har været tale om, og det er vel at
+mærke personer, der stadig væk er aktive i det
+danske samfund. Der er bl.a. beskrevet historien om den danske journalist Flemming
+Sørensen, som åbenlyst har sagt, at han altså
+
+Fredag den 21. maj 1999 (F 53)
+spionerede for DDR: også han er registreret i
+Stasiarkiverne, og der har bl.a. Ekstra Bladet
+altså kunnet finde de her ting frem for lang tid
+siden og meddele offentligheden, hvordan de
+hang sammen.
+Og derfor synes jeg nok, at det virker som en
+lidt dårlig undskyldning fra regeringen, når den
+siger, det først er nu, man har brudt nogle koder, der gør, at det er muligt at eftersøge de her
+ting. For det er jo ikke første gang, Folketinget
+debatterer det her. Hr. Svend Aage Jensby har
+tidligere i forbindelse med Folketingets spørgetid rejst en del af de spørgsmål, vi også taler om
+i dag, hvor regeringen langtfra var villige til at
+gøre det, der skulle til. Og det har i tidligere
+svar til folketingsmedlemmer også været svært
+at få sat noget i gang.
+Så derfor håber vi selvfølgelig med den her
+debat, at der kan blive mulighed for, at man for
+alvor får hevet sig op ved hårrødderne og så
+går i gang med at se, hvilke personer der er tale
+om, og hvilke tiltaler der kan blive rejst.
+Det er jo så afgørende for ethvert demokrati,
+at man giver folk mulighed til at ytre sig og forsamle sig osv., osv., men der er altså nogle
+grænser for demokratiet, og det er, når man undergraver staten, og man undergraver borgerne
+på den måde, som det skete i den her periode.
+Derfor er jeg da også glad for, at regeringen i
+dag har givet tilsagn om, og at det nu ser ud til,
+at den vil arbejde meget aktivt for, at vi får undersøgt det her nærmere, og at vi får de navne
+frem, der er tale om.
+Vi håber selvfølgelig også, at vi i dag kan
+vedtage et forslag, der gør, at vi forpligter regeringen til at fortsætte det her arbejde, og at vi
+vel at mærke også forpligter regeringen til hvis der ser ud til at være grund til det, hvad vi
+må formode at der er for nogle personers vedkommende - at retsforfølge de pågældende
+personer.
+Det er jo en alvorlig sag, at man har spioneret, og det er en alvorlig sag, at det lige netop
+var tæt på, at den magtbalance, der var under
+den kolde krig, kunne have tippet, også i Danmark, og derfor betragter vi det altså som utrolig afgørende, at der bliver gjort noget fra regeringens side.
+Jeg håber, at vi senere i debatten kan komme
+ind på, hvorfor regeringen mener, at man lige
+pludselig først nu mener at kunne gøre noget.
+
+6965
+
+Men selvfølgelig skal det ikke afskære de partier, der har været kritiske over for regeringens
+manglende initiativer, til at være positive over
+for, at der sker noget nu.";Peter Skaarup
+26827;name_party;":
+Det er jo ikke uden god grund, at Folketinget
+har nedsat et kontroludvalg vedrørende efterretningstjenesten, og at dette udvalg har særlige
+fortrolighedsregler. Ønsker tman, at landet skal
+have en efterretningstjeneste, og at denne skal
+være i stand til at samarbejde med andre landes
+efterretningstjenester, må den i sagens natur
+være undergivet fortrolighed.
+Der har i de senere år ved flere lejligheder
+været stillet spørgsmål til både statsministeren
+og justitsministeren om Stasiarkiverne, og de
+spørgsmål er også blevet besvaret, så langt som
+fortrolighedskravet har gjort det muligt. På den
+baggrund kan man egentlig godt undre sig
+over, hvad formålet med denne forespørgsel er,
+og hvad forespørgerne forestiller sig at få ud af
+debatten.
+Men når nu debatten er rejst, skal det også
+understreges, at Socialdemokratiet støtter indsatsen og bestræbelserne for at identificere
+eventuelle Stasiagenter, som måtte have handlet
+i strid med dansk lovgivning. Det er en indsats,
+som løbende har været gjort, men som ikke er
+helt så enkel, som mange - herunder øjensynligt Dansk Folkeparti - forestiller sig, hvilket jo
+også fremgik af ministerens besvarelse. Det er
+ikke enkelt, bl.a. fordi den tyske lovgivning har
+ganske restriktive regler for adgang til
+arkiverne.
+Men som det også fremgik af ministerens tale, er det nu lykkedes at bryde koden til væsentlige dele af Stasiarkivet, og regeringen har
+derfor intensiveret indsatsen for at få adgang til
+arkivets oplysninger. Som det også fremgår af
+bemærkningerne til nogle ændringsforslag i
+forbindelse med L 65, vil det materiale, som
+måtte komme fra arkiverne, indgå i PETkommissionens arbejde, og hvis materialet
+peger på, at der er sket lovbrud, vil politiet
+naturligvis blive inddraget. Alt dette kunne
+Dansk Folkeparti have orienteret sig om, bl.a.
+ved at følge med i behandlingen af L 65, og hvis
+man havde gjort det, havde man nok også
+sparet Folketinget for denne relativt overflødige
+forespørgsel.
+
+6966
+
+Fredag den 21. maj 1999 (F 53)
+
+(Kort bemærkning).";Dorte Bennedsen
+28865;name_party;":
+Vi mener selvfølgelig ikke, det er en overflødig
+forespørgsel, og det skal jeg komme ind på lidt
+senere.
+Men når fru Dorte Bennedsen siger, at regeringen hele tiden har været villig til at gøre det
+her, men at der har været nogle tekniske problemer, vil jeg henvise til noget, som den tidligere politisk ansvarlige for Politiets Efterretningstjeneste, daværende justitsminister Bjørn
+Westh, har sagt. Han var justitsminister på det
+tidspunkt, og jeg har et citat fra Jyllands-Posten
+af den 10. januar 1999, hvor han siger om baggrunden for, at der ikke er foretaget en systematisk efterforskning i de østtyske arkiver:
+»Vi havde en diskussion om, hvorvidt vi
+skulle iværksætte en systematisk gennemgang
+af, hvad der fandtes i disse arkiver. Vi blev enige om, at det ikke var værd at bruge ressourcer
+på det. PET kunne selvfølgelig stille konkrete
+forespørgsler, men vi ville ikke lave en systematisk gennemtrawling. Det ville være et kæmpearbejde, og hvad ville glæden være af det?«
+Med det siger jeg også, at regeringen ikke
+tidligere har villet gøre det arbejde. Det er godt,
+hvis den vil det nu, men det har den altså ikke
+villet tidligere, og jeg forstår egentlig ikke hvorfor. Men det må der jo være nogle grunde til.
+Så vil jeg lige sige - det fik jeg ikke sagt i mit
+tidligere indlæg - at jeg på vegne af nogle partier her i Folketinget vil fremsætte et forslag til
+vedtagelse. Det er på vegne af Socialdemokratiet, af Venstre, De Konservative, Dansk Folkeparti, Det Radikale Venstre og CD, og det lyder
+som følger:
+Forslag til vedtagelse
+»Folketinget pålægger regeringen at undersøge
+danske statsborgeres forbindelse til den daværende østtyske efterretningsorganisation Stasi
+og drage omsorg for, at skyldige i videst mulige
+omfang bliver strafforfulgt.«
+(Forslag til vedtagelse nr. V 90).";Peter Skaarup
+30699;title_name;":
+Der er nu fremsat følgende forslag til vedtagelse: (Se ovenfor). Dette forslag indgår herefter i
+forhandlingen.";Poul Nødgaard
+30846;title_name;":
+Det er hr. Skaarups referat af en artikel i
+Jyllands-Posten af forhenværende justitsminister Bjørn Westh, som kalder mig på talerstolen
+igen for at få rettet noget, som, hvis det får lov
+til at fortsætte under debatten, kan give
+anledning til ganske klare misforståelser.
+Det er klart, at efter at jeg blev justitsminister
+den 30. december 1996, har jeg både gjort mig
+bekendt med det, der forelå på det tidspunkt
+om Stasi, og også med det, der forelå, inden jeg
+blev justitsminister. Jeg kan ikke genkende det
+billede, som er gengivet i Jyllands-Posten af det
+engagement, som PET har haft i sagen, men jeg
+kan genkende det, som er resultatet af de forespørgsler, som PET har rettet til de tyske
+myndigheder.
+Som jeg beskrev det i Jyllands-Posten i
+januar, er der altså ikke - som hr. Skaarup fejlagtigt gengiver her - mulighed for, at udenlandske, her altså danske, myndigheder kan
+rejse til Tyskland og gå på fisketur i Stasiarkiverne. Der er en ganske restriktiv regulering af
+adgangen til arkiverne, og vi har forsøgt at
+drøfte med de tyske myndigheder, om vi på
+trods heraf kunne få oplysninger om danske
+statsborgere. Jeg oplyste også, at vi fra anden
+side havde fået oplysninger, og at de oplysninger havde givet anledning til - også under den
+forhenværende justitsminister - at man havde
+opsøgt danske statsborgere for at finde frem til,
+om der var noget, der kunne give anledning til
+politimæssig efterforskning.
+Det viste sig, at materialet var af ganske
+sparsom karakter, og der var ikke noget, der
+kunne give anledning til politimæssig efterforskning af strafbare forhold. Men dette er ikke
+ensbetydende med, at der ikke kan komme det,
+og vi arbejder nu af fuld kraft på at få adgang
+til de nye oplysninger, som ligger på de dekrypterede bånd. Ifølge de oplysninger, som er
+fremkommet, skulle der her være en fuldstændig beskrivelse af et netværk af de agenter, som
+arbejdede for Stasi i DDR-tiden.
+Det er den bestræbelse, som gør, at vi yderligere har intensiveret vort arbejde. Det er ikke
+sådan, at der ikke har været et ganske fortræffeligt arbejde før dette tidspunkt.
+(Kort bemærkning).";Frank Jensen
+32975;name_party;":
+Det er et opklarende spørgsmål til den socialdemokratiske ordfører, fru Dorte Bennedsen.
+Det drejer sig om, hvordan den vedtagelse, som
+
+Fredag den 21. maj 1999 (F 53)
+fru Dorte Bennedsen og den socialdemokratiske
+gruppe er medforslagsstillere til, skal forstås.
+Der må jo være et formål med at vedtage
+den, og derfor kunne jeg godt tænke mig at høre: Er formålet at udtrykke kritik af regeringen?
+Eller er det at udtrykke kritik af PET og politiet
+og anklagemyndigheden? Ellers har det jo ikke
+nogen mening at vedtage den. Hvis regeringen
+gør, hvad den skal, og politiet og PET og anklagemyndigheden gør, hvad de skal, er det hele jo
+meningsløst, så hvem er vedtagelsen en kritik
+af? Det kunne jeg godt tænke mig at få afklaret,
+før vi går videre.
+(Kort bemærkning).";Søren Søndergaard
+33764;name_party;":
+Det, der kalder mig herop, er selvfølgelig justitsministerens bemærkninger, som går på, at
+dette har daværende justitsminister Bjørn
+Westh undersøgt tidligere, og på det tidspunkt
+var der ikke mulighed for at rejse nogen sager,
+osv. osv.
+Vi må altså konstatere, at man f.eks. i 1993 takket være en intensiv gennemgang af arkiverne fra tysk side - kunne afsløre en af de værste
+spioner mod NATO, der nogen sinde har eksisteret. Derfor virker det påfaldende, at daværende justitsminister Bjørn Westh siger her i
+1999, at han på det tidspunkt, hvor han havde
+sagen, ikke ville bruge ressourcer på en systematisk gennemgang af materialet. Det kan ikke
+tolkes på andre måder, end at regeringen har
+taget en politisk beslutning på det pågældende
+tidspunkt og har sagt: Det vil vi ikke bruge ressourcer på, vi vil ikke efterspørge de
+oplysninger.
+Derfor virker det altså, som om regeringen
+har skiftet holdning, og hvis det er rigtigt, at regeringen har skiftet holdning 100 pct. og vil følge sagen intensivt op, skal den ikke have utak
+for det. Jeg synes bare, vi lige skal have det historiske helt på plads.
+(Kort bemærkning).";Peter Skaarup
+34906;name_party;":
+Forslaget til vedtagelse er i en vis forstand en
+selvfølgelighed, men det sker jo også somme tider, at vi vedtager selvfølgeligheder her i Folketinget. Men jeg vil alligevel godt være helt
+sikker på, hvad det monstro betyder.
+Der står, at man skal undersøge danske statsborgeres forbindelse med det daværende østtyske efterretningsvæsen Stasi og drage omsorg
+for, at skyldige bliver straffet. Nu er det jo ikke
+
+6967
+
+strafbart at have en forbindelse, men det er
+strafbart at have en forbindelse af en vis karakter, så derfor vil jeg spørge, hvad det betyder at
+drage omsorg for, at skyldige - det må være
+skyldige i strafbare forhold - bliver strafforfulgt. Der er jo nogle mennesker, der har haft
+forbindelse med dem, og der er også nogle, der
+har været idioter og har haft forbindelse med
+dem på den måde, at de har snakket med dem
+og har troet, de var interessante og sådan noget.
+Men det er vist ikke strafbart, og derfor er det
+meget vigtigt, at vi - inden vi vedtager noget
+her i Folketinget - ved, hvad det er, de pågældende er skyldige i. Det er ikke strafbart at
+møde nogle mennesker, selv om det måske er
+dumt at møde dem: men det er strafbart, hvis
+man har gjort sig skyldig i noget ulovligt, da
+man mødte de mennesker, og jeg vil være helt
+sikker på, at det er dét, vedtagelsen betyder.
+Det er nemlig ikke det, der står i den.
+(Kort bemærkning).";Aage Frandsen
+36286;name_party;":
+Hr. Søren Søndergaard spørger mig, hvem dette forslag til vedtagelse er en kritik af. Jeg tror
+egentlig, at Socialdemokratiet har det lidt anderledes end Enhedslisten, for vi kan faktisk
+godt en gang imellem udtrykke noget positivt.
+Vi behøver ikke altid udtrykke noget, der er
+ment som en kritik.
+Det, som gør, at jeg kan støtte dette forslag
+og er medforslagsstiller til det, er, at jeg opfatter
+det som en opbakning til det arbejde, der er i
+gang. Det arbejde har nu fået nogle nye muligheder, takket være at man har fået brudt koderne, og at der er kommet noget mere materiale til
+veje, og for mig at se er det en opbakning til en
+ny indsats i den nye situation.
+Til hr. Aage Frandsen vil jeg sige, at denne
+vedtagelse selvfølgelig ikke handler om de folk,
+som har haft kontakt til DDR eller eventuelt optræder i arkiverne dernede som registrerede
+personer. Det er selvsagt de mennesker, som
+har handlet i strid med dansk lovgivning, der
+skal rejses sag imod.
+(Kort bemærkning).";Dorte Bennedsen
+37289;name_party;":
+Med formandens tilladelse bliver det alene en
+besvarelse af hr. Aage Frandsens spørgsmål
+om, hvad der egentlig ligger i denne vedtagelse.
+Det, der ligger i den, er, at det selvfølgelig
+ikke er forbudt at have haft forbindelser til
+Stasiagenter, men at det er ulovligt, hvis man
+
+6968
+
+Fredag den 21. maj 1999 (F 53)
+
+kan straffes efter den danske lovgivning for forhold, som er begået i forbindelse hermed. Her
+kan jeg f.eks. gøre opmærksom på - og det er
+fremkommet flere gange i medierne, bl.a. i
+Ekstra Bladet mandag den 21. december 1998 at det var sådan, at det tidligere folketingsmedlem Lasse Budtz havde kontakter med Stasi.
+Det behøver jo ikke at betyde, at der er begået
+strafbare forhold i forbindelse med det, men det
+kan godt betyde, at han står opført i Stasiarkiverne. Det samme gælder for oberst G.K.
+Christensen, der var medlem af »Generaler for
+fred«, som var etableret og finansieret af Stasi.
+Det betyder jo ikke nødvendigvis, at vedkommende har begået strafbare forhold, men at der
+godt kan være nogle forbindelser, som skal
+undersøges, og derfor taler vedtagelsen om forbindelser. Men det er klart, at skal der ske strafforfølgning, skal der være begået strafbare
+forhold.
+(Kort bemærkning).";Peter Skaarup
+38528;name_party;":
+Jeg synes ikke, Dansk Folkepartis ordfører bidrog til at gøre tingene mere klare. Det var sådan set bare en understregning af, hvor uklar
+udtalelsen er.
+Af den socialdemokratiske ordfører forstod
+jeg nærmest, at det handler om at være positiv
+og sige, at folk skal passe deres arbejde, og det
+er jo en god ting. Men så synes jeg også, vi skal
+vedtage det, og derfor har jeg lavet følgende
+forslag til vedtagelse, som i øvrigt er præcis i
+det juridiske i modsætning til det makværk,
+som er fremsat tidligere:
+Forslag til vedtagelse
+»Folketinget pålægger regeringen at pålægge
+politiet, PET og anklagemyndigheden at passe
+sit arbejde, herunder at afsløre danske statsborgere, som på ulovlig vis virker eller har virket
+for et fremmed lands efterretningstjeneste, det
+være sig Stasi, Mossad, CIA eller efterretningstjenesten for det tidligere sydafrikanske
+apartheidregime.«
+(Forslag til vedtagelse nr. V 91).";Søren Søndergaard
+39471;title_name;":
+Der er nu fremsat følgende forslag til vedtagelse: (Se ovenfor). Også dette forslag indgår herefter i forhandlingen.";Poul Nødgaard
+39608;name_party;":
+Da Venstres ordfører, hr. Svend Aage Jensby, er
+forhindret i at være til stede på grund af andet
+arbejde, har jeg lovet at gengive hans synspunkter:
+Venstre finder det aldeles berettiget, at forespørgslen i dag er rejst. Det er velkendt, at utallige personer - herunder personer, fra venstrefløjen, de såkaldte fredsbevægelser og især et
+enkelt forlag - under den kolde krig plejede
+omgang med repræsentanter for den sovjetiske
+og det tidligere DDR's ambassader, som siden
+er identificeret som efterretningsagenter.
+Vi ved også nu, at DDR havde et indgående
+kendskab til en række danskeres privatliv med
+henblik på at rekruttere dem som agenter. Vi
+ved også fra DDR-arkiverne, at man havde et
+indgående og detaljeret kendskab til vore mere
+hemmelige militære planer. Vi ved også, at det
+for kort tid siden er lykkedes at bryde en kode i
+DDR's efterretningstjeneste, hvorefter det har
+vist sig, at over 4.000 vestlige personer har været forrædere. Vi ved også, at der fra det sovjetiske kommunistparti flød en lind strøm af penge til kommunistiske partier i andre lande. Vi
+ved også, at man f.eks. i Norge og i det tidligere
+Vesttyskland har afsløret utallige spioner. Det
+har man ikke i Danmark, i hvert fald er kun et
+fåtal blevet retsforfulgt.
+Tiden er gået, og mange forbrydelser mod
+Danmarks sikkerhed vil utvivlsomt være strafferetligt forældede i dag. Men på grund af de
+høje strafferammer for overtrædelse af straffelovens kapitler 12 og 13 vil en virkelig effektiv
+indsats i forbindelse med en gennemgang af
+Stasiarkiverne kunne afsløre danske landsforrædere, hvis forseelser ikke er forældede.
+På den baggrund vil jeg til slut sige til justitsministeren: Brug nogle af PET's efter Venstres
+mening alt for beskårne ressourcer - f.eks. er
+PET's regionsafdeling i Aalborg nedlagt - til
+sammen med andre landes tjenester at afsløre
+de danskere, der gennem mange år utvivlsomt
+gik fjendens ærinde, i stedet for at bruge dem
+på en undersøgelse, der skal gå mange år tilbage og både mistænkeliggør de ansatte, der kun
+har gjort det, skiftende regeringer forventede af
+dem, og som var tvingende nødvendigt for
+Danmarks sikkerhed, og vil kunne skade PET's
+fremtidige arbejde.
+
+(872)
+Fredag den 21. maj 1999 (F 53)
+(Kort bemærkning).";Karsten Nonbo
+41866;name_party;":
+Jeg respekterer, at det er en tale, der er oplæst
+på vegne af ordføreren, og derfor vil jeg kun
+komme med en opfordring til Venstre og Venstres ordfører på området, som jo ifølge ordførertalen ligger inde med oplysninger om danskere, der utvivlsomt har gået fremmede efterretningstjenesters ærinde.
+Det er tilladt enhver dansk statsborger at gå
+til politiet med en sådan viden, og jeg synes
+ikke, man skal holde sig tilbage. Hvis medlemmer af Venstre eller nogen andre i den danske
+befolkning er vidende om, at folk har begået
+ulovligheder, skal de aflevere den viden til politiet. Jeg synes ikke, man skal dække over folk,
+der begår ulovligheder, så lad det være en opfordring til Venstre. Man behøver overhovedet
+ikke at afvente, at hverken regeringen eller PET
+passer sit arbejde: man kan selv gå i gang.
+(Kort bemærkning).
+Elisabeth Amold (RV):
+Jeg vil også gerne tage hensyn til, at ordføreren
+ikke var den rigtige ordfører, men en vikar, der
+læste højt. Men det slog mig nu alligevel lidt, at
+hr. Nonbo brugte udtrykket »pleje omgang
+med«, som om det at pleje omgang i sig selv er
+strafbart.
+Jeg røber formentlig ikke nogen stor hemmelighed ved at sige, at Det Radikale Venstre på
+adskillige landsmøder modtog delegationer fra
+DDR som gæster, nemlig repræsentanter for det
+såkaldte Agrarparti, som havde visse forbindelser med bondebevægelserne her i Danmark. Jeg
+har faktisk spist frokost adskillige gange med
+repræsentanter for DDR's Agrarparti, og jeg
+bryder mig ikke om at blive sat i bås med
+landsforrædere og andre undergravere af dansk
+sikkerhed, fordi jeg har plejet omgang med repræsentanter for det østtyske Agrarparti ved
+visse festlige lejligheder. Derfor vil jeg gerne
+bede Venstres ordfører sige, at det er altså ikke
+det samme som at være spion eller landsforræder, at man har haft kontakter med folk fra
+DDR.
+(Kort bemærkning).";Søren Søndergaard
+43735;name_party;":
+Jeg vil til start erklære mig helt enig i det, hr.
+Søren Søndergaard siger. Det er tilladt for alle
+at foretage anmeldelser, ja, jeg betragter det sådan set som en pligt.
+
+6969
+
+Til fru Elisabeth Arnold vil jeg sige, at der
+ligger i det at pleje omgang med, at vi ved, der
+er nogle, der gør det. Men det, det gælder om og det står jo også i vedtagelsens tekst - er, at
+det kun er de skyldige, der skal strafforfølges.
+Der ligger jo en undersøgelse forud, inden man
+finder frem til de skyldige, og man finder heldigvis også frem til mange uskyldige, så undersøgelsen kommer altså også dem til gode, som
+måske kan mistænkes for noget, de ikke har
+gjort, så de netop ikke bliver sværtet til for
+fremtiden.
+(Kort bemærkning).";Karsten Nonbo
+44480;name_party;":
+Det var udmærket at få en klargørende bemærkning, men jeg vil blot sige, at én ting er,
+hvad der står i vedtagelsens tekst, en anden
+ting er, hvad hr. Nonbo faktisk sagde i sin ordførertale. Men nu har vi fået afklaret tingene, og
+det er jeg tilfreds med.
+(Kort bemærkning).";Elisabeth Arnold
+44775;name_party;":
+Det er i forlængelse af det, fru Elisabeth Arnold
+spurgte om: Jeg forstår det, hr. Nonbo sagde i
+anden omgang, sådan, at det nærmest var en
+fortalelse, at det at pleje omgang er noget mistænkeligt, og at det også var forkert i forhold til
+det, der står i selve vedtagelsesteksten - altså at
+det at have forbindelse ikke er noget problem i
+sig selv. Men så er man jo i virkeligheden kommet til at formulere vedtagelsesteksten lidt
+uheldigt, fordi ordene »strafbare forhold«
+mangler, og jeg vil gerne have, at Venstre understreger, at det burde have stået der, og at det
+i hvert fald er underforstået, at man skal have
+gjort sig skyldig i strafbare forhold.";Aage Frandsen
+45465;title_name;":
+Jeg vil også fuldt ud respektere, at det er en vikar, der er på opgaven for Venstre i dag, og
+derfor vil jeg også alene oplyse hr. Nonbo om,
+at når hr. Nonbo nævner personalenormeringen
+i PET, kan det misforstås - forstået ,på den måde, at det beskårne personaletal hos PET kunne
+være en forklaring på, at der ikke var kommet
+mere ud af bestræbelserne for at få oplysninger
+om Stasi. Det har intet på sig, vil jeg bare sige.
+Som hr. Nonbo ved, er der indgået et politiforlig, der regulerer den samlede økonomi for
+politiet, og da PET er en integreret del af dansk
+politi, nemlig en afdeling under Rigspolitichefen, er det, som hr. Nonbo også ved, Rigspoli-
+
+6970
+
+Fredag den 21. maj 1999 (F 53)
+
+tichefens kompetence at normere det samlede
+politi, herunder personaletallet i PET. Det er der
+ingen af os her i Folketinget der blander sig i,
+og heller ikke jeg som minister. Det er alene et
+spørgsmål, der henhører under Rigspolitichefen.";Frank Jensen
+46424;name_party;":
+I Det Konservative Folkeparti har vi noteret os,
+at regeringen og andre partier her i salen har
+været mere optaget af at diskutere PET og se
+PET i kortene frem for at se på, hvem der har
+optrådt som landsforrædere.
+Stasiagenter meddeler, at kilder har flirtet
+med nogle af de mest alvorlige kapitler i dansk
+straffelov. Der er tale om strafferammer på op
+til 16 års fængsel, og bestemmelserne giver i
+ekstreme tilfælde mulighed for helt op til livsvarigt fængsel. Men der er åbenbart ikke sket
+ret meget for at rydde op på området, og det er
+ikke lykkedes at få én eneste af Stasis danske
+håndlangere stillet for retten eller dømt for
+spionage eller forræderi.
+Når man har læst, hvad den tidligere hærchef
+Kjeld Hillingsø har skrevet om DDR's viden om
+dansk forsvar, er det helt uforståeligt, at de
+danske myndigheder ikke gør alt, hvad der
+overhovedet er muligt for at få adgang til arkiverne fra DDR's sikkerhedstjeneste. Arkivadgangen kan jo have to formål: først og fremmest at få folk gjort ansvarlige for deres handlinger, men så sandelig også at hindre gentagelser. Forsvaret har dokumenteret, at østtyskerne
+under den kolde krig havde et uhyggelig nøjagtigt indblik i Danmarks militære planlægning
+på daværende tidspunkt, og oplysningerne var
+så detaljerede, at de kun kunne være kommet
+fra spioner med adgang til det danske forsvars
+mest fortrolige materiale.
+Det forlyder også, som det er skrevet af Kjeld
+Hillingsø, at der på Erich Honeckers kontor var
+kort over Danmark, der med minutiøs nøjagtighed viste alle militære og militært vigtige installationer, lige fra de to bunkere, som den
+danske regering planlagde at benytte i kriser og
+krig, til de regionale, armerede nettelefonkabler.
+Der var mere, hvor det kom fra, og det vil være
+naivt at tro, at alle de oplysninger stammede fra
+nyttige idioter.
+I Det Konservative Folkeparti har vi den
+holdning, at vi ikke ønsker at holde hånden
+over nogen. Har nogen forbrudt sig, må der rejses en sag, og så er det ligegyldigt, hvem det
+drejer sig om. Vi har i forbindelse med spørgs-
+
+mål her i salen henholdsvis den 4. november
+1998 og den 20. januar 1999 forsøgt at få belyst,
+hvad regeringen har foretaget sig i denne sag.
+Vi er selvfølgelig enige i, at det er begrænset,
+hvad man kan få at vide i denne sag, men det
+var jo ikke meget, man kunne afæske statsministeren på daværende tidspunkt.
+Den 20. januar 1999 oplyste statsministeren,
+at det var lykkedes de tyske myndigheder at
+bryde koden på centrale, hidtil utilgængelige
+dele af Stasiarkiverne. Hvornår blev regeringen
+bekendt med disse oplysninger om, at koden
+kunne brydes? Der er formentlig tale om samkøring af det såkaldte Rosewood-arkiv, som
+CIA fik fingrene i, og de såkaldte Sirene-bånd,
+som er sikret efterfølgende i Tyskland.
+Jeg har noteret mig, at justitsministeren i dag
+har sagt, at det skete for få måneder siden. Jeg
+vil gerne have præciseret, men jeg ved ikke, om
+justitsministeren kan det: Hvornår blev man bekendt med disse sammenkædninger? Statsministeren oplyste som bekendt den 20. januar 1999,
+at det var lykkedes for de tyske myndigheder,
+men vi har ikke rigtig hørt noget om de nøjagtige datoer. Jeg mener, det er vigtigt, at vi i dag
+får at vide: Hvor langt er regeringen kommet i
+sit arbejde med at få oplysninger frem? Hvad
+kan Folketinget forvente? Hvad kan Danmarks
+befolkning forvente med hensyn til at få gjort
+op på dette område?
+(Kort bemærkning).";Bendt Bendtsen
+49847;name_party;":
+Hr. Bendt Bendtsen kan åbenbart meddele, at
+der ikke er sket noget for at rydde op. Jeg kunne godt tænke mig at få at vide, hvor hr. Bendt
+Bendtsen ved det fra. Det er jo i virkeligheden
+en meget grov anklage mod Politiets Efterretningstjeneste, så jeg kunne godt tænke mig at
+vide, hvorfra hr. Bendt Bendtsen ved, at der
+ikke er blevet gjort noget for at rydde op.
+Så blev jeg glad over, at hr. Bendt Bendtsen
+netop så klart fremhævede, at de ting, som virkelig var af værdi for den østtyske efterretningstjeneste, var af en sådan karakter, at de
+kun kunne være kommet fra folk med adgang
+til forsvarets mest følsomme materiale. Det er jo
+en meget vigtig pointe, som forklarer, hvorfor
+det var fuldstændig latterligt at bruge ressourcer på at overvåge KAP og SAP og KAR, og
+hvad ved jeg, som jo ikke havde adgang til forsvarets mest følsomme materiale. Det er måske
+også derfor, der er en træghed her, for de folk,
+vi skal finde frem til, er jo ikke folk, som findes
+
+Fredag den 21. maj 1999 (F 53)
+i sådanne små organisationer. Det er folk, som
+findes helt andre steder i samfundspyramiden.";Søren Søndergaard
+50975;title_name;":
+Hr. Bendt Bendtsen efterlyste et konkret tidspunkt for, hvornår PET/Justitsministeriet var
+blevet bekendt med Gauck-kommissionens
+muligheder for at få tilgængelighed til det hidtil
+utilgængelige materiale, eftersom oplysningerne lå på krypterede bånd. Jeg kan bekræfte,
+som jeg sagde i min første tale, at det ligger et
+par måneder tilbage i tiden, og at det ligger
+ganske tæt på det tidspunkt, hvor oplysningerne blev tilgængelige for den danske offentlighed, bl.a. gennem danske medier og formidlet
+via udenlandsk presse.
+Jeg kan også bekræfte de forlydender, som
+var gengivet en del af i den internationale presse: at der er en kobling mellem de dekrypterede
+bånd, der er hos de tyske myndigheder, og det
+materiale, der er hos den amerikanske efterretningstjeneste, CIA, og at det i visse situationer
+er nødvendigt at kunne sammenkoble henholdsvis det materiale, der er i Tyskland, og
+det, der er hos de amerikanske myndigheder.
+Det er jo også fremgået af pressen, at der har
+været ganske intensive forhandlinger mellem
+de tyske myndigheder og de amerikanske
+myndigheder om at kunne udveksle disse
+oplysninger.
+Så når hr. Bendt Bendtsen ønsker, at jeg skal
+gå mere detaljeret til værks med hensyn til at
+beskrive, hvordan det går med vores bestræbelser, må jeg appellere til den konservative ordfører om at udvise den nødvendige hensyntagen til, at vi er i en forhandlingsfase med de tyske myndigheder. Og da jeg ikke har noget ønske om at forringe muligheden for, at det skal
+lykkes henholdsvis PET og Justitsministeriet at
+få et godt resultat af de forhandlinger, vi har
+med de tyske myndigheder, da det er efterretningsmæssige spørgsmål, som eventuelt kan relatere sig til strafbare forhold, appellerer jeg til
+Folketinget om også her at udvise den nødvendige opmærksomhed med hensyn til, at det er
+noget, der gerne skulle føre til en succes og ikke
+til det modsatte.
+(Kort bemærkning).
+Elisabeth Amold (RV):
+Hr. Bendt Bendtsen er utilfreds med, at det indtil nu ikke er lykkedes at få stillet én eneste for
+retten i forbindelse med udlevering af eventuelt
+følsomt materiale til Stasiarkiverne, men det
+
+6971
+
+forudsætter jo, at man ved, at der er nogen at
+stille for retten.
+Derefter går hr. Bendt Bendtsen videre til at
+sige, at de oplysninger, der er leveret til Stasi, er
+af en sådan karakter, at de kun kan være kommet fra forsvarets egne folk, og så synes jeg
+egentlig, feltet allerede må være indsnævret
+temmelig meget, for så kan man da udelukke en
+hel del af de øvrige organisationer, som efteretningsljenesteme har koncentreret sig om at kigge efter. Så jeg kan ikke se andet, end at det må
+være en forholdsvis overkommelig opgave for
+Forsvarets Efterretningstjeneste, som faktisk
+ikke er omfattet af den undersøgelse, regeringen og nogle partier sætter i gang nu, at få indsnævret, hvad det drejer sig om.
+Det er helt klart, at modtagerne her har været
+Stasi - det er derfor, vi taler om Stasi-arkiverne
+- men der har jo også været modtagere i andre
+lande, f.eks. KGB, så hvis afsenderen er inden
+for forsvarets egne rækker, må det være Forsvarets Efterretningstjeneste, som skal have
+gang i efterforskningen dér. Det må da være det
+oplagte svar på det spørgsmål.
+(Kort bemærkning).";Frank Jensen
+54196;name_party;":
+Først vil jeg takke justitsministeren for redegørelsen og sige, at jeg er tilfreds med det svar, jeg
+har fået fra justitsministeren her fra talerstolen.
+Til hr. Søren Søndergaard:
+Det er jo næsten normalt, det her, for oplysningerne kan kunne komme fra forsvaret, siger
+hr. Søren Søndergaard.
+Det tror jeg overhovedet ikke man kan sige
+noget om. Det var nogle, der havde et indgående kendskab til forholdene, men oplysningerne
+kan være kommet mange steder fra, og det er i
+øvrigt også et svar til fru Elisabeth Arnold.
+Og med hensyn til, om man har spildt tiden
+på at se på KAP og SAP eller KAK for den sags
+skyld, vil jeg nok sige, at dér tror jeg ikke Politiets Efterretningstjeneste har spildt tiden, men
+det er muligt, at man ikke vidste nok om, hvad
+KAK gik og lavede i sin tid.
+(Kort bemærkning).";Bendt Bendtsen
+55023;name_party;":
+Nej, det var sådan set hr. Bendt Bendtsen selv,
+der sagde, at oplysningerne kun kunne komme
+fra folk med adgang til forsvarets mest følsomme materiale. Det var faktisk hr. Bendt
+Bendtsen selv, der brugte den formulering.
+
+6972
+
+Fredag den 21. maj 1999 (F 53)
+
+Og hvem har adgang til forsvarets mest følsomme materiale? Ja, det er jo relativt oplagt,
+hvem der har dét, og derfor kan jeg ikke forstå,
+at hr. Bendt Bendtsen ikke sætter de to ting
+sammen, at det materiale, som vi taler om her,
+på den ene side er det mest følsomme for forsvaret, og at der på den anden side ikke er sket
+noget for at rydde op.
+Der er ikke sket noget som helst for at rydde
+op, siger hr. Bendt Bendtsen. Hvorfor er der
+ikke sket noget for at rydde op over for dem,
+der har udleveret forsvarets mest følsomme
+materiale? Hr. Bendt Bendtsen ved det åbenbart. Eller kommer hr. Bendt Bendtsen bare
+med almindelig snak uden nogen viden? Hvor
+ved hr. Bendt Bendtsen det fra, og hvorfor er
+det ikke sket?
+(Kort bemærkning).
+Elisabeth Amold (RV):
+Da hr. Bendt Bendtsen inkluderede mig i svaret
+til hr. Søren Søndergaard, bliver jeg nødt til lige
+at gå op og sige, at hr. Bendt Bendtsen skulle
+genlæse den tale, som han holdt her for et øjeblik siden, for han sagde faktisk, at det var oplysninger, som kun kunne stamme fra personer,
+som havde adgang til og indgående kendskab
+til det mest fortrolige materiale i forsvaret, og
+jeg tror næppe, mange af de aktive i fredsbevægelsen havde denne adgang.
+(Kort bemærkning).";Søren Søndergaard
+56533;name_party;":
+Jamen jeg prøver ikke at lave om på min ordførertale, for jeg mener det, jeg sagde. Og når
+jeg specielt sagde det om de militære installationer, så var det, fordi det var folk, der havde
+et indgående kendskab, og det er muligt, at det
+kun er folk inden for forsvaret, men det kan jeg
+jo ikke sige herfra, for det kan også komme andre steder fra. Det kan komme fra centraladministrationen, og det kan komme mange andre
+steder fra.
+Og når jeg siger, at der ikke er sket noget, så
+er det blot, fordi jeg må konstatere, at vi ikke
+har set, at nogen er blevet dømt for spionage.
+Jeg kan selvfølgelig ikke sige, hvad der ligger
+i de lukkede arkiver i systemet i dag, og jeg kan
+overhovedet ikke udtale mig om, hvorvidt der
+er noget på vej. Jeg må blot konstatere, at indtil
+nu har vi i hvert fald ikke i offentligheden kunnet konstatere noget på det her område.
+
+(Kort bemærkning).";Bendt Bendtsen
+57433;name_party;":
+Det, jeg spurgte hr. Bendt Bendtsen om, var en
+vurdering af, hvorfor der ikke er sket noget.
+Hvorfor er der ikke sket noget? Det er da interessant at vide. Er det, fordi Forsvarets Efterretningstjeneste ikke vil, er det, fordi Politiets
+Efterretningstjeneste ikke vil, eller er det, fordi
+regeringen har blokeret for det? Der må da
+være en forklaring, og hvad er hr. Bendt
+Bendtsens bud på en forklaring?
+(Kort bemærkning).";Søren Søndergaard
+57878;name_party;":
+Hr. Søren Søndergaard ved jo godt, at jeg ikke
+har adgang til, hvad der foregår dybest nede i
+PET eller FE. Jeg må blot konstatere, at jeg som
+en almindelig offentlig person ikke har kunnet
+notere mig, at der er sket noget på det område.
+Det kan der være gode grunde til, og som det
+tidligere har været fremhævet her fra talerstolen under debatten i dag - det blev så afvist af
+justitsministeren - mente den daværende justitsminister, Bjørn Westh, ikke, at der skulle
+bruges voldsomme ressourcer på det område,
+og det kunne jo være årsagen til, at der ikke er
+sket noget på området.";Bendt Bendtsen
+58498;title_name;":
+Hr. Aage Frandsen som ordfører.";Margrete Auken
+58550;name_party;":
+Den socialdemokratiske ordfører, fru Dorte
+Bennedsen, var inde på, at det måske er lidt underligt, at man har rejst denne forespørgsel, og
+det synes jeg egentlig også - i forhold til, at der
+er andre måder, man kan kontrollere regeringens arbejde på, altså om regeringen gør sit arbejde ordentligt: Man kan stille en række
+spørgsmål i udvalgene, og man kan spørge på
+anden vis, og man kan indkalde til samråd og
+ad den vej få nogle oplysninger, og er man så
+ikke tilfreds, kan man gå videre med det.
+Vi lægger meget vægt på magtens tredeling,
+og det vil sige, at her er det regeringens og anklagemyndighedens ansvar, og vi synes ikke,
+Folketinget skal gå ind i det og sige, at nu skal
+regeringen rejse en række anklager, medmindre
+den selv mener, at der er grund til at rejse dem,
+og så kan Folketinget vælte regeringen, hvis
+Folketinget ikke synes, den gør sit arbejde
+ordentligt.
+Vi lægger altså meget vægt på, at det er regeringen, der har ansvaret for den udøvende
+
+Fredag den 21. maj 1999 (F 53)
+magt, og Folketinget, der har ansvaret for den
+lovgivende magt. Men Folketinget skal selvfølgelig kontrollere regeringen, og derefter er det
+domstolene, der har ansvaret for den dømmende magt. I de her diskussioner er der altså hos
+nogle en tilbøjelighed til også at optræde som
+den anklagende myndighed og næsten også
+som den dømmende myndighed.
+Det siger sig selv, at hvis der er tale om, at
+nogle mennesker har gjort sig skyldige i nogle
+strafbare forhold og ikke mindst i de strafbare
+forhold, der er forespørgslens tema, nemlig
+landsforrædderi, skal de naturligvis dømmes.
+Hvis de har udøvet landsforrædderivirksomhed, er der ingen grund til, at man på nogen
+måde holder hånden over dem, ligegyldigt
+hvilket motiv de har haft til det i den forbindelse. Det er også oplagt.
+Det, der så er vigtigt at understrege, og som
+allerede er et problem i den måde, som forslaget til vedtagelse er formuleret på, er, at ét er, at
+man har »forbindelse til« eller - med et andet
+udtryk, som også er anvendt her i dag - »plejer
+omgang med«, for det er der altså mange der
+gør. Og det kan godt være, at det var dumt af
+dem, at de gjorde det, og man kan måske i dag
+ikke forstå, hvorfor hulen de spildte deres tid
+på sådan noget. Jeg har i hvert fald aldrig nogen sinde selv drømt om at gøre det, men det er
+der altså nogle der har gjort, men det betyder jo
+ikke, at noget af det, de gjorde, var galt.
+Og så er der jo spørgsmålet: Hvad er det, der
+eventuelt er gjort galt? Og dér er der altså nogle, der fremhæver Stasihåndlangerne - det er jo
+også et udtryk, der bliver brugt - og det er muligt, der har været nogle, men det er åbenbart
+ikke bevist, så der er nogle, der kan straffes for
+det. Men i det omfang der er risiko for, at der er
+nogle, der har gjort det, skal det selvfølgelig
+undersøges, så man kan finde ud af det.
+Men det, som det nok er vigtigt at understrege, er, at noget af det, som kan have karakter af
+landsforrædderi, altså må stamme fra nogle
+mennesker, der har haft særlig gode oplysninger, men jeg ved selvfølgelig ikke, præcis hvem
+det kan være, og det er heller ikke det, jeg skal
+forholde mig til. Det er det, regeringen eller
+selvfølgelig mere præcist anklagemyndigheden
+skal forholde sig til.
+Vi er godt tilfredse med, at man har fået lavet
+aftalen om PET-lovgivningen, selv om vi kunne
+have forestillet os den endnu bedre og endnu
+mere præcis og gerne ville have haft nogle flere
+ting med, men det var det bedste, der kunne
+
+6973
+
+lade sig gøre, og i den forbindelse tager man jo
+også højde for nogle af de problemstillinger,
+som ligger her.
+Derfor ligger vores opfordring til tegeringen
+lidt i forlængelse af hr. Søndergaards forslag til
+vedtagelse: Regeringen skal som udøvende
+magt og som ansvarlig for anklagemyndigheden passe sit arbejde - sagt på dansk - og så
+skal vi lade regeringen passe sit arbejde og ikke
+forstyrre den i det. Men det er klart, at hvis vi
+ikke synes, regeringen passer sit arbejde, kan vi
+vende tilbage til det.
+Det betyder også, at jeg i virkeligheden meget hellere ville have vedtaget noget, der lød
+sådan: »Idet Folketinget tager regeringens redegørelse til efterretning ... «, for i virkeligheden
+har ministeren sagt alt det, der må ligge i dét
+her, og jeg har altså fået udlagt teksten sådan, at
+ordet skyldig betyder skyldig i strafbare forhold, men det er jo ikke den smukkeste formulering, der endnu er lavet.
+Og hr. Søren Søndergaards forslag kan man
+jo heller ikke være uenig i, for det er ligesom
+forslaget om, at noget tages til efterretning, indlysende sandt. Men der er blevet en tilbøjelighed til, at Folketinget skal vedtage vedtagelser,
+og det vender vi tilbage til på tirsdag i forbindelse med afstemningen om vedtagelserne.
+Fjerde næstfonnand (Margrete Auken):
+Fru Elisabeth Arnold som ordfører.
+Elisabeth Amold (RV):
+Undskyld, fru formand, jeg var ikke helt klar
+over, at det var min tur.
+At forsyne en fjendtlig magt med oplysninger
+om ens eget land kan være landsforrædderi.
+Det er ikke sikkert, at det er det, men det kan
+være det, og hvis der er tale om strafbare forhold, skal disse naturligvis pådømmes og straffes. Det Radikale Venstre ønsker ikke på nogen
+måde at holde hånden over danskere, der er eller har været en sikkerhedsrisiko for deres land,
+men vi vender os imod en hetz mod folk, der
+har haft venner, bekendte, forrehüngsforbindelser eller andre former for forbindelser i lande
+på den anden side af Jerntæppet.
+Som flere andre danskere har jeg også været
+på ferie i Sovjetunionen for at se nogle af de
+kunstskatte, der er dér, f.eks. i det gamle
+Leningrad, og det vil jeg til enhver tid nægte
+havde noget som helst at gøre med, at jeg var
+en sikkerhedsrisiko for mit land.
+
+6974
+
+Fredag den 21. maj 1999 (F 53)
+
+Så vi vil meget gerne være med til at opklare
+forbrydelser, men vi vil også lade de folk være
+i fred, som har haft ganske almindelige mellemfolkelige forbindelser med personer på den anden side af det Jerntæppe, som nu heldigvis er
+rustet op.
+Vi bifalder regeringens bestræbelser med
+hensyn til de nu åbnede Stasiarkiver, og vi synes, det er udmærket at vedtage en bekræftelse
+af, at de bestræbelser, der er i gang, også skal
+fortsætte.
+Vi kunne sådan set lige så godt vedtage, at
+det er fredag i dag, men for os er det helt i orden at bekræfte, at de bestræbelser, der er i
+gang, skal fortsætte.
+(Kort bemærkning).";Aage Frandsen
+64886;name_party;":
+Det er lige en kommentar til fru Elisabeth
+Arnold, der siger, at vi lige så godt kunne vedtage, at det er fredag i dag:
+Der er jo en grund til, at vi er nogle stykker,
+der har været meget skeptiske med hensyn til
+regeringens oprigtige vilje til at undersøge de
+her forhold, og den skepsis er jo blevet bekræftet af de udtalelser, som jeg heroppefra har
+nævnt, at bl.a. den tidligere justitsminister,
+Bjørn Westh, er kommet med, og hvor han har
+sagt, at man ikke var villig til at foretage den
+systematiske gennemgang af Stasiarkiveme,
+som der fra mange sider i Folketinget var indstillinger om.
+I den forbindelse vil jeg godt spørge fru";Peter Skaarup
+65543;title_name;"Vil det sige, at Det Radikale
+Venstre ikke bakker op bag den tidligere justitsministers udtalelse om, at man altså på et
+tidspunkt har diskuteret ikke at ville lave denne
+undersøgelse?
+Jeg vil også godt spørge den radikale ordfører, fru Elisabeth Arnold, om det ikke er korrekt, at det flere gange er fremgået af dagspressen, at der har været spioner, altså folk, der har
+begået strafbare forhold, som der endnu ikke er
+rejst tiltale mod. Jeg kan bare pege på en journalist, der flere gange har været omtalt i Ekstra
+Bladet og andre medier.
+(Kort bemærkning).
+Elisabeth Amold (RV):
+Nu skal jeg jo ikke svare på spørgsmål, som rettelig burde stilles til justitsministeren, men blot
+sige, at en vilje til at opklare mistanker om
+landsskadelig virksomhed eller spionage naturligvis forudsætter, at man har noget at forske i.
+
+Og det, at Stasiarkiverne er blevet dekrypteret,
+så det nu er muligt at få oplysninger ud, som
+det ikke var muligt at få ud for blot få år siden,
+gør selvfølgelig, at man også har en forpligtelse
+til at undersøge de nye muligheder for derved
+at komme nærmere på sagers opklaring. Men
+der er også andre arkiver, som det kunne være
+interessant at undersøge, og jeg ved ikke, hvordan det er med KGB-arkiveme, men det er dog
+lykkedes danske forfattere og herunder et medlem af Folketinget at få adgang til visse dele af
+KGB's arkiver.
+Men sådan som jeg forstår det - jeg ved ikke,
+om det er rigtigt - forudsætter det altså en konkret mistanke i en konkret sag, som man så får
+mulighed for at forfølge nærmere efter aftale
+med det pågældende lands myndigheder. Og
+jeg har forstået, at det er den måde, Justitsministeriet arbejder på, og det forudsætter altså, at
+man har en eller anden sag at hive fat i, men jeg
+kunne forstå på nogle af de tidligere ordførere,
+at man allerede er helt bekendt med, at der
+åbenbart er sager inden for forsvaret, som man
+kan forfølge.
+(Kort bemærkning).";Elisabeth Arnold
+67465;name_party;":
+Jeg synes altså, fru Elisabeth Amold slipper lidt
+for nemt om ved det her, for Det Radikale Venstre har jo været med i den regering, som Bjørn
+Westh har været justitsminister i, og dér må
+man altså have haft nogle diskussioner om de
+her ting, ellers ville justitsministeren ikke have
+sagt, at man ikke har været interesseret i at
+foretage en systematisk gennemgang.
+Det har altså været en politisk beslutning, at
+man ikke har været interesseret i det på det
+tidspunkt, og han har været involveret i den, og
+det må man altså sige at det De Radikale også
+har et medansvar for, når de har siddet i regeringen på det pågældende tidspunkt.
+Efterfølgende vil jeg også godt lige spørge fru";Peter Skaarup
+68168;title_name;"Er det ikke korrekt, at der er
+en journalist, Flemming Sørensen, som flere
+gange i danske dagblade har indrømmet, at han
+har spioneret for den østtyske efterretningstjeneste, og på den baggrund jo altså burde være
+blevet retsforfulgt? Og burde man ikke fra regeringens side have rettet henvendelse med
+henblik på at finde ud af, hvad der rent faktisk
+er sket.
+Altså: Hvordan kan det være, at en række
+medier har oplysninger, som Politiets Efterretningstjeneste og regeringen ikke vil følge op?
+
+Fredag den 21. maj 1999 (F 53)
+
+6975
+
+(Kort bemærkning).
+(Kort bemærkning).";Elisabeth Arnold
+68772;title_name;":
+Elisabeth Amold (RV):
+Det, der kalder mig herop, er, at hr. Peter
+Der var jo et par konkrete spørgsmål til mig fra
+Skaarup endnu en gang trækker noget frem,
+hr. Peter Skaarup.
+som jeg troede faktisk nu var ude af debatten,
+Først vil jeg blot sige, at Det Radikale Venstre
+men som hr. Skaarup så vender tilbage til i sine
+har været i regering mange gange i dette årkorte bemærkninger til den radikale ordfører,
+hundrede, og at det under alle omstændigheder
+og det er altså spørgsmålet om, hvad den forer sådan, at det er den til enhver tid siddende
+henværende justitsminister, Bjørn Westh, har
+minister, der har ansvaret for de beslutninger,
+sagt.
+der bliver taget. Jeg er ansvarlig for min stemJeg synes, det er fair og ordentligt, at man
+meafgivelseher i Folketingssalen, og ministeren
+holder fast i, hvad forhenværende ministre har
+er ansvarlig for det, der sker under hans admisagt, hvis det er noget, man kan genkende fra
+nistration.
+besvarelser af mundtlig eller skriftlig karakter,
+Og om den journalist, som åbenbart i dagssom er givet her i Folketinget eller i et udvalg,
+pressen har sagt, at han har været Stasiagent,
+men det, som hr. Skaarup bliver ved med at
+vil jeg blot sige, at jeg går ud fra, at Dansk
+bygge sin argumentation på, er altså noget, der
+Folkeparti har politianmeldt vedkommende, så
+er refereret i en avis - med al respekt for jour- der kommer en sag om vedkommende. Det må
+nalisterne og journalistikken, for man skal selv- vel være den måde, man skal gå frem på.
+følgelig også kunne lægge udtalelser, der henhører til noget, der er refereret i en avis, til
+(Kort bemærkning).
+grund for en debat - efter at den pågældende";Frank Jensen
+70440;name_party;":
+minister er gået af og altså ikke er minister
+Jamen jeg tror, det bliver svært at overbevise
+længere.
+Det Radikale Venstre om, hvad vi kan regne
+Og jeg har svaret her, og jeg har selvfølgelig
+med i denne sag.
+gjort mig bekendt med sagen, og jeg kan ikke
+Vi mener stadig væk, at det er åfgørende viggenkende, at PET ikke også under den forhen- tigt at vise den danske befolkning, som har reværende justitsminister har forsøgt at få fat på
+spekt for lovgivningen og forhåbentlig også remateriale, der har kunnet afsløre, om danske
+spekt for regeringen og Folketinget, at når man
+statsborgere har begået strafbare handlinger i
+helt klart og tydeligt opdager, at der har været
+samspil med DDR og den daværende østtyske
+landsforrædere under den kolde krig, som staefterretningstjeneste, Stasi.
+dig væk færdes frit omkring i Danmark, så gør
+Dér vil jeg gerne bekræfte det, som fru Elisa- myndighederne alt for at retsforfølge sådanne
+beth Arnold er inde på, nemlig at hvis de dan- personer og prøve at grave til bunds i sådan
+ske myndigheder, PET og anklagemyndighenogle ting.
+den, har en konkret mistanke og derfor kan rejOg derfor virker det altså underligt, hvis det
+se en sigtelse mod en borger, så kan vi begære
+inden for regeringen ikke tidligere har været
+retshjælp hos de tyske myndigheder, og så kan
+diskuteret, om man skulle følge det her op på
+vi gennem de internationale retshjælpsbestemordentlig vis. Og det tror vi også det har, og
+melser ifølge konventionen få de tyske myndig- derfor mener vi, det er rimeligt, at regeringen i
+heder til at hjælpe den danske anklagemyndig- dag svarer på, om det ikke er korrekt, at det har
+hed. Men vi kan altså ikke blot på grundlag af
+været diskuteret, og at man tidligere har afstået
+det, der ligger hos Stasi i dag, gå på fisketur i
+fra at lave en sådan undersøgelse, men at man
+Stasi, som jeg har udtrykt det, og derfor forsø- nu - også på grund af de nye muligheder, erger vi, da vi ikke har grundlag for nogen kon- kender jeg - gerne vil lave den undersøgelse,
+kret mistanke, om vi så via hjælp fra tyskeme
+som vi så heldigvis kan få.
+kan få noget, som kan give grundlag for en
+politimæssig efterforskning.
+(Kort bemærkning).
+Det er det spor, vi nu følger, og jeg håber, at
+Elisabeth Amold (RV):
+hr. Skaarup vil tage det som et udtryk for, at vi
+Hr. Peter Skaarup må tro mig, om han vil, men
+gør alt, hvad vi kan, specielt efter denne defor det første har jeg faktisk ikke set den artikel
+kryptering, for at se, om det skulle være muligt
+i det pågældende blad, hvor vedkommende
+at komme videre ad det spor.
+journalist nu erklærer sig som gammel
+Stasiagent, så det ved jeg, ikke noget om, men
+
+6976
+
+l Fredag den 21. maj 1999 (F 53)
+
+jeg går da ud fra, at de borgere, der har følt sig
+forulempet af den tilståelse, har meldt vedkommende til politiet.
+For det andet: Hvorfra ved hr. Peter Skaarup,
+at vedkommende ikke er meldt til politiet, og at
+der ikke allerede er en sag i gang? Ved hr. Peter
+Skaarup dét?
+Det eneste han ved, er åbenbart, at personen
+ikke er blevet dømt, men det kan jo godt være,
+at der er en sag. Så når vi står her og taler, er
+det lidt som et par skyggeboksere, der står over
+for hinanden.
+Og hvis hr. Peter Skaarup er meget utryg ved
+situationen, bør han da øjeblikkelig tage telefonen og ringe til politiet og sige: Her er en person, som er agent, og som har tilstået. Se at få
+sat ham fast!";Peter Skaarup
+73845;title_name;":
+Jeg vil lige sige, at i øjeblikket er det en diskussion med fru Elisabeth Amold. O.k., hr.
+Christian Jensen for en kort bemærkning.
+(Kort bemærkning).
+Christian Jensen (FP):
+Skal man forstå fru Elisabeth Arnolds svar til
+hr. Peter Skaarup på den måde, at selv ikke en
+mistanke om landsforræderi bekymrer fru
+Elisabeth Amold, og at det er op til den enkelte
+person at anmelde sådan noget. Er det sådan,
+man skal forstå det?
+I øvrigt kan det jo formindske arbejdet betydeligt her i Tinget, hvis det er sådan, vi skal til
+at gå frem, og så øjner jeg da i hvert fald en rationalisering, for så har vi jo faktisk ikke noget
+at sidder her efter, for så ordner vi det selv
+uden om Tinget.
+Er det sådan, man skal forstå dels fru
+Elisabeth Amolds udlægning over for hr. Peter
+Skaarup og dels det svar, der kom før?
+(Kort bemærkning).,
+Elisabeth Amold (RV):
+Til det sidste spørgsmål vil jeg sige, at det er op
+til Folketinget at lave lovgivning og det er op til
+ministrene at gennemføre lovgivningen i praksis og det er op til domstolene at retsforfølge de
+personer, der har begået lovbrud.
+Jeg har ikke set den pågældende tilståelse
+fra den journalist,, som skulle have været
+Stasiagent, og det må da være de personer, som
+har observeret denne tilståelse, der tager sagen
+op og siger: O.k., så må vi melde vedkommende til politiet! Jeg aner ikke,, hvem det er, og jeg
+
+ved ikke, hvad det er for et blad, og derfor kan
+jeg altså ikke rigtig agere.
+Hvis der er nogle, der har begået en lovovertrædelse, skal de selvfølgelig straffes, men det
+er altså ikke Folketinget, der skal straffe dem:
+det er domstolene.";Margrete Auken
+75481;title_name;":
+Så er det hr. Søren Søndergaard som ordfører.";Margrete Auken
+75551;name_party;":
+Efter Enhedslistens opfattelse skal påståede
+ulovligheder undersøges, sagerne opklares og
+tingene afgøres ved domstolene, og hvis der er
+nogle, der er skyldige, skal de straffes efter de
+regler, som gælder med hensyn til at blive
+straffet i det her land.
+Spørgsmålet er så, og det er vel det, der er
+det egentlige udgangspunkt for forespørgslen
+her: Er det sket i forhold til personer, som ulovligt har arbejdet for fremmede landes efterretningstjenester?
+Nu har man lige præcis valgt Stasi her, og jeg
+ved ikke, hvorfor man lige præcis har valgt dét,
+for man kunne også have valgt samarbejdet
+med den sydafrikanske efterretningstjeneste om
+overfald på apartheidmodstandere osv., men
+o.k., Stasi er valgt her, og det er helt i orden. Er
+dét blevet undersøgt?
+Og hvad er så svaret på det spørgsmål? Svaret er: Det ved vi ikke. Vi aner det faktisk ikke.
+Der er ingen, der har givet udtryk for, at de ved
+det, og jeg ved det naturligvis heller ikke.
+Det er jo lige præcis derfor, der er nogle af os,
+der så gerne vil have en undersøgelse af efterretningstjenesterne, for så vil det jo komme
+frem, hvis en minister har sagt til efterretningstjenesten, at der er nogle folk, der har begået
+nogle ulovligheder, men at den for Guds skyld
+ikke må efterforske det, og at de bare skal have
+lov til at begå deres ulovligheder i fred, sådan
+som visse har antydet at Bjørn Westh har gjort.
+Det vil da være det bedste overhovedet at få
+en undersøgelse, som lige præcis vil kunne afklare de ting, og vi vil gerne have den undersøgelse, for vi vil gerne have afklaret, om det
+forholder sig sådan, at der f.eks. er justitsministre, som ikke har levet op til deres ansvar.
+Årsagen til, at tingene ikke er blevet undersøgte i hvert fald ikke efter 1989, kan jo ikke,
+være manglende ressourcer hos PET, for justitsministeren kan i hvert fald bekræfte, at efter
+Murens fald i 1989 steg antallet af PET-medarbejdere, jeg tror med 25 pet, og først her inden
+
+(873) RT
+Fredag den 21. maj 1999 (F 53)
+
+6977
+
+for det seneste år er antallet begyndt at gå ned.
+lave den undersøgelse af efterretningstjenesterAntallet af PET-medarbejdere steg altså i perio- ne. De kræver altså viden, men de vil ikke være
+den efter Murens fald, så det kan ikke være det
+med til at lave den undersøgelse, der kan sikre,
+i sig selv, der er begrundelsen.
+at vi får viden. Det er højst besynderligt. Jeg
+Og hvis vi forudsætter, at der ikke er sket et
+forstår simpelt hen ikke hvorfor.
+opgør med de folk, som eventuelt har gjort noI stedet fremsætter man et fuldstændig diletget forkert, hvad kan årsagerne så være til det?
+tantisk forslag, hvor man opererer med noget,
+Ja, én årsag kan jo være, at PET slet ikke kigge- der hedder skyldige, men glemmer at sige
+de det rigtige sted hen, men kiggede alle mulige
+skyldige i hvad.
+andre steder hen og f.eks. kiggede på forskelliHelt ærligt: Jeg synes, Venstre og De Konserge venstreorienterede organisationer, som man
+vative især skulle bruge pinsen ikke på at se
+håbede eller regnede med ville lave noget, der
+solen danse, men på at gå i enrum med sig selv
+var ulovligt.
+og grundigt overveje, om tiden ikke var komEn af de organisationer kunne f.eks. være
+met til, at vi fik en grundig undersøgelse af,
+Socialistisk Arbejderparti, og bare for orientehvad efterretningstjenesterne og venstrefløjen
+ringens skyld vil jeg citere, hvad der stod i
+og højrefløjen gik og lavede under den kolde
+Socialistisk Arbejderpartis blad, Klassekampen,
+krig frem til 1989, sådan så vi efter pinse med et
+nr. 125, oktober 1979, i anledning af DDR's
+bredt flertal kan vedtage en undersøgelse her i
+30-års-jubilæum under overskriften »30 års
+Folketinget.
+stalinistisk styre«:
+»I stedet for at inspirere verdens arbejdere i
+(Kort bemærkning).
+kampen for socialisme er det benhårde bureau- Peter Skaarup (DF):
+kratiske diktatur i DDR et skræmmebillede for
+Ja, det er jo meget påfaldende, at et af de folkemange arbejdere. Kapitalisternes og de stalinitingsmedlemmer, som går herop og slet ikke
+stiske bureaukraters forsøg på at fremstille syforstår, hvorfor denne debat er rejst, kommer
+stemet i DDR som socialisme får mange arbejfra et af de partier, som på afgørende vis var en
+dere til at vende sig imod socialismen.«
+aktiv del af den kolde krig, der på afgørende vis
+Det er jo ikke ligefrem nogen ros af regimet i
+støttede de fredsbevægelser, der, til en vis grad
+DDR, men det kan være, PET var så optaget af
+i hvert fald, var infiltrerede af Stasiagenter: det
+at undersøge den slags kritik af regimet i DDR,
+er i hvert fald de historier, vi får at vide.
+at man helt glemte at afsløre folk, der arbejdede
+Vi kan godt nok ikke få det undersøgt, vi har
+for DDR. Jeg ved det ikke.
+ikke kunnet få det undersøgt til bunds endnu En anden mulighed kan selvfølgelig være, at
+regeringen har ikke villet det helt - men det ser
+PET er sat til at holde hånden over samfundets
+ud til at kunne blive undersøgt nu, og det bliver
+spidser, for som hr. Bendt Bendtsen fra Det
+jo så spændende at finde frem til, om det er
+Konservative Folkeparti så rigtigt gjorde opkorrekt. Jeg tror, det er korrekt.
+mærksom på, tales der jo her om adgang til
+Og så spørger hr. Søren Søndergaard her fra
+f.eks. forsvarets mest følsomme materiale. Og
+talerstolen: Jamen hvorfor er det så, at man har
+hvem har adgang til dét? Ja, det har jo samfun- koncentreret sig så meget omkring Stasi og ikke
+dets spidser, for det er jo ministre, topembeds- har villet se på spørgsmålet omkring de bevæmænd og chefer for forsvaret og efterretningsgelser, der lavede de her ting?
+tjenesten, der har adgang til det. Og måske er
+Jamen et af argumenterne findes jo bl.a. i de
+det sådan, at det er dem, der har udleveret det,
+principprogrammer, som er for DKP og Komog fordi man ikke vil have afsløret dem og de- munistisk Arbejderparti, hvor det af begge prores landsforræderi, laver man så ikke nogen un- grammer fremgår, at der nærmest er tale om
+dersøgelse. Jeg ved det ikke, men det er jo en
+grundlovsstridende paragraffer. KAP siger, at
+mulighed.
+arbejderklassen må forberede sig på væbnet
+Alt det kunne vi få bedre belyst, hvis der
+kamp i opgøret med borgerskabet. Og DKP sikom en ordentlig undersøgelse af efterretnings- ger, at det er partiets opgave at forberede den
+tjenesterne før 1989.
+I proletariske revolution, omstyrtelsen af det borDet, der så er historiens ironi, er, at det parti,
+gerlige diktatur gennem den væbnede revolusom har rejst denne her forespørgsel, og et par
+tion.
+af de partier - Venstre og De Konservative Det er da klart, at når PET og andre, der er
+som kører frem her, ikke vil være med til at
+sat til at overvåge sikkerheden i Danmark, læ- ,
+
+6978
+
+Fredag den 21. maj 1999 (F 53)
+
+ser sådan nogle programmer, så siger de: Hov,
+her er der altså nogle, der er ude på noget
+grimt, og de er interesserede i at omstyrte samfundet. Hvad skulle PET ellers gøre?
+Og derfor er svaret på hr. Søren Søndergaards spørgsmål jo meget enkelt. Det er givet
+her.
+(Kort bemærkning).";Søren Søndergaard
+82503;name_party;":
+Det, der er hovedproblemet med Dansk Folkepartis ordfører, er, at ordene er så mange, og
+den konkrete viden er så lille.
+Punkt ét: Jeg bliver nødt til at meddele hr.
+Peter Skaarup, at Enhedslisten blev stiftet i 1989
+efter Murens fald. Derfor har Enhedslisten som
+parti - så kan hr. Skaarup lave motivforskning
+på enkelte medlemmer - ikke været med i
+noget før Murens fald.
+Punkt to: Hr. Skaarup citerer to partier, som
+var benhårde modstandere af DDR og Stasi.
+Hvad det har med denne her forespørgsel at
+gøre, forstår jeg ikke. Men jeg bliver nødt til at
+fortælle hr. Skaarup, at det, han citerede fra,
+ikke var DKP, det var DKP-ML. Og det er ikke
+første gang, det sker. Det gjorde fru Pia Kjærsgaard også sidste gang, vi havde debatten. Og
+der prøvede vi at rette det.
+Derfor er det, jeg så indtrængende spørger
+Dansk Folkeparti: Det er i orden, at Dansk
+Folkeparti ikke kender forskel på DKP og
+DKP-ML, men kunne man ikke lade være med
+at sprede uvidenheden til alle andre? Kunne
+man ikke få rettet det dér manuskript. Jeg vil
+godt være konsulent, så vi kan blive fri for at
+høre på fejlagtighederne.
+(Kort bemærkning).";Søren Søndergaard
+83646;name_party;":
+Ja, nu skal jeg så komme med en indrømmelse.
+Det var faktisk, fordi den røde knap lyste, at jeg
+prøvede at afkorte nogle af de ting, der stod i
+mit manuskript. Men jeg troede ikke, at der var
+nogen, der var i tvivl om, at det var DKP-ML's
+opgave at forberede den proletariske revolution, omstyrtelsen af det borgerlige diktatur
+gennem den væbnede revolution.
+Det er jo det, det drejer sig om, det er ikke,
+om der står DKP eller DKP-ML. Det er rigtigt
+nok, at det er DKP-ML. Det, der bare er afgørende, er, at det selvfølgelig - og heldigvis for
+det - blandt PET, politiet, regeringen, alle må
+være noget, man lægger mærke til, at der står
+sådan nogle ting i et principprogram. Og det er
+
+da forhåbentlig så også noget, Enhedslisten er
+enig i, at det er problematisk i et demokratisk
+samfund, at man vil omstyrte via en væbnet
+revolution. Det er forhåbentlig noget af det,
+Enhedslisten er kommet væk fra.
+Men det, jeg bare griber fat i, er, at de personer, der står bag Enhedslisten, har rødder i de
+her partier. Og at hr. Søren Søndergaard bruger
+som argument mod den debat i dag, at man
+ikke ser på andre områder end forsvaret, men
+at man fra vores side også gerne vil se netop på
+andre områder end forsvaret ...";Peter Skaarup
+84897;title_name;":
+Hr. Peter Skaarup, nu er det anden gang, at
+man bruger over halvdelen af tiden ekstra.";Margrete Auken
+85004;name_party;":
+O.k. Derfor virker det altså meget mystisk, at
+Enhedslisten ikke vil rette sig ind efter den
+debat.";Peter Skaarup
+85141;title_name;":
+Når den røde knap lyser alene, er taletiden afsluttet. Så har man ikke derefter et halvt minut.
+(Kort bemærkning).";Margrete Auken
+85280;name_party;":
+Jamen det er jo altså helt utroligt. Det er utroligt, fordi denne her debat handler om folk, der
+har forrådt fædrelandet til Stasi, og lige pludselig står hr. Peter Skaarup og gør det til en debat
+om nogle, som PET i øvrigt skulle overvåge.
+Det kan godt være, at de skulle overvåge dem,
+men hvad så? Det har da ikke noget med denne
+her debat at gøre.
+Og så det, der er det afgørende: Er det virkelig lykkedes hr. Peter Skaarup ud af hele denne
+her debat ikke at forstå, at Enhedslisten går ind
+for en undersøgelse? Vi går ind for en afklaring,
+vi går ind for, at sandheden skal frem, vi går
+ind for, at de skyldige skal straffes. Er det virkelig lykkedes hr. Peter Skaarup at undgå den
+kendsgerning? Det er godt klaret.
+Christian Jensen (FP):
+I begyndelsen af debatten og alt som forskellige
+forslag til vedtagelse indløb, var man efterhånden ved at fjerne sig lidt fra, hvad den her forespørgsel egentlig drejede sig om. Men nu er vi
+da kommet tilbage på sporet igen, og det er så
+Stasi, vi diskuterer her. Og da hr. Tom Behnke
+ikke kan være til stede her i dag, skal jeg fremføre partiets meninger på det område.
+
+Fredag den 21. maj 1999 (F 53)
+Siden Murens fald er der jævnligt kommet
+flere oplysninger frem, oplysninger om personer, der har været eller var registreret i Stasiarkiveme, herunder også danskere, der var registreret i Stasiarkiveme. Mange af disse danskere er registreret som værende venlige og tro
+over for det kommunistiske styre i Østtyskland.
+Mange af disse personer har direkte eller indirekte arbejdet for Stasi. Arbejdet har bestået i at
+indsamle informationer om forhold i Danmark
+og give dem videre. Arbejdet har desuden bestået i at arbejde für Stasi og Stasis interesser
+som håndlangere. Ofte har arbejdet for Stasi
+været belønnet på forskellig vis.
+Ministerens oplysninger om, at adgangen til
+arkiveme har været besværlig, kan jo kun give
+anledning til at sætte spørgsmålstegn ved den
+reelle vilje til at undersøge sagen helt til bunds.
+For vi ved jo, at arkiverne i hvert fald er så åbne, at der efter Murens fald på baggrund af undersøgelser i arkiverne er skrevet flere bøger
+om, hvad forskellige danskere har ydet af tjenester for Stasi, herunder hvad flere kendte danskere har haft af direkte og nærmest intime
+kontakter med Stasi. Flere af disse kendte danskere var aktive politikere i Danmark dengang,
+og nogle af dem er fortsat aktive politikere.
+Selv om alt dette i dag er kendt, har regeringen ikke foretaget sig noget som helst for at sikre, at de eventuelt ansvarlige for dette forræderi
+er blevet stillet til ansvar for deres handlinger.
+Når der sættes spørgsmålstegn ved, hvad
+PET har foretaget sig i denne anledning, svares
+der altid afværgende. Det kan ikke være rigtigt,
+at danskere kan slippe godt fra gennem mange
+år at have arbejdet som agenter for en fremmed
+stats efterretningstjeneste, uden at dette får
+konsekvenser. Det kan ikke være rigtigt, at
+danskere kan foretage landsforræderi, uden at
+dette får konsekvenser. Det er slapt og udueligt
+af regeringen.
+Måske hænger det sammen med, at mange af
+de navne, som jævnligt dukker op i Stasiarkiveme, netop er navne på kendte danske
+politikere. Måske hænger det sammen sådan,
+men vi ved det ikke. Vi kan kun gætte, for der
+er aldrig foretaget en afdækning af sagen. Det
+er aldrig kommet officielt frem, hvad der skete,
+og der er som følge deraf heller aldrig stillet
+nogen til ansvar for deres handlinger.
+Én ting kan man i hvert tilfælde konstatere,
+når man f.eks. læser bogen, der hedder »Stasi
+og Danmark«, og det er, at ganske mange kendte socialdemokratiske og radikale politikere
+
+6979
+
+dyrkede endog særdeles tætte kontakter med
+Stasi i form af det såkaldte Bondeparti.
+Slående er det også, at tidsmæssigt falder det
+meget godt sammen med de perioder, hvor
+Socialdemokratiet og De Radikale her i landet
+havde travlt med de såkaldte fodnoter til
+NATO's politik. Vi ved ikke, om der er en sammenhæng, men det ville være en undersøgelse
+værd at få det afdækket, men en sådan undersøgelse er aldrig blevet foretaget.
+Der er meget, som ikke er afdækket, og det
+bliver det heller ikke, hvis det står til regeringen, men heldigvis er Muren faldet, og flere
+private, herunder journalister, er gået i gang
+med at afdække, hvad der skete. Sandheden
+skal nok komme frem, men det er utilfredsstillende, at regeringen ikke selv for længst har
+iværksat en undersøgelse og sørget for, at de
+ansvarlige stilles til ansvar for deres handlinger.
+Jeg er enig med Dansk Folkeparti i, at justitsministerens undskyldninger er tynde. Vi opfordrer til, at der gøres et ærligt stykke arbejde for,
+at alt afdækkes og undersøges til bunds.
+(Kort bemærkning).";Søren Søndergaard
+89941;name_party;":
+Jeg hørte godt, at hr. Christian Jensen er vikar,
+men jeg hørte også, hvad hr. Christian Jensen
+sagde, og han må jo så også stå inde for det,
+han sagde.
+En henvisning til en hel masse ting med intim
+omgang og at pleje omgang med Stasi, en henvisning til nogle mennesker, der stadig væk er
+aktive politikere, som jo så åbenbart har gjort
+noget galt, og omtale af socialdemokrater og
+radikale, der plejer omgang med Bondepartiet
+osv., osv., hvad har det med den her sag at
+gøre? Hvad har det overhovedet med den her
+sag at gøre?
+Jeg mente, vi diskuterede noget, som var
+strafbare forhold, nogle, der var skyldige i det.
+Jeg synes altså, det er ret alvorligt, men her på
+talerstolen har man lov til at sige alt. Men det er
+ret alvorlige beskyldninger, man i virkeligheden retter mod nogle mennesker uden dog
+overhovedet at sige, hvem det er. Jeg kunne
+godt tænke mig at vide: Hvilke politikere er det,
+der sigtes til?";Aage Frandsen
+90893;title_name;":
+Fru Elisabeth Amold. Og så tror jeg, vi skal videre fra den her meget, meget tvivlsomme debat, som jeg ikke engang er sikker på man som
+formand bør acceptere.
+
+6980
+
+Fredag den 21. maj 1999 (F 53)
+
+(Kort bemærkning).
+Elisabeth Amold (RV):
+Jeg har også meget svært ved at holde adrenalinen i ro, men jeg går ud fra, at hr. Christian
+Jensen, når han læser sin ordførertale på tryk,
+vil være klar over, at det, han siger, er så tæt på
+injurielovgivningen, som noget overhovedet
+kan være, men fordi det er fredag eftermiddag
+og vi har diskuteret længe, vil jeg prøve at lade
+pinsehumøret overstråle min aggressivitet.
+Jeg vil blot gøre opmærksom på, at der har
+været regeringer, som Det Radikale Venstre
+ikke har været medlem af, som har haft al mulig lejlighed til at undersøge eventuelle sammenhænge mellem fodnotepolitikken i 1980'erne og Det Radikale Venstres åbenbart helt utilbørlige omgang med Agrarpartiet i Østtyskland. Jeg nægter at tro på, at det kan være hr.
+Christian Jensens alvorlige mening, at der kan
+være en sammenhæng mellem de ting, og at der
+kan være noget som helst landsforræderisk eller
+landsskadeligt i den sammenhæng.
+Det pågældende Agrarparti er jeg for øvrigt
+helt sikker på også havde meget tætte forbindelser til det parti, som hr. Christian Jensen
+repræsenterer, og i øvrigt også til Landbrugsraadet og danske landboforeninger i det hele
+taget.";Margrete Auken
+92303;title_name;":
+Den danske injurielovgivning gælder ikke i
+Folketinget. Vi er beskyttet, men det betyder så
+til gengæld også, at der må være en vis disciplin i, hvad man gør, når man beskylder andre
+mennesker, der ikke har en chance for at
+forsvare sig over for så grove beskyldninger.
+Jeg vil godt lige henstille til, at man respekterer, at de mennesker ikke er til stede og ikke
+har mulighed for at tage til genmæle mod
+beskyldninger for landsforræderi.
+(Kort bemærkning).
+Christian Jensen (FP):
+Jeg håber, det er ført til protokols, at jeg sagde
+»eventuelt ansvarlige«. Jeg håber, det er ført til
+protokols.";Margrete Auken
+92920;name_party;":
+Jeg er her, fordi vores ordfører på området, hr.
+Jann Sjursen, ikke kan være her. Jeg har ikke
+nogen indsigt i og noget forhold til de sager
+her, men umiddelbart må jeg sige, at jeg er helt
+tilfreds med ministerens besvarelse af forespørgslen, og at vi også kan stemme for forsla-
+
+get til vedtagelse, selv om vi ikke synes, at det
+er den mest intelligent formulerede, vi har hørt,
+og selv om det ikke siger så skrækkelig meget i
+virkeligheden.
+Jeg må sige, at jeg har enormt meget sympati
+for, jeg tror, at det er det tredjesidste indlæg,
+som hr. Søren Søndergaard havde, og også for
+det forslag til vedtagelse, der ligger fra hr.
+Søren Søndergaards side, men det kommer nok
+ikke til afstemning, så jeg tror nok, at vi på en
+eller anden måde er forpligtet til at stemme for
+det, der ligger fra flere partier. Men jeg synes, at
+det var mange gode pointer, hr. Søren Søndergaard havde fat i sit indlæg her.";Ole M. Nielsen
+93860;title_name;":
+Ja, jeg skal ikke forlænge debatten, men blot
+sige om det forslag til vedtagelse, som hr.
+Skaarup har fremsat på en række partiers vegne, at når regeringen kan støtte det fremsatte
+forslag til vedtagelse, skyldes det, at vi fra
+regeringens side ser det som en opbakning til
+den linje, som regeringen lægger i denne her
+sag.
+Regeringen bestræber sig af fuld kraft på at
+kunne få oplysninger, der kan afdække, om der
+eventuelt kunne være danske statsborgere, der
+har pådraget sig strafbare handlinger i forbindelse med samspillet med Stasi og den daværende østtyske efterretningstjeneste.
+Det gør vi på en måde, der gør, at hvis de
+oplysninger, der tilvejebringes, umiddelbart
+kan give anledning til politimæssige efterforskningsskridt, så vil oplysningerne blive overgivet til politiet og anklagemyndigheden.
+Hvis der ikke er tale om oplysninger, der giver anledning til det, men oplysninger, der kan
+være med til at afdække de forhold, der gjorde
+sig gældende under den kolde krig, også på det
+politiske område i Danmark, ja, så er det oplysninger, der kan indgå i den PET-undersøgelse,
+som regeringen om ganske få dage vil kunne få
+vedtaget her i Folketinget.
+Jeg appellerer stadig væk til de partier, som
+er sammen med os om den vedtagelse i dag, om
+at overveje, om de ikke skulle sikre sig, at de
+oplysninger, som ikke er egentlige strafbare
+handlinger, også kan være med til at kaste lys
+over hele det politiske område under den kolde
+krig i Danmark i 1960'erne, 1970'eme og
+1980'erne, oplysninger, som kan komme med i
+den undersøgelse, som kan give anledning til,
+at vi får en betænkning fra en undersøgelses-
+
+Fredag den 21. maj 1999 (F 53)
+kommission, der kan være med til at kaste lys
+over og afmystificere de forhold.
+Det er det, der er regeringens målsætning,
+nemlig at afmystificere, om vi alle sammen bærer på vores opfattelser alene på baggrund af
+myter og ammestuehistorier om henholdsvis
+efterretningstjenesten og dens eventuelle manglende evne til at kunne overholde gældende
+lovgivning og på den anden side det politiske
+miljø i Danmark. Var der her alene tale om, at
+man havde en retorik, at man havde en debatform, men at man i virkelighedens verden holdt
+sig til det, og at man overhovedet ikke praktiserede nogle af de eventuelle revolter og mere
+revolutionære tendenser, som jo i givet fald
+ville være strafbare handlinger?
+Burde Venstre og De Konservative, burde
+Dansk Folkeparti og hr. Skaarup, som har været
+så flittig i dag på talerstolen, og også hr.
+Christian Jensen fra Fremskridtspartiet ikke
+bruge pinsen til at overveje, om man skulle
+stemme ja til den undersøgelseskommission,
+som en gang for alle kan være med til at kaste
+lys over den kolde krigs historie, ikke alene i
+forhold til PET, men også den historiske undersøgelse om det samlede politiske område i
+Danmark, som går tilbage til 1945 og op til
+1989? Det vil jeg stærkt appellere til. Når vi kan
+stå sammen om vedtagelsen i dag, burde vi
+også kunne stå sammen om en vedtagelse af
+undersøgelseskommissionen.
+For så vidt angår Dansk Folkeparti og Fremskridtspartiet, ja, så har man jo ikke indtil nu
+offentligt tilkendegivet helt præcist, hvordan
+man vil stemme til den lovgivning. Det kunne
+jo være anledning til at genoverveje, hvordan
+man skal stemme henholdsvis tirsdag og
+torsdag i den kommende uge.
+(Kort bemærkning).";Frank Jensen
+97196;name_party;":
+Ja, jeg ved ikke, om det er dagen, hvor vi skal
+begynde at diskutere sagen om Politiets Efterretningstjeneste. Altså vi har ikke villet blande
+debatten i dag med debatten om PET. Den kan
+vi tage ved andenbehandlingen i næste uge. Vi
+mener ikke, at den forespørgsel, der er rejst i
+dag, og så debatten om Politiets Efterretningstjeneste overhovedet kan sammenlignes. Når vi
+tænker på de personer, der har samarbejdet
+med Stasi, og så i dag begynder at diskutere
+undersøgelsen af PET, er det fuldstændig vildt
+set med vores øjne.
+
+6981";Bendt Bendtsen
+97765;title_name;":
+Jeg kunne forstå, at det er helt vildt. Men så må
+det skyldes, at hr. Bendt Bendtsen ikke endnu
+har haft lejlighed til at læse de ændringsforslag
+til PET-undersøgelsen, som fra regeringen er
+oversendt til Folketingets Retsudvalg.
+Heraf fremgår det netop, at der jo ved siden
+af, at der skal laves en retlig vurdering om
+PET's evne til at overholde regler og retningslinjer, også skal laves en samlet, bred historisk
+undersøgelse fra 1945 til 1989 om ikke alene
+PET's virksomhed, men også om de politiske
+partier, der var udsat for PET's interesse. Herunder kan de oplysninger, som måtte tilvejebringes bl.a. fra Stasi, indgå.
+Det er netop derved, at vi får en undersøgelse fra undersøgelseskommissionen, der er beskrevet af historikere, som kan være med til at
+kaste lys over det felt, som vi efterhånden har
+brugt nogle timer her i eftermiddag på at diskutere, hvor det jo alene har været båret af,
+hvad vi sådan har af oplysninger, der er tilvejebragt af journalister, forfattere til bøger osv.,
+men hvor vi ikke har fået noget gedigent gennemarbejdet materiale, hvor der har været arkivadgang.
+Det vil man få, når den undersøgelse er tilvejebragt, og derfor opfordrer jeg stadig væk
+Det Konservative Folkeparti til netop på det felt
+her at være med af den årsag, at her kan man få
+beskrevet den virkelighed på en seriøs, grundig
+og retssikkerhedsmæssigt betryggende vis.
+Derfor er det ikke helt vildt - den konservative ordfører kom til at bruge det udtryk - at
+man genovervejer sin stilling. Det er netop en
+seriøs overvejelse værd, om ikke Det Konservative Folkeparti også af hensyn til PET - det er
+nu en helt anden sag: jeg er enig med hr. Bendt
+Bendtsen i, at det jo ikke indgår i drøftelsen i
+dag - og netop også af hensyn til det forhold,
+der knytter sig til Stasi, skulle være med til, at
+vi kan få det belyst ordentligt.
+Selv om det er ting, der ikke kan give anledning til strafbare forhold, er det jo vigtigt at
+få kastet lys over det. Det er det, hr. Bendt
+Bendtsen kan bidrage til, hvis hr. Bendt Bendtsen har den opfattelse, hvis Det Konservative
+Folkeparti har den opfattelse, at man mener det
+her seriøst og ikke kun til almindelig politisk
+lirumlarum.
+
+6982
+
+Fredag den 21. maj 1999 (F 53)
+
+(Kort bemærkning).";Frank Jensen
+100017;name_party;":
+Hvis der er nogle politifolk i PET, der har overtrådt gældende retningslinjer, jamen så må man
+jo iværksætte en strafferetlig undersøgelse af
+dem og stille dem til ansvar for deres handlinger. Det mener vi også folk har gjort, hvis de
+har samarbejdet med Stasi. Vi mener bare ikke
+at kunne sammenligne de to ting. Det vil jeg
+gerne understrege her fra talerstolen i dag.
+Så kan jeg sige til justitsministeren, at vi har
+afleveret vores betænkningsbidrag, og selv om
+man tror på, at pinsen kan bruges til tænke over
+tingene, så er vi fuldstændig klare og faste i kødet i forhold til den undersøgelse, der ligger.
+Det har været en enkel, en ensidig fokusering
+på Politiets Efterretningstjeneste. Nu har man så
+for at bøde lidt på det prøvet at udvide den til
+anden side. Vi ønsker ikke at blive flettet ind i
+regeringens undersøgelse på det område.
+(Kort bemærkning).";Bendt Bendtsen
+100903;name_party;":
+Ja, det er jo mildt sagt overraskende, at justitsministeren pludselig vil til at kombinere det
+PET-forslag, som man er kommet med fra regeringens side, og den debat her i dag, men det
+er klart, at vi da gerne tager handsken op.
+Jeg vil da svare på, om det er sådan, at Dansk
+Folkeparti vil genoverveje sin stilling, og det afhænger jo fuldstændig af, om det her udelukkende er en historisk undersøgelse eller det er
+en undersøgelse, hvor der efterfølgende skal føres sager, hvor man efterfølgende skal prøve at
+retsforfølge de personer, som jo trods alt i den
+store sammenhæng - og her er jeg enig med hr.
+Bendt Bendtsen - overhovedet ikke kan sammenlignes med det, vi diskuterer i dag. Der var
+jo altså her tale om direkte spionage, landsforræderi mod Danmark og den danske stat.
+Derfor kan jeg sige, at med det udgangspunkt, regeringen har valgt, og også med de
+ændringsforslag, der i øvrigt er stillet, så kan
+Dansk Folkeparti under ingen omstændigheder
+støtte det, for linjen er jo, at det er Politiets
+Efterretningstjeneste, der skal jages. Det er SF
+og Enhedslisten, der har fået regeringen til det,
+og derfor kan vi ikke støtte det.";Peter Skaarup
+102077;title_name;":
+Det bliver mere og mere hul tale. Hr. Skaarup
+har indtil videre benyttet lejligheden til i dag at
+kritisere den siddende regering og de skiftende
+justitsministre for ikke at have gjort nok i for-
+
+hold til Stasi og for ikke at undersøge de her
+forhold.
+Regeringen fremlægger så en undersøgelseslov, hvor det nu også indgår, at man kan undersøge forhold om danske statsborgere, der
+har samarbejdet med Stasi.
+De oplysninger indgår i undersøgelsen, som
+jeg gjorde opmærksom på, ikke her i slutningen
+af debatten, men allerede i min besvarelse af
+forespørgslen. Så hr. Skaarup skal ikke benytte
+sit indlæg her til at sige, at det er et forsøg på at
+inddrage noget nyt i debatten. Det indgik i mit
+første indlæg. Jeg ved ikke, om hr. Skaarup
+hørte det, men det gjorde det faktisk.
+De oplysninger, som regeringen tilvejebringer
+og måtte tilvejebringe, også af nye oplysninger
+om Stasi, indgår nu i PET-undersøgelseskommissionen. Medmindre det er oplysninger,
+der umiddelbart giver anledning til at kunne
+rejse sigtelser og gå i gang med politimæssig
+efterforskning, så vil de tilgå politiet.
+Så det er ikke noget nyt, men jeg synes da,
+det er en overvejelse værd for hr. Skaarup, da
+det åbenbart kommer som en hel overraskelse
+for hr. Skaarup, at det ligger i det lovforslag,
+der skal til behandling i næste uge.
+Hvis hr. Skaarup har taget denne her forespørgelsesdebat med det ønske at få det belyst
+og få det klarlagt og ikke kun vil basere det på
+myter, som hr. Skaarup kan bruge til hele tiden
+at svine nogle enkelte partier, nogle enkelte
+mennesker til i vores samfund, hvis hr. Skaarup
+mener, at det skal afdækkes grundigt, seriøst og
+retssikkerhedsmæssigt ordentligt, så vil jeg tage
+det, der har været fremme i dag fra hr. Skaarup,
+som hul tale, hvis hr. Skaarup ikke trykker på
+den grønne knap i den kommende uge.
+(Kort bemærkning).";Frank Jensen
+103934;name_party;":
+Jamen jeg opfatter det, som ministeren har sagt
+her til slut i debatten, som en offensiv tilkendegivelse af, at regeringen gerne vil have en større
+opbakning bag sit lovforslag om PET, end den
+har haft hidtil. Det er det, der i forhold til den
+første redegørelse fra ministerens side, bringer
+mig herop på talerstolen og sige, at der er tale
+om en offensiv handling.
+Derfor er det klart, at vi betragter det her som
+en lidt ny debat i debatten, som vi lige må tage,
+og derfor kan jeg da også på den baggrund sige, at regeringen jo ikke på noget tidspunkt har
+rettet henvendelse til Dansk Folkeparti, om vi
+ville støtte det her, og at vi kunne få noget ind-
+
+Fredag den 21. maj 1999 (F 53)
+flydelse på lovforslaget. Derfor er, det klart, at
+de tanker, som vi har haft om PET-sagen, jo
+ikke har vundet indpas i regeringens forslag
+overhovedet, og derfor er det også lige så klart,
+at så kan vi selvfølgelig ikke støtte sådan en
+undersøgelse.
+Det eneste, som vi har sagt der kunne være
+brug for, er en historisk undersøgelse af det hele, inklusive det med Stasi. Men den måde, som
+regeringen har strikket det sammen på, er jo i
+høj grad noget, der er aftalt med venstrefløjen,
+og derfor er det uspiseligt for os.
+(Kort bemærkning).";Peter Skaarup
+105188;name_party;":
+Jeg kan bekræfte, at der i det forslag med ændringsforslag, som regeringen har fremsat om
+en undersøgelseskommission, jo klart ligger, at
+man skal undersøge danske statsborgeres
+arbejde for Stasi.
+Det ligger fuldstændig krystalklart, og det er
+i øvrigt sket med venstrefløjens støtte, ikke bare
+støtte, men helhjertede støtte, netop fordi vi er
+hundrede procent sikre på, at når den undersøgelse foreligger, så vil man blive forbavset over,
+at i det omfang, man finder nogen, så vil de
+ikke høre til på venstrefløjen eller kun i meget
+begrænset omfang høre til på venstrefløjen, så
+vil de findes i helt andre samfundsgrupper med
+helt andre politiske standpunkter. Derfor er det
+med vores helhjertede opbakning, at spørgsmålet om Stasiundersøgelsen er kommet med.
+Desværre kan jeg ikke bekræfte over for hr.
+Skaarup, at venstrefløjen har haft afgørende
+indflydelse på dette lovforslag om en undersøgelseskommission, for der er jo en række områder, der ikke bliver undersøgt: f.eks. slutter undersøgelsen, den samlede undersøgelse, i 1989.
+Det beklager vi meget. Det betyder, at det kun
+er den borgerlige regering, der bliver undersøgt, og ikke den nuværende regering.
+Vi beklager ligeledes, at Forsvarets Efterretningstjeneste ikke er involveret selvstændigt, og
+at AIC ikke er involveret selvstændigt osv., men
+jeg ville da være glad, hvis hr. Skaarup ville bidrage til og hjælpe venstrefløjen med at få det
+igennem ved andenbehandlingen på tirsdag.";Søren Søndergaard
+106658;name_party;":
+Tidligere i debatten var en række ordførere
+oppe på talerstolen og tilkendegive deres holdning til den forespørgsel, vi har rejst i dag, og
+jeg vil lige kort sige bl.a. til hr. Søren Søndergaard, at det, der er sagt fra hans side, har af-
+
+6983
+
+født nogle forskellige bemærkninger fra vor
+side i Dansk Folkeparti. Det hænger sammen
+med, at hr. Søren Søndergaard bl.a. sagde, at
+det var i nogle helt andre samfundsgrupper,
+man skulle finde de her personer, der havde
+undergravet den danske stat osv., osv. i forbindelse med Stasiarkiverne.
+Og dér er det så, jeg siger: Jamen når hr.
+Søren Søndergaard selv bringer det på bane, så
+er det, jeg også har tilladt mig at bringe på
+bane, at der har været en grund til, at man bl.a.
+har kigget på organisationer som DKP-ML og
+Kommunistisk Arbejderparti, netop af den
+grund, at der har været nævnt de her samfundsomstyrtende aktiviteter i principprogrammerne
+for de partier.
+På den baggrund er det jo hr. Søren Søndergaard, der har startet med at inddrage det i debatten, og derfor får hr. Søren Søndergaard
+selvfølgelig også svar på de ting heroppe fra
+talerstolen. Det siger sig selv.
+Så vil jeg lige afslutningsvis sige, at vi betragter det som meget positivt, at denne debat kan
+ende med at konstatere, at der nu skal laves en
+undersøgelse af de her ting, at man går til
+Stasiarkiveme for at finde ud af, hvad der er
+foregået, og at man også forpligter sig til at rejse
+tiltaler, hvis der er tale om strafbare forhold. Og
+uanset at der har været nogle, der her fra talerstolen ligesom har sagt, at den ordlyd lægger de
+ikke i det, så står der rent faktisk, at det er det,
+der skal ske.
+Derfor er det vores klare opfattelse, at regeringen efterlever det her nu og går til Stasiarkiverne, og at vi så forhåbentlig får nogle tiltaler,
+hvis der er tale om strafbare forhold, og at vi får
+fulgt op på det her for alvor fra Folketingets
+side.
+Hermed sluttede forhandlingen.";Peter Skaarup
+108609;title_name;":
+Som tidligere meddelt vil afstemningen om de
+fremsatte forslag til vedtagelse blive foretaget i
+mødet tirsdag den 25. maj.
+
+Meddelelser fra formanden";Margrete Auken
+108796;title_name;":
+Der er ikke mere på dagsordenen.
+
+6984
+
+Fredag den 21. maj 1999
+
+Folketingets næste møde afholdes tirsdag den
+25. maj 1999 kl. 12.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Med hensyn til de øvrige møder i den kommende uge skal jeg henvise til den omdelte
+ugeplan.
+
+Mødet hævet kl. 14.13";Margrete Auken

@@ -1,0 +1,225 @@
+split;reason;text;value
+0;;"10419
+
+14/5 92: Dagsorden
+
+91. møde";
+70;Time;"Dagsorden:
+1) Eventuelt: Tredje behandling af lovforslag nr.
+L 274:
+Forslag til lov om ændring af visse love inden for Justitsministeriets område. (Betalingsbestemmelser).
+Af justitsministeren (Engell).
+2) Eventuelt: Tredje behandling af lovforslag nr.
+L 244:
+Forslag til lov om ændring af realkreditlov
+og lov om realkreditlignende lån og andelsboliglån m.v. (Adgang til omprioritering og tillægslån samt ændrede lånegrænser for om- og
+tilbygning m.v.).
+Af boligministeren (Svend Erik Hovmand).
+3) Eventuelt: Tredje behandling af lovforslag nr.
+L 276:
+Forslag til lov om ændring af lov om social
+bistand. (Ændring af regler om boligtillæg).
+Af socialministeren (Else Winther Andersen).
+4) Eventuelt: Tredje behandling af lovforslag nr.
+L 168:
+Forslag til lov om forsikring mod følger af
+arbejdsskade.
+Af socialministeren (Else Winther Andersen).
+5) Eventuelt: Tredje behandling af lovforslag nr.
+L 236:
+Forslag til lov om ændring af lov om ligestilling mellem mænd og kvinder og lov om lige
+løn til mænd og kvinder.
+Af Lone Møller (S), Lilli Gyldenkilde (SF)
+og Lone Dybkjær (RV) m.fl.
+
+10420
+
+6) Eventuelt: Tredje behandling af lovforslag nr.
+L 152:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension. (Omlægning
+af ægtefællepensionsordningen m.v.).
+Af arbejdsministeren (Kirkegaard).
+7) Eventuelt: Tredje behandling af lovforslag nr.
+L 157:
+Forslag til lov om ændring af lov om beskatningen af pensionsordninger m.v. (Omlægning
+af ATP's ægtefællepensionsordning m.v.).
+Af skatteministeren (Fogh Rasmussen).
+
+Samtykke til behandling:";kl. 16.55
+1658;title_name;":
+De sager, der er opført på dagsordenen, kan
+kun med Tingets samtykke behandles i dette
+møde, men hvis ingen gør indsigelse, betragter
+jeg samtykket som givet. (Ophold). Det er
+givet.
+Man gik da til:
+1) Tredje behandling af lovforslag nr. L 274:
+Forslag til lov om ændring af visse love inden
+for Justitsministeriets område. (Betalingsbestemmelser).
+Af justitsministeren (Engell).
+(Fremsat 24/4 92. Første behandling 30/4
+92. Betænkning 12/5 92. Anden behandling
+14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 48 stemmer (KF, V, CD og
+KRF) mod 5 (FP): 57 (S, SF og (ved en fejlafstemning) RV) stemte hverken for eller imod.";Torben Lund
+2410;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+
+10421
+
+14/5 92: 3. beh. af f. t. 1. vedr. ændring af realkreditloven
+
+Den næste sag på dagsordenen var:
+2) Tredje behandling af lovforslag nr. L 244:
+Forslag til lov om ændring af realkreditlov og
+lov om realkreditlignende lån og andelsboliglån
+m.v. (Adgang til omprioritering og tillægslån
+samt ændrede lånegrænserfor om- og tilbygning
+m.v.).
+Af boligministeren (Svend Erik Hovmand).
+(Fremsat 12/3 92. Første behandling 19/3
+92. Betænkning 12/5 92. Anden behandling
+14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 103 stemmer (S, KF, V, FP, CD,
+RV og KRF) mod 9 (SF).";Torben Lund
+3162;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+3) Tredje behandling af lovforslag nr. L 276:
+Forslag til lov om ændring af lov om social
+bistand. (Ændring af regler om boligtillæg).
+Af socialministeren (Else Winther Andersen).
+(Fremsat 28/4 92. Første behandling 30/4
+92. Betænkning 12/5 92. Ændringsforslag nr. 1
+af 12/5 92 uden for betænkningen af Kirsten
+Jacobsen (FP). Anden behandling 14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 98 stemmer (S, KF, V, CD, RV
+og KRF) mod 15 (SF og FP). , '
+
+10422";Torben Lund
+3836;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+4) Tredje behandling af lovforslag nr. L 168:
+Forslag til lov om forsikring mod følger af arbejdsskade.
+Af socialministeren (Else Winther Andersen).
+(Fremsat 18/12 91. Første behandling 15/1
+92. Betænkning 12/5 92. Anden behandling
+14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 107 stemmer (S, KF, V, SF, CD,
+RV og KRF) mod 6 (FP).";Torben Lund
+4385;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+5) Tredje behandling af lovforslag nr. L 236:
+Forslag til lov om ændring af lov om ligestilling mellem mænd og kvinder og lov om lige løn
+til mænd og kvinder.
+Af Lone Møller (S), Lilli Gyldenkilde (SF)
+og Lone Dybkjær (RV) m.fl.
+(Fremsat 21/2 92. Første behandling 26/3
+92. Betænkning 13/5 92. Anden behandling
+14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+
+10423
+
+14/5 92: 3. beh. af f. t. 1. vedr. ligestilling mellem mænd og kvinder m.v.
+Afstemning
+
+Lovforslaget
+vedtoges med 102 stemmer (S, KF, V, SF, CD,
+RV og KRF) mod 11 (FP, Kai Dige Bach (KF),
+Charlotte Antonsen (V), Inge Dahl-Sørensen
+(V), Bente Grønfeldt (V) og Birthe Rønn Hornbech (V).";Torben Lund
+5216;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+6) Tredje behandling af lovforslag nr. L 152:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension. (Omlægning af ægtefællepensionsordningen m.v.).
+Af arbejdsministeren (Kirkegaard).
+(Fremsat 10/12 91. Første behandling 16/1
+92. Betænkning 13/5 92. Anden behandling
+14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 111 stemmer (S, KF, V, SF, FP,
+CD, RV og KRF): 1 (Kai Dige Bach (KF))
+stemte hverken for eller imod.";Torben Lund
+5862;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+7) Tredje behandling af lovforslag nr. L 157:
+Forslag til lov om ændring a f lov om beskatningen af pensionsordninger m.v. (Omlægning
+a f ATP's ægtefællepensionsordning m.v.).
+Af skatteministeren (Fogh Rasmussen).
+
+10424
+
+(Fremsat 10/12 91. Første behandling 16/1
+92. Betænkning 29/4 92. Anden behandling
+14/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges enstemmigt med 111 stemmer.";Torben Lund
+6454;title_name;":
+Lovforslaget vil nu blive sendt til statsministeren.
+Meddelelser fra formanden:";Torben Lund
+6568;title_name;":
+Der er ikke mere på dagsordenen.
+Fra medlem af Folketinget Ellemann-Jensen
+(V), der har orlov, har jeg modtaget meddelelse
+om, at han fra og med den 18. maj 1992 atter
+kan give mødet i Tinget. Stedfortræderens,
+Bente Grønfeldts, hverv som midlertidigt medlem af Folketinget ophører herefter fra nævnte
+dato at regne.
+Fra medlem af Folketinget Erhard Jakobsen
+(CD), der har orlov, har jeg modtaget meddelelse om, at han fra og med den 19. maj 1992
+atter kan give mødet i Tinget. Stedfortræderens, Addi Andersens, hverv som midlertidigt
+medlem af Folketinget ophører herefter fra
+nævnte dato at regne.
+Der er ikke mere at foretage i dette møde.
+Som bekendt holdes der en pause i Folketingets arbejde af hensyn til den kommende folkeafstemning.
+Folketingets næste møde afholdes mandag
+den 15. juni 1992 kl. 13.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+
+10425
+
+14/5 92: Meddelelser fra formanden";Torben Lund
+7528;title_name;"Med hensyn til de øvrige møder i den pågældende uge skal jeg henvise til den omdelte
+foreløbige ugeplan. Endelig ugeplan vil blive
+omdelt i uge 24.
+
+10426
+
+Jeg vil ønske Tingets medlemmer et par aktive uger.
+Mødet hævet kl. 17.04";Første næstformand

@@ -1,0 +1,2941 @@
+split;reason;text;value
+0;;"1325
+
+3/11 93: Dagsorden
+
+12. møde";
+72;Time;"Dagsorden:
+1) Eventuelt: Første behandling af beslutningsforslag nr. B 19:
+Forslag til folketingsbeslutning om nedsættelse af en undersøgelsesret i medfør af retsplejelovens § 21 a til at undersøge visse forhold i
+forbindelse med Sparekassen Nordjyllands
+overtagelse af engagementer fra Himmerlandsbanken.
+Af justitsministeren (Erling Olsen).
+2) Forespørgsel nr. F 5:
+Forespørgsel til miljøministeren [om, hvad
+regeringen vil gøre for at sikre, at private
+brøndejere kan få lov til at drikke deres eget
+brøndvand].
+Af Jørgen Winther (V), Jens Jørgensen (KF)
+og Aage Brusgaard (FP).
+3) Første behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af lov om kemiske stoffer og produkter.
+Af miljøministeren (Svend Auken).
+
+Samtykke til behandling:";kl. 14.30
+852;title_name;":
+Den første sag på dagsordenen kan kun med
+Tingets samtykke behandles i dette møde, men
+hvis ingen gør indsigelse, betragter jeg samtykket som givet. (Ophold). Det er givet.
+Man gik da til:
+1) Første behandling af beslutningsforslag nr. B
+19:
+
+1326
+
+Forslag til folketingsbeslutning om nedsættelse af en undersøgelsesret i medfør af retsplejelovens § 21 a til at undersøge visseforhold iforbindelse med Sparekassen Nordjyllands overtagelse af engagementer fra Himmerlandsbankert.
+Af justitsministeren (Erling Olsen).
+(Fremsat 3/11 93).
+Forslaget sattes til forhandling.
+Forhandling";Grove
+1452;name_party;":
+I august dette år konstaterede Finanstilsynet, at situationen i Himmerlandsbanken havde udviklet sig sådan, at banken ikke ville kunne få tilladelse til at åbne mandag morgen den
+23. august.
+Flere offentlige myndigheder samt kammeradvokaten, Nationalbanken, en række pengeinstitutter og revisorer var involveret i skabelsen af en løsning, hvorefter de mere sunde dele
+af banken kunne drives videre af et andet pengeinstitut.
+Sparekassen Nordjylland gik ind og påtog
+sig opgaven, hvorved både mennesker og virksomheder i Hobro og i en større omegn undgik
+at komme i en helt uacceptabel og kaotisk situation.
+På et senere tidspunkt udløste denne redning en voldsom kritik rettet mod såvel Sparekassen Nordjylland som mod de statslige mynå
+digheder og regeringen.
+I fredags fremstod det for første gang i forløbet, at der var en klar retstvist mellem Sparekassen Nordjylland på den ene side og staten
+på den anden side. I fredags!
+Regeringen reagerede omgående herpå. Regeringen opfordrede i weekenden Sparekassen
+Nordjylland til at anlægge en retssag, så tvisten kunne finde en endelig afgørelse. Regeringen tilkendegav samtidig, at man ville være
+indstillet på at indrømme Sparekassen Nordjylland fri proces.
+Sparekassen Nordjyllands bestyrelse valgte
+af grunde, som vi ikke kender, at afvise denne
+løsning. Straks derefter inviterede regeringen
+de politiske partier til i fællesskab at finde en
+anden mulig løsning for at få belyst sagen og i
+hvert fald få en angivelse af, hvad der kunne
+være en afgørelse på retstvisten.
+
+1327
+
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland";Pia Gjellerup
+3086;title_name;"Nu er alle partier blevet enige om et kommissorium for en undersøgelsesret, og det er
+væsentligt, at vi er blevet enige. Det glæder
+Folketinget. Det, vi er blevet enige om, er en
+undersøgelsesret, der skal belyse denne tvist,
+og om, at undersøgelsesretten herefter skal
+fremkomme med en antagelse af resultatet af
+en retslig afgørelse af denne tvist, der blev klar
+i fredags.
+I Socialdemokratiet havde vi klart foretrukket en domstolsprøvelse som foreslået af regeringen i weekenden. Afgørelse af retlige tvister
+finder i Danmark sted ved domstolene, og ved
+domstolene ville vi få en afgørelse og ikke blot
+en antagelse af, hvad afgørelsen kunne blive.
+Der er et andet principielt synspunkt, jeg på
+Socialdemokratiets vegne også vil præsentere,
+nemlig spørgsmålet om embedsmændenes
+retssikkerhed.
+Embedsmændene er værgeløse i en sådan situation, som er opstået, og det er stærkt betænkeligt, at de kan blive genstand for endog særdeles væsentlige anklager og beskyldninger på
+et helt tilfældigt og forkert grundlag: på denne
+måde skaber vi folkedomstole.
+Det gælder også for ministre, men de har
+dog valgt at være offentlige personer, hvilket
+embedsmændene ikke har.
+Vi er i Socialdemokratiet meget optaget af,
+at sagen kan blive belyst, og at vi kan få et bud
+på en mulig afgørelse hurtigst muligt. Det gælder såvel for Sparekassen Nordjyllands vedkommende, for statens vedkommende som for
+politik i almindelighed. Når vi ser tilbage på
+debatten, vil det være overordentlig godt at få
+noget, der i det mindste minder om en afgørelse.
+Med disse bemærkninger vil jeg give tilsagn
+fra Socialdemokratiets side om en både meget
+hurtig og positiv udvalgsbehandling.
+(Kort bemærkning).";Pia Gjellerup
+4787;name_party;":
+Inden vi får det som et faktum her i debatten, at regeringen for første gang blev opmærksom på denne tvist i fredags, er det vel nødvendigt at få slået kendsgerningerne fast.
+Allerede den 28. september stod direktøren
+for Sparekassen Nordjylland frem i Danmarks
+Radios TV-Avis og sagde, at Sparekassen
+Nordjylland havde købt et underskud på 173
+mio. kr. Det viste sig så, at det ikke var helt
+
+1328
+
+sådan, det hang sammen, og det blev så til nogle hensættelser: men meningen med det måtte
+jo være soleklar for enhver.
+Den 19. oktober beskriver sparekassen i et
+brev til mig, hvordan man opfatter situationen,
+og hvordan man mener sammenhængen er.
+Det brev var først sendt til skatteministeren, og
+Skatteministeriets embedsmænd havde bedt
+om rettelser i teksten, så det må jo betyde, at
+man også har læst brevet.
+Jeg synes, det er for lavt af Socialdemokratiet at nægte disse kendsgerninger, og jeg synes i
+hvert fald ikke, at det skal have lov til at stå
+uimodsagt. Regeringen har kendt sagen: det
+fremgår jo også af, hvad der er oplyst for os i
+alle de forhandlinger, der har været, og af hele
+hændelsesforløbet. Det får vi jo i hvert fald besked om, når undersøgelsesretten er færdig,
+men de faktiske kendsgerninger, som vi allerede nu kender, synes jeg ikke at man uimodsagt
+skal have lov til at stå og benægte.
+(Kort bemærkning).";Kirsten Jacobsen
+6141;name_party;":
+Selv om det er lykkedes fru Kirsten Jacobsen at skifte holdning mange gange i løbet af
+denne sag, kan fru Kirsten Jacobsen ikke løbe
+fra, at det stod klart i fredags, hvad tvisten
+handlede om, og derfor er vi også blevet enige
+om et kommissorium for en undersøgelsesret,
+der skal belyse baggrunden for tvisten og komme med et bud på, hvordan en mulig løsning
+kunne blive.
+(Kort bemærkning).";Pia Gjellerup
+6555;name_party;":
+Lige fra den 28. september, da jeg første
+gang udsendte en pressemeddelse i denne sag,
+har min holdning været, at det, der var foretaget, var ulovligt, og den opfattelse har jeg stadig væk: så jeg har ikke skiftet holdning. Jeg er
+bare nødt til at sige til Socialdemokratiets ordfører, at hvis det virkelig forholder sig sådan,
+at man først i fredags blev klar over, at der var
+en tvist, og hvori tvisten bestod, burde Socialdemokratiet og regeringen sørge for at få lavet
+nogle bedre aftaler, næste gang de laver aftaler.
+(Kort bemærkning).";Kirsten Jacobsen
+7116;name_party;":
+
+1329
+
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland";Pia Gjellerup
+7227;title_name;"Så kom der en ny påstand, nemlig at der var
+en aftale. Der er ikke nogen aftale. Det, sagen
+handler om, er et tilsagn fra Told- og Skattestyrelsen om en behandling af et hensættelsesbeløb og en opgørelse af det, men det bliver altså
+her i dag fremstillet som en aftale af fru Kirsten Jacobsen.
+I øvrigt er jeg meget tryg ved, at der kommer
+en belysning af hele forløbet og en vurdering
+af en mulig løsning på den tvist, for så kan vi
+alle se, hvilke konklusioner fru Kirsten Jacobsen har draget i forløbet, og sammenholde dem
+med de oplysninger, vi får. Det vil jeg være
+helt tryg ved, men jeg tror ikke, at fru Kirsten
+Jacobsen skal være det.
+(Kort bemærkning).";Pia Gjellerup
+7911;name_party;":
+Hvis man skal bruge almindelige danske terminologier, er det i hvert fald sådan: Hvis det
+tilsagn, som fru Pia Gjellerup hentyder til, og
+som lå i den telefaxmeddelelse, der kom midt
+om natten, ikke var bekræftelsen på en aftale,
+hvor der blev givet udtryk for, at departementschefen i Industriministeriet gav grønt lys
+for, at aftalen var accepteret - ja, så ved jeg
+ikke, hvad det er.
+Men, fru Pia Gjellerup, vi bliver alle sammen klogere om 3 måneder, og jeg ser med
+fuld fortrøstning frem til det.
+(Kort bemærkning).";Kirsten Jacobsen
+8454;name_party;":
+Jeg er helt klar over, at fru Kirsten Jacobsen
+er ganske umættelig i sin lyst til at drage en
+konklusion: men når fru Kirsten Jacobsen har
+deltaget i lange forhandlinger om et kommissorium for et undersøgelsesarbejde, havde jeg
+ventet, at det var gjort i god mening, og fordi
+også fru Kirsten Jacobsen mener, det er rimeligt, at man først får alle kortene på bordet, før
+man domfælder.
+(Kort bemærkning).";Bilgrav-Nielsen
+8878;name_party;":
+Ja, det skal være min sidste i denne omgang,
+for ellers kunne vi fortsætte den debat, som
+netop skal køre i undersøgelsesretten.
+Men jeg vil da spørge fru Kirsten Jacobsen,
+som har meget stærke meninger om, hvilke
+konsekvenser der skal komme ud af, at det
+
+1330
+
+synspunkt, jeg har lagt for dagen, ikke skulle
+være det rette: Hvilke konsekvenser vil fru
+Kirsten Jacobsen selv drage i forhold til sin
+egen persons rolle, hvis de synspunkter, fru
+Kirsten Jacobsen har anlagt i sagen, i virkeligheden viser sig ikke at holde?
+(Kort bemærkning).";Pia Gjellerup
+9443;name_party;":
+Må jeg først lige minde hr. Bilgrav-Nielsen
+om, hvem det var, der begyndte at rejse denne
+debat: det var Socialdemokratiets ordfører.
+Hvis Socialdemokratiets ordfører havde undladt disse provokerende udtalelser om, hvornår man første gang blev opmærksom på sagen, havde debatten ikke udviklet sig til en
+strid på korte bemærkninger. Regeringspartierne har selv megen skyld i og bærer selv en
+meget stor del af ansvaret for, hvordan den debat kommer til at køre. Vi i oppositionen, som
+har været med til at lave kommissoriet, skal
+holde os meget fint til det, vi skal debattere,
+hvis vi kan undgå den slags unødige og provokerende bemærkninger fra regeringen, selv når
+de oven i købet er i strid med kendsgerningerne.";Kirsten Jacobsen
+10182;name_party;":
+Den konservative folketingsgruppe kan tilslutte sig det beslutningsforslag, vi her behandler. Det har været igennem et meget, meget
+grundigt forarbejde i Statsministeriet i de seneste dage, og vi glæder os til at få et resultat af
+den undersøgelse, der fremkommer.
+Det er en ulykkelig sag, der omhandler kolossalt mange mennesker og kolossalt mange
+skæbner. Jeg mener ikke, at vi skal gå ind i
+selve detaljerne af beslutningsforslagets indhold, det får vi jo rigelig lejlighed til.
+Jeg vil gerne sige, at i den konservative folketingsgruppe beklager vi, at regeringen først
+meget sent ville være med til en uvildig undersøgelse. Vi foreslog allerede den 6. oktober en
+sådan uvildig undersøgelse, men industriministeren sagde nej i et samråd i Folketingets Erhvervsudvalg. Skatteministeren sagde nej til en
+undersøgelse, statsministeren sagde nej til en
+undersøgelse, og i Folketingets spørgetid har
+vi jo flere gange oplevet, at de samme ministre
+har sagt nej til en uvildig undersøgelse.
+Nu er regeringen kommet til fornuft eller er
+blevet tvunget til fornuft og vil gerne være
+
+1331
+
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland";Flemming Hansen
+11374;title_name;"med. Man kan sige, at det har taget provokerende lang tid, men nu er regeringen enig med
+oppositionen i, at der skal gennemføres en sådan undersøgelse: det er selvfølgelig, fordi
+man står over for en enig opposition, og fordi
+man i sit eget bagland har mange folketingsmedlemmer, som er enige med oppositionen,
+og derfor skal vi naturligvis have denne undersøgelse.
+Vi er glade for, at undersøgelsen bliver opdelt i to dele, nemlig en kortsigtet undersøgelse
+og en ny langsigtet undersøgelse. Den kortsigtede undersøgelse skal undersøge og klarlægge
+begivenhedsforløbet omkring det tilsagn, som
+den 23. august blev meddelt Sparekassen
+Nordjylland. Vi er også glade for, at undersøgelsesretten skal vurdere, hvilken retsstilling
+der må antages at tilkomme Sparekassen
+Nordjylland og endvidere give en vurdering af
+de eventuelle berettigede forventninger, der fra
+statens side måtte være skabt hos sparekassen.
+Vi går selvfølgelig også ud fra, at mange af
+de spørgsmål, der har været behandlet i Folketingets Erhvervsudvalg og i spørgetiden, indgår i hele denne undersøgelse. Der er jo nemlig
+tale om en sag, som vedrører stort set hele vort
+samfund, og som i hvert fald er meget væsentlig for det nordjyske område, hvor der er tale
+om, at mange mennesker og en stor virksomhed med mange arbejdspladser er kommet i en
+ulykkelig situation.
+Jeg vil godt hæfte mig lidt ved tidsfaktoren i
+den undersøgelse, der er lagt op til. Vi havde
+selvfølgelig gerne set, at den kunne have været
+afsluttet hurtigere end de 3 måneder, som vi
+forventer den vil vare: men vi må nok sige, at
+vi synes, det er rimelig hurtigt alligevel, og derfor har vi stillet os tilfreds med det.
+Vi er også tilfredse med, at det er en dommer
+fra Sø- og Handelsretten, endda rettens præsident, der skal behandle sagen. Sø- og Handelsrettens præsident har jo store erfaringer - ikke
+lige i den slags sager, men i sager om økonomiske forhold - og derfor er det godt, at det bliver
+ham, der skal dømme i sagen. Vi er glade for,
+at der kun bliver én dommer, for derved er der
+mulighed for, at sagen kan behandles hurtigst
+muligt.
+Vi vil, ligesom det blev lovet af den foregående ordfører, medvirke til en hurtig sagsbehandling i udvalget og ser frem til undersøgelsens konklusion.
+
+1332";Flemming Hansen
+13639;name_party;":
+Her, hvor vi skal tage stilling til en sag, der
+rokker ved regeringens troværdighed, er det
+nødvendigt at se lidt tilbage i historien.
+Ved sin tiltræden den 25. januar understregede statsministeren, at regeringen ville skabe
+tillid og respekt for vores folkestyre. Der måtte
+i befolkningen ikke kunne herske den ringeste
+tvivl om, at lovgivningen og dens forvaltning
+skulle foregå på en betryggende måde.
+Statsministeren har under sin opstigning i
+Socialdemokratiet, ikke mindst efter at han
+erobrede formandsposten, ført en lang politisk
+moralkampagne, indtil han blev statsminister,
+og jeg skal blot nævne et par enkelte eksempler. I 1992 sagde den daværende formand for
+Socialdemokratiet f.eks., at vi var ved at få en
+situation, hvor ligegyldighed over for grundlæggende retsprincipper bredte sig mere og
+mere, og skulle vort gamle, fornemme og stolte
+demokrati bringes til fuld respekt igen, var det
+tid, at befolkningen sagde stop. Han sagde også, at det er til enhver tid regeringens ansvar at
+oplyse om det, hvis man opdager, at lovgrundlaget ikke er i orden.
+Men fra regeringens tiltrædelse den 25. januar 1993 gik der kun godt 2 måneder, til den
+første minister måtte træde tilbage. Det var justitsminister Pia Gjellerup, der blev belastet af
+skandalen omkring det socialdemokratiske
+kursuscenter Solhavegården, hvor hun havde
+været bestyrelsesformand, og hun er siden blevet meldt til politiet.
+Og nu har vi så - kun 10 måneder efter regeringens tiltrædelse - den første sag, der nødvendiggør en dommerundersøgelse. Vi står her
+med et for regeringen ynkeligt sagsforløb og en
+fuldstændig uansvarlig ledelse. Regeringen har
+med næb og kløer kæmpet imod, at Folketinget fik de nødvendige oplysninger til bedømmelse af sagen. F.eks. oplyste skatteministeren,
+støttet af statsministeren, at alt var foregået lige efter bogen, at alle regler var overholdt til
+punkt og prikke, og at der intet usædvanligt
+var i denne sag.
+På trods af dette blev sagen holdt nede med
+en dyne af tavshed: men spørgsmålene blev for
+mange: Hvorfor blev telefaxen sendt den 23.
+august kl. 03.38? Hvad var meningen? Hvem
+havde godkendt, at den blev sendt? Havde
+f.eks. statsministeren godkendt det? Hvad var
+industriministerens rolle? Hvad var økonomi-
+
+1333
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland
+1334";Thor Pedersen
+15989;title_name;"ministerens rolle? Hvad mente økonomimini- til, at svarene og konklusionen vil komme - ensteren f.eks. med, at hun ikke bare skulle se på ten i forbindelse med beretningen fra præsiden ene linje, hvor Nationalbankens bidrag denten for Sø- og Handelsretten eller fra unvar nævnt, men at det var hele konstruktionen dersøgelsesretten eller en efterfølgende komog hele løsningen, hun skulle se i en helhed? missionsdomstol.
+Industriministeren og økonomiministeren
+skulle sandelig have del i æren om banksagen,
+(Kort bemærkning).
+men siden har tavsheden været larmende. HerPia Gjellerup (S):
+til kom så det efter vor mening helt uholdbare,
+Jeg kan forstå på hr. Thor Pedersen, at han
+at regeringen løb fra sit tilsagn til Sparekassen
+Nordjylland. Det er helt afgørende, at spare- end ikke hører de svar, der gives: men der er
+kassen nu får afklaret sine vilkår, og det er der- altså blevet givet svar på de spørgsmål, hr.
+for tilfredsstillende, at en enig opposition har Thor Pedersen har stillet. Man kan give svaretvunget statsministeren til en uvildig undersø- ne, men man kan jo ikke også forstå svarene
+for dem, der spørger.
+gelse.
+Vi er tilfredse med, at præsidenten for Sø- og
+Handelsretten skal lede undersøgelsesretten, Rahbæk Møller (SF):
+Jeg er desværre nødt til at konstatere, at reog at undersøgelsen fremmes mest muligt, så
+problemet vedrørende Sparekassen Nordjyl- geringen ikke har haft en heldig hånd i denne
+land bliver løst. Når beretningen foreligger, vil sag. I meget lang tid var den eneste melodi, at
+vi tage stilling til kommissoriet for en eventuel der ikke var foregået noget ulovligt, og hele ofkommissionsdomstol, herunder om statsmini- fentligheden måtte forstå det, som om det frasteren har tilbageholdt oplysninger, og også drag på 173 mio. kr., som Sparekassen Nordomfattende statsministerens og øvrige mini- jylland var blevet lovet, også var lovligt. Regeringen nægtede i øvrigt at udtale sig konkret
+stres oplysninger til Folketing og udvalg.
+om sagen med henvisning til, at det var en
+skattesag og derfor fortrolig.
+(Kort bemærkning).
+Det var faktisk først fredag den 29. oktober,";Thor Pedersen
+18119;name_party;":
+der kom en smule lys over sagen, da SF fortalte
+Det undrer mig, at hr. Thor Pedersen finder offentligheden det, som åbenbart ikke var gået
+sig berettiget til og kompetent til at drage kon- op for nogen, nemlig at der slet ikke var noget
+klusioner af en undersøgelse, som hr. Thor Pe- fradrag, for naturligvis kan staten ikke give et
+dersen - det formoder jeg, sådan forstod jeg ulovligt fradrag. Så var skattesagen væk, men
+hans indlæg - i dag mener at kunne støtte til gengæld kom der så en anden sag, nemlig
+igangsættelsen af. Det kunne være, at det kun- om hvordan staten kan vildlede en privat spane give en reaktion fra hr. Thor Pedersens side, rekasse ved at stille den i udsigt, at den kan få
+og det synes jeg ville være rimeligt. Er det hr. et fradrag, der ikke er lovdækning for, og som
+Thor Pedersen, der skal afgøre sagerne, eller er den derfor selvfølgelig ikke kan få. Og sådan
+det de undersøgelser, der skal i gang hos myn- ligger sagen nu.
+dighederne, i dette tilfælde undersøgelsesretSelv derefter bidrog regeringen til at sprede
+ten?
+mørke over sagen. Først ved at udsende et par
+pressemeddelelser om, at man vedstod faxen,
+hvilket kun kunne forstås i offentligheden som
+(Kort bemærkning).
+en faktisk fastholdelse af det ulovlige fradrag:";Pia Gjellerup
+19394;name_party;":
+derefter ved at ændre melodien dagen efter og
+Jeg forstod på fru Pia Gjellerups korte be- sige, at Sparekassen Nordjylland måtte føre
+mærkning, at fru Pia Gjellerup mente, at jeg retssag mod staten, hvorefter man endelig om
+havde draget nogle konklusioner, så jeg forstår søndagen kom til det rigtige resultat, nemlig at
+egentlig godt reaktionen hos fru Pia Gjellerup: der skulle en undersøgelsesret til. Først her syfor den socialdemokratiske ordfører kan jo ik- nes jeg at regeringen begyndte at vise en smule
+ke lide, at spørgsmålene bliver stillet. Jeg for- kyndighed i sin behandling af sagen, og jeg vil
+mulerede nogle præcise spørgsmål, men svare- faktisk godt rose regeringen på et enkelt punkt,
+ne har hidtil svævet i vinden, og jeg har tillid nemlig for at sige ja, da oppositionen kom med
+
+1335
+
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland";Thor Pedersen
+20305;title_name;"forslaget om, at man delte undersøgelsen op,
+så vi først får taget stilling til, om Sparekassen
+Nordjylland har et berettiget krav, og derefter
+tager stilling til ansvarsspørgsmålet. Her fulgte
+regeringen øjeblikkelig oppositionens råd, og
+det var kløgtigt.
+Det videre forløb under forhandlingerne vil
+jeg ikke kommentere nærmere: de er afsluttet
+med et resultat, som SF fuldt og helt står bag.
+Derimod vil jeg knytte nogle kommentarer til
+et enkelt punkt, som også fru Pia Gjellerup var
+inde på: Hvorfor var det ikke rigtigt at lade en
+retssag køre, hvorfor er det bedre med en undersøgelsesret? For det første vil jeg lige slå
+fast, at en undersøgelsesret ikke er en domstol.
+Dens konklusioner er ikke bindende. Hvis
+kendelsen mod forventning skulle gå Sparekassen Nordjylland imod, er sparekassen i sin
+gode ret til at anlægge sag ved de almindelige
+domstole, og den ret kan vi ikke og vil vi ikke
+på nogen måde tage fra den.
+Det samme gælder strengt taget også for staten. Staten er ikke juridisk bundet af undersøgelsesrettens konklusion, men det er klart, at vi
+er bundet i praksis, fordi regeringen og samtlige Folketingets 8 partier har tilkendegivet, at
+vi vil føle os bundet: det var derfor, vi nedsatte
+retten. Men i praksis svarer det til, at to privatpersoner har en konflikt, og i stedet for at tage
+en retssag siger den ene part så: O.k., jeg beder
+om et responsum fra en advokat, og hvis det
+siger, at modparten har ret, vil jeg ikke trække
+os begge to gennem en retssag. Det er det samme, staten gør her, og det er værdigt. På den
+måde, man har behandlet en sparekasse, som
+man har bedt om at løse en samfundsopgave,
+ville det være urimeligt at tvinge den til at gå
+ind i en årelang retssag, så det værdigste, vi
+kan gøre, er at få sagen afsluttet hurtigt.
+Jeg vil godt sige, at vi havde ønsket fra SF's
+side, at det kunne være sket hurtigere ved simpelt hen at afgive et hurtigt responsum. Vi har
+dog erkendt, at under opklaringsfasen kommer
+man til at afhøre embedsmænd, som måske senere kan blive draget til ansvar, og derfor er
+retssikkerhedsaspektet inde i billedet. Arbejdet skal ledes af en dommer, og derfor skal tingene tage den tid, de tager. Vi har bøjet os for
+de argumenter, og endnu en gang: SF står fuldt
+og helt bag det beslutningsforslag, der er til behandling nu.
+
+1336";Rahbæk Møller
+22632;name_party;":
+Den 30. september skrev jeg et brev til statsministeren, hvor jeg spurgte, om ikke statsministeren fandt, at det var rigtigt at lave en uvildig ekspertundersøgelse af hele hændelsesforløbet omkring Sparekassen Nordjyllands overtagelse af Himmerlandsbanken. Der kom ikke
+noget svar til den tid, det var lovet, og så måtte
+vi spørge her i salen, og statsministeren sagde,
+at det var unødvendigt, for alle de undersøgelser, der skulle foretages, var i gang: det var lige
+efter bogen, alle regler var fulgt til punkt og
+prikke, og der var i grunden ikke mere at gøre.
+Men det viser sig jo nu, at det har selv regeringen erkendt, og det skal vi ikke skose regeringen for: det skal vi takke regeringen for.
+Men når vi står foran denne sag, er vi jo
+nødt til at undre os lidt over, hvad det i grunden er, der gjorde den til det, den er blevet.
+Det er også lidt tankevækkende at stå her i dag
+med erindringen om, hvad statens advokat,
+altså Kammeradvokaten, sagde ved skifteretsmødet i Hobro, nemlig at dette var skatteministerens og industriministerens politiske svendestykke. Det kan man jo så tage og vurdere,
+som man vil, men det var den opfattelse, Kammeradvokaten havde.
+Jeg kan heller ikke lade være med at nævne,
+at da Socialdemokratiet trådte til den 25. januar, skrev jeg i en artikel i Morgenavisen Jyllands-Posten den 26. januar:
+»Socialdemokratiet lancerede moralen og
+sagerne som det tema, der gennem et fald for
+den borgerlige regering skulle føre til en socialdemokratisk ledet regering. Den borgerlige
+regering faldt på en af sagerne, men om faldet
+skyldes Socialdemokratiets specielle strategi
+eller andre forhold er vanskeligt at afgøre.«
+Og et andet citat længere nede i samme spalte:
+»Således vil den kommende tid med en socialdemokratisk ledet regering blive en test på,
+om Socialdemokratiet som parti kan holde sig
+på måtten.«
+Det stod at læse i Jyllands-Posten den 26.
+januar, og jeg synes, at alle kan drage deres
+egne konklusioner heraf.
+Men jeg skal takke regeringen for én ting, og
+det er, at regeringen viste vilje over for oppositionens ønsker om sammen at finde en model,
+så vi følte os trygge ved, at det, der skulle undersøges, også blev undersøgt, så vi ikke går
+
+1337
+
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland
+1338";Kirsten Jacobsen
+24939;title_name;"rundt i uvished i de 3 måneder, om det nu dre- de, at man har fået indføjet og også har fået
+jer sig om helt andre ting end dem, der står i accepteret fra konservativ side, at den forrige
+kommissoriets tekst. Det vil jeg takke regerin- justitsminister Engells samme betænkelighegen for.
+der ved denne fremgangsmåde er kommet
+Jeg vil også takke regeringen for, at man var klart til udtryk, nemlig i diskussionen om,
+med til at forøge hurtigheden af undersøgelsen hvorledes man skulle behandle gebyrsagen.
+ved at acceptere, at Sø- og Handelsrettens
+Det er den samme betænkelighed, der ligger
+præsident alene kører løbet med de bisiddere, bag regeringens formulering om, at man ønsom han finder nødvendigt: det gør, at vi kan skede, at der skulle være tre personer i det kolse en afslutning inden for en overskuelig frem- legium, der skulle lede undersøgelsesretten.
+tid.
+Som vi alle husker, blev der rejst en delvis beDet forslag, som er fremsat af regeringen, rettiget kritik af, at i tamilsagen sad der kun én
+støtter Fremskridtspartiet helt og fuldt, og vi dommer, som havde det store ansvar både at
+synes egentlig, at i de sidste faser af forhand- skulle lede arbejdet og afgive en afsluttende
+lingerne gjorde regeringen en ordentlig ind- rapport.
+sats.
+Nu må det skønnes, at arbejdet her ikke har
+nær det samme omfang, og det kan være en";Kirsten Jacobsen
+26298;name_party;":
+begrundelse for kun at have én person i spidCD kan også støtte det beslutitingsforslag, sen. Men jeg er nødt til at gøre opmærksom på,
+der er blevet fremsat i dag: hvert ord er jo stort at Det Radikale Venstre meget gerne havde
+set blevet vendt og drejet dag og nat. Regerin- set, at der havde været disse tre, for så havde
+gen og dermed CD havde ønsket, at denne man ikke haft dette kritikpunkt vedrørende en
+tvist skulle afgøres ved domstolene, men det er fremgangsmåde, der i øvrigt kan rettes andre
+imidlertid blevet afvist af sparekassen. På den kritikpunkter imod.
+Derfor er det meget tilfredsstillende for os,
+baggrund synes vi i CD, det er en god idé, at vi
+får denne undersøgelsesret, og jeg skal tilsige at det klart fremgår af beslutningsforslaget,
+hvorledes regeringen havde ønsket sagen beet hurtigt udvalgsarbejde på CD's vegne.
+handlet, og at der, når man nu er nødt til at gå
+denne vej, som det er ønsket af oppositionen";Bente Juncker
+27257;name_party;":
+især - og især af dem, der tidligere kraftigt har
+Udvalget for Forretningsordenen har allerekritiseret nedsættelsen af undersøgelsesretter de modtaget det første dokument udefra vedså er denne mulighed for at få en ordentlig berørende denne sag, idet Højesteret har skrevet lysning af forholdene.
+til udvalget og gjort opmærksom på, at det er
+Jeg kan da kun kvittere for de bemærkninen meget betænkelig sag, vi begiver os ud i.
+ger, der kom fra fru Kirsten Jacobsen, om, at
+Det Radikale Venstre og regeringen har hele
+der nu er skabt enighed, og jeg mener, at det er
+tiden været opmærksomme på, at det var en
+helt rigtigt set, at regeringen har bestræbt sig
+vanskelig sag. Man gør fra Højesteret opmærkpå til det yderste at klarlægge, hvad det er for
+som på, at når der er tale om en tvist mellem en en undersøgelse, der nu går i gang.
+privat part og staten, er det ifølge grundloven
+Jeg kunne så blot have ønsket mig, at de uden sag, der afgøres ved de almindelige domstotalelser, vi har set i pressen i den seneste tid,
+le. Det var lige præcis det, regeringen opforom, at regeringen nærmest var ude på at svinddrede til skulle ske, men som Sparekassen
+le sig igennem, ikke var faldet. Men det er
+Nordjylland afviste - ja, i første omgang sagde
+godt, vi er nået så langt, og at der nu er en bred
+man ganske vist ja, men derefter afviste man erkendelse af, at regeringen har lagt sin fulde
+det. Det er vigtigt, at det holdes for øje, når vi kraft i at få belyst sagen så oprigtigt og så klart
+behandler denne sag og skrider til beslutnin- som muligt.
+gen om at nedsætte en undersøgelsesret.
+Det er meget tilfredsstillende, at regeringen i
+(Kort bemærkning).
+bemærkningerne til beslutningsforslaget har
+gjort så klart opmærksom på disse vanskelige Kim Behnke (FP):
+forhold omkring anvendelse af undersøgelsesJeg kan fuldt ud dele hr. Bilgrav-Nielsens
+retter, og jeg synes, det er meget tilfredsstillen- bekymring for og referencer til andre øvrig-
+
+1339
+
+3/11 93: 1. beh. af f t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland";Bilgrav-Nielsen
+29311;title_name;"hedspersoners bekymring for udviklingen i antallet af sager, der skal undersøges, som jo
+unægtelig er steget i de senere år. Men tager
+man udgangspunkt i den konkrete sag, ville
+den måske kunne have været undgået, hvis regeringen og regeringens ministre fra første
+færd havde været parat til at vise fuld åbenhed
+om det, der var sket.
+Vi oplever i disse år, at lovgivningen for forsikringsvirksomhed, for bankvirksomhed og
+for realkreditvirksomhed bliver ændret med
+det ene formål at forhindre folketingsmedlemmer i at have fuld indsigt i, hvad der foregår,
+og når et flertal i Folketinget har valgt det mod
+Fremskridtspartiets anbefaling, er den eneste
+handlemåde for at få tingene belyst - når regeringen ikke frivilligt vil fremlægge relevante
+dokumenter - et krav om, at tingene bliver undersøgt, selv om det er kostbart, besværligt og
+tidkrævende.
+Men der er vel heller ingen, der i dag er i
+tvivl om, at den nuværende regering havde
+handlet langt klogere, hvis den fra første færd,
+allerede da statsministeren den 1. oktober
+modtog brevet fra fru Kirsten Jacobsen, havde
+sagt: Vi får denne sag undersøgt til bunds. Så
+var man sluppet for en meget lang proces.
+Det er da rigtigt, som hr. Bilgrav-Nielsen siger, at der er blevet sagt mange ord i denne
+sag, også i pressen, men den aftale, der blev
+indgået i nat, binder nu alle Folketingets partier, alle Folketingets partier står bag den undersøgelse, der nu skal finde sted.";Kim Behnke
+30767;name_party;":
+Det er Kristeligt Folkepartis principielle
+holdning, at der skal være fuld klarhed om
+sagsforløbet i sager af den type, som vi har på
+dagsordenen i dag. Ja, det gælder ikke kun den
+slags sager, men i det hele taget alt, hvad vi
+beskæftiger os med i dette hus. Ingen regering
+kan leve med, at der er mistanke om unøjagtigheder eller uklarheder i et givet sagsforløb.
+Derfor har Kristeligt Folkeparti på intet tidspunkt modsat sig en eller anden form for undersøgelse af sagen om Sparekassen Nordjyllands overtagelse af engagementer fra Himmerlandsbanken. Det har hele tiden været vores holdning, at er der noget, som ikke er fuldt
+belyst, der ikke er fuld klarhed over, er der
+konsekvenser, som vi ikke helt kan se rækkevidden af, ja, så må vi have sagen undersøgt, så
+vi ved præcis, hvad det handler om.
+
+1340
+
+Vi kan derfor støtte det foreliggende beslutningsforslag. Hermed kan der forhåbentlig
+skabes ro om sagen og klarhed om konsekvenserne af de trufne dispositioner, så vi kan fuldt
+ud støtte forslaget. Vi er glade for de bemærkninger, der er knyttet til beslutningsforslaget bemærkninger, som tydeligt beskriver den
+komplekse situation, som vi står i.
+I betragtning af sagens vanskelige karakter
+kan jeg kun udtrykke min anerkendelse af den
+måde, regeringen har tacklet sagen på. Det har
+ikke været enkelt at få styr på de forskellige
+udsagn, der har været i omløb i den senere tid,
+men i betragtning af sagens kompleksitet må vi
+anerkende den måde, den er tacklet på. Nu ser
+vi frem til, at der kan blive ro om sagen - i
+hvert fald i den periode, hvor retten skal arbejde, og så må vi se, hvad der skal træffes af dispositioner derefter. Men vi støtter forslaget
+fuldt ud.";Lysholm Christensen
+32476;title_name;":
+Først vil jeg beklage dybt, at den tvist, der
+her er til behandling, er opstået. Derefter vil
+jeg glæde mig over, at Folketinget nu tager anledning til at få tvisten undersøgt, så Folketinget får et ordentligt, sagligt grundlag at forholde sig til tvisten på.
+Når jeg tager ordet under denne debat, er
+det mere for at komme med nogle principielle
+bemærkninger. Der har jo under debatten her
+været fremført en række påstande, og der har
+under debatten her været stillet en række
+spørgsmål. Jeg agter hverken at kommentere
+påstandene eller besvare spørgsmålene, for det
+er min opfattelse, at fra det tidspunkt, det stod
+klart, at Folketinget ville træffe en beslutning
+om at nedsætte en undersøgelsesret, var min
+eneste opgave ikke at fremkomme med kommentarer, bemærkninger, besvare spørgsmål
+eller på anden måde gå ind i debatten.
+Jeg betragter fra nu af, og indtil undersøgelsesretten har afleveret sin redegørelse til justitsministeren, min opgave alene som den at
+udtale mig, når og hvis jeg bliver indkaldt af
+undersøgelsesretten, og så udtale mig til retten
+og ingen andre steder.
+Derfor vil jeg gerne benytte lejligheden nu
+til at sige til både Folketinget og offentligheden, at det, at jeg ikke forholder mig til påstande, der fremover bliver fremført, spørgsmål,
+der bliver stillet, kommentarer, der fremkom-
+
+1341
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland
+1342";Stavad
+33910;title_name;"mer, under ingen omstændigheder må tages
+(Kort bemærkning).
+som udtryk for, at jeg nærer nogen som helst";Skatteministeren
+34036;name_party;":
+form for enighed eller anden form for sympati
+Jeg har to små spørgsmål til justitsministefor de påstande, der måtte blive fremført. Jeg
+har fra nu af pålagt mig selv den tavshed, der ren.
+Det ene var netop Højesterets præsidents
+medfører, at retten og dermed dommeren får
+brev,
+som vi har modtaget og nu hørt citeret
+mulighed for at udføre sit arbejde, uden at jeg
+ved tilkendegivelser medvirker til at skabe for- fra. I det arbejde, vi har haft forud for dette
+beslutningsforslag, er det bestemt - og det står
+virring om det.
+Jeg synes, at det har været vigtigt for mig at også beskrevet i forslaget - at såfremt den førkomme med denne erklæring, så ingen efter- ste undersøgelse skulle vise, at der er belastenfølgende, når spørgsmål bliver stillet eller på- de forhold, vil regeringen straks i samråd med
+stande bliver fremført og mødt med tavshed fra Folketingets partier tage skridt til at få alle samin side, kan sige, at det er udtryk for, at der er gens aspekter undersøgt. Og dér er mit spørgsnoget at skjule. Jeg har - jeg tror mere end no- mål : Vil Højesterets præsidents brev af i dag
+gen anden i denne sal - én eneste interesse, og ikke lægge hindringer i vejen for det, der står i
+det er, at hver sten bliver vendt, at hver oplys- beslutningsforslaget? Det håber jeg.
+Det andet spørgsmål er: Da vi sad og formuning kommer frem. Jeg tror på sandheden, og
+derfor tror jeg heller ikke, at hverken regerin- lerede disse tekster, prøvede vi at få dem til at
+gen eller skatteministeren kommer til at lide mødes så godt som muligt, så alle kunne være
+enige, og det lykkedes også til sidst. Men jeg
+skade, når sandheden kommer frem.
+vil gerne af hensyn til referatet og historien bede justitsministeren om at bekræfte, at spørgsJustitsministeren (Erling Olsen):
+målet om lovligheden af selve tilsagnet - hvis
+Jeg har kun tre bemærkninger at gøre.
+For det første vil jeg gerne takke alle Folke- det viser sig, at der var et tilsagn i den telefax
+tingets partier, fordi vi her har kunnet enes om om ret til merhensættelser på 173 mio. kr. en undersøgelsesform og et undersøgelsesind- efter ministerens opfattelse også er indeholdt i
+hold, som vi - forhistorien taget i betragtning - det kommissorium, man beder retten tage stilalle føler os trygge ved. Det synes jeg er glæde- ling til.
+ligt for folkestyret.
+For det andet har jeg bemærket, at nogle af Justitsministeren (Erling Olsen):
+deltagerne har kommenteret dele af sagsforløVi beslutter nu, hvad vi skal gøre med henbet. Det vil jeg ikke, for det vil nu blive belyst blik på at få belyst begivenhedsforløbet og speaf domstolen.
+cielt forholdet til Sparekassen Nordjylland.
+For det tredje har jeg mærket mig det brev, Hvad der siden skal ske, kan vi ikke helt præsom Højesterets præsident har sendt til Folke- cist sige. Vi har jo overladt det til en diskussion
+tingets Præsidium, og hvoraf jeg har fået en mellem regeringen og Folketingets partier,
+kopi. Jeg vil gerne med formandens tilladelse hvad man skal gøre, alt efter hvad resultat man
+citere en enkelt passage fra dette brev. Den ly- kommer frem til. Og det er klart, at i overvejelder:
+ser af denne art må også de synspunkter, som
+»Sagen understreger således behovet for, at Højesterets præsident har gjort gældende i sit
+spørgsmålet om brugen af undersøgelsesretter brev, indgå. Det er det ene.
+og kommissionsdomstole, disses opgaver og
+Det andet spørgsmål, fru Kirsten Jacobsen
+de regler, som bør gælde for deres virksomhed, stillede, drejede sig om, hvad der rent teknisk
+tages op gennem nedsættelsen af et udvalg. lå i den formulering, der ligger i vores kommisDet ønskelige heri fremgik klart af den høring sorium. Det, der var typisk for vores drøftelser
+om emnet, som Advokatrådet under deltagelse i nat, var, at vi prøvede mange forskellige foraf en bred kreds af jurister og andre interesse- muleringer på kommissoriet. De formulerinrede afholdt i april 1993. Jeg skal derfor stærkt ger, som meget klart angik nævnte specielle
+opfordre til, at et sådant udvalgsarbejde nu skatteretlige formål og udtryk, kunne vi ikke
+snarest iværksættes.«
+rigtig bruge, fordi de forskellige formuleringer
+Jeg vil umiddelbart herefter tage dette kunne mistænkes for at pege på et ganske bespørgsmål op i regeringen.
+stemt udfald af undersøgelsen, og derfor valgte
+
+1343
+
+3/11 93: 1. beh. af f. t. beslutn. om en undersøg.ret vedr. Sparekassen Nordjylland";Kirsten Jacobsen
+38428;title_name;"vi den runde formulering og overlader det på
+den måde til undersøgelsesretten at gå ind i sagen, når man har indhentet det materiale, man
+har brug for. Sagen er ganske enkelt den, at vi
+ikke, hvis vi vil sikre, at det er helt uvildigt, kan
+gå ned i en detaljeret teknisk forklaring af,
+hvad det er, undersøgelseslederen skal se på.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Justitsministeren
+38903;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Udvalget for Forretningsordenen. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+2) Forespørgsel nr. F 5:
+Forespørgsel til miljøministeren:
+»Hvad vil regeringen gøre - med den nye
+viden om nitrat - for at sikre, at private brøndejere kan få lov til at drikke deres eget brøndvand?«
+Af Jørgen Winther (V), Jens Jørgensen (KF)
+og Aage Brusgaard (FP).
+(Forespørgslen anmeldt 12/10 93. Fremme
+af forespørgslen vedtaget 26/10 93).";Grove
+39511;title_name;":
+Jeg vil allerede her gøre opmærksom på, at
+afstemninger om eventuelle motiverede dagsordener vil blive sat på dagsordenen i morgen,
+torsdag den 4. november 1993.
+Begrundelse";Grove
+39705;name_party;":
+Tre partier, Venstre, Konservative og
+Fremskridtspartiet, ønsker med denne forespørgsel at rejse spørgsmålet om private
+brøndejeres ret til at drikke deres eget brøndvand.
+Efter Venstres opfattelse er der syv gode
+grunde til at stille denne forespørgsel.
+
+1344
+
+For danske borgere bør det være en indlysende ret, at man selv kan bestemme, hvad
+man vil drikke, hvad man vil spise og ryge.
+Man må drikke alkohol - det kan give skrumpelever og hjerneskade. Man må spise flæskesteg og fed ost - det kan give åreforkalkning og
+hjerteblodprop. Man må ryge cigaretter - det
+kan skade lunger, hjerte og blodkar. Man må
+endog faste, lade være med at spise - det kan
+give hjertesvækkelse. Selv hvis et menneske
+ønsker at begå selvmord ved at stoppe al indtagelse af væske og føde, accepteres det også.
+Det er endda forbudt for læger at tvangsbehandle i sådanne tilfælde. Man har faktisk ret
+til at sulte sig ihjel. Men kun én ting her i livet
+er det forbudt at indtage: Det er forbudt at
+drikke vand med 'et nitratindhold, der er over
+50 mg pr. liter.
+Dette er for det andet helt barokt, for selv
+om man indtager 100 mg nitrat pr. liter drikkevand, er det fuldstændig ufarligt for mennesker. Det er jo underligt, at mange af de ting,
+som er farlige, er det tilladt at spise og drikke,
+men at drikke vand med nitrat, som ikke er farligt, det er altså ikke tilladt. Man må virkelig
+sige, at Folketinget har fået ny viden om nitrat.
+Det må erkendes, at Sundhedsstyrelsen bastant år efter år har misinformeret Folketinget
+med totalt fejlagtige oplysninger om nitrats
+farlighed for det menneskelige legeme. Det
+vender jeg tilbage til senere i mit ordførerindlæg.
+En tredje grund er, at kommunalbestyrelser
+landet over indgiver politianmeldelse mod
+borgere, som bare ønsker at drikke deres eget
+brøndvand. Tænk engang, politiet møder op
+og siger: Du må ikke drikke dit eget brøndvand, hvis det indeholder mere end 50 mg nitrat pr. liter!
+En fjerde grund til forespørgslen er, at landbrugsministeren i juni måned 1993 udtalte, at
+regeringen bygger sin nitratpolitik på Sundhedsstyrelsens oplysninger om nitrat. Når så
+Sundhedsstyrelsen giver forkerte oplysninger,
+må man vel forvente, at man ændrer holdning
+og politik.
+En femte grund er, at Kræftens Bekæmpelse
+anbefaler, at man skal spise spinat, salat og
+rødbeder, fordi det forebygger kræft. I disse
+emner er der utrolig meget nitrat.
+En sjette grund er, at kroppen faktisk producerer nitrat hver dag, det, vi kalder endogen
+produktion.
+
+(85)
+1345
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørgen Winther
+42298;title_name;"En syvende grund er, at flere embedslæger
+rundt om i Danmark har udtalt, at en grænseværdi på 50 mg nitrat pr. liter er som en åbenbaring fra himlen: det savner ethvert medicinsk grundlag at anse dette for farligt.
+Venstre har således syv gode grunde til at
+stille denne forespørgsel og håber nu, at regeringen vil indtage en mere fornuftig holdning
+til nitrat.
+Besvarelse
+Miljøministeren (Svend Auken):
+Hr. Jørgen Winther nævnte syv gode grunde
+- eller det, han kaldte gode grunde - til at rejse
+denne forespørgsel. Jeg tror, det var beskedenhed, der gjorde, at hr. Jørgen Winther ikke
+nævnte den ottende og egentlige grund til, at
+denne forespørgsel bliver stillet, nemlig den
+omstændighed, at der skal være valg til kommunalbestyrelser og amtsråd den 16. november i år.
+Hvis jeg skal sammenfatte vores politik på
+dette område, er den den, at den nuværende
+regering viderefører den politik vedrørende de
+private brønde, der blev fastlagt i sin tid efter
+internationale anbefalinger af KVR-regeringen, derefter videreført af KV-regeringen, bekræftet her i Folketinget både (af Venstres
+sundhedsminister og af den konservative miljøminister, at det er regler, der i øyrigt gælder i
+alle de lande, vi normalt sammenligner os
+med, Tyskland, Holland, Storbritannien, Norge, og at reglerne administreres smidigt ude i
+kommunerne og giver anledning] til meget få
+klager. Jeg kan ikke huske det nøjagtige tal,
+men jeg tror, det er noget med ca.! 30 klager til
+Miljøstyrelsen, vi alt i alt havde på dette område sidste år. Derfor er der efter min opfattelse
+alene tale om et indslag i den kommunale valgkamp og ikke om et seriøst bidrag til en fornuftig diskussion om disse spørgsmål.
+Jeg vil gerne svare hr. Jørgen Winther på
+spørgsmålet om den nye viden om nitrat med
+at sige, at hvis man, som jeg forstod på hans
+begrundelse, henviser til de desværre fejlagtige
+oplysninger, som Sundhedsstyrelsen tidligere
+har givet om de såkaldte blå børn, er sundhedsministeren til stede og selvfølgelig parat
+til at svare på eventuelle spørgsmål i den forbindelse.
+Sagen om antallet af de blå børn ændrer
+imidlertid ikke efter regeringens opfattelse ved
+
+1346
+
+det sundhedsmæssige grundlag for drikkevandsreglerne, idet disse jo har et bredere sigte
+og i øvrigt bygger på Verdenssundhedsorganisationens anbefalinger og også ligger til grund
+for EF's regulering på dette område. Jeg synes,
+det kræver en imponerende selvtillid, når hr.
+Jørgen Winther siger, at grænsen på de 50 mg
+savner enhver lægelig begrundelse. Når Verdenssundhedsorganisationen har udtalt, at det
+er ud fra forsigtighedssynspunkter og en bred
+kreds af hensyn, synes jeg alligevel - selv om
+jeg anerkender hr. Jørgen Winthers baggrund
+og store indsigt og sagkundskab på området at det kræver en imponerende selvtillid af hr.
+Jørgen Winther at underkende Verdenssundhedsorganisationen. I den forbindelse underkender den tidligere konservative miljøminister også den tidligere Venstresundhedsminister.
+Men vi kan altså notere os, at hr. Jørgen
+Winther ser sig i stand til at underkende alle
+disse instanser, underkende ikke bare Danmarks politik, men \også den politik, der føres i
+alle de lande, vi normalt sammenligner os
+med. Og det er klart, at viden og indsigt på så
+højt et niveau gør det svært for os almindelige
+dødelige at formulere os i diskussionen.
+Jeg vil dog gerne som svar på det stillede
+spørgsmål sige, at det ikke er regeringens politik at sikre private brøndejeres ret til at drikke
+deres eget brøndvand uanset vandets kvalitet.
+Det var heller den tidligere regerings politik.
+Regeringens politik er derimod at sikre alle adgang til rent drikkevand, og dette sikres efter
+regeringens opfattelse af de nuværende regler,
+der, som jeg har sagt et par gange tidligere, er
+fastsat af tidligere borgerlige regeringer. Grænseværdien på de 50 mg pr. liter er fastsat på
+grundlag af et EF-direktiv fra 1980 om kvaliteten af drikkevand, og det baserer sig som sagt
+på Verdenssundhedsorganisationens retningslinjer.
+I Danmark valgte KVR-regeringen at lade
+grænseværdien gælde alt drikkevand og altså
+også vand fra private brønde, selv om dette ikke er omfattet af EF's direktiv. Drikkevand er
+et helt fundamentalt fødemiddel, som alle
+mennesker har behov for. Det er derfor en
+målsætning, at \alle skal have adgang til godt
+drikkevand, det vil sige vand, der opfylder
+drikkevandsbekendtgørelsens krav. Det er
+baggrunden for, at bekendtgørelsens krav til
+
+1347
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørgen Winther
+46826;title_name;"god drikkevandskvalitet er gældende for såvel
+almene vandværker som for private brønde og
+boringer.
+Dermed være naturligvis ikke sagt, at enhver
+overskridelse af grænseværdien for nitrat på 50
+mg pr. liter er ensbetydende med, at vandforsyningen af den grund bør lukkes. Dette fremgår af drikkevandsbekendtgørelsen og den
+dertil hørende vejledning. Det anføres her, at
+kommunerne, såfremt kvalitetskravene ikke
+overholdes, kan give påbud om, at anlæggets
+drift skal lukkes midlertidigt eller for bestandigt, eller at der skal træffes andre forholdsregler.
+Som reglerne er udformet, har kommunalbestyrelserne altså en mulighed for at føre en
+lempelig administrativ praksis. I de tilfælde,
+hvor overskridelsen ikke under de aktive forhold skønnes at være sundhedsfarlig, kan
+kommunalbestyrelsen nøjes med at tage analyseresultatet til efterretning.
+I vurderingen af sundhedsfaren indgår også
+ting som f.eks. de hygiejnemæssige forhold og
+indholdet af bakterier. I den sammenhæng er
+det værd at lægge mærke til, at den eksisterende lovgivning på området giver kommunalbestyrelsen beslutningskompetencen i forhold til,
+hvornår og hvordan der skal skrides ind over
+for overtrædelse af kvalitetskravene. Det vil sige, at på dette område gælder det kommunale
+selvstyre og det kommunale ansvar.
+Det er min opfattelse, at der generelt administreres meget fornuftigt lokalt, og at kommunerne i det store og hele er opmærksomme på,
+at der skal foretages et konkret skøn over den
+enkelte ejendoms forhold, og at dette skal ske,
+før der skrides ind. I den forbindelse har Miljøstyrelsen gjort opmærksom på, at der bør
+lægges vægt på overskridelsens størrelse, nærliggende forureningskilder, mulighed for tilslutning til vandværk og de økonomiske forhold. Det kan imidlertid ikke udelukkes, at der
+eksisterer enkelte kommuner, der administrerer reglerne for håndfast. Dette bør imidlertid
+ikke føre til, at det decentrale princip i administrationen af reglerne bliver ændret. Det er vigtigt, at beslutninger om vandforsyning træffes
+så tæt på borgerne som muligt. Klageadgangen
+til Miljøstyrelsen er efter min opfattelse tilstrækkelig til at forhindre en urimelig administration af reglerne. Og som jeg nævnte det før,
+er det kun få klager, myndighederne modtager
+om året.
+
+1348
+
+Jeg kan oplyse, at den tidligere miljøminister ved brev af 30. oktober 1991, altså for kun
+2 år siden, til samtlige kommuner anførte, at
+bestemmelserne i bekendtgørelsen om vandkvalitet og tilsyn med vandforsyningsanlæg
+opretholdes i fuldt omfang. I brevet anbefalede ministeren kommunalbestyrelserne dels at
+fare med lempe, dels at der i hver enkelt sag
+træffes en konkret afgørelse. Jeg agter i nærmeste fremtid at skrive til kommunerne for at
+indskærpe denne henstilling om at fare med
+lempe.
+Jeg er ikke nogen ubetinget beundrer af alt,
+hvad der skete under tidligere regeringer. Men
+jeg synes, at man her har haft en absolut heldig
+hånd. Det er klart, at det var en afbalanceret
+holdning med på den ene side vægt på de
+sundhedsmæssige synspunkter, beskyttelse af
+børn osv. og på den anden side hensynet til
+lokalsamfundets mulighed for at træffe afgørelser tilpasset området.
+Hvis tingene fungerer godt og velafstemt,
+hvorfor skal man så, fordi man har fået en ny
+regering, ændre den tidligere regerings politik?
+Hvorfor? Og hvorfor skal man gøre det på foranledning af de tidligere regeringspartiers forespørgsler? Det forbliver en gåde for mig og tror jeg - det store flertal af Tingets medlemmer.
+Forhandling
+(Kort bemærkning).";Miljøministeren
+50347;name_party;":
+Lige en kommentar til ministerens bemærkning om, at denne forespørgsel udelukkende
+var stillet på grund af det kommende kommunalvalg.
+Jeg vil gerne lige forklare både ministerens
+forgænger og den nuværende minister, at jeg
+faktisk har sendt mange spørgsmål angående
+nitrat i vandet.
+Jeg vil også gøre opmærksom på, at den debat, der har været, har afstedkommet, er der er
+udsendt retsudskrift fra dombogen for flere,
+der er blevet sagsøgt af kommuner. Jeg har fået
+breve fra fire brøndejere i Skive, som Skive
+Kommune har rejst retssag imod med påstand
+om, at deres brønde skulle nedlægges. Jeg har
+fået henvendelse fra en Einar Møller fra Vattrup ved Kjellerup. Han er 70 år, og han betaler i dag 500 kr. i bøder for at drikke sit eget
+
+1349
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand
+1350";Aage Brusgaard
+51204;title_name;"drikkevand. Hele den bunke er fra private
+Dermed vil jeg sige, at det stigende nitratbrøndejere ude over det ganske land, der føler indhold kun er en del af den samlede trussel
+sig trådt under fode af deres kommunalbesty- mod grundvandet, selv om den nitratbombe
+relser, fordi de ønsker at lukke deres private naturligvis ikke er uvæsentlig. Nitratmængden
+boringer, selv om der ikke er giftholdige stoffer i de øvre grundvandslag er næsten tidoblet de
+i deres vand, men udelukkende fordi nitratind- sidste halvtreds år. I et område fra Djursland
+holdet er for stort.
+til Limfjorden er nitratforureningen et alvorligt
+Jeg synes, det er en hån mod disse borgere, problem for vandforsyningen, og det må med
+disse brøndejere, at ministeren her fra talersto- uændret nitratbelastning forudses, at der her
+len siger, at det kun er et led i valgkampen. vil opstå problemer med at skaffe drikkevand
+Nej, det er et led i vort forsøg på at gøre vilkå- af tilstrækkelig kvalitet i løbet af de næste tirene retfærdige for ganske almindelige borge- tyve år. Grundvandet under 100.000 ha landre, nemlig fortsat at have lov til at drikke gan- brugsjord er stærkt truet. 101 vandværker i Årske almindeligt vand fra ganske almindelige hus, Viborg og Nordjyllands Amter leverer
+brønde.
+vand, som ikke overholder grænseværdien.
+I Københavns Amt er der de sidste femten
+år
+lukket otte vandværker med 63 boringer og
+Miljøministeren (Svend Auken):
+en
+vandmængde på 5 mio. m3 på grund af forJeg siger hr. Aage Brusgaard tak for denne
+urening,
+der skyldes klorerede opløsningsmidlejlighed til at få præciseret, at der for mig ikke
+ler
+fra
+industrigrunde,
+og en vandmængde svaer noget odiøst i, at man rejser en debat i Folketinget som led i den kommunale valgkamp. rende til 25.000-30.000 husstandes årlige forbrug.
+En af forespørgerne er selv kandidat til amtsDet er en kendsgerning, at man har problerådet, og det er jo al ære værd, at man også
+mer
+af forskellig art over hele landet - ikke
+benytter Folketinget som platform til at inddrage spørgsmål af kommunalpolitisk interes- udelukkende med nitrat. For at nå målsætninse. Det anser jeg personlig ikke for at være no- gen »god vandkvalitet for alle« er det nødvendigt at sætte effektivt ind over for truslen mod
+get angribeligt.
+Når jeg følte mig foranlediget til at drage det grundvandet. Det er en kendsgerning, at dér,
+forhold ind, var det alene, fordi hr. Jørgen hvor nitrat kan trænge ned, kan anden forureWinther fremdrog syv grunde til, at man havde ning også trænge ned, og derfor døjer mange
+rejst debatten, uden at nævne den ottende, brøndejere med en dårlig vandkvalitet. Problesom for mig, tror jeg, spiller en mindst lige så met for mange familier består i, at man gerne
+stor rolle som de syv øvrige. Men vi tager me- vil have en bedre vandforsyning, og ikke i, at
+get alvorligt på spørgsmålene, og det er også enkelte kommuner gennem påbud stiller krav
+derfor, jeg har svaret så indgående, som jeg har om bedre vandforsyning.
+Det er min erfaring, at kommunerne stort set
+gjort, og understreget, at vi vil lægge op til denne balance mellem det generelle sundheds- behandler dette område meget fornuftigt og farer med lempe i bestræbelserne på at sikre bormæssige og den lokale smidighed.
+gerne mulighed for den bedst mulige vandforsyning.";Aage Brusgaard
+54505;name_party;":
+Et godt eksempel er Aalborg Kommune,
+Hovedmålet for regeringens politik på vand- som gør en stor indsats for, at vandforsyningen
+området er, at alle danske husstande har til- uden for byområderne får et løft. De fleste af
+fredsstillende vandforsyning, men sådan er det Aalborg Kommunes vandværker yder et friviljo ikke i dag. Undersøgelser har vist, at halvde- ligt bidrag pr. kubikmeter leveret vand til at
+len af de knap 150.000 boringer eller brønde - nedbringe udgifterne for husstande med ende såkaldte enkeltvandforsyninger - er forure- keltvandforsyning. Det betyder f.eks., at 20
+net med forskellige stoffer, f.eks. bakterier, fos- husstande i Ejstrup-Grindsted-området i dette
+fat, sulfat, jern, klorid, kalium og nikkel, eller efterår bliver fri for at få grumset og jernholoverstiger grænseværdien på 50 mg nitrat pr. digt vand ud af hanerne - vand, som er ulækliter, som er grænseværdien for den kollektive kert at bruge, og som ødelægger vaske- og opvandforsyning.
+vaskemaskiner, og samme ordning kører i
+
+1351
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Martin Glerup
+55638;title_name;"f.eks. Odense Kommune. Jeg synes, det er konstruktivt, at kommunerne forsøger at finde en
+reel løsning på disse problemer, for vi ved fra
+ejendomsmæglere og andre, der har med handel af fast ejendom at gøre, at tilfredsstillende
+vandforsyning er et af de vigtigste krav, når en
+familie overvejer at købe hus i et landområde.
+På den baggrund undrer det mig, at Venstre
+og tilsyneladende også De Konservative nu
+ønsker at rokke ved den udmærkede vandpolitik, som de to partier sammen med regeringspartierne og SF hidtil har stået for.
+Så sent som den 27. august sidste år spurgte
+jeg Venstres sundhedsminister, fru Ester Larsen, og De Konservatives miljøminister, hr.
+Per Stig Møller, om den daværende regerings
+stilling til grænseværdierne for nitrat. Jeg fik et
+meget klart svar, hvor ministrene henviste til
+Verdenssundhedsorganisationens revurdering
+fra 1991 og EF's drikkevandsdirektiv. På det
+grundlag sagde de, at de hverken ville ændre
+den vejledende grænseværdi på 25 mg nitrat
+pr. liter eller den højest tilladelige grænseværdi på 50 mg pr. liter. Det var da et klart svar,
+der var til at forstå.
+Samtidig er der grund til at understrege, at
+det jo var den tidligere regering, som via den
+ny bekendtgørelse om vandkvalitet og tilsyn
+med vandforsyningsanlæg fra 1. januar 1989
+besluttede, at alle vandforsyningsanlæg - altså
+også enkeltvandsforsyningerne - skulle være
+omfattet af de generelle krav. Det var den daværende miljøminister, der sendte den vejledning og bekendtgørelse ud. Og det kunne han
+selvfølgelig også gøre med den viden, at man i
+Udvalget vedrørende en, Bæredygtig Landbrugsudvikling klart havde meldt ud både fra
+Venstres og De Konservatives side den 30. oktober 1991 og sagt, at de to partier kunne tilslutte sig handlingsplanens mål om at halvere
+kvælstofbelastningen fra det åbne land til gavn
+for såvel grundvandet som afstrømningen til
+vandløb, fjorde og havområder.
+Derfor undrer det mig, at Venstre og måske
+navnlig De Konservative fraviger denne fornuftige politik, tilsyneladende for at hoppe på
+hr. Jørgen Winthers nitratfelttog. Hr. Jørgen
+Winthers kollega Preben Rudiengaard, som er
+embedslæge i Ribe Amt og folketingskandidat
+for Venstre i Vejle, skriver i Jyllands-Posten
+den 7. august 1993, at han er meget tvivlrådig
+over hr. Jørgen Winthers nitratfelttog - udtryk-
+
+1352
+
+ket »nitratfelttog« er ikke noget, jeg selv har
+fundet på - og jeg vil tillade mig at citere følgende fra den pågældende artikel:
+»Efter min opfattelse reagerer Winther som
+superspecialisten, som kun ser verden gennem
+et lille kighul. Nitrat skal ikke ses isoleret, men
+som en forureningsindikator, idet nitrat i en
+enkeltvandsforsyning kan give os gode oplysninger om forsyningens hygiejniske kvalitet.«
+Jeg må indrømme, at vi fra Socialdemokratiet synes, det er nogle fornuftige bemærkninger
+fra en Venstre-folketingskandidat og en læge,
+der er kollega til hr. Jørgen Winther, og på den
+baggrund må vi selvfølgelig spørge: Hvad er
+Venstres holdning til tingene?
+Men klart er det i hvert fald, at der skal ske
+noget på området, og den vurdering, som embedslægen dér fremkommer med, er så ganske
+rigtig, for det er jo meget betænkeligt at slække
+på kvalitetskravene til drikkevand til danske
+familier.
+Socialdemokratiet er af den opfattelse, at
+det er af uvurderlig betydning, at vi kan lukke
+op for vandhanen og få et glas ikkekemikaliebehandlet vand. Vi må af al kraft kæmpe mod
+en forureningsudvikling, som vil resultere i, at
+vi om nogle få år bliver tvunget til at købe drikkevand på flasker, hvilket er tilfældet i nogle
+andre lande, der ikke har så gode drikkevandsressourcer som vi.
+Hvis vi ikke sørger for, at basis for det hele,
+altså grundvandet, holdes fri for forurenende
+stoffer, vil vi meget let komme i den situation,
+og det synes jeg ikke at den danske befolkning
+har fortjent. Derfor kan man sige, at det er lidt
+ærgerligt, at denne forespørgselsdebat er så afgrænset, som tilfældet er - altså kun holder sig
+til enkeltvandsforsyningerne. Det synes jeg er
+en skam ikke mindst på baggrund af de massive problemer, som truer grundvandet i hele
+Danmark. Set i relation til det kunne man fristes til at mene, at denne debat snarere burde
+afvikles i Århus Amtsråd.
+(Kort bemærkning).";Martin Glorup
+59866;name_party;":
+Det er i anledning bl.a. af ministerens bemærkning om, at der var en 8. grund, nemlig at
+der snart var kommunalvalg. Dertil vil jeg sige,
+at så har Venstres ordfører i dette spørgsmål i
+hvert fald været meget tidligt i gang, for der
+kom allerede for et år siden også fra vores side
+
+1353
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand
+1354";Filt Jensen
+60264;title_name;"forespørgsel til vores egen regering, og den sats. Heldigvis er der mange kommuner, der
+blev belyst fra en sundhedsstyrelse - altså fejl- forstår dette problem meget bedre end andre,
+agtigt belyst - og ud fra det fik vi de svar, at og som gør noget for deres befolkning på en
+man var nødt til at fastholde kravene på grund solidarisk måde.
+af hensynet til bl.a. børn.
+Endelig vil jeg gøre opmærksom på, at hr.
+Ministeren sagde også, at man fortsat vil Filt Jensen måske ikke helt forstod det, jeg sagfastholde dem af hensyn til de såkaldte blå de om, at hvor nitraten kunne komme ned,
+børn, som vi jo altså nu har fået orientering om kunne andet også komme ned. Jeg citerede diikke er et problem.
+rekte hr. Filt Jensens partifælle, der i JyllandsDer er for kort tid siden udkommet en kort Posten skrev med egne ord: Nitrat skal ikke
+beretning om regeringens politik over for land- ses isoleret, men som en forureningsindikator,
+distrikterne, og dér gør man rede for, at det 'er idet nitrat i en enkeltvandsforsyning kan give
+noget meget væsentligt, at man opretholder li- os gode oplysninger om forsyningshygiejnisk
+vet i landdistrikterne, at man bliver ved med at kvalitet. Det må sådan set stå for partifællens
+holde dem beboet, og en af de faktorer, der egen regning, men jeg synes, han har ret.
+netop betyder så uhyre meget derude, er, at det
+gang på gang sker, at nogle af ejendommene
+(Kort bemærkning).
+får besked på, at de ikke mere må bruge deres
+eget vand, men skal tilsluttes et offentligt for- Filt Jensen (V):
+Det drejede sig ikke om den sidste del af hr.
+syningsanlæg - et offentligt forsyningsanlæg,
+som koster 30.000 kr., 40.000 kr., 50.000 kr. Det Martin Glerups bemærkninger vedrørende
+gør, at den pågældende ejendom er blevet Venstrefolketingskandidaten, men om hr.
+usælgelig, hvilket også betyder, som vi har kri- Martin Glerups tidligere bemærkning om, at
+tiseret her for ganske nylig, at kreditforenin- hvor nitrat kunne komme ned, kunne også angerne ikke vil give ordentlige lån i sådanne det komme ned. Hr. Martin Glerup talte om de
+ejendomme, hvilket også bidrager til at gøre klorerede ting, der bl.a. havde været skyld i, at
+det sværere at holde landdistrikterne beboet. nogle sjællandske vandforsyningsanlæg måtte
+Hvad angår hr. Martin Glerups bemærkning lukkes. Dertil må jeg sige, at der er jorder, hvor
+om, at hvor nitrat kan komme ned, kan også det på grund af denitrifikationsevnen tager 800
+andre ting komme ned, vil jeg gøre opmærk- år, inden nitraten når ned, og derfor kan man
+som på, at det ikke er nogen egentlig begrun- ikke bruge nitrat som påviseligt grundlag for
+delse, idet nitrat i mange tilfælde overhovedet en påstand om, at vand ikke er brugbart, fordi
+ikke kan komme ned, fordi det bliver denitrifi- der så også kan være andre ting. Den går ikke.
+Hvad angår dette, at huse ikke kan sælges,
+ceret. Det er ikke en værdig indikator.
+vil jeg sige, at hvis en ejendoms vand er godt
+nok - og der er masser af godt vand med 70-80
+(Kort bemærkning).
+mg nitrat pr. liter - er det en stor belastning at";Filt Jensen
+63322;name_party;":
+få pålæg om, at den pågældende ejendom ikke
+Jeg vil gerne omtale to spørgsmål. Den di- må sælges, uden at der bliver offentlig vandrekte begrundelse fra ministrene i den tidligere forsyning til den.
+regering var WHO's vurdering fra 1991 og EFI øvrigt vil jeg gerne henvise til, at professor
+direktivet - det var det, de henviste til i hoved- Bonnevie, som var med til at lave WHO-reglen
+begrundelsen.
+om de 50 mg pr. liter, selv har sagt og skrevet i
+Hvad angår påstanden om, at man ikke kan artikler, at 50-milligrams-grænsen i et land
+sælge huse, hvis de skal have en ordentlig som Danmark, hvor vi normalt ikke har baktevandforsyning, mener jeg, det forholder sig li- rieholdigt vand, er overflødig, og at det ikke er
+ge nøjagtig omvendt, vil jeg gerne sige til hr. Danmark, der er tænkt på i den forbindelse,
+Filt Jensen. Det er sådan, at man overhovedet men udviklingslande, hvor man ikke har bakikke kan sælge de huse, hvis vandforsyning ik- teriefrit drikkevand, og hvor man har den
+ke er i orden. Folk vil simpelt hen ikke have holdning, at børn skal have kunstmælkeprodårligt vand at drikke, og det kan jeg godt for- dukter, som man rører op i det bakterieholdige
+stå. Derfor skal vi have de ting i orden, og jeg vand. Det er dér, man har problemet med de
+nævnte et par kommuner, som gjorde en ind- blå børn, og det er de tilfælde, der er baggrun-
+
+1355
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Martin Glerup
+64792;title_name;"den for WHO's bestemmelse om at sætte en
+grænse ved 50 mg pr. liter, ikke den situation,
+vi har i Danmark.
+(Kort bemærkning).";Filt Jensen
+64937;name_party;":
+I anledning af hr. Martin Glerups tale vil jeg
+gerne sige, at det var, som om hr. Martin Glerup ønskede at få befolkningen til at tro, at nitrat er det samme som giftstoffer. Derfor vil jeg
+gerne spørge hr. Martin Glerup, om han ikke
+er enig med mig, når jeg henviser til, at undersøgelser viser, at f.eks. et ganske almindeligt
+måltid, hvori indgår spinat, indeholder mellem
+500 og 600 mg nitrat, at den kost, vi normalt
+indtager hver dag, indeholder 100 mg, og at vi
+mennesker selv producerer 60-70 mg i døgnet.
+Jeg så gerne, at vi kunne få debatten lidt ned
+på jorden, så nitrat ikke kommer til at fremstå
+for befolkningen som et giftstof. Nitrat er faktisk grundlaget for alt liv på Jorden.
+(Kort bemærkning).";Aage Brusgaard
+65670;name_party;":
+Det er ganske rigtigt, kan jeg sige til hr. Aage
+Brusgaard, men det er jo lige så rigtigt, at alt
+skal være med måde, og det er netop det, der er
+tilfældet med nitrat. Hvis nitratmængden i
+drikkevandet udgør over 50 mg pr. liter, vil det
+nitrat, man får gennem mad og vand - fødemidler i det hele taget - være den hovedsageligste nitratpåvirkning af et menneskes hverdag.
+I hr. Filt Jensens indlæg blev der fokuseret
+meget på WHO og WHO's vurdering fra 1991.
+Det synes jeg også er korrekt, men hr. Filt Jensen glemte at tilføje, at EF jo har indført denne
+grænse på 50 mg som et EF-direktiv, og derfor
+er det også en lidt akademisk debat, vi har, for
+vi har at holde os under de grænser, der er angivet i det pågældende EF-direktiv, anderledes
+kan, det jo ikke være.
+Men samtidig må man da gøre opmærksom
+på, at EF-området jo ikke er noget særlig udpræget ulandsområde med farlige brønde osv.
+Hele EF er jo et højt industrialiseret område,
+så det modsiger i nogen grad hr. Filt Jensens
+argumentation, selv om jeg ved, at det der med
+Bonnevie osv. har en religiøs betydning for hr.
+Filt Jensen.
+
+1356
+
+(Kort bemærkning).";Martin Glerup
+66811;name_party;":
+Hr. Martin Glerup nævnte her til sidst, at
+nitrat var udmærket og godt, og bekræftede, at
+vi heller ikke kunne leve uden, men alting med
+måde.
+Jeg vil gerne spørge, om jeg også må forstå
+hr. Martin Glerup sådan, at han ikke mener,
+man dør af at spise spinat, selv om man indtager 600 mg pr. måltid. Det svarer til 121 vand
+med et nitratindhold på 50 mg. Det giver mig
+anledning til at spørge hr. Martin Glerup, hvor
+mange mennesker i Danmark hr. Martin Glerup tror drikker 12 l vand om dagen. Men selv
+om man drikker 12 l vand, har man altså ikke
+fået mere nitrat, end hvis man har spist spinat,
+og det er endda 12 l vand med maksimalt nitratindhold.
+Hvis vi går ned til 6 l med 100 mg, har man
+stadig væk ikke fået mere nitrat end ved at have fået spinat til sin middagsmad.
+Jeg vil gerne spørge hr. Martin Glerup:
+Hvor er grænsen? Når hr. Martin Glerup selv
+siger, at alting er godt, men med måde, hvor er
+mådegrænsen så henne for hr. Martin Glerup?
+(Kort bemærkning).";Aage Brusgaard
+67803;name_party;":
+Indimellem kan man jo blive forbløffet. Jeg
+var ikke klar over, hvad hr. Aage Brusgaard
+ville sige, men nu skal jeg i hvert fald sige det,
+jeg vil sige til hr. Martin Glerup, og det er, at
+det var interessant at høre, at det var en akademisk debat, og at grænserne for vores brøndvand i EF er dirigeret fra EF-direktiver, så
+Danmark altså skal underlægge sig fremmede
+landes normer osv.
+Da der jo ifølge hr. Martin Glerup ikke er
+nogen ulandsbrønde, vil jeg gerne spørge hr.
+Martin Glerup, om han nogen sinde har tænkt
+på, at han spiser salat, grøn salat, vintersalat
+med 3.000 mg pr. kilo.
+(Kort bemærkning).";Kirsten Madsen
+68432;name_party;":
+Til det sidste kan jeg sige ja, for jeg spiser
+næsten daglig salat, og det vil jeg også gøre i
+fremtiden.
+Derudover vil jeg gøre hr. Aage Brusgaard
+opmærksom på, at det er vanskeligt at sige,
+hvad langtidsvirkningen af et for højt nitrat-
+
+1357
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Martin Glerup
+68786;title_name;"indhold vil være, men hovedsagen er jo, at vi
+her i landet dyrker forsigtighedsprincippet, og
+det vil sige, at hvis vi ikke kender den helt nøjagtige sammenhæng, bruger vi forsigtighedsprincippet. Jeg mener, det er fornuftigt at sætte
+en grænseværdi, som EF har gjort, på 50 mg
+pr. liter, men jeg mener også, det er fornuftigt,
+at kommunerne har mulighed for at gennemføre en lempelig administration af de områder,
+og i langt over 90 pet. af tilfældene gennemfører de jo en fornuftig planlægning, som kun
+har det ene formål at tilfredsstille de mennesker, der bor ude i de spredt bebyggede områder, med en god vandforsyning.
+Jeg synes altså, det er en fornuftig ordning,
+vi har, og det sker kun i få tilfælde, at det kommunale selvstyre tager lidt hårdt fat. Det må vi
+leve med, når vi går ind for det kommunale
+selvstyre.";Martin Glerup
+69628;name_party;":
+I folkehøjskolesangbogen står der en lille
+sang, som de fleste sikkert kender: »Som dybest brønd giver altid klarest vand«, og det
+fortsætter nok så smukt: »og lifligst drik fra
+dunkle væld udrinder«.
+Det kunne man vel i folketingssprog sådan
+lidt floromvundet oversætte til, at det er en
+slags kærlig omsorg for, at landets mange spæde ikke får vand med mere end 50 mg nitrat pr.
+liter. Den beslutning har foreløbig, kan vi så
+sige, tvunget mange private husstande til at
+lænse tegnebogen for betydelige beløb, for at
+de kan få lejlighed til at nyde det livsalige
+kommunale vandværksvand.
+Det videnskabelige har man været noget inde på, og det, vi vel nok kan sige som indfaldsvinkel til det, er, at nitrat i sig selv er ikke skadevoldende, heller ikke selv om man kommer
+over de 50 mg. Hovedsynderen er ikke nitrat i
+sig selv, problemerne opstår, hvis det, som det
+i sin tid blev konstateret i Ungarn, indgår i andre forbindelser.
+Det er meget væsentligt, når vi beskæftiger
+os med vand, at vi forsøger at få en vandpolitik, hvor vi viser miljøseriøsitet, tager miljøhensyn og forsøger at fare med lempe. Vi skal
+sikre rent drikkevand, som ministeren rigtigt
+sagde - det er »et helt elementært fødemiddel«. Vi skal have en afbalanceret holdning til
+det, forsøge at sikre seriøsiteten i debatten og
+sikre, at vandkvaliteten er den bedst tænkelige.
+
+1358
+
+Hvis vi bliver i det historiske, kunne man
+henvise til bekendtgørelse nr. 515 af 29. august
+1988: det var Miljøministeriet, der dengang
+fastlagde de danske vandkvalitetskrav. Man
+tog udgangspunkt i WHO-standarden, og der
+indførtes i bekendtgørelsen en regelmæssig
+kontrol også af de private brønde, og jeg vil
+gerne sige, at det er en god og en rigtig beslutning, som skal fortsætte.
+I 1990 fik man en vejledning fra Miljøstyrelsen, hvor man lægger op til en lempelig praksis
+over for de private brøndejere. Det er en god
+og en rimelig vejledning, og jeg vil ligesom ministeren understrege den daværende miljøminister Per Stig Møllers brev - hvis jeg må kalde
+det det - fra den 30. oktober 1991, hvor man
+bekræfter den regelmæssige kontrol og på ny
+understreger, at kommunalbestyrelsernes
+håndhævelse er valgfri over for de private
+brønde.
+Der foregår en debat på mange niveauer.
+For kort tid siden så man, at chefen for DGU
+pegede på nogle nye undersøgelsesresultater,
+og jeg synes, man skal være fair og sige, at én
+ting er, at vi tager en debat - det har vi brug for
+en gang imellem, fordi det kan understrege
+værdien og betydningen af, at man sikrer en
+god vandkvalitet - men når det er sagt, vil jeg
+sige, at disse grundlæggende krav og bestemmelser fra EF og synspunkterne fra WHO skal
+vi ikke under nogen omstændigheder tilsidesætte, heller ikke selv om vi får en stor og lang
+debat.
+EF-direktivet har været omtalt. Lad mig sige, at EF-Domstolen jo faktisk har set på det
+pågældende direktiv om drikkevand og slået
+fast, at direktivet ikke omfatter private brønde,
+og at medlemslandene derfor er frit stillet.
+Når jeg alligevel synes, debatten kan være
+vigtig, så er det, fordi man en gang imellem,
+som ministeren var inde på, må finde en balance i debatten, så man ikke kører over i enten
+den ene eller den anden grøft. Jeg har lyst til at
+citere en udtalelse af daværende miljøminister
+Chr. Christensen, som den 9. oktober 1986 sagde, at det er bevist, at der er en tydelig sammenhæng mellem mavekræft og højt indhold
+af nitrat i drikkevandet, og at mange småbørn
+er i direkte fare: konsekvensen for dem er
+langsom kvælning. Det ville alle jo i dag sige er
+forkert, og man kunne - som en avis skrev sige, at efter den sætning blev folket tæmmet
+politisk til enfoldig tavshed.
+
+1359
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jens Jørgensen
+73385;title_name;"Det, der er afgørende, er, at vi tager diskussionen, og at vi forsøger at understrege, at det
+er et kommunalt ansvar, og at den enkelte borger skal inddrages i forbindelse med de tiltag,
+der sker.
+Jeg vil gerne slutte med at sige, at jeg er glad
+for de to sidste linjer i ministerens talepapir
+om, at der vil blive strammet op, og at det vil
+blive understreget, at selvfølgelig har kommunerne et ansvar, men man skal virkelig sørge
+for, at der sker en fair og seriøs behandling af
+de enkelte borgere ud fra en lang række kriterier, altså en ensartet behandling.";Jens Jørgensen
+73965;name_party;":
+Jeg vil gerne starte ined noget positivt, og
+det er, at jeg var meget glad for et par elementer i miljøministerens tale. Jeg synes, der var to
+gode skridt fremad som udtryk for, at Socialdemokratiet og regeringen virkelig er i bevægelse med hensyn til opfattelsen af nitrats skadelighed.
+Den første ting er, at miljøministeren sagde:
+Det kan imidlertid ikke udelukkes, at der eksisterer enkelte kommuner, der administrerer
+reglerne for håndfast. Jeg er 100 pet. enig. Jeg
+er blevet kimet ned, jeg har nok fået omkring
+200-300 telefonsamtaler og har fået utrolig
+mange breve fra brøndejere, som er blevet behandlet ganske urimeligt af de forskellige
+kommunalbestyrelser - eller måske snarere af
+embedsmændene, som jo har kørt løbet. Der er
+tilfælde med bare 70-75 mg nitrat pr. liter, hvor
+man i nogle kommuner risikerer, at brønden
+skal lukkes, men i andre kommuner har embedslægen måske en anden holdning og siger,
+at dér må man gerne køre videre.
+Og den anden ting, som jeg er utrolig glad
+for at miljøministeren sagde, er ordret citeret:
+»Jeg agter i nærmeste fremtid at skrive til kommunerne for at indskærpe henstillingen om at
+fare med lempe.« Jamen tak for det! Så tror jeg
+virkelig - også efter debatten her - at der er
+mulighed for, at mange embedslæger vil begynde at sige: Jamen op til 100 mg eller måske
+150 mg nitrat pr. liter gør ikke noget, det er
+ikke skadeligt.
+I øvrigt er det pudsigt, at vi står her og taler
+om nitrat, som er et kemisk stof, som er nødvendigt for planter og nødvendigt for mange
+andre ting, men i hvert fald indtil nu - der er
+
+1360
+
+nok ved at ske en opblødning - har det været
+sådan, at hvis man var socialdemokrat, troede
+man, at nitrat var ret farligt, hvis man var SF'er
+eller længere ude, troede man, at det var dødsensfarligt, og hvis man var radikal, så vidste
+man ikke rigtig: men hvis man var Venstremand eller konservativ, så mente man, nitrat
+var ufarligt. Derfor må man sige, at det er ret
+nødvendigt, at vi får en debat om dette her, for
+det er jo et stof, som vi alle sammen bliver udsat for en gang imellem.
+Jeg lovede i mit første indlæg at vende tilbage til Sundhedsstyrelsen, og det gør jeg med ret
+stor interesse. I Sundhedsstyrelsen er der jo ret
+mange læger, som er fuldtidsansatte, og som
+skulle arbejde med flid og omhu, men hvor har
+man dog gjort utrolig mange fejl. Hvad årsagen er, tør jeg ikke rigtig vide, men jeg er meget
+glad for, at sundhedsministeren nu er her, for
+så kan vi måske her fra talerstolen få bekræftet,
+at Sundhedsstyrelsen har været, skal vi sige
+uheldig.
+For det første vil jeg sige, at det at være et
+blåt barn på grund af for meget niethæmoglobin, som det hedder, er en ganske, ganske ufarlig tilstand i Danmark, hvor vi har sundhedsplejersker og vi har læger. Bare man holder op
+med at give vand, som indeholder masser af
+bakterier, så forsvinder den blå farve jo fra
+børnene, og børnene bliver raske af sig selv,
+bare de får noget andet vand at drikke. I de
+sidste 20 år har der kun været ét tilfælde af blåt
+barn i Danmark, som er verificeret, som er sikkert. Det var i 1976, og det var i Salling, og
+man kan læse mere om det i Ugeskrift for Læger, hvor der står, at der var en mødding ganske tæt ved denne brønd.
+Selv om sandheden er, at der kun har været
+ét blåt barn, har Sundhedsstyrelsen hævdet, at
+der har været 5 blå børn pr. år, og da jeg stillede nogle spørgsmål til ministeren her engang i
+juni måned, så gentog man fejlen og påstod
+igen, at der var 5 blå børn årligt. Sundhedsstyrelsen mener med andre ord, at der har været
+omkring 100 blå børn i de sidste 20 år: det siger almindelig hovedregning. Det er jo i sandhed en kraftig overdrivelse, at man kommer til
+at sige det. Man overdriver faktisk 100 gange.
+Så kommer den anden fejl, som Sundhedsstyrelsen har gjort. Man har år efter år oplyst,
+at nitrat i drikkevand kan være årsag til, at
+symptomet blå børn, altså nitratsyge børn, op-
+
+1361
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand
+1362";Jørgen Winther
+77974;title_name;"står, altså nitrat alene: det er også ganske urig- - at Sundhedsstyrelsen nu har erkendt, at der
+tigt, fordi der skal være bakterier samtidig. I
+kun har været ét nitratsygt barn i Danmark i
+Danmark har der været i alt 5 tilfælde, og i alle
+de sidste 20 år,
+5 tilfælde har der været masser af kolibakterier - at Sundhedsstyrelsen nu har erkendt, at den
+i drikkevandet. Det var fejl nr. 2, en indlysende
+enkeltes kræftrisiko er uafhængig af, om der
+fejl.
+er en nitratkoncentration på 0-50 eller 100
+Tredje fejl: Sundhedsstyrelsen har gennem
+mg nitrat pr. liter drikkevand som eneste
+årene oplyst, at børn kan blive nitratsyge ved
+miljøindikator, og
+at indtage drikkevand med 50 mg nitrat pr. li- - at kommunalbestyrelserne som hidtil kan
+ter. Det sagde man sidst i 1990. Det er også
+udtage vandprøver og give vejledning om
+ganske ukorrekt, i hvert fald efter danske forvandets egnethed som drikkevand,
+hold. Sundhedsstyrelsen overdriver faktisk tre fastslår Folketinget, at det alene er et kommugange her, for det sande tal ligger et sted mel- nalt ansvar i samråd med den enkelte borger at
+lem 172 mg nitrat pr. liter og 495 mg nitrat pr. træffe de relevante dispositioner, når en privat
+liter for de blå børn, vi har haft i Danmark. brønds nitratindhold overstiger WHO's grænHvorfor siger Sundhedsstyrelsen 50 mg, når seværdi.
+Tinget går herefter over til næste punkt på
+det rigtige tal er 172 mg? Hvis man læser forskellige lægebøger om dette her, kan man se, at dagsordenen.«
+(Dagsordensforslag nr. D 8).
+sådan er det: men Sundhedsstyrelsen har altså
+haft andre lægebøger eller måske andre intentioner.
+Jeg vil lige som supplement hertil sige, at orAngående mavekræft har Sundhedsstyrel- dene »i samråd med den enkelte borger« opsen flere gange udtalt, at nitrat er forbundet fatter vi sådan, at der er en vetoret for den enmed risiko for mavekræft. På det sidste er man kelte borger.
+gået over til at sige, at der måske er mistanke
+Jeg håber på en fortsat god debat, og jeg håom mavekræft. Men flere fremragende kræft- ber, at sundhedsministeren her fra talerstolen
+forskere, også her i Danmark, hævder, at der vil erkende, at Sundhedsstyrelsen, skal vi sige
+overhovedet ikke er videnskabeligt dokumen- har været uheldig med sine oplysninger.
+teret sammenhæng mellem meget nitrat i drikkevandet og mavekræft.";Jørgen Winther
+80317;title_name;":
+Det ville da også være underligt, når KræfDer er nu fremsat følgende forslag om motitens Bekæmpelse siger, at salat, spinat og rødveret
+dagsorden: (se ovenfor). Denne dagsorbeder forebygger kræft - det anbefaler man jo,
+den
+vil
+indgå i den videre forhandling.
+og det er der masser af nitrat i - at nitrat i drikkevandet så skulle give kræft. De to ting hæn(Kort bemærkning).
+ger selvfølgelig ikke sammen.
+Sundhedsstyrelsen har faktisk begået så Aage Brusgaard (FP):
+mange fejl, at det er tankevækkende, og jeg syJeg vil godt lige sige om den dagsorden, at
+nes egentlig, at det kunne være interessant at få der ikke skal herske tvivl om, at Fremskridtsen god forklaring på, hvorfor der ikke kun er partiet hellere havde set, at den var strammet
+én fejl, men fire fejl. Jeg kan se, at sundhedsmi- op, sådan at det helt klart fremstod, at den ennisteren er ret uinteresseret i at følge den de- kelte borger selv bestemmer over sin brønd, og
+bat, vi for nærværende fører, men jeg håber, at om man selv vil drikke af den. Men dette er en
+sundhedsministeren var forberedt på dette her, forespørgsel rejst i samråd af tre partier, og så
+og jeg håber da, at sundhedsministeren kan be- må vi jo bøje os lidt mod hinanden, og derfor
+kræfte, at de ting, jeg har sagt, er korrekte.
+er jeg altså gået med til denne motiverede
+Jeg vil så på tre partiers vegne fremsætte et dagsorden.
+forslag om motiveret dagsorden. Det er fra
+Men jeg vil sige det samme som hr. Jørgen
+Venstre, Konservative og Fremskridtspartiet, Winther: Vi betragter det helt klart sådan, at
+og det lyder:
+borgeren har vetoret over for sin kommune
+med hensyn til, om borgeren vil drikke af sit
+»Idet Folketinget konstaterer,
+eget vand.
+
+1363
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørn Pedersen
+82124;title_name;"Så vil jeg lige rette hr. Jørgen Winther. Han
+nævnte, at De Radikale inden for dette her nitratspørgsmål ikke rigtig vidste, hvor de stod:
+men en tidligere radikal folketingsmand, hr.
+Svend Haugaard, har skrevet artikel efter artikel mod den urimelige nitratgrænse på 50 mg,
+så De Radikale, i hvert fald de tidligere radikale folketingsmedlemmer, har en meget klar
+holdning til nitrat. De er nemlig kloge, de tidligere radikale medlemmer: de ved godt, at nitrat ikke er gift, men simpelt hen en nødvendighed.";Aage Brusgaard
+82665;title_name;":
+Jeg skal gerne glæde hr. Jørgen Winther
+med at sige, at det er fuldstændig korrekt, at
+Sundhedsstyrelsen har givet forkerte oplysninger til Folketinget og til Sundhedsministeriet
+om antallet af såkaldte blå børn. Det er der ikke nogen nyhed i, det blev erkendt i sommerens løb. Det skrev Sundhedsstyrelsen til mig
+om den 16. august 1993, og jeg informerede
+Folketingets Sundhedsudvalg om det ved et
+brev af 26. august 1993. Der har altså overhovedet ikke været holdt noget hemmeligt om
+det, tværtimod blev det offentliggjort, der blev
+udsendt pressemeddelelse. Jeg har offentligt
+misbilliget sagsbehandlingen i Sundhedsstyrelsen, og medicinaldirektøren har på Sundhedsstyrelsens vegne erkendt, at man har givet
+fejlagtige oplysninger til Folketinget. Jeg troede faktisk, at den sag dermed var afgjort, men
+jeg kan forstå, at man kan koge lidt mere suppe på den, som flere har været inde på her, i
+den amtskommunale valgsituation, vi nu befinder os i.
+Det vigtige for fremtiden og det vigtige for
+drikkevandet er jo, at der ikke er nogen ændring i den sundhedsfaglige vurdering. De
+sundhedsfaglige argumenter for, at man ikke
+ønsker at hæve grænsen for nitrat i drikkevand, er fortsat hensynet til iltmangel i blodet
+hos spædbørn og mistanken om risiko for udvikling af mavekræft. Det sidste omkring risikoen for mavekræft har jeg også oversendt til
+Folketingets Sundhedsudvalg ved et notat af
+24. august 1993, som blev oversendt til Sundhedsudvalget den 26. august 1993, og vi har i
+øvrigt haft lejlighed til at drøfte det i Sundhedsudvalget.
+Der er altså ingen ændring i den danske
+sundhedsstyrelses anbefaling, og det er en an-
+
+1364
+
+befaling, der fuldt ud ligger på linje med anbefalingerne fra WHO og det niveau, man har
+lagt sig på også i EF.
+(Kort bemærkning).";Torben Lund
+84452;name_party;":
+Ja, nu bliver det jo interessant. Jeg vil godt
+spørge hr. Jens Jørgensen, om Det Konservative Folkeparti fortolker tingene på samme måde som Venstre og Fremskridtspartiet med
+hensyn til, at den enkelte har vetoret mod
+brøndlukning i forhandlinger med kommunen,
+og at det er den enkelte borger, der skal bestemme. I så fald ophæver man da fuldstændig
+den ligestilling, som den tidligere miljøminister, hr. Per Stig Møller, bestemte at der skulle
+være, nemlig at der skulle gælde de samme
+regler for enkeltvandsboringer som for vandværkerne ud fra den synsvinkel, at de mennesker, der drikker vand fra enkeltvandsforsyninger, er lige så udsat som dem, der drikker
+vandværksvand.
+Jeg vil godt spørge, om hr. Jens Jørgensen er
+enig i de gældende grænser, sådan som han
+sagde, eller om det er noget andet, der er gældende fra konservativ side.
+(Kort bemærkning).";Martin Glerup
+85330;name_party;":
+Enten ville sundhedsministeren ikke høre
+efter, eller også har sundhedsministeren snakket, mens jeg havde mit indlæg. Det, jeg sagde,
+var jo, at der var fire fejl, som Sundhedsstyrelsen havde begået. Det er rigtigt, at angående
+antallet af blå børn har Sundhedsstyrelsen fået
+en blå tud - undskyld, de har fået en påtale, en
+næse - fra sundhedsministeren for at have
+givet fejlagtige oplysninger: men det, jeg nu
+fremdrager, er, at det jo ikke kun er den ene
+fejl, og det er det, der gør det interessant. Jeg
+vil gerne bede ministeren om at høre meget
+godt efter: Man har sagt, at nitrat i drikkevand
+alene kan være årsag til nitratsyge børn, blå
+børn. Jeg vil gerne spørge ministeren: Er det
+forekommet i Danmark? Hvorfor skriver
+Sundhedsstyrelsen det? Hvorfor skriver Sundhedsstyrelsen, at sygdommen kan optræde ved
+50 mg nitrat pr. liter, når det i Danmark ikke er
+konstateret ved lavere drikkevandskoncentrationer end 172 mg nitrat pr. liter?
+
+1365
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørgen Winther
+86393;title_name;"Og angående mavekræft: Hvordan kan en
+overlæge i Sundhedsstyrelsen konkludere, at
+der måske er en risiko, når samme overlæge
+samtidig skriver, at den enkeltes risiko for at
+udvikle kræft er uafhængig af, om der er 0, 50
+eller 100 mg nitrat i drikkevandet? Det er disse
+tre ting, der åbenbart er nye for sundhedsministeren, og jeg vil gerne høre, om ministeren er
+enig i, at Sundhedsstyrelsen også dér har givet
+ukorrekte oplysninger. Det er jo det, der er interessant: Man kan være uheldig én gang, men
+hvis man gør det fire gange, så ligner det noget,
+der er mere interessant.";Jørgen Winther
+87003;title_name;":
+Jeg kan i forhold til de oplysninger, der er
+givet fra Sundhedsstyrelsen, henholde mig til
+de papirer, der er oversendt til Folketingets
+Sundhedsudvalg den 26. august 1993, herunder brevet, hvori Sundhedsstyrelsen erkender,
+at nogle oplysninger om antallet af såkaldte
+blå børn har været forkerte. Hvis der er andre
+sundhedsfaglige spørgsmål, hr. Jørgen Winther ønsker at få belyst i denne sag, så må jeg
+oprigtig talt sige, at jeg synes, hr. Jørgen Winther skulle stille mig nogle sundhedsfaglige
+spørgsmål med henblik på at indhente Sundhedsstyrelsens udtalelse om det. Det hører
+hjemme i en rent faglig diskussion. Det er
+spørgsmål, som alene Sundhedsstyrelsen kan
+svare på, og jeg synes ærlig talt, at hr. Jørgen
+Winther skulle respektere, at dette er en politisk forsamling, det er en lovgivende forsamling, hvor vi diskuterer politiske spørgsmål, og
+ikke en lægevidenskabelig konference.
+(Kort bemærkning).";Torben Lund
+87937;name_party;":
+Ja, lægevidenskabelig konference eller ej,
+kemiske begreber eller ej - jeg havde måske
+indtaget lidt for meget H20, hvis jeg må sige
+det på den måde, forhåbentlig dog under
+WHO's faregrænse, og var derfor lige ude,
+mens hr. Jørgen Winther var i gang med sin
+ordførertale.
+Jeg blev stillet et spørgsmål omkring fortolkningen af den sidste sætning: at det alene er et
+kommunalt ansvar i samråd med den enkelte
+borger at træffe beslutning. Jeg vil gerne sige
+meget tydeligt, at Det Konservative Folkeparti
+ligger helt på linje med de bekendtgørelser og
+vejledninger, som daværende miljøminister
+
+1366
+
+Per Stig Møller udstedte. Jeg vil gerne sige, at
+når der står meget præcist, at det er et kommunalt ansvar, så er det et kommunalt ansvar.
+Når der står, at det skal ske i samråd med den
+enkelte borger, så betyder det lige præcis, at
+den enkelte borger har ret til at blive hørt. Det
+kan man så formulere på den ene eller den anden måde, men det, der for os er det afgørende,
+er, at kommunen med denne her formulering
+ikke uden videre kan gå ind og lukke brønde.
+Derfor står der så præcist, at det skal ske i samråd med den enkelte borger, man kan ikke
+skøjte den pågældende til side. Det er dér, vi
+står, det er sådan, vi læser teksten, hverken mere eller mindre, og det burde være svar nok til
+hr. Martin Glerup. Jeg håber, det er tilfredsstillende.
+(Kort bemærkning).";Jens Jørgensen
+89326;name_party;":
+Ja, jeg vil faktisk sige, jeg er meget skuffet og
+også utilfreds med sundhedsministerens svar.
+I en debat, der drejer sig om mange mia. kr.,
+bør en minister sætte sig nogenlunde grundigt
+ind i tingene: det har ministeren ikke gjort her.
+Der er virkelig forskel på, om man bliver nitratsyg, når der er 50 mg nitrat pr. liter, eller
+først når der er 172 mg nitrat pr. liter. Det har i
+øvrigt stået i mange af de svar, vi har fået, så
+hvis sundhedsministeren havde læst dem, ville
+ministeren også have været klar over det her.
+Jeg kan konstatere, at dette ikke så meget er
+en debat om viden, det er mere en debat om
+religion. Socialdemokratiet vil tro, at nitrat er
+farligt. De lukker øjnene, når de ser de videnskabelige kendsgerninger, eller også vil de ikke
+engang læse om dem. Jeg forstår nu bedre,
+hvorfor man stadig væk er bange for det. Det
+er, fordi man kun ved, at Sundhedsstyrelsen
+har misinformeret angående antallet af blå
+børn: man ved altså endnu ikke, at Sundhedsstyrelsen har misinformeret angående de andre
+tre ting. Det har den, og det kan man jo finde
+ud af, hvis man gider sætte sig grundigt ind i
+tingene.
+Miljøministeren (Svend Auken):
+I de mere end 20 år jeg har haft sæde her i
+Tinget, har jeg aldrig oplevet en mere ejendommelig forespørgselsdebat end den, vi har i
+øjeblikket. Tidligere regeringspartier fører sig
+med voldsom kraft frem mod den nuværende
+
+1367
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørgen Winther
+90821;title_name;"regerings videreførelse af den tidligere regerings politik på dette område.
+De regler, vi administrerer efter, de grænseværdier, vi har, som hviler på internationale
+henstillinger, rekommandationer, blev gennemført under den tidligere regering. Da den
+tidligere regering fik at vide, som hr. Jens Jørgensen med rette gjorde opmærksom på, at
+EF's drikkevandsdirektiv ikke gjaldt private
+brønde - da Domstolen sagde det i 1988 valgte Venstre, Konservative og Det Radikale
+Venstre i regering at fastholde, at der skulle
+gælde de samme kvalitetskrav til private brønde som til vandværksvand.
+Det eneste parti, der med en vis ret kan deltage i debatten her i dag med de stærke ord, er
+Fremskridtspartiet. Både Venstre og Konservative valgte, da man havde chancen, at gennemføre en politik, der først og fremmest tog
+hensyn til sundheden.
+Den nuværende regering har ikke gjort andet. Den nuværende regering har oven i købet
+i sin administration videreført den tidligere
+miljøministers og den tidligere sundhedsministers synspunkter og har endda lovet under debatten her i dag at gentage de synspunkter,
+som den tidligere regering gav udtryk for.
+Det er det ene, der er ejendommeligt: at de
+tidligere regeringspartier bebrejder den nuværende regering, at den viderefører den tidligere
+regerings politik: det er absurd.
+Det andet, der er ejendommeligt, er, at uden
+at der endda bliver stillet spørgsmål til det siger hr. Aage Brusgaard, der er medforslagsstiller til forslaget om motiveret dagsorden, at
+sætningen skal forstås på en sådan måde, at
+der er tale om en vetoret. Der er tale om vetoret, for uanset hvad kommunen kommer med,
+kan borgeren sige nej til at gøre noget ved sit
+usunde drikkevand. Det samme siger hr. Jørgen Winther. Hr. Jørgen Winthers og hr. Aage
+Brusgaards opfattelse er ensbetydende med, at
+den tidligere regerings beslutning om beskyttelse af de private brøndes vandkvalitet er ophævet: det siger sig selv.
+Derefter spørger hr. Martin Glerup hr. Jens
+Jørgensen fra De Konservative, som er medforslagsstiller til forslaget om motiveret dagsorden, men her er der ikke længere tale om nogen vetoret: her er der alene tale om det meget
+fornuftige, at man taler sammen, inden kommunen træffer sin afgørelse.
+
+1368
+
+Det vil altså sige, at man vil have Folketinget til at tage stilling til et forslag om motiveret
+dagsorden, der på det afgørende punkt fortolkes diametralt modsat af to af partierne i forhold til det tredje parti. Jeg tror slet ikke, Folketingets forretningsorden har forudset den situation, vi her er blevet bragt i, slet ikke! Ingen
+mennesker kan have fantasi til at forestille sig,
+at noget så tåbeligt kan foregå i folketingssalen.
+Derfor synes jeg - og det er derfor, jeg har
+bedt om ordet på dette tidspunkt - at hr. Jørgen Winther og de øvrige forespørgere gør Folketinget en tjeneste ved at trække deres forespørgsel tilbage og diskutere med sig selv,
+hvad det egentlig er, de ønsker at Folketinget
+skal tage stilling til, og så kan vi måske på et
+senere tidspunkt genoptage debatten.
+Hvad skal Folketinget gøre? Det ene parti
+siger, at det betyder én ting at stemme ja til
+dette forslag om motiveret dagsorden, det andet parti siger, at det betyder det stik modsatte.
+Disse vilkår kan man simpelt hen ikke byde
+Folketinget.
+Jeg startede med at sige, at jeg synes, det er
+fint, at der gøres en indsats i den kommunale
+valgkamp. Jeg synes, vi må anerkende, at den
+kommunale valgkamp er en vigtig ting, så det
+skal jeg ikke bebrejde hr. Jørgen Winther og
+andre. Men det her, det kan man simpelt hen
+ikke være bekendt!
+(Kort bemærkning).";Miljøministeren
+94411;name_party;":
+Det, der jo er sagen, er, at virkeligheden har
+ændret sig. Da den gamle regering lagde disse
+forskellige beslutninger til grund for de nye love, var det sådan, at man troede fuldt og fast
+på Sundhedsstyrelsen. Det bør man jo også
+kunne.
+Nu har Sundhedsstyrelsen så mere eller
+mindre erkendt, at man har givet alle disse fejlagtige oplysninger, og i Venstre har vi det altså
+sådan, at når virkeligheden ændrer sig, så ændrer vi også holdninger, så ændrer vi også politik.
+1
+Jeg kan da godt forstå miljøministerens forundring over, at partier, der tidligere var ansvarlige for lovgivningen, nu går i opposition
+til den gamle lovgivning, men det er altså sådan, at vi nu kan se, at vi har troet, at nitrat var
+farligt. Da jeg gik på universitetet, lærte vi og-
+
+1369
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørgen Winther
+95283;title_name;"så, at nitrat var meget, meget farligt. Mine
+børn, der fik undervisning i skolen, lærte også,
+at nitrat var farligt. Det, som hr. Jens Jørgensen læste op før, er det, som mange børn har
+lært: at nitrat giver den langsomme kvælningsdød, og det giver mavekræft osv. Det er jo det,
+man har troet. Men nu har virkeligheden ændret sig. Nu ved man - i hvert fald de, der gider
+sætte sig ind i det - at nitrat ikke er farligt.
+Og hvis nogen mener, at det er farligt, så vil
+jeg gerne spørge både miljøministeren og";Jørgen Winther
+95811;title_name;"Kan man komme med ét
+eksempel på, at et menneske i Danmark er blevet syg af at drikke vand, der indeholder f.eks.
+150 mg nitrat pr. liter? Hvis der er masser af
+bakterier eller svovlsyre eller saltsyre, så o.k.,
+men hvis det er almindeligt vand med 150 mg
+nitrat, hvor vil miljøministeren og sundhedsministeren så kunne dokumentere, at et menneske er blevet syg af det? Det synes jeg kunne
+være utrolig spændende at få at vide, og jeg
+forventer, svar nu.
+(Kort bemærkning).";sundhedsministeren
+96304;name_party;":
+Jeg synes, vi må holde os for øje, hvorfor vi
+er tre partier, der har rejst debatten. Det er
+ganske enkelt på grund af, at mange kommuner har været så nidkære over for private
+brøndejere og forlangt deres brønde nedlagt.
+Det, vi ønsker at få stoppet, er den urimelige
+nedlæggelse af private brønde. Det har kommunerne gjort, fordi de tror, at et nitratindhold
+på lidt over 50 mg pr. liter er farligt, at det har
+givet blå børn og mavekræft osv. Men det er jo
+korrekt, som hr. Jørgen Winther siger, at vi nu
+har fået bekræftet, at der inden for de sidste 20
+år kun har været ét barn, der har været nitratsyg, og at Sundhedsstyrelsen har erkendt, at
+det ikke kan bekræftes, at nitrat op til 100 mg
+giver en kræftrisiko.
+Ministeren nævnte, at V og Z mente med
+dette dagsordensforslag, at borgerne skal have
+vetoret over for kommunen, når det gælder
+usundt vand. Det, vi snakker om, er nitrat, det
+er ikke kolibakterier og andre farlige ting i
+vandet. Her er det nitrat, vi taler om, og dér
+mener vi altså at borgeren skal have vetoret
+over for kommunen, hvis kommunen ønsker at
+nedlægge borgerens brønd.
+Jeg vil da også godt citere lidt fra ministerens tale, nemlig de sidste to linjer, hvor ministeren siger:
+
+1370
+
+»Jeg agter i nærmeste fremtid at skrive til
+kommunerne for at indskærpe denne henstilling om at fare med lempe.«
+Det vil vel i ganske almindelig oversættelse
+betyde, at ministeren selv har erkendt, at mange private brønde er blevet nedlagt af nidkære
+kommunalbestyrelser, så selv ministeren må
+indrømme, at der har været problemer.
+Miljøministeren (Svend Auken):
+Virkeligheden har ændret sig, siger hr. Jørgen Winther: Siden januar 1993 og til oktober
+ser billedet helt anderledes ud. Hvad er det for
+en virkelighed, der har ændret sig? Ja, det er
+det, at Venstre og De Konservative ikke sidder
+i regering, men nu er i opposition og griber efter en hvilken som helst lille chance for at angribe den nuværende regering, selv når den
+nuværende regering ikke gør andet end at videreføre den politik, der blev tilrettelagt under
+den tidligere regering. Det er det eneste, der
+har ændret sig i virkeligheden.
+Må jeg sige til hr. Jørgen Winther: Verdenssundhedsorganisationen har opretholdt sin
+indstilling. EF har netop i september måned i
+år i forbindelse med diskussionen om en mulig
+revision af drikkevandsdirektivet diskuteret,
+om der var grund til at ændre på grænsen med
+de 50 mg, og har besluttet at fastholde den. I
+England har man haft debatten, i Tyskland har
+man haft debatten, i Holland har man haft debatten. Alle steder er sundhedsmyndighederne
+ud fra et sundhedsfagligt synspunkt endt på
+det samme resultat som de danske sundhedsmyndigheder, nemlig at fastholde de 50 mg.
+Jeg har udtrykt min store beundring for hr. /
+Jørgen Winthers selvtillid, når han mener, at
+han ene mand kan sætte Verdenssundhedsorganisationen, EF-sundhedseksperterne og
+sundhedsmyndighederne i en række lande,
+som vi normalt sammenligner os med, til vægs
+og ene mand tilbagevise det alt sammen. Det
+synes jeg vidner om en overordentlig sjælden
+og imponerende selvtillid, en overordentlig
+imponerende selvtillid. Men det spørgsmål, jeg
+stillede til hr. Jørgen Winther, var: Hvordan vil
+man have Folketinget til at tage stilling til en
+dagsorden, som for to af forespørgerne betyder
+ét og for den tredje af forespørgerne betyder
+noget andet?
+Hr. Jens Jørgensen understregede på hr.
+Martin Glerups spørgsmål - og jeg var glad for
+
+1371
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Aage Brusgaard
+99846;title_name;"den understregning - at man ikke ønskede at
+ophæve princippet om grænseværdier for så
+vidt angår nitratindholdet i vandet, selv ikke,
+når der var tale om private brønde, men støttede mit synspunkt og hr. Per Stig Møllers tidligere synspunkt om at administrere lempeligt.
+Det var hr. Jens Jørgensens synspunkt,
+hvorimod hr. Jørgen Winthers og hr. Aage
+Brusgaards var, at borgeren havde ret til bare
+at sige nej, og så skulle det have sit forblivende
+ved det. Det er jo ensbetydende med, at man så
+har ophævet den ligestilling af private brønde
+med vandværker, som blev indført under den
+tidligere regering.
+Det er altså to diametralt modsatte holdninger, man stiller Folketinget over for, og derfor
+opfordrer jeg - og det vil jeg egentlig gerne have et svar på - forespørgerne til at trække forespørgslen tilbage og gå i enrum og diskutere,
+om man vil følge hr. Aage Brusgaards og hr.
+Jørgen Winthers synspunkt eller man er så fornuftig, at man vil følge hr. Jens Jørgensens
+synspunkt.
+(Kort bemærkning).";Miljøministeren
+100865;name_party;":
+Det drejer sig om ministerens bemærkning
+om, at virkeligheden har ændret sig siden januar. Når virkeligheden har ændret sig, så er det
+jo, fordi Folketinget er blevet vildledt af Sundhedsstyrelsen. Det blev klarlagt her i forsommeren, og der er også her givet meget tydeligt
+udtryk for, at der har været tale om en vildledning. Det er baggrunden.
+Hr. Martin Glerup udtaler, at langtidsvirkningen af for meget nitrat er vanskelig at vurdere. Mener hr. Martin Glerup så, at det er
+skadeligt at indtage nitrat, den nitrat, der er i
+grønsager? Vil det sige, at hr. Martin Glerup
+faktisk mener, at man skal sætte en grænse for,
+hvor mange grønsager folk må spise? For nitrat er altså nitrat, og det er jo ligegyldigt, om
+det er nitrat i vand eller det er nitrat i grønsager.
+Jeg har en enkelt bemærkning mere til hr.
+Martin Glerup, det er vedrørende private
+brøndejere. Dér siger du, at de er lige så udsatte . . .";Filt Jensen
+101802;title_name;":
+Hr. Martin Glerup.
+
+1372";Grove
+101845;name_party;":
+Dér siger hr. Martin Glerup, at de er lige så
+udsatte som dem, der får vand fra den offentlige vandforsyning. Hvad er det, de er udsat for?";Filt Jensen
+102019;title_name;":
+Det er til hr. Filt Jensen om det med virkeligheden, der har ændret sig eller ikke ændret
+sig. Dér skal jeg bare ganske kort sige, at der er
+ingen ændring i den sundhedsfaglige rådgivning og den sundhedsfaglige begrundelse, der
+er for Sundhedsstyrelsen for at sige, at det er
+rimeligt at fastholde grænsen på de 50 mg pr.
+liter nitrat i drikkevand også i private brønde.
+Det er altså en sundhedsfaglig anbefaling, som
+svarer fuldstændig til den anbefaling, man også før januar havde fra WHO, og som man
+havde fra EF. Så for alle tre instansers vedkommende - EF, WHO og Sundhedsstyrelsen
+- er der en ensartet rådgivning og anbefaling
+om dette her. Det var der før januar 1993, og
+det er der stadig væk.
+(Kort bemærkning).";Torben Lund
+102760;name_party;":
+Jeg stillede faktisk før et spørgsmål til miljøministeren og et spørgsmål til sundhedsministeren, og det var meget, meget simpelt, utrolig
+simpelt: Begge ministre mener, at nitrat er farligt - eller gør de? Det ved jeg ikke rigtig. I
+hvert tilfælde følger man embedsmændene:
+det er klart. Man tænker ikke så meget selv:
+hvis embedsmændene kommer med en forklaring, er det den, man følger. Men mit spørgsmål var ret simpelt, og det gik på, om bare én
+af de to ministre kan give mig ét eksempel på,
+at én person i Danmark gennem de sidste årtier er blevet syg af at drikke flere liter vand om
+dagen med 150 mg nitrat pr. liter eller med 100
+mg nitrat.
+Hvis man mener, at det er så farligt, bør man
+da kunne finde bare ét eksempel. Så vidt jeg
+husker, er der omkring fem millioner mennesker i Danmark, så man må da kunne finde ét.
+Eller er det ikke viden, er det bare religion? Er
+det kun, fordi man tror, at det måske vil være
+farligt på et tidspunkt? Men når de to ministre
+siger, at det er så farligt - eller er det ikke farligt? Det ved jeg ikke - må de da kunne komme med bare ét eksempel. Jeg har nævnt en
+koncentration, der er tre gange så stor som
+
+1373
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand
+1374";Jørgen Winther
+104032;title_name;"den, vi aktuelt taler om. Så må man da kunne
+Det er det, kommunerne gerne vil vide, og
+komme med bare ét enkelt lille tilfælde. Det det er på baggrund af usikkerhed i kommunerhåber jeg meget.
+ne, at der er blevet lukket de uheldigt mange
+Dernæst vil jeg gerne komme med en ny op- brønde. Så jeg vil bede ministeren om at tage
+lysning til miljøministeren, som miljøministe- sig lidt sammen og fortælle os her i debatten,
+ren åbenbart ikke kender til. Det er angående hvad ministeren mener med, at han vil skrive
+WHO. WHO har nemlig sagt, at man tilråder til borgmestrene rundt om i kommunerne, at
+grænseværdien på 50 mg nitrat pr. liter, men de skal fare med lempe.
+hvad WHO også har sagt, er, at det er ganske
+acceptabelt, at der er 100 mg nitrat pr. liter i
+(Kort bemærkning).
+drikkevand - det glæder mig at se, at miljøministeren rynker panden: det må være udtryk Filt Jensen (V):
+Jeg har et spørgsmål til hr. Martin Glerup,
+for, at miljøministeren ikke var klar over det det har Sundhedsstyrelsen skrevet i et svar til som jeg ikke har fået svar på, og jeg vil gerne
+Sundhedsministeriet, som vi har fået i Sund- gentage det. Hr. Martin Glerup sagde, at langhedsudvalget. Det er altså acceptabelt med 100 tidsvirkningen af for meget nitrat er vanskelig
+mg. Det er heldigvis en ny viden.
+at vurdere. Mener hr. Martin Glerup, at det er
+Men jeg kan altså konstatere, at det er ikke skadeligt at indtage det nitrat, der er i grønsavidenskab, men religion, vi diskuterer her i ger? Mener hr. Martin Glerup, at der skal sætFolketinget.
+tes en grænse for, hvor mange grønsager folk
+må spise? Nitrat er nitrat! Uanset om det kom(Kort bemærkning).
+mer fra drikkevand eller det kommer fra grønsager, er det kemisk præcis det samme.";Jørgen Winther
+105775;name_party;":
+Jeg gentager spørgsmålet: Skal der sættes en
+Borgmesteren - undskyld, ministeren - ja,
+der forestår jo et kommunalvalg, så det kan grænse for, hvor mange grønsager folk må indtage dagligt?
+være, det bliver borgmesteren. (Munterhed).
+Ministeren opfordrede de tre partier, der har
+stillet dette dagsordensforslag i fællesskab, til Miljøministeren (Svend Auken):
+Vi venter stadig væk spændt på svaret på,
+at bede om at få mødet afbrudt og så klargøre,
+hvad de mener. Det, Fremskridtspartiet mener hvordan man her i Folketinget agter at fremmed dagsordensforslaget, er helt klart - det har sætte et dagsordensforslag, der for én forslagsjeg tilkendegivet, og det meddelte jeg de to an- stiller betyder, at man skal snakke med folk,
+dre partier, så det ved de godt - at det er bor- men uden at der er veto, og for de to andre
+gerne, der har vetoret over for kommunen. betyder, at der er veto. Jeg synes, at det er beMen hvis miljøministeren er så utilfreds med, synderligt. Det ene parti mener, at reglerne er
+at han ikke kan tolke, hvad vi mener med dags- gode og skal opretholdes, og de to andre meordenen, synes jeg nok, ministeren skulle prø- ner, at reglerne er umotiverede og bør afskaffes.
+ve at gribe i egen barm.
+Jeg skal svare hr. Aage Brusgaard, og jeg
+Hele debatten om nitrat og en eventuel lukning af brønde kommer jo, fordi kommunerne kan bare henvise til det, jeg sagde i min tale
+er usikre på, hvad de vejledninger, der forelig- lige inden de to linjer, som hr. Aage Brusgaard
+ger, betyder. Derfor vil jeg godt spørge mini- har spurgt om:
+steren: Hvad mener ministeren selv med sin af»Jeg kan oplyse, at den tidligere miljøminisluttende bemærkning: »Jeg agter i nærmeste ster med brev af 30. oktober 1991 til samtlige
+fremtid at skrive til kommunerne for at ind- kommuner har anført, at bestemmelserne i beskærpe denne henstilling om at fare med lem- kendtgørelsen om vandkvalitet og tilsyn med
+pe.«? Hvad vil ministeren skrive til kommu- vandforsyningsanlæg opretholdes i fuldt omnerne med hensyn til, at de skal fare med lem- fang. I brevet anbefalede ministeren kommupe? Betyder det, at ministeren vil skrive til nalbestyrelsen at fare med lempe, og at der i
+kommunerne, at de skal acceptere 100, 200 el- hver enkelt sag skal træffes en konkret afgøreller 300 mg, før man griber ind og lukker en se.«
+brønd? Hvad mener ministeren med, at komOg så henviste jeg i øvrigt til det, Miljøstymunerne skal fare med lempe?
+relsen har gjort opmærksom på, nemlig at der
+
+1375
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Aage Brusgaard
+108366;title_name;"bør lægges vægt på overskridelsens størrelse,
+nærliggende forureningskilder, mulighed for
+tilslutning til vandværk og de økonomiske forhold, og det er disse omstændigheder, der
+fremgår af den tidligere miljøministers brev til
+kommunerne, som jeg gerne vil gentage ordlyden af.";Miljøministeren
+108674;title_name;":
+Hr. Jørgen Winther har ordet for en kort bemærkning, og så forventer jeg at vi kan komme
+tilbage til ordførerrækken.
+(Kort bemærkning).";Jørn Pedersen
+108830;name_party;":
+Jeg skal gøre det meget kort: Nu har jeg to
+gange stillet et spørgsmål til de to ministre, og
+hvis de ikke kan svare, kan de bare gå op og
+sige, at de ikke har kendskab til det. Spørgsmålet er simpelt: Begge ministre mener, at nitrat
+er uhyre farligt, og at folk bliver syge af det, og
+så har jeg blot tilladt mig at udbede mig et enkelt tilfælde i Danmark - hvor der er fem millioner mennesker - hvor man kan sige, at et
+menneske er blevet sygt af at drikke vand med
+150 mg nitrat pr. liter. Hvis det er farligt, må
+der også være nogle, der er blevet syge af det.
+Det behøver man ikke at være læge for at kunne forstå. Jeg vil bare have at vide, om man
+kender et tilfælde eller ikke kender et tilfælde.
+Jeg tror ikke, at man kender noget tilfælde,
+men jeg vil gerne have det at vide af ministeren.";Jørgen Winther
+109663;title_name;":
+Jeg forstår godt, at hr. Jørgen Winther igen
+og igen og igen forsøger at få en lægevidenskabelig debat her i folketingssalen, men jeg kan
+sige, at det lykkes ikke hr. Jørgen Winther.
+Hvis der er et faktuelt sundhedsfagligt spørgsmål, så stil spørgsmålet til mig, gerne gennem
+udvalget. Man kan også gøre det her fra folketingssalen og bede om, at Sundhedsstyrelsens
+vurdering af det spørgsmål kan blive indhentet. Det har vi helt naturlige tilgange til her i
+Folketinget. Dette er en politisk forsamling,
+hvor vi drøfter politiske spørgsmål og ikke faktuelle sundhedsfaglige spørgsmål, som man
+her vil afæske den ene eller den anden minister
+et svar på.
+
+1376
+
+Vi kender alle sammen hr. Jørgen Winthers
+baggrund, og jeg forstår godt, at hr. Jørgen
+Winther forsøger at skyde debatten over i et
+lægevidenskabeligt selskabs form. Det mener
+jeg simpelt hen ikke er rimeligt over for Folketinget, og jeg agter i hvert fald ikke at indskibe
+mig i en debat af den art med hr. Jørgen Winther her i folketingssalen. Regeringen henholder sig til den sundhedsfaglige rådgivning og
+vurdering, vi har fra de tre instanser, der har
+vurderet dette spørgsmål: Sundhedsstyrelsen,
+EF og WHO, og de anbefalinger agter regeringen også fremover at følge.";Torben Lund
+110930;title_name;":
+Hr. Jørgen Winther har ordet for den forhåbentlig sidste korte bemærkning i denne omgang.
+(Kort bemærkning).";Jørn Pedersen
+111059;name_party;":
+Det siger jeg tak for, for WHO siger jo, at
+100 mg nitrat pr. liter drikkevand er acceptabelt. Så bør Socialdemokraterne vel også kunne acceptere det, når WHO siger, at det er acceptabelt. Men jeg ved godt, at embedsmændene i styrelserne gemmer den sætning langt,
+langt væk i parenteser og helt tilbage i de forskellige skrivelser, som man kommer med.
+Jeg siger tak for svaret fra sundhedsministeren, som jeg egentlig tillader mig at opfatte,
+som om der for nærværende ikke findes noget
+kendt tilfælde i Danmark af, at mennesker er
+blevet syge af nitrat. Så jeg konstaterer endnu
+en gang, at det er en diskussion om religion.";Jørgen Winther
+111718;title_name;":
+Vi går tilbage i ordførerrækken.";Jørn Pedersen
+111762;name_party;":
+Nu har jeg snart længe siddet og hørt debatten, og der er faret lidt igennem hovedet undervejs. Det ene, jeg sådan er nået frem til ved
+at have hørt på hr. Jørgen Winther, er, at der er
+da en ting, jeg er glad for, og det er, at jeg ikke
+selv har hr. Jørgen Winther som læge. Det andet, jeg har tænkt lidt over, er, at jeg jo bor i
+samme amt, som hr. Jørgen Winther kandiderer til at få stor indflydelse i, og dertil må jeg
+nok sige, at hvis det skal udlægges til forsøgsamt for hr. Jørgen Winthers nitratpolitik, så vil
+
+1377";Gade
+112300;title_name;"(87)
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand
+
+jeg altså ikke have det ret godt med at bo i det
+amt, men så galt går det nok heller ikke.
+Det er måske ikke overraskende, at vi fortsat
+har denne diskussion om at bagatellisere problemerne omkring nitratforureningen generelt,
+for jeg ser det altså også lidt i sammenhæng
+med nitrat i forhold til vandløb og det ydre
+vandmiljø. Jeg ser det altså som en kampagne,
+der laves af nogle, først og fremmest fra Venstre og Fremskridtspartiet, og som ikke kun
+handler om en lille brøndejer, der eventuelt er
+kommet i klemme, og dér er jeg så mere forundret over, at De Konservative har indskibet sig
+på den galej. Jeg forstår også af indlæggene fra
+De Konservatives ordfører, at det i hvert fald
+ikke er helt så helhjertet, som det kunne se ud
+til fra første færd, og det er da rimelig tilfredsstillende.
+Et eller andet sted må man vel konstatere, at
+det, der driver de tre partier sammen i dag, bare er noget, som nok er legitimt i politik, men
+som altså viser frem til et eller andet alternativ
+i denne sammenhæng, et sort alternativ.
+Sagen er jo, at netop i spørgsmålet om forureningen fra landbruget, som også er en diskussion om nitrat i forhold til det ydre miljø,
+vandløbene, de nære havområder og de fjernere havområder, står vi med et af de to største
+miljøproblemer, vi har overhovedet. Derfor ser
+jeg altså dette her som en del af en sådan kampagne for at frikende landbruget i hele forureningsdiskussionen.
+Det medvirker vi selvfølgelig ikke til, og i
+stedet mener vi faktisk at der er brug for at diskutere skærpede indgreb over for landbrugets
+forurening. Det har der været i flere år, men
+det behov bliver jo ikke mindre og mindre: det
+bliver større og større og stærkere og stærkere.
+Så kommer diskussionen om grænseværdier
+generelt. Der er nogle, der diskuterer det, som
+om det er nogle videnskabeligt fastsatte grænseværdier og alt sådan noget. Jamen hvorfor
+ikke sige det, som det er? De er politisk fastsatte. De bedste grænseværdier er politisk fastsatte ud fra forsigtighedsprincippet om, at usikkerhed skal komme miljøet og menneskers
+sundhed til gode. De ringeste grænseværdier
+er fastsatte efter erhvervsinteresser - endda lige i overkanten - hvor man siger: Hvor mange
+døde kan I allerede i dag bevise at der er? Det
+er de ringeste grænseværdier. Det er den type
+grænseværdier, hr. Jørgen Winther vil have -
+
+1378
+
+hvis Venstre overhovedet vil have nogle grænseværdier. Jeg mener, at de grænseværdier, vi
+skal have, skal bygge på forsigtighedsprincippet.
+Det interesserer selvfølgelig heller ikke Venstre i denne sag - det kan godt undre, at man
+ikke interesserer sig for det - at der faktisk er
+EF-regler på dette område. Men nu har vi jo
+ikke hørt noget til den forhenværende udenrigsminister, siden han var ude at fiske - jeg
+tror, det var i et ikke så nitratholdigt vandløb,
+for det var laks, han fiskede - men det kunne
+jo godt være, at man lige burde have konfereret med Venstres formand, den tidligere udenrigsminister, for det er jo ikke sikkert, at han
+synes, det er så smart, at Venstre fører sådan en
+kampagne, som siger, at EF's grænseværdiregler skal man ikke rette sig efter. Det forstår jeg
+i virkeligheden er det signal, Venstre udsender.
+Det er det nok ikke, når man finlæser formuleringerne, men det er jo det politiske signal, der
+i realiteten udsendes.
+Så er der det med private brøndejeres ret til
+at drikke brøndvand. Jeg er helt tilfreds med
+den politik, der er her: at vi fastholder grænseværdierne, men signalerer den fleksibilitet,
+som også blev vist af den tidligere miljøminister på dette område: at man skal tage hensyn
+til den enkelte. Det er jo den balance, der er i
+denne politik.
+Derfor er det underligt for mig at høre argumentet - især Venstres og Fremskridtspartiets
+- om, at hver enkelt borger skulle have vetoret.
+Jeg kunne forestille mig, at hr. Jørgen Winther
+ville have udstedt et landsplandirektiv, som
+sikrer, at kommunerne ikke må bestemme noget som helst på dette område. Det er jo det,
+der ligger i Venstres melding: Kommunerne
+må ikke bestemme noget, for hvis den enkelte
+borger kommer og siger: Jeg vil ikke være med
+til det her, så har borgeren ret. Altså: Det kommunale selvstyre skal ikke bestemme, at der
+skal laves et landsplandirektiv. Så spørger jeg:
+Hvorfor skal den enkelte borger i landsbyen
+egentlig ikke have den samme ret som ham,
+der bor lidt længere væk, og som har sin private brønd? Han må altså også melde sig ud af
+den kommunale vandforsyning osv.
+Det er jo ikke gennemtænkt af Venstre, eller
+også er det rent pjat og pjank. Det sidste er
+altså en mulighed, efter at man har hørt debatten her. Ellers er det bare ikke gennemtænkt,
+
+1379
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Gade
+117114;title_name;"for Venstre plejer jo at sige, at i lokalt selvstyre
+- det ved jeg meget om - er det kommunalbestyrelsen, der skal bestemme. Det er svært at
+møde en Venstremand ude i en kommune, som
+mener, at det er borgerne. Det diskuterer vi jo
+tit, og Venstre mener normalt, at det kommunale selvstyre betyder kommunalbestyrelsen.
+Jeg tror altså, at det, hr. Jørgen Winther og
+Venstre er ude i, er et forsøg på at rulle miljøpolitikken tilbage, at få denne diskussion til at
+smitte af på diskussionen om landbrugets forurening, sådan at man prøver at påvirke udviklingen den forkerte vej, og på den baggrund vil
+jeg med stor fornøjelse stemme imod det dagsordensforslag, som Venstre, Fremskridtspartiet og De Konservative har stillet.";Gade
+117867;title_name;":
+Hr. Aage Brusgaard har ordet i ordførerrækken.";Jørn Pedersen
+117935;name_party;":
+Politikerne i Danmark vedtog for år tilbage,
+at drikkevand med mere end 50 mg pr. liter er
+sundhedsfarligt, og forsøgte at bilde befolkningen ind, at det kunne give blå børn og fremkalde mavekræft osv. Disse retningslinjer har så
+været gældende i mange år hos os, uden at der
+har været ført bevis for det fornuftige heri.
+Vi ved alle, at nitrat er en betingelse for alt
+liv på Jorden, og at de næringsmidler, vi får at
+vide er de sundeste både for mennesker og for
+dyr, rent faktisk er de næringsmidler, der har
+størst nitratindhold. Hvis man f.eks. spiser et
+almindeligt måltid spinat, indtager man
+500-600 mg nitrat. Derfor har Fremskridtspartiet altid næret skepsis over for disse politisk
+bestemte måltal. Vi har faktisk for mange år
+siden sagt, at bestemmelserne kun har til hensigt at træde den private brøndejer under fode.
+Man indførte dem, fordi man ønskede en afgift
+på vand - helt klart. Man ville samle vandforsyningerne i færre, men større vandforsyningsområder: så kunne man lægge målere ind og
+tage afgifter.
+Nu har et flertal i Folketinget imidlertid fundet på en anden løsning, nemlig at pålægge alle brøndejere, også private brøndejere, en afgift pr. husstand. Så der er faktisk ikke nogen
+begrundelse længere, og derfor kunne jeg da
+håbe på, at et flertal i Folketinget ville være
+med til at hæve den grænse, der for os at se er
+helt urimelig.
+
+1380
+
+Jeg vil ikke komme ind på alle de spørgsmål,
+der er stillet både i Miljøudvalget og i Sundhedsudvalget om emnet: det har både Venstre
+og De Konservative været grundigt inde på.
+Men jeg vil da sige, at det glæder mig meget, at
+både Venstre og De Konservative har ændret
+holdning, for vi kan altså ikke nægte, at det var
+under VK-regeringen, de eksisterende vejledninger til kommuner og amter blev forfattet.
+Lovbekendtgørelse om vandforsyning m.v.
+er udstedt i 1985, cirkulæret om vandkvalitet
+og tilsyn med vandforsyningsanlæg er fra
+1984, og Miljøstyrelsens vejledning nr. 3 om
+vandkvalitet og tilsyn med vandforsyningsanlæg er udstedt i 1990, altså alt sammen under
+en borgerlig regering, og dengang var Venstre
+og De Konservative ikke nemme at stikke i.
+Nu er det selvfølgelig glædeligt, at begge
+partier har fået øjnene op for det uretfærdige i
+at nedlægge så mange private brønde helt
+usagligt. Nogle af de skærpede vejledninger,
+der af Folketinget er blevet indstillet til kommunerne, kommer jo på baggrund af et EF-direktiv af 15. juli 1980, som blev fortolket som
+gældende for samtlige vandforsyninger i Danmark. Men ved en EF-dom den 5. juli 1990
+blev det fastslået, at det, som EF tog stilling til
+i Rådets direktiv om kvaliteten af drikkevand,
+var beregnet for fællesanlæg og altså ikke private boringer.
+Derfor udsendte miljøministeren den 30. oktober 1991 en ny vejledning, hvori der står, at
+udtalelser i den tidligere vejledning om, at
+drikkevandsdirektivet finder anvendelse på
+private brønde uanset indvindingens størrelse,
+herefter ikke længere er korrekte. Det vil altså
+sige, at medlemslandene er fuldstændig frit
+stillede angående private brønde, men at man
+godt må vedtage - hvad skal vi sige? - skrappe
+regler for private brønde. Det er altså ikke noget man kan sige er pålagt af EF, således som
+bl.a. ministeren har været inde på.
+Nu vil jeg godt sige, at vi hverken skal give
+den nuværende regering eller den tidligere regering hele skylden for lukningen af de mange
+private brønde rundt om i vort land, i de fleste
+tilfælde fuldstændig umotiveret og menneskefjendsk og faktisk i strid med grundlovens regler om privat ejendomsret. Desuden er der tale
+om et stort ressourcespild, idet man unødigt
+har lagt utrolig mange kilometer rørledning
+ned i jorden. Det har kostet mange unødige
+
+1381
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Aage Brusgaard
+121730;title_name;"ressourcer i rør, i jordarbejde og i strøm at føre
+vandet mange flere kilometer, end det er nødvendigt. Vi bruger altså helt unødvendigt mange ressourcer for at lave store fælles vandværksanlæg.
+Når jeg siger, at det ikke blot er den nuværende og den tidligere regering, der har skylden for at lukke private brønde, så skyldes det
+altså, at det i mange, mange tilfælde er kommunalbestyrelsen og nidkære embedsmænd,
+som har fortolket vejledningerne for skrapt: de
+har ikke taget hensyn til, at de vejledninger,
+der er, netop er vejledninger til kommunerne.
+Der står ikke, at en kommune skal nedlægge
+en brønd, hvis nitratindholdet er over 50 mg,
+men sådan har mange kommuner rent faktisk
+fortolket disse vejledninger.
+Det er på den baggrund, at vi sammen med
+Venstre og De Konservative har ønsket denne
+debat, således at ministeren og regeringen
+kunne udsende nye, lempelige vejledninger til
+kommunerne. Det er så det, ministeren ikke
+ønsker: men han vil trods alt skrive til borgmestrene, at de skal fare med lempe, selv om ministeren ikke har ønsket at forklare Folketingets medlemmer, hvad han mener med at fare
+med lempe.
+Nu ser det altså også ud til, at vores miljøminister er travlt optaget af at tale om andre ting
+end nitrat, men det er så op til ministeren.
+Men så kan jeg lige gentage det, jeg har bedt
+om én gang, nemlig at ministeren forklarer os,
+hvad ministeren mener med at skrive til borgmestrene, at de skal »fare med lempe«. Er det
+nitratgrænsen, der skal hæves, eller hvad er
+det?
+Den anden aften - jeg kan se, at den røde
+lampe ikke er begyndt at lyse endnu - læste jeg
+den handlingsplan for landdistrikterne, som
+regeringen netop har udsendt i oktober måned.
+Heri gives der mange eksempler på, hvad landkommunerne kan gøre for at bevare befolkningen i deres landsbyer. Der kan gives tilskud til
+at plante grønt, til at reklamere for sin by osv.,
+men det, vi har brug for for at bevare befolkningen i landområderne, er ganske enkelt, at
+de får lov til at være i fred. Zonelovens alt for
+stramme regler har nedlagt masser af små virksomheder i landområderne og forhindret, at
+nye opstod, og har afstedkommet, at Brugsen,
+købmanden og slagteren har måttet lukke.
+
+1382
+
+Det samme gælder, når man tvinger små private brøndejere til at lukke deres brønd og ofre
+50.000 kr. - i nogle tilfælde 100.000 kr. - for at
+komme på et fælles anlæg. Det har også afstedkommet flugt fra land og til by.
+Med handlingsplanen for landdistrikterne
+vil regeringen det altså med den ene hånd åh
+så godt for landsbysamfundene, men med den
+anden hånd tager man det så igen, bl.a. ved at
+anlægge små private brønde og ved at opretholde amternes zonelovskompetence og ikke
+overlade den til kommunerne.
+Hvis vi ikke får andet ud af denne debat, vil
+jeg håbe, at vi i hvert fald får en forståelse selv
+hos en lidt tung miljøminister for, at nitrat altså ikke er farligt, og at nitrat ikke har skadet
+mennesker i Danmark i mange, mange år, og
+selv om beviser er blevet efterspurgt gentagne
+gange, bl.a. af hr. Jørgen Winther, er der ikke
+kommet nogen på bordet.
+Lad os nu lade være med alt det pjat og så
+håbe på, at vi har en regering, der lever op til
+sin målsætning om at ville det godt for borgerne, så vi kan lempe de regler, som er begrundede i noget helt udokumenteret og er uretfærdige, særlig over for befolkningen i landdistrikterne.";Aage Brusgaard
+125095;title_name;":
+Jeg kan oplyse over for hr. Aage Brusgaard,
+at det ikke er sædvanligt, at man fra talerstolen
+i Folketinget kommenterer andre medlemmers
+vægt. Jeg tænker på udtrykket »en tung miljøminister«.
+Den næste i talerrækken er hr. Filt Jensen
+for en kort bemærkning.
+(Kort bemærkning).";Jørn Pedersen
+125390;name_party;":
+Hr. Gade gav udtryk for, at Venstres holdning til det kommunale selvstyre var positiv.
+Det kan jeg bekræfte, men vi har det i Venstre
+også sådan, at vi mener, at det enkelte menneske skal have den højeste grad af frihed, så
+længe det ikke er til gene for andre.
+Så vil jeg gerne erindre hr. Martin Glerup
+om, at jeg endda to gange har stillet et spørgsmål, som jeg endnu ikke har fået svar på. Jeg
+håber, jeg får det!
+(Kort bemærkning).
+
+1383
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Filt Jensen
+125943;name_party;":
+Hr. Filt Jensen har jo adskillige gange
+spurgt, om Socialdemokratiet har intentioner
+om at indføre forbud mod, at folk spiser spinat
+og den slags, og jeg troede ærlig talt, det var en
+spøg, men jeg skal gerne sige, at det har vi ingen planer om.
+Jeg skal også gerne gentage, at såfremt nitratindholdet i drikkevand overstiger 50 mg pr.
+1, bliver nitraten fra vandet det væsentligste nitratindhold i et menneskes hverdag, og det er
+måske derfor, at sundhedsmyndighederne har
+advaret imod den påvirkning. Man kunne måske spørge, om Fremskridtspartiet og Venstre
+kan bevise, at nitraten ikke har været skadelig.
+Hvis der kan nævnes bare ét eksempel på, at
+den ikke har været skadelig, vil vi da gerne høre det.
+(Kort bemærkning).";Martin Glerup
+126687;name_party;":
+Det er til hr. Martin Glerups bemærkning
+om, at hvis vi kommer over 50 mg nitrat pr. I
+drikkevand, bliver det til en betydelig faktor i
+menneskets tilførsel af nitrat. Må jeg gøre opmærksom på, at det faktisk er umuligt at lave
+en vegetarfrokost på under 1.000 mg nitrat, og
+det er alene frokosten: de skal også have en
+middag, der skal være vegetarisk. Men alene
+de 1.000 mg svarer til 20 l vand med maksimumindhold, og der er altså ikke ret mange,
+der har et forbrug i den størrelsesorden. Derfor
+er der ikke logik i, at man ikke accepterer drikkevand med over 50 mg pr. I i private brønde:
+EF-direktivet har heller ikke nogen forordninger om, at det skal overholdes. Det drejer sig
+om de folk på det åbne land - og jeg kender en
+hel masse - der er fortvivlede over, at de bliver
+påduttet tilslutning til en offentlig vandforsyning, der koster 30.000-40.000-50.000 kr., for
+de har levet godt med det vand, de har, og har
+ingen sundhedsproblemer haft med det. Så det
+er urimeligt, at man fra offentlig side siger, at
+de ikke må det mere: men de må gerne drikke
+spiritus og ryge alle de cigaretter, de vil.
+Det er den holdning, vi ikke rigtig kan acceptere. Hvorfor må der ikke være frihed, hår
+det drejer sig om vand i folks private brønde,
+mens man gerne må alt andet sundhedsskadeligt? Det er en ejendommelig holdning. Jeg vil
+sige det samme som hr. Jørgen Winther: Vi
+snakker åbenbart religion i stedet for realiteter.
+
+1384
+
+Mario See (CD):
+Spørgerne, også den sidste taler, har bl.a.
+gjort gældende, at man må drikke alkohol og
+ryge tobak. Det er rigtigt, men vi håndhæver
+trods alt nogle ganske klare retningslinjer for,
+hvor meget alkohol der må indgå i forskellige
+drikkevarer, og hvor meget nikotin der må være i forskellige tobaksvarer.
+Jeg går ud fra, at forespørgerne er enige i, at
+disse grænseværdier skal fastholdes, og det
+skal de naturligvis også for så vidt angår drikkevand, herunder drikkevand fra egne brønde.
+Derfor er jeg vældig glad for, at i hvert fald
+nogle af forespørgerne fastholder, at vi skal have grænseværdier, mens der er andre, der siger
+eller i hvert fald antyder, at vi slet ingen grænser skal have.
+I CD føler vi os i hvert fald ganske trygge
+ved at overlade fastsættelsen af disse grænseværdier til EF på baggrund af WHO's retningslinjer, og hvis WHO's opfattelse er ændret, sådan som det har været gjort gældende
+af hr. Jørgen Winther, er jeg sikker på, at
+Sundhedsstyrelsen vil tage de rigtige skridt på
+det rigtige tidspunkt. Jeg ville i hvert fald meget nødig som medlem af en kommunalbestyrelse og et miljøudvalg undvære disse klare
+retningslinjer.
+Det er også gjort gældende, at det er kommunalbestyrelserne, der har kompetence til at
+beslutte i disse tilfælde, og det skal de naturligvis fortsat have med det ansvar, de har udvist,
+og skulle der være tilfælde, og vi er klar over,
+at dein er der nogle af, hvor man føler sig forkert behandlet, eller hvor man mener, at kommunalbestyrelsen har truffet en for hård beslutning, har vi jo en ganske fortrinlig klagemulighed, og den skal naturligvis også bevares.
+På det foreliggende grundlag mener CD i
+hvert fald ikke, at der er anledning til at lave
+om på de gældende regler, og vi kan ikke stemme for dette dagsordensforslag.
+Vibeke Grønbæk (RV):
+Jeg skal ikke forlænge debatten og komme
+med videnskabelige betragtninger om salathoveder og rødbeder eller andre ting. Jeg synes,
+at det har været noget af en absurd debat, præget af det faktum, at hr. Jørgen Winther vil
+postulere, at nitrat ikke er farligt. Og så synes
+jeg, at det er beklageligt, at hr. Jørgen Winther
+
+1385
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Filt Jensen
+130368;title_name;"har vigtigere ting for, så han ikke kan deltage i
+hele debatten.
+Hr. Jørgen Winther argumenterer med, at
+det ikke er farligt, når der ikke har været nogen
+sygdomstilfælde: det synes jeg er en dårlig argumentation.
+Jeg undrer mig også over Venstres holdning
+og forstår ikke det skred, der er sket. Som det
+er blevet nævnt flere gange, så Venstres sundhedsminister allerede den 27. august 1992 positivt på de nuværende grænser.
+Jeg var enig med De Konservatives ordfører,
+hr. Jens Jørgensen, i, at denne forespørgsel
+handler om kommunalbestyrelsernes kompetence og ikke så meget om nitrat.
+Jeg vil også slå fast, at Det Radikale Venstre
+holder sig til WHO's og andre internationale
+instansers sundhedsmæssige vurderinger.
+Desuden vil vi gerne præcisere det, som er
+blevet nævnt flere gange, nemlig at det handler
+om kommunernes afgørelse. Det står helt klart,
+at det er op til kommunalbestyrelsen i samarbejde med embedslæge og brøndejer at finde
+en tilfredsstillende løsning.
+Jeg må også over for hr. Aage Brusgaard slå
+fast, at Det Radikale Venstre ikke har tanker
+om at ændre grænserne for nitrat i drikkevand,
+uanset om et medlem af vort parti mener det.
+Vi er tilfredse med miljøministerens redegørelse, og at man henstiller til kommunalbestyrelserne at samarbejde om disse spørgsmål. Vi
+mener, at det dagsordensforslag, der er fremsat, er et udtryk for fortidstænkning fra De
+Konservatives, Venstres og Fremskridtspartiets side. Vi vil ikke have skruet tiden tilbage,
+men holde fast i den politik, som også hr. Jørgen Winthers og hr. Jens Jørgensens partier
+har fastholdt indtil 1993.";Vibeke Grønbæk
+131978;name_party;":
+Til beroligelse for forslagsstillerne af dagsordenen vil jeg med det samme sige, at jeg vil
+vise dem det hensyn at stemme imod.
+Jeg er meget glad for, at vi får denne debat.
+Jeg har ligesom andre i lang tid været oprevet
+over den måde, kommunerne farer frem på
+over for husejere med privat vandforsyning,
+men jeg vil ikke undlade at gøre opmærksom
+på, at de gældende bestemmelser er udformet
+under en såkaldt borgerlig regering, således
+som det tidligere er nævnt.
+
+1386
+
+Det skal stærkt understreges, at jeg ikke ønsker at gå ind i den debat om såkaldt ny viden
+om nitrat. Det er jeg ikke kvalificeret til, men
+jeg føler mig ikke overbevist af hr. Jørgen
+Winthers såkaldte dokumentationer for, at nitrat overhovedet ikke er giftigt, og jeg vil finde
+det fuldstændig tåbeligt at ændre grænseværdierne for drikkevand i offentlige eller fælles
+forsyninger.
+Vi har ikke ret mange steder i landet problemer med at overholde grænsen på 50 mg, og vi
+ønsker selvfølgelig at fastholde en meget høj
+kvalitet. Min interesse i sagen er at værne om
+den personlige frihed, og jeg føler mig ikke
+overbevist om visdommen i, at samme grænse
+skal gælde for private brønde som for offentlig
+vandforsyning, men det var der jo bred politisk
+enighed om på det tidspunkt, så det er der ingen grund til at lave om på.
+Mit ærinde er at beskytte borgerne mod
+kommunernes urimelige fremfærd. Efter den
+officielle viden er nitrat jo ikke giftigt, og jeg er
+overbevist om, at en mindre dosis nitrat i drikkevandet selv over en længere periode er betydelig mindre skadelig end daglig indtagelse af
+alkohol og nikotin i overdoser og indtagelse af
+den mængde lakrids, debatten har kostet mig
+nede på bageste række. Da det sidste ikke er
+forbudt, selv om det er stærkt sundhedstruende og dermed også økonomisk belastende for
+samfundet, har jeg meget svært ved at forstå, at
+man forbyder folk at drikke vand fra egen boring eller brønd.
+Jeg er derfor også glad for ministerens imødekommende holdning gående ud på endnu
+en gang at indskærpe over for kommunerne, at
+de skal fare med lempe. Jeg er desværre ikke
+helt enig med ministeren i tilliden til kommunerne, og jeg er ikke sikker på, at man kan måle kommunernes succes på dette område ved
+det lave antal klager, der kommer ind. Jeg er
+bange for, at der er for langt fra de mennesker,
+det går ud over, og ind til Miljøstyrelsen, til at
+en klage kommer igennem. De føler sig længe
+inden truet af embedsmændene i kommunerne
+til at ryste op med slanterne og blive koblet på
+systemet, før de kommer til at klage.
+Når visse kommuner farer hårdt frem, kan
+det have flere årsager, f.eks. at embedslægerne
+formulerer sig forskelligt om, hvor skadeligt et
+for højt nitratindhold kan være, og at de kommunale embedsmænd ikke er i stand til at vur-
+
+1387
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Ole M. Nielsen
+134851;title_name;"dere de udtalelser, lægerne kommer med, og
+derfor administrerer strengere, end Vejledning
+af 1990 faktisk kræver. Jeg lægger stor vægt på
+vejledningens formulering om, at man har mulighed for at meddele påbud, at man kan afvente, at det blev praktisk muligt at ændre
+vandforsyningen, at man kan fastsætte, at et
+påbud om forbedring af vandkvaliteten først
+skal udføres, når ejendommen overdrages eller
+udlejes, at man kan påklage en afgørelse til
+Miljøstyrelsen, og at en klage har opsættende
+virkning. Det er mange væsentlige ting, som,
+hvis de bliver administreret rigtigt, er gode
+nok.
+Jeg mener bestemt ikke, at vi skal slække på
+eller ændre kravene til fælles vandforsyninger,
+men jeg lægger stærk vægt på, at vi ikke skal
+pålægge folk, for hvem det vil være en stor omkostning at tilslutte sig fælles vandforsyning, at
+de skal gøre det, hvis de ikke ønsker det.
+Jeg vil derimod understrege, hvad der også
+er beskrevet udmærket i vejledningen, at kommunerne vejleder borgerne om deres drikkevand og hjælper dem med at forbedre kvaliteten på billigste måde, f.eks. ved en enkelt rensning eller en ny og bedre boring. Jeg lægger
+vægt på det kommunale selvstyre, men vi må
+henstille til kommunerne, at de administrerer,
+så Maren i kæret eller hendes nabo kan være
+tjent med det. Det indbefatter også, at kommunen bør have en solidarisk tilslutningsafgift, så
+Maren ikke skal betale mere eller ret meget
+mere end dem, der bor lige op ad hovedledningen.
+Jeg vil gerne opfordre ministeren til at ofre
+udformningen af den næste henstilling til kommunerne om dette emne megen opmærksomhed og tænke på folk med beskedne indtægter
+og beskedne huse.
+(Kort bemærkning).";Ole M. Nielsen
+136533;name_party;":
+Jeg vil godt takke den lige nedstegne taler,
+hr. Ole M. Nielsen, der mente, at det lakrids,
+han har indtaget her i løbet af dagen, er mere
+skadeligt end vand med nitrat i. Det tror jeg er
+meget korrekt, og når hr. Ole M. Nielsen har
+den holdning, vil jeg opfordre vores miljøminister til at tage hr. Ole M. Nielsen med som
+konsulent, når brevet til vores kommuner skal
+udformes. Jeg tror, det vil have en god og positiv virkning, så jeg vil altså arbejde for at få de
+
+1388
+
+to herrer til at sætte sig sammen og udforme et
+brev til vores borgmester.
+(Kort bemærkning).";Aage Brusgaard
+137122;name_party;":
+Når Venstres sundhedsminister havde den
+holdning til nitratgrænsen, som en af ordførerne omtalte, var det, fordi sundhedsministeren
+havde sine informationer fra Sundhedsstyrelsen. Nu er der kommet nye informationer, og
+derfor har vi borgerlige partier en ny holdning.
+Så vil jeg sige, at man ikke altid behøver at
+være til stede i salen for at høre, hvad der bliver sagt, og jeg bemærkede, at både Kristeligt
+Folkeparti, De Radikale og CD har en vis sympati for, at nitrat nok ikke er så farligt, som
+Socialdemokratiet tror, og derfor vil jeg gerne
+anbefale, at de tre små partier fortsætter den
+gode kontakt, de har med de forskellige kommunalbestyrelsesmedlemmer Qg. aintsrädsmedlemmer. I valgkampen ude i landet siger
+de jo, at man skal have mulighed for at drikke
+vandet fra sin egen brønd, men det bliver
+spændende at høre, om der er kommunalpolitikere, der siger det fremover.
+Så vil jeg da også lige sige til miljøministeren, som nogle gange har spurgt, om det ottende punkt var en kommunal valgkamp, at jeg
+startede denne debat i 1990, fulgte den op i foråret 1993, i juni igen i 1993, i juli i 1993 osv., så
+hvis valgkampen kører hele tiden, er det et led
+i valgkampen, men det er især, fordi jeg har en
+vis interesse i sagen, og når man finder ud af,
+at et væsentligt stof ikke er nær så farligt, som
+man troede, er det godt, at det kommer ind i
+debatten.
+Men alt i alt tak for en god og på nogle
+punkter også en saglig debat. Jeg tror i hvert
+fald, at der er nogle, der er begyndt at tvivle på,
+at nitrat er så farligt, som det har været sagt, og
+så er målet nået.
+(Kort bemærkning).
+Vibeke Grønbæk (RV):
+Jeg vil gerne have præciseret, at Det Radikale Venstre ikke på noget tidspunkt har sagt, at
+vi mener, at nitrat er ufarligt, og vi vil helst ikke slås i hartkorn med hr. Jørgen Winthers
+holdning til nitrat. Jeg har ikke fået præciseret,
+hvordan Socialdemokratiet formulerer deres
+forhold til nitrat, men jeg vil gerne fastslå, at
+
+1389
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Jørgen Winther
+139184;title_name;"Det Radikale Venstre ikke på noget tidspunkt
+har sagt, at nitrat er ufarligt.
+(Kort bemærkning).";Vibeke Grønbæk
+139290;name_party;":
+Det er et gammelt hestehandlertrick, når
+man har gjort en dårlig handel, på en eller anden måde at få det til at se ud, som om det var
+en god handel. Det kom jeg til at tænke på, da
+jeg hørte hr. Jørgen Winther forsøge at afslutte
+debatten og opsummere den og sige, at han var
+kommet langt, og at han havde fået meget ud
+af den. Nej! Det har været en ren afklædning
+af hr. Jørgen Winthers synspunkter om nitrat.
+Det har jo også - og det er jeg da glad for været en afsløring af, at de tre partier bag forespørgslen mener noget forskelligt, og det er en
+afsløring af, at der hverken er hoved eller hale i
+Venstres argumentation i forhold til lokalt
+selvstyre og til miljøpolitikken. Så det dér hestehandlertrick gik ikke: vi kunne godt se,
+hvordan det hele hænger sammen.
+(Kort bemærkning).
+Mario See (CD):
+Det er til hr. Jørgen Winther.
+Hvis CD mente, at nitrat er ufarligt, ville jeg
+have sagt det. Det mener vi ikke - tværtimod og derfor ønsker vi de nugældende grænseværdier fastholdt, og jeg må endnu en gang sige,
+selv om det er sagt mange gange i dag, at disse
+retningslinjer er fastsat af EF, og at det var hr.
+Jørgen Winthers eget parti, der på daværende
+tidspunkt besluttede, at de også skulle gælde
+for vand fra egne brønde.
+Det er muligt, at WHO nu har ændret holdning på det område, men så har jeg fuld tillid
+til, at hvis det er tilfældet, vil både EF og sundhedsministeren på rette tidspunkt sørge for, at
+det også bliver indarbejdet i det, der gælder for
+vand fra egne brønde.
+(Kort bemærkning).";Gade
+140822;name_party;":
+Det er lige en venlig erklæring til Det Radikale Venstres ordfører, som nævnte, at Det Radikale Venstre så sandelig mente, at nitrat var
+farligt, og at det var hele partiets holdning.
+Jeg nævnte tidligt på dagen, at Det Radikale
+Venstre havde et meget fremtrædende folketingsmedlem, der hed Svend Haugaard. Han
+
+1390
+
+har skrevet utallige læserbreve i landsblade og
+husmandsforeningsblade, hvor han gang på
+gang påpegede og dokumenterede, at nitrat så
+sandelig er ufarligt. Det er aldrig blevet imødegået af Det Radikale Venstre, og derfor må vi
+vel formode, at når han er den eneste i Det Radikale Venstre, der har skrevet om nitrat, så er
+det partiets holdning, for det er aldrig blev
+modsagt af toppen.
+CD's ordfører følte sig foranlediget til her
+fra talerstolen at sige, at CD så sandelig mente,
+at nitrat var farligt. CD's ordfører var mere end
+én gang oppe og sige, at CD mente, at nitrat
+var farligt.
+Derfor vil jeg godt spørge CD's ordfører,
+hvilken baggrund han har for sådan en påstand. Der er nemlig ingen videnskabelige beviser eller antydninger af, at nitrat er farligt, og
+derfor vil jeg godt have CD's begrundelse for
+at antage det. Socialdemokratiets og SF's baggrund er helt politisk, de vil nedlægge så mange private brønde som muligt for at koble dem
+sammen til store fælles anlæg. Men er CD's
+begrundelse den samme?
+(Kort bemærkning).
+Vibeke Grønbæk (RV):
+Jeg tror ikke, at hr. Aage Brusgaard har hørt
+godt nok efter, for jeg sagde, at der overhovedet ikke skal herske tvivl om partiets holdning.
+Hvis hr. Aage Brusgaard erindrer det, og det
+tror jeg da ellers at mange andre gør, så var det
+fru Lone Dybkjær, der præciserede disse ting
+vedrørende nitrat, og ikke noget andet medlem
+af Det Radikale Venstre.
+Det har været fru Lone Dybkjær, der har
+tegnet partiets politik vedrørende nitrat i drikkevandet, og det tror jeg også at hr. Aage Brusgaard udmærket er klar over.
+Desuden synes jeg, at det er væsentligt at få
+fastslået, om nitrat er farligt eller ej. Vi henholder os til WHO og andre internationale organisationer, som har vurderet det sundhedsmæssige, og det bliver vi ved med, indtil andet er
+påvist.
+(Kort bemærkning).
+Mario See (CD):
+Jeg må komme med den samme henstilling
+til hr. Aage Brusgaard, som jeg for et øjeblik
+siden kom med til hr. Jørgen Winther, nemlig
+
+1391
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Aage Brusgaard
+143232;title_name;"at jeg vil bede om, at man ikke lægger mig ord i
+munden, som jeg ikke har sagt. Jeg har hverken sagt, at nitrat er farligt eller ufarligt. Det,
+jeg har sagt, og det må jeg fastholde, er, at vi
+ikke i CD på nogen måde kan tilkendegive det har jeg i hvert fald ingen personlig baggrund for - om nitrat er det ene eller det andet.
+Det, jeg ligesom den forrige taler har sagt, er,
+at vi henholder os til de organer, som har forstand på disse ting, og som det har været sagt
+tidligere under debatten, er det en politisk debat, og det burde jeg være den sidste der skulle
+belære en garvet politiker om.
+Vi træffer politiske beslutninger her, og det
+gør vi ud fra et forsigtighedsprincip. Det er det,
+der er vores opgave, og derfor fastholder vi en
+lav grænse. Vi gør det ikke, fordi vi har et særligt kendskab til, hvorvidt nitrat er farligt eller
+ufarligt, og jeg er ganske sikker på, at det har
+hr. Aage Brusgaard heller ikke.
+(Kort bemærkning).";Mario See
+144193;name_party;":
+Så blev vi da så kloge på CD's politik! Man
+mener faktisk hverken det ene eller det andet,
+men når nu Socialdemokratiet, det store parti,
+mente sådan, fulgte man det.
+Jeg havde egentlig forventet, at ministeren
+afslutningsvis ville gå op og svare på nogle af
+de spørgsmål, der er stillet, og de er blevet stillet gentagne gange, fordi der gentagne gange
+ikke er svaret: men det ser altså ikke ud til, at
+vi får svar.
+Et af hovedspørgsmålene - og det er så tredje gang, jeg spørger ministeren - er: Agter ministeren at skrive ud til borgmestrene om, at de
+skal fare med lempe? Vil ministeren skrive, at
+det med 0 eller 50 mg skal man ikke tage så
+tungt, for nu har et flertal altså sandsynliggjort,
+at nitrat ikke er farligt, så vi hæver de 50 mg til
+100 eller 150? Hvad ønsker ministeren at skrive i julebrevet til kommunerne?
+Jeg ønsker ikke ordret at vide, hvad der skal
+stå i brevet, men hensigten med brevet synes
+jeg lige at ministeren skylder denne debat at
+oplyse om som afslutning.
+Så vil jeg godt sige tak for debatten, som jeg
+synes har været formålstjenlig. Vi har haft en
+god debat, hvor alle har kunnet sige tingene,
+uden at ordene er føget om ørerne på os, og jeg
+tror, at alle er blevet forvisset om, at de 25 eller
+50 mg er noget, man skal forholde sig let til.
+
+1392
+
+Der er jo ikke på nogen måde kommet et eneste bevis på bordet for, at nitrat er farligt, selv
+om vi har spurgt mange gange.
+Miljøministeren (Svend Auken):
+Jeg har stor respekt for hr. Aage Brusgaard,
+og derfor har jeg faktisk besvaret hr. Aage
+Brusgaards spørgsmål to gange: nemlig første
+gang i min tale, før hr. Aage Brusgaard overhovedet havde stillet spørgsmålet, og anden
+gang, da hr. Aage Brusgaard stillede spørgsmålet.
+Jeg har gjort opmærksom på, at vi vil videreføre den tidligere regerings politik. Vi vil gentage den opfordring til kommunerne, der ligger i den tidligere regerings brev til kommunerne, og vi vil præcisere de hensyn, som Miljøstyrelsen har stillet op, og som skal indgå i
+en konkret afvejning, inden man skrider til
+retshåndhævelsesskridt over for den enkelte
+brøndejer. Som jeg har sagt flere gange før, går
+disse hensyn ud på, at Miljøstyrelsen har gjort
+opmærksom på, at der bør lægges vægt på
+overskridelsens størrelse, nærliggende forureningskilder, mulighed for tilslutning til vandværk og de økonomiske forhold, og det vil altså være den læst, mit brev til kommunerne vil
+blive skåret over.
+Jeg havde egentlig ikke tænkt mig at sige noget her til sidst, men jeg vil gerne konstatere i
+min afsluttende replik, at selvfølgelig er det et
+væsentligt spørgsmål at få diskuteret. Regeringen deltager gerne i en diskussion om sikring
+af drikkevandets kvalitet i Danmark, men jeg
+må for mit eget vedkommende sige, at jeg har
+ikke været imponeret af den indsats, som de
+tre forespørgere har leveret i dag, i hvert fald
+nogle af dem. Man kritiserer i voldsomme vendinger den nuværende regering for at videreføre den tidligere regerings politik. Uden nogen
+form for dokumentation tilbageviser man såvel
+Verdenssundhedsorganisationen, sundhedsmyndighederne i alle de lande, vi normalt sammenligner os med, de danske sundhedsmyndigheder og EF. Man siger, at alt, hvad alle
+disse internationale organisationer lægger
+frem på dette område, ikke har nogen videnskabelig værdi, og man ønsker - for nu at citere hr. Gade - at se lig på bordet, før man overhovedet vil foretage sig noget på området.
+Jeg synes, det er beskæmmende, og jeg kan
+kun finde den forklaring, at man øjensynlig
+
+1393
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand
+1394";Aage Brusgaard
+147799;title_name;"mener, at det er god politik at dreje 180 grader, korrekt, vi havde den samme holdning dennår man er kommet i opposition, i forhold til, gang, og der har også været en forespørgsel til
+hvad man mente, da man var i regering. Spør- den daværende sundhedsminister. Men minigernes indlæg her i dag lægger op til en æn- steren henholdt sig til Sundhedsstyrelsens opdring af administrationen på et område, hvor lysninger, og det måtte vi stille os tilfredse
+man tidligere selv har fastlagt retningslinjerne. med.
+Endelig har man ikke givet noget fornuftigt
+Nu er det altså blevet afklaret, at Sundhedssvar på, hvordan man vil have Folketinget til styrelsen i allerhøjeste grad vildledte os, og
+at tage stilling til et dagsordensforslag, hvor to derfor er vi i en ny situation, som gør, at man
+af forslagsstillerne hævder, at der indføres en må tage en sådan ting op igen. Vi blev vildledt
+vetoret og dermed altså en ophævelse af den tidligere: nu ved vi, at der ikke er sundhedshidtidige regerings politik på området, mens mæssige problemer med nitrat, når det ikke
+den tredje forespørger, nemlig Det Konservati- optræder sammen med kolibakterier. Det ved
+ve Folkepartis ordfører, hævder, at dagsorde- vi helt præcis, det har vi Sundhedsstyrelsens
+nen ikke betyder, at der indføres vetoret. Det ord for, og det giver en ny situation.
+er selvfølgelig altid interessant med en diskussion om et vigtigt emne, men det her har været
+Miljøministeren (Svend Auken):
+pinligt.
+Jeg synes, det er utroligt, at hr. Filt Jensen
+fortsætter
+i det spor. Den daværende sund(Kort bemærkning).
+hedsminister henviste til WHO og EF. WHO";Miljøministeren
+149428;name_party;":
+har ikke alene udtalt sig om ulandsbørn, men
+Jeg skal ikke forlænge debatten med mere har udtalt sig generelt om, hvilke kvalitetskrav
+end et minut, og det er også muligt, at det, jeg der ud fra en sundhedsmæssig vurdering skal
+vil sige nu, allerede er sagt. Der er sagt mange stilles til drikkevand, når det drejer sig om niord, og det er jo ikke nemt at huske alle ting. tratindhold, og det samme har EF gjort. Jeg
+Men ministeren sagde, og det er også blevet synes, det vidner om en selvovervurdering
+sagt af andre ordførere, at disse vejledninger grænsende til det himmelske, når Venstres og
+bygger på en WHO-rapport. Men man skal alt- Fremskridtspartiets ordførere mener, at man er
+så lige huske på, at hvis man går lidt ned i pa- klogere end både Verdenssundhedsorganisapirerne, gav denne WHO-rapport en konklu- tionen, sundhedsmyndighederne i alle de lansion af, hvor meget nitratindhold børn i de un- de, vi normalt samarbejder med, EF og Sundderudviklede lande kunne tåle. Det var noget hedsstyrelsen i Danmark.
+med, at for børn, der fik meget mælkeerstatJeg nævnte tidligere i debatten, at i septemningspulver, var det faktisk rigtigt, her kunne ber var der en konference i EF, hvor Kommisdet være farligt med for meget nitratindhold i sionen havde indkaldt eksperter fra samtlige
+vandet. Men det er der jo megen forskel på. 12 EF-lande for at diskutere EF's drikkevandsDet er klart, at børn, der får mælkeerstatning, direktiv, herunder spørgsmålet om grænseværindtager en masse vand daglig, og at man skal dien på de 50 mg. Der var enighed de 12 lande
+være varsom: men den mængde vand, som mi- imellem og mellem de 12 landes sundhedsnisteren og jeg indtager hver dag, kan måske myndigheder om, at man skulle fastholde
+rummes i glasset her, så om det indeholder lidt grænsen, for den var sundhedsmæssigt den
+mindre eller lidt mere nitrat, har ingen betyd- mest forsvarlige, og så er det da utroligt, at
+ning. Og vi har ikke kunnet få én eneste viden- ordførere for de pågældende partier blæser på,
+skabelig dokumentation for, at det er skade- hvad deres egne ministre tidligere har sagt:
+ligt.
+blæser på, hvad den danske Sundhedsstyrelse
+har sagt: blæser på, hvad de siger i alle andre
+lande, og blæser på, hvad man siger i Verdens(Kort bemærkning).
+sundhedsorganisationen, men fastslår som en";Aage Brusgaard
+151748;name_party;":
+kendsgerning, at det nu er videnskabeligt beMinisteren kom med en bemærkning om, at vist, at der ikke er nogen sundhedsmæssig riside borgerlige partier var drejet 180 grader, ef- ko knyttet til vand med store koncentrationer
+ter at de ikke mere var i regering. Det er ikke af nitrat.
+
+1395
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Filt Jensen
+152149;title_name;"Altså: Det er klart, at man sagtens kan sige:
+»Hvis det er fakta, så benægter a fakta«, og der
+er vist også repræsentanter for de pågældende
+partier, der tidligere har beriget den politiske
+debat med udsagn af den art. Men der er ikke
+skygge af belæg for det, hr. Filt Jensen sagde
+her til sidst om, at det var videnskabeligt bevist, at der ingen risiko var ved store koncentrationer af nitrat eller ved koncentrationer,
+der oversteg sundhedsgrænsen.
+Hr. Gade har tidligere sagt, at denne grænse
+på 50 mg er udtryk for et forsigtighedssynspunkt. Den er udtryk for den sundhedsmæssige opfattelse, at så længe vi overhovedet har
+mulighed for det, skal vi fastholde, at det vand,
+som både vi voksne og vores børn drikker, skal
+være rent, og at en god indikator og en sikkerhedsmargin for det er en overholdelse af grænsen på de 50 mg.
+(Kort bemærkning).";Miljøministeren
+153015;name_party;":
+For det første vedrører WHO-grænsen eller
+EF-direktivet ikke private brønde, og det er
+dem, vi snakker om i dag. Dernæst har professor Bonnevie, som var en af eksperterne, der
+var med til at fastsætte grænsen på de 50 mg
+pr. liter i WHO, sagt i både skrift og tale, at det
+ikke har betydning i Danmark, hvor vi har det
+bakteriologisk rene vand. Hvis ikke det er bakteriologisk rent, er det selvfølgelig et problem.
+Det næste er, at den tidligere sundhedsminister fra Venstre henholdt sig til Sundhedsstyrelsen, fordi det derfra forelå, at det var sundhedsfarligt. Vi har nu fået bevis for, at det er
+det ikke, og derfor er der også logik i, at vi
+tager sagen op, når Sundhedsstyrelsen i dag siger, at der kun har været ét tilfælde af »blå
+børn« i de sidste 20 år, og her var man oppe på
+172 mg nitrat, samtidig med at der var rigeligt
+med kolibakterier i vandet. Derfor mener vi
+fortsat, at der er grundlag for, at man siger til
+de private brøndejere, at for deres vedkommende er det op til dem selv, om de vil drikke
+af det vand.
+Vi går ind for det kommunale selvstyre, men
+vi går også ind for den fulde frihed for den enkelte borger, så længe man ikke generer andre
+borgere.";Filt Jensen
+154226;title_name;":
+Jeg tror efterhånden, at alle tørster efter, at
+
+1396
+
+vi skal afslutte denne debat. Men jeg synes næsten efter hr. Filt Jensens indlæg, at jeg er nødt
+til én gang til at gentage, at Sundhedsstyrelsens sundhedsfaglige rådgivning og anbefaling
+i denne sag i dag er præcis den samme, som
+den var før regeringsskiftet. Sundhedsstyrelsen
+anbefaler, at vi fastholder den grænseværdi, vi
+har haft igennem nogle år.";Torben Lund
+154669;title_name;":
+Hr. Aage Bruusgaard for en kort bemærkning, og jeg fornemmer, at debatten nærmer
+sig sin afslutning.
+(Kort bemærkning).";Ivar Hansen
+154810;name_party;":
+Det håber jeg også.
+Miljøministeren nævnte, at Venstres og
+Fremskridtspartiets ordførere nærmest var
+himmelske i deres viden. Jeg mener faktisk, at
+vi med vores viden er saglige i vores argumentation, hvorimod ministerens viden kan ligge
+på et meget lille sted: og derfor henholder ministeren sig også til en EF-redegørelse og en
+WHO-redegørelse, som ikke drejer sig om
+Danmark.
+Men jeg vil godt spørge ministeren, om ikke
+ministeren har læst forespørgslen, for der står
+netop »private brøndejere«. Jeg vil også spørge ministeren, om han ikke kan bekræfte, at
+den 5. juli 1990 faldt der en dom i EF, der sagde, at rådsdirektivet om kvaliteten af drikkevand ikke drejer sig om private brønde og private boringer. Derfor har ministeren aldeles og
+særdeles uret, når han siger, at de regler, vi har
+i Danmark, er blevet til på baggrund af EF's
+regler og vedtagelser. Det er de ikke. Danmark
+har lov til at føre den politik for private boringer og private brønde, som vi ønsker. Det vil
+EF ikke blande sig i og har ikke gjort det.
+Miljøministeren (Svend Auken):
+Jeg sagde ikke, at hr. Aage Brusgaards viden
+var himmelsk: jeg sagde, at hr. Aage Brusgaards og hr. Jørgen Winthers selvovervurdering var himmelsk, og det er der efter min opfattelse en forskel på. Men jeg indrømmer
+blankt, at min viden blegner i forhold til den
+viden, man har i en række af de sundhedsfaglige organisationer og instanser, som har udtalt
+sig om spørgsmålet.
+
+1397
+
+3/11 93: Forespørgsel vedr. private brøndejeres tilladelse til at drikke eget brøndvand";Aage Brusgaard
+156360;title_name;"Når jeg tager ordet, er det kun for endnu en
+gang at slå fast, at da EF-Domstolen fastslog,
+at EF-direktivet ikke havde retsvirkning for
+private brønde - som hr. Aage Brusgaard ganske rigtig gjorde opmærksom på - besluttede
+den daværende borgerlige regering alligevel at
+fastholde denne grænseværdi for de private
+brønde, og det er på den baggrund, jeg ikke er
+sur på hr. Aage Brusgaard, ja, jeg er faktisk
+ikke sur på nogen.
+Men jeg synes heller ikke, at der er grund til
+at kritisere hr. Aage Brusgaard, for alle, der
+kender hr. Aage Brusgaards forhold til miljøet,
+ved, at hr. Aage Brusgaard ikke tillægger nogen grænseværdi nogen som helst betydning.
+Folk kan gøre, hvad de vil, og så må miljøet
+skøtte sig, som det bedst kan. Sådan er hr.
+Aage Brusgaards klare ideologiske holdning.
+Men det er noget andet med de to partier,
+der i 1990 blev konfronteret med denne retskendelse og besluttede, at den alligevel skulle
+være gældende og har administreret efter de
+retningslinjer siden. Så snart de er kommet i
+opposition, starter de et felttog mod den politik, de selv stod for tidligere, uden at kunne
+fremlægge nogen argumentation med nogen
+saglig vægt. Det er dét, jeg angriber. Og så vil
+jeg endda sondre mellem hr. Jens Jørgensen og
+hr. Jørgen Winther, fordi hr. Jens Jørgensen
+dog i det mindste havde det synspunkt, at de
+regler, man hidtil har haft på området, var fornuftige. Men så er det bare så meget desto mere overraskende, at hr. Jens Jørgensen er medforslagsstiller til et forslag om motiveret dagsorden, som gør op med den hidtidige politik
+på området.
+Der er hverken hoved eller hale på de tre
+partiers indsats i denne sag. Det handler kun
+om kommunalpolitik, det handler om at markere sig inden den 16. november, og det synes
+jeg er al ære værd. Men så skal vi altså heller
+ikke gøre det til mere, end det er.";Miljøministeren
+158221;title_name;":
+Jeg gør opmærksom på, at afstemningen om
+det fremsatte dagsordensforslag vil finde sted
+ved Folketingets møde i morgen.
+Hermed sluttede forhandlingen.
+
+1398
+
+Den sidste sag på dagsordenen var:
+3) Første behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af lov om kemiske
+stoffer og produkter.
+Af miljøministeren (Svend Auken).
+(Fremsat 27/10 93).
+Lovforslaget sattes til forhandling.
+Forhandling";Ivar Hansen
+158645;name_party;":
+Lovforslag nr. L 40, som vi skal behandle
+her sidst på dagen, omhandler to elementer.
+Det ene er et spørgsmål om markedsføring, det
+andet er et spørgsmål om revurdering af aktive
+giftstoffer, når de skal bruges i plantebeskyttelsesmidler.
+Man kan altså se, at denne sidste del af lovforslaget tager fat på plantebeskyttelsesmidlerne, og det er også varslet i bemærkningerne, at
+der senere vil komme et lovforslag om biocider
+i henhold til et EF-direktivforslag. Det vil altså
+sige, at når godkendelsen af et aktivstof udløber ifølge de eksisterende ordninger, kan det
+først på ny blive godkendt, når det er optaget
+på EF-listen. Det fremgår af forslaget, og det
+går vi ind for i Socialdemokratiet og støtter
+derfor lovforslaget.
+Derefter kan jeg sige, at med denne ændring
+bliver det sådan, at miljøministeren får en bemyndigelse til at fastsætte regler for den måde,
+markedsføringen kan foregå på her i landet.
+Disse regler skal naturligvis være i overensstemmelse med de fællesskabsforpligtelser,
+som Danmark har.
+Til allersidst vil jeg sige, at hermed bliver
+der lukket et hul i lovgivningen, som vi har
+haft hidtil, og samtidig er der i bemærkningerne taget lidt højde for fremtiden, idet det også
+bliver omtalt, hvordan biociddirektivet skal
+behandles.
+Fra Socialdemokratiets side tilsiger vi naturligvis en hurtig og saglig udvalgsbehandling,
+så lovforslaget kan træde i kraft den 1. januar
+1994, som det også nævnes i selve forslagets
+tekst.";Helen Beim
+160115;name_party;":
+Da mit partis ordfører, fru Eva Møller, er
+forhindret i at være til stede, skal jeg på fru
+Eva Møllers vegne fremføre følgende:
+
+1399
+
+3/11 93 : 1. beh. af f. t. 1. vedr. kemiske stoffer og produkter 홢 I";Jens Jørgensen
+160340;title_name;"Det Konservative Folkeparti kan støtte det
+foreliggende lovforslag. Vi har forstået lovforslaget som en række klargøringer og justeringer og en supplerende gennemførelse af et EFdirektiv, som giver ensartede regler på området. Vi har også noteret os, at forslaget ikke har
+administrative eller økonomiske konsekvenser
+for det offentlige, lige så lidt som det umiddelbart har miljømæssige konsekvenser.
+Vi har forstået det således, at forslagets gennemførelse bevirker, at en række tidsbegrænsede frister udløber ekstraordinært, hvilket har
+til følge, at der kan kræves indsendt fornyet
+ansøgning. Vi står lidt uforstående over for, at
+dette ikke er en administrativ konsekvens:
+men det afhænger naturligvis af, hvordan ministeren vil agere i sagen, og det vil vi gerne
+have nærmere belyst. Men vi mener, at det kan
+ske under udvalgsarbejdet, og derfor er der ingen konkrete spørgsmål her og nu.
+Under udvalgsarbejdet vil vi også gerne have en belysning af, hvordan man kan sikre i
+praksis, at importørerne ikke oplever, at et bestemt middel ikke er tilladt i perioden mellem
+aktivstoffets optagelse på EF-listen og den fornyede godkendelse.
+Men skal jeg sammenfatte tingene, bliver det
+kort og præcist, at vi alt i alt er positive over
+for lovforslaget, og vi vil ligesom fru Helen
+Beim sikre en hurtig, god og sober gennemgang af det i udvalget, så det kan blive endeligt
+vedtaget hurtigst muligt.";Jens Jørgensen
+161754;name_party;":
+Lovforslag nr. L 40 om ændring af lov om
+kemiske stoffer og produkter er en opfølgning
+af et EF-direktiv om markedsføring af plantebeskyttelsesmidler.
+Vi arbejder jo mod fælles regler i EF, men
+hidtil har vi haft vores egen godkendelsesordning for plantebeskyttelsesmidler. I takt med,
+at de aktive stoffer - og herved forstår man jo
+de virksomme stoffer i midlerne - bliver optaget på EF-listen over godkendte aktivstoffer,
+udløber vores nationale godkendelsesregler.
+Reglerne siger da, at godkendelsesindehaveren
+på ny skal søge godkendelse med opfyldelse af
+de nye dokumentationskrav, og det er helt i orden, fordi det netop giver orden i markedsføring og databeskyttelse.
+Men det kan også give visse praktiske problemer med ophør af markedsføring i en vis
+
+I Il
+
+1400
+
+periode, hvis der ikke bliver sat en forriøden
+tidsfrist mellem optagelse af aktivstoffet på
+EF-listen og ophøret af den gamle godkendelse. Det vil derfor være praktisk, om der fastsættes en frist for indsendelse af den nye ansøgning, f.eks. på 3 måneder. Såfremt denne
+nye ansøgning er indsendt rettidigt, mener vi,
+at markedsføringen skal kunne fortsætte, indtil
+en fornyet godkendelse foreligger f.eks. gennem en dispensation, idet produktet jo i forvejen er godkendt i Danmark og i mellemtiden
+også er blevet godkendt i EF, og i sådanne situationer kan det ikke være rimeligt, at der bliver en kortere eller længere afbrydelse af markedsføringen i Danmark. Der er tale om en
+rent praktisk foranstaltning, og jeg håber, ministeren vil indføje en sådan dispensationsmulighed eller midlertidig godkendelsesmulighed
+i loven.
+Med disse bemærkninger tilkendegiver vi i
+Venstre vores positive støtte til lovforslagets
+hurtige behandling.";Filt Jensen
+163473;name_party;":
+Som det er beskrevet tidligere, er der jo tale
+om en overgang fra vores nuværende godkendelsessystem til et fælles EF-gódkendelsessystem, og vi vil i udvalgsarbejdet prøve at få belyst sammenhængen mellem den foreliggende
+overgangsmodel og det, vi skal nå frem til.
+Det er ingen hemmelighed, at vi er noget bekymrede for, hvordan de nye godkendelsesordninger bliver, og hvad vi risikerer at blive
+belemret med. Risikoen for, at vi får ting, der
+ikke er så gode som dem, vi har i dag, er til
+stede, og det er nogle af de ting, vi gerne vil
+have belyst i udvalgsarbejdet. Man kan sådan
+set sige, at vi gerne vil have belyst den sammenhæng, hvori reglerne kommer til at virke,
+det vil sige at vi vil benytte lejligheden til at få
+gjort status over, hvor langt man egentlig er i
+EF med hensyn til kriterier osv. for selve de
+godkendelsesprocedurer, der skal anvendes.
+Det er med denne indstilling, vi går ind i udvalgsarbejdet, og det er disse ting, vi gerne vil
+have belyst, inden vi tager endelig stilling.
+Ernst B. Schmidt (FP):
+Den forrige taler, hr. Gade, havde visse bekymringer, og jeg kan indlede med at sige, at
+Fremskridtspartiet også har nogle bekymringer, selv om vi også er positive over for lovfor-
+
+1401
+3/11 93: 1. beh. af f. t. 1. vedr.";Gade
+164745;title_name;"slaget. Vores bekymringer går måske nok i en
+lidt anden retning, bl.a. er det jo en ledetråd
+for vores miljøpolitik, at den skal være erhvervsrigtig, og derfor vil vi i hvert fald gerne
+vide, hvad f.eks. Dansk Agrokemisk Forening,
+der har været hørt i sagen, mener om lovforslaget.
+Så vidt jeg kan se, tales der ikke om direkte
+godkendelse, og der er jo også nogle parallelimportører, og det er jo heller ikke helt uvæsentligt. Jeg erindrer, at der engang var stor
+strid om parallelimport, så det spørgsmål vil vi
+i hvert fald have belyst, inden vi kan give tilsagn om at støtte lovforslaget. Vi var jo heller
+ikke med, dengang selve hovedforslaget blev
+vedtaget, fordi vi dengang også nærede bekymringer for erhvervslivet.
+Men vi er positivt indstillet.
+
+kemiske stoffer og produkter
+
+Vibeke Grønbæk (RV):
+Da vi er overbeviste om, at dette lovforslag
+vil være til miljøets fordel, kan Det Radikale
+Venstre støtte forslaget.
+
+Der er foretaget ændringer i følgende udvalg:
+
+Miljøministeren (Svend Auken):
+Jeg skal sige tak til ordførerne for den positive modtagelse af forslaget, og jeg ser frem til
+de spørgsmål, man vil rejse under udvalgsarbejdet.
+Vi opfatter selv lovforslaget som en teknisk
+tilpasning til et vedtaget direktiv. Denne tekniske tilpasning skal selvfølgelig være den bedst
+mulige, og jeg synes, hr. Filt Jensen og andre
+har nævnt nogle problemer, som vi nødvendigvis må se på i udvalgsarbejdet. Jeg håber imidlertid, at vi kan komme rimelig hurtigt i gang
+med arbejdet og gøre det hurtigt færdigt, så vi
+kan få vedtaget lovforslaget og opfylde vore internationale forpligtelser i den sammenhæng.
+Endnu en gang tak for modtagelsen af lovforslaget.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Ernst B. Schmidt
+166554;title_name;":
+Jeg foreslår, at lovforslaget henvises til Mil-
+
+1402
+
+jø- og Planlægningsudvalget. Hvis ingen gør
+indsigelse mod dette forslag, betragter jeg det
+som vedtaget. (Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Ivar Hansen
+166803;title_name;":
+Der er ikke mere på dagsordenen.
+Fra medlem af Folketinget Jytte Andersen
+(S), der har orlov, har jeg modtaget meddelelse
+om, at hun fra og med den 5. november atter
+kan give møde i Tinget.
+Stedfortræderens, Claus Larsen-Jensens,
+hverv som midlertidigt medlem af Folketinget
+ophører herefter fra nævnte dato at regne.
+
+Erhvervsudvalget (1/11 93):
+Udtræder: Tove Videbæk (KRF)
+Nyt medl.: Ole M. Nielsen (KRF)
+Erhvervsudvalget (2/11 93):
+Udtræder: Jens Thoft (SF)
+Ny stedf.: Tommy Dinesen (SF)
+Udtræder: Ole M. Nielsen (KRF)
+Nyt medl.: Tove Videbæk (KRF).
+Forskningsudvalget (2/11 93):
+Udtræder: H.P. Clausen (KF)
+Nyt medl.: Gerda Thymann Pedersen (KF)
+Kulturudvalget (2/11 93):
+Udtræder: H.P. Clausen (KF)
+Nyt medl.: Gerda Thymann Pedersen (KF)
+Udvalget vedrørende Teknologinævnet (2/11
+93):
+Udtræder: H.P. Clausen (KF)
+Nyt medl.: Gerda Thymann Pedersen (KF)
+Trafikudvalget (2/11 93):
+Udtræder: H.P. Clausen (KF)
+Ny stedf.: Gerda Thymann Pedersen (KF).
+Boligudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Mario See (CD)
+
+1403
+
+3/11 93: Meddelelser fra formanden";Ivar Hansen
+167906;title_name;"Forsvarsudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Mario See (CD)
+
+Retsudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Ny stedf.: Mario See (CD)
+
+Landbrugs- og Fiskeriudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Mario See (CD)
+
+Skatteudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Ny stedf.: Mario See (CD)
+
+Udvalget vedrørende en Bæredygtig Landbrugsudvikling (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Mario See (CD)
+
+Trafikudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Ny stedf.: Mario See (CD).
+
+Miljø- og Planlægningsudvalget (2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Mario See (CD)
+Udvalget vedrørende Dansk Sikkerhedspolitik
+(2/11 93):
+Udtræder: Svend Aage Jensen (CD)
+Nyt medl.: Mario See (CD)
+
+1404
+
+Folketingets næste møde afholdes i morgen,
+torsdag den 4. november 1993, kl. 10.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 18.04";Første næstformand

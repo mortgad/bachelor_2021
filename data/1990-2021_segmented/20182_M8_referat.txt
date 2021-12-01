@@ -1,0 +1,99 @@
+split;reason;text;value
+0;;"Torsdag den 12. september 2019 (D)
+
+1
+
+Det første punkt på dagsordenen er:
+1) 3. behandling af lovforslag nr. L 1:
+Forslag til lov om ændring af lov om valg til Folketinget og lov
+om valg af danske medlemmer til Europa-Parlamentet. (Sanktioner for retsstridig indsamling af vælgererklæringer).
+Af social- og indenrigsministeren (Astrid Krag).
+(Fremsættelse 13.08.2019. 1. behandling 28.08.2019. Betænkning
+05.09.2019. 2. behandling 10.09.2019).
+
+8. møde";
+494;Time;Dagsorden;kl. 10.00
+515;Time;"1) 3. behandling af lovforslag nr. L 1:
+Forslag til lov om ændring af lov om valg til Folketinget og lov om
+valg af danske medlemmer til Europa-Parlamentet. (Sanktioner for
+retsstridig indsamling af vælgererklæringer).
+Af social- og indenrigsministeren (Astrid Krag).
+(Fremsættelse 13.08.2019. 1. behandling 28.08.2019. Betænkning
+05.09.2019. 2. behandling 10.09.2019).
+2) 2. (sidste) behandling af beslutningsforslag nr. B 3:
+Betænkning og indstilling om ændring af forretningsorden for Folketinget. (Opdeling af Transport- og Boligudvalget).
+(Forslag som fremsat (i betænkning) 28.08.2019. Anmeldelse (i salen) 28.08.2019. 1. behandling 10.09.2019).";Kl. 10:00
+1179;Time;Forhandling;Kl. 10:00
+1226;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+1351;Time;Afstemning;Kl. 10:01
+1397;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+
+Meddelelser fra formanden
+
+For stemte 105 (S, V, DF, RV, SF, EL, KF, ALT, NB og LA), imod
+stemte 0, hverken for eller imod stemte 0.";Henrik Dam Kristensen
+1659;title_name;":
+Mødet er åbnet.
+
+Lovforslaget er enstemmigt vedtaget og vil nu blive sendt til statsministeren.
+
+Jeg har i dag følgende meddelelser:
+Fra medlem af Folketinget Mette Abildgaard, der har haft orlov, har
+jeg modtaget meddelelse om, at hun fra og med den 28. september
+2019 atter kan give møde i Folketinget.
+Egil Hulgaards hverv som midlertidigt medlem af Folketinget ophører fra nævnte dato at regne.
+Socialdemokratiets folketingsgruppe har meddelt mig, at den med
+virkning fra den 10. september 2019 har udpeget medlem af Folketinget Lennart Damsbo-Andersen som stedfortræder for statsrevisorerne for den resterende del af indeværende funktionsperiode i stedet
+for Flemming Møller Mortensen, da denne er udpeget som statsrevisor.
+Den pågældende er herefter valgt.
+
+Det sidste punkt på dagsordenen er:
+2) 2. (sidste) behandling af beslutningsforslag nr. B 3:
+Betænkning og indstilling om ændring af forretningsorden for
+Folketinget. (Opdeling af Transport- og Boligudvalget).
+(Forslag som fremsat (i betænkning) 28.08.2019. Anmeldelse (i salen) 28.08.2019. 1. behandling 10.09.2019).";Henrik Dam Kristensen
+2752;Time;Forhandling;Kl. 10:01
+2799;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Fru Karen Ellemann.
+
+2
+
+Torsdag den 12. september 2019 (FM )";Henrik Dam Kristensen
+2938;Time;(Ordfører);Kl. 10:02
+2969;name_party;":
+Beslutningsforslaget her var til første behandling i tirsdags, den 10.
+september. Det er jo et beslutningsforslag, som udspringer af en indstilling fra Udvalget for Forretningsordenen, og det er et beslutningsforslag, som hele udvalget står bag. Derfor havde det naturlige nok
+været, at forslaget var blevet henvist direkte til den her anden- og
+sidstebehandling, uden at det skulle tilbage til Udvalget for Forretningsordenen. Men der skete altså det under førstebehandlingen, at
+forslaget alligevel blev henvist til Udvalget for Forretningsordenen,
+og siden der jo ikke rigtig er noget nyt at diskutere, har vi ikke fundet anledning til at skrive en tillægsbetænkning over forslaget.
+I stedet for er udkommet blevet, at jeg nu her på udvalgets vegne
+afgiver en mundtlig indstilling om vedtagelse af forslaget. Jeg skal
+altså hermed på vegne af Udvalget for Forretningsordenen indstille,
+at det her beslutningsforslag bliver vedtaget uændret.";Karen Ellemann
+3924;Time;;Kl. 10:03
+3959;title_name;":
+Ønsker flere at udtale sig?
+Jeg tror, vi siger tak til fru Karen Ellemann for at rette denne procedurefejl.
+Vi går til afstemning.";Henrik Dam Kristensen
+4101;Time;Afstemning;Kl. 10:03
+4147;title_name;":
+Der kan stemmes.
+Afstemningen slutter.
+For stemte 105 (S, V, DF, RV, SF, EL, KF, ALT, NB og LA), imod
+stemte 0, hverken for eller imod 0.
+Forslaget til folketingsbeslutning er enstemmigt vedtaget.";Henrik Dam Kristensen
+4356;Time;Meddelelser fra formanden;Kl. 10:03
+4417;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag den 1. oktober 2019, kl.
+12.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside. Jeg skal også henvise til ugeplanen, der vil fremgå af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 10:04).";Henrik Dam Kristensen

@@ -1,0 +1,944 @@
+split;reason;text;value
+0;;"Tirsdag den 27. januar 2009 (D)
+
+3037";
+47;Time;"Meddelelser fra formanden
+46. m ø d e";Kl. 13:01
+124;Time;".
+Dagsorden
+1) 3. behandling af lovforslag nr. L 73:
+Forslag.til lov om ændring af lov om Arbejdsmarkedets Tillægspension. (Udvidelse af medlemskredsen, indførelse af E- og F-bidrag og
+automatisk pensionsudbetaling)...
+Af beskæftigelsesministeren (Claus Hjott Frederiksen).
+(Fremsættelse 19.11.2008.1. behandling
+25.11.2008. Betænkning 14.01.2009. 2. behand- ,
+ling 20.01.2009. Lovforslaget optrykt efter 2. behandling).
+2) 2. behandling af lovforslag nr. L 74:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. (Beregning af dagpenge, opgørelse af beskæftigelseskrav samt arbejdsløshedskassernes adgang til registersamkøring i
+forbindelse med anvendelse af indkomstregisteret).
+Af beskæftigelsesministeren (Claus Hjort Frederiksen).
+(Fremsættelse 19.11.2008. 1. behandling
+25.11.2008. Betænkning 21.01.2009).
+3) 1. behandling af lovforslag nr. L 88:
+Forslag til lov om ændring af lov om arbejdsskadesikring og lov om erstatning til tilskadekomne
+værnepligtige m.fl. (Dækning af skader forvoldt
+ved terror m.v.).
+Af beskæftigelsesministeren (Claus Hjort Frederiksen).
+:
+(Fremsættelse 10.12.2008).
+4) 1. behandling af lovforslag nr. L 95:
+Forslag til lov om digital indberetningsløsning
+til brug for anmeldelse af sygèfravæt samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven.
+Af beskæftigelsesministeren (Claus Hjort Frederiksen).
+(Fremsættelse 17.12.2008).";kl. 13.00
+1555;title_name;":
+Mødet er åbnet.
+Medlemmer af Folketinget Lene Hansen (S) m.fl.
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om forbud mod
+offentliggørelse af meningsmålinger og exit
+polis på valgdage.
+(Beslutningsforslag nr. B 89).
+Medlemmer af Folketinget Lennart Damsbo-Andersen (S), Flemming Bonne (SF) og Line Barfod
+(EL) m.fl. har meddelt mig, at de ønsker skriftligt at fremsætte:
+Forslag til folketingsbeslutning om afskaffelse af
+det kommunale aniægsloft.
+(Beslutningsforslag nr. B 90).
+
+Det første punkt på dagsordenen er:
+1) 3. behandling af lovforslag nr. L 73:
+Forslag til lov om ændring af lov om Arbejdsmarkedets Tillægspension. (Udvidelse af medlemskredsen, indførelse af E- og F-bidrag og
+automatisk pensionsudbetaling).
+Af beskæftigelsesministeren (Claus Hjort Frederiksen).
+(Fremsættelse 19.11.2008.1. behandling
+25.11.2008. Betænkning 14.01.2009. 2. behandling 20.01.2009. Lovforslaget optrykt efter 2. behandling).";Svend Auken
+2528;Time;Forhandling;Kl. 13:01
+2573;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.
+(Uro i salen). Jeg gør lige opmærksom på, at vi
+nu begynder en afstemning.
+
+3038
+
+Tirsdag den 27. januar 2009 (L 74)";Svend Auken
+2816;Time;Afstemning;Kl. 13:02
+2861;title_name;":
+Der kan stemmes.
+Afstemningen slutter.
+For stemte: 107 (V, S, DF, SF, KF, RV, EL og LA),
+imod stemte: 0, hverken for eller imod stemte: 0.
+Forslaget er vedtaget og vil blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 74:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. (Beregning af dagpenge, opgørelse af beskæftigelseskrav samt arbejdsløshedskassernes adgang til registersamkøring i forbindelse med anvendelse af indkomstregisteret).
+Af beskæftigelsesministeren (Claus Hjort Frederiksen).
+(Fremsættelse 19.11.2008. 1. behandling
+25.11.2008. Betænkning 21.01.2009).";Svend Auken
+3515;Time;Forhandling;Kl. 13:02
+3560;title_name;":
+Ønsker nogen at udtale sig?
+Hr. Bjarne Laustsen.";Svend Auken
+3621;Time;(Ordfører);Kl. 13:03
+3652;name_party;":
+Jeg vil her fra Folketingets talerstol gøre noget,
+jeg meget, meget sjældent gør. Det er, at jeg gerne vil have lov at rose regeringen og især beskæftigelsesministeren. Det sker meget sjældent,
+men enhver vil jo vide, at når jeg gør det på den
+måde her, skal man nok lige tage det med et
+gran salt. Det tror jeg vil være klogt, for vi har jo
+set, at regeringen kom med et egentlig ganske
+udmærket forslag, hvor man siger, at man kan
+forenkle administrationen af a-kasse-reglerne.
+Når folk skal have understøttelse, kan man bruge det såkaldte elndkomstregister til at lave en
+registrering i stedet for som i dag, hvor man
+samler lønsedler sammen for 13 uger eller 3 måneder. Det kan gøres anderledes i fremtiden, og
+
+det er jo kun godt, og det skal beskæftigelsesministeren bestemt have ros for. En af grundene til,
+at han gjorde det, var også, at man kunne spare
+erhvervslivet for 38 mio. kr. i omkostninger.
+Der, hvor så problemet var - og det var vi en
+række ordførere der gjorde opmærksom på ved
+førstebehandlingen - var der, hvor ministeren
+lige havde set sit snit til at ændre på reglerne.
+Hvis man havde fået en karantæne, skulle man
+have 10 ugers arbejde a 30 timer, altså 300 timers
+ustøttet arbejde for at komme ind og få understøttelse igen. Det, som ministeren foreslog, var
+jo, at det nu ikke skulle opgøres på ugebasis, nu
+skulle det være på månedsbasis - og 3 måneder
+er jo 13 uger, og så var det lige pludselig 13 uger
+gange 30 timer: det var så 390 timer. De 90 timer
+blev lagt oveni.
+Så én ting var, at erhvervslivet fik en lettelse
+på 38 mio. kr.: noget andet var, at det her lovforslag altså skulle bruges til at straffe lønmodtagere i forhold til genoptjeningsretten. Det var vi
+mange ordførere der syntes var helt urimeligt.
+Hvorfor kunne man ikke lave administrative lettelser, uden at det skulle gå ud over de svageste i
+samfundet? I en situation, hvor vi desværre må
+se, at ledigheden bare stiger og stiger, må vi også
+give Dansk Folkepartis ordfører, hr. Bent Bøgsted, ret i, at det er sværere at få 390 end 300 timers ustøttet arbejde.
+Derfor gik vi i gang med udvalgsbehandlingen, og vi foreslog, at man godt kunne bibeholde de 300 timer, selv om man lavede ugeberegningen om til månedsberegning. Det bad 'vi så
+om at få udarbejdet et ændringsforslag til, og
+det lå der. Ministeren ville ikke give sig, men alligevel har han selv fundet ud af efterfølgende,
+at han gerne vil fremsætte nøjagtig det samme
+lovforslag. Men regeringen ville ikke støtte Socialdemokratiet og SF og Enhedslisten i præcis
+det samme lovforslag. Det er da helt totalt underligt. Der er megen tale om bureaukrati og
+spild af tid osv. herinde. Det ville have været så
+let for regeringen, når der var nogen, der var geniale og havde set, at det her var et stort problem, bare at støtte oppositionens forslag.
+Derfor vil jeg selvfølgelig gerne høre beskæftigelsesministeren i dag, hvorfor det er, at man
+ikke kan støtte oppositionen, når nu de har
+fremsat et forslag, der er så genialt som det, regeringen tilsyneladende gerne vil nu? Og hvad
+er forskellen på de to ting? Det mener jeg vi må
+kunne få et svar fra beskæftigelsesministeren på
+i dag. Hvis man synes, at noget er godt og man
+bare ikke selv har foreslået det, hvorfor kunne
+
+Tirsdag den 27. januar 2009 (L 74)
+man så ikke bare støtte oppositionen? For det er
+jo det, Folketinget gerne vil, og jeg tror, at vi
+med det lovforslag her kan få hele Folketingets
+opbakning til, at vi laver noget, der er klogt i forhold til elndkomstregisteret og administrationen af a-kasse-reglerne, men vi vil ikke samtidig
+gøre det, at vi straffer nogle af de svageste her i
+samfundet med henblik på at holde dem ude af
+at kunne få understøttelse i fremtiden. Så vi
+mangler fra beskæftigelsesministerens side at få
+at vide, hvorfor man ikke simpelt hen bare i første omgang støttede oppositionens forslag i stedet for at trække den her sag i langdrag og fremsætte sit eget.
+Jeg er da godt klar over, at vi herinde i Folketinget ikke kan behandle to fuldstændig identiske forslag, og jeg tror, at Dansk Folkeparti vil
+støtte regeringen. Så er der jo størst flertal for
+det: så bliver det det. Men sagen er den, at det
+bliver nøjagtig det samme, om Dansk Folkeparti
+og regeringen havde tilsluttet sig vores forslag
+fra starten af.";Bjarne Laustsen
+7933;Time;;Kl. 13:07
+7966;title_name;":
+Hr. Eigil Andersen.
+. 홢Kl. 13:07
+(Ordfører)";Svend Auken
+8031;name_party;":
+I SF vil vi ikke forringe forholdene for arbejdsløse. Det ville beskæftigelsesministeren have gjort,
+men han har, som det er blevet nævnt, ændret
+mening, bl.a. fordi vi i oppositionen havde lavet
+et ændringsforslag til denne lov. Så som det er
+nævnt, er det endt med, at beskæftigelsesministeren stiller nøjagtig det samme ændringsforslag, som vi havde stillet. Og det hilser vi med
+stor tilfredshed. Som man siger: Der bliver større glæde i Himlen over én synder, der omvender
+sig - beskæftigelsesministeren - end 99 retfærdi.,
+ge, der ikke har brug for omvendelse.
+Det ærgerlige er naturligvis, at beskæftigelsesministeren ikke har omvendt sig på mange
+andre punkter, f.eks. med hensyn til at skære i
+supplerende dagpenge til arbejdsløse, som det
+skete i sommer, og det vil ramme titusinder af
+mennesker i denne tid. Det gælder også ministerens jagt på de syge, den meget dårlige fulde
+kommunalisering af jobcentrene, den manglende indsats for arbejdsmiljø osv. Her er ministeren i virkeligheden storsynder, og der er stort
+behov for omvendelse. Men det er desværre
+ikke sket.
+Nuvel, i den konkrete sag - hvor ministeren
+altså har ændret kurs - er det som nævnt sådan,
+
+3039
+
+at hvis man som arbejdsløs to gange inden for 12
+måneder kommer til at udeblive fra en samtale
+eller bliver selvforskyldt ledig, så indstilles udbetalingen af dagpenge, indtil man har haft
+mindst 300 timers arbejde i løbet af 10 uger.
+Regeringen valgte i første omgang at foreslå
+en forhøjelse af arbejdskravet til 390 timer i løbet
+af 3 måneder. Men det er langt, langt sværere
+f.eks. for en langtidsledig eller for en ufaglært eller for en ældre lønmodtager, der er ledig, at finde 390 timers arbejde end 300 timers arbejde, og
+det gælder også, selv om man ville forlænge den
+periode lidt, hvor man kunne finde arbejdstimerne. Ikke mindst i en tid, som vi har nu med
+voldsomt stigende arbejdsløshed, hvor flere
+hundrede mennesker i Danmark bliver fyret
+hver dag, bliver det endnu sværere at finde de
+her 390 timers arbejde, så regeringen har klogelig valgt at bibeholde de 300 timer. Det er vi tilfredse med, og det stemmer vi naturligvis for.";Eigil Andersen
+10166;Time;;Kl. 13:10
+10199;title_name;":
+Hr. Bent Bøgsted.";Svend Auken
+10228;Time;(Ordfører);Kl. 13:10
+10257;name_party;":
+Jeg synes, vi skal være glade for, at vi har et forslag, som der er enighed om.
+Nu hørte vi så hr. Bjarne Laustsen snakke om,
+at det nok bliver vedtaget, fordi Dansk Folkeparti stemmer for forslaget. Selvfølgelig gør vi
+det, det gør Socialdemokratiet også: hele Folketinget stemmer for det ændringsforslag, som ministeren nu har stillet.
+Man kan selvfølgelig altid diskutere, om
+Dansk Folkeparti skulle støtte Socialdemokratiet
+og SF's forslag, eller hvad vi skulle gøre. I den
+forbindelse synes jeg, det var ret og rimeligt at
+overbevise ministeren om, at det var sådan, det
+skulle være, og så også få en bred opbakning til
+det i Folketinget, hvor alle partier var med, i stedet for et forslag, som regeringen måske ikke
+var så opsat på.
+Det er min opfattelse, at det altid har været
+sådan, at hvis oppositionen kommer med et forslag, som regeringen bliver overbevist om er
+o.k., så gør regeringen det til sit eget. Det er også
+sket, dengang hr. Bjarne Laustsens parti sad i regering: hvis der kom et ændringsforslag, som de
+kunne se var fornuftigt - det skete jo også dengang - så gjorde regeringen det til sit eget.
+Det er også det, der er sket her, ved at ministeren er blevet overbevist om, at det er sådan,
+det skal være. Og så burde hr. Bjarne Laustsen jo
+
+3040
+
+Tirsdag den 27. januar 2009 (L 74)
+
+være glad for, at det kommer igennem, i stedet
+for at man skal strides om, hvem der nu har eller
+ikke har ophavsret til det. Det vigtigste må jo
+være, at det kommer igennem. Og det gør det jo
+med det brede flertal, der er: alle partier stemmer for ændringsforslaget, alle partier stemmer
+for forslaget som sådan. Det må jo egentlig være
+dejligt for hr. Bjarne Laustsen at kunne se, at det
+forarbejde, der er blevet gjort, har båret frugt.
+Det skal man jo også være glad for en gang imellem.
+Så kan man måske sige, at det var skønt nok,
+hvis hr. Bjarne Laustsen kunne have sagt, at det
+var hans forslag, der var kommet igennem, men
+så vidt jeg ved, var det vist hr. Eigil Andersens
+forslag - jeg er ikke helt klar over, hvordan det
+interne spil er, eller om det var fagforeningens
+forslag - der så var blevet vedtaget. Men hovedessensen i det er, at det kommer igennem, og at
+vi har fået overbevist ministeren om, at det skulle være sådan, og så skal vi jo være glade og tilfredse med det.";Bent Bøgsted
+12564;Time;;Kl. 13:12
+12597;title_name;":
+Hr. Bjarne Laustsen for en kort bemærkning.";Svend Auken
+12652;Time;;Kl. 13:12
+12672;name_party;":
+Jeg vil da gerne takke Dansk Folkepartis ordfører for den pæne omtale, når man har lavet noget godt. Det er da også rimeligt, men er der
+nogle, vi skal dele æren med, så gør vi det gerne.
+""Normalt er det sådan, at hvis man kopierer noget fra andre, er der copyright på, og så skal
+man betale en afgift. Derfor synes jeg, at hr. Bent
+Bøgsted skylder en omgang, og jeg synes også,
+at han skulle få regeringen til at betale den omgang.
+Vi kunne være enige om det, for de meldinger, man afgiver ved førstebehandlingen, er, at
+man gerne vil være med til at se, om man kan
+finde nogle administrative lettelser og nogle besparelser for erhvervslivet, men at det ikke på
+samme tid må føre til, at vi forringer forholdene
+for ganske almindelige lønmodtagere. Det var vi
+sådan set enige om. Det kunne ministeren jo
+godt have set forinden. Nu har han haft travlt
+under hele andenbehandlingen med at diskutere med Liberal Alliance, det skal jeg beklage, for
+det er faktisk en vigtig sag og et vigtigt signal,
+som Dansk Folkeparti også tog op under førstebehandlingen, altså at man gerne vil være med
+til at finde administrative lettelser, men at det
+ikke skal være et spørgsmål om, at det så skal
+ramme de svageste i samfundet.
+
+Hr. Bent Bøgsted og Dansk Folkeparti kunne
+have sagt: Det er et glimrende forslag, der er
+kommet fra oppositionen, det stemmer vi for. Så
+garanterer jeg også for, at regeringen havde sagt:
+Jamen det vil vi gerne være medforslagsstiller
+til, ingen problemer i det.
+Det burde man gøre, i stedet for at vi skal til
+at trække vores forslag og regeringen så fremsætter et fuldstændig identisk forslag:";Bjarne Laustsen
+14297;Time;;Kl. 13:14
+14330;title_name;":
+Hr. Bent Bøgsted for en kort bemærkning.";Svend Auken
+14382;Time;;Kl. 13:14
+14400;name_party;":
+Jeg vil spørge hr. Bjarne Laustsen, om man ikke
+kan sige, at det er sådan, at regeringen accepterer, at det skal være sådan, og at en normal, velfungerende regeringen så vil sige: O.k., det bliver sådan, og så fremsætter vi det som vores
+eget forslag.
+Det er jeg også næsten sikker på at den ærede
+formand har praktiseret i sin tid som minister.
+Det kan han så ikke bekræfte nu her, men jeg er
+næsten sikker på, at hr. Bjarne Laustsen erkender, at det hidtil har været sådan, at en minister
+har haft mulighed for at gøre det til sit eget forslag.
+Det er der noget fornuft i, når der er sådan en
+bred tilslutning til det hele. Det synes jeg at hr.
+Bjarne Laustsen skulle være tilfreds med og så
+sige og erkende: Vi har fået noget igennem her,
+og det er godt, så pyt med, hvem der står på og
+har æren af forslaget. Jeg tror, at der er mange
+udeomkring, der er klar over, at hr. Bjarne
+Laustsen har lagt lidt arbejde i det her, og det er
+også helt fint for mig.";Bent Bøgsted
+15370;Time;;Kl. 13:15
+15403;title_name;":
+Da jeg nu er blevet inddraget i debatten, må jeg
+sige, at intellektuel ejendomsret ikke har retskrav i dansk politik.
+Hr. Bjarne Laustsen for en kort bemærkning.";Svend Auken
+15576;Time;;Kl. 13:15
+15596;name_party;":
+Tak. Hvis det bare var sådan, at regeringen havde lyttet og gjort noget klogt, kunne de jo have
+inddraget en kreds af Folketingets partier i det
+her, inden man fremsatte lovforslaget. Det valgte man så ikke at gøre.
+Jeg tror da, at både Dansk Folkeparti og Socialdemokratiet ville have givet det gode råd til
+regeringen, at hvis man går ud og laver sådan en
+øvelse med at finde nogle administrative lettelser, skal man da ikke samtidig benytte sig af det
+
+(381)
+Tirsdag den 27. januar 2009 (L 88)
+andet kneb med at gå ud og forringe forholdene
+for ganske almindelige lønmodtagere. Det er jo
+det, regeringen kom galt af sted med. Derfor
+kunne den jo have lyttet allerede ved førstebehandlingen, og den kunne også have set: Det bliver galt at snyde på vægten i forhold til at komme med sådan en forklaring.
+Så hvis der er nogen, der skal deles en ære
+med, vil jeg i det her tilfælde også gerne gøre det
+med hr. Bent Bøgsted. For sandheden er jo den,
+at uanset at det meste af oppositionen var enige
+i, at det, regeringen kom med, var skidt, kunne
+vi ikke have gjort det uden Dansk Folkepartis
+hjælp. Vi synes bare, det kunne have været
+.. smart, hvis man havde støttet vores oprindelige
+forslag, for de er jo fuldstændig identiske - er
+det ikke korrekt?";Bjarne Laustsen
+16860;Time;;Kl. 13:16
+16893;title_name;":
+Hr. Bent Bøgsted for en kort bemærkning.";Svend Auken
+16945;Time;;Kl. 13:16
+16963;name_party;":
+Tak til formanden for kommentaren.
+Jeg vil sige til hr. Bjarne Laustsen: Man kan altid diskutere hvordan og hvorledes, men i den
+her forbindelse synes jeg, at vi skal være godt tilfredse med, at regeringen er gået med til det, så
+det er blevet et Folketing, der er enigt om det her
+lovforslag, også ændringsforslagene.";Bent Bøgsted
+17293;Time;;Kl. 13:16
+17326;title_name;":
+Så er det hr. Morten Østergaard.
+. Kl. 13:17
+(Ordfører)";Svend Auken
+17406;name_party;":
+Jeg synes ikke, vi skal trække debatten voldsomt
+i langdrag. Jeg tillader mig at glæde mig over, at
+der tilsyneladende er et meget, meget bredt flertal - måske endda alle partier i Folketinget som støtter ændringsforslagene.
+Det, der har været afgørende for os, er sådan
+set ikke, hvad det jo egentlig er her, at lempe
+reglerne en lillebitte smule. Det, der har været
+afgørende, er at skabe den administrative forenkling, som både er en lettelse for arbejdsgiverne, der ikke skal indberette de samme data flere
+gange, og skabe muligheder for større automatisering ved hjælp af elndkomstregisteret. Det giver altså som bekendt - det synes jeg bare er
+værd at huske på nu, hvor man har diskussionen om den intellektuelle ophavsret - i størrelsesordenen 37 mio. kr. årligt i administrativ lettelse for arbejdsgiverne, som det jo især er i den
+her sammenhæng.
+
+'
+
+3041
+
+Det er altså en ganske betragtelig besparelse,
+man kan opnå med så lille et forslag. Jeg håber,
+at vi finder flere af dem, men vi støtter gerne
+ændringsforslagene her for at fastholde syste- .
+met så enkelt som muligt, uden at de borgere,
+det rammer, vil opleve, at der er sket nogen væsentligændring.";Morten Østergaard
+18585;Time;;Kl. 13:18
+18618;title_name;":
+Er der flere, der ønsker at udtale sig? Hvis det
+ikke er tilfældet: er forhandlingen sluttet, og vi
+går til afstemning.
+Afstemning";Svend Auken
+18761;Time;;Kl. 13:18
+18795;title_name;":
+Ønskes der afstemning om ændringsforslag nr.
+1-5 tiltrådt af udvalget?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje I
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse, betragter jeg dette
+som vedtaget.
+홢Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 88:
+Forslag til lov om ændring af lov om arbejdsskadesikring og lov om erstatning til tilskadekomne værnepligtige m.fl. (Dækning af skader forvoldt ved terror m.v,).
+Af beskæftigelsesministeren (ClausHjort Frederiksen).
+(Fremsættelse 10.12.2008).
+Forhandling";Svend Auken
+19403;Time;;Kl. 13:18
+19437;title_name;":
+Forhandlingen er åbnet. Hr. Peter Juel Jensen.";Svend Auken
+19495;Time;(Ordfører) .;Kl. 13:19
+19530;name_party;":
+På De Konservatives og Venstres vegne skal jeg
+anbefale L 88. Det er, et lovforslag, som vi alle
+sammen håber på aldrig kommer i brug. Men
+håb er én ting: vi er nødt til at forholde os til virkelighedens verden, og en del af virkeligheden
+
+3042
+
+Tirsdag den 27. januar 2009 (L 88)
+
+er desværre også, at terror rammer vilkårligt, og kan få udbetalt erstatning. Nu lægger statskasdet kan ramme os alle - derfor dette forslag, som sen ud og ordner resten mellem staten og forsikringsselskaberne. Desuden er det med lovforslaer en del af regeringsgrundlaget fra 2007.
+get også sikret, at ofrene får den bedste erstatForslaget skal sikre borgere og virksomheder
+i tilfælde at terrorangreb. Forslaget indebærer, at ning fra de to overlappende erstatningssystemer, som findes: erstatningsansvarsloven og aralle personer, der rammes af en terrorhandling,
+mens de er på arbejde, er sikret efter arbejdsska- . bej dsskadesloven.
+Ministeren benytter samtidig lejligheden til at
+desikringsloven, uanset om der er sammenhæng
+mellem arbejdet og terrorhandlingen. Det er sta- fremsætte en række forslag af mere teknisk karakter. Der er tale om fornuftige og primært tekten, der betaler alle udgifter efter loven. Det er
+en lov, som jeg håber aldrig kommer i anvendel- niske justeringer, og det kan Socialdemokratiet
+støtte. Vi støtter forslaget som helhed.
+se, men nu har vi den, og skulle uheldet ramme,";Peter Juel Jensen
+20932;Time;så ved vi nu, at man er sikret. Tak for det.;Kl. 13:22
+20987;Time;;Kl. 13:19
+21020;title_name;":
+Så er det hr. Bent Bøgsted.";Svend Auken
+21082;title_name;:;Svend Auken
+21093;Time;Så er det fru Lone Møller.;Kl. 13:22
+21130;Time;(Ordfører);Kl. 13:20
+21159;name_party;":
+(Ordfører)
+Det her lovforslag indeholder som tidligere";Bent Bøgsted
+21231;name_party;":
+I dag er der usikkerhed om, i hvilket omfang ar- nævnt to dele. Med hensyn til den sidste del, der
+drejer sig om forskellige ændringer af teknisk
+bejdsskadesikring dækker personskader, der er
+karakter af arbejdsskadelovgivningen, er Dansk
+opstået under terrorhandlinger, som rammer
+Folkeparti helt indforstået med, at der en gang
+virksomheder og ansatte. Der er ikke udtrykkeimellem kan være behov for at justere lidt, og
+lige regler i arbejdsskadeslovgivningen om terdet er det, der sker her.
+rorskader.
+Den første del, som er den vigtigste del, dreDet betyder, at lovens almindelige principper
+jer sig om, at man indbefatter dem, der eventuelt
+for anerkendelse af arbejdsskader skal anvenskulle blive ramt af terrorhandlinger, i arbejdsdes. Efter lovens almindelige principper er det
+skadelovgivningen. Man kan sige, at det jo er en
+en betingelse for ydelse efter loven, at skaden er
+lovgivning, der ikke burde have været nødvenforårsaget af arbejdet eller arbejdsforholdene.
+dig at lave, men som verden ser ud i dag, hvor
+Det betyder, at ansatte i virksomheder, som er
+vi ikke ved, hvor terroristerne slår til næste
+mål for eventuelle terrorangreb muligvis er
+gang, om de slår til i Danmark eller hvordan og
+dækket. Problemet er, at det i praksis vil være
+meget vanskeligt at afgøre, om virksomheden er hvorledes, eller hvor danskere kan blive ramt af
+det, har det været nødvendigt at udarbejde regmålet. Det er nogenlunde klart, at folk på selve
+ler, der hjælper dem, der eventuelt bliver ofre i
+terrormålvirksomheden samt redningsfolk vil
+sådan en situation.
+være dækket. Det er til gengæld uklart, hvordan
+Vi må håbe, at det aldrig kommer til at gælde,
+dækningen er i en række andre situationer, f.eks.
+for terrorangreb er jo noget, man helst skal undfolk, som er på arbejde i tilstødende, berørte gegå. Men om der er nogen, der bliver ramt af det,
+ografiske områder. Derfor nedsatte regeringen
+og om vi i det hele taget kommer til at se, at noen arbejdsgruppe i Beskæftigelsesministeriets
+gen får erstatning efter den her lovgivning, får
+regi, som skulle se på problemet og pege på løsvære i det uvisse. Jeg er ikke helt hundrede proninger.
+cent sikker, men så vidt jeg ved, er der i dag helLovforslaget, vi behandler her, er et resultat
+digvis ikke nogen, der kunne blive omfattet af
+af en enig arbejdsgruppe, som har haft deltagelse af arbejdsmarkedets parter, og følger den ind- den her lovgivning, og jeg håber da, at det heller
+ikke vil blive tilfældet i fremtiden.
+stilling, som udvalget har fremlagt. Med forslaMen altså, hvis der er nogen, der kunne blive
+get er der trukket en streg i sandet, hvor alle,
+omfattet af lovgivningen og få erstatning efter
+som kommer til skade på grund af terror, når de
+den, laver vi nu loven, så de ikke kommer i
+er på arbejde, er dækket. Vi vil nu sikre, at ofre
+klemme i systemet, og det er en rigtig god ting.
+for en forfærdelig terrorhandling - lad os håbe,
+Så må vi bare håbe, at det er en lov, som vi ikke
+at det aldrig sker, men hvis det skulle ske - ikke
+får brug for.
+også bliver gidsler i et juridisk slagsmål mellem
+Dansk Folkeparti støtter lovforslaget.
+forsikringsselskaber og myndigheder, inden de '
+
+Tirsdag den 27. januar 2009 (L 88)";Lone Møller
+24440;Time;;Kl. 13:24
+24473;title_name;":
+Tak. Så er det hr. Eigil Andersen som ordfører.";Svend Auken
+24532;Time;(Ordfører);Kl. 13:24
+24563;name_party;":
+Lovforslaget rummer i virkeligheden to halvdele. Den ene halvdel handler om erstatning til
+mennesker, som det er nævnt, der under udførelsen af deres arbejde måtte blive ramt af en terrorhandling, og den del af lovforslaget ser udmærket ud,
+Den anden halvdel rummer 8-10 punkter,
+hvor man præciserer og ændrer nogle ting i forbindelse med den almindelige behandling af sager i Arbejdsskadestyrelsen. To af punkterne vil
+vi gerne have kigget nærmere på under udvalgsarbejdet.
+Et af punkterne er, at man ændrer det nedskrevne kriterium for, hvornår en sag skal behandles i det såkaldte Erhvervssygdomsudvalg.
+Vi mener i SF, at der i virkeligheden er brug for
+at forelægge flere arbejdsskadesager for Erhvervssygdomsudvalget, ikke mindst inden for
+området psykisk arbejdsmiljø, som der er voldsomt stigende problemer med, hvilket der faktisk har været i en årrække nu.
+Desuden er det sådan, at omkring 96 pct. af
+alle sager om psykiske arbejdsskader bliver afvist med hensyn til, at man kan få erstatning, og
+en af vejene til at få flere skader anerkendt som
+erstatningsberettigede inden for psykisk arbejdsmiljø er, at der er flere sager, der skal forelægges Erhvervssygdomsudvalget.
+Om det punkt står der i bemærkningerne til
+lovforslaget, at der, selv om man ændrer på formuleringen af kriteriet for, hvornår en sag skal
+forelægges udvalget, ikke bliver tale om færre
+sager, der skal behandles af udvalget, og vi vil
+under udvalgsarbejdet gerne have yderligere
+sikkerhed for, at det virkelig står til troende, at
+det forholder sig sådan.
+Et andet punkt er, hvor mange oplysninger en
+arbejdsgiver egentlig skal have om en ansat, der
+bliver skadet på jobbet, og hvor arbejdsgiveren
+måske overvejer at anke afgørelsen fra Arbejdsskadestyrelsen. Her nedskriver man ifølge lovforslaget den nuværende praksis, hvor arbejdsgiveren får den pågældendes diagnose.
+Vi vil gerne have belyst under udvalgsarbejdet, om arbejdsgiverens adgang til oplysningerne kan inddæmmes og begrænses, jævnfør ånden i lov om helbredsoplysninger, sådan at arbejdsgiveren absolut ikke får flere oplysninger
+
+3043
+
+end højst nødvendigt, samtidig med at arbejdsgiveren på den anden side selvfølgelig skal have
+en reel baggrund for at kunne vurdere, om han
+eller hun ønsker at anke sagen eller ej.
+Det vil vi gerne have belyst under udvalgsarbejdet, men ellers er vi i SF grundlæggende for
+det her lovforslag.
+Enhedslistens ordfører kan desværre ikke
+være til stede i dag, så jeg har lovet at sige, at Enhedslisten er overvejende positiv over for forslaget.";Eigil Andersen
+27099;Time;;Kl. 13:27
+27132;title_name;":
+Tak til ordføreren. Så er det hr. Morten Østergaard.";Svend Auken
+27196;Time;(Ordfører);Kl. 13:27
+27230;name_party;":
+Det Radikale Venstre er som også de tidligere
+ordførere meget positiv over for lovforslaget.
+Det er godt, at der nu bliver en sikring af alle,
+mens de er på arbejde, hvis de rammes af terrorhandlinger. Det er selvfølgelig skidt, at det overhovedet er nødvendigt at lave en sådan sikring,
+og jeg synes, at der i dag er grund til at bemærke, at det jo altså skyldes, at vi desværre endnu
+ikke har formået at skabe en verden, hvor man selv ikke i så fredelige egne, som vi lever i - kan
+føle sig fri for en risiko for på et eller andet tidspunkt at blive ramt af en terrorhandling.
+Vi synes i sagens natur, at det er godt, at man
+sikrer sig imod det, og også at man sikrer sig
+imod, hvad der skal ske, hvis det, som ingen håber, alligevel skulle ske. Men det er klart, at det
+bedste, man i sagens natur kan gøre, er at forebygge, at det kommer til at ske, og der vil jeg da
+i dag ikke undlade at påpege, at jeg synes, at vi
+kunne gøre langt mere og måske også gribe tingene an på en lidt anden måde, når det handler
+om hele den udenrigspolitiske scene.
+Jeg tillader mig at vove den påstand, at vi i de
+seneste 7 år ikke har oplevet, at der er blevet
+færre terrorister i verden, måske snarere det
+modsatte. Men derfor er det selvfølgelig også
+helt oplagt, at vi er positivt indstillet over for
+det, der er det her forslags hovedformål, nemlig
+at sikre, at alle, der er på arbejde, også er dækket, hvis de skulle blive ramt af en terrorhandling.,
+Så er der de tekniske ændringer i relation til
+arbejdsskadeområdet, og dem har vi heller ikke
+fundet nogen anledning til at forholde os andet
+end positivt til. Jeg vil dog lige nævne her, at der
+i forbindelse med en høring om netop arbejds-
+
+3044
+
+Tirsdag den 27. januar 2009 (L 95)
+
+skader her på Christiansborg blev rejst en del
+diskussion om forelæggelsen af sager for Erhvervssygdomsudvalget. Nu skal man jo ikke
+pakke alt muligt ind i en teknisk ændring, men
+jeg synes måske alligevel, at det i forbindelse
+med udvalgets behandling var relevant, at vi
+lige kiggede på den sag igen og vurderede, om
+der i relation til det, der nu foreslås her, er grund
+til at kigge på, om der bliver forelagt det nødvendige antal sager for Erhvervssygdomsudvalget.";Morten Østergaard
+29437;Time;;Kl. 13:30
+29470;title_name;":
+Tak. Så er det ministeren.";Svend Auken
+29508;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Jeg vil gerne sige tak for debatten og for den positive modtagelse af lovforslaget.
+Hovedelementerne i forslaget er jo, som det
+også er fremgået, desværre nødvendiggjort af
+den internationale situation, vi oplever i disse år,
+og jeg må sige, som flere ordførere også har
+gjort, at jeg virkelig håber, det aldrig bliver nødvendigt at anvende bestemmelserne i dette lovforslag om arbejdsskadeerstatning som følge af
+en terrorhandling. Men det glæder mig, at der er
+opbakning til lovforslaget, som jo skaber tryghed hos borgerne for, at de kan få erstatning,
+hvis de bliver ramt af en terrorhandling, mens
+de er på arbejde.
+Hvis vi ikke gennemførte lovforslaget, kunne
+vi risikere at komme i en situation, hvor der efter en terrorhandling var usikkerhed om dækningen efter arbejdsskadesikringsloven, men
+den usikkerhed retter vi op på med lovforslaget.
+Vi sikrer, at alle, der er på arbejde og rammes af
+en terrorhandling, får deres erstatning efter arbejdsskadesikringsloven. Erstatningen udbetales af Arbejdsskadestyrelsen, der også behandler
+sagerne. Staten betaler i første omgang erstatningen, og den efterfølgende finansiering ordnes mellem Arbejdsskadestyrelsen og forsikringsselskaberne. Derved sikrer vi, at tilskadekomne og efterladte hurtigt får behandlet deres
+sag, så de kan få udbetalt deres erstatning og
+godtgørelse.
+Som debatten også har vist, indeholder forslaget også en række andre elementer, der optimerer sagsbehandlingen efter arbejdsskadesikringsloven eller har karakter af regelforenkling.
+Det gælder bl.a. indførelsen af hjemmel til at
+sende visse standardbreve uden underskrift,
+som vi i dag kender det hos f.eks. SKAT, samt
+
+ophævelsen af Arbejdsskadestyrelsens pligt til
+at træffe afgørelse om branche i erhvervssygdomssager.
+Der er rejst nogle spørgsmål, som jeg tror egner sig til at blive belyst i udvalgsbehandlingen.
+Jeg kvitterer for den gennemgående tilslutning
+til lovforslaget og ser frem til en god udvalgsbehandling.";Kl. 13:30
+31524;Time;;Kl. 13:32
+31557;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Arbejdsmarkedsudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+4) 1. behandling af lovforslag nr. L 95:
+Forslag til lov om digital indberetningsløsning
+til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven.
+Af beskæftigelsesministeren (Claus Hjort Frederiksen).
+(Fremsættelse 17.12.2008).";Svend Auken
+32124;Time;Forhandling;Kl. 13:32
+32169;title_name;":
+Forhandlingen er åbnet. Hr. Peter Juel Jensen.";Svend Auken
+32227;Time;(Ordfører);Kl. 13:33
+32260;name_party;":
+På Venstres og De Konservatives vegne anbefaler jeg L 95.
+Det er vores klare overbevisning, at vi med
+L 95 kommer til at spare en hel regnskov. Vi
+overgår fra papir til digitale indberetninger, når
+det kommer til anmeldelse af refusion af sygeog barseldagpenge. Ud over at der spares en
+masse papir, vil det også betyde administrative
+lettelser for både arbejdsgiverne og ikke mindst
+kommunerne. Besparelserne, som kommer erhvervslivet, kommunerne og staten til gode, er i
+millionklassen.
+
+Tirsdag den 27. januar 2009 (L 95)
+Nu, inden man begynder at få gode ideer om,
+hvad disse penge kan bruges til, bør man måske
+lige have med i sine overvejelser, at ordningen
+tidligst træder i kraft i 2011 = det vil sige, at virksomhederne har god tid til at forberede sig. Og
+for dem, som ikke selv vælger at sætte sig til tasterne, kan opgaven overdrages til revisor, lønadministrator eller andre.
+Men faktisk kører systemet allerede i dag.
+Høringssvarene viser, at ca. 33 pct. af alle indberetninger sker via tasterne, så med ikrafttræden i
+2011 er der god tid til at øve sig og tage ved lære
+af dem, der allerede i dag bruger elektronikken.
+Jeg har mødt enkelte, der er bekymret over
+sikkerheden i disse systemer. Jeg vil gerne stå på
+mål for dette system. Systemet er omfattet af
+persondatalovens bestemmelser: derfor vil disse
+oplysninger ikke kunne komme til tredjemand.
+Datatilsynet har været inde over forslaget, og de
+gode råd er efterkommet. ,
+,
+Kort sagt: Dette er et forslag, som vi almindelige borgere ikke kommer til at mærke meget til,
+men det letter nogle arbejdsgange og giver nogle administrative lettelser, som er stillet i udsigt i
+regeringsgrundlaget fra 2007 og i kommuneaftalen fra 2009. Og det kan vel ikke være så ringe
+endda. T
+a
+k
+.
+.";Peter Juel Jensen
+34024;Time;;Kl. 13:34
+34057;title_name;":
+Så er det hr. Lennart Damsbo-Andersen.
+Jeg vil sige, at ordførerne godt må opholde.
+sig i nærheden af talerstolen, og det er ment som
+en venlig henstilling. , . ,";Svend Auken
+34231;Time;"(Ordfører)
+. , ,";Kl. 13:35
+34276;name_party;":
+Jeg noterer mig henstillingen.
+Det er jo ikke nogen hemmelighed, at vi i Socialdemokratiet ikke er udelt enige i alt, hvad:
+der kommer fra regeringens og beskæftigelsesministerens hånd, men dette lovforslag er et a f
+dem, som vi godt kan støtte. I Socialdemokratiet
+mener vi, at det er godt at se, at der ved indførelsen af denne SDPI-løsning endelig tages fat på at
+afbureaukratisere sagsbehandlingen i forbindelse med a-kassernes, de selvstændige erhvervsdrivendes og arbejdsgivernes anmeldelse af sygefravær og anmodning om refusion ved sygdom,og barsel.
+Jeg'vil ikke gå nærmere ind på det tekniske i
+lovforslaget, men blot med tilfredshed notere, at
+der både etableres en følgegruppe, hvor Dansk
+Arbejdsgiverforening og A-kassernes Samvirke
+er repræsenteret, så de derved sikres indflydelse
+
+3045
+
+på etableringen og den løbende tilpasning af
+SDPI-løsnifigen, samt at de regler for indberetning, som beskæftigelsesministeren aftaler med
+Kommunernes Landsforening, sendes i høring i
+Beskæftigelsesrådets Ydelsesudvalg, hvor DA
+og A-kassernes Samvirke også er repræsenteret.
+I Socialdemokratiet har vi heller ikke problemer med, at der etableres et overvågningssystem, der fanger usædvanlig adfærd, for at undgå misbrug og fejl enten hos lønmodtagere eller
+hos arbejdsgivere. ,
+. Der er dog en enkelt ting, der falder mig for
+brystet: Hvordan kan det være, at det midt i den
+her störe jagt på muligheder for at gøre sagsgangene mere enkle ikke er, lykkedes med noget så
+enkelt som at afbureaukratisere raskmeldingen
+af syge ledige? Her bliver sat en hel masse ting i
+værk for at gøre det lettere for alle parter at melde sig syg, at indberette sygdom og anmode om
+refusion - alt sammen rigtig godt. Men raskmeldingen? Nej, det er ikke lige med i pakken. Det
+svar, der fremgår af høringsno tatet, er næsten
+flabet. Jeg citerer:
+»Kontakten fra kommunen til arbejdsløshedskassen vedr. raskmelding går i dag via den ledige, hvilket ligeledes vil ske fremover.«
+Der er ingen argumenter, ingen forklaring.
+Det virker da helt oldnordisk, når der kan tilgå den såkaldte indberetterinformation, det vil
+sige, at der faktisk er hul igennem begge veje i
+systemet, at det så stadig skal være nødvendigt
+for ledige a-kassemedlemmer både at raskmelde
+sig i jobcenteret og efterfølgende at udfærdige .
+en erklæring om raskmelding - det er en DP 212,
+den ser sådan her ud - som de så bevæger sig
+ned med i deres a-kasse. Og når først det så er
+sket, skal a-kassen for at kunne udbetale understøttélse have dokumentation for, at udbetalingen af sygedagpenge er stoppet. Det skal så
+være på en DP 127 eller en DP 128, som skal udfyldes i kommunen og efterfølgende bæres ned i
+arbejdsløshedskassen af den ledige. :
+Det burde med indførelse af SDPI-systemet
+være muligt også at fjerne den form. for bureaukrati, og da jeg ved, at ministeren har et stort ønske om at fjerne bureaukrati, vil jeg gerne anmode ministeren om at give tilsagn her fra talerstolen om, at han vil lade muligheden for, at den ledige fremover kun skal raskmelde sig ét sted,
+indarbejde i loven.
+Socialdemokratiet støtter lovforslaget og ser
+gerne den nævnte tilretning indarbejdet, så systemet også kommer borgerne til gavn. :
+
+3046
+
+Tirsdag den 27. januar 2009 (L 95)";Lennart Damsbo-Andersen
+37512;Time;"ves kommunerne mulighed for at udlicitere og
+sælge det her selskab til et privatejet selskab, eller hvad der er hensigten med, at det lige skal";Kl. 13:38
+37667;Time;"være et aktieselskab. Det kan være, at ministeren
+kan svare på det. Hvis ikke ministeren kan svare
+(Ordfører)
+på det her fra talerstolen, vil vi gerne have et";Kl. 13:38
+37844;name_party;":
+Forslaget her skulle være en administrativ lettel- skriftligt svar på spørgsmålet i udvalget.
+Men da der er tale om en stor administrativ
+se for arbejdsgiverne vedrørende anmeldelse af
+lettelse, som Dansk Folkeparti varmt går ind for
+sygdom og sygedagpengeindberetningen. Der
+at arbejdsgiverne skal have, kan vi selvfølgelig
+bliver lavet en fin ordning, der gør, at man digistøtte forslaget.
+talt kan få alle anmeldelser til tiden og få dem";Bent Bøgsted
+38296;Time;ind i systemet, så der ikke er nogen, der er i tvivl;Kl. 13:41
+38382;title_name;":
+om, hvad der er hvad.
+Vi fortsætter med hr. Karl H. Bornhøft.
+Jeg synes også, at vi i den forbindelse kan";Svend Auken
+38499;Time;"komme med en del ros til beskæftigelsesministe(Ordfører)
+ren for de her administrative lettelser. Det er jo
+Karl H. Bornhøft (SF):
+ikke så tit, vi har set, at der er kommet administrative lettelser fra regeringens side. Det er først Tusind tak. SF fremsatte i januar 2008 beslutningsforslag nr. B 54 om regelforenkling og afher for nylig, at den er begyndt på det. Men bebureaukratisering af den offentlige sygedagpenskæftigelsesministeren har jo erkendt, at der er
+gerefusion. Baggrunden for SF's forslag om rebehov for, at de små arbejdsgivere får nogle adgelforenkling og afbureaukratisering af den ofministrative lettelser, og det giver man dem med
+fentlige sygedagpengerefusion var et helt oprigdet forslag her. Og ministeren skal i hvert fald
+have tak for, at vi er kommet så langt. Det er det ' tigt ønske om at medvirke til at skabe en reel reandet forslag om administrative lettelser, vi har i gelforenkling og afbureaukratisering, altså en
+modsatrettet bølge i forhold til de senere års uddag, så på den måde er det et stort fremskridt,
+og vi kan sagtens lave flere administrative lettel- vikling, som vi synes har været utrolig deprimerende og demotiverende for især de offentligt
+ser.
+ansatte.
+Jeg er da også spændt på at høre, hvad miniDerfor foreslog vi rent faktisk, at regeringen
+steren har at sige vedrørende raskmeldinger, om
+inden den 1. januar 2009 skulle klarlægge resikke det kan gøres lidt mere smidigt med dem.
+Det lyder da meget interessant. Der kommer mi- sourceforbruget i forbindelse med den offentlige
+sektors interne sygedagpengerefusion med hennisteren sikkert med et godt svar på, om det kan
+lade sig gøre eller det ikke kan lade sig gøre. Det blik på at tage de nødvendige initiativer i retning af at få afbureaukratiseret og forenklet det
+er jeg da sikker på. Jeg er ikke sikker på, at det
+her område og dermed også sørge for et egentkommer her i dag, men på et eller andet tidsligt og nødvendigt digitalt indberetningssystem.
+punkt.
+I stedet for at modtage det positivt ved selve
+Dansk Folkeparti bakker varmt op om det her
+forslag. Vi har dog en enkelt bemærkning. Det er behandlingen benyttede beskæftigelsesministesådan, at det er kommunerne, der står for admi- ren og flere borgerlige ordførere deres tid til
+nistrationen af det her selskab, der ejes og drives hånligt at afvise vores beslutningsforslag med
+bemærkninger om, at der jo allerede eksisterede
+af kommunerne, og vi ved jo, at kommunerne
+har mange forskellige selskabsformer, alle muli- digitale løsninger. Derfor kan jeg sige nu, at L 95
+jo i hvert fald viser, at det ikke var tilfældet. Derge slags. Der står, at det her er et aktieselskab,
+imod skabes der en hel ny organisation, der skal
+som ejes 100 pct. af KL. Så er det, jeg gerne vil
+stå for løsningen af den opgave, som ministeren
+spørge ministeren, hvorfor det lige skal være et
+sidste år klart gav udtryk for slet ikke var nødaktieselskab. Der må være en vis begrundelse
+vendig, fordi løsningen allerede eksisterede. Jeg
+for, at det skal være et aktieselskab og ikke en
+håber bestemt ikke, at det er udtryk for den geanden form for selskab under kommunerne,
+nerelle sandhedsværdi i ministerens udsagn, for
+som kommunerne har i dag. Der er mange forså er vi i det her land rigtig dårligt stillet.
+skellige former, som kommunerne driver selSF's forslag gik bl.a. specifikt på den interne
+skab under, men der må være en forklaring på,
+flytten rundt med papirer og penge mellem det
+hvorfor det lige nøjagtig skal være et aktieselskab, om det er, fordi der på et tidspunkt skal gi- offentlige og offentlige institutioner i forbindelse";Kl. 13:42
+42123;title_name;":
+Hr. Bent Bøgsted.
+
+Tirsdag den 27. januar 2009 (L 95)
+med sygedagpengerefusionen. Regeringens forslag her tager slet ikke det væsentlige problem
+med, men forholder sig derimod kun til en lille
+del af det i forhold til virksomheder og lønmodtagere og kommunale ydelseskontorer. Det er
+uomtvisteligt også en lettelse - det er indiskutabelt - men det betyder jo altså især for de offentlige kasser, at man stadig væk har den her flytten rundt med penge. Vi kan bestemt ikke i SF
+forstå, at man ikke vil udnytte det her oplagte
+besparelsesemne, og jeg kan jo kun konkludere,
+at regeringen åbenbart ikke gider samle de
+mindst 100 mio. kr. op, der kunne spares ved det
+element.
+Jeg vil så også sige med det samme, at vi står i
+en situation, hvor der er al mulig grund til at
+holde fast i, at hver eneste gang vi får et lille forslag, der i det mindste er en brik i forhold til hele
+afbureaukratiseringen og lettelser i øvrigt på det
+her område, skal man naturligvis tage den. Derfor er vi i SF også indstillet på at være med i den
+her sammenhæng, men vi synes, at når vi nu
+skal tage et skridt - for det her er et skridt i den
+rigtige retning - er det altså virkelig ærgerligt, at
+vi ikke tør gå endnu længere. Det ville vi frygtelig gerne.
+Så skal jeg også i den her sammenhæng gøre
+opmærksom på, at Enhedslisten desværre ikke
+kunne være til stede. Jeg skulle sige med det
+samme, at de er overvejende positive over for
+forslaget. Det er et forslag, der bestemt kan gøres bedre, hvilket jeg forhåbentlig kan være med
+til at sætte en diskussion i gang om.";Svend Auken
+43684;Time;"I Første næstformand (Svend Auken):
+Tak. Hr. Morten Østergaard.";Kl. 13:45
+43758;Time;(Ordfører);Kl. 13:45
+43792;name_party;":
+Også Det Radikale Venstre kan støtte L 95, den
+digitale indberetningsløsning til brug for anmeldelse af sygefravær og refusion af sygedagpenge
+og dagpenge efter barselloven.
+Det er ganske fornuftigt som et led i udrulningen af digitaliseringen, at man vælger nogle
+områder, hvor man digitaliserer fuldt og helt og
+dermed, om jeg så må sige, lukker ned for de
+analoge kommunikationsgange. Vi så gerne, at
+man fulgte den samme modus på andre områder - det kunne f.eks. være SU-området - men i
+hvert fald er det her et godt skridt i den rigtige
+retning.
+For ikke så forfærdelig længe siden diskuterede vi en bemyndigelsesbestemmelse, som mini-
+
+홢
+
+3047
+
+steren ønskede i forhold til netop at fastsætte
+regler om digital indberetning. Dengang diskuterede vi, om man skulle fastsætte en målsætning for, hvor hurtigt man ville have folk til at
+benytte sig af de her digitale løsninger. Det var
+man dengang ikke så villig til, men jeg synes, at
+der er grund til at rose, at man til gengæld har
+været meget hurtig med at tage konsekvensen af
+den meget brede kreds af brugere, som har vist
+en tilslutning til systemet, og få lukket ned for
+den almindelige papirbårne del af systemet, således at man kan indhøste de samlede administrative besparelser, som i den her sammenhæng
+er et trecifret beløb. Derfor synes jeg sådan set, at jeg godt vil starte med at sige, at vi selvfølgelig tilslutter os forslaget, men også, at vi roser ministeren og ministeriet for så hurtigt at have taget konsekvensen
+og hermed altså på mange måder vist vejen,
+som også kunne overføres til andre ministeroinråder. 홢
+Der har så i debatten været rejst et par spørgsmål, som jeg synes er både interessante og relevante. Det var ikke mindst SF's ordfører, som
+var inde på behovet for yderligere at udvikle det
+her, ikke mindst inden for det offentliges område - det støtter vi gerne - men også Socialdemokraternes ordfører, som pegede på, at det jo er
+godt at lave administrative lettelser for arbejds- 홢
+giverne, men at det også er helt naturligt i den
+sammenhæng at kigge på, i det mindste i hvert
+fald at sætte sig selv målsætninger for: hvornår
+også borgerne og medarbejderne, som er involveret, har en fuld digital løsning og ikke skal
+rende spidsrod for at få blanketter udleveret, afleveret og indleveret det rigtige sted.
+Derfor er vi meget med på i udvalgsbehandlingen at se på, om vi kan skubbe yderligere til
+udviklingen og få bolden til at rulle videre, så
+det her ikke bliver et punktum i sagen om digitalisering og forenkling af sygedagpenge, men
+tværtimod begyndelsen til at udrulle det til et
+større, område.
+Vi støtter forslaget.";Morten Østergaard
+46416;Time;;Kl. 13:48
+46449;title_name;":
+Så er det ministeren.";Svend Auken
+46482;Time;"Beskæftigelsesministeren (Claus Hjort Frederiksen):
+Jeg vil gerne takke for de kommentarer, der er
+kommet til lovforslaget. Med det lovforslag får
+vi sat rammerne for en ny digital indberetningsløsning, hvor arbejdsgiverne kan anmelde syge-
+
+3048
+
+Tirsdag den 27. januar 2009 (L 95)
+
+fravær og anmode om refusion af syge- og barseldagpenge. Løsningen skal også anvendes af
+de selvstændige erhvervsdrivende og af arbejdsløshedskasserne, og den vil spare alle for en
+masse papirbøvl og give en mere strømlinet administration.
+Den nye løsning bliver en videreudvikling af
+den nuværende digitale indberetningsløsning,
+som man i dag kan finde på erhvervsportalen
+virk.dk. I dag er det frivilligt for arbejdsgiverne
+at anvende løsningen, og det er der rigtig mange
+der gør. 12008 foretog arbejdsgiverne mere end
+650.000 indberetninger via løsningen. Det svarer
+til næsten 40 pet. af alle syge- og barseldagpengeindberetninger i 2008. Arbejdsgiverne har altså fået øjnene op for de fordele, der er ved at
+sige farvel til papirblanketterne og i stedet indberette digitalt. Og fordelene er mange. Der er
+altid åbent: arbejdsgiveren kan indberette, når
+det passer ham: arbejdsgiveren undgår postgang og porto: arbejdsgiveren skal ikke længere
+have besvær med at få lønmodtagerens underskrift i forbindelse med refusionsanmodning:
+grundoplysningerne om arbejdsgiveren og lønmodtageren udfyldes automatisk: arbejdsgiveren skal ikke bruge tid på at finde den rette kommune: arbejdsgiveren får en kvittering for indberetningen: arbejdsgiveren får hjælp og vejledning løbende ved udfyldelse af blanketten: og
+der er indbygget et tjek af indtastningen, så en
+række af de typiske fejlindtastninger undgås.
+Men det er ikke kun de offentlige og private
+arbejdsgivere, der har en række fordele ved at
+benytte den digitale sygedagpengeløsning.
+Kommunerne får også en række fordele, som,
+gør, at der allerede i dag spares en masse ressourcer i kommunerne. F.eks. modtager kommunerne i dag fejlfri refusionsanmodninger, og
+de fleste af deres anmodninger kommer, direkte
+ind i kommunernes sagssystem, og derved spares arbejdet med at indtaste oplysningerne. Den
+nuværende digitale sygedagpengeløsning kan
+dog gøres endnu bedre, og det er det, der netop
+er formålet med lovforslaget.
+De nye elementer, den nye sygedagpengeløsning, indeholder følgende hovedelementer: Det
+er et system til systemløsning, hvor arbejdsgiverens indtastninger i egne løn- og personalesystemer kan overføres automatisk til sygedagpengesystemet. Det betyder, at arbejdsgiveren kun
+skal indtaste oplysningerne én gang. Der er en
+ventefunktionalitet, som både ved anmeldelse af
+fravær og ved anmodning om refusion skal muliggøre, at arbejdsgiveren løbende kan indberet-
+
+te og dermed ikke skal vente, til særlige frister
+og deadlines indtræffer, og det er en fuldt digital
+løsning for alle indberetninger, således at de alle
+kommer direkte ind i kommunernes sygedagpengesystem, så kommunerne ikke selv skal
+indtaste oplysningerne. Der er altså tale om en
+helt ny sygedagpengeløsning, der skal håndtere
+op mod 1,9 millioner indberetninger om året.
+Det er, som det fremgår af lovforslaget, kommunerne, der skal eje og finansiere den nye løsning. Det vil ske via et aktieselskab, som ejes 100
+pct. af KL, og selskabet skal sørge for at etablere
+og udvikle løsningen, hvilket vil ske i tæt samarbejde med Beskæftigelsesministeriet.
+Jeg vil naturligvis skriftligt besvare det
+spørgsmål, som hr. Bent Bøgsted stillede under
+sin ordførertale. I en overgangsperiode kommer
+den nye løsning til at fungere som en frivillig
+ordning, således at alle parter får tid til at tilpasse sig den nye ordning, men fra begyndelsen af
+2011 skal ordningen være obligatorisk for alle.
+Så stillede hr. Lennart Damsbo-Andersen et
+spørgsmål om, om man virkelig behøvede at anmelde flere forskellige steder, og som ordføreren
+bemærkede, var jeg nede og søge hjælp hos embedsmændene. Vi skal naturligvis nok besvare
+det spørgsmål under udvalgsbehandlingen,
+men jeg fik oplyst, at kommuner i dag jo ikke
+ved, om folk er medlemmer af en a-kasse, og
+derfor vil man kunne overtræde loven om personoplysninger ved at meddele dem til nogle,
+som ikke har krav på de oplysninger, men at der
+fra 2010 eller 2011 i Økonomi- og Erhvervsministeriets regi vil blive udarbejdet noget, der hedder en digital dokumentboks, som kan løse det
+her problem og give meddelelser begge veje.
+Men jeg tror, at det er egnet til, at vi under udvalgsbehandlingen redegør for, dels hvad ordningen her indebærer, dels det fremtidige perspektiv, som kan løse det åbenlyse problem, som
+hr. Lennart Damsbo-Andersen nævnte.
+Jeg ser frem til udvalgsbehandlingen, hvor vi
+får lejlighed til at drøfte de spørgsmål, der har
+været rejst under debatten i dag.
+. Kl. 13:54";Kl. 13:48
+51268;title_name;":
+Vi siger tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at forslaget bliver henvist til Arbejdsmarkedsudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+
+(382)
+Tirsdag den 27. januar 2009 (L 95)
+Det er vedtaget.
+
+Meddelelser fra formanden
+
+I
+
+3049
+
+Folketingets næste møde afholdes i morgen,
+onsdag den 28. januar 2009, kl. 13.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.";Svend Auken
+51745;Time;;Kl. 13:54
+51779;title_name;":
+Der er ikke mere at foretage i dette møde. '
+
+Mødet er hævet. (Kl. 13.54).";Svend Auken

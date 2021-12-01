@@ -1,0 +1,2696 @@
+split;reason;text;value
+0;;"Torsdag den 6. december 2007 (D)
+
+7. m ø d e";
+83;Time;"Dagsorden
+1) Fremme af forespørgsel nr. F 3:
+Forespørgsel til transportministeren [om trafikkens COTudslip].
+Af Pia Olsen Dyhr (SF) m.fl.
+(Anmeldelse 04.12.2007)
+2) 2. behandling af lovforslag nr. L 1:
+Forslag til midlertidig bevillingslov for finansåret 2008.
+Af finansministeren (Lars Løkke Rasmussen).
+(Fremsættelse 28.11.2007.1. behandling
+29.11.2007.)
+3) 1. behandling af beslutningsforslag nr. B 4:
+Forslag til folketingsbeslutning om ordningen
+for De Europæiske Fællesskabers egne indtægter.
+Af finansministeren (Lars Løkke Rasmussen).
+(Fremsættelse 28.11.2007).
+4)1. behandling af lovforslag nr. L 21:
+Forslag til lov om ændring af teaterloven. (Godkendelse af kollektive overenskomster for visse
+teatre).
+Af kulturministeren (Brian Mikkelsen).
+(Fremsættelse 28.11.2007).
+5) 1. behandling af lovforslag nr. L 22:
+Forslag til lov om ændring af lov om pligtaflevering af offentliggjort materiale. (Forlængelse af
+revisionsklausul).
+Af kulturministeren (Brian Mikkelsen).
+(Fremsættelse 28.11.2007).
+6) 1. behandling af lovforslag nr. L 20:
+Forslag til lov om miljøvenligt design af energiforbrugende produkter.
+Af klima- og energiministeren (Connie Hedegaard).
+(Fremsættelse 28.11.2007).
+
+247
+
+7) 1. behandling af lovforslag nr. L 27:
+Forslag til lov om medie- og journalisthøjskolen.
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).
+8) 1. behandling af lovforslag nr. L 25:
+Forslag til lov om erhvervsakademiuddannelser
+og professionsbacheloruddannelser.
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).
+9) 1. behandling af lovforslag nr. L 24:
+Forslag til lov om ændring af lov om Danmarks
+Evalueringsinstitut. (Akkreditering af videregående uddannelser, sammensætning af evalueringsinstituttets bestyrelse og repræsentantskab
+m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).
+10) 1. behandling af lovforslag nr. L 26:
+Forslag til lov om ændring af lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v. og forskellige andre love.
+(Omlægning af ansvaret for befordring til brobygning, ny befordringsordning ved korte forløb, elektronisk ansøgning m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).";kl. 10.00
+2320;Time;Meddelelser fra formanden;Kl. 10:00
+2358;title_name;"Mødet er åbnet.
+Medlem af Folketinget Pia Christmas-Møller har
+den 5. december 2007 meddelt mig, at hun ønsker at udtræde af Det Konservative Folkepartis
+folketingsgruppe og stå uden for grupperne.
+Medlemmer af Folketinget Per Clausen (EL) og
+Line Barfod (EL) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+
+248
+
+Torsdag den 6. december 2007 (F 3)
+
+Forslag til folketingsbeslutning om gratis tandbehandling.
+(Beslutningsforslag nr. B 19).
+Medlemmer af Folketinget Per Clausen (EL)
+m.fl. har meddelt mig, at de ønsker skriftligt at
+fremsætte:
+Forslag til folketingsbeslutning om statens overtagelse af DR's koncertsal i Ørestaden.
+(Beslutningsforslag nr. B 20).
+Medlemmer af Folketinget Holger K. Nielsen
+(SF) og Ole Sohn (SF) har meddelt mig, at de ønsker at stille følgende forespørgsel til forsvarsministeren:
+»Hvad kan regeringen oplyse om planerne vedrørende køb af nye kampfly i lyset af rapporten
+fra Dansk Institut for Militære Studier?«
+(Forespørgsel nr. F 4).
+Medlemmer af Folketinget Holger K. Nielsen
+(SF) og Ole Sohn (SF) har meddelt mig at de ønsker at stille følgende forespørgsel til udenrigsministeren:
+»Hvilke initiativer vil regeringen tage i forbindelse med de demokratiske tilbageslag i Rusland, herunder omstændighederne omkring det
+seneste parlamentsvalg?«
+(Forespørgsel nr. F 5).
+
+Det første punkt på dagsordenen er:
+1) Fremme af forespørgsel nr. F 3:
+Forespørgsel til transportministeren [om trafikkens C02-udslip].
+Af Pia Olsen Dyhr (SF) m.fl.
+(Anmeldelse 04.12.2007)";Formanden
+3869;Time;;Kl. 10:01
+3881;title_name;"Hvis ingen gør indsigelse mod fremme af denne
+forespørgsel, betragter jeg Tingets samtykke
+som givet.
+Det er givet.
+
+Det næste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 1:
+Forslag til midlertidig bevillingslov for finansåret 2008.
+Af finansministeren (Lars Løkke Rasmussen).
+(Fremsættelse 28.11.2007.1. behandling
+29.11.2007.)
+Forhandling";Formanden
+4250;Time;;Kl. 10:01
+4263;title_name;"Jeg kan sige, at der ikke er stillet ændringsforslag.
+Ønsker nogen at udtale sig? Det gør hr. Frank
+Aaen. Hr. Frank Aaen.";Formanden
+4394;Time;(Ordfører);Kl. 10:02
+4421;name_party;":
+Selvfølgelig skal der vedtages en lov som den
+her, ellers stopper alle lønninger, alle indtægter
+og hvad ved jeg? Så den er vi jo selvfølgelig for.
+Men det, vi skal være meget omhyggelige
+med, er, at der ikke i det hul, der er her mellem
+den gamle finanslov og den nye finanslov, kommer nogle ting igennem, uden at der er retmæssig hjemmel.
+Det, jeg gerne vil spørge finansministeren
+om, er selvfølgelig principielt: Står finansministeren inde for, at der ikke kommer noget, som
+det lige kunne være rart at få skubbet igennem
+hullet mellem de to finanslove? Det er den ene
+ting.
+Den anden ting er, at der er noget heri, som
+jeg ikke kan lide, og som jeg godt lige vil have
+uddybet. Såfremt en satspuljebevilling, der udløber i 2007, ønskes videreført, kræves der enighed herom blandt satspuljepartierne. Det forstår
+jeg altså ikke helt. Kan vi pantsætte en del af
+vedtagelserne om anvendelse af statens midler
+til et udvalgt antal af partier? Nu er det et ganske stort antal partier, sådan set alle andre end
+Enhedslisten. Men jeg synes jo stadig væk gerne,
+at jeg vil vide, om man uden om Folketinget i en
+udvalgt kreds af partier kan aftale en videreførelse af nogle bevillinger, der ikke er dækning
+for i en vedtaget finanslov. Det vil jeg godt have
+en forklaring på, og hvis ikke vi kan få den nu
+helt præcis, vil der i hvert fald komme et skriftligt spørgsmål om det.
+Der er også lagt op til, at man godt kan få
+hjemmel til nye eller ændrede dispositioner i finansåret, hvis Finansudvalget tilslutter sig det.
+Det vil jeg også gerne bore lidt mere i, for Fi-
+
+(32)
+Torsdag den 6. december 2007 (B 4)
+nansudvalget kan vel stadig væk kun agere ud
+fra en vedtaget finanslov: og det kan jo ikke gå
+ud over det, der er bevilget i den finanslov, der
+er gældende, herunder det, vi nu snart vedtager,
+om bare at videreføre 2007-finansloven.
+Det er to vigtige ting, jeg meget gerne vil have
+præciseret, inden vi går til tredje behandling, for
+at sikre mig, at der ikke lige er nogen ting, der
+tilfældigvis kommer til at smutte igennem.";Frank Aaen
+6465;Time;;Kl. 10:04
+6477;title_name;Finansministeren.;Formanden
+6504;Time;;Kl. 10:04
+6544;title_name;":
+Jeg vil naturligvis meget gerne bidrage til at afklare de spørgsmål, der måtte være af, kan man
+sige, bevillingsmæssig karakter inden tredjebehandlingen. Jeg tror, som hr. Frank Aaen også
+var inde på, at nogle af spørgsmålene måske egner sig til en mere endegyldig afklaring skriftligt.
+Jeg kan betrygge hr. Frank Aaen med, at regeringens intention er fuldstændig den samme
+som hr. Frank Aaens, nemlig at sikre, at vi ikke
+kommer til at stå i et bevillingsmæssigt tomrum,
+fordi valgets afholdelse altså har nødvendiggjort, at finansloven ikke kan vedtages, inden
+næste finansår starter. Der er ikke andre motiver
+end dette.
+Opgaven er selvfølgelig at sikre, at de udgifter, der afholdes, indtil en endelig finanslov er
+vedtaget, er hjemlet, sådan som lovgivningen og
+forvaltningsretten tilskriver det ved aktstykker i
+Finansudvalget. Det er jo adkomsten til at kunne
+foretage udbetalinger i den mellemliggende periode. Derfor synes jeg heller ikke, at der med
+rette kan bruges udtrykket, at man bare kan deponere en indflydelse hos en bestemt udvalgt
+skare af partier. Det, der skal til, hvis man i kredsen af satspuljepartier ønsker at sikre en bevilling, som ikke følger af allerede indgåede
+satspuljeforlig, er jo en politisk enighed bag et
+aktstykke, som så skal præsenteres for Folketingets Finansudvalg.
+På niveauet af intentioner, kan man sige, har
+jeg altså fuldt ud samme intentioner som hr.
+Frank Aaen. Med hensyn til, hvilke spørgsmål af
+mere teknisk karakter det måtte give anledning
+til at få afklaret, så stiller jeg mig selvfølgelig til
+rådighed og tror, at vi med fordel kan håndtere
+det i en skriftlig procedure forud for tredjebehandlingen.
+
+249";Lars Løkke Rasmussen
+8219;Time;;Kl. 10:06
+8232;title_name;Hr. Frank Aaen.;Formanden
+8258;Time;;Kl. 10:06
+8274;name_party;":
+Vi kommer med spørgsmålene skriftligt. Jeg vil
+bare sige, at en sådan formulering - altså at det
+først skal aftales i en udvalgt kreds af partier, og
+at det efterfølgende skal gennem Finansudvalget - jo ikke i sig selv er betryggende nok set fra
+mit synspunkt, for Finansudvalget kan naturligvis kun agere ud fra noget, der er vedtaget i Folketinget, og ikke ud fra noget, som man mener
+der er flertal for i Folketinget. Derfor vil jeg altså
+bore lidt videre i spørgsmålet. Men udgangspunktet er, at jeg har tillid til, at regeringen vil
+opføre sig pænt og ordentligt på det her område.
+Så det skal ikke misforstås. Jeg vil bare være helt
+sikker, for vi kan jo også komme i den situation
+en anden gang.";Frank Aaen
+8988;Time;;Kl. 10:07
+9000;title_name;"Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+Hvis ingen gør indsigelse, betragter jeg dette
+som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+3) 1. behandling af beslutningsforslag nr. B 4:
+Forslag til folketingsbeslutning om ordningen
+for De Europæiske Fællesskabers egne indtægter.
+Af finansministeren (Lars Løkke Rasmussen).
+(Fremsættelse 28.11.2007).";Formanden
+9512;Time;Forhandling;Kl. 10:07
+9536;title_name;"Forhandlingen er åbnet. Hr. Michael Aastrup
+Jensen.
+
+250
+
+Torsdag den 6. december 2007 (B 4)";Formanden
+9640;Time;(Ordfører);Kl. 10:07
+9678;name_party;":
+Venstre støtter den forholdsvis lille ændring i
+ordningen for EU's egne indtægter, som er en
+del af udmøntningen af aftalen om EU's
+budgetrammer for 2007-2013.
+Ifølge forslaget bevares grundelementerne i
+EU's bestående indtægtsgrundlag, det vil sige
+indtægter fra moms, en andel af BNI samt indtægter fra told og landbrugsafgifter.
+Ligeledes bevares Storbritanniens rabatordning, som dog udfases. Denne rabatordning
+blev vedtaget i 1985, da landet var den mindst
+velhavende nettobidragsyder, hvilket i dag har
+ændret sig markant. Vi så derfor helst, at den rabatordning blev helt afskaffet.
+Østrig, Sverige, Holland og Tyskland opnår
+gennem forslaget en rabat på finansiering af rabatten. Denne rabatordning er heldigvis kun
+midlertidig.
+Vi i Venstre er imod alle disse rabatordninger,
+og vi mener derfor ikke, at der fremover bør gives særlige rabatordninger til enkelte lande.
+Som fru Charlotte Antonsen lagde vægt på
+under behandlingen af det forslag, der blev
+fremsat før valget, ser vi i Venstre også positive
+ting ved forslaget. Bl.a. har Danmark bidraget til
+at sikre en forøgelse af de årlige forskningsrammer på 75 pet., hvilket kan være med til at sikre
+velfærden og udviklingen i EU. Selv om vi kunne have ønsket os, at aftalen på nogle punkter
+var en smule anderledes udformet, må man med
+27 medlemslande gå på kompromis.
+Vi i Venstre støtter forslaget, fordi vi i vurderingen af det samlede forslag har lagt vægt på
+flere midler til forskning og færre midler til
+struktur.";Michael Aastrup Jensen
+11175;Time;;Kl. 10:09
+11187;title_name;Der er en kort bemærkning fra hr. Morten Messerschmidt.;Formanden
+11252;Time;;Kl. 10:09
+11278;name_party;":
+Nu bemærkede jeg, at hr. Michael Aastrup Jensen sagde, at det, som man var kommet frem til
+her, var godt. Det, man jo så skal notere sig, er, at
+Venstre altså synes, det er godt, at Danmark
+hvert år nu skal donere 0,5 mia. kr. mere til EU.
+Det er fair nok, det er jo et synspunkt, man kan
+have.
+Men jeg undrer mig over noget. Vi får stribevis af revisionsrapporter, senest i går, om fiskerikontrollen, der viser, at budgetterne sejler, at der
+
+overhovedet ikke er tjek på kontrollen med pengene i EU. Hvordan kan det så være, at hr.
+Aastrup Jensen som ordfører for et ansvarligt regeringsbærende parti overhovedet ikke ønsker
+at nævne de problemer med revisionskontrollen
+med et eneste ord, når vi altså nu engang behandler budgettet her?
+Jeg synes, det er meget besynderligt, at man
+prøver at mane sådan et billede frem om, at alting er fryd og gammen i EU, på trods af at vi
+har at gøre med en organisation, der efter 50 år
+end ikke kan få en anmærkningsfri revisionsrapport.";Morten Messerschmidt
+12267;Time;;Kl. 10:10
+12279;title_name;Ordføreren.;Formanden
+12317;name_party;":
+Nu ved jeg ikke, hvad hr. Morten Messerschmidt synes er en rosenrød forklaring. Jeg synes, jeg tværtimod prøvede at komme til at fortælle om, at vi i hvert fald er meget imod de forskellige rabatordninger, der er. Og man skal virkelig rose Folketingets formand, der tidligere i
+sin egenskab af finansminister virkelig fik forhandlet nogle gode ting igennem, som jeg i
+hvert fald synes er positive. Vi har bl.a. sikret, at
+Storbritanniens rabatsystem bliver udfaset, så
+rabatten bliver markant lavere. Så jeg vil ikke stå
+her og sige: Nej, hvor er det bare rigtig positivt.
+Men jeg vil også sige, det er vigtigt, at vi anerkender, at EU altså er 27 medlemslande, og derfor bliver vi nødt til at gå på kompromis en gang
+imellem - det er forhandlingens kunst - og jeg
+synes, det er det bedst mulige resultat, som vi
+kan være tilfredse med.";Michael Aastrup Jensen
+13165;Time;;Kl. 10:11
+13177;title_name;Hr. Morten Messerschmidt for en sidste kort bemærkning.;Formanden
+13242;Time;;Kl. 10:11
+13268;name_party;":
+Jeg kan også kun med ganske få undtagelser finde rosende ord at sige om den tidligere finansminister. Men et af de områder, hvor jeg måske
+har svært ved at finde de rosende ord, er, at det
+skulle være særlig godt, at vi siger til nogle lande, som har indset, at EU misforvalter de midler,
+som borgerne har betroet dem, at de så ikke skal
+have lov til at have en rabatordning. Tværtimod
+burde vi da have gjort os til bannerførere for, at
+alle lande skulle have rabatordninger. For det logiske er ikke at sige, når man er medlem af en
+organisation, som efter 50 år ikke er i stand til at
+
+Torsdag den 6. december 2007 (B 4)
+komme med et uanmærket revisionsregnskab:
+Jamen så lad os give dem nogle flere penge. Det
+logiske ville da være at sige: Jamen så lad os få
+noget tilbageholdenhed.
+Det, som hr. Michael Aastrup Jensen står og
+taler for, er, at vi nu hvert år skal overføre 0,5
+mia. kr. mere til EU, på trods af at de ikke er i
+stand til at levere et anmærkningsfrit revisionsregnskab. Og der er det bare, at jeg bemærker, at
+hr. Aastrup Jensen overhovedet ikke nævner det
+problem i sin ordførertale. Er det ikke en mærkelig vægtning?";Morten Messerschmidt
+14418;Time;;Kl. 10:12
+14430;title_name;Ordføreren.;Formanden
+14451;Time;;Kl. 10:12
+14478;name_party;":
+Det kan godt være, at Dansk Folkeparti synes, at
+det med rabatordninger til enkelte lande er en
+positiv ting. Det synes jeg ikke. Jeg synes tværtimod, det er vigtigt, at vi har en generel nettodrift, sådan at man betaler efter, hvor stort et
+land man er. Det vil der komme mest gennemsigtighed af, det vil give størst gennemskuelighed - også for de enkelte borgere. Så den rabatordning vil vi blive ved med at kæmpe imod,
+kort og kontant.";Michael Aastrup Jensen
+14928;Time;;Kl. 10:12
+14940;title_name;"Der er ikke flere korte bemærkninger. Tak til
+ordføreren. Den næste ordfører er hr. Svend
+Auken.";Formanden
+15046;Time;(Ordfører);Kl. 10:12
+15073;name_party;":
+Jeg skal sige, at vi kan støtte det her forslag til
+folketingsbeslutning, og kan i det hele taget henvise til de bemærkninger, jeg havde, da forslaget
+var til behandling før valget.
+Det her er det bedst opnåelige kompromis.
+Det har ikke noget at gøre med det, som hr. Morten Messerschmidt taler om. Det drejer sig alene
+om indretningen af rabatterne på indtægtssiden,
+det vil sige de penge, som England, Tyskland,
+Holland og Sverige skal have reduceret deres bidrag med. De ekstra 0,5 mia. kr., vi skal give, går
+altså ikke til EU's budget, sådan som hr. Messerschmidt siger. De 0,5 mia. kr. går ikke til at kompensere Storbritannien, de går til yderligere
+kompensation for Tyskland, Sverige og Holland.
+Jeg synes ikke, det her er et bagatelagtigt forslag. Faktisk skal vi betale næsten 2 mia. kr. i
+kompensation til velhavende lande i EU. Det er
+en uskik. Det er en uskik, at vi skal betale 1,2
+
+251
+
+mia. kr., som følge af at Margaret Thatcher i sin
+tid tog hele det øvrige europæiske fællesskab
+som gidsel i budgetsagen. Og hvorfor kunne
+hun gøre det? Ja, det kunne hun gøre, fordi der
+var regler om enstemmighed, og det er jo et godt
+bevis på, at enstemmighed ikke altid er til fordel
+for fornuften. I det her tilfælde har et enkelt land
+altså påtvunget EU et system, der er gennemført
+utiltalende.
+Der er en tabel i beslutningsforslaget, som jeg
+vil opfordre Folketingets medlemmer til at læse.
+Af den fremgår det, at Danmark i 2006 betaler
+næsten 1,3 mia. kr. - næsten 1,3 mia. kr. - til
+Storbritannien, og derefter, når kredsen udvides
+til Holland, Sverige, Tyskland og i øvrigt også
+Østrig, ja, så stiger vores bidrag til knap 1,8 mia.
+for derefter at vokse til 2,1 mia. kr. og så fremdeles. Det gode ved kompromiset her er, at man
+har holdt det så langt nede som muligt, og der
+deler jeg de anerkendende bemærkninger, der
+tidligere er blevet fremsat.
+Det er også godt, at man har fået fjernet den
+ekstra, perverse kompensation til Storbritannien
+som følge af udvidelsen: alt det er udmærket, alt
+det er godt nok. Men tilbage står, at det vel var
+mere rimeligt, at vi brugte 2 mia. kr. til de fattige
+lande i verden eller 2 mia. kr. til fornuftige projekter internationalt, 2 mia. kr. på klimaområdet,
+i stedet for at vi skal give statstilskud til den
+svenske, den engelske, den tyske, den hollandske og den østrigske regering. Men sådan er vilkårene, fordi vi har disse regler i EU, og Danmark har kæmpet for at få et så godt kompromis
+som muligt, og jeg synes alt taget i betragtning,
+at det er acceptabelt under de givne betingelser,
+og vi kan støtte det.
+Må jeg så endelig om den anden side, som det
+her beslutningsforslag ikke handler om, men
+som hr. Messerschmidt altså talte om før, nemlig
+spørgsmålet om regnskabsaflæggelsen, sige, at
+det, der jo er det karakteristiske, er, at alt det, EU
+selv har ansvaret for, som Kommissionen selv
+står for, herunder landbrugsordningerne, er der
+faktisk kommet styr på. Det, der har givet anledning til Revisionsrettens kritik, er alene de områder, hvor det er landene selv, der administrerer
+det, især på strukturfondsområdet, og det er på
+den baggrund, at vi, også støttet, tror jeg, af den
+nuværende og tidligere regering, har kæmpet så
+hårdt for, at det er de enkelte landes finansministre, der skal tage ansvaret for anvendelsen af
+midlerne i de enkelte lande, men det tror jeg kan
+bekræftes. Det har den tidligere finansminister
+ikke kunnet komme igennem med i forhold til
+
+252
+
+Torsdag den 6. december 2007 (B 4)
+
+sine kollegaer, og derfor har vi altså ikke en tilstrækkelig ansvarsplacering. Så derfor skal hr.
+Messerschmidt rette kanonen et helt, helt andet
+sted hen. Hvis jeg må give ham en anbefaling,
+skal han starte med at læse forslaget og finde ud
+af, hvad det drejer sig om, og derefter rette kritikken derhen, hvor den rettelig hører hjemme.";Svend Auken
+18897;Time;;Kl. 10:17
+18909;title_name;Hr. Morten Messerschmidt for en kort bemærkning.;Formanden
+18967;Time;;Kl. 10:17
+18993;name_party;":
+Der var en del af hr. Aukens tale, som nærmest
+gjorde mig helt opstemt, netop kritikken af det
+omfordelingscirkus, man har i EU. Jeg synes, det
+nærmest var, som om hr. Auken havde været
+inde og kopiere dele ud af mine tidligere taler,
+og det vil jeg gerne kvittere for. Men når man så
+ser på selve substansen i det, som hr. Auken siger, så er det jo ikke en kritik af, at man omfordeler penge, så er det en kritik af, at der er nogle
+lande, som får penge på bestemte vilkår.
+Men det, der jo er interessant, er, at Danmark,
+så vidt jeg husker, på den eksisterende finanslov
+betaler i omegnen af 16-17 mia. kr. til EU. Vi får
+12-13 mia. kr. tilbage og betaler altså netto 2-3
+mia. kr., og jeg vil bare sige, at der jo er et kæmpe omfordelingscirkus, som altså går langt ud
+over Tysklands, Englands og de andre landes
+grænser, som hr. Auken nævnte.
+Men det, jeg gerne vil hæfte mig ved, er
+spørgsmålet om stemmeregler, for mener hr.
+Auken virkelig, at man skal gå over til flertalsafgørelser på budgettet, således at et flertal af lande kan pålægge Danmark at betale mere til EU?
+Det synes jeg ville være interessant at få et svar
+på.";Morten Messerschmidt
+20136;Time;;Kl. 10:18
+20148;title_name;Ordføreren.;Formanden
+20169;Time;;Kl. 10:18
+20185;name_party;":
+Altså, jeg har faktisk den opfattelse, at flertalsafgørelser beskytter mindre lande, og jeg synes, at
+det her er det mest fremragende eksempel på
+det. Der er jo ingen, der tror på, at Danmark kan
+gøre det samme, det vil sige misbruge enstemmighedsreglerne, som Margaret Thatcher kunne
+gøre, men det kan store lande altså gøre, og derfor er jeg tilhænger af flertalsafgørelser, og det er
+jeg også, når vi kommer til diskussionen om den
+nye traktat. Det gør det europæiske samarbejde
+bedre i stand til at træffe afgørelser, det beskyt-
+
+ter de små lande, og navnlig beskytter det fornuften.";Svend Auken
+20785;Time;;Kl. 10:19
+20797;title_name;Hr. Morten Messerschmidt.;Formanden
+20832;Time;;Kl. 10:19
+20858;name_party;":
+Vil hr. Auken overhovedet ikke kunne se et problem i, at Danmarks stemmer, særlig med den
+traktat, som hr. Auken jo gerne vil have gennemført, bliver fuldstændig udvasket i forhold
+til noget så centralt som spørgsmålet om, hvor
+stor en mængde penge vi på finansloven skal afsætte til EU's i øvrigt dybt kritisable anvendelse
+af samme mængde penge? Altså, kan hr. Auken
+overhovedet ikke se et problem i, at det skal
+være lande som Frankrig, Tyskland, Polen og
+andre, der kan gå sammen i et flertal, som skal
+afgøre, hvordan den danske finanslov ser ud,
+som skal afgøre, om det i 2008,2009 og 2010 skal
+være 16 mia. eller 26 mia. kr., som vi skal aflevere i EU's kasse?
+Nu brugte hr. Auken udtrykket halvperverst i
+sin tale. Jeg vil næsten overføre det til hr.
+Aukens tankegang i den her sammenhæng, for
+det er da halvperverst, at man skulle forestille
+sig, at andre lande med flertalsafgørelser skulle
+kunne pålægge Danmark, imod måske et enigt
+Folketings vilje, at levere flere og flere penge til
+EU. Det er da kun rimeligt, at vi har hånd i hanke med, hvor mange penge der leveres i en klub,
+som vi har ønsket medlemskab af.";Morten Messerschmidt
+21995;Time;;Kl. 10:20
+22007;title_name;Ordføreren.;Formanden
+22028;Time;;Kl. 10:20
+22044;name_party;":
+Jeg kan tit være bekymret for flertalsbeslutninger på budgetområdet. De sidste 6 år har jeg
+måttet lide under, at et flertal her i Folketinget
+har vedtaget finanslove, som jeg er dybt uenig i.
+Men det er ikke det samme, som at jeg ville ændre det system, vi h a r .
+Netop den her sag er jo en glimrende illustration af, hvor lidt glæde vi har af enstemmigheden. Hvad glæde havde vi haft af, at den danske
+finansminister havde blokeret for den enighed,
+der opstod på det her område? Ja, så ville vi bare
+have sat hele det europæiske samarbejde i stå.
+For de af os, der er tilhængere af det europæiske
+samarbejde, er det også vigtigt, at der skal kunne træffes flertalsafgørelser. Det bliver der ikke
+på budgetområdet. Derfor må man forhandle
+sig frem til et kompromis, og i det her tilfælde er
+
+Torsdag den 6. december 2007 (B 4)
+det altså det bedst opnåelige resultat, og det er
+vi tilfredse med.";Svend Auken
+22953;Time;;Kl. 10:21
+22965;title_name;"Tak til hr. Svend Auken. Den næste ordfører er
+hr. Morten Messerschmidt.";Formanden
+23047;Time;(Ordfører);Kl. 10:21
+23084;name_party;":
+Jeg synes, det er et spændende tema, der er til
+debat her i dag, nemlig hele diskussionen om,
+hvordan EU skal finansieres, hvad det er, EU
+skal have af indtægter, og følgelig også hvordan
+EU skal bruge sine midler. Man kan selvfølgelig
+ikke tale om indtægter uden også at tale om måden, man anvender midlerne på.
+Jeg vil i øvrigt opfordre til, at de ordførere,
+der måtte komme på efter mig, tilkendegiver et
+synspunkt i forhold til det spørgsmål, som Socialdemokraternes ordfører netop har talt om:
+hele spørgsmålet om, hvorvidt vi ønsker et EU
+med en budgetordning, ifølge hvilken det er
+flertalsafgørelser, som kommer til at afgøre,
+hvor meget Danmark skal bidrage med til EU's
+fælles kasse.
+I øjeblikket bidrager vi med i omegnen af 17
+mia. kr., men overgår det - på linje med linjen i
+forfatningen og Lissabontraktaten generelt - til
+flertalsafgørelser, betyder det naturligvis, at
+Danmark kan stemmes ned. Det betyder, at vi
+reelt ingen indflydelse har på, hvor mange skattekroner der skal ind og ud af landet. Det viser
+jo i virkeligheden, hvor dybt paradoksal hele
+tankegangen bag den nye traktat er, og i hvilken
+retning man ønsker EU skal gå. Og det understreger i øvrigt behovet for, at vi naturligvis skal
+have en folkeafstemning om Lissabontraktaten.
+Nuvel. Når man ser på, hvordan EU bruger
+borgernes midler, så tror jeg, at de fleste efter at
+være dykket ned i revisionsrapp orterne og analyserne vil blive temmelig nedslåede. Ser man
+på den måde, som strukturstøtten forvaltes på,
+kan man se, at de primære modtagerlande er
+gamle medlemslande. Tanken om, at strukturstøtten skulle være noget, man gav, for at lande i
+en midlertidig krise kunne komme ud af den og
+komme videre og få opbygget en god industri,
+stemmer ikke overens med virkeligheden. For
+virkeligheden er, at de primære modtagerlande
+af omfordelingspuljerne i EU er Grækenland,
+Portugal og en række andre sydeuropæiske lande, som har været medlemmer i rigtig mange år.
+Derfor er strukturstøtten snarere over en sovepude, end den er et egentligt incitament til at få
+
+253
+
+reformer gennemført, og derfor bør strukturstøtten hurtigst muligt afvikles.
+Endnu mere grelt står det til, når man ser på
+landbrugspolitikken, hvor man subsidierer
+landbruget langt, langt mere, end det med nogen som helst samvittighed i behold kan forsvares. Det fører til højere fødevarepriser for os
+europæere og formodentlig også ringere kvalitet, fordi man fuldstændig lammer landbruget
+og sætter den fri konkurrence ud af kraft. Og
+måske værst af alt skader det den tredje verden,
+skader de afrikanske landes muligheder for at
+eksportere deres varer til det store marked i EU.
+Derfor har vi fra starten af klart sagt til regeringen, at vi ønsker en grundlæggende omlægning af EU's budgetter. Vi vil ganske enkelt ikke
+acceptere et budget, som vi er imod, hvad angår
+70 pet. af de midler, der bliver anvendt.
+Derfor har vi insisteret på, at Danmark skulle
+melde sig i klubben af 1-procent-lande, sådan at
+vi står som strammere, når det kommer til EU's
+budget. Vi vil ikke acceptere, at der år for år skal
+overføres flere og flere penge til et EU-cirkus,
+hvor brugen af pengene ikke bliver kontrolleret,
+hvor man ikke ved, hvem der bruger dem. Man
+ved ikke rigtig, hvad vi får for dem, men man
+ved, at vi skal betale mere og mere.
+Vi vil ikke acceptere den måde, EU's budgetordning fungerer på, og følgelig kan vi heller
+ikke stemme for et beslutningsforslag, som skal
+føre til, at EU kan få overført flere midler.";Morten Messerschmidt
+26565;Time;;Kl. 10:25
+26577;title_name;Tak til hr. Morten Messerschmidt. Næste ordfører er fru Anne Grete Holmsgaard.;Formanden
+26665;Time;(Ordfører);KL. 10:25
+26703;name_party;":
+Der findes jo penge, som man betaler med tilfredshed, fordi de går til noget, som man synes
+er fornuftigt, og så findes der penge, som man
+betaler med meget stor ulyst, fordi man synes,
+de går til noget, der er helt urimeligt. Vi betaler
+selvfølgelig penge til og lægger stemmer til, at
+EU har et budget, og det gør vi med tilfredshed,
+fordi vi er tilhængere af EU. Men jeg må sige, at
+det er med meget stor ulyst, at vi også kommer
+til at skulle betale penge til en rabatordning,
+som først var en separat britisk rabatordning,
+som Thatcher gennemtvang i 1984, og som nu er
+udvidet, sådan at Holland, Østrig og Sverige nu
+også har fået en rabat.
+Som det flere gange er blevet sagt heroppefra,
+har vi en merudgift på i snit 0,5 mia. kr. om året
+
+254
+
+Torsdag den 6. december 2007 (B 4)
+
+på grund af disse fuldstændig urimelige rabatordninger. Det fremgår faktisk meget klart af beslutningsforslaget, hvor stor rabatten er, og hvor
+stor Danmarks finansieringsandel er. Alt i alt
+snakker vi om hen imod 40 mia. kr., og det er jo
+sådan set også en slat penge.
+Fra SF's side synes vi, at det vil være en god
+idé, at vi i forbindelse med behandlingen af forslaget efterfølgende i udvalget skriver en beretning, som gennemgår historien bag de her rabatordninger, for det er jo typisk her, offentligheden
+vil gå ind og se på, hvad det her handler om. Vi
+synes, at det vil være en god måde at give offentligheden en enkel fremstilling af, hvad det
+egentlig er, der er historien bag rabatordningerne, og hvad vores holdning er til at få dem afviklet.
+Men som sagt kan vi støtte beslutningsforslaget.";Anne Grete Holmsgaard
+28305;Time;;Kl. 10:27
+28317;title_name;Tak til fru Anne Grete Holmsgaard. Næste ordfører er hr. Lars Barfoed.;Formanden
+28397;Time;(Ordfører);Kl. 10:27
+28426;name_party;":
+Der er jo her tale om, at vi skal ratificere en rådsafgørelse om rammerne for EU's indtægter i de
+kommende år. Og det er jo, som også andre har
+været inde på, et kompromis, der er tale om,
+men et kompromis, som også vi i Det Konservative Folkeparti kan godkende. Der er naturligvis
+principielle betænkeligheder ved, at nogle lande
+skal have rabatter - også store rabatter - i en årrække. Men det har jo altså været nødvendigt
+for at finde en samlet løsning, og det må vi så acceptere.
+I Det Konservative Folkeparti har vi noteret
+os, at Danmark og en række andre lande har afgivet en erklæring i forbindelse med rådsafgørelsen, hvor vi netop beklager, at rabatterne udformes på en sådan måde, at finansieringen ikke
+deles af alle medlemsstater. Vi siger så i den forbindelse, og jeg citerer:
+Fremtidige ændringer af ordningen med egne
+indtægter bør bevæge sig i retning af en regelbaseret ordning for finansiering af de udgifter, der
+er aftalt i fællesskab, og som er enkle og gennemsigtige og uden justeringer for bestemte
+medlemsstater.
+Det er en erklæring, som vi i Det Konservative Folkeparti kan tilslutte os.
+
+Med de bemærkninger skal jeg sige, at Det
+Konservative Folkeparti kan anbefale vedtagelse
+af forslaget.";Lars Barfoed
+29657;Time;;Kl. 10:28
+29669;title_name;"Tak til hr. Lars Barfoed. Næste ordfører er fru
+Lone Dybkjær.";Formanden
+29740;Time;(Ordfører);Kl. 10:28
+29769;name_party;":
+Også Det Radikale Venstre kan støtte beslutningsforslaget. Jeg er sådan set meget enig med
+fru Anne Grete Holmsgaard i hendes betragtninger om, at der er penge, man betaler med
+lyst, og penge, man ikke betaler med lyst. Sådan
+er det. Men det er jo så en del af det europæiske
+samarbejde. Jeg synes også, det kan være en udmærket idé at lave en beretning.
+Jeg vil så i tilknytning til det sige, at jeg synes,
+vi også i den beretning skal prøve at få en oversigt over, hvad de enkelte lande rent faktisk bidrager med i EU-sammenhæng: hvem får, og
+hvem giver? Det synes jeg er et nyttigt supplement til det her, som jo kun handler om, at der er
+nogle, der får nogle rabatter, men jo ikke viser en
+udvikling. Hvis vi nu endelig skal begynde at
+gøre noget ved det, skulle vi måske også kigge
+på, hvor meget Danmark selv har modtaget via
+sine landbrugsstøtteordninger igennem tiderne.
+At vi så nu er blevet nettobidragyder, er en anden snak. Men der er altså en budgetudviklingshistorie, og principielt synes jeg, det er en god
+idé, hvis vi kaster os ud i at lave en beretning. Vi
+skal jo sådan set lave en betænkning, da det her
+jo vedtages, så det er jo ikke en beretning. Men i
+betænkningen kan vi jo simpelt hen tage det ind
+som bilagsstof, eller hvad ved jeg, så vi måske
+får en lidt mere fyldestgørende betænkning, end
+vi normalt ville få, når vi skiber sådan en af sted.
+Det afhænger selvfølgelig også af behovet for,
+hvornår vi skal være færdige med det, men det
+går jeg ud fra vi godt kan nå.";Lone Dybkjær
+31276;Time;;Kl. 10:30
+31288;title_name;"Tak til fru Lone Dybkjær. Næste ordfører er hr.
+Anders Samuelsen.";Formanden
+31363;Time;(Ordfører);Kl. 10:30
+31396;name_party;":
+Ny Alliance kan også støtte forslaget her. Jeg synes, det i den her forbindelse er værd at huske
+på, hvad det var for en diskussion, som var
+oppe og køre i hele det europæiske hus i forbindelse med vedtagelsen af de nye budgetter, hvor
+
+Torsdag den 6. december 2007 (L 21)
+netop også rabatterne kom ind som en del af det
+spil. Der blev faktisk gjort et reelt forsøg fra Storbritanniens daværende premierminister, Tony
+Blair, på at få rejst debatten om nogle af de ting,
+som Dansk Folkeparti også har rejst en diskussion om i dag, nemlig det, som vi stort set alle i
+Danmark er enige om ikke fungerer ordentligt,
+nemlig landbrugsstøtteordningerne. Den debat
+blev faktisk rejst fra Tony Blairs side, og det blev
+forsøgt at få drejet budgettet i en anden retning.
+Min konklusion er, og den tror jeg slet ikke
+jeg er ene om, at der blev taget de første skridt
+hen imod, at vi nu - man kan sige - flytter budgettet i retning af det, som vi fra dansk side gentagne gange har plæderet for, nemlig at vi begynder at flytte midlerne væk fra landbrugsområdet og over i forskning, udvikling, uddannelse
+osv. Så den del af historien synes jeg også skal
+med i den her sammenhæng. Så vil jeg selvfølgelig også konkludere, at vi skal huske at have
+med, at på lang sigt ender den engelske rabat
+også på et lavere niveau, end den er i 2009. Så
+Ny Alliance kan støtte forslaget.";Anders Samuelsen
+32769;Time;;Kl. 10:32
+32781;title_name;Finansministeren.;Formanden
+32808;Time;;Kl. 10:32
+32848;title_name;":
+Jeg skal gøre det kort, dels fordi en række af ordførerne, bl.a. hr. Svend Auken, jo så glimrende
+har redegjort for forslaget, dels fordi denne første behandling er en slags genopførelse af den
+første behandling, som fandt sted, før valget
+blev udskrevet.
+Jeg kan af det referat af debatten, som jeg har
+læst, se, at en række af de synspunkter, der også
+er gjort gældende her i debatten, også blev gjort
+gældende ved den lejlighed, og at den daværende finansminister i den sammenhæng også har
+redegjort for den danske forhandlingsposition
+og i øvrigt - det kan jeg jo notere mig - modtog
+en pæn portion ros fra en række af Folketingets
+medlemmer for den indsats, der blev ydet i forbindelse med det kompromis, der er indgået,
+som nuvel vil opretholde rabatterne, men jo
+også tegner et fremadrettet perspektiv, og som i
+øvrigt sikrede, at den danske satsning på at forøge midlerne til forskning blev gennemført succesfuldt.
+Jeg kvitterer for indlæggene og stiller mig til
+rådighed for det efterfølgende arbejde i udvalget, idet jeg håber, at vi kan fremme det her beslutningsforslag til hurtig vedtagelse. Der er tale
+om at udleve en beslutning, der er givet mandat
+
+255
+
+til i Europaudvalget, så vi står altså her med et
+stykke opfølgningsarbejde, som vi er forpligtet
+til at bringe i mål, og det håber jeg kan ske hurtigt.";Lars Løkke Rasmussen
+34183;Time;;Kl. 10:33
+34195;title_name;"Tak til finansministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at forslaget til folketingsbeslutning
+henvises til Europaudvalget. Hvis ingen gør
+indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+4) 1. behandling af lovforslag nr. L 21:
+Forslag til lov om ændring af teaterloven.
+(Godkendelse af kollektive overenskomster
+for visse teatre).
+Af kulturministeren (Brian Mikkelsen).
+(Fremsættelse 28.11.2007).";Formanden
+34705;Time;Forhandling;Kl. 10:34
+34729;title_name;Forhandlingen er åbnet. Fru Britta Schall Holberg som ordfører.;Formanden
+34802;Time;(Ordfører);Kl. 10:34
+34839;name_party;":
+Lovforslaget er en genfremsættelse af et tilsvarende lovforslag fra den 24. oktober 2007. Baggrunden for lovforslaget er, at forhandlingerne
+af overenskomsterne for en række teatre - Aarhus Teater, Odense Teater, Aalborg Teater, Den
+Jyske Opera, Det Danske Teater, det, der nu hedder folketeatret.dk, og Det Storkøbenhavnske
+Teaterfællesskab, det, vi nu kalder Københavns
+Teater - før kommunalreformen blev ført af
+Amtsrådsforeningen, idet teatrene havde delegeret forhandlingskompetencen til Amtsrådsforeningen. Men vi har jo haft en kommunalreform, og efter den ligger kompetencen igen hos
+de enkelte teatre.
+Teatrene har så udtrykt et udtrykkeligt ønske
+om, at der etableres et fælles forhandlingssekretariat, som kan forhandle overenskomster for teatrenes medarbejdere. Dette fællessekretariat ,
+
+256
+
+Torsdag den 6. december 2007 (L 21)
+
+skal finansieres af teatrene selv. Når teatrene
+overhovedet har bedt om det, er det, fordi de
+ikke føler, at de er i stand til at løfte opgaven
+hver for sig.
+Teatrene ønsker også, at staten bistår ved forhandlingerne, og det betyder, at der med lovforslaget etableres en hjemmel til, at finansministeren skal godkende de kollektive overenskomster
+for personalet ved de omtalte teatre.
+Da teatrene selv har bedt om en sådan ordning er alle høringssvar da også utrolig positive.
+Dog ønsker Peter Schaufuss Balletten ikke at
+være med i ordningen, og det står dem så også
+helt frit for at vælge at lade være at være med. I
+det hele taget er ordningen, der etableres, aldeles frivillig. De teatre, der vælger ikke at tilslutte
+sig, må selv forhandle deres ansattes løn- og ansættelsesvilkår.
+Loven forventes at træde i kraft pr. 1. januar
+2008.
+Venstre kan helt tilslutte sig lovforslaget.";Britta Schall Holberg
+36579;Time;;Kl. 10:36
+36591;title_name;"Tak til fru Britta Schall Holberg. Næste ordfører
+er hr. Mogens Jensen.";Formanden
+36672;Time;(Ordfører);Kl. 10:36
+36701;name_party;":
+Det er klart, at det her er en ordning, som teatrene selv har ønsket. Efter kommunalreformen er
+der behov for at organisere overenskomstforhandlingerne på en anden måde, og det vil vi
+selvfølgelig gerne fra socialdemokratisk side
+hjælpe teatrene med, i form af at vi selvfølgelig
+giver tilslutning til det her lovforslag, hvor finansministeren får mulighed for at godkende
+overenskomsterne på det her område og dermed også yde bistand til det forhandlingssekretariat, som teatrene i fællesskab laver. Så det er
+jo et helt fornuftigt lovforslag, som Socialdemokraterne støtter.
+Så skal jeg meddele på vegne af Det Radikale
+Venstre, hr. Simon Emil Ammitzbøll, som ikke
+kunne være til stede her i dag, at Det Radikale
+Venstre også støtter lovforslaget.";Mogens Jensen
+37461;Time;;Kl.10:37
+37473;title_name;Tak til hr. Mogens Jensen. Fru Karin Nødgaard.;Formanden
+37529;Time;(Ordfører);Kl. 10:37
+37560;name_party;":
+Dette lovforslag er i sit indhold fremkommet
+ved, at teaterledelserne over for Kulturministeriet har givet udtryk for, at det enkelte teater ikke
+
+har tilstrækkelig faglig ekspertise til at klare opgaven med at forhandle overenskomster. Før
+kommunalreformen blev forhandlingerne af
+overenskomster for en række teatre jo forestået
+af Amtsrådsforeningen og på baggrund af, at teaterledelserne delegerede forhandlingskompetencen til foreningen. Nu er amterne jo som sagt
+nedlagt, og derfor ser vi positivt på at imødekomme teatrenes ønsker om at etablere et fælles
+forhandlingssekretariat, som kan forhandle
+overenskomster for teatrene, og det er jo et sekretariat, som de involverede teatre selv finansierer. Ønsket fra teatrene om at blive bistået af
+staten i forhandlingerne kan imødekommes ved,
+at finansministeren alene godkender kollektive
+overenskomster, og det kan vi også bakke op
+om.
+I lovforslaget noteres det, at der forventes visse administrative konsekvenser for staten i forbindelse med ydelse af forhandlingsbistand til
+teatrene, og dette vil udgøre et kvart årsværk.
+Det er godt nok ikke ret meget, men jeg vil gerne
+høre ministeren om, hvorfra han skønner denne
+arbejdsindsats skal komme, samt om det skønnes, at den her arbejdsopgave vil blive taget fra
+nogle andre områder.
+Alt i alt støtter Dansk Folkeparti lovforslaget.";Karin Nødgaard
+38911;Time;;Kl. 10:39
+38923;title_name;"Tak til ordføreren. Næste ordfører er hr. Karl H.
+Bornhøft.";Formanden
+38992;Time;"(Ordfører)
+Karl H. Bornhøft (SF):
+Som helt ny i Tinget vil jeg sige, at det har været
+en god start på den her dag at opleve, hvor positive Folketingets medlemmer kan være i deres
+diskussioner. Jeg bed mærke i, at der var et par
+af de tidligere talere, der præcis sagde, at det var
+meget, meget svært at finde andet end rosende
+ord om den tidligere finansminister og nu formand for Tinget. Lad mig sige: Det var dejligt at
+høre: det kunne jeg nu godt, men lader være.
+Jeg vil da også sige, at jeg synes, det var specielt at høre hr. Morten Messerschmidt gøre opmærksom på, at han blev helt opløftet ved at
+høre hr. Svend Auken. Og jeg, som hidtil havde
+troet, at det var noget, hr. Morten Messerschmidt kun kunne blive i grøften i Tivoli, så det
+var rart at vide, at det kan bredes ud.
+Inden formanden nu fortæller mig, at jeg er
+her for at tale om L 21, vil jeg med det samme sige, at L 21 er udtryk for, hvad der reelt er nødvendigt. Det er en nødvendighed. Forslaget fyl-
+
+(33)
+Torsdag den 6. december 2007 (L 21)
+der jo kun det hul ud, som er skabt med nedlæggelsen af amterne. Lovforslaget viser, uanset at
+det er en nødvendighed, jo altså også generelt en
+centraliseringstendens, som vi har været hårdt
+præget af siden 2001.
+Jeg vil også godt have lov til at tilkendegive,
+at jeg måske synes, man skal passe på med at
+lægge for meget i teatrenes støtte til det her forslag, andet end at det jo er bydende nødvendigt
+for dem at agere på den her måde, for ellers kunne de ikke udfylde deres rolle.
+Jeg vil så også godt sige med det samme, at vi
+i SF er meget tilfredse med, at der i kommentarerne til lovteksten i teaterlovens § 31 fastslås, at
+detaljeringsniveauet stopper ved teaterlederens
+løn og ansættelsesvilkår. Og det er jo rart at vide, at det i det mindste stopper et sted.
+Som sagt fylder det her forslag i dag jo kun et
+hul ud, og det, der jo bliver rigtig spændende
+for mange af os, bliver de mere indholdsmæssige diskussioner om landsdelsscenernes fremtid,
+ensartede udgangspunkter m.v. Så SF anbefaler
+altså, at forslaget overgår til anden behandling.";Kl. 10:39
+41073;Time;;Kl. 10:41
+41085;title_name;"Der er en kort bemærkning fra fru Britta Schall
+Holberg.";Formanden
+41151;Time;;Kl. 10:41
+41177;name_party;":
+Det lød sådan i mine ører, at ordføreren sagde, at
+det her var udtryk for en centralisering. Hvis det
+var udtryk for en centralisering, er jeg ikke sikker på, at jeg havde været så positiv, som jeg var
+i min ordfører tale. Man kan vel ikke kalde det
+en centralisering, når teatrene selv har ønsket at
+oprette et sådant sekretariat. Det vil jeg gerne
+have uddybet.";Britta Schall Holberg
+41552;Time;;Kl. 10:42
+41564;title_name;Ordføreren.;Formanden
+41585;Time;"Karl H. Bornhøft (SF):
+Det vil jeg meget gerne. Det, man hørte mig sige,
+var, at det her jo er udtryk for en centraliseringstendens, som har kørt i hele samfundet igennem
+en længere periode. Jeg har personligt i amtsrådet været med til at bistå bl.a. de teatre, som er
+omtalt, og nu er de så i den situation, at de bliver
+nødt til at samle sig på en måde, og at der så skal
+gives noget hjælp i en detaljeringsgrad: og det er
+så kun her, man kan søge det nu, for det kan
+man ikke søge andre steder. Så mere end den
+oplysning skal Venstres ordfører ikke lægge i
+det.
+
+257";Kl. 10:42
+42166;Time;;Kl. 10:43
+42178;title_name;Fru Britta Schall Holberg for en sidste kort bemærkning.;Formanden
+42244;Time;;Kl. 10:43
+42270;name_party;":
+Det er jeg glad for, for jeg synes, man må lægge
+meget vægt på, at teatrene tidligere har haft
+Amtsrådsforeningen som forhandlingsorgan,
+om jeg så må sige. Det var jo noget helt andet,
+hvis man smækkede det hele herind og sagde, at
+det nu skulle styres herfra. Det er der jo ikke tale
+om. Det er jo en praktisk foranstaltning, som teatrene har bedt om, og det synes jeg man skal
+tage hatten af for og sige, at det vist ikke kan
+være udtryk for en centralisering, navnlig da de
+selv betaler.";Britta Schall Holberg
+42772;Time;;Kl. 10:43
+42784;title_name;Ordføreren.;Formanden
+42805;Time;"Karl H. Bornhøft (SF):
+Jeg glad for at konstatere, at fru Britta Schall
+Holberg og jeg åbenbart godt kan tale os til en
+forståelse.";Kl. 10:43
+42947;Time;;Kl. 10:43
+42959;title_name;"Derved bliver det. Tak til ordføreren. Næste i
+ordførerrækken er fru Henriette Kjær.";Formanden
+43053;Time;(Ordfører);Kl. 10:44
+43084;name_party;":
+Vi Konservative ser det her som en praktisk foranstaltning, som følger af kommunalreformen.
+Vi synes, at det er et fornuftigt tiltag, og derfor
+støtter vi naturligvis, at der gives hjemmel til en
+sådan konstruktion i loven.";Henriette Kjær
+43319;Time;;Kl. 10:44
+43331;title_name;Tak til ordføreren. Den næste ordfører er fru Malou Aamund.;Formanden
+43400;Time;(Ordfører);Kl. 10:44
+43429;name_party;":
+Ny Alliance støtter forslaget om ændring af teaterloven, for efter kommunalreformen er det
+igen det enkelte teater, der har ansvaret for forhandlingen om løn- og ansættelsesvilkår.
+Det kan være en krævende og kompleks opgave, og når nu teatrene selv kommer med et
+udmærket forslag om at oprette et fælles sekretariat, som i fremtiden kan varetage opgaven,
+synes vi selvfølgelig, at det er helt naturligt at
+støtte dem.
+
+258
+
+Torsdag den 6. december 2007 (L 22)";Malou Aamund
+43903;Time;;Kl. 10:44
+43915;title_name;Tak til fru Malou Aamund. Så er det kulturministeren.;Formanden
+43978;Time;"Kulturministeren (Brian Mikkelsen):
+Jeg vil vil gerne takke for bemærkningerne til
+lovforslaget om den her mindre ændring af teaterloven. Der er tale om et meget lille lovforslag,
+som er fremsat på baggrund af et ønske fra en
+række af de større teatre.
+Den foreslåede ændring af teaterloven indebærer, at der etableres en hjemmel til, at finansministeren skal kunne godkende kollektive
+overenskomster om løn- og ansættelsesvilkår for
+ansatte på vores landsdelsscener, Den Jyske
+Opera, Folketeatret og Københavns Teater.
+Baggrunden for teatrenes ønske om at få en
+sådan hjemmel er, at kompetencen til at forhandle overenskomster efter kommunalreformen igen ligger hos de enkelte teatre. Før kommunalreformen blev forhandlinger om overenskomster for de pågældende teatre i praksis forestået af Amtsrådsforeningen på vegne af teatrene.
+Teatrene mener imidlertid ikke, at det enkelte
+teater har tilstrækkelig faglige ekspertise til alene at løfte opgaven og ønsker derfor, at der etableres et fælles forhandlingssekretariat, som kan
+forhandle overenskomster for dem. Teatrene ønsker desuden at få mulighed for at blive bistået
+af staten i forhandlingerne og få godkendt de
+indgåede overenskomster.
+Staten har imidlertid ikke hjemmel i den nugældende lovgivning til at godkende aftaler om
+løn- og ansættelsesvilkår for ansatte på de pågældende teatre. Det vil sige, at lovforslaget
+imødekommer ønsket fra teatrene og fastsætter
+en hjemmel til, at finansministeren kan godkende kollektive overenskomster om løn- og ansættelsesvilkår for landsdelsscenerne, Den Jyske
+Opera, Folketeatret og Københavns Teater. Der
+er altså tale om en lille teknisk ændring, som vil
+imødekomme teatrenes ønske om at få bistand i
+forhandlingerne og godkendelse af de kollektive
+overenskomster.
+Med de ord vil jeg takke for de venlige og
+konstruktive bemærkninger, og jeg ser frem til
+en velvillig behandling af lovforslaget i Kulturudvalget.";Kl. 10:45
+45903;Time;;Kl. 10:47
+45915;title_name;"Da der ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+
+Jeg foreslår, at lovforslaget henvises til Kulturudvalget. Hvis ingen gør indsigelse mod det, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+5) 1. behandling af lovforslag nr. L 22:
+Forslag til lov om ændring af lov om pligtaflevering af offentliggjort materiale. (Forlængelse
+af revisionsklausul).
+Af kulturministeren (Brian Mikkelsen).
+(Fremsættelse 28.11.2007)";Formanden
+46398;Time;Forhandling;Kl. 10:47
+46422;title_name;Forhandlingen er åbnet. Det er hr. Troels Christensen som ordfører.;Formanden
+46499;Time;(Ordfører);Kl. 10:47
+46533;name_party;":
+Loven fra 2004 om pligtaflevering af offentligt
+materiale er jo med til at sikre den del af den
+danske kulturarv, som bliver offentliggjort elektronisk. Derved gælder de samme regler og de
+samme betingelser for materialer, der offentliggøres på internettet, ligesom det gælder for bøger. Med lovændringen i 2004 blev der jo taget
+højde for, at materialer fra f.eks. internettet kan
+indeholde følsomme personoplysninger, som
+ikke kan adskilles. Derfor har materialet indtil
+nu kun været tilgængeligt for forskningsbrug.
+Men det har hele tiden været hensigten, at offentligheden skulle have adgang til Netarkivet,
+hvis de personfølsomme oplysninger kunne isoleres og skærmes fra. Derfor indeholder loven
+fra 2004 en bestemmelse om, at der skal ske en
+revision af den senest i den her folketingssamling for netop at vurdere mulighederne for at
+isolere de følsomme personoplysninger. Og det
+er jo stadig hensigten, at det skal ske, for det er
+vigtigt, at så store dele af Netarkivet som muligt
+bliver tilgængelige for offentligheden.
+Men Det Kongelige Bibliotek og Statsbiblioteket, der har udviklet og varetager Netarkivet,
+vurderer ikke, at det har været muligt at gennemføre de undersøgelser og analyser, som er
+nødvendige, for at man kan isolere de her følsomme personoplysninger, for udviklingsres-
+
+Torsdag den 6. december 2007 (L 22)
+sourcerne har i første omgang været koncentreret om at udvikle selve systemet. Det har også
+resulteret i et system, der har vakt stor international interesse og placeret Danmark som et foregangsland. Men det har samtidig bevirket, at
+udviklingen af systemet, der kan isolere følsomme personoplysninger, er blevet udskudt, og
+derfor foreslås det ved den her lovændring, at
+en revision af loven udskydes til senest folketingsåret 2010-11. Bemærk dog ordet senest. En
+revision kan også komme på tale tidligere. Venstre støtter denne lovændring.";Troels Christensen
+48424;Time;;Kl. 10:49
+48436;title_name;Ja, tak til ordføreren. Den næste i ordførerrækken er hr. Mogens Jensen.;Formanden
+48518;Time;(Ordfører);Kl. 10:50
+48547;name_party;":
+Vi, som startede med at lave skoleblade og den
+slags, blev jo allerede tidligt konfronteret med
+den her ordning om pligtaflevering, som jo
+handler om, at man skal sende et eksemplar af
+alt, hvad man har produceret, ind til Statsbiblioteket eller til Det Kongelige Bibliotek. Med lovændringen i 2004 kom det også til at omfatte
+elektroniske hjemmesider, hvor man altså nu
+også indhøster materiale fra hjemmesiderne og
+gemmer dem i systemet, så fotskere indtil videre
+kan anvende materialet. Vi almindelige borgere
+kan jo ikke få adgang til det, fordi der netop er
+de her personfølsomme oplysninger, som indtil
+videre ikke kan separeres fra.
+Hensigten med loven, da den blev vedtaget,
+var jo, at man så ved en lovrevision skulle have
+mulighed for eventuelt at give adgang til, at hele
+offentligheden kunne få adgang til de her oplysninger. Så langt er man ikke kommet endnu med
+arbejdet på Statsbiblioteket og Det Kongelige
+Bibliotek, og man har anmodet om, at den her
+revision af loven altså kan udsættes til folketingssamlingen 2010-11 i stedet for 2007-08, og
+det er vi jo helt indstillet på. Det er klart, at vi
+skal have et fuldstændig sikkert system, hvis vi
+giver offentligheden adgang til den her type oplysninger, der sikrer, at personfølsomme oplysninger altså ikke kommer ud i offentligheden. Så
+fra Socialdemokraternes side er der selvfølgelig
+fuld opbakning til lovforslaget.
+Jeg skal på vegne af Det Radikale Venstres hr.
+Simon Emil Ammitzbøll, som desværre ikke
+kunne være til stede, sige, at Det Radikale Venstre også støtter lovforslaget.
+
+259";Mogens Jensen
+50118;Time;;Kl. 10:51
+50130;title_name;Tak til ordføreren. Den næste ordfører er fru Karin Nødgaard.;Formanden
+50201;Time;(Ordfører);Kl. 10:51
+50232;name_party;":
+Det er en spændende proces med det system,
+som Det Kongelige Bibliotek og Statsbiblioteket
+er i gang med at udvikle. Det system, som kaldes Netarkivet, og som har til formål at arkivere
+websider, er meget interessant at følge - ikke
+kun for os i Danmark, men også i udlandet,
+hvorfra der jo har været vist stor interesse for
+det arbejde, der bliver lavet, og det er jo meget
+glædeligt. Derfor er det også vigtigt, at den arbejdsproces får den tid, der er behov for, for at
+det hele bliver videreudviklet, og at det bliver
+udviklet og fremtidssikret. Det drejer sig jo primært om, som vi også tidligere har hørt om,
+hvorledes følsomme personoplysninger kan afgrænses.
+På nuværende tidspunkt har arbejdet hovedsagelig været koncentreret om at opbygge Netarkivet og om at finde ud af, hvordan det skal
+drives, og om, hvordan de tekniske problemer,
+som selvfølgelig må forventes at kunne opstå i
+sådan en opbygningsfase, kan løses.
+Dansk Folkeparti hæfter sig ved, at der i bemærkningerne til lovforslaget skrives, at det efter samråd med Datatilsynet er fundet, at indtil
+det måtte blive muligt at isolere følsomme personoplysninger, må hele arkivet betragtes som
+værende følsomt.
+Vi ønsker at lytte til Det Kongelige Biblioteks
+og Statsbibliotekets ønske om ud fra de allerede
+indhøstede erfaringer at gennemføre en nærmere analyse af mulighederne for at afgrænse følsomme personoplysninger, før en indholdsmæssig revision af loven kan overvejes. Denne revision har vi så hørt kan fremsættes senest i folketingsåret 2010-11. Bliver det tidligere, er vi også
+meget positive over for det.
+For Dansk Folkeparti er det vigtigt, at denne
+fase selvfølgelig gives tilstrækkelig tid, så vi
+ikke efterfølgende vil få problemer med person- .
+følsomme oplysninger, som eventuelt kan være
+blevet misbrugt. Derfor støtter Dansk Folkeparti
+lovforslaget.";Karin Nødgaard
+52081;Time;;Kl. 10:53
+52093;title_name;"Tak til ordføreren. Næste ordfører er fru Pernille
+Frahm.
+
+260
+
+Torsdag den 6. december 2007 (L 22)";Formanden
+52204;Time;(Ordfører);Kl. 10:53
+52235;name_party;":
+Som andre har sagt, er også det her en genfremsættelse. Jeg skal på SF's vegne sige, at det selvfølgelig er trist, at det ikke kunne lykkes at få
+gennemprøvet det her system, så vi kunne få det
+i gang nu. For det er utrolig vigtigt, at vi også får
+registreret de ting, der ligger på nettet. Man kan
+slet ikke overvurdere den historiske og kulturelle betydning, der er i de informationer, der ligger der - alle de blogs, der ligger fra fremtrædende politikere som Hillary Clinton og Barack
+Obama for slet ikke at snakke om Anders Fogh
+og Bendt Bendtsen og selv lille jeg, der jo også
+har ting liggende på nettet, som måske kan få en
+stor betydning i et historisk perspektiv.
+Så selvfølgelig skal de ting også kunne registreres, men under hensyn til anden gældende
+lovgivning, f.eks. beskyttelse af persondata.
+Men vi synes, det er o.k., når nu ikke det kunne
+lade sig gøre at få tingene på plads i tide, at vi så
+får den udsættelse, og håber selvfølgelig så, at
+det kan lade sig gøre før tiden.";Pernille Frahm
+53240;Time;;Kl. 10:55
+53252;title_name;"Tak til ordføreren. Den næste i ordførerrækken
+er fru Henriette Kjær.";Formanden
+53331;Time;(Ordfører);Kl. 10:55
+53362;name_party;":
+Ministeren beder med det her lovforslag om udsættelse af revision af loven om pligtaflevering.
+Årsagen til det ønske er, at man ikke har erfaring nok til at kunne drage vigtige konklusioner
+og eventuelt komme med forslag til relevante
+ændringer i loven. Det er så især i forhold til materiale fra internettet, hvor vi har besluttet at
+gemme øjebliksbilleder af forskellige sites på internettet. Vi Konservative synes, det er fornuftigt at få nogle flere erfaringer inden en revision,
+og derfor støtter vi forslaget.";Henriette Kjær
+53889;Time;;Kl. 10:55
+53901;title_name;"Tak til ordføreren. Den næste i ordførerrækken
+er fru Malou Aamund.";Formanden
+53978;Time;(Ordfører);Kl. 10:56
+54007;name_party;":
+Ny Alliance støtter forlængelse af revisionsklausulen. Vi er meget optaget af digitalisering af
+den danske kulturarv, men vi synes, at det er
+vigtigere, at det gøres rigtigt i stedet for hurtigt.
+Behovet for at offentliggøre materiale må ikke
+
+ske på bekostning af beskyttelsen af følsomme
+personoplysninger. Vi er et parti, der gerne vil
+have turbo på digitaliseringen af den danske
+kulturarv, vi er et it-progressivt parti, men vi er
+yderst opmærksomme på og respekterer grænsen for den enkelte borgers privatsfære. Derfor
+vil vi se positivt på forslaget i udvalgsbehandlingen.";Malou Aamund
+54598;Time;;Kl. 10:56
+54610;title_name;Tak til ordføreren. Og så er det kulturministeren.;Formanden
+54670;Time;"Kulturministeren (Brian Mikkelsen):
+Også her vil jeg takke for de meget positive tilkendegivelser og den opbakning, som lovforslaget har modtaget. Det er jo et beskedent lovforslag, som jeg har fremsat her, men alligevel synes jeg, det er nødvendigt, at jeg giver forslaget
+et par forklarende ord med på vejen.
+Forslaget indebærer, som også flere af ordførerne har været inde på, at den nuværende revisionsbestemmelse i pligtafleveringsloven forlænges til senest folketingsåret 2010-11.
+Baggrunden for, at man valgte en revisionsbestemmelse i 2004, var problematikken omkring
+adgangen til Netarkivet, der er et system til arkivering af websider. Det system drives af Statsbiblioteket og Det Kongelige Bibliotek, der er
+pligtafleveringsinstitutioner på området. Det
+indsamlede materiale fra nettet vil kunne indeholde følsomme personoplysninger, og derfor er
+det forudsat, at materialet kun kan gøres tilgængeligt til forskningsbrug, indtil det er muligt at
+afgrænse de følsomme personoplysninger.
+Baggrunden for, at man valgte at indsætte en
+revisionsbestemmelse, var altså et ønske om at
+vurdere muligheden for at afgrænse følsomme
+personoplysninger og dermed give den brede
+offentlighed adgang til Netarkivet. Det Kongelige Bibliotek og Statsbiblioteket vurderede imidlertid, at det er nødvendigt at gennemføre en
+nærmere analyse af mulighederne for at afgrænse følsomme personoplysninger, før der kan ændres på adgangen til arkivet.
+Danmark har været et foregangsland i international henseende, hvad angår høstning og bevaring af materiale fra nettet, og vi skal fortsat
+ligge i front, både når det gælder om at bevare
+den digitaltfødte kulturarv for vore efterkommere og når det gælder om at give adgang til
+den. Det store arbejde med at udvikle værktøjer
+til at høste materialet fra nettet og bevare det
+forsvarligt betyder imidlertid, at arbejdet med at
+afgrænse Netarkivets følsomme personoplys-
+
+Torsdag den 6. december 2007 (L 20)
+
+261";Kl. 10:56
+56627;Time;;Kl. 11:00
+56639;title_name;"Er der andre ordførere til stede? Det er der. Så
+får hr. Per Ørum Jørgensen ordet som ordfører.";Formanden
+56744;Time;(Ordfører);Kl. 11:00
+56779;name_party;":
+Her er tale om en genfremsættelse, og som vi
+også sagde før folketingsvalget, er det et lovforslag, vi i Det Konservative Folkeparti støtter. Det
+er med til at skabe ny innovation. Det er godt for
+Danmark, at man på EU-plan også får gennemJeg foreslår, at lovforslaget henvises til Kulturført nogle af de her ting. Vi ved erfaringsmæsudvalget. Hvis ingen gør indsigelse, betragter
+sigt, at der står vi rigtig stærkt, og derfor kan vi
+jeg det som vedtaget.
+fra De Konservatives side kun støtte det her forDet er vedtaget.
+slag.";Per Ørum Jørgensen
+57317;Time;;Kl. 11:01
+57329;title_name;Hr. Morten Messerschmidt som ordfører.;Formanden
+57377;Time;"(Ordfører)
+Det næste punkt på dagsordenen er:";Kl. 11:01
+57449;name_party;":
+6) 1. behandling af lovforslag nr. L 20:
+Jeg skal undskylde, at jeg blev forsinket, men
+Forslag til lov om miljøvenligt design af enerder er vigtige samråd rundtomkring i huset,
+giforbrugende produkter.
+som også skal passes.
+Af klima- og energiministeren (Connie HedeJeg vil gerne takke ministeren for det fremsatgaard).
+te lovforslag, som indeholder mange gode initia(Fremsættelse 28.11.2007).
+tiver med hensyn til at få nedbragt energiforbruKl. 10:59 get på diverse produkter.
+Vi synes, at der er rigtig mange gode intentioForhandling
+ner i forslaget, som vi fuldt ud kan støtte, hvilket
+vi også gjorde ved den tidligere fremsættelse inFormanden:
+Forhandlingen er åbnet. Det er hr. Lars Christian den folketingsvalget.
+Dog er der en række ting, som vi mener skal
+Lilleholt.";Morten Messerschmidt
+58236;Time;"afklares. For det første vil jeg pege på den meget, vil jeg sige, udvidede kompetence til at fast(Ordfører)
+sætte parametre for, hvad energiforbrugende";Kl. 10:59
+58417;name_party;":
+Lovforslaget her har været behandlet i det sene- produkter skal leve op til ifølge lovforslagets § 5,
+som jo mest af alt er en fuldstændig beføjelse til,
+ste Folketing. Det drejer sig om miljøvenligt deat klima- og energiministeren i samarbejde med
+sign, EU's såkaldte Eco-design, og implementemiljøministeren kan fastsætte de materielle
+ringen i dansk lovgivning.
+grænser for, hvad produkterne skal leve op til.
+Det er et rigtig fornuftigt forslag, som sikrer,
+Vi har visse betænkeligheder med hensyn til, om
+at vi kan stille krav til energiudstyr: kedler, madet skal være en fuldstændig suveræn ministerskiner og andre energiforbrugende produkter,
+beføjelse. Ikke at forstå som nogen mistillid til
+og det synes vi i Venstre er ganske fornuftigt.
+den siddende minister, men af frygt for, at der i
+Det er også i god forlængelse af regeringens
+energipolitik, hvor der netop sættes ind på ener- fremtiden kan komme andre ministre på området.
+gibesparelser og energieffektivitet. Så på alle
+Derudover vil vi også undersøge, om det virmåder, leder og kanter er det her et ganske forkelig skulle være nødvendigt ifølge lovforslanuftigt forslag.
+gets § 10, stk. 5, at man skal kunne komme ind
+Det havde også bred opbakning i Folketinget,
+på private virksomheder uden retskendelse. For
+da vi senest behandlede det. Venstre kan støtte
+os er det svært at se, at det skulle være nødvenlovforslaget.
+digt at gribe ind uden retskendelse. Hvorfor
+
+ninger vil tage længere tid end beregnet. Det er
+derfor, vi fremsætter forslaget om at forlænge revisionsbestemmelsen, så en indholdsmæssig revision af loven vil kunne fremsættes senest i folketingsåret 2010-11.";Lars Christian Lilleholt
+60075;Time;;Kl. 10:58
+60087;title_name;"Tak til kulturministeren.
+Der .er ikke flere, der har bedt om ordet, og
+forhandlingen er sluttet.
+
+262
+
+Torsdag den 6. december 2007 (L 20)
+
+skulle det ikke være nødvendigt, at man lige
+vender det med en dommer, inden man får lov
+til at gribe ind på en privat virksomhed? Det vil
+vi i hvert fald gerne have en afklaring af.
+Endelig er det vigtigt for os, når man laver sådan nogle foranstaltninger, at man først og fremmest forsøger at lave aftaler med de private aktører, med brancheforeningerne rundtomkring i
+Danmark og Europa. Det ved jeg også fremgår
+af bemærkningerne til lovforslaget. Men jeg savner, at det direkte i lovteksten indskrives, at det
+pålægges klima- og energiministeren at arbejde
+for sådanne brancheaftaler, ligesom man i øvrigt
+kender det fra en del forbrugerlovgivning, herunder de private klagenævn og deslige. Vi har
+altså en række kritiske bemærkninger og
+spørgsmål til den måde, som lovforslaget er
+bygget op på, men vi kan godt støtte intentionerne bag lovforslaget.";Formanden
+61093;Time;;Kl. 11:03
+61105;title_name;"Den næste i ordførerrækken bliver så fru Mette
+Gjerskov.";Formanden
+61171;Time;(Ordfører);Kl. 11:03
+61201;name_party;":
+Som ny klima- og energiordfører for Socialdemokraterne vil jeg gerne starte med sige velkommen til den nye minister. Jeg glæder mig til
+samarbejdet, og vi har masser at samarbejde om.
+Vi vil i hvert fald starte med at sige, at vi gerne
+vil samarbejde om det her lovforslag.
+Det er jo en gennemførelse af et direktiv. Vi
+synes, det er meget positivt, at der på den her
+måde kommer lovgivning i EU om at begrænse
+energiforbruget i energiforbrugende produkter.
+Vi var faktisk parate til at gå væsentlig længere,
+end tilfældet er med de minimumsregler, der
+ligger her. Feks. har vi stillet en lang række forslag på energiområdet, men når vi decideret taler om energiforbrugende produkter, kunne vi jo
+godt tænke os, at man for alle husholdningsartikler fik en mærkningsordning ligesom den, vi
+kender på køleskabe, frysere, vaskemaskiner,
+altså på hårde hvidevarer. Der har vi en energimærkningsordning fra A til G, eller hvad der efterhånden er, hvor den enkelte forbruger selv
+kan sige: O.k., med det her produkt er jeg en klimahelt, eller med det her produkt er jeg et klimasvin. Men forbrugeren bestemmer selv. I dag
+er det sådan, at når man køber et tv eller en
+brødrister, for den sags skyld, aner man ikke,
+om man er en klimahelt eller et klimasvin, og
+det er faktisk ret surt.
+
+Samtidig ved vi også, at den slags ordninger
+er et incitament til, at virksomhederne virkelig
+gør noget i deres forskning og udvikling for at
+lave nogle mere energibesparende produkter.
+Når det er sagt, at vi gerne var gået meget
+længere, vil jeg også sige, at det her forslag er et
+godt skridt på vejen. Der er listet 30 produkter,
+som man vil starte med, herunder tv og standbyforbrug, noget, som jeg tror de fleste danskere
+er klar over er et problem. Det vil man altså kigge på, og der vil man gå ind og stille nogle krav.
+Det synes vi er meget, meget positivt.
+Vi vil selvfølgelig stille et par spørgsmål undervejs. Der er nogle ting, vi har brug for at få
+uddybet, men vi er meget positive over for det
+her lovforslag.";Mette Gjerskov
+63218;Time;;Kl. 11:06
+63230;title_name;"Ja tak. Den næste i ordførerrækken er fru Malou
+Aamund.";Formanden
+63295;Time;(Ordfører);Kl. 11:06
+63324;name_party;":
+Den Ny Alliances ordfører, fru Gitte Seeberg,
+ikke har mulighed for at være til stede i salen i
+dag, skal jeg på vores ordførers vegne tilkendegive Ny Alliances holdning til lovforslaget.
+Vi er i Ny Alliance grundlæggende positive
+over for lovforslaget, der har til formål at begrænse energiforbruget ved at stille krav til design og energiforbrugende produkter. Der er behov for alle tiltag - store som små - for at begrænse energiforbruget, og vi vil derfor se positivt på forslaget under udvalgsbehandlingen.";Malou Aamund
+63847;Time;;Kl. 11:06
+63859;title_name;"Ja tak. Der er ikke flere ordførere, der ønsker at
+udtale sig. Så er det klima- og energiministeren.";Formanden
+63969;Time;"Klima- og energiministeren (Connie Hedegaard):
+Allerførst vil jeg sige tak for alle de positive bemærkninger. Det her er jo et lovforslag, der skaber rammer for, at der kommer mere energieffektive produkter på markedet, og det ville ærlig talt også have undret mig, hvis det ikke var
+noget, vi kunne enes om. Det her er jo faktisk et
+af de vigtige instrumenter til at få øget fokus,
+ikke bare i Danmark, det har vi sådan set haft et
+stykke tid, men også på europæisk plan på både
+energieffektiviseringer og energibesparelser.
+Fru Mette Gjerskov har allerede nævnt et af
+eksemplerne på, hvad det konkrete indhold er.
+Det er jo altså f.eks. det her med standbyforbru-
+
+Torsdag den 6. december 2007 (L 27)
+get, hvor vi ville kunne fastsætte minimumsnormer for, hvor energieffektive standbyfunktionerne skal være, og jeg tror, at vi alle sammen kender eksempler på, at der kan være en helt enorm
+forskel fra produkt til produkt på, hvad standbyforbruget er, og det er jo i hvert fald noget
+energi, vi bruger på en meningsløs måde. Eksperternes mening er, at det faktisk sluger op til
+10 pet. af den elektricitet, som bruges af husholdningerne.
+I dag er der ingen regler for, hvor meget elapparater, som står på standby, må forbruge, selv
+om det teknisk set er muligt at fremstille energieffektive standbyenheder.
+Det er altså et eksempel på, hvad det her lovforslag kan bruges til. Det vil gøre det meget lettere at nedbringe standbyforbruget, fordi vi nu
+sammen med de øvrige EU-lande kan forbyde
+salg af apparater, som ikke opfylder fælles EUkrav til standbyforbrug.
+Et andet eksempel er: Med lovforslaget vil det
+være muligt at gennemføre fælles EU-krav til
+vores energieffektivitet. Vi ved alle sammen, at
+der stort set ikke er en bygning, hvor der ikke
+anvendes pumper. Vi har ikke set Kommissionens udkast til fremtidige krav til lige præcis
+pumpers energieffektivitet endnu, men det er
+altså bare igen et eksempel på, at man altså qua
+det her lovforslag kan få de dårligste produkter,
+de mest energiforbrugende produkter inden for
+den her kategori presset ud af markedet.
+Når reglerne træder i kraft, vil Danmark generelt opnå et lavere elforbrug, og jeg mener altså, at vi også har givet industrien en virkelig god
+mulighed for at have optimal fokus på, hvordan
+de sammensætter deres produkter, og hvordan
+de udvikler deres produkter.
+Så jeg er meget glad for den brede opbakning.
+Til hr. Morten Messerschmidt vil jeg sige, at jeg
+er villig til at gå i dialog om nogle af de ting, han
+påpeger, i forbindelse med udvalgsarbejdet,
+men generelt er det her jo et af værktøjerne til at
+energieffektivisere og til at høste energibesparelser.
+Til sidst vil jeg også bare sige tak til fru Mette
+Gjerskov for de pæne bemærkninger. Jeg kan sige, at forvenhlingerne til et godt samarbejde er
+gensidige.";Kl. 11:07
+66776;Time;;Kl. 11:09
+66788;title_name;"Tak til ministeren.
+Der er ikke flere, der har bedt om ordet. Forhandlingen er sluttet.
+
+263
+
+Jeg foreslår, at lovforslaget henvises til Det Energipolitiske Udvalg. Hvis ingen gør indsigelse,
+betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+7) 1. behandling af lovforslag nr. L 27:
+Forslag til lov om medie- og journalisthøjskolen.
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).";Formanden
+67239;Time;Forhandling;Kl. 11:09
+67263;title_name;Forhandlingen er åbnet, og det er fru Anne-Mette Winther Christiansen som ordfører.;Formanden
+67356;Time;(Ordfører);Kl. 11:10
+67403;name_party;":
+Det her er et lovforslag, som Venstre støtter, det
+kan nok ikke komme bag på så mange.
+Lovforslaget er fremsat som et led i den aftale, som regeringen indgik med Dansk Folkeparti, Socialdemokratiet og Det Radikale Venstre
+den 2. marts 2007. Og det er jo så en aftale om
+professionshøj skoler og videregående uddannelser.
+Der er ingen tvivl om, at sammenlægningen
+af Danmarks Journalisthøjskole og Den Grafiske
+Højskole er en sammenlægning, som de selv har
+ønsket. Og den vil jo medføre, at vi her får en
+stærk og dynamisk medie- og journalisthøjskole
+med nogle kernekompetencer på mediearbejdsmarkedet, som er efterspurgte, og som de også
+selv har efterspurgt at få samlet. Så vi får nu én
+skole, hvor alle kompetencerne, som efterspørges i medieverdenen, vil blive samlet under ét,
+og derfor vil det også blive mere overskueligt
+for alle.
+Derfor vil jeg naturligvis sige: Venstre har
+deltaget i forhandlingerne, og derfor er Venstre
+også klar til at bakke op om lovforslaget, som
+det ligger.";Anne-Mette Winther Christiansen
+68407;Time;;Kl. 11:11
+68419;title_name;"Tak til ordføreren. Den næste i rækken bliver så
+hr. Martin Henriksen som ordfører.
+
+264
+
+Torsdag den 6. december 2007 (L 27)";Formanden
+68556;Time;(Ordfører);Kl. 11:11
+68589;name_party;":
+Jeg var lidt bange for, at jeg var blevet socialdemokrat. Det er heldigvis ikke sket.
+Nå, regeringen, Dansk Folkeparti, Socialdemokratiet og Det Radikale Venstre har en aftale
+om at oprette professionshøjskoler for videregående uddannelser som en del af forliget bag globaliseringspuljen. Og i forbindelse med udmøntningen af globaliseringspuljen blev det aftalt, at Danmarks Journalisthøjskole og Den Grafiske Højskole ikke skal indgå i en professionshøjskole. Det sker, fordi de to højskoler forud for
+processen om etablering af professionshøjskoler
+begge havde ytret ønske om at sammenlægge
+institutionerne, og det ønske imødekommer vi
+så.
+Lovforslaget fastsætter den nye institutions
+mål, herunder antallet af bestyrelsesmedlemmer
+og muligheden for at nedsætte uddannelsesudvalg, studieråd osv., som man også kender det i
+dag. Den overordnede idé er at samle de kompetencer, som medieverdenen efterlyser. Den nye
+sammenlagte institution vil adskille sig fra professionshøjskolernè, da denne institution skal
+dække hele landet og også skal drive selvstændig forskning til forskel fra professionshøjskolerne. Høringssvarene er positive stort set hele
+vejen rundt, så vi støtter lovforslaget.";Martin Henriksen
+69794;Time;;Kl. 11:12
+69806;title_name;"Tak for det. Den næste ordfører bliver fru Hanne
+Agersnap.";Formanden
+69874;Time;(Ordfører);Kl. 11:12
+69905;name_party;":
+Lovforslaget følger jo ideerne i det forslag, vi behandler næste gang, nemlig lovforslag nr. L 25,
+og der vil jeg gå mere ind i, hvad vi mener om
+det. Forslaget er jo en udløber af den aftale, vi
+ikke var en del af, om globaliseringspuljen. Men
+høringssvarene er jo overvejende positive, og
+ideerne er gode, så vi støtter forslaget.";Hanne Agersnap
+70249;Time;;Kl. 11:13
+70261;title_name;"Tak for det. Den næste ordfører er hr. Henrik
+Rasmussen.";Formanden
+70327;Time;(Ordfører);Kl. 11:13
+70360;name_party;":
+Den konservative gruppe bakker op om, at Den
+Grafiske Højskole og Danmarks Journalisthøjskole efter overgangen til selveje sammenlægges
+
+til en selvejende institution inden for den offentlige forvaltning. Formålet med dette lovforslag
+er at få samlet kernekompetencer, sådan som
+mediearbejdsmarkedet efterspørger det i dag, så
+der er en samlet kompetence inden for uddannelses- og videncenteret.
+Visionen for denne nye institution er, at den
+skal være udviklende for en landsdækkende
+medieuddannelse og være videncenter med
+praksisorienteret undervisning. Altså skal institutionen varetage udviklings- og forskningsopgaver inden for de nævnte uddannelsesområder. Det vil sige, at den nye institution skal forsyne mediebranchen med den nyeste viden inden for alle aspekter af mediekommunikation
+og -produktion, hvilket for os Konservative at se
+giver et væsentligt løft af uddannelsen. Derfor
+bakker De Konservative op om dette lovforslag.";Henrik Rasmussen
+71310;Time;;Kl. 11:14
+71322;title_name;Tak til hr. Henrik Rasmussen. Den næste i ordførerrækken bliver fru Malou Aamund.;Formanden
+71413;Time;(Ordfører);Kl. 11:14
+71442;name_party;":
+Ny Alliance støtter forslaget om den nye medieog journalisthøjskole: vi synes, at det er fornuftigt at samle de kompetencer, mediemarkedet
+efterspørger, ét sted.
+I Ny Alliance er vi meget optaget af at rive
+murene ned mellem de forskellige uddannelsesinstitutioner, så for os er det særlig vigtigt, at
+den nye skole lever op til kravet om at samarbejde med professionshøjskoler, universiteter og
+forskningsmiljøer. Men vi støtter lovforslaget og
+vil se positivt på det under udvalgsarbejdet.";Malou Aamund
+71945;Time;;Kl. 11:15
+71957;title_name;Den næste ordfører er fru Johanne SchmidtNielsen.;Formanden
+72016;Time;(Ordfører);Kl. 11:15
+72056;name_party;":
+Enhedslisten har brug for at få afklaret nogle
+forskellige spørgsmål, før vi kan tage endelig
+stilling til lovforslag nr. L 27. Umiddelbart synes
+vi, at det giver god mening at fusionere de to
+uddannelsesinstitutioner til en. Fagligt vil det
+f.eks. kunne give en synergieffekt, der bedre kan
+matche den medieverden, vi har i dag.
+Samtidig kommer det jo nok ikke som en
+overraskelse for nogen, at Enhedslisten ønsker
+så meget demokrati på uddannelsesområdet
+som overhovedet mulig, og det gælder selvføl-
+
+(34)
+Torsdag den 6. december 2007 (L 27)
+gelig også for den kommende medie- og journalisthøjskole. Derfor er der nogle spørgsmål om
+de studerendes og de ansattes muligheder for
+indflydelse, som vi er nødt til at få afklaret, inden vi kan give vores endelige tilsagn til fusionen.
+Også spørgsmålet om ministerens udpegning
+af bestyrelsesformanden kræver nogle uddybende svar. Ifølge ministeriets bemærkninger til
+netop det spørgsmål i høringssvarene vælger ,
+man tilsyneladende at lade det være op til ministeren at udpege formanden. I høringssvaret fra
+bl.a. HK Danmark bliver det ellers foreslået, at
+formanden vælges blandt de øvrige bestyrelsesmedlemmer, mens Danske Mediers Forum foreslår, at det bliver ministeren, der udpeger formanden efter at have hørt de øvrige bestyrelsesmedlemmer. At ministeriet så vælger at koble
+det sammen med en direkte udpegning fra ministerens side uden høring af den øvrige bestyrelse, finder vi'selvfølgelig lidt mærkeligt. Vi mener, at bestyrelsen i høj grad skal have indflydelse på, hvem der skal være formand eller -kvinde.";Johanne Schmidt-Nielsen
+73637;Time;;Kl. 11:16
+73649;title_name;Tak til ordføreren. Så er det fru Christine Antorini.;Formanden
+73712;Time;(Ordfører);Kl. 11:17
+73746;name_party;":
+Jeg skal give tilslutning både fra De Radikale og
+fra Socialdemokraterne til forslaget om en fælles
+medie- og journalisthøjskole. Det jo ikke nogen
+hemmelighed, at der har været en del diskussion om det undervejs i processen, men at man
+er endt på en model, som alle parter i miljøerne
+inden for både det grafiske og det journalistiske
+område er enige i, nemlig den sammenlægning
+som en selvejende institution, som en professionshøjskole, der er lagt op til i lovforslaget her.
+Jeg skal kun gøre en enkelt bemærkning til
+det her lovforslag og til de øvrige om professionsbacheloruddannelserne, som vi kommer til
+at diskutere, nemlig at det er ærgerligt, at der er
+en ressortopdeling imellem Undervisningsministeriet og Videnskabsministeriet, der betyder, at
+hver gang vi diskuterer professionsbacheloruddannelserne, så er universiteterne på en eller anden mærkelig måde fraværende, på trods af at
+hele ideen med at lave professionsbacheloruddannelserne er, at der skal være et tæt samspil
+med forskning. Det vil gælde det her, og det vil
+også gælde det lovforslag, som vi skal diskutere
+
+265
+
+om lidt. Men sådan som forslaget ligger her,
+støtter både S og R det.";Christine Antorini
+74920;Time;;Kl. 11:18
+74932;title_name;Tak for det. Undervisningsministeren.;Formanden
+74979;Time;;Kl. 11:18
+75020;title_name;":
+Jeg vil gerne takke ordførerne for den meget brede opbakning, der er til forslaget. Tak til dem,
+der har været med til at udforme det, og tak til
+fru Hanne Agersnap fra SF, som tilsyneladende
+synes, at vi har gjort det nogenlunde, således at
+også SF kan tilslutte sig. Jeg glæder mig til at besvare spørgsmål fra Enhedslisten, fra fru Johanne Schmidt-Nielsen. Jeg håber, at jeg kan svare
+så tilfredsstillende, at også Enhedslisten kan tilslutte sig.
+Meget afgørende for sagen er det jo, at bestyrelserne for de to institutioner den 12. oktober i
+år har søgt om godkendelse af en sådan sammenlægning. Den skal have virkning fra den
+1. januar 2008, og i gældende lov er der en mulighed for, at ministeriet kan godkende en sådan
+sammenlægning, og derefter vil det lovforslag,
+vi behandler, være lovgrundlaget for uddannelserne.
+Jeg vil gerne berolige fru Christine Antorini
+med, at der er et samarbejde med universiteterne allerede, og det samarbejde vil selvfølgelig
+fortsætte. Jeg tror, at det vil blive styrket af, at
+denne nye medie- og journalisthøjskole vil kunne samarbejde ud fra en endnu stærkere position inden for det område, hvor den er landsdækkende. Så derfor er jeg ikke bekymret for,
+om det samarbejde vil komme op at stå - eller
+rettere sagt, jeg er ikke bekymret for, om det vil
+fortsætte, jeg er sikker på, at det vil fortsætte.
+Det vil i øvrigt også fremmes af, at der jo bliver én bestyrelse og en enstrenget ledelse, som
+bliver højskolens øverste myndighed. Den bestyrelse skal afspejle højskolens samlede profil
+og opgaver, og medlemmerne skal tilsammen
+have de kompetencer, som er relevante for højskolens profil, sådan at der bliver tale om en
+ægte fusion, hvor begge parter føler, at de har
+ejerskab til den nye medie- og journalisthøjskole.
+Jeg takker ordførerne for den brede opbakning.";Bertel Haarder
+76843;Time;;Kl. 11:20
+76855;title_name;"Tak til undervisningsministeren.
+Der er ikke flere, der har bedt om ordet. Forhandlingen er afsluttet.
+
+266
+
+Torsdag den 6. december 2007 (L 25)
+
+Jeg foreslår, at forslaget henvises til Uddannelsesudvalget. Hvis ingen gør indsigelse, er det
+vedtaget.
+Det er vedtaget.
+
+tigt, at vi får de studerende ud, og at de får mulighed for at stifte bekendtskab med det erhverv,
+som de skal være en del af, lige så snart de har
+afsluttet deres uddannelse.
+Det er som sagt en nyskabelse, det er meget
+spændende at få lov til at være ordfører på sådan et lovforslag, og Venstre bakker fuldt op om
+det.";Formanden
+77454;Time;Det næste punkt på dagsordenen er:;Kl. 11:23
+77501;title_name;"8) 1. behandling af lovforslag nr. L 25:
+Tak til ordføreren. Og den næste i rækken er fru
+Forslag til lov om erhvervsakademiuddannelChristine Antorini.";Formanden
+77662;Time;"set og professionsbacheloruddannelser.
+Af undervisningsministeren (Bertel Haarder).
+(Ordfører)
+(Fremsættelse 28.11.2007).";Kl. 11:23
+77807;name_party;":
+Dette lovforslag er den del af et stort og samlet";Christine Antorini
+77868;Time;"lovkompleks, som vi har en meget bred politisk
+Forhandling
+aftale om, som dels kigger på indholdet af erhvervsakademiuddannelserne, dels på indholFormanden:
+det af professionsbacheloruddannelserne. Jeg
+Forhandlingen er åbnet, og det er først fru
+skal lige sige her, at det også er på vegne af Det
+Anne-Mette Winther Christiansen.
+Radikale Venstre, at jeg står her på talerstolen,";Kl. 11:20
+78258;Time;"og at både S og R støtter lovforslaget.
+(Ordfører)
+Men det er jo noget, vi har haft diskuteret";Kl. 11:21
+78389;name_party;":
+længe, og jeg synes, det er vigtigt at sætte et par
+I Venstre ser vi meget positivt på dette lovforord på om, hvad det egentlig er, vi har lavet omslag, for for at fastholde, at de danske uddannel- ridset af i forhold til det danske uddannelsesbilser er af højeste kvalitet, er det meget vigtigt, at
+lede.
+de korte og mellemlange videregående uddanHele det her lovkompleks, som både vedrører
+nelser samlet udgør en attraktiv vifte af uddanetablering af i første omgang otte professionsnelsestilbud. Det er lavet med netop dette lovhøjskoler, der så ender med at blive til syv proforslag.
+fessionshøjskoler, en lov, der er på vej med henMed dette lovforslag vil der blive etableret et
+syn til at etablere erhvervsakademier, og nu indmeget mere sammenhængende uddannelsesfor- holdsdelen på de her uddannelser, vil betyde, at
+løb inden for de korte videregående og mellemder kommer et langt klarere billede for de unge,
+lange videregående uddannelser. Etableringen
+når de har gennemført deres ungdomsuddanaf autoriserede overgangsmuligheder mellem
+nelse, af, hvad det er for nogle typer videregåenprofessionsbacheloruddannelserne og erhvervs- de uddannelser, der er. Det betyder, at man kan
+akademiuddannelserne er en nyskabelse, som
+vælge nogle meget praksisorienterede korte vivil medføre meget større fleksibilitet.
+deregående uddannelser som erhvervsakademiVi lever i dag i en meget globaliseret verden,
+uddannelserne, hvor noget af det nye, der komog vi oplever, at konkurrencen bliver større og
+mer ind her, er, at der er en obligatorisk praktik,
+uanset hvilken man vælger, for hele ideen med
+større dag for dag, og derfor mener vi også, at
+det er en stor styrkelse af uddannelsernes interdet er, at det giver den umiddelbare videregåennationalisering, at det bliver pålagt institutiode overbygningsuddannelse i et tæt samarbejde,
+nerne, at de tilrettelægger uddannelserne sådan,
+typisk med det lokale erhvervsliv der er, om
+at det bliver muligt for de studerende at tage
+nogle meget nyttige, praksisnære uddannelser.
+dele af deres uddannelse i udlandet. Det bliver
+Så man kan vælge erhvervsakademivejen, elet stort plus for de danske institutioner, og de vil ler man kan vælge professionsbachelorvejen,
+få mulighed for at udbyde uddannelser i udlanhvor det igen er det praksisnære inden for hele
+det som paralleller og som fællesuddannelser.
+den store vifte af uddannelser, som er kerneopTil slut har vi også en positiv indgang, med
+gave for den danske måde, vi har valgt at udvikhensyn til at vi synes, det er godt, at der indføres le vores velfærdssamfund på: det er uddannelobligatorisk praktik i uddannelserne. Det er vig- ser til sygeplejerske, til lærer, til pædagog og
+
+Torsdag den 6. december 2007 (L 25)
+som noget af det nye også udvikling af en række
+nye teknisk-merkantile bacheloruddannelser,
+som igen betyder, at der hele tiden er samspil
+med praksis ude i den virkelige verden, hvor det
+er fagene, der er i højsædet, men - og det er jo
+det, der bliver styrket med lovforslaget - med et
+tæt samspil med universiteterne og videncentrene, sådan at den nyeste forskning bliver en del
+af den løbende udvikling af både uddannelserne
+og i forbindelse med efter- og videreuddannelse.
+Og det betyder, at man har billedet erhvervsakademiuddannelserne, professionsbachelorvejen
+og universitets vej en som tre ligeværdige uddannelser, så man bliver bygget op med den systematik, at man hele tiden har muligheden for at
+bygge videre, hvis man på et tidspunkt, når man
+har været ude på arbejdsmarkedet, skulle have
+lyst til at bygge ovenpå og få en længere videregående uddannelse.
+Noget af det, der også er styrken ved den her
+indholdsmodel, er, at det betyder, at det er lettere for unge mennesker, hvis man ønsker at tage
+en del af uddannelsen i udlandet, fordi det klart
+er beskrevet, hvad det er for nogle kompetencer,
+man får med sig i uddannelsen. Vi har behov for,
+at langt flere unge danskere synes, det er attraktivt at tage dele at deres uddannelser andre steder end i Danmark, for det er det internationale
+uddannelsesmarked og den erfaring, det giver,
+som er fantastisk vigtigt for, at vi hele tiden er i
+front med den måde, vi udvikler vores professioner og fag på, når det er, at man er ude på arbejdsmarkedet.
+Vi er meget optagede af, at den her klare opdeling mellem, kan man sige, akademiuddannelser, bacheloruddannelser og universitetsuddannelser ikke skal bruges til, at man så tænker,
+at man, i stedet for at man har en rigtig god
+sundhedsuddannelse som en professionsbacheloruddannelse, måske alligevel skulle lave den
+som en halv sundhedsuddannelse. Hele ideen
+for os i den klarhed, der kommer i uddannelsesbilledet, er, at man kan bygge ovenpå: at man
+kan få mere uddannelse, som kvalificerer til
+nogle udvidede arbejdsopgaver ude på arbejdsmarkedet.
+Jeg nævner det her, fordi vi har haft en drøftelse i forligskredsen om, om man kunne forstå
+nogle af de tiltag sådan, at man i virkeligheden
+lavede halve bacheloruddannelser, i stedet for at
+man gav muligheden for at bygge ovenpå. Og
+jeg tror, der er klarhed i forligskredsen om, at
+ideen er, at man bygger ovenpå, og ikke, at man,
+kan man sige, skal reducere nogle af de eksiste-
+
+267
+
+rende bacheloruddannelser, for vi kan ikke se, at
+visionen skal være, at man enten har halve læreruddannelser, pædagoguddannelser eller sygeplejerskeuddannelser. Men jeg håber, at undervisningsministeren kan bekræfte, at ideen
+præcis er det modsatte, nemlig at man bygger
+ovenpå.
+Konsekvensen af det her er, at man også samler de to råd, der har været for akademiuddannelserne og for MVU-uddannelserne, til ét nyt,
+samlet råd. Det er meget vigtigt.
+Men her må jeg sige, som jeg sagde i forhold
+til lovforslaget, vi drøftede før, at problemet ved
+den ressortopdeling, der er i forbindelse med, at
+Undervisningsministeriet varetager uddannelser til og med professionsbachelorniveau, og at
+de lange videregående uddannelser ligger i Videnskabsministeriet, desværre igen viser sig her.
+For det betyder igen, at vi så har et råd, der kigger på to af de tre uddannelsesveje, der er, i stedet for at vi jo i virkeligheden skulle have det
+samlede blik på, hvordan vi sikrer os, at der er
+sammenhæng. For vi ved jo godt, at der på trods
+af det her lovforslag er barrierer for de unge,
+hvis det er, at de ønsker at skifte uddannelse undervejs, om de nu får de kompetencer med, om
+det bliver godkendt på rette vis, og der ville det
+være enormt hensigtsmæssigt, hvis man stoppede med den der underlige opdeling. Jeg ved ikke, hvorfor de borgerlige har valgt at lave den
+opdeling, men jeg vil sige en gang for alle, at videregående uddannelser skal samles i ét regi, så
+vi er sikre på, at vi får den sammenhæng og proportion i uddannelsessystemet, som er så afgørende for de kompetencer, man skal have i vidensamfundet.";Anne-Mette Winther Christiansen
+85174;Time;;Kl. 11:27
+85186;title_name;"Tak til ordføreren. Og den næste ordfører er hr.
+Martin Henriksen.";Formanden
+85262;Time;(Ordfører);Kl. 11:27
+85295;name_party;":
+Med globaliseringspuljen og forliget bag den
+oprettes der en række nye uddannelsesinstitutioner, herunder bl.a. professionshøjskoler og erhvervsakademier. Loven om professionshøjsko-.
+ler er vedtaget, og loven om erhvervsakademier
+er på vej.
+Denne lov er en indholdslov, der mere præcist stiller krav til uddannelsernes struktur. H07""
+vedelementerne er, at erhvervsakademiuddannede får mulighed for at videreuddanne sig til
+professionsbachelorniveau gennem overbyg-
+
+268
+
+Torsdag den 6. december 2007 (L 25)
+
+ningsuddannelser. Det synes vi er ganske fornuftigt. Der skabes mulighed for at udbyde professionsbacheloruddannelser, hvor de studerende, der måtte ønske det, får mulighed for at afslutte forløbet tidligere med en erhvervsakademiuddannelse. Dog kan ingen af de nuværende
+professionsbacheloruddannelser udbydes med
+halve forløb, det forløb berører f.eks. læreruddannelsen, som har sin egen selvstændige lov og
+er en del af et forlig, og der har Dansk Folkeparti
+bl.a. vetoret, såfremt det skal ændres i fremtiden
+- vi skal jo ikke have halve lærere ud i folkeskolen. Men det er der altså taget højde for, og det
+er sådan set udmærket.
+Det er vigtigt at understrege, at Danmark
+med denne lov bevarer sit særlige uddannelsessystem. I andre lande har man typisk ikke erhvervsakademiuddannelser, altså uddannelser
+på ca. 2 år, men vi får altså nogle institutioner,
+der primært skal tage sig af erhvervsakademiuddannelsen, og dermed kan man sige, at den
+danske uddannelsesstruktur heldigvis er sikret
+et par år frem i tiden, og det er jo ganske udmærket. Det er jo også noget, som Dansk Industri og LO har ønsket, og vi synes, det er fint, når
+de her foreninger og organisationer, som altid
+taler om det globale, lader fornuften råde en
+gang imellem og bevarer de særlige kendetegn
+ved det danske uddannelsessystem. Det har de
+syntes var en god idé, og det er vi glade for at de
+også har gjort.
+Så er det sådan, at uddannelserne skal godkendes af et akkrediteringsråd og i sidste ende
+af ministeren. Det synes vi også er ganske fornuftigt, og det har også noget med det lovforslag, som vi behandler efter det her lovforslag,
+at gøre.
+Så indføres der obligatorisk praktik i erhvervsakademiuddannelserne for at sikre en
+bedre kontakt til erhvervslivet. Det er noget,
+som vi før fra Dansk Folkepartis side har argumenteret for, og det er selvfølgelig også en ganske god ting.
+Så er der, som fru Christine Antorini rigtigt
+var inde på, en del om øget internationalisering,
+hvor det bl.a. bliver lettere for den enkelte studerende at tage studieophold i udlandet. Det synes vi også kan være fornuftigt, så længe det er
+en del af uddannelsen og ikke hele uddannelsen, der kan tages i udlandet. Enkelte uddannelser kan tilrettelægges sådan, at den studerende
+bliver nødt til at tage noget af uddannelsen i udlandet. En sådan uddannelse, som kaldes en fællesuddannelse, må dog ikke erstatte en dansk
+
+uddannelse. Det er også ganske klart skrevet
+ned i lovforslaget, og vi har også et pænt brev
+fra ministeren, der bekræfter os i det, så det vil
+vi altid kunne hænge ministeren op på, hvis det
+skulle være.
+På universitetsområdet kan man allerede i
+dag lave disse fællesuddannelser. Der har før
+været én fællesuddannelse på universitetsområdet. I dag er der ingen, så man kan ikke sige, at
+interessen er stor. Der vil dog nok komme et par
+stykker. Men vi har altså fået skrevet ind i loven,
+at de ikke må erstatte danske uddannelser.
+Vi håber, at den nye og mere fleksible struktur vil medvirke til, at flere unge går i gang, og
+at flere unge gennemfører en uddannelse og
+dermed bidrager til Folketingets uddannelsespolitiske målsætninger, også de målsætninger,
+som er skrevet ned i velfærdsaftalen.
+Der er mange andre ting, som vi fra Dansk
+Folkepartis side gerne vil diskutere, bl.a. forholdet mellem erhvervsakademierne og professionshøjskolerne, her tænker jeg bl.a. på udbudsretten til professionsbacheloruddannelsen,
+som bliver frataget erhvervsakademierne efter
+2015. Men den diskussion kan vi måske gemme
+til, når vi formelt opretter erhvervsakademierne.
+Vi støtter lovforslaget, og hvad angår de konkrete elementer, har vi med tilfredshed noteret
+os, at Dansk Folkepartis synspunkter er let genkendelige.
+Så har vi også noteret os, at lovforslaget tilsyneladende er udtaget til noget, der hedder en ligestillingsvurdering, i Undervisningsministeriet, og i den her ligestillingsvurdering er man så
+nået frem til, at vi godt nok har et kønsopdelt
+uddannelsessystem, men den her ligestillingsvurdering består stadig væk. Det synes jeg er
+meget betryggende, så derfor kan vi selvfølgelig
+også støtte forslaget ud fra det.";Martin Henriksen
+89929;Time;;Kl. 11:31
+89941;title_name;"Tak til hr. Martin Henriksen. Næste ordfører er
+fru Hanne Agersnap.";Formanden
+90018;Time;(Ordfører);Kl. 11:31
+90049;name_party;":
+Det her forslag er jo en udløber af den der globaliseringspulje. Det forlig har SF ikke været med
+i, så vi har ikke været med i diskussionerne om
+det her lovforslag. Det ændrer ikke ved, at vi
+faktisk stiller os overvejende positivt over for
+forslaget. Men vi ser frem til behandlingen i udvalget, hvor vi håber at kunne komme med vores kommentarer.
+
+Torsdag den 6. december 2007 (L 25)
+Det, vi lægger vægt på, er jo, at lovforslaget
+sikrer en sammenhæng i uddannelsesniveauerne og letter overgangene fra det ene niveau til
+det andet. Det mener vi kan gøre alternativet for
+dem, der ellers vil falde fra f.eks. professionsbacheloruddannelserne, langt bedre, altså at de så
+har en afrundet uddannelse, der er erhvervsrettet. Og muligheden for senere at tage tråden op
+er jo så en af de positive dele af det her forslag.
+Så lægger vi vægt på mulighederne for en international uddannelse, som de enkelte uddannelsessteder kan tilrettelægge, også at uddannelserne som helhed bliver lettere at sammenligne
+med lignende internationale uddannelser. Som
+jeg har læst lovforslagets bemærkninger, synes
+jeg dog ikke, at den her del er særlig udrullet i
+bemærkningerne, så jeg glæder mig til at få
+mere kendskab til, hvad det indebærer. Jeg synes også, at der er nogle høringssvar i den her
+forbindelse omkring »skal«- og »må«- og »kan«formuleringer, som jeg glæder mig til at få behandlet.
+Vi synes, det er meget vigtigt og fint, at uddannelserne akkrediteres, men der har vi så
+også noteret os, at undervisningsministerens rolle i forhold til Akkrediteringsrådets rolle er lidt
+uklar, og at det - som jeg har forstået høringssvarene - er en anden fordeling, end der er for
+de videregående uddannelser, af Akkrediteringsrådets og ministerens rolle.
+Så er der spørgsmålet om fusionerne eller det,
+at der i kapitel 3 A, § 15, anføres som en betingelse for godkendelse af akademier, at de gennemgår den her fusion. Det er, som om der er
+nogle muligheder for undtagelse, men en generel erfaring, jeg i hvert fald har gjort, er, at sådan
+en fusion, der bliver presset ned i halsen på skolerne, ikke er af det gode. Så jeg kunne godt tænke mig mere at få behandlet, hvordan skolerne
+stiller sig, og hvordan de der undtagelsesbetingelser forventes brugt for de her fusioner. Måske
+kunne man i højere udstrækning bruge nogle
+partnerskabsaftaler, hvilket der også åbnes mulighed for.
+Men vi stiller os altså overvejende positivt til
+forslaget, og vi ser frem til udvalgsbehandlingen.";Hanne Agersnap
+92526;Time;;Kl. 11:34
+92538;title_name;"Tak til ordføreren. Næste ordfører er hr. Henrik
+Rasmussen.
+
+269";Formanden
+92613;Time;(Ordfører);Kl. 11:34
+92646;name_party;":
+Jeg mener, det er vigtigt, at erhvervsakademiuddannelserne, altså de korte videregående uddannelser, og professionsbacheloruddannelserne, de mellemlange videregående uddannelser,
+er selvstændige uddannelser med et direkte erhvervssigte. Men det er samtidig målsætningen,
+at der skal skabes videre uddannelsesmuligheder gennem videreuddannelsessystemet for
+voksne, så det er muligt at få en kandidatoverbygning oven på den uddannelse, som man har.
+Som jeg har kunnet læse af høringssvarene, er
+dette forslag generelt blevet modtaget ganske
+positivt, ja, det er endda blevet kaldt fremsynet
+og nyskabende, hvilket vi Konservative naturligvis er meget glade for. Netop for at sikre det
+direkte erhvervssigte mener jeg, at forslaget om
+obligatorisk praktik i uddannelserne er ganske
+godt, men vi skal naturligvis følge op på, om der
+så også er praktikpladser nok.
+Med hensyn til afstigningsmodellen er hovedmodellen, at den enkelte elev gennem vejledning rammer den rigtige uddannelse første
+gang.
+Den konservative gruppe bakker op om dette
+lovforslag.";Henrik Rasmussen
+93706;Time;;Kl. 11:36
+93718;title_name;Tak til ordføreren. Så er det fru Malou Aamund.;Formanden
+93775;Time;(Ordfører);Kl. 11:36
+93804;name_party;":
+Ny Alliance støtter lov om erhvervsakademiuddannelser og professionsbacheloruddannelser.
+Vi skal i Danmark have et uddannelsessystem,
+som gør det muligt for den enkelte elev at udnytte sit fulde potentiale uden at blive stoppet af
+rigide strukturer og forældede adgangskrav. Så
+den øgede fleksibilitet, der ligger i lovforslaget,
+er vi meget begejstrede for: en fleksibilitet, der
+heller ikke går ud over kvaliteten, fordi der samtidig er krav om akkreditering.
+I Ny Alliance ser vi gerne, at mødet med den
+store verden bliver en del af enhver uddannelse,
+så derfor er vi også meget positive over for, at
+det skal blive nemmere med udenlandsophold
+under studiet. Og endelig så er mødet med den
+nære verden, erhvervslivet, også af lige så stor
+betydning, så den obligatoriske praktik er jo noget, der også går rent ind hos Ny Alliance.
+Vi er positive over for lovforslaget.
+
+270
+
+Torsdag den 6. december 2007 (L 25)";Malou Aamund
+94732;Time;"ser til at fastsætte et maks. antal studerende på
+uddannelserne. Det er de studerendes motivaFormanden:
+tion, der skal føre dem igennem studiet, og derTak for det. Og sidst i ordførerrækken er det fru
+for skal de studerendes uddannelsesønsker så
+Johanne Schmidt-Nielsen.";Kl. 11:37
+95013;Time;"vidt muligt respekteres. Helt gak bliver det jo
+altså så, når det samtidig er sådan, at der nu
+(Ordfører)";Kl. 11:37
+95148;name_party;":
+kommer økonomiske sanktioner over for udEnhedslisten kan ikke støtte lovforslag nr. L 25,
+dannelsessteder, der laver meroptag.
+fordi det åbner op for brugerbetaling og kan risiDet er også meget problematisk, at § 33, stk.
+kere at hindre de studerende på KVU i at gen3, reelt fastlåser studerende, idet der lægges hindringer i vejen for overflytning mellem forskellinemføre deres uddannelse. Lovforslaget åbner
+ge uddannelser. Enhedslistens holdning er, at vi
+en ladeport for indførelse af brugerbetaling på
+hellere vil have gode muligheder for merit end
+ordinære videregående uddannelser. I § 38 indføres der mulighed for deltagerbetaling på ersamkøring af uddannelserne, som der lægges op
+til i lovforslagets § 6 og § 7. Professionsuddanhvervsakademiuddannelserne. Samtidig åbnes
+der op for, at erhvervsakademierne skal kunne
+nelserne skal være et sammenhængende uddannelsesforløb, så der sikres progression, og det
+udgøre en del af professionsuddannelserne, og
+dermed skaber man altså mulighed for indførel- ødelægges, hvis der reelt bliver tale om, at man
+tager to uddannelser, der så tilsammen danner
+se af brugerbetaling på uddannelse til lærer og
+en professionsuddannelse.
+pædagog og sygeplejerske osv.
+Samtidig skal det naturligvis sikres, at der bliSå jeg kan altså konstatere, at undervisningsver mobilitetsmuligheder for de studerende, og
+ministeren nu indfører brugerbetaling på de almobilitet sikres via gode meritordninger. Modumindelige videregående uddannelser, og det er
+lisering er ikke svaret. Modulisering fører til inselvfølgelig katastrofalt for ligheden i samfundividuelle, ikkesociale forløb, som vi allerede
+det.
+ser det på erhvervsuddannelserne, og som øger
+Ifølge et interview i Information den 12. nofrafaldet særlig blandt den målgruppe, som ikke
+vember 2007 mener undervisningsministeren
+tilsyneladende, at § 38 i dette lovforslag kun om- er særlig gode til at navigere i kaos.
+Som det skrives udtrykkeligt i høringssvaret
+handler brugerbetaling på efter- og videreudfra Ingeniørforeningen, er det studerende med
+dannelse, men § 38 handler netop om at indføre
+vidt forskellige forudsætninger, der går på henbrugerbetaling på de helt almindelige uddannelser. I samme interview påstår undervisnings- holdsvis erhvervsakademi- og professionsbacheloruddannelserne, og det har altså betydning
+ministeren med henvisning til lovforslagets befor, hvilke krav man kan stille til de studerende,
+mærkninger, at det kun skal være virksomheder
+og det betyder, at man ikke bare kan slå uddanm.m., der skal betale for uddannelserne. Men
+nelserne sammen, uden at det vil have konsebemærkningerne lægger ikke nogen som helst
+kvenser bl.a. for frafaldet. Lovforslaget tager
+begrænsning på, hvem der skal betale for udsimpelt hen ikke de fornødne indholdsmæssige
+dannelserne fremover. Der står, at virksomhehensyn til de forskellige studerende, og det vil
+derne m.m. kan deltage i finansieringen af unvære en katastrofe, hvis frafaldet fra erhvervsadervisningen, men det udelukker jo altså ikke
+kademierne vokser.
+andre former for deltagerbetaling.
+Enhedslisten finder det positivt, at der bliver
+At der er tale om en generel indførelse af brubedre muligheder for at tage dele af ens uddangerbetaling underbygges af interviewet den 12.
+nelse i udlandet uden studietidsforlængelse,
+november 2007, hvor undervisningsministeren
+men vi synes, det er problematisk, at udenlandsudtaler, at brugerbetaling også kan gælde for
+studier efter § 10 kan blive obligatorisk, fordi det
+udlændinge. Det står der altså heller ikke noget
+kan afskære f.eks. studerende med børn fra at
+om i bemærkningerne.
+Faktum er, at VK-regeringen nu indfører bru- tage en uddannelse. Og jeg vil gerne have begerbetaling på helt almindelige uddannelser, og kræftet af ministeren, om udlandsophold som
+en del af den danske uddannelse vil være gratis,
+vi vil da gerne foreslå regeringen, at de i stedet
+eller om de ligesom de berygtede Erasmus Munfor stemmer for vores forslag om forbud mod
+dus-uddannelser skal være omfattet af brugerindførelse af brugerbetaling på uddannelse.
+betaling.
+Enhedslisten finder det også bekymrende, at
+ministeren med § 33, stk. 2, får udvidede beføjel-
+
+Torsdag den 6. december 2007 (L 25)
+
+271
+
+Så vil jeg også gerne bede ministeren om at
+Så vil jeg også gerne sige, at vores eneste indkommentere, hvorfor arbejdstagerorganisatiosigelse mod det her lovforslag ikke kun er på
+nerne er blevet nedprioriteret i det foreslåede
+grund af brugerbetaling, det handler også om
+Råd for Erhvervsakademiuddannelser og Prodet her med, at man sammenlægger to uddanfessionsbacheloruddannelser, som det fremgår
+nelser med to meget forskellige niveauer og
+af lovforslaget og af bl.a. BUPL' s høringssvar.
+forestiller sig, at det ikke vil have konsekvenser.";Johanne Schmidt-Nielsen
+99907;Time;Det er klart, at hvis man skal sammenlægge to;Kl. 11:41
+99965;title_name;"uddannelser og skabe et fagligt forløb, som giTak. Der er et kort spørgsmål fra fru Christine
+ver mening for begge, så kan det jo få konseAntorini.
+kvenser bl.a. i form af, at de svageste falder fra.";Formanden
+100174;Time;;Kl. 11:41
+100184;Time;;Kl. 11:43
+100207;name_party;:;Christine Antorini
+100220;title_name;"Jeg har med stor interesse hørt på, at fru Johanne Fru Christine Antorini for den sidste korte be- .
+Schmidt-Nielsen mener, at der her bliver åbnet
+mærkning.";Formanden
+100387;Time;"en ladeport for brugerbetaling på de ordinære
+uddannelser. Det er jo selvfølgelig noget, som";Kl. 11:43
+100503;name_party;":
+Socialdemokraterne ikke kan støtte, og derfor
+Jeg vil gerne bede ordføreren om at uddybe,
+vil jeg gerne spørge fru Johanne Schmidt-Nielhvad det er for nogle uddannelser, der bliver
+sen, hvorfra den antagelse kommer. Jeg kan for- lagt sammen. Tværtimod bliver det meget præstå, at fru Johanne Schmidt-Nielsen har læst et
+cist defineret, hvad en kort videregående udeller andet interview med undervisningsminidannelse er, og hvad en mellemlang videregåensteren. Jeg kan så til gengæld fortælle, at vi har
+de uddannelse er. Det er hele formålet. Det er
+undersøgt den paragraf meget grundigt, og hvis
+meget præcist, hvad der står om forskellighedet nu viser sig, at den paragraf sådan set har
+derne i de to uddannelser.
+eksisteret i alle de her uddannelsers lovgivning
+Det andet er, om fru Johanne Schmidt-Nielfør, og det så viser, at det, som fru Johanne
+sen kan bekræfte, at den paragraf, som hun meSchmidt-Nielsen tror er et faktum, faktisk ikke
+ner åbner en ladeport, hele tiden har været i den
+betyder brugerbetaling på de ordinære uddaneksisterende lovgivning om de her uddannelser
+nelser, så må jeg også forstå fru Johanne
+- eller om hun mener, der er blevet ændret i den.
+Schmidt-Nielsens indlæg på den måde, at man
+Jeg vil også godt endelig spørge fru Johanne
+så overvejende vil være positiv over for det her
+Schmidt-Nielsen, som har været meget med i
+lovforslag. For jeg kunne jo forstå, at det i realihøringssvarene, hvad vi også har, at det jo
+teten var den eneste indvending, hvad jeg virke- egentlig er underligt, at der ikke har været et ralig godt kan forstå, hvis det er rigtigt, at der blev maskrig fra alle interesseorganisationer om den
+indført brugerbetaling.
+her åbne ladeport for brugerbetaling, for hvis
+Og da det ligger os meget på sinde hos Social- der var en sådan ladeport, vil jeg tro, at den ville
+demokraterne, at der ikke kommer brugerbetahave udgjort hovedparten af indholdet i de indling, vil jeg gerne spørge fru Johanne Schmidtsigelser, der var i det her materiale.";Christine Antorini
+102512;Time;;Kl. 11:44
+102522;title_name;"Hvorfra kommer den forestilling om, at
+det her skulle åbne en ladeport, når det har væFormanden:
+ret eksisterende lovgivning i årevis inden for de
+Ordføreren.";Nielsen
+102690;Time;"her uddannelser? Der er ikke blevet ændret et
+komma i den l o v p a r a g r a f . .";Kl. 11:44
+102803;name_party;:;Johanne Schmidt-Nielsen
+102814;Time;"Jamen det er da interessant, at fru Christine AnFormanden:
+torini mener at kunne garantere, at der ikke bliOrdføreren.
+ver indført brugerbetaling. Hvis SocialdemokraKl. 11:42 terne kan garantere det, så vil jeg gerne høre om";Kl. 11:42
+103068;name_party;":
+det. Men vi mener altså stadig væk, at der kan
+For det første ser vi jo altså en brugerbetaling
+være risiko for brugerbetaling på baggrund af
+mange steder i forvejen, for det andet står der jo netop § 38.
+helt konkret i forslaget, at man åbner mulighed
+Med hensyn til hvad der bliver slået sammen
+for deltagerbetaling på erhvervsakademiuddan- af uddannelser, vil jeg sige, at det bekymrende
+nelserne, også selv om ministeren altså siger, at
+for os jo lige præcis er, at man ikke satser på medet kun er på efter- og videreuddannelserne.
+ritordning, men satser på at samkøre uddannel-
+
+272
+
+Torsdag den 6. december 2007 (L 25)
+
+ser, fordi man netop risikerer at ende i en situauniversiteterne, hvor der er indført brugerbetation, hvor man igennem to uddannelser skaber
+ling: Det er et EU-program, skal jeg lige huske at
+én i stedet for at satse på hele og sammenhænsige, så det er endnu en grund til at være kritisk
+gende forløb. Og så kan jeg ikke huske, hvad det over for EU. Det program har vi i Dansk Folkesidste, der blev spurgt om, var.
+parti ikke noget med at gøre, sådan er det. Men";Johanne Schmidt-Nielsen
+104169;Time;"det drejer sig om ni studerende, og jeg ved, at
+der om ikke så forfærdelig lang tid kommer en";Kl. 11:44
+104275;title_name;"Nej, og det er jo bare ærgerligt. Men til gengæld
+redegørelse, for det er ulovligt ifølge universier det hr. Martin Henriksen for en kort bemærk- tetsloven, og deri regner vi selvfølgelig med, at
+ning.
+videnskabsministeren går ind og retter op på";Formanden
+104531;Time;"det. Men folk, der lytter, skal bare vide, at det er
+EU, der har stukket fingrene i vores uddannelMartin Henriksen (DF):
+Jeg synes, det er ærgerligt, hvis en debat, der
+sessystem.
+handler om noget så kompliceret som det her,
+Så vil jeg bare opfordre Enhedslistens ordføudelukkende kommer til at dreje sig om, hvorrer til klart at slå fast, at det her ikke er en ny paragraf. Der bliver ikke indført brugerbetaling
+vidt der er brugerbetaling eller ej, og jeg synes,
+med det her lovforslag, det er et spøgelse, som
+at fru Johanne Schmidt-Nielsen skulle svare på
+det spørgsmål, det meget fornuftige spørgsmål,
+Enhedslisten forsøger at fremmane, det har
+overhovedet ikke hold i virkeligheden.
+som fru Christine Antorini stillede, nemlig: Kan";Kl. 11:45
+105279;Time;Enhedslistens ordfører ikke bekræfte, at den her;Kl. 11:46
+105340;title_name;"bestemmelse også har været der i tidligere love,
+Ordføreren.
+bl.a fra en tid, hvor Enhedslisten har været parKl. 11:46
+lamentarisk grundlag for en SR-regering?";Formanden
+105509;Time;;Kl. 11:45
+105538;name_party;":
+Nej, sådan kan du ikke tolke det. Du kan tolke";Johanne Schmidt-Nielsen
+105598;title_name;"det, lige præcis som jeg siger det, nemlig at jeg
+Ordføreren.";Formanden
+105669;Time;"ikke kender den tidligere lovgivning, men hvis
+Dansk Folkeparti til gengæld mener, det er så";Kl. 11:45
+105791;name_party;":
+Nej, det kan jeg ikke bekræfte, for det ved jeg ik- vigtigt at sikre, at der ikke er brugerbetaling, så
+ke. Til gengæld kan jeg sige, at brugerbetaling er synes jeg da, at Dansk Folkeparti skulle tage at
+meget, meget centralt, og jeg synes bestemt ikke, stemme for Enhedslistens forslag om, at vi laver
+en lov mod brugerbetaling i Danmark. Det ville
+det er ærgerligt, hvis diskussionen om det her
+jeg da synes var rigtig, rigtig fornuftigt.
+lovforslag kommer til at handle om brugerbetaKl. 11:47
+ling, for hvis der i det her lovforslag åbnes op";Johanne Schmidt-Nielsen
+106349;title_name;"for, at man indfører brugerbetaling på uddannelserne, så er det en meget, meget vigtig og me- Tak til ordføreren. Jeg vil lige sige, at selv om
+man dusser uden for salen, så dusser man ikke i
+get, meget relevant diskussion om, hvilken type
+salen. Den næste taler er undervisningsministeuddannelsessystem vi gerne vil have.";Formanden
+106681;Time;ren.;Kl. 11:45
+106696;Time;;Kl. 11:47
+106708;title_name;;Formanden
+106748;title_name;":
+Hr. Martin Henriksen.";Bertel Haarder
+106781;Time;"Hensigten med lovforslaget er at rette op på en
+ejendommelig skævhed, der er i det danske udMartin Henriksen (DF):
+Det finder jeg interessant at Enhedslistens ordfø- dannelsessystem.
+Ser vi på erhvervsuddannelserne, sigter de i
+rer ikke kan bekræfte. Det må jeg tage som udtryk for, at det er rigtigt, at den her bestemmelse høj grad på både den offentlige og den private
+altså har været der i tidligere love på det her om- sektor, især på den private sektor. Ser vi på universiteterne, sigter de på både den offentlige
+råde, også under tidligere SR-regeringer, hvor
+sektor og den private sektor - måske hidtil mest
+Enhedslisten jo har haft mulighed for at påpege
+den her ladeport for brugerbetaling, men så vidt på den offentlige, men nu er det meget mere
+jeg husker har undladt at gøre det. Det synes jeg blandet offentligt og privat. Men ser vi så på
+mellemuddannelserne, er der en kraftig domier interessant.
+nans af uddannelser, der sigter på den offentlige
+Så til dem, der sidder derude og lytter, angåsektor.
+ende den her Erasmus Mundus-uddannelse på
+
+(35)
+Torsdag den 6. december 2007 (L 24)
+Det får så nogle til at sige: Jamen så skal disse
+uddannelser da ikke slås sammen og have ansvaret for at udvikle uddannelser til den private
+sektor. Jeg siger, og et flertal siger: Tværtimod,
+det gælder om at bruge det vækstlag, der findes,
+til at udvikle flere uddannelser til den private
+sektor, flere praksisorienterede bacheloruddannelser. Men de nye professionshøjskoler får brug
+for hjælp til det, og den hjælp kan de få i erhvervsakademierne, som i forvejen langt overvejende sigter på den private sektor.
+Visionen er, at vi om 10 år har en stærk, praksisorienteret mellemuddannelsessektor med uddannelser på bachelorniveau, der i lige så høj
+grad sigter på den private som den offentlige
+sektor.
+Der skal ikke være blindgyder. Fru Christine
+Antorini har fuldstændig ret i, at når vi taler om,
+at man kan tage en halv uddannelse, er det altså
+ikke, fordi der er nogen som helst uddannelser,
+der skal halveres, og der er ingen, der skal behandles af halvstuderede røvere. Det handler
+om at undgå blindgyder, så man kan komme videre, uanset hvilken uddannelse man har taget.
+Der er en forskel på universitetsuddannelserne og disse professionsbacheloruddannelser i
+den måde, de godkendes på, og det har ikke noget at gøre med, at de ligger i to forskellige ministerier. Det har en rigtig god begrundelse, nemlig at universitetsuddannelser er forskningsbaserede. Forskningen skal koncentreres få steder i
+landet, og derfor bliver uddannelserne også
+koncentreret få steder i landet. Derimod er de
+uddannelser, der er tale om her, praksisorienterede. Der skal være praktikpladser: vi skal have
+forsynet hele landet med de uddannelser, og vi
+vil gerne have talenter fra hele landet til at gå på
+disse uddannelser, og derfor er der en forpligtelse til at uddannelsesdække alle dele af Danmark. Så forskellen i godkendelsen af uddannelserne er meget velbegrundet.
+Der er også forskel på, hvordan man godkender nedlæggelser, og hvordan man godkender
+flytninger af uddannelsessteder. Ministeriet kan
+stoppe en nedlæggelse, men flytninger er tilladte, for vi ønsker, at disse nye institutioner ikke
+blot får et ansvar for at placere uddannelserne
+mest hensigtsmæssigt, men også får noget at
+have det ansvar i.
+Til sidst om brugerbetaling: Jeg kan fuldstændig bekræfte, hvad fru Christine Antorini og hr.
+Martin Henriksen har sagt, nemlig at der ikke er
+noget nyt på det felt. Det håber jeg at jeg kan beskrive så overbevisende i udvalget, at selv fru
+
+273
+
+Johanne Schmidt-Nielsen kan ende med at stemme for forslaget i lighed med fru Hanne Agersnap, som jeg også kunne forstå var nær ved at
+gøre det.";Kl. 11:45
+110490;Time;;Kl. 11:51
+110502;title_name;"Tak til undervisningsministeren.
+Da der ikke er flere, der har bedt om ordet, er
+forhandlingen afsluttet.
+Jeg foreslår, at lovforslaget henvises til Uddannelsesudvalget. Hvis ingen gør indsigelse, er
+dette vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+9) 1. behandling af lovforslag nr. L 24:
+Forslag til lov om ændring af lov om Danmarks Evalueringsinstitut. (Akkreditering af
+videregående uddannelser, sammensætning af
+evalueringsinstituttets bestyrelse og repræsentantskab m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).";Formanden
+111083;Time;Forhandling;Kl. 11:52
+111107;title_name;Forhandlingen er åbnet, og det er fru Anne-Mette Winther Christiansen.;Formanden
+111187;Time;(Ordfører);Kl. 11:52
+111234;name_party;":
+Vi må jo sige, at de lovforslag, der er for uddannelsesområdet i dag, hænger sammen - de nævner indbyrdes hinanden - og nu er vi så kommet
+til det, der egentlig var nævnt i loven tidligere.
+Vi har et evalueringsinstitut, og vi er nødt til
+at lave om på beføjelserne. Lovforslaget her er jo
+så med i den pakke, der blev lavet omkring globaliseringspuljen fra november 2006.
+Venstre finder det meget positivt, at vi indfører et akkrediteringssystem, som sørger for en
+systematisk sikring af de videregående uddannelser. Forslaget vil her åbne op og give nogle
+mere fleksible rammer for - ja, det er jo en forkortelse, så vi siger så EVA - EVA's fremtidige
+opgaver. Med det brede arbejdsfelt, som EVA
+har, er der behov for, at EVA får friere muligheder for at evaluere nogle forhold. Det skal være
+
+274
+
+Torsdag den 6. december 2007 (L 24)
+
+forhold, der rækker ud over undervisning og
+uddannelse, og for at EVA får friere hænder end
+i dag, skal vi altså lave en ændring i loven, og
+det gør, at EVA kan beslutte metoder for, hvordan de enkelte evalueringer skal gennemføres.
+Når man kigger høringssvarene igennem, kan
+man se, at der har været nogle ting, som oven i
+købet er blevet imødegået. Vi kan se her, at lovteksten er blevet præciseret sådan, at kravet om,
+at de medlemmer, der udpeges, har viden og erfaring inden for de respektive områder, kommer
+til at gælde for alle medlemmer. På den her
+måde er vi i hvert fald garanteret, at fagligheden
+er blevet forankret, og det kan ikke være noget,
+nogen kan kritisere.
+Venstre bakker meget op om forslaget og glæder sig til det videre arbejde.";Anne-Mette Winther Christiansen
+112838;Time;;Kl. 11:54
+112850;title_name;Tak for det. Og så er det fru Christine Antorini.;Formanden
+112909;Time;(Ordfører);Kl. 11:54
+112943;name_party;":
+Socialdemokraterne støtter også dette lovforslag
+- jeg taler også på vegne af Det Radikale Venstre
+- som er en del af den samlede pakke for at styrke de videregående uddannelser.
+Vi synes, det er meget vigtigt i hele det fokus,
+der er omkring, hvordan man løfter kvaliteten,
+at der kommer en uafhængig akkreditering, og
+det, der ligger i lovforslaget her, er, at en sådan
+uafhængig akkreditering i høj grad vil blive med
+evalueringsinstituttet som udøver i forhold til
+det. Jeg er ked af igen at måtte sige til undervisningsministeren, at det jo desværre er et godt
+eksempel på, at hvis man har det fordelt på to
+ministerier, er man nødt til at finde nogle løsninger, der sådan tilgodeser egne institutioner.
+Jeg synes, at evalueringsinstituttet er en fremragende institution, men hvorfor det så lige præcis kun skal have kompetence til to af de tre typer uddannelse, ved jeg ikke, men der gør man
+det helt klokkeklart, at der skal være den her opdeling. Vi synes, det er fuldstændig unødigt at
+lave de her vandtætte skotter i uddannelsessystemet, når vi i øvrigt har en ambition om, at vi
+skal kunne se det i en lige linje hele vejen igennem med færrest mulige barrierer. Her kunne
+ministeren jo have taget - kan man sige - regeringens udsagn om, at man skulle lave nogle lette, ubureaukratiske og smidige strukturer, til sig
+og være startet her. Men sådan er det så ikke.
+Det skal dog ikke få os til ikke at støtte aftalen,
+for vi synes, det er ganske vigtigt med det kvali-
+
+tetsløft, der bliver, ved at man akkrediterer uddannelse.
+Det, der er vigtigt, er som sagt, at det er et
+lovkompleks, der hænger sammen, for et er, at
+der sker en akkreditering på kvaliteten, men noget andet er, at der jo også er, som undervisningsministeren kort var inde på i forhold til det
+tidligere lovforslag, en regional uddannelsesforpligtelse. Det betyder, at vi får en meget interessant opgave i den brede forligskreds med at følge med i, at akkrediteringen bliver fulgt op af, at
+der faktisk er de økonomiske muligheder for, at
+meget små uddannelsessteder kan eksistere
+udeomkring i landet, steder, hvor vi ved, at der
+ikke er så mange unge, der søger ind. Men hvis
+ikke uddannelsesstedet er der, selvfølgelig med
+den faglige kvalitet, der skal være, er risikoen
+stor, for at uddannelsen lukker. Derfor er vi meget glade for, at der er en mulighed for, at ministeren har en bemyndigelse til i sidste ende at sige, at der skal være nogle uddannelsesmiljøer,
+også nogle steder, hvor der i virkeligheden ikke
+er det økonomiske underlag, og sikre sig - og
+det er jo det, akkrediteringen hjælper til - at der
+er den faglige kvalitet, der skal være. Det er fantastisk vigtigt, at vi får uddannelsesdækket hele
+Danmark, for der er nogle områder, hvor vi ved,
+at hvis der ikke er en uddannelsesinstitution, betyder det, at unge ikke går i gang med en videregående uddannelse.
+Som sagt, vi støtter lovforslaget, som det er.
+Det sidste, jeg vil fremhæve, er, at det, vi jo også
+sikrer med den her uafhængige akkreditering,
+er, at det understøtter hele ambitionen om, at det
+skal være internationalt sammenlignelig uddannelse, sådan at man får papir på, at det, man har
+lært i Danmark eller i udlandet, kan man bruge
+også på tværs i andre uddannelsessystemer.";Christine Antorini
+116192;Time;;Kl. 11:56
+116204;title_name;"Tak til ordføreren. Hr. Martin Henriksen som
+ordfører.";Formanden
+116268;Time;(Ordfører);Kl. 11:56
+116301;name_party;":
+Lovforslaget her er også en udmøntning af forliget bag globaliseringspuljen.
+Et af elementerne i aftalen er, at der skal indføres et akkrediteringssystem med henblik på en
+systematisk kvalitetssikring af de videregående
+uddannelser. Et uafhængigt organ, EVA, Danmarks Evalueringsinstitut, skal løbende akkreditere alle videregående uddannelser efter danske og internationale standarder. EVA skal sige
+
+Torsdag den 6. december 2007 (L 24)
+god for eksisterende uddannelser, for at de kan
+fortsætte, EVA skal sige god for nye uddannelser, og EVA's indstilling vil gå videre til Akkrediteringsrådet, som så indstiller til ministeren,
+der træffer den endelige afgørelse. Ministeren
+kan ikke godkende en uddannelse, medmindre
+Akkrediteringsrådet har sagt god for den.
+Ligesom fru Christine Antorini vil jeg også sige, at det en ganske god ordning, at man fastholder, at ministeren i sidste ende har ansvaret for
+at godkende nye uddannelser. Jeg troede faktisk,
+at det mest var Dansk Folkeparti, der kæmpede
+for det i forbindelse med forhandlingerne, men
+jeg er altså blevet klogere efterfølgende.
+EVA får som noget nyt mulighed for ikke
+bare at evaluere undervisningen, men også institutionernes økonomistyring, ledelsesformer osv.
+Bestyrelsens sammensætning ændres, bl.a. fordi
+EVA som noget nyt også får uddannelserne under Kulturministeriet i sit regi. Derfor indtræder
+en repræsentant for Kulturministeriet, og repræsentanten for Videnskabsministeriet udtræder,
+da EVA som udgangspunkt ikke skal evaluere
+universitetsuddannelser, men primært forholde
+sig til Kulturministeriets og Undervisningsministeriets uddannelser. Det er ganske rigtigt, at det
+er en underlig ordning, at EVA ikke også lige så
+godt kunne tage sig af universitetsområdet, men
+hvis der er nogle her, der føler sig stødt over, at
+de bliver blandet sammen med gymnasier og
+andre, skal vi selvfølgelig ikke pålægge dem noget.
+EVA kan dog selv udpege en repræsentant
+med særlig faglig indsigt inden for et bestemt
+område, eksempelvis universitetsområdet, hvis
+det skulle ske, at Akkrediteringsrådet beslutter,
+at EVA egentlig er ganske udmærket egnet til at
+godkende eller komme med indstilling til Akkrediteringsrådet om, hvorvidt en uddannelse
+skal fortsætte eller oprettes. Den mulighed er
+der altså, og jeg synes, det ville være fornuftigt,
+hvis man benytter sig af den i stedet for at oprette et sekretariat under Akkrediteringsrådet, som
+udelukkende skal tage sig af universitetsområdet. Så kan man lige så godt arbejde lidt sammen.
+Høringssvarene er overordnet set positive.
+Dog er Kommunernes Landsforening kritisk,
+idet de frygter, at EVA's udvidede beføjelser vil
+føre til evaluering af daginstitutionernes og folkeskolernes ledelsesformer og økonomistyring.
+Til det må man sige, at hvis der kommer det ud
+af lovforslaget, vil der måske heller ikke være
+
+275
+
+nogen skade sket. Det kunne måske være, vi
+kunne blive klogere, og at kommunerne også
+kunne blive klogere, hvis der er nogle, der kigger deres økonomistyring og ledelsesformer efter i sømmene.";Martin Henriksen
+119340;Time;;Kl. 11:59
+119352;title_name;"Tak til hr. Martin Henriksen. Næste ordfører er
+fru Pernille Vigsø Bagge.
+. Kl. 11:59
+(Ordfører)";Formanden
+119474;name_party;":
+Som vi har hørt, er dette lovforslag ligesom de
+forrige en udløber af velfærdsforliget og udmøntningen af globaliseringspuljen. Det er selvfølgelig også en udløber af hele lovsættet omkring professionsbacheloruddannelser og erhvervsakademiuddannelser osv., som SF jo har
+valgt at forholde sig afventende til. Men lovforslaget her, som handler om et uafhængigt organ,
+altså EVA, som skal kvalitetssikre og godkende
+uddannelser og institutioner, kan SF umiddelbart støtte.
+Vi har også bemærket os høringssvarene, herunder KL's høringssvar om inddragelse af kommunernes institutioner i forbindelse med evalueringen, og ligesom Socialdemokraternes ordfører undrer vi os også over, at EVA mister beføjelsen til på eget initiativ at undersøge på folkeskoleområdet. Men SF tilslutter sig altså forslaget.";Pernille Vigsø Bagge
+120283;Time;;Kl. 12:00
+120295;title_name;Ja tak. Hr. Henrik Rasmussen som ordfører.;Formanden
+120347;Time;(Ordfører);Kl. 12:00
+120380;name_party;":
+Det fremsatte lovforslag ændrer den nuværende
+lov, således at evalueringsinstituttet kan gennemføre andre former for evaluering, herunder
+evaluering af instituttets samlede virksomhed
+eller dele heraf. Det vil sige, at instituttet efter
+foretagen vurdering selv kan bestemme, hvilken
+evalueringsmetode man faktisk ønsker anvendt,
+og dette mener jeg vil styrke den faglige evaluering i de enkelte institutioner. Men det er vigtigt,
+at evalueringsinstituttet nu er uafhængigt, men
+stadig har en forpligtelse til at udvikle kvaliteten
+af uddannelse, undervisning og læring.
+Den konservative gruppe bakker helt op om
+dette lovforslag.";Henrik Rasmussen
+121022;Time;;Kl. 12:01
+121034;title_name;"Ja tak.
+
+276
+
+Torsdag den 6. december 2007 (L 24)
+
+Jeg kan sige, at det er min agt, at vi kører
+dagsordenen igennem, således at der ikke bliver
+frokostpause.
+Den næste i ordførerrækken er fru Malou
+Aamund.";Formanden
+121250;Time;(Ordfører);Kl. 12:01
+121279;name_party;":
+Jeg kan godt mærke, at jeg er ny i klassen, for jeg
+har altså lige brugt nogle minutter på at finde ud
+af, hvem hende EVA, som alle taler om, er. Men
+jeg tror, tiøren er ved at falde nu.
+Jeg kan sige, at Ny Alliance støtter de foreslåede ændringer af evalueringsinstituttets rolle,
+ansvar og bestyrelsessammensætning. Når instituttet nu har haft ansvaret for at udvikle og sikre
+kvalitet i uddannelserne, synes vi også, det er
+helt naturligt, at det kommer til at stå for en stor
+del af akkrediteringerne på uddannelsesområdet.
+Jeg kan også sige, at som udefrakommende
+virker det helt ulogisk på mig, hvorfor instituttet
+ikke har ansvaret for alle uddannelser. Det
+handler jo om at opbygge et center, der har kompetencerne til at kigge på kvaliteten og vurdere
+uddannelserne, og så burde det vel også kunne
+dække hele skalaen, i stedet for at vi lægger ansvaret flere steder. Det er i hvert fald et af de
+spørgsmål, jeg vil tale med mine nye venner i
+Uddannelsesudvalget om, når vi kommer så
+langt.
+En anden ting er, at i Ny Alliance har vi tillid
+til, at organisationer og institutioner præsterer
+mest uden al for megen indblanding fra centralt
+hold. Derfor støtter vi også, at instituttet ifølge
+lovforslaget kan komme til at foretage andre undersøgelser uden ministergodkendelse, hvilket
+ikke har været tilfældet indtil nu.
+Vi er positive over for lovforslaget og vil kigge på det, når det kommer i udvalget.";Malou Aamund
+122702;Time;;Kl. 12:02
+122714;title_name;Ja tak. Den sidste i ordførerrækken er fru Johanne Schmidt-Nielsen.;Formanden
+122791;Time;(Ordfører);Kl. 12:02
+122831;name_party;":
+Ved den seneste ændring af lov om Danmarks
+Evalueringsinstitut stemte Enhedslisten imod,
+og det gør vi også denne gang. Vi bryder os ikke
+om den centralisering af evalueringskompetencen, som lovforslaget er udtryk for: vi mener, det
+
+홢
+>
+
+er et opgør med principperne for decentral styring og et udtryk for et ønske om ensretning af
+uddannelsestilbuddene.
+Akkreditering er en smileyordning på uddannelsesområdet. Det er useriøst, og det vil have
+store konsekvenser for institutionernes muligheder for at tiltrække kvalificerede undervisere og
+studerende. Det mente vi dengang, og det mener vi stadig.
+Med dette lovforslag bliver instituttets beføjelser udvidet betydeligt, så det ikke længere
+kun skal evaluere undervisnings- og uddannelsesforhold. Instituttet vil fremover kunne beslutte, hvad og hvornår der skal evalueres. Det har
+stor betydning for uddannelsesinstitutionernes
+mulighed for selvevaluering, og det bryder vi os
+ikke om. Vi mener, at selvevaluering er et redskab, som er både relevant og meget nyttigt i
+forbindelse med udviklingen at de uddannelsespolitiske perspektiver på den enkelte institution.
+. Gennem selvevaluering får de evaluerede
+parter mulighed for at komme til orde, og det giver dem også mulighed for at bidrage aktivt til
+evalueringens konklusioner og anbefalinger.
+Selvevaluering er også medvirkende til, at de involverede parter i langt højere grad føler medejerskab i forbindelse med den efterfølgende implementering af evalueringens anbefalinger, og
+netop medejerskabet risikerer altså også at ryge
+med evalueringsinstituttets udvidede beføjelser.
+Endelig er det meget vigtigt for Enhedslisten,
+at instituttets bestyrelse og repræsentantskab er
+bredt sammensat af repræsentanter for de forskellige institutioner, herunder repræsentanter
+for både de ansatte og de studerende. Vi ønsker
+absolut ikke en indskrænkning af den repræsentation, og for os at se er det uklart, hvorvidt det
+bliver tilfældet. I ministeriets notat om høringssvarene står der f.eks., at repræsentationen af
+elever og studerende bibeholdes som i dag, men
+af bemærkningerne til lovforslaget fremgår det
+blot, at uddannelses- og institutionsområder
+m.fl. vil blive repræsenteret sammen med elever
+og studerende, faglige foreninger og arbejdsmarkedets parter - altså ikke nogen tydelig markering af, om repræsentationen indskrænkes eller bibeholdes, og det er klart, at Enhedslisten i
+det videre arbejde vil have en ordentlig afklaring af netop dette spørgsmål.
+Men alene centraliseringen og ensretningen
+gør som sagt, at Enhedslisten ikke kan bakke op
+om lovforslaget.
+
+Torsdag den 6. december 2007 (L 26)";Johanne Schmidt-Nielsen
+125456;Time;;Kl. 12:05
+125468;title_name;Tak til ordføreren. Så er det undervisningsministeren.;Formanden
+125532;Time;;Kl. 12:05
+125573;title_name;":
+Jeg vil gerne takke ordførerne for den meget brede opbakning til dette forslag om at give EVA evalueringsinstituttet - en helt central rolle i
+fremtidens kvalitetssikring af danske uddannelser.
+Alle videregående uddannelser inden for Undervisningsministeriets område skal akkrediteres af Akkrediteringsrådet, og evalueringsinstituttet skal levere basis for denne akkreditering.
+Det bliver primært Danmarks Evalueringsinstitut, som gennemfører akkrediteringsvurderinger og udarbejder akkrediteringsrapporter som
+grundlag for Akkrediteringsrådets afgørelser
+om akkreditering af videregående uddannelser.
+Samtidig bliver evalueringsinstituttet bedre i
+stand til og får mulighed for at evaluere forhold,
+der rækker ud over undervisning og uddannelse. Loven foreslås ændret, således at instituttet
+også kan gennemføre andre former for evalueringer, herunder evalueringer af en institutions
+samlede virksomhed eller dele af den. Instituttet
+fastsætter selv emner og metoder for de enkelte
+evalueringer, og dermed viser vi evalueringsinstituttet en stor tillid.
+Instituttet bliver en helt central institution i
+fremtidig kvalitetssikring, og da det jo kun skal
+virke på Undervisningsministeriets og Kulturministeriets områder er det naturligt, at Videnskabsministeriets repræsentant erstattes af en repræsentant fra Kulturministeriet.";Bertel Haarder
+126912;Time;;Kl. 12:07
+126924;title_name;"Tak til ministeren. Der er ikke flere, der har bedt
+om ordet, og dermed er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Uddannelsesudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+277
+
+Det sidste punkt på dagsordenen er:
+10) 1. behandling af lovforslag nr. L 26:
+Forslag til lov om ændring af lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v. og forskellige andre love. (Omlægning af ansvaret for befordring til
+brobygning, ny befordringsordning ved korte
+forløb, elektronisk ansøgning m.v.).
+Af undervisningsministeren (Bertel Haarder).
+(Fremsættelse 28.11.2007).";Formanden
+127580;Time;Forhandling;Kl. 12:07
+127604;title_name;Forhandlingen er åbnet, og det er fru AnneMette Winther Christiansen som ordfører.;Formanden
+127696;Time;(Ordfører);Kl. 12:07
+127743;name_party;":
+Venstre kan naturligvis tilslutte sig dette lovforslag. Det er et lovforslag, som medfører en forenkling, og er der noget, vi gerne vil se, er det
+forenklinger. Det er en forenkling i forhold til
+det eksisterende lovgrundlag.
+Det er et lovforslag, som tilgodeser de unge,
+der er i et brobygningsforløb. Det er vigtigt, at
+befordringsrabatten fremover følger lovgivningen i den uddannelse, eleven er i, sådan at eleven ikke oplever, at man er omfattet at to forskellige befordringsordninger med to forskellige
+administrationer.
+Det er altså et lovfotslag, der vil fremme forenkling, og det er noget, Venstre støtter. Ændringerne har jo bl. a. til hensigt at lette administrationen og hindre misbrug af ordningen.";Anne-Mette Winther Christiansen
+128466;Time;;Kl. 12:08
+128478;title_name;"Tak til ordføreren.
+Jeg gør opmærksom på, at det forslag, vi behandler, ikke, som der står på opslaget, er lov
+om valg til menighedsråd. Selv om der er en vis
+dæmpet, religiøs atmosfære til tider også i den
+her debat, er det altså en fejl i opslaget på tavlen.
+Jeg er overhovedet ikke i tvivl om, at når det
+er samme minister, kan det lade sig gøre, og det
+havde sikkert også være spændende, men så
+havde vi ikke undladt at holde pause før frokost.
+Derfor går vi tilbage til ordførerrækken, og
+det er hr. Bjarne Laustsen.
+
+278
+
+Torsdag den 6. december 2007 (L 26)";Formanden
+129053;Time;(Ordfører);Kl. 12:09
+129084;name_party;":
+Jeg ville da også gerne sige noget om menighedsrådene, men nu må vi hellere holde os til
+det her.
+Det er jo en genfremsættelse, fordi der kom et
+folketingsvalg i vejen. En del af ordførerne er de
+samme, men ellers er der grund til lige at ridse
+op, at lovforslaget er blevet mere kvalificeret,
+kan man sige, fordi ministeren i mellemtiden
+har svaret mere uddybende på spørgsmål fra en
+række ordførere.
+Man kan sige, at det er et lovforslag, som man
+har repareret lidt på, fordi det ikke var blevet lavet godt nok i første omgang. Jeg kan huske, at
+jeg for nogen tid siden stod heroppe og sagde til
+ministeren, at han burde lytte noget mere. Vi var
+ikke helt sikre på, at det var godt nok, for det,
+man var i stand til at lave derude i hvert enkelt
+amt, var jo meget fleksible ordninger.
+Så var der også noget med betalingen, en øget
+brugerbetaling, som jeg var bekymret over, og
+det har halvdelen af landets elever og forældre
+jo fået. De har fået en stigning i brugerbetalingen. Der var en forskel fra 314 kr. til 210 kr., og
+så landede man på 285 kr. Det betyder så, at brugerbetalingen er steget.
+I mit parti, Socialdemokratiet, udarbejdede vi
+et forslag til, hvordan vi kunne gøre det her bedre og billigere. Vi syntes, at det var et af de sagsområder, som man skal se i forhold til regionalpolitikken, udkantsområderne. Jeg kan huske et
+helt tilfældigt eksempel med en enlig mor i Skagen, som skulle sende sine børn til det nærmeste
+gymnasium i Frederikshavn. Hvis de skulle
+have en uddannelse, ja, så ville det koste 31.000
+kr., og den pris ville vi godt have haft lidt ned.
+Vi synes, at det ville have klædt Folketingets
+partier, at vi var kommet ned på 210 kr. eller 200
+kr.: det ville have kostet 30 mio. kr. Det ville
+have været utrolig godt, hvis det havde kunnet
+lade sig gøre.
+Jeg skal også sige, at da vi diskuterede det i
+den socialdemokratiske gruppe i formiddags, 홢
+var der nogle af de nye medlemmer, der mente,
+at det var utrolig vigtigt, at vi fik de unge mennesker af sted, også ude fra landet og udkantsområderne, for ellers skete der jo bare det, at der
+blev nogle flere af min slags. For jeg er jo et lysende eksempel på, at der var lang afstand.
+Skulle jeg nogen steder hen, var det på cykel.
+Hvis vi vil have, at de unge mennesker får en
+uddannelse, skal det også være sådan, at de kan
+
+komme af sted, og at der er gode transportforbindelser, for der er rigtig mange steder derude,
+hvor der er lang vej. Så det er sådan set fint nok.
+De enkelte ændringer heri synes vi også er fine. Vi synes, at det er fint, at brobygning, EGU,
+produktionsskoler osv. også er med.
+Så er der spørgsmålet om videregivelse af oplysninger. Jeg kan forstå, at det løser man ved, at
+der bliver et samtykke, således at jernbaneselskaberne kan bruge oplysningerne - så vi får en
+enkelhed i det her.
+Jeg mener, at jeg tidligere over for ministeriet
+- selv om ministeren har svaret udførligt på
+mange andre spørgsmål - har rejst et spørgsmål
+om, hvordan det ser ud med, at praktikanter kan
+bruge den her ordning. Det kunne f.eks. være
+sygeplejerskestuderende, der skal i praktik på et
+andet sygehus et stykke vej fra skolen. Det gælder også journalistpraktikanter, som går på højskolen og skal ud på en lokal tv- eller radiostation, en avis osv. Hvordan ser det ud med det?
+Hvis ikke ministeren kan svare i dag, er jeg selvfølgelig tilfreds med, at vi får svaret senere.
+Det er faktisk de eneste ting, jeg har noteret
+mig som udestående problemer i forhold til den
+forbedring, der trods alt ligger i lovforslaget.
+Jeg håber meget, at vi den her gang er kommet dertil, at vi får en meget forenklet ordning,
+så der ikke er unødigt bøvl og unødig administration med det her. Det er jo mange tusinde
+mennesker, det her drejer sig om, så det skulle
+gerne køre på en enkel og smidig måde. Man
+skifter jo hele tiden, når der er optag af nye elever, så der skal være en enkel og smidig ordning
+til gavn for hele systemet, således at de unge
+mennesker kommer af sted og får deres uddannelse.
+Jeg skal også give tilslutning på Det Radikale
+Venstres vegne.";Bjarne Laustsen
+133140;Time;;Kl. 12:13
+133152;title_name;Tak til hr. Bjarne Laustsen, og så er det hr. Martin Henriksen.;Formanden
+133225;Time;(Ordfører);Kl. 12:13
+133258;name_party;":
+Det har tilsyneladende skabt en del forvirring, at
+der var lidt problemer med skiltningen heromme bagved, for jeg syntes, hr. Bjarne Laustsen
+talte om noget, som sådan set ikke havde noget
+med lovforslaget at gøre. Men sådan er det jo engang imellem.
+I forbindelse med kommunalreformen overgik de amtskommunale befordringsordninger
+
+Torsdag den 6. december 200.7 (L 26)
+for uddannelsessøgende til staten. I dag er det
+sådan, at det kun er muligt at få tilskud til abonnementskort, der typisk er på 30 dage, men med
+forslaget kan man også give tilskud til klippekort. Der kommer altså en mere fleksibel ordning for tilskud til befordring i forbindelse med
+korte eller vekslende forløb. Det vil sige, at hvis
+man f.eks. den ene uge er ude i 2 dage og den
+næste uge i 3 dage på bl.a. produktionsskoler, så
+tages der højde for det. Vi har bl.a. indført, at når
+man har nogle forløb på produktionsskolerne,
+skal man også have et forløb på en erhvervsskole. Det synes vi er ganske fornuftigt, og derfor
+tilrettelægger man det her.
+I forbindelse med at vi var nogle stykker, der
+gik meget op i, at man fik bevaret 10. klasse, fik
+vi dels gjort det - og det var jo godt for mange
+unge mennesker - og dels indført brobygning i
+10. klasse, som også kan indrettes meget fleksibelt, og derfor er det fornuftigt, at den her ordning også bliver mere fleksibel.
+Så udgår brobygningen af befordringsrabatloven og kommer i stedet ind under de enkelte
+love, så tilskuddet til befordring altid gives efter
+de regler, der gælder for den uddannelse, som
+eleven brobygger fra, friskole, folkeskole, efterskole osv.
+Der bliver også ændret på den måde, hvorpå
+man søger om tilskud. Ideen er, at man om et års
+tid kan gøre det over internettet, og på den
+måde kan det gøres lettere for den studerende
+og for det enkelte uddannelsessted. Og det enkelte uddannelsessted skal selvfølgelig hjælpe,
+hvis der er nogen, der eksempelvis er svagtseende osv., og som ikke lige umiddelbart kan benytte sig af de tekniske muligheder.
+Ministeren vil få en bemyndigelse til at fastsætte en øvre og en nedre grænse for tilskud til
+transport. Før kommunalreformen var: der også
+en øvre og en nedre grænse, men den blev afskaffet, da vi lavede den statslige ordning. Det
+har bl.a. betydet, at en elev i Randers har fået tilskud til transport til en uddannelse i København, selv om den samme uddannelse var i Randers. Det kan man ikke sige nej til i dag, men det
+vil man få mulighed for at sige nej til fremover,
+og det synes jeg egentlig er meget rimeligt.
+Det var der også nogle andre der benyttede
+sig af førhen, men hvis man vil have en uddannelse, som man kan tage forholdsvis tæt på sin
+bopæl, skal man selvfølgelig ikke rejse til den
+anden ende af landet for at tage den samme uddannelse - medmindre man flytter, det står selvfølgelig en frit for. Så jeg synes, det er udmær-
+
+279
+
+ket, at der kommer den bemyndigelse til ministeren.
+Så kommer der en hjemmel i SU-loven til at
+videregive oplysninger om SU-berettigelse til
+DSB og Arriva til brug for udstedelse af ungdomsrabatter, WildCard og 4U til SU-modtagere
+over 25 år. Det er en teknisk ændring, fordi vi jo
+her i Folketinget har vedtaget, at den her WildCard-ordning også skal gælde for studerende
+over 25 år. For at trafikselskaberne kan udstede
+et WildCard til dem, er der behov for, at de så at
+sige kan få lov til at se, om de pågældende rent
+faktisk også er SU-modtagere.
+Som hr. Bjarne Laustsen også var inde på - og
+der var noget, som hr. Bjarne Laustsen havde
+fået rigtigt fat på - har Datatilsynet haft nogle
+bemærkninger om det her. De er så blevet imødekommet fra ministeriets side, og det synes jeg
+er ganske fornuftigt. Det kan vi også tilslutte os.
+Med den nye lov vil det være sådan, at tilskud til transport ikke længere vil indgå i den
+studerendes egenindkomst. Det er så fjollet indrettet i dag, at hvis man lige er kommet op over
+de 70.000 kr., som man må tjene, når man modtager SU, og har fået tilskud til transport, ja, så
+er det rent faktisk blevet modregnet i SU, så man
+har kunnet komme ud for, at man skulle betale
+penge tilbage. Det bliver der rettet op på, så man
+ikke skal gøre det fremover, og det støtter vi alt
+sammen.";Martin Henriksen
+137442;Time;;Kl. 12:16
+137454;title_name;Der er en kort bemærkning fra hr. Bjarne Laustsen.;Formanden
+137514;Time;;Kl. 12:16
+137534;name_party;":
+Jeg vil gerne spørge hr. Martin Henriksen, om
+han har fortrudt, at Dansk Folkeparti er gået
+med til en brugerbetaling på det her område, så
+halvdelen af landets uddannelsessøgende og deres forældre får en større brugerbetaling end før
+det her lovforslag. Det skal også ses i lyset af, at
+Dansk Folkeparti har været ivrige fortalere for at
+give store skattelettelser til de rigeste i det her
+land.
+Er det virkelig en del af Dansk Folkepartis
+politik nu, at man skal øge brugerbetalingen på
+et område, hvor det er så væsentligt, når vi alle
+sammen er enige om, at 95 pet. af en ungdomsårgang skal have en uddannelse?";Bjarne Laustsen
+138160;Time;;Kl. 12:17
+138172;title_name;"Ordføreren.
+
+280
+
+Torsdag den 6. december 2007 (L 26)";Formanden
+138237;Time;;Kl. 12:17
+138259;name_party;":
+Det er næsten ærgerligt, at hr. Bjarne Laustsen
+ikke var her tidligere i dag, hvor fru Johanne
+Schmidt-Nielsen fra Enhedslisten også fortalte
+Folketinget om, hvordan der nu bliver åbnet en
+ladeport for brugerbetaling i uddannelsessystemet, selv om den lov, det drejer sig om, rent faktisk har haft den paragraf i mange år, før vi overhovedet kom til det her lovforslag, som vi formentlig vedtager, og det har ikke skabt brugerbetaling. Man kunne næsten forestille sig, at de
+to folketingsmedlemmer kunne danne et nyt
+parti, Spøgelsespartiet, der tror, at der kommer
+brugerbetaling, hver gang der er et nyt lovforslag fra regeringen, som bliver bakket op af
+Dansk Folkeparti.
+Vi skammer os ikke over, at vi har været med
+i kommunalreformen. Det, der er tale om på det
+her område, er, at fordi man er gået fra nogle
+amtskommunale ordninger til at lave en statslig
+ordning på det område, er der sket en harmonisering. Det er rigtigt, at der så er nogle, der oplever, at de faktisk får lidt mindre i tilskud fra staten, og at der er nogle, der oplever, at de får lidt
+mere i tilskud fra staten - og så er der nogle, der
+oplever, at der ikke er sket den store forandring.
+Men sådan er det jo, når man har at gøre med en
+harmoniseringsordning.
+Jeg tror egentlig, at det er meget fornuftigt,
+for man skal også kigge på nogle af de fordele,
+der er ved det.
+홢Kl. 12:18";Martin Henriksen
+139632;title_name;Hr. Bjarne Laustsen for en sidste kort bemærkning.;Formanden
+139692;Time;;Kl. 12:18
+139712;name_party;":
+Jeg kan forstå, at der i Dansk Folkepartis lommebog ikke står noget om, at man kan harmonisere nedad, det er altid opad.
+Vil hr. Martin Henriksen benægte, at cirka
+halvdelen af landets elever har fået en øget brugerbetaling som følge af det her lovforslag? Det
+er en faktuel kendsgerning, sådan er det, og det
+har stor betydning for udkantsområderne. Jeg
+troede bare, de var en del af Dansk Folkepartis
+politik, men da det kom til stykket, viste det sig,
+at det var noget helt andet. Nu er det jo ikke menighedsråd, vi taler om, det er befordringsrabat,
+og det drejer sig om, at halvdelen af landets studerende får en højere brugerbetaling som følge
+af det her lovforslag.";Bjarne Laustsen
+140397;Time;;Kl. 12:19
+140409;title_name;Ordføreren.;Formanden
+140431;Time;;Kl. 12:19
+140453;name_party;":
+Som jeg startede med at sige før, så er det sådan,
+at det jo, når man har en pose penge og så harmoniserer, vil være sådan, at nogle får lidt mindre og nogle får lidt mere. Altså, det mener jeg
+ikke er den store videnskab, det er sådan set ligetil. Hvis der er nogle problemer med uddannelsessøgende, der ikke kan få nok tilskud, fordi
+de er i et yderområde eller kunne være nogle andre steder i landet for den sags skyld, så vil vi
+sådan set godt være med til at gå ind og kigge
+på, om det skulle være et problem. Men hr. Bjarne Laustsen må jo vide, og det gør hr. Bjarne
+Laustsen sikkert, at Dansk Folkeparti, typisk i
+rigtig mange forhandlinger på uddannelsesområdet, faktisk gør en dyd ud af at sikre, at yderområderne også får en regional uddannelsesdækning. Hr. Bjarne Laustsen ryster på hovedet:
+han har ikke været med til forhandlingerne, og
+derfor ved han det ikke. Men hr. Bjarne Laustsen
+ville rent faktisk vide, hvis han havde været
+med, at vi i Dansk Folkeparti rent faktisk sikrer
+yderområderne: det gør vi faktisk meget ud af,
+og det vil vi også gøre fremover.";Martin Henriksen
+141540;Time;;Kl. 12:20
+141552;title_name;"Tak til ordføreren. Den næste i ordførerrækken
+er fru Nanna Westerby Jensen.";Formanden
+141638;Time;(Ordfører);Kl. 12:20
+141676;name_party;":
+Som det er gennemgået nogle gange efterhånden, så er hensigten med det her forslag at forenkle befordringsordningerne og administrationen af dem, sådan at der ikke er elever, der er
+omfattet af to forskellige ordninger og to forskellige administrationer. Det synes vi er rigtig
+hensigtsmæssigt. Vi vil også meget gerne forenkle, vi vil også meget gerne gøre det meget
+mere gennemskueligt.
+Men SF vil gerne påpege, at vi er bekymrede
+for indførelsen af det øvre loft og den øvre
+grænse og for, hvordan ministeren har tænkt sig
+at udmønte den øvre grænse for, hvor store afstande der gives befordringsrabat til. Og når ministeren skal udmønte den, er det for os rigtig
+vigtigt, at der er mulighed for, at man kan dispensere, sådan at elever kan få befordringsrabat
+til at tage på en uddannelse, som kun udbydes
+få steder i landet.
+
+(36)
+Torsdag den 6. december 2007 (L 26)
+Alligevel tilslutter vi os forslaget og er overvejende positive over for det, og vi glæder os til
+at behandle det i udvalget.";Nanna Westerby Jensen
+142685;Time;;Kl. 12:21
+142697;title_name;Tak til ordføreren. Så er det hr. Henrik Rasmussen.;Formanden
+142758;Time;(Ordfører);Kl. 12:21
+142791;name_party;":
+Som led i kommunalreformen 2007 blev der
+etableret en ny statslig befordringsordning for
+uddannelsessøgende på bl.a. ungdomsuddannelserne.
+Efter de gældende regler har deltagerne i et
+brobygningsforløb, der er sammensat i overgangen mellem grundskolen og ungdomsuddannelserne, ret til rabat efter lov om befordringsrabat.
+Med denne lov ønskes indført en mere fleksibel befordringsordning. Ændringerne har bl.a.
+til hensigt at lette administrationen og gøre det
+lettere for ansøgere at forstå systemet samt naturligvis hindre misbrug af ordningen.
+I loven foreslås det, at der skabes hjemmel til
+at fastsætte regler om en nedre grænse for rabat,
+så der ikke gives rabat på et større antal zoner
+end det, der også er nødvendigt for at dække befordringsbehovet på strækninger mellem den
+uddannelsessøgendes bopæl og uddannelsesstedet.
+Det foreslås endvidere, at der etableres et
+webbaseret selvbetjeningsmodul. Formålet med
+fællessystemet er, at den uddannelsessøgende
+med den elektroniske selvbetjening kan ansøge
+om rabat samt bestille sit uddannelseskort i
+samme arbejdsgang. Det må siges at være væsentlig nemmere.
+Derudover skal SU-loven ændres, således at
+udbetaling af en rejsegodtgørelse efter en kilometersats ikke påvirker mulighederne for indkomst ved siden af SU.
+Efter at WildCard-ordningen blev ændret den
+1. juli 2007 for rejsende over 25 år, så de nu også
+som modtagere af SU kan købe et WildCard, er
+man også nødt til fra jernbanernes side at kunne
+finde ud af, hvordan man kan se, at de nu også
+opfylder betingelserne. Det er klart, at man der
+må have et digitaliseret system, sådan at jernbanerne har mulighed for at kunne komme ind og
+kontrollere dette.
+Med disse bemærkninger bakker De Konservative helt op om forslaget.
+
+281";Henrik Rasmussen
+144547;Time;;Kl. 12:23
+144559;title_name;"Tak til hr. Henrik Rasmussen. Og så er det fru
+Malou Aamund som ordfører.";Formanden
+144642;Time;(Ordfører);Kl. 12:23
+144671;name_party;":
+Ny Alliance støtter lovændringen om befordringsrabat til uddannelsessøgende på ungdomsuddannelser. Vi synes, det er rimeligt, at
+tilskud gives efter de regler, der gælder for den
+uddannelse, som den uddannelsessøgende
+kommer fra, så vi undgår, at de studerende falder ned mellem to stole.";Malou Aamund
+144971;Time;;Kl. 12:23
+144983;title_name;Tak for det. Og så er det fru Johanne SchmidtNielsen som sidste ordfører.;Formanden
+145066;Time;(Ordfører);Kl. 12:23
+145106;name_party;":
+Vi synes, det er vældig godt, at man med forslaget anerkender, at det også for de kortere uddannelsesforløbs vedkommende er vigtigt at
+indrette de ydre rammer, så det giver mindst
+muligt besvær for de uddannelsessøgende at
+deltage i undervisningen. Og det betyder altså,
+at Enhedslisten som udgangspunkt er positivt
+indstillet over for forslaget.
+Det er vigtigt at sige, at det absolut ikke skal
+være adgangen til transport eller - som i det her
+tilfælde - prisen på transport, der er det afgørende for, om man kan få sig en uddannelse.
+Som studerende er det dyrt nok i sig selv at benytte den offentlige transport, og hvis man ikke
+har mulighed for at få befordringsrabat, jamen
+så er det helt håbløst.
+Enhedslisten hilser det derfor velkomment, at
+man i stedet for at udelukke én gruppe studerende fra nogle rettigheder, som andre studerende har, i stedet indretter befordringsrabatten efter, hvordan uddannelserne er bygget op. Det
+gælder både de studerende på brobyggerforløbene og for de studerende, der deltager i de kortere uddannelsesforløb, f.eks. på produktionsskolerne.
+I den forbindelse er det vigtigt at understrege,
+at de enkelte uddannelsesinstitutioner ikke skal
+have besvær med yderligere administration, fordi man ændrer lovgivningen, ligesom det er vigtigt, at ingen risikerer at få mindre i tilskud som
+følge af loven.
+Vi er også positivt indstillet over for, at DSB's
+og Arrivas ungdomsrabatordninger udvides til
+
+282
+
+Torsdag den 6. december 2007 (L 26)
+
+også at gælde studerende over 25 år. Hvorvidt
+man som studerende kan få rabat til transport,
+bør selvfølgelig afhænge af ens økonomiske situation, og man får ikke mere i SU, bare fordi
+man fylder 26 år. Så også på det her område er
+lovforslaget altså et opgør med en lov, der ikke
+er i trit med udviklingen.
+Samtidig er det altså vigtigt at sige, at Enhedslistens tilslutning til lovforslaget på det her
+punkt er helt afhængig af, om man sikrer aktivt
+samtykke fra de studerende, før trafikselskaberne kan trække personoplysninger ud om vedkommende. Og her er vi altså helt på linje med
+Datatilsynets bemærkninger i deres høringssvar
+til lovforslaget. Hvis det viser sig, at det ikke er
+tilfældet - altså at man sikrer aktivt samtykke vil vi få meget svært ved at stemme for lovforslaget.";Johanne Schmidt-Nielsen
+147384;Time;;Kl. 12:26
+147396;title_name;Tak til ordføreren. Så er det undervisningsministeren.;Formanden
+147460;Time;;Kl. 12:26
+147501;title_name;":
+Jeg vil blot slutte med at sige tak til ordførerne.
+Jeg tror, det er, fordi julen nærmer sig - i hvert
+fald virker det, som om vi kan ende med en enstemmig vedtagelse.
+I dag ydes der rabat på abonnementskort,
+men det passer ikke godt sammen med, at uddannelserne bliver mere fleksible, og at der er
+nogle, der kun skal af sted i ganske få dage på .
+brobygning - så duer det ikke, at der kun kan gives rabat på abonnementskort. Det er en af
+grundene til, at vi skal ændre det.
+Så har vi haft nogle enkelte problemer med
+helt ekstremt store transportudgifter, f.eks. er
+der en elev, som har fået ret til rabat på strækningen mellem Randers og København, selv om
+den samme uddannelse blev udbudt på flere uddannelsessteder i nærheden af hjembyen. Det er
+en af grundene til, at der nu vil blive fastsat både
+
+en øvre og en nedre grænse, og det vil selvfølgelig ske i samarbejde med trafikselskaberne, sådan at transportordningen alt i alt kan blive
+mere rimelig.
+Med hensyn til hvordan det finansieres, vil
+jeg sige, at det selvfølgelig vil være kommunalbestyrelsen, der tager sig af folkeskolerne og
+ungdomsskolerne, mens staten vil oprette en årlig pulje for de frie grundskoler og de frie kostskoler.
+Alt i alt er det en nødvendig konsekvens dels
+af kommunalreformen, dels af den udvikling,
+der er i uddannelserne, hvor flere elever og studerende er af sted i kortere perioder.";Bertel Haarder
+148889;Time;;Kl. 12:27
+148901;title_name;"Tak til undervisningsministeren. Der er ikke flere, der har bedt om ordet, og det betyder, at forhandlingen er sluttet.
+Jeg foreslår, at lovforslaget henvises til Uddannelsesudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Meddelelser fra formanden";Formanden
+149199;title_name;"Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, fredag den 7. december kl. 10.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen.
+Mødet er hævet. (Kl. 12.28).";Formanden

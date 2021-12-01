@@ -1,0 +1,423 @@
+split;reason;text;value
+0;;"6510
+
+Torsdag den 4. september 2008 (D)
+Finansministeren (Lars Løkke Rasmussen) har
+den 26. august 2008 meddelt mig, at han ønsker
+skriftligt at fremsætte:
+86. m ø d e";
+208;Time;"Dagsorden
+1) 2. behandling af lovforslag nr. L 187:
+Forslag til lov om ændring af aktieavancebeskatningsloven, kildeskatteloven og kursgevinstloven. (Fraflytterbeskatning af aktier og fradrag
+for tab på varekreditter til udenlandske koncernselskaber).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 30.05.2008.1. behandling
+04.06.2008. Betænkning 01.09.2008).";kl. 13.00
+585;Time;Meddelelser fra formanden;Kl. 13:01
+623;title_name;"Mødet er åbnet.
+Medlem af Folketinget Sophie Hæstorp
+Andersen (S) har meddelt mig, at hun på grund
+af graviditet og fødsel ikke vil kunne give møde
+i Tinget i mindst 7 dage, hvorfor hun anmoder
+om orlov, jf. Folketingets forretningsordens § 41,
+stk. 4, fra og med den 7. oktober 2008 og om, at
+stedfortræderen må blive indkaldt.
+Gitte Seeberg har meddelt mig, at hun har
+nedlagt sit hverv som medlem af Folketinget
+pr. 1. september 2008.
+Jeg har fra Det Radikale Venstre modtaget meddelelse om, at Jørgen Poulsen pr. 13. august 2008
+er indtrådt i partiets folketingsgruppe.
+
+Forslag til finanslov for finansåret 2009.
+(Lovforslag nr. L 188).
+Medlemmer af Folketinget Frank Aaen (EL) og
+Per Clausen (EL) har meddelt mig, at de ønsker
+skriftligt at fremsætte:
+Forslag til folketingsbeslutning om opfordring
+til at trække aktstykke nr. 199 om tilslutning til
+at yde en statslig garanti til dækning af Danmarks Nationalbanks eventuelle tab på likviditetstilførsel til Roskilde Bank A/S tilbage fra
+Finansudvalget.
+(Beslutningsforslag nr. B 147).
+Socialdemokratiets, Det Konservative Folkepartis og Det Radikale Venstres folketingsgrupper
+har indstillet henholdsvis Trine Gregorius, Finn
+Poulsen og Lars L. Nielsen som medlemmer af
+Danmarks Radios bestyrelse for den resterende
+del af indeværende funktionsperiode i stedet for
+Finn Aaberg, Erling Aaskov og Peter Hvid Jensen, som er udtrådt af bestyrelsen den 20. juni
+2008.
+De pågældende er dermed valgt.
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 187:
+Forslag til lov om ændring af aktieavancebeskatningsloven, kildeskatteloven og kursgevinstloven. (Fraflytterbeskatning af aktier og
+fradrag for tab på varekreditter til udenlandske koncernselskaber).
+Af skatteministeren (Kristian Jensen).
+(Fremsættelse 30.05.2008.1. behandling
+04.06.2008. Betænkning 01.09.2008).";Formanden
+2476;Time;"Forhandling
+
+Jeg har fra Ny Alliances folketingsgruppe modtaget meddelelse om, at partiet og folketingsgruppen fra og med den 28. august 2008 har ændret navn til Liberal Alliance.";Kl. 13:03
+2669;title_name;"Ønsker nogen at udtale sig? Hr. Frank Aaen - i
+ordførerrækken, forventer jeg.
+
+Torsdag den 4. september 2008 (L 187)";Formanden
+2796;Time;(Ordfører);Kl. 13:03
+2823;name_party;":
+Der står i betænkningen, at Enhedslisten her ved
+andenbehandlingen vil redegøre for sine synspunkter til lovforslaget og ændringsforslagene,
+og det vil jeg hermed gøre. Selvfølgelig støtter vi
+lukning af et skattehul. Det vil vi altid gøre.
+Det, der undrer os - i øvrigt sammen med
+Socialdemokratiet og SF, kan jeg se i betænkningen - er, at ministeren ikke vil ud med, hvilket
+provenu der var problemer med i den her sammenhæng. Vi får altid at vide, når der skal lukkes huller - i øvrigt også, når der bliver åbnet
+huller - at regeringen ikke rigtig ved, hvad det
+kommer til at koste, og så kommer det senere til
+at koste et milliardbeløb. Her er det formentlig
+også et meget stort beløb, der er på spil. Jeg synes, det er for ringe. Jeg håber, at vi inden tredjebehandlingen kan få lidt mere viden fra Skatteministeriet om, hvad der i virkeligheden er på
+spil af penge i forhold til den her sag.
+Men vi støtter selvfølgelig både ændringsforslagene og det samlede forslag.";Frank Aaen
+3809;Time;;Kl. 13:04
+3821;title_name;Skatteministeren.;Formanden
+3848;Time;;Kl. 13:04
+3883;title_name;":
+Når der ikke ved lukning af et skattehul opstår
+et provenu, som hr. Frank Aaen og andre kan
+bruge til fornyet udgift eller andre dispositioner,
+skyldes det, at et hul er noget, som var utilsigtet.
+Det vil sige, at vi allerede i det strukturelle niveau for skatteindtægter havde indregnet, at vi
+ville have fået pengene ind i statskassen. Så opstår der et hul, hvilket betyder, at det niveau, vi
+regnede med at nå, ikke bliver en realitet. Når
+vi så lukker hullet, vender vi tilbage til det indtægtsniveau, som var fastsat - og som regel også
+brugt - ved fastsættelsen.
+Hvis man derfor først siger, at vi fastsætter
+et niveau, når vi vedtager loven, og derefter regner det at lukke et hul - så loven bliver effektiv med som et provenu, er det altså at regne pengene som indtægt to gange. Det mener jeg ikke er
+rimeligt, og derfor er der ikke medregnet en provenugevinst ved at lukke hullet. Vi modvirker et
+utilsigtet provenutab.";Kristian Jensen
+4823;Time;;Kl. 13:05
+4835;title_name;"Hr. Frank Aaen for en kort bemærkning.
+
+6511";Formanden
+4890;Time;;Kl. 13:05
+4906;name_party;":
+Jamen nu ved jeg jo godt, at regeringen hellere
+vil give skattelettelser end at sørge for, at der er
+penge til velfærd. Vi har jo lige set landets kommuner gøre op, at de ikke kan få penge til en
+lang række ting, selv om der er brug for at modernisere skoler - få vinduerne ordnet, baderum
+ordnet - flere daginstitutioner, og hvad der ellers har været af ønsker. Det har regeringen afslået, samtidig med at den giver skattelettelser.
+Så jeg har slet ikke drømt om, at jeg kunne overbevise skatteministeren eller regeringen om, at
+der her var nogle penge, der kunne bruges til
+øget velfærd. Med det flertal, der i dag er mellem V, K og 0, er det jo helt omsonst at gøre sig
+den slags overvejelser.
+Men det ændrer jo ikke ved, at vi godt kunne
+få at vide, hvad der var på færde her. Hvor mange penge kunne vi have tabt? Hvor mange penge har vi eventuelt tabt på dét her område? Det
+synes jeg godt regeringen kan give os et svar på.
+Jeg lover, at jeg nok skal lade være med at komme med krav om, at det straks skal bruges til
+daginstitutioner, selv om jeg synes, det vil være
+en god idé.";Frank Aaen
+6002;Time;;Kl. 13:06
+6014;title_name;"Skatteministeren.
+홢";Formanden
+6043;Time;;Kl. 13:06
+6078;title_name;":
+Det virkede i starten, som om hr. Frank Aaen
+ikke havde lyttet til mit svar, for sandheden er,
+som jeg sagde, at det ikke er penge, der kan bruges igen. Der kunne jeg så næsten forstå på hr.
+Frank Aaens sidste del af besvarelsen, at det alligevel var trængt ind, at når man lukker et skattehul, så er det ikke penge, man kan lægge oven
+i det forbrug, man allerede har vedtaget, men
+derimod et spørgsmål om, hvad der var på spil.
+Der er det givetvis sådan, at hvis man kigger
+på samtlige de selskaber, der kunne have benyttet sig af hullet - flyttet ud, tømt selskabet for
+aktiver og flyttet tilbage - så var det et ganske
+anseeligt beløb. Jeg kan ikke på stående fod sige,
+om der er lavet en egentlig opgørelse over det
+eller ej. I givet fald, hvis det er muligt at lave,
+skal jeg gerne besvare spørgsmål om det.
+Til den anden del - den sådan mere polemiske del - skal jeg bare minde hr. Frank Aaen om,
+at det offentlige forbrug i år er 45 mia. kr. større,
+end da regeringen trådte til, og at kommunerne
+aldrig har haft anlægsbudgetter, der er større,
+end de er i år. Det eneste, regeringen bare har
+
+6512
+
+Torsdag den 4. september 2008 (L 187)
+
+bedt kommunerne om, er at overholde deres
+egne budgetter. Det er vel ikke helt urimeligt, at
+man beder folk om at overholde deres eget budget.";Kristian Jensen
+7379;Time;;Kl. 13:07
+7391;title_name;Hr. Frank Aaen.;Formanden
+7416;Time;;Kl. 13:07
+7432;name_party;":
+Jamen regeringen har jo sådan en fantasiverden,
+hvor de med nogle tal mener at kunne overbevise alle om, at det aldrig har været bedre med
+velfærden. Man kan bare gå ud og kigge på en
+københavnsk skole, man kan bare gå ud og kigge i Rødovre, så vil man se, hvilke problemer de
+har derude. Det er bare at gå ud og kigge i virkeligheden, så kan man se, at uanset hvilke tal, regeringen kommer med, har man altså prioriteret
+at sige nej til ønsker fra kommunerne, samtidig
+med at man giver 5 mia. kr. i skattelettelser.
+Uanset alle mulige mærkelige beregninger kan
+man da ikke komme uden om, at der er problemer med velfærden, og samtidig giver man
+skattelettelser.
+Det, jeg spurgte om, og det er jeg glad for at
+vi nu altså åbenbart kan få et svar på, var nemlig, hvor mange penge der kunne være røget ud
+af statskassen på den her konto. Så kunne jeg
+tænke mig også lige at få at vide: Hvor mange
+må man regne med at der er rendt ud?";Frank Aaen
+8375;Time;;Kl. 13:08
+8387;title_name;Skatteministeren.;Formanden
+8414;Time;;Kl. 13:08
+8449;title_name;":
+Det er sådan, at vi ikke har forventet, at der er
+særlig mange penge, der er rendt ud af statskassen, da det her er en hullukning, som er kommet, lige så snart vi blev orienteret om, at der
+var en åbning her, der begyndte at blive sat i system.
+Men bare lige for at genopfriske historien er
+det jo ikke noget nyt, at der var et hul på det her
+område. Det var faktisk helt tilbage i den daværende betænkning for år 2000, at der blev peget
+på en problemstilling. Det er blot sådan, at det
+først senere ved ændring af fortolkningen af
+EU-retten blev muligt at finde en løsning, der
+lukker hullet.
+Så til diskussionen om Københavns skolevæsen: Efter min måske svigtende hukommelse er
+det vist hr. Frank Aaens partifælle, der har været
+ansvarlig skoleborgmester på området et stykke
+tid, så jeg er sikker på, at hr. Frank Aaen er mere
+
+kendt med den nedslidning, som årtiers laden
+stå til har givet af det københavnske skolevæsen. Jeg synes bare, det er væsentligt at pointere,
+at i den aftale, regeringen har lavet med Kommunernes Landsforening, inklusive Københavns Kommune, er der plads til, at anlægsudgifterne for indeværende år er på et niveau, der
+er højere end nogen sinde før.";Kristian Jensen
+9641;Time;;Kl. 13:09
+9653;title_name;Så er det hr. Nick Hækkerup for en kort bemærkning.;Formanden
+9714;Time;;Kl. 13:10
+9732;name_party;":
+Det er også lidt i forlængelse af hr. Frank Aaens
+bemærkninger, nemlig spørgsmålet om, hvorvidt der er et provenu eller der ikke er et provenu, når man lukker et skattehul. Hvis der ikke er
+et provenu ved at lukke et skattehul, så er der
+vel i sagens natur ikke tale om noget skattehul. I
+øvrigt har jo også nogle af de svar, som er givet
+fra ministeriet, indikeret eller givet et billede af,
+at der er tale om, at den her fraflytterbeskatning
+er sat i system, og at der er tale om, at der er
+ganske mange penge, som unddrages den beskatning, som der ellers ville have været, hvis
+reglerne ikke havde haft det her skattehul i sig.
+Så kan man selvfølgelig godt sige, som ministeren gør, at det her var indregnet, og det vil sige, at det bare er et spørgsmål om at nå det gamle niveau. Men når vi står med en regel, der har
+den alder, som den her regel har, må man gå ud
+fra, at mekanismen har været sådan, at det
+manglende provenu selvfølgelig har sat sig spor
+i statsregnskabet, hvor man har kunnet se, at der
+så var en afvigelse i forhold til budgettet, og
+man i de efterfølgende år har budgetteret efter
+den provenuforventning, som lå i statsregnskabet. Hvis det er rigtigt, altså at budgettet er tilrettet det faktiske niveau, vil der selvfølgelig også være et provenu, når skattehullet lukkes.
+Jeg synes, det er interessant ikke alene for
+Folketinget, men også for offentligheden at vide,
+hvad det er for nogle penge, der bliver bragt i
+spil, og hvad den eventuelle alternative anvendelse af de penge kunne have været, og hvordan
+udvides vores skattegrundlag osv.";Nick Hækkerup
+11311;Time;;Kl. 13:11
+11323;title_name;Skatteministeren.;Formanden
+11350;Time;;Kl. 13:11
+11385;title_name;":
+Hvor ville jeg ønske, at hr. Nick Hækkerup havde ret, for til foråret, når Skattekommissionen er
+
+(815)
+Torsdag den 4. september 2008 (L 187)
+færdig med sit arbejde, får regeringen en opgave
+med at samle en buket af finansieringskilder til
+at kunne sætte skatten markant ned på arbejde,
+som vi har lovet, at vi vil gøre. Men hr. Nick
+Hækkerup overser bare, at regeringer altid har
+defineret det at lukke et skattehul som det at forhindre et utilsigtet provenutab. Jeg kan citere fra
+L 35 fra den daværende socialdemokratisk ledede regering i 1994-95-samlingen, og der skriver
+man, at andre elementer i lovforslaget har primært til formål at forhindre et fremtidigt provenutab. Jeg kan citere fra L 101 fra folketingssamlingen 1997-98 (2. samling) - det var i øvrigt den
+første samling, jeg var medlem af Folketinget og der står, at på længere sigt vil forslaget modvirke en udhuling af det danske skattegrundlag
+og dermed forhindre et utilsigtet provenutab, og
+endelig er der senest fra den sidste samling, da
+der var en socialdemokratisk ledet regering, et
+citat fra L 61, nemlig at lovforslaget har karakter
+af en værnsregel, der vil forhindre et utilsigtet
+provenutab.
+Det er altså den socialdemokratiske ansvarlige politik, når man er i regering, nemlig at lukningen af et skattehul ikke giver et provenu,
+men forhindrer et utilsigtet provenutab.
+Jeg håber, at hr. Nick Hækkerup vil leve op til
+den samme ansvarlighed i oppositionen, og vil i
+øvrigt bare sige igen: Hvor ville jeg dog ønske,
+at hr. Nick Hækkerup havde ret, for de penge vil
+jeg meget gerne have sat i spil i forbindelse med
+lavere skat på arbejde til foråret.";Kristian Jensen
+13028;Time;;Kl. 13:13
+13040;title_name;Hr. Nick Hækkerup for en sidste kort bemærkning.;Formanden
+13098;Time;;Kl. 13:13
+13116;name_party;":
+Jeg troede, at skatteministeren var ved at sige, at
+han ville ønske, at hr. Nick Hækkerup ville udvise samme ansvarlighed, når vi kommer i regering igen, men så langt rakte begejstringen over,
+om jeg mon havde ret, dog ikke.
+Argumentationen er jo formelt rigtig, men i
+den her situation, hvor reglerne faktisk har virket, man har haft en situation, hvor nogle har
+kunnet udnytte hullerne, har vi jo måttet konstatere, uanset hvad budgetterne har vist i statsregnskabet, at der har været et mindre provenu.
+Og det er alene et spørgsmål om, hvad det mindre provenu har været, som de her regler har
+ført til, sådan at man kan se, hvad størrelsen af
+det hul, som der har været i vores skattelovgivning, er, altså: Hvad kan det kvantificeres til?
+
+6513
+
+Men selv om man lægger den del til side, hvilket
+jeg ikke synes man skal, er der jo den anden del
+af det, nemlig: Hvad er størrelsen af det fremtidige provenutab? Altså, ikke bare det tilbageskuende, men også hvad der er vurderingen af
+betydningen af reglerne, sådan som de bliver
+ændret nu, er interessant, og der er jo så i hvert
+fald en beløbsstørrelse, som kan kvantificeres.
+Jeg synes, det er interessant, når vi vedtager en
+skattelovgivning, at vide, hvad virkningen er af
+den regulering, som vi sætter i værk for borgerne.";Nick Hækkerup
+14406;Time;;Kl. 13:14
+14418;title_name;Skatteministeren.;Formanden
+14445;Time;;Kl. 13:14
+14480;title_name;":
+Virkningen er, at de kommer til at betale den
+skat, vi hele tiden har regnet med, og dermed, at
+statskassen får det provenu ind, der blev beregnet i forbindelse med lovens vedtagelse i sin tid.
+Det er sådan, at vi er nødt til at beregne efter det
+niveau, der lægges som det strukturelle skatteniveau, og vi kan ikke lave den dobbeltregning,
+som hr. Nick Hækkerup lægger op til her.
+Jeg tror i øvrigt, at engang om lang tid, når
+hr. Nick Hækkerups parti nærmer sig regeringsbænkene igen, vil hr. Nick Hækkerups efterfølgere så også lægge op til at føre den samme ansvarlige linje, som hr. Nick Hækkerups forgængere førte, da de sad i regering sidst.";Kristian Jensen
+15140;Time;;Kl. 13:15
+15152;title_name;"Ja tak. Så er det hr. Jesper Petersen for en kort
+bemærkning.
+, Kl. 13:15";Formanden
+15246;name_party;":
+Tak for det. Jeg ved jo, at skatteministeren er
+gammel gymnast, og jeg ser, at han også er god
+til at udøve talgymnastik. Det at kunne blive
+ved med at fornægte virkeligheden ved at sige,
+at der er nogle budgetter, der er større, end de
+var sidste år, og at alt dermed er godt, er jo en
+øvelse, som regeringen virkelig gør hvad den
+kan for at udøve til perfektion - og således også
+skatteministeren.
+Men det er ikke det, der er det mest interessante i dag. Det er at fortsætte med behandlingen af det her lovforslag, der jo på mange måder
+er meget fornuftigt, men hvor spørgsmålet omkring provenu stadig driller. Og jeg tror ikke, at
+vi kommer det meget nærmere, ud fra de udvekslinger, som jeg allerede har hørt nu. Men en
+af grundene til, at lovforslaget fremsættes, er, at
+
+6514
+
+Torsdag den 4. september 2008 (L 187)
+
+SKAT er blevet opmærksom på nogle konkrete
+sager, hvor man altså har opdaget den her systematiske udnyttelse af skattehullet. Der har også
+været ting fremme omkring decideret hjælp fra
+professionelle i Schweiz til udnyttelse af hullet
+her i den danske skattelovgivning.
+I det mindste må udvalget vel kunne blive
+oplyst om, hvad der var på spil i de konkrete sager, som SKAT i foråret har set at der var problemer med. Kan udvalget ikke blive oplyst om,
+hvad der var på spil i de konkrete sager? Og så
+kan enhver jo tænke sit, med hensyn til hvad vi
+har mistet tidligere. Men lige præcis de sager,
+der bliver henvist til, må man jo have overblik
+over, og man må jo have kunnet se, hvad det
+kunne have kostet, hvis vi ikke indførte den her
+lovgivning.";Jesper Petersen
+16830;Time;;Kl. 13:17
+16842;title_name;Skatteministeren.;Formanden
+16869;Time;;Kl. 13:17
+16904;title_name;":
+Det, der er blevet rettet henvendelse til SKAT
+om, er viden om, at der er nogle, som er begyndt
+at rådgive specifikt på området her, decideret
+med henblik på at ville udnytte det. Grunden til,
+at lovforslaget blev fremsat på det tidspunkt og
+vi har den lidt mærkelige parlamentariske situation, at vi andenbehandler et lovforslag her i
+september for så at vedtage det i næste uge, er
+netop, at vi vil undgå, at den systematik skal
+komme til at koste statskassen penge, fordi det
+alene vil være et spørgsmål om, hvem der måtte
+have benyttet sig af mulighederne forud for
+fremsættelsen af lovforslaget.
+Med hensyn til spørgsmålet omkring talgymnastik, som hr. Jesper Petersen startede med, så
+troede jeg faktisk, at det var en henvisning til finansieringen af SF's finanslovforslag, hvor SF jo
+har medregnet en langt større værdi af forskellige elementer, end den egentlige skatteværdi er,
+jævnfør de officielle publikationer. Så jeg troede
+faktisk, at det sådan var sin egen talgymnastik,
+hr. Jesper Petersen henviste til.";Kristian Jensen
+17937;Time;;Kl. 13:18
+17949;title_name;Hr. Jesper Petersen for en sidste kort bemærkning.;Formanden
+18009;Time;;Kl. 13:18
+18030;name_party;":
+Man kan jo være uenig i, hvor stor udbredelsen
+af f.eks. private sundhedsforsikringer er, hvorfor
+der også kan være forskellige vurderinger af, -
+
+hvad omkostningen ved at have et skattefradrag
+på det er.
+Men igen tilbage til sagen, så vi ikke fortaber
+os i andet: Jeg må sige, at når skatteministeren er
+opmærksom på, at der har været tilbudt egentlig
+rådgivning i misbrug af de her regler, så må man
+formode, at der faktisk har været et marked for
+den rådgivning - ikke blot fremadrettet, men
+også bagudrettet. Nogle har anvendt de her regler før.
+Er det umuligt for vores ellers så dygtige
+skatteministerium at fremfinde eksempler på, at
+de her regler er blevet udnyttet? Det, at der er
+nogle, der decideret begynder at tilbyde rådgivning i det, tyder jo altså på, at nogle har anvendt
+det - noget, der også må kunne findes af Skatteministeriet, hvis man vil. Det er da interessant
+for borgerne at vide, hvor mange penge det
+egentlig er, vi er gået glip af her. Hvor mange
+penge er det folk har misbrugt reglerne til at
+stikke ned i lommerne på sig selv?
+Jeg vil opfordre skatteministeren til at tage
+den opgave alvorligt og prøve at finde ud af det
+og se, om man kan grave nogle konkrete eksempler frem, så vi kan se dem. Det var det.";Jesper Petersen
+19280;Time;;Kl. 13:19
+19292;title_name;Skatteministeren.;Formanden
+19319;Time;;Kl. 13:19
+19354;title_name;":
+Jeg kan godt forstå, at hr. Jesper Petersen vil væk
+fra diskussionen om den manglende finansiering af SF's finanslovforslag og tilbage til sagen,
+vi diskuterer her, for det er rigtigt, at SF's finanslovfinansiering mest af alt har karakter af den
+gamle gætteleg »tænk på et tal«.
+I sagen her er op og ned sådan, at vi på trods
+af de mange registreringer, vi har i SKAT, ikke
+har registreret alt ned i enhver detalje, og at jeg
+derfor ikke kan give en lovning på, at vi vil kunne fremhæve konkrete eksempler på, hvad udnyttelse af hullet i givet fald måtte være.
+Jeg synes, at det, der er grund til at rose Skatteministeriets folk for, er, at de har fundet en vej
+til at lukke et hul, der har været kendt også af
+den tidligere regering, som ikke tidligere har
+kunnet finde en løsningsmodel, der var kompatibel med vores internationale forpligtelser. Men
+det er lykkedes nu. Derfor er det bare - på trods
+af de muntre drøftelser og meningsudvekslinger, vi har haft her, der sådan varmer op til den
+nye sæson - glædeligt for mig som skatteminister, at det er et enigt Folketing, der har tilkendegivet, at det står bag både ændringsforslag og
+
+Torsdag den 4. september 2008 (L 187)
+vedtagelsen af lovforslaget her. Og det vil jeg
+slutte af med at glæde mig over.";Kristian Jensen
+20625;Time;;Kl. 13:20
+20637;title_name;"Tak til skatteministeren. Med al den glæde er
+der så flere, der ønsker at udtale sig?
+Det er ikke tilfældet, og så er forhandlingen
+sluttet, og vi går til afstemning.
+Afstemning";Formanden
+20825;Time;;Kl. 13:20
+20838;title_name;"Ønskes afstemning om ændringsforslag nr. 1-18
+tiltrådt af et flertal?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje
+behandling uden fornyet udvalgsbehandling.
+
+6515
+
+Hvis ingen gør indsigelse, betragter jeg det som
+vedtaget.
+Det er vedtaget.
+
+Meddelelser fra formanden";Formanden
+21140;Time;;Kl. 13:21
+21153;title_name;"Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag den
+9. september 2008, kl. 10.00.
+Jeg henviser til den dagsorden, der er opslået
+i salen. Jeg skal i øvrigt henvise til den omdelte
+ugeplan.
+Mødet er hævet. (Kl. 13.21).";Formanden

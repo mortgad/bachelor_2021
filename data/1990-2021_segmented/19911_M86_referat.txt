@@ -1,0 +1,2571 @@
+split;reason;text;value
+0;;"9741
+
+7/5 92: Dagsorden
+
+86. møde";
+67;Time;"Dagsorden:
+1) Tredje behandling af lovforslag nr. L 202:
+Forslag til lov om ændring af lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner. (Ændring af vægte
+for udgiftsbehovskriterier).
+Af indenrigsministeren (Thor Pedersen).
+2) Tredje behandling af lovforslag nr. L 255:
+Forslag til lov om ændring af lov om frikommuner.
+Af indenrigsministeren (Thor Pedersen).
+3) Tredje behandling af lovforslag nr. L 268:
+Forslag til lov om undladelse af folkeafstemning på Færøerne og i Grønland om forslag til
+lov om ændring af lov om Danmarks tiltrædelse af De Europæiske Fællesskaber m.v. (Danmarks tiltrædelse af traktaten om Den Europæiske Union).
+Af indenrigsministeren (Thor Pedersen).
+4) Tredje behandling af lovforslag nr. L 170:
+Forslag til lov om ændring af forskellige
+skattelove. (Nedsættelse af virksomhedsskatteprocenten m.v.).
+Af skatteministeren (Fogh Rasmussen).
+5) Tredje behandling af lovforslag nr. L 243:
+Forslag til lov om ændring af skattekontrolloven og forskellige andre skattelove. (Selvangivelsesreform).
+Af skatteministeren (Fogh Rasmussen).
+6) Tredje behandling af lovforslag nr. L 128:
+Forslag til lov om ændring af lægeloven.
+(Bestemmelser om information og samtykke).
+Af sundhedsministeren (Ester Larsen).
+
+9742
+
+7) Tredje behandling af lovforslag nr. L 235:
+Forslag til lov om ændring af lov om udnyttelse af vedvarende energikilder m.v. og lov om
+elforsyning.
+Af energiministeren (Anne Birgitte Lundholt).
+8) Tredje behandling af lovforslag rzr. L 258:
+Forslag til lov om ændring af lov om elforsyning. (Tilslutningsvilkår for decentrale kraftvarmeværker).
+Af energiministeren (Anne Birgitte Lundholt).
+9) Tredje behandling af lovforslag nr. L 208:
+Forslag til lov om ændring af lov om gymnasiet m.v. og af lov om kursus til højere forberedelseseksamen og om studieforberedende enkeltfagsundervisning for voksne m.v. (Tilskuds- og bidragsbestemmelser m.v.).
+Af undervisnings- og forskningsministeren
+(Bertel Haarder).
+10) Anden (sidste) behandling af beslutningsforslag nr. B 2:
+Forslag til folketingsbeslutning om omlægning af visse miljøafgifter.
+Af Jørgen Kvist Jensen (KRF) m.fl.
+11) Anden (sidste) behandling af beslutningsforslag nr. B 31:
+Forslag til folketingsbeslutning om øget genanvendelse.
+Af Trøjborg (S) m.fl.
+12) Anden behandling af lovforslag nr. L 194:
+Forslag til lov om ændring af lov om betalingsregler for spildevandsanlæg.
+Af miljøministeren (Per Stig Møller).
+13) Anden behandling af lovforslag nr. L 259:
+Forslag til lov om behandling af krav om tilbagebetaling af arbejdsmarkedsbidrag m.v.
+Af skatteministeren (Fogh Rasmussen).
+14) Anden behandling af lovforslag nr. L 260:
+Forslag til lov om ændring af toldloven og
+merværdiafgiftsloven (momsloven). (Afkortning af kredittider).
+Af skatteministeren (Fogh Rasmussen).
+
+9743
+
+7/5 92: Dagsorden
+
+15) Anden behandling af lovforslag nr. L 266:
+Forslag til lov om oprettelse af et transportråd.
+Af trafikministeren (Ikast).
+16) Anden behandling af lovforslag nr. L 245:
+Forslag til lov om ændring af lov om andelsboligforeninger og andre boligfællesskaber.
+(Ændring af prisfastsættelsesbestemmelserne
+for andele).
+Af boligministeren (Svend Erik Hovmand).
+17) Anden behandling af lovforslag nr. L 237:
+Forslag til lov om tillægsbevilling for finansåret 1991.
+Af finansministeren (Henning Dyremose).
+18) Første behandling af beslutningsforslag nr.
+B88:
+Forslag til folketingsbeslutning i henhold til
+grundlovens § 47 med hensyn til statsregnskabet for finansåret 1989.
+Af Finansudvalget.
+19) Første behandling af beslutningsforslag nr.
+B 80:
+Forslag til folketingsbeslutning om sikring
+af den fremtidige vandforsyning. v
+Af Martin Glerup (S) m.fl.
+20) Første behandling af beslutningsforslag nr.
+B 85:
+Forslag til folketingsbeslutning om byøkologi.
+Af Lise Hækkerup (S) m.fl.
+21) Første behandling af lovforslag nr. L 264:
+Forslag til lov om ændring af lov om individuel boligstøtte. (Nedsættelse af rente for boligydelseslån).
+Af Pelle Voigt (SF) m.fl.
+
+Meddelelser fra formanden:";kl. 10.00
+4078;title_name;"Jeg skal oplyse, at punkt 6 på dagsordenen,
+tredje behandling af lovforslag nr. L 128, efter
+anmodning fra sundhedsministeren udgår . af
+dagsordenen for mødet i dag.
+
+9744
+
+Den første sag på dagsordenen var:
+1) Tredje behandling af lovforslag m'. L 202:
+Forslag til lov om ændring af lov om kommunal udligning og generelle tilskud til kommuner
+og amtskommuner. (Ændring af vægte for udgiftsbehovskriterier).
+Af indenrigsministeren (Thor Pedersen).
+(Fremsat 22/1 92. Første behandling 31/1
+92. Betænkning 30/4 92. Anden behandling
+5/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+4722;name_party;":
+Det lovforslag, som Folketinget nu skal vedtage ved tredje behandling, er desværre et lidt
+misrøgtet lovforslag. Når jeg siger det, er det,
+fordi de forslag, der er stillet til ændringer af
+loven, i realiteten betyder, at hele hovedideen
+bag loven er borte. Det vil sige, at den ændrede
+udligning i hovedstadsområdet er taget helt ud
+af loven. Jeg synes, det er et alvorligt slag mod
+de kommuner, som ved initiativer skaber
+vækst. Men tilsyneladende er der et flertal her i
+Folketinget bestående af S, SF og CD, som synes, det er helt i orden, at man kvæler enhver
+form for initiativ hos de kommuner, der vil
+skabe vækst. Disse partier må selvfølgelig tage
+deres ansvar for, at en sådan lov gennemføres.
+I Fremskridtspartiet er vi dybt foruroligede
+over det, der er sket - det forlig, der er indgået
+mellem det store, hæderkronede Socialdemokrati, SF og så CD - for det er et slag i hovedet
+på kommunerne i hovedstadsområdet, som nu
+totalt får ødelagt mulighederne for at beholde
+en lille smule af den vækst, som de ellers havde
+et krav på.
+Men jeg går ud fra, at der er nogen, der kan
+forklare sig ud af denne sag.
+(Kort bemærkning).";Poul Nødgaard
+5877;name_party;":
+Jeg skal bare sige til hr. Poul Nødgaard, at
+dette lovforslag ellers klart vil røre ved en fordeling, der er skæv, som tager fra de fattige
+kommuner og giver til de rige.
+
+9745
+
+7/5 92: 3. beh. af f. t. 1. om ændring af lov om kommunal udligning m.v.";Klaus Hækkerup
+6149;title_name;"Når hr. Poul Nødgaard argumenterer vedrørende væksten, vil jeg sige, at de ændringer,
+der er, netop bevirker, at det kan betale sig for
+enhver kommune i hovedstadsområdet at gøre
+en indsats for at skabe nye arbejdspladser, ny
+produktion, ny beskæftigelse. Hvorfor? Jo, for
+selv om de folk, der bliver ansat, og som tjener
+pengene, bor i en anden kommune - og det gør
+de jo stort set i hovedstadsområdet - vil den
+kommune, der skaber arbejdspladserne, alligèvel få en meget stor andel af de nye indtægter,
+der skabes: det er det, Socialdemokratiets ændringsforslag sigter mod.";Klaus Hækkerup
+6736;title_name;"Jeg må bede om så megen ro i salen, at det i
+hvert fald er muligt ved ordførerbordet at høre,
+hvad der bliver sagt fra talerstolen. Jeg ved
+godt, der foregår væsentlige politiske forhandlinger i disse dage, men de behøver ikke at foregå her i salen under mødet.
+(Kort bemærkning).";Formanden
+7035;name_party;":
+Jeg tænkte nok, at jeg skulle høre udtrykket
+»fattige og rige kommuner«. Hvad er det dog
+for en gang sludder? Hvorfor er de fattige
+kommuner fattige? Det er de, fordi de i mange
+tilfælde har haft et overforbrug, og det kan ikke være rigtigt, at de kommuner, som ved initiativ og virkelyst skaber noget, skal aflevere så
+stor en del til de kommuner, der måske, hvis
+jeg må sige det, er lidt ødsle i det.
+For det er jo også det, der er tale om: at der
+er kommuner i hovedstadsområdet, som har
+haft for store udgifter til skolevæsen og en lang
+række andre ting, og som ikke har indrettet deres hverdag efter de midler, der var til stede.
+De kan nu bare læne sig tilbage i stolen, for hr.
+Klaus Hækkerups parti, Socialdemokratiet,
+sørger for, at vækstkommunerne afleverer til
+de kommuner, der bare stadig væk bruger løs.
+Det er en frygtelig politik!
+(Kort bemærkning).";Poul Nødgaard
+7920;name_party;":
+Det er fuldkommen ude i skoven, når hr.
+Poul Nødgaard taler om, at dette gavner kommuner, der i forvejen er ødsle med de midler,
+de har til deres rådighed. Alle kommuner, også
+i hovedstadsområdet, har i tillid til den aftale,
+
+9746
+
+Kommunernes Landsforening indgik med regeringen den 11. juni sidste år, indrettet sig på
+over en 3-årig periode at sætte tæring efter næring. Det, hr. Poul Nødgaard ønsker, er fuldkommen at rive grundlaget væk for den langsigtede politik, disse kommuner har planlagt,
+og som gør, at man kan tage hensyn til medarbejderne, man kan tage hensyn til brugerne:
+man hælder ikke nogen ud, så de lige pludselig
+står på gaden. Det, Fremskridtspartiet taler
+for, er en dybt, dybt uansvarlig økonomisk politik i relation til kommunerne.
+(Kort bemærkning).";Klaus Hækkerup
+8718;name_party;":
+Jeg kan næsten sige - hvis man kan bruge
+det udtryk fra talerstolen - do. do. For hvad er
+uansvarlighed? Det er jo præcis det, Socialdemokratiet etablerer her i Folketinget.
+Men jeg vil gerne lige sige til hr. Klaus Hækkerup vedrørende 11. juni-aftalen, som indenrigsministeren på udmærket vis indgik med
+kommunerne, at det blev ligesom antydet her
+fra Folketingets talerstol, at den lov, vi i dag
+skal vedtage, har betydet, at vi har grebet ind i
+11. juni-aftalen. Det er direkte usandt. Se vores
+betænkningsbidrag! Dér har vi dokumenteret,
+at der overhovedet ikke er tale om - set under
+ét - at gå ind i 11. juni-aftalen.
+Jeg synes, at når hr. Klaus Hækkerup fremsætter en sådan påstand, må det kræve en dokumentation. Ellers er det reelt at holde Folketinget for nar.
+(Kort bemærkning).";Poul Nødgaard
+9528;name_party;":
+Jeg kan desværre ikke imødekomme hr.
+Poul Nødgaards ønske. Det er helt klart, at der
+er kommuner, der har indrettet deres økonomi
+i tillid til 11. juni-aftalen og til, at det er en
+3-årig aftale, og deres planlægningsgrundlag er
+klart fjernet.
+Men hr. Poul Nødgaard taler om ansvarlighed og uansvarlighed og om uansvarlige kommuner. Hvordan måler man egentlig ansvarlighed og uansvarlighed på dette område? Det
+gør man ved at se, om kommunerne virkelig er
+i stand til at sætte tæring efter næring, om de er
+i stand til at sikre, at der er balance mellem
+indtægter og udgifter.
+
+9747
+
+.
+
+7/5 92: 3. beh. af f. t. 1. om ændring af lov om kommunal udligning m.v.";Klaus Hækkerup
+10209;title_name;"Må jeg spørge hr. Poul Nødgaard: Er hr.
+Poul Nødgaard i stand til at stå op her og fortælle, hvor godt eller hvor dårligt kommunerne
+egentlig klarer sig økonomisk i forhold til staten? Er det kommunerne, der har det store underskud? Er det kommunerne, der viser den
+store uansvarlighed? Er det dér, man går ud og
+låner milliarder af kroner hos borgerne for at
+dække et hul i pengekassen?
+(Kort bemærkning).";Klaus Hækkerup
+10634;name_party;":
+Jeg skal rigtignok love for, at hr. Klaus
+Hækkerup svinger sig op.
+Med hensyn til kommunernes økonomi er
+det kendt her i Folketinget af de medlemmer,
+der interesserer sig for kommunalpolitik i de
+områder, hvor de bor, at rigtig mange kommuner har en ualmindelig sløj økonomi. Og hvad
+er det, der er sket, hr. Klaus Hækkerup? Mange kommuner har levet af, at de til driften har
+brugt af de penge, som var krævet op hos borgerne til betaling af kloakbidraget. Nu har Folketinget sat en stopper for dette, og i løbet af
+nogle år skal kommunerne sørge for, at disse
+penge, som tilhører forsyningsvirksomhederne, kommer tilbage til kommunekassen.
+Når kommunerne har så sløj en økonomi
+mange steder, som de har, tror jeg, det skyldes
+et regulært overforbrug. Det kræver selvfølgelig, at jeg kan dokumentere det. Men jeg har
+dog en vis indsigt i nogle kommuners økonomiske forhold, og jeg tror faktisk på, at hvis
+kommunerne i meget højere grad nedprioriterede og dæmpede deres aktivitetsniveau, kunne man også godt få tingene til at hænge sammen. Men det er desværre tilfældet i rigtig
+mange af kommunerne, at økonomien er sløj.
+Jeg kræver endnu en gang, at hr. Klaus
+Hækkerup dokumenterer, at 11. juni-aftalen i
+relation til kommunerne skulle være overtrådt
+i forhold til det lovforslag, vi her har til tredje
+behandling, og som desværre er blevet misrøgtet - ikke alene på grund af S og SF, også CD
+har været med i aftalen. Det er dybt uansvarligt.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslaget
+
+9748
+
+vedtoges enstemmigt med 117 stemmer.";Poul Nødgaard
+12190;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+2) Tredje behandling af lovforslag nr. L 255:
+Forslag til lov om ændring af lov om frikommuner.
+Af indenrigsministeren (Thor Pedersen).
+(Fremsat 25/3 92. Første behandling 1/4 92.
+Betænkning 30/4 92. Anden behandling 5/5
+92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Forhandling";Formanden
+12608;name_party;":
+I Fremskridtspartiet er vi positive over for
+hele frikommunetanken, og vi stemmer for det
+lovforslag, der her er til tredje behandling.
+Jeg ønsker at knytte en enkelt kommentar til
+det foreliggende lovforslag, og det er med hensyn til Den Sønderjyske Jordfond, som indgår
+i hele dette frikommunekompleks. Der er tale
+om, at der skal oprettes en fond af bl.a. frigørelsesmidlerne, som amtet har vedrørende
+jordsalg. Vi finder i Fremskridtspartiet, at det
+kan være noget betænkeligt, at amtskommunen og kommunerne i det sønderjyske skal til
+at drive jordhandel og køb og salg af ejendom.
+Men vi erkender samtidig også, at der i det
+sønderjyske område er nogle specielle jordfordelingsproblemer, og derfor er vi positive over
+for det.
+Vi håber og tror, at de ansvarsbevidste politikere i det sønderjyske område sørger for, at
+det ikke kommer til at påføre skatteyderne udgifter. Det kan det meget vel gøre, hvis man
+køber jorden til en høj pris og sælger den til en
+rimelig lav pris. Det er disse forhold, vi har en
+vis betænkelighed ved, men vi stemmer alligevel for loven, for vi finder, at det nok kunne
+være en god ting at få gennemført. Vi har disse
+betænkeligheder, og vi må så vente og se, om
+de ansvarsbevidste sønderjyske politikere kan
+
+9749
+
+7/5 92: 3. beh. af f. t. 1. om ændring af lov om frikommuner";Poul Nødgaard
+13939;title_name;"sørge for, at vor skepsis viser sig at være ubegrundet.
+Hermed sluttede forhandlingen.
+Afstemning
+Lovforslaget
+vedtoges enstemmigt med 125 stemmer.";Poul Nødgaard
+14098;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+
+9750
+
+telove. (Nedsættelse af virksomhedsskatteprocenten m.v.).
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 19/12 91. Første behandling 6/2
+92. Betænkning 29/4 92. Anden behandling
+5/5 92. Ændringsforslag nr. I og 2 af 6/5 92 til
+tredje behandling af skatteministeren).
+Der var stillet 2 ændringsforslag af skatteministeren.
+Ændringsforslagene sattes først til forhandling.
+Ingen bad om ordet.
+
+Den næste sag på dagsordenen var:
+3) Tredje behandling af lovforslag nr. L 268:
+Forslag til lov om undladelse af folkeafstemning på Færøerne og i Grønland om forslag til
+lov om ændring af lov om Danmarks tiltrædelse
+af De Europæiske Fællesskaber m.v. (Danmarks
+tiltrædelse af traktaten om Den Europæiske
+Union).
+Af indenrigsministeren (Thor Pedersen).
+(Fremsat 8/4 92. Første behandling 22/4 92.
+Betænkning 24/4 92. Anden behandling 5/5
+92).
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet
+om dets overgang til tredje behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges enstemmigt med 121 stemmer.";Formanden
+15235;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+4) Tredje behandling af lovforslag nr. L 170:
+Forslag til lov om ændring af forskellige skat-
+
+Afstemning
+Ændringsforslag nr. I og 2 af skatteministeren
+vedtoges uden afstemning.
+Lovforslaget som helhed sattes derefter til
+forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 113 stemmer (S, KF, V, FP, CD,
+RV og KRF) mod 10 (SF).";Formanden
+15681;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+5) Tredje behandling af lovforslag nr. L 243:
+Forslag til lov om. ændring af skattekontrolloven og forskellige andre skattelove. (Selvangivelsesreform).
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 12/3 92. Første behandling 19/3
+92. Betænkning 29/4 92. Anden behandling
+5/5 92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+
+9751
+
+7/5 92: 3. beh. af f. t. 1. vedr. skattekontrolloven og forskellige andre skattelove
+
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 115 stemmer (S, KF, V, FP, CD,
+RV og KRF) mod 10 (SF).";Formanden
+16342;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+6) Tredje behandling af lovforslag nr. L 128:
+Forslag til lov om ændring af lægeloven. (Bestemmelser om information og samtykke).
+Af sundhedsministeren (Ester Larsen).
+(Fremsat 27/11 91. Første behandling 6/12
+91. Betænkning 29/4 92. Anden behandling
+5/5 92).";Formanden
+16700;title_name;"Som tidligere meddelt udgår dette punkt af
+dagsordenen.
+
+9752 홢";Formanden
+16776;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+8) Tredje behandling af lovforslag nr. L 258:
+Forslag til lov om ændring af lov om elforsyning. (Tilslutningsvilkår for decentrale kraftvarmeværker).
+Af energiministeren (Anne Birgitte Lundholt).
+(Fremsat 1/4 92. Første behandling 9/4 92.
+Betænkning 29/4 92. Anden behandling 5/5
+92).
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges med 113 stemmer (S, KF, V, SF, CD,
+RV og KRF) mod 7 (FP).
+
+Den næste sag på dagsordenen var:";Formanden
+17381;title_name;"7) Tredje behandling af lovforslag nr. L 235:
+Lovforslaget vil nu blive sendt til statsminiForslag til lov om ændring af lov om udnyttel- steren.
+se af vedvarende energikilder m.v. og lov om elforsyning.
+Af energiministeren (Anne Birgitte LundDen næste sag på dagsordenen var:
+holt).
+(Fremsat 19/2 92. Første behandling 18/3 9) Tredje behandling af lovforslag nr. L 208:
+92. Betænkning 29/4 92. Anden behandling .
+Forslag til lov om ændring af lov om gymnasi5/5 92).
+et m.v. og af lov om kursus til højere forberedelseseksamen og om studieforberedende enkeltDer var ikke stillet ændringsforslag.
+fagsundervisning for voksne m.v. (Tilskuds- og
+bidragsbestemmelser m.v.).
+Lovforslaget sattes til forhandling.
+Af undervisnings- og forskningsministeren
+(Bertel Haarder).
+(Fremsat 23/1 92. Første behandling 5/2 92.
+Ingen bad om ordet.
+Betænkning 30/4 92. Anden behandling 5/5
+92).
+Afstemning
+Lovforslaget
+vedtoges med 117 stemmer (S, KF, V, SF, CD,
+RV og KRF) mod 7 (FP).
+
+Der var ikke stillet ændringsforslag.
+Lovforslaget sattes til forhandling.
+
+9753
+
+7/5 92: 3-beh. af f. t. 1. om ændring af lov om gymnasiet m.v.
+
+Ingen bad om ordet.
+Afstemning
+Lovforslaget
+vedtoges enstemmigt med 121 stemmer.";Formanden
+18589;title_name;"Lovforslaget vil nu blive sendt til statsministeren.
+Den næste sag på dagsordenen var:
+10) Anden (sidste) behandling af beslutningsforslag nr. B 2:
+Forslag til folketingsbeslutning om omlægning af visse miljøafgifter.
+Af Jørgen Kvist Jensen (KRF) m.fl.
+(Fremsat 9/10 91. Første behandling 6/11
+91. Betænkning 29/4 92).
+Der var stillet I ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Ændringsforslaget sattes først til forhandling.
+Forhandling";Formanden
+19097;name_party;":
+Ændringsforslaget går ud på, at vi skal fjerne den urimelige afgift, der har været på mælke-, saft- og juicekartoner. Det kan Fremskridtspartiet fuldstændigt tilslutte sig, for det
+er jo hovedsagelig store familier, der betaler
+denne afgift.
+Derimod kan vi ikke tilslutte os ændringsforslaget om, at statens indtægtstab på ca. 80
+mio. kr. skal hives ind igen ved at forhøje miljøafgifterne generelt. Det, der er lagt op til her,
+- også fra regeringen, som jo tilslutter sig ændringsforslaget - er, at fordi det skal se ud, som
+om skattetrykket skal falde, altså at trækprocenten ikke må stige, så lægger man nye afgifter på næsten alle steder. Her er det nye miljøafgifter, man vil prøve at pålægge. Derfor må
+Fremskridtspartiet stemme imod både selve
+beslutningsforslaget og ændringsforslaget, for
+vi ønsker ikke, at vi skal indføre nye miljøafgif-
+
+9754
+
+ter for at kunne fjerne en eksisterende afgift. Vi
+mener, at vi må finde dækning ved offentlige
+besparelser i stedet.";Aage Brusgaard
+20086;name_party;":
+Socialdemokratiet er naturligvis glad for, at
+miljøafgifterne kan få en lidt bedre social profil ved, at man fjerner afgiften på engangsemballage for mælk og lægger andre miljøafgifter
+på. Men det, der er det interessante, er, at der
+nu er et flertal, inklusive regeringspartierne og
+herunder Venstre, der skal fremlægge en plan
+for øgede miljøafgifter.
+Det synes vi er godt, for det er vigtigt at bruge miljøafgifterne i en fornuftig miljøpolitik,
+og det er også godt at diskutere miljøafgifter
+som et supplement til de indtægter, velfærdssamfundet skal have. Man må sige, at det er
+markant, at Venstre tilslutter sig dette, når man
+har fulgt debatten og ikke mindst fulgt udtalelser fra skatteminister Anders Fogh Rasmussen,
+der hele tiden har gået på, at nye skatter ikke
+er bedre skatter: de eneste skatter, der er bedre
+skatter, det er lavere skatter. Måske har Venstre følt sig tvunget til at tilslutte sig det flertal,
+der siger, at nu skal vi have en plan for anvendelse af øgede miljøafgifter. Det synes vi er
+fornuftigt, og vi hilser denne plan meget velkommen.";Trøjborg
+21171;title_name;"Efter forretningsordenen omtales ministre
+kun med deres titel.
+Hermed sluttede forhandlingen om ændringsforslaget.
+Afstemning
+Ændringsforslaget
+vedtoges uden afstemning.
+Forslaget som helhed sattes derefter til forhandling.
+Forhandling .";Formanden
+21428;name_party;":
+Jeg synes, at det er beskæmmende, at hverken Venstremedlemmer eller konservative
+medlemmer tør gå op på talerstolen og forklare, at nu ønsker de altså en ny skat på øget
+
+9755
+
+7/5 92: 2. (sidste) beh. af f. t. beslutn. om omlægning af visse miljøafgifter";Aage Brusgaard
+21705;title_name;"genanvendelse og øget genbrug. Ikke én eneste
+hverken fra Venstre eller fra De Konservative
+tør gå herop trods det, at de på utallige møder
+rundt om i landet påstår, at de ikke ønsker et
+højere skattetryk, og at de vil have skattetrykket ned ved besparelser i den offentlige sektor.
+Det passer ikke! Når der skal stemmes om
+konkrete forslag, stemmer Venstre og De Konservative for SF's forslag. Det er også på dette
+område fuldstændig én potte, om man stemmer på Venstre, De Konservative eller SF.
+Jeg mener i hvert fald, at det mindste, man
+kunne gøre, var at gå herop på. talerstolen og
+prøve at forsvare sin holdning i stedet for kun
+at gøre det ude i forsamlingshusene. Det er jo
+her i Folketinget, beslutningerne træffes, og ikke ude i det lille forsamlingshus.
+
+9756
+
+står i regeringens redegørelse om miljøindsatsen i 1990'erne. Så jeg fatter ikke, hvorfor det
+skal gøres til et specielt politisk spørgsmål
+mellem Venstre og De Konservative. Regeringen har hele tiden tilkendegivet at ville anvende miljøafgifterne som instrument til at forbedre miljøet.
+'
+(Kort bemærkning).";Aage Brusgaard
+22807;name_party;":
+For at det ikke skal komme til at fremstå,
+som om det bare er noget, Fremskridtspartiet
+påstår, er jeg nødt til på grund af miljøministerens kommentarer her ordret at citere, hvad regeringen tilslutter sig. Regeringen tilslutter sig,
+at »et flertal (udvalget med undtagelse af
+Fremskridtspartiets medlem af udvalget) finder, at provenutabet i forbindelse med fjernelse af afgiften på engangsemballage til mælkeprodukter dækkes ved forhøjelse af miljøafgifter.« - Det er altså en ny og, forhøjet skat. »Det bør dog ske i en større sammenhæng i
+efteråret 1992. Derfor opfordrer flertallet regeringen til at fremlægge en samlet plan for øget
+anvendelse af miljøafgifter i begyndelsen af
+folketingsåret 1992-93.«
+Og disse ord tilslutter regeringen sig.
+Er det ikke en ny skat, og er det ikke et nyt
+øget skattetryk? Ellers ved jeg ikke, hvad det
+er.
+
+Miljøministeren (Per Stig Møller):
+Først vil jeg gerne takke Kristeligt Folkeparti, fordi Kristeligt Folkeparti så ihærdigt har
+påpeget problemet i forbindelse med mælkeafgiften, som blev indført for at gøre et miljømæssigt forsøg på at få en anden mælkeemballage. Dette forsøg er altså glippet. Så foreslår
+vi, at denne afgift lettes. Det vil være til glæde
+for mange, der har betalt for et forsøg, man ikke får noget ud af.
+Til gengæld er det stadig væk nødvendigt, at
+vi forbedrer vores miljø. Der er ikke tale om,
+som hr. Aage Brusgaard siger, at vi forhøjer
+skatte- og afgiftstrykket i Danmark med denne
+(Kort bemærkning).
+omlægning. Der er tale om, at vi med denne
+omlægning fastholder det skatte- og afgifts- Marianne Jelved (RV):
+tryk, der er i forbindelse med mælkeafgiften.
+Af hensyn til historieskrivningen vil jeg gerSå det vil sige, at der ikke er noget som helst ne komme med en kort bemærkning, men først
+sandt i, at Venstre og De Konservative her takke hr. Aage Brusgaard for den udmærkede
+stemmer for et højere afgiftstryk. Vi stemmer oplæsning af betænkningsbidraget, som jo helt
+for denne omlægning, som vil betyde, at vi klart tilkendegiver, hvad det er, der stemmes
+lægger den over et sted, hvor det har miljø- om og besluttes nu.
+mæssige virkninger. Og der er da ingen her,
+Vi har hørt skatteministeren være fremme
+der er i tvivl om, at markedsmekanismerne kan med forslag om omlægning af skattesystemet
+forbedre miljøet, for man bevarer stadig væk med henblik på at øge miljøafgifterne. Det er
+friheden, samtidig med at man forbedrer mil- Det Radikale Venstre principielt enigt i. Vi har
+jøet. Det er den eneste måde at komme langt hørt det samme fra miljøministeren, og derfor
+på i forbindelse med disse ting. Derfor er det er det lidt besynderligt, at vi har været igennem
+en omlægning, der finder sted, en omlægning sådan en lang proces i Miljøudvalget for at nå
+til fordel for miljøet, uden at afgiftstrykket sti- frem til enighed, for at nå frem til noget, som
+ger.
+også regeringen kunne stemme for. Men jeg vil
+Så vil jeg gerne sige, at det jo ikke er rigtigt, I gerne anerkende, at regeringen også er med, og
+at det er en nyopdagelse for partiet Venstre. derfor ser vi frem til, at regeringen fremlægger
+Skatteministeren har ofte talt om dette. Det en samlet plan - og dermed mener vi virkelig
+i
+
+9757
+
+7/5 92: 2. (sidste) beh. af f. t. beslutn. om omlægning af visse miliøafgifter";Aage Brusgaard
+26088;title_name;"en stor plan - om miljøafgifter som afløsningsmulighed for personbeskatning.
+Så hr. Aage Brusgaards bekymring har ingen steder hjemme.
+(Kort bemærkning).";Marianne Jelved
+26257;name_party;":
+Jeg skal til hr. Aage Brusgaard sige, at jeg
+naturligvis helt kan tilslutte mig de bemærkninger, som miljøministeren gjorde for et øjeblik siden. Men jeg vil gerne endnu en gang
+understrege - også i fortsættelse af det, fru Marianne Jelved netop har sagt - at der ikke er
+tale om, at vi forøger afgifterne: der er tale om,
+at vi ændrer afgifterne. Vi fjerner afgiften på
+mælkeemballage: så får vi et provenutab i staten, og som det ansvarlige parti, Det Konservative Folkeparti er - og regeringen i øvrigt også - ønsker vi fortsat penge i statskassen, så vi
+kan klare vores udgifter. Derfor må vi på andre
+områder forhøje afgiften. Og det er det, der tilkendegives med betænkningsbidraget.
+Jeg skal også bare for god ordens skyld sige,
+at når vi, som fru Marianne Jelved bemærkede
+det, har været en smule længe om at nå frem til
+enighed, var det kun et spørgsmål om, hvordan
+vi skulle foretage denne omlægning. Der har
+ikke fra de to regeringspartiers side været nogen tvivl om, at vi ønskede en omlægning. Vi
+ønskede blot at se tingene i en helhed og være
+helt sikre på, at der ikke kun var flertal for at
+fjerne en afgift, men et tilsvarende flertal for at
+sikre mod det provenutab, som derved ville
+opstå.
+(Kort bemærkning).";Eva Møller
+27508;name_party;":
+Det bliver måske gentagelser, men for at det
+skal stå helt klart for hr. Aage Brusgaard, må vi
+sige, at der her ikke er tale om noget forslag
+om forhøjelser som sådanne af miljøafgifterne,
+men om en omlægning og en revurdering til
+efteråret, således at man får lagt miljøafgifterne et mere hensigtsmæssigt sted end lige netop
+på mælkekartoner. Hr. Aage Brusgaard burde
+være glad for, at regeringen ønsker at være
+med til at fjerne afgiften netop på dette område, idet mælkekartonsafgiften som sådan jo
+har været lidt problematisk. Om ikke andre ville vel i hvert fald landbruget være glad for at få
+et lille plus på denne konto.
+
+9758
+
+(Kort bemærkning).";Peter Hansen-Nord
+28174;name_party;":
+Jeg tager kun ordet for at understrege, at jeg
+tror, hr. Aage Brusgaard læser betænkningsbidraget lidt rigtigere end Venstres og Det Konservative Folkepartis ordførere.
+Det perspektiv, der ligger i betænkningsbidraget, er jo, at der i begyndelsen af folketingsåret 1992-93 skal fremlægges en samlet plan
+for øget anvendelse af miljøafgifter, hvilket fru
+Marianne Jelved også understregede her. Det
+er SF-politik, at vi skal have et skattesystem,
+der lægger større vægt på miljøafgifter, og jeg
+synes, det er fint, at der er et så stort flertal i
+Folketinget, som i betænkningsbidraget bakker den grundtanke op.
+Det synes jeg sådan set godt Venstre og De
+Konservative kunne sige her, for det, de svarer
+på, er den anden del af diskussionen, nemlig at
+vi selvfølgelig også skal finde de penge, vi ikke
+får i statskassen, fordi vi ophæver afgiften på
+mælkekartoner, til Miljøministeriet, for de gik
+jo direkte i Miljøministeriet.
+Vi har også tilkendegivet i betænkningsbidraget og ved denne beslutning, at Miljøministeriet selvfølgelig ikke skal bøde for den større omlægning, der skal finde sted, og som omfatter andre dele af skattesystemet.
+(Kort bemærkning).";Gade
+29355;name_party;":
+Både fru Marianne Jelved, fru Eva Møller
+og hr. Peter Hansen-Nord udtalte herfra, at
+dette her ikke var et oplæg til øget skat. Det
+kommer så til at stå i de grønne hæfter, når nu
+vi når frem til målstregen 1992-93 med et forslag om øget beskatning med miljøafgifter.
+Men jeg må lige gøre opmærksom på, at
+Kristeligt Folkepartis beslutningsforslag gik
+ud på at fjerne den afgift, der er på mælke-,
+saft- og juicekartoner med 80 mio. kr., og man
+finansierede det véd at lægge det på affalds- og
+råstoffer. Det kunne'der ikke blive flertal for,
+fordi det var i balance. Det, der så bliver flertal
+for, er det, jeg har læst op én gang før, nemlig
+at der fremlægges en samlet plan for øget anvendelse af miljøafgifter i begyndelsen af folketingsåret 1992-93.
+Det er klart, at det, der lægges op til, er en
+større afgift end de 80 mio. kr., som det er sagt
+flere gange. Så det er en øget skat, det er en
+
+9759
+
+7/5 92: 2. (sidste) beh. af f. t. beslutn. om omlægning af visse miljøafgifter";Aage Brusgaard
+30361;title_name;"øget afgift, det er en del af det, der vil øge skattetrykket for den ganske almindelige borger.
+Og det mener jeg at I bør sige til vælgerne allerede nu.";Aage Brusgaard
+30525;title_name;"Man taler ikke direkte til medlemmerne.
+Miljøministeren (Per Stig Møller):
+Nu synes jeg ikke vi skal sprede mere forvirring, end nødvendigt er.
+En samlet plan betyder da, at man ikke bare
+hæver miljøafgifterne, men også ser på, hvilke
+afgifter eller hvilken del af skattetrykket man
+så letter. For det, vi taler om, er jo, at vi ønsker
+flere miljøafgifter for at forbedre miljøet, men
+samtidig det samme skatte- og afgiftstryk. En
+samlet plan betyder altså, at man ikke kun taler om miljø, men at man også ser på den anden side, hvor man letter.
+Derfor er det ikke rigtigt, at vi ikke har forholdt os til begge dele. Alle forslag, som har
+ligget i udvalget, og som har været forhandlet,
+har regeringspartierne også haft en samlet plan
+med, for det har regeringen i miljøindsatsen i
+1990'erne. Det er der ikke noget nyt i.
+Men jeg går heller ikke ud fra, at Det Radikale Venstre i dag melder ud, at man vil have
+et højere skatte- og afgiftstryk - det er sagt til
+SF - og det vil sige, at det er en omlægning.
+Det er altså en samlet plan med en omlægning,
+vi forventer os, og derfor har hr. Aage Brusgaard ikke ret i, at skatte- og afgiftstrykket stiger ved denne beslutnings første led. Det er en
+omlægning, der finder sted. Flytter man 100
+mio. kr. fra det ene sted og lægger dem et andet sted, er det det samme samlede tryk. Det
+er, hvad det drejer sig om.
+(Kort bemærkning).
+.Peter Hansen-Nord (V):
+Jeg kan selvfølgelig kun bekræfte, hvad der
+lige er blevet sagt. Det er også sådan, jeg opfatter det. Det er klart, at man agter at drøfte afgiftsproblematikken, men det er en generel diskussion, som vi skal have til efteråret. Til den
+tid kan vi diskutere, hvad det er for nogle instrumenter, der skal bruges. Det, der her bliver
+sagt, er, at man skal forøge disse instrumenters
+anvendelsesmuligheder. Der er ikke noget provenumæssigt i det, der ligger her. Lad os tage
+
+9760
+
+diskussionen til efteråret. Her og nu er der altså ikke oplæg til nogen former for forhøjelser
+som sådanne: den diskussion har vi til gode.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslaget til folketingsbeslutning
+vedtoges med 116 stemmer (S, ICF, V, SF, CD,
+RV og KRF) mod 7 (FP).";Formanden
+32700;title_name;"Dette vil blive meddelt miljøministeren.
+Den næste sag på dagsordenen var:
+11) Anden (sidste) behandling af beslutningsforslag llr. B 31:
+Forslag til folketingsbeslutning om øget genanvendelse.
+Af Trøjborg (S) m.fl.
+(Fremsat 27/11 91. Første behandling 16/1
+92. Betænkning 29/4 92).
+Der var stillet 6 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Ændringsforslagene sattes først til forhandling.
+Forhandling";Formanden
+33163;name_party;":
+Det er med betydelig tilfredshed, SF konstaterer, at et stort flertal nu vil give ministeren
+bemyndigelse til at fastsætte regler om tilbagetagningspligt som et supplement til de eksisterende styringsmidler inden for miljøområdet.
+Det kan blive et kraftigt skridt fremad i miljøpolitikken, hvor vi på området hårde hvidevarer kunne begynde med at pålægge en tilbagetagningspligt, sådan at vi får sikkerhed for, at
+man indfører renere teknologi allerede ved
+produktionsprocessens start.
+Det er faktisk et betydeligt skridt fremad.
+Om det bliver det i praksis, vil jo afhænge af,
+om miljøministeren vil bruge det instrument,
+men jeg tager konstateringen af, at regerings-
+
+9761
+
+(611)
+7/5 92: 2. (sidste) beh. af f. t. beslutn. om øget genanvendelse";Gade
+33922;title_name;"partierne også tiltræder ændringsforslaget fra
+Socialdemokratiet, Det Radikale Venstre og
+SF, som et tegn på, at regeringen er indstillet
+på at bruge denne bestemmelse også i de forhandlinger, man har med forskellige brancher.
+Når jeg bruger ordet »bruge« den, mener
+jeg på den ene side, at man har instrumentet i
+baghånden med henblik på at etablere frivillige aftaler. SF er ikke imod at lave frivillige aftaler, bare de omfatter hele branchen, og vi
+mener, det kan blive et vigtigt instrument også
+i diskussionen med brancher om at lave frivillige aftaler. Men det betyder på den anden side
+også, at vi, når vi ved, det miljømæssigt er rigtigt at have tilbagetagningsordninger, er i den
+situation, at vi kan skride til handling og pålægge en branche tilbagetagning.";Gade
+34703;name_party;":
+I Socialdemokratiet er vi glade for det ændringsforslag, der betyder, at vores forslag
+kommer igennem.
+Vi er også glade for det ændringsforslag, der
+betyder, at vi nu får tilført vores miljøbeskyttelseslov et element, som hører til i en moderne
+miljøbeskyttelseslov, nemlig det element, der
+hedder muligheden for tilbagetagningspligt.
+Det har været ganske vanskeligt at trække
+miljøministeren til truget, men jeg synes ikke,
+han skal have utak for, at det er lykkedes at få
+et bredt flertal for det.
+For Socialdemokratiet er det vigtigt at få slået fast, at vi i Danmark har et godt affaldshåndteringssystem, baseret på kommunal organisering. Dette system skal fastholdes. Det,
+det handler om, er, at vi kan bygge oven på
+systemet, at vi kan få tilbagetagningspligt gennemført på udvalgte områder, hvor der er produkter, som udgør en særlig miljørisiko. Vi har
+allerede eksempler på det. pvc-aftalen er et
+godt eksempel, og det kan videreføres på en
+række andre produkter.
+Det er en modernisering, som der var behov
+for. Vi er glade for, at der er så stort et flertal
+bag den.";Trøjborg
+35801;name_party;":
+Jamen vi kan da godt tage debatten allerede
+nu. Her var et andet typisk eksempel. Hr. Trøjborg var oppe at rose regeringen, fordi den
+kunne tilslutte sig Socialdemokratiets tanker
+og ændringsforslag.
+
+9762
+
+Vi behandler her to beslutningsforslag i
+træk, hvor regeringen bliver fuldstændig trukket i ørerne og næsen af de små partier eller de
+partier, man normalt er modstander af under
+valgkampen.
+Det er altså Socialdemokratiet og partierne
+ude på den fløj, der bestemmer, hvad regeringens politik skal være også på dette område.
+Fremskridtspartiet har ikke noget imod øget
+genanvendelse, og vi har heller ikke noget
+imod, at man tager tingene tilbage dér, hvor
+man køber nyt, f.eks. når det gælder akkumulatorer og dæk. Nu er jeg selv mekaniker og
+har været det i 20 år. Det er min erfaring gennem de 20 år, at hver gang man køber nye dæk,
+afleverer man de gamle. Det samme gælder,
+når man får et nyt batteri: så lader man det
+gamle stå på autoværkstedet. Det er ikke noget, man skal lovgive om, det er noget, der sker
+ude i det virkelige liv, og det har det faktisk
+gjort i de sidste 30 år uden de fjerneste problemer.
+Da vi havde første behandling af forslaget,
+var jeg så fræk at spørge alle de medlemmer af
+Socialdemokratiet, hvis navne var anført på
+forslaget, hvor mange af dem der kørte på genbrugsdæk, for det er der jo også lagt op til at
+man skal købe.
+Det viste sig, at der ikke var én eneste, der
+kørte på genbrugsdæk, selv om man har kunnet gøre det de sidste 30 år. Der laves genbrugsdæk inden for alle mønstre, inden for alle
+størrelser og typer og med eller uden slanger.
+Men det er der altså ingen der gør.
+Alligevel vil Socialdemokratiet lovgive om,
+at man skal til at køre på genbrugsdæk. I kan
+jo bare gøre det, hvis I har lyst - det er helt
+frivilligt.
+Det er en helt overflødig og bureaukratisk
+lov, som overhovedet ingen hjemmel har i det
+danske samfund, for vi er miljøbevidste, vi er
+bevidste med hensyn til at genbruge tingene,
+hvis vi kan. F.eks. genbruger vi ca. 80 pet. af de
+dæk, der kan bruges, og højere kan vi ikke
+komme op.
+Miljøministeren (Per Stig Møller):
+Jeg får lyst til en lidt ironisk bemærkning
+først. Det er jo næsten, som om der er en del
+ordførere, der har været i Tivoli og har gået
+rundt i spejlkabinettet og så stillet sig foran det
+spejl, hvor de kunne komme til at se størst ud,
+og den øvelse har de taget med herind.
+
+9763
+
+7/5 92: 2. (sidste) beh. af f. t. beslutn. om øget genanvendelse";Aage Brusgaard
+38265;title_name;"Jeg erindrer ikke noget som helst om, at regeringen er blevet trukket til truget. Jeg konstaterede, at regeringens forslag er blevet sat ind,
+og at en del af de ikke særlig velmotiverede
+forslag fra Socialdemokratiet er blevet taget
+ud, bl.a. at man skulle have mælkekartoner tilbage til fabrikkerne, så man fik arbejdsmiljøproblemer. Det har vi da heldigvis fået taget
+ud. Vi har fået sat det ind, vi ville, nemlig en
+tilbagetagning, som vi er i gang med i forvejen.
+Det er da klart, at det er udmærket at få en
+hjemmel til, at den også kan blive pligtig - det
+er vi da ikke uenige i - men jeg går ud fra, at
+der kommer en række frivillige tilbagetagningsaftaler. Jeg konstaterer også, at den socialdemokratiske ordfører med glæde i sindet
+nævner pvc-aftalen, men den er nu engang lavet af denne regering i fjor. Og det var der altså
+ikke noget lovgivningsbehov for, for det kunne
+vi klare uden.
+Vi har, som oppositionen jo også ved, truffet
+aftaler med Kommunernes Landsforening og
+med erhvervslivet om tilbagetagning af transportemballager, og vi vil også igangsætte forhandlinger til efteråret, som tager de tungere
+ting med, bl.a. de hårde hvidevarer, som SF
+omtalte. Biler står også nævnt blandt det, vi
+tager til efteråret. Men jeg er da glad for, at der
+er en sådan mulighed. For kan vi ikke finde ud
+af det, har vi også det instrument. Vi har jo
+også vores genanvendelsesplan og vores renere
+teknologi-plan, så jeg synes ærlig talt, det er
+lidt morsomt at høre, at vi er blevet trukket til
+et trug, hvor vi har spist godt og grundigt i forvejen. Men hvis det får oppositionen til at
+stemme for de ændringsforslag, vi har lavet, er
+det da fint, for vi er da kun interesserede i at få
+dem igennem.
+Jeg vil slutte med at takke for arbejdet og
+takke for forståelsen for, at man pillede det ud,
+der var ubrugeligt, og fulgte regeringens politik.
+Hermed sluttede forhandlingen om ændringsforslagene.
+Afstemning
+Ændringsforslag nr. 1-6
+. vedtoges uden afstemning.
+Forslaget som helhed sattes derefter til forhandling.
+
+9764
+
+Ingen bad om ordet.
+Afstemning
+Forslaget til folketingsbeslutning
+vedtoges med 113 stemmer (S, KF, V, SF, CD,
+RV og KRF) mod 7 (FP).";Miljøministeren
+40436;title_name;"Dette vil blive meddelt miljøministeren.
+Den næste sag på dagsordenen var:
+12) Anden behandling af lovforslag nr. L 194, z
+Forslag til lov om ændring af lov om betalingsregler for spildevandsanlæg.
+Af miljøministeren (Per Stig Møller).
+(Fremsat 23/1 92. Første behandling 12/3
+92. Betænkning 29/4 92. Ændringsforslag nr. 5
+af 30/4 92 uden for betænkningen af Jes Lunde (SF)).
+Der var stillet 5 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.
+Forhandling";Formanden
+41091;name_party;":
+Da der, siden vi har afgivet betænkning vedrørende miljøministerens lovforslag nr. L 194,
+er kommet nogle ændringsforslag fra miljøministeren, som præciserer nogle af de spørgsmål, vi var enige om under forhandlingerne,
+men som vi efterfølgende følte måske ikke stod
+klart nok i lovforslaget, beder jeg om, at vi kan
+få forslaget tilbage til udvalgsbehandling mellem anden og tredje behandling.";Eva Møller
+41497;name_party;":
+Det er jeg enig i og kan derudover meddele,
+at SF vil tage sit ændringsforslag nummer 5
+uden for betænkningen tilbage, og at SF i øvrigt stemmer for de ændringsforslag, der er stillet her. Vi vil fastholde de synspunkter, der er
+
+9765
+
+7/5 92: 2. beh. af f. t. 1. vedr. betalingsregler for spildevandsanlæg";Gade
+41815;title_name;"givet udtryk for i ændringsforslag nummer 5
+uden for betænkningen, men vi vil indarbejde
+det på anden vis for ikke at give anledning til
+nogle tekniske problemer, som jeg har forstået
+at ændringsforslaget, som det er udformet, vil
+give anledning til.";Gade
+42077;title_name;"Ændringsforslag nr. 5 til § I uden for betænkningen af Jes Lunde (SF) er taget tilbage.
+Ønsker nogen af optage det? (Ophold). Da det
+ikke er tilfældet, er dette ændringsforslag bortfaldet.
+Hermed sluttede forhandlingen.
+Afstemning
+Ændringsforslag nr. 1-3, § 1, således ændret,
+ændringsforslag nr. 4 om en ny affattelse af § 2
+og § 2 i den nye affattelse
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+42539;title_name;"Lovforslaget går herefter til fornyet behandling i udvalget.
+Den næste sag på dagsordenen var:
+13) Anden behandling af lovforslag nr. L 259:
+Forslag til lov om behandling af krav om tilbagebetaling af arbejdsmarkedsbidrag m.v.
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 3/4 92. Første behandling 7/4 92.
+Betænkning 5/5 92).
+Der var stillet I ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslaget
+og spørgsmålet om lovforslagets overgang til
+tredje behandling sattes til forhandling under
+ét.
+Forhandling
+
+9766";Formanden
+43152;name_party;":
+Det lovforslag, der er til behandling her, har
+vel nok den mest misvisende titel, der kan findes på et sådant forslag, idet der står, at det
+drejer sig om behandling af krav om tilbagebetaling af arbejdsmarkedsbidrag.
+Det fremgik af pressen i går, at regeringen
+nu ville til at rydde op i denne sag, og så lød
+det jo helt tosset, at Fremskridtspartiet ville
+stemme imod, at der skulle ske en tilbagebetaling. Men det er jo heller ikke det, der er tilfældet, for dette lovforslag indeholder kun bestemmelser om, hvorfor man ikke kan få pengene tilbage, at man skal kunne dokumentere,
+og at man skal ansøge, og regeringens holdning er, at der som hovedregel overhovedet ikke kan betales noget som helst tilbage.
+Vi mener fra Fremskridtspartiets side, at der
+her er tale om en helt uansvarlig politik. Da vi
+afgav betænkningen, manglede der en række
+svar. Der er ingen sikkerhed for, at det, vi vedtager her, ikke er i strid med EF-reglerne. Vi
+mener fra vores side, at det er i strid med EFreglerne, men det får vi opklaret om nogle måneder eller år.
+Regeringen fralægger sig ansvaret. Der har
+været en række ufyldestgørende svar. Vi mener, at der er tale om direkte lovsjusk, men vi
+er dog glade for, at Skatteudvalget er enigt i, at
+sagen skal tilbage til fornyet behandling i udvalget mellem anden og tredje behandling.
+Der er ikke lavet nogen økonomiske konsekvensberegninger på dette forslag. Der er ikke
+nogen, der ved, hvor meget det vil kræve administrativt, hvor mange dommere der skal ansættes, og hvad det i det hele taget kommer til
+at koste. Der er ikke noget skøn over, hvor
+mange retssager der bliver. Regeringen har jo
+ikke villet høre på Fremskridtspartiet, når vi
+har foreslået, at man burde sende pengene tilbage til de virksomheder, der ikke har kunnet
+overvælte bidragene på forbrugerne, hvor der
+direkte har været domstolsafgørelser for, at de
+ikke kunne gøre det.
+Vi mener, at dette her er kaos og får uoverskuelige konsekvenser. Vi mener, at regeringen
+har opgivet at rydde op, og det bliver jo også et
+meget lille antal partier og medlemmer, der
+stemmer for denne lovgivning, idet en meget
+stor del undlader at stemme.
+Efterhånden er det sådan her i Folketinget,
+at når der laves dramatiske fejl, kalder man det
+
+9767
+
+7/5 92: 2. beh. af f. t. 1. vedr. krav om tilbagebetaling af arbejdsmarkedsbidrag m.v.";Ole Donner
+45498;title_name;"at tage chancer, når der er store fejl, kalder
+man det at rydde op, og mindre fejl er hverdagskost.
+Hermed sluttede forhandlingen.
+Afstemning
+§§ 1-5, ændringsforslaget om indsættelse af
+en ny paragraf efter § 5 samt §§ 6 og 7
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Ole Donner
+45832;title_name;"Lovforslaget går herefter til fornyet behandling i udvalget.
+Den næste sag på dagsordenen var:
+14) Anden behandling af lovforslag nr. L 260:
+Forslag til lov om ændring af toldloven og
+merværdiafgiftsloven (momsloven). (Ajkortning
+af kredittider).
+Af skatteministeren (Fogh Rasmussen).
+(Fremsat 3/4 92. Første behandling 7/4 92.
+Betænkning 5/5 92).
+Der var stillet 3 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§ 1, ændringsforslag nr. 1, § 2, således ændret, ændringsforslag nr. 2 og 3 og § 3, således
+ændret,
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.
+
+9768";Formanden
+46678;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+15) Anden behandling af lovforslag nr. L 266:
+Forslag til lov om oprettelse af et transportråd.
+Af trafikministeren (Ikast).
+(Fremsat 8/4 92. Første behandling 22/4 92.
+Betænkning 30/4 92).
+Der var stillet 2 ændringsforslag i betænkningen.
+Uden for betænkningen var der ikke stillet
+ændringsforslag.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§ 1, ændringsforslag nr. 1, § 2, således ændret, ændringsforslag nr. 2, § 3, således ændret,
+og §§ 4 og 5
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+47599;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+16) Anden behandling af lovforslag nr. L 245:
+
+9769
+
+7/5 92: 2. beh. af f. t. 1. vedr. andelsboligforeninger og andre boligfællesskaber
+
+Forslag til lov om ændring af lov om andelsboligforeninger og andre boligfællesskaber.
+(Ændring afprisfasts£ettelsesbestemmelserne for
+andele).
+Af boligministeren (Svend Erik Hovmand).
+(Fremsat 12/3 92. Første behandling 19/3
+92. Betænkning 30/4 92. Ændringsforslag nr. 2
+af 5/5 92 uden for betænkningen af boligministeren).
+Der var stillet I ændringsforslag i betænkningen.
+Uden for betænkningen var der stillet I ændringsforslag af boligministeren.
+Lovforslagets paragraffer, ændringsforslagene og spørgsmålet om lovforslagets overgang
+til tredje behandling sattes til forhandling unI der ét.
+Forhandling";Formanden
+48599;name_party;":
+Inden vi forlader de private andelsboliger,
+synes jeg, jeg er nødt til at sige, at der efter min
+mening er et problem i dette lovforslag. Det er
+jo bare en teknisk forbedring af prisansættelsen, som ingen af os kan have noget imod.
+Men jeg synes, det er et problem, at man i lovforslagets tekst har stillet krav om, at de vurderinger, der skal foretages, skal foretages af en
+person, som opfylder to kriterier, nemlig at være både statsautoriseret ejendomsmægler og
+valuar.
+Vi har stillet det spørgsmål til boligministeren, om man ikke fandt det rimeligt eventuelt
+at lave en overgangsordning med hensyn til
+kravet om at være valuar. Det skyldes til dels
+en henvendelse fra en statsautoriseret ejendomsmægler, som er vant til at vurdere fast
+ejendom, men som på grund af kapacitetsproblemer ikke har kunnet få uddannelsen som
+valuar. Det er et almindeligt problem i Danmark, at der findes mange statsautoriserede
+ejendomsmæglere, som, selv om de gerne vil det er særlig de nyuddannede - ikke har kunnet komme igennem. Mange af dem, særlig her
+i Københavnsområdet, har i meget høj grad
+beskæftiget sig med vurdering af andelsboliger
+og er faktisk gode til det, har en meget stor ekspertise.
+
+9770
+
+Med vedtagelsen af dette forslag vil de altså
+blive afskåret fra at udøve den del af deres
+virksomhed, og det synes jeg ikke er rimeligt.
+Jeg synes ikke, man skal fratage folk en indtægtskilde, som de har haft for et arbejde, de
+har udført ganske betryggende, uden at man
+laver en rimelig overgangsperiode, særlig når
+problemet i hvert fald i et vist omfang skyldes,
+at de ikke har kunnet blive valuar på grund af
+kapacitetsproblemer.
+Der er ikke tradition her i Folketinget for at
+gøre sådan noget fra dag til dag: man plejer at
+give mennesker en rimelig tid til ligesom at
+indordne sig under de nye systemer.
+Jeg vil også gøre opmærksom på, at man
+ude omkring i landet - særlig i de tyndtbefolkede områder - vil komme ud for, at der findes
+en del måske ældre ejendomsmæglere, som ikke er valuarer, men som har et dybt og indgående kendskab til deres lokalområde. Med den
+udbredelse, de private andelsboliger har fået,
+er det jo sådan, at de nærmest har erstattet parcelhusbyggeriet. Og det betyder, at man, selv
+om der i en lillebitte kommune findes en stedlig ejendomsmægler, som har ekspertisen og er
+vant til at vurdere stedets ejendomme - han
+har måske vurderet det byggeri før - for at opfylde lovens krav altså skal hente en valuar
+eksempelvis i Ålborg, i Århus eller et andet
+sted.
+Det synes jeg på lang sigt kan være fint nok,
+og det er flot, at man stiller krav om, at det sker
+ordentligt, men jeg synes, der burde have været en overgangsperiode, og med baggrund i de
+bemærkninger vil jeg bede formanden om, at
+vi får forslaget tilbage til udvalget mellem anden og tredje behandling, og håbe på, at boligministeren, når han har tænkt sig lidt mere om,
+bliver mere villig til at løse dette problem, således at vi ikke kommer ud for, at en erhvervsgruppe bliver frataget en væsentlig indtægtskilde, uden at dette Folketing sikrer, at de har
+en rimelig overgangsperiode til at indrette sig
+efter nye regler.
+Hermed sluttede forhandlingen.
+Afstemning
+Ændringsforslag nr. I og § 1, således ændret,
+ændringsforslag nr. 2 uden for betænkningen
+og § 2, således ændret,
+
+9771
+
+7/5 92: 2. beh. af f. t. 1. vedr. andelsboligforeninger og andre boligfællesskaber
+
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Kirsten Jacobsen
+52070;title_name;"Lovforslaget går herefter til fornyet behandling i udvalget.
+
+9772
+
+(Fremsat 22/4 92 i betænkning fra Finansudvalget).
+Der var ikke stillet ændringsforslag.
+Forslagets tekst og spørgsmålet om dets
+overgang til anden (sidste) behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+
+Den næste sag på dagsordenen var:
+17) Anden behandling af lovforslag nr. L 237:
+Forslag til lov om tillægsbevilling for finansåret 1991.
+Af finansministeren (Henning Dyremose).
+(Fremsat 12/3 92. Første behandling 19/3
+92. Betænkning 22/4 92).
+
+Afstemning
+Forslagets tekst
+vedtoges uden afstemning.
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.
+
+Der var ikke stillet ændringsforslag.
+Lovforslagets paragraffer og spørgsmålet
+om dets overgang til tredje behandling sattes
+til forhandling under ét.
+Ingen bad om ordet.
+Afstemning
+§§ 1-3, §§ 5-9, §§ 11-17, §§ 20-29, §§ 35-38
+og §§ 40-44
+vedtoges uden afstemning.
+Lovforslagets overgang til tredje behandling
+vedtoges uden afstemning.";Formanden
+53082;title_name;"Jeg foreslår, at lovforslaget går direkte til
+tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse mod dette
+forslag, betragter jeg det som vedtaget. (Ophold). Det er vedtaget.
+Den næste sag på dagsordenen var:
+18) Første behandling af beslutningsforslag nr. B
+88:
+Forslag til folketingsbeslutning i henhold til
+grundlovens § 47 med hensyn til statsregnskabet
+for finansåret 1989.
+
+Den næste sag på dagsordenen var:
+19) Første behandling af beslutningsforslag nr. B
+80:
+Forslag til folketingsbeslutning om sikring af
+den fremtidige vandforsyning.
+Af Martin Glerup (S) m.fl.
+(Fremsat 25/3 92).
+Forslaget sattes til forhandling.
+Forhandling
+Miljøministeren (Per Stig Møller):
+Selv om Danmarks Geologiske Undersøgelse i forbindelse med afrapporteringen af sidste
+års grundvandsovervågning fastslog, at der
+stadig er godt og rigeligt grundvand i Danmark, er beskyttelsen af grundvandet og sikringen af den fremtidige vandforsyning en af de
+vigtigste miljøpolitiske opgaver i de kommende år. Det har jeg allerede givet udtryk for i
+regeringens redegørelse for miljøindsatsen i
+1990'erne, som blev udsendt i januar. Derfor
+synes jeg naturligvis, det er positivt, at forslagsstillerne bidrager til den meget vigtige diskussion om, hvordan vi skal beskytte grundvandet.
+For kort tid siden udkom Vandrådets betænkning om Danmarks fremtidige vandforsyning, og Teknologinævnet har bidraget til de-
+
+9773
+
+7/5 92: 1. beh. af f. t. bes1utn. om sikring af den fremtidige vandforsyning";Formanden
+54596;title_name;"batten med en rapport og en offentlig høring
+om Danmarks grundvandsressourcer.
+Det er kendetegnende for problemerne vedrørende grundvandet, at der er tale om en
+kompleks kombination af naturlige forhold og
+menneskeskabte påvirkninger. Dette indebærer, at der er store regionale forskelle på
+grundvandssituationen. Nogle steder er den
+sårbar, andre steder overudnyttet.
+Det er også kendetegnende, at de indgreb, vi
+foretager for at beskytte grundvandet, oftest
+først kan registreres på længere, ja endda lang
+sigt. Det kan tage hundrede år, før vandet siver
+ned til grundvandet.
+Regeringen har allerede taget en række initiativer med hensyn til grundvandsbeskyttelsen,
+fordi vi selvfølgelig er enige i, at dette er et meget alvorligt spørgsmål, og at vi har et stort ansvar for at sikre rent og rigeligt grundvand til
+kommende generationer. Derfor gjorde vi også
+det i handlingsplanen for et bæredygtigt landbrug, at vi besluttede at udpege 50.000 ha sårbare områder i Nordjyllands, Århus og Viborg
+Amter, hvor sårbarheden har vist sig at være
+størst.
+Regeringen arbejder også for, at der i forbindelse med ekstensiveringsordninger for landbruget skabes bedre muligheder for at plante
+skov, herunder bynære skovarealer, som kan
+beskytte grundvandet.
+Med affaldsdepotloven er der skabt økonomiske rammer for en oprydning af depoterne.
+Der er allerede opnået betydelige resultater
+med hensyn til kortlægning, og der er taget en
+række initiativer for at effektivisere oprydningsindsatsen. Desuden vil regeringen til efteråret fremsætte lovforslag om begrænsning
+af boligejernes værditab på de forurenede
+grunde.
+Med hensyn til gennemførelse af vandbesparelser har amter og kommuner, som vi også
+talte om det i forbindelse med SF's beslutningsforslag nr. B 23 om en vandspareskilling,
+på eget initiativ kørt en række kampagner, som
+bl.a. har medvirket til, at vandforbruget i de
+private husholdninger er begyndt at falde ganske hurtigt.
+Herudover kan indførelse af vandmålere betyde en yderligere reduktion af vandforbruget.
+Vi har netop øget adgangen til anvendelse af
+vandmålere i kommunerne ved det forslag, vi
+lige har stemt om, og jeg er indstillet på at ar-
+
+9774
+
+bejde for, at der i løbet af eksempelvis en
+10-års-periodc indføres vandmålere, hvor det
+er muligt og rationelt, således at alle så vidt
+muligt betaler efter faktisk vandforbrug.
+Miljøstyrelsen gennemfører i øjeblikket en
+undersøgelse af industriens vandforbrug. Forsøg inden for udvalgte brancher, ikke mindst
+slagteribranchen, har allerede vist, at der er
+meget store besparelsesmuligheder.
+Herudover tror jeg, at det på længere sigt
+kan blive nødvendigt at se, vandindvinding og
+vandforbrug specielt i hovedstaden i en større
+regional sammenhæng, for her har vi jo overudnyttelsesproblemet. Det er min opfattelse, at
+de initiativer, regeringen allerede har taget, tager hånd om de problemer, forslagsstillerne nu
+rejser, og det vil sige, at vi må kunne løse disse
+problemer uden at oprette en vandfond med
+ekstraudskrivninger i den anledning. Når amter og kommuner bringer vandforbruget ned
+og i forvejen er forpligtet til at lave en vandforsyningsplan, er der ikke rigtig nogen grund til
+at sende dem 300 mio. kr. fra Folketinget til at
+gøre det, de gør i forvejen. Når kommunerne
+har vandsparekampagner, der virker, er der
+heller ikke nogen grund til at sende pengene til
+forskellige ganske udmærkede private organisationer, for at de skal foretage det samme én
+gang til.
+Derfor tror jeg, at vandfonden er overflødig.
+Jeg bryder mig i øvrigt heller ikke om en vandfond, hvor øgede indtægter pr. automatik vil
+udløse øgede offentlige udgifter. Hvis man gør
+dette til et princip, vil område efter område
+ganske automatisk unddrage sig en samlet miljøpolitisk afvejning og prioritering.
+Selv om jeg har rejst kritik af dette forslag,
+deler jeg naturligvis intentionerne, at det er
+vigtigt, at vi får afklaret målet for vores indsats,
+inden vi iværksætter nye initiativer. Vi skal være sikre på, at vi griber ind de rigtige steder, for
+ligesom der skal holdes hus med vandet, skal
+der faktisk også holdes hus med borgernes
+penge. Derfor skal det sikres, at vi griber rigtigt
+ind.
+Jeg vil derfor til brug for det videre arbejde
+sørge for, at vi får lavet en sammenstilling af de
+initiativer, regeringen allerede har taget med
+henblik på grundvandsbeskyttelse, og de ideer,
+som er fremkommet inden for den sidste tid,
+bl.a. i form af dette beslutningsforslag og SF's
+beslutningsforslag samt Vandrådets og Tekno-
+
+9775
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Miljøministeren
+59177;title_name;"loginævnets bidrag. Hertil kommer redegørelsen om miljøindsatsen i 1990'erne, hvori regeringen netop har peget på, at man med henblik
+på at beskytte vandressourcerne, begrænse
+spildevandsmængderne og mængden af forurenende stoffer i spildevandet vil overveje,
+om man i højere grad skal anvende økonomiske styringsmidler i form af afgifter.
+Anvendelsen af økonomiske styringsmidler
+skal her som andre steder naturligvis tilrettelægges således, at det er foreneligt med en fortsat forbedring af konkurrenceevnen. Desuden
+må anvendelse af økonomiske styringsmidler
+ske i sammmenhæng med den omlægning af
+skatte- og afgiftsstrukturen i øvrigt, vi talte om
+tidligere i dag, og under hensyntagen til målsætningen om en stram offentlig udgiftspolitik
+og regeringens ønske om at sænke skattetrykket og holde sig den sociale dimension for øje.
+Endelig skal der være mulighed for borgerne
+for at ændre adfærd: ellers fremmes miljøet jo
+ikke.
+Som jeg har nævnt det, er det ingen let sag at
+kaste sig ud i, og jeg tror, man her har kastet
+sig ud i en vandfond på et område, hvor pengene ville være overflødige, fordi vi i forvejen er i
+gang og regeringen har taget initiativerne. Jeg
+synes derfor, at vi hellere sainlet skal diskutere, hvad der videre er fornødent for at løse den
+miljømæssige hovedopgave at sikre godt og rigeligt grundvand. Og den diskussion synes jeg
+vi skal vende tilbage til til efteråret.";Miljøministeren
+60594;name_party;":
+Socialdemokratiet fremsætter dette forslag,
+fordi vi mener, at et af de vigtigste miljøspørgsmål i Danmark er at sikre den fremtidige vandforsyning, fordi grundvandet og dermed vandforsyningen trues af en række farer. Der findes
+over 2.000 gamle lossepladser, kemikalieaffaldsdepoter og industrigrunde, hvorfra der siver miljøfremmede stoffer ned i grundvandet,
+og man er efterhånden træt af rapport efter
+rapport. Nitratbelastningen fra intensivt dyrkede områder uden beskyttende jordlag over
+grundvandet er et andet punkt. Et tredje punkt
+er overudnyttelse af vandressourcerne. I hovedstadsområdet bruges over 100 mio. m3 mere vand, end der gendannes på et år med normal nedbør.
+Det er tre hovedproblemer, hvor der er behov for at sætte langt mere tempo på opryd-
+
+9776
+
+ningen, end der hidtil har været. Vandrådet,
+der er nedsat af miljøministeren, siger, at det
+vil vare mellem 30 og 100 år, hvis ikke der tages alvorligt fat. Vandrådet anbefaler derfor, at
+der tilføres området yderligere midler. Storstrøms Amt anslår, at det vil vare op til 75 år at
+rydde op dér, og noget lignende gør sig sikkert
+gældende andre steder.
+Men i stedet for, at tempoet bliver sat op
+eksempelvis inden for jordrensning, så går det
+den gale vej. I 1990 blev der renset 150.000 t
+jord på danske jordrensningsanlæg: i 1991
+faldt det til 130.000 t, så der er et problem med
+tempoet i oprydningen.
+Desværre trues vandforsyningen adskillige
+steder, fordi der ikke ryddes op. Der kan nævnes Lyacgrunden i Ballerup, hvor der regnes
+med afværgepumpning i 20-30 år. På Røde
+Port Savværk tilhørende Skov- og Naturstyrelsen har miljøministeren vist heller ikke fundet
+penge til at få ryddet op efter en forurening i
+27 meters dybde.
+Den alt for svage indsats på dette område
+må høre op, hvis ikke punktforureningen skal
+ødelægge endnu mere grundvand. Det er efter
+vores opfattelse for slapt, at der pr. 1. januar
+1990 kun var afsluttet undersøgelse af 15 pet.
+af de registrerede affaldsdepoter, selv om man
+har brugt en stor del af de afsatte midler til
+undersøgelsesarbejde.
+Den væsentligste kilde til grundvandsforurening i landområderne er udvaskningen af
+kvælstof fra landbrugsdriften. Derfor er det
+nødvendigt at få sikret miljøprioriterede arealer over værdifulde grundvandsressourcer, og
+det haster, fordi nitratet er et stigende problem
+for adskillige vandværker, navnlig i et bælte
+fra Hanstholm over Himmerland til Djursland.
+Miljøstyrelsen anslår, at 2/3 af det grundvand,
+der dannes i dag, overskrider grænseværdien
+for nitrat. Landbrugets samlede bidrag til
+kvælstofbelastningen af vandmiljøet ved udvaskning fra rodzonen skønnes fortsat at være
+på samme niveau som i sidste halvdel af
+1980'erne. Der er således behov for en række
+dyrkningsaftaler med landbruget, så grundvandet ikke bliver ødelagt.
+Endelig er der grund til at fortsætte og intensivere vandsparekampagnerne, navnlig i områder med underskud på vandbalancen. Selv om
+der gendannes grundvand, er der samlet set
+fornuft i at bruge vand med måde, for det spa-
+
+9777
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Martin Glerup
+63708;title_name;"rer energi, at man undlader at pumpe vandmængder rundt i rørene, og det sparer også på
+belastningen af rensningsanlæggene.
+Socialdemokratiet mener, det er nødvendigt
+at skaffe øgede midler til at rydde op, til at indgå miljørigtige dyrkningsaftaler og til at satse
+på vandbesparende foranstaltninger. Pengene
+skaffes via en afgift på ca. 100 kr. pr. husstand
+og 15 øre pr. m3 fra øvrige.
+Vi vil gerne investere 500 mio. kr. om året i
+fremtidssikring af drikkevandet. Vi vil gerne
+undgå kemisk vandbehandling, som vi ved koster 3,00-4,50 kr. pr. 1. Derfor mener vi, at der
+nu skal sættes handling bag alle rapporterne
+og alle ordene.";Martin Glerup
+64356;name_party;":
+Det Konservative Folkeparti er naturligvis
+helt enig med Socialdemokratiet i, at det er en
+-vigtig og væsentlig opgave for Folketinget at
+sikre den fremtidige vandforsyning: derom er
+der ingen tvivl. Derimod er vi ikke sikre på, at
+den måde, Socialdemokratiet foreslår det skal
+gøres på, er den rigtige.
+Vi ønsker ikke, at der skal oprettes en vandfond, og at der dermed skal lægges automatiske afgifter på borgerne. Vi henholder os dels
+til miljøministerens og regeringens rapport om
+miljøindsatsen i 1990'erne, dels til den konference om grundvandsressourcerne, vi på et tidligere tidspunkt af året deltog i, hvor der bl.a.
+lå undersøgelser fra Danmarks Geologiske
+Undersøgelse, som sagde, at grundvandsforsyningen var tilstrækkelig. Her fandt vi frem til,
+at der var en lang række løsningsforslag på vej,
+og at problemerne i øvrigt var komplicerede og
+bestemt ikke ens fra den ene del af landet til
+den anden. Derfor synes vi ikke, det er rigtigt,
+at der skal indføres en fælles løsning. Vi er indstillet på fleksible løsninger, der tager hensyn
+til, at forholdene er forskellige.
+Jeg vil også understrege, at vi har taget fat
+på en lang række af problemerne. Det gælder
+spørgsmålet om oprydning af affaldsdepoter,
+det gælder spørgsmålet om vandsparekampagner osv. Derfor vil vi, selv om vi er helt enige i
+intentionerne, ikke gå ind for den løsning, Socialdemokratiet foreslår.";Eva Møller
+65755;name_party;":
+På Danmarks 4,3 mio. ha falder der årligt ca.
+700 mm nedbør. Det bliver til ca. 30 mia. m3,
+
+9778
+
+og med et forbrug på ca. 1,2 mia. vil det sige, at
+vi bruger ca. 4 pct. Det tal lyder ikke af så meget, men bag det ligger der nogle meget store
+variationer fra landsdel til landsdel. I de østlige dele af landet er det en meget stor procentdel, der bliver udnyttet, dels fordi befolkningstætheden er stor, dels fordi vandressourcerne
+dér er mindre, fordi det er moræneområder,
+som har stor evne til at tilbageholde vand: det
+siver ikke ned til grundvandet i det omfang,
+det gør i egne, hvor der er sandjord. Lerjord
+kan holde ca. 2 mm vand tilbage pr. cm dybde,
+mens sandjord kun kan holde 1 mm. Derfor
+når der ikke så meget vand ned til grundvandet
+i lerjordsområder, som der gør i sandjordsområder.
+Det virker også helt urimeligt, at landmænd
+i det midt- og vestjyske område skal betale en
+afgift for markvanding. For det første er der
+ingen vandmangel i de områder, grundvandsspejlet ligger højt, og for det andet kan det øvre jordlag ikke fastholde mere end den halve
+vandmængde af, hvad lerjord kan. En del af
+vandet bliver derfor i depot længere nede som
+grundvand, som ganske vist ligger ret højt, og
+så kan man tage det op igen, når der er behov
+derfor.
+For øvrigt er det sådan, at hvis man mener
+det alvorligt med at ville formindske indholdet
+af nitrat i drikkevand, skulle man snarere præmiere de sandjordslandmænd, der kunstvander, idet de derved begrænser nitratudvaskningen. Forklaringen på det er, at afgrøderne om
+foråret tilføres den mængde kvælstof, de har
+behov for, hvad enten det sker som gylle, staldgødning eller handelsgødning. Får vi en tør
+sommer, og går væksten i stå, standser optagelsen af nitrat. Når efteråret kommer, er der så
+meget nitrat tilbage, at de efterårsgrønne afgrøder ikke kan optage det hele, og det overflødige nitrat bliver udvasket. Ifald der var blevet kunstvandet, ville afgrødevæksten være
+fortsat, og nitrat ville være blevet optaget. Jeg
+mener derfor, at vi ikke kan diskutere grundvandsproblemer, uden at vi også får diskuteret
+problemet med nitrat og får det sat på plads.
+Den nu afdøde professor Poul Bonnevie, der
+var professor i miljømedicin og igennem 25 år
+var giftsagkyndig for Landbrugsministeriet og
+Miljøministeriet, skriver bl.a., at når vi har en
+grænseværdi for nitrat i drikkevand, som han
+selv har været med til i Verdenssundhedsorga-
+
+9779
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Filt Jensen
+68259;title_name;"nisationen at fastlægge, skyldes det alene, at
+den internationale standard med højst 50 mg
+pr. 1skal anvendes også i lande, hvor man endnu ikke kan overholde grænseværdien for de
+fra tarmkanalen kommende kolibakterier, som
+skal være nul. Nitratets bakterielle reduktion
+af iltafgift fra nitrat til nitrit og dettes ændring
+af en del af blodfarvestoffet kan nemlig få den
+konsekvens, at det ødelægger hæmoglobinets
+evne til at transportere ilt i organismen.
+Det er kun hos spædbørn op til 3-4-måneders-alderen, men det er ofte almindeligt i specielt afrikanske lande under primitive forhold,
+at man har den indstilling, at børn ikke skal
+have modermælk, men at de skal have kunstmælk rørt op i dårligt vand måske med højt
+nitratindhold og specielt med højt indhold af
+kolibakterier. Det, der er farligt, er, at de to
+ting findes i fællesskab. Så er det, man får de
+såkaldte blå børn.
+Hvis vandet havde været kogt, var der ikke
+sket noget. Det sammentræf forekommer ikke
+længere i Vesteuropa, men det er dog sådan, at
+endnu i 1982 måtte man i Ungarn hospitalsbehandle ca. 100 spædbørn, fordi ukogt vand fra
+overfladebrønde, der alle var fækalt forurenede, samtidig indeholdt over 100 mg nitrat pr. 1.
+Da dette var den eneste begrundelse, har
+grænseværdien mistet sit medicinske grundlag
+i mange lande og også her.
+Er tiden gået?";Filt Jensen
+69597;title_name;Den er gået.;Formanden
+69625;name_party;":
+Jeg beklager. Jeg må måske komme ind på
+resten siden.
+(Kort bemærkning).";Filt Jensen
+69717;name_party;":
+Jeg takker hr. Filt Jensen for den gentagne
+belæring om nitratets velsignelser, men det er
+formentlig stadig væk sådan, at der findes en
+vejledende grænseværdi på 25 mg pr. 1 og en
+maksimal grænseværdi på 50 mg pr. 1. Det
+fremgår af et EF-direktiv angående vandkvalitet, Danmark har tilsluttet sig på grund af mistanke om negative helbredsmæssige konsekvenser af et stort nitratindhold. Jeg vil godt
+spørge hr. Filt Jensen, om Venstre vil fremsætte et forslag om at få ændret det direktiv.
+
+9780
+
+(Kort bemærkning).";Martin Glerup
+70250;name_party;":
+Jeg vil gerne henstille, at man her i landet får
+lavet en undersøgelse, der viser, om nitrat virkelig har den skadelige indflydelse, man påstår
+det har.
+Det er sådan, at hvis man spiser grøntsager i
+et rimeligt og normalt omfang, og det mener
+alle er sundt, så optager man derigennem, uanset om det er økologisk eller normalt dyrkede
+grøntsager, mellem 400 og 600 mg nitrat om
+dagen. Hvis man skulle få det gennem drikkevandet, skulle man drikke 12 l vand om dagen
+med et indhold af den maksimale mængde nitrat. Alene det viser, at det er utænkeligt, at
+nitrat har den skadelige indflydelse.
+Vi har i Danmark ikke haft mere end fem
+tilfælde af de såkaldte blå børn i de sidste
+30-40 år, og i alle fem tilfælde har der været
+tale om børn, der har fået vand fra brønde, der
+var overfladeforurenet ikke bare med nitrat,
+men også med kolibakterier. Igen den samme
+sammenhæng.
+Derfor vil jeg henstille, at man får lavet en
+undersøgelse af, om det er rimeligt, at vi har en
+sådan regel med hensyn til nitrat i drikkevand,
+inden vi laver disse for samfundet så enormt
+store investeringer bl. a. i de 50.000 ha, som
+blev nævnt, i det nordvestjyske område.";Filt Jensen
+71409;name_party;":
+Når man hører Venstres ordfører sige, at vi
+skal have den nitratdiskussion på plads, og
+derefter hører indlægget, bliver man måske lidt
+forstemt, for jeg forstår hovedpointen sådan, at
+fordi nitratindholdet stiger år for år og man begynder at kunne høre alarmklokkerne, så skal
+vi ikke diskutere, hvordan vi får den stigning
+til at standse, og reparere på det, vi skal i stedet
+diskutere at sætte grænseværdien op.
+Jeg er helt enig med Venstres ordfører i, at
+grænseværdier er politisk fastsat. Det er hele
+ideen med grænseværdier, det er der ikke noget nyt i. De bygger på en videnskabelig baggrund og er derefter politisk fastsat, og det er
+klart, det ikke kan bruges til noget som helst:
+det gælder alle grænseværdier. Men det interessante er, om Venstre i virkeligheden taler for,
+at vi i stedet for at løse problemerne skal justere grænseværdierne. Sådan hørte jeg indlægget, og det synes jeg er beklageligt.
+
+9781
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Gade
+72418;title_name;"Men til forslaget. SF har tidligere i denne
+samling fremsat forslag om indførelse af vandafgift. Vi foreslog 1 kr. pr. m3, og at pengene
+skulle bruges til én ting, nemlig investeringer i
+vandbesparelser, herunder støtte til opsætning
+af vandmålere, så man inden for en kort årrække kunne have vandmålere over hele landet.
+Nu kan jeg forstå, at miljøministeren er tilhænger af en sådan plan om, at der skal være vandmålere over hele landet, men inden for 10 år.
+Jeg mener, det er for lang en frist, men det er
+dog et fremskridt, at vi nu skal diskutere en
+sådan plan. En afgift kunne hjælpe til at finansiere et sådant system, men ikke alene.
+Vores forslag er under behandling, og nu har
+vi også Socialdemokratiets forslag. Vi er positive over for forslagets formål, det giver sig
+selv. Jeg har selv i 8 år fra Folketingets talerstol advaret imod, hvad der kunne ske med
+grundvandet, og nu får vi alarmerende meldinger om, at man nu også kan måle det, man måske ikke kunne måle for 8 år siden, da vi startede denne diskussion, altså pesticider og den
+stigende mængde nitrat i grundvandet. Jeg synes, det er vigtigt, at Folketinget får en samlet
+plan for dette område, og jeg er altså positiv
+over for formålet og den plan, der ligger i forslaget.
+Jeg synes, forslaget fra Socialdemokratiet lider af det problem, at afgiften, når det kommer
+til stykket, ikke er særlig stor, så de penge, vi
+får ind, ikke står mål med det kæmpe anvendelsesområde, man vil bruge dem til: støtte til
+oprydning efter kemikaliedepoter, noget, der
+har med landbruget at gøre, og miljøfølsomme
+områder. Det er alt for stort et anvendelsesområde, og det vil sige, at vi ikke rigtig får løst
+nogen af problemerne, hvis vi sætter det ind i
+denne sammenhæng.
+Jeg mener, at grundvandsforureningen på
+landbrugsområdet først og fremmest skal afhjælpes ved, at vi får nogle EF-bestemmelser,
+som gør det muligt via EF's landbrugspolitik
+at give støtte til, at man ikke dyrker intensivt i
+en række områder, hvor vi specielt skal beskytte grundvandet. På kemikaliedepotområdet
+mener jeg at vi skal lade de forurenende virksomheder betale og ikke tilfældige vandforbrugere. Det er dog mere rimeligt at have en sammenhæng mellem dem, der har været med til at
+skabe problemet, altså virksomhederne, og deres forurening.
+
+9782
+
+Jeg mener, vi skal bruge de to beslutningsforslag, der nu ligger i Folketinget, til at lave
+en samlet plan på dette område. Det første
+skridt kunne efter min opfattelse godt være
+det, ministeren har nævnt i dag, nemlig at ministeren vil lave en liste over alle de foreliggende initiativer på området, så vi får dem stillet
+op og set dem i sammenhæng inden for landbrugspolitikken og i forhold til en række andre
+ting, der kan være vigtige.
+Jeg vil slutte med at understrege, at vi har
+brug for to ting for at få gjort mere ved dette
+område. Den ene er politisk stærke virkemidler. Vi kan bruge udvalgsarbejdet til at se på,
+om lovgivningen er stærk nok. Den anden er
+penge. Jeg er enig med Socialdemokratiet i, at
+der skal penge til, jeg mener bare, at de penge,
+vi får ind, skal bruges mere målrettet og præcist til bestemte formål, nogle til vandbesparelser, andre til oprydning af kemikalielossepladser, og så skal de hentes de steder, det er mest
+relevant.
+(Kort bemærkning).";Gade
+75701;name_party;":
+Hr. Gade gav udtryk for den opfattelse, at
+Venstre mente, at når vi sine steder måske er
+ved at nærme os grænseværdierne for nitratindhold, er det ikke det problem, vi skal løse,
+vi skal hæve grænseværdierne. Det er en lidt
+forkert opfattelse, for det er ikke korrekt, at de
+er fastlagt på et videnskabeligt grundlag. De er
+fastlagt i Verdenssundhedsorganisationen,
+godt nok på et videnskabeligt grundlag, men
+det er på et videnskabeligt grundlag, hvor der
+tages højde for, at det skal have virkning i områder, hvor hygiejnen er lille, hvor drikkevandskvaliteten med hensyn til kolibakterier er
+dårlig, og at der er en meget nøje sammenhæng mellem nitratindhold i vand og kolibakterier. Det er kun, når de to ting er til stede
+samtidig, at problemet eksisterer. Derfor virker
+det ikke rimeligt, at vi i Danmark, hvor det
+problem ikke eksisterer, kører med en grænseværdi, der svarer til den, der er god at have i
+Afrika.
+(Kort bemærkning).";Filt Jensen
+76652;name_party;":
+Blot den bemærkning, at jeg ikke kan få andet ud af det, hr. Filt Jensen siger, end at vi
+
+9783
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Gade
+76837;title_name;"skal ændre på vores grænseværdi i stedet for at
+løse problemerne. For hr. Filt Jensen må vel
+mene, at det er et problem, at der er et stigende
+nitratindhold i grundvandet - og nu tager jeg
+ikke stilling til, hvor grænsen ligger - eller er
+det ligegyldigt for Venstre?
+Så vil jeg gerne sige til Venstres ordfører, at
+man kan ikke sige til ulandene, at de skal have
+skrappere regler end vi, og det er jo det, hr. Filt
+Jensen mener. Det vil sige, at vi har lov til at
+forurene mere end ulandene. Sådan vil det
+nødvendigvis blive opfattet. Jeg taler her om
+WHO's regler. Det er en helt umulig kamp, hr.
+Filt Jensen har skibet sig ind i.
+Jeg vedgår, at alle grænseværdier, der har
+med miljøpolitik at gøre, er fastsat af nogle politikere. Men diskussionen er slet ikke, om de
+er fastsat helt præcist rigtigt. Det skal jeg bestemt ikke som hr. Filt Jensen gøre mig klog
+på. Men jeg skal gøre mig klog på, om vi synes,
+vi vil finde os i, at vi har en stadig stigende
+nitratforurening af vores grundvand.
+(Kort bemærkning).";Gade
+77868;name_party;":
+Vi kan godt i lande, hvor man har en høj
+hygiejnisk standard, have andre regler for nitratindhold i vandet end i lande, hvor man ikke har det. Vi kan ikke se nogen rimelighed i at
+betale milliarder af kroner på foranstaltninger,
+som viser sig at være fuldstændig overflødige.
+Nitrat er ikke et problem i drikkevand, al den
+stund vi gennem grøntsager - uanset om de er
+dyrket biodynamisk, økologisk eller med
+kunstgødning - får så stor en mængde, at det
+svarer til 8, 10, 12 liter drikkevand med maksimumindhold af nitrat. Det viser hulheden i det
+problem, man stiller op, med nitrat i drikkevand i Danmark.
+(Kort bemærkning).";Filt Jensen
+78513;name_party;":
+Hr. Filt Jensen er næsten en revolutionær
+mand. Han vil omstyrte samtlige videnskabelige sagkundskaber, der har lavet baggrundsmaterialet, som først WHO og siden EF har tiltrådt med Danmarks stemme.
+Jeg vil derfor spørge, om Venstre vil stille
+forslag om, at det EF-direktiv på vandområdet
+bliver ændret. Jeg tror, det bliver en meget
+vanskelig opgave. Det er hr. Filt Jensen nok
+
+9784
+
+også klar over, for det må immervæk være sådan, at hvis der er tvivl med hensyn til helbredsrisici på grund af miljøet, må den tvivl
+komme helbredet og dermed miljøet til gode.
+Sådan må det være.
+(Kort bemærkning).";Martin Glerup
+79132;name_party;":
+Det, jeg har slået til lyd for, er, at vi får lavet
+en virkelig undersøgelse af, om der er et problem. Hvis det viser sig, at der ikke eksisterer
+noget problem - og jeg mener, at der er meget,
+der tyder på, at et sådant problem ikke eksisterer - så må man tage initiativ til at få ændret et
+sådant direktiv.";Filt Jensen
+79461;name_party;":
+Debatten har udviklet sig til at blive en debat om nitratindhold, og det tror jeg egentlig
+også er ret relevant, fordi det, der er foregået i
+de senere år, har skabt en frygt i befolkningen
+for nitrat, og det har nok haft den hensigt at
+indføre centralisering og dermed en vandmåler
+for hver forbruger og derefter en ny afgift. Det
+har jeg sådan set ikke været i tvivl om.
+Lad mig indledningsvis sige, at Fremskridtspartiet siger nej til beslutningsforslag nr. B 80.
+Alle foreliggende undersøgelser, også dem fra
+Danmarks Geologiske Undersøgelse, bekræfter, at der er vand nok i Danmark, og at det er
+vand af god kvalitet. Det blev også sagt af formanden for Danske Vandværker på et møde
+her på Christiansborg for en 3-4 måneder siden.
+Det betyder selvfølgelig ikke, at vi skal ødsle
+med det, at vi skal være ligeglade. Vand er næsten det eneste råstof, Danmark har, der er gratis, og det skal vi værne om. Det har Danmark
+også gjort, for ellers havde vi ikke haft det rene
+og fine grundvand, vi har nu. Det har vi, fordi
+den danske befolkning har værnet om det. Det
+her er det tredje beslutningsforslag, vi behandler i dag, som går ud på at finde nye skatter og
+afgifter. Der søges i alle kroge og alle hjørner.
+De to andre var B 31 og B 2. Det er nøjagtigt
+det samme.
+Jeg vil gerne kommentere det, hr. Filt Jensen
+var inde på med hensyn til nitratindhold. Vi
+modtager alle sammen en masse breve fra borgere, der er utilfredse med, at deres brønde enten bliver lukket eller bliver truet med at skulle
+lukkes. Det er næsten alle sammen på bag-
+
+9785
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Aage Brusgaard
+81110;title_name;"grund af, at der har været målinger, hvor nitratindholdet har været lidt højere end 50 milligram pr. liter. Og dér har hr. Filt Jensen fuldstændig ret, når han siger, at det er bestemmelser, der egentlig ikke burde bringes i anvendelse her i Danmark. Det skal de i de lande, hvor
+befolkningen er meget mere modtagelig for diverse sygdomme. Det er fuldstændig horribelt,
+at der i et land som Danmark kan lukkes en
+brønd, bare fordi nitratindholdet er lidt over et
+niveau, der er fastlagt med en kuglepen, men
+hvor det på ingen måde er videnskabeligt bevist, at det er sundhedsfarligt.
+Vi ved, at der foreligger en undersøgelse fra
+Foulum Forsøgsstation. De har givet grise
+vand næsten helt uden nitrat i, de har givet grise vand med et nitratindhold på 50 milligram
+pr. 1, og så har de givet grise vand med et nitratindhold, der var meget større end det, der
+kan forekomme i brønde her i Danmark. De
+grise, der havde den største tilvækst, som var
+mest sunde, da de blev slagtet, var dem, der
+havde fået den største mængde nitrat. Der er
+for mig at se intet som helst grundlag for at
+sige, at nitrat er så farligt, som det blev sagt.
+Vi har, så vidt jeg ved, alle sammen fået et
+brev fra Sammenslutningen af Vandværker.
+De skriver på baggrund af dette beslutningsforslag bl.a.: »Vi må på det kraftigste protestere imod, at en stor fond i milliardklassen kommer Miljøstyrelsen i hænde, så ender det bare
+som et nyt skatteobjekt ...«. Og så giver man
+en masse begrundelser for, at vi ikke skal have
+en afgift på drikkevand.
+Vi har alle fået en betænkning fra Miljøstyrelsen, nr. 1/92. Der står i forordet: »Miljøministeren nedsatte i 1983 et vandråd til fremme
+af den bedst mulige udnyttelse af den faglige
+ekspertise på det hydrologiske område til gavn
+for forsknings- og forvaltningsmæssige opgaver vedrørende de danske vandressourcer.«
+Det er tilsyneladende hele ekspertisen, der
+har været sat ind for at lave den rapport, som
+på side 71 konkluderer: »Sammenfattende er
+det Vandrådets vurdering, at den decentrale
+indvindingsstruktur er miljømæssigt skånsom
+og bør foretrækkes.«
+De er altså fuldstændig enige om, at den decentrale struktur - altså med de små boringer er det miljømæssigt bedste, men så skriver de:
+»Den nuværende decentrale vandforsyningsorganisation er imidlertid ikke velegnet
+
+9786
+
+til at løse de fremtidige problemer på grund af
+et utilstrækkeligt økonomisk og teknisk grundlag.«
+Jeg mener slet ikke, der er belæg for at sige,
+at de små vandværker ikke har økonomisk og
+teknisk grundlag for at overleve. De har deres
+fælles sammenslutninger, de har ingeniører og
+andre rådgivere til rådighed, når der skal etableres nye værker, og jeg mener faktisk, at de
+små vandværker kører udmærket.
+Til slut vil jeg sige, at i Viborg Amt er man i
+gang med at lave en vandvindingsplan, og det
+mener jeg faktisk alle amter er i gang med. Jeg
+tror, at initiativer til sikring af grundvandsressourcer tages bedst, hvor vandet er, nemlig hos
+kommuner og amter. Det skal Folketinget så
+vidt muligt holde sig fra.";Aage Brusgaard
+84148;name_party;":
+Folketinget har adskillige gange behandlet
+forslag, der på en eller anden måde er afledt af
+vandmiljøplanen. Dette beslutningsforslag er
+et led i denne række.
+Centrum-Demokraterne er enige i intentionerne i forslaget, der går ud på en fortsat sikring af rent drikkevand i Danmark i tilstrækkelig mængde. Det tror jeg alle kan være enige i.
+Når man læser forslaget igennem, efterlader
+det det indtryk, at rent drikkevand i tilstrækkelig mængde er en mangelvare i Danmark. Det
+er ikke tilfældet. Der er problemer omkring
+hovedstadsområdet med at skaffe godt vand i
+tilstrækkelige mængder. Det har været kendt
+længe: det hænger sammen med det meget store behov ikke blot på grund af indbyggertallet,
+men også som følge af industriens forbrug af
+vand. Det er et problem, der skal overvåges og
+løses i takt med et stadig øget forbrug som følge af bl.a. befolkningstilvæksten.
+Når det drejer sig om det øvrige Danmark,
+vil jeg påstå, at med det regelsæt, der er sat i
+gang, og de regelsæt, der er besluttet eller påtænkt igangsat, herunder bl.a. løsning af problemer med affaldsdepoterne, vil vi også i
+fremtiden kunne nyde godt af at bo i et af de
+lande, der har den højeste drikkevandskvalitet.
+CD finder det uhensigtsmæssigt og overflødigt at udskrive en ekstra skat på vand for at
+oprette en vandfond med det skitserede formål.";Svend Aage Jensen
+85493;name_party;":
+
+9787
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Martin Glerup
+85597;title_name;"Jeg vil gerne sige tak for tilslutningen til intentionerne i forslaget.
+Det er rigtigt, at Vandrådet blev nedsat for
+snart 10 år siden, og hr. Gade har nu i 8 år stået
+på denne talerstol og talt for, at der skulle ske
+noget. Regeringen vil gerne have, der skal ske
+noget, og der er lavet en masse rapporter,
+handlingsplaner, undersøgelser osv. Men problemet er, at alle de kønne ord ingenting hjælper, hvis de ikke bliver realiseret. Derfor har
+Socialdemokratiet fremsat dette beslutningsforslag, hvor vi anfører nogle vigtige punkter,
+hvor der bør gøres en intensiveret indsats, og
+hvordan man eventuelt kan finansiere sådan
+en indsats.
+Der er ikke tale om en fiskal afgift i denne
+forbindelse, som hr. Aage Brusgaard siger, der
+er tale om en afgift, der alene går tilbage til
+miljøet for at fremtidssikre drikkevandsforsyningen i Danmark. Alle er enige om, at det er
+gået stærkt tilbage med drikkevandskvaliteten
+og med grundvandskvaliteten de sidste 10-15
+år, og det er det, vi skal have sat en stopper for.
+Det er ikke tanken, at Vandfonden skal operere fra centralt hold. Forslaget går netop ud
+på, at pengene skal bruges i kommuner og amter, således at man decentralt kan sætte ind
+dér, hvor problemerne er størst: dermed tager
+man også højde for de geografiske forskelle,
+som fru Eva Møller ganske rigtigt påpegede.
+Vi har lavet en fordeling af tilbageførslen af
+midlerne med 50 pct. på indbyggertal, 25 pet.
+på areal og 25 pct. på nitratbelastede vandværker.
+Det, Socialdemokratiet gerne vil sikre sig via
+forslaget, er en højere prioritering af dette
+aspekt, når vi skal tale om en samlet miljøafgiftsløsning, og vi er enige i, at det snart skal
+diskuteres, da det er uhyre vigtigt. Det er mindre afgørende for os, om det bliver lige nøjagtig i denne form. Vi er meget forhandlingsvenlige, men det er et ufravigeligt krav, at der nu
+sættes ind i praksis. Det kan ikke nytte, at det
+skal tage 100 år at få ryddet op efter de affaldsdepoter. Selvfølgelig skal forureneren betale
+dér, hvor man kan føre forureningen tilbage til
+vedkommende, men hr. Gade ved jo godt, at
+der er en række områder, hvor man ikke er i
+stand til at forfølge forureneren, fordi vedkommende fortoner sig i tågen langt tilbage i fortiden. Det er i meget høj grad fortidens synder,
+det drejer sig om.
+
+9788
+
+Fra vores side er det ment som et udspil til,
+at der skal ske noget i praksis, og at vi skal sige
+farvel til alle de pæne ord - dem har vi nok af.
+Lad os få dem sammenstillet, men vi skal ikke
+bruge år og dag på det. Lad os få noget effektivt sat i gang ude i marken.
+(Kort bemærkning).";Martin Glerup
+88181;name_party;":
+Jeg er enig med hr. Martin Glerup med hensyn til behovet for handling og behovet for at
+skaffe økonomi bag det.
+Jeg tager ordet for at forklare det, jeg sagde
+vedrørende diffuse kilder, hvor man ikke kan
+finde den, der er ansvarlig for forureningen.
+Vi er - ligesom grundtanken i dette forslag også indstillet på at hente pengene hos nogle
+andre. Vi peger bare på, at pengene skulle tages fra den forurenende industri, hvilket vi også tidligere har stillet forslag om i Folketinget.
+Det kunne være en afgift på udledninger fra
+den eksisterende industri. Det er selvfølgelig
+ikke nødvendigvis dem, der har lavet den forurening, der kommer fra diffuse kilder eller fra
+steder, hvor vi ikke kan finde den skyldige,
+men vi synes, det er mere rimeligt at pålægge
+den produktion, der indebærer en eventuel risiko for miljøproblemer i fremtiden, en afgift,
+end det er at lægge afgiften på det almindelige
+husholdningsforbrug af vand. Det var grundtanken i mit ræsonnement på dette punkt.
+Miljøministeren (Per Stig Møller):
+Det har været en god og konstruktiv debat,
+vi har haft om Socialdemokratiets beslutningsforslag. Vi er stadig væk enige i sigtet, og jeg er
+glad for, at der er enighed i Folketinget med
+hensyn til at sørge for, at der er godt og rigeligt
+grundvand i Danmark.
+Men jeg vil lige anholde bemærkningen om,
+at der ikke sker noget. Når man ser på de forslag, som er anført i forslaget til folketingsbeslutning, så taler man bl.a. om oprensning af
+de mange kemikaliegrunde. Der er en handlingsplan i gang, og der i år afsat 140 mio. kr.
+til oprensning.
+Det er rigtigt, at der har været brugt lang tid
+til at undersøge og vurdere disse grunde, men
+tempoet i oprensningen er stigende. Det er også rigtigt, at det kan tage mange år, hvis ikke
+tempoet øges. Men det gør det. En af stopklodserne har bl.a. været, at man ikke vidste, hvad
+
+9789
+
+.
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Gade
+90131;title_name;"ren jord var. Derfor satte jeg i fjor en undersøgelse i gang, som skulle fremme acceptkriterier
+for renset jord. Der er jo en prop i hullet, når
+man ikke ved, hvornår den jord, der er bragt til
+rensning, er ren. Det arbejde er i god gænge,
+og vi er det første land i verden, der laver det.
+Et udkast til vejledning for olie- og benzinforurenet jord er for længst sendt til en ekstern
+høring, hvor fristen udløber den 14. maj. Det
+er en af forudsætningerne for at komme videre,
+at vi har fået skabt denne viden.
+Jeg har nævnt, at vi vender tilbage med depotloven til efteråret.
+Den miljøvenlige drift af kildepladserne er
+vi også i gang med. I handlingsplanen for et
+bæredygtigt landbrug tog vi 50.000 ha ud, og
+jeg er indstillet på, at vi skal gøre det finere.
+Jeg tror faktisk, vi skal drive vores vandpolitik
+med skalpel. Hvis vi ikke bare skal have nogle
+brede, generelle ordninger, som rammer tilfældigt nogle steder, overspiller nogle steder og
+underspiller andre steder, så skal denne vandstrategi være en skalpelstrategi.
+De vandbesparende foranstaltninger er i
+gang fra kommunernes side, som jeg har nævnt
+ved tidligere lejligheder. Amtskommunerne laver disse prioriterede vandhandlingsplaner allerede i dag - og har pligt til at lave dem.
+Så jeg synes ikke, man skal efterlade det indtryk, at vi ikke foretager os noget. Men selvfølgelig skal vi gøre alt det, der er nødvendigt for
+at sikre godt og rigeligt grundvand. Jeg har tilbudt udvalget at lave denne oversigt. Den gør
+det ikke alene, men den er forudsætningen for,
+at vi rammer rigtigt, at skalpellen kommer til at
+sætte ind de rigtige steder.
+Jeg har intentioner om at invitere udvalget
+til et seminar til september, som skal dreje sig
+om vand, for det er en af vores hovedopgaver,
+og så synes jeg, at vi samlet skal lave den rigti,ge vandstrategi og handlingsplan til efteråret.
+(Kort bemærkning).";Miljøministeren
+92015;name_party;":
+Det glæder mig, at miljøministeren langt om
+længe får fastsat grænseværdier for, hvornår
+jord er ren. Jeg kan forstå, at det drejer sig om
+den olieforurenede jord, og jeg vil derfor gerne
+spørge om, hvornår grænseværdierne for de
+mere komplicerede sager kommer, tungmetalholdig jord osv. Det er også stærkt påkrævet.
+Det er en kendsgerning, at der i dag bliver ren-
+
+9790
+
+set alt for lidt af den giftige jord, og det tempo
+skal sættes op, ellers vil det vare 100 år, før vi
+får renset op. Miljøministeren har selv sagt, at
+40 pct. af affaldsdepoterne og lossepladserne
+fra tidligere er en trussel mod grundvandet.
+Derfor må vi simpelt hen have sat mere tempo
+på disse ting, og samfundet må solidarisk sørge for, at der sker noget på området.
+Det gælder også med hensyn til miljøvenlig
+drift af kildepladserne. Dér har vi igen et eksempel på, at man tror, man kan miljøsikre kildepladser for 900 kr. pr. ha. Enhver ved, at det
+er en umulig opgave, hvis man skal udtage god
+landbrugsjord for 900 kr. pr. ha. Det hænger
+simpelt hen ikke sammen, og derfor bliver der
+brug for nogle midler til dette område. Vi har i
+al beskedenhed anvist én måde at finansiere
+det på, men deltager gerne i drøftelserne om,
+hvordan vi kan få den helt rigtige strategi. Men
+lad det ikke vare år og dag.
+Miljøministeren (Per Stig Møller):
+Nu skal vi ikke gøre dette til en lang diskussion om ord, men det er ikke rigtigt, at man
+»langt om længe« har foretaget sig noget. Sidste forår satte jeg et arbejde i gang med henblik
+på, at vi skulle have acceptkriterier for renset
+jord. De findes ingen steder. Man må så give
+den danske videnskab og Miljøstyrelsen tid til
+at lave dem, således at de også er holdbare,
+idet der ellers ville være et stort erstatningsansvar, hvis man kom med uholdbare retningslinier.
+Så det er lidt urimeligt over for disse udmærkede mennesker, som har lavet det første arbejde af den art, at sige, at vi »langt om længe
+får fastsat disse grænseværdier«.
+Som jeg tidligere har nævnt, er acceptkriterier for olie- og benzinforurenet jord på gaden
+om ganske kort tid. De andre følger med 6 måneders mellemrum, for det er rigtigt, som hr.
+Martin Glerup siger, at de er sværere og sværere at lave, og derfor tager det længere tid, men
+lad os nu sørge for, at det bliver gjort ordentligt.
+Vi har også netop udsendt en serie branchevejledninger vedrørende forurenet jord, og vi
+har udsendt en vejledning, hvorefter man skal
+prioritere affaldsdepoterne, for der er forskel
+på, om de kommer til at ramme grundvandet
+eller ikke kommer til at ramme grundvandet:
+om jorden skal bruges til en børnehave eller
+
+9791
+
+7/5 92: 1. beh. af f. t. beslutn. om sikring af den fremtidige vandforsyning";Martin Glerup
+94719;title_name;"om den ikke skal bruges til en børnehave, men
+f.eks. til kontorhus. Og dér er det vigtigt, at vi
+renser de områder op, hvor der er fare for
+grundvandet, og hvor der kan være tale om, at
+det er en følsom anvendelse af overfladen.
+Man skal ikke bare rense op, hvor det egentlig
+ikke er særlig nødvendigt at rense op. Man kan
+kapsle ind dér og så gribe ind senere.
+Der er ikke tale om, at vi langt om længe er
+vågnet op, vi har faktisk været i gang i hele min
+ministertid, og vi har fået styrket nogle redskaber, som ikke eksisterede før. Lad os ikke gøre
+det til en lang diskussion om noget, som går
+ganske udmærket, men som vi er enige om skal
+gå bedre, når vi vender tilbage til det til efteråret.
+(Kort bemærkning).";Miljøministeren
+95453;name_party;":
+Jeg vil gerne understrege, at jeg for mere end
+3 år siden - ganske vist fra en anden politisk
+plads, nemlig som formand for miljøudvalget i
+et amt - bad om at få nogle acceptkriterier for,
+hvornår jord var renset. Det bad jeg om, fordi
+en virksomhed med jordrensning som speciale
+ønskede at slå sig ned i mit amt. Der er altså
+stadig væk ikke kommet noget svar, og derfor
+mener jeg, at det går langsommeligt. Men jeg
+er da glad for, at det nu sker.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Martin Glerup
+96033;title_name;"Jeg foreslår, at forslaget til folketingsbeslutning henvises til Miljø- og Planlægningsudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+Jeg skal her udsætte mødet. Det genoptages
+i dag kl. 13.15.
+Mødet udsat kl. 11.56
+Mødet genoptaget kl. 13.15
+
+9792
+
+Den næste sag på dagsordenen var:
+20) Første behandling af beslutningsforslag nr. B
+85:
+:
+Forslag til folketingsbeslutning om byøkologi.
+Af Lise Hækkerup (S) m.fl.
+(Fremsat 9/4 92).
+Forslaget sattes til forhandling.
+Forhandling
+Miljøministeren (Per Stig Møller):
+Indledningsvis skal jeg pointere, at regeringen er enig i beslutningsforslagets hovedsigte,
+nemlig at byernes miljø til stadighed skal søges
+forbedret. En af hovedsigtelinierne med landsplanredegørelsen »Danmark på vej mod år
+2018«, som regeringen netop har udsendt, er,
+at vi skal arbejde for »smukke, rene og velfungerende byer«. Klarere kan det jo ikke siges.
+Regeringen er .endvidere positivt stemt over
+for tanken om, at omdannelsen af vore byer
+skal ske på en økologisk hensigtsmæssig måde,
+således at det medvirker til en også på længere
+sigt bæredygtig udvikling af vores miljø og vores omgivelser - ikke alene lokalt, men også
+globalt naturligvis.
+Det er imidlertid en kendsgerning, at der allerede i dag gennemføres en lang række aktiviteter på dette område ikke bare fra regeringens
+side, men også gennem en stor lokal indsats.
+Gennem de sidste 3 år har Planstyrelsen sammen med Boligministeriet og Energistyrelsen
+støttet Dansk Byplanlaboratoriums projekt
+»Byøkologiske Initiativer«, som har til formål
+at indsamle erfaringsmateriale samt at informere og dokumentere om byøkologi.
+I løbet af de 3 år, projektet har eksisteret, er
+der skabt et udmærket overblik over, hvordan
+der arbejdes med byøkologi i Danmark. Meget
+af arbejdet foregår imidlertid under andre
+overskrifter end den byøkologiske, og man bør
+være opmærksom på, at dette arbejde ikke
+nødvendigvis bliver bedre eller gavner byens
+miljø mere, bare fordi man giver det en ny etiket og nu kalder det byøkologi.
+Herudover arbejdes der fra statsligt hold
+med en lang række initiativer og projekter, der
+på forskellig måde medvirker til at forbedre
+byernes miljø, et arbejde, der dækker en betydelig del af de aspekter, forslagsstillerne foku-
+
+9793 ,
+
+(613)
+7/5 92: 1. beh. af f. t. beslutn. om byøkologi";Formanden
+98409;title_name;"serer på i beslutningsforslaget. Jeg vil som eksempel herpå nævne, at der som opfølgning af
+regeringens transporthandlingsplan i år er afsat 25 mio. kr. til en trafik- og miljøpulje, der
+skal støtte lokale handlingsplaner for trafik og
+miljø. Handlingsplanerne vil indeholde konkrete foranstaltninger med henblik på at formindske den trafikskabte miljøbelastning i byerne.
+Videre skal det nævnes, at jeg som opfølgning på landsplanredegørelsen »Danmark på
+vej mod år 2018« overvejer at igangsætte et arbejde om byernes stof- og materialestrømme.
+Dette arbejde skal resultere i en række anbefalinger til mulige miljøforbedringer i byerne,
+som kommunerne så kan igangsætte.
+Også Miljøstyrelsen er ved at udarbejde nye
+handlingsplaner for renere teknologi, affald og
+genanvendelse. Handlingsplanerne omfatter
+en lang række initiativer til reduktion af ressourceforbruget, forureningen og affaldsmængderne i forbindelse med fremstilling, anvendelse og bortskaffelse af produkter.
+Endvidere har også Boligministeriet i erkendelse af den øgede betydning, som hensynet til
+miljøet har for byggeriet, taget initiativ til en
+tættere koordinering af ministeriets forskellige
+aktiviteter og er ved at udarbejde en'bygningsøkologisk handlingsplan. Denne bygningsøkologiske handlingsplan vil i stor udstrækning
+omhandle de temaer, som just opregnes i beslutningsforslaget. Boligministeriet er desuden
+ved at udarbejde et nyt bygningsreglement,
+som vil tilgodese de hensyn, der fra forslagsstillernes side ønskes varetaget i forbindelse
+med nybyggeriet. Som eksempel skal det nævnes, at det efter byfornyelseslovens bestemmelser er muligt at få finansieret økologiske elementer i byfornyelsen efter lovens almindelige
+bestemmelser om offentlig støtte til ombygningsarbejder.
+Endelig kan jeg oplyse, at forbedringer af
+bymiljøet indgår som et centralt spørgsmål i
+samarbejdet mellem EF's medlemslande, en
+problematik, der for alvor kom i søgelyset ved
+Kommissionens udsendelse af »Grønbog om
+bymiljø!« sidst i året 1990.
+Der eksisterer således allerede en lang række bestemmelser og ordninger til fremme af
+bymiljøet i de enkelte ministerier, og det er
+min overbevisning, at begrebet byøkologi mest
+hensigtsmæssigt indgår som en integreret del i
+
+9794
+
+de enkelte sektorers arbejde. På den måde sikres en fornuftig balance i forhold til den pågældende sektors aktiviteter. Byen er jo en
+sum af vidt forskellige aktiviteter, som i høj
+grad allerede gøres mere og mere økologisk
+bevidst.
+Regeringen er således særdeles positivt
+stemt over for beslutningsforslagets grundtanke, men det er ikke regeringens opfattelse, at
+de konkrete initiativer i beslutningsforslaget
+nødvendigvis vil fremme dette mål eller føje
+noget særligt nyt til, hvad der i forvejen gøres.
+Regeringen har som nævnt allerede iværksat
+en lang række ordninger til forbedring af byernes miljø. Disse ordninger virker generelt godt
+og efter hensigten, men bør selvfølgelig hele tiden søges forbedret. Det bør vi bruge kræfterne på - ikke på at omdefinere begreberne og
+ændre organisationen af disse.
+Bl.a, bør vi blive bedre til at hæge om vore
+gamle bykerner, som ikke er nævnt, fordi bykvalitet også fremmes gennem bevarelsen af
+det æstetisk værdifulde fra vores fortid. Derfor
+har Planstyrelsen udarbejdet adskillige byatlas, og derfor har vi et særdeles kvalificeret
+særligt bygningssyn til at sikre fredning af vore
+bevaringsværdige bygninger. Dette æstetiske
+aspekt bør indgå i vores diskussion om byøkologi, hvorfor jeg hermed har inddraget det i debatten.
+Hvad finansieringen angår, skal jeg for en
+god ordens skyld lige bemærke, at man let kan
+forregne sig, hvis alle initiativer skal gennemføres og finansieres af de samme miljøafgifter:
+nu har jeg set de samme miljøafgifter anvendt
+4 eller 5 gange til 4-5 forskellige ting her i foråret. De bliver enten meget store, eller også
+skal man overveje, hvor man egentlig vil bruge
+dem.";Miljøministeren
+102318;name_party;":
+For at par år siden kunne man læse i aviserne, at det var til direkte skade, at det ligefrem
+var sundhedsfarligt for børn at opholde sig i og
+lege i sandkasser, som lå i store byer eller tæt
+placeret på motorveje. Det kan ikke være rimeligt, ligesom det naturligvis heller ikke kan være rimeligt, at vores ældre medborgere og medborgere med luftvejslidelser skal varsles i radioen, hvis der er smog på vej, hvis koncentrationen. af smog er stadigt stigende, så den ligefrem er sundhedsfarlig.
+
+9795
+
+7/5 92: 1. beh. af f. t. beslutn. om byøkologi
+
+9796";Lise Hækkerup
+102891;title_name;"I erkendelse af, at en væsentlig del af forure- Eva Møller (KF):
+ningen af miljøet kommer fra byer og biler og
+Her som ved det foregående beslutningsfordermed er med til at forringe livskvaliteten i slag fremsat af Socialdemokratiet gælder det,
+byerne, er det, at vi i Socialdemokratiet har ta- at Det Konservative Folkeparti naturligvis er
+get initiativet til dette beslutningsforslag, som helt enig i sigtet, nemlig at også miljøet i byerbehandles i dag.
+ne skal forbedres, og at de forbedringer og forBegrebet byøkologi er så småt ved at blive andringer, vi laver i byerne, naturligvis skal
+anerkendt som et bidrag til Brundtlandrappor- ske på et økologisk bæredygtigt grundlag. Vi
+ten om en bæredygtig fremtid, men vi mangler ønsker, at det skal ske på den måde, og det
+stadig væk en ordentlig debat om midlerne til mener jeg også helt klart fremgår af den landsfremme af den bæredygtige udvikling, ligesom planredegørelse, som regeringen netop har
+vi stadig væk mangler de væsentlige demon- fremsendt, og som Det Konservative Folkeparstrationsprojekter. At tale om byøkologi er i ti har været med til at sætte sine tanker og sit
+virkeligheden at tale om sammenhænge. By- præg på.
+økologien skal ved hjælp af en kombination af
+Det, der bekymrer mig ved det foreliggende
+teknologisk fornyelse, offentlig regulering og forslag fra Socialdemokratiet, er dels spørgsorganisatorisk fornyelse arbejde for at under- målet om fonden, dels også spørgsmålet om afsøge og nedbringe ressourcerne i almindelig- gifterne. Nu kan vi naturligvis - og det har vi
+hed og energiforbruget i særdeleshed.
+jo gjort én gang i dag, så jeg skal ikke tage den
+Det handler altså ikke kun om renere tekno- debat op her - diskutere, hvor store afgifterne
+logi og nedbringelse af forurening, men også skal være, og om dette, at man lægger afgift på
+om nyere måder at bringe teknologien i anven- ét område og fjerner den på et andet, bevirker
+delse på. En helt anderledes systematisk og en forøgelse af skattetrykket eller ej, men vi syhelhjertet inddragelse af borgerne i lokalområ- nes generelt ikke om den måde, det skal foregå
+det er nødvendig, for at det kan lykkes. Men på her.
+det kræver en indsats fra oven, dvs. en mere
+Vi er også bekymret ved at lade byøkologi
+bevidst og systematisk offentlig regulering af indgå som en handlingsplan helt for sig selv: vi
+en række miljøfølsomme områder. Der kan her mener, at byer og specielt moderne byer er så
+være tale om påbud og forbud gennem afgifter komplicerede og berører så mange aspekter, at
+på det uønskede og økonomisk støtte til det vi finder det rigtigst at sikre, at der tages byønskede.
+økologiske hensyn på mange forskellige måder
+Helt konkret mener vi i Socialdemokratiet, på alle de områder, hvor vi ser på tingene. Jeg
+at følgende indsatsområder bør prioriteres synes også, det helt klart fremgår, at disse tanhøjt:
+ker, disse overvejelser, allerede er inde i de
+- energibesparelser,
+ting, der sker. Jeg tænker her på trafikhand- vandbesparelser,
+lingsplanen, hvoraf det helt klart fremgår, at vi
+- sundere byggeri,
+ønsker et bedre miljø i byerne. Der er i øvrigt
+- begrænsninger i affaldsmængden,
+også sat penge af til det. Det gælder det nye
+- fremhævelse af byernes grønne træk og
+bygningsreglement, der er på vej, det gælder
+- omdannelse af boligveje til stilleveje.
+hele spørgsmålet om genanvendelse og afDet skal være attraktivt at bo i byerne igen.
+faldsregulering, som jo specielt naturligvis vil
+Det kan bl.a., som ministeren også rigtigt sagvære til gavn for miljøet i byerne, fordi det er
+de, ske ved, at kunstneriske og æstetiske værher, vi har de store befolkningskoncentratiodier fremmes ved byplanlægningen. Byerne
+ner.
+skal være oplevelsesrige og et sted, hvor man
+Så vi er enige i sigtet, men vi ser hellere, at
+trives. Til sidst vil jeg gerne påpege mangeman integrerer byøkologiske hensyn i al lovlen på demonstrationsprojekter, mangelen på
+givning frem for at lave en speciel byøkologisk
+uddannelse og mangelen på informationsforlovgivning.
+midling på området. Det er meget vigtige elementer i forslaget. Senest blev det påpeget af
+Elsebeth Gerner Nielsen i Danske Kommuner Peter Hansen-Nord (V):
+i dag. Derfor har vi foreslået fonden på de 60
+Beslutnirigsforslaget indeholder en række
+mio. kr.
+udmærkede elementer til at gøre byerne og de-
+
+9797
+
+7/5 92: 1. beh. af f. t. beslutn. om byøkologi";Lise Hækkerup
+107267;title_name;"res omgivelser til et bedre sted at leve. Der skal
+ikke herske tvivl om, at vi hos Venstre ønsker,
+at bysamfundene - store som små - i deres fornyelses- og udviklingsplaner skal være meget
+opmærksom på de trivselsmuligheder af forskellig karakter, der skal til, for at indbyggerne
+kan få en oplevelsesrig og inspirerende hverdag såvel i arbejdstiden som i fritiden.
+Når Venstre alligevel ikke kan gå ind for beslutningsforslaget, skyldes det, at vi opfatter
+det som lidt af en lovteknisk fejltagelse at samle eller rettere at dublere lovgivning, som allerede eksisterer på en række af de nævnte områder. Virkeligheden er jo, at de tiltag, der foreslås i B 85, allerede i vidt omfang ligger i eksisterende lovgivning under de respektive ministerier. F.eks. kan der inden for energiområdet
+peges på støtteordningerne i C02-pakken, som
+med udgangspunkt i besparelser og energieffektivisering løber op i milliardklassen og dermed så rigeligt tilgodeser punkt 2 i beslutningsforslaget.
+Min pointe er her, at de forskellige indsatsområder, beslutningsforslaget nævner, skal
+etableres i de fagministerier, det være sig Energi-, Bolig- eller Trafikministeriet, hvor de rettelig hører hjemme, og at Miljøministeriet skal
+være katalysator for de forslag, disse fagministre fremsætter. Det er med andre ord set med
+Venstres øjne meget vigtigt, at der er bred politisk enighed om dette princip, hvilket i en fjern
+fremtid kunne føre med sig, at Miljøministeriet
+mere eller mindre overflødiggøres, fordi de respektive fagministre bliver så dygtige til at tage
+forskellige miljøhensyn med i deres lovforslag.
+Miljøpolitik skal med andre ord være en intregreret del af den løbende lovgivning, og vi
+skal ikke i Miljøministeriets regi samle miljøpolitik som en uafhængig fagpolitik, andre ministerier og anden lovgivning ikke interesserer
+sig for.
+Venstre kan altså ikke anbefale, at man under dække af et nyt trylleord som byøkologi
+forsøger at samle noget miljøpolitik, hvor denne rettelig burde spredes.
+
+9798
+
+fekt i resten af landet. Jeg vil godt sige til dem,
+der har været så interesseret i at sætte Danmark på verdenskortet med de mest obskure
+midler - jeg tænker på Øresundsbro og den
+slags ting - at nogle demonstrationsanlæg på
+dette område i København jo ville være noget,
+der også satte København på verdenskortet,
+men for noget helt andet end det, at vi er i gang
+med at ødelægge miljøet her omkring Øresund. Det synes jeg er vigtigt, og jeg synes, at
+Danmark er bagefter. Når man ser rundt i andre hovedstæder og andre lande i Europa, er
+der meget mere gang i at lave også demonstrationsanlæg af et vist format, som er spændende, og som inspirerer.
+Det andet, som er vigtigt her, er handlingsplanen, og den synes jeg skal vedtages. Jeg synes egentlig, vi skulle se, om vi ikke inden
+sommer kunne få vedtaget, at regeringen skal
+fremlægge en handlingsplan for byøkologi.
+Så er det rigtigt, hvad der er sagt af nogle
+ordførere, at der er meget i gang. Ideen i handlingsplanen er netop at samle det, der er i
+gang, under denne underskrift, og så knytte
+demonstrationsprojekter til. Der er nogle af
+energispareforanstaltningerne og vandspareforanstaltningerne, som vi har snakket om tidligere, og en række andre initiativer. Man kan i
+en sådan plan samle op, hvad der ligger i forvejen, og dermed kan man bedre få afsøgt,
+hvad vi mangler, og i hvor høj grad der også vil
+være brug for yderligere økonomi.
+Grundtanken skal selvfølgelig her være at
+begrænse byens ressourceforbrug. Det er jo
+hele tanken i byøkologi, at vi ikke får byer, der
+er så ressourceforbrugende, som de er i dag, og
+det gør vi ved i det hele taget at bruge færre
+ressourcer i byen. Det næste er så at genbruge
+de ressourcer, vi skal bruge i byerne.
+Det tredje element kunne være, at byerne
+også bidrog til f.eks. energiproduktionen, og
+her synes jeg, det yille være vigtigt at inddrage
+bygningsregulatlvet. Det bør kigges grundigt
+efter også i Folketinget, og jeg vil benytte lejligheden til at sige, at det er et område, som vi
+også i Miljøudvalget bør kigge meget mere på,";Peter Hansen-Nord
+111318;name_party;":
+end vi har gjort tidligere, for materialevalg er
+SF ser to ting i dette forslag, som vi meget jo vigtigt miljømæssigt.
+Jeg mener, at alle nyopførte huse og alle hugerne vil have fremmet.
+Vi er enige i forslaget og lægger især vægt se, der skal restaureres og byfornys, f.eks. skulpå, at vi får lavet nogle demonstrationsprojek- le have solfangere. Det burde være en naturlig
+ter, som er synlige, og som har afsmittende ef- del af et bygningsreglement i Danmark, at man
+
+9799
+
+7/5 92: 1. beh. af f. t. beslutn. om byøkologi";Gade
+111852;title_name;"simpelt hen ikke fik lov til at opføre et hus,
+uden at der var solfangere, og jeg synes, vi skal
+til at diskutere, om ikke også solceller er interessante at få ind i det samlede syn på byen som
+en enhed, der skal spare på ressourcer, der skal
+genbruge de ressourcer, den har. Og så kunne
+man også tilføje det element, at byen selv kunne begynde at producere vedvarende energi.
+Jeg vil sige som jyde, at jeg synes, at det er
+synd, at det kun er os i Jylland, der producerer
+vedvarende energi. Her tænker jeg på vindenergi og biogas. Med en politik, hvor vi også
+begyndte at åbne op for produktion via solceller, som er ved at være teknologisk klar, kunne
+vi skabe et helt andet og mere spændende liv i
+byerne og et helt andet medengagement hos
+borgerne i byen end det, vi tit oplever i dag.";Gade
+112661;name_party;":
+Der etableres en udviklingsfond for byøkologi. Fonden skal kunne yde støtte til udviklings- og demonstrationsprojekter og støtte erfaringsopsamling samt etablering og dokumentation af udviklingsprojekter, og der afsættes 60 mio. kr. til dette formål.
+Fremskridtspartiet er af den opfattelse, at vi
+har et hav af embedsmænd i kommuner, i amter, i Planstyrelsen, i Miljøstyrelsen, inden for
+energisektoren, trafiksektoren og mange andre
+sektorer. Vi har betydelig flere embedsmænd
+end alle andre lande, vi plejer at sammenligne
+os med.
+Hvis der endelig skulle gøres et eller andet,
+så må det ske inden for kommunerne eller amterne. Det er dem, der planlægger hver for deres område. Det er amterne, der laver en regionplan, det er kommunerne, der laver lokalplaner, det er kommunerne, der laver kommuneplaner, og de er ude til offentlig høring,
+hvor alle kan gøre indsigelse. Vi mener altså
+ikke, det er en folketingsopgave at sætte penge
+af til tiltag som det her.
+Det med demonstrationsmodeller kunne da
+være udmærket, men så lad private firmaer gøre det, hvis de har interesse i det. Vi skal ikke
+til at lave flere fonde og flere embedsmandsgrupper. Det, vi har brug for her i Danmark, er
+faktisk at få mange af disse fonde med offentlig støtte nedlagt og få mange af vores embedsmænd over i den private sektor.
+Det, der går i pressen, både i tv og i aviserne,
+i disse dage, er beskæftigelse af vores arbejds-
+
+9800
+
+løse. Det her hjælper ikke: tværtimod. De 60
+mio. kr. plus ressourcerne i øvrigt til dette formål skal jo tages af skatteydernes penge, og
+det betyder, at der bliver endnu mindre til at
+sætte ting i gang, som kunne være eksportfremmende. Det, vi skal have her i Danmark,
+er skattelettelser, og det får vi kun ved besparelser. Så vil vi hurtigt få de arbejdsløse i gang,
+som hele Folketinget nu bruger sin tid på at
+diskutere.
+Ideerne i dette forslag er vi positive over for,
+men det skal ikke være Folketinget, der opretter nye fonde og nye udvalg. Det er en kommunal og amtskommunal opgave og så en privat
+opgave. Derfor vil vi sige nej til beslutningsforslaget.";Aage Brusgaard
+114766;name_party;":
+Centrum-Demokraterne er helt enige i det
+grundlæggende i det beslutningsforslag, som
+Socialdemokratiet har fremsat. Det er utrolig
+vigtigt, at der i forbindelse med byplanlægning
+i fremtiden tages hensyn til anvendelse af de
+mest miljøvenlige materialer og teknikker, ikke
+blot af hensyn til det omgivende miljø, men
+også for at dæmme op for det stadig stigende
+antal af allergi- og astmatilfælde, hvoraf mange skyldes kontakt med materialer, der ikke
+tidligere var kendt som allergifremkaldende,
+og som er blevet anvendt i mindre omfang i
+forbindelse med boligbyggeri eller i boligen.
+Det er ligeledes helt klart, at den fremtidige
+bytrafikplanlægning skal medvirke til at løse
+de nuværende forureningsproblemer. Med den
+intense trafik, der f.eks. er i København, er det
+ikke mærkværdigt, at antallet af lunge- og
+kræftsygdomme er højere her end i Vestjylland. F.eks. Californien har de samme eller
+endnu værre problemer, som man søger løst
+ved at pålægge bilfabrikkerne at konstruere biler med mindre farlig udstødning eller som en
+kombination af el- og benzindrevne biler.
+Hvad om vi her kunne gå over til også at anvende naturgas som brændstof til biler?
+Som sagt er CD meget enig med forslagsstillerne i elementerne i beslutningsforslaget, men
+de fleste af disse elementer er jo kendt i andre
+sammenhænge, og derfor kan CD ikke støtte
+forslaget.";Svend Aage Jensen
+116136;name_party;":
+Jeg vil gerne sige tak for de smukke ord. Tak
+
+9801
+
+7/5 92: 1. beh. af f. t. beslutn. om byøkologi";Lise Hækkerup
+116256;title_name;"for den mere eller mindre positive modtagelse,
+forslaget har fået. Jeg har været glad - mere
+glad for nogle tilkendegivelser end for andre.
+Jeg er da udmærket godt klar over, hr. minister, at der er masser af gode tiltag i gang med
+hensyn til økologi, med hensyn til at spare på
+ressourcerne.
+Det kunne godt se ud, som om debatten på
+et tidspunkt var ved at løbe af sporet: i hvert
+undrede det mig lidt, at såvel Venstre som De
+Konservative talte om noget, som egentlig ikke
+lå i forslaget. Det er jo i virkeligheden bare et
+forslag til et handlingsprogram, hvor vi opfordrer regeringen til at nedfælde nogle byøkologiske initiativer. Andet er det faktisk ikke.
+Jeg var glad for, at Steen Gade var meget
+konkret. Jeg er også glad for, at Steen Gade og
+SF . . .";Lise Hækkerup
+117055;title_name;":
+Hr. Gade!";Lilli Gyldenkilde
+117084;name_party;":
+. . . hr. Gade, undskyld . . . kan se det vigtige
+i demonstrationsprojekterne. Det er simpelt
+hen vigtigt, at vi får formidlet viden og information ud til de forskellige, som har behov for
+det her.
+Hr. Gade talte yderligere om bygningsregulativet, som skulle strammes op. Det er vi ganske enige i. Vi har den holdning i Socialdemokratiet, at intet projekt må gå i gang, intet projekt må kunne godkendes, medmindre det er
+økologisk forsvarligt. Om det så skal være en
+solfanger eller hvad, ved jeg egentlig ikke. Solfangere er måske ikke så hensigtsmæssige i de
+områder, hvor der er alternative former for opvarmning, f.eks. i de områder, hvor fjernvarmen er voldsomt udbygget. Men vores hensigt
+har altså været, at projektet ikke måtte godkendes, medmindre det var økologisk forsvarligt.
+Hr. Aage Brusgaard mente faktisk ikke, at
+forslaget ville give en eneste ekstra arbejdsplads. Det synes jeg er en meget, meget besynderlig fortolkning af sandheden, må jeg nok sige. Al den stund vi i øjeblikket taler om aktivering af ledige, synes jeg, at der ligger masser af
+muligheder inden for netop byøkologien. Det
+kan være affaldssortering, det kan være recirkulation af gråt spildevand, det kan være borgernes aktive inddragelse i forskellige former
+
+9802
+
+for indsamling. Der er masser af muligheder.
+Jeg forstår faktisk slet ikke hr. Aage Brusgaards tanker om manglende arbejdspladser i
+forslaget.
+Alt i alt vil jeg sige tak for debatten. Jeg håber, vi kan komme videre med forslaget.
+Hermed sluttede forhandlingen.
+Afstemning
+Forslagets overgang til anden (sidste) behandling
+vedtoges uden afstemning.";Lise Hækkerup
+118725;title_name;":
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Miljø- og Planlægningsudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget. (Ophold).
+Det er vedtaget.
+Den sidste sag på dagsordenen var:
+21) Første behandling af lovforslag nr. L 264:
+Forslag til lov om ændring af lov om individuel boligstøtte. (Nedsættelse af rente for boligydelseslån).
+Af Pelle Voigt (SF) m.fl.
+(Fremsat 8/4 92).
+Lovforslaget sattes til forhandling.
+Forhandling
+Boligministeren (Svend Erik Hovmand):
+Det lovforslag, som Socialistisk Folkeparti
+har fremsat, drejer sig om nedsættelse af renten på boligydelseslån, som ydes i medfør af
+lov om individuel boligstøtte.
+I konsekvens af en tilsvarende ændring af
+rentefastsættelsen ved lov nr. 337 af 6. juni
+1991 vedrørende lån til betaling af ejendomsskatter foreslår SF, at renten nedsættes til halvdelen af diskontoen pr. 1. oktober det foregående år. Ifølge bemærkningerne til forslaget er
+baggrunden for fremsættelsen, at der er sket en
+væsentlig stigning i Nationalbankens diskonto
+i forhold til det almindelige renteniveau, hvilket har ført til en øget rentetilskrivning på boligydelseslån. Hertil kommer, at renten for bo-
+
+9803
+
+7/5 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte";Lilli Gyldenkilde
+120006;title_name;"ligydelseslån ikke er fradragsberettiget ifølge
+skattelovgivningen.
+Rentefastsættelsen for boligydelseslån blev
+sidst ændret med virkning fra den 1. januar
+1987, idet renteniveauet på daværende tidspunkt blev harmoniseret med rentesatsen i lov
+om lån til betaling af ejendomsskatter. Rentesatsen for boligydelseslån har fra dette tidspunkt været 1112 pct. lavere end Nationalbankens diskonto pr. 1. oktober det foregående år,
+hvorimod den årlige rente tidligere var 3 pct.
+højere end diskontoen pr. 1. oktober det foregående år.
+Samtidig med denne rentenedsættelse bortfaldt fradragsretten for renter af boligydelseslån, ligesom det allerede var tilfældet for renter
+af lån til betaling af ejendomsskatter. Siden
+den 1. januar 1987 og indtil ændringen af lov
+om lån til betaling af ejendomsskatter har der
+været overensstemmelse mellem renteniveauet
+for disse to låneformer.
+I årene fra 1987 til 1990 var rentesatsen for
+boligydelseslån 5V2 pct., mens diskontoen var 7
+pct. Som det også angives i bemærkningerne til
+lovforslaget, har Nationalbanken siden da
+gradvis forøget diskontoen til det nuværende
+niveau på ca. 9V2 pct., hvilket har medført en
+tilsvarende stigning af forrentningen på boligydelseslån til det nuværende niveau på 8 pct.
+Jeg vil gerne sige, at der er selvfølgelig meget, der kunne tale for det hensigtsmæssige i at
+harmonisere renteniveauet ved lån til betaling
+af ejendomsskatter og boligydelseslån, og jeg
+vil ikke på forhånd være afvisende over for
+denne tanke. Ifølge forslaget fra Socialistisk
+Folkeparti skal rentenedsættelsen imidlertid
+have virkning allerede fra den 1. januar i år, og
+en nedsættelse af renten på boligydelseslån til
+4,75 pct. svarende til halvdelen af diskontoen
+pr. 1. oktober 1991 vil indebære en reduktion
+af statens rentetilskrivning på ikke under 30
+mio. kr. for 1992, måske endda endnu mere.
+Dette vil ikke være i overensstemmelse med finanslovaftalen for 1992 mellem Socialdemokratiet, Det Radikale Venstre, Centrum-Demokraterne, Kristeligt Folkeparti og regeringspartierne, og regeringen kan derfor ikke tiltræde lovforslaget i den foreliggende form med
+ikrafttrædelse den 1. januar 1992.
+Det er klart, at hvis man ønsker dette forslag
+fremmet - og jeg er som sagt ikke afvisende
+over for tankegangen i forslaget - må det na-
+
+9804
+
+turligvis indgå i forhandlingerne om finansloven for 1993 under den klare forudsætning, at
+finansieringen af de nævnte 30 mio. kr. i mistede renteindtægter samtidig bringes på plads.
+I mange henseender er der her tale om et
+positivt forslag, og mange grupper ville finde
+det overordentlig tiltalende, men det gælder jo
+også for mange andre forslag. Det er en forudsætning for regeringen, at der også skaffes
+dækning for det tab, som statskassen lider, og
+derfor må jeg sige meget klart, at skal dette forslag nyde fremme, må det indgå i den afvejning, som finder sted i forbindelse med enhver
+finanslovforhandling. Der må skabes sikkerhed for, at det nødvendige provenu kan tilvejebringes.";Boligministeren
+123003;name_party;":
+Jeg vil godt starte med at tilkendegive Socialdemokratiets helt klare tilslutning til det
+fremsatte forslag.
+Der har tidligere været overensstemmelse
+mellem rentesatserne for ejendomsskatte- og
+boligstøttelån, og det bør der også være fremover. Det var Socialdemokratiets helt klare ønske, da renten på ejendomsskattelånene blev
+nedsat, at boligstøtteloven skulle have en tilsvarende udformning og dermed en tilsvarende rentesats. Jeg skal blankt erkende, at det har
+været svært at få boligministerens positive tilslutning til det, og det er det åbenbart også i
+dag, kan jeg forstå. Jeg skal ikke lægge skjul
+på, at jeg har lidt svært ved at se logikken i det
+forbehold, der også i dag bliver taget fra boligministerens side med henvisning til finanslovforhandlingerne for 1993.
+Det kan godt være, vi skal se lidt nærmere
+på ikrafttrædelsesdatoen for det konkrete forslag, men når det er sagt, har jeg svært ved at se
+logikken i, at man taler om finansloven for
+1993. Da man vedtog rentenedsættelsen for
+ejendomsskatterne i foråret 1991, skete det altså ikke midt i finanslovsforhandlingerne, og
+derfor mener jeg heller ikke, at det er en acceptabel begrundelse i dag.
+Socialdemokratiet kan helt og fuldt støtte
+forslaget, og jeg synes netop, det er væsentligt
+- som det også fremgår af bemærkningerne til
+lovforslaget - at man holder sig for øje, at
+mens alle pensionister uanset indkomst og
+uanset boligens størrelse, har mulighed for at
+få indefrosset ejendomsskatterne, er mulighe-
+
+9805
+
+7/5 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte";Lissa Mathiasen
+124575;title_name;"den for at opnå boligydelseslån derimod afhængig af både indkomsten og boligens størrelse. Det er også en klar tilkendegivelse af, at
+når vi taler om boligydelseslån, er der givetvis
+tale om et meget større socialt sigte og et meget
+større behov for at fastholde paralleliteten.
+Som jeg vel nok har givet klart udtryk for
+her, har vi opfattet denne forskel i rentesatserne som en urimelighed, og som det også er tilkendegivet tidligere, kan vi støtte dette lovforslag.";Lissa Mathiasen
+125062;name_party;":
+Vi er faktisk enige med SF i indholdet af dette lovforslag, og vi er også enige i, at sagen vel
+nok burde have været rettet samtidig med ændringen af rentesatsen i loven vedrørende tilbagebetaling af ejendomsskatter, for det er jo
+de samme forhold, som gør sig gældende. Vi
+vil derfor selvfølgelig også være indstillet på at
+få løst problemet, men vi mener ligesom boligministeren, at det skal ske i forbindelse med
+drøftelserne om næste års finanslov, idet der jo
+er tale om en offentlig merudgift. Men dermed
+kan forslaget jo også få virkning allerede fra
+den I. januar 1993, og det er vel ikke så dårligt
+endda.";Pernille Sams
+125695;name_party;":
+SF's lovforslag nr. L 264 om at nedsætte renten for boligydelseslån ser aldeles rimeligt ud.
+Med loven om individuel boligstøtte har man
+ønsket at give en håndsrækning til de pensionister, der ikke selv kan klare deres boligudgifter, og derfot har det altid været hensigten at
+anlægge en rimelighedsbetragtning med hensyn til den rente, man betaler. Netop denne rimelighed har SF nu vurderet og fundet, at tiden er inde til at sætte renten ned for disse boligydelseslån, da den pr. automatik følger Nationalbankens diskonto.
+Indtil 1990 var renten 5Vi ,,pct., altså de llh
+pct. under diskontoen, som reglerne fastsatte.
+Nu har Nationalbanken forhøjet diskontoen,
+og det har betydet, at. man nu betaler 8 pet. i
+rente af boligydelseslånene. Det ville ingen vel
+have ændret, hvis ikke man i 1991 havde nedsat renten for ejendomsskattelån til parcelhusejere til det halve af diskontoen, hvor man ellers havde haft parallellovgivning på de to områder, siden man afskaffede fradraget for ejendomsskatter og rentefradraget for boligydelseslån.
+
+9806
+
+Derfor er det en velbegrundet nyvurdering,
+SF her fremlægger, men rent faktisk betyder
+det en merudgift på 30 mio. kr. årligt, Selv om
+det tilsyneladende.ikke er et stort beløb i statsbudgettet, er det alligevel en slags penge, og af
+den grund kan vi i øjeblikket ikke anbefale forslaget, da det ikke indeholder en anvisning på
+finansiering af udgiften. Vi er af den opfattelse,
+at det indgår i finanslovaftalen, at man ikke afholder nye udgifter uden samtidig at anvise
+muligheder for finansieringen af dem.";Bodil Thrane
+127273;name_party;":
+Centrum-Demokraterne er helt enige med
+SF i det rimelige i, at rentesatsen for lån til boligydelse bliver nedsat til samme niveau, som
+er gældende for lån til betaling af ejendomsskatter. Det må antages, at det var en fejltagelse, at det ikke kom med i sin tid, og vi er derfor
+enige med SF i, at forholdet bør kunne bringes
+i orden.
+Men vi er ikke enige med SF i tidspunktet,
+idet den renteindtægtsnedgang for staten i
+1992, der vil blive følgen af vedtagelsen af lovforslaget, også skal finansieres. Det anser vi ikke for muligt inden for den nugældende finanslovaftale. CD kan derfor ikke medvirke til
+vedtagelse af det foreliggende lovforslag, men
+mener, at spørgsmålet skal indgå i fotbindelse
+med finanslovforhandlingerne vedrørende
+1993.";Svend Aage Jensen
+128038;name_party;":
+Også i Det Radikale Venstre kan vi helt tilslutte os hensigten med dette forslag. Det er
+oplagt, at da man ændrede rentesatsen i forbindelse med lånene til indefrysning af ejendomsskatter, burde man også have taget boligydelseslånene med, fordi man jo erkendte, at
+tiden var løbet fra den rentemæssige konstruktion på området med de to låntyper, der er tale
+om.
+Jeg synes også, det rejser lidt af et spørgsmål
+om, hvordan Folketinget kan sikre en større
+grad af sammenhæng i de love, der bliver vedtaget. Det burde jo være en ren rutinesag, at
+når man tager fat i det ene, tager man også fat i
+det andet, men her sker det altså kun, fordi der
+er nogle, der bliver opmærksomme på problemet. Jeg kan kun sige, at jeg synes, det er godt,
+at SF har været opmærksom på det, og vi er
+altså positive over for at få skabt lighed mellem de to typer forrentning.
+
+9807
+
+7/5 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte";Jørgen Estrup
+128975;title_name;"Men det er selvfølgelig også klart, at vi har
+indgået et finanslovforlig for 1992 og er nødt
+til at leve op til det. Jeg kan ikke på nuværende
+tidspunkt bedømme de provenumæssige konsekvenser for 1992, men det er klart, at fra radikal side må vi tage det forbehold, at vi ikke kan
+forpligte os i 1992, hvis der bliver provenumæssige konsekvenser. Men vi står naturligvis
+frit fra den 1. januar 1993.";Jørgen Estrup
+129390;name_party;":
+Vi har med interesse læst SF's forslag og er
+enige med SF i, at det sandsynligvis mere var
+udtryk for en teknisk fejl end en egentlig politisk markering, at vi ikke også fik denne del af
+renterne med, da vi sidst havde fat i lovgivningen.
+Men vi har et principielt synspunkt. Vi mener, at når man indefryser ejendomsskatter og
+andre ydelser i pensionisters boliger, er det jo
+egentlig det samme som at lave en efterfølgende rentelempelse, så man efterlader nogle flere
+penge til arvingerne. Og spørgsmålet er, om SF
+mener, at det er formålstjenligt.
+Imidlertid har vi som sagt med interesse læst
+SF's forslag, og vi er enige med SF i, at den
+asymmetri, der er opstået, er noget rod. Vi kan
+lige så godt have en lovgivning, der er let forståelig for alle parter, og derfor vil vi arbejde
+forholdsvis positivt for at få SF's forslag vedtaget.";Kim Behnke
+130258;name_party;":
+SF peger på et interessant problem, nemlig
+forskellen mellem renten på boligydelseslån og
+lån til betaling af ejendomsskatter. Der er ingen logisk forklaring på forskellen, og årsagen
+til de forskellige rentesatser fortaber sig tilsyneladende også i det uvisse. Der har jo tidligere været ens rentesatser på disse områder.
+I Kristeligt Folkeparti er vi enige med SF i,
+at problemet bør løses, spørgsmålet er bare
+hvornår. Vi har jo indgået et finanslovforlig for
+1992, og det har vi ikke noget ønske om at bryde for at finde de 30 mio. kr., der tilsyneladende skal til for at løse problemet. Vi er altså positive over for at finde en løsning på spørgsmålet, men det må vente til næste finansår.
+(Kort bemærkning).";Lysholm Christensen
+130993;name_party;":
+
+9808
+
+Nu har jeg siddet og lyttet til diverse ordføreres taler og ministerens tale, og på den baggrund vil jeg godt stille et spørgsmål. Betyder
+ministerens og de bemærkninger fra finanslovaftalepartierne, der er faldet her i dag, at der
+ikke - ej heller fra ministerens side - kan fremlægges forslag, der på nogen måde påvirker
+økonomien eller skaber øgede udgifter for
+1992? Er det det, man kan udlede af de ord,
+der er faldet her i dag?";Lissa Mathiasen
+131452;name_party;":
+Det kunne være dybt interessant at få besvaret fru Lissa Mathiasens spørgsmål, inden vi
+fortsætter debatten, men jeg vil da sige, at vi er
+glade for i SF, at alle partier i Folketinget tilsyneladende støtter forslaget.
+Det er fremgået af debatten indtil nu, at der
+er tale om en juridisk, en lovgivningsmæssig
+forglemmelse fra Folketingets side, og at alle
+partier er enige i, at den skal rettes. Diskussionen går på, hvornår der er basis for at rette
+fejlen, hvornår der kan etableres budgetmæssig baggrund for det, og jeg må sige, at vi er
+ganske på linje med Socialdemokratiet, når vi
+er lidt uforstående over for det argument, at
+forglemmelsen ikke kan rettes inden for rammerne af den nuværende finanslovaftale. Hvis
+man ønsker det, er der altid mulighed for at
+foretage justeringer i begge retninger i aftaler
+af denne art, og vi har altså at gøre med en
+gruppe mennesker, som på grund af en lovteknisk forglemmelse bliver urimeligt behandlet.
+Og nu siger man så, at de skal behandles urimeligt endnu et års tid, for vi har faktisk glemt
+problemet, og vi kan ikke tage os sammen til at
+få det løst lige her og nu.
+Jeg synes, at i situationer som denne skal vi
+være meget forsigtige med at anvende den helt
+generelle argumentation, som en række af ordførerne har anvendt. Vi ved, at den vil blive
+fraveget i en lang række sager senere hen, og
+derfor var det bedst, hvis man kunne få rettet
+loven til og få løst problemet allerede på nuværende tidspunkt, som SF foreslår. Hvis det ikke
+lader sig gøre, når vi har kigget på tingene i
+udvalget, må vi i det mindste sikre os, at forslaget kan blive vedtaget med en senere ikrafttrædelsesdato.
+Men som sagt venter jeg med ret stor spænding på boligministerens svar på det spørgsmål, som fru Lissa Mathiasen stillede. Det er
+
+9809
+
+7/5 92: 1. beh. af f. t. 1. vedr. individuel boligstøtte";Pelle Voigt
+133308;title_name;"jo indlysende urimeligt, hvis man anlægger et
+sæt kriterier i én situation og et andet sæt i en
+anden situation, og jeg har meget svært ved at
+forestille mig, at der ikke på et senere tidspunkt vil kunne vedtages forslag i Folketinget,
+der skal finansieres inden for rammen af finanslovaftalen for 1992.";Pelle Voigt
+133631;name_party;":
+Jeg stillede et spørgsmål før, dels til de partier, der fremsatte udtalelsen, dels til boligministeren. Jeg vil da godt stille det en gang til, for
+boligministeren fik måske ikke helt fat i mit
+spørgsmål: Betyder boligministerens bemærkninger, at der ikke - ej heller fra ministerens
+side - kan fremlægges forslag, der på nogen
+måde påvirker økonomien eller skaber øgede
+udgifter for 1992?
+Boligministeren (Svend Erik Hovmand):
+Nu kunne det selvfølgelig være overordentlig fristende for mig at gå ind i en meget lang
+diskussion om, hvad man forstår og ikke forstår ved et forlig, og hvordan vilkårene er omkring det finanslovforlig, der blev indgået.
+Men det vil jeg helt afstå fra. Spørgeren kender
+svarene lige så godt som jeg.
+Hermed sluttede forhandlingen.
+Afstemning
+
+9810
+
+Lovforslagets overgang til anden behandling
+vedtoges uden afstemning.";Lissa Mathiasen
+134520;title_name;":
+Jeg foreslår, at lovforslaget henvises til Boligudvalget. Hvis ingen gør indsigelse mod dette forslag, betragter jeg det som vedtaget.
+(Ophold). Det er vedtaget.
+Meddelelser fra formanden:";Lilli Gyldenkilde
+134749;title_name;":
+Der er ikke mere på dagsordenen.
+Der er foretaget ændringer i følgende udvalg:
+Udvalget for Forretningsordenen (6/5 92):
+Udtræder: Marianne Jelved (RV)
+Nyt medl.: Niels Helveg Petersen (RV)
+Folketingets næste møde afholdes i morgen,
+fredag den 8. maj 1992, kl. 10.00.
+Angående dagsordenen skal jeg henvise til
+den dagsorden, der er opslået i salen.
+Mødet hævet kl. 14.04";Lilli Gyldenkilde
