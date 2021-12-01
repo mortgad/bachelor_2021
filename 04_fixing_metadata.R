@@ -26,7 +26,6 @@ list <- list_of_members %>% mutate(
   Parti = str_replace(Parti, "x - ", "")
 ) 
 
-hep <- list %>% distinct(Parti)
-
 write_delim("./data/metadata_for_scraping/folketing_members.csv", col_names = FALSE, delim = ";", x = list)
+
 

@@ -16,8 +16,7 @@ name_re = "[\\w\\s-\\.]+"
 # load in metadata
 meta = read_delim("./data/metadata_for_scraping/metadata.csv", ";", col_types = cols()) %>%
     mutate(id = tools::file_path_sans_ext(basename(PDF))) %>%
-    # select(-PDF, -X6) this was Malthes, but column X6 does not exist???
-    select(-PDF, -...6) # idk why column name has changed
+    select(-PDF, -X6) 
 
 tidy_text <- function(filename) {
     cat(paste0("[ ] Tidying ", filename, "\n"))
@@ -206,12 +205,44 @@ data3 = left_join(data3, less_weird_names, by = c("Year", "Name")) %>%
            Name = ifelse(is.na(realname), Name, realname)) %>%
     select(-Parti.x, -Parti.y, -realname) %>%
     distinct()
-    
+
+write_csv(data3, file = "data3_temp.csv") # ----------- remember to remove ---------
+
+
+############## ------------------ REMOVE WHEN DONE ------------------- ####################
+##### CHECKING SIILAR NAMES #####
+# Creating stringdist matrix for restaurant names
+distmatrix<-stringdist::stringdistmatrix(unique(data3$Name),unique(data3$Name), useNames=TRUE ,method = "osa")
+
+# Converting to dataframe
+distmatrixdf<- as.data.frame(distmatrix)
+
+# Making a row with restaurant names
+distmatrixdf$Restaurant_Name <- rownames(distmatrixdf)
+
+# Filtering out all links with less than 5 in distance and eyeballing the results to decide what links to merge
+dist <- distmatrixdf %>% 
+    pivot_longer(cols = everything(vars = distmatrixdf$Restaurant_Name)) %>% 
+    filter(value != 0)
+
+############## ------------------  ------------------- ####################
+
+list_of_names <- data.frame(Name = unique(data3$Name))
+updated_names <- list_of_names %>% mutate(
+    Name = ifelse(str_detect(Name, pattern = "Sonja Al"), "Sonja Albrink", Name),
+    Name = ifelse(str_detect(Name, pattern = "Hus"), "Birgitte Husmark", Name)
+)
+
 ### Hardcoding the last names that are missing
 hardcoded_names <- data3 %>% 
     filter(is.na(Parti)) %>%
     distinct(Name, Year) %>%
     arrange(Name, Year)
+
+######### REMOVE AFTERWARDS #########
+
+
+####################################
 
 # HARDCODED - Needs to updated if scrape is scaled to more years
 names_to_keep <- c("Søren Egge Rasmussen", "Jeppe Kofod", "Hans Kristian Skibby", "Bruno Jerup", "Lars Christian Lilleholt", "Hans Christian Schmidt", "Christian Mejdahl", "Egge Rasmussen" )
