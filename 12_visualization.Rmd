@@ -19,16 +19,44 @@ pal <- wesanderson::wes_palette("Darjeeling1", 14, type = "continuous")
 theme_set(theme_minimal())
 ```
 
+```{r}
+# Mean position and sd of position per month and party
+#agg <- ws_df %>% group_by(Parti, Month) %>% summarise(mean = mean(theta), sd = sd(theta)) %>% drop_na(sd)
+agg <- ws_df %>% group_by(Parti, month_year_id) %>% summarise(mean = mean(theta), sd = sd(theta)) %>% drop_na(sd)
+
+# Mean position of each member grouped by party
+ws_df %>% group_by(row_names) %>% summarise(Parti = Parti, mean_theta = mean(theta)) %>% filter(!duplicated(mean_theta)) %>% filter(!row_names %in% c("Thor Pedersen", "Anders Fogh Rasmussen", "Søren Gade")) %>% 
+  ggplot()+
+  aes(x = mean_theta, y = Parti, color = Parti)+
+  geom_point()+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", 10, type = "continuous"))+
+  labs(title = "Wordshoal - Mean estimated position of each member divided by party", x = "Estimated position", y ="")+
+  theme(legend.position = "none")
+```
+
+```{r}
+# Aggregated pr year
+agg %>%   
+  mutate(Year = year(Month)) %>% group_by(Year, Parti) %>% summarise(mean = mean(mean)) %>% 
+  ggplot()+
+  aes(x = Year, y = mean, color = Parti)+
+  geom_point()+
+  geom_line()+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1", 10, type = "continuous"))+
+  labs(title = "Wordshoal - Estimated positions for parties per year", y = "Estimated position")
+```
+
+
+
 # ------------------------ Creating overlap variable ----------------------------------------
 ```{r}
 # Loading the results
 #csv_files = list.files(pattern="*.csv", path = "data/wordshoal_results/", full.names = T) 
 #df = map_df(csv_files, read_csv)
-df <- read_csv("./data/wordshoal_results/wordshoal_estimates_2019_2019.csv")
+df_ws <- read_csv("./data/wordshoal_results/wordshoal_estimates_2018_2021.csv")
 #df$time <- as.Date(paste(year(df$Date), month(df$Date), "01", sep = "-"))
 
 ```
-
 
 
 ```{r}
@@ -90,7 +118,7 @@ overlapper <- function(period){
 ```{r}
 # Looping over the function
 i = 1
-heppe <- map_df(unique(df$Month), overlapper)
+heppe <- map_df(unique(df_ws$Month), overlapper)
 
 ```
 
@@ -99,21 +127,6 @@ heppe <- map_df(unique(df$Month), overlapper)
 i = 1
 heppe <- map_df("2011_5", overlapper)
 ```
-
-```{r}
-df %>% group_by(Month) %>% count() %>% arrange(n)
-
-subset <- df %>% filter(as.character(Month) == "2019-10-01") %>% group_by(Parti) %>% filter(n() > 1) %>% ungroup() 
-
-length(unique(subset$Parti))
-
-# DESTROY df if only one party remains
-if(length(unique(subset$Parti)) == 1){
-  print("hep")
-  subset <- subset[-seq(1:100),]
-}
-```
-
 
 ```{r}
 # Adding the aggregated columns to the results and exporting the data
@@ -168,51 +181,6 @@ results %>%  group_by(Parti, Month) %>% summarise(mean = mean(difference_score))
 ```
 
 
-# ----------------------------------- MODELLING ---------------------------------------
-
-```{r}
-# Load results dataframe
-results <- read_csv("./data/agg_results_2009_2014.csv")
-
-######## Preprocessing #########3
-# Agregating results into a single data frame - VERY MESSY i know
-agg <- results %>% group_by(Parti, Month) %>% arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>%
-  summarise(overlap_score = mean(overlap_score),
-            difference_score = mean(difference_score)) 
-
-agg <- left_join(x = agg, y = results %>% select(c(Parti, Month, mean_theta, sd_theta)), by = c("Parti" = "Parti", "Month" = "Month")) %>% group_by(Parti, Month) %>% slice(1) %>% ungroup()
-
-# Adding a lag column for the predictors - difference_score and sd_theta
-agg <- agg %>% mutate(
-  lag_difference_score = lag(difference_score ),
-  lag_sd_theta = lag(sd_theta)
-)
-```
-
-```{r}
-# Modelling with lmer!!!
-pacman::p_load(lme4)
-
-#  m1: InclusionSD_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
-m1 <- lm(sd_theta ~ 1 + lag_sd_theta + lag_difference_score, data = agg)
-summary(m1)
-
-m2 <- lmer(sd_theta ~ 1 + lag_sd_theta + lag_difference_score + (1 + lag_sd_theta + lag_difference_score | Parti), data = agg)
-
-summary(m2)
-```
-
-
-```{r}
-# m3: Overlapping_t2 ~ 1 + InclusionSD_t1 + Overlapping_t1 + (1 + InclusionSD_t1 + Overlapping_t1 | Party)
-m3 <- lm(difference_score ~ 1 + lag_difference_score + lag_sd_theta, data = agg)
-summary(m3)
-
-m4 <- lmer(difference_score ~ 1 + lag_difference_score + lag_sd_theta + (1 + lag_difference_score + lag_sd_theta | Parti), data = agg)
-summary(m4)
-```
-
-
 # ------------------------------------- Plotting wordshoal results --------------------------------------------
 
 ```{r}
@@ -228,6 +196,7 @@ results %>% group_by(month_year_id) %>% count() %>% arrange(-n)
 
 results %>% filter(month_year_id == "2017_10") %>% count(Parti)
 ```
+
 ```{r}
 # Remove from visualization
 to_keep <- c("Dansk Folkeparti", "Socialdemokratiet")
@@ -295,4 +264,5 @@ ggplot(results) +
 )+
   xlim(-1.5,1.5)
 ```
+
 

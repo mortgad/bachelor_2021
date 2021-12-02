@@ -137,16 +137,102 @@ fitdf <- subset(fitdf, !duplicated(row_names))
 aggregate(theta ~ Parti, data = fitdf, mean)
 ```
 
-# LDA 
+
+# ------------------------ Creating overlap variable ----------------------------------------
 ```{r}
-corpuseret = quanteda::corpus(df %>% filter(Year == 2011)) 
-dfmmm <- dfm(tokens(corpuseret), remove_punct = TRUE, ignoredFeatures = stopwords("danish")) %>%
-              dfm_trim(min_termfreq = 0.8, termfreq_type = "quantile",
-                       max_docfreq = 0.1, docfreq_type = "prop") # matrix making
-
-
-tmod_lda <- textmodel_lda(dfmmm, k = 10)
-
-terms(tmod_lda, 20)
+# Loading the results
+#csv_files = list.files(pattern="*.csv", path = "data/wordshoal_results/", full.names = T) 
+#df = map_df(csv_files, read_csv)
+df_ws <- read_csv("./data/wordshoal_results/wordshoal_estimates_2018_2021.csv")
+#df$time <- as.Date(paste(year(df$Date), month(df$Date), "01", sep = "-"))
 
 ```
+
+
+```{r}
+# FUNCTION
+overlapper <- function(period){
+  # Printing status
+  print(paste0("[ ] Calculating overlaps for month: ", period, ". Number: ", i, " out of ", as.character(length(unique(df$Month)))))
+  
+  # Subsetting the period and filtering out parties that only has 1 speech in a month
+  subset <- df %>% filter(Month == period) %>% group_by(Parti) %>% filter(n() > 1) %>% ungroup()
+  
+  # Only continue if there is more than one party with more than one speech
+  if(length(unique(subset$Parti)) > 1){
+  
+    # Making a list of parties
+    parties <- unique(subset$Parti)
+    
+    # Converting into wide format
+    wide <- subset %>% pivot_wider(names_from = Parti, values_from = theta) 
+    
+    # Creating an empty list
+    list <- list()
+    # Adding the parties to the list
+    for(party in parties){
+      list <- append(list,na.omit(select(wide, party)))
+    }
+    
+    # Calculating the overlaps
+    overlaps <- overlap(list)
+    
+    # Wringling the data
+    results <- data.frame(overlaps$OV) %>% rownames_to_column("Parties") %>% 
+      separate(Parties, c("From","To"), "-")
+    
+    # Making an empty data frame to append to
+    end_results = data_frame()
+    
+    # Wrangling the result data frame
+    for(party in parties){
+      hep <- results %>% filter(From == party | To == party) %>% mutate(
+        copy_from = From,
+        From = ifelse(From == party, From, To),
+        To = ifelse(To == party, copy_from, To)
+      ) %>% select(-copy_from)
+      
+      end_results <- rbind(end_results, hep)
+    }
+    
+    # Adding month_year_id variable
+    end_results$Month <- period
+    
+    i <<- i + 1
+    return(end_results)
+  }
+}
+
+```
+
+```{r}
+# Looping over the function
+i = 1
+heppe <- map_df(unique(df_ws$Month), overlapper)
+
+```
+
+```{r}
+# Looping over the function
+i = 1
+heppe <- map_df("2011_5", overlapper)
+```
+
+```{r}
+# Adding the aggregated columns to the results and exporting the data
+agg <- df %>% group_by(Month, Parti) %>% summarise(mean_theta = mean(theta), 
+                                                           sd_theta = sd(theta))
+
+joined <- left_join(heppe, agg, by = c("From" = "Parti", "Month" = "Month")) %>% 
+  rename(
+    Parti = From,
+    overlap_with = To,
+    overlap_score = overlaps.OV
+  ) %>% mutate(
+    difference_score = 1-overlap_score
+  ) %>% 
+  select(Month, Parti, overlap_with, overlap_score, difference_score, mean_theta, sd_theta)
+
+write_csv(joined, "./data/agg_results_2009_2021.csv")
+```
+
