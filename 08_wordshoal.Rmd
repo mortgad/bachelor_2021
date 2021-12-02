@@ -31,11 +31,10 @@ stopwords <- read.delim("https://gist.githubusercontent.com/berteltorp/0cf8a0c7a
 
 ```{r}
 # Importing data
-df <- read_csv("./data/folketinget_2009_2021_raw.csv") %>% mutate(
-  month_year_id = paste0(Year, "_", month(Date)
-))
+df <- read_csv("./data/folketinget_1990_2021_raw.csv") %>% arrange(Month)
+df$Month <- as.character(df$Month)
 
-df <- df %>% filter(month_year_id %in% c("2011_1", "2011_2", "2011_3", "2011_4"))
+subset <- df %>% filter(Month %in% c("1991-10-01", "1990-11-01", "1990-12-01"))
 ```
 
 
@@ -59,7 +58,7 @@ summary(df$Date)
 ##############  TESTING NEW FUNCTION ############## 
 
 get_theta <- function(data){
-  cat(paste0("[ ] Shoaling Month ", Month, ". Month: ", i, " out of ", length(df$Month), "\n"))
+  cat(paste0("[ ] Shoaling Month ", data$Month[1], ". Month: ", i, " out of ", length(unique(df$Month)),"\n"))
   corpus = quanteda::corpus(data)
   dfm <- dfm(tokens(corpus), remove_punct = TRUE, ignoredFeatures = stopwords) # stopwords("danish")
   wordshoalfit <- wordshoal::textmodel_wordshoal(dfm, groups = docvars(corpus, "id"), 
@@ -94,16 +93,19 @@ testfunc <- function(data, year_list, party_list){
   # create nested list of dataframes to which the shoal-function is applied
   nested = data %>% split(.$Month) # change to Month variable
   lapply(names(nested), function(x) get_theta(nested[[x]]))
-  filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(year_list), "_", max(year_list), ".csv")
+  filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(data$Month), "_", max(data$Month), ".csv")
   write_csv(theta_df, filename)
 }
+
 
 ```
 
 ```{r}
 # getting theta estimates for each speaker per month
 i = 1
-hep <- testfunc(data = df)
+hep <- testfunc(data = subset)
+
+length(unique(df$Month))
 
 ```
 
