@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # ------------------------------------------------- RATINGS -------------------------------------------------
 ```{r cars}
 # packages
+#pacman::p_load(tidyverse, dplyr, stringdist)
 library(tidyverse, dplyr, stringdist)
 
 # load data
@@ -19,55 +20,64 @@ data <- read_csv("./data/folketinget_1990_2021_raw.csv")
 
 # sample ~200 values across different years
 set.seed(124)
-samples <- data %>% group_by(Year) %>% sample_n(round(200/length(unique(data[["Year"]])))) %>% ungroup() %>% select(id, text, doc_id, Year)
+samples <- data %>% group_by(Year) %>% sample_n(round(200/length(unique(data[["Year"]])))) %>% ungroup() %>% select(id, text, doc_id, Year, Name)
 
 # assign rater
 samples$who <- ifelse(samples$doc_id %in% ((sample(samples$doc_id, nrow(samples)/2))), "Morten", "Gustav")
-
-# write csv
-write_csv(x = samples, file = paste0("./data/", nrow(samples), "_samples_", min(samples$Year), "-", max(samples$Year), ".csv"))
 
 ```
 
 ```{r}
 ################################################### FUNCTION ######################################################  
 
-morten <- read_csv("./data/195_samples_2009-2021.csv") %>% filter(who == "Morten") %>% slice(1:3)
 
 
 assessment <- function(df){
   # list of ids
-  ids <- df$doc_id %>% sort()
+  doc_ids <- df$doc_id %>% sort()
   # Empty data frame
   ratings <- data.frame(doc_id = as.character(), split = as.character(), assignment = as.character())
   
   # Loop through ids
-  for(id in ids){
-    split = readline(prompt = paste0("Is the text in ", id, " split correctly? "))
-    assignment = readline(prompt = paste0("Is the text in ", id, " assigned correctly? "))
-    row <- data.frame(doc_id = id, split = split, assignment = assignment)
+  for(doc_id in doc_ids){
+    
+    cat(paste0("PDF name: ", df$id[df$doc_id == doc_id], "\n"))
+    cat(paste0("Text: \n \n ---------------------------------------------------------------- \n ", 
+               df$text[df$doc_id == doc_id]), "\n ----------------------------------------------------------------\n")
+    split = readline(prompt = paste0("Is the text in ", doc_id, " split correctly? "))
+    
+    cat(paste0("Assigned to: ", df$Name[df$doc_id == doc_id], "\n"))
+    assignment = readline(prompt = paste0("Is the text in ", doc_id, " assigned correctly? "))
+    row <- data.frame(doc_id = doc_id, split = split, assignment = assignment)
     ratings <- rbind(ratings, row)
   }
   return(ratings)
 }
 
-
-morten_ratings <- assessment(df = morten)
 ```
 
 ```{r}
 ############################################### MORTEN RATING ######################################################
-morten <- read_csv("./data/195_samples_2009-2021.csv") %>% filter(who == "Morten") %>% slice(1:3)
+# morten <- samples %>% filter(who == "Morten")
+# write.csv(morten, "./data/samples_morten.csv")
 
+# 1 = Yes
+# 2 = No
+
+morten <- read_csv("./data/samples_morten.csv")
 morten_ratings <- assessment(df = morten)
-
 
 ```
 
 ```{r}
 ############################################### GUSTAV RATING ######################################################
-gustav <- read_csv("./data/195_samples_2009-2021.csv") %>% filter(who == "Gustav")
+# gustav <- samples %>% filter(who == "Gustav")
+# write.csv(gustav, "./data/samples_gustav.csv")
 
+# 1 = Yes
+# 2 = No
+
+gustav <- read_csv("./data/samples_gustav.csv")
 gustav_ratings <- assessment(df = gustav)
 
 ```
