@@ -12,8 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 # ------------------------------------------------- RATINGS -------------------------------------------------
 ```{r cars}
 # packages
-#pacman::p_load(tidyverse, dplyr, stringdist)
-library(tidyverse, dplyr, stringdist)
+pacman::p_load(tidyverse, dplyr, stringdist)
+#library(tidyverse, dplyr, stringdist)
 
 # load data
 data <- read_csv("./data/folketinget_1990_2021_raw.csv")
@@ -41,7 +41,7 @@ assessment <- function(df){
   # Loop through ids
   for(doc_id in doc_ids){
     
-    cat(paste0("PDF name: ", df$id[df$doc_id == doc_id], "\n"))
+    cat(paste0("PDF name: ", df$id[df$doc_id == doc_id],".pdf", "\n"))
     cat(paste0("Text: \n \n ---------------------------------------------------------------- \n ", 
                df$text[df$doc_id == doc_id]), "\n ----------------------------------------------------------------\n")
     split = readline(prompt = paste0("Is the text in ", doc_id, " split correctly? "))
@@ -79,6 +79,8 @@ morten_ratings <- assessment(df = morten)
 
 gustav <- read_csv("./data/samples_gustav.csv")
 gustav_ratings <- assessment(df = gustav)
+
+lapply(morten$id, write, "morten_pdf.txt", append=TRUE)
 
 ```
 
