@@ -18,38 +18,12 @@ pacman::p_load(tidyverse, brms, here, patchwork, cmdstanr)
 
 
 ```{r}
-# Load results dataframe
-results <- read_csv("./data/agg_results_2009_2021.csv") %>% 
-  # Creating date variable
-  mutate(
-  Date = str_replace(month_year_id, "_", "-"),
-  Date = as.Date(paste0(Date, "-01"))
-)
-
-######## Preprocessing #########3
-# Agregating results into a single data frame - VERY MESSY i know
-agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>%
-  summarise(overlap_score = mean(overlap_score),
-            difference_score = mean(difference_score)) 
-
-agg <- left_join(x = agg, y = results %>% dplyr::select(Parti, Date, mean_theta, sd_theta), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup()
-
-# Adding a lag column for the predictors - difference_score and sd_theta
-agg <- agg  %>%  mutate(
-  Inclusion = sd_theta,
-  Differentiation = difference_score
-) %>% group_by(Parti) %>% mutate(
-  Lag_inclusion = lag(Inclusion),
-  Lag_differentiation = lag(Differentiation)
-)
-
-# Removing NA and 0 values
-agg <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
+# load results
 ```
 
 
 ```{r}
-#checking out the outome variable
+# inspecting the outome variable
 p1 <- ggplot(agg, aes(x = Inclusion)) + 
   geom_density()+
   geom_vline(xintercept = mean(agg$Inclusion), size=0.5, color="red", linetype = "dashed")+
@@ -365,6 +339,7 @@ m2 <- brm(
 pp_check(m2, nsamples = 100)
 
 ```
+
 ```{r}
 summary(m2)
 ```

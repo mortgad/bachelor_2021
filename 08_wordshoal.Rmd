@@ -88,7 +88,7 @@ hep <- testfunc(data = df, year_list = c("2019"), party_list = c("Socialdemokrat
 
 ```
 
-# --------------------------------- OLD METHOD -------------------------------------
+# --------------------------------- PREVIOUS METHOD -------------------------------------
 ```{r}
 ############## corpus per month ###################
 years = seq(2009,2021) # Years to loop through
@@ -208,7 +208,7 @@ overlapper <- function(period){
 ```{r}
 # Looping over the function
 i = 1
-heppe <- map_df(unique(df_ws$Month), overlapper)
+heppe <- map_df(unique(df_ws$Month), overlapper) # change df name
 
 ```
 
@@ -233,6 +233,32 @@ joined <- left_join(heppe, agg, by = c("From" = "Parti", "Month" = "Month")) %>%
   ) %>% 
   select(Month, Parti, overlap_with, overlap_score, difference_score, mean_theta, sd_theta)
 
-write_csv(joined, "./data/agg_results_2009_2021.csv")
+
+```
+
+```{r}
+# Preprocessing
+
+######## Preprocessing #########3
+# Agregating results into a single data frame - VERY MESSY i know
+agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>% # rename df
+  summarise(overlap_score = mean(overlap_score),
+            difference_score = mean(difference_score)) 
+
+agg <- left_join(x = agg, y = results %>% dplyr::select(Parti, Date, mean_theta, sd_theta), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup() # Date might need to be changed to Month
+
+# Adding a lag column for the predictors - difference_score and sd_theta
+agg <- agg  %>%  mutate(
+  Inclusion = sd_theta,
+  Differentiation = difference_score
+) %>% group_by(Parti) %>% mutate(
+  Lag_inclusion = lag(Inclusion),
+  Lag_differentiation = lag(Differentiation)
+) # Maybe drop sd_theta
+
+# Removing NA and 0 values
+agg <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
+
+write_csv(joined, "./data/wordshoal_results.csv") # check output file name
 ```
 
