@@ -4,3 +4,6 @@ debate_level_estimates_ps.csv filter=lfs diff=lfs merge=lfs -text
 Goet_Scripts/wordshoal_implementations/debate_level_estimates_ps.csv filter=lfs diff=lfs merge=lfs -text
 Goet_Scripts/wordshoal_implementations/3.wordshoal/wfms_ps/Estimates/UK_wordfish_estimates_ps.csv filter=lfs diff=lfs merge=lfs -text
 data3_temp.csv filter=lfs diff=lfs merge=lfs -text
+data/folketinget_1990_2021_raw.csv filter=lfs diff=lfs merge=lfs -text
+modified: filter=lfs diff=lfs merge=lfs -text
+data/tidy_metadata.csv filter=lfs diff=lfs merge=lfs -text

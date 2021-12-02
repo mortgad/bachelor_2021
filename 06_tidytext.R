@@ -76,7 +76,7 @@ data = map_dfr(files, tidy_text) %>%
     ungroup()
 
 
-## clean up some common parsing errors in the names
+############################ clean up some common parsing errors in the names ##############################
 data = data %>%
     mutate(Name = Name %>%
                str_replace_all("^\\!", "I") %>%
@@ -89,6 +89,46 @@ data = data %>%
                str_replace("Formandøn", "Formanden") %>%
                str_replace("Deli fg. formand", "Den fg. formand") %>%
                trimws())
+
+# REmoving all names that appears less than 10 times (THey are often misspelled by the algorith)
+data <- data %>% group_by(Name) %>% filter(n() >= 10) %>% ungroup()
+
+
+##### CHECKING SIILAR NAMES #####
+# # Creating stringdist matrix for restaurant names
+# distmatrix <- stringdist::stringdistmatrix(unique(data3$Name),unique(data3$Name), useNames=TRUE ,method = "osa")
+# 
+# # Converting to dataframe
+# distmatrixdf<- as.data.frame(distmatrix)
+# 
+# # Making a row with restaurant names
+# distmatrixdf$Name <- rownames(distmatrixdf)
+# 
+# # Filtering out all links with less than 5 in distance and eyeballing the results to decide what links to merge
+# dist <- distmatrixdf %>% 
+#     pivot_longer(cols = everything(vars = distmatrixdf$Name)) %>% 
+#     filter(value <= 5 & value != 0)
+# 
+# test1 <- data3 %>% group_by(Name) %>% count() 
+# test2 <- left_join(dist, test1) %>% rename(n_left = n)
+# test3 <- test1 %>% rename(name = Name)
+# test4 <- left_join(test2, test3) %>% rename(n_right = n)
+
+# Correcting misspelled names
+data <- data %>% mutate(
+    Name = ifelse(str_detect(Name, pattern = "Lissa"), "Lissa Mathiasen", Name),
+    Name = ifelse(str_detect(Name, pattern = "Christian O"), "Christian O. Aagaard", Name),
+    Name = ifelse(str_detect(Name, pattern = "Pia Ch"), "Pia Christmas-Møller", Name),
+    Name = ifelse(str_detect(Name, pattern = "Fischer Boel"), "Mariann Fischer Boel", Name),
+    Name = ifelse(str_detect(Name, pattern = "ærsgaard"), "Pia Kjærsgaard", Name),
+    Name = ifelse(str_detect(Name, pattern = "Lilli"), "Lilli Gyldenkilde", Name),
+    Name = ifelse(str_detect(Name, pattern = "Svend H"), "Svend Heiselberg", Name),
+    Name = ifelse(str_detect(Name, pattern = "Holger K"), "Holger K. Nielsen", Name),
+    Name = ifelse(str_detect(Name, pattern = "Peter Juel"), "Peter Juel-Jensen", Name),
+    Name = ifelse(str_detect(Name, pattern = "Ole M"), "Ole M. Nielsen", Name),
+    Name = ifelse(str_detect(Name, pattern = "Pelle V"), "Pelle Voigt", Name),
+)
+
 
 ###################
 # handle titles like "Anden næstformand"
@@ -206,43 +246,12 @@ data3 = left_join(data3, less_weird_names, by = c("Year", "Name")) %>%
     select(-Parti.x, -Parti.y, -realname) %>%
     distinct()
 
-write_csv(data3, file = "data3_temp.csv") # ----------- remember to remove ---------
-
-
-############## ------------------ REMOVE WHEN DONE ------------------- ####################
-##### CHECKING SIILAR NAMES #####
-# Creating stringdist matrix for restaurant names
-distmatrix<-stringdist::stringdistmatrix(unique(data3$Name),unique(data3$Name), useNames=TRUE ,method = "osa")
-
-# Converting to dataframe
-distmatrixdf<- as.data.frame(distmatrix)
-
-# Making a row with restaurant names
-distmatrixdf$Restaurant_Name <- rownames(distmatrixdf)
-
-# Filtering out all links with less than 5 in distance and eyeballing the results to decide what links to merge
-dist <- distmatrixdf %>% 
-    pivot_longer(cols = everything(vars = distmatrixdf$Restaurant_Name)) %>% 
-    filter(value != 0)
-
-############## ------------------  ------------------- ####################
-
-list_of_names <- data.frame(Name = unique(data3$Name))
-updated_names <- list_of_names %>% mutate(
-    Name = ifelse(str_detect(Name, pattern = "Sonja Al"), "Sonja Albrink", Name),
-    Name = ifelse(str_detect(Name, pattern = "Hus"), "Birgitte Husmark", Name)
-)
 
 ### Hardcoding the last names that are missing
 hardcoded_names <- data3 %>% 
-    filter(is.na(Parti)) %>%
+    filter(is.na(Parti)) %>% 
     distinct(Name, Year) %>%
     arrange(Name, Year)
-
-######### REMOVE AFTERWARDS #########
-
-
-####################################
 
 # HARDCODED - Needs to updated if scrape is scaled to more years
 names_to_keep <- c("Søren Egge Rasmussen", "Jeppe Kofod", "Hans Kristian Skibby", "Bruno Jerup", "Lars Christian Lilleholt", "Hans Christian Schmidt", "Christian Mejdahl", "Egge Rasmussen" )
@@ -255,7 +264,8 @@ hardcoded_names <- hardcoded_names %>%
 
 # List of parties to remove
 list_of_parties_to_remove <- c("Slesvigsk Parti", "Inuit Ataqatigiit", "Tjóðveldi", "Atássut", "Fólkaflokkurin", 
-                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin", "Uden for partierne", "Venstresocialisterne")
+                               "Sambandsflokkurin", "Siumut", "Javnaðarflokkurin", "Uden for partierne", "Venstresocialisterne", "Fælles Kurs")
+
 
 # Joining with the hardcoded names and removing the foreign parties
 data3 = left_join(data3, hardcoded_names, by = c("Year", "Name")) %>%
@@ -264,7 +274,8 @@ data3 = left_join(data3, hardcoded_names, by = c("Year", "Name")) %>%
     distinct() %>%
     # Removing the last NAs
     drop_na(Parti) %>% 
-    filter(!Parti %in% list_of_parties_to_remove)
+    filter(!Parti %in% list_of_parties_to_remove) %>% 
+    mutate(Parti = ifelse(Parti == "Konservative", "Det Konservative Folkeparti", Parti))
 
 ## bit of memory management
 rm(data)
@@ -331,6 +342,7 @@ data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>% # maybe exc
                n_words = sapply(strsplit(text, " "), length)) %>% 
         filter(n_words > 50)
 
+
 ##################
 cat("[ ] removing small parties and docid's with few speakers and Formand-speeches as they're assigned incorrectly\n")
 
@@ -351,6 +363,11 @@ data3 <- data3 %>% mutate(
 # Adding column for whether party is in coalition or opposition
 
 coalitions <- list(
+    list("Venstre", "Det Konservative Folkeparti", "Radikale Venstre"),
+    list("Venstre", "Det Konservative Folkeparti"),
+    list("Socialdemokratiet", "Radikale Venstre", "Centrum-Demokraterne", "Kristeligt Folkeparti"),
+    list("Socialdemokratiet", "Radikale Venstre", "Centrum-Demokraterne"),
+    list("Socialdemokratiet", "Radikale Venstre"),
     list("Venstre", "Det Konservative Folkeparti"),
     list("Socialdemokratiet", "Radikale Venstre","Socialistisk Folkeparti"),
     list("Socialdemokratiet", "Radikale Venstre"),
@@ -361,17 +378,19 @@ coalitions <- list(
 
 data3 <- data3 %>% mutate(coalition = case_when(
     #Date %within% interval(as.Date("2001-11-27"), as.Date("2011-11-03")) ~ ifelse(Parti %in% coalitions[[1]], "Yes", "No")
-    as.Date("2001-11-27") < Date & Date < as.Date("2011-11-03") ~ ifelse(Parti %in% coalitions[[1]], "Yes", "No"),
-    as.Date("2011-11-03") < Date & Date < as.Date("2014-02-03") ~ ifelse(Parti %in% coalitions[[2]], "Yes", "No"),
-    as.Date("2014-02-03") < Date & Date < as.Date("2015-06-28") ~ ifelse(Parti %in% coalitions[[3]], "Yes", "No"),
-    as.Date("2015-06-28") < Date & Date < as.Date("2016-11-28") ~ ifelse(Parti %in% coalitions[[4]], "Yes", "No"),
-    as.Date("2016-11-28") < Date & Date < as.Date("2019-06-27") ~ ifelse(Parti %in% coalitions[[5]], "Yes", "No"),
-    as.Date("2019-06-27") < Date ~ ifelse(Parti %in% coalitions[[6]], "Yes", "No")))
+    as.Date("1988-06-03") <= Date & Date < as.Date("1990-12-18") ~ ifelse(Parti %in% coalitions[[1]], "Yes", "No"),
+    as.Date("1990-12-18") <= Date & Date < as.Date("1993-01-25") ~ ifelse(Parti %in% coalitions[[2]], "Yes", "No"),
+    as.Date("1993-01-25") <= Date & Date < as.Date("1994-09-27") ~ ifelse(Parti %in% coalitions[[3]], "Yes", "No"),
+    as.Date("1994-09-27") <= Date & Date < as.Date("1996-12-30") ~ ifelse(Parti %in% coalitions[[4]], "Yes", "No"),
+    as.Date("1996-12-30") <= Date & Date < as.Date("2001-11-27") ~ ifelse(Parti %in% coalitions[[5]], "Yes", "No"),
+    as.Date("2001-11-27") <= Date & Date < as.Date("2011-11-03") ~ ifelse(Parti %in% coalitions[[6]], "Yes", "No"),
+    as.Date("2011-11-03") <= Date & Date < as.Date("2014-02-03") ~ ifelse(Parti %in% coalitions[[7]], "Yes", "No"),
+    as.Date("2014-02-03") <= Date & Date < as.Date("2015-06-28") ~ ifelse(Parti %in% coalitions[[8]], "Yes", "No"),
+    as.Date("2015-06-28") <= Date & Date < as.Date("2016-11-28") ~ ifelse(Parti %in% coalitions[[9]], "Yes", "No"),
+    as.Date("2016-11-28") <= Date & Date < as.Date("2019-06-27") ~ ifelse(Parti %in% coalitions[[10]], "Yes", "No"),
+    as.Date("2019-06-27") <= Date ~ ifelse(Parti %in% coalitions[[11]], "Yes", "No")))
 
 # could be done by mapping a function to the column on a mutate-line but might not be worth the time to set up
-
-data3 %>% count(id) %>% arrange(n) #
-unique(data3$Parti)
 
 ################# Exporting the csv files. 
 # Writing the meta data
@@ -380,7 +399,6 @@ data3 %>%
     write_csv("./data/tidy_metadata.csv")
 
 # Writing the final csv
-write_csv(data3, file = "./data/test_data3.csv")
 write_csv(data3, file = paste0("./data/folketinget_", min(data3$Year),"_", max(data3$Year), "_raw.csv"))
 
-hep = read_csv("./data/folketinget_2019_2021_raw.csv")
+
