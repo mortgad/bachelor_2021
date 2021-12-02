@@ -142,7 +142,6 @@ purrr::map(months, wordshoaler)
 # writing the estimates
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
-
 ```
 
 ```{r}
