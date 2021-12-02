@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse, dplyr, stringdist)
 
 # load data
-data <- read_csv("./data/folketinget_2009_2021_raw.csv")
+data <- read_csv("./data/folketinget_1990_2021_raw.csv")
 
 # sample ~200 values across different years
 set.seed(124)
