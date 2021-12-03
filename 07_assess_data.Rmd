@@ -30,8 +30,6 @@ samples$who <- ifelse(samples$doc_id %in% ((sample(samples$doc_id, nrow(samples)
 ```{r}
 ################################################### FUNCTION ######################################################  
 
-
-
 assessment <- function(df){
   # list of ids
   doc_ids <- df$doc_id %>% sort()
@@ -80,9 +78,16 @@ morten_ratings <- assessment(df = morten)
 gustav <- read_csv("./data/samples_gustav.csv")
 gustav_ratings <- assessment(df = gustav)
 
-lapply(morten$id, write, "morten_pdf.txt", append=TRUE)
-
 ```
+
+```{r}
+# writing txt file with pdf samples listed
+
+# lapply(morten$id, write, "morten_pdf.txt", append=TRUE)
+# lapply(gustav$id, write, "gustav_pdf.txt", append=TRUE)
+```
+
+
 
 # --------------------------------------------------- PLOTTING -------------------------------------------------
 ```{r}
