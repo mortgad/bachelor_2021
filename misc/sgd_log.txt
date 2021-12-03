@@ -1,0 +1,761 @@
+Year: 1990
+Fitting the grid for year: 1990 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:09 
+
+Fitting the grid for year: 1990 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:08 
+
+Fitting the grid for year: 1990 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:08 
+
+Fitting the grid for year: 1990 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:08 
+
+Fitting the grid for year: 1990 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:08 
+
+Run time for year 1990:  00:44 . Total run time:  00:44 
+
+Year: 1991
+Fitting the grid for year: 1991 and fold 1
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=10.
+  warnings.warn(
+elapsed time for fold: 00:44 
+
+Fitting the grid for year: 1991 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:45 
+
+Fitting the grid for year: 1991 and fold 3
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+elapsed time for fold: 00:45 
+
+Fitting the grid for year: 1991 and fold 4
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 00:45 
+
+Fitting the grid for year: 1991 and fold 5
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 00:43 
+
+Run time for year 1991:  03:44 . Total run time:  03:44 
+
+Year: 1992
+Fitting the grid for year: 1992 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:37 
+
+Fitting the grid for year: 1992 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:37 
+
+Fitting the grid for year: 1992 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:37 
+
+Fitting the grid for year: 1992 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:37 
+
+Fitting the grid for year: 1992 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:37 
+
+Run time for year 1992:  03:07 . Total run time:  03:07 
+
+Year: 1993
+Fitting the grid for year: 1993 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:40 
+
+Fitting the grid for year: 1993 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:39 
+
+Fitting the grid for year: 1993 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:40 
+
+Fitting the grid for year: 1993 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:39 
+
+Fitting the grid for year: 1993 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:39 
+
+Run time for year 1993:  03:19 . Total run time:  03:19 
+
+Year: 1994
+Fitting the grid for year: 1994 and fold 1
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 5 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+elapsed time for fold: 00:43 
+
+Fitting the grid for year: 1994 and fold 2
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 5 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+elapsed time for fold: 00:44 
+
+Fitting the grid for year: 1994 and fold 3
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 5 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=10.
+  warnings.warn(
+elapsed time for fold: 00:42 
+
+Fitting the grid for year: 1994 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:43 
+
+Fitting the grid for year: 1994 and fold 5
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 5 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 00:43 
+
+Run time for year 1994:  03:37 . Total run time:  03:37 
+
+Year: 1995
+Fitting the grid for year: 1995 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:58 
+
+Fitting the grid for year: 1995 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:59 
+
+Fitting the grid for year: 1995 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:00 
+
+Run time for year 1995:  04:55 . Total run time:  04:55 
+
+Year: 1996
+Fitting the grid for year: 1996 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:05 
+
+Fitting the grid for year: 1996 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:11 
+
+Fitting the grid for year: 1996 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:08 
+
+Fitting the grid for year: 1996 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:05 
+
+Fitting the grid for year: 1996 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:04 
+
+Run time for year 1996:  05:34 . Total run time:  05:34 
+
+Year: 1997
+Fitting the grid for year: 1997 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:00 
+
+Fitting the grid for year: 1997 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:00 
+
+Fitting the grid for year: 1997 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:59 
+
+Fitting the grid for year: 1997 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:00 
+
+Fitting the grid for year: 1997 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:01 
+
+Run time for year 1997:  05:03 . Total run time:  05:03 
+
+Year: 1998
+Fitting the grid for year: 1998 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 1998 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 1998 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:45 
+
+Fitting the grid for year: 1998 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:47 
+
+Fitting the grid for year: 1998 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:47 
+
+Run time for year 1998:  04:00 . Total run time:  04:00 
+
+Year: 1999
+Fitting the grid for year: 1999 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:53 
+
+Fitting the grid for year: 1999 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:52 
+
+Fitting the grid for year: 1999 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:55 
+
+Fitting the grid for year: 1999 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 1999 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:53 
+
+Run time for year 1999:  04:27 . Total run time:  04:27 
+
+Year: 2000
+Fitting the grid for year: 2000 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:03 
+
+Fitting the grid for year: 2000 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:04 
+
+Fitting the grid for year: 2000 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:04 
+
+Fitting the grid for year: 2000 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:03 
+
+Run time for year 2000:  05:18 . Total run time:  05:18 
+
+Year: 2001
+Fitting the grid for year: 2001 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2001 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2001 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:46 
+
+Fitting the grid for year: 2001 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:47 
+
+Fitting the grid for year: 2001 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:47 
+
+Run time for year 2001:  04:00 . Total run time:  04:00 
+
+Year: 2002
+Fitting the grid for year: 2002 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:12 
+
+Fitting the grid for year: 2002 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:12 
+
+Fitting the grid for year: 2002 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:12 
+
+Fitting the grid for year: 2002 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:12 
+
+Fitting the grid for year: 2002 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:11 
+
+Run time for year 2002:  06:01 . Total run time:  06:01 
+
+Year: 2003
+Fitting the grid for year: 2003 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:14 
+
+Fitting the grid for year: 2003 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:14 
+
+Fitting the grid for year: 2003 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:14 
+
+Fitting the grid for year: 2003 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:13 
+
+Fitting the grid for year: 2003 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:14 
+
+Run time for year 2003:  06:10 . Total run time:  06:10 
+
+Year: 2004
+Fitting the grid for year: 2004 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:12 
+
+Fitting the grid for year: 2004 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:13 
+
+Fitting the grid for year: 2004 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:11 
+
+Fitting the grid for year: 2004 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:11 
+
+Fitting the grid for year: 2004 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:13 
+
+Run time for year 2004:  06:03 . Total run time:  06:03 
+
+Year: 2005
+Fitting the grid for year: 2005 and fold 1
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 8 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 9 members, which is less than n_splits=10.
+  warnings.warn(
+elapsed time for fold: 01:04 
+
+Fitting the grid for year: 2005 and fold 2
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 9 members, which is less than n_splits=10.
+  warnings.warn(
+elapsed time for fold: 01:02 
+
+Fitting the grid for year: 2005 and fold 5
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 01:01 
+
+Run time for year 2005:  05:15 . Total run time:  05:15 
+
+Year: 2006
+Fitting the grid for year: 2006 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:07 
+
+Fitting the grid for year: 2006 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:05 
+
+Fitting the grid for year: 2006 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:06 
+
+Fitting the grid for year: 2006 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:04 
+
+Fitting the grid for year: 2006 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:03 
+
+Run time for year 2006:  05:27 . Total run time:  05:27 
+
+Year: 2007
+Fitting the grid for year: 2007 and fold 1
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+elapsed time for fold: 00:50 
+
+Fitting the grid for year: 2007 and fold 2
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=10.
+  warnings.warn(
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2007 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2007 and fold 5
+/opt/conda/lib/python3.9/site-packages/sklearn/model_selection/_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=10.
+  warnings.warn(
+Predicting and extracting scores
+elapsed time for fold: 00:50 
+
+Run time for year 2007:  04:09 . Total run time:  04:09 
+
+Year: 2008
+Fitting the grid for year: 2008 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:58 
+
+Fitting the grid for year: 2008 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:58 
+
+Fitting the grid for year: 2008 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:59 
+
+Fitting the grid for year: 2008 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:58 
+
+Fitting the grid for year: 2008 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:58 
+
+Run time for year 2008:  04:54 . Total run time:  04:54 
+
+Year: 2009
+Fitting the grid for year: 2009 and fold 1
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 01:02 
+
+Fitting the grid for year: 2009 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:01 
+
+Fitting the grid for year: 2009 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:02 
+
+Fitting the grid for year: 2009 and fold 5
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 01:01 
+
+Run time for year 2009:  05:10 . Total run time:  05:10 
+
+Year: 2010
+Fitting the grid for year: 2010 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:06 
+
+Fitting the grid for year: 2010 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:06 
+
+Fitting the grid for year: 2010 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:06 
+
+Fitting the grid for year: 2010 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:07 
+
+Fitting the grid for year: 2010 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:07 
+
+Run time for year 2010:  05:35 . Total run time:  05:35 
+
+Year: 2011
+Fitting the grid for year: 2011 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2011 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2011 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2011 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2011 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Run time for year 2011:  04:18 . Total run time:  04:18 
+
+Year: 2012
+Fitting the grid for year: 2012 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:50 
+
+Fitting the grid for year: 2012 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2012 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2012 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Fitting the grid for year: 2012 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:49 
+
+Run time for year 2012:  04:09 . Total run time:  04:09 
+
+Year: 2013
+Fitting the grid for year: 2013 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:46 
+
+Fitting the grid for year: 2013 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:46 
+
+Fitting the grid for year: 2013 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:46 
+
+Fitting the grid for year: 2013 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:45 
+
+Fitting the grid for year: 2013 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:45 
+
+Run time for year 2013:  03:50 . Total run time:  03:50 
+
+Year: 2014
+Fitting the grid for year: 2014 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:41 
+
+Fitting the grid for year: 2014 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:41 
+
+Fitting the grid for year: 2014 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:42 
+
+Fitting the grid for year: 2014 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:42 
+
+Run time for year 2014:  03:29 . Total run time:  03:29 
+
+Year: 2015
+Fitting the grid for year: 2015 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:48 
+
+Fitting the grid for year: 2015 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:48 
+
+Fitting the grid for year: 2015 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:48 
+
+Fitting the grid for year: 2015 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:47 
+
+Fitting the grid for year: 2015 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:47 
+
+Run time for year 2015:  04:00 . Total run time:  04:00 
+
+Year: 2016
+Fitting the grid for year: 2016 and fold 1
+Predicting and extracting scores
+/opt/conda/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1308: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+elapsed time for fold: 01:06 
+
+Fitting the grid for year: 2016 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:08 
+
+Fitting the grid for year: 2016 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:07 
+
+Fitting the grid for year: 2016 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:07 
+
+Fitting the grid for year: 2016 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:07 
+
+Run time for year 2016:  05:37 . Total run time:  05:37 
+
+Year: 2017
+Fitting the grid for year: 2017 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:05 
+
+Fitting the grid for year: 2017 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:04 
+
+Fitting the grid for year: 2017 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:05 
+
+Fitting the grid for year: 2017 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:04 
+
+Fitting the grid for year: 2017 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:05 
+
+Run time for year 2017:  05:25 . Total run time:  05:25 
+
+Year: 2018
+Fitting the grid for year: 2018 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:57 
+
+Fitting the grid for year: 2018 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:57 
+
+Fitting the grid for year: 2018 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:57 
+
+Fitting the grid for year: 2018 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:57 
+
+Run time for year 2018:  04:46 . Total run time:  04:46 
+
+Year: 2019
+Fitting the grid for year: 2019 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2019 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2019 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:51 
+
+Fitting the grid for year: 2019 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:50 
+
+Fitting the grid for year: 2019 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:50 
+
+Run time for year 2019:  04:14 . Total run time:  04:14 
+
+Year: 2020
+Fitting the grid for year: 2020 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 01:08 
+
+Fitting the grid for year: 2020 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 01:09 
+
+Fitting the grid for year: 2020 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 01:10 
+
+Fitting the grid for year: 2020 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 01:11 
+
+Fitting the grid for year: 2020 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 01:08 
+
+Run time for year 2020:  05:49 . Total run time:  05:49 
+
+Year: 2021
+Fitting the grid for year: 2021 and fold 1
+Predicting and extracting scores
+elapsed time for fold: 00:56 
+
+Fitting the grid for year: 2021 and fold 2
+Predicting and extracting scores
+elapsed time for fold: 00:56 
+
+Fitting the grid for year: 2021 and fold 3
+Predicting and extracting scores
+elapsed time for fold: 00:54 
+
+Fitting the grid for year: 2021 and fold 4
+Predicting and extracting scores
+elapsed time for fold: 00:56 
+
+Fitting the grid for year: 2021 and fold 5
+Predicting and extracting scores
+elapsed time for fold: 00:53 
+
+Run time for year 2021:  04:38 . Total run time:  04:38 
+
+FINISH
