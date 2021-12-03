@@ -17,6 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Import the results
 pacman::p_load(tidyverse)
 ML_results <- read_csv("./data/cv_results_1990-2021.csv")
+ML_subset <- read_csv("./data/cv_results_subset.csv")
 
 ```
 
@@ -34,4 +35,18 @@ ML_results %>%
   ylim(0, 1)+
   labs(y = "Cohen Kappa score", title = "ML - Level of polarization in Folketinget")+
   theme_minimal()
+
+ML_subset %>% 
+  group_by(Year) %>% 
+  summarise(kappa = mean(kappa_test)) %>% 
+  ggplot()+
+  aes(x = Year, y = kappa)+
+  geom_point()+
+  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
+  ylim(0, 1)+
+  labs(y = "Cohen Kappa score", title = "ML - Level of polarization in Folketinget")+
+  theme_minimal()
+
 ```
+
