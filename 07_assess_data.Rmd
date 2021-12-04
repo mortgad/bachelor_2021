@@ -37,16 +37,18 @@ assessment <- function(df){
   ratings <- data.frame(doc_id = as.character(), split = as.character(), assignment = as.character())
   
   # Loop through ids
+  i = 1
   for(doc_id in doc_ids){
-    
-    cat(paste0("PDF name: ", df$id[df$doc_id == doc_id],".pdf", "\n"))
-    cat(paste0("Assigned to: ", df$Name[df$doc_id == doc_id], "\n"))
+    cat(paste0("Document number: ", i," out of ", length(doc_ids), "\n"))
+    cat(paste0("PDF name:\n", df$id[df$doc_id == doc_id],".pdf", "\n"))
+    cat(paste0("Assigned to:\n ", df$Name[df$doc_id == doc_id], "\n"))
     cat(paste0("Text: \n \n ---------------------------------------------------------------- \n ", 
                df$text[df$doc_id == doc_id]), "\n ----------------------------------------------------------------\n")
     split = readline(prompt = paste0("Is the text in ", doc_id, " split correctly? "))
     assignment = readline(prompt = paste0("Is the text in ", doc_id, " assigned correctly? "))
     row <- data.frame(doc_id = doc_id, split = split, assignment = assignment)
     ratings <- rbind(ratings, row)
+    i = i+1
   }
   return(ratings)
 }
@@ -75,8 +77,12 @@ morten_ratings <- assessment(df = morten)
 # 2 = No
 
 gustav <- read_csv("./data/samples_gustav.csv")
-gustav_ratings <- assessment(df = gustav[1:32,])
+gustav_ratings <- assessment(df = gustav[81:96,])
 
+# "Arbejdsministeren" mangler i titler
+# Procedural phrases: "kort bemærkning"
+# Bør også fjerne næstformand og tredtje formand og fjerde formand 
+# "kulturministeren" fangede den ikke
 
 ```
 
