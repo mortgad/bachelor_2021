@@ -60,7 +60,13 @@ summary(df$Date)
 get_theta <- function(data){
   cat(paste0("[ ] Shoaling Month ", data$Month[1], ". Month: ", i, " out of ", length(unique(df$Month)),"\n"))
   corpus = quanteda::corpus(data)
-  dfm <- dfm(tokens(corpus), remove_punct = TRUE, ignoredFeatures = stopwords) # stopwords("danish")
+  # Converting to tokens and removing punctuation, numbers, and symbols
+  toks <- tokens(corpus, remove_punct = TRUE, remove_numbers = TRUE, remove_symbol = TRUE) %>% 
+  # Removing danish stopwords
+  tokens_remove(pattern = c(stopwords))
+
+  # Creating a data frame matrix object that can be feeded to quanteda textmodels
+  dfm <- dfm(toks)
   wordshoalfit <- wordshoal::textmodel_wordshoal(dfm, groups = docvars(corpus, "id"), 
                                                  authors = docvars(corpus, "Name"))
   author_positions <- summary(wordshoalfit)$estimated.author.positions
@@ -142,6 +148,7 @@ purrr::map(months, wordshoaler)
 # writing the estimates
 filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(years), "_", max(years), ".csv")
 write_csv(thetascores, filename)
+
 ```
 
 ```{r}
