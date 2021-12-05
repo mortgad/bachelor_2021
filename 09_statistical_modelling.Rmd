@@ -19,6 +19,7 @@ pacman::p_load(tidyverse, brms, here, patchwork, cmdstanr)
 
 ```{r}
 # load results
+agg <- read_csv("./data/FINAL_DATA_FOR_MODEL_agg_wordshoal_results.csv")
 ```
 
 
@@ -51,10 +52,11 @@ p4 <- ggplot(agg, aes(x = log(Differentiation))) +
 
 ```{r, fig.width= 15, fig.height= 5}
 #plotting the raw data
-agg %>% group_by(Date) %>% summarise(Inclusion = mean(sd_theta),
-                                     Differentiation = mean(lag_difference_score)) %>% pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
+agg %>% group_by(Month) %>% summarise(Inclusion = mean(sd_theta),
+                                     Differentiation = mean(lag_differentiation)) %>% 
+  pivot_longer(cols = c("Inclusion", "Differentiation"), names_to = "Need") %>% 
   ggplot()+
-  aes(x = Date, y = value, color = Need)+
+  aes(x = Month, y = value, color = Need)+
   geom_line()+
   geom_point()
 ```
@@ -62,50 +64,36 @@ agg %>% group_by(Date) %>% summarise(Inclusion = mean(sd_theta),
 ```{r}
 ###################### DEFINING MODEL AND MAKING PRIOR-PREDICTIVE CHECKS ######################
 
-f1 <- bf(Inclusion ~ 1 + Lag_inclusion + Lag_differentiation + Lag_inclusion:Lag_differentiation + (1|Parti), family = lognormal())
+f1 <- bf(Inclusion ~ 1 + Lag_inclusion + Lag_differentiation + Lag_inclusion:Lag_differentiation + (1|Parti), family = gaussian())
 
 get_prior(f1, data = agg)
 
-# Finding prior for random intercept
+# Prior for intercept
+mean(agg$Inclusion)
+# mean of 0.5752494
+sd(agg$Inclusion)
+# sd of 0.2271551
 
-agg <- agg %>% na.omit() %>% filter(mean_theta != 0 & sd_theta != 0)
 
-means <- agg %>% group_by(Parti) %>% summarise(mean = mean(sd_theta), 
-                                               sd = sd(sd_theta)) %>% summarise(mean_of_mean = mean(mean),
-                                                                                mean_of_sd = mean(sd))
-
-mean(log(agg$Inclusion))
-# mean of -0.8766658
-
-sd(log(agg$Inclusion))
-# sd of 0.5761837
-
-logmeans <- agg %>% 
-  mutate(log_inclusion = log(Inclusion)) %>% 
-  group_by(Parti) %>% 
-  summarise(mean = mean(log_inclusion),
-            sd = sd(log_inclusion)) %>% 
-  summarise(mean_of_means = mean(mean),
-            mean_of_sd = mean(sd))
-
-mean(means$mean_of_mean)
-# Mean of 0.4606071
-
-mean(means$sd_of_mean)
-# sd of 0.2353983
+# Finding prior for random intercept (with and withouth log transformation)
+agg %>% group_by(Parti) %>%  # Withouth log
+  summarise(mean = mean(Inclusion), 
+            sd = sd(Inclusion)) %>% 
+  summarise(mean_of_mean = mean(mean),mean_of_sd = mean(sd))
+# mean = 0.5686081 and sd = 0.2554213
 
 prior_m1 <- c(
-  prior(normal(-0.8766658, 0.2), class = Intercept),
+  prior(normal(0.5752494, 0.2), class = Intercept),
   prior(normal(0, 0.2), class = b),
-  prior(normal(0.4486, 0.2428), class = sd), # i still can't figure this out
-  prior(normal(0.5761837, 0.2), class = sigma)
+  prior(normal(0.5686081, 0.2554213), class = sd), # i still can't figure this out
+  prior(normal(0.2271551, 0.2), class = sigma)
 )
 
 # Running the model
 m1_prior <- brm(
   formula = f1,
-  data = na.omit(agg),
-  family = lognormal(),
+  data = agg,
+  family = gaussian(),
   prior = prior_m1, 
   sample_prior = "only",
   chains = 1,
@@ -281,29 +269,32 @@ f2 <- bf(Differentiation ~ 1 + Lag_differentiation +  Lag_inclusion + Lag_differ
 
 get_prior(f2, data = agg)
 
+# Prior for intercept and sigma
+mean(log(agg$Differentiation))
+# mean = -1.23593
+sd(log(agg$Differentiation))
+# sd = 0.3958038
+
 # Finding prior for random intercept
-means <- agg %>% group_by(Parti, Date) %>% summarise(mean = mean(sd_theta),
-                                      sd = sd(sd_theta)) %>% summarise(mean_of_mean = mean(mean),
-                                                                       sd_of_mean = sd(mean))
+means <- agg %>% group_by(Parti) %>% 
+  summarise(mean = mean(sd_theta),
+            sd = sd(sd_theta)) %>% 
+  summarise(mean_of_mean = mean(mean),
+            sd_of_mean = sd(mean))
+# mean 0.569 and sd on 0.049
 
-
-mean(means$mean_of_mean)
-# Mean of 0.4606071
-
-mean(means$sd_of_mean)
-# sd of 0.2353983
 
 prior_m2 <- c(
-  prior(normal(-1.074466, 0.2), class = Intercept),
+  prior(normal(-1.23593, 0.2), class = Intercept),
   prior(normal(0, 0.2), class = b),
-  prior(normal(0.4486, 0.2428), class = sd),
-  prior(normal(0.3637625, 0.2), class = sigma)
+  prior(normal(0.569, 0.049), class = sd),
+  prior(normal(0.3958038, 0.2), class = sigma)
 )
 
 # Running the model
 m2_prior <- brm(
   formula = f2,
-  data = na.omit(agg),
+  data = agg,
   family = lognormal(),
   prior = prior_m2, 
   sample_prior = "only",
@@ -324,8 +315,8 @@ pp_check(m2_prior, nsamples = 100)
 # Running the model
 m2 <- brm(
   formula = f2,
-  data = na.omit(agg),
-  family = gaussian(),
+  data = agg,
+  family = lognormal(),
   prior = prior_m2, 
   sample_prior = T,
   chains = 1,
@@ -342,4 +333,85 @@ pp_check(m2, nsamples = 100)
 
 ```{r}
 summary(m2)
+```
+```{r}
+#---------------------------------prior-posterior update - a little closer look ------------------------
+
+#Prior posterior update checks
+m2_samples <- posterior_samples(m2)
+m2_samples %>% 
+  select(c("b_Lag_differentiation", "b_Lag_inclusion", "b_Lag_differentiation:Lag_inclusion",
+            "prior_b")) %>% 
+  rename(
+    b_lagInclusion = b_Lag_inclusion,
+    b_lagDifferentiation = b_Lag_differentiation,
+    b_Interaction = "b_Lag_differentiation:Lag_inclusion"
+  ) %>% 
+  mutate(
+    prior_lagInclusion = prior_b,
+    prior_lagDifferentiation = prior_b,
+    prior_Interaction = prior_b
+  ) %>% select(-prior_b) %>% 
+  pivot_longer(cols = everything(),
+               values_to = "value",
+               names_to = "distribution"
+               ) %>% 
+  separate(distribution, c("Distribution", "Parameter"), sep = "_") %>% 
+  mutate(Distribution = ifelse(Distribution == "b", "Posterior", "Prior")) %>% 
+  ggplot(aes(x = value, fill = Distribution)) + 
+  geom_density(alpha = 0.8) +
+  facet_wrap(~Parameter, nrow = 1) +
+  labs(title = "Prior-posterior updates")+
+  theme_bw()+
+  scale_fill_manual(values = wesanderson::wes_palette(name = "Darjeeling1")) + 
+  theme(strip.text = element_text(size=15),
+        axis.title=element_text(size=15),
+        plot.title = element_text(size = 15, face = "bold", hjust = 0.5)) + 
+  xlim(-1,1)
+```
+```{r}
+# ------------------------------- Plotting conditional effects --------------------------------------------
+plot(conditional_effects(m2, spaghetti=F, 
+                         method="fitted", nsamples=100), points=T)
+
+plot(conditional_effects(m2, spaghetti=F, 
+                         method="predict", nsamples=100), points=T)
+
+```
+
+
+```{r}
+#------------------------------------influential data points and LOO------------
+
+#check for influential data-points
+# m2_no_meta <- add_criterion(m2_no_meta, "loo", reloo = T)
+#3 problematic observation(s) found.
+
+plot(loo(m2))
+#How to look at this plot?
+
+```
+
+
+```{r}
+#-----------------------------------Results-------------------------------------
+
+#checking the output of the model
+print(m2)
+mcmc_plot(m2) +
+  theme(axis.text.y = element_text(hjust = 0))
+
+
+#test your hypotheses
+# Significant effect of Diagnosis in DK?
+hypothesis(m2, "Lag_inclusion < 0")
+plot(hypothesis(m2, "Lag_inclusion < 0"))
+
+# Significant effect of Diagnosis in US?
+hypothesis(m2, "Lag_differentiation < 0")
+plot(hypothesis(m2, "Lag_differentiation < 0"))
+
+# Significant difference between DK and US?
+hypothesis(m2, "Lag_inclusion:Lag_differentiation < 0")
+plot(hypothesis(m2, "Lag_inclusion:Lag_differentiation < 0"))
 ```

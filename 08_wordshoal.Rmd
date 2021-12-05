@@ -7,12 +7,12 @@ output: html_document
 
 ```{r}
 # loading packages
-pacman::p_load(tidyverse, corpus, devtools, lubridate, flux, stopwords, seededlda, maps)
+pacman::p_load(tidyverse, corpus, devtools, lubridate)
 
 # Installing the latest version of quanteda and wordshoal
-#devtools::install_github("https://github.com/quanteda/quanteda")
-#remotes::install_github("kbenoit/wordshoal")
-#devtools::install_github("quanteda/quanteda.corpora")
+devtools::install_github("https://github.com/quanteda/quanteda")
+remotes::install_github("kbenoit/wordshoal")
+devtools::install_github("quanteda/quanteda.corpora")
 
 # Loading the packages
 library(quanteda)
@@ -25,6 +25,8 @@ library(quanteda.corpora)
 
 stopwords <- read.delim("https://gist.githubusercontent.com/berteltorp/0cf8a0c7afea7f25ed754f24cfc2467b/raw/305d8e3930cc419e909d49d4b489c9773f75b2d6/stopord.txt", sep = "\n", col.names = "stopword") %>% as.list() %>% .[[1]]
 
+# Defining how many cores to use
+Sys.setenv("OMP_NUM_THREADS" = 16)
 
 ```
 
@@ -34,7 +36,7 @@ stopwords <- read.delim("https://gist.githubusercontent.com/berteltorp/0cf8a0c7a
 df <- read_csv("./data/folketinget_1990_2021_raw.csv") %>% arrange(Month)
 df$Month <- as.character(df$Month)
 
-subset <- df %>% filter(Month %in% c("1991-10-01", "1990-11-01", "1990-12-01"))
+#subset <- df %>% filter(Month %in% c("1991-10-01", "1990-11-01", "1990-12-01"))
 ```
 
 
@@ -65,8 +67,6 @@ get_theta <- function(data){
   # Removing danish stopwords
   tokens_remove(pattern = c(stopwords))
 
-  # Creating a data frame matrix object that can be feeded to quanteda textmodels
-  dfm <- dfm(toks)
   wordshoalfit <- wordshoal::textmodel_wordshoal(dfm, groups = docvars(corpus, "id"), 
                                                  authors = docvars(corpus, "Name"))
   author_positions <- summary(wordshoalfit)$estimated.author.positions
@@ -99,7 +99,7 @@ testfunc <- function(data, year_list, party_list){
   # create nested list of dataframes to which the shoal-function is applied
   nested = data %>% split(.$Month) # change to Month variable
   lapply(names(nested), function(x) get_theta(nested[[x]]))
-  filename = paste0("./data/wordshoal_results/wordshoal_estimates_", min(data$Month), "_", max(data$Month), ".csv")
+  filename = paste0("./data/wordshoal_estimates_", min(data$Year), "_", max(data$Year), ".csv")
   write_csv(theta_df, filename)
 }
 
@@ -109,7 +109,7 @@ testfunc <- function(data, year_list, party_list){
 ```{r}
 # getting theta estimates for each speaker per month
 i = 1
-hep <- testfunc(data = subset)
+hep <- testfunc(data = df)
 
 length(unique(df$Month))
 
@@ -167,9 +167,10 @@ fitdf <- subset(fitdf, !duplicated(row_names))
 # ------------------------ Creating overlap variable ----------------------------------------
 ```{r}
 # Loading the results
+pacman::p_load(overlapping)
 #csv_files = list.files(pattern="*.csv", path = "data/wordshoal_results/", full.names = T) 
 #df = map_df(csv_files, read_csv)
-df_ws <- read_csv("./data/wordshoal_results/wordshoal_estimates_2018_2021.csv")
+df_ws <- read_csv("./data/wordshoal_estimates_1990_2021.csv")
 #df$time <- as.Date(paste(year(df$Date), month(df$Date), "01", sep = "-"))
 
 ```
@@ -179,10 +180,10 @@ df_ws <- read_csv("./data/wordshoal_results/wordshoal_estimates_2018_2021.csv")
 # FUNCTION
 overlapper <- function(period){
   # Printing status
-  print(paste0("[ ] Calculating overlaps for month: ", period, ". Number: ", i, " out of ", as.character(length(unique(df$Month)))))
+  print(paste0("[ ] Calculating overlaps for month: ", period, ". Number: ", i, " out of ", as.character(length(unique(df_ws$Month)))))
   
   # Subsetting the period and filtering out parties that only has 1 speech in a month
-  subset <- df %>% filter(Month == period) %>% group_by(Parti) %>% filter(n() > 1) %>% ungroup()
+  subset <- df_ws %>% filter(Month == period) %>% group_by(Parti) %>% filter(n() > 1) %>% ungroup()
   
   # Only continue if there is more than one party with more than one speech
   if(length(unique(subset$Parti)) > 1){
@@ -235,21 +236,19 @@ overlapper <- function(period){
 # Looping over the function
 i = 1
 heppe <- map_df(unique(df_ws$Month), overlapper) # change df name
-
+write_csv(heppe, "./data/overlap_results_raw.csv")
 ```
 
 ```{r}
-# Looping over the function
-i = 1
-heppe <- map_df("2011_5", overlapper)
+df_overlap <- read_csv("./data/overlap_results_raw.csv")
 ```
 
 ```{r}
 # Adding the aggregated columns to the results and exporting the data
-agg <- df %>% group_by(Month, Parti) %>% summarise(mean_theta = mean(theta), 
+agg_ws <- df_ws %>% group_by(Month, Parti) %>% summarise(mean_theta = mean(theta), 
                                                            sd_theta = sd(theta))
 
-joined <- left_join(heppe, agg, by = c("From" = "Parti", "Month" = "Month")) %>% 
+joined <- left_join(df_overlap, agg, by = c("From" = "Parti", "Month" = "Month")) %>% 
   rename(
     Parti = From,
     overlap_with = To,
@@ -267,24 +266,36 @@ joined <- left_join(heppe, agg, by = c("From" = "Parti", "Month" = "Month")) %>%
 
 ######## Preprocessing #########3
 # Agregating results into a single data frame - VERY MESSY i know
-agg <- results %>% group_by(Parti, Date) %>% arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>% # rename df
+agg_overlap <- joined %>% group_by(Parti, Month) %>% 
+  arrange(-overlap_score, .by_group = TRUE) %>% slice(1:3) %>% # rename df
   summarise(overlap_score = mean(overlap_score),
             difference_score = mean(difference_score)) 
 
-agg <- left_join(x = agg, y = results %>% dplyr::select(Parti, Date, mean_theta, sd_theta), by = c("Parti" = "Parti", "Date" = "Date")) %>% group_by(Parti, Date) %>% slice(1) %>% ungroup() # Date might need to be changed to Month
+agg <- left_join(x = agg_overlap, y = agg_ws, by = c("Parti" = "Parti", "Month" = "Month")) %>% group_by(Parti, Month) %>% slice(1) %>% ungroup() # Date might need to be changed to Month
 
 # Adding a lag column for the predictors - difference_score and sd_theta
 agg <- agg  %>%  mutate(
   Inclusion = sd_theta,
   Differentiation = difference_score
-) %>% group_by(Parti) %>% mutate(
+) %>% group_by(Parti) %>% 
+  mutate(
   Lag_inclusion = lag(Inclusion),
   Lag_differentiation = lag(Differentiation)
-) # Maybe drop sd_theta
+) 
 
 # Removing NA and 0 values
 agg <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
 
-write_csv(joined, "./data/wordshoal_results.csv") # check output file name
+# Adding the coalition column 
+hep <- df_ws %>% select(Month, Parti, coalition) %>% group_by(Month, Parti) %>% slice(1) %>% ungroup()
+
+agg <- left_join(agg, hep, by = c("Parti" = "Parti", "Month" = "Month"))
+
+```
+
+
+```{r}
+# Exporting 
+write_csv(agg, "./data/agg_wordshoal_results_final.csv") # check output file name
 ```
 
