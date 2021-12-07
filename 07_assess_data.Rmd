@@ -66,6 +66,18 @@ assessment <- function(df){
 morten <- read_csv("./data/samples_morten.csv")
 morten_ratings <- assessment(df = morten)
 
+backup <- morten_ratings
+
+morten_ratings %>% group_by(split) %>% summarise(n())
+backup %>% group_by(split) %>% summarise(n())
+backup %>% group_by(assignment, split) %>% summarise(n())
+
+backup$split[backup$doc_id %in% c(20549, 40888, 64441, 67045, 106517, 133896, 164411, 197794, 211280, 219243, 353798, 391524, 456369, 532239, 798246, 805146)] <- 1
+
+backup %>% filter()
+
+write_csv(backup, "./data/morten_ratings.csv")
+
 ```
 
 ```{r}
@@ -91,6 +103,35 @@ gustav_ratings <- assessment(df = gustav[81:96,])
 
 # lapply(morten$id, write, "morten_pdf.txt", append=TRUE)
 # lapply(gustav$id, write, "gustav_pdf.txt", append=TRUE)
+```
+
+```{r}
+############################################### RATING RESULTS ######################################################
+
+agg_ratings <- rbind(read_csv("./data/gustav_ratings.csv"), read_csv("./data/morten_ratings.csv")) %>% 
+  group_by(assignment, split) %>% 
+  summarise(n = n()) %>% 
+  mutate(assignment = ifelse(assignment == 1, 0, 1),
+         split = ifelse(split == 1, 0, 1)) %>% 
+  ungroup() %>% 
+  add_row(assignment = 1, split = 0, n = 0)
+
+# by year
+
+ratings <- rbind(read_csv("./data/gustav_ratings.csv"), read_csv("./data/morten_ratings.csv")) %>% 
+  left_join(samples, by = "doc_id") %>% 
+  mutate(split = ifelse(split == 1, 0, 1),
+         assignment = ifelse(assignment == 1, 0, 1),
+         agg = ifelse(split == 0 & assignment == 0, 0, 1)) %>% 
+  group_by(Year) %>% 
+  summarise(wrong = sum(agg))
+
+ggplot(data = ratings)+
+  geom_col(aes(x=Year,y=wrong))+
+  geom_smooth(aes(x=Year,y=wrong), method = "lm", se=F, )+
+  theme_minimal()+
+  labs(y = "No. of documents", x = "Year", title = "Documents either assigned or split incorrectly")
+
 ```
 
 
