@@ -15,26 +15,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 #################### INSPECTING THE RESULTS ###########################
 # Import the results
+
+setwd("~/bachelor_2021/d")
+getwd()
 pacman::p_load(tidyverse)
-ML_results <- read_csv("./data/cv_results_1990-2021.csv")
+ML_results <- read_csv("./data/cv_results_1990-2021_ny.csv")
 ML_subset <- read_csv("./data/cv_results_subset.csv")
+ML_coalition <- read_csv("./data/cv_results_1990-2021_coalition.csv")
 
 ```
 
 ```{r}
 # Plotting the results
-
-ML_results %>% 
-  group_by(Year) %>% 
-  summarise(kappa = mean(kappa_test)) %>% 
-  ggplot()+
-  aes(x = Year, y = kappa)+
-  geom_point()+
-  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
-  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
-  ylim(0, 1)+
-  labs(y = "Cohen Kappa score", title = "ML - Level of polarization in Folketinget")+
-  theme_minimal()
 
 ML_subset %>% 
   group_by(Year) %>% 
@@ -45,7 +37,49 @@ ML_subset %>%
   geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
   geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
   ylim(0, 1)+
-  labs(y = "Cohen Kappa score", title = "ML - Level of polarization in Folketinget")+
+  labs(y = "Cohen Kappa score", title = "Subset")+
+  theme_minimal()
+
+ML_results %>% 
+  group_by(Year) %>% 
+  summarise(kappa = mean(kappa_test)) %>% 
+  ggplot()+
+  aes(x = Year, y = kappa)+
+  geom_point()+
+  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
+  ylim(0, 1)+
+  labs(y = "Cohen Kappa score", title = "Whole dataset")+
+  theme_minimal()
+
+ML_coalition %>% 
+  group_by(Year) %>% 
+  summarise(kappa = mean(kappa_test)) %>% 
+  ggplot()+
+  aes(x = Year, y = kappa)+
+  geom_point()+
+  geom_line(color = wesanderson::wes_palette("Darjeeling1")[2])+
+  geom_smooth(method = "lm", alpha = 0.1, color = wesanderson::wes_palette("Darjeeling1")[1], size = 0.5)+
+  ylim(0, 1)+
+  labs(y = "Cohen Kappa score", title = "Coalition")+
+  theme_minimal()
+
+```
+```{r}
+
+pacman::p_load(lme4)
+
+coalition <- ML_coalition %>% group_by(Year) %>% summarise(coalition_kappa = mean(kappa_test), coalition_acc = mean(accuracy_score)) %>% pivot_longer(cols = c("coalition_kappa", "coalition_acc"), names_to = "metric", values_to = "score")
+party <- ML_results %>% group_by(Year) %>% summarise(party_kappa = mean(kappa_test), party_acc = mean(accuracy_score)) %>% pivot_longer(cols = c("party_kappa", "party_acc"), names_to = "metric", values_to = "score")
+
+sgd <- rbind(coalition, party) %>% mutate(class = ifelse(str_detect(metric, "coalition"), "coalition","party"))
+
+sgd %>% 
+  ggplot()+
+  aes(x = Year, y = score, color = metric)+
+  geom_point()+
+  geom_smooth(method = "lm", alpha = 0.1, size = 0.5)+
+  facet_wrap(~class)+
   theme_minimal()
 
 ```
