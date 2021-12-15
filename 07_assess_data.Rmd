@@ -161,7 +161,7 @@ data %>%
   scale_fill_manual(values = Darjeeling1(length(unique(data$Parti))))+
   geom_text(position=position_dodge(0.5), vjust=-.50) + 
   labs(x="Party", title = "No. of speeches per party") +
-  ylim(0, 60000)+
+  ylim(0, 110000)+
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none",
         axis.title.y = element_blank())
@@ -212,9 +212,10 @@ data %>% group_by(Year) %>%
   guides(linetype = FALSE)+
   scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
                      values = Darjeeling1(4))+
+  ylim(0,1500)+
   labs(x = "Year", 
        y = "Speech length", 
-       title = "Speech length (no. of characters)")+
+       title = "Speech length (no. of words)")+
   theme(legend.title = element_blank(), 
         legend.key = element_rect(color = alpha("black", 0.2)),
         axis.title.y = element_blank())

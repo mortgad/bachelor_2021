@@ -75,6 +75,7 @@ ML_twoparty %>%
   theme_minimal()
 
 ```
+
 ```{r}
 
 pacman::p_load(lme4)
@@ -103,5 +104,40 @@ hej <- hep %>% filter(Parti %in% c("Venstre", "Socialdemokratiet"))
 
 per <- hej %>% group_by(Year, Parti) %>% summarize(n())
 
+```
+
+# ------------------------------------------ COMPARE WORDSHOAL AND ML --------------------------------------------------
+```{r}
+
+overlaps <- read_csv("~/bachelor_2021/data/overlap_results_raw.csv") %>%
+  mutate(Year = lubridate::year(Month))
+
+polarization <- overlaps %>% 
+  group_by(Year) %>% 
+  summarize(overlap = mean(overlaps.OV)) %>% 
+  mutate(method = "Wordshoal",
+         mean = 1 - overlap) %>% 
+  select(Year, mean, method)
+
+ML_results <- read_csv("./data/cv_results_1990-2021_ny.csv") %>% 
+  group_by(Year) %>%
+  summarise(mean = mean(kappa_test)) %>% 
+  mutate(method = "Classifier") %>% 
+  select(Year, mean, method)
+
+
+comparison <- rbind(polarization, ML_results)
+
+comparison %>% 
+  ggplot()+
+  aes(x = Year, y = mean, color = method)+
+  geom_point()+
+  geom_line()+
+  scale_color_manual(values = wesanderson::wes_palette("Darjeeling1"))
+  #ylim(0, 1)+
+  labs(title = "Polarization")+
+  theme_minimal()
+
+cor.test(ML_results$mean, polarization$mean)
 ```
 
