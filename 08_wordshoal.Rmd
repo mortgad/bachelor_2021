@@ -248,7 +248,7 @@ df_overlap <- read_csv("./data/overlap_results_raw.csv")
 agg_ws <- df_ws %>% group_by(Month, Parti) %>% summarise(mean_theta = mean(theta), 
                                                            sd_theta = sd(theta))
 
-joined <- left_join(df_overlap, agg, by = c("From" = "Parti", "Month" = "Month")) %>% 
+joined <- left_join(df_overlap, agg_ws, by = c("From" = "Parti", "Month" = "Month")) %>% 
   rename(
     Parti = From,
     overlap_with = To,
@@ -273,6 +273,9 @@ agg_overlap <- joined %>% group_by(Parti, Month) %>%
 
 agg <- left_join(x = agg_overlap, y = agg_ws, by = c("Parti" = "Parti", "Month" = "Month")) %>% group_by(Parti, Month) %>% slice(1) %>% ungroup() # Date might need to be changed to Month
 
+# Removing NA and 0 values
+agg <- agg %>% filter(mean_theta != 0 & sd_theta != 0) %>% filter(sd_theta < 4)
+
 # Adding a lag column for the predictors - difference_score and sd_theta
 agg <- agg  %>%  mutate(
   Inclusion = sd_theta,
@@ -283,8 +286,7 @@ agg <- agg  %>%  mutate(
   Lag_differentiation = lag(Differentiation)
 ) 
 
-# Removing NA and 0 values
-agg <- na.omit(agg) %>% filter(mean_theta != 0 & sd_theta != 0)
+agg <- na.omit(agg)
 
 # Adding the coalition column 
 hep <- df_ws %>% select(Month, Parti, coalition) %>% group_by(Month, Parti) %>% slice(1) %>% ungroup()

@@ -10,7 +10,7 @@ pacman::p_load(tidyverse,stringdist, overlapping, lubridate)
 
 ```{r}
 # Importing data
-df <- read_csv("data/folketinget_2009_2021_raw.csv") %>% filter(Year %in% c(2019, 2020))
+df <- read_csv("data/folketinget_1990_2021_raw.csv") %>% filter(Year %in% c(2019, 2020))
 
 # Color pallette
 pal <- wesanderson::wes_palette("Darjeeling1", 14, type = "continuous")
@@ -18,6 +18,36 @@ pal <- wesanderson::wes_palette("Darjeeling1", 14, type = "continuous")
 # Setting up the theme
 theme_set(theme_minimal())
 ```
+
+# Creating figure for cor test
+```{r}
+# Loading cv results
+cv <- read_csv("data/cv_results_1990-2021_ny.csv") %>% group_by(Year) %>% summarise(kappa = mean(kappa_test))
+
+# Loading ws results
+ws <- read_csv("data/agg_wordshoal_results_final.csv") 
+ws <- ws %>% mutate(Year = lubridate::year(Month)) %>% group_by(Year) %>% summarise(ws = mean(Differentiation))
+
+# plotting
+left_join(cv,ws) %>% 
+  filter(Year != c(1990,1991)) %>% 
+  pivot_longer(cols = c("kappa","ws")) %>% 
+  ggplot()+
+  aes(x = Year, y = value, color = name)+
+  geom_point()+
+  geom_line()+
+  ylim(0,1)+
+  scale_color_manual(labels = c("Multivariate classifier", "Wordshoal"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(title = "Polarization estimates of the two methods", color = "Methods")+
+  theme(legend.position = "bottom")
+
+cor.test(cv$kappa, ws$ws)
+```
+
+
+
+
 
 ```{r}
 # Mean position and sd of position per month and party
