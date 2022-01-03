@@ -7,3 +7,7 @@ Scripts 01-06 is for scraping and preprocessing.
 Scripts 07 is for assessment and visualization of the data used as input. 
 
 Scripts 08-09 implements the Wordshoal textmodel and performs a statistical analysis to test hypotheses regarding Optimal Distinctiveness Theory.
+
+Script 10 implements a multivariate classifier to obtain measurements for polarization in Folketinget, used for validation purposes. 
+
+Scripts
