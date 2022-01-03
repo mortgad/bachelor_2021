@@ -9,3 +9,5 @@ The project attempts to employ NLP methods to investigate intergroup behavior in
 - Scripts 08-09 implements the Wordshoal textmodel to test hypotheses regarding Optimal Distinctiveness Theory.
 - Script 10 implements a multivariate classifier to obtain measurements for polarization in Folketinget, used for validation purposes. 
 - Scripts 11-12 visualizes results obtained through the aforementioned NLP methods. 
+
+The data folder contains sample transcripts and csv-files. 
