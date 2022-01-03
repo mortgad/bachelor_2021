@@ -5,7 +5,7 @@ This repository contains scripts used to scrape transcripts from parliamentary d
 The project attempts to employ NLP methods to investigate intergroup behavior in Folketinget.  
 
 - Scripts 01-06 is for scraping and preprocessing.
-- Scripts 07 is for assessment and visualization of the data used as input. 
+- Scripts 07 is for assessment and visualization of the input data. 
 - Scripts 08-09 implements the Wordshoal textmodel and performs a statistical analysis to test hypotheses regarding Optimal Distinctiveness Theory.
 - Script 10 implements a multivariate classifier to obtain measurements for polarization in Folketinget, used for validation purposes. 
 - Scripts 11-12 visualizes results obtained through the aforementioned NLP methods. 
