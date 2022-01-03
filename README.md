@@ -10,4 +10,4 @@ Scripts 08-09 implements the Wordshoal textmodel and performs a statistical anal
 
 Script 10 implements a multivariate classifier to obtain measurements for polarization in Folketinget, used for validation purposes. 
 
-Scripts
+Scripts 11-12 visualizes results obtained through the aforementioned NLP methods. 
